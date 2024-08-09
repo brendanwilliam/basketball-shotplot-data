@@ -1,0 +1,985 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2324-G0964,2,11:02,NOP,,LAC,,D. Theis,LAC,MISS Theis 25' 3PT Jump Shot,Missed Shot,Jump Shot,-194,164,25,1,3.0,0.0,v
+S2324-G0964,2,10:22,NOP,,LAC,,D. Theis,LAC,Theis S.FOUL (P1.T1) (M.Boland),Foul,Shooting,0,0,0,0,,,v
+S2324-G0964,2,09:50,NOP,,LAC,,D. Theis,LAC,Theis REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0964,2,09:10,NOP,,LAC,,D. Theis,LAC,MISS Theis 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-4,28,3,1,2.0,0.0,v
+S2324-G0964,2,09:04,NOP,,LAC,,D. Theis,LAC,SUB: Zubac FOR Theis,Substitution,,0,0,0,0,,,v
+S2324-G0568,1,04:05,LAC,,OKC,,D. Theis,LAC,Theis Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0568,1,02:35,LAC,,OKC,,D. Theis,LAC,Theis REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0568,1,02:29,LAC,,OKC,,D. Theis,LAC,MISS Theis 27' 3PT Jump Shot,Missed Shot,Jump Shot,145,222,27,1,3.0,0.0,h
+S2324-G0568,1,01:24,LAC,,OKC,,D. Theis,LAC,Theis REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0568,1,01:14,LAC,,OKC,,D. Theis,LAC,Theis REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0568,1,01:14,LAC,,OKC,,D. Theis,LAC,MISS Theis Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2324-G0568,1,00:29.700000,LAC,,OKC,,D. Theis,LAC,Theis BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0568,1,00:02.400000,LAC,,OKC,,D. Theis,LAC,Theis BLOCK (2 BLK),,,0,0,0,0,,,h
+S2324-G0568,1,00:01.300000,LAC,,OKC,,D. Theis,LAC,Theis REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0568,2,11:42,LAC,,OKC,,D. Theis,LAC,Theis REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0568,2,11:41,LAC,37.0,OKC,30.0,D. Theis,LAC,Theis 2' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,-6,22,2,1,2.0,2.0,h
+S2324-G0568,2,10:47,LAC,,OKC,,D. Theis,LAC,Theis S.FOUL (P1.T1) (A.Nagy),Foul,Shooting,0,0,0,0,,,h
+S2324-G0568,2,09:06,LAC,,OKC,,D. Theis,LAC,Theis Bad Pass Turnover (P2.T5),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0568,2,09:01,LAC,,OKC,,D. Theis,LAC,SUB: Plumlee FOR Theis,Substitution,,0,0,0,0,,,h
+S2324-G0568,3,01:05,LAC,96.0,OKC,86.0,D. Theis,LAC,Theis 24' 3PT Jump Shot (5 PTS) (Powell 1 AST),Made Shot,Jump Shot,232,59,24,1,3.0,3.0,h
+S2324-G0568,4,11:49,LAC,,OKC,,D. Theis,LAC,Theis P.FOUL (P2.T1) (A.Smith),Foul,Personal,0,0,0,0,,,h
+S2324-G0568,4,10:58,LAC,,OKC,,D. Theis,LAC,Theis REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0568,4,10:49,LAC,,OKC,,D. Theis,LAC,Theis REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0568,4,10:48,LAC,101.0,OKC,89.0,D. Theis,LAC,Theis 2' Putback Layup (7 PTS),Made Shot,Putback Layup Shot,-7,15,2,1,2.0,2.0,h
+S2324-G0568,4,10:34,LAC,,OKC,,D. Theis,LAC,Theis S.FOUL (P3.T2) (J.Capers),Foul,Shooting,0,0,0,0,,,h
+S2324-G0568,4,07:28,LAC,,OKC,,D. Theis,LAC,Theis REBOUND (Off:5 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0568,4,07:28,LAC,108.0,OKC,104.0,D. Theis,LAC,Theis Tip Layup Shot (9 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2324-G0568,4,05:03,LAC,,OKC,,D. Theis,LAC,Theis BLOCK (3 BLK),,,0,0,0,0,,,h
+S2324-G0568,4,04:56,LAC,,OKC,,D. Theis,LAC,SUB: Plumlee FOR Theis,Substitution,,0,0,0,0,,,h
+S2324-G0600,1,03:48,LAC,,BKN,,D. Theis,LAC,Theis BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0600,1,02:18,LAC,,BKN,,D. Theis,LAC,MISS Theis 27' 3PT Jump Shot,Missed Shot,Jump Shot,-64,263,27,1,3.0,0.0,h
+S2324-G0600,1,02:02,LAC,,BKN,,D. Theis,LAC,Theis REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0600,1,01:39,LAC,,BKN,,D. Theis,LAC,Theis S.FOUL (P1.T2) (J.Butler),Foul,Shooting,0,0,0,0,,,h
+S2324-G0600,1,00:22.800000,LAC,24.0,BKN,27.0,D. Theis,LAC,Theis 4' Cutting Dunk Shot (2 PTS) (Westbrook 1 AST),Made Shot,Cutting Dunk Shot,-9,34,4,1,2.0,2.0,h
+S2324-G0600,2,08:43,LAC,,BKN,,D. Theis,LAC,Theis 3 Second Violation Turnover (P1.T5),Turnover,3 Second Violation,0,0,0,0,,,h
+S2324-G0600,2,08:26,LAC,,BKN,,D. Theis,LAC,SUB: Plumlee FOR Theis,Substitution,,0,0,0,0,,,h
+S2324-G0600,3,01:58,LAC,77.0,BKN,90.0,D. Theis,LAC,Theis 2' Cutting Layup Shot (4 PTS) (Leonard 4 AST),Made Shot,Cutting Layup Shot,-16,10,2,1,2.0,2.0,h
+S2324-G0600,3,01:13,LAC,79.0,BKN,95.0,D. Theis,LAC,Theis 6' Floating Jump Shot (6 PTS) (Westbrook 3 AST),Made Shot,Floating Jump shot,4,58,6,1,2.0,2.0,h
+S2324-G0600,3,00:02.700000,LAC,,BKN,,D. Theis,LAC,Theis REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0600,4,11:21,LAC,,BKN,,D. Theis,LAC,Theis REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0600,4,11:21,LAC,,BKN,,D. Theis,LAC,MISS Theis 5' Putback Layup,Missed Shot,Putback Layup Shot,6,50,5,1,2.0,0.0,h
+S2324-G0600,4,10:31,LAC,,BKN,,D. Theis,LAC,Theis BLOCK (2 BLK),,,0,0,0,0,,,h
+S2324-G0600,4,07:14,LAC,101.0,BKN,108.0,D. Theis,LAC,Theis 1' Cutting Dunk Shot (8 PTS) (Harden 8 AST),Made Shot,Cutting Dunk Shot,0,-7,1,1,2.0,2.0,h
+S2324-G0600,4,06:27,LAC,,BKN,,D. Theis,LAC,SUB: Leonard FOR Theis,Substitution,,0,0,0,0,,,h
+S2324-G0505,1,03:51,LAL,,LAC,,D. Theis,LAC,Theis REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0505,1,00:50,LAL,,LAC,,D. Theis,LAC,Theis BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0505,1,00:01.400000,LAL,,LAC,,D. Theis,LAC,Theis REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0505,2,10:42,LAL,,LAC,,D. Theis,LAC,MISS Theis 12' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,51,110,12,1,2.0,0.0,v
+S2324-G0505,2,09:27,LAL,,LAC,,D. Theis,LAC,SUB: Zubac FOR Theis,Substitution,,0,0,0,0,,,v
+S2324-G0505,3,01:19,LAL,,LAC,,D. Theis,LAC,MISS Theis 2' Reverse Layup,Missed Shot,Reverse Layup Shot,-5,21,2,1,2.0,0.0,v
+S2324-G0505,3,01:17,LAL,,LAC,,D. Theis,LAC,Theis REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0505,3,00:34.500000,LAL,79.0,LAC,77.0,D. Theis,LAC,Theis 3' Hook Shot (2 PTS) (Westbrook 3 AST),Made Shot,Hook Shot,-11,26,3,1,2.0,2.0,v
+S2324-G0944,1,02:19,LAC,,MIN,,D. Theis,LAC,Theis REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0944,1,01:24,LAC,,MIN,,D. Theis,LAC,Theis Violation:Kicked Ball (K.Scott),Violation,Kicked Ball,0,0,0,0,,,h
+S2324-G0944,1,00:00.800000,LAC,33.0,MIN,21.0,D. Theis,LAC,Theis 2' Cutting Layup Shot (2 PTS) (Hyland 1 AST),Made Shot,Cutting Layup Shot,-13,17,2,1,2.0,2.0,h
+S2324-G0944,1,00:00.800000,LAC,34.0,MIN,21.0,D. Theis,LAC,Theis Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G0944,2,11:06,LAC,39.0,MIN,24.0,D. Theis,LAC,Theis 26' 3PT Jump Shot (6 PTS) (George 2 AST),Made Shot,Jump Shot,18,264,26,1,3.0,3.0,h
+S2324-G0944,2,10:20,LAC,,MIN,,D. Theis,LAC,Theis REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0944,2,10:20,LAC,41.0,MIN,27.0,D. Theis,LAC,Theis Tip Layup Shot (8 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2324-G0944,2,10:08,LAC,,MIN,,D. Theis,LAC,Theis STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0944,2,09:51,LAC,,MIN,,D. Theis,LAC,Theis Violation:Kicked Ball (K.Scott),Violation,Kicked Ball,0,0,0,0,,,h
+S2324-G0944,2,09:26,LAC,,MIN,,D. Theis,LAC,Theis REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0944,2,08:15,LAC,,MIN,,D. Theis,LAC,MISS Theis 4' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,31,18,4,1,2.0,0.0,h
+S2324-G0944,2,07:53,LAC,,MIN,,D. Theis,LAC,Theis Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0944,2,07:38,LAC,,MIN,,D. Theis,LAC,SUB: Zubac FOR Theis,Substitution,,0,0,0,0,,,h
+S2324-G0944,2,00:36.600000,LAC,,MIN,,D. Theis,LAC,SUB: Coffey FOR Theis,Substitution,,0,0,0,0,,,h
+S2324-G0944,3,06:45,LAC,,MIN,,D. Theis,LAC,Theis REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0944,3,02:58,LAC,78.0,MIN,78.0,D. Theis,LAC,Theis 3' Cutting Layup Shot (10 PTS) (George 3 AST),Made Shot,Cutting Layup Shot,23,17,3,1,2.0,2.0,h
+S2324-G0944,3,02:41,LAC,,MIN,,D. Theis,LAC,Theis BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0944,3,00:35.700000,LAC,,MIN,,D. Theis,LAC,Theis BLOCK (2 BLK),,,0,0,0,0,,,h
+S2324-G0379,3,06:34,OKC,,LAC,,D. Theis,LAC,Theis Lost Ball Turnover (P1.T9),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0379,3,04:46,OKC,,LAC,,D. Theis,LAC,Theis BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0379,3,04:35,OKC,,LAC,,D. Theis,LAC,Theis P.FOUL (P1.T3) (D.Collins),Foul,Personal,0,0,0,0,,,v
+S2324-G0379,3,03:36,OKC,91.0,LAC,80.0,D. Theis,LAC,Theis 2' Cutting Layup Shot (2 PTS) (George 3 AST),Made Shot,Cutting Layup Shot,16,8,2,1,2.0,2.0,v
+S2324-G0379,3,03:08,OKC,94.0,LAC,82.0,D. Theis,LAC,Theis 1' Alley Oop Dunk (4 PTS) (George 4 AST),Made Shot,Alley Oop Dunk Shot,-7,10,1,1,2.0,2.0,v
+S2324-G0379,3,00:39.300000,OKC,,LAC,,D. Theis,LAC,SUB: Mann FOR Theis,Substitution,,0,0,0,0,,,v
+S2324-G0379,4,06:38,OKC,,LAC,,D. Theis,LAC,Theis REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0379,4,04:52,OKC,,LAC,,D. Theis,LAC,Theis Lost Ball Turnover (P2.T15),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0553,1,11:16,MIN,0.0,LAC,3.0,D. Theis,LAC,Theis 24' 3PT Jump Shot (3 PTS) (Harden 1 AST),Made Shot,Jump Shot,-148,195,24,1,3.0,3.0,v
+S2324-G0553,1,10:56,MIN,,LAC,,D. Theis,LAC,Theis REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0553,1,10:01,MIN,,LAC,,D. Theis,LAC,Theis REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0553,1,05:12,MIN,,LAC,,D. Theis,LAC,MISS Theis 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-222,36,0,1,3.0,0.0,v
+S2324-G0553,1,04:50,MIN,,LAC,,D. Theis,LAC,Theis REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0553,1,04:41,MIN,,LAC,,D. Theis,LAC,SUB: Westbrook FOR Theis,Substitution,,0,0,0,0,,,v
+S2324-G0553,2,06:50,MIN,,LAC,,D. Theis,LAC,Theis REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0553,2,03:51,MIN,,LAC,,D. Theis,LAC,Theis STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0553,2,03:01,MIN,,LAC,,D. Theis,LAC,Theis S.FOUL (P1.PN) (T.Washington),Foul,Shooting,0,0,0,0,,,v
+S2324-G0553,3,09:25,MIN,,LAC,,D. Theis,LAC,Theis P.FOUL (P2.T3) (Z.Zarba),Foul,Personal,0,0,0,0,,,v
+S2324-G0553,3,09:24,MIN,,LAC,,D. Theis,LAC,Theis P.FOUL (P3.T4) (Z.Zarba),Foul,Personal,0,0,0,0,,,v
+S2324-G0553,3,06:23,MIN,,LAC,,D. Theis,LAC,MISS Theis 9' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,89,26,9,1,2.0,0.0,v
+S2324-G0553,3,05:52,MIN,,LAC,,D. Theis,LAC,SUB: Plumlee FOR Theis,Substitution,,0,0,0,0,,,v
+S2324-G0553,4,00:25.200000,MIN,,LAC,,D. Theis,LAC,SUB: Powell FOR Theis,Substitution,,0,0,0,0,,,v
+S2324-G0343,1,00:57.300000,LAC,,NYK,,D. Theis,LAC,Theis S.FOUL (P1.PN) (B.Schwab),Foul,Shooting,0,0,0,0,,,h
+S2324-G0343,1,00:12,LAC,,NYK,,D. Theis,LAC,SUB: Mann FOR Theis,Substitution,,0,0,0,0,,,h
+S2324-G0343,2,11:45,LAC,,NYK,,D. Theis,LAC,Theis REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0343,2,10:24,LAC,39.0,NYK,37.0,D. Theis,LAC,Theis 2' Alley Oop Layup (2 PTS) (Harden 4 AST),Made Shot,Alley Oop Layup shot,23,6,2,1,2.0,2.0,h
+S2324-G0343,2,09:53,LAC,,NYK,,D. Theis,LAC,MISS Theis 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-23,9,2,1,2.0,0.0,h
+S2324-G0343,2,09:28,LAC,,NYK,,D. Theis,LAC,MISS Theis Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0343,2,09:28,LAC,43.0,NYK,39.0,D. Theis,LAC,Theis Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0343,2,09:17,LAC,,NYK,,D. Theis,LAC,Theis S.FOUL (P2.T2) (B.Schwab),Foul,Shooting,0,0,0,0,,,h
+S2324-G0343,2,08:05,LAC,49.0,NYK,43.0,D. Theis,LAC,Theis Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0343,2,08:05,LAC,50.0,NYK,43.0,D. Theis,LAC,Theis Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0343,2,07:36,LAC,51.0,NYK,46.0,D. Theis,LAC,Theis Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0343,2,07:36,LAC,52.0,NYK,46.0,D. Theis,LAC,Theis Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0343,2,07:03,LAC,,NYK,,D. Theis,LAC,Theis S.FOUL (P3.T3) (C.Washington),Foul,Shooting,0,0,0,0,,,h
+S2324-G0343,2,07:03,LAC,,NYK,,D. Theis,LAC,SUB: Zubac FOR Theis,Substitution,,0,0,0,0,,,h
+S2324-G0343,4,11:37,LAC,,NYK,,D. Theis,LAC,Theis S.FOUL (P4.T1) (B.Forte),Foul,Shooting,0,0,0,0,,,h
+S2324-G0343,4,10:43,LAC,,NYK,,D. Theis,LAC,Theis STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0343,4,10:25,LAC,,NYK,,D. Theis,LAC,Theis Violation:Kicked Ball (C.Washington),Violation,Kicked Ball,0,0,0,0,,,h
+S2324-G0343,4,10:17,LAC,,NYK,,D. Theis,LAC,Theis Violation:Defensive Goaltending (B.Forte),Violation,Defensive Goaltending,0,0,0,0,,,h
+S2324-G0343,4,09:58,LAC,,NYK,,D. Theis,LAC,MISS Theis 3' Layup,Missed Shot,Layup Shot,-23,22,3,1,2.0,0.0,h
+S2324-G0343,4,07:27,LAC,,NYK,,D. Theis,LAC,SUB: Zubac FOR Theis,Substitution,,0,0,0,0,,,h
+S2324-G0637,1,01:16,TOR,,LAC,,D. Theis,LAC,Theis REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0637,2,10:00,TOR,,LAC,,D. Theis,LAC,Theis Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0637,2,05:34,TOR,40.0,LAC,52.0,D. Theis,LAC,Theis Cutting Dunk Shot (2 PTS) (Harden 6 AST),Made Shot,Cutting Dunk Shot,1,2,0,1,2.0,2.0,v
+S2324-G0637,2,05:13,TOR,,LAC,,D. Theis,LAC,SUB: Plumlee FOR Theis,Substitution,,0,0,0,0,,,v
+S2324-G0637,3,01:25,TOR,,LAC,,D. Theis,LAC,MISS Theis 1' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,9,1,1,1,2.0,0.0,v
+S2324-G0637,3,01:10,TOR,,LAC,,D. Theis,LAC,Theis REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0637,3,00:31.800000,TOR,,LAC,,D. Theis,LAC,Theis REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0637,3,00:29,TOR,,LAC,,D. Theis,LAC,Theis REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0637,3,00:28.900000,TOR,79.0,LAC,95.0,D. Theis,LAC,Theis Tip Dunk Shot (4 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,v
+S2324-G0637,4,11:38,TOR,81.0,LAC,97.0,D. Theis,LAC,Theis Running Layup (6 PTS) (Coffey 1 AST),Made Shot,Running Layup Shot,-4,1,0,1,2.0,2.0,v
+S2324-G0637,4,08:47,TOR,,LAC,,D. Theis,LAC,Theis S.FOUL (P1.PN) (J.DeRosa),Foul,Shooting,0,0,0,0,,,v
+S2324-G0637,4,08:23,TOR,,LAC,,D. Theis,LAC,Theis Bad Pass Turnover (P2.T9),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0637,4,07:37,TOR,,LAC,,D. Theis,LAC,SUB: George FOR Theis,Substitution,,0,0,0,0,,,v
+S2324-G0676,1,01:23,WAS,,LAC,,D. Theis,LAC,Theis S.FOUL (P1.T3) (S.Twardoski),Foul,Shooting,0,0,0,0,,,v
+S2324-G0676,1,01:21,WAS,,LAC,,D. Theis,LAC,Theis REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0676,1,00:25.600000,WAS,35.0,LAC,37.0,D. Theis,LAC,Theis 3' Cutting Layup Shot (2 PTS) (Westbrook 4 AST),Made Shot,Cutting Layup Shot,-31,13,3,1,2.0,2.0,v
+S2324-G0676,2,11:49,WAS,,LAC,,D. Theis,LAC,MISS Theis 7' Floating Jump Shot,Missed Shot,Floating Jump shot,56,39,7,1,2.0,0.0,v
+S2324-G0676,2,11:28,WAS,35.0,LAC,39.0,D. Theis,LAC,Theis Running Dunk (4 PTS) (Harden 3 AST),Made Shot,Running Dunk Shot,0,1,0,1,2.0,2.0,v
+S2324-G0676,2,10:37,WAS,,LAC,,D. Theis,LAC,MISS Theis 25' 3PT Jump Shot,Missed Shot,Jump Shot,50,241,25,1,3.0,0.0,v
+S2324-G0676,2,09:41,WAS,,LAC,,D. Theis,LAC,Theis P.FOUL (P2.T1) (J.Orr),Foul,Personal,0,0,0,0,,,v
+S2324-G0676,2,09:09,WAS,,LAC,,D. Theis,LAC,SUB: Mann FOR Theis,Substitution,,0,0,0,0,,,v
+S2324-G0676,4,09:42,WAS,,LAC,,D. Theis,LAC,Theis STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0676,4,07:58,WAS,,LAC,,D. Theis,LAC,Theis P.FOUL (P3.T3) (S.Twardoski),Foul,Personal,0,0,0,0,,,v
+S2324-G0676,4,06:20,WAS,,LAC,,D. Theis,LAC,Theis BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0676,4,01:55,WAS,,LAC,,D. Theis,LAC,Theis REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0676,4,01:54,WAS,,LAC,,D. Theis,LAC,MISS Theis 2' Tip Layup Shot,Missed Shot,Tip Layup Shot,-7,21,2,1,2.0,0.0,v
+S2324-G0924,1,04:58,LAC,,MIL,,D. Theis,LAC,Theis REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0924,1,04:18,LAC,,MIL,,D. Theis,LAC,MISS Theis 25' 3PT Jump Shot,Missed Shot,Jump Shot,-66,237,25,1,3.0,0.0,h
+S2324-G0924,1,02:33,LAC,,MIL,,D. Theis,LAC,Theis P.FOUL (P1.T3) (J.DeRosa),Foul,Personal,0,0,0,0,,,h
+S2324-G0924,1,01:24,LAC,,MIL,,D. Theis,LAC,Theis REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0924,1,01:14,LAC,,MIL,,D. Theis,LAC,Theis REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0924,1,00:58.500000,LAC,,MIL,,D. Theis,LAC,SUB: Zubac FOR Theis,Substitution,,0,0,0,0,,,h
+S2324-G0924,2,01:35,LAC,57.0,MIL,57.0,D. Theis,LAC,Theis 10' Floating Jump Shot (2 PTS) (Harden 4 AST),Made Shot,Floating Jump shot,28,91,10,1,2.0,2.0,h
+S2324-G0924,2,01:20,LAC,,MIL,,D. Theis,LAC,Theis BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0924,2,00:07.600000,LAC,,MIL,,D. Theis,LAC,SUB: Harden FOR Theis,Substitution,,0,0,0,0,,,h
+S2324-G0924,3,02:33,LAC,,MIL,,D. Theis,LAC,Theis REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0924,3,00:50.800000,LAC,,MIL,,D. Theis,LAC,Theis REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0924,3,00:30.700000,LAC,,MIL,,D. Theis,LAC,Theis BLOCK (2 BLK),,,0,0,0,0,,,h
+S2324-G0924,4,10:12,LAC,,MIL,,D. Theis,LAC,Theis REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0924,4,08:10,LAC,,MIL,,D. Theis,LAC,Theis P.FOUL (P2.T3) (M.Kallio),Foul,Personal,0,0,0,0,,,h
+S2324-G0924,4,08:10,LAC,,MIL,,D. Theis,LAC,SUB: Zubac FOR Theis,Substitution,,0,0,0,0,,,h
+S2324-G1017,1,02:28,POR,,LAC,,D. Theis,LAC,Theis REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1017,1,02:26,POR,20.0,LAC,34.0,D. Theis,LAC,Theis Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2324-G1017,2,10:19,POR,29.0,LAC,49.0,D. Theis,LAC,Theis 3' Driving Dunk (4 PTS) (Harden 2 AST),Made Shot,Driving Dunk Shot,-22,16,3,1,2.0,2.0,v
+S2324-G1017,2,09:28,POR,,LAC,,D. Theis,LAC,Theis Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G1017,2,08:35,POR,,LAC,,D. Theis,LAC,Theis REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1017,2,07:11,POR,,LAC,,D. Theis,LAC,Theis BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G1017,2,07:11,POR,,LAC,,D. Theis,LAC,SUB: Zubac FOR Theis,Substitution,,0,0,0,0,,,v
+S2324-G1017,2,01:21,POR,,LAC,,D. Theis,LAC,MISS Theis 17' Floating Jump Shot,Missed Shot,Floating Jump shot,-74,151,17,1,2.0,0.0,v
+S2324-G1017,2,00:30.300000,POR,,LAC,,D. Theis,LAC,Theis S.FOUL (P1.PN) (P.Ransom),Foul,Shooting,0,0,0,0,,,v
+S2324-G1017,3,06:26,POR,,LAC,,D. Theis,LAC,Theis P.FOUL (P2.PN) (E.Malloy),Foul,Personal,0,0,0,0,,,v
+S2324-G1017,3,05:56,POR,,LAC,,D. Theis,LAC,MISS Theis 25' 3PT Jump Shot,Missed Shot,Jump Shot,32,245,25,1,3.0,0.0,v
+S2324-G1017,3,05:46,POR,,LAC,,D. Theis,LAC,Theis BLOCK (2 BLK),,,0,0,0,0,,,v
+S2324-G1017,3,04:07,POR,71.0,LAC,94.0,D. Theis,LAC,Theis 9' Fadeaway Jumper (6 PTS) (Mann 4 AST),Made Shot,Fadeaway Jump Shot,1,87,9,1,2.0,2.0,v
+S2324-G1017,3,01:23,POR,,LAC,,D. Theis,LAC,Theis REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1017,3,00:54.200000,POR,,LAC,,D. Theis,LAC,Theis Violation:Defensive Goaltending (E.Malloy),Violation,Defensive Goaltending,0,0,0,0,,,v
+S2324-G1017,4,11:08,POR,,LAC,,D. Theis,LAC,Theis REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1017,4,09:24,POR,,LAC,,D. Theis,LAC,SUB: Plumlee FOR Theis,Substitution,,0,0,0,0,,,v
+S2324-G0309,1,00:56.300000,LAC,32.0,SAC,24.0,D. Theis,LAC,Theis 2' Cutting Dunk Shot (2 PTS) (Leonard 2 AST),Made Shot,Cutting Dunk Shot,9,17,2,1,2.0,2.0,h
+S2324-G0309,1,00:09.300000,LAC,,SAC,,D. Theis,LAC,MISS Theis 10' Jump Shot,Missed Shot,Jump Shot,54,89,10,1,2.0,0.0,h
+S2324-G0309,2,10:40,LAC,,SAC,,D. Theis,LAC,MISS Theis 5' Floating Jump Shot,Missed Shot,Floating Jump shot,25,38,5,1,2.0,0.0,h
+S2324-G0309,2,08:54,LAC,48.0,SAC,32.0,D. Theis,LAC,Theis 3' Cutting Dunk Shot (4 PTS) (Harden 4 AST),Made Shot,Cutting Dunk Shot,-7,29,3,1,2.0,2.0,h
+S2324-G0309,2,08:43,LAC,,SAC,,D. Theis,LAC,Theis STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0309,2,07:49,LAC,,SAC,,D. Theis,LAC,MISS Theis 6' Floating Jump Shot,Missed Shot,Floating Jump shot,12,61,6,1,2.0,0.0,h
+S2324-G0309,2,07:48,LAC,,SAC,,D. Theis,LAC,Theis REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0309,2,07:46,LAC,52.0,SAC,33.0,D. Theis,LAC,Theis 1' Putback Layup (6 PTS),Made Shot,Putback Layup Shot,-4,6,1,1,2.0,2.0,h
+S2324-G0309,2,07:40,LAC,,SAC,,D. Theis,LAC,Theis Violation:Defensive Goaltending (R.Mott),Violation,Defensive Goaltending,0,0,0,0,,,h
+S2324-G0309,2,07:16,LAC,,SAC,,D. Theis,LAC,Theis S.FOUL (P1.T3) (R.Mott),Foul,Shooting,0,0,0,0,,,h
+S2324-G0309,2,07:16,LAC,,SAC,,D. Theis,LAC,SUB: George FOR Theis,Substitution,,0,0,0,0,,,h
+S2324-G0309,3,05:05,LAC,83.0,SAC,56.0,D. Theis,LAC,Theis 4' Running Layup (8 PTS) (Harden 7 AST),Made Shot,Running Layup Shot,4,37,4,1,2.0,2.0,h
+S2324-G0309,3,04:43,LAC,,SAC,,D. Theis,LAC,Theis REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0309,3,00:29.100000,LAC,,SAC,,D. Theis,LAC,Theis S.FOUL (P2.PN) (J.DeRosa),Foul,Shooting,0,0,0,0,,,h
+S2324-G0309,3,00:08.400000,LAC,,SAC,,D. Theis,LAC,SUB: Mann FOR Theis,Substitution,,0,0,0,0,,,h
+S2324-G0309,4,10:46,LAC,,SAC,,D. Theis,LAC,MISS Theis 3PT Jump Shot,Missed Shot,Jump Shot,-234,2,0,1,3.0,0.0,h
+S2324-G0309,4,10:27,LAC,,SAC,,D. Theis,LAC,Theis REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0309,4,08:45,LAC,,SAC,,D. Theis,LAC,SUB: Hyland FOR Theis,Substitution,,0,0,0,0,,,h
+S2324-G0827,1,00:50.300000,LAC,,SAC,,D. Theis,LAC,Theis Violation:Kicked Ball (Z.Zarba),Violation,Kicked Ball,0,0,0,0,,,h
+S2324-G0827,1,00:25.900000,LAC,,SAC,,D. Theis,LAC,MISS Theis 3PT Jump Shot,Missed Shot,Jump Shot,230,42,0,1,3.0,0.0,h
+S2324-G0827,2,11:14,LAC,,SAC,,D. Theis,LAC,Theis REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0827,2,10:33,LAC,,SAC,,D. Theis,LAC,Theis REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0827,2,10:32,LAC,30.0,SAC,29.0,D. Theis,LAC,Theis Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2324-G0827,2,09:25,LAC,,SAC,,D. Theis,LAC,Theis OFF.Foul (P1) (M.Kogut),Foul,Offensive,0,0,0,0,,,h
+S2324-G0827,2,09:25,LAC,,SAC,,D. Theis,LAC,Theis Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0827,2,09:16,LAC,,SAC,,D. Theis,LAC,Theis AWAY.FROM.PLAY.FOUL (P2.T3) (D.Taylor),Foul,Away From Play,0,0,0,0,,,h
+S2324-G0827,2,09:04,LAC,,SAC,,D. Theis,LAC,Theis BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0827,2,07:35,LAC,,SAC,,D. Theis,LAC,Theis REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0827,2,06:58,LAC,,SAC,,D. Theis,LAC,Theis REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0827,2,06:52,LAC,,SAC,,D. Theis,LAC,SUB: Zubac FOR Theis,Substitution,,0,0,0,0,,,h
+S2324-G0827,2,00:13,LAC,,SAC,,D. Theis,LAC,Theis P.FOUL (P3.PN) (D.Taylor),Foul,Personal,0,0,0,0,,,h
+S2324-G0827,2,00:13,LAC,,SAC,,D. Theis,LAC,SUB: Coffey FOR Theis,Substitution,,0,0,0,0,,,h
+S2324-G0827,3,01:48,LAC,,SAC,,D. Theis,LAC,Theis REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0827,3,00:39.800000,LAC,80.0,SAC,87.0,D. Theis,LAC,Theis 1' Dunk (4 PTS) (Coffey 1 AST),Made Shot,Dunk Shot,-4,5,1,1,2.0,2.0,h
+S2324-G0827,3,00:29.300000,LAC,,SAC,,D. Theis,LAC,SUB: Harden FOR Theis,Substitution,,0,0,0,0,,,h
+S2324-G0827,4,10:04,LAC,86.0,SAC,91.0,D. Theis,LAC,Theis 7' Floating Jump Shot (6 PTS) (Harden 7 AST),Made Shot,Floating Jump shot,-17,70,7,1,2.0,2.0,h
+S2324-G0827,4,07:42,LAC,,SAC,,D. Theis,LAC,SUB: Zubac FOR Theis,Substitution,,0,0,0,0,,,h
+S2324-G0827,4,01:03,LAC,,SAC,,D. Theis,LAC,Theis REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0827,4,01:03,LAC,107.0,SAC,120.0,D. Theis,LAC,Theis Putback Layup (8 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,h
+S2324-G0372,1,01:02,DAL,20.0,LAC,32.0,D. Theis,LAC,Theis 26' 3PT Jump Shot (3 PTS) (Leonard 1 AST),Made Shot,Jump Shot,154,204,26,1,3.0,3.0,v
+S2324-G0372,1,00:40.300000,DAL,,LAC,,D. Theis,LAC,Theis REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0372,2,10:32,DAL,,LAC,,D. Theis,LAC,MISS Theis Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0372,2,10:32,DAL,25.0,LAC,38.0,D. Theis,LAC,Theis Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0372,2,09:16,DAL,27.0,LAC,43.0,D. Theis,LAC,Theis 3PT Jump Shot (7 PTS) (Powell 2 AST),Made Shot,Jump Shot,-234,13,0,1,3.0,3.0,v
+S2324-G0372,2,08:55,DAL,27.0,LAC,45.0,D. Theis,LAC,Theis 5' Hook Shot (9 PTS) (Westbrook 1 AST),Made Shot,Hook Shot,-15,52,5,1,2.0,2.0,v
+S2324-G0372,2,08:43,DAL,,LAC,,D. Theis,LAC,Theis S.FOUL (P1.T2) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,v
+S2324-G0372,2,06:05,DAL,,LAC,,D. Theis,LAC,Theis S.FOUL (P2.T3) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,v
+S2324-G0372,2,04:58,DAL,,LAC,,D. Theis,LAC,SUB: Zubac FOR Theis,Substitution,,0,0,0,0,,,v
+S2324-G0372,4,10:57,DAL,,LAC,,D. Theis,LAC,Theis REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0372,4,10:50,DAL,83.0,LAC,90.0,D. Theis,LAC,Theis 1' Reverse Layup (11 PTS) (Harden 10 AST),Made Shot,Reverse Layup Shot,-4,11,1,1,2.0,2.0,v
+S2324-G0372,4,09:22,DAL,,LAC,,D. Theis,LAC,Theis S.FOUL (P3.T3) (M.Kallio),Foul,Shooting,0,0,0,0,,,v
+S2324-G0372,4,09:04,DAL,,LAC,,D. Theis,LAC,Theis S.FOUL (P4.T4) (J.Tiven),Foul,Shooting,0,0,0,0,,,v
+S2324-G0372,4,07:24,DAL,,LAC,,D. Theis,LAC,SUB: Leonard FOR Theis,Substitution,,0,0,0,0,,,v
+S2324-G0688,1,04:34,DET,,LAC,,D. Theis,LAC,Theis BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0688,1,02:39,DET,,LAC,,D. Theis,LAC,Theis S.FOUL (P1.T2) (B.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2324-G0688,1,01:12,DET,,LAC,,D. Theis,LAC,Theis REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0688,1,01:12,DET,,LAC,,D. Theis,LAC,Theis Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0688,1,00:51.600000,DET,,LAC,,D. Theis,LAC,Theis OFF.Foul (P2) (J.Sterling),Foul,Offensive,0,0,0,0,,,v
+S2324-G0688,1,00:51.600000,DET,,LAC,,D. Theis,LAC,Theis Offensive Foul Turnover (P2.T4),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0688,1,00:10.500000,DET,31.0,LAC,27.0,D. Theis,LAC,Theis 2' Driving Layup (2 PTS) (Westbrook 5 AST),Made Shot,Driving Layup Shot,18,10,2,1,2.0,2.0,v
+S2324-G0688,2,09:49,DET,,LAC,,D. Theis,LAC,Theis REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0688,2,09:46,DET,,LAC,,D. Theis,LAC,SUB: George FOR Theis,Substitution,,0,0,0,0,,,v
+S2324-G0688,3,01:16,DET,,LAC,,D. Theis,LAC,Theis BLOCK (2 BLK),,,0,0,0,0,,,v
+S2324-G0688,4,10:34,DET,,LAC,,D. Theis,LAC,MISS Theis Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0688,4,10:34,DET,92.0,LAC,109.0,D. Theis,LAC,Theis Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0688,4,10:01,DET,,LAC,,D. Theis,LAC,MISS Theis 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,261,26,1,3.0,0.0,v
+S2324-G0688,4,09:04,DET,99.0,LAC,114.0,D. Theis,LAC,Theis 1' Dunk (5 PTS) (Westbrook 7 AST),Made Shot,Dunk Shot,9,-5,1,1,2.0,2.0,v
+S2324-G0688,4,08:49,DET,,LAC,,D. Theis,LAC,Theis S.FOUL (P3.T1) (J.Sterling),Foul,Shooting,0,0,0,0,,,v
+S2324-G0688,4,06:51,DET,,LAC,,D. Theis,LAC,Theis STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0688,4,06:25,DET,,LAC,,D. Theis,LAC,Theis REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0688,4,06:18,DET,,LAC,,D. Theis,LAC,SUB: Leonard FOR Theis,Substitution,,0,0,0,0,,,v
+S2324-G0325,1,02:28,LAC,,GSW,,D. Theis,LAC,MISS Theis 25' 3PT Jump Shot,Missed Shot,Jump Shot,-115,227,25,1,3.0,0.0,h
+S2324-G0325,1,01:49,LAC,,GSW,,D. Theis,LAC,MISS Theis 14' Jump Shot,Missed Shot,Jump Shot,97,96,14,1,2.0,0.0,h
+S2324-G0325,1,01:18,LAC,,GSW,,D. Theis,LAC,Theis STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0325,1,00:53.500000,LAC,26.0,GSW,26.0,D. Theis,LAC,Theis Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0325,1,00:53.500000,LAC,27.0,GSW,26.0,D. Theis,LAC,Theis Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0325,1,00:34.500000,LAC,,GSW,,D. Theis,LAC,Theis L.B.FOUL (P1.T4) (A.Smith),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0325,2,08:57,LAC,,GSW,,D. Theis,LAC,Theis REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0325,2,08:45,LAC,40.0,GSW,33.0,D. Theis,LAC,Theis Free Throw Flagrant 1 of 2 (3 PTS),Free Throw,Free Throw Flagrant 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0325,2,08:45,LAC,41.0,GSW,33.0,D. Theis,LAC,Theis Free Throw Flagrant 2 of 2 (4 PTS),Free Throw,Free Throw Flagrant 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0325,2,07:13,LAC,,GSW,,D. Theis,LAC,Theis BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0325,2,06:47,LAC,,GSW,,D. Theis,LAC,SUB: Zubac FOR Theis,Substitution,,0,0,0,0,,,h
+S2324-G0325,3,00:48.100000,LAC,,GSW,,D. Theis,LAC,Theis S.FOUL (P2.T3) (P.Ransom),Foul,Shooting,0,0,0,0,,,h
+S2324-G0325,4,07:50,LAC,,GSW,,D. Theis,LAC,SUB: Zubac FOR Theis,Substitution,,0,0,0,0,,,h
+S2324-G1165,1,04:43,LAC,,PHX,,D. Theis,LAC,Theis L.B.FOUL (P1.T4) (S.Twardoski),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G1165,1,04:30,LAC,,PHX,,D. Theis,LAC,Theis REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1165,1,04:21,LAC,,PHX,,D. Theis,LAC,MISS Theis 27' 3PT Jump Shot,Missed Shot,Jump Shot,-103,246,27,1,3.0,0.0,h
+S2324-G1165,1,02:39,LAC,,PHX,,D. Theis,LAC,Theis REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1165,1,02:16,LAC,,PHX,,D. Theis,LAC,Theis REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1165,1,00:09.300000,LAC,27.0,PHX,28.0,D. Theis,LAC,Theis 2' Alley Oop Dunk (2 PTS) (Hyland 4 AST),Made Shot,Alley Oop Dunk Shot,22,11,2,1,2.0,2.0,h
+S2324-G1165,2,11:51,LAC,,PHX,,D. Theis,LAC,Theis Traveling Turnover (P1.T4),Turnover,Traveling,0,0,0,0,,,h
+S2324-G1165,2,10:30,LAC,,PHX,,D. Theis,LAC,Theis Lost Ball Turnover (P2.T5),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G1165,2,10:07,LAC,,PHX,,D. Theis,LAC,Theis Lost Ball Turnover (P3.T6),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G1165,2,09:16,LAC,,PHX,,D. Theis,LAC,Theis Violation:Kicked Ball (S.Twardoski),Violation,Kicked Ball,0,0,0,0,,,h
+S2324-G1165,2,07:57,LAC,,PHX,,D. Theis,LAC,SUB: Plumlee FOR Theis,Substitution,,0,0,0,0,,,h
+S2324-G0037,1,03:16,LAC,,HOU,,D. Theis,LAC,Theis REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0037,1,02:50,LAC,,HOU,,D. Theis,LAC,Theis REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0037,1,02:19,LAC,,HOU,,D. Theis,LAC,Theis Violation:Defensive Goaltending (A.Moyer-Gleich),Violation,Defensive Goaltending,0,0,0,0,,,h
+S2324-G0037,1,02:07,LAC,,HOU,,D. Theis,LAC,MISS Theis 4' Layup,Missed Shot,Layup Shot,18,37,4,1,2.0,0.0,h
+S2324-G0037,3,05:21,LAC,,HOU,,D. Theis,LAC,MISS Theis Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0037,3,05:21,LAC,,HOU,,D. Theis,LAC,MISS Theis Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0037,3,04:35,LAC,,HOU,,D. Theis,LAC,Theis Violation:Kicked Ball (A.Moyer-Gleich),Violation,Kicked Ball,0,0,0,0,,,h
+S2324-G0037,3,02:50,LAC,,HOU,,D. Theis,LAC,Theis REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0037,3,02:34,LAC,,HOU,,D. Theis,LAC,MISS Theis 3PT Jump Shot,Missed Shot,Jump Shot,232,27,0,1,3.0,0.0,h
+S2324-G0037,3,02:13,LAC,73.0,HOU,68.0,D. Theis,LAC,Theis 1' Cutting Dunk Shot (2 PTS) (Westbrook 2 AST),Made Shot,Cutting Dunk Shot,-7,3,1,1,2.0,2.0,h
+S2324-G0037,3,01:58,LAC,,HOU,,D. Theis,LAC,Theis STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0037,3,01:48,LAC,,HOU,,D. Theis,LAC,Theis S.FOUL (P1.PN) (C.Kirkland),Foul,Shooting,0,0,0,0,,,h
+S2324-G0037,3,00:31.800000,LAC,,HOU,,D. Theis,LAC,Theis P.FOUL (P2.PN) (C.Kirkland),Foul,Personal,0,0,0,0,,,h
+S2324-G0037,3,00:28.600000,LAC,,HOU,,D. Theis,LAC,SUB: Mann FOR Theis,Substitution,,0,0,0,0,,,h
+S2324-G0257,1,01:01,LAC,,DEN,,D. Theis,LAC,Theis REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0257,1,01:01,LAC,,DEN,,D. Theis,LAC,MISS Theis Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2324-G0257,1,00:48.900000,LAC,26.0,DEN,25.0,D. Theis,LAC,Theis 2' Cutting Dunk Shot (2 PTS) (Harden 2 AST),Made Shot,Cutting Dunk Shot,-20,0,2,1,2.0,2.0,h
+S2324-G0257,1,00:40.600000,LAC,,DEN,,D. Theis,LAC,Theis BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0257,1,00:33.100000,LAC,28.0,DEN,25.0,D. Theis,LAC,Theis 2' Cutting Layup Shot (4 PTS) (Westbrook 1 AST),Made Shot,Cutting Layup Shot,-2,16,2,1,2.0,2.0,h
+S2324-G0257,2,08:36,LAC,,DEN,,D. Theis,LAC,Theis OFF.Foul (P1) (L.Holtkamp),Foul,Offensive,0,0,0,0,,,h
+S2324-G0257,2,08:36,LAC,,DEN,,D. Theis,LAC,Theis Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0257,2,08:36,LAC,,DEN,,D. Theis,LAC,SUB: Zubac FOR Theis,Substitution,,0,0,0,0,,,h
+S2324-G0257,3,01:49,LAC,,DEN,,D. Theis,LAC,Theis P.FOUL (P2.PN) (J.Williams),Foul,Personal,0,0,0,0,,,h
+S2324-G0257,3,01:07,LAC,,DEN,,D. Theis,LAC,Theis BLOCK (2 BLK),,,0,0,0,0,,,h
+S2324-G0257,3,00:29.400000,LAC,,DEN,,D. Theis,LAC,SUB: George FOR Theis,Substitution,,0,0,0,0,,,h
+S2324-G0257,4,10:11,LAC,,DEN,,D. Theis,LAC,MISS Theis 7' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,-21,67,7,1,2.0,0.0,h
+S2324-G0257,4,09:33,LAC,,DEN,,D. Theis,LAC,Theis S.FOUL (P3.T2) (S.Mehta),Foul,Shooting,0,0,0,0,,,h
+S2324-G0257,4,07:58,LAC,,DEN,,D. Theis,LAC,SUB: Harden FOR Theis,Substitution,,0,0,0,0,,,h
+S2324-G0304,1,02:18,LAC,34.0,POR,24.0,D. Theis,LAC,Theis 26' 3PT Jump Shot (3 PTS) (Leonard 2 AST),Made Shot,Jump Shot,138,224,26,1,3.0,3.0,h
+S2324-G0304,1,00:38.700000,LAC,,POR,,D. Theis,LAC,MISS Theis 7' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,61,28,7,1,2.0,0.0,h
+S2324-G0304,2,10:08,LAC,,POR,,D. Theis,LAC,Theis STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0304,2,09:52,LAC,,POR,,D. Theis,LAC,Theis P.FOUL (P1.T2) (J.Goble),Foul,Personal,0,0,0,0,,,h
+S2324-G0304,2,09:07,LAC,,POR,,D. Theis,LAC,MISS Theis 3' Layup,Missed Shot,Layup Shot,5,27,3,1,2.0,0.0,h
+S2324-G0304,2,08:30,LAC,,POR,,D. Theis,LAC,SUB: Zubac FOR Theis,Substitution,,0,0,0,0,,,h
+S2324-G0304,3,00:50.600000,LAC,,POR,,D. Theis,LAC,Theis BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0304,4,09:29,LAC,,POR,,D. Theis,LAC,Theis S.FOUL (P2.T3) (J.Goble),Foul,Shooting,0,0,0,0,,,h
+S2324-G0304,4,07:35,LAC,,POR,,D. Theis,LAC,SUB: Zubac FOR Theis,Substitution,,0,0,0,0,,,h
+S2324-G0646,1,01:55,BOS,,LAC,,D. Theis,LAC,Theis REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0646,1,00:46.100000,BOS,,LAC,,D. Theis,LAC,Theis S.FOUL (P1.T4) (S.Corbin),Foul,Shooting,0,0,0,0,,,v
+S2324-G0646,2,10:46,BOS,24.0,LAC,30.0,D. Theis,LAC,Theis 27' 3PT Jump Shot (3 PTS) (Westbrook 2 AST),Made Shot,Jump Shot,-119,246,27,1,3.0,3.0,v
+S2324-G0646,2,10:21,BOS,,LAC,,D. Theis,LAC,Theis REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0646,2,09:45,BOS,,LAC,,D. Theis,LAC,Theis REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0646,2,08:20,BOS,26.0,LAC,36.0,D. Theis,LAC,Theis 3' Running Layup (5 PTS) (Mann 3 AST),Made Shot,Running Layup Shot,-15,25,3,1,2.0,2.0,v
+S2324-G0646,2,08:20,BOS,,LAC,,D. Theis,LAC,MISS Theis Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2324-G0646,2,06:19,BOS,,LAC,,D. Theis,LAC,Theis STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0646,2,05:58,BOS,,LAC,,D. Theis,LAC,Theis REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0646,2,05:00,BOS,,LAC,,D. Theis,LAC,Theis BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0646,2,04:07,BOS,,LAC,,D. Theis,LAC,SUB: Plumlee FOR Theis,Substitution,,0,0,0,0,,,v
+S2324-G0646,3,02:40,BOS,51.0,LAC,83.0,D. Theis,LAC,Theis 4' Cutting Layup Shot (7 PTS) (Westbrook 3 AST),Made Shot,Cutting Layup Shot,-20,38,4,1,2.0,2.0,v
+S2324-G0646,3,02:22,BOS,,LAC,,D. Theis,LAC,Theis P.FOUL (P2.PN) (S.Corbin),Foul,Personal,0,0,0,0,,,v
+S2324-G0646,3,02:00,BOS,53.0,LAC,85.0,D. Theis,LAC,Theis 12' Floating Jump Shot (9 PTS) (Westbrook 4 AST),Made Shot,Floating Jump shot,-71,100,12,1,2.0,2.0,v
+S2324-G0646,3,00:11.600000,BOS,,LAC,,D. Theis,LAC,SUB: Mann FOR Theis,Substitution,,0,0,0,0,,,v
+S2324-G0646,4,11:26,BOS,,LAC,,D. Theis,LAC,Theis BLOCK (2 BLK),,,0,0,0,0,,,v
+S2324-G0646,4,10:31,BOS,,LAC,,D. Theis,LAC,Theis REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0646,4,10:06,BOS,,LAC,,D. Theis,LAC,Theis S.FOUL (P3.T1) (C.Flores),Foul,Shooting,0,0,0,0,,,v
+S2324-G0646,4,09:16,BOS,,LAC,,D. Theis,LAC,Theis REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0646,4,08:08,BOS,,LAC,,D. Theis,LAC,MISS Theis 28' 3PT Jump Shot,Missed Shot,Jump Shot,-6,278,28,1,3.0,0.0,v
+S2324-G0646,4,07:56,BOS,70.0,LAC,103.0,D. Theis,LAC,Theis 15' Floating Jump Shot (11 PTS) (Hyland 2 AST),Made Shot,Floating Jump shot,15,146,15,1,2.0,2.0,v
+S2324-G0646,4,06:40,BOS,72.0,LAC,105.0,D. Theis,LAC,Theis 4' Running Dunk (13 PTS) (Brown 1 AST),Made Shot,Running Dunk Shot,-9,35,4,1,2.0,2.0,v
+S2324-G0646,4,03:52,BOS,83.0,LAC,108.0,D. Theis,LAC,Theis 24' 3PT Jump Shot (16 PTS) (Hyland 3 AST),Made Shot,Jump Shot,-235,37,24,1,3.0,3.0,v
+S2324-G0646,4,03:07,BOS,,LAC,,D. Theis,LAC,Theis L.B.FOUL (P4.T4) (C.Flores),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0646,4,02:21,BOS,,LAC,,D. Theis,LAC,Theis REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0646,4,01:16,BOS,90.0,LAC,112.0,D. Theis,LAC,Theis 4' Cutting Layup Shot (18 PTS) (Hyland 4 AST),Made Shot,Cutting Layup Shot,-29,26,4,1,2.0,2.0,v
+S2324-G0956,1,01:39,CHI,,LAC,,D. Theis,LAC,Theis REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0956,2,09:05,CHI,29.0,LAC,45.0,D. Theis,LAC,Theis 5' Driving Floating Jump Shot (2 PTS) (Hyland 2 AST),Made Shot,Driving Floating Jump Shot,-4,47,5,1,2.0,2.0,v
+S2324-G0956,2,08:07,CHI,,LAC,,D. Theis,LAC,Theis S.FOUL (P1.T2) (M.Smith),Foul,Shooting,0,0,0,0,,,v
+S2324-G0956,2,07:56,CHI,,LAC,,D. Theis,LAC,SUB: Zubac FOR Theis,Substitution,,0,0,0,0,,,v
+S2324-G0956,3,02:16,CHI,,LAC,,D. Theis,LAC,MISS Theis 1' Layup,Missed Shot,Layup Shot,12,4,1,1,2.0,0.0,v
+S2324-G0956,3,01:03,CHI,78.0,LAC,92.0,D. Theis,LAC,Theis 1' Cutting Dunk Shot (4 PTS) (Mann 2 AST),Made Shot,Cutting Dunk Shot,-2,6,1,1,2.0,2.0,v
+S2324-G0956,3,00:19.300000,CHI,,LAC,,D. Theis,LAC,MISS Theis 27' 3PT Jump Shot,Missed Shot,Jump Shot,-125,243,27,1,3.0,0.0,v
+S2324-G0956,3,00:02.200000,CHI,,LAC,,D. Theis,LAC,Theis Violation:Defensive Goaltending (M.Smith),Violation,Defensive Goaltending,0,0,0,0,,,v
+S2324-G0956,4,11:15,CHI,,LAC,,D. Theis,LAC,Theis REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0956,4,08:00,CHI,,LAC,,D. Theis,LAC,Theis L.B.FOUL (P2.T1) (K.Cutler),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0956,4,08:00,CHI,,LAC,,D. Theis,LAC,SUB: Zubac FOR Theis,Substitution,,0,0,0,0,,,v
+S2324-G0956,4,02:27,CHI,,LAC,,D. Theis,LAC,SUB: Moon FOR Theis,Substitution,,0,0,0,0,,,v
+S2324-G0917,1,04:27,LAC,,CHI,,D. Theis,LAC,Theis Violation:Kicked Ball (C.Washington),Violation,Kicked Ball,0,0,0,0,,,h
+S2324-G0917,1,00:00.400000,LAC,,CHI,,D. Theis,LAC,Theis REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0917,1,00:00.400000,LAC,,CHI,,D. Theis,LAC,MISS Theis Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2324-G0917,2,11:05,LAC,25.0,CHI,31.0,D. Theis,LAC,Theis 2' Dunk (2 PTS) (George 3 AST),Made Shot,Dunk Shot,-11,16,2,1,2.0,2.0,h
+S2324-G0917,2,09:23,LAC,30.0,CHI,35.0,D. Theis,LAC,Theis 2' Running Layup (4 PTS) (Hyland 1 AST),Made Shot,Running Layup Shot,-11,15,2,1,2.0,2.0,h
+S2324-G0917,2,08:08,LAC,,CHI,,D. Theis,LAC,MISS Theis 26' 3PT Jump Shot,Missed Shot,Jump Shot,89,239,26,1,3.0,0.0,h
+S2324-G0917,2,07:52,LAC,,CHI,,D. Theis,LAC,SUB: Zubac FOR Theis,Substitution,,0,0,0,0,,,h
+S2324-G0917,2,02:48,LAC,,CHI,,D. Theis,LAC,Theis REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0917,2,01:53,LAC,,CHI,,D. Theis,LAC,Theis OFF.Foul (P1) (T.Ford),Foul,Offensive,0,0,0,0,,,h
+S2324-G0917,2,01:53,LAC,,CHI,,D. Theis,LAC,Theis Offensive Foul Turnover (P1.T9),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0917,2,00:49.600000,LAC,,CHI,,D. Theis,LAC,Theis OFF.Foul (P2) (C.Washington),Foul,Offensive,0,0,0,0,,,h
+S2324-G0917,2,00:49.600000,LAC,,CHI,,D. Theis,LAC,Theis Offensive Foul Turnover (P2.T10),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0917,2,00:49.600000,LAC,,CHI,,D. Theis,LAC,SUB: Powell FOR Theis,Substitution,,0,0,0,0,,,h
+S2324-G0917,3,02:48,LAC,,CHI,,D. Theis,LAC,Theis S.FOUL (P3.PN) (K.Lane),Foul,Shooting,0,0,0,0,,,h
+S2324-G0917,3,00:25.700000,LAC,,CHI,,D. Theis,LAC,MISS Theis 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,2,35,4,1,2.0,0.0,h
+S2324-G0917,4,11:28,LAC,85.0,CHI,85.0,D. Theis,LAC,Theis 9' Hook Shot (6 PTS) (George 7 AST),Made Shot,Hook Shot,17,93,9,1,2.0,2.0,h
+S2324-G0917,4,10:45,LAC,,CHI,,D. Theis,LAC,Theis P.FOUL (P4.T1) (T.Ford),Foul,Personal,0,0,0,0,,,h
+S2324-G0917,4,09:02,LAC,,CHI,,D. Theis,LAC,MISS Theis 8' Floating Jump Shot,Missed Shot,Floating Jump shot,-12,82,8,1,2.0,0.0,h
+S2324-G0917,4,08:11,LAC,,CHI,,D. Theis,LAC,Theis REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0917,4,07:11,LAC,,CHI,,D. Theis,LAC,MISS Theis 13' Jump Shot,Missed Shot,Jump Shot,38,122,13,1,2.0,0.0,h
+S2324-G0917,4,07:01,LAC,,CHI,,D. Theis,LAC,Theis BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0917,4,06:39,LAC,,CHI,,D. Theis,LAC,SUB: Zubac FOR Theis,Substitution,,0,0,0,0,,,h
+S2324-G0716,1,02:25,ATL,,LAC,,D. Theis,LAC,MISS Theis 8' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-2,76,8,1,2.0,0.0,v
+S2324-G0716,1,01:13,ATL,,LAC,,D. Theis,LAC,Theis REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0716,1,01:13,ATL,26.0,LAC,35.0,D. Theis,LAC,Theis Putback Layup (2 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,v
+S2324-G0716,1,00:28.800000,ATL,,LAC,,D. Theis,LAC,Theis REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0716,1,00:09.300000,ATL,,LAC,,D. Theis,LAC,SUB: Mann FOR Theis,Substitution,,0,0,0,0,,,v
+S2324-G0716,2,09:07,ATL,,LAC,,D. Theis,LAC,Theis REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0716,2,07:25,ATL,,LAC,,D. Theis,LAC,Theis REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0716,2,06:56,ATL,,LAC,,D. Theis,LAC,Theis REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0716,2,06:40,ATL,,LAC,,D. Theis,LAC,Theis P.FOUL (P1.T1) (A.Smith),Foul,Personal,0,0,0,0,,,v
+S2324-G0716,2,05:22,ATL,,LAC,,D. Theis,LAC,SUB: Plumlee FOR Theis,Substitution,,0,0,0,0,,,v
+S2324-G0716,3,03:24,ATL,,LAC,,D. Theis,LAC,MISS Theis 1' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,5,9,1,1,2.0,0.0,v
+S2324-G0716,3,02:42,ATL,,LAC,,D. Theis,LAC,Theis REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0716,3,02:42,ATL,91.0,LAC,92.0,D. Theis,LAC,Theis Tip Dunk Shot (4 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,v
+S2324-G0716,3,02:16,ATL,,LAC,,D. Theis,LAC,MISS Theis 12' Jump Shot,Missed Shot,Jump Shot,25,121,12,1,2.0,0.0,v
+S2324-G0716,3,00:39.500000,ATL,99.0,LAC,99.0,D. Theis,LAC,Theis 1' Cutting Dunk Shot (6 PTS) (Westbrook 1 AST),Made Shot,Cutting Dunk Shot,-5,-6,1,1,2.0,2.0,v
+S2324-G0716,3,00:00.300000,ATL,101.0,LAC,102.0,D. Theis,LAC,Theis 26' 3PT Jump Shot (9 PTS) (Coffey 2 AST),Made Shot,Jump Shot,130,221,26,1,3.0,3.0,v
+S2324-G0716,4,09:21,ATL,,LAC,,D. Theis,LAC,Theis REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0716,4,08:56,ATL,,LAC,,D. Theis,LAC,Theis P.FOUL (P2.T3) (B.Schwab),Foul,Personal,0,0,0,0,,,v
+S2324-G0716,4,08:42,ATL,,LAC,,D. Theis,LAC,Theis REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0716,4,08:29,ATL,,LAC,,D. Theis,LAC,Theis Violation:Kicked Ball (J.Goble),Violation,Kicked Ball,0,0,0,0,,,v
+S2324-G0716,4,07:30,ATL,,LAC,,D. Theis,LAC,Theis S.FOUL (P3.T4) (B.Schwab),Foul,Shooting,0,0,0,0,,,v
+S2324-G0716,4,07:30,ATL,,LAC,,D. Theis,LAC,SUB: Leonard FOR Theis,Substitution,,0,0,0,0,,,v
+S2324-G1003,1,00:36.300000,POR,28.0,LAC,27.0,D. Theis,LAC,Theis 3' Driving Layup (2 PTS) (Coffey 1 AST),Made Shot,Driving Layup Shot,13,27,3,1,2.0,2.0,v
+S2324-G1003,1,00:19,POR,,LAC,,D. Theis,LAC,SUB: George FOR Theis,Substitution,,0,0,0,0,,,v
+S2324-G1003,2,10:31,POR,,LAC,,D. Theis,LAC,Theis REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1003,2,09:41,POR,,LAC,,D. Theis,LAC,Theis REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1003,2,08:05,POR,31.0,LAC,41.0,D. Theis,LAC,Theis 26' 3PT Jump Shot (5 PTS) (Harden 4 AST),Made Shot,Jump Shot,-74,254,26,1,3.0,3.0,v
+S2324-G1003,2,07:07,POR,,LAC,,D. Theis,LAC,MISS Theis 12' Floating Jump Shot,Missed Shot,Floating Jump shot,9,115,12,1,2.0,0.0,v
+S2324-G1003,2,06:55,POR,,LAC,,D. Theis,LAC,Theis REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1003,2,06:04,POR,,LAC,,D. Theis,LAC,SUB: Zubac FOR Theis,Substitution,,0,0,0,0,,,v
+S2324-G1003,3,00:44.200000,POR,,LAC,,D. Theis,LAC,Theis OFF.Foul (P1) (Z.Zarba),Foul,Offensive,0,0,0,0,,,v
+S2324-G1003,3,00:44.200000,POR,,LAC,,D. Theis,LAC,Theis Offensive Foul Turnover (P1.T8),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G1003,4,10:11,POR,,LAC,,D. Theis,LAC,Theis BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G1003,4,06:31,POR,85.0,LAC,108.0,D. Theis,LAC,Theis Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1003,4,06:31,POR,85.0,LAC,109.0,D. Theis,LAC,Theis Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1003,4,06:14,POR,,LAC,,D. Theis,LAC,Theis REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1003,4,05:28,POR,87.0,LAC,112.0,D. Theis,LAC,Theis 26' 3PT Jump Shot (10 PTS) (Coffey 2 AST),Made Shot,Jump Shot,102,234,26,1,3.0,3.0,v
+S2324-G1003,4,04:47,POR,,LAC,,D. Theis,LAC,Theis REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1003,4,04:12,POR,,LAC,,D. Theis,LAC,Theis S.FOUL (P2.T2) (Z.Zarba),Foul,Shooting,0,0,0,0,,,v
+S2324-G1003,4,04:12,POR,,LAC,,D. Theis,LAC,SUB: Plumlee FOR Theis,Substitution,,0,0,0,0,,,v
+S2324-G0350,1,01:28,IND,,LAC,,D. Theis,LAC,Theis REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0350,1,00:13.400000,IND,,LAC,,D. Theis,LAC,Theis S.FOUL (P1.T4) (J.Conley),Foul,Shooting,0,0,0,0,,,v
+S2324-G0350,1,00:04.100000,IND,,LAC,,D. Theis,LAC,Theis OFF.Foul (P2) (S.Foster),Foul,Offensive,0,0,0,0,,,v
+S2324-G0350,1,00:04.100000,IND,,LAC,,D. Theis,LAC,Theis Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0350,1,00:04.100000,IND,,LAC,,D. Theis,LAC,SUB: Mann FOR Theis,Substitution,,0,0,0,0,,,v
+S2324-G0350,2,11:18,IND,,LAC,,D. Theis,LAC,Theis REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0350,2,11:18,IND,,LAC,,D. Theis,LAC,MISS Theis Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2324-G0350,2,11:17,IND,,LAC,,D. Theis,LAC,Theis REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0350,2,10:34,IND,,LAC,,D. Theis,LAC,Theis REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0350,2,10:02,IND,45.0,LAC,41.0,D. Theis,LAC,Theis Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0350,2,10:02,IND,45.0,LAC,42.0,D. Theis,LAC,Theis Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0350,2,08:28,IND,,LAC,,D. Theis,LAC,Theis REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0350,2,08:27,IND,,LAC,,D. Theis,LAC,MISS Theis 3' Putback Layup,Missed Shot,Putback Layup Shot,20,25,3,1,2.0,0.0,v
+S2324-G0350,2,07:58,IND,,LAC,,D. Theis,LAC,SUB: Zubac FOR Theis,Substitution,,0,0,0,0,,,v
+S2324-G0350,3,01:25,IND,,LAC,,D. Theis,LAC,MISS Theis 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-23,16,3,1,2.0,0.0,v
+S2324-G0350,3,00:01.300000,IND,,LAC,,D. Theis,LAC,Theis BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0350,4,04:40,IND,,LAC,,D. Theis,LAC,Theis REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0350,4,04:06,IND,,LAC,,D. Theis,LAC,Theis BLOCK (2 BLK),,,0,0,0,0,,,v
+S2324-G0350,4,04:02,IND,,LAC,,D. Theis,LAC,Theis REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0350,4,04:01,IND,,LAC,,D. Theis,LAC,Theis Lost Ball Turnover (P2.T9),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0350,4,02:00,IND,,LAC,,D. Theis,LAC,Theis REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0350,4,01:49,IND,,LAC,,D. Theis,LAC,Theis REBOUND (Off:5 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0350,4,01:49,IND,119.0,LAC,151.0,D. Theis,LAC,Theis 1' Putback Dunk (4 PTS),Made Shot,Putback Dunk Shot,-1,14,1,1,2.0,2.0,v
+S2324-G0848,1,12:00,LAC,,LAL,,D. Theis,LAC,Jump Ball Theis vs. Davis: Tip to James,Jump Ball,,0,0,0,0,,,h
+S2324-G0848,1,10:13,LAC,4.0,LAL,4.0,D. Theis,LAC,Theis 2' Cutting Layup Shot (2 PTS) (Leonard 1 AST),Made Shot,Cutting Layup Shot,-12,13,2,1,2.0,2.0,h
+S2324-G0848,1,09:50,LAC,6.0,LAL,6.0,D. Theis,LAC,Theis 11' Jump Shot (4 PTS) (Harden 1 AST),Made Shot,Jump Shot,49,103,11,1,2.0,2.0,h
+S2324-G0848,1,09:24,LAC,,LAL,,D. Theis,LAC,MISS Theis 25' 3PT Jump Shot,Missed Shot,Jump Shot,50,249,25,1,3.0,0.0,h
+S2324-G0848,1,09:18,LAC,,LAL,,D. Theis,LAC,MISS Theis 27' 3PT Jump Shot,Missed Shot,Jump Shot,131,240,27,1,3.0,0.0,h
+S2324-G0848,1,07:03,LAC,,LAL,,D. Theis,LAC,MISS Theis 2' Jump Shot,Missed Shot,Jump Shot,-11,22,2,1,2.0,0.0,h
+S2324-G0848,1,06:25,LAC,,LAL,,D. Theis,LAC,Theis REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0848,1,03:43,LAC,,LAL,,D. Theis,LAC,SUB: Plumlee FOR Theis,Substitution,,0,0,0,0,,,h
+S2324-G0848,2,04:16,LAC,,LAL,,D. Theis,LAC,MISS Theis 3' Reverse Layup,Missed Shot,Reverse Layup Shot,-27,16,3,1,2.0,0.0,h
+S2324-G0848,2,04:14,LAC,,LAL,,D. Theis,LAC,Theis REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0848,2,02:09,LAC,,LAL,,D. Theis,LAC,Theis P.FOUL (P1.T2) (T.Brothers),Foul,Personal,0,0,0,0,,,h
+S2324-G0848,2,01:33,LAC,,LAL,,D. Theis,LAC,Theis Violation:Kicked Ball (T.Brothers),Violation,Kicked Ball,0,0,0,0,,,h
+S2324-G0848,2,00:38.200000,LAC,,LAL,,D. Theis,LAC,SUB: Westbrook FOR Theis,Substitution,,0,0,0,0,,,h
+S2324-G0848,3,11:14,LAC,,LAL,,D. Theis,LAC,Theis BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0848,3,10:31,LAC,,LAL,,D. Theis,LAC,MISS Theis 3PT Jump Shot,Missed Shot,Jump Shot,228,25,0,1,3.0,0.0,h
+S2324-G0848,3,09:13,LAC,,LAL,,D. Theis,LAC,MISS Theis 5' Jump Shot,Missed Shot,Jump Shot,-27,44,5,1,2.0,0.0,h
+S2324-G0848,3,07:40,LAC,,LAL,,D. Theis,LAC,Theis REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0848,3,07:32,LAC,73.0,LAL,62.0,D. Theis,LAC,Theis 3' Cutting Layup Shot (6 PTS) (Harden 6 AST),Made Shot,Cutting Layup Shot,15,21,3,1,2.0,2.0,h
+S2324-G0848,3,06:35,LAC,79.0,LAL,63.0,D. Theis,LAC,Theis 3PT Jump Shot (9 PTS) (Leonard 4 AST),Made Shot,Jump Shot,229,47,0,1,3.0,3.0,h
+S2324-G0848,3,02:55,LAC,,LAL,,D. Theis,LAC,Theis REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0848,3,02:04,LAC,,LAL,,D. Theis,LAC,SUB: Plumlee FOR Theis,Substitution,,0,0,0,0,,,h
+S2324-G0848,4,01:34,LAC,,LAL,,D. Theis,LAC,Theis REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0848,4,01:34,LAC,,LAL,,D. Theis,LAC,Theis Step Out of Bounds Turnover (P1.T14),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2324-G0848,4,00:09.300000,LAC,,LAL,,D. Theis,LAC,SUB: Coffey FOR Theis,Substitution,,0,0,0,0,,,h
+S2324-G0235,1,04:45,SAS,,LAC,,D. Theis,LAC,Theis REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0235,1,02:15,SAS,,LAC,,D. Theis,LAC,Theis REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0235,1,01:58,SAS,,LAC,,D. Theis,LAC,Theis REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0235,1,00:17.500000,SAS,14.0,LAC,26.0,D. Theis,LAC,Theis 11' Floating Jump Shot (2 PTS) (Westbrook 1 AST),Made Shot,Floating Jump shot,4,112,11,1,2.0,2.0,v
+S2324-G0235,2,11:22,SAS,,LAC,,D. Theis,LAC,Theis REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0235,2,10:40,SAS,,LAC,,D. Theis,LAC,Theis S.FOUL (P1.T3) (M.Ervin),Foul,Shooting,0,0,0,0,,,v
+S2324-G0235,2,09:37,SAS,,LAC,,D. Theis,LAC,MISS Theis 7' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-29,62,7,1,2.0,0.0,v
+S2324-G0235,2,09:32,SAS,,LAC,,D. Theis,LAC,SUB: Zubac FOR Theis,Substitution,,0,0,0,0,,,v
+S2324-G0235,2,01:58,SAS,,LAC,,D. Theis,LAC,MISS Theis 19' Jump Shot,Missed Shot,Jump Shot,4,189,19,1,2.0,0.0,v
+S2324-G0235,2,00:44.400000,SAS,,LAC,,D. Theis,LAC,Theis REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0235,2,00:39.700000,SAS,,LAC,,D. Theis,LAC,Theis OFF.Foul (P2) (R.Hussey),Foul,Offensive,0,0,0,0,,,v
+S2324-G0235,2,00:39.700000,SAS,,LAC,,D. Theis,LAC,Theis Offensive Foul Turnover (P1.T11),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0235,2,00:32.900000,SAS,,LAC,,D. Theis,LAC,SUB: Tucker FOR Theis,Substitution,,0,0,0,0,,,v
+S2324-G0235,3,03:47,SAS,,LAC,,D. Theis,LAC,Theis REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0235,3,03:42,SAS,,LAC,,D. Theis,LAC,Theis REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0235,3,02:59,SAS,,LAC,,D. Theis,LAC,Theis REBOUND (Off:4 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0235,3,02:59,SAS,,LAC,,D. Theis,LAC,MISS Theis 2' Tip Layup Shot,Missed Shot,Tip Layup Shot,-15,11,2,1,2.0,0.0,v
+S2324-G0235,3,02:59,SAS,,LAC,,D. Theis,LAC,Theis REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0235,3,02:57,SAS,,LAC,,D. Theis,LAC,MISS Theis Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2324-G0235,3,02:48,SAS,64.0,LAC,79.0,D. Theis,LAC,Theis 3' Layup (4 PTS) (Leonard 4 AST),Made Shot,Layup Shot,-26,13,3,1,2.0,2.0,v
+S2324-G0235,3,01:22,SAS,,LAC,,D. Theis,LAC,MISS Theis 3' Layup,Missed Shot,Layup Shot,-4,26,3,1,2.0,0.0,v
+S2324-G0235,3,01:15,SAS,,LAC,,D. Theis,LAC,Theis REBOUND (Off:5 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0235,3,01:15,SAS,,LAC,,D. Theis,LAC,MISS Theis Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2324-G0235,4,11:11,SAS,,LAC,,D. Theis,LAC,Theis REBOUND (Off:5 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0235,4,09:03,SAS,,LAC,,D. Theis,LAC,MISS Theis 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-32,11,3,1,2.0,0.0,v
+S2324-G0235,4,08:06,SAS,76.0,LAC,92.0,D. Theis,LAC,Theis 7' Floating Jump Shot (6 PTS) (Westbrook 6 AST),Made Shot,Floating Jump shot,15,73,7,1,2.0,2.0,v
+S2324-G0235,4,06:47,SAS,78.0,LAC,96.0,D. Theis,LAC,Theis 2' Hook Shot (8 PTS) (Westbrook 7 AST),Made Shot,Hook Shot,-20,10,2,1,2.0,2.0,v
+S2324-G0235,4,06:41,SAS,,LAC,,D. Theis,LAC,SUB: Harden FOR Theis,Substitution,,0,0,0,0,,,v
+S2324-G0389,1,03:11,LAC,,BOS,,D. Theis,LAC,Theis Violation:Kicked Ball (K.Cutler),Violation,Kicked Ball,0,0,0,0,,,h
+S2324-G0389,1,02:06,LAC,,BOS,,D. Theis,LAC,Theis REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0389,1,01:18,LAC,20.0,BOS,23.0,D. Theis,LAC,Theis Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0389,1,01:18,LAC,21.0,BOS,23.0,D. Theis,LAC,Theis Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0389,2,10:33,LAC,,BOS,,D. Theis,LAC,Theis STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0389,2,09:58,LAC,25.0,BOS,32.0,D. Theis,LAC,Theis Alley Oop Dunk (4 PTS) (Harden 3 AST),Made Shot,Alley Oop Dunk Shot,-1,2,0,1,2.0,2.0,h
+S2324-G0389,2,07:21,LAC,,BOS,,D. Theis,LAC,SUB: Zubac FOR Theis,Substitution,,0,0,0,0,,,h
+S2324-G0389,3,00:30.300000,LAC,79.0,BOS,106.0,D. Theis,LAC,Theis 3PT Jump Shot (7 PTS) (Brown 3 AST),Made Shot,Jump Shot,232,35,0,1,3.0,3.0,h
+S2324-G0389,4,09:06,LAC,88.0,BOS,112.0,D. Theis,LAC,Theis 1' Reverse Layup (9 PTS) (Westbrook 5 AST),Made Shot,Reverse Layup Shot,-6,13,1,1,2.0,2.0,h
+S2324-G0389,4,09:06,LAC,89.0,BOS,112.0,D. Theis,LAC,Theis Free Throw 1 of 1 (10 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G0389,4,07:48,LAC,,BOS,,D. Theis,LAC,Theis S.FOUL (P1.PN) (M.Dagher),Foul,Shooting,0,0,0,0,,,h
+S2324-G0389,4,07:22,LAC,,BOS,,D. Theis,LAC,Theis S.FOUL (P2.PN) (K.Cutler),Foul,Shooting,0,0,0,0,,,h
+S2324-G0389,4,06:30,LAC,95.0,BOS,123.0,D. Theis,LAC,Theis 6' Fadeaway Jumper (12 PTS) (Mann 2 AST),Made Shot,Fadeaway Jump Shot,-28,58,6,1,2.0,2.0,h
+S2324-G0389,4,05:02,LAC,98.0,BOS,128.0,D. Theis,LAC,Theis 26' 3PT Jump Shot (15 PTS) (Mann 3 AST),Made Shot,Jump Shot,-61,257,26,1,3.0,3.0,h
+S2324-G0223,1,02:59,SAS,19.0,LAC,21.0,D. Theis,LAC,Theis 6' Running Jump Shot (2 PTS) (Westbrook 1 AST),Made Shot,Running Jump Shot,2,63,6,1,2.0,2.0,v
+S2324-G0223,1,02:13,SAS,,LAC,,D. Theis,LAC,Theis REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0223,1,02:01,SAS,19.0,LAC,22.0,D. Theis,LAC,Theis Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0223,1,02:01,SAS,19.0,LAC,23.0,D. Theis,LAC,Theis Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0223,1,01:47,SAS,,LAC,,D. Theis,LAC,Theis S.FOUL (P1.T1) (D.Collins),Foul,Shooting,0,0,0,0,,,v
+S2324-G0223,1,01:07,SAS,23.0,LAC,28.0,D. Theis,LAC,Theis 3' Cutting Layup Shot (6 PTS) (Harden 5 AST),Made Shot,Cutting Layup Shot,-18,21,3,1,2.0,2.0,v
+S2324-G0223,2,10:10,SAS,,LAC,,D. Theis,LAC,MISS Theis 15' Jump Shot,Missed Shot,Jump Shot,-82,131,15,1,2.0,0.0,v
+S2324-G0223,2,07:56,SAS,39.0,LAC,47.0,D. Theis,LAC,Theis 7' Floating Jump Shot (8 PTS) (George 2 AST),Made Shot,Floating Jump shot,-31,68,7,1,2.0,2.0,v
+S2324-G0223,2,07:41,SAS,,LAC,,D. Theis,LAC,Theis STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0223,2,07:05,SAS,,LAC,,D. Theis,LAC,Theis REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0223,2,06:57,SAS,39.0,LAC,50.0,D. Theis,LAC,Theis 27' 3PT Jump Shot (11 PTS) (George 3 AST),Made Shot,Jump Shot,25,268,27,1,3.0,3.0,v
+S2324-G0223,2,06:28,SAS,,LAC,,D. Theis,LAC,SUB: Zubac FOR Theis,Substitution,,0,0,0,0,,,v
+S2324-G0223,3,03:23,SAS,,LAC,,D. Theis,LAC,Theis REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0223,3,02:43,SAS,,LAC,,D. Theis,LAC,Theis OFF.Foul (P2) (B.Forte),Foul,Offensive,0,0,0,0,,,v
+S2324-G0223,3,02:43,SAS,,LAC,,D. Theis,LAC,Theis Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0223,3,02:02,SAS,,LAC,,D. Theis,LAC,Theis S.FOUL (P3.T2) (B.Forte),Foul,Shooting,0,0,0,0,,,v
+S2324-G0223,3,00:27.300000,SAS,,LAC,,D. Theis,LAC,Theis REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0223,3,00:27.300000,SAS,75.0,LAC,91.0,D. Theis,LAC,Theis Tip Layup Shot (13 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2324-G0223,4,11:41,SAS,,LAC,,D. Theis,LAC,Theis REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0223,4,09:34,SAS,,LAC,,D. Theis,LAC,Theis Violation:Kicked Ball (B.Forte),Violation,Kicked Ball,0,0,0,0,,,v
+S2324-G0223,4,09:07,SAS,,LAC,,D. Theis,LAC,Theis S.FOUL (P4.T1) (B.Forte),Foul,Shooting,0,0,0,0,,,v
+S2324-G0223,4,08:53,SAS,78.0,LAC,100.0,D. Theis,LAC,Theis 2' Cutting Dunk Shot (15 PTS) (Westbrook 4 AST),Made Shot,Cutting Dunk Shot,-17,17,2,1,2.0,2.0,v
+S2324-G0223,4,07:10,SAS,,LAC,,D. Theis,LAC,MISS Theis 14' Jump Shot,Missed Shot,Jump Shot,-141,-11,14,1,2.0,0.0,v
+S2324-G0223,4,06:58,SAS,,LAC,,D. Theis,LAC,Theis REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0223,4,06:13,SAS,85.0,LAC,109.0,D. Theis,LAC,Theis 2' Driving Layup (17 PTS) (George 6 AST),Made Shot,Driving Layup Shot,-15,17,2,1,2.0,2.0,v
+S2324-G0223,4,06:02,SAS,,LAC,,D. Theis,LAC,Theis REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0223,4,05:05,SAS,88.0,LAC,113.0,D. Theis,LAC,Theis 2' Dunk (19 PTS) (Westbrook 6 AST),Made Shot,Dunk Shot,-21,8,2,1,2.0,2.0,v
+S2324-G0223,4,04:15,SAS,,LAC,,D. Theis,LAC,SUB: Hyland FOR Theis,Substitution,,0,0,0,0,,,v
+S2324-G0171,3,06:37,IND,,MIL,,D. Theis,IND,MISS Theis 6' Layup,Missed Shot,Layup Shot,-40,41,6,1,2.0,0.0,h
+S2324-G0171,3,06:33,IND,,MIL,,D. Theis,IND,MISS Theis 25' 3PT Jump Shot,Missed Shot,Jump Shot,-109,223,25,1,3.0,0.0,h
+S2324-G0171,3,06:15,IND,79.0,MIL,81.0,D. Theis,IND,Theis 1' Cutting Dunk Shot (2 PTS) (Haliburton 9 AST),Made Shot,Cutting Dunk Shot,-4,12,1,1,2.0,2.0,h
+S2324-G0171,3,05:11,IND,,MIL,,D. Theis,IND,Theis Violation:Kicked Ball (K.Cutler),Violation,Kicked Ball,0,0,0,0,,,h
+S2324-G0171,3,02:06,IND,,MIL,,D. Theis,IND,Theis P.FOUL (P1.PN) (K.Cutler),Foul,Personal,0,0,0,0,,,h
+S2324-G0171,3,01:52,IND,,MIL,,D. Theis,IND,MISS Theis 6' Driving Layup,Missed Shot,Driving Layup Shot,-36,49,6,1,2.0,0.0,h
+S2324-G0537,1,03:04,MEM,20.0,LAC,15.0,D. Theis,LAC,Theis Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0537,1,03:04,MEM,20.0,LAC,16.0,D. Theis,LAC,Theis Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0537,2,09:56,MEM,29.0,LAC,32.0,D. Theis,LAC,Theis 3' Alley Oop Layup (4 PTS) (Harden 4 AST),Made Shot,Alley Oop Layup shot,25,17,3,1,2.0,2.0,v
+S2324-G0537,2,08:28,MEM,,LAC,,D. Theis,LAC,Theis STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0537,2,08:14,MEM,34.0,LAC,41.0,D. Theis,LAC,Theis 25' 3PT Pullup Jump Shot (7 PTS) (Coffey 1 AST),Made Shot,Pullup Jump shot,-16,252,25,1,3.0,3.0,v
+S2324-G0537,2,07:03,MEM,,LAC,,D. Theis,LAC,Theis REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0537,2,06:57,MEM,,LAC,,D. Theis,LAC,MISS Theis Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0537,2,06:57,MEM,,LAC,,D. Theis,LAC,MISS Theis Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0537,2,06:38,MEM,,LAC,,D. Theis,LAC,Theis REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0537,2,05:50,MEM,,LAC,,D. Theis,LAC,Theis Violation:Kicked Ball (C.Kirkland),Violation,Kicked Ball,0,0,0,0,,,v
+S2324-G0537,2,05:40,MEM,,LAC,,D. Theis,LAC,Theis BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0537,2,04:41,MEM,,LAC,,D. Theis,LAC,SUB: Leonard FOR Theis,Substitution,,0,0,0,0,,,v
+S2324-G0537,3,02:05,MEM,,LAC,,D. Theis,LAC,Theis BLOCK (2 BLK),,,0,0,0,0,,,v
+S2324-G0537,3,02:04,MEM,,LAC,,D. Theis,LAC,Theis S.FOUL (P1.PN) (D.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2324-G0537,4,11:27,MEM,,LAC,,D. Theis,LAC,Theis REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0537,4,11:27,MEM,,LAC,,D. Theis,LAC,MISS Theis Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2324-G0537,4,10:17,MEM,,LAC,,D. Theis,LAC,Theis REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0537,4,09:24,MEM,,LAC,,D. Theis,LAC,MISS Theis 3' Layup,Missed Shot,Layup Shot,-20,18,3,1,2.0,0.0,v
+S2324-G0537,4,07:41,MEM,,LAC,,D. Theis,LAC,Theis BLOCK (3 BLK),,,0,0,0,0,,,v
+S2324-G0537,4,07:35,MEM,,LAC,,D. Theis,LAC,Theis REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0537,4,06:24,MEM,,LAC,,D. Theis,LAC,Theis S.FOUL (P2.T1) (B.Haskill),Foul,Shooting,0,0,0,0,,,v
+S2324-G0537,4,04:17,MEM,,LAC,,D. Theis,LAC,Theis STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0537,4,04:13,MEM,,LAC,,D. Theis,LAC,SUB: Boston Jr. FOR Theis,Substitution,,0,0,0,0,,,v
+S2324-G0473,1,00:38.700000,PHX,,LAC,,D. Theis,LAC,Theis Violation:Defensive Goaltending (D.Guthrie),Violation,Defensive Goaltending,0,0,0,0,,,v
+S2324-G0473,1,00:27.500000,PHX,20.0,LAC,35.0,D. Theis,LAC,Theis 2' Cutting Layup Shot (2 PTS) (Westbrook 1 AST),Made Shot,Cutting Layup Shot,9,12,2,1,2.0,2.0,v
+S2324-G0473,2,11:32,PHX,,LAC,,D. Theis,LAC,Theis REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0473,2,09:58,PHX,,LAC,,D. Theis,LAC,Theis P.FOUL (P1.T1) (N.Green),Foul,Personal,0,0,0,0,,,v
+S2324-G0473,2,07:15,PHX,,LAC,,D. Theis,LAC,Theis STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0473,2,05:06,PHX,,LAC,,D. Theis,LAC,SUB: Zubac FOR Theis,Substitution,,0,0,0,0,,,v
+S2324-G0473,2,00:27.800000,PHX,49.0,LAC,70.0,D. Theis,LAC,Theis 12' Jump Shot (4 PTS) (George 2 AST),Made Shot,Jump Shot,39,118,12,1,2.0,2.0,v
+S2324-G0473,2,00:07.800000,PHX,,LAC,,D. Theis,LAC,Theis P.FOUL (P2.PN) (D.Guthrie),Foul,Personal,0,0,0,0,,,v
+S2324-G0473,2,00:07.800000,PHX,,LAC,,D. Theis,LAC,SUB: Powell FOR Theis,Substitution,,0,0,0,0,,,v
+S2324-G0473,3,03:41,PHX,77.0,LAC,97.0,D. Theis,LAC,Theis 8' Fadeaway Jumper (6 PTS) (George 3 AST),Made Shot,Fadeaway Jump Shot,22,73,8,1,2.0,2.0,v
+S2324-G0473,3,03:28,PHX,,LAC,,D. Theis,LAC,Theis S.FOUL (P3.PN) (N.Green),Foul,Shooting,0,0,0,0,,,v
+S2324-G0473,3,01:16,PHX,,LAC,,D. Theis,LAC,Theis REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0473,3,00:34,PHX,,LAC,,D. Theis,LAC,SUB: Mann FOR Theis,Substitution,,0,0,0,0,,,v
+S2324-G0473,4,11:04,PHX,,LAC,,D. Theis,LAC,MISS Theis 1' Reverse Layup,Missed Shot,Reverse Layup Shot,-13,4,1,1,2.0,0.0,v
+S2324-G0473,4,11:02,PHX,,LAC,,D. Theis,LAC,Theis REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0473,4,11:02,PHX,,LAC,,D. Theis,LAC,MISS Theis Hook Shot,Missed Shot,Hook Shot,-2,3,0,1,2.0,0.0,v
+S2324-G0473,4,08:00,PHX,,LAC,,D. Theis,LAC,SUB: Zubac FOR Theis,Substitution,,0,0,0,0,,,v
+S2324-G0865,1,12:00,LAC,,WAS,,D. Theis,LAC,Jump Ball Theis vs. Bagley III: Tip to Leonard,Jump Ball,,0,0,0,0,,,h
+S2324-G0865,1,11:02,LAC,4.0,WAS,3.0,D. Theis,LAC,Theis 3' Hook Shot (2 PTS) (Harden 2 AST),Made Shot,Hook Shot,26,13,3,1,2.0,2.0,h
+S2324-G0865,1,09:19,LAC,,WAS,,D. Theis,LAC,Theis REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0865,1,07:28,LAC,10.0,WAS,12.0,D. Theis,LAC,Theis 12' Floating Jump Shot (4 PTS) (Harden 3 AST),Made Shot,Floating Jump shot,48,105,12,1,2.0,2.0,h
+S2324-G0865,1,06:36,LAC,15.0,WAS,14.0,D. Theis,LAC,Theis 27' 3PT Jump Shot (7 PTS) (Harden 5 AST),Made Shot,Jump Shot,-34,267,27,1,3.0,3.0,h
+S2324-G0865,1,03:50,LAC,,WAS,,D. Theis,LAC,Theis REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0865,1,03:36,LAC,,WAS,,D. Theis,LAC,Theis Violation:Defensive Goaltending (P.Fraher),Violation,Defensive Goaltending,0,0,0,0,,,h
+S2324-G0865,1,03:15,LAC,,WAS,,D. Theis,LAC,SUB: Plumlee FOR Theis,Substitution,,0,0,0,0,,,h
+S2324-G0865,2,05:19,LAC,,WAS,,D. Theis,LAC,Theis S.FOUL (P1.T3) (S.Mitchell),Foul,Shooting,0,0,0,0,,,h
+S2324-G0865,2,05:00,LAC,,WAS,,D. Theis,LAC,Theis S.FOUL (P2.T4) (P.Fraher),Foul,Shooting,0,0,0,0,,,h
+S2324-G0865,2,04:19,LAC,,WAS,,D. Theis,LAC,Theis REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0865,2,03:40,LAC,,WAS,,D. Theis,LAC,Theis REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0865,2,01:22,LAC,,WAS,,D. Theis,LAC,SUB: Coffey FOR Theis,Substitution,,0,0,0,0,,,h
+S2324-G0865,3,11:36,LAC,,WAS,,D. Theis,LAC,Theis REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0865,3,09:38,LAC,,WAS,,D. Theis,LAC,Theis REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0865,3,08:57,LAC,,WAS,,D. Theis,LAC,Theis REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0865,3,06:22,LAC,92.0,WAS,69.0,D. Theis,LAC,Theis 3' Cutting Dunk Shot (9 PTS) (George 3 AST),Made Shot,Cutting Dunk Shot,-1,32,3,1,2.0,2.0,h
+S2324-G0865,3,04:43,LAC,,WAS,,D. Theis,LAC,Theis REBOUND (Off:0 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0865,3,04:31,LAC,,WAS,,D. Theis,LAC,MISS Theis 8' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,47,59,8,1,2.0,0.0,h
+S2324-G0865,3,04:26,LAC,,WAS,,D. Theis,LAC,SUB: Powell FOR Theis,Substitution,,0,0,0,0,,,h
+S2324-G0873,1,04:04,MIN,,LAC,,D. Theis,LAC,Theis REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0873,1,02:33,MIN,,LAC,,D. Theis,LAC,Theis REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0873,1,01:15,MIN,,LAC,,D. Theis,LAC,Theis REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0873,1,00:58.900000,MIN,,LAC,,D. Theis,LAC,Theis REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0873,1,00:58.900000,MIN,28.0,LAC,15.0,D. Theis,LAC,Theis Putback Layup (2 PTS),Made Shot,Putback Layup Shot,0,4,0,1,2.0,2.0,v
+S2324-G0873,2,11:22,MIN,,LAC,,D. Theis,LAC,Theis REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0873,2,11:22,MIN,30.0,LAC,23.0,D. Theis,LAC,Theis 1' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,0,14,1,1,2.0,2.0,v
+S2324-G0873,2,10:00,MIN,,LAC,,D. Theis,LAC,Theis REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0873,2,09:24,MIN,,LAC,,D. Theis,LAC,Theis REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0873,2,08:14,MIN,,LAC,,D. Theis,LAC,Theis REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0873,2,06:44,MIN,,LAC,,D. Theis,LAC,MISS Theis 25' 3PT Jump Shot,Missed Shot,Jump Shot,-130,213,25,1,3.0,0.0,v
+S2324-G0873,2,05:29,MIN,,LAC,,D. Theis,LAC,SUB: Zubac FOR Theis,Substitution,,0,0,0,0,,,v
+S2324-G0873,3,03:44,MIN,,LAC,,D. Theis,LAC,Theis REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0873,3,03:44,MIN,,LAC,,D. Theis,LAC,MISS Theis 2' Tip Layup Shot,Missed Shot,Tip Layup Shot,-17,7,2,1,2.0,0.0,v
+S2324-G0873,3,02:29,MIN,,LAC,,D. Theis,LAC,Theis REBOUND (Off:3 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0873,3,00:31,MIN,,LAC,,D. Theis,LAC,MISS Theis 3PT Jump Shot,Missed Shot,Jump Shot,-227,6,0,1,3.0,0.0,v
+S2324-G0873,3,00:04.500000,MIN,,LAC,,D. Theis,LAC,Theis REBOUND (Off:3 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0873,3,00:04.500000,MIN,,LAC,,D. Theis,LAC,Theis Step Out of Bounds Turnover (P1.T8),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2324-G0873,4,09:18,MIN,,LAC,,D. Theis,LAC,MISS Theis 25' 3PT Jump Shot,Missed Shot,Jump Shot,134,211,25,1,3.0,0.0,v
+S2324-G0873,4,05:57,MIN,,LAC,,D. Theis,LAC,Theis REBOUND (Off:4 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0873,4,04:52,MIN,,LAC,,D. Theis,LAC,Theis REBOUND (Off:4 Def:9),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0873,4,04:19,MIN,,LAC,,D. Theis,LAC,MISS Theis 25' 3PT Jump Shot,Missed Shot,Jump Shot,51,242,25,1,3.0,0.0,v
+S2324-G0873,4,03:51,MIN,,LAC,,D. Theis,LAC,Theis S.FOUL (P1.T1) (A.Smith),Foul,Shooting,0,0,0,0,,,v
+S2324-G0873,4,00:13.100000,MIN,,LAC,,D. Theis,LAC,SUB: Coffey FOR Theis,Substitution,,0,0,0,0,,,v
+S2324-G1126,1,01:35,LAC,,UTA,,D. Theis,LAC,Theis REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1126,1,00:58.900000,LAC,,UTA,,D. Theis,LAC,Theis REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1126,1,00:03.100000,LAC,,UTA,,D. Theis,LAC,Theis REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1126,1,00:01.300000,LAC,,UTA,,D. Theis,LAC,MISS Theis 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,38,262,26,1,3.0,0.0,h
+S2324-G1126,2,08:05,LAC,54.0,UTA,25.0,D. Theis,LAC,Theis 1' Running Dunk (2 PTS) (Westbrook 1 AST),Made Shot,Running Dunk Shot,2,10,1,1,2.0,2.0,h
+S2324-G1126,2,06:16,LAC,,UTA,,D. Theis,LAC,Theis BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G1126,2,06:05,LAC,,UTA,,D. Theis,LAC,Theis REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1126,2,05:59,LAC,61.0,UTA,29.0,D. Theis,LAC,Theis 26' 3PT Jump Shot (5 PTS) (Harden 6 AST),Made Shot,Jump Shot,-148,210,26,1,3.0,3.0,h
+S2324-G1126,2,05:03,LAC,,UTA,,D. Theis,LAC,SUB: Mann FOR Theis,Substitution,,0,0,0,0,,,h
+S2324-G1126,3,01:33,LAC,,UTA,,D. Theis,LAC,Theis S.FOUL (P1.PN) (M.Lindsay),Foul,Shooting,0,0,0,0,,,h
+S2324-G1126,3,00:04.800000,LAC,,UTA,,D. Theis,LAC,Theis S.FOUL (P2.PN) (R.Acosta),Foul,Shooting,0,0,0,0,,,h
+S2324-G1126,4,09:53,LAC,110.0,UTA,83.0,D. Theis,LAC,Theis 1' Running Layup (7 PTS) (Harden 15 AST),Made Shot,Running Layup Shot,-5,6,1,1,2.0,2.0,h
+S2324-G1126,4,07:37,LAC,,UTA,,D. Theis,LAC,MISS Theis 4' Finger Roll Layup,Missed Shot,Finger Roll Layup Shot,37,25,4,1,2.0,0.0,h
+S2324-G1126,4,07:34,LAC,,UTA,,D. Theis,LAC,Theis REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1126,4,07:32,LAC,114.0,UTA,89.0,D. Theis,LAC,Theis 2' Floating Jump Shot (9 PTS),Made Shot,Floating Jump shot,-6,20,2,1,2.0,2.0,h
+S2324-G1126,4,07:10,LAC,116.0,UTA,89.0,D. Theis,LAC,Theis 1' Running Dunk (11 PTS) (Westbrook 4 AST),Made Shot,Running Dunk Shot,-5,1,1,1,2.0,2.0,h
+S2324-G1126,4,07:09,LAC,,UTA,,D. Theis,LAC,SUB: Hyland FOR Theis,Substitution,,0,0,0,0,,,h
+S2324-G0486,1,02:05,NOP,,LAC,,D. Theis,LAC,Theis P.FOUL (P1.T4) (J.Reneau),Foul,Personal,0,0,0,0,,,v
+S2324-G0486,1,01:55,NOP,,LAC,,D. Theis,LAC,Theis REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0486,1,01:04,NOP,,LAC,,D. Theis,LAC,Theis REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0486,1,00:01.100000,NOP,,LAC,,D. Theis,LAC,Theis REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0486,1,00:00,NOP,,LAC,,D. Theis,LAC,MISS Theis 56' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-31,558,56,1,3.0,0.0,v
+S2324-G0486,2,09:56,NOP,,LAC,,D. Theis,LAC,SUB: Zubac FOR Theis,Substitution,,0,0,0,0,,,v
+S2324-G0486,4,10:49,NOP,,LAC,,D. Theis,LAC,Theis Bad Pass Turnover (P1.T10),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0486,4,08:47,NOP,,LAC,,D. Theis,LAC,Theis REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0486,4,08:46,NOP,,LAC,,D. Theis,LAC,MISS Theis 3' Layup,Missed Shot,Layup Shot,-23,11,3,1,2.0,0.0,v
+S2324-G0486,4,07:53,NOP,,LAC,,D. Theis,LAC,Theis REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0486,4,07:53,NOP,70.0,LAC,97.0,D. Theis,LAC,Theis Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2324-G0486,4,07:11,NOP,,LAC,,D. Theis,LAC,SUB: Mann FOR Theis,Substitution,,0,0,0,0,,,v
+S2324-G0982,1,02:08,LAC,,ATL,,D. Theis,LAC,MISS Theis 13' Jump Shot,Missed Shot,Jump Shot,118,52,13,1,2.0,0.0,h
+S2324-G0982,2,11:02,LAC,,ATL,,D. Theis,LAC,Theis Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0982,2,10:30,LAC,,ATL,,D. Theis,LAC,Theis S.FOUL (P1.T1) (M.Ervin),Foul,Shooting,0,0,0,0,,,h
+S2324-G0982,2,09:32,LAC,,ATL,,D. Theis,LAC,Theis REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0982,2,08:36,LAC,,ATL,,D. Theis,LAC,Theis REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0982,2,07:50,LAC,,ATL,,D. Theis,LAC,MISS Theis 3' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,7,34,3,1,2.0,0.0,h
+S2324-G0982,2,07:47,LAC,,ATL,,D. Theis,LAC,Theis REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0982,2,07:38,LAC,,ATL,,D. Theis,LAC,SUB: Leonard FOR Theis,Substitution,,0,0,0,0,,,h
+S2324-G1215,1,02:51,LAC,,DEN,,D. Theis,LAC,Theis BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G1215,1,02:02,LAC,,DEN,,D. Theis,LAC,Theis REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1215,1,01:55,LAC,,DEN,,D. Theis,LAC,Theis REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1215,1,01:53,LAC,,DEN,,D. Theis,LAC,MISS Theis 24' 3PT Jump Shot,Missed Shot,Jump Shot,-237,-23,24,1,3.0,0.0,h
+S2324-G1215,1,01:24,LAC,,DEN,,D. Theis,LAC,MISS Theis 7' Jump Shot,Missed Shot,Jump Shot,-72,-10,7,1,2.0,0.0,h
+S2324-G1215,1,01:14,LAC,,DEN,,D. Theis,LAC,Theis REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1215,1,00:51.700000,LAC,,DEN,,D. Theis,LAC,Theis BLOCK (2 BLK),,,0,0,0,0,,,h
+S2324-G1215,2,11:44,LAC,,DEN,,D. Theis,LAC,Theis REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1215,2,11:37,LAC,24.0,DEN,36.0,D. Theis,LAC,Theis 26' 3PT Jump Shot (3 PTS) (Harden 3 AST),Made Shot,Jump Shot,37,257,26,1,3.0,3.0,h
+S2324-G1215,2,10:34,LAC,26.0,DEN,38.0,D. Theis,LAC,Theis 10' Floating Jump Shot (5 PTS) (Harden 4 AST),Made Shot,Floating Jump shot,-49,90,10,1,2.0,2.0,h
+S2324-G1215,2,10:12,LAC,,DEN,,D. Theis,LAC,Theis REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1215,2,10:02,LAC,29.0,DEN,38.0,D. Theis,LAC,Theis 26' 3PT Jump Shot (8 PTS) (Brown 1 AST),Made Shot,Jump Shot,-104,241,26,1,3.0,3.0,h
+S2324-G1215,2,07:27,LAC,,DEN,,D. Theis,LAC,Theis REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1215,2,06:34,LAC,,DEN,,D. Theis,LAC,Theis REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1215,2,05:44,LAC,,DEN,,D. Theis,LAC,Theis S.FOUL (P1.T2) (D.Richardson),Foul,Shooting,0,0,0,0,,,h
+S2324-G1215,2,05:44,LAC,,DEN,,D. Theis,LAC,SUB: Zubac FOR Theis,Substitution,,0,0,0,0,,,h
+S2324-G1215,2,00:38.200000,LAC,,DEN,,D. Theis,LAC,Theis Traveling Turnover (P1.T5),Turnover,Traveling,0,0,0,0,,,h
+S2324-G1215,3,03:12,LAC,,DEN,,D. Theis,LAC,MISS Theis 3PT Jump Shot,Missed Shot,Jump Shot,-232,37,0,1,3.0,0.0,h
+S2324-G1215,3,02:13,LAC,,DEN,,D. Theis,LAC,Theis P.FOUL (P2.T2) (R.Acosta),Foul,Personal,0,0,0,0,,,h
+S2324-G1215,3,01:46,LAC,,DEN,,D. Theis,LAC,Theis REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1215,3,01:45,LAC,,DEN,,D. Theis,LAC,MISS Theis 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,9,7,1,1,2.0,0.0,h
+S2324-G1215,3,01:35,LAC,,DEN,,D. Theis,LAC,Theis REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1215,3,00:54.700000,LAC,,DEN,,D. Theis,LAC,MISS Theis 12' Floating Jump Shot,Missed Shot,Floating Jump shot,-113,50,12,1,2.0,0.0,h
+S2324-G1215,4,11:35,LAC,,DEN,,D. Theis,LAC,Theis REBOUND (Off:4 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1215,4,11:11,LAC,,DEN,,D. Theis,LAC,Theis BLOCK (3 BLK),,,0,0,0,0,,,h
+S2324-G1215,4,08:22,LAC,,DEN,,D. Theis,LAC,Theis REBOUND (Off:5 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1215,4,07:02,LAC,,DEN,,D. Theis,LAC,SUB: Zubac FOR Theis,Substitution,,0,0,0,0,,,h
+S2324-G0280,1,03:02,LAC,,GSW,,D. Theis,LAC,Theis BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0280,1,00:45.600000,LAC,,GSW,,D. Theis,LAC,MISS Theis 26' 3PT Jump Shot,Missed Shot,Jump Shot,138,216,26,1,3.0,0.0,h
+S2324-G0280,1,00:29.200000,LAC,,GSW,,D. Theis,LAC,MISS Theis 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,4,32,3,1,2.0,0.0,h
+S2324-G0280,2,03:42,LAC,,GSW,,D. Theis,LAC,Theis OFF.Foul (P1) (L.Wood),Foul,Offensive,0,0,0,0,,,h
+S2324-G0280,2,03:42,LAC,,GSW,,D. Theis,LAC,Theis Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0280,2,02:54,LAC,,GSW,,D. Theis,LAC,Theis STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0280,2,02:33,LAC,,GSW,,D. Theis,LAC,Theis REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0280,2,02:28,LAC,46.0,GSW,55.0,D. Theis,LAC,Theis Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2324-G0280,2,02:20,LAC,,GSW,,D. Theis,LAC,Theis S.FOUL (P2.PN) (J.Tiven),Foul,Shooting,0,0,0,0,,,h
+S2324-G0280,2,02:04,LAC,48.0,GSW,57.0,D. Theis,LAC,Theis 7' Turnaround Jump Shot (4 PTS) (Leonard 2 AST),Made Shot,Turnaround Jump Shot,-43,58,7,1,2.0,2.0,h
+S2324-G0280,2,00:39.900000,LAC,,GSW,,D. Theis,LAC,Theis Violation:Kicked Ball (J.Tiven),Violation,Kicked Ball,0,0,0,0,,,h
+S2324-G0280,2,00:39.900000,LAC,,GSW,,D. Theis,LAC,SUB: Mann FOR Theis,Substitution,,0,0,0,0,,,h
+S2324-G0280,3,02:02,LAC,,GSW,,D. Theis,LAC,Theis REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0280,3,01:54,LAC,80.0,GSW,87.0,D. Theis,LAC,Theis Dunk (6 PTS) (Leonard 6 AST),Made Shot,Dunk Shot,-2,-1,0,1,2.0,2.0,h
+S2324-G0280,3,01:12,LAC,,GSW,,D. Theis,LAC,Theis REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0280,3,01:11,LAC,,GSW,,D. Theis,LAC,MISS Theis 5' Putback Layup,Missed Shot,Putback Layup Shot,37,27,5,1,2.0,0.0,h
+S2324-G0280,3,00:41.300000,LAC,85.0,GSW,87.0,D. Theis,LAC,Theis 2' Running Layup (8 PTS) (Westbrook 2 AST),Made Shot,Running Layup Shot,15,5,2,1,2.0,2.0,h
+S2324-G0280,4,10:49,LAC,,GSW,,D. Theis,LAC,Theis S.FOUL (P3.T2) (K.Cutler),Foul,Shooting,0,0,0,0,,,h
+S2324-G0280,4,10:01,LAC,,GSW,,D. Theis,LAC,MISS Theis 7' Floating Jump Shot,Missed Shot,Floating Jump shot,32,67,7,1,2.0,0.0,h
+S2324-G0280,4,08:23,LAC,,GSW,,D. Theis,LAC,Theis Violation:Kicked Ball (J.Tiven),Violation,Kicked Ball,0,0,0,0,,,h
+S2324-G0280,4,07:30,LAC,95.0,GSW,98.0,D. Theis,LAC,Theis 3' Cutting Layup Shot (10 PTS) (Leonard 7 AST),Made Shot,Cutting Layup Shot,29,4,3,1,2.0,2.0,h
+S2324-G0280,4,06:47,LAC,,GSW,,D. Theis,LAC,MISS Theis 25' 3PT Jump Shot,Missed Shot,Jump Shot,-18,247,25,1,3.0,0.0,h
+S2324-G0280,4,06:03,LAC,97.0,GSW,100.0,D. Theis,LAC,Theis 1' Cutting Dunk Shot (12 PTS) (George 5 AST),Made Shot,Cutting Dunk Shot,-5,-1,1,1,2.0,2.0,h
+S2324-G0280,4,04:46,LAC,,GSW,,D. Theis,LAC,Theis REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0280,4,01:43,LAC,,GSW,,D. Theis,LAC,Theis BLOCK (2 BLK),,,0,0,0,0,,,h
+S2324-G0280,4,01:22,LAC,,GSW,,D. Theis,LAC,SUB: Powell FOR Theis,Substitution,,0,0,0,0,,,h
+S2324-G0280,4,00:38.100000,LAC,,GSW,,D. Theis,LAC,SUB: Mann FOR Theis,Substitution,,0,0,0,0,,,h
+S2324-G1184,2,08:36,LAC,,UTA,,D. Theis,LAC,Theis S.FOUL (P1.T4) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,h
+S2324-G1184,2,07:33,LAC,,UTA,,D. Theis,LAC,Theis REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1184,2,06:38,LAC,,UTA,,D. Theis,LAC,Theis REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1184,2,06:28,LAC,,UTA,,D. Theis,LAC,MISS Theis 27' 3PT Jump Shot,Missed Shot,Jump Shot,-61,262,27,1,3.0,0.0,h
+S2324-G1184,2,05:24,LAC,,UTA,,D. Theis,LAC,Theis Traveling Turnover (P1.T5),Turnover,Traveling,0,0,0,0,,,h
+S2324-G1184,2,04:22,LAC,49.0,UTA,53.0,D. Theis,LAC,Theis Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1184,2,04:22,LAC,50.0,UTA,53.0,D. Theis,LAC,Theis Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1184,2,01:25,LAC,,UTA,,D. Theis,LAC,Theis REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1184,2,01:25,LAC,,UTA,,D. Theis,LAC,MISS Theis 5' Putback Layup,Missed Shot,Putback Layup Shot,-21,42,5,1,2.0,0.0,h
+S2324-G1184,2,01:22,LAC,,UTA,,D. Theis,LAC,Theis REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1184,2,01:22,LAC,56.0,UTA,59.0,D. Theis,LAC,Theis Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2324-G1184,3,00:41.600000,LAC,,UTA,,D. Theis,LAC,MISS Theis 27' 3PT Jump Shot,Missed Shot,Jump Shot,-138,234,27,1,3.0,0.0,h
+S2324-G1184,4,11:07,LAC,87.0,UTA,90.0,D. Theis,LAC,Theis 7' Hook Shot (6 PTS) (Moon 3 AST),Made Shot,Hook Shot,-11,69,7,1,2.0,2.0,h
+S2324-G1184,4,10:54,LAC,,UTA,,D. Theis,LAC,Theis BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G1184,4,09:14,LAC,92.0,UTA,94.0,D. Theis,LAC,Theis 2' Layup (8 PTS) (Boston Jr. 1 AST),Made Shot,Layup Shot,-11,15,2,1,2.0,2.0,h
+S2324-G1184,4,07:42,LAC,,UTA,,D. Theis,LAC,Theis BLOCK (2 BLK),,,0,0,0,0,,,h
+S2324-G1184,4,07:32,LAC,,UTA,,D. Theis,LAC,Theis REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1184,4,07:32,LAC,,UTA,,D. Theis,LAC,Theis REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1184,4,07:32,LAC,96.0,UTA,96.0,D. Theis,LAC,Theis Putback Layup (10 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,h
+S2324-G1184,4,05:35,LAC,98.0,UTA,100.0,D. Theis,LAC,Theis Driving Dunk (12 PTS) (Hyland 4 AST),Made Shot,Driving Dunk Shot,-2,4,0,1,2.0,2.0,h
+S2324-G1184,4,01:33,LAC,107.0,UTA,110.0,D. Theis,LAC,Theis 1' Dunk (14 PTS) (Brown 2 AST),Made Shot,Dunk Shot,4,9,1,1,2.0,2.0,h
+S2324-G1184,4,00:07.500000,LAC,,UTA,,D. Theis,LAC,Theis REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0264,1,02:39,SAC,,LAC,,D. Theis,LAC,Theis REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0264,1,02:39,SAC,,LAC,,D. Theis,LAC,MISS Theis Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2324-G0264,1,00:49.500000,SAC,,LAC,,D. Theis,LAC,Theis S.FOUL (P1.PN) (C.Blair),Foul,Shooting,0,0,0,0,,,v
+S2324-G0264,1,00:35.300000,SAC,,LAC,,D. Theis,LAC,MISS Theis 3' Layup,Missed Shot,Layup Shot,26,11,3,1,2.0,0.0,v
+S2324-G0264,1,00:09.600000,SAC,,LAC,,D. Theis,LAC,SUB: George FOR Theis,Substitution,,0,0,0,0,,,v
+S2324-G0264,2,11:44,SAC,,LAC,,D. Theis,LAC,Theis REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0264,2,11:44,SAC,27.0,LAC,37.0,D. Theis,LAC,Theis Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2324-G0264,2,10:05,SAC,,LAC,,D. Theis,LAC,Theis REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0264,2,10:05,SAC,,LAC,,D. Theis,LAC,MISS Theis Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2324-G0264,2,08:50,SAC,,LAC,,D. Theis,LAC,MISS Theis Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0264,2,08:50,SAC,33.0,LAC,41.0,D. Theis,LAC,Theis Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0264,2,08:32,SAC,35.0,LAC,43.0,D. Theis,LAC,Theis 11' Floating Jump Shot (5 PTS) (George 2 AST),Made Shot,Floating Jump shot,83,69,11,1,2.0,2.0,v
+S2324-G0264,2,07:00,SAC,,LAC,,D. Theis,LAC,SUB: Zubac FOR Theis,Substitution,,0,0,0,0,,,v
+S2324-G0264,3,00:52.100000,SAC,,LAC,,D. Theis,LAC,Theis S.FOUL (P2.PN) (C.Blair),Foul,Shooting,0,0,0,0,,,v
+S2324-G0264,3,00:09.200000,SAC,,LAC,,D. Theis,LAC,SUB: Brown FOR Theis,Substitution,,0,0,0,0,,,v
+S2324-G0264,4,08:08,SAC,,LAC,,D. Theis,LAC,Theis P.FOUL (P3.T3) (S.Mitchell),Foul,Personal,0,0,0,0,,,v
+S2324-G0264,4,07:37,SAC,,LAC,,D. Theis,LAC,Theis S.FOUL (P4.T4) (S.Mitchell),Foul,Shooting,0,0,0,0,,,v
+S2324-G0264,4,07:05,SAC,,LAC,,D. Theis,LAC,Theis S.FOUL (P5.PN) (C.Blair),Foul,Shooting,0,0,0,0,,,v
+S2324-G0264,4,06:35,SAC,,LAC,,D. Theis,LAC,SUB: Leonard FOR Theis,Substitution,,0,0,0,0,,,v
+S2324-G0458,1,00:34.700000,LAC,,MIA,,D. Theis,LAC,Theis S.FOUL (P1.PN) (M.Smith),Foul,Shooting,0,0,0,0,,,h
+S2324-G0458,1,00:01.600000,LAC,,MIA,,D. Theis,LAC,Theis Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0458,2,10:46,LAC,,MIA,,D. Theis,LAC,Theis S.FOUL (P2.T1) (E.Malloy),Foul,Shooting,0,0,0,0,,,h
+S2324-G0458,2,10:46,LAC,,MIA,,D. Theis,LAC,SUB: Zubac FOR Theis,Substitution,,0,0,0,0,,,h
+S2324-G0458,3,07:12,LAC,,MIA,,D. Theis,LAC,Theis L.B.FOUL (P3.T4) (M.Smith),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0458,3,06:02,LAC,,MIA,,D. Theis,LAC,Theis Traveling Turnover (P2.T11),Turnover,Traveling,0,0,0,0,,,h
+S2324-G0458,3,04:12,LAC,,MIA,,D. Theis,LAC,Theis REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0458,3,03:16,LAC,85.0,MIA,75.0,D. Theis,LAC,Theis 12' Jump Shot (2 PTS),Made Shot,Jump Shot,-45,112,12,1,2.0,2.0,h
+S2324-G0458,3,02:28,LAC,87.0,MIA,78.0,D. Theis,LAC,Theis 1' Cutting Dunk Shot (4 PTS) (Westbrook 1 AST),Made Shot,Cutting Dunk Shot,2,13,1,1,2.0,2.0,h
+S2324-G0458,3,02:05,LAC,88.0,MIA,80.0,D. Theis,LAC,Theis Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0458,3,02:05,LAC,89.0,MIA,80.0,D. Theis,LAC,Theis Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0458,4,07:43,LAC,,MIA,,D. Theis,LAC,MISS Theis 25' 3PT Jump Shot,Missed Shot,Jump Shot,-154,201,25,1,3.0,0.0,h
+S2324-G0458,4,07:27,LAC,,MIA,,D. Theis,LAC,SUB: Zubac FOR Theis,Substitution,,0,0,0,0,,,h
+S2324-G1199,1,03:54,LAC,,HOU,,D. Theis,LAC,Theis STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1199,1,03:47,LAC,17.0,HOU,20.0,D. Theis,LAC,Theis 12' Floating Jump Shot (2 PTS) (Coffey 1 AST),Made Shot,Floating Jump shot,5,120,12,1,2.0,2.0,h
+S2324-G1199,1,01:01,LAC,,HOU,,D. Theis,LAC,Theis BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G1199,2,11:31,LAC,23.0,HOU,27.0,D. Theis,LAC,Theis 4' Cutting Dunk Shot (4 PTS) (Moon 1 AST),Made Shot,Cutting Dunk Shot,11,38,4,1,2.0,2.0,h
+S2324-G1199,2,11:17,LAC,,HOU,,D. Theis,LAC,Theis STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G1199,2,08:30,LAC,,HOU,,D. Theis,LAC,Theis REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1199,2,08:30,LAC,,HOU,,D. Theis,LAC,MISS Theis Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2324-G1199,2,08:29,LAC,,HOU,,D. Theis,LAC,SUB: Plumlee FOR Theis,Substitution,,0,0,0,0,,,h
+S2324-G1199,2,03:34,LAC,,HOU,,D. Theis,LAC,Theis REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1199,2,03:34,LAC,41.0,HOU,46.0,D. Theis,LAC,Theis Tip Dunk Shot (6 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,h
+S2324-G1199,2,02:51,LAC,,HOU,,D. Theis,LAC,Theis REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1199,2,02:51,LAC,43.0,HOU,46.0,D. Theis,LAC,Theis 2' Tip Dunk Shot (8 PTS),Made Shot,Tip Dunk Shot,-9,13,2,1,2.0,2.0,h
+S2324-G1199,2,01:02,LAC,,HOU,,D. Theis,LAC,Theis REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1199,2,00:41.900000,LAC,,HOU,,D. Theis,LAC,Theis REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1199,3,04:59,LAC,67.0,HOU,72.0,D. Theis,LAC,Theis 27' 3PT Jump Shot (11 PTS) (Brown 3 AST),Made Shot,Jump Shot,-153,220,27,1,3.0,3.0,h
+S2324-G1199,3,04:38,LAC,,HOU,,D. Theis,LAC,Theis REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1199,3,02:37,LAC,,HOU,,D. Theis,LAC,Theis BLOCK (2 BLK),,,0,0,0,0,,,h
+S2324-G1199,3,02:14,LAC,,HOU,,D. Theis,LAC,Theis REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1199,3,02:08,LAC,75.0,HOU,76.0,D. Theis,LAC,Theis Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1199,3,02:08,LAC,76.0,HOU,76.0,D. Theis,LAC,Theis Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1199,3,00:45.500000,LAC,,HOU,,D. Theis,LAC,MISS Theis 3PT Jump Shot,Missed Shot,Jump Shot,-226,-1,0,1,3.0,0.0,h
+S2324-G1199,4,11:47,LAC,,HOU,,D. Theis,LAC,MISS Theis 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-221,71,0,1,3.0,0.0,h
+S2324-G1199,4,11:35,LAC,,HOU,,D. Theis,LAC,Theis REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1199,4,10:35,LAC,,HOU,,D. Theis,LAC,Theis REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1199,4,10:26,LAC,,HOU,,D. Theis,LAC,MISS Theis 28' 3PT Jump Shot,Missed Shot,Jump Shot,42,277,28,1,3.0,0.0,h
+S2324-G1199,4,10:04,LAC,,HOU,,D. Theis,LAC,Theis REBOUND (Off:3 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1199,4,08:19,LAC,,HOU,,D. Theis,LAC,MISS Theis 7' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,0,71,7,1,2.0,0.0,h
+S2324-G1199,4,05:58,LAC,,HOU,,D. Theis,LAC,Theis S.FOUL (P1.T1) (T.Ford),Foul,Shooting,0,0,0,0,,,h
+S2324-G1199,4,04:44,LAC,,HOU,,D. Theis,LAC,Theis S.FOUL (P2.T2) (T.Ford),Foul,Shooting,0,0,0,0,,,h
+S2324-G1199,4,04:11,LAC,,HOU,,D. Theis,LAC,Theis REBOUND (Off:3 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1199,4,02:07,LAC,,HOU,,D. Theis,LAC,Theis Bad Pass Turnover (P1.T12),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G1199,4,01:38,LAC,,HOU,,D. Theis,LAC,MISS Theis 25' 3PT Jump Shot,Missed Shot,Jump Shot,-234,83,25,1,3.0,0.0,h
+S2324-G1199,4,00:03,LAC,105.0,HOU,116.0,D. Theis,LAC,Theis 3PT Jump Shot (16 PTS) (Brown 4 AST),Made Shot,Jump Shot,232,5,0,1,3.0,3.0,h
+S2324-G0618,1,03:27,LAC,,LAL,,D. Theis,LAC,Theis REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0618,1,02:46,LAC,,LAL,,D. Theis,LAC,MISS Theis 26' 3PT Jump Shot,Missed Shot,Jump Shot,162,201,26,1,3.0,0.0,h
+S2324-G0618,1,01:21,LAC,,LAL,,D. Theis,LAC,Theis S.FOUL (P1.T4) (K.Lane),Foul,Shooting,0,0,0,0,,,h
+S2324-G0618,2,09:39,LAC,,LAL,,D. Theis,LAC,Theis S.FOUL (P2.T2) (K.Scott),Foul,Shooting,0,0,0,0,,,h
+S2324-G0618,2,08:12,LAC,,LAL,,D. Theis,LAC,MISS Theis 26' 3PT Jump Shot,Missed Shot,Jump Shot,99,239,26,1,3.0,0.0,h
+S2324-G0618,2,07:11,LAC,53.0,LAL,44.0,D. Theis,LAC,Theis 1' Running Finger Roll Layup (2 PTS) (Harden 4 AST),Made Shot,Running Finger Roll Layup Shot,7,8,1,1,2.0,2.0,h
+S2324-G0618,2,07:11,LAC,54.0,LAL,44.0,D. Theis,LAC,Theis Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G0618,2,05:45,LAC,,LAL,,D. Theis,LAC,Theis S.FOUL (P3.T3) (K.Scott),Foul,Shooting,0,0,0,0,,,h
+S2324-G0618,2,05:45,LAC,,LAL,,D. Theis,LAC,SUB: Plumlee FOR Theis,Substitution,,0,0,0,0,,,h
+S2324-G0618,3,01:53,LAC,,LAL,,D. Theis,LAC,Theis L.B.FOUL (P4.T4) (K.Scott),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0618,3,01:01,LAC,,LAL,,D. Theis,LAC,Theis REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0618,4,10:30,LAC,,LAL,,D. Theis,LAC,Theis S.FOUL (P5.T1) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,h
+S2324-G0618,4,09:01,LAC,,LAL,,D. Theis,LAC,SUB: Leonard FOR Theis,Substitution,,0,0,0,0,,,h
+S2324-G0618,4,00:13,LAC,,LAL,,D. Theis,LAC,Theis STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0511,1,01:14,LAC,,PHX,,D. Theis,LAC,MISS Theis 5' Layup,Missed Shot,Layup Shot,21,48,5,1,2.0,0.0,h
+S2324-G0511,2,11:51,LAC,,PHX,,D. Theis,LAC,Theis OFF.Foul (P1) (Z.Zarba),Foul,Offensive,0,0,0,0,,,h
+S2324-G0511,2,11:51,LAC,,PHX,,D. Theis,LAC,Theis Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0511,2,10:59,LAC,,PHX,,D. Theis,LAC,Theis BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0511,2,10:49,LAC,,PHX,,D. Theis,LAC,Theis REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0511,2,09:20,LAC,,PHX,,D. Theis,LAC,MISS Theis 4' Alley Oop Dunk,Missed Shot,Alley Oop Dunk Shot,28,30,4,1,2.0,0.0,h
+S2324-G0511,2,08:38,LAC,,PHX,,D. Theis,LAC,Theis REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0511,2,08:36,LAC,42.0,PHX,40.0,D. Theis,LAC,Theis 1' Cutting Dunk Shot (2 PTS) (Leonard 1 AST),Made Shot,Cutting Dunk Shot,1,5,1,1,2.0,2.0,h
+S2324-G0511,2,08:24,LAC,,PHX,,D. Theis,LAC,Theis S.FOUL (P2.T3) (M.Kallio),Foul,Shooting,0,0,0,0,,,h
+S2324-G0511,2,07:51,LAC,,PHX,,D. Theis,LAC,MISS Theis 25' 3PT Jump Shot,Missed Shot,Jump Shot,-138,209,25,1,3.0,0.0,h
+S2324-G0511,2,06:48,LAC,,PHX,,D. Theis,LAC,SUB: Zubac FOR Theis,Substitution,,0,0,0,0,,,h
+S2324-G0511,4,10:25,LAC,,PHX,,D. Theis,LAC,Theis S.FOUL (P3.T2) (J.Goble),Foul,Shooting,0,0,0,0,,,h
+S2324-G0511,4,08:46,LAC,,PHX,,D. Theis,LAC,Theis REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0511,4,08:46,LAC,111.0,PHX,96.0,D. Theis,LAC,Theis Tip Dunk Shot (4 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,h
+S2324-G0511,4,08:28,LAC,,PHX,,D. Theis,LAC,Theis STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0511,4,05:12,LAC,124.0,PHX,100.0,D. Theis,LAC,Theis 2' Layup (6 PTS) (Harden 10 AST),Made Shot,Layup Shot,-12,18,2,1,2.0,2.0,h
+S2324-G0511,4,04:38,LAC,,PHX,,D. Theis,LAC,SUB: Boston Jr. FOR Theis,Substitution,,0,0,0,0,,,h
+S2324-G1101,2,11:01,SAC,,LAC,,D. Theis,LAC,MISS Theis 9' Turnaround Bank Shot,Missed Shot,Turnaround Bank shot,17,93,9,1,2.0,0.0,v
+S2324-G1101,2,10:12,SAC,,LAC,,D. Theis,LAC,Theis S.FOUL (P1.T3) (S.Foster),Foul,Shooting,0,0,0,0,,,v
+S2324-G1101,2,09:41,SAC,,LAC,,D. Theis,LAC,Theis S.FOUL (P2.T4) (S.Foster),Foul,Shooting,0,0,0,0,,,v
+S2324-G1101,2,08:37,SAC,,LAC,,D. Theis,LAC,SUB: Zubac FOR Theis,Substitution,,0,0,0,0,,,v
+S2324-G1101,4,09:17,SAC,,LAC,,D. Theis,LAC,Theis REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1101,4,08:54,SAC,,LAC,,D. Theis,LAC,Theis REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1101,4,07:23,SAC,,LAC,,D. Theis,LAC,Theis P.FOUL (P3.T3) (J.Butler),Foul,Personal,0,0,0,0,,,v
+S2324-G1101,4,05:52,SAC,,LAC,,D. Theis,LAC,Theis REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1101,4,05:19,SAC,,LAC,,D. Theis,LAC,Theis REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1101,4,04:21,SAC,104.0,LAC,88.0,D. Theis,LAC,Theis 26' 3PT Jump Shot (3 PTS) (Westbrook 2 AST),Made Shot,Jump Shot,-4,260,26,1,3.0,3.0,v
+S2324-G1101,4,02:31,SAC,,LAC,,D. Theis,LAC,Theis REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1101,4,02:31,SAC,,LAC,,D. Theis,LAC,MISS Theis Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2324-G0897,1,05:31,HOU,15.0,LAC,11.0,D. Theis,LAC,Theis 14' Jump Shot (2 PTS) (Harden 1 AST),Made Shot,Jump Shot,-62,121,14,1,2.0,2.0,v
+S2324-G0897,1,04:15,HOU,,LAC,,D. Theis,LAC,Theis Violation:Kicked Ball (T.Washington),Violation,Kicked Ball,0,0,0,0,,,v
+S2324-G0897,1,02:16,HOU,,LAC,,D. Theis,LAC,Theis OFF.Foul (P1) (S.Corbin),Foul,Offensive,0,0,0,0,,,v
+S2324-G0897,1,02:16,HOU,,LAC,,D. Theis,LAC,Theis Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0897,1,01:28,HOU,,LAC,,D. Theis,LAC,Theis L.B.FOUL (P2.T2) (T.Washington),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0897,1,00:41,HOU,,LAC,,D. Theis,LAC,Theis BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0897,1,00:34.100000,HOU,,LAC,,D. Theis,LAC,SUB: Mann FOR Theis,Substitution,,0,0,0,0,,,v
+S2324-G0897,3,04:37,HOU,,LAC,,D. Theis,LAC,Theis S.FOUL (P3.T4) (S.Corbin),Foul,Shooting,0,0,0,0,,,v
+S2324-G0897,3,04:04,HOU,,LAC,,D. Theis,LAC,Theis REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0897,3,03:56,HOU,,LAC,,D. Theis,LAC,MISS Theis 11' Floating Jump Shot,Missed Shot,Floating Jump shot,9,108,11,1,2.0,0.0,v
+S2324-G0897,3,03:27,HOU,79.0,LAC,70.0,D. Theis,LAC,Theis 1' Driving Dunk (4 PTS) (Harden 3 AST),Made Shot,Driving Dunk Shot,2,10,1,1,2.0,2.0,v
+S2324-G0897,3,03:09,HOU,,LAC,,D. Theis,LAC,Theis S.FOUL (P4.PN) (N.Buchert),Foul,Shooting,0,0,0,0,,,v
+S2324-G0897,3,02:31,HOU,81.0,LAC,74.0,D. Theis,LAC,Theis 3' Running Layup (6 PTS) (Leonard 6 AST),Made Shot,Running Layup Shot,26,10,3,1,2.0,2.0,v
+S2324-G0897,3,02:02,HOU,,LAC,,D. Theis,LAC,SUB: Plumlee FOR Theis,Substitution,,0,0,0,0,,,v
+S2324-G0244,1,01:26,LAC,,DAL,,D. Theis,LAC,MISS Theis 10' Floating Jump Shot,Missed Shot,Floating Jump shot,69,77,10,1,2.0,0.0,h
+S2324-G0244,1,00:34.500000,LAC,,DAL,,D. Theis,LAC,Theis BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0244,1,00:24,LAC,29.0,DAL,18.0,D. Theis,LAC,Theis Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0244,1,00:24,LAC,,DAL,,D. Theis,LAC,MISS Theis Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0244,2,10:51,LAC,,DAL,,D. Theis,LAC,Theis Violation:Kicked Ball (T.Brothers),Violation,Kicked Ball,0,0,0,0,,,h
+S2324-G0244,2,09:50,LAC,,DAL,,D. Theis,LAC,Theis REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0244,2,08:20,LAC,,DAL,,D. Theis,LAC,Theis P.FOUL (P1.T3) (R.Mott),Foul,Personal,0,0,0,0,,,h
+S2324-G0244,2,08:13,LAC,,DAL,,D. Theis,LAC,Theis REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0244,2,08:05,LAC,40.0,DAL,22.0,D. Theis,LAC,Theis 1' Alley Oop Dunk (3 PTS) (George 1 AST),Made Shot,Alley Oop Dunk Shot,2,5,1,1,2.0,2.0,h
+S2324-G0244,2,07:31,LAC,,DAL,,D. Theis,LAC,Theis Traveling Turnover (P1.T4),Turnover,Traveling,0,0,0,0,,,h
+S2324-G0244,2,07:15,LAC,,DAL,,D. Theis,LAC,Theis S.FOUL (P2.T4) (T.Brothers),Foul,Shooting,0,0,0,0,,,h
+S2324-G0244,2,06:37,LAC,,DAL,,D. Theis,LAC,Theis REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0244,2,06:37,LAC,44.0,DAL,26.0,D. Theis,LAC,Theis Tip Layup Shot (5 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2324-G0244,2,05:29,LAC,,DAL,,D. Theis,LAC,MISS Theis 26' 3PT Jump Shot,Missed Shot,Jump Shot,-4,261,26,1,3.0,0.0,h
+S2324-G0244,2,04:41,LAC,,DAL,,D. Theis,LAC,SUB: Zubac FOR Theis,Substitution,,0,0,0,0,,,h
+S2324-G0244,3,02:19,LAC,,DAL,,D. Theis,LAC,MISS Theis 4' Layup,Missed Shot,Layup Shot,-34,11,4,1,2.0,0.0,h
+S2324-G0244,4,10:16,LAC,,DAL,,D. Theis,LAC,MISS Theis 2' Layup,Missed Shot,Layup Shot,23,0,2,1,2.0,0.0,h
+S2324-G0244,4,08:55,LAC,,DAL,,D. Theis,LAC,Theis Violation:Defensive Goaltending (R.Mott),Violation,Defensive Goaltending,0,0,0,0,,,h
+S2324-G0244,4,08:42,LAC,,DAL,,D. Theis,LAC,SUB: Leonard FOR Theis,Substitution,,0,0,0,0,,,h
+S2324-G0880,1,04:25,MIL,,LAC,,D. Theis,LAC,MISS Theis 12' Jump Shot,Missed Shot,Jump Shot,-123,-4,12,1,2.0,0.0,v
+S2324-G0880,1,03:22,MIL,,LAC,,D. Theis,LAC,Theis REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0880,1,03:07,MIL,,LAC,,D. Theis,LAC,Theis REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0880,1,02:32,MIL,,LAC,,D. Theis,LAC,Theis REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0880,1,01:38,MIL,23.0,LAC,30.0,D. Theis,LAC,Theis 26' 3PT Jump Shot (3 PTS) (Leonard 3 AST),Made Shot,Jump Shot,-29,263,26,1,3.0,3.0,v
+S2324-G0880,1,00:04.300000,MIL,,LAC,,D. Theis,LAC,SUB: Hyland FOR Theis,Substitution,,0,0,0,0,,,v
+S2324-G0880,2,10:10,MIL,,LAC,,D. Theis,LAC,MISS Theis 16' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,83,142,16,1,2.0,0.0,v
+S2324-G0880,2,06:19,MIL,38.0,LAC,45.0,D. Theis,LAC,Theis 11' Driving Floating Jump Shot (5 PTS) (Harden 3 AST),Made Shot,Driving Floating Jump Shot,7,113,11,1,2.0,2.0,v
+S2324-G0880,2,06:19,MIL,,LAC,,D. Theis,LAC,SUB: Zubac FOR Theis,Substitution,,0,0,0,0,,,v
+S2324-G0880,3,03:46,MIL,,LAC,,D. Theis,LAC,MISS Theis 24' 3PT Jump Shot,Missed Shot,Jump Shot,237,17,24,1,3.0,0.0,v
+S2324-G0880,3,02:33,MIL,,LAC,,D. Theis,LAC,Theis REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0880,3,02:08,MIL,,LAC,,D. Theis,LAC,Theis REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0880,3,00:57.200000,MIL,,LAC,,D. Theis,LAC,Theis REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0880,3,00:40.900000,MIL,68.0,LAC,81.0,D. Theis,LAC,Theis Layup (7 PTS) (Hyland 1 AST),Made Shot,Layup Shot,0,4,0,1,2.0,2.0,v
+S2324-G0880,3,00:35.200000,MIL,,LAC,,D. Theis,LAC,SUB: George FOR Theis,Substitution,,0,0,0,0,,,v
+S2324-G0438,1,01:08,LAC,,MEM,,D. Theis,LAC,Theis BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0438,1,00:47.600000,LAC,,MEM,,D. Theis,LAC,Theis REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0438,2,09:08,LAC,44.0,MEM,29.0,D. Theis,LAC,Theis 1' Alley Oop Dunk (2 PTS) (Harden 7 AST),Made Shot,Alley Oop Dunk Shot,-2,6,1,1,2.0,2.0,h
+S2324-G0438,2,08:29,LAC,,MEM,,D. Theis,LAC,MISS Theis 26' 3PT Jump Shot,Missed Shot,Jump Shot,-135,228,26,1,3.0,0.0,h
+S2324-G0438,2,08:09,LAC,,MEM,,D. Theis,LAC,MISS Theis Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0438,2,08:09,LAC,45.0,MEM,34.0,D. Theis,LAC,Theis Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0438,2,07:06,LAC,,MEM,,D. Theis,LAC,SUB: Zubac FOR Theis,Substitution,,0,0,0,0,,,h
+S2324-G0438,3,00:01.100000,LAC,,MEM,,D. Theis,LAC,Theis OFF.Foul (P1) (B.Kennedy),Foul,Offensive,0,0,0,0,,,h
+S2324-G0438,3,00:01.100000,LAC,,MEM,,D. Theis,LAC,Theis Offensive Foul Turnover (P1.T10),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0438,4,11:30,LAC,96.0,MEM,75.0,D. Theis,LAC,Theis 1' Dunk (5 PTS) (Westbrook 6 AST),Made Shot,Dunk Shot,1,5,1,1,2.0,2.0,h
+S2324-G0438,4,11:17,LAC,,MEM,,D. Theis,LAC,Theis BLOCK (2 BLK),,,0,0,0,0,,,h
+S2324-G0438,4,09:21,LAC,,MEM,,D. Theis,LAC,Theis REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0438,4,08:41,LAC,,MEM,,D. Theis,LAC,Theis Transition Take Foul (P2.T3) (J.Sterling),Foul                                    ,Transition Take,0,0,0,0,,,h
+S2324-G0438,4,07:51,LAC,,MEM,,D. Theis,LAC,Theis S.FOUL (P3.T4) (S.Twardoski),Foul,Shooting,0,0,0,0,,,h
+S2324-G0438,4,07:51,LAC,,MEM,,D. Theis,LAC,SUB: Zubac FOR Theis,Substitution,,0,0,0,0,,,h
+S2324-G0414,1,01:59,LAC,,CHA,,D. Theis,LAC,Theis REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0414,1,01:51,LAC,,CHA,,D. Theis,LAC,Theis Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0414,1,01:40,LAC,22.0,CHA,24.0,D. Theis,LAC,Theis 2' Reverse Layup (2 PTS) (Westbrook 2 AST),Made Shot,Reverse Layup Shot,2,21,2,1,2.0,2.0,h
+S2324-G0414,2,10:42,LAC,30.0,CHA,27.0,D. Theis,LAC,Theis 2' Cutting Layup Shot (4 PTS) (Brown 1 AST),Made Shot,Cutting Layup Shot,-9,16,2,1,2.0,2.0,h
+S2324-G0414,2,09:25,LAC,,CHA,,D. Theis,LAC,Theis REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0414,2,08:32,LAC,35.0,CHA,29.0,D. Theis,LAC,Theis 4' Cutting Finger Roll Layup Shot (6 PTS) (Westbrook 3 AST),Made Shot,Cutting Finger Roll Layup Shot,10,42,4,1,2.0,2.0,h
+S2324-G0414,2,07:52,LAC,,CHA,,D. Theis,LAC,MISS Theis 5' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,36,33,5,1,2.0,0.0,h
+S2324-G0414,2,07:48,LAC,,CHA,,D. Theis,LAC,Theis REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0414,2,07:19,LAC,37.0,CHA,31.0,D. Theis,LAC,Theis 3' Cutting Dunk Shot (8 PTS) (Harden 3 AST),Made Shot,Cutting Dunk Shot,4,33,3,1,2.0,2.0,h
+S2324-G0414,2,05:42,LAC,,CHA,,D. Theis,LAC,SUB: Zubac FOR Theis,Substitution,,0,0,0,0,,,h
+S2324-G0414,3,01:10,LAC,82.0,CHA,78.0,D. Theis,LAC,Theis 13' Jump Shot (10 PTS) (Westbrook 4 AST),Made Shot,Jump Shot,134,6,13,1,2.0,2.0,h
+S2324-G0414,4,09:33,LAC,,CHA,,D. Theis,LAC,Theis REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0414,4,09:33,LAC,,CHA,,D. Theis,LAC,MISS Theis Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2324-G0414,4,09:29,LAC,,CHA,,D. Theis,LAC,Theis T.FOUL (P0.T0) (S.Foster),Foul,Technical,0,0,0,0,,,h
+S2324-G0414,4,08:13,LAC,,CHA,,D. Theis,LAC,SUB: Zubac FOR Theis,Substitution,,0,0,0,0,,,h
+S2324-G0052,1,04:22,LAC,,NOP,,D. Theis,LAC,MISS Theis 24' 3PT Jump Shot,Missed Shot,Jump Shot,-234,57,24,1,3.0,0.0,h
+S2324-G0052,1,01:48,LAC,,NOP,,D. Theis,LAC,Theis BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0052,1,00:29.600000,LAC,,NOP,,D. Theis,LAC,Theis REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0052,2,08:03,LAC,,NOP,,D. Theis,LAC,Theis REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0052,2,06:46,LAC,,NOP,,D. Theis,LAC,Theis REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0052,2,05:34,LAC,,NOP,,D. Theis,LAC,SUB: Zubac FOR Theis,Substitution,,0,0,0,0,,,h
+S2324-G0052,2,02:16,LAC,,NOP,,D. Theis,LAC,Theis REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0052,2,00:37.700000,LAC,,NOP,,D. Theis,LAC,Theis BLOCK (2 BLK),,,0,0,0,0,,,h
+S2324-G0052,2,00:30.500000,LAC,55.0,NOP,56.0,D. Theis,LAC,Theis 28' 3PT Jump Shot (3 PTS) (Leonard 2 AST),Made Shot,Jump Shot,97,259,28,1,3.0,3.0,h
+S2324-G0052,3,02:47,LAC,,NOP,,D. Theis,LAC,Theis S.FOUL (P1.PN) (N.Green),Foul,Shooting,0,0,0,0,,,h
+S2324-G0052,3,01:16,LAC,,NOP,,D. Theis,LAC,Theis S.FOUL (P2.PN) (N.Green),Foul,Shooting,0,0,0,0,,,h
+S2324-G0052,3,00:01.300000,LAC,,NOP,,D. Theis,LAC,MISS Theis 15' Jump Shot,Missed Shot,Jump Shot,0,145,15,1,2.0,0.0,h
+S2324-G0052,4,10:21,LAC,,NOP,,D. Theis,LAC,Theis Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0052,4,10:20,LAC,,NOP,,D. Theis,LAC,Theis BLOCK (3 BLK),,,0,0,0,0,,,h
+S2324-G0052,4,10:04,LAC,,NOP,,D. Theis,LAC,SUB: Zubac FOR Theis,Substitution,,0,0,0,0,,,h
+S2324-G1028,1,00:42,LAC,,PHI,,D. Theis,LAC,Theis REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1028,1,00:19.800000,LAC,,PHI,,D. Theis,LAC,SUB: Mann FOR Theis,Substitution,,0,0,0,0,,,h
+S2324-G1028,2,10:14,LAC,,PHI,,D. Theis,LAC,MISS Theis 3' Driving Layup,Missed Shot,Driving Layup Shot,-23,13,3,1,2.0,0.0,h
+S2324-G1028,2,09:49,LAC,,PHI,,D. Theis,LAC,MISS Theis 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-22,34,4,1,2.0,0.0,h
+S2324-G1028,2,08:16,LAC,,PHI,,D. Theis,LAC,Theis REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1028,2,07:46,LAC,,PHI,,D. Theis,LAC,Theis REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1028,2,07:14,LAC,,PHI,,D. Theis,LAC,SUB: Zubac FOR Theis,Substitution,,0,0,0,0,,,h
+S2324-G0526,1,00:34.600000,LAC,27.0,TOR,29.0,D. Theis,LAC,Theis Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0526,1,00:34.600000,LAC,28.0,TOR,29.0,D. Theis,LAC,Theis Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0526,2,11:30,LAC,,TOR,,D. Theis,LAC,Theis REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0526,2,09:20,LAC,,TOR,,D. Theis,LAC,Theis BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0526,2,08:50,LAC,,TOR,,D. Theis,LAC,Theis REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0526,2,07:45,LAC,,TOR,,D. Theis,LAC,Theis Traveling Turnover (P1.T3),Turnover,Traveling,0,0,0,0,,,h
+S2324-G0526,2,07:13,LAC,,TOR,,D. Theis,LAC,Theis STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0526,2,06:11,LAC,,TOR,,D. Theis,LAC,SUB: Leonard FOR Theis,Substitution,,0,0,0,0,,,h
+S2324-G0526,2,00:23.200000,LAC,,TOR,,D. Theis,LAC,SUB: George FOR Theis,Substitution,,0,0,0,0,,,h
+S2324-G0526,3,00:12.400000,LAC,,TOR,,D. Theis,LAC,SUB: Mann FOR Theis,Substitution,,0,0,0,0,,,h
+S2324-G0526,4,09:31,LAC,,TOR,,D. Theis,LAC,Theis REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0526,4,07:17,LAC,,TOR,,D. Theis,LAC,MISS Theis 4' Layup,Missed Shot,Layup Shot,15,42,4,1,2.0,0.0,h
+S2324-G0526,4,07:10,LAC,,TOR,,D. Theis,LAC,Theis REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0526,4,07:09,LAC,108.0,TOR,98.0,D. Theis,LAC,Theis 6' Hook Shot (4 PTS),Made Shot,Hook Shot,10,61,6,1,2.0,2.0,h
+S2324-G0526,4,06:31,LAC,,TOR,,D. Theis,LAC,Theis S.FOUL (P1.T3) (T.Brothers),Foul,Shooting,0,0,0,0,,,h
+S2324-G0526,4,06:31,LAC,,TOR,,D. Theis,LAC,SUB: Zubac FOR Theis,Substitution,,0,0,0,0,,,h
+S2324-G0658,1,00:37.100000,CLE,,LAC,,D. Theis,LAC,MISS Theis 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-21,254,25,1,3.0,0.0,v
+S2324-G0658,2,10:50,CLE,,LAC,,D. Theis,LAC,Theis REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0658,2,10:15,CLE,,LAC,,D. Theis,LAC,Theis REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0658,2,07:49,CLE,,LAC,,D. Theis,LAC,Theis P.FOUL (P1.T1) (S.Foster),Foul,Personal,0,0,0,0,,,v
+S2324-G0658,2,05:37,CLE,,LAC,,D. Theis,LAC,Theis REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0658,2,05:34,CLE,,LAC,,D. Theis,LAC,SUB: Plumlee FOR Theis,Substitution,,0,0,0,0,,,v
+S2324-G0658,3,02:58,CLE,,LAC,,D. Theis,LAC,Theis P.FOUL (P2.PN) (S.Foster),Foul,Personal,0,0,0,0,,,v
+S2324-G0658,3,02:47,CLE,,LAC,,D. Theis,LAC,Theis OFF.Foul (P3) (N.Sago),Foul,Offensive,0,0,0,0,,,v
+S2324-G0658,3,02:47,CLE,,LAC,,D. Theis,LAC,Theis Offensive Foul Turnover (P1.T10),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0658,3,00:44.900000,CLE,,LAC,,D. Theis,LAC,Theis REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0658,4,08:17,CLE,,LAC,,D. Theis,LAC,SUB: Leonard FOR Theis,Substitution,,0,0,0,0,,,v
+S2324-G0273,1,00:07.800000,GSW,,LAC,,D. Theis,LAC,SUB: George FOR Theis,Substitution,,0,0,0,0,,,v
+S2324-G0273,2,10:54,GSW,35.0,LAC,25.0,D. Theis,LAC,Theis Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0273,2,10:54,GSW,,LAC,,D. Theis,LAC,MISS Theis Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0273,2,10:18,GSW,,LAC,,D. Theis,LAC,MISS Theis 16' Jump Shot,Missed Shot,Jump Shot,-23,159,16,1,2.0,0.0,v
+S2324-G0273,2,09:38,GSW,,LAC,,D. Theis,LAC,MISS Theis 8' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-15,76,8,1,2.0,0.0,v
+S2324-G0273,2,09:37,GSW,,LAC,,D. Theis,LAC,Theis REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0273,2,09:37,GSW,,LAC,,D. Theis,LAC,MISS Theis 2' Tip Layup Shot,Missed Shot,Tip Layup Shot,11,20,2,1,2.0,0.0,v
+S2324-G0273,2,08:51,GSW,41.0,LAC,29.0,D. Theis,LAC,Theis 13' Driving Floating Jump Shot (3 PTS) (George 3 AST),Made Shot,Driving Floating Jump Shot,1,132,13,1,2.0,2.0,v
+S2324-G0273,2,07:36,GSW,,LAC,,D. Theis,LAC,Theis S.FOUL (P1.T3) (T.Maddox),Foul,Shooting,0,0,0,0,,,v
+S2324-G0273,2,07:36,GSW,,LAC,,D. Theis,LAC,SUB: Zubac FOR Theis,Substitution,,0,0,0,0,,,v
+S2324-G0273,4,11:13,GSW,89.0,LAC,79.0,D. Theis,LAC,Theis 8' Driving Layup (5 PTS) (George 7 AST),Made Shot,Driving Layup Shot,67,47,8,1,2.0,2.0,v
+S2324-G0273,4,09:07,GSW,,LAC,,D. Theis,LAC,MISS Theis 9' Floating Jump Shot,Missed Shot,Floating Jump shot,2,88,9,1,2.0,0.0,v
+S2324-G0273,4,09:01,GSW,,LAC,,D. Theis,LAC,Theis S.FOUL (P2.T2) (T.Maddox),Foul,Shooting,0,0,0,0,,,v
+S2324-G0273,4,07:09,GSW,,LAC,,D. Theis,LAC,Theis REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0273,4,07:05,GSW,99.0,LAC,92.0,D. Theis,LAC,Theis 27' 3PT Jump Shot (8 PTS) (George 8 AST),Made Shot,Jump Shot,-55,260,27,1,3.0,3.0,v
+S2324-G0273,4,06:17,GSW,101.0,LAC,94.0,D. Theis,LAC,Theis 6' Layup (10 PTS) (Westbrook 4 AST),Made Shot,Layup Shot,54,13,6,1,2.0,2.0,v
+S2324-G0273,4,05:32,GSW,,LAC,,D. Theis,LAC,MISS Theis 15' Jump Shot,Missed Shot,Jump Shot,11,148,15,1,2.0,0.0,v
+S2324-G0273,4,05:11,GSW,,LAC,,D. Theis,LAC,SUB: Zubac FOR Theis,Substitution,,0,0,0,0,,,v
+S2324-G0731,2,08:01,LAC,,NOP,,D. Theis,LAC,MISS Theis 5' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,21,41,5,1,2.0,0.0,h
+S2324-G0731,2,07:48,LAC,,NOP,,D. Theis,LAC,Theis S.FOUL (P1.T3) (B.Kennedy),Foul,Shooting,0,0,0,0,,,h
+S2324-G0731,2,06:15,LAC,,NOP,,D. Theis,LAC,SUB: Zubac FOR Theis,Substitution,,0,0,0,0,,,h
+S2324-G0731,4,02:04,LAC,,NOP,,D. Theis,LAC,Theis REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0731,4,01:35,LAC,102.0,NOP,112.0,D. Theis,LAC,Theis Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0731,4,01:35,LAC,103.0,NOP,112.0,D. Theis,LAC,Theis Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0770,4,10:18,LAC,,,,D. Theis,LAC,Theis BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0770,4,10:04,LAC,,,,D. Theis,LAC,Theis Lost Ball Turnover (P1.T10),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0770,4,09:44,LAC,,,,D. Theis,LAC,SUB: George FOR Theis,Substitution,,0,0,0,0,,,h

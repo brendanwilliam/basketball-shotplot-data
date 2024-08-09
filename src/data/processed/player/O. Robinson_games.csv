@@ -1,0 +1,293 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2324-G0773,4,03:24,MIL,,MIA,,O. Robinson,MIA,O. Robinson STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0773,4,02:59,MIL,,MIA,,O. Robinson,MIA,O. Robinson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0773,4,02:18,MIL,,MIA,,O. Robinson,MIA,O. Robinson Out of Bounds - Bad Pass Turnover Turnover (P1.T12),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0773,4,01:23,MIL,,MIA,,O. Robinson,MIA,O. Robinson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0773,4,00:28.900000,MIL,97.0,MIA,123.0,O. Robinson,MIA,O. Robinson 2' Cutting Dunk Shot (2 PTS) (Swider 1 AST),Made Shot,Cutting Dunk Shot,-1,21,2,1,2.0,2.0,v
+S2324-G0284,1,12:00,MIA,,IND,,O. Robinson,MIA,Jump Ball O. Robinson vs. Turner: Tip to Toppin,Jump Ball,,0,0,0,0,,,h
+S2324-G0284,1,11:00,MIA,,IND,,O. Robinson,MIA,MISS O. Robinson 16' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-124,104,16,1,2.0,0.0,h
+S2324-G0284,1,09:55,MIA,,IND,,O. Robinson,MIA,O. Robinson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0284,1,08:57,MIA,6.0,IND,5.0,O. Robinson,MIA,O. Robinson 7' Hook Shot (2 PTS) (Martin 1 AST),Made Shot,Hook Shot,0,74,7,1,2.0,2.0,h
+S2324-G0284,1,08:11,MIA,,IND,,O. Robinson,MIA,O. Robinson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0284,1,06:08,MIA,,IND,,O. Robinson,MIA,SUB: Jaquez Jr. FOR O. Robinson,Substitution,,0,0,0,0,,,h
+S2324-G0284,2,10:53,MIA,36.0,IND,29.0,O. Robinson,MIA,O. Robinson 6' Layup (4 PTS),Made Shot,Layup Shot,-49,25,6,1,2.0,2.0,h
+S2324-G0284,2,09:16,MIA,,IND,,O. Robinson,MIA,O. Robinson REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0284,2,08:26,MIA,,IND,,O. Robinson,MIA,O. Robinson S.FOUL (P1.T2) (T.Brothers),Foul,Shooting,0,0,0,0,,,h
+S2324-G0284,2,06:28,MIA,,IND,,O. Robinson,MIA,SUB: Martin FOR O. Robinson,Substitution,,0,0,0,0,,,h
+S2324-G0284,2,00:20,MIA,65.0,IND,63.0,O. Robinson,MIA,O. Robinson 7' Hook Shot (6 PTS) (D. Robinson 1 AST),Made Shot,Hook Shot,-5,73,7,1,2.0,2.0,h
+S2324-G0284,3,09:41,MIA,72.0,IND,72.0,O. Robinson,MIA,O. Robinson 3' Hook Shot (8 PTS) (Butler 2 AST),Made Shot,Hook Shot,12,25,3,1,2.0,2.0,h
+S2324-G0284,3,09:00,MIA,,IND,,O. Robinson,MIA,MISS O. Robinson 22' Jump Shot,Missed Shot,Jump Shot,-119,182,22,1,2.0,0.0,h
+S2324-G0284,3,07:56,MIA,,IND,,O. Robinson,MIA,MISS O. Robinson 6' Layup,Missed Shot,Layup Shot,49,27,6,1,2.0,0.0,h
+S2324-G0284,3,07:31,MIA,75.0,IND,82.0,O. Robinson,MIA,O. Robinson 27' 3PT Jump Shot (11 PTS) (Butler 3 AST),Made Shot,Jump Shot,1,272,27,1,3.0,3.0,h
+S2324-G0284,3,07:10,MIA,,IND,,O. Robinson,MIA,O. Robinson REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0284,3,06:08,MIA,,IND,,O. Robinson,MIA,MISS O. Robinson 5' Driving Layup,Missed Shot,Driving Layup Shot,23,41,5,1,2.0,0.0,h
+S2324-G0284,3,06:05,MIA,,IND,,O. Robinson,MIA,O. Robinson REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0284,3,05:00,MIA,,IND,,O. Robinson,MIA,SUB: Jaquez Jr. FOR O. Robinson,Substitution,,0,0,0,0,,,h
+S2324-G0284,4,10:19,MIA,103.0,IND,110.0,O. Robinson,MIA,O. Robinson 5' Dunk (13 PTS) (Jaquez Jr. 3 AST),Made Shot,Dunk Shot,15,47,5,1,2.0,2.0,h
+S2324-G0284,4,06:43,MIA,113.0,IND,122.0,O. Robinson,MIA,O. Robinson 24' 3PT Jump Shot (16 PTS) (Butler 5 AST),Made Shot,Jump Shot,240,21,24,1,3.0,3.0,h
+S2324-G0284,4,04:06,MIA,,IND,,O. Robinson,MIA,O. Robinson Bad Pass Turnover (P1.T12),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0284,4,03:46,MIA,,IND,,O. Robinson,MIA,SUB: Love FOR O. Robinson,Substitution,,0,0,0,0,,,h
+S2324-G1207,1,10:08,TOR,,MIA,,O. Robinson,MIA,O. Robinson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1207,1,09:22,TOR,,MIA,,O. Robinson,MIA,O. Robinson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1207,1,09:13,TOR,,MIA,,O. Robinson,MIA,O. Robinson REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1207,1,06:13,TOR,7.0,MIA,20.0,O. Robinson,MIA,O. Robinson 25' 3PT Jump Shot (3 PTS) (Martin 1 AST),Made Shot,Jump Shot,100,227,25,1,3.0,3.0,v
+S2324-G1207,1,05:51,TOR,,MIA,,O. Robinson,MIA,SUB: Love FOR O. Robinson,Substitution,,0,0,0,0,,,v
+S2324-G1207,2,06:19,TOR,,MIA,,O. Robinson,MIA,O. Robinson OFF.Foul (P1) (E.Malloy),Foul,Offensive,0,0,0,0,,,v
+S2324-G1207,2,06:19,TOR,,MIA,,O. Robinson,MIA,O. Robinson Offensive Foul Turnover (P1.T1),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G1207,2,05:43,TOR,,MIA,,O. Robinson,MIA,O. Robinson P.FOUL (P2.T3) (J.Sterling),Foul,Personal,0,0,0,0,,,v
+S2324-G1207,2,05:02,TOR,,MIA,,O. Robinson,MIA,SUB: Love FOR O. Robinson,Substitution,,0,0,0,0,,,v
+S2324-G1207,3,10:56,TOR,,MIA,,O. Robinson,MIA,O. Robinson STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G1207,3,10:49,TOR,66.0,MIA,68.0,O. Robinson,MIA,O. Robinson 26' 3PT Jump Shot (6 PTS) (Butler 4 AST),Made Shot,Jump Shot,17,264,26,1,3.0,3.0,v
+S2324-G1207,3,09:15,TOR,,MIA,,O. Robinson,MIA,MISS O. Robinson 2' Dunk,Missed Shot,Dunk Shot,-22,6,2,1,2.0,0.0,v
+S2324-G1207,3,09:12,TOR,,MIA,,O. Robinson,MIA,O. Robinson REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1207,3,09:08,TOR,,MIA,,O. Robinson,MIA,MISS O. Robinson 2' Reverse Layup,Missed Shot,Reverse Layup Shot,-22,8,2,1,2.0,0.0,v
+S2324-G1207,3,08:55,TOR,,MIA,,O. Robinson,MIA,O. Robinson REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1207,3,08:25,TOR,,MIA,,O. Robinson,MIA,O. Robinson STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G1207,3,05:22,TOR,,MIA,,O. Robinson,MIA,O. Robinson REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1207,3,03:39,TOR,,MIA,,O. Robinson,MIA,SUB: Love FOR O. Robinson,Substitution,,0,0,0,0,,,v
+S2324-G1207,4,10:59,TOR,,MIA,,O. Robinson,MIA,O. Robinson STEAL (3 STL),,,0,0,0,0,,,v
+S2324-G1207,4,10:10,TOR,,MIA,,O. Robinson,MIA,O. Robinson REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1207,4,09:15,TOR,87.0,MIA,89.0,O. Robinson,MIA,O. Robinson 3' Cutting Layup Shot (8 PTS) (D. Robinson 5 AST),Made Shot,Cutting Layup Shot,21,25,3,1,2.0,2.0,v
+S2324-G1207,4,09:15,TOR,87.0,MIA,90.0,O. Robinson,MIA,O. Robinson Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G1207,4,07:31,TOR,,MIA,,O. Robinson,MIA,O. Robinson BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G1207,4,06:47,TOR,,MIA,,O. Robinson,MIA,MISS O. Robinson 7' Turnaround Bank Hook Shot,Missed Shot,Turnaround Bank Hook Shot,-1,68,7,1,2.0,0.0,v
+S2324-G1207,4,05:38,TOR,,MIA,,O. Robinson,MIA,O. Robinson REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1207,4,04:32,TOR,,MIA,,O. Robinson,MIA,MISS O. Robinson 26' 3PT Jump Shot,Missed Shot,Jump Shot,211,149,26,1,3.0,0.0,v
+S2324-G1207,4,04:07,TOR,,MIA,,O. Robinson,MIA,O. Robinson L.B.FOUL (P3.T2) (E.Malloy),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G1207,4,03:33,TOR,,MIA,,O. Robinson,MIA,O. Robinson REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1207,4,03:25,TOR,94.0,MIA,99.0,O. Robinson,MIA,O. Robinson 6' Driving Hook Shot (11 PTS) (Butler 6 AST),Made Shot,Driving Hook Shot,-11,64,6,1,2.0,2.0,v
+S2324-G1207,4,02:26,TOR,,MIA,,O. Robinson,MIA,O. Robinson REBOUND (Off:3 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1207,4,02:12,TOR,96.0,MIA,104.0,O. Robinson,MIA,O. Robinson 4' Turnaround Bank Hook Shot (13 PTS) (D. Robinson 7 AST),Made Shot,Turnaround Bank Hook Shot,33,28,4,1,2.0,2.0,v
+S2324-G1207,4,01:56,TOR,,MIA,,O. Robinson,MIA,O. Robinson REBOUND (Off:3 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1207,4,00:22.900000,TOR,103.0,MIA,111.0,O. Robinson,MIA,O. Robinson Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1207,4,00:22.900000,TOR,103.0,MIA,112.0,O. Robinson,MIA,O. Robinson Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1207,4,00:12.600000,TOR,,MIA,,O. Robinson,MIA,O. Robinson REBOUND (Off:3 Def:9),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0292,1,10:41,CHA,,MIA,,O. Robinson,MIA,O. Robinson REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0292,1,10:40,CHA,,MIA,,O. Robinson,MIA,MISS O. Robinson 2' Tip Layup Shot,Missed Shot,Tip Layup Shot,-16,15,2,1,2.0,0.0,v
+S2324-G0292,1,09:13,CHA,,MIA,,O. Robinson,MIA,O. Robinson REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0292,1,07:55,CHA,,MIA,,O. Robinson,MIA,MISS O. Robinson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0292,1,07:55,CHA,4.0,MIA,9.0,O. Robinson,MIA,O. Robinson Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0292,1,06:48,CHA,6.0,MIA,12.0,O. Robinson,MIA,O. Robinson 3PT Jump Shot (4 PTS) (Martin 1 AST),Made Shot,Jump Shot,-230,25,0,1,3.0,3.0,v
+S2324-G0292,1,05:08,CHA,,MIA,,O. Robinson,MIA,SUB: Richardson FOR O. Robinson,Substitution,,0,0,0,0,,,v
+S2324-G0292,2,11:14,CHA,,MIA,,O. Robinson,MIA,O. Robinson REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0292,2,09:08,CHA,,MIA,,O. Robinson,MIA,MISS O. Robinson 3' Alley Oop Dunk,Missed Shot,Alley Oop Dunk Shot,-18,20,3,1,2.0,0.0,v
+S2324-G0292,2,08:48,CHA,,MIA,,O. Robinson,MIA,O. Robinson Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0292,2,08:08,CHA,33.0,MIA,35.0,O. Robinson,MIA,O. Robinson 3' Turnaround Hook Shot (6 PTS) (Jaquez Jr. 1 AST),Made Shot,Turnaround Hook Shot,-1,27,3,1,2.0,2.0,v
+S2324-G0292,2,07:47,CHA,,MIA,,O. Robinson,MIA,SUB: Bryant FOR O. Robinson,Substitution,,0,0,0,0,,,v
+S2324-G0292,3,09:56,CHA,,MIA,,O. Robinson,MIA,O. Robinson P.FOUL (P1.T1) (T.Ricks),Foul,Personal,0,0,0,0,,,v
+S2324-G0292,3,09:00,CHA,,MIA,,O. Robinson,MIA,MISS O. Robinson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0292,3,09:00,CHA,59.0,MIA,67.0,O. Robinson,MIA,O. Robinson Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0292,3,08:01,CHA,,MIA,,O. Robinson,MIA,O. Robinson BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0292,3,07:02,CHA,,MIA,,O. Robinson,MIA,O. Robinson REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0292,3,06:26,CHA,,MIA,,O. Robinson,MIA,O. Robinson BLOCK (2 BLK),,,0,0,0,0,,,v
+S2324-G0292,3,06:16,CHA,,MIA,,O. Robinson,MIA,O. Robinson P.FOUL (P2.T3) (N.Sago),Foul,Personal,0,0,0,0,,,v
+S2324-G0292,3,06:01,CHA,,MIA,,O. Robinson,MIA,O. Robinson REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0292,3,05:54,CHA,,MIA,,O. Robinson,MIA,MISS O. Robinson 27' 3PT Jump Shot,Missed Shot,Jump Shot,118,242,27,1,3.0,0.0,v
+S2324-G0292,3,05:45,CHA,,MIA,,O. Robinson,MIA,O. Robinson S.FOUL (P3.T4) (C.Blair),Foul,Shooting,0,0,0,0,,,v
+S2324-G0292,3,05:45,CHA,,MIA,,O. Robinson,MIA,SUB: Jaquez Jr. FOR O. Robinson,Substitution,,0,0,0,0,,,v
+S2324-G0292,4,10:52,CHA,,MIA,,O. Robinson,MIA,O. Robinson REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0292,4,10:26,CHA,,MIA,,O. Robinson,MIA,O. Robinson S.FOUL (P4.T1) (C.Blair),Foul,Shooting,0,0,0,0,,,v
+S2324-G0292,4,07:28,CHA,,MIA,,O. Robinson,MIA,O. Robinson S.FOUL (P5.T2) (C.Blair),Foul,Shooting,0,0,0,0,,,v
+S2324-G0292,4,06:51,CHA,,MIA,,O. Robinson,MIA,SUB: Butler FOR O. Robinson,Substitution,,0,0,0,0,,,v
+S2324-G0093,4,02:12,MIN,,MIA,,O. Robinson,MIA,MISS O. Robinson 12' Jump Shot,Missed Shot,Jump Shot,113,30,12,1,2.0,0.0,v
+S2324-G0093,4,01:41,MIN,,MIA,,O. Robinson,MIA,O. Robinson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0093,4,01:16,MIN,,MIA,,O. Robinson,MIA,MISS O. Robinson 7' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,12,64,7,1,2.0,0.0,v
+S2324-G0093,4,00:36.400000,MIN,,MIA,,O. Robinson,MIA,O. Robinson BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0267,2,06:41,MIA,,IND,,O. Robinson,MIA,O. Robinson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0267,2,06:28,MIA,,IND,,O. Robinson,MIA,MISS O. Robinson 3' Layup,Missed Shot,Layup Shot,18,18,3,1,2.0,0.0,h
+S2324-G0267,2,04:54,MIA,50.0,IND,52.0,O. Robinson,MIA,O. Robinson 4' Driving Layup (2 PTS) (Butler 1 AST),Made Shot,Driving Layup Shot,36,20,4,1,2.0,2.0,h
+S2324-G0267,2,03:56,MIA,,IND,,O. Robinson,MIA,SUB: Highsmith FOR O. Robinson,Substitution,,0,0,0,0,,,h
+S2324-G0267,4,10:18,MIA,,IND,,O. Robinson,MIA,O. Robinson S.FOUL (P1.T1) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,h
+S2324-G0267,4,07:57,MIA,,IND,,O. Robinson,MIA,O. Robinson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0267,4,07:52,MIA,,IND,,O. Robinson,MIA,SUB: Love FOR O. Robinson,Substitution,,0,0,0,0,,,h
+S2324-G0759,3,04:43,MIA,70.0,BOS,79.0,O. Robinson,MIA,O. Robinson Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0759,3,04:43,MIA,71.0,BOS,79.0,O. Robinson,MIA,O. Robinson Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0759,3,04:39,MIA,,BOS,,O. Robinson,MIA,SUB: D. Robinson FOR O. Robinson,Substitution,,0,0,0,0,,,h
+S2324-G0574,4,01:51,TOR,,MIA,,O. Robinson,MIA,O. Robinson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1220,1,12:00,MIA,,CLE,,O. Robinson,MIA,Jump Ball O. Robinson vs. Allen: Tip to Strus,Jump Ball,,0,0,0,0,,,h
+S2324-G1220,1,11:41,MIA,,CLE,,O. Robinson,MIA,O. Robinson S.FOUL (P1.T1) (M.Myers),Foul,Shooting,0,0,0,0,,,h
+S2324-G1220,1,09:07,MIA,,CLE,,O. Robinson,MIA,O. Robinson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1220,1,07:11,MIA,,CLE,,O. Robinson,MIA,O. Robinson P.FOUL (P2.T3) (K.Lane),Foul,Personal,0,0,0,0,,,h
+S2324-G1220,1,07:11,MIA,,CLE,,O. Robinson,MIA,SUB: Love FOR O. Robinson,Substitution,,0,0,0,0,,,h
+S2324-G1220,2,11:11,MIA,27.0,CLE,19.0,O. Robinson,MIA,O. Robinson 3' Layup (2 PTS) (Richardson 1 AST),Made Shot,Layup Shot,25,10,3,1,2.0,2.0,h
+S2324-G1220,2,11:11,MIA,28.0,CLE,19.0,O. Robinson,MIA,O. Robinson Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G1220,2,09:48,MIA,,CLE,,O. Robinson,MIA,O. Robinson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1220,2,09:33,MIA,,CLE,,O. Robinson,MIA,O. Robinson BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G1220,2,09:29,MIA,,CLE,,O. Robinson,MIA,O. Robinson REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1220,2,06:47,MIA,,CLE,,O. Robinson,MIA,O. Robinson Out of Bounds - Bad Pass Turnover Turnover (P1.T6),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G1220,2,06:11,MIA,,CLE,,O. Robinson,MIA,O. Robinson REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1220,2,06:09,MIA,,CLE,,O. Robinson,MIA,MISS O. Robinson 4' Putback Layup,Missed Shot,Putback Layup Shot,38,11,4,1,2.0,0.0,h
+S2324-G1220,2,05:33,MIA,,CLE,,O. Robinson,MIA,O. Robinson REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1220,2,04:15,MIA,,CLE,,O. Robinson,MIA,SUB: Love FOR O. Robinson,Substitution,,0,0,0,0,,,h
+S2324-G1220,3,09:42,MIA,,CLE,,O. Robinson,MIA,O. Robinson REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1220,3,08:14,MIA,,CLE,,O. Robinson,MIA,O. Robinson REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1220,3,07:22,MIA,57.0,CLE,69.0,O. Robinson,MIA,O. Robinson 5' Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,54,5,5,1,2.0,2.0,h
+S2324-G1220,3,06:51,MIA,,CLE,,O. Robinson,MIA,O. Robinson REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1220,3,05:32,MIA,,CLE,,O. Robinson,MIA,O. Robinson P.FOUL (P3.T2) (K.Lane),Foul,Personal,0,0,0,0,,,h
+S2324-G1220,3,04:37,MIA,,CLE,,O. Robinson,MIA,SUB: Love FOR O. Robinson,Substitution,,0,0,0,0,,,h
+S2324-G0630,4,02:09,MIA,,BOS,,O. Robinson,MIA,O. Robinson REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0630,4,02:09,MIA,,BOS,,O. Robinson,MIA,MISS O. Robinson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0630,4,02:09,MIA,105.0,BOS,138.0,O. Robinson,MIA,O. Robinson Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0630,4,01:48,MIA,,BOS,,O. Robinson,MIA,O. Robinson REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0630,4,01:42,MIA,106.0,BOS,138.0,O. Robinson,MIA,O. Robinson Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0630,4,01:42,MIA,107.0,BOS,138.0,O. Robinson,MIA,O. Robinson Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0630,4,00:22.200000,MIA,,BOS,,O. Robinson,MIA,MISS O. Robinson 1' Layup,Missed Shot,Layup Shot,1,11,1,1,2.0,0.0,h
+S2324-G0220,4,00:22.700000,CHI,,MIA,,O. Robinson,MIA,O. Robinson S.FOUL (P1.PN) (P.Ransom),Foul,Shooting,0,0,0,0,,,v
+S2324-G0867,1,00:24.100000,MIA,,UTA,,O. Robinson,MIA,O. Robinson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0867,2,10:27,MIA,,UTA,,O. Robinson,MIA,O. Robinson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0867,2,09:31,MIA,,UTA,,O. Robinson,MIA,O. Robinson REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0867,2,09:01,MIA,,UTA,,O. Robinson,MIA,O. Robinson S.FOUL (P1.T2) (M.Boland),Foul,Shooting,0,0,0,0,,,h
+S2324-G0867,2,08:19,MIA,,UTA,,O. Robinson,MIA,O. Robinson S.FOUL (P2.T3) (C.Blair),Foul,Shooting,0,0,0,0,,,h
+S2324-G0867,2,07:38,MIA,,UTA,,O. Robinson,MIA,MISS O. Robinson 25' 3PT Jump Shot,Missed Shot,Jump Shot,135,214,25,1,3.0,0.0,h
+S2324-G0867,2,07:35,MIA,,UTA,,O. Robinson,MIA,SUB: D. Robinson FOR O. Robinson,Substitution,,0,0,0,0,,,h
+S2324-G0867,3,06:42,MIA,,UTA,,O. Robinson,MIA,O. Robinson STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0867,3,05:49,MIA,,UTA,,O. Robinson,MIA,O. Robinson S.FOUL (P3.T3) (C.Blair),Foul,Shooting,0,0,0,0,,,h
+S2324-G0867,3,04:56,MIA,,UTA,,O. Robinson,MIA,O. Robinson P.FOUL (P4.T4) (M.Boland),Foul,Personal,0,0,0,0,,,h
+S2324-G0867,3,04:20,MIA,,UTA,,O. Robinson,MIA,Jump Ball O. Robinson vs. Collins: Tip to Rozier,Jump Ball,,0,0,0,0,,,h
+S2324-G0867,3,03:55,MIA,,UTA,,O. Robinson,MIA,Jump Ball O. Robinson vs. Yurtseven: Tip to Horton-Tucker,Jump Ball,,0,0,0,0,,,h
+S2324-G0867,3,03:24,MIA,,UTA,,O. Robinson,MIA,O. Robinson REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0867,3,03:19,MIA,,UTA,,O. Robinson,MIA,MISS O. Robinson 4' Hook Shot,Missed Shot,Hook Shot,-12,36,4,1,2.0,0.0,h
+S2324-G0867,3,02:36,MIA,,UTA,,O. Robinson,MIA,SUB: Martin FOR O. Robinson,Substitution,,0,0,0,0,,,h
+S2324-G0888,1,00:51.400000,MIA,,DET,,O. Robinson,MIA,O. Robinson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0888,2,11:21,MIA,,DET,,O. Robinson,MIA,MISS O. Robinson 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-25,58,6,1,2.0,0.0,h
+S2324-G0888,2,10:13,MIA,,DET,,O. Robinson,MIA,O. Robinson REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0888,2,10:12,MIA,38.0,DET,34.0,O. Robinson,MIA,O. Robinson 3' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,17,21,3,1,2.0,2.0,h
+S2324-G0888,2,09:25,MIA,,DET,,O. Robinson,MIA,MISS O. Robinson 7' Jump Shot,Missed Shot,Jump Shot,25,70,7,1,2.0,0.0,h
+S2324-G0888,2,09:23,MIA,,DET,,O. Robinson,MIA,O. Robinson REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0888,2,08:47,MIA,,DET,,O. Robinson,MIA,O. Robinson Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G0888,2,08:32,MIA,,DET,,O. Robinson,MIA,O. Robinson REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0888,2,08:02,MIA,,DET,,O. Robinson,MIA,O. Robinson REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0888,2,05:52,MIA,,DET,,O. Robinson,MIA,O. Robinson Out of Bounds - Bad Pass Turnover Turnover (P2.T4),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G0888,2,05:52,MIA,,DET,,O. Robinson,MIA,SUB: Adebayo FOR O. Robinson,Substitution,,0,0,0,0,,,h
+S2324-G0312,1,12:00,MIA,,CHA,,O. Robinson,MIA,Jump Ball O. Robinson vs. Richards: Tip to Rozier,Jump Ball,,0,0,0,0,,,h
+S2324-G0312,1,08:34,MIA,,CHA,,O. Robinson,MIA,O. Robinson S.FOUL (P1.T2) (J.Williams),Foul,Shooting,0,0,0,0,,,h
+S2324-G0312,1,07:43,MIA,,CHA,,O. Robinson,MIA,O. Robinson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0312,1,07:42,MIA,,CHA,,O. Robinson,MIA,O. Robinson Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0312,1,07:22,MIA,,CHA,,O. Robinson,MIA,MISS O. Robinson 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,16,39,4,1,2.0,0.0,h
+S2324-G0312,1,05:53,MIA,,CHA,,O. Robinson,MIA,O. Robinson 3 Second Violation Turnover (P2.T5),Turnover,3 Second Violation,0,0,0,0,,,h
+S2324-G0312,1,05:53,MIA,,CHA,,O. Robinson,MIA,SUB: Cain FOR O. Robinson,Substitution,,0,0,0,0,,,h
+S2324-G0312,3,10:13,MIA,64.0,CHA,48.0,O. Robinson,MIA,O. Robinson 3' Layup (2 PTS) (Lowry 1 AST),Made Shot,Layup Shot,25,8,3,1,2.0,2.0,h
+S2324-G0312,3,09:49,MIA,,CHA,,O. Robinson,MIA,O. Robinson OFF.Foul (P2) (J.Schroeder),Foul,Offensive,0,0,0,0,,,h
+S2324-G0312,3,09:49,MIA,,CHA,,O. Robinson,MIA,O. Robinson Offensive Foul Turnover (P3.T16),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0312,3,09:19,MIA,,CHA,,O. Robinson,MIA,O. Robinson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0312,3,08:09,MIA,,CHA,,O. Robinson,MIA,O. Robinson REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0312,3,08:07,MIA,70.0,CHA,51.0,O. Robinson,MIA,O. Robinson 2' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,-11,16,2,1,2.0,2.0,h
+S2324-G0312,3,07:21,MIA,,CHA,,O. Robinson,MIA,O. Robinson REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0312,3,07:19,MIA,72.0,CHA,53.0,O. Robinson,MIA,O. Robinson 2' Putback Layup (6 PTS),Made Shot,Putback Layup Shot,-17,13,2,1,2.0,2.0,h
+S2324-G0312,3,06:22,MIA,,CHA,,O. Robinson,MIA,MISS O. Robinson 10' Floating Jump Shot,Missed Shot,Floating Jump shot,-96,21,10,1,2.0,0.0,h
+S2324-G0312,3,05:49,MIA,,CHA,,O. Robinson,MIA,SUB: Jaquez Jr. FOR O. Robinson,Substitution,,0,0,0,0,,,h
+S2324-G0996,1,03:17,CLE,19.0,MIA,26.0,O. Robinson,MIA,Robinson 25' 3PT Jump Shot (3 PTS) (Mills 2 AST),Made Shot,Jump Shot,-245,-8,25,1,3.0,3.0,v
+S2324-G0996,1,02:35,CLE,,MIA,,O. Robinson,MIA,Robinson REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0996,1,02:35,CLE,19.0,MIA,28.0,O. Robinson,MIA,Robinson 1' Putback Layup (5 PTS),Made Shot,Putback Layup Shot,-4,3,1,1,2.0,2.0,v
+S2324-G0996,1,02:35,CLE,19.0,MIA,29.0,O. Robinson,MIA,Robinson Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G0996,1,00:09.200000,CLE,,MIA,,O. Robinson,MIA,SUB: Jovic FOR Robinson,Substitution,,0,0,0,0,,,v
+S2324-G0996,3,01:22,CLE,75.0,MIA,81.0,O. Robinson,MIA,Robinson 2' Layup (8 PTS),Made Shot,Layup Shot,-16,5,2,1,2.0,2.0,v
+S2324-G0996,4,10:09,CLE,,MIA,,O. Robinson,MIA,Robinson REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0996,4,10:09,CLE,,MIA,,O. Robinson,MIA,MISS Robinson 4' Putback Layup,Missed Shot,Putback Layup Shot,18,33,4,1,2.0,0.0,v
+S2324-G0996,4,10:09,CLE,,MIA,,O. Robinson,MIA,SUB: Jovic FOR Robinson,Substitution,,0,0,0,0,,,v
+S2324-G0366,4,01:01,ORL,,MIA,,O. Robinson,MIA,SUB: Adebayo FOR O. Robinson,Substitution,,0,0,0,0,,,v
+S2324-G0721,4,02:16,MIA,,ORL,,O. Robinson,MIA,O. Robinson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0721,4,01:04,MIA,,ORL,,O. Robinson,MIA,MISS O. Robinson 26' 3PT Jump Shot,Missed Shot,Jump Shot,7,263,26,1,3.0,0.0,h
+S2324-G0107,1,02:08,MIL,,MIA,,O. Robinson,MIA,O. Robinson Out of Bounds Lost Ball Turnover (P1.T2),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2324-G0107,1,00:49.700000,MIL,,MIA,,O. Robinson,MIA,O. Robinson STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0107,1,00:00.100000,MIL,28.0,MIA,27.0,O. Robinson,MIA,O. Robinson Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0107,1,00:00.100000,MIL,28.0,MIA,28.0,O. Robinson,MIA,O. Robinson Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0107,2,09:16,MIL,,MIA,,O. Robinson,MIA,O. Robinson L.B.FOUL (P1.T1) (T.Brothers),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0107,2,08:54,MIL,,MIA,,O. Robinson,MIA,O. Robinson OFF.Foul (P2) (D.Collins),Foul,Offensive,0,0,0,0,,,v
+S2324-G0107,2,08:54,MIL,,MIA,,O. Robinson,MIA,O. Robinson Offensive Foul Turnover (P2.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0107,2,08:32,MIL,,MIA,,O. Robinson,MIA,SUB: Lowry FOR O. Robinson,Substitution,,0,0,0,0,,,v
+S2324-G0107,3,06:23,MIL,79.0,MIA,60.0,O. Robinson,MIA,O. Robinson 9' Floating Jump Shot (4 PTS) (Lowry 3 AST),Made Shot,Floating Jump shot,13,93,9,1,2.0,2.0,v
+S2324-G0107,3,03:34,MIL,,MIA,,O. Robinson,MIA,O. Robinson REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0107,3,02:27,MIL,,MIA,,O. Robinson,MIA,O. Robinson REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0107,3,00:09.800000,MIL,,MIA,,O. Robinson,MIA,MISS O. Robinson 3' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,21,27,3,1,2.0,0.0,v
+S2324-G0107,4,11:44,MIL,97.0,MIA,76.0,O. Robinson,MIA,O. Robinson 3PT Jump Shot (7 PTS) (Jaquez Jr. 3 AST),Made Shot,Jump Shot,223,2,0,1,3.0,3.0,v
+S2324-G0107,4,11:18,MIL,,MIA,,O. Robinson,MIA,O. Robinson S.FOUL (P3.T1) (T.Brothers),Foul,Shooting,0,0,0,0,,,v
+S2324-G0107,4,10:57,MIL,,MIA,,O. Robinson,MIA,MISS O. Robinson 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-21,14,3,1,2.0,0.0,v
+S2324-G0107,4,10:57,MIL,,MIA,,O. Robinson,MIA,O. Robinson REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0107,4,09:48,MIL,,MIA,,O. Robinson,MIA,O. Robinson REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0107,4,08:27,MIL,107.0,MIA,87.0,O. Robinson,MIA,O. Robinson 1' Driving Dunk (9 PTS),Made Shot,Driving Dunk Shot,-6,-6,1,1,2.0,2.0,v
+S2324-G0107,4,08:00,MIL,,MIA,,O. Robinson,MIA,O. Robinson REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0107,4,05:21,MIL,,MIA,,O. Robinson,MIA,O. Robinson REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0107,4,03:14,MIL,,MIA,,O. Robinson,MIA,O. Robinson S.FOUL (P4.T4) (D.Collins),Foul,Shooting,0,0,0,0,,,v
+S2324-G0107,4,03:00,MIL,,MIA,,O. Robinson,MIA,O. Robinson Bad Pass Turnover (P3.T14),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0107,4,02:54,MIL,,MIA,,O. Robinson,MIA,O. Robinson REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0107,4,02:48,MIL,,MIA,,O. Robinson,MIA,MISS O. Robinson 15' Hook Shot,Missed Shot,Hook Shot,67,138,15,1,2.0,0.0,v
+S2324-G0107,4,01:48,MIL,115.0,MIA,107.0,O. Robinson,MIA,O. Robinson 2' Cutting Layup Shot (11 PTS) (Herro 3 AST),Made Shot,Cutting Layup Shot,-21,-12,2,1,2.0,2.0,v
+S2324-G0458,4,01:58,LAC,,MIA,,O. Robinson,MIA,O. Robinson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0458,4,00:15.200000,LAC,,MIA,,O. Robinson,MIA,MISS O. Robinson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0458,4,00:15.200000,LAC,121.0,MIA,104.0,O. Robinson,MIA,O. Robinson Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0730,4,00:39.900000,MIA,,SAS,,O. Robinson,MIA,O. Robinson S.FOUL (P1.PN) (S.Wall),Foul,Shooting,0,0,0,0,,,h
+S2324-G0730,4,00:38.300000,MIA,,SAS,,O. Robinson,MIA,O. Robinson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0730,4,00:38.300000,MIA,113.0,SAS,103.0,O. Robinson,MIA,O. Robinson Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0730,4,00:38.300000,MIA,114.0,SAS,103.0,O. Robinson,MIA,O. Robinson Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0730,4,00:16.600000,MIA,,SAS,,O. Robinson,MIA,O. Robinson S.FOUL (P2.PN) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,h
+S2324-G0337,1,12:00,MIA,,CHI,,O. Robinson,MIA,Jump Ball O. Robinson vs. Vucevic: Tip to White,Jump Ball,,0,0,0,0,,,h
+S2324-G0337,1,10:38,MIA,,CHI,,O. Robinson,MIA,MISS O. Robinson 26' 3PT Jump Shot,Missed Shot,Jump Shot,185,181,26,1,3.0,0.0,h
+S2324-G0337,1,08:22,MIA,,CHI,,O. Robinson,MIA,O. Robinson S.FOUL (P1.T1) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,h
+S2324-G0337,1,07:59,MIA,13.0,CHI,4.0,O. Robinson,MIA,O. Robinson 3' Cutting Finger Roll Layup Shot (2 PTS) (D. Robinson 2 AST),Made Shot,Cutting Finger Roll Layup Shot,-29,7,3,1,2.0,2.0,h
+S2324-G0337,1,06:49,MIA,,CHI,,O. Robinson,MIA,MISS O. Robinson 11' Hook Shot,Missed Shot,Hook Shot,-2,105,11,1,2.0,0.0,h
+S2324-G0337,1,06:15,MIA,,CHI,,O. Robinson,MIA,MISS O. Robinson 26' 3PT Jump Shot,Missed Shot,Jump Shot,-180,189,26,1,3.0,0.0,h
+S2324-G0337,1,06:06,MIA,,CHI,,O. Robinson,MIA,SUB: Love FOR O. Robinson,Substitution,,0,0,0,0,,,h
+S2324-G0337,3,10:18,MIA,,CHI,,O. Robinson,MIA,O. Robinson REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0337,3,09:51,MIA,,CHI,,O. Robinson,MIA,O. Robinson S.FOUL (P2.T2) (I.Hwang),Foul,Shooting,0,0,0,0,,,h
+S2324-G0337,3,08:25,MIA,,CHI,,O. Robinson,MIA,O. Robinson REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0337,3,06:52,MIA,,CHI,,O. Robinson,MIA,SUB: Love FOR O. Robinson,Substitution,,0,0,0,0,,,h
+S2324-G1029,4,03:11,MIA,,CLE,,O. Robinson,MIA,MISS Robinson 10' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,102,15,10,1,2.0,0.0,h
+S2324-G1029,4,03:10,MIA,,CLE,,O. Robinson,MIA,Robinson REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0229,1,04:50,CLE,16.0,MIA,21.0,O. Robinson,MIA,O. Robinson 1' Cutting Layup Shot (2 PTS) (Highsmith 3 AST),Made Shot,Cutting Layup Shot,-1,14,1,1,2.0,2.0,v
+S2324-G0229,1,04:30,CLE,,MIA,,O. Robinson,MIA,O. Robinson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0229,1,03:16,CLE,,MIA,,O. Robinson,MIA,O. Robinson STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0229,1,03:13,CLE,20.0,MIA,29.0,O. Robinson,MIA,O. Robinson 1' Running Dunk (4 PTS),Made Shot,Running Dunk Shot,-5,10,1,1,2.0,2.0,v
+S2324-G0229,1,02:02,CLE,,MIA,,O. Robinson,MIA,O. Robinson S.FOUL (P1.PN) (J.DeRosa),Foul,Shooting,0,0,0,0,,,v
+S2324-G0229,1,01:11,CLE,,MIA,,O. Robinson,MIA,O. Robinson REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0229,1,01:09,CLE,24.0,MIA,31.0,O. Robinson,MIA,O. Robinson Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2324-G0229,2,10:55,CLE,,MIA,,O. Robinson,MIA,O. Robinson S.FOUL (P2.T1) (B.Adair),Foul,Shooting,0,0,0,0,,,v
+S2324-G0229,2,09:51,CLE,,MIA,,O. Robinson,MIA,O. Robinson REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0229,2,09:49,CLE,28.0,MIA,43.0,O. Robinson,MIA,O. Robinson 2' Putback Layup (8 PTS),Made Shot,Putback Layup Shot,-11,17,2,1,2.0,2.0,v
+S2324-G0229,2,05:40,CLE,,MIA,,O. Robinson,MIA,O. Robinson REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0229,2,05:23,CLE,,MIA,,O. Robinson,MIA,O. Robinson Traveling Turnover (P1.T4),Turnover,Traveling,0,0,0,0,,,v
+S2324-G0229,2,05:23,CLE,,MIA,,O. Robinson,MIA,SUB: Bryant FOR O. Robinson,Substitution,,0,0,0,0,,,v
+S2324-G0229,3,01:12,CLE,,MIA,,O. Robinson,MIA,MISS O. Robinson 5' Hook Shot,Missed Shot,Hook Shot,45,22,5,1,2.0,0.0,v
+S2324-G0229,3,00:40.600000,CLE,,MIA,,O. Robinson,MIA,MISS O. Robinson 1' Hook Shot,Missed Shot,Hook Shot,0,5,1,1,2.0,0.0,v
+S2324-G0229,3,00:40.600000,CLE,,MIA,,O. Robinson,MIA,O. Robinson REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0229,3,00:40.600000,CLE,76.0,MIA,101.0,O. Robinson,MIA,O. Robinson Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0229,3,00:40.600000,CLE,,MIA,,O. Robinson,MIA,MISS O. Robinson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0229,4,11:35,CLE,,MIA,,O. Robinson,MIA,O. Robinson BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0229,4,11:13,CLE,,MIA,,O. Robinson,MIA,O. Robinson REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0229,4,10:21,CLE,,MIA,,O. Robinson,MIA,O. Robinson S.FOUL (P3.T1) (G.Petraitis),Foul,Shooting,0,0,0,0,,,v
+S2324-G0229,4,08:35,CLE,,MIA,,O. Robinson,MIA,O. Robinson REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0229,4,07:48,CLE,,MIA,,O. Robinson,MIA,MISS O. Robinson 9' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-78,44,9,1,2.0,0.0,v
+S2324-G0229,4,05:54,CLE,86.0,MIA,116.0,O. Robinson,MIA,O. Robinson 26' 3PT Jump Shot (12 PTS) (Jaquez Jr. 1 AST),Made Shot,Jump Shot,0,259,26,1,3.0,3.0,v
+S2324-G0229,4,05:34,CLE,,MIA,,O. Robinson,MIA,O. Robinson REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0229,4,05:13,CLE,86.0,MIA,118.0,O. Robinson,MIA,O. Robinson 1' Alley Oop Dunk (14 PTS) (Richardson 5 AST),Made Shot,Alley Oop Dunk Shot,6,1,1,1,2.0,2.0,v
+S2324-G0229,4,03:42,CLE,,MIA,,O. Robinson,MIA,O. Robinson BLOCK (2 BLK),,,0,0,0,0,,,v
+S2324-G0229,4,03:42,CLE,,MIA,,O. Robinson,MIA,O. Robinson REBOUND (Off:4 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0229,4,03:40,CLE,,MIA,,O. Robinson,MIA,O. Robinson OFF.Foul (P4) (B.Adair),Foul,Offensive,0,0,0,0,,,v
+S2324-G0229,4,03:40,CLE,,MIA,,O. Robinson,MIA,O. Robinson Offensive Foul Turnover (P2.T9),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G1044,4,01:02,MIA,,GSW,,O. Robinson,MIA,Robinson REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1044,4,01:02,MIA,,GSW,,O. Robinson,MIA,Robinson Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G1013,4,02:59,MIA,,NOP,,O. Robinson,MIA,Robinson BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G1013,4,02:20,MIA,,NOP,,O. Robinson,MIA,Robinson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0855,1,02:00,DEN,,MIA,,O. Robinson,MIA,O. Robinson REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0855,2,10:11,DEN,,MIA,,O. Robinson,MIA,O. Robinson REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0855,2,08:00,DEN,,MIA,,O. Robinson,MIA,O. Robinson Lost Ball Turnover (P1.T5),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0855,2,07:50,DEN,,MIA,,O. Robinson,MIA,SUB: Rozier FOR O. Robinson,Substitution,,0,0,0,0,,,v
+S2324-G0855,4,10:39,DEN,,MIA,,O. Robinson,MIA,O. Robinson REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0855,4,08:58,DEN,,MIA,,O. Robinson,MIA,SUB: Adebayo FOR O. Robinson,Substitution,,0,0,0,0,,,v
+S2324-G0551,4,00:53.500000,MIA,,CHA,,O. Robinson,MIA,O. Robinson S.FOUL (P1.PN) (S.Foster),Foul,Shooting,0,0,0,0,,,h
+S2324-G0926,2,06:06,MIA,,WAS,,O. Robinson,MIA,O. Robinson REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0926,2,05:59,MIA,,WAS,,O. Robinson,MIA,SUB: Rozier FOR O. Robinson,Substitution,,0,0,0,0,,,h
+S2324-G0320,1,12:00,MIA,,CHI,,O. Robinson,MIA,Jump Ball O. Robinson vs. Vucevic: Tip to White,Jump Ball,,0,0,0,0,,,h
+S2324-G0320,1,10:04,MIA,,CHI,,O. Robinson,MIA,MISS O. Robinson 3' Hook Shot,Missed Shot,Hook Shot,-2,31,3,1,2.0,0.0,h
+S2324-G0320,1,08:10,MIA,,CHI,,O. Robinson,MIA,MISS O. Robinson 26' 3PT Jump Shot,Missed Shot,Jump Shot,13,262,26,1,3.0,0.0,h
+S2324-G0320,1,06:46,MIA,,CHI,,O. Robinson,MIA,SUB: Love FOR O. Robinson,Substitution,,0,0,0,0,,,h
+S2324-G0320,2,09:44,MIA,,CHI,,O. Robinson,MIA,O. Robinson OFF.Foul (P1) (J.Van Duyne),Foul,Offensive,0,0,0,0,,,h
+S2324-G0320,2,09:44,MIA,,CHI,,O. Robinson,MIA,O. Robinson Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0320,2,06:38,MIA,,CHI,,O. Robinson,MIA,SUB: Love FOR O. Robinson,Substitution,,0,0,0,0,,,h
+S2324-G0320,3,11:30,MIA,,CHI,,O. Robinson,MIA,Jump Ball O. Robinson vs. Vucevic: Tip to White,Jump Ball,,0,0,0,0,,,h
+S2324-G0320,3,10:39,MIA,,CHI,,O. Robinson,MIA,O. Robinson REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0320,3,10:38,MIA,,CHI,,O. Robinson,MIA,MISS O. Robinson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0320,3,10:38,MIA,57.0,CHI,61.0,O. Robinson,MIA,O. Robinson Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0320,3,08:39,MIA,,CHI,,O. Robinson,MIA,O. Robinson S.FOUL (P2.T3) (D.Mosher),Foul,Shooting,0,0,0,0,,,h
+S2324-G0320,3,07:38,MIA,,CHI,,O. Robinson,MIA,O. Robinson REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0320,3,06:16,MIA,,CHI,,O. Robinson,MIA,SUB: Jaquez Jr. FOR O. Robinson,Substitution,,0,0,0,0,,,h

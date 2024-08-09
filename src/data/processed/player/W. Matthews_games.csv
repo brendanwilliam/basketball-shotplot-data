@@ -1,0 +1,325 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2324-G0499,2,09:19,ORL,,ATL,,W. Matthews,ATL,Matthews S.FOUL (P1.T1) (K.Scott),Foul,Shooting,0,0,0,0,,,v
+S2324-G0499,2,08:29,ORL,,ATL,,W. Matthews,ATL,SUB: Murray FOR Matthews,Substitution,,0,0,0,0,,,v
+S2324-G0499,3,02:46,ORL,,ATL,,W. Matthews,ATL,SUB: Capela FOR Matthews,Substitution,,0,0,0,0,,,v
+S2324-G0499,4,09:07,ORL,,ATL,,W. Matthews,ATL,Matthews BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0499,4,09:03,ORL,,ATL,,W. Matthews,ATL,Matthews REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0499,4,08:28,ORL,,ATL,,W. Matthews,ATL,SUB: Murray FOR Matthews,Substitution,,0,0,0,0,,,v
+S2324-G0925,1,05:37,ATL,,NOP,,W. Matthews,ATL,MISS Matthews 3PT Jump Shot,Missed Shot,Jump Shot,-224,9,0,1,3.0,0.0,h
+S2324-G0925,1,03:10,ATL,,NOP,,W. Matthews,ATL,SUB: Bey FOR Matthews,Substitution,,0,0,0,0,,,h
+S2324-G0175,1,02:02,ATL,,MIA,,W. Matthews,ATL,Matthews S.FOUL (P1.T2) (B.Schwab),Foul,Shooting,0,0,0,0,,,h
+S2324-G0175,1,01:47,ATL,,MIA,,W. Matthews,ATL,Matthews Offensive Charge Foul (P2) (B.Schwab),Foul,Offensive Charge,0,0,0,0,,,h
+S2324-G0175,1,01:47,ATL,,MIA,,W. Matthews,ATL,Matthews Offensive Foul Turnover (P1.T3),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0175,1,01:33,ATL,,MIA,,W. Matthews,ATL,Matthews REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0175,3,01:28,ATL,,MIA,,W. Matthews,ATL,Matthews REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0175,3,01:28,ATL,74.0,MIA,86.0,W. Matthews,ATL,Matthews Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0175,3,01:28,ATL,,MIA,,W. Matthews,ATL,MISS Matthews Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0175,3,01:08,ATL,77.0,MIA,88.0,W. Matthews,ATL,Matthews 27' 3PT Jump Shot (4 PTS) (Young 8 AST),Made Shot,Jump Shot,153,224,27,1,3.0,3.0,h
+S2324-G0175,3,00:38.400000,ATL,80.0,MIA,91.0,W. Matthews,ATL,Matthews 24' 3PT Jump Shot (7 PTS) (Young 9 AST),Made Shot,Jump Shot,227,63,24,1,3.0,3.0,h
+S2324-G0175,4,09:54,ATL,,MIA,,W. Matthews,ATL,Matthews P.FOUL (P3.T3) (B.Kennedy),Foul,Personal,0,0,0,0,,,h
+S2324-G0175,4,09:54,ATL,,MIA,,W. Matthews,ATL,SUB: Bey FOR Matthews,Substitution,,0,0,0,0,,,h
+S2324-G0246,1,02:16,BOS,26.0,ATL,21.0,W. Matthews,ATL,Matthews 11' Driving Finger Roll Layup (2 PTS) (Young 3 AST),Made Shot,Driving Finger Roll Layup Shot,53,92,11,1,2.0,2.0,v
+S2324-G0246,1,01:42,BOS,,ATL,,W. Matthews,ATL,Matthews S.FOUL (P1.T3) (B.Haskill),Foul,Shooting,0,0,0,0,,,v
+S2324-G0246,1,01:42,BOS,,ATL,,W. Matthews,ATL,Matthews T.FOUL (P1.T3) (B.Haskill),Foul,Technical,0,0,0,0,,,v
+S2324-G0246,1,00:58.700000,BOS,,ATL,,W. Matthews,ATL,MISS Matthews 28' 3PT Jump Shot,Missed Shot,Jump Shot,146,239,28,1,3.0,0.0,v
+S2324-G0246,2,10:55,BOS,,ATL,,W. Matthews,ATL,MISS Matthews 28' 3PT Jump Shot,Missed Shot,Jump Shot,114,251,28,1,3.0,0.0,v
+S2324-G0246,2,08:36,BOS,,ATL,,W. Matthews,ATL,SUB: Hunter FOR Matthews,Substitution,,0,0,0,0,,,v
+S2324-G0246,3,00:29.100000,BOS,,ATL,,W. Matthews,ATL,SUB: Griffin FOR Matthews,Substitution,,0,0,0,0,,,v
+S2324-G0913,2,10:09,MEM,,ATL,,W. Matthews,ATL,SUB: Krejci FOR Matthews,Substitution,,0,0,0,0,,,v
+S2324-G0953,1,11:32,POR,,ATL,,W. Matthews,ATL,MISS Matthews 14' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,91,105,14,1,2.0,0.0,v
+S2324-G0953,1,11:19,POR,,ATL,,W. Matthews,ATL,MISS Matthews 12' Floating Jump Shot,Missed Shot,Floating Jump shot,-118,36,12,1,2.0,0.0,v
+S2324-G0953,1,09:15,POR,,ATL,,W. Matthews,ATL,Matthews BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0953,1,07:33,POR,,ATL,,W. Matthews,ATL,MISS Matthews 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,154,201,25,1,3.0,0.0,v
+S2324-G0953,1,04:37,POR,,ATL,,W. Matthews,ATL,MISS Matthews 3PT Jump Shot,Missed Shot,Jump Shot,-232,30,0,1,3.0,0.0,v
+S2324-G0953,1,04:16,POR,,ATL,,W. Matthews,ATL,SUB: Hunter FOR Matthews,Substitution,,0,0,0,0,,,v
+S2324-G0953,3,10:37,POR,49.0,ATL,55.0,W. Matthews,ATL,Matthews 24' 3PT Jump Shot (3 PTS) (Krejci 2 AST),Made Shot,Jump Shot,-233,32,24,1,3.0,3.0,v
+S2324-G0953,3,08:30,POR,,ATL,,W. Matthews,ATL,MISS Matthews 3PT Jump Shot,Missed Shot,Jump Shot,223,2,0,1,3.0,0.0,v
+S2324-G0953,3,06:40,POR,,ATL,,W. Matthews,ATL,MISS Matthews 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,-16,17,2,1,2.0,0.0,v
+S2324-G0953,3,05:34,POR,,ATL,,W. Matthews,ATL,SUB: Forrest FOR Matthews,Substitution,,0,0,0,0,,,v
+S2324-G1010,1,02:33,PHX,,ATL,,W. Matthews,ATL,MISS Matthews 3' Driving Layup,Missed Shot,Driving Layup Shot,-23,16,3,1,2.0,0.0,v
+S2324-G1010,1,00:45.400000,PHX,,ATL,,W. Matthews,ATL,MISS Matthews 3PT Jump Shot,Missed Shot,Jump Shot,227,19,0,1,3.0,0.0,v
+S2324-G1010,2,07:20,PHX,,ATL,,W. Matthews,ATL,Matthews S.FOUL (P1.T3) (E.Dalen),Foul,Shooting,0,0,0,0,,,v
+S2324-G1010,2,06:55,PHX,,ATL,,W. Matthews,ATL,Matthews S.FOUL (P2.T4) (S.Mitchell),Foul,Shooting,0,0,0,0,,,v
+S2324-G1010,2,05:45,PHX,,ATL,,W. Matthews,ATL,Matthews S.FOUL (P3.PN) (T.Brothers),Foul,Shooting,0,0,0,0,,,v
+S2324-G1010,2,05:23,PHX,,ATL,,W. Matthews,ATL,SUB: Hunter FOR Matthews,Substitution,,0,0,0,0,,,v
+S2324-G1010,3,05:23,PHX,78.0,ATL,79.0,W. Matthews,ATL,Matthews 29' 3PT Jump Shot (3 PTS) (Krejci 4 AST),Made Shot,Jump Shot,-168,236,29,1,3.0,3.0,v
+S2324-G1010,3,03:07,PHX,,ATL,,W. Matthews,ATL,SUB: Bogdanovic FOR Matthews,Substitution,,0,0,0,0,,,v
+S2324-G1010,4,09:44,PHX,,ATL,,W. Matthews,ATL,MISS Matthews 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,50,95,11,1,2.0,0.0,v
+S2324-G1010,4,06:34,PHX,,ATL,,W. Matthews,ATL,Matthews REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1010,4,06:30,PHX,,ATL,,W. Matthews,ATL,SUB: Hunter FOR Matthews,Substitution,,0,0,0,0,,,v
+S2324-G0990,3,04:03,LAL,,ATL,,W. Matthews,ATL,Matthews S.FOUL (P1.T4) (I.Hwang),Foul,Shooting,0,0,0,0,,,v
+S2324-G0990,3,02:30,LAL,99.0,ATL,81.0,W. Matthews,ATL,Matthews 27' 3PT Jump Shot (3 PTS) (Hunter 3 AST),Made Shot,Jump Shot,196,183,27,1,3.0,3.0,v
+S2324-G0990,4,04:29,LAL,,ATL,,W. Matthews,ATL,MISS Matthews 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-118,240,27,1,3.0,0.0,v
+S2324-G0990,4,03:04,LAL,,ATL,,W. Matthews,ATL,Matthews STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0352,1,03:02,ATL,,DET,,W. Matthews,ATL,SUB: Bey FOR Matthews,Substitution,,0,0,0,0,,,h
+S2324-G0352,2,11:44,ATL,,DET,,W. Matthews,ATL,MISS Matthews 3PT Jump Shot,Missed Shot,Jump Shot,-232,26,0,1,3.0,0.0,h
+S2324-G0352,2,11:25,ATL,,DET,,W. Matthews,ATL,Matthews REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0352,2,09:38,ATL,,DET,,W. Matthews,ATL,Matthews REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0352,2,08:51,ATL,,DET,,W. Matthews,ATL,Matthews S.FOUL (P1.T1) (M.Kallio),Foul,Shooting,0,0,0,0,,,h
+S2324-G0352,2,08:20,ATL,,DET,,W. Matthews,ATL,SUB: Hunter FOR Matthews,Substitution,,0,0,0,0,,,h
+S2324-G0352,3,05:17,ATL,,DET,,W. Matthews,ATL,Matthews Out of Bounds Lost Ball Turnover (P1.T10),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2324-G0352,3,03:42,ATL,89.0,DET,77.0,W. Matthews,ATL,Matthews 1' Driving Layup (2 PTS) (Young 11 AST),Made Shot,Driving Layup Shot,-2,6,1,1,2.0,2.0,h
+S2324-G0352,3,00:55.800000,ATL,,DET,,W. Matthews,ATL,Matthews STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0352,4,08:14,ATL,,DET,,W. Matthews,ATL,Matthews BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0352,4,07:50,ATL,,DET,,W. Matthews,ATL,SUB: Young FOR Matthews,Substitution,,0,0,0,0,,,h
+S2324-G0313,1,10:43,TOR,,ATL,,W. Matthews,ATL,Matthews STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0313,1,10:39,TOR,,ATL,,W. Matthews,ATL,MISS Matthews 1' Running Layup,Missed Shot,Running Layup Shot,-5,5,1,1,2.0,0.0,v
+S2324-G0313,1,08:41,TOR,,ATL,,W. Matthews,ATL,Matthews STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0313,1,07:05,TOR,15.0,ATL,11.0,W. Matthews,ATL,Matthews 24' 3PT Step Back Jump Shot (3 PTS) (Young 3 AST),Made Shot,Step Back Jump shot,235,58,24,1,3.0,3.0,v
+S2324-G0313,1,06:52,TOR,,ATL,,W. Matthews,ATL,Matthews S.FOUL (P1.T1) (S.Foster),Foul,Shooting,0,0,0,0,,,v
+S2324-G0313,1,06:52,TOR,,ATL,,W. Matthews,ATL,SUB: Bogdanovic FOR Matthews,Substitution,,0,0,0,0,,,v
+S2324-G0313,3,09:39,TOR,,ATL,,W. Matthews,ATL,MISS Matthews 29' 3PT Jump Shot,Missed Shot,Jump Shot,-148,244,29,1,3.0,0.0,v
+S2324-G0313,3,08:45,TOR,,ATL,,W. Matthews,ATL,MISS Matthews 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,228,65,24,1,3.0,0.0,v
+S2324-G0313,3,08:21,TOR,,ATL,,W. Matthews,ATL,Matthews REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0313,3,08:21,TOR,77.0,ATL,73.0,W. Matthews,ATL,Matthews Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0313,3,08:21,TOR,77.0,ATL,74.0,W. Matthews,ATL,Matthews Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0313,3,07:48,TOR,,ATL,,W. Matthews,ATL,Matthews L.B.FOUL (P2.T1) (D.Richardson),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0313,3,05:34,TOR,,ATL,,W. Matthews,ATL,MISS Matthews 27' 3PT Jump Shot,Missed Shot,Jump Shot,-163,217,27,1,3.0,0.0,v
+S2324-G0313,3,05:26,TOR,,ATL,,W. Matthews,ATL,Matthews P.FOUL (P3.T2) (D.Richardson),Foul,Personal,0,0,0,0,,,v
+S2324-G0313,3,05:26,TOR,,ATL,,W. Matthews,ATL,SUB: Mathews FOR Matthews,Substitution,,0,0,0,0,,,v
+S2324-G0313,4,10:52,TOR,,ATL,,W. Matthews,ATL,Matthews REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0313,4,10:13,TOR,,ATL,,W. Matthews,ATL,MISS Matthews 2' Reverse Layup,Missed Shot,Reverse Layup Shot,-18,8,2,1,2.0,0.0,v
+S2324-G0313,4,09:10,TOR,,ATL,,W. Matthews,ATL,SUB: Capela FOR Matthews,Substitution,,0,0,0,0,,,v
+S2324-G1060,1,02:36,ATL,,BOS,,W. Matthews,ATL,Matthews REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1060,1,01:54,ATL,,BOS,,W. Matthews,ATL,MISS Matthews 26' 3PT Jump Shot,Missed Shot,Jump Shot,-167,199,26,1,3.0,0.0,h
+S2324-G1060,2,08:42,ATL,,BOS,,W. Matthews,ATL,Matthews S.FOUL (P1.T2) (E.Malloy),Foul,Shooting,0,0,0,0,,,h
+S2324-G1060,2,07:38,ATL,,BOS,,W. Matthews,ATL,SUB: Hunter FOR Matthews,Substitution,,0,0,0,0,,,h
+S2324-G1060,3,10:12,ATL,,BOS,,W. Matthews,ATL,Matthews REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1060,3,09:15,ATL,,BOS,,W. Matthews,ATL,MISS Matthews 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-163,199,26,1,3.0,0.0,h
+S2324-G1060,3,08:17,ATL,,BOS,,W. Matthews,ATL,Matthews STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1060,3,08:14,ATL,,BOS,,W. Matthews,ATL,Matthews Lost Ball Turnover (P1.T9),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G1060,3,04:16,ATL,,BOS,,W. Matthews,ATL,Matthews BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G1060,3,03:39,ATL,,BOS,,W. Matthews,ATL,MISS Matthews 26' 3PT Jump Shot,Missed Shot,Jump Shot,-138,215,26,1,3.0,0.0,h
+S2324-G1060,3,03:36,ATL,,BOS,,W. Matthews,ATL,Matthews REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1060,3,02:41,ATL,,BOS,,W. Matthews,ATL,SUB: Krejci FOR Matthews,Substitution,,0,0,0,0,,,h
+S2324-G1060,3,00:51.200000,ATL,87.0,BOS,85.0,W. Matthews,ATL,Matthews 24' 3PT Jump Shot (3 PTS) (Murray 7 AST),Made Shot,Jump Shot,-235,47,24,1,3.0,3.0,h
+S2324-G1060,4,11:11,ATL,,BOS,,W. Matthews,ATL,Matthews P.FOUL (P2.T1) (R.Acosta),Foul,Personal,0,0,0,0,,,h
+S2324-G1060,4,10:39,ATL,,BOS,,W. Matthews,ATL,MISS Matthews 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-197,158,25,1,3.0,0.0,h
+S2324-G1060,4,08:48,ATL,,BOS,,W. Matthews,ATL,Matthews REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1060,4,08:31,ATL,,BOS,,W. Matthews,ATL,SUB: Hunter FOR Matthews,Substitution,,0,0,0,0,,,h
+S2324-G1060,4,00:40.400000,ATL,,BOS,,W. Matthews,ATL,SUB: Krejci FOR Matthews,Substitution,,0,0,0,0,,,h
+S2324-G1060,4,00:06.700000,ATL,,BOS,,W. Matthews,ATL,Matthews P.FOUL (P3.T4) (R.Acosta),Foul,Personal,0,0,0,0,,,h
+S2324-G1060,5,00:27.900000,ATL,,BOS,,W. Matthews,ATL,MISS Matthews 10' Floating Jump Shot,Missed Shot,Floating Jump shot,-27,94,10,1,2.0,0.0,h
+S2324-G1060,5,00:25.500000,ATL,,BOS,,W. Matthews,ATL,Matthews REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1060,5,00:23.800000,ATL,,BOS,,W. Matthews,ATL, ,Jump Ball,,0,0,0,0,,,h
+S2324-G1076,2,10:49,ATL,,MIL,,W. Matthews,ATL,Matthews P.FOUL (P1.T2) (Z.Zarba),Foul,Personal,0,0,0,0,,,h
+S2324-G1076,2,09:32,ATL,,MIL,,W. Matthews,ATL,MISS Matthews 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-168,194,26,1,3.0,0.0,h
+S2324-G1076,2,07:24,ATL,36.0,MIL,41.0,W. Matthews,ATL,Matthews 2' Driving Layup (2 PTS) (Murray 3 AST),Made Shot,Driving Layup Shot,-5,16,2,1,2.0,2.0,h
+S2324-G1076,2,06:36,ATL,,MIL,,W. Matthews,ATL,SUB: Capela FOR Matthews,Substitution,,0,0,0,0,,,h
+S2324-G1076,3,06:36,ATL,58.0,MIL,74.0,W. Matthews,ATL,Matthews 26' 3PT Jump Shot (5 PTS) (Bogdanovic 1 AST),Made Shot,Jump Shot,97,246,26,1,3.0,3.0,h
+S2324-G1076,3,06:06,ATL,60.0,MIL,76.0,W. Matthews,ATL,Matthews 8' Driving Floating Jump Shot (7 PTS) (Murray 7 AST),Made Shot,Driving Floating Jump Shot,6,80,8,1,2.0,2.0,h
+S2324-G1076,3,04:51,ATL,,MIL,,W. Matthews,ATL,MISS Matthews 3' Driving Layup,Missed Shot,Driving Layup Shot,-23,24,3,1,2.0,0.0,h
+S2324-G1076,3,04:45,ATL,,MIL,,W. Matthews,ATL,Matthews STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1076,3,03:05,ATL,,MIL,,W. Matthews,ATL,MISS Matthews 1' Driving Layup,Missed Shot,Driving Layup Shot,-6,3,1,1,2.0,0.0,h
+S2324-G1076,3,00:40.400000,ATL,,MIL,,W. Matthews,ATL,MISS Matthews 3PT Jump Shot,Missed Shot,Jump Shot,225,25,0,1,3.0,0.0,h
+S2324-G1076,3,00:01.500000,ATL,,MIL,,W. Matthews,ATL,MISS Matthews 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,9,8,1,1,2.0,0.0,h
+S2324-G1076,4,04:26,ATL,,MIL,,W. Matthews,ATL,Matthews S.FOUL (P2.PN) (S.Wall),Foul,Shooting,0,0,0,0,,,h
+S2324-G1076,4,01:14,ATL,,MIL,,W. Matthews,ATL,Matthews REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1076,4,01:13,ATL,107.0,MIL,118.0,W. Matthews,ATL,Matthews 1' Putback Layup (9 PTS),Made Shot,Putback Layup Shot,-6,10,1,1,2.0,2.0,h
+S2324-G1076,4,00:36.100000,ATL,,MIL,,W. Matthews,ATL,Matthews Personal Take Foul (P3.PN) (S.Wall),Foul,Personal Take,0,0,0,0,,,h
+S2324-G1021,2,11:05,ATL,,CHA,,W. Matthews,ATL,Matthews BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G1021,2,10:57,ATL,,CHA,,W. Matthews,ATL,MISS Matthews 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-153,199,25,1,3.0,0.0,h
+S2324-G1021,2,10:37,ATL,,CHA,,W. Matthews,ATL,Matthews REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1021,2,07:34,ATL,,CHA,,W. Matthews,ATL,MISS Matthews 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,0,36,4,1,2.0,0.0,h
+S2324-G1021,2,07:03,ATL,,CHA,,W. Matthews,ATL,SUB: Krejci FOR Matthews,Substitution,,0,0,0,0,,,h
+S2324-G1021,4,11:26,ATL,,CHA,,W. Matthews,ATL,Matthews REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1021,4,10:51,ATL,,CHA,,W. Matthews,ATL,Matthews BLOCK (2 BLK),,,0,0,0,0,,,h
+S2324-G1021,4,10:51,ATL,,CHA,,W. Matthews,ATL,Matthews REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1021,4,10:36,ATL,,CHA,,W. Matthews,ATL,MISS Matthews 26' 3PT Jump Shot,Missed Shot,Jump Shot,229,120,26,1,3.0,0.0,h
+S2324-G1021,4,09:53,ATL,104.0,CHA,74.0,W. Matthews,ATL,Matthews 24' 3PT Jump Shot (3 PTS) (Forrest 6 AST),Made Shot,Jump Shot,-235,-5,24,1,3.0,3.0,h
+S2324-G1021,4,07:29,ATL,,CHA,,W. Matthews,ATL,SUB: Krejci FOR Matthews,Substitution,,0,0,0,0,,,h
+S2324-G1021,4,04:05,ATL,,CHA,,W. Matthews,ATL,Matthews P.FOUL (P1.T3) (B.Nansel),Foul,Personal,0,0,0,0,,,h
+S2324-G1021,4,03:22,ATL,,CHA,,W. Matthews,ATL,Matthews REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1021,4,02:50,ATL,,CHA,,W. Matthews,ATL,Matthews STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1021,4,02:47,ATL,128.0,CHA,88.0,W. Matthews,ATL,Matthews 27' 3PT Running Pull-Up Jump Shot (6 PTS),Made Shot,Running Pull-Up Jump Shot,-180,197,27,1,3.0,3.0,h
+S2324-G1021,4,01:59,ATL,,CHA,,W. Matthews,ATL,SUB: Krejci FOR Matthews,Substitution,,0,0,0,0,,,h
+S2324-G1124,4,10:43,DAL,,ATL,,W. Matthews,ATL,Matthews P.FOUL (P1.T1) (D.Mosher),Foul,Personal,0,0,0,0,,,v
+S2324-G1124,4,10:09,DAL,,ATL,,W. Matthews,ATL,MISS Matthews 3PT Jump Shot,Missed Shot,Jump Shot,234,8,0,1,3.0,0.0,v
+S2324-G1124,4,08:25,DAL,,ATL,,W. Matthews,ATL,MISS Matthews 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,230,80,24,1,3.0,0.0,v
+S2324-G1124,4,07:32,DAL,,ATL,,W. Matthews,ATL,SUB: Murray FOR Matthews,Substitution,,0,0,0,0,,,v
+S2324-G0851,2,08:26,BKN,39.0,ATL,29.0,W. Matthews,ATL,Matthews 3PT Running Jump Shot (3 PTS) (Murray 1 AST),Made Shot,Running Jump Shot,-228,-32,0,1,3.0,3.0,v
+S2324-G0851,2,06:29,BKN,,ATL,,W. Matthews,ATL,Matthews BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0851,2,06:26,BKN,,ATL,,W. Matthews,ATL,Matthews REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0851,2,06:25,BKN,,ATL,,W. Matthews,ATL,SUB: Bogdanovic FOR Matthews,Substitution,,0,0,0,0,,,v
+S2324-G0851,3,03:34,BKN,,ATL,,W. Matthews,ATL,SUB: Bogdanovic FOR Matthews,Substitution,,0,0,0,0,,,v
+S2324-G0851,4,11:26,BKN,,ATL,,W. Matthews,ATL,Matthews BLOCK (2 BLK),,,0,0,0,0,,,v
+S2324-G0851,4,10:00,BKN,,ATL,,W. Matthews,ATL,Matthews REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0851,4,09:34,BKN,,ATL,,W. Matthews,ATL,Matthews REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0851,4,09:30,BKN,,ATL,,W. Matthews,ATL,SUB: Capela FOR Matthews,Substitution,,0,0,0,0,,,v
+S2324-G0851,4,04:12,BKN,,ATL,,W. Matthews,ATL,Matthews S.FOUL (P1.T3) (M.Kallio),Foul,Shooting,0,0,0,0,,,v
+S2324-G0851,4,02:47,BKN,,ATL,,W. Matthews,ATL,Matthews REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0851,4,02:40,BKN,118.0,ATL,92.0,W. Matthews,ATL,Matthews 8' Driving Floating Bank Jump Shot (5 PTS) (Fernando 1 AST),Made Shot,Driving Floating Bank Jump Shot,-75,27,8,1,2.0,2.0,v
+S2324-G0851,4,02:40,BKN,,ATL,,W. Matthews,ATL,MISS Matthews Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2324-G0851,4,01:00,BKN,,ATL,,W. Matthews,ATL,Matthews REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0241,1,00:44.800000,WAS,,ATL,,W. Matthews,ATL,Hawks T.Foul (Def. 3 Sec Matthews ) (P.Fraher),Foul,Defense 3 Second,0,0,0,0,,,v
+S2324-G0241,2,07:29,WAS,,ATL,,W. Matthews,ATL,MISS Matthews 3PT Running Jump Shot,Missed Shot,Running Jump Shot,228,16,0,1,3.0,0.0,v
+S2324-G0241,2,05:53,WAS,,ATL,,W. Matthews,ATL,SUB: Bey FOR Matthews,Substitution,,0,0,0,0,,,v
+S2324-G0241,3,03:36,WAS,,ATL,,W. Matthews,ATL,SUB: Young FOR Matthews,Substitution,,0,0,0,0,,,v
+S2324-G0055,2,11:07,CLE,,ATL,,W. Matthews,ATL,MISS Matthews 3PT Jump Shot,Missed Shot,Jump Shot,229,11,0,1,3.0,0.0,v
+S2324-G0055,2,10:54,CLE,,ATL,,W. Matthews,ATL,Matthews REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0055,2,08:50,CLE,,ATL,,W. Matthews,ATL,SUB: Hunter FOR Matthews,Substitution,,0,0,0,0,,,v
+S2324-G0055,2,04:55,CLE,,ATL,,W. Matthews,ATL,MISS Matthews 3PT Jump Shot,Missed Shot,Jump Shot,230,38,0,1,3.0,0.0,v
+S2324-G0055,2,04:26,CLE,,ATL,,W. Matthews,ATL,SUB: Bogdanovic FOR Matthews,Substitution,,0,0,0,0,,,v
+S2324-G0055,4,08:49,CLE,,ATL,,W. Matthews,ATL,SUB: Hunter FOR Matthews,Substitution,,0,0,0,0,,,v
+S2324-G0055,4,01:49,CLE,,ATL,,W. Matthews,ATL,Matthews REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0055,4,00:29.900000,CLE,,ATL,,W. Matthews,ATL,Matthews REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0055,4,00:26.800000,CLE,,ATL,,W. Matthews,ATL,MISS Matthews 27' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-174,212,27,1,3.0,0.0,v
+S2324-G0690,2,11:19,ATL,,PHX,,W. Matthews,ATL,MISS Matthews 3PT Jump Shot,Missed Shot,Jump Shot,-234,-8,0,1,3.0,0.0,h
+S2324-G0690,2,08:52,ATL,,PHX,,W. Matthews,ATL,SUB: Murray FOR Matthews,Substitution,,0,0,0,0,,,h
+S2324-G0690,3,10:23,ATL,,PHX,,W. Matthews,ATL,MISS Matthews 25' 3PT Jump Shot,Missed Shot,Jump Shot,-109,224,25,1,3.0,0.0,h
+S2324-G0690,3,08:44,ATL,77.0,PHX,73.0,W. Matthews,ATL,Matthews 24' 3PT Step Back Jump Shot (3 PTS) (Young 10 AST),Made Shot,Step Back Jump shot,230,68,24,1,3.0,3.0,h
+S2324-G0690,3,07:56,ATL,,PHX,,W. Matthews,ATL,HAWKS T.Foul (Def. 3 Sec Matthews ) (S.Twardoski),Foul,Defense 3 Second,0,0,0,0,,,h
+S2324-G0690,3,07:29,ATL,,PHX,,W. Matthews,ATL,MISS Matthews 14' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,74,122,14,1,2.0,0.0,h
+S2324-G0690,3,07:20,ATL,,PHX,,W. Matthews,ATL,SUB: Bogdanovic FOR Matthews,Substitution,,0,0,0,0,,,h
+S2324-G0690,3,01:19,ATL,,PHX,,W. Matthews,ATL,Matthews S.FOUL (P1.T3) (M.Dagher),Foul,Shooting,0,0,0,0,,,h
+S2324-G0690,3,01:13,ATL,,PHX,,W. Matthews,ATL,Matthews REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0690,3,00:36.800000,ATL,98.0,PHX,95.0,W. Matthews,ATL,Matthews 24' 3PT Jump Shot (6 PTS) (Murray 5 AST),Made Shot,Jump Shot,-230,69,24,1,3.0,3.0,h
+S2324-G0690,4,10:11,ATL,,PHX,,W. Matthews,ATL,MISS Matthews 25' 3PT Jump Shot,Missed Shot,Jump Shot,-4,253,25,1,3.0,0.0,h
+S2324-G0690,4,10:04,ATL,,PHX,,W. Matthews,ATL,Matthews S.FOUL (P2.T1) (Z.Zarba),Foul,Shooting,0,0,0,0,,,h
+S2324-G0690,4,10:04,ATL,,PHX,,W. Matthews,ATL,SUB: Murray FOR Matthews,Substitution,,0,0,0,0,,,h
+S2324-G0716,2,10:17,ATL,36.0,LAC,43.0,W. Matthews,ATL,Matthews 26' 3PT Jump Shot (3 PTS) (Johnson 2 AST),Made Shot,Jump Shot,140,215,26,1,3.0,3.0,h
+S2324-G0716,2,08:39,ATL,,LAC,,W. Matthews,ATL,SUB: Murray FOR Matthews,Substitution,,0,0,0,0,,,h
+S2324-G0716,4,09:49,ATL,,LAC,,W. Matthews,ATL,Matthews STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0716,4,08:57,ATL,,LAC,,W. Matthews,ATL,Matthews REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0716,4,08:56,ATL,,LAC,,W. Matthews,ATL,SUB: Okongwu FOR Matthews,Substitution,,0,0,0,0,,,h
+S2324-G1218,1,05:49,PHI,17.0,ATL,12.0,W. Matthews,ATL,Matthews Free Throw 1 of 3 (1 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,v
+S2324-G1218,1,05:49,PHI,17.0,ATL,13.0,W. Matthews,ATL,Matthews Free Throw 2 of 3 (2 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,v
+S2324-G1218,1,05:49,PHI,17.0,ATL,14.0,W. Matthews,ATL,Matthews Free Throw 3 of 3 (3 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,v
+S2324-G1218,1,03:27,PHI,,ATL,,W. Matthews,ATL,MISS Matthews 17' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-153,74,17,1,2.0,0.0,v
+S2324-G1218,1,03:00,PHI,,ATL,,W. Matthews,ATL,SUB: Forrest FOR Matthews,Substitution,,0,0,0,0,,,v
+S2324-G1218,2,07:21,PHI,,ATL,,W. Matthews,ATL,MISS Matthews 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,69,-11,7,1,2.0,0.0,v
+S2324-G1218,2,05:56,PHI,,ATL,,W. Matthews,ATL,SUB: Capela FOR Matthews,Substitution,,0,0,0,0,,,v
+S2324-G1218,3,04:05,PHI,,ATL,,W. Matthews,ATL,MISS Matthews 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,174,198,26,1,3.0,0.0,v
+S2324-G1218,3,03:15,PHI,,ATL,,W. Matthews,ATL,SUB: Bey FOR Matthews,Substitution,,0,0,0,0,,,v
+S2324-G1034,2,11:07,ATL,,BOS,,W. Matthews,ATL,MISS Matthews 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-100,63,12,1,2.0,0.0,h
+S2324-G1034,2,10:21,ATL,,BOS,,W. Matthews,ATL,Matthews REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1034,2,08:43,ATL,28.0,BOS,53.0,W. Matthews,ATL,Matthews 25' 3PT Jump Shot (3 PTS) (Murray 5 AST),Made Shot,Jump Shot,-93,237,25,1,3.0,3.0,h
+S2324-G1034,2,06:58,ATL,,BOS,,W. Matthews,ATL,Matthews REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1034,2,06:56,ATL,,BOS,,W. Matthews,ATL,MISS Matthews 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,225,-4,0,1,3.0,0.0,h
+S2324-G1034,2,05:06,ATL,,BOS,,W. Matthews,ATL,Matthews Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G1034,2,05:05,ATL,,BOS,,W. Matthews,ATL,SUB: Bogdanovic FOR Matthews,Substitution,,0,0,0,0,,,h
+S2324-G1034,4,10:14,ATL,,BOS,,W. Matthews,ATL,Matthews REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1034,4,09:58,ATL,97.0,BOS,96.0,W. Matthews,ATL,Matthews 25' 3PT Jump Shot (6 PTS) (Forrest 1 AST),Made Shot,Jump Shot,-212,137,25,1,3.0,3.0,h
+S2324-G1034,4,05:07,ATL,,BOS,,W. Matthews,ATL,Matthews REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1034,4,03:43,ATL,,BOS,,W. Matthews,ATL,SUB: Krejci FOR Matthews,Substitution,,0,0,0,0,,,h
+S2324-G0408,1,04:39,CHI,,ATL,,W. Matthews,ATL,Matthews S.FOUL (P1.T1) (T.Ricks),Foul,Shooting,0,0,0,0,,,v
+S2324-G0408,1,03:56,CHI,,ATL,,W. Matthews,ATL,Matthews Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0408,1,02:30,CHI,,ATL,,W. Matthews,ATL,SUB: Johnson FOR Matthews,Substitution,,0,0,0,0,,,v
+S2324-G0408,3,03:13,CHI,,ATL,,W. Matthews,ATL,Matthews BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0408,3,03:13,CHI,,ATL,,W. Matthews,ATL,SUB: Johnson FOR Matthews,Substitution,,0,0,0,0,,,v
+S2324-G0371,1,05:14,HOU,,ATL,,W. Matthews,ATL,MISS Matthews 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,124,242,27,1,3.0,0.0,v
+S2324-G0371,1,04:37,HOU,,ATL,,W. Matthews,ATL,Matthews S.FOUL (P1.T3) (B.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2324-G0371,1,02:49,HOU,,ATL,,W. Matthews,ATL,MISS Matthews 11' Jump Shot,Missed Shot,Jump Shot,105,-7,11,1,2.0,0.0,v
+S2324-G0371,1,02:21,HOU,,ATL,,W. Matthews,ATL,SUB: Bey FOR Matthews,Substitution,,0,0,0,0,,,v
+S2324-G0371,3,02:45,HOU,,ATL,,W. Matthews,ATL,Matthews REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0371,3,02:40,HOU,92.0,ATL,92.0,W. Matthews,ATL,Matthews Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0371,3,02:40,HOU,,ATL,,W. Matthews,ATL,MISS Matthews Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0371,3,01:21,HOU,,ATL,,W. Matthews,ATL,Matthews REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1147,4,10:19,ATL,83.0,MIA,85.0,W. Matthews,ATL,Matthews Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1147,4,10:19,ATL,84.0,MIA,85.0,W. Matthews,ATL,Matthews Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1147,4,07:22,ATL,,MIA,,W. Matthews,ATL,Matthews STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1147,4,07:18,ATL,,MIA,,W. Matthews,ATL,SUB: Capela FOR Matthews,Substitution,,0,0,0,0,,,h
+S2324-G0193,1,01:36,ATL,,NYK,,W. Matthews,ATL,Matthews REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0193,3,03:38,ATL,,NYK,,W. Matthews,ATL,Matthews P.FOUL (P1.T3) (J.Orr),Foul,Personal,0,0,0,0,,,h
+S2324-G0193,3,00:50.800000,ATL,81.0,NYK,84.0,W. Matthews,ATL,Matthews 3PT Jump Shot (3 PTS) (Young 12 AST),Made Shot,Jump Shot,232,29,0,1,3.0,3.0,h
+S2324-G0193,3,00:32.300000,ATL,,NYK,,W. Matthews,ATL,Matthews STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0193,4,11:40,ATL,,NYK,,W. Matthews,ATL,Matthews REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0193,4,11:23,ATL,,NYK,,W. Matthews,ATL,Matthews P.FOUL (P2.T1) (S.Foster),Foul,Personal,0,0,0,0,,,h
+S2324-G0193,4,10:47,ATL,,NYK,,W. Matthews,ATL,Matthews REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0193,4,10:45,ATL,,NYK,,W. Matthews,ATL,SUB: Johnson FOR Matthews,Substitution,,0,0,0,0,,,h
+S2324-G0039,1,01:46,ATL,32.0,IND,31.0,W. Matthews,ATL,Matthews 3PT Jump Shot (3 PTS) (Bey 1 AST),Made Shot,Jump Shot,229,50,0,1,3.0,3.0,h
+S2324-G0039,1,00:18.500000,ATL,,IND,,W. Matthews,ATL,Matthews REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0039,3,03:20,ATL,,IND,,W. Matthews,ATL,Matthews OFF.Foul (P1) (L.Holtkamp),Foul,Offensive,0,0,0,0,,,h
+S2324-G0039,3,03:20,ATL,,IND,,W. Matthews,ATL,Matthews Offensive Foul Turnover (P1.T13),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0039,3,01:51,ATL,,IND,,W. Matthews,ATL,Matthews P.FOUL (P2.T3) (L.Holtkamp),Foul,Personal,0,0,0,0,,,h
+S2324-G0039,3,01:33,ATL,,IND,,W. Matthews,ATL,MISS Matthews 3PT Jump Shot,Missed Shot,Jump Shot,224,-4,0,1,3.0,0.0,h
+S2324-G0039,3,00:31,ATL,,IND,,W. Matthews,ATL,Matthews L.B.FOUL (P3.PN) (J.Goble),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0982,2,06:24,LAC,38.0,ATL,49.0,W. Matthews,ATL,Matthews 25' 3PT Jump Shot (3 PTS) (Murray 5 AST),Made Shot,Jump Shot,-136,215,25,1,3.0,3.0,v
+S2324-G0982,2,04:39,LAC,,ATL,,W. Matthews,ATL,Matthews REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0982,2,04:35,LAC,40.0,ATL,54.0,W. Matthews,ATL,Matthews 25' 3PT Running Jump Shot (6 PTS) (Murray 7 AST),Made Shot,Running Jump Shot,-145,204,25,1,3.0,3.0,v
+S2324-G0982,2,00:42.800000,LAC,,ATL,,W. Matthews,ATL,Matthews STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0982,4,08:24,LAC,,ATL,,W. Matthews,ATL,SUB: Krejci FOR Matthews,Substitution,,0,0,0,0,,,v
+S2324-G0296,1,04:36,ATL,,DEN,,W. Matthews,ATL,Matthews STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0296,1,02:58,ATL,,DEN,,W. Matthews,ATL,Matthews REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0296,1,02:44,ATL,,DEN,,W. Matthews,ATL,MISS Matthews 3PT Jump Shot,Missed Shot,Jump Shot,224,70,0,1,3.0,0.0,h
+S2324-G0296,2,11:24,ATL,38.0,DEN,30.0,W. Matthews,ATL,Matthews 1' Cutting Layup Shot (2 PTS) (Young 5 AST),Made Shot,Cutting Layup Shot,-1,13,1,1,2.0,2.0,h
+S2324-G0296,2,11:06,ATL,,DEN,,W. Matthews,ATL,Matthews REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0296,2,10:55,ATL,,DEN,,W. Matthews,ATL,Matthews Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0296,2,09:45,ATL,,DEN,,W. Matthews,ATL,SUB: Bey FOR Matthews,Substitution,,0,0,0,0,,,h
+S2324-G0296,2,06:52,ATL,,DEN,,W. Matthews,ATL,MISS Matthews 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,80,246,26,1,3.0,0.0,h
+S2324-G0296,2,05:53,ATL,,DEN,,W. Matthews,ATL,SUB: Capela FOR Matthews,Substitution,,0,0,0,0,,,h
+S2324-G0296,3,04:28,ATL,,DEN,,W. Matthews,ATL,Matthews Lost Ball Turnover (P2.T8),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0296,3,03:49,ATL,,DEN,,W. Matthews,ATL,Matthews REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0296,3,01:21,ATL,,DEN,,W. Matthews,ATL,Matthews S.FOUL (P1.PN) (B.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2324-G0296,4,11:16,ATL,,DEN,,W. Matthews,ATL,Matthews REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0296,4,09:32,ATL,,DEN,,W. Matthews,ATL,Matthews STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0296,4,08:19,ATL,,DEN,,W. Matthews,ATL,MISS Matthews 25' 3PT Jump Shot,Missed Shot,Jump Shot,70,241,25,1,3.0,0.0,h
+S2324-G0296,4,08:15,ATL,,DEN,,W. Matthews,ATL,Matthews REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0296,4,08:14,ATL,,DEN,,W. Matthews,ATL,MISS Matthews 26' 3PT Jump Shot,Missed Shot,Jump Shot,131,225,26,1,3.0,0.0,h
+S2324-G0296,4,08:11,ATL,,DEN,,W. Matthews,ATL,SUB: Capela FOR Matthews,Substitution,,0,0,0,0,,,h
+S2324-G0384,1,02:52,MIA,,ATL,,W. Matthews,ATL,Matthews L.B.FOUL (P1.T4) (S.Foster),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0384,1,00:00.600000,MIA,,ATL,,W. Matthews,ATL,MISS Matthews 26' 3PT Jump Shot,Missed Shot,Jump Shot,-241,94,26,1,3.0,0.0,v
+S2324-G0384,3,01:11,MIA,,ATL,,W. Matthews,ATL,Matthews REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0272,2,07:12,SAS,44.0,ATL,43.0,W. Matthews,ATL,Matthews 25' 3PT Pullup Jump Shot (3 PTS) (Hunter 1 AST),Made Shot,Pullup Jump shot,96,236,25,1,3.0,3.0,v
+S2324-G0272,2,05:59,SAS,,ATL,,W. Matthews,ATL,SUB: Capela FOR Matthews,Substitution,,0,0,0,0,,,v
+S2324-G0272,3,06:05,SAS,,ATL,,W. Matthews,ATL,Matthews BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0272,3,05:02,SAS,,ATL,,W. Matthews,ATL,Matthews S.FOUL (P1.T4) (D.Guthrie),Foul,Shooting,0,0,0,0,,,v
+S2324-G0272,3,03:13,SAS,,ATL,,W. Matthews,ATL,SUB: Young FOR Matthews,Substitution,,0,0,0,0,,,v
+S2324-G0966,1,11:25,UTA,,ATL,,W. Matthews,ATL,Matthews BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0966,1,10:01,UTA,,ATL,,W. Matthews,ATL,MISS Matthews 4' Driving Layup,Missed Shot,Driving Layup Shot,42,9,4,1,2.0,0.0,v
+S2324-G0966,1,09:21,UTA,,ATL,,W. Matthews,ATL,Matthews REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0966,1,09:13,UTA,8.0,ATL,8.0,W. Matthews,ATL,Matthews 3PT Jump Shot (3 PTS) (Murray 1 AST),Made Shot,Jump Shot,-223,-8,0,1,3.0,3.0,v
+S2324-G0966,1,08:14,UTA,10.0,ATL,11.0,W. Matthews,ATL,Matthews 3PT Jump Shot (6 PTS) (Capela 1 AST),Made Shot,Jump Shot,-227,30,0,1,3.0,3.0,v
+S2324-G0966,1,07:51,UTA,10.0,ATL,14.0,W. Matthews,ATL,Matthews 30' 3PT Running Jump Shot (9 PTS) (Murray 2 AST),Made Shot,Running Jump Shot,189,237,30,1,3.0,3.0,v
+S2324-G0966,1,06:05,UTA,,ATL,,W. Matthews,ATL,SUB: Hunter FOR Matthews,Substitution,,0,0,0,0,,,v
+S2324-G0966,2,06:20,UTA,,ATL,,W. Matthews,ATL,SUB: Johnson FOR Matthews,Substitution,,0,0,0,0,,,v
+S2324-G0966,3,10:40,UTA,,ATL,,W. Matthews,ATL,Matthews REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0966,3,08:14,UTA,72.0,ATL,71.0,W. Matthews,ATL,Matthews 11' Driving Floating Bank Jump Shot (11 PTS) (Krejci 1 AST),Made Shot,Driving Floating Bank Jump Shot,94,58,11,1,2.0,2.0,v
+S2324-G0966,3,07:17,UTA,75.0,ATL,73.0,W. Matthews,ATL,Matthews Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0966,3,07:17,UTA,75.0,ATL,74.0,W. Matthews,ATL,Matthews Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0966,3,06:58,UTA,,ATL,,W. Matthews,ATL,Matthews S.FOUL (P1.T1) (T.Ford),Foul,Shooting,0,0,0,0,,,v
+S2324-G0966,3,06:16,UTA,,ATL,,W. Matthews,ATL,SUB: Hunter FOR Matthews,Substitution,,0,0,0,0,,,v
+S2324-G0966,4,08:36,UTA,,ATL,,W. Matthews,ATL,Matthews REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0966,4,06:59,UTA,,ATL,,W. Matthews,ATL,SUB: Hunter FOR Matthews,Substitution,,0,0,0,0,,,v
+S2324-G1091,4,09:19,CHI,,ATL,,W. Matthews,ATL,MISS Matthews 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,201,147,25,1,3.0,0.0,v
+S2324-G1091,4,06:53,CHI,86.0,ATL,103.0,W. Matthews,ATL,Matthews 5' Driving Layup (2 PTS) (Murray 5 AST),Made Shot,Driving Layup Shot,7,51,5,1,2.0,2.0,v
+S2324-G1091,4,06:43,CHI,,ATL,,W. Matthews,ATL,Matthews S.FOUL (P1.T3) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,v
+S2324-G1091,4,06:08,CHI,,ATL,,W. Matthews,ATL,SUB: Bogdanovic FOR Matthews,Substitution,,0,0,0,0,,,v
+S2324-G1091,4,00:24,CHI,,ATL,,W. Matthews,ATL,Matthews REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0029,1,02:31,ATL,,PHI,,W. Matthews,ATL,MISS Matthews 27' 3PT Jump Shot,Missed Shot,Jump Shot,11,269,27,1,3.0,0.0,h
+S2324-G0029,1,02:00,ATL,24.0,PHI,28.0,W. Matthews,ATL,Matthews Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0029,1,02:00,ATL,,PHI,,W. Matthews,ATL,MISS Matthews Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0029,3,01:37,ATL,,PHI,,W. Matthews,ATL,Matthews P.FOUL (P1.T4) (A.Smith),Foul,Personal,0,0,0,0,,,h
+S2324-G0029,3,01:22,ATL,,PHI,,W. Matthews,ATL,MISS Matthews Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0029,3,01:22,ATL,82.0,PHI,86.0,W. Matthews,ATL,Matthews Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0029,4,11:22,ATL,,PHI,,W. Matthews,ATL,Matthews S.FOUL (P2.T1) (A.Nagy),Foul,Shooting,0,0,0,0,,,h
+S2324-G0029,4,09:30,ATL,,PHI,,W. Matthews,ATL,MISS Matthews 3PT Jump Shot,Missed Shot,Jump Shot,-228,17,0,1,3.0,0.0,h
+S2324-G0029,4,09:06,ATL,,PHI,,W. Matthews,ATL,SUB: Bey FOR Matthews,Substitution,,0,0,0,0,,,h
+S2324-G0286,1,03:25,MIL,,ATL,,W. Matthews,ATL,MISS Matthews Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0286,1,03:25,MIL,28.0,ATL,30.0,W. Matthews,ATL,Matthews Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0286,1,00:01.600000,MIL,,ATL,,W. Matthews,ATL,MISS Matthews 31' 3PT Jump Shot,Missed Shot,Jump Shot,167,259,31,1,3.0,0.0,v
+S2324-G0286,2,04:52,MIL,,ATL,,W. Matthews,ATL,SUB: Bey FOR Matthews,Substitution,,0,0,0,0,,,v
+S2324-G0286,3,02:42,MIL,,ATL,,W. Matthews,ATL,Matthews STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0286,3,02:04,MIL,,ATL,,W. Matthews,ATL,MISS Matthews 28' 3PT Jump Shot,Missed Shot,Jump Shot,51,279,28,1,3.0,0.0,v
+S2324-G0286,4,03:21,MIL,,ATL,,W. Matthews,ATL,Matthews REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0286,4,02:25,MIL,,ATL,,W. Matthews,ATL,Matthews STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0286,4,01:31,MIL,,ATL,,W. Matthews,ATL,SUB: Hunter FOR Matthews,Substitution,,0,0,0,0,,,v
+S2324-G0336,1,02:10,CLE,,ATL,,W. Matthews,ATL,Matthews REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0336,2,09:01,CLE,,ATL,,W. Matthews,ATL,SUB: Mills FOR Matthews,Substitution,,0,0,0,0,,,v
+S2324-G0336,3,05:39,CLE,,ATL,,W. Matthews,ATL,Matthews P.FOUL (P1.T2) (E.Dalen),Foul,Personal,0,0,0,0,,,v
+S2324-G0336,3,00:40.300000,CLE,,ATL,,W. Matthews,ATL,Matthews REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0336,3,00:00.700000,CLE,,ATL,,W. Matthews,ATL,MISS Matthews 31' 3PT Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-210,223,31,1,3.0,0.0,v
+S2324-G0336,4,10:43,CLE,,ATL,,W. Matthews,ATL,Matthews P.FOUL (P2.T1) (T.Ricks),Foul,Personal,0,0,0,0,,,v
+S2324-G0336,4,10:43,CLE,,ATL,,W. Matthews,ATL,SUB: Murray FOR Matthews,Substitution,,0,0,0,0,,,v
+S2324-G0336,4,04:10,CLE,,ATL,,W. Matthews,ATL,Matthews S.FOUL (P3.T4) (E.Dalen),Foul,Shooting,0,0,0,0,,,v
+S2324-G0336,4,02:18,CLE,121.0,ATL,112.0,W. Matthews,ATL,Matthews 1' Driving Layup (2 PTS) (Murray 6 AST),Made Shot,Driving Layup Shot,-6,7,1,1,2.0,2.0,v
+S2324-G1209,1,02:58,ATL,,BKN,,W. Matthews,ATL,Matthews S.FOUL (P1.T4) (M.Myers),Foul,Shooting,0,0,0,0,,,h
+S2324-G1209,1,01:55,ATL,,BKN,,W. Matthews,ATL,Matthews P.FOUL (P2.PN) (M.Ervin),Foul,Personal,0,0,0,0,,,h
+S2324-G1209,1,00:35.800000,ATL,,BKN,,W. Matthews,ATL,Matthews REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1209,1,00:01.900000,ATL,,BKN,,W. Matthews,ATL,MISS Matthews 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,43,255,26,1,3.0,0.0,h
+S2324-G1209,2,08:50,ATL,,BKN,,W. Matthews,ATL,Matthews STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1209,2,08:47,ATL,36.0,BKN,34.0,W. Matthews,ATL,Matthews Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1209,2,08:47,ATL,37.0,BKN,34.0,W. Matthews,ATL,Matthews Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1209,2,05:40,ATL,42.0,BKN,43.0,W. Matthews,ATL,Matthews Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1209,2,05:40,ATL,43.0,BKN,43.0,W. Matthews,ATL,Matthews Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1209,2,04:56,ATL,,BKN,,W. Matthews,ATL,SUB: Capela FOR Matthews,Substitution,,0,0,0,0,,,h

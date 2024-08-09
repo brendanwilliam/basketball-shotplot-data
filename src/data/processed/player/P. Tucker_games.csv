@@ -1,0 +1,295 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2324-G0964,1,01:07,NOP,,LAC,,P. Tucker,LAC,Tucker BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0964,1,00:43,NOP,,LAC,,P. Tucker,LAC,Tucker P.FOUL (P1.T4) (C.Washington),Foul,Personal,0,0,0,0,,,v
+S2324-G0964,2,08:02,NOP,,LAC,,P. Tucker,LAC,Tucker BLOCK (2 BLK),,,0,0,0,0,,,v
+S2324-G0964,2,07:59,NOP,,LAC,,P. Tucker,LAC,Tucker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0964,2,07:28,NOP,,LAC,,P. Tucker,LAC,SUB: Leonard FOR Tucker,Substitution,,0,0,0,0,,,v
+S2324-G0964,2,01:44,NOP,,LAC,,P. Tucker,LAC,Tucker Out of Bounds - Bad Pass Turnover Turnover (P1.T7),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0964,2,00:43.700000,NOP,,LAC,,P. Tucker,LAC,Tucker S.FOUL (P2.PN) (C.Washington),Foul,Shooting,0,0,0,0,,,v
+S2324-G0964,3,10:55,NOP,52.0,LAC,47.0,P. Tucker,LAC,Tucker 24' 3PT Jump Shot (3 PTS) (Hyland 1 AST),Made Shot,Jump Shot,239,5,24,1,3.0,3.0,v
+S2324-G0964,3,06:56,NOP,,LAC,,P. Tucker,LAC,SUB: Mann FOR Tucker,Substitution,,0,0,0,0,,,v
+S2324-G0964,4,10:01,NOP,92.0,LAC,86.0,P. Tucker,LAC,Tucker 3PT Running Jump Shot (6 PTS) (Coffey 3 AST),Made Shot,Running Jump Shot,-233,-22,0,1,3.0,3.0,v
+S2324-G0964,4,04:19,NOP,,LAC,,P. Tucker,LAC,Tucker BLOCK (3 BLK),,,0,0,0,0,,,v
+S2324-G0964,4,03:08,NOP,,LAC,,P. Tucker,LAC,MISS Tucker 3PT Jump Shot,Missed Shot,Jump Shot,227,8,0,1,3.0,0.0,v
+S2324-G0964,4,01:46,NOP,,LAC,,P. Tucker,LAC,Tucker REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0964,4,01:15,NOP,,LAC,,P. Tucker,LAC,SUB: Hyland FOR Tucker,Substitution,,0,0,0,0,,,v
+S2324-G0092,1,10:53,TOR,,PHI,,P. Tucker,PHI,Tucker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0092,1,03:54,TOR,,PHI,,P. Tucker,PHI,SUB: Beverley FOR Tucker,Substitution,,0,0,0,0,,,v
+S2324-G0092,2,04:42,TOR,,PHI,,P. Tucker,PHI,Tucker S.FOUL (P1.PN) (M.Boland),Foul,Shooting,0,0,0,0,,,v
+S2324-G0092,2,02:22,TOR,,PHI,,P. Tucker,PHI,Tucker S.FOUL (P2.PN) (M.Davis),Foul,Shooting,0,0,0,0,,,v
+S2324-G0092,2,01:13,TOR,,PHI,,P. Tucker,PHI,Tucker REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0092,3,10:50,TOR,,PHI,,P. Tucker,PHI,Tucker REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0092,3,08:54,TOR,61.0,PHI,69.0,P. Tucker,PHI,Tucker 24' 3PT Jump Shot (3 PTS) (Harris 1 AST),Made Shot,Jump Shot,237,11,24,1,3.0,3.0,v
+S2324-G0092,3,07:42,TOR,,PHI,,P. Tucker,PHI,Tucker S.FOUL (P3.T1) (M.Boland),Foul,Shooting,0,0,0,0,,,v
+S2324-G0092,3,05:19,TOR,,PHI,,P. Tucker,PHI,Tucker Out of Bounds - Bad Pass Turnover Turnover (P1.T8),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0092,3,04:27,TOR,,PHI,,P. Tucker,PHI,SUB: Beverley FOR Tucker,Substitution,,0,0,0,0,,,v
+S2324-G0179,1,04:38,LAC,,MEM,,P. Tucker,LAC,Tucker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0179,1,03:45,LAC,,MEM,,P. Tucker,LAC,MISS Tucker 24' 3PT Jump Shot,Missed Shot,Jump Shot,234,22,24,1,3.0,0.0,h
+S2324-G0179,1,03:32,LAC,,MEM,,P. Tucker,LAC,Tucker REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0179,1,00:10.300000,LAC,,MEM,,P. Tucker,LAC,CLIPPERS T.Foul (Def. 3 Sec Tucker ) (T.Ford),Foul,Defense 3 Second,0,0,0,0,,,h
+S2324-G0179,1,00:01.300000,LAC,,MEM,,P. Tucker,LAC,Tucker STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0179,4,10:45,LAC,71.0,MEM,82.0,P. Tucker,LAC,Tucker 3PT Jump Shot (3 PTS) (George 4 AST),Made Shot,Jump Shot,228,3,0,1,3.0,3.0,h
+S2324-G0179,4,10:27,LAC,,MEM,,P. Tucker,LAC,Tucker P.FOUL (P1.T3) (T.Ford),Foul,Personal,0,0,0,0,,,h
+S2324-G0179,4,06:01,LAC,,MEM,,P. Tucker,LAC,SUB: Leonard FOR Tucker,Substitution,,0,0,0,0,,,h
+S2324-G1114,1,06:30,LAC,,DEN,,P. Tucker,LAC,Tucker S.FOUL (P1.T2) (J.Tiven),Foul,Shooting,0,0,0,0,,,h
+S2324-G1114,1,06:30,LAC,,DEN,,P. Tucker,LAC,SUB: Powell FOR Tucker,Substitution,,0,0,0,0,,,h
+S2324-G1114,3,11:16,LAC,,DEN,,P. Tucker,LAC,MISS Tucker 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-235,47,24,1,3.0,0.0,h
+S2324-G1114,3,10:57,LAC,,DEN,,P. Tucker,LAC,Tucker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1114,3,10:12,LAC,,DEN,,P. Tucker,LAC,Tucker P.FOUL (P2.T2) (A.Smith),Foul,Personal,0,0,0,0,,,h
+S2324-G1114,3,05:01,LAC,,DEN,,P. Tucker,LAC,MISS Tucker 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,32,78,8,1,2.0,0.0,h
+S2324-G1114,3,04:52,LAC,,DEN,,P. Tucker,LAC,Tucker REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1114,3,04:52,LAC,,DEN,,P. Tucker,LAC,SUB: Powell FOR Tucker,Substitution,,0,0,0,0,,,h
+S2324-G1114,4,05:16,LAC,,DEN,,P. Tucker,LAC,Tucker REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1114,4,02:10,LAC,,DEN,,P. Tucker,LAC,Tucker S.FOUL (P3.PN) (C.Washington),Foul,Shooting,0,0,0,0,,,h
+S2324-G1114,4,01:46,LAC,,DEN,,P. Tucker,LAC,Tucker P.FOUL (P4.PN) (J.Tiven),Foul,Personal,0,0,0,0,,,h
+S2324-G1114,4,01:46,LAC,,DEN,,P. Tucker,LAC,Tucker T.FOUL (P4.PN) (C.Washington),Foul,Technical,0,0,0,0,,,h
+S2324-G1114,4,01:46,LAC,,DEN,,P. Tucker,LAC,SUB: Coffey FOR Tucker,Substitution,,0,0,0,0,,,h
+S2324-G0924,1,11:12,LAC,,MIL,,P. Tucker,LAC,Tucker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0924,1,08:44,LAC,,MIL,,P. Tucker,LAC,Tucker REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0924,1,08:44,LAC,,MIL,,P. Tucker,LAC,MISS Tucker 2' Tip Layup Shot,Missed Shot,Tip Layup Shot,2,20,2,1,2.0,0.0,h
+S2324-G0924,1,06:28,LAC,,MIL,,P. Tucker,LAC,SUB: Powell FOR Tucker,Substitution,,0,0,0,0,,,h
+S2324-G0924,1,02:42,LAC,,MIL,,P. Tucker,LAC,Tucker REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0924,1,02:40,LAC,27.0,MIL,26.0,P. Tucker,LAC,Tucker 2' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,20,11,2,1,2.0,2.0,h
+S2324-G0924,1,02:09,LAC,,MIL,,P. Tucker,LAC,Tucker REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0924,1,00:34.500000,LAC,,MIL,,P. Tucker,LAC,Tucker BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0924,2,09:59,LAC,,MIL,,P. Tucker,LAC,MISS Tucker 24' 3PT Jump Shot,Missed Shot,Jump Shot,237,26,24,1,3.0,0.0,h
+S2324-G0924,2,09:55,LAC,,MIL,,P. Tucker,LAC,Tucker REBOUND (Off:4 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0924,2,08:27,LAC,,MIL,,P. Tucker,LAC,Tucker Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G0924,2,07:11,LAC,42.0,MIL,40.0,P. Tucker,LAC,Tucker 3PT Jump Shot (5 PTS) (Hyland 1 AST),Made Shot,Jump Shot,228,14,0,1,3.0,3.0,h
+S2324-G0924,2,04:54,LAC,,MIL,,P. Tucker,LAC,MISS Tucker 3PT Jump Shot,Missed Shot,Jump Shot,230,14,0,1,3.0,0.0,h
+S2324-G0924,2,04:21,LAC,,MIL,,P. Tucker,LAC,Tucker REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0924,2,04:10,LAC,,MIL,,P. Tucker,LAC,SUB: Hyland FOR Tucker,Substitution,,0,0,0,0,,,h
+S2324-G0924,2,00:28.600000,LAC,,MIL,,P. Tucker,LAC,MISS Tucker 3PT Jump Shot,Missed Shot,Jump Shot,224,10,0,1,3.0,0.0,h
+S2324-G0924,2,00:07.600000,LAC,,MIL,,P. Tucker,LAC,SUB: Powell FOR Tucker,Substitution,,0,0,0,0,,,h
+S2324-G0924,3,10:39,LAC,,MIL,,P. Tucker,LAC,SUB: Plumlee FOR Tucker,Substitution,,0,0,0,0,,,h
+S2324-G0924,3,02:51,LAC,,MIL,,P. Tucker,LAC,MISS Tucker 3PT Jump Shot,Missed Shot,Jump Shot,225,10,0,1,3.0,0.0,h
+S2324-G0924,3,01:09,LAC,,MIL,,P. Tucker,LAC,MISS Tucker 3PT Jump Shot,Missed Shot,Jump Shot,223,2,0,1,3.0,0.0,h
+S2324-G0924,4,10:02,LAC,93.0,MIL,93.0,P. Tucker,LAC,Tucker 2' Reverse Layup (7 PTS) (Hyland 5 AST),Made Shot,Reverse Layup Shot,21,13,2,1,2.0,2.0,h
+S2324-G0924,4,09:17,LAC,,MIL,,P. Tucker,LAC,SUB: Harden FOR Tucker,Substitution,,0,0,0,0,,,h
+S2324-G1017,1,03:01,POR,17.0,LAC,32.0,P. Tucker,LAC,Tucker 3PT Pullup Jump Shot (3 PTS) (Coffey 1 AST),Made Shot,Pullup Jump shot,225,50,0,1,3.0,3.0,v
+S2324-G1017,1,02:35,POR,,LAC,,P. Tucker,LAC,MISS Tucker 10' Floating Jump Shot,Missed Shot,Floating Jump shot,-33,99,10,1,2.0,0.0,v
+S2324-G1017,2,11:10,POR,,LAC,,P. Tucker,LAC,Tucker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1017,2,09:28,POR,,LAC,,P. Tucker,LAC,Tucker P.FOUL (P1.T1) (G.Petraitis),Foul,Personal,0,0,0,0,,,v
+S2324-G1017,2,09:10,POR,,LAC,,P. Tucker,LAC,Tucker REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1017,2,08:22,POR,,LAC,,P. Tucker,LAC,SUB: Mann FOR Tucker,Substitution,,0,0,0,0,,,v
+S2324-G0807,1,01:24,MEM,,LAC,,P. Tucker,LAC,Tucker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0807,3,01:05,MEM,,LAC,,P. Tucker,LAC,Tucker REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0807,3,00:05.800000,MEM,,LAC,,P. Tucker,LAC,Tucker REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0807,4,10:31,MEM,,LAC,,P. Tucker,LAC,Tucker P.FOUL (P1.T1) (N.Sago),Foul,Personal,0,0,0,0,,,v
+S2324-G0807,4,08:55,MEM,,LAC,,P. Tucker,LAC,Tucker S.FOUL (P2.T3) (B.Forte),Foul,Shooting,0,0,0,0,,,v
+S2324-G0807,4,08:23,MEM,,LAC,,P. Tucker,LAC,SUB: Zubac FOR Tucker,Substitution,,0,0,0,0,,,v
+S2324-G0098,1,11:46,PHI,,POR,,P. Tucker,PHI,Tucker BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0098,1,11:45,PHI,,POR,,P. Tucker,PHI,Tucker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0098,1,10:04,PHI,,POR,,P. Tucker,PHI,MISS Tucker 24' 3PT Jump Shot,Missed Shot,Jump Shot,-240,6,24,1,3.0,0.0,h
+S2324-G0098,1,07:42,PHI,,POR,,P. Tucker,PHI,Tucker REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0098,1,07:41,PHI,,POR,,P. Tucker,PHI,Tucker Traveling Turnover (P1.T2),Turnover,Traveling,0,0,0,0,,,h
+S2324-G0098,1,04:52,PHI,,POR,,P. Tucker,PHI,SUB: Beverley FOR Tucker,Substitution,,0,0,0,0,,,h
+S2324-G0098,2,04:12,PHI,,POR,,P. Tucker,PHI,Tucker S.FOUL (P1.PN) (P.Ransom),Foul,Shooting,0,0,0,0,,,h
+S2324-G0098,2,02:02,PHI,,POR,,P. Tucker,PHI,Tucker REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0098,2,00:41.900000,PHI,,POR,,P. Tucker,PHI,Tucker REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0098,3,08:45,PHI,,POR,,P. Tucker,PHI,Tucker BLOCK (2 BLK),,,0,0,0,0,,,h
+S2324-G0098,3,06:00,PHI,,POR,,P. Tucker,PHI,Tucker STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0098,3,05:35,PHI,84.0,POR,66.0,P. Tucker,PHI,Tucker 3PT Running Jump Shot (3 PTS) (Maxey 3 AST),Made Shot,Running Jump Shot,-230,23,0,1,3.0,3.0,h
+S2324-G0098,3,04:59,PHI,,POR,,P. Tucker,PHI,SUB: Beverley FOR Tucker,Substitution,,0,0,0,0,,,h
+S2324-G0827,2,10:56,LAC,,SAC,,P. Tucker,LAC,MISS Tucker 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-28,35,4,1,2.0,0.0,h
+S2324-G0827,2,09:41,LAC,,SAC,,P. Tucker,LAC,SUB: Mann FOR Tucker,Substitution,,0,0,0,0,,,h
+S2324-G1165,1,10:18,LAC,,PHX,,P. Tucker,LAC,Tucker REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1165,1,10:16,LAC,4.0,PHX,2.0,P. Tucker,LAC,Tucker 1' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,-7,10,1,1,2.0,2.0,h
+S2324-G1165,1,09:20,LAC,,PHX,,P. Tucker,LAC,MISS Tucker 21' Jump Shot,Missed Shot,Jump Shot,-206,29,21,1,2.0,0.0,h
+S2324-G1165,1,04:43,LAC,,PHX,,P. Tucker,LAC,SUB: Brown FOR Tucker,Substitution,,0,0,0,0,,,h
+S2324-G1165,2,03:35,LAC,,PHX,,P. Tucker,LAC,Tucker REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1165,3,11:45,LAC,59.0,PHX,55.0,P. Tucker,LAC,Tucker 25' 3PT Jump Shot (5 PTS) (Plumlee 2 AST),Made Shot,Jump Shot,240,54,25,1,3.0,3.0,h
+S2324-G1165,3,09:25,LAC,,PHX,,P. Tucker,LAC,Tucker REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1165,3,08:58,LAC,,PHX,,P. Tucker,LAC,Tucker STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1165,3,05:52,LAC,76.0,PHX,75.0,P. Tucker,LAC,Tucker 21' Jump Shot (7 PTS) (Boston Jr. 2 AST),Made Shot,Jump Shot,-212,6,21,1,2.0,2.0,h
+S2324-G1165,3,05:26,LAC,79.0,PHX,77.0,P. Tucker,LAC,Tucker 3PT Jump Shot (10 PTS) (Hyland 5 AST),Made Shot,Jump Shot,-234,17,0,1,3.0,3.0,h
+S2324-G1165,3,04:40,LAC,,PHX,,P. Tucker,LAC,Tucker REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1165,3,04:25,LAC,,PHX,,P. Tucker,LAC,Tucker Violation:Kicked Ball (S.Twardoski),Violation,Kicked Ball,0,0,0,0,,,h
+S2324-G1165,3,01:14,LAC,,PHX,,P. Tucker,LAC,Tucker REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1132,1,11:28,LAC,,CLE,,P. Tucker,LAC,MISS Tucker 3PT Jump Shot,Missed Shot,Jump Shot,-233,1,0,1,3.0,0.0,h
+S2324-G1132,1,04:39,LAC,,CLE,,P. Tucker,LAC,SUB: Coffey FOR Tucker,Substitution,,0,0,0,0,,,h
+S2324-G1132,1,00:00.700000,LAC,,CLE,,P. Tucker,LAC,Tucker S.FOUL (P1.PN) (Z.Zarba),Foul,Shooting,0,0,0,0,,,h
+S2324-G1132,3,05:39,LAC,,CLE,,P. Tucker,LAC,Tucker REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1132,3,05:09,LAC,,CLE,,P. Tucker,LAC,SUB: Powell FOR Tucker,Substitution,,0,0,0,0,,,h
+S2324-G0037,1,01:58,LAC,,HOU,,P. Tucker,LAC,Tucker S.FOUL (P1.T3) (C.Kirkland),Foul,Shooting,0,0,0,0,,,h
+S2324-G0037,2,03:58,LAC,,HOU,,P. Tucker,LAC,SUB: Zubac FOR Tucker,Substitution,,0,0,0,0,,,h
+S2324-G0037,3,00:12.200000,LAC,,HOU,,P. Tucker,LAC,Tucker S.FOUL (P3.PN) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,h
+S2324-G0037,4,09:47,LAC,,HOU,,P. Tucker,LAC,SUB: Leonard FOR Tucker,Substitution,,0,0,0,0,,,h
+S2324-G0257,1,00:57.800000,LAC,,DEN,,P. Tucker,LAC,Tucker STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0257,2,10:12,LAC,,DEN,,P. Tucker,LAC,Tucker S.FOUL (P1.T1) (L.Holtkamp),Foul,Shooting,0,0,0,0,,,h
+S2324-G0257,2,09:08,LAC,,DEN,,P. Tucker,LAC,Tucker STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0257,2,07:17,LAC,,DEN,,P. Tucker,LAC,SUB: Leonard FOR Tucker,Substitution,,0,0,0,0,,,h
+S2324-G0151,1,01:04,NYK,,LAC,,P. Tucker,LAC,MISS Tucker 3PT Jump Shot,Missed Shot,Jump Shot,-232,2,0,1,3.0,0.0,v
+S2324-G0151,2,07:31,NYK,,LAC,,P. Tucker,LAC,Tucker STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0151,2,07:27,NYK,28.0,LAC,29.0,P. Tucker,LAC,Tucker Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0151,2,07:27,NYK,28.0,LAC,30.0,P. Tucker,LAC,Tucker Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0151,2,06:59,NYK,,LAC,,P. Tucker,LAC,MISS Tucker 24' 3PT Jump Shot,Missed Shot,Jump Shot,235,-5,24,1,3.0,0.0,v
+S2324-G0151,2,06:19,NYK,,LAC,,P. Tucker,LAC,SUB: Westbrook FOR Tucker,Substitution,,0,0,0,0,,,v
+S2324-G0151,4,11:13,NYK,,LAC,,P. Tucker,LAC,Tucker REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0151,4,09:38,NYK,,LAC,,P. Tucker,LAC,Tucker S.FOUL (P1.T1) (J.DeRosa),Foul,Shooting,0,0,0,0,,,v
+S2324-G0151,4,09:38,NYK,,LAC,,P. Tucker,LAC,SUB: Westbrook FOR Tucker,Substitution,,0,0,0,0,,,v
+S2324-G0014,1,02:14,DAL,,LAC,,P. Tucker,LAC,Tucker P.FOUL (P1.T3) (M.Smith),Foul,Personal,0,0,0,0,,,v
+S2324-G0014,1,01:59,DAL,,LAC,,P. Tucker,LAC,Tucker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0014,1,00:22.200000,DAL,,LAC,,P. Tucker,LAC,Tucker S.FOUL (P2.PN) (M.Smith),Foul,Shooting,0,0,0,0,,,v
+S2324-G0014,2,09:59,DAL,,LAC,,P. Tucker,LAC,MISS Tucker 3PT Jump Shot,Missed Shot,Jump Shot,234,8,0,1,3.0,0.0,v
+S2324-G0014,2,08:18,DAL,,LAC,,P. Tucker,LAC,SUB: Harden FOR Tucker,Substitution,,0,0,0,0,,,v
+S2324-G1003,1,03:17,POR,,LAC,,P. Tucker,LAC,Tucker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1003,1,00:58.800000,POR,,LAC,,P. Tucker,LAC,Tucker S.FOUL (P1.T2) (A.Nagy),Foul,Shooting,0,0,0,0,,,v
+S2324-G1003,2,11:24,POR,,LAC,,P. Tucker,LAC,Tucker STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G1003,2,10:10,POR,,LAC,,P. Tucker,LAC,Tucker REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1003,2,07:22,POR,,LAC,,P. Tucker,LAC,Tucker REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1003,2,06:17,POR,,LAC,,P. Tucker,LAC,Tucker REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1003,2,06:04,POR,,LAC,,P. Tucker,LAC,SUB: Leonard FOR Tucker,Substitution,,0,0,0,0,,,v
+S2324-G1003,3,03:06,POR,,LAC,,P. Tucker,LAC,Tucker REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1003,3,00:54,POR,,LAC,,P. Tucker,LAC,Tucker REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1003,4,11:49,POR,,LAC,,P. Tucker,LAC,Tucker STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G1003,4,10:52,POR,,LAC,,P. Tucker,LAC,Tucker P.FOUL (P2.T1) (A.Nagy),Foul,Personal,0,0,0,0,,,v
+S2324-G1003,4,01:19,POR,,LAC,,P. Tucker,LAC,Tucker REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0848,1,04:06,LAC,,LAL,,P. Tucker,LAC,Tucker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0848,1,04:04,LAC,,LAL,,P. Tucker,LAC,Tucker Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0848,1,04:04,LAC,,LAL,,P. Tucker,LAC,Tucker S.FOUL (P1.PN) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,h
+S2324-G0848,1,02:27,LAC,,LAL,,P. Tucker,LAC,SUB: Harden FOR Tucker,Substitution,,0,0,0,0,,,h
+S2324-G0848,2,06:40,LAC,,LAL,,P. Tucker,LAC,Tucker REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0848,2,06:30,LAC,,LAL,,P. Tucker,LAC,SUB: Leonard FOR Tucker,Substitution,,0,0,0,0,,,h
+S2324-G0848,2,00:33.400000,LAC,,LAL,,P. Tucker,LAC,SUB: Powell FOR Tucker,Substitution,,0,0,0,0,,,h
+S2324-G0848,4,08:47,LAC,,LAL,,P. Tucker,LAC,SUB: Leonard FOR Tucker,Substitution,,0,0,0,0,,,h
+S2324-G0235,2,11:48,SAS,,LAC,,P. Tucker,LAC,Tucker P.FOUL (P1.T1) (M.Ervin),Foul,Personal,0,0,0,0,,,v
+S2324-G0235,2,08:23,SAS,,LAC,,P. Tucker,LAC,Tucker Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0235,2,06:35,SAS,,LAC,,P. Tucker,LAC,Tucker S.FOUL (P2.PN) (M.Ervin),Foul,Shooting,0,0,0,0,,,v
+S2324-G0235,2,06:12,SAS,,LAC,,P. Tucker,LAC,SUB: Leonard FOR Tucker,Substitution,,0,0,0,0,,,v
+S2324-G0235,4,07:40,SAS,,LAC,,P. Tucker,LAC,Tucker REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0235,4,06:41,SAS,,LAC,,P. Tucker,LAC,SUB: Zubac FOR Tucker,Substitution,,0,0,0,0,,,v
+S2324-G0223,2,11:37,SAS,,LAC,,P. Tucker,LAC,Tucker P.FOUL (P1.T1) (D.Collins),Foul,Personal,0,0,0,0,,,v
+S2324-G0223,2,09:21,SAS,,LAC,,P. Tucker,LAC,Tucker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0223,2,06:34,SAS,,LAC,,P. Tucker,LAC,Tucker REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0223,2,04:21,SAS,,LAC,,P. Tucker,LAC,SUB: Leonard FOR Tucker,Substitution,,0,0,0,0,,,v
+S2324-G0223,4,11:18,SAS,,LAC,,P. Tucker,LAC,Tucker REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0223,4,09:04,SAS,,LAC,,P. Tucker,LAC,Tucker REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0223,4,07:39,SAS,,LAC,,P. Tucker,LAC,Tucker REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0223,4,06:05,SAS,,LAC,,P. Tucker,LAC,Tucker S.FOUL (P2.T2) (B.Kennedy),Foul,Shooting,0,0,0,0,,,v
+S2324-G0223,4,04:15,SAS,,LAC,,P. Tucker,LAC,SUB: Diabate FOR Tucker,Substitution,,0,0,0,0,,,v
+S2324-G0075,1,11:32,MIL,,PHI,,P. Tucker,PHI,Tucker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0075,1,11:02,MIL,,PHI,,P. Tucker,PHI,Tucker STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0075,1,09:36,MIL,,PHI,,P. Tucker,PHI,Tucker STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0075,1,08:37,MIL,,PHI,,P. Tucker,PHI,MISS Tucker 3PT Jump Shot,Missed Shot,Jump Shot,-232,16,0,1,3.0,0.0,v
+S2324-G0075,1,08:07,MIL,,PHI,,P. Tucker,PHI,Tucker P.FOUL (P1.T3) (M.Lindsay),Foul,Personal,0,0,0,0,,,v
+S2324-G0075,1,07:15,MIL,,PHI,,P. Tucker,PHI,SUB: Green FOR Tucker,Substitution,,0,0,0,0,,,v
+S2324-G0075,1,00:28.400000,MIL,,PHI,,P. Tucker,PHI,Tucker REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0075,2,11:29,MIL,,PHI,,P. Tucker,PHI,Tucker S.FOUL (P2.T1) (E.Scott),Foul,Shooting,0,0,0,0,,,v
+S2324-G0075,2,10:46,MIL,,PHI,,P. Tucker,PHI,Tucker REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0075,2,08:55,MIL,,PHI,,P. Tucker,PHI,Tucker S.FOUL (P3.T2) (M.Lindsay),Foul,Shooting,0,0,0,0,,,v
+S2324-G0075,2,08:55,MIL,,PHI,,P. Tucker,PHI,SUB: Harris FOR Tucker,Substitution,,0,0,0,0,,,v
+S2324-G0075,3,10:34,MIL,,PHI,,P. Tucker,PHI,Tucker REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0075,3,09:29,MIL,,PHI,,P. Tucker,PHI,Tucker REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0075,3,08:30,MIL,,PHI,,P. Tucker,PHI,Tucker P.FOUL (P4.T2) (E.Scott),Foul,Personal,0,0,0,0,,,v
+S2324-G0075,3,05:47,MIL,,PHI,,P. Tucker,PHI,SUB: Beverley FOR Tucker,Substitution,,0,0,0,0,,,v
+S2324-G0075,4,09:48,MIL,,PHI,,P. Tucker,PHI,MISS Tucker 3PT Jump Shot,Missed Shot,Jump Shot,234,10,0,1,3.0,0.0,v
+S2324-G0075,4,07:31,MIL,,PHI,,P. Tucker,PHI,Tucker REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0075,4,05:32,MIL,,PHI,,P. Tucker,PHI,SUB: Green FOR Tucker,Substitution,,0,0,0,0,,,v
+S2324-G0075,4,03:29,MIL,,PHI,,P. Tucker,PHI,Tucker REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0075,4,02:45,MIL,,PHI,,P. Tucker,PHI,Tucker S.FOUL (P5.T4) (E.Scott),Foul,Shooting,0,0,0,0,,,v
+S2324-G0075,4,00:11.500000,MIL,,PHI,,P. Tucker,PHI,SUB: Melton FOR Tucker,Substitution,,0,0,0,0,,,v
+S2324-G0127,2,11:26,LAL,,LAC,,P. Tucker,LAC,Tucker P.FOUL (P1.T1) (C.Blair),Foul,Personal,0,0,0,0,,,v
+S2324-G0127,2,09:30,LAL,,LAC,,P. Tucker,LAC,Tucker C.P.FOUL (P2.T2) (A.Nagy),Foul,Clear Path,0,0,0,0,,,v
+S2324-G0127,2,07:08,LAL,,LAC,,P. Tucker,LAC,SUB: Leonard FOR Tucker,Substitution,,0,0,0,0,,,v
+S2324-G0127,3,04:36,LAL,,LAC,,P. Tucker,LAC,Tucker P.FOUL (P3.PN) (M.Ervin),Foul,Personal,0,0,0,0,,,v
+S2324-G0127,3,01:11,LAL,,LAC,,P. Tucker,LAC,Tucker REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0127,3,01:11,LAL,,LAC,,P. Tucker,LAC,MISS Tucker Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2324-G0127,4,09:47,LAL,,LAC,,P. Tucker,LAC,Tucker REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0127,4,09:31,LAL,,LAC,,P. Tucker,LAC,SUB: Hyland FOR Tucker,Substitution,,0,0,0,0,,,v
+S2324-G0127,4,01:07,LAL,,LAC,,P. Tucker,LAC,Tucker S.FOUL (P4.PN) (A.Nagy),Foul,Shooting,0,0,0,0,,,v
+S2324-G0127,4,00:18.500000,LAL,,LAC,,P. Tucker,LAC,SUB: Hyland FOR Tucker,Substitution,,0,0,0,0,,,v
+S2324-G0127,5,02:26,LAL,,LAC,,P. Tucker,LAC,Tucker REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0127,5,01:53,LAL,,LAC,,P. Tucker,LAC,Tucker REBOUND (Off:4 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0127,5,00:35.300000,LAL,,LAC,,P. Tucker,LAC,Tucker REBOUND (Off:5 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1126,1,10:36,LAC,8.0,UTA,2.0,P. Tucker,LAC,Tucker 3PT Jump Shot (3 PTS) (Harden 1 AST),Made Shot,Jump Shot,-232,31,0,1,3.0,3.0,h
+S2324-G1126,1,04:14,LAC,,UTA,,P. Tucker,LAC,SUB: Powell FOR Tucker,Substitution,,0,0,0,0,,,h
+S2324-G1126,3,10:14,LAC,,UTA,,P. Tucker,LAC,MISS Tucker 5' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,26,45,5,1,2.0,0.0,h
+S2324-G1126,3,09:37,LAC,,UTA,,P. Tucker,LAC,Tucker STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1126,3,08:14,LAC,,UTA,,P. Tucker,LAC,Tucker S.FOUL (P1.T2) (R.Acosta),Foul,Shooting,0,0,0,0,,,h
+S2324-G1126,3,05:39,LAC,,UTA,,P. Tucker,LAC,SUB: Coffey FOR Tucker,Substitution,,0,0,0,0,,,h
+S2324-G1043,1,02:48,LAC,,IND,,P. Tucker,LAC,Tucker Violation:Kicked Ball (J.Orr),Violation,Kicked Ball,0,0,0,0,,,h
+S2324-G1043,1,00:52.100000,LAC,,IND,,P. Tucker,LAC,Tucker STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1043,1,00:31.600000,LAC,,IND,,P. Tucker,LAC,Tucker L.B.FOUL (P1.PN) (J.Orr),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G1043,1,00:01.800000,LAC,,IND,,P. Tucker,LAC,Tucker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1043,2,10:18,LAC,,IND,,P. Tucker,LAC,Tucker OFF.Foul (P2) (J.Orr),Foul,Offensive,0,0,0,0,,,h
+S2324-G1043,2,10:18,LAC,,IND,,P. Tucker,LAC,Tucker Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G1043,2,10:18,LAC,,IND,,P. Tucker,LAC,SUB: Coffey FOR Tucker,Substitution,,0,0,0,0,,,h
+S2324-G1043,3,02:58,LAC,,IND,,P. Tucker,LAC,Tucker S.FOUL (P3.PN) (J.Capers),Foul,Shooting,0,0,0,0,,,h
+S2324-G1043,4,11:46,LAC,,IND,,P. Tucker,LAC,MISS Tucker 24' 3PT Jump Shot,Missed Shot,Jump Shot,-243,-12,24,1,3.0,0.0,h
+S2324-G1043,4,09:49,LAC,,IND,,P. Tucker,LAC,Tucker REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1043,4,09:23,LAC,,IND,,P. Tucker,LAC,SUB: Leonard FOR Tucker,Substitution,,0,0,0,0,,,h
+S2324-G0982,1,01:51,LAC,,ATL,,P. Tucker,LAC,Tucker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0982,1,01:32,LAC,25.0,ATL,27.0,P. Tucker,LAC,Tucker 3PT Jump Shot (3 PTS) (Leonard 1 AST),Made Shot,Jump Shot,227,30,0,1,3.0,3.0,h
+S2324-G0982,2,11:24,LAC,,ATL,,P. Tucker,LAC,Tucker REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0982,2,09:34,LAC,,ATL,,P. Tucker,LAC,MISS Tucker 6' Hook Shot,Missed Shot,Hook Shot,-1,56,6,1,2.0,0.0,h
+S2324-G0982,2,07:38,LAC,,ATL,,P. Tucker,LAC,SUB: George FOR Tucker,Substitution,,0,0,0,0,,,h
+S2324-G0982,2,00:36.400000,LAC,,ATL,,P. Tucker,LAC,Tucker REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0982,3,00:24,LAC,,ATL,,P. Tucker,LAC,Tucker S.FOUL (P1.T3) (M.Kogut),Foul,Shooting,0,0,0,0,,,h
+S2324-G0982,4,07:41,LAC,,ATL,,P. Tucker,LAC,Tucker STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0982,4,06:42,LAC,,ATL,,P. Tucker,LAC,MISS Tucker 4' Layup,Missed Shot,Layup Shot,18,36,4,1,2.0,0.0,h
+S2324-G0982,4,05:07,LAC,,ATL,,P. Tucker,LAC,Tucker REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0982,4,02:28,LAC,,ATL,,P. Tucker,LAC,SUB: Moon FOR Tucker,Substitution,,0,0,0,0,,,h
+S2324-G1184,1,09:44,LAC,,UTA,,P. Tucker,LAC,Tucker STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1184,1,08:34,LAC,,UTA,,P. Tucker,LAC,Tucker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1184,1,05:50,LAC,,UTA,,P. Tucker,LAC,Tucker REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1184,1,04:57,LAC,,UTA,,P. Tucker,LAC,Tucker REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1184,1,04:24,LAC,,UTA,,P. Tucker,LAC,Tucker REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1184,1,03:36,LAC,,UTA,,P. Tucker,LAC,SUB: Powell FOR Tucker,Substitution,,0,0,0,0,,,h
+S2324-G1184,2,06:52,LAC,,UTA,,P. Tucker,LAC,MISS Tucker 3PT Jump Shot,Missed Shot,Jump Shot,222,37,0,1,3.0,0.0,h
+S2324-G1184,2,04:32,LAC,,UTA,,P. Tucker,LAC,Tucker REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1184,2,00:38.600000,LAC,,UTA,,P. Tucker,LAC,Tucker Violation:Kicked Ball (J.Van Duyne),Violation,Kicked Ball,0,0,0,0,,,h
+S2324-G1184,2,00:38.600000,LAC,,UTA,,P. Tucker,LAC,Tucker T.FOUL (P0.PN) (J.Van Duyne),Foul,Technical,0,0,0,0,,,h
+S2324-G1184,3,06:49,LAC,,UTA,,P. Tucker,LAC,SUB: Brown FOR Tucker,Substitution,,0,0,0,0,,,h
+S2324-G1199,1,04:06,LAC,,HOU,,P. Tucker,LAC,SUB: Theis FOR Tucker,Substitution,,0,0,0,0,,,h
+S2324-G0024,1,00:45.800000,DEN,,LAC,,P. Tucker,LAC,Tucker REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0024,2,05:29,DEN,,LAC,,P. Tucker,LAC,Tucker REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0024,2,03:07,DEN,,LAC,,P. Tucker,LAC,SUB: Powell FOR Tucker,Substitution,,0,0,0,0,,,v
+S2324-G0024,3,03:29,DEN,76.0,LAC,73.0,P. Tucker,LAC,Tucker 3PT Jump Shot (3 PTS) (Leonard 2 AST),Made Shot,Jump Shot,225,24,0,1,3.0,3.0,v
+S2324-G0024,3,02:15,DEN,,LAC,,P. Tucker,LAC,Tucker Step Out of Bounds Turnover (P1.T9),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2324-G0024,3,01:11,DEN,,LAC,,P. Tucker,LAC,Tucker REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0024,4,11:22,DEN,84.0,LAC,87.0,P. Tucker,LAC,Tucker 24' 3PT Jump Shot (6 PTS) (George 3 AST),Made Shot,Jump Shot,-235,-10,24,1,3.0,3.0,v
+S2324-G0024,4,09:29,DEN,,LAC,,P. Tucker,LAC,MISS Tucker 3PT Jump Shot,Missed Shot,Jump Shot,-225,1,0,1,3.0,0.0,v
+S2324-G0024,4,07:53,DEN,,LAC,,P. Tucker,LAC,Tucker REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0024,4,05:20,DEN,,LAC,,P. Tucker,LAC,Tucker P.FOUL (P1.T4) (M.Boland),Foul,Personal,0,0,0,0,,,v
+S2324-G0024,4,04:24,DEN,,LAC,,P. Tucker,LAC,Tucker REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0024,4,03:47,DEN,,LAC,,P. Tucker,LAC,SUB: Powell FOR Tucker,Substitution,,0,0,0,0,,,v
+S2324-G0024,4,01:10,DEN,,LAC,,P. Tucker,LAC,SUB: Powell FOR Tucker,Substitution,,0,0,0,0,,,v
+S2324-G0244,2,10:00,LAC,,DAL,,P. Tucker,LAC,Tucker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0244,2,09:33,LAC,,DAL,,P. Tucker,LAC,Tucker P.FOUL (P1.T2) (M.Dagher),Foul,Personal,0,0,0,0,,,h
+S2324-G0244,2,06:21,LAC,,DAL,,P. Tucker,LAC,Tucker L.B.FOUL (P2.PN) (M.Dagher),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0244,2,04:41,LAC,,DAL,,P. Tucker,LAC,SUB: Leonard FOR Tucker,Substitution,,0,0,0,0,,,h
+S2324-G1052,2,11:43,PHI,,LAC,,P. Tucker,LAC,MISS Tucker 25' 3PT Jump Shot,Missed Shot,Jump Shot,-245,3,25,1,3.0,0.0,v
+S2324-G1052,2,08:52,PHI,,LAC,,P. Tucker,LAC,Tucker S.FOUL (P1.T1) (B.Adair),Foul,Shooting,0,0,0,0,,,v
+S2324-G1052,2,08:37,PHI,,LAC,,P. Tucker,LAC,SUB: Zubac FOR Tucker,Substitution,,0,0,0,0,,,v
+S2324-G0052,1,00:45,LAC,,NOP,,P. Tucker,LAC,MISS Tucker 24' 3PT Jump Shot,Missed Shot,Jump Shot,-234,31,24,1,3.0,0.0,h
+S2324-G0052,2,06:38,LAC,,NOP,,P. Tucker,LAC,Tucker REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0052,2,05:19,LAC,,NOP,,P. Tucker,LAC,Tucker STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0052,2,04:25,LAC,,NOP,,P. Tucker,LAC,SUB: Mann FOR Tucker,Substitution,,0,0,0,0,,,h
+S2324-G0052,2,00:37.600000,LAC,,NOP,,P. Tucker,LAC,SUB: Powell FOR Tucker,Substitution,,0,0,0,0,,,h
+S2324-G0052,3,10:47,LAC,,NOP,,P. Tucker,LAC,Tucker P.FOUL (P1.T1) (S.Foster),Foul,Personal,0,0,0,0,,,h
+S2324-G0052,3,09:37,LAC,,NOP,,P. Tucker,LAC,MISS Tucker 3PT Jump Shot,Missed Shot,Jump Shot,-224,69,0,1,3.0,0.0,h
+S2324-G0052,3,08:36,LAC,,NOP,,P. Tucker,LAC,Tucker P.FOUL (P2.T2) (S.Twardoski),Foul,Personal,0,0,0,0,,,h
+S2324-G0052,3,06:33,LAC,,NOP,,P. Tucker,LAC,Tucker S.FOUL (P3.T3) (N.Green),Foul,Shooting,0,0,0,0,,,h
+S2324-G0052,3,05:27,LAC,,NOP,,P. Tucker,LAC,SUB: Mann FOR Tucker,Substitution,,0,0,0,0,,,h
+S2324-G0052,4,10:41,LAC,,NOP,,P. Tucker,LAC,Tucker S.FOUL (P4.T2) (S.Foster),Foul,Shooting,0,0,0,0,,,h
+S2324-G0052,4,09:17,LAC,,NOP,,P. Tucker,LAC,Tucker REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0052,4,07:39,LAC,,NOP,,P. Tucker,LAC,SUB: Harden FOR Tucker,Substitution,,0,0,0,0,,,h
+S2324-G0160,1,03:48,BKN,,LAC,,P. Tucker,LAC,Tucker STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0160,1,01:35,BKN,,LAC,,P. Tucker,LAC,Tucker L.B.FOUL (P1.T3) (B.Forte),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0160,1,00:53.800000,BKN,,LAC,,P. Tucker,LAC,Tucker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0160,1,00:41.500000,BKN,,LAC,,P. Tucker,LAC,Tucker REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0160,1,00:16.400000,BKN,,LAC,,P. Tucker,LAC,Tucker REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0160,2,02:09,BKN,,LAC,,P. Tucker,LAC,Tucker S.FOUL (P2.T3) (E.Malloy),Foul,Shooting,0,0,0,0,,,v
+S2324-G0160,2,02:09,BKN,,LAC,,P. Tucker,LAC,SUB: Zubac FOR Tucker,Substitution,,0,0,0,0,,,v
+S2324-G0160,3,08:47,BKN,,LAC,,P. Tucker,LAC,Tucker BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0160,3,08:33,BKN,,LAC,,P. Tucker,LAC,Tucker P.FOUL (P3.T1) (E.Malloy),Foul,Personal,0,0,0,0,,,v
+S2324-G0160,3,05:05,BKN,,LAC,,P. Tucker,LAC,Tucker REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0160,3,03:46,BKN,,LAC,,P. Tucker,LAC,MISS Tucker 2' Layup,Missed Shot,Layup Shot,20,6,2,1,2.0,0.0,v
+S2324-G0160,3,01:59,BKN,,LAC,,P. Tucker,LAC,Tucker REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0160,3,01:56,BKN,,LAC,,P. Tucker,LAC,SUB: Harden FOR Tucker,Substitution,,0,0,0,0,,,v
+S2324-G0160,4,05:55,BKN,,LAC,,P. Tucker,LAC,MISS Tucker 3PT Jump Shot,Missed Shot,Jump Shot,233,6,0,1,3.0,0.0,v
+S2324-G0160,4,04:50,BKN,,LAC,,P. Tucker,LAC,Tucker REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0160,4,04:43,BKN,89.0,LAC,81.0,P. Tucker,LAC,Tucker 3' Cutting Layup Shot (2 PTS) (Westbrook 6 AST),Made Shot,Cutting Layup Shot,29,1,3,1,2.0,2.0,v
+S2324-G0160,4,04:43,BKN,89.0,LAC,82.0,P. Tucker,LAC,Tucker Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G0160,4,03:47,BKN,,LAC,,P. Tucker,LAC,SUB: Zubac FOR Tucker,Substitution,,0,0,0,0,,,v

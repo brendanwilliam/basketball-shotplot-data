@@ -1,0 +1,502 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2324-G0476,1,01:46,SAC,25.0,ORL,25.0,J. McGee,SAC,McGee Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0476,1,01:46,SAC,,ORL,,J. McGee,SAC,MISS McGee Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0476,1,01:12,SAC,,ORL,,J. McGee,SAC,McGee STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0476,2,11:42,SAC,,ORL,,J. McGee,SAC,McGee REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0476,2,11:18,SAC,,ORL,,J. McGee,SAC,KINGS T.Foul (Def. 3 Sec McGee ) (M.Smith),Foul,Defense 3 Second,0,0,0,0,,,h
+S2324-G0476,2,10:47,SAC,29.0,ORL,34.0,J. McGee,SAC,McGee 3' Cutting Layup Shot (3 PTS) (Monk 1 AST),Made Shot,Cutting Layup Shot,20,19,3,1,2.0,2.0,h
+S2324-G0476,2,08:48,SAC,,ORL,,J. McGee,SAC,SUB: Sabonis FOR McGee,Substitution,,0,0,0,0,,,h
+S2324-G0476,3,01:51,SAC,,ORL,,J. McGee,SAC,McGee REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0476,3,01:33,SAC,88.0,ORL,83.0,J. McGee,SAC,McGee 1' Cutting Layup Shot (5 PTS) (Monk 6 AST),Made Shot,Cutting Layup Shot,-2,10,1,1,2.0,2.0,h
+S2324-G0476,3,01:33,SAC,,ORL,,J. McGee,SAC,MISS McGee Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2324-G0476,3,00:48,SAC,,ORL,,J. McGee,SAC,McGee S.FOUL (P1.PN) (S.Wright),Foul,Shooting,0,0,0,0,,,h
+S2324-G0476,3,00:33.300000,SAC,,ORL,,J. McGee,SAC,McGee P.FOUL (P2.PN) (M.Smith),Foul,Personal,0,0,0,0,,,h
+S2324-G0476,3,00:33.300000,SAC,,ORL,,J. McGee,SAC,SUB: Murray FOR McGee,Substitution,,0,0,0,0,,,h
+S2324-G0303,1,02:37,SAC,,BKN,,J. McGee,SAC,McGee REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0303,1,02:37,SAC,,BKN,,J. McGee,SAC,MISS McGee Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2324-G0303,1,02:37,SAC,,BKN,,J. McGee,SAC,McGee P.FOUL (P1.T4) (J.Van Duyne),Foul,Personal,0,0,0,0,,,h
+S2324-G0303,1,01:49,SAC,,BKN,,J. McGee,SAC,MISS McGee 4' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-12,43,4,1,2.0,0.0,h
+S2324-G0303,1,01:49,SAC,,BKN,,J. McGee,SAC,McGee P.FOUL (P2.PN) (D.Guthrie),Foul,Personal,0,0,0,0,,,h
+S2324-G0303,1,01:11,SAC,,BKN,,J. McGee,SAC,McGee Violation:Defensive Goaltending (D.Guthrie),Violation,Defensive Goaltending,0,0,0,0,,,h
+S2324-G0303,1,00:21,SAC,,BKN,,J. McGee,SAC,SUB: Barnes FOR McGee,Substitution,,0,0,0,0,,,h
+S2324-G0303,2,09:53,SAC,,BKN,,J. McGee,SAC,McGee REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0303,2,08:50,SAC,,BKN,,J. McGee,SAC,SUB: Sabonis FOR McGee,Substitution,,0,0,0,0,,,h
+S2324-G0303,3,01:25,SAC,,BKN,,J. McGee,SAC,McGee OFF.Foul (P3) (J.Ralls),Foul,Offensive,0,0,0,0,,,h
+S2324-G0303,3,01:25,SAC,,BKN,,J. McGee,SAC,McGee Offensive Foul Turnover (P1.T9),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0303,3,00:39.500000,SAC,,BKN,,J. McGee,SAC,McGee REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0303,3,00:15.300000,SAC,,BKN,,J. McGee,SAC,SUB: Duarte FOR McGee,Substitution,,0,0,0,0,,,h
+S2324-G0342,1,01:47,SAC,,UTA,,J. McGee,SAC,MISS McGee 2' Layup,Missed Shot,Layup Shot,-2,23,2,1,2.0,0.0,h
+S2324-G0342,1,01:26,SAC,31.0,UTA,17.0,J. McGee,SAC,McGee 3' Alley Oop Layup (2 PTS) (Monk 2 AST),Made Shot,Alley Oop Layup shot,25,22,3,1,2.0,2.0,h
+S2324-G0342,1,01:03,SAC,33.0,UTA,17.0,J. McGee,SAC,McGee 8' Floating Jump Shot (4 PTS) (Monk 3 AST),Made Shot,Floating Jump shot,13,81,8,1,2.0,2.0,h
+S2324-G0342,2,11:17,SAC,,UTA,,J. McGee,SAC,McGee OFF.Foul (P1) (M.Myers),Foul,Offensive,0,0,0,0,,,h
+S2324-G0342,2,11:17,SAC,,UTA,,J. McGee,SAC,McGee Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0342,2,10:17,SAC,,UTA,,J. McGee,SAC,SUB: Barnes FOR McGee,Substitution,,0,0,0,0,,,h
+S2324-G0050,2,07:52,MIN,,SAC,,J. McGee,SAC,SUB: Sabonis FOR McGee,Substitution,,0,0,0,0,,,v
+S2324-G0050,4,11:39,MIN,79.0,SAC,94.0,J. McGee,SAC,McGee 1' Alley Oop Dunk (2 PTS) (Fox 9 AST),Made Shot,Alley Oop Dunk Shot,-11,9,1,1,2.0,2.0,v
+S2324-G0050,4,11:12,MIN,,SAC,,J. McGee,SAC,McGee REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0050,4,11:10,MIN,82.0,SAC,96.0,J. McGee,SAC,McGee 1' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,-7,6,1,1,2.0,2.0,v
+S2324-G0050,4,10:47,MIN,,SAC,,J. McGee,SAC,McGee REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0050,4,10:06,MIN,,SAC,,J. McGee,SAC,McGee S.FOUL (P1.T1) (J.Butler),Foul,Shooting,0,0,0,0,,,v
+S2324-G0050,4,09:36,MIN,,SAC,,J. McGee,SAC,McGee REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0050,4,08:47,MIN,,SAC,,J. McGee,SAC,McGee REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0050,4,08:24,MIN,,SAC,,J. McGee,SAC,McGee REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0050,4,08:08,MIN,,SAC,,J. McGee,SAC,McGee REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0050,4,08:03,MIN,,SAC,,J. McGee,SAC,SUB: Edwards FOR McGee,Substitution,,0,0,0,0,,,v
+S2324-G0400,1,00:56.800000,SAC,,MIN,,J. McGee,SAC,McGee BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0400,1,00:54.200000,SAC,,MIN,,J. McGee,SAC,McGee REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0400,1,00:41,SAC,,MIN,,J. McGee,SAC,MISS McGee 3' Layup,Missed Shot,Layup Shot,-17,25,3,1,2.0,0.0,h
+S2324-G0400,1,00:07.300000,SAC,19.0,MIN,28.0,J. McGee,SAC,McGee 2' Layup (2 PTS) (Fox 1 AST),Made Shot,Layup Shot,-11,11,2,1,2.0,2.0,h
+S2324-G0400,1,00:07.300000,SAC,20.0,MIN,28.0,J. McGee,SAC,McGee Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G0400,2,10:52,SAC,,MIN,,J. McGee,SAC,McGee REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0400,2,10:48,SAC,,MIN,,J. McGee,SAC,McGee Offensive Charge Foul (P1) (J.Goldenberg),Foul,Offensive Charge,0,0,0,0,,,h
+S2324-G0400,2,10:48,SAC,,MIN,,J. McGee,SAC,McGee Offensive Foul Turnover (P1.T1),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0400,2,10:09,SAC,,MIN,,J. McGee,SAC,McGee L.B.FOUL (P2.T1) (J.Goldenberg),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0400,2,09:38,SAC,,MIN,,J. McGee,SAC,MISS McGee 4' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-29,29,4,1,2.0,0.0,h
+S2324-G0400,2,09:31,SAC,,MIN,,J. McGee,SAC,SUB: Sabonis FOR McGee,Substitution,,0,0,0,0,,,h
+S2324-G0400,3,01:28,SAC,64.0,MIN,81.0,J. McGee,SAC,McGee 2' Alley Oop Layup (5 PTS) (Fox 3 AST),Made Shot,Alley Oop Layup shot,-9,18,2,1,2.0,2.0,h
+S2324-G0400,4,10:39,SAC,,MIN,,J. McGee,SAC,McGee STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0400,4,10:29,SAC,,MIN,,J. McGee,SAC,MISS McGee 7' Floating Jump Shot,Missed Shot,Floating Jump shot,-17,64,7,1,2.0,0.0,h
+S2324-G0400,4,10:09,SAC,72.0,MIN,85.0,J. McGee,SAC,McGee 1' Alley Oop Dunk (7 PTS) (Fox 4 AST),Made Shot,Alley Oop Dunk Shot,-10,8,1,1,2.0,2.0,h
+S2324-G0400,4,09:28,SAC,,MIN,,J. McGee,SAC,SUB: Sabonis FOR McGee,Substitution,,0,0,0,0,,,h
+S2324-G0945,4,02:25,SAC,,MIL,,J. McGee,SAC,McGee STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0945,4,02:15,SAC,126.0,MIL,90.0,J. McGee,SAC,McGee 27' 3PT Jump Shot (3 PTS) (Jones 1 AST),Made Shot,Jump Shot,1,274,27,1,3.0,3.0,h
+S2324-G0945,4,01:47,SAC,,MIL,,J. McGee,SAC,McGee OFF.Foul (P1) (P.Ransom),Foul,Offensive,0,0,0,0,,,h
+S2324-G0945,4,01:47,SAC,,MIL,,J. McGee,SAC,McGee Offensive Foul Turnover (P1.T9),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G1047,4,05:12,SAC,,DAL,,J. McGee,SAC,McGee REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1047,4,02:57,SAC,,DAL,,J. McGee,SAC,MISS McGee 5' Driving Layup,Missed Shot,Driving Layup Shot,47,13,5,1,2.0,0.0,h
+S2324-G1047,4,00:46.400000,SAC,,DAL,,J. McGee,SAC,McGee REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0532,4,04:30,PHI,,SAC,,J. McGee,SAC,McGee BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0532,4,03:58,PHI,,SAC,,J. McGee,SAC,McGee REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0532,4,03:23,PHI,,SAC,,J. McGee,SAC,McGee REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0532,4,02:42,PHI,,SAC,,J. McGee,SAC,McGee REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0532,4,02:29,PHI,,SAC,,J. McGee,SAC,MISS McGee 27' 3PT Jump Shot,Missed Shot,Jump Shot,17,271,27,1,3.0,0.0,v
+S2324-G0532,4,01:57,PHI,,SAC,,J. McGee,SAC,McGee REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0532,4,01:29,PHI,,SAC,,J. McGee,SAC,McGee REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0532,4,01:28,PHI,,SAC,,J. McGee,SAC,MISS McGee 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,9,-1,1,1,2.0,0.0,v
+S2324-G0532,4,00:44.100000,PHI,110.0,SAC,90.0,J. McGee,SAC,McGee Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0532,4,00:44.100000,PHI,110.0,SAC,91.0,J. McGee,SAC,McGee Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0532,4,00:06.400000,PHI,,SAC,,J. McGee,SAC,MISS McGee 16' Driving Hook Shot,Missed Shot,Driving Hook Shot,28,158,16,1,2.0,0.0,v
+S2324-G0714,2,11:32,CLE,,SAC,,J. McGee,SAC,MISS McGee 24' 3PT Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,94,224,24,1,3.0,0.0,v
+S2324-G0714,2,10:28,CLE,,SAC,,J. McGee,SAC,MISS McGee 9' Hook Shot,Missed Shot,Hook Shot,92,4,9,1,2.0,0.0,v
+S2324-G0714,2,09:12,CLE,,SAC,,J. McGee,SAC,McGee P.FOUL (P1.T3) (S.Wall),Foul,Personal,0,0,0,0,,,v
+S2324-G0714,2,08:55,CLE,,SAC,,J. McGee,SAC,McGee REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0714,2,06:30,CLE,,SAC,,J. McGee,SAC,McGee REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0714,2,06:27,CLE,,SAC,,J. McGee,SAC,SUB: Sabonis FOR McGee,Substitution,,0,0,0,0,,,v
+S2324-G0651,1,02:04,DAL,,,,J. McGee,SAC,MISS McGee 14' Floating Jump Shot,Missed Shot,Floating Jump shot,7,135,14,1,2.0,0.0,v
+S2324-G0651,1,00:07.400000,DAL,,,,J. McGee,SAC,SUB: Barnes FOR McGee,Substitution,,0,0,0,0,,,v
+S2324-G0651,2,10:51,DAL,,,,J. McGee,SAC,McGee STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0651,2,10:39,DAL,27.0,,33.0,J. McGee,SAC,McGee 3' Alley Oop Dunk (2 PTS) (Monk 2 AST),Made Shot,Alley Oop Dunk Shot,-6,25,3,1,2.0,2.0,v
+S2324-G0651,2,10:20,DAL,,,,J. McGee,SAC,McGee REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0651,2,09:57,DAL,,,,J. McGee,SAC,SUB: Sabonis FOR McGee,Substitution,,0,0,0,0,,,v
+S2324-G0651,3,02:02,DAL,,,,J. McGee,SAC,McGee REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0651,3,00:34.500000,DAL,,,,J. McGee,SAC,SUB: Edwards FOR McGee,Substitution,,0,0,0,0,,,v
+S2324-G0651,4,10:29,DAL,78.0,,99.0,J. McGee,SAC,McGee 2' Alley Oop Dunk (4 PTS) (Monk 6 AST),Made Shot,Alley Oop Dunk Shot,16,6,2,1,2.0,2.0,v
+S2324-G0651,4,09:42,DAL,81.0,,103.0,J. McGee,SAC,McGee 2' Cutting Finger Roll Layup Shot (6 PTS) (Fox 4 AST),Made Shot,Cutting Finger Roll Layup Shot,9,16,2,1,2.0,2.0,v
+S2324-G0651,4,08:24,DAL,,,,J. McGee,SAC,SUB: Sabonis FOR McGee,Substitution,,0,0,0,0,,,v
+S2324-G0153,1,02:20,HOU,,SAC,,J. McGee,SAC,McGee REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0153,1,01:59,HOU,,SAC,,J. McGee,SAC,McGee S.FOUL (P1.PN) (P.Fraher),Foul,Shooting,0,0,0,0,,,v
+S2324-G0153,1,01:48,HOU,,SAC,,J. McGee,SAC,McGee OFF.Foul (P2) (P.Fraher),Foul,Offensive,0,0,0,0,,,v
+S2324-G0153,1,01:48,HOU,,SAC,,J. McGee,SAC,McGee Offensive Foul Turnover (P1.T3),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0153,1,01:20,HOU,,SAC,,J. McGee,SAC,McGee REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0153,1,01:19,HOU,27.0,SAC,19.0,J. McGee,SAC,McGee Putback Layup (2 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,v
+S2324-G0153,2,10:26,HOU,,SAC,,J. McGee,SAC,McGee REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0153,2,09:40,HOU,,SAC,,J. McGee,SAC,McGee Lost Ball Turnover (P2.T5),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0153,2,09:16,HOU,,SAC,,J. McGee,SAC,McGee P.FOUL (P3.T3) (N.Green),Foul,Personal,0,0,0,0,,,v
+S2324-G0153,2,09:16,HOU,,SAC,,J. McGee,SAC,SUB: Sabonis FOR McGee,Substitution,,0,0,0,0,,,v
+S2324-G0153,3,02:13,HOU,89.0,SAC,56.0,J. McGee,SAC,McGee 2' Alley Oop Layup (4 PTS) (Monk 1 AST),Made Shot,Alley Oop Layup shot,-5,16,2,1,2.0,2.0,v
+S2324-G0153,3,01:38,HOU,,SAC,,J. McGee,SAC,McGee P.FOUL (P4.T1) (J.Van Duyne),Foul,Personal,0,0,0,0,,,v
+S2324-G0153,3,00:29.400000,HOU,95.0,SAC,57.0,J. McGee,SAC,McGee Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0153,3,00:29.400000,HOU,95.0,SAC,58.0,J. McGee,SAC,McGee Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0153,4,10:40,HOU,101.0,SAC,65.0,J. McGee,SAC,McGee 3' Cutting Finger Roll Layup Shot (8 PTS) (Duarte 1 AST),Made Shot,Cutting Finger Roll Layup Shot,12,28,3,1,2.0,2.0,v
+S2324-G0153,4,10:13,HOU,,SAC,,J. McGee,SAC,MISS McGee 4' Reverse Layup,Missed Shot,Reverse Layup Shot,40,7,4,1,2.0,0.0,v
+S2324-G0153,4,10:07,HOU,103.0,SAC,67.0,J. McGee,SAC,McGee 4' Cutting Dunk Shot (10 PTS) (Vezenkov 1 AST),Made Shot,Cutting Dunk Shot,22,34,4,1,2.0,2.0,v
+S2324-G0153,4,09:41,HOU,,SAC,,J. McGee,SAC,SUB: Edwards FOR McGee,Substitution,,0,0,0,0,,,v
+S2324-G0387,1,02:28,SAC,29.0,PHX,21.0,J. McGee,SAC,McGee 1' Cutting Dunk Shot (2 PTS) (Fox 1 AST),Made Shot,Cutting Dunk Shot,-2,8,1,1,2.0,2.0,h
+S2324-G0387,1,02:17,SAC,,PHX,,J. McGee,SAC,McGee S.FOUL (P1.PN) (J.Tiven),Foul,Shooting,0,0,0,0,,,h
+S2324-G0387,1,01:22,SAC,,PHX,,J. McGee,SAC,KINGS T.Foul (Def. 3 Sec McGee ) (T.Maddox),Foul,Defense 3 Second,0,0,0,0,,,h
+S2324-G0387,1,00:53,SAC,34.0,PHX,28.0,J. McGee,SAC,McGee Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0387,1,00:53,SAC,,PHX,,J. McGee,SAC,MISS McGee Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0387,1,00:00,SAC,,PHX,,J. McGee,SAC,MISS McGee 2' Layup,Missed Shot,Layup Shot,15,16,2,1,2.0,0.0,h
+S2324-G0387,2,09:28,SAC,43.0,PHX,34.0,J. McGee,SAC,McGee Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0387,2,09:28,SAC,44.0,PHX,34.0,J. McGee,SAC,McGee Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0387,2,08:57,SAC,,PHX,,J. McGee,SAC,SUB: Ellis FOR McGee,Substitution,,0,0,0,0,,,h
+S2324-G0387,3,00:34.500000,SAC,,PHX,,J. McGee,SAC,McGee OFF.Foul (P2) (T.Maddox),Foul,Offensive,0,0,0,0,,,h
+S2324-G0387,3,00:34.500000,SAC,,PHX,,J. McGee,SAC,McGee Offensive Foul Turnover (P1.T9),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0387,3,00:34.500000,SAC,,PHX,,J. McGee,SAC,SUB: Toscano-Anderson FOR McGee,Substitution,,0,0,0,0,,,h
+S2324-G0387,4,10:59,SAC,,PHX,,J. McGee,SAC,McGee REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0387,4,10:31,SAC,,PHX,,J. McGee,SAC,McGee P.FOUL (P3.T1) (T.Maddox),Foul,Personal,0,0,0,0,,,h
+S2324-G0387,4,10:24,SAC,,PHX,,J. McGee,SAC,SUB: Ellis FOR McGee,Substitution,,0,0,0,0,,,h
+S2324-G1200,4,07:35,SAC,104.0,POR,62.0,J. McGee,SAC,McGee 8' Hook Bank Shot (2 PTS),Made Shot,Hook Bank Shot,66,52,8,1,2.0,2.0,h
+S2324-G1200,4,07:01,SAC,,POR,,J. McGee,SAC,McGee REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1200,4,07:00,SAC,,POR,,J. McGee,SAC,MISS McGee 6' Hook Shot,Missed Shot,Hook Shot,62,16,6,1,2.0,0.0,h
+S2324-G1200,4,06:41,SAC,,POR,,J. McGee,SAC,McGee REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1200,4,06:30,SAC,,POR,,J. McGee,SAC,MISS McGee 25' 3PT Jump Shot,Missed Shot,Jump Shot,89,238,25,1,3.0,0.0,h
+S2324-G1200,4,05:09,SAC,,POR,,J. McGee,SAC,McGee Lost Ball Turnover (P1.T13),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G1200,4,04:46,SAC,,POR,,J. McGee,SAC,McGee REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1200,4,04:45,SAC,106.0,POR,69.0,J. McGee,SAC,McGee Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2324-G1200,4,04:25,SAC,,POR,,J. McGee,SAC,McGee REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1200,4,04:17,SAC,107.0,POR,69.0,J. McGee,SAC,McGee Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1200,4,04:17,SAC,,POR,,J. McGee,SAC,MISS McGee Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G1200,4,03:46,SAC,,POR,,J. McGee,SAC,MISS McGee 3' Dunk,Missed Shot,Dunk Shot,-15,21,3,1,2.0,0.0,h
+S2324-G1200,4,02:49,SAC,,POR,,J. McGee,SAC,McGee Offensive Charge Foul (P1) (D.Guthrie),Foul,Offensive Charge,0,0,0,0,,,h
+S2324-G1200,4,02:49,SAC,,POR,,J. McGee,SAC,McGee Offensive Foul Turnover (P2.T14),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G1200,4,02:00,SAC,,POR,,J. McGee,SAC,McGee REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1200,4,01:59,SAC,113.0,POR,78.0,J. McGee,SAC,McGee Tip Dunk Shot (7 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,h
+S2324-G1200,4,01:39,SAC,115.0,POR,81.0,J. McGee,SAC,McGee 3' Alley Oop Layup (9 PTS) (C. Jones 1 AST),Made Shot,Alley Oop Layup shot,-23,16,3,1,2.0,2.0,h
+S2324-G1200,4,01:03,SAC,,POR,,J. McGee,SAC,McGee REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1200,4,00:29.700000,SAC,,POR,,J. McGee,SAC,McGee REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0309,2,11:46,LAC,32.0,SAC,26.0,J. McGee,SAC,McGee 1' Alley Oop Dunk (2 PTS) (Monk 2 AST),Made Shot,Alley Oop Dunk Shot,-1,10,1,1,2.0,2.0,v
+S2324-G0309,2,11:30,LAC,,SAC,,J. McGee,SAC,McGee Violation:Defensive Goaltending (J.Orr),Violation,Defensive Goaltending,0,0,0,0,,,v
+S2324-G0309,2,11:22,LAC,,SAC,,J. McGee,SAC,McGee OFF.Foul (P1) (J.DeRosa),Foul,Offensive,0,0,0,0,,,v
+S2324-G0309,2,11:22,LAC,,SAC,,J. McGee,SAC,McGee Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0309,2,11:02,LAC,37.0,SAC,28.0,J. McGee,SAC,McGee 3' Alley Oop Layup (4 PTS) (Monk 3 AST),Made Shot,Alley Oop Layup shot,-6,27,3,1,2.0,2.0,v
+S2324-G0309,2,09:07,LAC,,SAC,,J. McGee,SAC,McGee REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0309,2,09:07,LAC,46.0,SAC,32.0,J. McGee,SAC,McGee Tip Dunk Shot (6 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,v
+S2324-G0309,2,09:07,LAC,,SAC,,J. McGee,SAC,MISS McGee Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2324-G0309,2,08:40,LAC,,SAC,,J. McGee,SAC,SUB: Sabonis FOR McGee,Substitution,,0,0,0,0,,,v
+S2324-G0324,1,00:49.300000,SAC,,OKC,,J. McGee,SAC,McGee REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0324,1,00:44.300000,SAC,29.0,OKC,26.0,J. McGee,SAC,McGee 4' Alley Oop Dunk (2 PTS) (Monk 2 AST),Made Shot,Alley Oop Dunk Shot,21,38,4,1,2.0,2.0,h
+S2324-G0324,1,00:07.300000,SAC,,OKC,,J. McGee,SAC,McGee OFF.Foul (P1) (B.Nansel),Foul,Offensive,0,0,0,0,,,h
+S2324-G0324,1,00:07.300000,SAC,,OKC,,J. McGee,SAC,McGee Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0324,2,11:34,SAC,,OKC,,J. McGee,SAC,McGee REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0324,2,10:46,SAC,,OKC,,J. McGee,SAC,McGee Bad Pass Turnover (P2.T7),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0324,2,09:18,SAC,,OKC,,J. McGee,SAC,SUB: Sabonis FOR McGee,Substitution,,0,0,0,0,,,h
+S2324-G0518,4,04:21,CHA,,SAC,,J. McGee,SAC,MISS McGee 4' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,-5,38,4,1,2.0,0.0,v
+S2324-G0518,4,04:16,CHA,,SAC,,J. McGee,SAC,McGee REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0518,4,04:16,CHA,,SAC,,J. McGee,SAC,MISS McGee Putback Layup,Missed Shot,Putback Layup Shot,0,0,0,1,2.0,0.0,v
+S2324-G0518,4,04:16,CHA,,SAC,,J. McGee,SAC,McGee REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0518,4,04:16,CHA,,SAC,,J. McGee,SAC,MISS McGee 3' Tip Layup Shot,Missed Shot,Tip Layup Shot,-5,25,3,1,2.0,0.0,v
+S2324-G0518,4,04:16,CHA,,SAC,,J. McGee,SAC,McGee REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0518,4,04:14,CHA,91.0,SAC,117.0,J. McGee,SAC,McGee Putback Layup (2 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,v
+S2324-G0518,4,03:56,CHA,,SAC,,J. McGee,SAC,McGee REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0518,4,03:36,CHA,,SAC,,J. McGee,SAC,McGee Traveling Turnover (P1.T9),Turnover,Traveling,0,0,0,0,,,v
+S2324-G0518,4,02:59,CHA,,SAC,,J. McGee,SAC,McGee Traveling Turnover (P2.T10),Turnover,Traveling,0,0,0,0,,,v
+S2324-G0518,4,02:11,CHA,,SAC,,J. McGee,SAC,McGee REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0518,4,01:45,CHA,,SAC,,J. McGee,SAC,McGee REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0518,4,01:40,CHA,94.0,SAC,118.0,J. McGee,SAC,McGee Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0518,4,01:40,CHA,94.0,SAC,119.0,J. McGee,SAC,McGee Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0518,4,00:44.900000,CHA,,SAC,,J. McGee,SAC,McGee REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0518,4,00:44.900000,CHA,96.0,SAC,121.0,J. McGee,SAC,McGee Putback Layup (6 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,v
+S2324-G0518,4,00:21,CHA,98.0,SAC,122.0,J. McGee,SAC,McGee Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0518,4,00:21,CHA,98.0,SAC,123.0,J. McGee,SAC,McGee Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0373,3,01:50,SAC,,BOS,,J. McGee,SAC,McGee BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0373,3,01:36,SAC,87.0,BOS,111.0,J. McGee,SAC,McGee 6' Driving Layup (2 PTS) (Ellis 3 AST),Made Shot,Driving Layup Shot,50,26,6,1,2.0,2.0,h
+S2324-G0373,3,00:02.800000,SAC,,BOS,,J. McGee,SAC,McGee REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0373,4,09:57,SAC,,BOS,,J. McGee,SAC,McGee BLOCK (2 BLK),,,0,0,0,0,,,h
+S2324-G0373,4,09:35,SAC,,BOS,,J. McGee,SAC,MISS McGee 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,53,59,8,1,2.0,0.0,h
+S2324-G0373,4,09:12,SAC,,BOS,,J. McGee,SAC,McGee REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0373,4,09:09,SAC,,BOS,,J. McGee,SAC,McGee Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0373,4,08:51,SAC,102.0,BOS,125.0,J. McGee,SAC,McGee Dunk (4 PTS) (Monk 4 AST),Made Shot,Dunk Shot,0,4,0,1,2.0,2.0,h
+S2324-G0373,4,05:18,SAC,,BOS,,J. McGee,SAC,McGee REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0373,4,04:48,SAC,,BOS,,J. McGee,SAC,McGee BLOCK (3 BLK),,,0,0,0,0,,,h
+S2324-G0373,4,04:44,SAC,,BOS,,J. McGee,SAC,McGee BLOCK (4 BLK),,,0,0,0,0,,,h
+S2324-G0373,4,04:04,SAC,,BOS,,J. McGee,SAC,MISS McGee Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0373,4,04:04,SAC,,BOS,,J. McGee,SAC,MISS McGee Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0373,4,03:00,SAC,,BOS,,J. McGee,SAC,SUB: Toscano-Anderson FOR McGee,Substitution,,0,0,0,0,,,h
+S2324-G0060,1,02:49,SAC,,GSW,,J. McGee,SAC,McGee P.FOUL (P1.T3) (M.Ervin),Foul,Personal,0,0,0,0,,,h
+S2324-G0060,1,02:24,SAC,,GSW,,J. McGee,SAC,McGee Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0060,1,01:30,SAC,,GSW,,J. McGee,SAC,McGee BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0060,1,00:35.300000,SAC,,GSW,,J. McGee,SAC,SUB: Mitchell FOR McGee,Substitution,,0,0,0,0,,,h
+S2324-G0060,2,11:30,SAC,,GSW,,J. McGee,SAC,KINGS T.Foul (Def. 3 Sec McGee ) (J.Williams),Foul,Defense 3 Second,0,0,0,0,,,h
+S2324-G0060,2,11:06,SAC,,GSW,,J. McGee,SAC,McGee BLOCK (2 BLK),,,0,0,0,0,,,h
+S2324-G0060,2,10:58,SAC,,GSW,,J. McGee,SAC,McGee REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0060,2,10:58,SAC,,GSW,,J. McGee,SAC,MISS McGee Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0060,2,10:58,SAC,30.0,GSW,44.0,J. McGee,SAC,McGee Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0060,2,10:17,SAC,,GSW,,J. McGee,SAC,MISS McGee 9' Driving Hook Shot,Missed Shot,Driving Hook Shot,-33,88,9,1,2.0,0.0,h
+S2324-G0060,2,09:51,SAC,,GSW,,J. McGee,SAC,SUB: Sabonis FOR McGee,Substitution,,0,0,0,0,,,h
+S2324-G0191,3,01:26,SAC,,CLE,,J. McGee,SAC,McGee REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0191,3,00:22.100000,SAC,,CLE,,J. McGee,SAC,McGee REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0191,4,10:35,SAC,112.0,CLE,92.0,J. McGee,SAC,McGee 5' Cutting Dunk Shot (2 PTS) (Monk 4 AST),Made Shot,Cutting Dunk Shot,-2,47,5,1,2.0,2.0,h
+S2324-G0191,4,10:14,SAC,,CLE,,J. McGee,SAC,McGee REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0191,4,10:01,SAC,,CLE,,J. McGee,SAC,McGee REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0191,4,08:51,SAC,,CLE,,J. McGee,SAC,McGee L.B.FOUL (P1.T2) (E.Dalen),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0191,4,08:51,SAC,,CLE,,J. McGee,SAC,SUB: Ellis FOR McGee,Substitution,,0,0,0,0,,,h
+S2324-G0191,4,00:23.800000,SAC,,CLE,,J. McGee,SAC,MISS McGee 16' Hook Shot,Missed Shot,Hook Shot,-9,155,16,1,2.0,0.0,h
+S2324-G0492,2,11:35,SAC,,TOR,,J. McGee,SAC,McGee REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0492,2,10:36,SAC,,TOR,,J. McGee,SAC,McGee REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0492,2,09:27,SAC,45.0,TOR,34.0,J. McGee,SAC,McGee Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0492,2,09:27,SAC,46.0,TOR,34.0,J. McGee,SAC,McGee Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0492,2,07:48,SAC,50.0,TOR,38.0,J. McGee,SAC,McGee 1' Alley Oop Dunk (4 PTS) (Monk 4 AST),Made Shot,Alley Oop Dunk Shot,-1,6,1,1,2.0,2.0,h
+S2324-G0492,2,07:21,SAC,52.0,TOR,41.0,J. McGee,SAC,McGee 2' Cutting Layup Shot (6 PTS) (Lyles 1 AST),Made Shot,Cutting Layup Shot,-1,18,2,1,2.0,2.0,h
+S2324-G0492,2,06:56,SAC,,TOR,,J. McGee,SAC,SUB: Sabonis FOR McGee,Substitution,,0,0,0,0,,,h
+S2324-G0492,3,00:55.200000,SAC,,TOR,,J. McGee,SAC,MISS McGee 6' Jump Bank Shot,Missed Shot,Jump Bank Shot,45,41,6,1,2.0,0.0,h
+S2324-G0492,3,00:19.900000,SAC,,TOR,,J. McGee,SAC,SUB: Barnes FOR McGee,Substitution,,0,0,0,0,,,h
+S2324-G0413,1,01:20,POR,28.0,SAC,31.0,J. McGee,SAC,McGee 1' Alley Oop Dunk (2 PTS) (Monk 2 AST),Made Shot,Alley Oop Dunk Shot,7,6,1,1,2.0,2.0,v
+S2324-G0413,1,01:02,POR,28.0,SAC,33.0,J. McGee,SAC,McGee Alley Oop Dunk (4 PTS) (Monk 3 AST),Made Shot,Alley Oop Dunk Shot,4,-1,0,1,2.0,2.0,v
+S2324-G0413,1,00:05.500000,POR,,SAC,,J. McGee,SAC,SUB: Duarte FOR McGee,Substitution,,0,0,0,0,,,v
+S2324-G0413,2,09:45,POR,,SAC,,J. McGee,SAC,McGee Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0413,2,09:44,POR,,SAC,,J. McGee,SAC,McGee S.FOUL (P1.T2) (D.Richardson),Foul,Shooting,0,0,0,0,,,v
+S2324-G0413,2,09:22,POR,,SAC,,J. McGee,SAC,McGee REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0413,2,08:38,POR,,SAC,,J. McGee,SAC,SUB: Sabonis FOR McGee,Substitution,,0,0,0,0,,,v
+S2324-G1042,4,02:08,SAC,,PHI,,J. McGee,SAC,McGee STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1042,4,01:33,SAC,,PHI,,J. McGee,SAC,MISS McGee 7' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,70,5,7,1,2.0,0.0,h
+S2324-G1042,4,00:59.200000,SAC,,PHI,,J. McGee,SAC,SUB: Slawson FOR McGee,Substitution,,0,0,0,0,,,h
+S2324-G0700,1,00:06.600000,CHI,,SAC,,J. McGee,SAC,SUB: Edwards FOR McGee,Substitution,,0,0,0,0,,,v
+S2324-G0700,2,11:12,CHI,,SAC,,J. McGee,SAC,McGee P.FOUL (P1.T1) (M.Lindsay),Foul,Personal,0,0,0,0,,,v
+S2324-G0700,2,09:54,CHI,,SAC,,J. McGee,SAC,MISS McGee Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0700,2,09:54,CHI,,SAC,,J. McGee,SAC,MISS McGee Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0700,2,09:16,CHI,31.0,SAC,43.0,J. McGee,SAC,McGee 8' Floating Jump Shot (2 PTS) (Lyles 1 AST),Made Shot,Floating Jump shot,-70,42,8,1,2.0,2.0,v
+S2324-G0700,2,07:42,CHI,,SAC,,J. McGee,SAC,SUB: Mitchell FOR McGee,Substitution,,0,0,0,0,,,v
+S2324-G0700,3,01:05,CHI,,SAC,,J. McGee,SAC,McGee REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0700,3,01:05,CHI,,SAC,,J. McGee,SAC,MISS McGee Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2324-G0700,3,01:01,CHI,,SAC,,J. McGee,SAC,MISS McGee 3' Driving Hook Shot,Missed Shot,Driving Hook Shot,27,9,3,1,2.0,0.0,v
+S2324-G0126,1,02:25,GSW,25.0,SAC,22.0,J. McGee,SAC,McGee 5' Alley Oop Layup (2 PTS) (Monk 1 AST),Made Shot,Alley Oop Layup shot,10,47,5,1,2.0,2.0,v
+S2324-G0126,1,00:38.500000,GSW,28.0,SAC,28.0,J. McGee,SAC,McGee 7' Hook Shot (4 PTS) (Duarte 1 AST),Made Shot,Hook Shot,70,13,7,1,2.0,2.0,v
+S2324-G0126,1,00:12.700000,GSW,,SAC,,J. McGee,SAC,McGee REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0126,2,11:39,GSW,,SAC,,J. McGee,SAC,McGee REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0126,2,10:37,GSW,,SAC,,J. McGee,SAC,Kings T.Foul (Def. 3 Sec McGee ) (K.Cutler),Foul,Defense 3 Second,0,0,0,0,,,v
+S2324-G0126,2,10:23,GSW,,SAC,,J. McGee,SAC,McGee REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0126,2,08:33,GSW,,SAC,,J. McGee,SAC,SUB: Sabonis FOR McGee,Substitution,,0,0,0,0,,,v
+S2324-G0126,3,02:24,GSW,,SAC,,J. McGee,SAC,MISS McGee 5' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-13,52,5,1,2.0,0.0,v
+S2324-G0126,3,02:23,GSW,,SAC,,J. McGee,SAC,McGee Kicked Ball Violation Turnover (P1.T12),Turnover,Kicked Ball Violation,0,0,0,0,,,v
+S2324-G0126,3,02:07,GSW,,SAC,,J. McGee,SAC,McGee REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0126,3,01:55,GSW,,SAC,,J. McGee,SAC,MISS McGee 8' Driving Hook Shot,Missed Shot,Driving Hook Shot,-7,79,8,1,2.0,0.0,v
+S2324-G0126,3,01:00,GSW,,SAC,,J. McGee,SAC,McGee BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0126,3,00:23.700000,GSW,,SAC,,J. McGee,SAC,MISS McGee 8' Layup,Missed Shot,Layup Shot,69,34,8,1,2.0,0.0,v
+S2324-G0126,3,00:20.600000,GSW,,SAC,,J. McGee,SAC,McGee REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0126,3,00:20.600000,GSW,,SAC,,J. McGee,SAC,MISS McGee Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2324-G0126,3,00:20.600000,GSW,,SAC,,J. McGee,SAC,McGee REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0126,3,00:20.600000,GSW,74.0,SAC,79.0,J. McGee,SAC,McGee Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2324-G0126,4,10:14,GSW,,SAC,,J. McGee,SAC,SUB: Sabonis FOR McGee,Substitution,,0,0,0,0,,,v
+S2324-G0999,4,03:49,TOR,,SAC,,J. McGee,SAC,MISS McGee 7' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,18,69,7,1,2.0,0.0,v
+S2324-G0999,4,03:13,TOR,,SAC,,J. McGee,SAC,McGee STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0999,4,02:40,TOR,,SAC,,J. McGee,SAC,McGee STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0999,4,02:36,TOR,,SAC,,J. McGee,SAC,MISS McGee 2' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,17,5,2,1,2.0,0.0,v
+S2324-G0999,4,02:17,TOR,,SAC,,J. McGee,SAC,McGee REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0999,4,01:53,TOR,87.0,SAC,121.0,J. McGee,SAC,McGee 1' Running Dunk (2 PTS) (Jones 1 AST),Made Shot,Running Dunk Shot,-5,-1,1,1,2.0,2.0,v
+S2324-G0999,4,01:26,TOR,,SAC,,J. McGee,SAC,McGee REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0999,4,01:26,TOR,,SAC,,J. McGee,SAC,MISS McGee Tip Dunk Shot,Missed Shot,Tip Dunk Shot,0,0,0,1,2.0,0.0,v
+S2324-G0999,4,01:21,TOR,,SAC,,J. McGee,SAC,McGee REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0999,4,01:13,TOR,,SAC,,J. McGee,SAC,MISS McGee 5' Driving Hook Shot,Missed Shot,Driving Hook Shot,36,27,5,1,2.0,0.0,v
+S2324-G0999,4,00:17.800000,TOR,,SAC,,J. McGee,SAC,McGee BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0449,4,03:25,MEM,,SAC,,J. McGee,SAC,McGee L.B.FOUL (P1.T2) (J.Van Duyne),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0449,4,03:13,MEM,,SAC,,J. McGee,SAC,McGee REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0449,4,02:58,MEM,,SAC,,J. McGee,SAC,McGee Out of Bounds - Bad Pass Turnover Turnover (P1.T12),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0449,4,02:38,MEM,,SAC,,J. McGee,SAC,McGee BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0449,4,01:12,MEM,,SAC,,J. McGee,SAC,McGee Out of Bounds - Bad Pass Turnover Turnover (P2.T13),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0449,4,00:55.200000,MEM,,SAC,,J. McGee,SAC,McGee REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0222,1,01:52,NOP,25.0,SAC,24.0,J. McGee,SAC,McGee 1' Cutting Dunk Shot (2 PTS) (Monk 1 AST),Made Shot,Cutting Dunk Shot,-9,3,1,1,2.0,2.0,v
+S2324-G0222,1,01:30,NOP,,SAC,,J. McGee,SAC,McGee REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0222,1,01:18,NOP,,SAC,,J. McGee,SAC,McGee REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0222,1,01:09,NOP,25.0,SAC,26.0,J. McGee,SAC,McGee 4' Alley Oop Layup (4 PTS) (Monk 2 AST),Made Shot,Alley Oop Layup shot,2,35,4,1,2.0,2.0,v
+S2324-G0222,1,00:02.600000,NOP,,SAC,,J. McGee,SAC,McGee S.FOUL (P1.PN) (L.Wood),Foul,Shooting,0,0,0,0,,,v
+S2324-G0222,2,11:39,NOP,,SAC,,J. McGee,SAC,McGee BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0222,2,11:12,NOP,,SAC,,J. McGee,SAC,McGee Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0222,2,11:05,NOP,,SAC,,J. McGee,SAC,McGee Violation:Kicked Ball (L.Wood),Violation,Kicked Ball,0,0,0,0,,,v
+S2324-G0222,2,09:49,NOP,,SAC,,J. McGee,SAC,McGee REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0222,2,09:03,NOP,,SAC,,J. McGee,SAC,SUB: Sabonis FOR McGee,Substitution,,0,0,0,0,,,v
+S2324-G0222,2,00:00.700000,NOP,,SAC,,J. McGee,SAC,MISS McGee 15' Floating Jump Shot,Missed Shot,Floating Jump shot,-15,148,15,1,2.0,0.0,v
+S2324-G0222,3,07:02,NOP,,SAC,,J. McGee,SAC,McGee REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0222,3,07:02,NOP,,SAC,,J. McGee,SAC,MISS McGee Tip Layup Shot,Missed Shot,Tip Layup Shot,4,0,0,1,2.0,0.0,v
+S2324-G0222,3,07:01,NOP,,SAC,,J. McGee,SAC,McGee REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0222,3,05:36,NOP,,SAC,,J. McGee,SAC,SUB: Jones FOR McGee,Substitution,,0,0,0,0,,,v
+S2324-G0222,4,11:46,NOP,,SAC,,J. McGee,SAC,McGee REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0222,4,11:29,NOP,,SAC,,J. McGee,SAC,MISS McGee Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0222,4,11:29,NOP,,SAC,,J. McGee,SAC,MISS McGee Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0222,4,10:59,NOP,,SAC,,J. McGee,SAC,McGee OFF.Foul (P2) (T.Washington),Foul,Offensive,0,0,0,0,,,v
+S2324-G0222,4,10:59,NOP,,SAC,,J. McGee,SAC,McGee Offensive Foul Turnover (P2.T9),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0222,4,09:55,NOP,,SAC,,J. McGee,SAC,McGee Lost Ball Turnover (P3.T11),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0222,4,09:14,NOP,111.0,SAC,73.0,J. McGee,SAC,McGee 9' Floating Jump Shot (6 PTS) (Mitchell 3 AST),Made Shot,Floating Jump shot,1,91,9,1,2.0,2.0,v
+S2324-G0222,4,08:42,NOP,111.0,SAC,74.0,J. McGee,SAC,McGee Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0222,4,08:42,NOP,111.0,SAC,75.0,J. McGee,SAC,McGee Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0222,4,08:24,NOP,,SAC,,J. McGee,SAC,McGee S.FOUL (P3.T2) (T.Washington),Foul,Shooting,0,0,0,0,,,v
+S2324-G0222,4,08:22,NOP,,SAC,,J. McGee,SAC,McGee REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0222,4,06:41,NOP,118.0,SAC,79.0,J. McGee,SAC,McGee 1' Cutting Layup Shot (10 PTS) (Mitchell 4 AST),Made Shot,Cutting Layup Shot,9,6,1,1,2.0,2.0,v
+S2324-G0222,4,06:26,NOP,,SAC,,J. McGee,SAC,McGee BLOCK (2 BLK),,,0,0,0,0,,,v
+S2324-G0222,4,06:26,NOP,,SAC,,J. McGee,SAC,SUB: Petrusev FOR McGee,Substitution,,0,0,0,0,,,v
+S2324-G0613,1,00:42.600000,SAC,,ATL,,J. McGee,SAC,McGee REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0613,2,11:38,SAC,29.0,ATL,24.0,J. McGee,SAC,McGee 2' Alley Oop Layup (2 PTS) (Monk 1 AST),Made Shot,Alley Oop Layup shot,7,19,2,1,2.0,2.0,h
+S2324-G0613,2,10:04,SAC,,ATL,,J. McGee,SAC,McGee P.FOUL (P1.T1) (D.Scott),Foul,Personal,0,0,0,0,,,h
+S2324-G0613,2,09:52,SAC,,ATL,,J. McGee,SAC,McGee REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0613,2,09:42,SAC,,ATL,,J. McGee,SAC,MISS McGee 26' 3PT Jump Shot,Missed Shot,Jump Shot,140,219,26,1,3.0,0.0,h
+S2324-G0613,2,09:18,SAC,33.0,ATL,24.0,J. McGee,SAC,McGee 1' Cutting Dunk Shot (4 PTS) (Monk 3 AST),Made Shot,Cutting Dunk Shot,10,8,1,1,2.0,2.0,h
+S2324-G0613,2,09:02,SAC,,ATL,,J. McGee,SAC,McGee REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0613,2,08:03,SAC,,ATL,,J. McGee,SAC,SUB: Sabonis FOR McGee,Substitution,,0,0,0,0,,,h
+S2324-G0613,3,02:00,SAC,,ATL,,J. McGee,SAC,McGee STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0613,3,01:40,SAC,,ATL,,J. McGee,SAC,McGee BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0613,4,10:32,SAC,88.0,ATL,74.0,J. McGee,SAC,McGee Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0613,4,10:32,SAC,,ATL,,J. McGee,SAC,MISS McGee Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0613,4,10:20,SAC,,ATL,,J. McGee,SAC,McGee S.FOUL (P2.T2) (J.Orr),Foul,Shooting,0,0,0,0,,,h
+S2324-G0613,4,10:11,SAC,90.0,ATL,76.0,J. McGee,SAC,McGee 2' Cutting Dunk Shot (7 PTS) (Huerter 3 AST),Made Shot,Cutting Dunk Shot,-2,15,2,1,2.0,2.0,h
+S2324-G0613,4,10:09,SAC,,ATL,,J. McGee,SAC,McGee HANGING.TECH.FOUL (P2.T2) (J.Orr),Foul,Hanging Technical,0,0,0,0,,,h
+S2324-G0613,4,09:29,SAC,,ATL,,J. McGee,SAC,SUB: Sabonis FOR McGee,Substitution,,0,0,0,0,,,h
+S2324-G0500,2,09:45,SAC,,NOP,,J. McGee,SAC,McGee REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0500,2,09:29,SAC,,NOP,,J. McGee,SAC,SUB: Barnes FOR McGee,Substitution,,0,0,0,0,,,h
+S2324-G0500,3,00:19.900000,SAC,,NOP,,J. McGee,SAC,MISS McGee 5' Driving Hook Shot,Missed Shot,Driving Hook Shot,-10,53,5,1,2.0,0.0,h
+S2324-G0500,4,10:42,SAC,,NOP,,J. McGee,SAC,McGee Out of Bounds - Bad Pass Turnover Turnover (P1.T9),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G0500,4,09:57,SAC,,NOP,,J. McGee,SAC,SUB: Len FOR McGee,Substitution,,0,0,0,0,,,h
+S2324-G0264,1,02:22,SAC,,LAC,,J. McGee,SAC,McGee REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0264,1,02:09,SAC,,LAC,,J. McGee,SAC,McGee REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0264,1,02:08,SAC,,LAC,,J. McGee,SAC,McGee Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0264,1,01:31,SAC,,LAC,,J. McGee,SAC,McGee REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0264,1,01:27,SAC,,LAC,,J. McGee,SAC,McGee REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0264,1,00:09.600000,SAC,,LAC,,J. McGee,SAC,SUB: Duarte FOR McGee,Substitution,,0,0,0,0,,,h
+S2324-G0264,3,01:32,SAC,,LAC,,J. McGee,SAC,McGee S.FOUL (P1.T4) (C.Blair),Foul,Shooting,0,0,0,0,,,h
+S2324-G0264,3,01:29,SAC,,LAC,,J. McGee,SAC,McGee REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0264,3,01:18,SAC,79.0,LAC,98.0,J. McGee,SAC,McGee 1' Alley Oop Dunk (2 PTS) (Monk 2 AST),Made Shot,Alley Oop Dunk Shot,-13,4,1,1,2.0,2.0,h
+S2324-G0264,3,00:09.200000,SAC,,LAC,,J. McGee,SAC,SUB: Fox FOR McGee,Substitution,,0,0,0,0,,,h
+S2324-G0233,1,01:24,NOP,,SAC,,J. McGee,SAC,McGee Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0233,1,01:23,NOP,,SAC,,J. McGee,SAC,SUB: Barnes FOR McGee,Substitution,,0,0,0,0,,,v
+S2324-G0233,3,02:54,NOP,,SAC,,J. McGee,SAC,McGee REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0233,3,02:39,NOP,,SAC,,J. McGee,SAC,McGee Lost Ball Turnover (P2.T12),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0233,3,00:31.500000,NOP,,SAC,,J. McGee,SAC,MISS McGee Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0233,3,00:31.500000,NOP,,SAC,,J. McGee,SAC,MISS McGee Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0663,2,11:14,MEM,,SAC,,J. McGee,SAC,McGee REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0663,2,10:56,MEM,33.0,SAC,23.0,J. McGee,SAC,McGee 1' Cutting Dunk Shot (2 PTS) (Fox 1 AST),Made Shot,Cutting Dunk Shot,0,6,1,1,2.0,2.0,v
+S2324-G0663,2,10:34,MEM,,SAC,,J. McGee,SAC,McGee REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0663,2,09:55,MEM,,SAC,,J. McGee,SAC,McGee REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0663,2,09:55,MEM,35.0,SAC,25.0,J. McGee,SAC,McGee Putback Dunk (4 PTS),Made Shot,Putback Dunk Shot,0,0,0,1,2.0,2.0,v
+S2324-G0663,2,08:38,MEM,,SAC,,J. McGee,SAC,McGee S.FOUL (P1.T2) (R.Acosta),Foul,Shooting,0,0,0,0,,,v
+S2324-G0663,2,07:58,MEM,,SAC,,J. McGee,SAC,Kings T.Foul (Def. 3 Sec McGee ) (D.Guthrie),Foul,Defense 3 Second,0,0,0,0,,,v
+S2324-G0663,2,07:42,MEM,,SAC,,J. McGee,SAC,MISS McGee 1' Running Alley Oop Layup Shot,Missed Shot,Running Alley Oop Layup Shot,-12,5,1,1,2.0,0.0,v
+S2324-G0663,2,07:22,MEM,,SAC,,J. McGee,SAC,McGee L.B.FOUL (P2.T3) (D.Guthrie),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0663,2,07:22,MEM,,SAC,,J. McGee,SAC,SUB: Sabonis FOR McGee,Substitution,,0,0,0,0,,,v
+S2324-G0663,3,01:20,MEM,68.0,SAC,74.0,J. McGee,SAC,McGee 2' Alley Oop Layup (6 PTS) (Monk 3 AST),Made Shot,Alley Oop Layup shot,-15,9,2,1,2.0,2.0,v
+S2324-G0663,4,10:56,MEM,,SAC,,J. McGee,SAC,McGee REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0663,4,10:46,MEM,78.0,SAC,79.0,J. McGee,SAC,McGee 1' Alley Oop Dunk (8 PTS) (Monk 4 AST),Made Shot,Alley Oop Dunk Shot,2,9,1,1,2.0,2.0,v
+S2324-G0663,4,10:33,MEM,,SAC,,J. McGee,SAC,McGee S.FOUL (P3.T3) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,v
+S2324-G0663,4,09:42,MEM,,SAC,,J. McGee,SAC,SUB: Huerter FOR McGee,Substitution,,0,0,0,0,,,v
+S2324-G0032,2,11:33,SAS,31.0,SAC,31.0,J. McGee,SAC,McGee 3' Alley Oop Layup (2 PTS) (Monk 4 AST),Made Shot,Alley Oop Layup shot,6,30,3,1,2.0,2.0,v
+S2324-G0032,2,11:13,SAS,31.0,SAC,33.0,J. McGee,SAC,McGee 5' Hook Shot (4 PTS) (Ellis 2 AST),Made Shot,Hook Shot,0,47,5,1,2.0,2.0,v
+S2324-G0032,2,09:47,SAS,,SAC,,J. McGee,SAC,McGee OFF.Foul (P1) (M.Dagher),Foul,Offensive,0,0,0,0,,,v
+S2324-G0032,2,09:47,SAS,,SAC,,J. McGee,SAC,McGee Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0032,2,06:50,SAS,,SAC,,J. McGee,SAC,SUB: Sabonis FOR McGee,Substitution,,0,0,0,0,,,v
+S2324-G0032,3,00:59.700000,SAS,,SAC,,J. McGee,SAC,SUB: Barnes FOR McGee,Substitution,,0,0,0,0,,,v
+S2324-G0198,1,01:12,LAL,,SAC,,J. McGee,SAC,McGee REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0198,1,01:01,LAL,,SAC,,J. McGee,SAC,MISS McGee Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0198,1,01:01,LAL,19.0,SAC,38.0,J. McGee,SAC,McGee Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0198,1,00:22.600000,LAL,,SAC,,J. McGee,SAC,McGee REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0198,1,00:21.700000,LAL,,SAC,,J. McGee,SAC,McGee Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0198,2,10:16,LAL,,SAC,,J. McGee,SAC,McGee STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0198,2,10:09,LAL,32.0,SAC,42.0,J. McGee,SAC,McGee 2' Alley Oop Dunk (3 PTS) (Fox 3 AST),Made Shot,Alley Oop Dunk Shot,-17,16,2,1,2.0,2.0,v
+S2324-G0198,2,09:24,LAL,35.0,SAC,44.0,J. McGee,SAC,McGee Running Dunk (5 PTS) (Duarte 1 AST),Made Shot,Running Dunk Shot,4,0,0,1,2.0,2.0,v
+S2324-G0198,2,08:59,LAL,,SAC,,J. McGee,SAC,SUB: Barnes FOR McGee,Substitution,,0,0,0,0,,,v
+S2324-G0198,2,00:00.200000,LAL,,SAC,,J. McGee,SAC,McGee REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0198,3,02:04,LAL,,SAC,,J. McGee,SAC,McGee STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0198,3,01:37,LAL,,SAC,,J. McGee,SAC,McGee OFF.Foul (P1) (M.Davis),Foul,Offensive,0,0,0,0,,,v
+S2324-G0198,3,01:37,LAL,,SAC,,J. McGee,SAC,McGee Offensive Foul Turnover (P2.T10),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0198,3,01:23,LAL,,SAC,,J. McGee,SAC,McGee REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0198,3,00:56.200000,LAL,,SAC,,J. McGee,SAC,McGee REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0198,3,00:09.800000,LAL,,SAC,,J. McGee,SAC,McGee S.FOUL (P2.PN) (R.Mott),Foul,Shooting,0,0,0,0,,,v
+S2324-G0198,4,11:27,LAL,80.0,SAC,106.0,J. McGee,SAC,McGee 2' Running Dunk (7 PTS) (Fox 4 AST),Made Shot,Running Dunk Shot,-4,20,2,1,2.0,2.0,v
+S2324-G0198,4,10:35,LAL,,SAC,,J. McGee,SAC,McGee REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0198,4,10:25,LAL,,SAC,,J. McGee,SAC,McGee S.FOUL (P3.T1) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,v
+S2324-G0198,4,10:04,LAL,,SAC,,J. McGee,SAC,SUB: Huerter FOR McGee,Substitution,,0,0,0,0,,,v
+S2324-G0100,1,02:49,SAC,,LAL,,J. McGee,SAC,McGee BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0100,1,00:25.500000,SAC,,LAL,,J. McGee,SAC,McGee Violation:Kicked Ball (S.Corbin),Violation,Kicked Ball,0,0,0,0,,,h
+S2324-G0100,1,00:02.700000,SAC,41.0,LAL,28.0,J. McGee,SAC,McGee 1' Driving Dunk (2 PTS) (Fox 3 AST),Made Shot,Driving Dunk Shot,11,9,1,1,2.0,2.0,h
+S2324-G0100,2,10:55,SAC,,LAL,,J. McGee,SAC,McGee Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G0100,2,08:30,SAC,,LAL,,J. McGee,SAC,McGee S.FOUL (P1.T2) (S.Corbin),Foul,Shooting,0,0,0,0,,,h
+S2324-G0100,2,08:30,SAC,,LAL,,J. McGee,SAC,SUB: Sabonis FOR McGee,Substitution,,0,0,0,0,,,h
+S2324-G0100,3,01:45,SAC,85.0,LAL,79.0,J. McGee,SAC,McGee 5' Hook Shot (4 PTS),Made Shot,Hook Shot,-33,34,5,1,2.0,2.0,h
+S2324-G0100,4,10:24,SAC,,LAL,,J. McGee,SAC,SUB: Fox FOR McGee,Substitution,,0,0,0,0,,,h
+S2324-G0100,5,05:00,SAC,,LAL,,J. McGee,SAC,Jump Ball McGee vs. Davis: Tip to Russell,Jump Ball,,0,0,0,0,,,h
+S2324-G0100,5,04:47,SAC,,LAL,,J. McGee,SAC,McGee STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0100,5,00:32,SAC,,LAL,,J. McGee,SAC,SUB: Mitchell FOR McGee,Substitution,,0,0,0,0,,,h
+S2324-G1204,1,04:08,SAC,,NOP,,J. McGee,SAC,McGee REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1204,1,02:18,SAC,,NOP,,J. McGee,SAC,MISS McGee 4' Hook Shot,Missed Shot,Hook Shot,-6,41,4,1,2.0,0.0,h
+S2324-G1204,1,01:58,SAC,,NOP,,J. McGee,SAC,McGee STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1204,1,00:51,SAC,,NOP,,J. McGee,SAC,SUB: Vezenkov FOR McGee,Substitution,,0,0,0,0,,,h
+S2324-G1228,1,02:31,PHX,,SAC,,J. McGee,SAC,McGee S.FOUL (P1.T4) (D.Collins),Foul,Shooting,0,0,0,0,,,v
+S2324-G1228,1,01:17,PHX,,SAC,,J. McGee,SAC,McGee REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1228,2,08:24,PHX,,SAC,,J. McGee,SAC,SUB: Sabonis FOR McGee,Substitution,,0,0,0,0,,,v
+S2324-G0212,1,02:05,DAL,28.0,SAC,33.0,J. McGee,SAC,McGee 2' Alley Oop Layup (2 PTS) (Fox 3 AST),Made Shot,Alley Oop Layup shot,-16,11,2,1,2.0,2.0,v
+S2324-G0212,2,11:09,DAL,,SAC,,J. McGee,SAC,McGee REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0212,2,11:03,DAL,,SAC,,J. McGee,SAC,McGee Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0212,2,11:01,DAL,,SAC,,J. McGee,SAC,McGee S.FOUL (P1.T1) (E.Malloy),Foul,Shooting,0,0,0,0,,,v
+S2324-G0212,2,10:58,DAL,,SAC,,J. McGee,SAC,McGee REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0212,2,10:39,DAL,,SAC,,J. McGee,SAC,McGee STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0212,2,10:24,DAL,,SAC,,J. McGee,SAC,McGee REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0212,2,09:21,DAL,40.0,SAC,43.0,J. McGee,SAC,McGee Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0212,2,09:21,DAL,40.0,SAC,44.0,J. McGee,SAC,McGee Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0212,2,08:36,DAL,,SAC,,J. McGee,SAC,MISS McGee 9' Hook Shot,Missed Shot,Hook Shot,-76,52,9,1,2.0,0.0,v
+S2324-G0212,2,08:35,DAL,,SAC,,J. McGee,SAC,SUB: Sabonis FOR McGee,Substitution,,0,0,0,0,,,v
+S2324-G0212,4,11:45,DAL,,SAC,,J. McGee,SAC,McGee REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0212,4,10:31,DAL,98.0,SAC,112.0,J. McGee,SAC,McGee 1' Dunk (6 PTS) (Monk 3 AST),Made Shot,Dunk Shot,2,7,1,1,2.0,2.0,v
+S2324-G0212,4,09:47,DAL,,SAC,,J. McGee,SAC,McGee REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0212,4,09:20,DAL,,SAC,,J. McGee,SAC,McGee REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0212,4,08:54,DAL,,SAC,,J. McGee,SAC,McGee BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0212,4,08:49,DAL,,SAC,,J. McGee,SAC,McGee REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0212,4,08:40,DAL,,SAC,,J. McGee,SAC,MISS McGee 7' Driving Layup,Missed Shot,Driving Layup Shot,20,64,7,1,2.0,0.0,v
+S2324-G0212,4,08:32,DAL,,SAC,,J. McGee,SAC,SUB: Mitchell FOR McGee,Substitution,,0,0,0,0,,,v
+S2324-G1141,4,02:58,BKN,,SAC,,J. McGee,SAC,McGee REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1141,4,01:36,BKN,,SAC,,J. McGee,SAC,McGee REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1141,4,01:19,BKN,,SAC,,J. McGee,SAC,McGee STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G1141,4,00:14.200000,BKN,,SAC,,J. McGee,SAC,MISS McGee 29' 3PT Jump Shot,Missed Shot,Jump Shot,-126,263,29,1,3.0,0.0,v
+S2324-G0746,1,01:25,SAC,,DEN,,J. McGee,SAC,McGee S.FOUL (P1.T3) (J.Orr),Foul,Shooting,0,0,0,0,,,h
+S2324-G0746,1,01:22,SAC,,DEN,,J. McGee,SAC,McGee REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0087,1,00:30.300000,SAC,,GSW,,J. McGee,SAC,McGee REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0087,2,11:09,SAC,35.0,GSW,24.0,J. McGee,SAC,McGee 4' Alley Oop Dunk (2 PTS) (Monk 4 AST),Made Shot,Alley Oop Dunk Shot,-12,39,4,1,2.0,2.0,h
+S2324-G0087,2,10:36,SAC,,GSW,,J. McGee,SAC,McGee Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0087,2,10:24,SAC,,GSW,,J. McGee,SAC,McGee REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0087,2,08:42,SAC,,GSW,,J. McGee,SAC,MISS McGee 5' Alley Oop Dunk,Missed Shot,Alley Oop Dunk Shot,-1,52,5,1,2.0,0.0,h
+S2324-G0087,2,08:37,SAC,,GSW,,J. McGee,SAC,McGee REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0087,2,08:35,SAC,,GSW,,J. McGee,SAC,MISS McGee 5' Turnaround Bank Shot,Missed Shot,Turnaround Bank shot,-9,49,5,1,2.0,0.0,h
+S2324-G0087,2,08:01,SAC,,GSW,,J. McGee,SAC,SUB: Sabonis FOR McGee,Substitution,,0,0,0,0,,,h
+S2324-G0087,3,02:44,SAC,,GSW,,J. McGee,SAC,MISS McGee Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0087,3,02:44,SAC,77.0,GSW,84.0,J. McGee,SAC,McGee Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0087,3,01:17,SAC,79.0,GSW,94.0,J. McGee,SAC,McGee 5' Layup (5 PTS) (Fox 3 AST),Made Shot,Layup Shot,49,14,5,1,2.0,2.0,h
+S2324-G0087,3,01:17,SAC,,GSW,,J. McGee,SAC,MISS McGee Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2324-G0087,4,10:54,SAC,,GSW,,J. McGee,SAC,MISS McGee 13' Driving Hook Shot,Missed Shot,Driving Hook Shot,26,124,13,1,2.0,0.0,h
+S2324-G0087,4,10:51,SAC,,GSW,,J. McGee,SAC,McGee REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0087,4,10:50,SAC,,GSW,,J. McGee,SAC,McGee Bad Pass Turnover (P2.T13),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0087,4,10:23,SAC,86.0,GSW,101.0,J. McGee,SAC,McGee 4' Cutting Dunk Shot (7 PTS) (Fox 4 AST),Made Shot,Cutting Dunk Shot,22,31,4,1,2.0,2.0,h
+S2324-G0087,4,10:06,SAC,,GSW,,J. McGee,SAC,SUB: Sabonis FOR McGee,Substitution,,0,0,0,0,,,h
+S2324-G0290,1,01:08,SAC,,,,J. McGee,SAC,McGee L.B.FOUL (P1.PN) (K.Scott),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0290,1,00:44,SAC,,,,J. McGee,SAC,McGee Violation:Defensive Goaltending (M.Dagher),Violation,Defensive Goaltending,0,0,0,0,,,h
+S2324-G0290,1,00:32.200000,SAC,,,,J. McGee,SAC,Jump Ball (CC) McGee vs. Jordan: Tip to Braun,Jump Ball,Coach Challenge,0,0,0,0,,,h
+S2324-G0290,1,00:00.200000,SAC,,,,J. McGee,SAC,McGee REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0290,2,11:35,SAC,,,,J. McGee,SAC,McGee BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0290,2,10:02,SAC,,,,J. McGee,SAC,McGee BLOCK (2 BLK),,,0,0,0,0,,,h
+S2324-G0290,2,09:59,SAC,,,,J. McGee,SAC,McGee REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0290,2,08:46,SAC,,,,J. McGee,SAC,McGee REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0290,2,08:46,SAC,37.0,,34.0,J. McGee,SAC,McGee Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2324-G0290,2,08:27,SAC,,,,J. McGee,SAC,McGee REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0290,2,07:17,SAC,42.0,,34.0,J. McGee,SAC,McGee 1' Running Dunk (4 PTS) (Monk 2 AST),Made Shot,Running Dunk Shot,4,9,1,1,2.0,2.0,h
+S2324-G0290,2,07:04,SAC,,,,J. McGee,SAC,McGee P.FOUL (P2.T2) (K.Scott),Foul,Personal,0,0,0,0,,,h
+S2324-G0290,2,06:51,SAC,,,,J. McGee,SAC,McGee BLOCK (3 BLK),,,0,0,0,0,,,h
+S2324-G0290,2,06:28,SAC,46.0,,34.0,J. McGee,SAC,McGee 8' Hook Shot (6 PTS) (Fox 7 AST),Made Shot,Hook Shot,-10,79,8,1,2.0,2.0,h
+S2324-G0290,2,05:31,SAC,48.0,,38.0,J. McGee,SAC,McGee 2' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,-2,19,2,1,2.0,2.0,h
+S2324-G0290,2,05:23,SAC,,,,J. McGee,SAC,SUB: Sabonis FOR McGee,Substitution,,0,0,0,0,,,h
+S2324-G0290,3,01:46,SAC,,,,J. McGee,SAC,McGee P.FOUL (P3.PN) (E.Dalen),Foul,Personal,0,0,0,0,,,h
+S2324-G0290,3,00:45.100000,SAC,,,,J. McGee,SAC,Jump Ball McGee vs. Jokic: Tip to Lyles,Jump Ball,,0,0,0,0,,,h
+S2324-G0290,4,10:27,SAC,,,,J. McGee,SAC,SUB: Sabonis FOR McGee,Substitution,,0,0,0,0,,,h
+S2324-G0678,2,11:35,MIA,,SAC,,J. McGee,SAC,McGee REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0678,2,11:35,MIA,28.0,SAC,24.0,J. McGee,SAC,McGee Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2324-G0678,2,11:23,MIA,,SAC,,J. McGee,SAC,McGee REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0678,2,09:00,MIA,,SAC,,J. McGee,SAC,McGee Violation:Defensive Goaltending (D.Taylor),Violation,Defensive Goaltending,0,0,0,0,,,v
+S2324-G0678,2,08:37,MIA,,SAC,,J. McGee,SAC,McGee REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0678,2,08:11,MIA,,SAC,,J. McGee,SAC,SUB: Sabonis FOR McGee,Substitution,,0,0,0,0,,,v
+S2324-G0678,4,10:36,MIA,,SAC,,J. McGee,SAC,McGee REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0678,4,10:35,MIA,93.0,SAC,86.0,J. McGee,SAC,McGee 2' Tip Dunk Shot (4 PTS),Made Shot,Tip Dunk Shot,-5,16,2,1,2.0,2.0,v
+S2324-G0678,4,10:35,MIA,,SAC,,J. McGee,SAC,MISS McGee Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2324-G0678,4,09:25,MIA,,SAC,,J. McGee,SAC,MISS McGee 6' Driving Hook Shot,Missed Shot,Driving Hook Shot,53,15,6,1,2.0,0.0,v
+S2324-G0678,4,09:18,MIA,,SAC,,J. McGee,SAC,SUB: Sabonis FOR McGee,Substitution,,0,0,0,0,,,v
+S2324-G0072,2,10:54,UTA,,SAC,,J. McGee,SAC,McGee REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0072,2,07:51,UTA,38.0,SAC,48.0,J. McGee,SAC,McGee 3' Alley Oop Dunk (2 PTS) (Monk 4 AST),Made Shot,Alley Oop Dunk Shot,28,15,3,1,2.0,2.0,v
+S2324-G0072,2,07:29,UTA,,SAC,,J. McGee,SAC,SUB: Mitchell FOR McGee,Substitution,,0,0,0,0,,,v
+S2324-G0072,3,02:39,UTA,80.0,SAC,95.0,J. McGee,SAC,McGee 8' Hook Shot (4 PTS) (Duarte 1 AST),Made Shot,Hook Shot,82,21,8,1,2.0,2.0,v
+S2324-G0072,3,00:51.500000,UTA,82.0,SAC,100.0,J. McGee,SAC,McGee 6' Hook Shot (6 PTS),Made Shot,Hook Shot,56,28,6,1,2.0,2.0,v
+S2324-G0072,3,00:28.800000,UTA,,SAC,,J. McGee,SAC,McGee BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0072,4,10:54,UTA,87.0,SAC,110.0,J. McGee,SAC,McGee 4' Layup (8 PTS) (Monk 7 AST),Made Shot,Layup Shot,0,36,4,1,2.0,2.0,v
+S2324-G0072,4,09:11,UTA,,SAC,,J. McGee,SAC,SUB: Sabonis FOR McGee,Substitution,,0,0,0,0,,,v
+S2324-G0137,1,02:12,HOU,,SAC,,J. McGee,SAC,McGee REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0137,1,01:34,HOU,32.0,SAC,17.0,J. McGee,SAC,McGee 7' Cutting Layup Shot (2 PTS) (Monk 2 AST),Made Shot,Cutting Layup Shot,10,74,7,1,2.0,2.0,v
+S2324-G0137,1,00:02,HOU,,SAC,,J. McGee,SAC,McGee REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0137,1,00:02,HOU,,SAC,,J. McGee,SAC,MISS McGee Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2324-G0137,2,09:55,HOU,38.0,SAC,29.0,J. McGee,SAC,McGee 6' Driving Hook Shot (4 PTS),Made Shot,Driving Hook Shot,60,22,6,1,2.0,2.0,v
+S2324-G0137,2,09:55,HOU,38.0,SAC,30.0,J. McGee,SAC,McGee Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G0137,2,09:31,HOU,,SAC,,J. McGee,SAC,McGee REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0137,2,09:20,HOU,,SAC,,J. McGee,SAC,McGee REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0137,2,09:19,HOU,38.0,SAC,32.0,J. McGee,SAC,McGee 6' Putback Layup (7 PTS),Made Shot,Putback Layup Shot,58,-8,6,1,2.0,2.0,v
+S2324-G0137,2,09:19,HOU,38.0,SAC,33.0,J. McGee,SAC,McGee Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G0137,2,08:54,HOU,,SAC,,J. McGee,SAC,McGee Violation:Defensive Goaltending (C.Blair),Violation,Defensive Goaltending,0,0,0,0,,,v
+S2324-G0137,2,08:30,HOU,40.0,SAC,35.0,J. McGee,SAC,McGee 2' Dunk (10 PTS) (Monk 4 AST),Made Shot,Dunk Shot,-7,20,2,1,2.0,2.0,v
+S2324-G0137,2,05:53,HOU,,SAC,,J. McGee,SAC,MISS McGee 27' 3PT Jump Shot,Missed Shot,Jump Shot,2,274,27,1,3.0,0.0,v
+S2324-G0137,2,05:53,HOU,,SAC,,J. McGee,SAC,SUB: Sabonis FOR McGee,Substitution,,0,0,0,0,,,v
+S2324-G0137,3,01:25,HOU,,SAC,,J. McGee,SAC,McGee REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0137,3,00:51,HOU,,SAC,,J. McGee,SAC,MISS McGee 7' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,43,60,7,1,2.0,0.0,v
+S2324-G0137,3,00:20.500000,HOU,,SAC,,J. McGee,SAC,McGee REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0137,4,10:53,HOU,74.0,SAC,70.0,J. McGee,SAC,McGee 5' Alley Oop Dunk (12 PTS) (Monk 6 AST),Made Shot,Alley Oop Dunk Shot,-45,6,5,1,2.0,2.0,v
+S2324-G0137,4,09:21,HOU,,SAC,,J. McGee,SAC,MISS McGee 4' Alley Oop Dunk,Missed Shot,Alley Oop Dunk Shot,-20,31,4,1,2.0,0.0,v
+S2324-G0137,4,09:03,HOU,,SAC,,J. McGee,SAC,SUB: Mitchell FOR McGee,Substitution,,0,0,0,0,,,v

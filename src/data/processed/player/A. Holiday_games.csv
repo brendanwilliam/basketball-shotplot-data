@@ -1,0 +1,969 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2324-G0163,1,02:29,HOU,,LAL,,A. Holiday,HOU,SUB: Brooks FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0163,2,04:36,HOU,,LAL,,A. Holiday,HOU,MISS Holiday 6' Driving Layup,Missed Shot,Driving Layup Shot,50,25,6,1,2.0,0.0,h
+S2324-G0163,2,03:26,HOU,,LAL,,A. Holiday,HOU,SUB: VanVleet FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0163,3,05:26,HOU,,LAL,,A. Holiday,HOU,MISS Holiday 3PT Jump Shot,Missed Shot,Jump Shot,224,56,0,1,3.0,0.0,h
+S2324-G0163,3,00:12.800000,HOU,,LAL,,A. Holiday,HOU,SUB: Smith Jr. FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0163,4,10:29,HOU,,LAL,,A. Holiday,HOU,Holiday S.FOUL (P1.T1) (T.Maddox),Foul,Shooting,0,0,0,0,,,h
+S2324-G0163,4,10:04,HOU,,LAL,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0163,4,09:54,HOU,104.0,LAL,76.0,A. Holiday,HOU,Holiday 25' 3PT Step Back Jump Shot (3 PTS),Made Shot,Step Back Jump shot,-147,203,25,1,3.0,3.0,h
+S2324-G0163,4,08:50,HOU,109.0,LAL,78.0,A. Holiday,HOU,Holiday 16' Driving Floating Jump Shot (5 PTS),Made Shot,Driving Floating Jump Shot,16,157,16,1,2.0,2.0,h
+S2324-G0163,4,07:48,HOU,,LAL,,A. Holiday,HOU,Holiday P.FOUL (P2.T2) (T.Maddox),Foul,Personal,0,0,0,0,,,h
+S2324-G0163,4,05:49,HOU,115.0,LAL,84.0,A. Holiday,HOU,Holiday 12' Driving Floating Jump Shot (7 PTS),Made Shot,Driving Floating Jump Shot,61,109,12,1,2.0,2.0,h
+S2324-G0163,4,03:25,HOU,,LAL,,A. Holiday,HOU,Holiday S.FOUL (P3.T3) (R.Acosta),Foul,Shooting,0,0,0,0,,,h
+S2324-G0163,4,01:55,HOU,,LAL,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0163,4,01:24,HOU,,LAL,,A. Holiday,HOU,MISS Holiday 15' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-67,129,15,1,2.0,0.0,h
+S2324-G0122,3,02:36,HOU,,CHA,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0122,3,02:29,HOU,,CHA,,A. Holiday,HOU,Holiday Traveling Turnover (P1.T15),Turnover,Traveling,0,0,0,0,,,h
+S2324-G0122,4,10:37,HOU,,CHA,,A. Holiday,HOU,Holiday P.FOUL (P1.T2) (M.Kogut),Foul,Personal,0,0,0,0,,,h
+S2324-G0122,4,09:05,HOU,97.0,CHA,84.0,A. Holiday,HOU,Holiday 26' 3PT Jump Shot (3 PTS) (Brooks 4 AST),Made Shot,Jump Shot,82,242,26,1,3.0,3.0,h
+S2324-G0122,4,06:25,HOU,106.0,CHA,92.0,A. Holiday,HOU,Holiday 3PT Jump Shot (6 PTS) (VanVleet 10 AST),Made Shot,Jump Shot,232,34,0,1,3.0,3.0,h
+S2324-G0122,4,04:00,HOU,,CHA,,A. Holiday,HOU,SUB: VanVleet FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0509,1,01:45,MIA,,HOU,,A. Holiday,HOU,MISS Holiday 27' 3PT Jump Shot,Missed Shot,Jump Shot,154,226,27,1,3.0,0.0,v
+S2324-G0509,2,10:51,MIA,,HOU,,A. Holiday,HOU,Holiday STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0509,2,10:46,MIA,,HOU,,A. Holiday,HOU,MISS Holiday 27' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,53,260,27,1,3.0,0.0,v
+S2324-G0509,2,10:10,MIA,,HOU,,A. Holiday,HOU,MISS Holiday 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-123,227,26,1,3.0,0.0,v
+S2324-G0509,2,09:28,MIA,,HOU,,A. Holiday,HOU,SUB: VanVleet FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0509,2,00:55.600000,MIA,,HOU,,A. Holiday,HOU,Holiday P.FOUL (P1.PN) (R.Mott),Foul,Personal,0,0,0,0,,,v
+S2324-G0509,2,00:31.700000,MIA,59.0,HOU,56.0,A. Holiday,HOU,Holiday 25' 3PT Jump Shot (3 PTS) (VanVleet 4 AST),Made Shot,Jump Shot,237,77,25,1,3.0,3.0,v
+S2324-G0509,3,02:36,MIA,,HOU,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0509,3,02:17,MIA,,HOU,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0509,4,08:59,MIA,100.0,HOU,88.0,A. Holiday,HOU,Holiday Free Throw Technical (4 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,v
+S2324-G0509,4,08:30,MIA,103.0,HOU,90.0,A. Holiday,HOU,Holiday 10' Driving Floating Jump Shot (6 PTS),Made Shot,Driving Floating Jump Shot,0,97,10,1,2.0,2.0,v
+S2324-G0509,4,08:08,MIA,,HOU,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0509,4,08:08,MIA,103.0,HOU,91.0,A. Holiday,HOU,Holiday Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0509,4,08:08,MIA,103.0,HOU,92.0,A. Holiday,HOU,Holiday Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0509,4,07:32,MIA,,HOU,,A. Holiday,HOU,Holiday P.FOUL (P2.PN) (P.Ransom),Foul,Personal,0,0,0,0,,,v
+S2324-G0509,4,05:36,MIA,,HOU,,A. Holiday,HOU,MISS Holiday 25' 3PT Jump Shot,Missed Shot,Jump Shot,189,170,25,1,3.0,0.0,v
+S2324-G0509,4,03:19,MIA,,HOU,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0765,1,02:17,HOU,,NYK,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0765,1,02:08,HOU,24.0,NYK,20.0,A. Holiday,HOU,Holiday 27' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,97,248,27,1,3.0,3.0,h
+S2324-G0765,1,00:46.200000,HOU,,NYK,,A. Holiday,HOU,MISS Holiday 3' Driving Layup,Missed Shot,Driving Layup Shot,31,-4,3,1,2.0,0.0,h
+S2324-G0765,2,11:20,HOU,,NYK,,A. Holiday,HOU,Holiday P.FOUL (P1.T1) (J.Goble),Foul,Personal,0,0,0,0,,,h
+S2324-G0765,2,10:49,HOU,31.0,NYK,24.0,A. Holiday,HOU,Holiday 3' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,-26,12,3,1,2.0,2.0,h
+S2324-G0765,2,09:44,HOU,,NYK,,A. Holiday,HOU,MISS Holiday 4' Driving Layup,Missed Shot,Driving Layup Shot,39,15,4,1,2.0,0.0,h
+S2324-G0765,2,09:09,HOU,,NYK,,A. Holiday,HOU,MISS Holiday 24' 3PT Jump Shot,Missed Shot,Jump Shot,-237,52,24,1,3.0,0.0,h
+S2324-G0765,2,08:54,HOU,,NYK,,A. Holiday,HOU,SUB: Williams FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0765,3,12:00,HOU,,NYK,,A. Holiday,HOU,MISS Holiday Free Throw Technical,Free Throw,Free Throw Technical,0,0,0,0,1.0,0.0,h
+S2324-G0765,3,11:59,HOU,,NYK,,A. Holiday,HOU,SUB: Brooks FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0765,3,05:16,HOU,,NYK,,A. Holiday,HOU,MISS Holiday 16' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-85,141,16,1,2.0,0.0,h
+S2324-G0765,3,02:52,HOU,,NYK,,A. Holiday,HOU,MISS Holiday 26' 3PT Jump Shot,Missed Shot,Jump Shot,219,148,26,1,3.0,0.0,h
+S2324-G0765,3,01:25,HOU,,NYK,,A. Holiday,HOU,MISS Holiday 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-75,248,26,1,3.0,0.0,h
+S2324-G0765,3,01:04,HOU,,NYK,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0765,3,00:56.100000,HOU,71.0,NYK,69.0,A. Holiday,HOU,Holiday 4' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,34,17,4,1,2.0,2.0,h
+S2324-G0765,4,11:34,HOU,76.0,NYK,71.0,A. Holiday,HOU,Holiday 3' Running Dunk (9 PTS),Made Shot,Running Dunk Shot,12,24,3,1,2.0,2.0,h
+S2324-G0765,4,10:52,HOU,79.0,NYK,74.0,A. Holiday,HOU,Holiday 28' 3PT Jump Shot (12 PTS) (Smith Jr. 2 AST),Made Shot,Jump Shot,74,266,28,1,3.0,3.0,h
+S2324-G0765,4,10:14,HOU,81.0,NYK,76.0,A. Holiday,HOU,Holiday 4' Driving Floating Jump Shot (14 PTS),Made Shot,Driving Floating Jump Shot,-26,27,4,1,2.0,2.0,h
+S2324-G0765,4,09:17,HOU,85.0,NYK,76.0,A. Holiday,HOU,Holiday 2' Driving Layup (16 PTS),Made Shot,Driving Layup Shot,-17,17,2,1,2.0,2.0,h
+S2324-G0765,4,08:48,HOU,,NYK,,A. Holiday,HOU,Holiday S.FOUL (P2.T2) (E.Malloy),Foul,Shooting,0,0,0,0,,,h
+S2324-G0765,4,07:59,HOU,,NYK,,A. Holiday,HOU,MISS Holiday 29' 3PT Jump Shot,Missed Shot,Jump Shot,175,227,29,1,3.0,0.0,h
+S2324-G0765,4,07:01,HOU,,NYK,,A. Holiday,HOU,Holiday S.FOUL (P3.T4) (A.Nagy),Foul,Shooting,0,0,0,0,,,h
+S2324-G0765,4,03:02,HOU,,NYK,,A. Holiday,HOU,SUB: Ja. Green FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0765,4,00:01.200000,HOU,,NYK,,A. Holiday,HOU,Holiday REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0765,4,00:00.300000,HOU,104.0,NYK,103.0,A. Holiday,HOU,Holiday Free Throw 1 of 3 (17 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,h
+S2324-G0765,4,00:00.300000,HOU,105.0,NYK,103.0,A. Holiday,HOU,Holiday Free Throw 2 of 3 (18 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,h
+S2324-G0765,4,00:00.300000,HOU,,NYK,,A. Holiday,HOU,MISS Holiday Free Throw 3 of 3,Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,0.0,h
+S2324-G0231,1,05:16,HOU,,MEM,,A. Holiday,HOU,MISS Holiday 27' 3PT Jump Shot,Missed Shot,Jump Shot,-92,255,27,1,3.0,0.0,h
+S2324-G0231,1,04:19,HOU,13.0,MEM,20.0,A. Holiday,HOU,Holiday 2' Driving Reverse Layup (2 PTS),Made Shot,Driving Reverse Layup Shot,21,9,2,1,2.0,2.0,h
+S2324-G0231,1,03:53,HOU,,MEM,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0231,1,02:01,HOU,,MEM,,A. Holiday,HOU,Holiday P.FOUL (P1.PN) (B.Kennedy),Foul,Personal,0,0,0,0,,,h
+S2324-G0231,1,00:25.400000,HOU,,MEM,,A. Holiday,HOU,Holiday P.FOUL (P2.PN) (C.Washington),Foul,Personal,0,0,0,0,,,h
+S2324-G0231,3,05:22,HOU,,MEM,,A. Holiday,HOU,MISS Holiday 27' 3PT Jump Shot,Missed Shot,Jump Shot,169,207,27,1,3.0,0.0,h
+S2324-G0231,3,04:29,HOU,,MEM,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0231,3,03:03,HOU,,MEM,,A. Holiday,HOU,MISS Holiday 3PT Jump Shot,Missed Shot,Jump Shot,230,16,0,1,3.0,0.0,h
+S2324-G0231,3,02:20,HOU,69.0,MEM,65.0,A. Holiday,HOU,Holiday 27' 3PT Jump Shot (5 PTS) (VanVleet 4 AST),Made Shot,Jump Shot,-174,205,27,1,3.0,3.0,h
+S2324-G0231,3,01:43,HOU,,MEM,,A. Holiday,HOU,Holiday P.FOUL (P3.T3) (N.Green),Foul,Personal,0,0,0,0,,,h
+S2324-G0231,4,01:31,HOU,,MEM,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0231,4,01:24,HOU,109.0,MEM,85.0,A. Holiday,HOU,Holiday 3' Floating Jump Shot (7 PTS),Made Shot,Floating Jump shot,-23,20,3,1,2.0,2.0,h
+S2324-G0929,1,00:36.300000,SAC,,HOU,,A. Holiday,HOU,MISS Holiday 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-40,96,10,1,2.0,0.0,v
+S2324-G0929,1,00:01.200000,SAC,,HOU,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0929,2,09:40,SAC,,HOU,,A. Holiday,HOU,MISS Holiday 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,165,30,17,1,2.0,0.0,v
+S2324-G0929,2,08:20,SAC,,HOU,,A. Holiday,HOU,SUB: VanVleet FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0929,4,00:36.900000,SAC,,HOU,,A. Holiday,HOU,SUB: Je. Green FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0841,1,01:03,OKC,,HOU,,A. Holiday,HOU,MISS Holiday 3PT Jump Shot,Missed Shot,Jump Shot,-230,-26,0,1,3.0,0.0,v
+S2324-G0841,1,00:14.800000,OKC,26.0,HOU,29.0,A. Holiday,HOU,Holiday 1' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,7,11,1,1,2.0,2.0,v
+S2324-G0841,2,10:17,OKC,,HOU,,A. Holiday,HOU,MISS Holiday 2' Driving Layup,Missed Shot,Driving Layup Shot,-22,-4,2,1,2.0,0.0,v
+S2324-G0841,2,09:48,OKC,,HOU,,A. Holiday,HOU,MISS Holiday 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,27,40,5,1,2.0,0.0,v
+S2324-G0841,2,09:47,OKC,,HOU,,A. Holiday,HOU,Holiday REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0841,2,09:45,OKC,33.0,HOU,33.0,A. Holiday,HOU,Holiday 1' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,1,6,1,1,2.0,2.0,v
+S2324-G0841,2,09:30,OKC,,HOU,,A. Holiday,HOU,Holiday BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0841,2,04:24,OKC,,HOU,,A. Holiday,HOU,MISS Holiday 15' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,76,130,15,1,2.0,0.0,v
+S2324-G0841,2,04:13,OKC,,HOU,,A. Holiday,HOU,Holiday S.FOUL (P1.T1) (J.Tiven),Foul,Shooting,0,0,0,0,,,v
+S2324-G0841,2,04:13,OKC,,HOU,,A. Holiday,HOU,SUB: Ja. Green FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0841,3,00:02.100000,OKC,,HOU,,A. Holiday,HOU,MISS Holiday 37' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,134,349,37,1,3.0,0.0,v
+S2324-G0841,4,11:50,OKC,,HOU,,A. Holiday,HOU,MISS Holiday 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,65,275,28,1,3.0,0.0,v
+S2324-G0841,4,09:16,OKC,,HOU,,A. Holiday,HOU,SUB: VanVleet FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0841,4,01:54,OKC,107.0,HOU,92.0,A. Holiday,HOU,Holiday 26' 3PT Jump Shot (7 PTS) (Whitmore 1 AST),Made Shot,Jump Shot,-211,148,26,1,3.0,3.0,v
+S2324-G0841,4,00:50.100000,OKC,112.0,HOU,95.0,A. Holiday,HOU,Holiday 3PT Jump Shot (10 PTS) (Tate 1 AST),Made Shot,Jump Shot,222,32,0,1,3.0,3.0,v
+S2324-G0011,1,05:09,HOU,,NOP,,A. Holiday,HOU,MISS Holiday 26' 3PT Jump Shot,Missed Shot,Jump Shot,195,179,26,1,3.0,0.0,h
+S2324-G0011,1,00:50.200000,HOU,25.0,NOP,29.0,A. Holiday,HOU,Holiday Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0011,1,00:50.200000,HOU,26.0,NOP,29.0,A. Holiday,HOU,Holiday Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0011,2,05:24,HOU,44.0,NOP,40.0,A. Holiday,HOU,Holiday 26' 3PT Jump Shot (5 PTS) (Ja. Green 1 AST),Made Shot,Jump Shot,174,192,26,1,3.0,3.0,h
+S2324-G0011,2,02:40,HOU,,NOP,,A. Holiday,HOU,SUB: VanVleet FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0011,3,04:46,HOU,,NOP,,A. Holiday,HOU,Holiday STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0011,3,02:29,HOU,,NOP,,A. Holiday,HOU,MISS Holiday 26' 3PT Jump Shot,Missed Shot,Jump Shot,-167,200,26,1,3.0,0.0,h
+S2324-G0011,3,01:53,HOU,,NOP,,A. Holiday,HOU,MISS Holiday 2' Reverse Layup,Missed Shot,Reverse Layup Shot,4,21,2,1,2.0,0.0,h
+S2324-G0011,3,01:27,HOU,,NOP,,A. Holiday,HOU,MISS Holiday 5' Driving Layup,Missed Shot,Driving Layup Shot,-43,33,5,1,2.0,0.0,h
+S2324-G0314,1,03:57,HOU,,MEM,,A. Holiday,HOU,MISS Holiday 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-116,151,19,1,2.0,0.0,h
+S2324-G0314,1,02:40,HOU,,MEM,,A. Holiday,HOU,MISS Holiday 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,109,129,17,1,2.0,0.0,h
+S2324-G0314,1,00:47.700000,HOU,,MEM,,A. Holiday,HOU,Holiday S.FOUL (P1.T3) (D.Guthrie),Foul,Shooting,0,0,0,0,,,h
+S2324-G0314,2,00:41.600000,HOU,,MEM,,A. Holiday,HOU,MISS Holiday 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-16,111,11,1,2.0,0.0,h
+S2324-G0314,3,03:46,HOU,75.0,MEM,70.0,A. Holiday,HOU,Holiday 28' 3PT Jump Shot (3 PTS) (Tate 3 AST),Made Shot,Jump Shot,-119,248,28,1,3.0,3.0,h
+S2324-G0314,3,02:15,HOU,,MEM,,A. Holiday,HOU,MISS Holiday 27' 3PT Jump Shot,Missed Shot,Jump Shot,-40,267,27,1,3.0,0.0,h
+S2324-G0314,3,01:15,HOU,,MEM,,A. Holiday,HOU,Holiday BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0314,3,00:38.100000,HOU,,MEM,,A. Holiday,HOU,Holiday Lost Ball Turnover (P1.T14),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0314,3,00:06.500000,HOU,82.0,MEM,78.0,A. Holiday,HOU,Holiday 26' 3PT Jump Shot (6 PTS) (Eason 1 AST),Made Shot,Jump Shot,-129,231,26,1,3.0,3.0,h
+S2324-G0314,3,00:00.900000,HOU,,MEM,,A. Holiday,HOU,Holiday S.FOUL (P2.PN) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,h
+S2324-G0744,1,03:13,TOR,,HOU,,A. Holiday,HOU,MISS Holiday 27' 3PT Jump Shot,Missed Shot,Jump Shot,-173,209,27,1,3.0,0.0,v
+S2324-G0744,1,02:41,TOR,25.0,HOU,14.0,A. Holiday,HOU,Holiday 16' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,97,126,16,1,2.0,2.0,v
+S2324-G0744,1,01:23,TOR,,HOU,,A. Holiday,HOU,Holiday Lost Ball Turnover (P1.T7),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0744,2,10:34,TOR,,HOU,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0744,2,09:02,TOR,36.0,HOU,38.0,A. Holiday,HOU,Holiday 13' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,-15,125,13,1,2.0,2.0,v
+S2324-G0744,2,08:17,TOR,,HOU,,A. Holiday,HOU,MISS Holiday 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-138,243,28,1,3.0,0.0,v
+S2324-G0744,2,07:17,TOR,,HOU,,A. Holiday,HOU,Holiday S.FOUL (P1.T1) (C.Kirkland),Foul,Shooting,0,0,0,0,,,v
+S2324-G0744,2,06:05,TOR,,HOU,,A. Holiday,HOU,SUB: Thompson FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0744,2,02:47,TOR,,HOU,,A. Holiday,HOU,MISS Holiday 28' 3PT Jump Shot,Missed Shot,Jump Shot,-18,284,28,1,3.0,0.0,v
+S2324-G0744,2,01:40,TOR,,HOU,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0744,2,01:12,TOR,,HOU,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0744,2,01:01,TOR,,HOU,,A. Holiday,HOU,MISS Holiday 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-42,25,5,1,2.0,0.0,v
+S2324-G0744,3,05:37,TOR,78.0,HOU,61.0,A. Holiday,HOU,Holiday 24' 3PT Jump Shot (7 PTS) (Brooks 1 AST),Made Shot,Jump Shot,239,51,24,1,3.0,3.0,v
+S2324-G0744,3,03:47,TOR,81.0,HOU,67.0,A. Holiday,HOU,Holiday 3PT Jump Shot (10 PTS) (Brooks 2 AST),Made Shot,Jump Shot,-229,-16,0,1,3.0,3.0,v
+S2324-G0744,3,01:45,TOR,,HOU,,A. Holiday,HOU,MISS Holiday 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,6,262,26,1,3.0,0.0,v
+S2324-G0744,4,10:56,TOR,,HOU,,A. Holiday,HOU,Holiday S.FOUL (P2.T1) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,v
+S2324-G0744,4,07:36,TOR,,HOU,,A. Holiday,HOU,MISS Holiday 5' Driving Hook Shot,Missed Shot,Driving Hook Shot,-44,21,5,1,2.0,0.0,v
+S2324-G0744,4,07:22,TOR,,HOU,,A. Holiday,HOU,SUB: Thompson FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0744,4,02:59,TOR,,HOU,,A. Holiday,HOU,MISS Holiday 25' 3PT Jump Shot,Missed Shot,Jump Shot,-138,208,25,1,3.0,0.0,v
+S2324-G0744,4,00:30.300000,TOR,105.0,HOU,101.0,A. Holiday,HOU,Holiday 4' Driving Finger Roll Layup (12 PTS),Made Shot,Driving Finger Roll Layup Shot,9,34,4,1,2.0,2.0,v
+S2324-G0744,4,00:29.600000,TOR,,HOU,,A. Holiday,HOU,Holiday STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0744,4,00:05.700000,TOR,,HOU,,A. Holiday,HOU,MISS Holiday 28' 3PT Jump Shot,Missed Shot,Jump Shot,165,222,28,1,3.0,0.0,v
+S2324-G1006,1,02:03,HOU,31.0,CHI,24.0,A. Holiday,HOU,Holiday 24' 3PT Jump Shot (3 PTS) (Landale 2 AST),Made Shot,Jump Shot,-138,200,24,1,3.0,3.0,h
+S2324-G1006,1,01:48,HOU,,CHI,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1006,1,01:43,HOU,34.0,CHI,24.0,A. Holiday,HOU,Holiday 28' 3PT Running Pull-Up Jump Shot (6 PTS),Made Shot,Running Pull-Up Jump Shot,2,278,28,1,3.0,3.0,h
+S2324-G1006,1,01:24,HOU,36.0,CHI,24.0,A. Holiday,HOU,Holiday 11' Driving Floating Jump Shot (8 PTS),Made Shot,Driving Floating Jump Shot,-75,79,11,1,2.0,2.0,h
+S2324-G1006,1,00:56.100000,HOU,,CHI,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1006,1,00:44.300000,HOU,,CHI,,A. Holiday,HOU,Holiday S.FOUL (P1.T4) (C.Blair),Foul,Shooting,0,0,0,0,,,h
+S2324-G1006,1,00:02.800000,HOU,,CHI,,A. Holiday,HOU,Holiday Inbound Turnover (P1.T4),Turnover,Inbound Turnover,0,0,0,0,,,h
+S2324-G1006,2,09:01,HOU,,CHI,,A. Holiday,HOU,MISS Holiday 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,261,26,1,3.0,0.0,h
+S2324-G1006,2,07:15,HOU,,CHI,,A. Holiday,HOU,SUB: Brooks FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G1006,3,00:39.700000,HOU,105.0,CHI,91.0,A. Holiday,HOU,Holiday 3PT Jump Shot (11 PTS) (VanVleet 9 AST),Made Shot,Jump Shot,-229,10,0,1,3.0,3.0,h
+S2324-G1006,4,09:28,HOU,,CHI,,A. Holiday,HOU,Holiday P.FOUL (P2.T1) (B.Barnaky),Foul,Personal,0,0,0,0,,,h
+S2324-G1006,4,07:45,HOU,112.0,CHI,103.0,A. Holiday,HOU,Holiday 2' Driving Finger Roll Layup (13 PTS),Made Shot,Driving Finger Roll Layup Shot,16,10,2,1,2.0,2.0,h
+S2324-G1006,4,05:35,HOU,,CHI,,A. Holiday,HOU,Holiday STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1006,4,05:32,HOU,120.0,CHI,103.0,A. Holiday,HOU,Holiday Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1006,4,05:32,HOU,121.0,CHI,103.0,A. Holiday,HOU,Holiday Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1006,4,03:33,HOU,,CHI,,A. Holiday,HOU,Holiday REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1006,4,02:48,HOU,,CHI,,A. Holiday,HOU,SUB: Landale FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0573,3,01:52,NYK,,HOU,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0066,4,03:36,ORL,,HOU,,A. Holiday,HOU,MISS Holiday 3' Driving Layup,Missed Shot,Driving Layup Shot,-21,16,3,1,2.0,0.0,v
+S2324-G0066,4,02:22,ORL,,HOU,,A. Holiday,HOU,MISS Holiday 3' Driving Layup,Missed Shot,Driving Layup Shot,22,26,3,1,2.0,0.0,v
+S2324-G0066,4,02:11,ORL,,HOU,,A. Holiday,HOU,MISS Holiday 25' 3PT Jump Shot,Missed Shot,Jump Shot,102,228,25,1,3.0,0.0,v
+S2324-G0709,1,03:05,MIN,25.0,HOU,19.0,A. Holiday,HOU,Holiday 18' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,0,183,18,1,2.0,2.0,v
+S2324-G0709,1,01:01,MIN,,HOU,,A. Holiday,HOU,SUB: Brooks FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0709,2,07:49,MIN,,HOU,,A. Holiday,HOU,Holiday STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0709,2,06:51,MIN,,HOU,,A. Holiday,HOU,SUB: VanVleet FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0709,3,00:19.800000,MIN,,HOU,,A. Holiday,HOU,Holiday STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0709,3,00:15.500000,MIN,80.0,HOU,63.0,A. Holiday,HOU,Holiday Free Throw Technical (3 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,v
+S2324-G0709,4,09:55,MIN,,HOU,,A. Holiday,HOU,MISS Holiday 25' 3PT Jump Shot,Missed Shot,Jump Shot,-173,186,25,1,3.0,0.0,v
+S2324-G0709,4,07:49,MIN,,HOU,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0709,4,07:33,MIN,,HOU,,A. Holiday,HOU,Holiday S.FOUL (P1.T4) (G.Petraitis),Foul,Shooting,0,0,0,0,,,v
+S2324-G0709,4,07:12,MIN,,HOU,,A. Holiday,HOU,Holiday P.FOUL (P2.PN) (S.Wright),Foul,Personal,0,0,0,0,,,v
+S2324-G0709,4,07:12,MIN,,HOU,,A. Holiday,HOU,SUB: VanVleet FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0709,4,03:58,MIN,,HOU,,A. Holiday,HOU,MISS Holiday 15' Floating Jump Shot,Missed Shot,Floating Jump shot,-97,118,15,1,2.0,0.0,v
+S2324-G0709,4,02:58,MIN,,HOU,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0709,4,02:55,MIN,103.0,HOU,76.0,A. Holiday,HOU,Holiday Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0709,4,02:55,MIN,103.0,HOU,77.0,A. Holiday,HOU,Holiday Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0709,4,02:09,MIN,,HOU,,A. Holiday,HOU,Holiday Offensive Charge Foul (P3) (G.Petraitis),Foul,Offensive Charge,0,0,0,0,,,v
+S2324-G0709,4,02:09,MIN,,HOU,,A. Holiday,HOU,Holiday Offensive Foul Turnover (P1.T11),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G1113,2,10:31,HOU,,GSW,,A. Holiday,HOU,Holiday P.FOUL (P1.T2) (T.Ford),Foul,Personal,0,0,0,0,,,h
+S2324-G1113,2,10:11,HOU,29.0,GSW,38.0,A. Holiday,HOU,Holiday 26' 3PT Jump Shot (3 PTS),Made Shot,Jump Shot,0,258,26,1,3.0,3.0,h
+S2324-G1113,2,06:27,HOU,,GSW,,A. Holiday,HOU,SUB: Brooks FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G1113,3,03:59,HOU,,GSW,,A. Holiday,HOU,SUB: Thompson FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G1113,4,10:59,HOU,88.0,GSW,104.0,A. Holiday,HOU,Holiday 25' 3PT Jump Shot (6 PTS) (VanVleet 8 AST),Made Shot,Jump Shot,188,170,25,1,3.0,3.0,h
+S2324-G1113,4,08:32,HOU,,GSW,,A. Holiday,HOU,MISS Holiday 3PT Jump Shot,Missed Shot,Jump Shot,234,5,0,1,3.0,0.0,h
+S2324-G1113,4,06:12,HOU,,GSW,,A. Holiday,HOU,SUB: Smith Jr. FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G1113,4,04:20,HOU,,GSW,,A. Holiday,HOU,MISS Holiday 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-107,233,26,1,3.0,0.0,h
+S2324-G1113,4,01:05,HOU,,GSW,,A. Holiday,HOU,Holiday P.FOUL (P2.PN) (N.Sago),Foul,Personal,0,0,0,0,,,h
+S2324-G0485,2,09:27,HOU,,MIN,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0485,2,08:22,HOU,32.0,MIN,39.0,A. Holiday,HOU,Holiday 3PT Jump Shot (3 PTS) (VanVleet 5 AST),Made Shot,Jump Shot,222,5,0,1,3.0,3.0,h
+S2324-G0485,2,07:55,HOU,,MIN,,A. Holiday,HOU,SUB: Tate FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0485,3,00:00.800000,HOU,72.0,MIN,84.0,A. Holiday,HOU,Holiday 4' Driving Finger Roll Layup (5 PTS) (Thompson 1 AST),Made Shot,Driving Finger Roll Layup Shot,23,35,4,1,2.0,2.0,h
+S2324-G0485,4,10:15,HOU,,MIN,,A. Holiday,HOU,MISS Holiday 3' Driving Layup,Missed Shot,Driving Layup Shot,21,26,3,1,2.0,0.0,h
+S2324-G0485,4,08:54,HOU,,MIN,,A. Holiday,HOU,SUB: Ja. Green FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0485,4,04:18,HOU,,MIN,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0485,4,04:05,HOU,,MIN,,A. Holiday,HOU,SUB: Marjanovic FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0485,4,02:38,HOU,,MIN,,A. Holiday,HOU,SUB: Whitmore FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0153,1,05:28,HOU,15.0,SAC,13.0,A. Holiday,HOU,Holiday 5' Driving Layup (2 PTS) (VanVleet 2 AST),Made Shot,Driving Layup Shot,-38,29,5,1,2.0,2.0,h
+S2324-G0153,1,05:16,HOU,,SAC,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0153,1,02:10,HOU,,SAC,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0153,2,09:40,HOU,,SAC,,A. Holiday,HOU,Holiday STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0153,2,09:38,HOU,40.0,SAC,27.0,A. Holiday,HOU,Holiday 2' Running Layup (4 PTS),Made Shot,Running Layup Shot,16,1,2,1,2.0,2.0,h
+S2324-G0153,2,09:38,HOU,41.0,SAC,27.0,A. Holiday,HOU,Holiday Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G0153,2,07:48,HOU,,SAC,,A. Holiday,HOU,SUB: VanVleet FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0153,3,04:03,HOU,86.0,SAC,54.0,A. Holiday,HOU,Holiday 3' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,-26,21,3,1,2.0,2.0,h
+S2324-G0153,3,03:11,HOU,,SAC,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0153,3,01:40,HOU,,SAC,,A. Holiday,HOU,Holiday P.FOUL (P1.PN) (P.Fraher),Foul,Personal,0,0,0,0,,,h
+S2324-G0153,4,11:39,HOU,99.0,SAC,60.0,A. Holiday,HOU,Holiday 3' Driving Reverse Layup (9 PTS) (Bullock Jr. 1 AST),Made Shot,Driving Reverse Layup Shot,31,16,3,1,2.0,2.0,h
+S2324-G0153,4,11:04,HOU,101.0,SAC,63.0,A. Holiday,HOU,Holiday 6' Driving Floating Jump Shot (11 PTS),Made Shot,Driving Floating Jump Shot,-23,56,6,1,2.0,2.0,h
+S2324-G0153,4,09:26,HOU,107.0,SAC,67.0,A. Holiday,HOU,Holiday 8' Turnaround Fadeaway (13 PTS),Made Shot,Turnaround Fadeaway shot,83,17,8,1,2.0,2.0,h
+S2324-G0153,4,08:27,HOU,,SAC,,A. Holiday,HOU,Holiday Lost Ball Turnover (P1.T8),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0153,4,08:10,HOU,,SAC,,A. Holiday,HOU,Holiday Out of Bounds Lost Ball Turnover (P2.T9),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2324-G0153,4,06:30,HOU,,SAC,,A. Holiday,HOU,SUB: Marjanovic FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0692,4,11:31,HOU,,TOR,,A. Holiday,HOU,MISS Holiday 3PT Jump Shot,Missed Shot,Jump Shot,223,-6,0,1,3.0,0.0,h
+S2324-G0692,4,09:19,HOU,109.0,TOR,80.0,A. Holiday,HOU,Holiday 26' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,82,246,26,1,3.0,3.0,h
+S2324-G0692,4,08:59,HOU,,TOR,,A. Holiday,HOU,Holiday Bad Pass Turnover (P1.T11),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0692,4,08:51,HOU,,TOR,,A. Holiday,HOU,Holiday P.FOUL (P1.T1) (J.Schroeder),Foul,Personal,0,0,0,0,,,h
+S2324-G0692,4,08:24,HOU,,TOR,,A. Holiday,HOU,Holiday Lost Ball Turnover (P2.T12),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0692,4,08:20,HOU,,TOR,,A. Holiday,HOU,Holiday STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1083,1,01:30,HOU,,DAL,,A. Holiday,HOU,MISS Holiday 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-126,227,26,1,3.0,0.0,h
+S2324-G1083,2,08:52,HOU,,DAL,,A. Holiday,HOU,MISS Holiday 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-4,263,26,1,3.0,0.0,h
+S2324-G1083,2,07:13,HOU,,DAL,,A. Holiday,HOU,MISS Holiday 14' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-65,125,14,1,2.0,0.0,h
+S2324-G1083,2,06:51,HOU,,DAL,,A. Holiday,HOU,SUB: Ja. Green FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G1083,3,02:06,HOU,67.0,DAL,89.0,A. Holiday,HOU,Holiday 17' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,-76,156,17,1,2.0,2.0,h
+S2324-G1083,3,01:36,HOU,,DAL,,A. Holiday,HOU,Holiday REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1083,3,00:54.700000,HOU,,DAL,,A. Holiday,HOU,MISS Holiday 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-16,117,12,1,2.0,0.0,h
+S2324-G1083,3,00:41.700000,HOU,,DAL,,A. Holiday,HOU,Holiday STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1083,3,00:39.500000,HOU,71.0,DAL,89.0,A. Holiday,HOU,Holiday 1' Running Finger Roll Layup (4 PTS) (Landale 1 AST),Made Shot,Running Finger Roll Layup Shot,9,8,1,1,2.0,2.0,h
+S2324-G1083,3,00:00.500000,HOU,73.0,DAL,91.0,A. Holiday,HOU,Holiday 11' Floating Jump Shot (6 PTS) (VanVleet 6 AST),Made Shot,Floating Jump shot,6,113,11,1,2.0,2.0,h
+S2324-G1083,4,11:26,HOU,76.0,DAL,93.0,A. Holiday,HOU,Holiday 26' 3PT Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,162,208,26,1,3.0,3.0,h
+S2324-G1083,4,06:02,HOU,,DAL,,A. Holiday,HOU,Holiday REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1083,4,05:56,HOU,95.0,DAL,111.0,A. Holiday,HOU,Holiday 2' Running Finger Roll Layup (11 PTS),Made Shot,Running Finger Roll Layup Shot,17,13,2,1,2.0,2.0,h
+S2324-G1083,4,04:29,HOU,,DAL,,A. Holiday,HOU,Holiday P.FOUL (P1.T3) (G.Petraitis),Foul,Personal,0,0,0,0,,,h
+S2324-G1083,4,04:14,HOU,96.0,DAL,116.0,A. Holiday,HOU,Holiday Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1083,4,04:14,HOU,97.0,DAL,116.0,A. Holiday,HOU,Holiday Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1083,4,03:56,HOU,,DAL,,A. Holiday,HOU,Holiday REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1083,4,03:51,HOU,100.0,DAL,116.0,A. Holiday,HOU,Holiday 24' 3PT Pullup Jump Shot (16 PTS),Made Shot,Pullup Jump shot,-160,180,24,1,3.0,3.0,h
+S2324-G1083,4,01:59,HOU,,DAL,,A. Holiday,HOU,Holiday Bad Pass Turnover (P1.T12),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G1083,4,01:58,HOU,,DAL,,A. Holiday,HOU,Holiday P.FOUL (P2.T4) (D.Guthrie),Foul,Personal,0,0,0,0,,,h
+S2324-G1083,4,01:41,HOU,,DAL,,A. Holiday,HOU,Holiday REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1083,4,01:22,HOU,,DAL,,A. Holiday,HOU,Holiday REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1083,4,00:56.500000,HOU,,DAL,,A. Holiday,HOU,Holiday STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G1083,4,00:51.200000,HOU,,DAL,,A. Holiday,HOU,MISS Holiday 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,141,214,26,1,3.0,0.0,h
+S2324-G0942,1,01:45,SAS,28.0,HOU,24.0,A. Holiday,HOU,Holiday 12' Turnaround Fadeaway (2 PTS),Made Shot,Turnaround Fadeaway shot,-92,70,12,1,2.0,2.0,v
+S2324-G0942,1,01:36,SAS,,HOU,,A. Holiday,HOU,Holiday S.FOUL (P1.T3) (Z.Zarba),Foul,Shooting,0,0,0,0,,,v
+S2324-G0942,2,11:47,SAS,,HOU,,A. Holiday,HOU,MISS Holiday 30' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,87,284,30,1,3.0,0.0,v
+S2324-G0942,2,10:45,SAS,,HOU,,A. Holiday,HOU,MISS Holiday 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,7,146,15,1,2.0,0.0,v
+S2324-G0942,2,10:27,SAS,30.0,HOU,26.0,A. Holiday,HOU,Holiday 2' Running Layup (4 PTS),Made Shot,Running Layup Shot,-13,11,2,1,2.0,2.0,v
+S2324-G0942,2,08:32,SAS,,HOU,,A. Holiday,HOU,SUB: VanVleet FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0942,3,00:26.300000,SAS,,HOU,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0942,3,00:11.300000,SAS,72.0,HOU,76.0,A. Holiday,HOU,Holiday 10' Step Back Jump Shot (6 PTS),Made Shot,Step Back Jump shot,96,21,10,1,2.0,2.0,v
+S2324-G0942,4,10:26,SAS,,HOU,,A. Holiday,HOU,MISS Holiday 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-16,0,2,1,2.0,0.0,v
+S2324-G0942,4,10:10,SAS,,HOU,,A. Holiday,HOU,SUB: VanVleet FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0942,4,00:04.100000,SAS,100.0,HOU,102.0,A. Holiday,HOU,Holiday Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0942,4,00:04.100000,SAS,100.0,HOU,103.0,A. Holiday,HOU,Holiday Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0942,4,00:03.500000,SAS,,HOU,,A. Holiday,HOU,SUB: Landale FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0542,3,01:14,BOS,109.0,HOU,84.0,A. Holiday,HOU,Holiday 5' Driving Reverse Layup (2 PTS),Made Shot,Driving Reverse Layup Shot,-40,26,5,1,2.0,2.0,v
+S2324-G0542,4,10:39,BOS,,HOU,,A. Holiday,HOU,MISS Holiday 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-163,208,26,1,3.0,0.0,v
+S2324-G0542,4,10:21,BOS,117.0,HOU,90.0,A. Holiday,HOU,Holiday 4' Running Layup (4 PTS),Made Shot,Running Layup Shot,-27,26,4,1,2.0,2.0,v
+S2324-G0542,4,10:17,BOS,,HOU,,A. Holiday,HOU,MISS Holiday Free Throw Technical,Free Throw,Free Throw Technical,0,0,0,0,1.0,0.0,v
+S2324-G0542,4,10:17,BOS,117.0,HOU,91.0,A. Holiday,HOU,Holiday Free Throw Technical (5 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,v
+S2324-G0542,4,09:54,BOS,,HOU,,A. Holiday,HOU,Holiday Violation:Defensive Goaltending (C.Washington),Violation,Defensive Goaltending,0,0,0,0,,,v
+S2324-G0542,4,08:58,BOS,,HOU,,A. Holiday,HOU,MISS Holiday 16' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,77,136,16,1,2.0,0.0,v
+S2324-G0542,4,08:01,BOS,,HOU,,A. Holiday,HOU,MISS Holiday 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,159,219,27,1,3.0,0.0,v
+S2324-G0542,4,05:24,BOS,,HOU,,A. Holiday,HOU,MISS Holiday 27' 3PT Jump Shot,Missed Shot,Jump Shot,-173,204,27,1,3.0,0.0,v
+S2324-G0542,4,05:13,BOS,,HOU,,A. Holiday,HOU,SUB: Thompson FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G1168,3,07:59,UTA,,HOU,,A. Holiday,HOU,Holiday REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1168,3,06:02,UTA,,HOU,,A. Holiday,HOU,MISS Holiday 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-228,-8,0,1,3.0,0.0,v
+S2324-G1168,3,04:51,UTA,,HOU,,A. Holiday,HOU,MISS Holiday 25' 3PT Jump Shot,Missed Shot,Jump Shot,189,164,25,1,3.0,0.0,v
+S2324-G1168,3,04:49,UTA,,HOU,,A. Holiday,HOU,Holiday REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1168,3,04:47,UTA,84.0,HOU,86.0,A. Holiday,HOU,Holiday 24' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,240,-20,24,1,3.0,3.0,v
+S2324-G1168,3,04:29,UTA,84.0,HOU,89.0,A. Holiday,HOU,Holiday 25' 3PT Running Jump Shot (6 PTS) (Thompson 4 AST),Made Shot,Running Jump Shot,-138,208,25,1,3.0,3.0,v
+S2324-G1168,4,10:00,UTA,,HOU,,A. Holiday,HOU,MISS Holiday 26' 3PT Jump Shot,Missed Shot,Jump Shot,-75,251,26,1,3.0,0.0,v
+S2324-G1168,4,09:34,UTA,,HOU,,A. Holiday,HOU,SUB: Thompson FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0523,1,01:27,CHI,,HOU,,A. Holiday,HOU,Holiday REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0523,1,01:27,CHI,23.0,HOU,18.0,A. Holiday,HOU,Holiday Putback Layup (2 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,v
+S2324-G0523,1,00:37.800000,CHI,,HOU,,A. Holiday,HOU,MISS Holiday 21' Jump Shot,Missed Shot,Jump Shot,-188,87,21,1,2.0,0.0,v
+S2324-G0523,2,11:08,CHI,,HOU,,A. Holiday,HOU,Holiday REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0523,2,08:14,CHI,,HOU,,A. Holiday,HOU,Holiday Out of Bounds Lost Ball Turnover (P1.T4),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2324-G0523,2,08:08,CHI,,HOU,,A. Holiday,HOU,Holiday STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0523,2,08:06,CHI,38.0,HOU,40.0,A. Holiday,HOU,Holiday Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0523,2,08:06,CHI,38.0,HOU,41.0,A. Holiday,HOU,Holiday Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0523,2,06:45,CHI,,HOU,,A. Holiday,HOU,SUB: Whitmore FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0523,4,09:49,CHI,,HOU,,A. Holiday,HOU,Holiday Bad Pass Turnover (P2.T14),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0523,4,09:45,CHI,,HOU,,A. Holiday,HOU,Holiday STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0523,4,09:30,CHI,,HOU,,A. Holiday,HOU,MISS Holiday 26' 3PT Jump Shot,Missed Shot,Jump Shot,-141,214,26,1,3.0,0.0,v
+S2324-G0523,4,09:08,CHI,,HOU,,A. Holiday,HOU,SUB: Sengun FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0523,5,00:10,CHI,,HOU,,A. Holiday,HOU,SUB: Sengun FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0870,1,01:55,PHX,,HOU,,A. Holiday,HOU,MISS Holiday 10' Step Back Jump Shot,Missed Shot,Step Back Jump shot,62,78,10,1,2.0,0.0,v
+S2324-G0870,1,00:26.300000,PHX,,HOU,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0870,2,10:30,PHX,,HOU,,A. Holiday,HOU,Holiday S.FOUL (P1.T1) (J.Orr),Foul,Shooting,0,0,0,0,,,v
+S2324-G0870,2,10:12,PHX,,HOU,,A. Holiday,HOU,Holiday Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0870,2,09:41,PHX,,HOU,,A. Holiday,HOU,Holiday P.FOUL (P2.T2) (D.Guthrie),Foul,Personal,0,0,0,0,,,v
+S2324-G0870,2,09:41,PHX,,HOU,,A. Holiday,HOU,SUB: VanVleet FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0870,4,11:15,PHX,,HOU,,A. Holiday,HOU,Holiday P.FOUL (P3.T1) (J.Orr),Foul,Personal,0,0,0,0,,,v
+S2324-G0870,4,10:08,PHX,,HOU,,A. Holiday,HOU,SUB: Ja. Green FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G1098,2,10:08,MIN,,HOU,,A. Holiday,HOU,Holiday P.FOUL (P1.T2) (M.Ervin),Foul,Personal,0,0,0,0,,,v
+S2324-G1098,2,09:37,MIN,,HOU,,A. Holiday,HOU,MISS Holiday 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,-9,16,2,1,2.0,0.0,v
+S2324-G1098,2,09:34,MIN,,HOU,,A. Holiday,HOU,Holiday P.FOUL (P2.T3) (M.Ervin),Foul,Personal,0,0,0,0,,,v
+S2324-G1098,2,07:14,MIN,,HOU,,A. Holiday,HOU,Holiday STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G1098,2,06:13,MIN,,HOU,,A. Holiday,HOU,SUB: Ja. Green FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0332,1,02:34,MEM,,HOU,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0332,1,02:29,MEM,,HOU,,A. Holiday,HOU,MISS Holiday 14' Floating Jump Shot,Missed Shot,Floating Jump shot,-56,127,14,1,2.0,0.0,v
+S2324-G0332,2,08:44,MEM,,HOU,,A. Holiday,HOU,MISS Holiday 26' 3PT Jump Shot,Missed Shot,Jump Shot,202,163,26,1,3.0,0.0,v
+S2324-G0332,2,08:12,MEM,,HOU,,A. Holiday,HOU,SUB: VanVleet FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0332,3,02:21,MEM,,HOU,,A. Holiday,HOU,Holiday P.FOUL (P1.T4) (J.Ralls),Foul,Personal,0,0,0,0,,,v
+S2324-G0332,3,01:02,MEM,72.0,HOU,75.0,A. Holiday,HOU,Holiday 26' 3PT Pullup Jump Shot (3 PTS) (Ja. Green 4 AST),Made Shot,Pullup Jump shot,-175,188,26,1,3.0,3.0,v
+S2324-G0332,4,10:36,MEM,,HOU,,A. Holiday,HOU,Holiday REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0332,4,10:29,MEM,,HOU,,A. Holiday,HOU,MISS Holiday 7' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,27,62,7,1,2.0,0.0,v
+S2324-G0332,4,09:38,MEM,,HOU,,A. Holiday,HOU,Holiday BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0332,4,09:32,MEM,76.0,HOU,80.0,A. Holiday,HOU,Holiday Free Throw Technical (4 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,v
+S2324-G0332,4,08:37,MEM,,HOU,,A. Holiday,HOU,MISS Holiday 26' 3PT Jump Shot,Missed Shot,Jump Shot,178,193,26,1,3.0,0.0,v
+S2324-G0332,4,08:02,MEM,,HOU,,A. Holiday,HOU,Holiday STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0332,4,07:45,MEM,,HOU,,A. Holiday,HOU,SUB: VanVleet FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0298,1,02:50,HOU,14.0,SAS,12.0,A. Holiday,HOU,Holiday Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0298,1,02:50,HOU,15.0,SAS,12.0,A. Holiday,HOU,Holiday Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0298,1,01:22,HOU,,SAS,,A. Holiday,HOU,MISS Holiday 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-76,34,8,1,2.0,0.0,h
+S2324-G0298,1,01:11,HOU,,SAS,,A. Holiday,HOU,Holiday S.FOUL (P1.PN) (J.Capers),Foul,Shooting,0,0,0,0,,,h
+S2324-G0298,2,08:10,HOU,,SAS,,A. Holiday,HOU,SUB: VanVleet FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0298,3,04:45,HOU,,SAS,,A. Holiday,HOU,MISS Holiday 3PT Jump Shot,Missed Shot,Jump Shot,-224,42,0,1,3.0,0.0,h
+S2324-G0298,3,04:32,HOU,,SAS,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0298,3,03:51,HOU,65.0,SAS,57.0,A. Holiday,HOU,Holiday Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0298,3,03:51,HOU,66.0,SAS,57.0,A. Holiday,HOU,Holiday Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0298,3,03:16,HOU,,SAS,,A. Holiday,HOU,MISS Holiday 27' 3PT Jump Shot,Missed Shot,Jump Shot,-108,248,27,1,3.0,0.0,h
+S2324-G0298,3,03:12,HOU,,SAS,,A. Holiday,HOU,Holiday S.FOUL (P2.T4) (J.Capers),Foul,Shooting,0,0,0,0,,,h
+S2324-G0298,3,02:55,HOU,69.0,SAS,59.0,A. Holiday,HOU,Holiday 27' 3PT Jump Shot (7 PTS) (Sengun 3 AST),Made Shot,Jump Shot,49,261,27,1,3.0,3.0,h
+S2324-G0298,3,00:46.400000,HOU,,SAS,,A. Holiday,HOU,Holiday REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0298,3,00:44.800000,HOU,,SAS,,A. Holiday,HOU,MISS Holiday 26' 3PT Jump Shot,Missed Shot,Jump Shot,112,237,26,1,3.0,0.0,h
+S2324-G0298,3,00:03.400000,HOU,,SAS,,A. Holiday,HOU,MISS Holiday 26' 3PT Jump Shot,Missed Shot,Jump Shot,-148,213,26,1,3.0,0.0,h
+S2324-G0349,1,04:51,CLE,18.0,HOU,19.0,A. Holiday,HOU,Holiday 7' Driving Floating Jump Shot (2 PTS) (VanVleet 4 AST),Made Shot,Driving Floating Jump Shot,11,70,7,1,2.0,2.0,v
+S2324-G0349,1,04:29,CLE,20.0,HOU,21.0,A. Holiday,HOU,Holiday 1' Driving Layup (4 PTS) (VanVleet 5 AST),Made Shot,Driving Layup Shot,2,12,1,1,2.0,2.0,v
+S2324-G0349,1,01:39,CLE,28.0,HOU,32.0,A. Holiday,HOU,Holiday 27' 3PT Jump Shot (7 PTS) (Ja. Green 1 AST),Made Shot,Jump Shot,206,179,27,1,3.0,3.0,v
+S2324-G0349,2,11:02,CLE,36.0,HOU,36.0,A. Holiday,HOU,Holiday 15' Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,48,138,15,1,2.0,2.0,v
+S2324-G0349,2,10:23,CLE,,HOU,,A. Holiday,HOU,MISS Holiday 3PT Running Jump Shot,Missed Shot,Running Jump Shot,227,20,0,1,3.0,0.0,v
+S2324-G0349,2,09:56,CLE,,HOU,,A. Holiday,HOU,MISS Holiday 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,12,13,2,1,2.0,0.0,v
+S2324-G0349,2,09:54,CLE,,HOU,,A. Holiday,HOU,SUB: VanVleet FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0349,3,07:04,CLE,,HOU,,A. Holiday,HOU,Holiday Personal Take Foul (P1.PN) (J.Van Duyne),Foul,Personal Take,0,0,0,0,,,v
+S2324-G0349,3,06:46,CLE,81.0,HOU,75.0,A. Holiday,HOU,Holiday 27' 3PT Jump Shot (12 PTS) (VanVleet 12 AST),Made Shot,Jump Shot,-137,231,27,1,3.0,3.0,v
+S2324-G0349,3,06:42,CLE,,HOU,,A. Holiday,HOU,Holiday Personal Take Foul (P2.PN) (J.Van Duyne),Foul,Personal Take,0,0,0,0,,,v
+S2324-G0349,3,06:22,CLE,,HOU,,A. Holiday,HOU,Holiday S.FOUL (P3.PN) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,v
+S2324-G0349,3,04:44,CLE,,HOU,,A. Holiday,HOU,Holiday REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0349,3,04:43,CLE,,HOU,,A. Holiday,HOU,MISS Holiday 3PT Jump Shot,Missed Shot,Jump Shot,-224,-15,0,1,3.0,0.0,v
+S2324-G0349,3,02:46,CLE,91.0,HOU,86.0,A. Holiday,HOU,Holiday Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0349,3,02:46,CLE,91.0,HOU,87.0,A. Holiday,HOU,Holiday Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0349,3,01:05,CLE,,HOU,,A. Holiday,HOU,SUB: Ja. Green FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0349,4,11:40,CLE,,HOU,,A. Holiday,HOU,Holiday REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0349,4,10:21,CLE,,HOU,,A. Holiday,HOU,MISS Holiday 24' 3PT Jump Shot,Missed Shot,Jump Shot,-238,22,24,1,3.0,0.0,v
+S2324-G0349,4,09:46,CLE,,HOU,,A. Holiday,HOU,Holiday S.FOUL (P4.T1) (P.Fraher),Foul,Shooting,0,0,0,0,,,v
+S2324-G0349,4,08:56,CLE,,HOU,,A. Holiday,HOU,SUB: VanVleet FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0719,1,04:45,IND,,HOU,,A. Holiday,HOU,Holiday Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0719,1,02:07,IND,,HOU,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0719,1,00:27.300000,IND,,HOU,,A. Holiday,HOU,Holiday Violation:Kicked Ball (D.Taylor),Violation,Kicked Ball,0,0,0,0,,,v
+S2324-G0719,1,00:00,IND,41.0,HOU,39.0,A. Holiday,HOU,Holiday 15' Turnaround Fadeaway (2 PTS) (Thompson 4 AST),Made Shot,Turnaround Fadeaway shot,-151,32,15,1,2.0,2.0,v
+S2324-G0719,2,11:18,IND,41.0,HOU,42.0,A. Holiday,HOU,Holiday 27' 3PT Running Pull-Up Jump Shot (5 PTS) (Je. Green 1 AST),Made Shot,Running Pull-Up Jump Shot,167,212,27,1,3.0,3.0,v
+S2324-G0719,2,10:52,IND,41.0,HOU,45.0,A. Holiday,HOU,Holiday 26' 3PT Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,-69,251,26,1,3.0,3.0,v
+S2324-G0719,2,09:19,IND,,HOU,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0719,2,06:55,IND,,HOU,,A. Holiday,HOU,SUB: Ja. Green FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0719,3,00:04.600000,IND,,HOU,,A. Holiday,HOU,Holiday S.FOUL (P1.PN) (D.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2324-G0719,4,10:26,IND,,HOU,,A. Holiday,HOU,SUB: Thompson FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0719,4,01:20,IND,,HOU,,A. Holiday,HOU,SUB: Ja. Green FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0037,1,03:19,LAC,,HOU,,A. Holiday,HOU,MISS Holiday 26' 3PT Jump Shot,Missed Shot,Jump Shot,88,241,26,1,3.0,0.0,v
+S2324-G0037,1,01:10,LAC,,HOU,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0037,2,05:13,LAC,,HOU,,A. Holiday,HOU," Foul : Double Personal - Holiday (1 PF), Tucker (2 PF) (D.Richardson)",Foul,Double Personal,0,0,0,0,,,
+S2324-G0037,2,04:39,LAC,,HOU,,A. Holiday,HOU,Holiday P.FOUL (P2.PN) (C.Kirkland),Foul,Personal,0,0,0,0,,,v
+S2324-G0037,2,04:17,LAC,39.0,HOU,46.0,A. Holiday,HOU,Holiday 3PT Jump Shot (3 PTS) (Ja. Green 2 AST),Made Shot,Jump Shot,-232,8,0,1,3.0,3.0,v
+S2324-G0037,2,04:02,LAC,,HOU,,A. Holiday,HOU,Holiday STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0037,2,03:58,LAC,39.0,HOU,48.0,A. Holiday,HOU,Holiday 1' Running Layup (5 PTS),Made Shot,Running Layup Shot,-7,9,1,1,2.0,2.0,v
+S2324-G0037,2,03:16,LAC,,HOU,,A. Holiday,HOU,SUB: Eason FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0037,4,08:05,LAC,,HOU,,A. Holiday,HOU,SUB: Sengun FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0534,1,02:56,DET,,HOU,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0806,1,00:58.100000,HOU,,PHX,,A. Holiday,HOU,Holiday Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0806,1,00:49.100000,HOU,19.0,PHX,28.0,A. Holiday,HOU,Holiday Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0806,1,00:49.100000,HOU,20.0,PHX,28.0,A. Holiday,HOU,Holiday Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0806,1,00:04.700000,HOU,,PHX,,A. Holiday,HOU,MISS Holiday 1' Driving Layup,Missed Shot,Driving Layup Shot,12,2,1,1,2.0,0.0,h
+S2324-G0806,2,11:56,HOU,21.0,PHX,28.0,A. Holiday,HOU,Holiday Free Throw Technical (3 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,h
+S2324-G0806,2,11:28,HOU,,PHX,,A. Holiday,HOU,Holiday STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0806,2,10:34,HOU,,PHX,,A. Holiday,HOU,Holiday STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0806,2,07:46,HOU,,PHX,,A. Holiday,HOU,SUB: VanVleet FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0806,3,01:09,HOU,,PHX,,A. Holiday,HOU,Holiday P.FOUL (P1.PN) (M.Ervin),Foul,Personal,0,0,0,0,,,h
+S2324-G0806,4,11:43,HOU,,PHX,,A. Holiday,HOU,Holiday P.FOUL (P2.T1) (M.Ervin),Foul,Personal,0,0,0,0,,,h
+S2324-G0806,4,09:15,HOU,,PHX,,A. Holiday,HOU,SUB: Brooks FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0806,4,00:09.100000,HOU,,PHX,,A. Holiday,HOU,SUB: Sengun FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0806,4,00:07.400000,HOU,,PHX,,A. Holiday,HOU,Holiday Personal Take Foul (P3.PN) (D.Taylor),Foul,Personal Take,0,0,0,0,,,h
+S2324-G0806,4,00:07.400000,HOU,,PHX,,A. Holiday,HOU,SUB: Sengun FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0806,4,00:04.700000,HOU,,PHX,,A. Holiday,HOU,SUB: Whitmore FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0555,2,10:04,PHI,,HOU,,A. Holiday,HOU,MISS Holiday 28' 3PT Jump Shot,Missed Shot,Jump Shot,-173,216,28,1,3.0,0.0,v
+S2324-G0555,2,08:03,PHI,,HOU,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0555,2,06:30,PHI,,HOU,,A. Holiday,HOU,SUB: Ja. Green FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0754,1,05:36,ATL,15.0,HOU,17.0,A. Holiday,HOU,Holiday 3PT Jump Shot (3 PTS) (Ja. Green 2 AST),Made Shot,Jump Shot,229,-6,0,1,3.0,3.0,v
+S2324-G0754,1,03:14,ATL,17.0,HOU,24.0,A. Holiday,HOU,Holiday 12' Turnaround Jump Shot (5 PTS) (Ja. Green 3 AST),Made Shot,Turnaround Jump Shot,83,84,12,1,2.0,2.0,v
+S2324-G0754,1,02:50,ATL,,HOU,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0754,1,02:45,ATL,,HOU,,A. Holiday,HOU,MISS Holiday 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,34,248,25,1,3.0,0.0,v
+S2324-G0754,1,02:23,ATL,19.0,HOU,27.0,A. Holiday,HOU,Holiday 3PT Jump Shot (8 PTS) (Ja. Green 4 AST),Made Shot,Jump Shot,227,15,0,1,3.0,3.0,v
+S2324-G0754,2,11:25,ATL,,HOU,,A. Holiday,HOU,Holiday P.FOUL (P1.T1) (T.Ford),Foul,Personal,0,0,0,0,,,v
+S2324-G0754,2,09:56,ATL,,HOU,,A. Holiday,HOU,MISS Holiday 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-13,111,11,1,2.0,0.0,v
+S2324-G0754,2,09:39,ATL,,HOU,,A. Holiday,HOU,Holiday BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0754,2,09:05,ATL,,HOU,,A. Holiday,HOU,Holiday S.FOUL (P2.T2) (T.Ford),Foul,Shooting,0,0,0,0,,,v
+S2324-G0754,2,09:05,ATL,,HOU,,A. Holiday,HOU,SUB: Brooks FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0754,2,02:45,ATL,,HOU,,A. Holiday,HOU,SUB: Thompson FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0754,3,02:18,ATL,86.0,HOU,75.0,A. Holiday,HOU,Holiday 29' 3PT Jump Shot (11 PTS) (Landale 2 AST),Made Shot,Jump Shot,141,250,29,1,3.0,3.0,v
+S2324-G0754,3,00:48.100000,ATL,93.0,HOU,81.0,A. Holiday,HOU,Holiday 1' Driving Finger Roll Layup (13 PTS),Made Shot,Driving Finger Roll Layup Shot,5,9,1,1,2.0,2.0,v
+S2324-G0754,3,00:28.300000,ATL,95.0,HOU,83.0,A. Holiday,HOU,Holiday 1' Driving Dunk (15 PTS),Made Shot,Driving Dunk Shot,4,10,1,1,2.0,2.0,v
+S2324-G0754,3,00:28.300000,ATL,95.0,HOU,84.0,A. Holiday,HOU,Holiday Free Throw 1 of 1 (16 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G0754,4,10:43,ATL,,HOU,,A. Holiday,HOU,Holiday S.FOUL (P3.T3) (J.Sterling),Foul,Shooting,0,0,0,0,,,v
+S2324-G0754,4,09:16,ATL,98.0,HOU,92.0,A. Holiday,HOU,Holiday 12' Turnaround Fadeaway (18 PTS),Made Shot,Turnaround Fadeaway shot,18,119,12,1,2.0,2.0,v
+S2324-G0754,4,09:01,ATL,,HOU,,A. Holiday,HOU,Holiday S.FOUL (P4.T4) (T.Ford),Foul,Shooting,0,0,0,0,,,v
+S2324-G0754,4,08:21,ATL,,HOU,,A. Holiday,HOU,MISS Holiday 24' 3PT Jump Shot,Missed Shot,Jump Shot,-234,34,24,1,3.0,0.0,v
+S2324-G0754,4,07:55,ATL,,HOU,,A. Holiday,HOU,SUB: Ja. Green FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G1057,1,01:40,OKC,15.0,HOU,26.0,A. Holiday,HOU,Holiday 15' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,71,131,15,1,2.0,2.0,v
+S2324-G1057,1,00:24.100000,OKC,,HOU,,A. Holiday,HOU,Holiday REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1057,2,09:53,OKC,,HOU,,A. Holiday,HOU,MISS Holiday 14' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-34,137,14,1,2.0,0.0,v
+S2324-G1057,2,09:06,OKC,24.0,HOU,33.0,A. Holiday,HOU,Holiday 3' Driving Finger Roll Layup (4 PTS),Made Shot,Driving Finger Roll Layup Shot,-27,-4,3,1,2.0,2.0,v
+S2324-G1057,2,08:44,OKC,,HOU,,A. Holiday,HOU,SUB: Landale FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G1057,3,01:30,OKC,,HOU,,A. Holiday,HOU,MISS Holiday 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-16,96,10,1,2.0,0.0,v
+S2324-G1057,3,01:20,OKC,,HOU,,A. Holiday,HOU,MISS Holiday 26' 3PT Jump Shot,Missed Shot,Jump Shot,-233,115,26,1,3.0,0.0,v
+S2324-G1057,4,10:11,OKC,,HOU,,A. Holiday,HOU,Holiday REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1057,4,09:15,OKC,,HOU,,A. Holiday,HOU,SUB: VanVleet FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0216,1,03:30,LAL,,HOU,,A. Holiday,HOU,Holiday P.FOUL (P1.T1) (S.Wright),Foul,Personal,0,0,0,0,,,v
+S2324-G0216,1,03:15,LAL,,HOU,,A. Holiday,HOU,MISS Holiday 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-6,200,20,1,2.0,0.0,v
+S2324-G0216,1,02:07,LAL,,HOU,,A. Holiday,HOU,Holiday Traveling Turnover (P1.T1),Turnover,Traveling,0,0,0,0,,,v
+S2324-G0216,1,00:57.100000,LAL,,HOU,,A. Holiday,HOU,Holiday P.FOUL (P2.T2) (M.Smith),Foul,Personal,0,0,0,0,,,v
+S2324-G0216,2,01:48,LAL,,HOU,,A. Holiday,HOU,Holiday P.FOUL (P3.T4) (B.Adair),Foul,Personal,0,0,0,0,,,v
+S2324-G0216,2,01:48,LAL,,HOU,,A. Holiday,HOU,SUB: VanVleet FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0216,3,06:20,LAL,,HOU,,A. Holiday,HOU,Holiday S.FOUL (P4.PN) (B.Adair),Foul,Shooting,0,0,0,0,,,v
+S2324-G0216,3,02:54,LAL,,HOU,,A. Holiday,HOU,MISS Holiday 24' 3PT Jump Shot,Missed Shot,Jump Shot,-237,37,24,1,3.0,0.0,v
+S2324-G0216,3,01:23,LAL,,HOU,,A. Holiday,HOU,MISS Holiday 27' 3PT Jump Shot,Missed Shot,Jump Shot,-59,265,27,1,3.0,0.0,v
+S2324-G0385,1,03:09,HOU,,DAL,,A. Holiday,HOU,MISS Holiday 26' 3PT Jump Shot,Missed Shot,Jump Shot,161,202,26,1,3.0,0.0,h
+S2324-G0385,1,00:49.700000,HOU,,DAL,,A. Holiday,HOU,Holiday Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0385,2,02:24,HOU,,DAL,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0385,2,01:34,HOU,51.0,DAL,36.0,A. Holiday,HOU,Holiday 3PT Jump Shot (3 PTS) (Sengun 1 AST),Made Shot,Jump Shot,222,36,0,1,3.0,3.0,h
+S2324-G0385,3,02:55,HOU,,DAL,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0385,3,00:33.100000,HOU,,DAL,,A. Holiday,HOU,MISS Holiday 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-127,224,26,1,3.0,0.0,h
+S2324-G0385,3,00:06.300000,HOU,,DAL,,A. Holiday,HOU,Holiday Bad Pass Turnover (P2.T13),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0385,4,11:35,HOU,,DAL,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0385,4,09:51,HOU,,DAL,,A. Holiday,HOU,SUB: Hinton FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0346,1,01:49,MIL,,HOU,,A. Holiday,HOU,MISS Holiday 3PT Running Jump Shot,Missed Shot,Running Jump Shot,222,-10,0,1,3.0,0.0,v
+S2324-G0346,1,00:37.100000,MIL,,HOU,,A. Holiday,HOU,MISS Holiday 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-49,102,11,1,2.0,0.0,v
+S2324-G0346,1,00:03.400000,MIL,,HOU,,A. Holiday,HOU,Holiday S.FOUL (P1.PN) (B.Kennedy),Foul,Shooting,0,0,0,0,,,v
+S2324-G0346,2,11:14,MIL,,HOU,,A. Holiday,HOU,Holiday STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0346,2,11:13,MIL,,HOU,,A. Holiday,HOU,Holiday Out of Bounds - Bad Pass Turnover Turnover (P1.T5),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0346,2,09:08,MIL,,HOU,,A. Holiday,HOU,Holiday Out of Bounds - Bad Pass Turnover Turnover (P2.T6),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0346,2,08:41,MIL,,HOU,,A. Holiday,HOU,SUB: VanVleet FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0346,4,10:14,MIL,,HOU,,A. Holiday,HOU,MISS Holiday 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-61,67,9,1,2.0,0.0,v
+S2324-G0346,4,09:59,MIL,,HOU,,A. Holiday,HOU,Holiday S.FOUL (P2.T1) (S.Mehta),Foul,Shooting,0,0,0,0,,,v
+S2324-G0346,4,07:56,MIL,,HOU,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0346,4,07:36,MIL,,HOU,,A. Holiday,HOU,SUB: VanVleet FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0891,1,01:44,HOU,,SAS,,A. Holiday,HOU,MISS Holiday 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-39,177,18,1,2.0,0.0,h
+S2324-G0891,1,00:02.600000,HOU,,SAS,,A. Holiday,HOU,SUB: VanVleet FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0891,2,11:00,HOU,,SAS,,A. Holiday,HOU,MISS Holiday 3' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-34,6,3,1,2.0,0.0,h
+S2324-G0891,2,10:55,HOU,,SAS,,A. Holiday,HOU,SUB: Je. Green FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0891,3,00:44.500000,HOU,,SAS,,A. Holiday,HOU,Holiday P.FOUL (P1.T3) (D.Mosher),Foul,Personal,0,0,0,0,,,h
+S2324-G0645,1,01:32,BKN,,HOU,,A. Holiday,HOU,MISS Holiday 7' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,11,74,7,1,2.0,0.0,v
+S2324-G0645,1,01:09,BKN,,HOU,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0645,1,01:07,BKN,,HOU,,A. Holiday,HOU,Holiday Out of Bounds Lost Ball Turnover (P1.T3),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2324-G0645,2,10:33,BKN,35.0,HOU,17.0,A. Holiday,HOU,Holiday 3' Driving Layup (2 PTS) (Landale 1 AST),Made Shot,Driving Layup Shot,20,25,3,1,2.0,2.0,v
+S2324-G0645,2,10:12,BKN,,HOU,,A. Holiday,HOU,Holiday P.FOUL (P1.T2) (M.Kogut),Foul,Personal,0,0,0,0,,,v
+S2324-G0645,2,08:18,BKN,,HOU,,A. Holiday,HOU,SUB: Brooks FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0645,3,10:38,BKN,,HOU,,A. Holiday,HOU,Holiday S.FOUL (P2.T1) (M.Kogut),Foul,Shooting,0,0,0,0,,,v
+S2324-G0645,3,09:00,BKN,,HOU,,A. Holiday,HOU,MISS Holiday 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,40,21,5,1,2.0,0.0,v
+S2324-G0645,3,08:57,BKN,,HOU,,A. Holiday,HOU,Holiday REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0645,3,08:57,BKN,,HOU,,A. Holiday,HOU,MISS Holiday Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2324-G0645,3,06:43,BKN,,HOU,,A. Holiday,HOU,Holiday Bad Pass Turnover (P2.T12),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0645,3,04:38,BKN,80.0,HOU,61.0,A. Holiday,HOU,Holiday 3' Driving Finger Roll Layup (4 PTS),Made Shot,Driving Finger Roll Layup Shot,29,10,3,1,2.0,2.0,v
+S2324-G0645,3,04:05,BKN,80.0,HOU,63.0,A. Holiday,HOU,Holiday 1' Running Layup (6 PTS),Made Shot,Running Layup Shot,-5,-8,1,1,2.0,2.0,v
+S2324-G0645,3,03:48,BKN,,HOU,,A. Holiday,HOU,Holiday REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0645,3,02:43,BKN,,HOU,,A. Holiday,HOU,SUB: VanVleet FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0645,4,00:05.100000,BKN,,HOU,,A. Holiday,HOU,SUB: Sengun FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0798,1,02:27,NOP,,HOU,,A. Holiday,HOU,MISS Holiday 13' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-77,110,13,1,2.0,0.0,v
+S2324-G0798,1,00:25.500000,NOP,,HOU,,A. Holiday,HOU,MISS Holiday 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,17,112,11,1,2.0,0.0,v
+S2324-G0798,4,11:48,NOP,,HOU,,A. Holiday,HOU,Holiday Out of Bounds - Bad Pass Turnover Turnover (P1.T16),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0798,4,10:55,NOP,,HOU,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0798,4,09:47,NOP,,HOU,,A. Holiday,HOU,MISS Holiday 26' 3PT Jump Shot,Missed Shot,Jump Shot,-53,256,26,1,3.0,0.0,v
+S2324-G0798,4,09:10,NOP,,HOU,,A. Holiday,HOU,Holiday Bad Pass Turnover (P2.T18),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0798,4,07:47,NOP,,HOU,,A. Holiday,HOU,SUB: Whitmore FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G1131,2,11:48,DAL,,HOU,,A. Holiday,HOU,Holiday OFF.Foul (P1) (C.Washington),Foul,Offensive,0,0,0,0,,,v
+S2324-G1131,2,11:48,DAL,,HOU,,A. Holiday,HOU,Holiday Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G1131,2,10:57,DAL,,HOU,,A. Holiday,HOU,Holiday S.FOUL (P2.T1) (E.Dalen),Foul,Shooting,0,0,0,0,,,v
+S2324-G1131,2,10:03,DAL,,HOU,,A. Holiday,HOU,Holiday STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G1131,2,09:53,DAL,,HOU,,A. Holiday,HOU,MISS Holiday 28' 3PT Jump Shot,Missed Shot,Jump Shot,-163,223,28,1,3.0,0.0,v
+S2324-G1131,2,07:18,DAL,,HOU,,A. Holiday,HOU,Holiday S.FOUL (P3.T3) (C.Washington),Foul,Shooting,0,0,0,0,,,v
+S2324-G1131,2,07:18,DAL,,HOU,,A. Holiday,HOU,SUB: Brooks FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G1131,2,01:01,DAL,61.0,HOU,71.0,A. Holiday,HOU,Holiday 3PT Jump Shot (3 PTS) (VanVleet 8 AST),Made Shot,Jump Shot,230,0,0,1,3.0,3.0,v
+S2324-G1131,4,08:22,DAL,,HOU,,A. Holiday,HOU,SUB: VanVleet FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G1131,4,03:29,DAL,,HOU,,A. Holiday,HOU,SUB: Brooks FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G1131,4,00:13.600000,DAL,,HOU,,A. Holiday,HOU,SUB: Smith Jr. FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0409,2,10:53,HOU,,IND,,A. Holiday,HOU,MISS Holiday 1' Driving Layup,Missed Shot,Driving Layup Shot,-4,11,1,1,2.0,0.0,h
+S2324-G0409,2,10:49,HOU,38.0,IND,36.0,A. Holiday,HOU,Holiday 3PT Jump Shot (3 PTS) (Eason 1 AST),Made Shot,Jump Shot,224,-8,0,1,3.0,3.0,h
+S2324-G0409,2,10:14,HOU,40.0,IND,39.0,A. Holiday,HOU,Holiday 9' Turnaround Fadeaway (5 PTS),Made Shot,Turnaround Fadeaway shot,78,48,9,1,2.0,2.0,h
+S2324-G0409,2,09:56,HOU,,IND,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0409,2,09:12,HOU,46.0,IND,42.0,A. Holiday,HOU,Holiday 26' 3PT Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,-97,238,26,1,3.0,3.0,h
+S2324-G0409,2,08:28,HOU,,IND,,A. Holiday,HOU,MISS Holiday 27' 3PT Jump Shot,Missed Shot,Jump Shot,-112,246,27,1,3.0,0.0,h
+S2324-G0409,2,07:10,HOU,,IND,,A. Holiday,HOU,Holiday STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0409,2,05:25,HOU,,IND,,A. Holiday,HOU,Holiday P.FOUL (P1.T4) (S.Wright),Foul,Personal,0,0,0,0,,,h
+S2324-G0409,2,05:01,HOU,,IND,,A. Holiday,HOU,SUB: Ja. Green FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0409,3,04:47,HOU,,IND,,A. Holiday,HOU,Holiday Backcourt Turnover (P1.T10),Turnover,Backcourt Turnover,0,0,0,0,,,h
+S2324-G0409,3,01:17,HOU,86.0,IND,95.0,A. Holiday,HOU,Holiday 8' Turnaround Fadeaway (10 PTS),Made Shot,Turnaround Fadeaway shot,-11,77,8,1,2.0,2.0,h
+S2324-G0409,3,00:45.900000,HOU,88.0,IND,97.0,A. Holiday,HOU,Holiday 2' Driving Layup (12 PTS),Made Shot,Driving Layup Shot,23,9,2,1,2.0,2.0,h
+S2324-G0409,4,11:46,HOU,,IND,,A. Holiday,HOU,MISS Holiday 27' 3PT Jump Shot,Missed Shot,Jump Shot,165,209,27,1,3.0,0.0,h
+S2324-G0409,4,10:12,HOU,,IND,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0409,4,08:18,HOU,,IND,,A. Holiday,HOU,MISS Holiday 26' 3PT Jump Shot,Missed Shot,Jump Shot,17,263,26,1,3.0,0.0,h
+S2324-G0409,4,07:50,HOU,103.0,IND,105.0,A. Holiday,HOU,Holiday 24' 3PT Jump Shot (15 PTS) (VanVleet 6 AST),Made Shot,Jump Shot,-157,185,24,1,3.0,3.0,h
+S2324-G0409,4,01:55,HOU,,IND,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0059,1,04:04,DAL,,HOU,,A. Holiday,HOU,Holiday S.FOUL (P1.PN) (G.Petraitis),Foul,Shooting,0,0,0,0,,,v
+S2324-G0059,1,03:10,DAL,,HOU,,A. Holiday,HOU,MISS Holiday 3PT Jump Shot,Missed Shot,Jump Shot,230,10,0,1,3.0,0.0,v
+S2324-G0059,1,00:25.600000,DAL,,HOU,,A. Holiday,HOU,Holiday REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0059,2,03:25,DAL,,HOU,,A. Holiday,HOU,SUB: VanVleet FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0059,3,04:56,DAL,,HOU,,A. Holiday,HOU,Holiday REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0059,3,03:12,DAL,,HOU,,A. Holiday,HOU,MISS Holiday 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-188,173,26,1,3.0,0.0,v
+S2324-G0059,3,02:25,DAL,73.0,HOU,79.0,A. Holiday,HOU,Holiday 3PT Jump Shot (3 PTS) (VanVleet 7 AST),Made Shot,Jump Shot,228,5,0,1,3.0,3.0,v
+S2324-G0059,3,01:46,DAL,75.0,HOU,82.0,A. Holiday,HOU,Holiday 26' 3PT Jump Shot (6 PTS) (Tate 2 AST),Made Shot,Jump Shot,164,199,26,1,3.0,3.0,v
+S2324-G0059,3,01:27,DAL,,HOU,,A. Holiday,HOU,Holiday REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0059,3,00:42.100000,DAL,79.0,HOU,86.0,A. Holiday,HOU,Holiday 11' Driving Floating Jump Shot (8 PTS),Made Shot,Driving Floating Jump Shot,25,110,11,1,2.0,2.0,v
+S2324-G0059,4,09:35,DAL,,HOU,,A. Holiday,HOU,MISS Holiday 10' Driving Layup,Missed Shot,Driving Layup Shot,-55,84,10,1,2.0,0.0,v
+S2324-G0059,4,08:08,DAL,,HOU,,A. Holiday,HOU,MISS Holiday 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-45,171,18,1,2.0,0.0,v
+S2324-G0059,4,07:23,DAL,,HOU,,A. Holiday,HOU,SUB: Ja. Green FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0059,4,01:57,DAL,,HOU,,A. Holiday,HOU,MISS Holiday 13' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-109,69,13,1,2.0,0.0,v
+S2324-G0059,4,01:08,DAL,,HOU,,A. Holiday,HOU,Holiday REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0059,4,01:06,DAL,,HOU,,A. Holiday,HOU,Holiday Bad Pass Turnover (P1.T12),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0059,4,00:11.900000,DAL,,HOU,,A. Holiday,HOU,Holiday Personal Take Foul (P2.T4) (N.Sago),Foul,Personal Take,0,0,0,0,,,v
+S2324-G0059,4,00:11.400000,DAL,,HOU,,A. Holiday,HOU,Holiday P.FOUL (P3.PN) (N.Sago),Foul,Personal,0,0,0,0,,,v
+S2324-G0598,2,08:30,HOU,45.0,UTA,32.0,A. Holiday,HOU,Holiday 8' Driving Floating Jump Shot (2 PTS) (Whitmore 1 AST),Made Shot,Driving Floating Jump Shot,-77,26,8,1,2.0,2.0,h
+S2324-G0598,2,07:37,HOU,46.0,UTA,32.0,A. Holiday,HOU,Holiday Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0598,2,07:37,HOU,47.0,UTA,32.0,A. Holiday,HOU,Holiday Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0598,2,07:33,HOU,,UTA,,A. Holiday,HOU,Holiday STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0598,2,07:33,HOU,49.0,UTA,32.0,A. Holiday,HOU,Holiday 3' Running Layup (6 PTS),Made Shot,Running Layup Shot,1,30,3,1,2.0,2.0,h
+S2324-G0598,2,07:33,HOU,,UTA,,A. Holiday,HOU,Holiday T.FOUL (P0.T2) (M.Myers),Foul,Technical,0,0,0,0,,,h
+S2324-G0598,2,07:01,HOU,,UTA,,A. Holiday,HOU,Holiday L.B.FOUL (P1.T3) (J.Goble),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0598,2,05:20,HOU,,UTA,,A. Holiday,HOU,SUB: VanVleet FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0598,4,10:25,HOU,,UTA,,A. Holiday,HOU,Holiday S.FOUL (P2.T1) (J.Tiven),Foul,Shooting,0,0,0,0,,,h
+S2324-G0598,4,08:30,HOU,,UTA,,A. Holiday,HOU,Holiday STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0598,4,08:18,HOU,,UTA,,A. Holiday,HOU,Holiday STEAL (3 STL),,,0,0,0,0,,,h
+S2324-G0598,4,07:13,HOU,,UTA,,A. Holiday,HOU,SUB: Tate FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0371,1,03:31,HOU,,ATL,,A. Holiday,HOU,MISS Holiday 8' Floating Jump Shot,Missed Shot,Floating Jump shot,12,83,8,1,2.0,0.0,h
+S2324-G0371,1,03:11,HOU,,ATL,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0371,1,01:19,HOU,29.0,ATL,37.0,A. Holiday,HOU,Holiday 27' 3PT Jump Shot (3 PTS) (Ja. Green 1 AST),Made Shot,Jump Shot,141,228,27,1,3.0,3.0,h
+S2324-G0371,2,09:42,HOU,,ATL,,A. Holiday,HOU,MISS Holiday 3PT Jump Shot,Missed Shot,Jump Shot,224,-29,0,1,3.0,0.0,h
+S2324-G0371,2,08:40,HOU,,ATL,,A. Holiday,HOU,SUB: Ja. Green FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0371,2,00:25.100000,HOU,,ATL,,A. Holiday,HOU,MISS Holiday 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-47,258,26,1,3.0,0.0,h
+S2324-G0371,3,03:47,HOU,,ATL,,A. Holiday,HOU,Holiday Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0371,3,03:07,HOU,,ATL,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0371,3,02:23,HOU,94.0,ATL,92.0,A. Holiday,HOU,Holiday 3' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,-25,8,3,1,2.0,2.0,h
+S2324-G0371,3,01:44,HOU,97.0,ATL,92.0,A. Holiday,HOU,Holiday 26' 3PT Jump Shot (8 PTS) (VanVleet 12 AST),Made Shot,Jump Shot,-163,201,26,1,3.0,3.0,h
+S2324-G0371,4,11:20,HOU,,ATL,,A. Holiday,HOU,MISS Holiday 25' 3PT Jump Shot,Missed Shot,Jump Shot,-185,169,25,1,3.0,0.0,h
+S2324-G0371,4,10:52,HOU,,ATL,,A. Holiday,HOU,MISS Holiday 16' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-98,124,16,1,2.0,0.0,h
+S2324-G0371,4,10:40,HOU,,ATL,,A. Holiday,HOU,Holiday Out of Bounds - Bad Pass Turnover Turnover (P2.T8),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G0371,4,10:24,HOU,,ATL,,A. Holiday,HOU,SUB: VanVleet FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0371,4,04:33,HOU,,ATL,,A. Holiday,HOU,Holiday P.FOUL (P1.T3) (M.Myers),Foul,Personal,0,0,0,0,,,h
+S2324-G0263,1,07:24,DEN,17.0,HOU,7.0,A. Holiday,HOU,Holiday 21' Step Back Jump Shot (2 PTS) (Ja. Green 2 AST),Made Shot,Step Back Jump shot,-74,200,21,1,2.0,2.0,v
+S2324-G0263,1,05:00,DEN,,HOU,,A. Holiday,HOU,SUB: Ja. Green FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0263,1,02:17,DEN,34.0,HOU,18.0,A. Holiday,HOU,Holiday 12' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,-12,115,12,1,2.0,2.0,v
+S2324-G0263,1,00:13.300000,DEN,,HOU,,A. Holiday,HOU,MISS Holiday 2' Driving Layup,Missed Shot,Driving Layup Shot,-23,-5,2,1,2.0,0.0,v
+S2324-G0263,2,01:41,DEN,,HOU,,A. Holiday,HOU,MISS Holiday 26' 3PT Jump Shot,Missed Shot,Jump Shot,169,199,26,1,3.0,0.0,v
+S2324-G0263,2,00:13.700000,DEN,,HOU,,A. Holiday,HOU,MISS Holiday 27' 3PT Jump Shot,Missed Shot,Jump Shot,-2,265,27,1,3.0,0.0,v
+S2324-G0263,3,08:07,DEN,85.0,HOU,70.0,A. Holiday,HOU,Holiday 11' Pullup Jump Shot (6 PTS) (Sengun 4 AST),Made Shot,Pullup Jump shot,10,110,11,1,2.0,2.0,v
+S2324-G0263,3,04:56,DEN,,HOU,,A. Holiday,HOU,MISS Holiday 3PT Jump Shot,Missed Shot,Jump Shot,-223,2,0,1,3.0,0.0,v
+S2324-G0263,3,02:56,DEN,,HOU,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0263,3,02:50,DEN,,HOU,,A. Holiday,HOU,MISS Holiday 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-26,245,25,1,3.0,0.0,v
+S2324-G0263,3,00:55,DEN,,HOU,,A. Holiday,HOU,SUB: Bullock Jr. FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0263,3,00:01.300000,DEN,,HOU,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0263,4,11:21,DEN,,HOU,,A. Holiday,HOU,MISS Holiday 26' 3PT Jump Shot,Missed Shot,Jump Shot,129,220,26,1,3.0,0.0,v
+S2324-G0263,4,11:09,DEN,,HOU,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0263,4,10:13,DEN,,HOU,,A. Holiday,HOU,Holiday S.FOUL (P1.T1) (D.Collins),Foul,Shooting,0,0,0,0,,,v
+S2324-G0263,4,08:28,DEN,,HOU,,A. Holiday,HOU,Holiday S.FOUL (P2.T2) (J.Butler),Foul,Shooting,0,0,0,0,,,v
+S2324-G0263,4,05:47,DEN,123.0,HOU,106.0,A. Holiday,HOU,Holiday 2' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,21,13,2,1,2.0,2.0,v
+S2324-G0263,4,05:47,DEN,123.0,HOU,107.0,A. Holiday,HOU,Holiday Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G0263,4,05:30,DEN,,HOU,,A. Holiday,HOU,SUB: Hinton FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0469,2,11:33,HOU,29.0,BKN,22.0,A. Holiday,HOU,Holiday 26' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,-22,260,26,1,3.0,3.0,h
+S2324-G0469,2,11:00,HOU,,BKN,,A. Holiday,HOU,Holiday Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0469,2,09:01,HOU,,BKN,,A. Holiday,HOU,SUB: Tate FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0469,3,01:36,HOU,,BKN,,A. Holiday,HOU,MISS Holiday 27' 3PT Jump Shot,Missed Shot,Jump Shot,-157,220,27,1,3.0,0.0,h
+S2324-G0469,3,01:20,HOU,,BKN,,A. Holiday,HOU,Holiday S.FOUL (P1.PN) (M.Lindsay),Foul,Shooting,0,0,0,0,,,h
+S2324-G0469,4,10:15,HOU,,BKN,,A. Holiday,HOU,MISS Holiday 4' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,33,27,4,1,2.0,0.0,h
+S2324-G0469,4,09:39,HOU,,BKN,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0469,4,08:55,HOU,,BKN,,A. Holiday,HOU,MISS Holiday 27' 3PT Jump Shot,Missed Shot,Jump Shot,186,190,27,1,3.0,0.0,h
+S2324-G0469,4,08:47,HOU,,BKN,,A. Holiday,HOU,Holiday S.FOUL (P2.T2) (M.Lindsay),Foul,Shooting,0,0,0,0,,,h
+S2324-G0469,4,08:47,HOU,,BKN,,A. Holiday,HOU,SUB: Ja. Green FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0469,4,01:41,HOU,,BKN,,A. Holiday,HOU,MISS Holiday 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,17,12,2,1,2.0,0.0,h
+S2324-G1038,1,04:39,HOU,,POR,,A. Holiday,HOU,MISS Holiday 13' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-33,126,13,1,2.0,0.0,h
+S2324-G1038,1,02:35,HOU,,POR,,A. Holiday,HOU,MISS Holiday 16' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-97,125,16,1,2.0,0.0,h
+S2324-G1038,1,01:58,HOU,,POR,,A. Holiday,HOU,Holiday P.FOUL (P1.T3) (S.Foster),Foul,Personal,0,0,0,0,,,h
+S2324-G1038,1,01:07,HOU,24.0,POR,24.0,A. Holiday,HOU,Holiday 6' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,50,34,6,1,2.0,2.0,h
+S2324-G1038,1,00:39.500000,HOU,25.0,POR,24.0,A. Holiday,HOU,Holiday Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1038,1,00:39.500000,HOU,26.0,POR,24.0,A. Holiday,HOU,Holiday Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1038,1,00:07.600000,HOU,,POR,,A. Holiday,HOU,Holiday REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1038,1,00:06.500000,HOU,27.0,POR,25.0,A. Holiday,HOU,Holiday Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1038,1,00:06.500000,HOU,28.0,POR,25.0,A. Holiday,HOU,Holiday Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1038,3,03:06,HOU,71.0,POR,66.0,A. Holiday,HOU,Holiday Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1038,3,03:06,HOU,72.0,POR,66.0,A. Holiday,HOU,Holiday Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1038,3,01:48,HOU,,POR,,A. Holiday,HOU,Holiday REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1038,3,01:02,HOU,,POR,,A. Holiday,HOU,MISS Holiday 6' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-51,37,6,1,2.0,0.0,h
+S2324-G1038,3,00:46.900000,HOU,80.0,POR,68.0,A. Holiday,HOU,Holiday 24' 3PT Jump Shot (11 PTS) (Tate 1 AST),Made Shot,Jump Shot,126,205,24,1,3.0,3.0,h
+S2324-G1038,4,10:41,HOU,,POR,,A. Holiday,HOU,MISS Holiday 4' Driving Layup,Missed Shot,Driving Layup Shot,-36,14,4,1,2.0,0.0,h
+S2324-G1038,4,06:41,HOU,,POR,,A. Holiday,HOU,Holiday S.FOUL (P2.T2) (S.Mehta),Foul,Shooting,0,0,0,0,,,h
+S2324-G1038,4,06:06,HOU,,POR,,A. Holiday,HOU,Holiday REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1038,4,05:55,HOU,,POR,,A. Holiday,HOU,Holiday STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1038,4,04:59,HOU,,POR,,A. Holiday,HOU,SUB: VanVleet FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0783,1,04:33,MEM,,HOU,,A. Holiday,HOU,MISS Holiday 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-15,52,5,1,2.0,0.0,v
+S2324-G0783,1,02:24,MEM,29.0,HOU,19.0,A. Holiday,HOU,Holiday 25' 3PT Jump Shot (3 PTS) (Brooks 1 AST),Made Shot,Jump Shot,43,247,25,1,3.0,3.0,v
+S2324-G0783,1,01:59,MEM,,HOU,,A. Holiday,HOU,MISS Holiday 25' 3PT Jump Shot,Missed Shot,Jump Shot,-214,126,25,1,3.0,0.0,v
+S2324-G0783,1,01:29,MEM,31.0,HOU,21.0,A. Holiday,HOU,Holiday 3' Driving Layup (5 PTS) (Tate 1 AST),Made Shot,Driving Layup Shot,-23,11,3,1,2.0,2.0,v
+S2324-G0783,2,11:39,MEM,,HOU,,A. Holiday,HOU,Holiday S.FOUL (P1.T1) (Z.Zarba),Foul,Shooting,0,0,0,0,,,v
+S2324-G0783,2,10:52,MEM,,HOU,,A. Holiday,HOU,Holiday REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0783,2,10:49,MEM,,HOU,,A. Holiday,HOU,MISS Holiday 17' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-87,145,17,1,2.0,0.0,v
+S2324-G0783,2,08:25,MEM,,HOU,,A. Holiday,HOU,MISS Holiday 26' 3PT Jump Shot,Missed Shot,Jump Shot,176,192,26,1,3.0,0.0,v
+S2324-G0783,2,08:06,MEM,,HOU,,A. Holiday,HOU,SUB: Smith Jr. FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0783,2,02:18,MEM,,HOU,,A. Holiday,HOU,Holiday STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0783,2,00:29.300000,MEM,,HOU,,A. Holiday,HOU,Holiday REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0783,2,00:20.900000,MEM,,HOU,,A. Holiday,HOU,Holiday Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0783,3,05:28,MEM,,HOU,,A. Holiday,HOU,Holiday P.FOUL (P2.T4) (Z.Zarba),Foul,Personal,0,0,0,0,,,v
+S2324-G0783,3,04:38,MEM,75.0,HOU,71.0,A. Holiday,HOU,Holiday 27' 3PT Jump Shot (8 PTS) (Thompson 1 AST),Made Shot,Jump Shot,178,205,27,1,3.0,3.0,v
+S2324-G0783,3,04:12,MEM,,HOU,,A. Holiday,HOU,MISS Holiday 3' Running Layup,Missed Shot,Running Layup Shot,20,21,3,1,2.0,0.0,v
+S2324-G0783,3,03:25,MEM,,HOU,,A. Holiday,HOU,Holiday Bad Pass Turnover (P2.T5),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0783,3,00:19.100000,MEM,,HOU,,A. Holiday,HOU,MISS Holiday 3PT Jump Shot,Missed Shot,Jump Shot,-230,18,0,1,3.0,0.0,v
+S2324-G0783,4,06:04,MEM,98.0,HOU,97.0,A. Holiday,HOU,Holiday 28' 3PT Jump Shot (11 PTS) (Sengun 4 AST),Made Shot,Jump Shot,-159,233,28,1,3.0,3.0,v
+S2324-G0783,4,01:50,MEM,113.0,HOU,105.0,A. Holiday,HOU,Holiday 27' 3PT Pullup Jump Shot (14 PTS),Made Shot,Pullup Jump shot,147,228,27,1,3.0,3.0,v
+S2324-G0783,4,01:27,MEM,114.0,HOU,107.0,A. Holiday,HOU,Holiday 1' Driving Finger Roll Layup (16 PTS),Made Shot,Driving Finger Roll Layup Shot,5,7,1,1,2.0,2.0,v
+S2324-G0783,4,01:17,MEM,,HOU,,A. Holiday,HOU,Holiday P.FOUL (P3.PN) (Z.Zarba),Foul,Personal,0,0,0,0,,,v
+S2324-G0783,4,00:59.700000,MEM,115.0,HOU,110.0,A. Holiday,HOU,Holiday 3PT Jump Shot (19 PTS) (Sengun 6 AST),Made Shot,Jump Shot,-230,47,0,1,3.0,3.0,v
+S2324-G0916,2,11:40,POR,,HOU,,A. Holiday,HOU,MISS Holiday 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-172,184,25,1,3.0,0.0,v
+S2324-G0916,2,10:13,POR,,HOU,,A. Holiday,HOU,Holiday STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0916,2,09:33,POR,37.0,HOU,35.0,A. Holiday,HOU,Holiday 10' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,89,49,10,1,2.0,2.0,v
+S2324-G0916,2,08:50,POR,,HOU,,A. Holiday,HOU,SUB: VanVleet FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0916,3,01:55,POR,,HOU,,A. Holiday,HOU,Holiday P.FOUL (P1.PN) (D.Collins),Foul,Personal,0,0,0,0,,,v
+S2324-G0916,3,00:04.500000,POR,,HOU,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0916,4,11:40,POR,,HOU,,A. Holiday,HOU,MISS Holiday 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,140,237,28,1,3.0,0.0,v
+S2324-G0916,4,10:36,POR,,HOU,,A. Holiday,HOU,Holiday STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0916,4,09:06,POR,,HOU,,A. Holiday,HOU,MISS Holiday 12' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,43,111,12,1,2.0,0.0,v
+S2324-G0916,4,07:59,POR,,HOU,,A. Holiday,HOU,SUB: VanVleet FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0916,4,01:25,POR,,HOU,,A. Holiday,HOU,Holiday Personal Take Foul (P2.T4) (G.Petraitis),Foul,Personal Take,0,0,0,0,,,v
+S2324-G0916,4,00:54.700000,POR,105.0,HOU,121.0,A. Holiday,HOU,Holiday 17' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,94,143,17,1,2.0,2.0,v
+S2324-G0916,4,00:38.600000,POR,,HOU,,A. Holiday,HOU,MISS Holiday 27' 3PT Jump Shot,Missed Shot,Jump Shot,26,266,27,1,3.0,0.0,v
+S2324-G0916,4,00:22.700000,POR,105.0,HOU,123.0,A. Holiday,HOU,Holiday 10' Driving Floating Jump Shot (6 PTS),Made Shot,Driving Floating Jump Shot,11,98,10,1,2.0,2.0,v
+S2324-G0392,1,00:51.600000,NOP,20.0,HOU,24.0,A. Holiday,HOU,Holiday Free Throw Technical (1 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,v
+S2324-G0392,1,00:31.100000,NOP,,HOU,,A. Holiday,HOU,MISS Holiday 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-28,278,28,1,3.0,0.0,v
+S2324-G0392,4,10:58,NOP,85.0,HOU,83.0,A. Holiday,HOU,Holiday 27' 3PT Jump Shot (4 PTS) (Je. Green 2 AST),Made Shot,Jump Shot,194,192,27,1,3.0,3.0,v
+S2324-G0392,4,10:19,NOP,,HOU,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0392,4,09:18,NOP,88.0,HOU,89.0,A. Holiday,HOU,Holiday Free Throw Technical (5 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,v
+S2324-G0392,4,07:57,NOP,,HOU,,A. Holiday,HOU,Holiday Lost Ball Turnover (P1.T10),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0392,4,07:55,NOP,,HOU,,A. Holiday,HOU,Holiday STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0392,4,07:26,NOP,,HOU,,A. Holiday,HOU,SUB: Sengun FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0957,1,01:00,HOU,,WAS,,A. Holiday,HOU,MISS Holiday 24' 3PT Jump Shot,Missed Shot,Jump Shot,165,181,24,1,3.0,0.0,h
+S2324-G0957,1,00:32.500000,HOU,,WAS,,A. Holiday,HOU,Holiday Double Dribble Turnover (P1.T5),Turnover,Double Dribble,0,0,0,0,,,h
+S2324-G0957,1,00:18.800000,HOU,,WAS,,A. Holiday,HOU,SUB: Ja. Green FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0957,2,09:10,HOU,,WAS,,A. Holiday,HOU,SUB: VanVleet FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0957,4,11:07,HOU,,WAS,,A. Holiday,HOU,Holiday P.FOUL (P1.T1) (S.Foster),Foul,Personal,0,0,0,0,,,h
+S2324-G0957,4,09:44,HOU,,WAS,,A. Holiday,HOU,MISS Holiday 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,157,220,27,1,3.0,0.0,h
+S2324-G0957,4,08:53,HOU,,WAS,,A. Holiday,HOU,MISS Holiday 29' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,31,284,29,1,3.0,0.0,h
+S2324-G0957,4,08:24,HOU,,WAS,,A. Holiday,HOU,SUB: Landale FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0957,4,00:06.200000,HOU,,WAS,,A. Holiday,HOU,Holiday S.FOUL (P2.PN) (D.Richardson),Foul,Shooting,0,0,0,0,,,h
+S2324-G0453,1,01:32,HOU,,DET,,A. Holiday,HOU,Holiday REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0453,1,00:01,HOU,,DET,,A. Holiday,HOU,MISS Holiday 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,246,75,26,1,3.0,0.0,h
+S2324-G0453,3,01:16,HOU,,DET,,A. Holiday,HOU,MISS Holiday 10' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-40,97,10,1,2.0,0.0,h
+S2324-G0453,3,01:10,HOU,,DET,,A. Holiday,HOU,Holiday P.FOUL (P1.PN) (J.Capers),Foul,Personal,0,0,0,0,,,h
+S2324-G0453,3,00:35.500000,HOU,,DET,,A. Holiday,HOU,Holiday REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0453,4,10:04,HOU,,DET,,A. Holiday,HOU,Holiday REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0453,4,08:21,HOU,,DET,,A. Holiday,HOU,MISS Holiday 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-31,205,21,1,2.0,0.0,h
+S2324-G0453,4,06:05,HOU,,DET,,A. Holiday,HOU,SUB: Marjanovic FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G1072,1,01:34,UTA,,HOU,,A. Holiday,HOU,Holiday Out of Bounds Lost Ball Turnover (P1.T2),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2324-G1072,1,01:24,UTA,,HOU,,A. Holiday,HOU,Holiday S.FOUL (P1.PN) (J.Capers),Foul,Shooting,0,0,0,0,,,v
+S2324-G1072,1,00:30.300000,UTA,,HOU,,A. Holiday,HOU,MISS Holiday 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-233,111,26,1,3.0,0.0,v
+S2324-G1072,3,01:42,UTA,,HOU,,A. Holiday,HOU,MISS Holiday 28' 3PT Jump Shot,Missed Shot,Jump Shot,-15,279,28,1,3.0,0.0,v
+S2324-G1072,4,07:43,UTA,,HOU,,A. Holiday,HOU,SUB: Ja. Green FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G1199,1,04:06,LAC,,HOU,,A. Holiday,HOU,Holiday S.FOUL (P1.T1) (T.Ford),Foul,Shooting,0,0,0,0,,,v
+S2324-G1199,1,03:54,LAC,,HOU,,A. Holiday,HOU,Holiday Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G1199,1,03:33,LAC,,HOU,,A. Holiday,HOU,Holiday Bad Pass Turnover (P2.T2),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G1199,1,03:00,LAC,,HOU,,A. Holiday,HOU,MISS Holiday 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-184,184,26,1,3.0,0.0,v
+S2324-G1199,1,02:48,LAC,,HOU,,A. Holiday,HOU,Holiday STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G1199,1,02:44,LAC,,HOU,,A. Holiday,HOU,MISS Holiday 3' Running Layup,Missed Shot,Running Layup Shot,-11,26,3,1,2.0,0.0,v
+S2324-G1199,1,00:17.200000,LAC,,HOU,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1199,1,00:05.400000,LAC,,HOU,,A. Holiday,HOU,Holiday Lost Ball Turnover (P3.T4),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G1199,3,02:19,LAC,,HOU,,A. Holiday,HOU,MISS Holiday 26' 3PT Jump Shot,Missed Shot,Jump Shot,-164,204,26,1,3.0,0.0,v
+S2324-G1199,3,01:20,LAC,78.0,HOU,79.0,A. Holiday,HOU,Holiday 26' 3PT Jump Shot (3 PTS) (Whitmore 3 AST),Made Shot,Jump Shot,-173,196,26,1,3.0,3.0,v
+S2324-G1199,3,01:07,LAC,,HOU,,A. Holiday,HOU,Holiday S.FOUL (P2.T4) (T.Ford),Foul,Shooting,0,0,0,0,,,v
+S2324-G1199,3,00:32.300000,LAC,83.0,HOU,83.0,A. Holiday,HOU,Holiday 4' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,-2,38,4,1,2.0,2.0,v
+S2324-G1199,4,11:38,LAC,,HOU,,A. Holiday,HOU,MISS Holiday 11' Jump Shot,Missed Shot,Jump Shot,103,28,11,1,2.0,0.0,v
+S2324-G1199,4,07:26,LAC,88.0,HOU,96.0,A. Holiday,HOU,Holiday 13' Floating Jump Shot (7 PTS) (Marjanovic 1 AST),Made Shot,Floating Jump shot,37,126,13,1,2.0,2.0,v
+S2324-G1199,4,06:32,LAC,,HOU,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1199,4,06:29,LAC,,HOU,,A. Holiday,HOU,MISS Holiday 6' Running Layup,Missed Shot,Running Layup Shot,-44,33,6,1,2.0,0.0,v
+S2324-G1199,4,05:32,LAC,95.0,HOU,103.0,A. Holiday,HOU,Holiday 15' Driving Floating Jump Shot (9 PTS),Made Shot,Driving Floating Jump Shot,98,120,15,1,2.0,2.0,v
+S2324-G1199,4,04:14,LAC,,HOU,,A. Holiday,HOU,MISS Holiday 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,5,47,5,1,2.0,0.0,v
+S2324-G1199,4,03:35,LAC,,HOU,,A. Holiday,HOU,SUB: Williams FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G1224,1,04:20,DEN,,HOU,,A. Holiday,HOU,MISS Holiday 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,42,17,5,1,2.0,0.0,v
+S2324-G1224,1,02:31,DEN,,HOU,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1224,1,02:29,DEN,,HOU,,A. Holiday,HOU,Holiday Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G1224,3,04:57,DEN,65.0,HOU,75.0,A. Holiday,HOU,Holiday 27' 3PT Jump Shot (3 PTS) (Sengun 7 AST),Made Shot,Jump Shot,113,243,27,1,3.0,3.0,v
+S2324-G1224,3,04:32,DEN,,HOU,,A. Holiday,HOU,Holiday S.FOUL (P1.PN) (J.Orr),Foul,Shooting,0,0,0,0,,,v
+S2324-G1224,3,02:54,DEN,,HOU,,A. Holiday,HOU,Holiday Bad Pass Turnover (P2.T7),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G1224,4,10:33,DEN,76.0,HOU,99.0,A. Holiday,HOU,Holiday 3PT Fadeaway Jumper (6 PTS) (VanVleet 3 AST),Made Shot,Fadeaway Jump Shot,233,27,0,1,3.0,3.0,v
+S2324-G1224,4,08:26,DEN,78.0,HOU,103.0,A. Holiday,HOU,Holiday 2' Driving Floating Jump Shot (8 PTS),Made Shot,Driving Floating Jump Shot,-6,17,2,1,2.0,2.0,v
+S2324-G1224,4,08:26,DEN,,HOU,,A. Holiday,HOU,MISS Holiday Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2324-G1224,4,07:45,DEN,,HOU,,A. Holiday,HOU,MISS Holiday 2' Layup,Missed Shot,Layup Shot,-16,-5,2,1,2.0,0.0,v
+S2324-G1224,4,06:55,DEN,,HOU,,A. Holiday,HOU,SUB: Brooks FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G1183,1,00:53.400000,POR,24.0,HOU,20.0,A. Holiday,HOU,Holiday 4' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,-23,33,4,1,2.0,2.0,v
+S2324-G1183,2,11:31,POR,,HOU,,A. Holiday,HOU,MISS Holiday 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,180,175,25,1,3.0,0.0,v
+S2324-G1183,2,11:15,POR,24.0,HOU,25.0,A. Holiday,HOU,Holiday 12' Running Pull-Up Jump Shot (4 PTS) (Bullock Jr. 1 AST),Made Shot,Running Pull-Up Jump Shot,28,121,12,1,2.0,2.0,v
+S2324-G1183,2,09:22,POR,28.0,HOU,33.0,A. Holiday,HOU,Holiday 11' Turnaround Fadeaway (6 PTS),Made Shot,Turnaround Fadeaway shot,104,29,11,1,2.0,2.0,v
+S2324-G1183,2,09:04,POR,,HOU,,A. Holiday,HOU,Holiday S.FOUL (P1.T1) (K.Cutler),Foul,Shooting,0,0,0,0,,,v
+S2324-G1183,2,06:16,POR,32.0,HOU,43.0,A. Holiday,HOU,Holiday 16' Driving Floating Jump Shot (8 PTS) (Thompson 2 AST),Made Shot,Driving Floating Jump Shot,-66,147,16,1,2.0,2.0,v
+S2324-G1183,2,03:11,POR,,HOU,,A. Holiday,HOU,MISS Holiday 5' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,31,36,5,1,2.0,0.0,v
+S2324-G1183,2,02:41,POR,,HOU,,A. Holiday,HOU,MISS Holiday 26' 3PT Jump Shot,Missed Shot,Jump Shot,207,153,26,1,3.0,0.0,v
+S2324-G1183,2,01:26,POR,,HOU,,A. Holiday,HOU,SUB: Whitmore FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G1183,3,04:58,POR,,HOU,,A. Holiday,HOU,Holiday S.FOUL (P2.T2) (M.Kallio),Foul,Shooting,0,0,0,0,,,v
+S2324-G1183,3,04:01,POR,,HOU,,A. Holiday,HOU,Holiday S.FOUL (P3.T4) (K.Scott),Foul,Shooting,0,0,0,0,,,v
+S2324-G1183,3,01:04,POR,70.0,HOU,81.0,A. Holiday,HOU,Holiday Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1183,3,01:04,POR,70.0,HOU,82.0,A. Holiday,HOU,Holiday Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1183,3,00:03.300000,POR,75.0,HOU,84.0,A. Holiday,HOU,Holiday 3' Turnaround Hook Shot (12 PTS),Made Shot,Turnaround Hook Shot,6,27,3,1,2.0,2.0,v
+S2324-G1183,4,11:40,POR,,HOU,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1183,4,11:22,POR,,HOU,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1183,4,10:06,POR,80.0,HOU,91.0,A. Holiday,HOU,Holiday Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1183,4,10:06,POR,80.0,HOU,92.0,A. Holiday,HOU,Holiday Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1183,4,09:54,POR,,HOU,,A. Holiday,HOU,Holiday P.FOUL (P4.T2) (K.Cutler),Foul,Personal,0,0,0,0,,,v
+S2324-G1183,4,08:07,POR,84.0,HOU,98.0,A. Holiday,HOU,Holiday 13' Driving Floating Jump Shot (16 PTS) (Landale 3 AST),Made Shot,Driving Floating Jump Shot,72,103,13,1,2.0,2.0,v
+S2324-G1183,4,07:11,POR,87.0,HOU,100.0,A. Holiday,HOU,Holiday 4' Running Layup (18 PTS),Made Shot,Running Layup Shot,-32,29,4,1,2.0,2.0,v
+S2324-G1183,4,07:04,POR,,HOU,,A. Holiday,HOU,Holiday T.FOUL (P4.PN) (K.Cutler),Foul,Technical,0,0,0,0,,,v
+S2324-G1183,4,06:52,POR,,HOU,,A. Holiday,HOU,MISS Holiday 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,142,215,26,1,3.0,0.0,v
+S2324-G1183,4,06:44,POR,,HOU,,A. Holiday,HOU,Holiday P.FOUL (P5.PN) (K.Scott),Foul,Personal,0,0,0,0,,,v
+S2324-G1183,4,06:44,POR,,HOU,,A. Holiday,HOU,SUB: Thompson FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G1212,1,02:46,HOU,,OKC,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1212,1,02:08,HOU,,OKC,,A. Holiday,HOU,MISS Holiday 19' Step Back Jump Shot,Missed Shot,Step Back Jump shot,174,88,19,1,2.0,0.0,h
+S2324-G1212,1,01:48,HOU,,OKC,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1212,1,00:32.600000,HOU,,OKC,,A. Holiday,HOU,Holiday S.FOUL (P1.PN) (K.Scott),Foul,Shooting,0,0,0,0,,,h
+S2324-G1212,1,00:12.600000,HOU,,OKC,,A. Holiday,HOU,SUB: Green FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G1212,2,09:21,HOU,36.0,OKC,28.0,A. Holiday,HOU,Holiday 3' Layup (2 PTS),Made Shot,Layup Shot,-23,12,3,1,2.0,2.0,h
+S2324-G1212,2,08:04,HOU,,OKC,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1212,2,07:33,HOU,42.0,OKC,30.0,A. Holiday,HOU,Holiday 3PT Jump Shot (5 PTS) (Smith Jr. 1 AST),Made Shot,Jump Shot,-225,-1,0,1,3.0,3.0,h
+S2324-G1212,2,05:33,HOU,,OKC,,A. Holiday,HOU,Holiday S.FOUL (P2.T2) (S.Twardoski),Foul,Shooting,0,0,0,0,,,h
+S2324-G1212,2,04:24,HOU,,OKC,,A. Holiday,HOU,SUB: Smith Jr. FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G1212,3,05:47,HOU,69.0,OKC,59.0,A. Holiday,HOU,Holiday 25' 3PT Jump Shot (8 PTS) (Sengun 6 AST),Made Shot,Jump Shot,-196,161,25,1,3.0,3.0,h
+S2324-G1212,3,04:10,HOU,,OKC,,A. Holiday,HOU,SUB: Eason FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G1212,4,10:39,HOU,,OKC,,A. Holiday,HOU,MISS Holiday 3' Driving Layup,Missed Shot,Driving Layup Shot,23,15,3,1,2.0,0.0,h
+S2324-G1212,4,10:27,HOU,86.0,OKC,76.0,A. Holiday,HOU,Holiday 3PT Jump Shot (11 PTS) (Sengun 7 AST),Made Shot,Jump Shot,-227,42,0,1,3.0,3.0,h
+S2324-G1212,4,10:04,HOU,,OKC,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1212,4,09:06,HOU,92.0,OKC,80.0,A. Holiday,HOU,Holiday 30' 3PT Jump Shot (14 PTS) (Eason 3 AST),Made Shot,Jump Shot,-17,298,30,1,3.0,3.0,h
+S2324-G1212,4,08:54,HOU,,OKC,,A. Holiday,HOU,Holiday P.FOUL (P3.T3) (S.Twardoski),Foul,Personal,0,0,0,0,,,h
+S2324-G1212,4,08:19,HOU,,OKC,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1212,4,07:44,HOU,97.0,OKC,80.0,A. Holiday,HOU,Holiday 3PT Jump Shot (17 PTS) (Eason 4 AST),Made Shot,Jump Shot,230,4,0,1,3.0,3.0,h
+S2324-G1212,4,07:03,HOU,,OKC,,A. Holiday,HOU,MISS Holiday 24' 3PT Jump Shot,Missed Shot,Jump Shot,232,69,24,1,3.0,0.0,h
+S2324-G1212,4,07:01,HOU,,OKC,,A. Holiday,HOU,Holiday REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1212,4,06:21,HOU,103.0,OKC,86.0,A. Holiday,HOU,Holiday 29' 3PT Jump Shot (20 PTS) (Brooks 1 AST),Made Shot,Jump Shot,5,289,29,1,3.0,3.0,h
+S2324-G1212,4,02:36,HOU,,OKC,,A. Holiday,HOU,Holiday STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1212,4,01:55,HOU,,OKC,,A. Holiday,HOU,MISS Holiday 8' Jump Shot,Missed Shot,Jump Shot,81,-13,8,1,2.0,0.0,h
+S2324-G1212,4,01:29,HOU,109.0,OKC,99.0,A. Holiday,HOU,Holiday 3' Driving Finger Roll Layup (22 PTS),Made Shot,Driving Finger Roll Layup Shot,28,15,3,1,2.0,2.0,h
+S2324-G1212,4,00:46.900000,HOU,,OKC,,A. Holiday,HOU,MISS Holiday 13' Jump Shot,Missed Shot,Jump Shot,-74,106,13,1,2.0,0.0,h
+S2324-G0679,2,07:13,HOU,,NOP,,A. Holiday,HOU,MISS Holiday 24' 3PT Jump Shot,Missed Shot,Jump Shot,234,57,24,1,3.0,0.0,h
+S2324-G0679,2,07:12,HOU,,NOP,,A. Holiday,HOU,Holiday REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0679,2,04:42,HOU,,NOP,,A. Holiday,HOU,MISS Holiday 28' 3PT Jump Shot,Missed Shot,Jump Shot,157,232,28,1,3.0,0.0,h
+S2324-G0679,2,04:11,HOU,,NOP,,A. Holiday,HOU,MISS Holiday 24' 3PT Jump Shot,Missed Shot,Jump Shot,-213,113,24,1,3.0,0.0,h
+S2324-G0679,2,04:03,HOU,,NOP,,A. Holiday,HOU,SUB: VanVleet FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0679,3,03:57,HOU,,NOP,,A. Holiday,HOU,MISS Holiday 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,229,53,24,1,3.0,0.0,h
+S2324-G0679,3,02:13,HOU,,NOP,,A. Holiday,HOU,SUB: VanVleet FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0679,4,00:55.500000,HOU,,NOP,,A. Holiday,HOU,Holiday S.FOUL (P1.PN) (S.Corbin),Foul,Shooting,0,0,0,0,,,h
+S2324-G0854,4,09:48,PHX,,HOU,,A. Holiday,HOU,MISS Holiday 2' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,16,2,1,2.0,0.0,v
+S2324-G0854,4,08:06,PHX,,HOU,,A. Holiday,HOU,Holiday P.FOUL (P1.T4) (B.Nansel),Foul,Personal,0,0,0,0,,,v
+S2324-G0854,4,08:01,PHX,,HOU,,A. Holiday,HOU,SUB: Ja. Green FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0291,1,05:42,LAL,12.0,HOU,21.0,A. Holiday,HOU,Holiday 27' 3PT Jump Shot (3 PTS) (Sengun 3 AST),Made Shot,Jump Shot,-103,252,27,1,3.0,3.0,v
+S2324-G0291,3,04:22,LAL,76.0,HOU,62.0,A. Holiday,HOU,Holiday 21' Driving Floating Jump Shot (5 PTS) (VanVleet 5 AST),Made Shot,Driving Floating Jump Shot,150,149,21,1,2.0,2.0,v
+S2324-G0291,3,02:57,LAL,,HOU,,A. Holiday,HOU,Holiday REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0291,3,02:55,LAL,,HOU,,A. Holiday,HOU,MISS Holiday 25' 3PT Jump Shot,Missed Shot,Jump Shot,1,252,25,1,3.0,0.0,v
+S2324-G0291,3,02:40,LAL,,HOU,,A. Holiday,HOU,Holiday P.FOUL (P1.T2) (J.Orr),Foul,Personal,0,0,0,0,,,v
+S2324-G0291,3,00:29.800000,LAL,82.0,HOU,72.0,A. Holiday,HOU,Holiday 3' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,5,26,3,1,2.0,2.0,v
+S2324-G0291,3,00:07.400000,LAL,,HOU,,A. Holiday,HOU,Holiday P.FOUL (P2.PN) (T.Maddox),Foul,Personal,0,0,0,0,,,v
+S2324-G0291,4,02:15,LAL,106.0,HOU,93.0,A. Holiday,HOU,Holiday 16' Driving Floating Jump Shot (9 PTS) (Whitmore 1 AST),Made Shot,Driving Floating Jump Shot,44,150,16,1,2.0,2.0,v
+S2324-G0291,4,01:06,LAL,107.0,HOU,97.0,A. Holiday,HOU,Holiday 2' Driving Layup (11 PTS),Made Shot,Driving Layup Shot,-1,16,2,1,2.0,2.0,v
+S2324-G0897,2,09:57,HOU,32.0,LAC,25.0,A. Holiday,HOU,Holiday 27' 3PT Jump Shot (3 PTS) (VanVleet 2 AST),Made Shot,Jump Shot,212,162,27,1,3.0,3.0,h
+S2324-G0897,2,09:19,HOU,,LAC,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0897,2,06:10,HOU,,LAC,,A. Holiday,HOU,MISS Holiday 24' 3PT Jump Shot,Missed Shot,Jump Shot,222,90,24,1,3.0,0.0,h
+S2324-G0897,2,06:07,HOU,46.0,LAC,28.0,A. Holiday,HOU,Holiday 3PT Jump Shot (6 PTS) (Sengun 6 AST),Made Shot,Jump Shot,230,-10,0,1,3.0,3.0,h
+S2324-G0897,2,05:44,HOU,,LAC,,A. Holiday,HOU,SUB: Brooks FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0182,1,04:48,HOU,,DEN,,A. Holiday,HOU,MISS Holiday 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,37,247,25,1,3.0,0.0,h
+S2324-G0182,1,03:31,HOU,,DEN,,A. Holiday,HOU,MISS Holiday 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,100,141,17,1,2.0,0.0,h
+S2324-G0182,1,02:41,HOU,,DEN,,A. Holiday,HOU,MISS Holiday 26' 3PT Jump Shot,Missed Shot,Jump Shot,-59,249,26,1,3.0,0.0,h
+S2324-G0182,1,02:27,HOU,18.0,DEN,21.0,A. Holiday,HOU,Holiday 10' Driving Floating Jump Shot (2 PTS) (Eason 1 AST),Made Shot,Driving Floating Jump Shot,-16,95,10,1,2.0,2.0,h
+S2324-G0182,1,01:26,HOU,21.0,DEN,25.0,A. Holiday,HOU,Holiday 29' 3PT Jump Shot (5 PTS) (Ja. Green 4 AST),Made Shot,Jump Shot,-138,251,29,1,3.0,3.0,h
+S2324-G0182,1,00:00,HOU,,DEN,,A. Holiday,HOU,MISS Holiday 25' 3PT Jump Shot,Missed Shot,Jump Shot,115,223,25,1,3.0,0.0,h
+S2324-G0182,2,10:09,HOU,,DEN,,A. Holiday,HOU,MISS Holiday 7' Floating Jump Shot,Missed Shot,Floating Jump shot,48,48,7,1,2.0,0.0,h
+S2324-G0182,2,09:39,HOU,,DEN,,A. Holiday,HOU,SUB: Smith Jr. FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0182,3,02:02,HOU,,DEN,,A. Holiday,HOU,SUB: Ja. Green FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0182,4,11:29,HOU,,DEN,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0182,4,07:42,HOU,,DEN,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0182,4,06:20,HOU,,DEN,,A. Holiday,HOU,Holiday S.FOUL (P1.T4) (J.Butler),Foul,Shooting,0,0,0,0,,,h
+S2324-G0182,4,05:57,HOU,,DEN,,A. Holiday,HOU,MISS Holiday 25' 3PT Jump Shot,Missed Shot,Jump Shot,44,250,25,1,3.0,0.0,h
+S2324-G0182,4,05:42,HOU,,DEN,,A. Holiday,HOU,SUB: Ja. Green FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0992,2,10:02,WAS,39.0,HOU,43.0,A. Holiday,HOU,Holiday 11' Floating Jump Shot (2 PTS),Made Shot,Floating Jump shot,110,33,11,1,2.0,2.0,v
+S2324-G0992,2,09:06,WAS,,HOU,,A. Holiday,HOU,SUB: VanVleet FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0992,3,03:50,WAS,,HOU,,A. Holiday,HOU,Holiday BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0992,3,02:34,WAS,,HOU,,A. Holiday,HOU,Holiday STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0992,4,11:18,WAS,,HOU,,A. Holiday,HOU,MISS Holiday 4' Driving Layup,Missed Shot,Driving Layup Shot,-11,43,4,1,2.0,0.0,v
+S2324-G0992,4,11:01,WAS,,HOU,,A. Holiday,HOU,MISS Holiday 3PT Jump Shot,Missed Shot,Jump Shot,228,6,0,1,3.0,0.0,v
+S2324-G0992,4,09:44,WAS,,HOU,,A. Holiday,HOU,MISS Holiday 27' 3PT Jump Shot,Missed Shot,Jump Shot,-64,267,27,1,3.0,0.0,v
+S2324-G0992,4,08:12,WAS,,HOU,,A. Holiday,HOU,Holiday STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0992,4,07:07,WAS,,HOU,,A. Holiday,HOU,SUB: Thompson FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0992,4,03:48,WAS,98.0,HOU,120.0,A. Holiday,HOU,Holiday 3PT Jump Shot (5 PTS) (VanVleet 11 AST),Made Shot,Jump Shot,229,3,0,1,3.0,3.0,v
+S2324-G0992,4,03:36,WAS,,HOU,,A. Holiday,HOU,Holiday S.FOUL (P1.T2) (K.Scott),Foul,Shooting,0,0,0,0,,,v
+S2324-G0992,4,03:23,WAS,101.0,HOU,121.0,A. Holiday,HOU,Holiday Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0992,4,03:23,WAS,101.0,HOU,122.0,A. Holiday,HOU,Holiday Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0992,4,02:57,WAS,,HOU,,A. Holiday,HOU,MISS Holiday 24' 3PT Jump Shot,Missed Shot,Jump Shot,-230,83,24,1,3.0,0.0,v
+S2324-G0992,4,02:07,WAS,,HOU,,A. Holiday,HOU,Holiday Personal Take Foul (P2.T3) (P.Fraher),Foul,Personal Take,0,0,0,0,,,v
+S2324-G0992,4,01:33,WAS,,HOU,,A. Holiday,HOU,MISS Holiday 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,294,29,1,3.0,0.0,v
+S2324-G0496,1,02:25,HOU,,MIL,,A. Holiday,HOU,MISS Holiday 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-150,209,26,1,3.0,0.0,h
+S2324-G0496,1,00:56.200000,HOU,24.0,MIL,18.0,A. Holiday,HOU,Holiday 24' 3PT Jump Shot (3 PTS) (Thompson 2 AST),Made Shot,Jump Shot,-202,136,24,1,3.0,3.0,h
+S2324-G0496,2,11:10,HOU,,MIL,,A. Holiday,HOU,Holiday Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0496,2,10:29,HOU,31.0,MIL,25.0,A. Holiday,HOU,Holiday 12' Driving Floating Jump Shot (5 PTS) (Thompson 3 AST),Made Shot,Driving Floating Jump Shot,-104,59,12,1,2.0,2.0,h
+S2324-G0496,2,08:43,HOU,,MIL,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0496,2,06:53,HOU,41.0,MIL,31.0,A. Holiday,HOU,Holiday 25' 3PT Jump Shot (8 PTS) (VanVleet 1 AST),Made Shot,Jump Shot,-170,180,25,1,3.0,3.0,h
+S2324-G0496,2,05:02,HOU,,MIL,,A. Holiday,HOU,SUB: Ja. Green FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0496,3,04:36,HOU,81.0,MIL,68.0,A. Holiday,HOU,Holiday 25' 3PT Jump Shot (11 PTS) (Sengun 3 AST),Made Shot,Jump Shot,129,214,25,1,3.0,3.0,h
+S2324-G0496,3,00:11,HOU,,MIL,,A. Holiday,HOU,Holiday P.FOUL (P1.PN) (B.Forte),Foul,Personal,0,0,0,0,,,h
+S2324-G0496,4,11:08,HOU,,MIL,,A. Holiday,HOU,MISS Holiday 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,110,251,27,1,3.0,0.0,h
+S2324-G0496,4,09:29,HOU,,MIL,,A. Holiday,HOU,MISS Holiday 16' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-94,125,16,1,2.0,0.0,h
+S2324-G0496,4,08:11,HOU,,MIL,,A. Holiday,HOU,Holiday Out of Bounds Lost Ball Turnover (P2.T7),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2324-G0496,4,07:56,HOU,,MIL,,A. Holiday,HOU,SUB: Tate FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0496,4,00:05.100000,HOU,,MIL,,A. Holiday,HOU,SUB: Smith Jr. FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0603,1,04:15,HOU,,BOS,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0603,1,03:36,HOU,16.0,BOS,25.0,A. Holiday,HOU,Holiday 13' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,-7,127,13,1,2.0,2.0,h
+S2324-G0603,1,02:39,HOU,,BOS,,A. Holiday,HOU,Holiday S.FOUL (P1.T3) (T.Washington),Foul,Shooting,0,0,0,0,,,h
+S2324-G0603,1,01:53,HOU,22.0,BOS,31.0,A. Holiday,HOU,Holiday 1' Driving Reverse Layup (4 PTS),Made Shot,Driving Reverse Layup Shot,5,12,1,1,2.0,2.0,h
+S2324-G0603,1,00:51.300000,HOU,,BOS,,A. Holiday,HOU,Holiday P.FOUL (P2.T4) (D.Guthrie),Foul,Personal,0,0,0,0,,,h
+S2324-G0603,2,10:55,HOU,29.0,BOS,37.0,A. Holiday,HOU,Holiday 2' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,-18,10,2,1,2.0,2.0,h
+S2324-G0603,2,08:59,HOU,,BOS,,A. Holiday,HOU,Holiday P.FOUL (P3.T1) (D.Guthrie),Foul,Personal,0,0,0,0,,,h
+S2324-G0603,2,08:59,HOU,,BOS,,A. Holiday,HOU,Holiday T.FOUL (P3.T1) (D.Guthrie),Foul,Technical,0,0,0,0,,,h
+S2324-G0603,2,08:59,HOU,,BOS,,A. Holiday,HOU,SUB: Thompson FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0603,3,05:53,HOU,,BOS,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0603,3,04:47,HOU,,BOS,,A. Holiday,HOU,Holiday Step Out of Bounds Turnover (P1.T9),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2324-G0603,3,03:03,HOU,,BOS,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0603,3,02:45,HOU,,BOS,,A. Holiday,HOU,Holiday Bad Pass Turnover (P2.T12),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0603,3,02:25,HOU,80.0,BOS,85.0,A. Holiday,HOU,Holiday 25' 3PT Jump Shot (9 PTS) (Sengun 8 AST),Made Shot,Jump Shot,-72,236,25,1,3.0,3.0,h
+S2324-G0603,4,10:19,HOU,,BOS,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0603,4,08:46,HOU,,BOS,,A. Holiday,HOU,MISS Holiday 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-82,236,25,1,3.0,0.0,h
+S2324-G0603,4,07:02,HOU,,BOS,,A. Holiday,HOU,Holiday STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0603,4,06:07,HOU,,BOS,,A. Holiday,HOU,MISS Holiday 26' 3PT Jump Shot,Missed Shot,Jump Shot,-105,240,26,1,3.0,0.0,h
+S2324-G0603,4,05:24,HOU,,BOS,,A. Holiday,HOU,Holiday S.FOUL (P4.T3) (D.Guthrie),Foul,Shooting,0,0,0,0,,,h
+S2324-G0603,4,03:54,HOU,,BOS,,A. Holiday,HOU,MISS Holiday 24' 3PT Jump Shot,Missed Shot,Jump Shot,238,25,24,1,3.0,0.0,h
+S2324-G0603,4,03:19,HOU,99.0,BOS,107.0,A. Holiday,HOU,Holiday 26' 3PT Jump Shot (12 PTS) (Sengun 10 AST),Made Shot,Jump Shot,36,261,26,1,3.0,3.0,h
+S2324-G0137,1,03:43,HOU,,SAC,,A. Holiday,HOU,MISS Holiday 5' Running Layup,Missed Shot,Running Layup Shot,-44,20,5,1,2.0,0.0,h
+S2324-G0137,1,02:02,HOU,,SAC,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0137,1,00:27.700000,HOU,,SAC,,A. Holiday,HOU,MISS Holiday 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,224,44,0,1,3.0,0.0,h
+S2324-G0137,2,09:19,HOU,,SAC,,A. Holiday,HOU,SUB: Ja. Green FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0137,2,03:43,HOU,,SAC,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0137,2,03:02,HOU,,SAC,,A. Holiday,HOU,MISS Holiday 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,-11,18,2,1,2.0,0.0,h
+S2324-G0137,2,02:01,HOU,,SAC,,A. Holiday,HOU,SUB: VanVleet FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0137,3,02:06,HOU,,SAC,,A. Holiday,HOU,Holiday REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0137,3,02:05,HOU,,SAC,,A. Holiday,HOU,Holiday Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0137,3,01:27,HOU,,SAC,,A. Holiday,HOU,MISS Holiday 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-91,262,28,1,3.0,0.0,h
+S2324-G0137,4,06:26,HOU,,SAC,,A. Holiday,HOU,Holiday S.FOUL (P1.T4) (S.Wright),Foul,Shooting,0,0,0,0,,,h
+S2324-G0137,4,04:50,HOU,,SAC,,A. Holiday,HOU,SUB: VanVleet FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0434,1,04:48,HOU,,PHI,,A. Holiday,HOU,Holiday STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0434,1,04:42,HOU,,PHI,,A. Holiday,HOU,MISS Holiday 4' Driving Layup,Missed Shot,Driving Layup Shot,39,13,4,1,2.0,0.0,h
+S2324-G0434,1,04:14,HOU,,PHI,,A. Holiday,HOU,Holiday STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0434,1,04:05,HOU,,PHI,,A. Holiday,HOU,Holiday REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0434,1,02:05,HOU,26.0,PHI,22.0,A. Holiday,HOU,Holiday 3' Driving Finger Roll Layup (2 PTS) (Ja. Green 1 AST),Made Shot,Driving Finger Roll Layup Shot,25,17,3,1,2.0,2.0,h
+S2324-G0434,2,11:07,HOU,,PHI,,A. Holiday,HOU,MISS Holiday 10' Floating Jump Shot,Missed Shot,Floating Jump shot,40,95,10,1,2.0,0.0,h
+S2324-G0434,2,10:33,HOU,,PHI,,A. Holiday,HOU,Holiday Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0434,2,09:50,HOU,,PHI,,A. Holiday,HOU,MISS Holiday 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-91,244,26,1,3.0,0.0,h
+S2324-G0434,2,09:33,HOU,,PHI,,A. Holiday,HOU,SUB: VanVleet FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0434,3,01:48,HOU,,PHI,,A. Holiday,HOU,Holiday REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0434,4,11:50,HOU,,PHI,,A. Holiday,HOU,Holiday Bad Pass Turnover (P2.T13),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0434,4,11:25,HOU,99.0,PHI,90.0,A. Holiday,HOU,Holiday 17' Step Back Jump Shot (4 PTS),Made Shot,Step Back Jump shot,-33,171,17,1,2.0,2.0,h
+S2324-G0434,4,10:57,HOU,,PHI,,A. Holiday,HOU,Holiday OFF.Foul (P1) (R.Acosta),Foul,Offensive,0,0,0,0,,,h
+S2324-G0434,4,10:57,HOU,,PHI,,A. Holiday,HOU,Holiday Offensive Foul Turnover (P3.T14),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0434,4,10:43,HOU,,PHI,,A. Holiday,HOU,Holiday P.FOUL (P2.T1) (B.Maru),Foul,Personal,0,0,0,0,,,h
+S2324-G0434,4,08:27,HOU,,PHI,,A. Holiday,HOU,SUB: Sengun FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0434,4,00:00,HOU,,PHI,,A. Holiday,HOU,MISS Holiday 42' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,39,420,42,1,3.0,0.0,h
+S2324-G0967,1,01:15,HOU,,CLE,,A. Holiday,HOU,Holiday P.FOUL (P1.T4) (P.Ransom),Foul,Personal,0,0,0,0,,,h
+S2324-G0967,1,00:40.500000,HOU,,CLE,,A. Holiday,HOU,Holiday S.FOUL (P2.PN) (B.Forte),Foul,Shooting,0,0,0,0,,,h
+S2324-G0967,2,09:26,HOU,,CLE,,A. Holiday,HOU,Holiday P.FOUL (P3.T2) (P.Ransom),Foul,Personal,0,0,0,0,,,h
+S2324-G0967,2,09:19,HOU,,CLE,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0967,2,08:14,HOU,,CLE,,A. Holiday,HOU,MISS Holiday 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-109,236,26,1,3.0,0.0,h
+S2324-G0967,2,07:47,HOU,,CLE,,A. Holiday,HOU,SUB: Landale FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0967,4,11:35,HOU,,CLE,,A. Holiday,HOU,MISS Holiday 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-66,239,25,1,3.0,0.0,h
+S2324-G0967,4,11:09,HOU,,CLE,,A. Holiday,HOU,MISS Holiday 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,123,111,17,1,2.0,0.0,h
+S2324-G0967,4,08:47,HOU,,CLE,,A. Holiday,HOU,SUB: Thompson FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0967,4,01:40,HOU,,CLE,,A. Holiday,HOU,Holiday STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0967,4,00:58.100000,HOU,117.0,CLE,100.0,A. Holiday,HOU,Holiday 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,-10,9,1,1,2.0,2.0,h
+S2324-G0822,2,11:46,HOU,36.0,OKC,31.0,A. Holiday,HOU,Holiday 12' Driving Floating Jump Shot (2 PTS) (Je. Green 1 AST),Made Shot,Driving Floating Jump Shot,-60,107,12,1,2.0,2.0,h
+S2324-G0822,2,10:22,HOU,,OKC,,A. Holiday,HOU,MISS Holiday 6' Driving Layup,Missed Shot,Driving Layup Shot,-42,42,6,1,2.0,0.0,h
+S2324-G0822,2,08:57,HOU,,OKC,,A. Holiday,HOU,MISS Holiday 5' Driving Layup,Missed Shot,Driving Layup Shot,-21,43,5,1,2.0,0.0,h
+S2324-G0822,2,08:24,HOU,43.0,OKC,31.0,A. Holiday,HOU,Holiday 13' Fadeaway Jumper (4 PTS),Made Shot,Fadeaway Jump Shot,-92,96,13,1,2.0,2.0,h
+S2324-G0822,2,07:52,HOU,46.0,OKC,33.0,A. Holiday,HOU,Holiday 26' 3PT Step Back Jump Shot (7 PTS),Made Shot,Step Back Jump shot,150,211,26,1,3.0,3.0,h
+S2324-G0822,2,06:26,HOU,,OKC,,A. Holiday,HOU,SUB: Ja. Green FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0822,4,09:32,HOU,,OKC,,A. Holiday,HOU,SUB: Sengun FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0822,4,01:02,HOU,,OKC,,A. Holiday,HOU,Holiday Lost Ball Turnover (P1.T18),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0623,2,09:24,HOU,,POR,,A. Holiday,HOU,Holiday STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0623,2,09:17,HOU,41.0,POR,32.0,A. Holiday,HOU,Holiday 29' 3PT Running Pull-Up Jump Shot (3 PTS) (VanVleet 2 AST),Made Shot,Running Pull-Up Jump Shot,-199,205,29,1,3.0,3.0,h
+S2324-G0623,2,08:54,HOU,,POR,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0623,2,07:28,HOU,,POR,,A. Holiday,HOU,MISS Holiday 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,51,4,5,1,2.0,0.0,h
+S2324-G0623,2,06:52,HOU,48.0,POR,37.0,A. Holiday,HOU,Holiday Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0623,2,06:52,HOU,49.0,POR,37.0,A. Holiday,HOU,Holiday Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0623,2,06:02,HOU,,POR,,A. Holiday,HOU,SUB: VanVleet FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0623,3,03:12,HOU,89.0,POR,88.0,A. Holiday,HOU,Holiday 26' 3PT Jump Shot (8 PTS) (Sengun 7 AST),Made Shot,Jump Shot,29,263,26,1,3.0,3.0,h
+S2324-G0623,4,11:42,HOU,97.0,POR,98.0,A. Holiday,HOU,Holiday Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0623,4,11:42,HOU,98.0,POR,98.0,A. Holiday,HOU,Holiday Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0623,4,08:51,HOU,,POR,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0623,4,00:01.600000,HOU,123.0,POR,121.0,A. Holiday,HOU,Holiday Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0623,4,00:01.600000,HOU,124.0,POR,121.0,A. Holiday,HOU,Holiday Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0623,5,02:30,HOU,,POR,,A. Holiday,HOU,MISS Holiday 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,208,158,26,1,3.0,0.0,h
+S2324-G0623,5,01:25,HOU,,POR,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0048,1,03:45,HOU,,DEN,,A. Holiday,HOU,Holiday S.FOUL (P1.T3) (K.Lane),Foul,Shooting,0,0,0,0,,,h
+S2324-G0048,1,02:37,HOU,21.0,DEN,19.0,A. Holiday,HOU,Holiday 11' Driving Hook Shot (2 PTS) (VanVleet 2 AST),Made Shot,Driving Hook Shot,-99,50,11,1,2.0,2.0,h
+S2324-G0048,1,02:01,HOU,24.0,DEN,19.0,A. Holiday,HOU,Holiday 26' 3PT Jump Shot (5 PTS) (Sengun 3 AST),Made Shot,Jump Shot,53,253,26,1,3.0,3.0,h
+S2324-G0048,2,02:36,HOU,,DEN,,A. Holiday,HOU,Holiday STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0048,3,04:13,HOU,83.0,DEN,61.0,A. Holiday,HOU,Holiday 3' Driving Reverse Layup (7 PTS),Made Shot,Driving Reverse Layup Shot,21,14,3,1,2.0,2.0,h
+S2324-G0048,3,03:06,HOU,,DEN,,A. Holiday,HOU,Holiday P.FOUL (P2.T4) (J.Goble),Foul,Personal,0,0,0,0,,,h
+S2324-G0048,3,02:04,HOU,,DEN,,A. Holiday,HOU,MISS Holiday 15' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,116,94,15,1,2.0,0.0,h
+S2324-G0048,3,00:48.100000,HOU,,DEN,,A. Holiday,HOU,Holiday BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0418,1,02:02,HOU,,PHX,,A. Holiday,HOU,MISS Holiday 28' 3PT Jump Shot,Missed Shot,Jump Shot,-152,238,28,1,3.0,0.0,h
+S2324-G0418,1,01:45,HOU,,PHX,,A. Holiday,HOU,Holiday S.FOUL (P1.T3) (M.Smith),Foul,Shooting,0,0,0,0,,,h
+S2324-G0418,1,01:27,HOU,,PHX,,A. Holiday,HOU,Holiday Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G0418,1,00:36,HOU,23.0,PHX,30.0,A. Holiday,HOU,Holiday 26' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,152,215,26,1,3.0,3.0,h
+S2324-G0418,2,10:50,HOU,,PHX,,A. Holiday,HOU,MISS Holiday 26' 3PT Jump Shot,Missed Shot,Jump Shot,22,264,26,1,3.0,0.0,h
+S2324-G0418,2,10:46,HOU,,PHX,,A. Holiday,HOU,MISS Holiday 28' 3PT Jump Shot,Missed Shot,Jump Shot,-115,252,28,1,3.0,0.0,h
+S2324-G0418,2,08:40,HOU,,PHX,,A. Holiday,HOU,SUB: Ja. Green FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0418,3,00:00.800000,HOU,,PHX,,A. Holiday,HOU,Holiday S.FOUL (P2.PN) (B.Schwab),Foul,Shooting,0,0,0,0,,,h
+S2324-G0418,4,10:30,HOU,,PHX,,A. Holiday,HOU,MISS Holiday 2' Running Layup,Missed Shot,Running Layup Shot,17,8,2,1,2.0,0.0,h
+S2324-G0418,4,07:17,HOU,,PHX,,A. Holiday,HOU,MISS Holiday 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-15,255,26,1,3.0,0.0,h
+S2324-G0418,4,04:46,HOU,105.0,PHX,118.0,A. Holiday,HOU,Holiday 10' Turnaround Fadeaway (5 PTS),Made Shot,Turnaround Fadeaway shot,86,57,10,1,2.0,2.0,h
+S2324-G0418,4,04:03,HOU,,PHX,,A. Holiday,HOU,MISS Holiday 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,10,77,8,1,2.0,0.0,h
+S2324-G0418,4,03:35,HOU,108.0,PHX,121.0,A. Holiday,HOU,Holiday 26' 3PT Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,157,201,26,1,3.0,3.0,h
+S2324-G0418,4,03:17,HOU,,PHX,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0418,4,03:06,HOU,,PHX,,A. Holiday,HOU,MISS Holiday 4' Driving Layup,Missed Shot,Driving Layup Shot,23,29,4,1,2.0,0.0,h
+S2324-G0418,4,02:27,HOU,,PHX,,A. Holiday,HOU,MISS Holiday 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-87,274,29,1,3.0,0.0,h
+S2324-G0418,4,01:32,HOU,,PHX,,A. Holiday,HOU,Holiday Traveling Turnover (P2.T10),Turnover,Traveling,0,0,0,0,,,h
+S2324-G0418,4,01:03,HOU,111.0,PHX,129.0,A. Holiday,HOU,Holiday 27' 3PT Jump Shot (11 PTS) (Bullock Jr. 1 AST),Made Shot,Jump Shot,224,153,27,1,3.0,3.0,h
+S2324-G0418,4,00:42.200000,HOU,,PHX,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0418,4,00:34,HOU,112.0,PHX,129.0,A. Holiday,HOU,Holiday Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0418,4,00:34,HOU,113.0,PHX,129.0,A. Holiday,HOU,Holiday Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0418,4,00:10.200000,HOU,,PHX,,A. Holiday,HOU,MISS Holiday 7' Floating Jump Shot,Missed Shot,Floating Jump shot,-9,69,7,1,2.0,0.0,h
+S2324-G1120,1,01:15,HOU,,MIA,,A. Holiday,HOU,MISS Holiday 25' 3PT Jump Shot,Missed Shot,Jump Shot,152,199,25,1,3.0,0.0,h
+S2324-G1120,2,09:13,HOU,,MIA,,A. Holiday,HOU,SUB: VanVleet FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G1120,4,01:28,HOU,,MIA,,A. Holiday,HOU,Holiday Personal Take Foul (P1.T2) (E.Scott),Foul,Personal Take,0,0,0,0,,,h
+S2324-G1120,4,00:07.100000,HOU,,MIA,,A. Holiday,HOU,MISS Holiday 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,33,-7,3,1,2.0,0.0,h
+S2324-G0224,1,02:50,GSW,20.0,HOU,25.0,A. Holiday,HOU,Holiday 3PT Jump Shot (3 PTS),Made Shot,Jump Shot,-227,47,0,1,3.0,3.0,v
+S2324-G0224,1,02:23,GSW,,HOU,,A. Holiday,HOU,MISS Holiday 28' 3PT Jump Shot,Missed Shot,Jump Shot,-29,281,28,1,3.0,0.0,v
+S2324-G0224,2,09:35,GSW,,HOU,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0224,2,07:41,GSW,,HOU,,A. Holiday,HOU,SUB: Brooks FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0224,3,05:25,GSW,,HOU,,A. Holiday,HOU,Holiday STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0224,3,05:03,GSW,,HOU,,A. Holiday,HOU,Holiday STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0224,3,04:11,GSW,,HOU,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0224,3,02:59,GSW,87.0,HOU,76.0,A. Holiday,HOU,Holiday 26' 3PT Jump Shot (6 PTS) (Sengun 4 AST),Made Shot,Jump Shot,25,256,26,1,3.0,3.0,v
+S2324-G0224,3,02:35,GSW,,HOU,,A. Holiday,HOU,Holiday S.FOUL (P1.T4) (Z.Zarba),Foul,Shooting,0,0,0,0,,,v
+S2324-G0224,3,02:01,GSW,,HOU,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0224,3,00:57,GSW,89.0,HOU,79.0,A. Holiday,HOU,Holiday 25' 3PT Jump Shot (9 PTS) (Ja. Green 2 AST),Made Shot,Jump Shot,-165,188,25,1,3.0,3.0,v
+S2324-G0224,3,00:37.300000,GSW,,HOU,,A. Holiday,HOU,Holiday P.FOUL (P2.PN) (M.Kogut),Foul,Personal,0,0,0,0,,,v
+S2324-G0224,4,11:40,GSW,,HOU,,A. Holiday,HOU,Holiday STEAL (3 STL),,,0,0,0,0,,,v
+S2324-G0224,4,11:30,GSW,92.0,HOU,83.0,A. Holiday,HOU,Holiday 4' Driving Layup (11 PTS) (Brooks 2 AST),Made Shot,Driving Layup Shot,-33,17,4,1,2.0,2.0,v
+S2324-G0224,4,11:30,GSW,,HOU,,A. Holiday,HOU,MISS Holiday Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2324-G0224,4,10:12,GSW,,HOU,,A. Holiday,HOU,Holiday STEAL (4 STL),,,0,0,0,0,,,v
+S2324-G0224,4,10:11,GSW,97.0,HOU,86.0,A. Holiday,HOU,Holiday Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0224,4,10:11,GSW,97.0,HOU,87.0,A. Holiday,HOU,Holiday Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0224,4,02:53,GSW,,HOU,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0224,4,00:10.300000,GSW,,HOU,,A. Holiday,HOU,Holiday P.FOUL (P3.PN) (M.Kogut),Foul,Personal,0,0,0,0,,,v
+S2324-G0635,2,08:40,CHA,,HOU,,A. Holiday,HOU,MISS Holiday 27' 3PT Jump Shot,Missed Shot,Jump Shot,-99,247,27,1,3.0,0.0,v
+S2324-G0635,2,06:46,CHA,36.0,HOU,43.0,A. Holiday,HOU,Holiday 28' 3PT Jump Shot (3 PTS) (VanVleet 1 AST),Made Shot,Jump Shot,-96,262,28,1,3.0,3.0,v
+S2324-G0635,2,05:24,CHA,,HOU,,A. Holiday,HOU,Holiday S.FOUL (P1.T4) (B.Barnaky),Foul,Shooting,0,0,0,0,,,v
+S2324-G0635,2,05:24,CHA,,HOU,,A. Holiday,HOU,SUB: Sengun FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0635,4,11:23,CHA,,HOU,,A. Holiday,HOU,Holiday S.FOUL (P2.T1) (J.Capers),Foul,Shooting,0,0,0,0,,,v
+S2324-G0635,4,10:20,CHA,,HOU,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0635,4,08:21,CHA,83.0,HOU,118.0,A. Holiday,HOU,Holiday 7' Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,-44,59,7,1,2.0,2.0,v
+S2324-G0635,4,07:19,CHA,87.0,HOU,124.0,A. Holiday,HOU,Holiday 26' 3PT Jump Shot (8 PTS) (Thompson 7 AST),Made Shot,Jump Shot,105,240,26,1,3.0,3.0,v
+S2324-G0635,4,06:17,CHA,89.0,HOU,128.0,A. Holiday,HOU,Holiday 11' Driving Floating Jump Shot (10 PTS),Made Shot,Driving Floating Jump Shot,-32,101,11,1,2.0,2.0,v
+S2324-G0635,4,05:33,CHA,,HOU,,A. Holiday,HOU,Holiday Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0635,4,05:13,CHA,,HOU,,A. Holiday,HOU,Holiday Traveling Turnover (P2.T10),Turnover,Traveling,0,0,0,0,,,v
+S2324-G0635,4,02:44,CHA,,HOU,,A. Holiday,HOU,MISS Holiday 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-33,258,26,1,3.0,0.0,v
+S2324-G1024,2,11:28,HOU,,UTA,,A. Holiday,HOU,MISS Holiday 27' 3PT Jump Shot,Missed Shot,Jump Shot,-154,221,27,1,3.0,0.0,h
+S2324-G1024,2,10:24,HOU,51.0,UTA,25.0,A. Holiday,HOU,Holiday 12' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,61,106,12,1,2.0,2.0,h
+S2324-G1024,2,09:53,HOU,,UTA,,A. Holiday,HOU,MISS Holiday 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,163,209,27,1,3.0,0.0,h
+S2324-G1024,2,09:21,HOU,,UTA,,A. Holiday,HOU,MISS Holiday 5' Driving Bank Hook Shot,Missed Shot,Driving Bank Hook Shot,-40,30,5,1,2.0,0.0,h
+S2324-G1024,2,08:22,HOU,,UTA,,A. Holiday,HOU,MISS Holiday 9' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-54,71,9,1,2.0,0.0,h
+S2324-G1024,2,07:23,HOU,,UTA,,A. Holiday,HOU,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1024,2,06:49,HOU,,UTA,,A. Holiday,HOU,SUB: VanVleet FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G1024,4,08:19,HOU,130.0,UTA,101.0,A. Holiday,HOU,Holiday 6' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,-45,44,6,1,2.0,2.0,h
+S2324-G1024,4,06:53,HOU,,UTA,,A. Holiday,HOU,Holiday S.FOUL (P1.T4) (R.Hussey),Foul,Shooting,0,0,0,0,,,h
+S2324-G1024,4,03:04,HOU,139.0,UTA,112.0,A. Holiday,HOU,Holiday 28' 3PT Jump Shot (7 PTS) (Thompson 6 AST),Made Shot,Jump Shot,-51,274,28,1,3.0,3.0,h

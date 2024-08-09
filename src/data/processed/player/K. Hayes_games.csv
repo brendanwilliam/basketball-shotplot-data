@@ -1,0 +1,774 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2324-G0421,1,01:12,BOS,,DET,,K. Hayes,DET,MISS Hayes 12' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,25,113,12,1,2.0,0.0,v
+S2324-G0421,1,00:21.300000,BOS,24.0,DET,30.0,K. Hayes,DET,Hayes 17' Pullup Jump Shot (2 PTS) (Bogdanovic 2 AST),Made Shot,Pullup Jump shot,-86,149,17,1,2.0,2.0,v
+S2324-G0421,1,00:02.800000,BOS,,DET,,K. Hayes,DET,Hayes Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0421,2,09:42,BOS,,DET,,K. Hayes,DET,Hayes STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0421,2,09:38,BOS,,DET,,K. Hayes,DET,Hayes Out of Bounds - Bad Pass Turnover Turnover (P2.T5),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0421,2,08:44,BOS,,DET,,K. Hayes,DET,SUB: Cunningham FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0421,3,03:46,BOS,,DET,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0421,3,02:53,BOS,,DET,,K. Hayes,DET,MISS Hayes 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-1,162,16,1,2.0,0.0,v
+S2324-G0421,3,02:22,BOS,,DET,,K. Hayes,DET,Hayes Out of Bounds - Bad Pass Turnover Turnover (P3.T13),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0421,3,00:31.300000,BOS,,DET,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0421,3,00:07.500000,BOS,,DET,,K. Hayes,DET,SUB: Thompson FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0030,1,08:10,CLE,11.0,DET,10.0,K. Hayes,DET,Hayes 14' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,-97,94,14,1,2.0,2.0,v
+S2324-G0030,1,06:57,CLE,13.0,DET,13.0,K. Hayes,DET,Hayes 8' Driving Floating Jump Shot (4 PTS) (Cunningham 2 AST),Made Shot,Driving Floating Jump Shot,80,22,8,1,2.0,2.0,v
+S2324-G0030,1,06:21,CLE,,DET,,K. Hayes,DET,SUB: Burks FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0030,1,02:13,CLE,,DET,,K. Hayes,DET,Hayes BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0030,1,00:00,CLE,,DET,,K. Hayes,DET,MISS Hayes 12' Driving Layup,Missed Shot,Driving Layup Shot,-110,55,12,1,2.0,0.0,v
+S2324-G0030,2,11:24,CLE,,DET,,K. Hayes,DET,MISS Hayes 25' 3PT Jump Shot,Missed Shot,Jump Shot,-157,194,25,1,3.0,0.0,v
+S2324-G0030,2,08:52,CLE,,DET,,K. Hayes,DET,SUB: Knox II FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0030,2,03:26,CLE,,DET,,K. Hayes,DET,SUB: Cunningham FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0030,3,11:22,CLE,,DET,,K. Hayes,DET,Hayes STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0030,3,09:39,CLE,,DET,,K. Hayes,DET,MISS Hayes 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,36,117,12,1,2.0,0.0,v
+S2324-G0030,3,09:17,CLE,,DET,,K. Hayes,DET,MISS Hayes 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,234,38,24,1,3.0,0.0,v
+S2324-G0030,3,07:13,CLE,,DET,,K. Hayes,DET,SUB: Burks FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0030,4,06:53,CLE,,DET,,K. Hayes,DET,SUB: Knox II FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0088,1,10:52,DET,,CHI,,K. Hayes,DET,Hayes STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0088,1,09:39,DET,7.0,CHI,4.0,K. Hayes,DET,Hayes 24' 3PT Jump Shot (3 PTS) (Cunningham 1 AST),Made Shot,Jump Shot,238,43,24,1,3.0,3.0,h
+S2324-G0088,1,05:37,DET,,CHI,,K. Hayes,DET,SUB: Burks FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0088,2,02:47,DET,,CHI,,K. Hayes,DET,MISS Hayes 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-78,142,16,1,2.0,0.0,h
+S2324-G0088,2,01:17,DET,,CHI,,K. Hayes,DET,Hayes REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0088,2,00:38.700000,DET,,CHI,,K. Hayes,DET,SUB: Cunningham FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0088,3,10:49,DET,,CHI,,K. Hayes,DET,MISS Hayes 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,136,223,26,1,3.0,0.0,h
+S2324-G0088,3,10:36,DET,,CHI,,K. Hayes,DET,Hayes P.FOUL (P1.T1) (N.Sago),Foul,Personal,0,0,0,0,,,h
+S2324-G0088,3,09:12,DET,,CHI,,K. Hayes,DET,MISS Hayes 10' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-40,89,10,1,2.0,0.0,h
+S2324-G0088,3,06:45,DET,,CHI,,K. Hayes,DET,SUB: Burks FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0088,4,04:50,DET,,CHI,,K. Hayes,DET,Hayes Step Out of Bounds Turnover (P1.T16),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2324-G0088,4,00:44.300000,DET,118.0,CHI,99.0,K. Hayes,DET,Hayes 27' 3PT Jump Shot (6 PTS) (Cunningham 10 AST),Made Shot,Jump Shot,212,170,27,1,3.0,3.0,h
+S2324-G0088,4,00:42.600000,DET,,CHI,,K. Hayes,DET,Hayes Personal Take Foul (P2.T4) (M.Lindsay),Foul,Personal Take,0,0,0,0,,,h
+S2324-G0088,4,00:42.600000,DET,,CHI,,K. Hayes,DET,SUB: Bagley III FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0732,1,11:10,SAC,3.0,DET,3.0,K. Hayes,DET,Hayes 26' 3PT Jump Shot (3 PTS) (Thompson 1 AST),Made Shot,Jump Shot,-53,250,26,1,3.0,3.0,v
+S2324-G0732,1,07:42,SAC,,DET,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0732,1,06:57,SAC,,DET,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0732,1,06:20,SAC,,DET,,K. Hayes,DET,MISS Hayes 25' 3PT Jump Shot,Missed Shot,Jump Shot,-130,214,25,1,3.0,0.0,v
+S2324-G0732,1,05:50,SAC,,DET,,K. Hayes,DET,Hayes S.FOUL (P1.T2) (M.Ervin),Foul,Shooting,0,0,0,0,,,v
+S2324-G0732,1,05:50,SAC,,DET,,K. Hayes,DET,SUB: Harris FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0732,2,08:15,SAC,46.0,DET,42.0,K. Hayes,DET,Hayes 1' Cutting Layup Shot (5 PTS) (Ivey 3 AST),Made Shot,Cutting Layup Shot,9,5,1,1,2.0,2.0,v
+S2324-G0732,2,03:56,SAC,,DET,,K. Hayes,DET,MISS Hayes 12' Jump Shot,Missed Shot,Jump Shot,-36,111,12,1,2.0,0.0,v
+S2324-G0732,2,01:45,SAC,,DET,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0732,2,00:00.100000,SAC,63.0,DET,70.0,K. Hayes,DET,Hayes 26' 3PT Jump Shot (8 PTS) (Sasser 3 AST),Made Shot,Jump Shot,6,257,26,1,3.0,3.0,v
+S2324-G0732,3,10:12,SAC,,DET,,K. Hayes,DET,MISS Hayes 28' 3PT Jump Shot,Missed Shot,Jump Shot,-175,214,28,1,3.0,0.0,v
+S2324-G0732,3,08:35,SAC,,DET,,K. Hayes,DET,Hayes P.FOUL (P2.T3) (S.Wright),Foul,Personal,0,0,0,0,,,v
+S2324-G0732,3,07:23,SAC,,DET,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0732,3,01:42,SAC,,DET,,K. Hayes,DET,MISS Hayes 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-27,118,12,1,2.0,0.0,v
+S2324-G0732,3,00:19.400000,SAC,,DET,,K. Hayes,DET,Hayes Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0293,1,09:44,DET,,IND,,K. Hayes,DET,MISS Hayes 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,18,119,12,1,2.0,0.0,h
+S2324-G0293,1,08:28,DET,,IND,,K. Hayes,DET,Hayes STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0293,1,06:18,DET,,IND,,K. Hayes,DET,SUB: Ivey FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0293,1,00:45.300000,DET,,IND,,K. Hayes,DET,Hayes Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0293,2,10:32,DET,37.0,IND,40.0,K. Hayes,DET,Hayes Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0293,2,10:32,DET,38.0,IND,40.0,K. Hayes,DET,Hayes Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0293,2,10:13,DET,,IND,,K. Hayes,DET,Hayes Out of Bounds Lost Ball Turnover (P2.T5),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2324-G0293,2,08:30,DET,,IND,,K. Hayes,DET,SUB: Thompson FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0293,3,10:02,DET,,IND,,K. Hayes,DET,Jump Ball Hayes vs. Brown: Tip to Turner,Jump Ball,,0,0,0,0,,,h
+S2324-G0293,3,09:41,DET,,IND,,K. Hayes,DET,MISS Hayes 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,34,6,3,1,2.0,0.0,h
+S2324-G0293,3,07:10,DET,,IND,,K. Hayes,DET,SUB: Ivey FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0293,3,01:14,DET,88.0,IND,95.0,K. Hayes,DET,Hayes 12' Pullup Jump Shot (4 PTS) (Wiseman 1 AST),Made Shot,Pullup Jump shot,-15,122,12,1,2.0,2.0,h
+S2324-G0293,4,10:09,DET,99.0,IND,105.0,K. Hayes,DET,Hayes 4' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,-10,43,4,1,2.0,2.0,h
+S2324-G0293,4,08:43,DET,,IND,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0293,4,08:42,DET,,IND,,K. Hayes,DET,SUB: Cunningham FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0440,1,03:13,DET,,TOR,,K. Hayes,DET,Hayes S.FOUL (P1.T4) (J.Conley),Foul,Shooting,0,0,0,0,,,h
+S2324-G0440,1,02:49,DET,,TOR,,K. Hayes,DET,MISS Hayes 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-121,11,12,1,2.0,0.0,h
+S2324-G0440,1,02:12,DET,,TOR,,K. Hayes,DET,Hayes STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0440,1,00:17.700000,DET,,TOR,,K. Hayes,DET,Hayes Traveling Turnover (P1.T3),Turnover,Traveling,0,0,0,0,,,h
+S2324-G0440,2,10:51,DET,,TOR,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0440,2,10:46,DET,,TOR,,K. Hayes,DET,Hayes Bad Pass Turnover (P2.T4),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0440,2,10:39,DET,,TOR,,K. Hayes,DET,Hayes L.B.FOUL (P2.T1) (T.Ford),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0440,2,10:12,DET,,TOR,,K. Hayes,DET,Hayes Bad Pass Turnover (P3.T5),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0440,2,10:03,DET,,TOR,,K. Hayes,DET,SUB: Cunningham FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0440,3,01:29,DET,,TOR,,K. Hayes,DET,MISS Hayes 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-105,94,14,1,2.0,0.0,h
+S2324-G0440,4,09:55,DET,,TOR,,K. Hayes,DET,SUB: Cunningham FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G1206,1,11:21,DET,,MEM,,K. Hayes,DET,MISS Hayes 24' 3PT Jump Shot,Missed Shot,Jump Shot,-115,215,24,1,3.0,0.0,h
+S2324-G1206,1,08:45,DET,6.0,MEM,7.0,K. Hayes,DET,Hayes 1' Running Dunk (2 PTS) (Bogdanovic 1 AST),Made Shot,Running Dunk Shot,-7,-7,1,1,2.0,2.0,h
+S2324-G1206,1,07:30,DET,11.0,MEM,9.0,K. Hayes,DET,Hayes 24' 3PT Jump Shot (5 PTS) (Cunningham 2 AST),Made Shot,Jump Shot,-229,69,24,1,3.0,3.0,h
+S2324-G1206,1,07:05,DET,,MEM,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1206,1,05:10,DET,,MEM,,K. Hayes,DET,SUB: Livers FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G1206,2,11:46,DET,,MEM,,K. Hayes,DET,Hayes Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G1206,2,11:42,DET,,MEM,,K. Hayes,DET,Hayes S.FOUL (P1.T1) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,h
+S2324-G1206,2,11:30,DET,31.0,MEM,32.0,K. Hayes,DET,Hayes 8' Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,10,82,8,1,2.0,2.0,h
+S2324-G1206,2,10:02,DET,,MEM,,K. Hayes,DET,Hayes Offensive Charge Foul (P2) (C.Kirkland),Foul,Offensive Charge,0,0,0,0,,,h
+S2324-G1206,2,10:02,DET,,MEM,,K. Hayes,DET,Hayes Offensive Foul Turnover (P2.T4),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G1206,2,08:59,DET,35.0,MEM,38.0,K. Hayes,DET,Hayes 8' Pullup Jump Shot (9 PTS) (Livers 1 AST),Made Shot,Pullup Jump shot,-7,75,8,1,2.0,2.0,h
+S2324-G1206,2,08:37,DET,,MEM,,K. Hayes,DET,Hayes STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1206,2,07:49,DET,,MEM,,K. Hayes,DET,Hayes REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1206,2,07:48,DET,,MEM,,K. Hayes,DET,Hayes Lost Ball Turnover (P3.T5),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G1206,2,07:38,DET,,MEM,,K. Hayes,DET,MISS Hayes 25' 3PT Jump Shot,Missed Shot,Jump Shot,207,142,25,1,3.0,0.0,h
+S2324-G1206,2,07:29,DET,,MEM,,K. Hayes,DET,SUB: Cunningham FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G1206,3,11:44,DET,,MEM,,K. Hayes,DET,MISS Hayes 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-72,15,7,1,2.0,0.0,h
+S2324-G1206,3,06:21,DET,,MEM,,K. Hayes,DET,MISS Hayes 12' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-20,122,12,1,2.0,0.0,h
+S2324-G1206,3,05:00,DET,,MEM,,K. Hayes,DET,SUB: Livers FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G1206,3,00:37.400000,DET,81.0,MEM,80.0,K. Hayes,DET,Hayes 6' Floating Jump Shot (11 PTS) (Wiseman 1 AST),Made Shot,Floating Jump shot,27,53,6,1,2.0,2.0,h
+S2324-G1206,3,00:37.400000,DET,82.0,MEM,80.0,K. Hayes,DET,Hayes Free Throw 1 of 1 (12 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G1206,3,00:03,DET,,MEM,,K. Hayes,DET,MISS Hayes 20' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-37,200,20,1,2.0,0.0,h
+S2324-G1206,4,10:50,DET,,MEM,,K. Hayes,DET,MISS Hayes 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-5,112,11,1,2.0,0.0,h
+S2324-G1206,4,10:34,DET,,MEM,,K. Hayes,DET,Hayes REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1206,4,09:20,DET,,MEM,,K. Hayes,DET,SUB: Duren FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G1206,4,02:44,DET,,MEM,,K. Hayes,DET,MISS Hayes 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-113,33,12,1,2.0,0.0,h
+S2324-G1206,4,02:29,DET,,MEM,,K. Hayes,DET,Hayes P.FOUL (P3.T2) (J.Goldenberg),Foul,Personal,0,0,0,0,,,h
+S2324-G1206,4,00:39.100000,DET,,MEM,,K. Hayes,DET,Hayes REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1206,4,00:36.800000,DET,,MEM,,K. Hayes,DET,MISS Hayes 13' Jump Shot,Missed Shot,Jump Shot,-119,55,13,1,2.0,0.0,h
+S2324-G0047,1,03:50,IND,,DET,,K. Hayes,DET,MISS Hayes 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-28,100,10,1,2.0,0.0,v
+S2324-G0047,1,02:30,IND,,DET,,K. Hayes,DET,MISS Hayes 17' Step Back Jump Shot,Missed Shot,Step Back Jump shot,4,168,17,1,2.0,0.0,v
+S2324-G0047,1,00:37.500000,IND,31.0,DET,26.0,K. Hayes,DET,Hayes 11' Step Back Jump Shot (2 PTS),Made Shot,Step Back Jump shot,107,26,11,1,2.0,2.0,v
+S2324-G0047,2,10:48,IND,,DET,,K. Hayes,DET,SUB: Cunningham FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0047,3,03:23,IND,89.0,DET,86.0,K. Hayes,DET,Hayes 11' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,-4,113,11,1,2.0,2.0,v
+S2324-G0047,3,00:51.500000,IND,,DET,,K. Hayes,DET,MISS Hayes 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-77,148,17,1,2.0,0.0,v
+S2324-G0047,4,11:32,IND,97.0,DET,98.0,K. Hayes,DET,Hayes Running Dunk (6 PTS) (Burks 1 AST),Made Shot,Running Dunk Shot,-4,1,0,1,2.0,2.0,v
+S2324-G0047,4,08:51,IND,,DET,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0047,4,07:47,IND,,DET,,K. Hayes,DET,SUB: Duren FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0512,1,07:50,DET,,SAC,,K. Hayes,DET,Hayes OFF.Foul (P1) (S.Foster),Foul,Offensive,0,0,0,0,,,h
+S2324-G0512,1,07:50,DET,,SAC,,K. Hayes,DET,Hayes Offensive Foul Turnover (P1.T1),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0512,1,03:50,DET,,SAC,,K. Hayes,DET,SUB: Sasser FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0512,2,09:19,DET,,SAC,,K. Hayes,DET,Hayes REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0512,2,07:40,DET,58.0,SAC,40.0,K. Hayes,DET,Hayes Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0512,2,07:40,DET,59.0,SAC,40.0,K. Hayes,DET,Hayes Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0512,2,06:34,DET,,SAC,,K. Hayes,DET,Hayes Discontinue Dribble Turnover (P2.T5),Turnover,Discontinue Dribble,0,0,0,0,,,h
+S2324-G0512,2,04:59,DET,,SAC,,K. Hayes,DET,Hayes Bad Pass Turnover (P3.T8),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0512,2,04:56,DET,,SAC,,K. Hayes,DET,SUB: Sasser FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0512,2,02:00,DET,,SAC,,K. Hayes,DET,Hayes Bad Pass Turnover (P4.T9),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0512,2,01:54,DET,,SAC,,K. Hayes,DET,Hayes STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0512,2,01:18,DET,,SAC,,K. Hayes,DET,MISS Hayes 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,33,73,8,1,2.0,0.0,h
+S2324-G0512,3,11:48,DET,,SAC,,K. Hayes,DET,Hayes Out of Bounds Lost Ball Turnover (P5.T10),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2324-G0512,3,11:25,DET,,SAC,,K. Hayes,DET,Hayes REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0512,3,09:55,DET,,SAC,,K. Hayes,DET,Hayes REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0512,3,04:35,DET,,SAC,,K. Hayes,DET,SUB: Sasser FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0512,4,06:31,DET,,SAC,,K. Hayes,DET,MISS Hayes 24' 3PT Jump Shot,Missed Shot,Jump Shot,238,21,24,1,3.0,0.0,h
+S2324-G0512,4,06:10,DET,,SAC,,K. Hayes,DET,Hayes REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0512,4,05:11,DET,,SAC,,K. Hayes,DET,Hayes P.FOUL (P2.T2) (S.Foster),Foul,Personal,0,0,0,0,,,h
+S2324-G0512,4,04:33,DET,108.0,SAC,118.0,K. Hayes,DET,Hayes 6' Driving Floating Jump Shot (4 PTS) (Ivey 5 AST),Made Shot,Driving Floating Jump Shot,0,58,6,1,2.0,2.0,h
+S2324-G0512,4,03:01,DET,,SAC,,K. Hayes,DET,Hayes Discontinue Dribble Turnover (P6.T21),Turnover,Discontinue Dribble,0,0,0,0,,,h
+S2324-G0512,4,01:36,DET,,SAC,,K. Hayes,DET,MISS Hayes 8' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,45,62,8,1,2.0,0.0,h
+S2324-G0115,1,10:23,DET,,POR,,K. Hayes,DET,MISS Hayes 3' Running Jump Shot,Missed Shot,Running Jump Shot,-32,8,3,1,2.0,0.0,h
+S2324-G0115,1,10:08,DET,,POR,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0115,1,05:53,DET,,POR,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0115,1,05:16,DET,,POR,,K. Hayes,DET,Hayes STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0115,1,04:48,DET,,POR,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0115,1,04:41,DET,,POR,,K. Hayes,DET,SUB: Umude FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0115,1,00:12.300000,DET,,POR,,K. Hayes,DET,MISS Hayes 12' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-89,84,12,1,2.0,0.0,h
+S2324-G0115,2,09:51,DET,,POR,,K. Hayes,DET,MISS Hayes 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-32,155,16,1,2.0,0.0,h
+S2324-G0115,2,09:25,DET,,POR,,K. Hayes,DET,Hayes OFF.Foul (P1) (P.Fraher),Foul,Offensive,0,0,0,0,,,h
+S2324-G0115,2,09:25,DET,,POR,,K. Hayes,DET,Hayes Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0115,2,07:52,DET,,POR,,K. Hayes,DET,Hayes STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0115,2,07:27,DET,,POR,,K. Hayes,DET,SUB: Cunningham FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0115,3,09:34,DET,,POR,,K. Hayes,DET,MISS Hayes 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-49,129,14,1,2.0,0.0,h
+S2324-G0115,3,08:08,DET,,POR,,K. Hayes,DET,MISS Hayes 24' 3PT Jump Shot,Missed Shot,Jump Shot,233,74,24,1,3.0,0.0,h
+S2324-G0115,3,04:47,DET,,POR,,K. Hayes,DET,Hayes STEAL (3 STL),,,0,0,0,0,,,h
+S2324-G0115,3,04:27,DET,,POR,,K. Hayes,DET,SUB: Ivey FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0115,4,04:33,DET,,POR,,K. Hayes,DET,MISS Hayes 8' Running Layup,Missed Shot,Running Layup Shot,46,62,8,1,2.0,0.0,h
+S2324-G0115,4,04:20,DET,,POR,,K. Hayes,DET,Hayes P.FOUL (P2.PN) (S.Wright),Foul,Personal,0,0,0,0,,,h
+S2324-G0115,4,04:20,DET,,POR,,K. Hayes,DET,SUB: Sasser FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0181,1,07:12,CHI,,DET,,K. Hayes,DET,MISS Hayes 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-135,39,14,1,2.0,0.0,v
+S2324-G0181,1,06:23,CHI,10.0,DET,11.0,K. Hayes,DET,Hayes 25' 3PT Jump Shot (3 PTS) (Cunningham 1 AST),Made Shot,Jump Shot,-127,221,25,1,3.0,3.0,v
+S2324-G0181,1,06:13,CHI,,DET,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0181,1,05:59,CHI,,DET,,K. Hayes,DET,Hayes P.FOUL (P1.T2) (Z.Zarba),Foul,Personal,0,0,0,0,,,v
+S2324-G0181,1,05:59,CHI,,DET,,K. Hayes,DET,SUB: Sasser FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0181,2,08:37,CHI,,DET,,K. Hayes,DET,MISS Hayes 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,5,66,7,1,2.0,0.0,v
+S2324-G0181,2,07:45,CHI,,DET,,K. Hayes,DET,MISS Hayes 25' 3PT Jump Shot,Missed Shot,Jump Shot,-169,180,25,1,3.0,0.0,v
+S2324-G0181,2,04:49,CHI,,DET,,K. Hayes,DET,MISS Hayes 25' 3PT Jump Shot,Missed Shot,Jump Shot,186,174,25,1,3.0,0.0,v
+S2324-G0181,2,04:48,CHI,,DET,,K. Hayes,DET,SUB: Knox II FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0181,3,11:40,CHI,,DET,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0181,3,04:53,CHI,71.0,DET,68.0,K. Hayes,DET,Hayes 9' Pullup Jump Shot (5 PTS) (Stewart 2 AST),Made Shot,Pullup Jump shot,-16,86,9,1,2.0,2.0,v
+S2324-G0181,3,03:43,CHI,75.0,DET,72.0,K. Hayes,DET,Hayes 19' Pullup Jump Shot (7 PTS) (Bagley III 1 AST),Made Shot,Pullup Jump shot,-129,142,19,1,2.0,2.0,v
+S2324-G0181,3,02:55,CHI,,DET,,K. Hayes,DET,SUB: Sasser FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0181,4,07:06,CHI,,DET,,K. Hayes,DET,MISS Hayes 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-92,94,13,1,2.0,0.0,v
+S2324-G0181,4,06:04,CHI,,DET,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0181,4,04:26,CHI,,DET,,K. Hayes,DET,SUB: Burks FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0569,1,08:47,DET,8.0,MIN,8.0,K. Hayes,DET,Hayes 10' Fadeaway Jumper (2 PTS),Made Shot,Fadeaway Jump Shot,54,80,10,1,2.0,2.0,h
+S2324-G0569,1,07:49,DET,,MIN,,K. Hayes,DET,Hayes S.FOUL (P1.T1) (C.Flores),Foul,Shooting,0,0,0,0,,,h
+S2324-G0569,1,07:16,DET,15.0,MIN,15.0,K. Hayes,DET,Hayes 13' Step Back Jump Shot (4 PTS) (Stewart 1 AST),Made Shot,Step Back Jump shot,-6,134,13,1,2.0,2.0,h
+S2324-G0569,1,03:33,DET,,MIN,,K. Hayes,DET,SUB: Sasser FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0569,2,04:48,DET,,MIN,,K. Hayes,DET,Hayes S.FOUL (P2.T4) (T.Ford),Foul,Shooting,0,0,0,0,,,h
+S2324-G0569,3,11:24,DET,64.0,MIN,72.0,K. Hayes,DET,Hayes 11' Jump Shot (6 PTS) (Duren 2 AST),Made Shot,Jump Shot,109,34,11,1,2.0,2.0,h
+S2324-G0569,3,10:24,DET,,MIN,,K. Hayes,DET,Hayes P.FOUL (P3.T2) (C.Flores),Foul,Personal,0,0,0,0,,,h
+S2324-G0569,3,08:45,DET,,MIN,,K. Hayes,DET,SUB: Thompson FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0569,4,09:10,DET,,MIN,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0569,4,08:05,DET,98.0,MIN,109.0,K. Hayes,DET,Hayes 7' Driving Floating Jump Shot (8 PTS),Made Shot,Driving Floating Jump Shot,-37,55,7,1,2.0,2.0,h
+S2324-G0569,4,03:56,DET,,MIN,,K. Hayes,DET,SUB: Thompson FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0334,1,11:35,MIL,,DET,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0334,1,10:28,MIL,,DET,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0334,1,09:48,MIL,,DET,,K. Hayes,DET,MISS Hayes 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,48,150,16,1,2.0,0.0,v
+S2324-G0334,1,06:55,MIL,,DET,,K. Hayes,DET,SUB: Livers FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0334,2,09:32,MIL,,DET,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0334,2,08:47,MIL,54.0,DET,28.0,K. Hayes,DET,Hayes 16' Running Pull-Up Jump Shot (2 PTS),Made Shot,Running Pull-Up Jump Shot,48,155,16,1,2.0,2.0,v
+S2324-G0334,2,08:12,MIL,,DET,,K. Hayes,DET,Hayes Traveling Turnover (P1.T5),Turnover,Traveling,0,0,0,0,,,v
+S2324-G0334,2,05:39,MIL,,DET,,K. Hayes,DET,SUB: Sasser FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0334,3,11:11,MIL,,DET,,K. Hayes,DET,MISS Hayes 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-31,136,14,1,2.0,0.0,v
+S2324-G0334,3,10:52,MIL,,DET,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0334,3,07:58,MIL,,DET,,K. Hayes,DET,MISS Hayes 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,94,137,17,1,2.0,0.0,v
+S2324-G0334,3,07:29,MIL,,DET,,K. Hayes,DET,SUB: Ivey FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0606,1,11:44,DET,,MIL,,K. Hayes,DET,MISS Hayes 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,12,157,16,1,2.0,0.0,h
+S2324-G0606,1,10:18,DET,,MIL,,K. Hayes,DET,Hayes STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0606,1,10:16,DET,4.0,MIL,3.0,K. Hayes,DET,Hayes 2' Running Dunk (2 PTS),Made Shot,Running Dunk Shot,18,3,2,1,2.0,2.0,h
+S2324-G0606,1,07:04,DET,,MIL,,K. Hayes,DET,Hayes BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0606,1,05:31,DET,,MIL,,K. Hayes,DET,Hayes P.FOUL (P1.T3) (L.Wood),Foul,Personal,0,0,0,0,,,h
+S2324-G0606,1,04:49,DET,,MIL,,K. Hayes,DET,SUB: Burks FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0606,2,04:38,DET,,MIL,,K. Hayes,DET,Hayes Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0606,2,01:16,DET,,MIL,,K. Hayes,DET,SUB: Thompson FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0606,3,08:52,DET,,MIL,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0606,3,08:31,DET,,MIL,,K. Hayes,DET,Hayes S.FOUL (P2.T3) (L.Wood),Foul,Shooting,0,0,0,0,,,h
+S2324-G0606,3,06:35,DET,,MIL,,K. Hayes,DET,SUB: Stewart FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0283,1,11:37,DET,,CLE,,K. Hayes,DET,Hayes Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0283,1,10:19,DET,6.0,CLE,3.0,K. Hayes,DET,Hayes 10' Driving Floating Bank Jump Shot (2 PTS) (Stewart 3 AST),Made Shot,Driving Floating Bank Jump Shot,-85,57,10,1,2.0,2.0,h
+S2324-G0283,1,09:16,DET,,CLE,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0283,1,08:17,DET,,CLE,,K. Hayes,DET,Hayes Bad Pass Turnover (P2.T3),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0283,1,07:17,DET,,CLE,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0283,1,05:48,DET,,CLE,,K. Hayes,DET,MISS Hayes 13' Step Back Jump Shot,Missed Shot,Step Back Jump shot,109,71,13,1,2.0,0.0,h
+S2324-G0283,1,05:48,DET,,CLE,,K. Hayes,DET,SUB: Sasser FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0283,2,11:07,DET,,CLE,,K. Hayes,DET,MISS Hayes 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,15,149,15,1,2.0,0.0,h
+S2324-G0283,2,08:49,DET,,CLE,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0283,2,07:57,DET,,CLE,,K. Hayes,DET,SUB: Cunningham FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0283,2,02:13,DET,43.0,CLE,47.0,K. Hayes,DET,Hayes 3PT Step Back Jump Shot (5 PTS),Made Shot,Step Back Jump shot,228,36,0,1,3.0,3.0,h
+S2324-G0283,2,00:08,DET,,CLE,,K. Hayes,DET,MISS Hayes 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-21,127,13,1,2.0,0.0,h
+S2324-G0283,3,09:00,DET,,CLE,,K. Hayes,DET,MISS Hayes 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-7,55,6,1,2.0,0.0,h
+S2324-G0283,3,07:36,DET,,CLE,,K. Hayes,DET,MISS Hayes 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,21,100,10,1,2.0,0.0,h
+S2324-G0283,3,05:27,DET,68.0,CLE,64.0,K. Hayes,DET,Hayes 11' Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,58,96,11,1,2.0,2.0,h
+S2324-G0283,3,05:14,DET,,CLE,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0283,3,05:07,DET,70.0,CLE,64.0,K. Hayes,DET,Hayes 10' Driving Floating Bank Jump Shot (9 PTS),Made Shot,Driving Floating Bank Jump Shot,-91,41,10,1,2.0,2.0,h
+S2324-G0283,3,05:07,DET,,CLE,,K. Hayes,DET,MISS Hayes Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2324-G0283,3,04:37,DET,,CLE,,K. Hayes,DET,SUB: Sasser FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0283,4,07:06,DET,,CLE,,K. Hayes,DET,Hayes BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0283,4,06:25,DET,,CLE,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0283,4,06:20,DET,91.0,CLE,96.0,K. Hayes,DET,Hayes 6' Driving Floating Jump Shot (11 PTS),Made Shot,Driving Floating Jump Shot,-47,31,6,1,2.0,2.0,h
+S2324-G0283,4,06:05,DET,,CLE,,K. Hayes,DET,Hayes STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0283,4,05:46,DET,,CLE,,K. Hayes,DET,Hayes STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0283,4,05:00,DET,94.0,CLE,98.0,K. Hayes,DET,Hayes 4' Driving Finger Roll Layup (13 PTS),Made Shot,Driving Finger Roll Layup Shot,-33,17,4,1,2.0,2.0,h
+S2324-G0283,4,03:53,DET,,CLE,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0283,4,01:04,DET,,CLE,,K. Hayes,DET,Jump Ball Hayes vs. Mitchell: Tip to Bogdanovic,Jump Ball,,0,0,0,0,,,h
+S2324-G0283,4,00:23.500000,DET,,CLE,,K. Hayes,DET,Hayes P.FOUL (P1.T1) (S.Mehta),Foul,Personal,0,0,0,0,,,h
+S2324-G0283,4,00:21.500000,DET,,CLE,,K. Hayes,DET,Hayes Personal Take Foul (P2.PN) (S.Mehta),Foul,Personal Take,0,0,0,0,,,h
+S2324-G0145,1,10:49,DET,,GSW,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0145,1,10:01,DET,9.0,GSW,3.0,K. Hayes,DET,Hayes 12' Fadeaway Jumper (2 PTS),Made Shot,Fadeaway Jump Shot,21,120,12,1,2.0,2.0,h
+S2324-G0145,1,09:48,DET,,GSW,,K. Hayes,DET,Hayes P.FOUL (P1.T1) (S.Corbin),Foul,Personal,0,0,0,0,,,h
+S2324-G0145,1,08:01,DET,14.0,GSW,10.0,K. Hayes,DET,Hayes 25' 3PT Pullup Jump Shot (5 PTS) (Stewart 1 AST),Made Shot,Pullup Jump shot,-78,235,25,1,3.0,3.0,h
+S2324-G0145,1,05:52,DET,,GSW,,K. Hayes,DET,SUB: Sasser FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0145,1,01:33,DET,,GSW,,K. Hayes,DET,Hayes BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0145,1,01:31,DET,,GSW,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0145,1,00:41.600000,DET,25.0,GSW,28.0,K. Hayes,DET,Hayes Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0145,1,00:41.600000,DET,26.0,GSW,28.0,K. Hayes,DET,Hayes Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0145,2,10:07,DET,,GSW,,K. Hayes,DET,Hayes Violation:Kicked Ball (S.Corbin),Violation,Kicked Ball,0,0,0,0,,,h
+S2324-G0145,2,09:42,DET,33.0,GSW,36.0,K. Hayes,DET,Hayes 16' Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,-20,156,16,1,2.0,2.0,h
+S2324-G0145,2,07:50,DET,,GSW,,K. Hayes,DET,MISS Hayes 25' 3PT Jump Shot,Missed Shot,Jump Shot,-125,214,25,1,3.0,0.0,h
+S2324-G0145,2,06:16,DET,,GSW,,K. Hayes,DET,SUB: Sasser FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0145,2,00:40.200000,DET,,GSW,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0145,3,11:52,DET,,GSW,,K. Hayes,DET,Hayes P.FOUL (P2.T1) (S.Corbin),Foul,Personal,0,0,0,0,,,h
+S2324-G0145,3,10:53,DET,,GSW,,K. Hayes,DET,Hayes STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0145,3,10:50,DET,53.0,GSW,56.0,K. Hayes,DET,Hayes 3' Running Dunk (11 PTS),Made Shot,Running Dunk Shot,4,33,3,1,2.0,2.0,h
+S2324-G0145,3,08:20,DET,,GSW,,K. Hayes,DET,Hayes P.FOUL (P3.T2) (I.Hwang),Foul,Personal,0,0,0,0,,,h
+S2324-G0145,3,07:55,DET,62.0,GSW,62.0,K. Hayes,DET,Hayes 24' 3PT Jump Shot (14 PTS) (Cunningham 2 AST),Made Shot,Jump Shot,-237,0,24,1,3.0,3.0,h
+S2324-G0145,3,06:09,DET,,GSW,,K. Hayes,DET,SUB: Sasser FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0145,3,00:21.700000,DET,82.0,GSW,80.0,K. Hayes,DET,Hayes 10' Pullup Jump Shot (16 PTS) (Sasser 3 AST),Made Shot,Pullup Jump shot,78,59,10,1,2.0,2.0,h
+S2324-G0145,4,11:37,DET,85.0,GSW,83.0,K. Hayes,DET,Hayes 24' 3PT Jump Shot (19 PTS) (Cunningham 4 AST),Made Shot,Jump Shot,-239,20,24,1,3.0,3.0,h
+S2324-G0145,4,09:43,DET,,GSW,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0145,4,07:57,DET,,GSW,,K. Hayes,DET,MISS Hayes 19' Step Back Jump Shot,Missed Shot,Step Back Jump shot,137,128,19,1,2.0,0.0,h
+S2324-G0145,4,06:54,DET,,GSW,,K. Hayes,DET,SUB: Stewart FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0145,4,03:10,DET,,GSW,,K. Hayes,DET,MISS Hayes 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-165,62,18,1,2.0,0.0,h
+S2324-G0145,4,02:23,DET,107.0,GSW,113.0,K. Hayes,DET,Hayes 8' Floating Jump Shot (21 PTS),Made Shot,Floating Jump shot,-10,80,8,1,2.0,2.0,h
+S2324-G0145,4,00:23.100000,DET,,GSW,,K. Hayes,DET,MISS Hayes 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,119,100,16,1,2.0,0.0,h
+S2324-G0077,1,10:35,CHA,,DET,,K. Hayes,DET,Hayes BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0077,1,10:33,CHA,,DET,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0077,1,09:42,CHA,4.0,DET,4.0,K. Hayes,DET,Hayes 14' Pullup Jump Shot (2 PTS) (Cunningham 1 AST),Made Shot,Pullup Jump shot,-75,118,14,1,2.0,2.0,v
+S2324-G0077,1,08:41,CHA,,DET,,K. Hayes,DET,MISS Hayes 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,96,110,15,1,2.0,0.0,v
+S2324-G0077,1,08:39,CHA,,DET,,K. Hayes,DET,Hayes P.FOUL (P1.T1) (J.Schroeder),Foul,Personal,0,0,0,0,,,v
+S2324-G0077,1,07:49,CHA,,DET,,K. Hayes,DET,Hayes S.FOUL (P2.T2) (R.Mott),Foul,Shooting,0,0,0,0,,,v
+S2324-G0077,1,07:49,CHA,,DET,,K. Hayes,DET,SUB: Burks FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0077,2,10:08,CHA,,DET,,K. Hayes,DET,Hayes Lost Ball Turnover (P1.T11),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0077,2,07:14,CHA,,DET,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0077,2,06:33,CHA,,DET,,K. Hayes,DET,MISS Hayes 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,13,163,16,1,2.0,0.0,v
+S2324-G0077,2,05:11,CHA,,DET,,K. Hayes,DET,MISS Hayes 26' 3PT Jump Shot,Missed Shot,Jump Shot,-126,233,26,1,3.0,0.0,v
+S2324-G0077,2,01:54,CHA,,DET,,K. Hayes,DET,SUB: Duren FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0077,3,10:37,CHA,,DET,,K. Hayes,DET,Hayes S.FOUL (P3.T1) (R.Mott),Foul,Shooting,0,0,0,0,,,v
+S2324-G0077,3,09:10,CHA,,DET,,K. Hayes,DET,MISS Hayes 1' Running Layup,Missed Shot,Running Layup Shot,2,6,1,1,2.0,0.0,v
+S2324-G0077,3,08:20,CHA,,DET,,K. Hayes,DET,MISS Hayes Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0077,3,08:20,CHA,55.0,DET,61.0,K. Hayes,DET,Hayes Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0077,3,07:32,CHA,57.0,DET,67.0,K. Hayes,DET,Hayes 25' 3PT Jump Shot (6 PTS) (Duren 2 AST),Made Shot,Jump Shot,-130,219,25,1,3.0,3.0,v
+S2324-G0077,3,07:00,CHA,,DET,,K. Hayes,DET,MISS Hayes 11' Step Back Jump Shot,Missed Shot,Step Back Jump shot,45,95,11,1,2.0,0.0,v
+S2324-G0077,3,05:19,CHA,,DET,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0077,3,03:57,CHA,,DET,,K. Hayes,DET,Hayes Bad Pass Turnover (P2.T20),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0077,3,02:45,CHA,,DET,,K. Hayes,DET,Hayes STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0077,3,02:42,CHA,,DET,,K. Hayes,DET,MISS Hayes 2' Running Layup,Missed Shot,Running Layup Shot,0,16,2,1,2.0,0.0,v
+S2324-G0077,3,02:25,CHA,,DET,,K. Hayes,DET,SUB: Sasser FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0077,4,08:34,CHA,,DET,,K. Hayes,DET,Hayes S.FOUL (P4.T3) (B.Kennedy),Foul,Shooting,0,0,0,0,,,v
+S2324-G0077,4,06:25,CHA,,DET,,K. Hayes,DET,MISS Hayes 3PT Jump Shot,Missed Shot,Jump Shot,225,22,0,1,3.0,0.0,v
+S2324-G0077,4,04:09,CHA,,DET,,K. Hayes,DET,SUB: Cunningham FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0077,4,01:47,CHA,,DET,,K. Hayes,DET,Hayes Bad Pass Turnover (P3.T24),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0077,4,01:05,CHA,,DET,,K. Hayes,DET,Hayes STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0077,4,00:41.400000,CHA,,DET,,K. Hayes,DET,MISS Hayes 18' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-4,184,18,1,2.0,0.0,v
+S2324-G0165,1,11:22,MIL,,DET,,K. Hayes,DET,MISS Hayes 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-16,142,14,1,2.0,0.0,v
+S2324-G0165,1,09:21,MIL,,DET,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0165,1,09:15,MIL,,DET,,K. Hayes,DET,MISS Hayes 15' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-143,47,15,1,2.0,0.0,v
+S2324-G0165,1,08:01,MIL,,DET,,K. Hayes,DET,Hayes P.FOUL (P1.T2) (S.Twardoski),Foul,Personal,0,0,0,0,,,v
+S2324-G0165,1,05:58,MIL,,DET,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0165,1,05:55,MIL,,DET,,K. Hayes,DET,MISS Hayes 2' Running Layup,Missed Shot,Running Layup Shot,-15,-4,2,1,2.0,0.0,v
+S2324-G0165,1,05:47,MIL,,DET,,K. Hayes,DET,SUB: Sasser FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0165,1,02:40,MIL,,DET,,K. Hayes,DET,MISS Hayes 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,56,98,11,1,2.0,0.0,v
+S2324-G0165,1,01:52,MIL,,DET,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0165,1,00:52.800000,MIL,,DET,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0165,1,00:18.600000,MIL,22.0,DET,22.0,K. Hayes,DET,Hayes Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0165,1,00:18.600000,MIL,22.0,DET,23.0,K. Hayes,DET,Hayes Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0165,1,00:00.100000,MIL,,DET,,K. Hayes,DET,MISS Hayes 31' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,4,306,31,1,3.0,0.0,v
+S2324-G0165,2,10:25,MIL,,DET,,K. Hayes,DET,MISS Hayes 26' 3PT Jump Shot,Missed Shot,Jump Shot,-89,243,26,1,3.0,0.0,v
+S2324-G0165,2,09:54,MIL,33.0,DET,27.0,K. Hayes,DET,Hayes 15' Fadeaway Jumper (4 PTS),Made Shot,Fadeaway Jump Shot,-88,125,15,1,2.0,2.0,v
+S2324-G0165,2,06:09,MIL,,DET,,K. Hayes,DET,SUB: Stewart FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0165,2,03:35,MIL,54.0,DET,45.0,K. Hayes,DET,Hayes 12' Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,40,110,12,1,2.0,2.0,v
+S2324-G0165,2,03:05,MIL,54.0,DET,47.0,K. Hayes,DET,Hayes 2' Running Layup (8 PTS) (Thompson 2 AST),Made Shot,Running Layup Shot,-17,-16,2,1,2.0,2.0,v
+S2324-G0165,2,02:26,MIL,,DET,,K. Hayes,DET,Hayes Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0165,2,01:18,MIL,,DET,,K. Hayes,DET,MISS Hayes 15' Jump Shot,Missed Shot,Jump Shot,-151,-17,15,1,2.0,0.0,v
+S2324-G0165,2,00:01.500000,MIL,,DET,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0165,3,07:58,MIL,75.0,DET,66.0,K. Hayes,DET,Hayes 17' Pullup Jump Shot (10 PTS) (Duren 3 AST),Made Shot,Pullup Jump shot,-80,152,17,1,2.0,2.0,v
+S2324-G0165,3,06:26,MIL,,DET,,K. Hayes,DET,Hayes STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0165,3,06:19,MIL,,DET,,K. Hayes,DET,SUB: Sasser FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0165,4,09:20,MIL,,DET,,K. Hayes,DET,MISS Hayes 27' 3PT Jump Shot,Missed Shot,Jump Shot,-214,159,27,1,3.0,0.0,v
+S2324-G0165,4,08:55,MIL,97.0,DET,104.0,K. Hayes,DET,Hayes 3' Driving Finger Roll Layup (12 PTS),Made Shot,Driving Finger Roll Layup Shot,-2,31,3,1,2.0,2.0,v
+S2324-G0165,4,08:36,MIL,97.0,DET,106.0,K. Hayes,DET,Hayes 3' Running Layup (14 PTS) (Sasser 2 AST),Made Shot,Running Layup Shot,0,26,3,1,2.0,2.0,v
+S2324-G0165,4,07:37,MIL,,DET,,K. Hayes,DET,MISS Hayes 8' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-67,41,8,1,2.0,0.0,v
+S2324-G0165,4,07:14,MIL,,DET,,K. Hayes,DET,SUB: Cunningham FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0558,1,11:44,WAS,,DET,,K. Hayes,DET,Hayes S.FOUL (P1.T1) (K.Cutler),Foul,Shooting,0,0,0,0,,,v
+S2324-G0558,1,10:35,WAS,,DET,,K. Hayes,DET,MISS Hayes 25' 3PT Jump Shot,Missed Shot,Jump Shot,-72,242,25,1,3.0,0.0,v
+S2324-G0558,1,09:12,WAS,,DET,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0558,1,05:16,WAS,,DET,,K. Hayes,DET,SUB: Burks FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0558,2,06:42,WAS,43.0,DET,40.0,K. Hayes,DET,Hayes 15' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,-67,138,15,1,2.0,2.0,v
+S2324-G0558,3,08:54,WAS,71.0,DET,75.0,K. Hayes,DET,Hayes 13' Turnaround Jump Shot (4 PTS) (Ivey 2 AST),Made Shot,Turnaround Jump Shot,44,117,13,1,2.0,2.0,v
+S2324-G0558,3,07:22,WAS,,DET,,K. Hayes,DET,Hayes Step Out of Bounds Turnover (P1.T11),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2324-G0558,3,04:24,WAS,,DET,,K. Hayes,DET,MISS Hayes 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-5,82,8,1,2.0,0.0,v
+S2324-G0558,3,04:24,WAS,,DET,,K. Hayes,DET,SUB: Burks FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0558,4,01:05,WAS,,DET,,K. Hayes,DET,SUB: Stewart FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0519,1,09:08,DET,8.0,SAS,8.0,K. Hayes,DET,Hayes 6' Step Back Jump Shot (2 PTS) (Ivey 2 AST),Made Shot,Step Back Jump shot,-18,53,6,1,2.0,2.0,h
+S2324-G0519,1,08:32,DET,,SAS,,K. Hayes,DET,MISS Hayes 8' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,72,45,8,1,2.0,0.0,h
+S2324-G0519,1,05:00,DET,,SAS,,K. Hayes,DET,SUB: Burks FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0519,2,03:55,DET,,SAS,,K. Hayes,DET,MISS Hayes 7' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-64,32,7,1,2.0,0.0,h
+S2324-G0519,2,03:43,DET,,SAS,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0519,3,11:41,DET,,SAS,,K. Hayes,DET,MISS Hayes 9' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,47,78,9,1,2.0,0.0,h
+S2324-G0519,3,11:30,DET,,SAS,,K. Hayes,DET,Hayes S.FOUL (P1.T1) (M.Smith),Foul,Shooting,0,0,0,0,,,h
+S2324-G0519,3,09:35,DET,,SAS,,K. Hayes,DET,MISS Hayes 6' Step Back Jump Shot,Missed Shot,Step Back Jump shot,45,32,6,1,2.0,0.0,h
+S2324-G0519,3,08:14,DET,,SAS,,K. Hayes,DET,SUB: Knox II FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0519,3,00:21.500000,DET,,SAS,,K. Hayes,DET,Hayes REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0519,3,00:20,DET,77.0,SAS,95.0,K. Hayes,DET,Hayes 13' Step Back Jump Shot (4 PTS),Made Shot,Step Back Jump shot,-127,41,13,1,2.0,2.0,h
+S2324-G0519,4,11:32,DET,,SAS,,K. Hayes,DET,Hayes Bad Pass Turnover (P1.T10),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0519,4,07:24,DET,,SAS,,K. Hayes,DET,Hayes REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0519,4,04:12,DET,,SAS,,K. Hayes,DET,Hayes REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0519,4,02:20,DET,,SAS,,K. Hayes,DET,MISS Hayes 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-5,131,13,1,2.0,0.0,h
+S2324-G0519,4,01:53,DET,,SAS,,K. Hayes,DET,MISS Hayes 8' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-49,65,8,1,2.0,0.0,h
+S2324-G0519,4,01:30,DET,,SAS,,K. Hayes,DET,SUB: Wiseman FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0109,1,11:37,OKC,0.0,DET,1.0,K. Hayes,DET,Hayes Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0109,1,11:37,OKC,,DET,,K. Hayes,DET,MISS Hayes Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0109,1,10:00,OKC,,DET,,K. Hayes,DET,MISS Hayes 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-40,110,12,1,2.0,0.0,v
+S2324-G0109,1,09:19,OKC,,DET,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0109,1,08:52,OKC,,DET,,K. Hayes,DET,Hayes STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0109,1,08:30,OKC,10.0,DET,6.0,K. Hayes,DET,Hayes 13' Floating Jump Shot (3 PTS) (Duren 1 AST),Made Shot,Floating Jump shot,-28,131,13,1,2.0,2.0,v
+S2324-G0109,1,08:21,OKC,,DET,,K. Hayes,DET,Hayes BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0109,1,08:18,OKC,,DET,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0109,1,06:56,OKC,,DET,,K. Hayes,DET,MISS Hayes 24' 3PT Jump Shot,Missed Shot,Jump Shot,-126,210,24,1,3.0,0.0,v
+S2324-G0109,1,06:16,OKC,,DET,,K. Hayes,DET,SUB: Burks FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0109,2,08:21,OKC,,DET,,K. Hayes,DET,MISS Hayes 24' 3PT Jump Shot,Missed Shot,Jump Shot,233,36,24,1,3.0,0.0,v
+S2324-G0109,2,08:10,OKC,42.0,DET,34.0,K. Hayes,DET,Hayes 14' Fadeaway Jumper (5 PTS) (Cunningham 1 AST),Made Shot,Fadeaway Jump Shot,140,-6,14,1,2.0,2.0,v
+S2324-G0109,2,06:01,OKC,,DET,,K. Hayes,DET,MISS Hayes 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-51,3,5,1,2.0,0.0,v
+S2324-G0109,2,05:42,OKC,,DET,,K. Hayes,DET,Hayes OFF.Foul (P1) (L.Holtkamp),Foul,Offensive,0,0,0,0,,,v
+S2324-G0109,2,05:42,OKC,,DET,,K. Hayes,DET,Hayes Offensive Foul Turnover (P1.T8),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0109,2,03:56,OKC,,DET,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0109,2,02:38,OKC,,DET,,K. Hayes,DET,MISS Hayes 16' Step Back Jump Shot,Missed Shot,Step Back Jump shot,78,140,16,1,2.0,0.0,v
+S2324-G0109,2,00:40.900000,OKC,,DET,,K. Hayes,DET,SUB: Burks FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0109,3,09:29,OKC,68.0,DET,56.0,K. Hayes,DET,Hayes 25' 3PT Jump Shot (8 PTS) (Cunningham 4 AST),Made Shot,Jump Shot,211,132,25,1,3.0,3.0,v
+S2324-G0109,3,07:35,OKC,,DET,,K. Hayes,DET,Hayes P.FOUL (P2.T4) (K.Lane),Foul,Personal,0,0,0,0,,,v
+S2324-G0109,3,04:42,OKC,,DET,,K. Hayes,DET,SUB: Burks FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0109,4,04:28,OKC,,DET,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0109,4,04:25,OKC,,DET,,K. Hayes,DET,MISS Hayes 5' Running Layup,Missed Shot,Running Layup Shot,-51,13,5,1,2.0,0.0,v
+S2324-G0109,4,04:11,OKC,,DET,,K. Hayes,DET,Hayes P.FOUL (P3.T4) (K.Lane),Foul,Personal,0,0,0,0,,,v
+S2324-G0109,4,03:53,OKC,,DET,,K. Hayes,DET,MISS Hayes 25' 3PT Jump Shot,Missed Shot,Jump Shot,225,107,25,1,3.0,0.0,v
+S2324-G0109,4,02:47,OKC,121.0,DET,104.0,K. Hayes,DET,Hayes 20' Pullup Jump Shot (10 PTS) (Bagley III 1 AST),Made Shot,Pullup Jump shot,20,199,20,1,2.0,2.0,v
+S2324-G0109,4,01:49,OKC,,DET,,K. Hayes,DET,SUB: Sasser FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0534,1,11:12,DET,,HOU,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0534,1,11:05,DET,,HOU,,K. Hayes,DET,MISS Hayes 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,47,53,7,1,2.0,0.0,h
+S2324-G0534,1,06:22,DET,,HOU,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0534,1,05:59,DET,,HOU,,K. Hayes,DET,Hayes BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0534,1,05:02,DET,,HOU,,K. Hayes,DET,Hayes STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0534,1,04:04,DET,,HOU,,K. Hayes,DET,MISS Hayes 3PT Jump Shot,Missed Shot,Jump Shot,-225,24,0,1,3.0,0.0,h
+S2324-G0534,1,03:57,DET,,HOU,,K. Hayes,DET,SUB: Sasser FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0534,2,07:07,DET,,HOU,,K. Hayes,DET,Hayes Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0534,2,06:02,DET,47.0,HOU,37.0,K. Hayes,DET,Hayes 11' Driving Floating Jump Shot (2 PTS) (Knox II 1 AST),Made Shot,Driving Floating Jump Shot,-105,17,11,1,2.0,2.0,h
+S2324-G0534,2,05:40,DET,,HOU,,K. Hayes,DET,MISS Hayes 25' 3PT Jump Shot,Missed Shot,Jump Shot,-150,205,25,1,3.0,0.0,h
+S2324-G0534,2,03:46,DET,,HOU,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0534,2,03:00,DET,,HOU,,K. Hayes,DET,MISS Hayes 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-16,140,14,1,2.0,0.0,h
+S2324-G0534,2,02:01,DET,,HOU,,K. Hayes,DET,SUB: Thompson FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0534,3,11:26,DET,,HOU,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0534,3,06:36,DET,,HOU,,K. Hayes,DET,Hayes S.FOUL (P1.T1) (J.Williams),Foul,Shooting,0,0,0,0,,,h
+S2324-G0534,3,02:22,DET,,HOU,,K. Hayes,DET,SUB: Sasser FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0534,3,00:33.400000,DET,91.0,HOU,88.0,K. Hayes,DET,Hayes 10' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,-31,90,10,1,2.0,2.0,h
+S2324-G0534,4,11:01,DET,92.0,HOU,90.0,K. Hayes,DET,Hayes Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G0534,4,09:10,DET,,HOU,,K. Hayes,DET,SUB: Duren FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G1217,1,08:16,ORL,10.0,DET,11.0,K. Hayes,DET,Hayes 12' Pullup Jump Shot (2 PTS) (Stewart 2 AST),Made Shot,Pullup Jump shot,-115,5,12,1,2.0,2.0,v
+S2324-G1217,1,08:03,ORL,,DET,,K. Hayes,DET,Hayes BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G1217,1,07:59,ORL,,DET,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1217,1,06:50,ORL,10.0,DET,13.0,K. Hayes,DET,Hayes 3' Running Layup (4 PTS) (Cunningham 1 AST),Made Shot,Running Layup Shot,-29,8,3,1,2.0,2.0,v
+S2324-G1217,1,05:36,ORL,,DET,,K. Hayes,DET,SUB: Ivey FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G1217,1,02:29,ORL,,DET,,K. Hayes,DET,MISS Hayes 25' 3PT Jump Shot,Missed Shot,Jump Shot,-88,239,25,1,3.0,0.0,v
+S2324-G1217,1,01:20,ORL,26.0,DET,20.0,K. Hayes,DET,Hayes Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1217,1,01:20,ORL,26.0,DET,21.0,K. Hayes,DET,Hayes Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1217,1,00:15.500000,ORL,,DET,,K. Hayes,DET,MISS Hayes Free Throw Technical,Free Throw,Free Throw Technical,0,0,0,0,1.0,0.0,v
+S2324-G1217,1,00:05.400000,ORL,28.0,DET,23.0,K. Hayes,DET,Hayes 12' Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,62,98,12,1,2.0,2.0,v
+S2324-G1217,1,00:00.200000,ORL,,DET,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1217,2,10:55,ORL,,DET,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1217,2,09:29,ORL,33.0,DET,25.0,K. Hayes,DET,Hayes 12' Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,59,110,12,1,2.0,2.0,v
+S2324-G1217,2,09:04,ORL,,DET,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1217,2,07:55,ORL,,DET,,K. Hayes,DET,SUB: Bogdanovic FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G1217,2,04:44,ORL,,DET,,K. Hayes,DET,Hayes Out of Bounds - Bad Pass Turnover Turnover (P1.T8),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G1217,2,04:09,ORL,46.0,DET,35.0,K. Hayes,DET,Hayes 9' Fadeaway Jumper (12 PTS) (Cunningham 4 AST),Made Shot,Fadeaway Jump Shot,72,61,9,1,2.0,2.0,v
+S2324-G1217,2,03:21,ORL,,DET,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1217,2,02:48,ORL,,DET,,K. Hayes,DET,Hayes REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1217,2,02:45,ORL,,DET,,K. Hayes,DET,MISS Hayes 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-66,112,13,1,2.0,0.0,v
+S2324-G1217,2,01:27,ORL,,DET,,K. Hayes,DET,Hayes P.FOUL (P1.PN) (L.Holtkamp),Foul,Personal,0,0,0,0,,,v
+S2324-G1217,3,09:29,ORL,,DET,,K. Hayes,DET,Hayes REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1217,3,07:39,ORL,,DET,,K. Hayes,DET,MISS Hayes 24' 3PT Jump Shot,Missed Shot,Jump Shot,-233,73,24,1,3.0,0.0,v
+S2324-G1217,3,06:00,ORL,75.0,DET,51.0,K. Hayes,DET,Hayes 16' Step Back Jump Shot (14 PTS) (Cunningham 5 AST),Made Shot,Step Back Jump shot,-157,29,16,1,2.0,2.0,v
+S2324-G1217,3,05:32,ORL,,DET,,K. Hayes,DET,SUB: Burks FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G1217,4,10:56,ORL,,DET,,K. Hayes,DET,Hayes Out of Bounds - Bad Pass Turnover Turnover (P2.T15),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G1217,4,08:37,ORL,104.0,DET,75.0,K. Hayes,DET,Hayes 3' Cutting Finger Roll Layup Shot (16 PTS) (Cunningham 6 AST),Made Shot,Cutting Finger Roll Layup Shot,-1,27,3,1,2.0,2.0,v
+S2324-G1217,4,06:51,ORL,,DET,,K. Hayes,DET,MISS Hayes 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-107,34,11,1,2.0,0.0,v
+S2324-G1217,4,05:29,ORL,,DET,,K. Hayes,DET,SUB: Sasser FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0502,1,06:43,DEN,,DET,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0502,1,04:06,DEN,19.0,DET,17.0,K. Hayes,DET,Hayes 17' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,-109,132,17,1,2.0,2.0,v
+S2324-G0502,1,02:58,DEN,,DET,,K. Hayes,DET,MISS Hayes 25' 3PT Jump Shot,Missed Shot,Jump Shot,70,244,25,1,3.0,0.0,v
+S2324-G0502,2,01:57,DEN,,DET,,K. Hayes,DET,Hayes Lost Ball Turnover (P1.T5),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0502,2,00:53.900000,DEN,,DET,,K. Hayes,DET,MISS Hayes 14' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-22,134,14,1,2.0,0.0,v
+S2324-G0502,3,11:46,DEN,,DET,,K. Hayes,DET,Hayes S.FOUL (P1.T1) (B.Nansel),Foul,Shooting,0,0,0,0,,,v
+S2324-G0502,3,11:10,DEN,,DET,,K. Hayes,DET,Hayes S.FOUL (P2.T2) (B.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2324-G0502,3,10:57,DEN,,DET,,K. Hayes,DET,MISS Hayes 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-62,104,12,1,2.0,0.0,v
+S2324-G0502,3,07:47,DEN,,DET,,K. Hayes,DET,Hayes STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0502,3,06:34,DEN,,DET,,K. Hayes,DET,Hayes S.FOUL (P3.PN) (B.Nansel),Foul,Shooting,0,0,0,0,,,v
+S2324-G0502,3,06:34,DEN,,DET,,K. Hayes,DET,SUB: Burks FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0502,4,03:21,DEN,,DET,,K. Hayes,DET,MISS Hayes 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,25,150,15,1,2.0,0.0,v
+S2324-G0502,4,03:01,DEN,,DET,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0502,4,01:28,DEN,,DET,,K. Hayes,DET,Hayes S.FOUL (P4.T3) (B.Nansel),Foul,Shooting,0,0,0,0,,,v
+S2324-G0129,1,11:30,NOP,,DET,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0129,1,07:38,NOP,,DET,,K. Hayes,DET,SUB: Sasser FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0129,1,03:30,NOP,,DET,,K. Hayes,DET,MISS Hayes 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,4,159,16,1,2.0,0.0,v
+S2324-G0129,2,11:00,NOP,,DET,,K. Hayes,DET,Hayes P.FOUL (P1.T1) (D.Scott),Foul,Personal,0,0,0,0,,,v
+S2324-G0129,2,09:21,NOP,,DET,,K. Hayes,DET,MISS Hayes 28' 3PT Jump Shot,Missed Shot,Jump Shot,-91,265,28,1,3.0,0.0,v
+S2324-G0129,2,08:48,NOP,43.0,DET,36.0,K. Hayes,DET,Hayes 25' 3PT Jump Shot (3 PTS) (Sasser 1 AST),Made Shot,Jump Shot,99,232,25,1,3.0,3.0,v
+S2324-G0129,2,06:33,NOP,,DET,,K. Hayes,DET,SUB: Ivey FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0129,2,02:46,NOP,,DET,,K. Hayes,DET,Hayes REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0129,2,02:17,NOP,,DET,,K. Hayes,DET,MISS Hayes 24' 3PT Jump Shot,Missed Shot,Jump Shot,44,241,24,1,3.0,0.0,v
+S2324-G0129,3,09:37,NOP,75.0,DET,56.0,K. Hayes,DET,Hayes 16' Jump Shot (5 PTS) (Thompson 3 AST),Made Shot,Jump Shot,-153,35,16,1,2.0,2.0,v
+S2324-G0129,3,04:53,NOP,,DET,,K. Hayes,DET,SUB: Ivey FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0129,3,00:41.500000,NOP,,DET,,K. Hayes,DET,Hayes REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0129,4,09:47,NOP,101.0,DET,89.0,K. Hayes,DET,Hayes 25' 3PT Jump Shot (8 PTS) (Cunningham 8 AST),Made Shot,Jump Shot,186,169,25,1,3.0,3.0,v
+S2324-G0129,4,07:37,NOP,,DET,,K. Hayes,DET,Hayes S.FOUL (P2.T1) (D.Scott),Foul,Shooting,0,0,0,0,,,v
+S2324-G0129,4,06:10,NOP,,DET,,K. Hayes,DET,Hayes REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0129,4,05:58,NOP,,DET,,K. Hayes,DET,MISS Hayes 11' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-102,38,11,1,2.0,0.0,v
+S2324-G0129,4,05:56,NOP,,DET,,K. Hayes,DET,Hayes REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0129,4,05:09,NOP,,DET,,K. Hayes,DET,Hayes STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0129,4,03:24,NOP,,DET,,K. Hayes,DET,Hayes P.FOUL (P3.T4) (B.Kennedy),Foul,Personal,0,0,0,0,,,v
+S2324-G0129,4,02:48,NOP,116.0,DET,105.0,K. Hayes,DET,Hayes 16' Step Back Jump Shot (10 PTS),Made Shot,Step Back Jump shot,33,158,16,1,2.0,2.0,v
+S2324-G0129,4,00:15.900000,NOP,,DET,,K. Hayes,DET,Hayes Personal Take Foul (P4.PN) (D.Scott),Foul,Personal Take,0,0,0,0,,,v
+S2324-G0327,1,10:36,PHI,,DET,,K. Hayes,DET,MISS Hayes 26' 3PT Jump Shot,Missed Shot,Jump Shot,153,211,26,1,3.0,0.0,v
+S2324-G0327,1,09:30,PHI,,DET,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0327,1,08:47,PHI,,DET,,K. Hayes,DET,MISS Hayes 21' Jump Shot,Missed Shot,Jump Shot,-161,127,21,1,2.0,0.0,v
+S2324-G0327,1,08:38,PHI,,DET,,K. Hayes,DET,Hayes S.FOUL (P1.T2) (B.Kennedy),Foul,Shooting,0,0,0,0,,,v
+S2324-G0327,1,08:22,PHI,,DET,,K. Hayes,DET,Hayes Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0327,1,08:19,PHI,,DET,,K. Hayes,DET,SUB: Ivey FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0327,1,01:24,PHI,,DET,,K. Hayes,DET,Hayes REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0327,1,01:11,PHI,,DET,,K. Hayes,DET,Hayes BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0327,1,00:41.300000,PHI,26.0,DET,21.0,K. Hayes,DET,Hayes Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0327,1,00:41.300000,PHI,26.0,DET,22.0,K. Hayes,DET,Hayes Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0327,1,00:16.400000,PHI,,DET,,K. Hayes,DET,Hayes REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0327,1,00:03.200000,PHI,,DET,,K. Hayes,DET,Hayes Lost Ball Turnover (P2.T7),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0327,2,11:46,PHI,,DET,,K. Hayes,DET,MISS Hayes 9' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-50,80,9,1,2.0,0.0,v
+S2324-G0327,2,10:16,PHI,,DET,,K. Hayes,DET,Hayes REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0327,2,09:46,PHI,31.0,DET,26.0,K. Hayes,DET,Hayes 11' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,-33,106,11,1,2.0,2.0,v
+S2324-G0327,2,08:28,PHI,,DET,,K. Hayes,DET,Hayes S.FOUL (P2.T2) (B.Kennedy),Foul,Shooting,0,0,0,0,,,v
+S2324-G0327,2,08:28,PHI,,DET,,K. Hayes,DET,SUB: Cunningham FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0327,2,02:39,PHI,,DET,,K. Hayes,DET,MISS Hayes Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0327,2,02:39,PHI,52.0,DET,39.0,K. Hayes,DET,Hayes Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0327,2,00:50.500000,PHI,,DET,,K. Hayes,DET,Hayes P.FOUL (P3.PN) (B.Kennedy),Foul,Personal,0,0,0,0,,,v
+S2324-G0327,2,00:50.500000,PHI,,DET,,K. Hayes,DET,SUB: Bogdanovic FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0327,3,09:54,PHI,,DET,,K. Hayes,DET,Hayes Bad Pass Turnover (P3.T13),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0327,3,08:26,PHI,,DET,,K. Hayes,DET,MISS Hayes 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,56,86,10,1,2.0,0.0,v
+S2324-G0327,3,07:27,PHI,,DET,,K. Hayes,DET,MISS Hayes 5' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-37,34,5,1,2.0,0.0,v
+S2324-G0327,3,04:33,PHI,,DET,,K. Hayes,DET,SUB: Livers FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0018,1,10:27,DET,,ATL,,K. Hayes,DET,MISS Hayes 20' Step Back Jump Shot,Missed Shot,Step Back Jump shot,164,113,20,1,2.0,0.0,h
+S2324-G0018,1,10:00,DET,,ATL,,K. Hayes,DET,Hayes Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0018,1,09:15,DET,,ATL,,K. Hayes,DET,MISS Hayes 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-93,79,12,1,2.0,0.0,h
+S2324-G0018,1,07:55,DET,8.0,ATL,14.0,K. Hayes,DET,Hayes 10' Jump Shot (2 PTS) (Thompson 1 AST),Made Shot,Jump Shot,99,-1,10,1,2.0,2.0,h
+S2324-G0018,1,06:36,DET,,ATL,,K. Hayes,DET,SUB: Burks FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0018,2,08:39,DET,,ATL,,K. Hayes,DET,Hayes S.FOUL (P1.T1) (N.Buchert),Foul,Shooting,0,0,0,0,,,h
+S2324-G0018,2,06:32,DET,,ATL,,K. Hayes,DET,Hayes STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0018,2,06:29,DET,,ATL,,K. Hayes,DET,MISS Hayes Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0018,2,06:29,DET,45.0,ATL,49.0,K. Hayes,DET,Hayes Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0018,2,05:30,DET,48.0,ATL,50.0,K. Hayes,DET,Hayes 27' 3PT Jump Shot (6 PTS) (Ivey 2 AST),Made Shot,Jump Shot,-140,226,27,1,3.0,3.0,h
+S2324-G0018,2,04:30,DET,,ATL,,K. Hayes,DET,MISS Hayes 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,152,199,25,1,3.0,0.0,h
+S2324-G0018,2,04:01,DET,,ATL,,K. Hayes,DET,Hayes BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0018,2,04:01,DET,,ATL,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0018,2,03:46,DET,,ATL,,K. Hayes,DET,SUB: Cunningham FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0018,3,11:21,DET,,ATL,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0018,3,10:08,DET,68.0,ATL,66.0,K. Hayes,DET,Hayes 12' Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,-2,120,12,1,2.0,2.0,h
+S2324-G0018,3,06:19,DET,,ATL,,K. Hayes,DET,Hayes BLOCK (2 BLK),,,0,0,0,0,,,h
+S2324-G0018,3,04:55,DET,,ATL,,K. Hayes,DET,SUB: Burks FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0018,4,07:21,DET,,ATL,,K. Hayes,DET,MISS Hayes 3PT Jump Shot,Missed Shot,Jump Shot,229,27,0,1,3.0,0.0,h
+S2324-G0018,4,07:05,DET,,ATL,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0018,4,05:12,DET,,ATL,,K. Hayes,DET,Hayes P.FOUL (P2.T4) (N.Buchert),Foul,Personal,0,0,0,0,,,h
+S2324-G0018,4,04:49,DET,,ATL,,K. Hayes,DET,MISS Hayes 21' Running Jump Shot,Missed Shot,Running Jump Shot,-147,155,21,1,2.0,0.0,h
+S2324-G0018,4,04:29,DET,,ATL,,K. Hayes,DET,SUB: Burks FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0258,1,03:03,DET,,LAL,,K. Hayes,DET,MISS Hayes 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,6,262,26,1,3.0,0.0,h
+S2324-G0258,1,02:21,DET,,LAL,,K. Hayes,DET,Hayes S.FOUL (P1.PN) (R.Mott),Foul,Shooting,0,0,0,0,,,h
+S2324-G0258,1,00:04.700000,DET,24.0,LAL,38.0,K. Hayes,DET,Hayes 7' Pullup Jump Shot (2 PTS) (Sasser 4 AST),Made Shot,Pullup Jump shot,28,68,7,1,2.0,2.0,h
+S2324-G0258,2,10:27,DET,,LAL,,K. Hayes,DET,MISS Hayes 9' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-21,91,9,1,2.0,0.0,h
+S2324-G0258,2,10:24,DET,,LAL,,K. Hayes,DET,Hayes STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0258,2,09:18,DET,32.0,LAL,42.0,K. Hayes,DET,Hayes 14' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,-83,107,14,1,2.0,2.0,h
+S2324-G0258,2,08:01,DET,,LAL,,K. Hayes,DET,MISS Hayes 25' 3PT Jump Shot,Missed Shot,Jump Shot,-232,97,25,1,3.0,0.0,h
+S2324-G0258,2,07:28,DET,,LAL,,K. Hayes,DET,SUB: Ivey FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0258,3,01:38,DET,73.0,LAL,93.0,K. Hayes,DET,Hayes 7' Jump Bank Shot (6 PTS),Made Shot,Jump Bank Shot,-55,36,7,1,2.0,2.0,h
+S2324-G0258,3,01:38,DET,74.0,LAL,93.0,K. Hayes,DET,Hayes Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G0258,3,00:57.600000,DET,,LAL,,K. Hayes,DET,MISS Hayes 9' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-89,0,9,1,2.0,0.0,h
+S2324-G0258,4,10:50,DET,,LAL,,K. Hayes,DET,MISS Hayes 3' Driving Layup,Missed Shot,Driving Layup Shot,27,0,3,1,2.0,0.0,h
+S2324-G0258,4,10:41,DET,,LAL,,K. Hayes,DET,Hayes S.FOUL (P2.T2) (R.Mott),Foul,Shooting,0,0,0,0,,,h
+S2324-G0258,4,05:55,DET,,LAL,,K. Hayes,DET,SUB: Sasser FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0258,4,03:18,DET,,LAL,,K. Hayes,DET,Lane,Violation,Lane,0,0,0,0,,,h
+S2324-G0258,4,02:38,DET,,LAL,,K. Hayes,DET,Hayes STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0258,4,01:09,DET,,LAL,,K. Hayes,DET,MISS Hayes 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,153,221,27,1,3.0,0.0,h
+S2324-G0258,4,00:14.900000,DET,,LAL,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0218,1,00:50.600000,DET,,DEN,,K. Hayes,DET,Hayes STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0218,2,11:19,DET,,DEN,,K. Hayes,DET,Hayes S.FOUL (P1.T1) (T.Maddox),Foul,Shooting,0,0,0,0,,,h
+S2324-G0218,2,09:45,DET,,DEN,,K. Hayes,DET,MISS Hayes 27' 3PT Jump Shot,Missed Shot,Jump Shot,-188,197,27,1,3.0,0.0,h
+S2324-G0218,2,08:26,DET,,DEN,,K. Hayes,DET,Hayes Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0218,2,08:18,DET,,DEN,,K. Hayes,DET,SUB: Cunningham FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0218,3,02:19,DET,,DEN,,K. Hayes,DET,Hayes Bad Pass Turnover (P2.T12),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0218,3,01:24,DET,,DEN,,K. Hayes,DET,MISS Hayes 14' Step Back Jump Shot,Missed Shot,Step Back Jump shot,143,-1,14,1,2.0,0.0,h
+S2324-G0218,4,09:29,DET,,DEN,,K. Hayes,DET,Hayes P.FOUL (P2.T2) (C.Blair),Foul,Personal,0,0,0,0,,,h
+S2324-G0218,4,08:49,DET,,DEN,,K. Hayes,DET,Hayes STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0218,4,08:01,DET,,DEN,,K. Hayes,DET,SUB: Stewart FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0490,1,02:51,GSW,,DET,,K. Hayes,DET,Hayes STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0490,1,01:46,GSW,,DET,,K. Hayes,DET,Hayes STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0490,2,09:28,GSW,,DET,,K. Hayes,DET,MISS Hayes 28' 3PT Jump Shot,Missed Shot,Jump Shot,-194,196,28,1,3.0,0.0,v
+S2324-G0490,2,08:17,GSW,,DET,,K. Hayes,DET,MISS Hayes 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,47,118,13,1,2.0,0.0,v
+S2324-G0490,2,07:04,GSW,,DET,,K. Hayes,DET,SUB: Ivey FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0490,4,09:30,GSW,,DET,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0490,4,07:56,GSW,,DET,,K. Hayes,DET,MISS Hayes 24' 3PT Jump Shot,Missed Shot,Jump Shot,239,17,24,1,3.0,0.0,v
+S2324-G0490,4,07:12,GSW,,DET,,K. Hayes,DET,SUB: Ivey FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0310,1,10:55,DET,4.0,PHI,2.0,K. Hayes,DET,Hayes 9' Turnaround Jump Shot (2 PTS),Made Shot,Turnaround Jump Shot,-83,34,9,1,2.0,2.0,h
+S2324-G0310,1,09:45,DET,,PHI,,K. Hayes,DET,Hayes STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0310,1,06:45,DET,,PHI,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0310,1,05:32,DET,19.0,PHI,22.0,K. Hayes,DET,Hayes 13' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,121,52,13,1,2.0,2.0,h
+S2324-G0310,1,05:12,DET,,PHI,,K. Hayes,DET,SUB: Cunningham FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0310,1,03:12,DET,,PHI,,K. Hayes,DET,MISS Hayes 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-62,107,12,1,2.0,0.0,h
+S2324-G0310,1,03:01,DET,,PHI,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0310,1,02:46,DET,,PHI,,K. Hayes,DET,Hayes P.FOUL (P1.PN) (L.Wood),Foul,Personal,0,0,0,0,,,h
+S2324-G0310,1,02:27,DET,,PHI,,K. Hayes,DET,MISS Hayes 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,60,80,10,1,2.0,0.0,h
+S2324-G0310,1,00:58.700000,DET,,PHI,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0310,1,00:01.500000,DET,,PHI,,K. Hayes,DET,Hayes Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0310,2,09:32,DET,,PHI,,K. Hayes,DET,SUB: Cunningham FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0310,3,07:33,DET,68.0,PHI,84.0,K. Hayes,DET,Hayes 5' Floating Jump Shot (6 PTS) (Stewart 2 AST),Made Shot,Floating Jump shot,47,-1,5,1,2.0,2.0,h
+S2324-G0310,3,06:08,DET,,PHI,,K. Hayes,DET,MISS Hayes 2' Driving Layup,Missed Shot,Driving Layup Shot,16,13,2,1,2.0,0.0,h
+S2324-G0310,3,04:57,DET,,PHI,,K. Hayes,DET,SUB: Livers FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0310,4,10:24,DET,,PHI,,K. Hayes,DET,MISS Hayes 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,70,96,12,1,2.0,0.0,h
+S2324-G0310,4,07:46,DET,,PHI,,K. Hayes,DET,MISS Hayes 8' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-82,-4,8,1,2.0,0.0,h
+S2324-G0310,4,03:27,DET,,PHI,,K. Hayes,DET,Hayes S.FOUL (P2.T4) (E.Dalen),Foul,Shooting,0,0,0,0,,,h
+S2324-G0453,1,00:20.100000,HOU,31.0,DET,29.0,K. Hayes,DET,Hayes 25' 3PT Step Back Jump Shot (3 PTS),Made Shot,Step Back Jump shot,138,212,25,1,3.0,3.0,v
+S2324-G0453,2,11:05,HOU,,DET,,K. Hayes,DET,Hayes Offensive Charge Foul (P1) (I.Hwang),Foul,Offensive Charge,0,0,0,0,,,v
+S2324-G0453,2,11:05,HOU,,DET,,K. Hayes,DET,Hayes Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0453,2,10:29,HOU,,DET,,K. Hayes,DET,MISS Hayes 22' Jump Bank Shot,Missed Shot,Jump Bank Shot,-34,220,22,1,2.0,0.0,v
+S2324-G0453,2,06:52,HOU,46.0,DET,40.0,K. Hayes,DET,Hayes 4' Running Layup (5 PTS),Made Shot,Running Layup Shot,-36,7,4,1,2.0,2.0,v
+S2324-G0453,2,06:05,HOU,,DET,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0453,2,05:56,HOU,,DET,,K. Hayes,DET,MISS Hayes 6' Pullup Jump Shot,Missed Shot,Pullup Jump shot,20,52,6,1,2.0,0.0,v
+S2324-G0453,2,05:49,HOU,,DET,,K. Hayes,DET,SUB: Knox II FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0453,3,05:02,HOU,,DET,,K. Hayes,DET,MISS Hayes Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0453,3,05:02,HOU,88.0,DET,70.0,K. Hayes,DET,Hayes Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0453,3,04:53,HOU,,DET,,K. Hayes,DET,Hayes S.FOUL (P2.PN) (I.Hwang),Foul,Shooting,0,0,0,0,,,v
+S2324-G0453,3,04:14,HOU,,DET,,K. Hayes,DET,MISS Hayes Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0453,3,04:14,HOU,,DET,,K. Hayes,DET,MISS Hayes Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0453,3,03:09,HOU,,DET,,K. Hayes,DET,MISS Hayes 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-7,176,18,1,2.0,0.0,v
+S2324-G0453,3,02:41,HOU,99.0,DET,72.0,K. Hayes,DET,Hayes 1' Cutting Layup Shot (8 PTS) (Thompson 1 AST),Made Shot,Cutting Layup Shot,-6,6,1,1,2.0,2.0,v
+S2324-G0453,3,00:37.400000,HOU,,DET,,K. Hayes,DET,MISS Hayes 8' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,48,68,8,1,2.0,0.0,v
+S2324-G0453,4,01:37,HOU,,DET,,K. Hayes,DET,Hayes STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0453,4,00:17.700000,HOU,,DET,,K. Hayes,DET,MISS Hayes 3PT Jump Shot,Missed Shot,Jump Shot,-225,11,0,1,3.0,0.0,v
+S2324-G0008,1,11:12,DET,4.0,PHI,0.0,K. Hayes,DET,Hayes 13' Jump Shot (2 PTS) (Duren 1 AST),Made Shot,Jump Shot,42,128,13,1,2.0,2.0,h
+S2324-G0008,1,10:41,DET,,PHI,,K. Hayes,DET,MISS Hayes 8' Floating Jump Shot,Missed Shot,Floating Jump shot,75,-1,8,1,2.0,0.0,h
+S2324-G0008,1,09:51,DET,9.0,PHI,3.0,K. Hayes,DET,Hayes 25' 3PT Pullup Jump Shot (5 PTS) (Stewart 1 AST),Made Shot,Pullup Jump shot,-240,71,25,1,3.0,3.0,h
+S2324-G0008,1,08:12,DET,,PHI,,K. Hayes,DET,Hayes P.FOUL (P1.T3) (J.Van Duyne),Foul,Personal,0,0,0,0,,,h
+S2324-G0008,1,06:41,DET,,PHI,,K. Hayes,DET,Hayes STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0008,1,06:23,DET,,PHI,,K. Hayes,DET,SUB: Sasser FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0008,1,01:43,DET,28.0,PHI,21.0,K. Hayes,DET,Hayes 27' 3PT Step Back Jump Shot (8 PTS),Made Shot,Step Back Jump shot,50,263,27,1,3.0,3.0,h
+S2324-G0008,1,00:59.300000,DET,,PHI,,K. Hayes,DET,MISS Hayes 26' 3PT Jump Shot,Missed Shot,Jump Shot,-192,173,26,1,3.0,0.0,h
+S2324-G0008,2,11:17,DET,,PHI,,K. Hayes,DET,Hayes Violation:Kicked Ball (M.Kogut),Violation,Kicked Ball,0,0,0,0,,,h
+S2324-G0008,2,10:59,DET,37.0,PHI,25.0,K. Hayes,DET,Hayes Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0008,2,10:59,DET,38.0,PHI,25.0,K. Hayes,DET,Hayes Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0008,2,10:45,DET,,PHI,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0008,2,09:14,DET,42.0,PHI,28.0,K. Hayes,DET,Hayes 3' Running Layup (12 PTS) (Sasser 1 AST),Made Shot,Running Layup Shot,23,21,3,1,2.0,2.0,h
+S2324-G0008,2,08:20,DET,,PHI,,K. Hayes,DET,Hayes Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0008,2,07:45,DET,,PHI,,K. Hayes,DET,MISS Hayes 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-230,58,24,1,3.0,0.0,h
+S2324-G0008,2,07:30,DET,,PHI,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0008,2,07:27,DET,,PHI,,K. Hayes,DET,MISS Hayes 15' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,13,151,15,1,2.0,0.0,h
+S2324-G0008,2,07:12,DET,,PHI,,K. Hayes,DET,SUB: Sasser FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0008,2,03:58,DET,,PHI,,K. Hayes,DET,MISS Hayes 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-7,136,14,1,2.0,0.0,h
+S2324-G0008,2,03:21,DET,56.0,PHI,41.0,K. Hayes,DET,Hayes 14' Driving Floating Bank Jump Shot (14 PTS) (Duren 2 AST),Made Shot,Driving Floating Bank Jump Shot,129,46,14,1,2.0,2.0,h
+S2324-G0008,2,02:53,DET,,PHI,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0008,2,02:07,DET,,PHI,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0008,2,01:17,DET,,PHI,,K. Hayes,DET,MISS Hayes 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-116,88,15,1,2.0,0.0,h
+S2324-G0008,3,09:40,DET,,PHI,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0008,3,07:39,DET,62.0,PHI,60.0,K. Hayes,DET,Hayes 3' Running Layup (16 PTS) (Sasser 2 AST),Made Shot,Running Layup Shot,13,22,3,1,2.0,2.0,h
+S2324-G0008,3,05:42,DET,66.0,PHI,64.0,K. Hayes,DET,Hayes Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0008,3,05:42,DET,,PHI,,K. Hayes,DET,MISS Hayes Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0008,3,05:32,DET,,PHI,,K. Hayes,DET,SUB: Umude FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0008,3,02:42,DET,,PHI,,K. Hayes,DET,Hayes STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0008,3,02:21,DET,,PHI,,K. Hayes,DET,MISS Hayes 25' 3PT Jump Shot,Missed Shot,Jump Shot,34,247,25,1,3.0,0.0,h
+S2324-G0008,3,00:35.300000,DET,75.0,PHI,81.0,K. Hayes,DET,Hayes 17' Pullup Jump Shot (19 PTS),Made Shot,Pullup Jump shot,33,169,17,1,2.0,2.0,h
+S2324-G0008,3,00:20.800000,DET,76.0,PHI,81.0,K. Hayes,DET,Hayes Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0008,3,00:20.800000,DET,77.0,PHI,81.0,K. Hayes,DET,Hayes Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0008,4,10:36,DET,79.0,PHI,88.0,K. Hayes,DET,Hayes 12' Fadeaway Jumper (23 PTS) (Stewart 2 AST),Made Shot,Fadeaway Jump Shot,82,94,12,1,2.0,2.0,h
+S2324-G0008,4,08:54,DET,,PHI,,K. Hayes,DET,Hayes Out of Bounds - Bad Pass Turnover Turnover (P2.T16),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G0008,4,08:32,DET,,PHI,,K. Hayes,DET,MISS Hayes 7' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-66,17,7,1,2.0,0.0,h
+S2324-G0008,4,04:48,DET,,PHI,,K. Hayes,DET,MISS Hayes 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,164,184,25,1,3.0,0.0,h
+S2324-G0008,4,03:28,DET,,PHI,,K. Hayes,DET,MISS Hayes Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2324-G0008,4,02:04,DET,,PHI,,K. Hayes,DET,SUB: Umude FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0474,1,00:30.600000,UTA,,DET,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0474,2,10:52,UTA,,DET,,K. Hayes,DET,Hayes BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0474,2,10:25,UTA,28.0,DET,35.0,K. Hayes,DET,Hayes 12' Step Back Jump Shot (2 PTS),Made Shot,Step Back Jump shot,-67,104,12,1,2.0,2.0,v
+S2324-G0474,2,10:07,UTA,,DET,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0474,2,07:54,UTA,,DET,,K. Hayes,DET,SUB: Cunningham FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0474,3,03:03,UTA,,DET,,K. Hayes,DET,MISS Hayes 22' Jump Shot,Missed Shot,Jump Shot,53,218,22,1,2.0,0.0,v
+S2324-G0474,3,01:58,UTA,,DET,,K. Hayes,DET,MISS Hayes 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,2,75,8,1,2.0,0.0,v
+S2324-G0474,3,00:33.200000,UTA,,DET,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0474,4,09:35,UTA,,DET,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0474,4,08:48,UTA,,DET,,K. Hayes,DET,SUB: Cunningham FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0474,5,00:07.100000,UTA,,DET,,K. Hayes,DET,Hayes AWAY.FROM.PLAY.FOUL (P1.PN) (E.Malloy),Foul,Away From Play,0,0,0,0,,,v
+S2324-G0474,5,00:04.500000,UTA,,DET,,K. Hayes,DET,Hayes Personal Take Foul (P2.PN) (E.Malloy),Foul,Personal Take,0,0,0,0,,,v
+S2324-G0474,5,00:04.500000,UTA,,DET,,K. Hayes,DET,SUB: Duren FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0268,1,10:45,NYK,,DET,,K. Hayes,DET,Hayes S.FOUL (P1.T1) (J.Goble),Foul,Shooting,0,0,0,0,,,v
+S2324-G0268,1,10:35,NYK,,DET,,K. Hayes,DET,MISS Hayes 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,69,249,26,1,3.0,0.0,v
+S2324-G0268,1,10:28,NYK,,DET,,K. Hayes,DET,Hayes BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0268,1,08:46,NYK,9.0,DET,4.0,K. Hayes,DET,Hayes 10' Step Back Jump Shot (2 PTS) (Cunningham 1 AST),Made Shot,Step Back Jump shot,102,12,10,1,2.0,2.0,v
+S2324-G0268,1,05:33,NYK,,DET,,K. Hayes,DET,MISS Hayes 22' Pullup Jump Shot,Missed Shot,Pullup Jump shot,185,112,22,1,2.0,0.0,v
+S2324-G0268,1,05:28,NYK,,DET,,K. Hayes,DET,SUB: Sasser FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0268,2,10:51,NYK,,DET,,K. Hayes,DET,MISS Hayes 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-109,106,15,1,2.0,0.0,v
+S2324-G0268,2,10:19,NYK,,DET,,K. Hayes,DET,Hayes STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0268,2,09:34,NYK,35.0,DET,24.0,K. Hayes,DET,Hayes 13' Running Jump Shot (4 PTS),Made Shot,Running Jump Shot,-9,126,13,1,2.0,2.0,v
+S2324-G0268,2,09:34,NYK,35.0,DET,25.0,K. Hayes,DET,Hayes Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G0268,2,09:17,NYK,35.0,DET,27.0,K. Hayes,DET,Hayes 3' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,-27,10,3,1,2.0,2.0,v
+S2324-G0268,2,09:17,NYK,,DET,,K. Hayes,DET,MISS Hayes Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2324-G0268,2,09:11,NYK,,DET,,K. Hayes,DET,Hayes P.FOUL (P2.T3) (B.Adair),Foul,Personal,0,0,0,0,,,v
+S2324-G0268,2,08:59,NYK,,DET,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0268,2,07:07,NYK,37.0,DET,34.0,K. Hayes,DET,Hayes 17' Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,-110,128,17,1,2.0,2.0,v
+S2324-G0268,2,05:41,NYK,,DET,,K. Hayes,DET,SUB: Ivey FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0268,3,09:54,NYK,,DET,,K. Hayes,DET,MISS Hayes Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0268,3,09:54,NYK,,DET,,K. Hayes,DET,MISS Hayes Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0268,3,09:28,NYK,59.0,DET,59.0,K. Hayes,DET,Hayes 3PT Jump Shot (12 PTS) (Cunningham 3 AST),Made Shot,Jump Shot,-225,-20,0,1,3.0,3.0,v
+S2324-G0268,3,08:17,NYK,65.0,DET,63.0,K. Hayes,DET,Hayes 10' Floating Jump Shot (14 PTS),Made Shot,Floating Jump shot,1,101,10,1,2.0,2.0,v
+S2324-G0268,3,06:28,NYK,,DET,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0268,3,05:58,NYK,69.0,DET,69.0,K. Hayes,DET,Hayes 15' Pullup Jump Shot (16 PTS),Made Shot,Pullup Jump shot,-5,153,15,1,2.0,2.0,v
+S2324-G0268,3,05:01,NYK,,DET,,K. Hayes,DET,SUB: Sasser FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0268,4,06:54,NYK,99.0,DET,95.0,K. Hayes,DET,Hayes 15' Pullup Jump Shot (18 PTS) (Cunningham 6 AST),Made Shot,Pullup Jump shot,-18,146,15,1,2.0,2.0,v
+S2324-G0268,4,05:00,NYK,106.0,DET,103.0,K. Hayes,DET,Hayes 3PT Jump Shot (21 PTS) (Cunningham 8 AST),Made Shot,Jump Shot,-224,-1,0,1,3.0,3.0,v
+S2324-G0268,4,04:07,NYK,,DET,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0268,4,00:30.800000,NYK,,DET,,K. Hayes,DET,Hayes P.FOUL (P3.PN) (J.Goble),Foul,Personal,0,0,0,0,,,v
+S2324-G0268,4,00:09.400000,NYK,118.0,DET,112.0,K. Hayes,DET,Hayes 17' Pullup Jump Shot (23 PTS),Made Shot,Pullup Jump shot,96,140,17,1,2.0,2.0,v
+S2324-G0642,1,02:12,DET,,WAS,,K. Hayes,DET,MISS Hayes 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,43,53,7,1,2.0,0.0,h
+S2324-G0642,1,01:41,DET,,WAS,,K. Hayes,DET,Hayes Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0642,2,10:46,DET,,WAS,,K. Hayes,DET,Hayes P.FOUL (P1.T2) (M.Lindsay),Foul,Personal,0,0,0,0,,,h
+S2324-G0642,2,10:17,DET,,WAS,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0642,2,09:41,DET,40.0,WAS,38.0,K. Hayes,DET,Hayes 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,-7,18,2,1,2.0,2.0,h
+S2324-G0642,2,08:46,DET,,WAS,,K. Hayes,DET,Hayes BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0642,2,08:01,DET,,WAS,,K. Hayes,DET,PISTONS T.Foul (Def. 3 Sec Hayes ) (M.Lindsay),Foul,Defense 3 Second,0,0,0,0,,,h
+S2324-G0642,2,08:01,DET,,WAS,,K. Hayes,DET,SUB: Duren FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0642,4,06:25,DET,,WAS,,K. Hayes,DET,Hayes Bad Pass Turnover (P2.T16),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0642,4,05:42,DET,,WAS,,K. Hayes,DET,Hayes BLOCK (2 BLK),,,0,0,0,0,,,h
+S2324-G0642,4,05:20,DET,,WAS,,K. Hayes,DET,SUB: Cunningham FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0253,1,01:36,DET,,WAS,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0253,1,01:14,DET,,WAS,,K. Hayes,DET,PISTONS T.Foul (Def. 3 Sec Hayes ) (B.Kennedy),Foul,Defense 3 Second,0,0,0,0,,,h
+S2324-G0253,1,00:43,DET,,WAS,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0253,2,10:13,DET,,WAS,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0253,2,08:00,DET,,WAS,,K. Hayes,DET,Hayes BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0253,2,07:06,DET,,WAS,,K. Hayes,DET,SUB: Cunningham FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0253,3,02:24,DET,,WAS,,K. Hayes,DET,Hayes BLOCK (2 BLK),,,0,0,0,0,,,h
+S2324-G0253,3,01:20,DET,,WAS,,K. Hayes,DET,PISTONS T.Foul (Def. 3 Sec Hayes ) (N.Buchert),Foul,Defense 3 Second,0,0,0,0,,,h
+S2324-G0253,3,00:34.600000,DET,,WAS,,K. Hayes,DET,MISS Hayes 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-28,60,7,1,2.0,0.0,h
+S2324-G0253,4,11:33,DET,,WAS,,K. Hayes,DET,Hayes S.FOUL (P1.T1) (C.Flores),Foul,Shooting,0,0,0,0,,,h
+S2324-G0253,4,11:17,DET,,WAS,,K. Hayes,DET,Hayes REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0253,4,10:36,DET,,WAS,,K. Hayes,DET,Hayes BLOCK (3 BLK),,,0,0,0,0,,,h
+S2324-G0253,4,10:33,DET,,WAS,,K. Hayes,DET, ,Jump Ball,,0,0,0,0,,,h
+S2324-G0253,4,10:33,DET,,WAS,,K. Hayes,DET,SUB: Thompson FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0654,1,11:18,DET,,OKC,,K. Hayes,DET,MISS Hayes 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-17,71,7,1,2.0,0.0,h
+S2324-G0654,1,05:45,DET,,OKC,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0654,1,04:54,DET,,OKC,,K. Hayes,DET,SUB: Burks FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0654,3,10:38,DET,,OKC,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0654,3,08:09,DET,,OKC,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0654,3,07:01,DET,85.0,OKC,76.0,K. Hayes,DET,Hayes 10' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,54,90,10,1,2.0,2.0,h
+S2324-G0654,3,05:17,DET,,OKC,,K. Hayes,DET,Hayes Traveling Turnover (P1.T4),Turnover,Traveling,0,0,0,0,,,h
+S2324-G0654,3,05:17,DET,,OKC,,K. Hayes,DET,SUB: Morris FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0068,1,10:13,MIA,,DET,,K. Hayes,DET,MISS Hayes 13' Jump Shot,Missed Shot,Jump Shot,59,113,13,1,2.0,0.0,v
+S2324-G0068,1,09:47,MIA,5.0,DET,5.0,K. Hayes,DET,Hayes Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0068,1,09:47,MIA,5.0,DET,6.0,K. Hayes,DET,Hayes Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0068,1,07:56,MIA,,DET,,K. Hayes,DET,MISS Hayes 26' 3PT Jump Shot,Missed Shot,Jump Shot,197,173,26,1,3.0,0.0,v
+S2324-G0068,1,06:37,MIA,,DET,,K. Hayes,DET,Hayes STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0068,1,05:19,MIA,,DET,,K. Hayes,DET,SUB: Ivey FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0068,2,11:18,MIA,,DET,,K. Hayes,DET,Hayes Bad Pass Turnover (P1.T10),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0068,2,11:14,MIA,,DET,,K. Hayes,DET,Hayes BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0068,2,09:27,MIA,,DET,,K. Hayes,DET,MISS Hayes 25' 3PT Jump Shot,Missed Shot,Jump Shot,77,237,25,1,3.0,0.0,v
+S2324-G0068,2,08:35,MIA,,DET,,K. Hayes,DET,Hayes S.FOUL (P1.T2) (B.Forte),Foul,Shooting,0,0,0,0,,,v
+S2324-G0068,2,08:02,MIA,,DET,,K. Hayes,DET,SUB: Stewart FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0068,2,03:47,MIA,50.0,DET,43.0,K. Hayes,DET,Hayes 15' Pullup Jump Shot (4 PTS) (Bagley III 3 AST),Made Shot,Pullup Jump shot,-11,151,15,1,2.0,2.0,v
+S2324-G0068,2,03:12,MIA,,DET,,K. Hayes,DET,MISS Hayes 25' 3PT Jump Shot,Missed Shot,Jump Shot,161,188,25,1,3.0,0.0,v
+S2324-G0068,2,01:48,MIA,,DET,,K. Hayes,DET,SUB: Burks FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0068,3,10:58,MIA,61.0,DET,49.0,K. Hayes,DET,Hayes 15' Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,65,133,15,1,2.0,2.0,v
+S2324-G0068,3,10:23,MIA,,DET,,K. Hayes,DET,MISS Hayes Free Throw Technical,Free Throw,Free Throw Technical,0,0,0,0,1.0,0.0,v
+S2324-G0068,3,07:08,MIA,,DET,,K. Hayes,DET,MISS Hayes 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,17,155,16,1,2.0,0.0,v
+S2324-G0068,3,06:39,MIA,70.0,DET,57.0,K. Hayes,DET,Hayes 17' Pullup Jump Shot (8 PTS) (Cunningham 4 AST),Made Shot,Pullup Jump shot,-1,167,17,1,2.0,2.0,v
+S2324-G0068,3,05:07,MIA,,DET,,K. Hayes,DET,MISS Hayes 24' 3PT Jump Shot,Missed Shot,Jump Shot,214,117,24,1,3.0,0.0,v
+S2324-G0068,3,04:47,MIA,,DET,,K. Hayes,DET,MISS Hayes 25' 3PT Jump Shot,Missed Shot,Jump Shot,223,112,25,1,3.0,0.0,v
+S2324-G0068,3,03:53,MIA,,DET,,K. Hayes,DET,SUB: Sasser FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0068,4,06:04,MIA,,DET,,K. Hayes,DET,Hayes S.FOUL (P2.T3) (C.Blair),Foul,Shooting,0,0,0,0,,,v
+S2324-G0068,4,05:29,MIA,,DET,,K. Hayes,DET,MISS Hayes 3PT Jump Shot,Missed Shot,Jump Shot,225,-9,0,1,3.0,0.0,v
+S2324-G0068,4,04:25,MIA,97.0,DET,93.0,K. Hayes,DET,Hayes 13' Fadeaway Jumper (10 PTS),Made Shot,Fadeaway Jump Shot,-69,113,13,1,2.0,2.0,v
+S2324-G0068,4,01:49,MIA,,DET,,K. Hayes,DET,Hayes STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0068,4,00:42,MIA,,DET,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0592,1,10:46,DET,,MIL,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0592,1,09:51,DET,,MIL,,K. Hayes,DET,Hayes S.FOUL (P1.T2) (P.Ransom),Foul,Shooting,0,0,0,0,,,h
+S2324-G0592,1,09:16,DET,,MIL,,K. Hayes,DET,MISS Hayes 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-29,29,4,1,2.0,0.0,h
+S2324-G0592,1,08:14,DET,8.0,MIL,7.0,K. Hayes,DET,Hayes 7' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,20,64,7,1,2.0,2.0,h
+S2324-G0592,1,07:53,DET,,MIL,,K. Hayes,DET,Hayes P.FOUL (P2.T3) (S.Twardoski),Foul,Personal,0,0,0,0,,,h
+S2324-G0592,1,07:26,DET,,MIL,,K. Hayes,DET,SUB: Thompson FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0592,2,07:40,DET,,MIL,,K. Hayes,DET,MISS Hayes 16' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,76,141,16,1,2.0,0.0,h
+S2324-G0592,2,02:44,DET,,MIL,,K. Hayes,DET,Hayes STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0592,2,01:59,DET,,MIL,,K. Hayes,DET,SUB: Burks FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0592,3,10:54,DET,,MIL,,K. Hayes,DET,Hayes S.FOUL (P3.T1) (K.Lane),Foul,Shooting,0,0,0,0,,,h
+S2324-G0592,3,10:19,DET,,MIL,,K. Hayes,DET,Hayes Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0592,3,07:18,DET,,MIL,,K. Hayes,DET,SUB: Thompson FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0592,4,04:40,DET,,MIL,,K. Hayes,DET,SUB: Burks FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0140,1,11:04,DET,,PHX,,K. Hayes,DET,Hayes P.FOUL (P1.T1) (J.Goldenberg),Foul,Personal,0,0,0,0,,,h
+S2324-G0140,1,09:54,DET,6.0,PHX,5.0,K. Hayes,DET,Hayes 10' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,-31,90,10,1,2.0,2.0,h
+S2324-G0140,1,08:56,DET,,PHX,,K. Hayes,DET,MISS Hayes 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,119,1,12,1,2.0,0.0,h
+S2324-G0140,1,06:13,DET,,PHX,,K. Hayes,DET,SUB: Sasser FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0140,1,04:02,DET,,PHX,,K. Hayes,DET,MISS Hayes 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,115,242,27,1,3.0,0.0,h
+S2324-G0140,1,03:21,DET,,PHX,,K. Hayes,DET,Hayes P.FOUL (P2.T3) (M.Davis),Foul,Personal,0,0,0,0,,,h
+S2324-G0140,1,03:15,DET,16.0,PHX,21.0,K. Hayes,DET,Hayes Free Throw Technical (3 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,h
+S2324-G0140,1,00:45.200000,DET,,PHX,,K. Hayes,DET,MISS Hayes 8' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-53,59,8,1,2.0,0.0,h
+S2324-G0140,2,07:44,DET,35.0,PHX,46.0,K. Hayes,DET,Hayes Free Throw Technical (4 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,h
+S2324-G0140,2,03:04,DET,,PHX,,K. Hayes,DET,SUB: Duren FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0140,2,00:25.500000,DET,,PHX,,K. Hayes,DET,SUB: Harris FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0140,3,10:17,DET,,PHX,,K. Hayes,DET,Hayes P.FOUL (P3.T2) (J.Goldenberg),Foul,Personal,0,0,0,0,,,h
+S2324-G0140,3,09:46,DET,54.0,PHX,65.0,K. Hayes,DET,Hayes 25' 3PT Jump Shot (7 PTS) (Cunningham 3 AST),Made Shot,Jump Shot,145,209,25,1,3.0,3.0,h
+S2324-G0140,3,09:04,DET,,PHX,,K. Hayes,DET,MISS Hayes 3PT Jump Shot,Missed Shot,Jump Shot,233,3,0,1,3.0,0.0,h
+S2324-G0140,3,05:49,DET,,PHX,,K. Hayes,DET,SUB: Sasser FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0140,4,09:20,DET,83.0,PHX,99.0,K. Hayes,DET,Hayes Free Throw Technical (8 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,h
+S2324-G0140,4,09:01,DET,,PHX,,K. Hayes,DET,Hayes S.FOUL (P4.T1) (P.O'Connell),Foul,Shooting,0,0,0,0,,,h
+S2324-G0140,4,07:35,DET,,PHX,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0140,4,06:57,DET,,PHX,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0140,4,06:26,DET,88.0,PHX,104.0,K. Hayes,DET,Hayes 17' Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,-107,137,17,1,2.0,2.0,h
+S2324-G0140,4,05:31,DET,,PHX,,K. Hayes,DET,Hayes BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0140,4,05:27,DET,90.0,PHX,106.0,K. Hayes,DET,Hayes 1' Running Dunk (12 PTS) (Sasser 3 AST),Made Shot,Running Dunk Shot,2,-11,1,1,2.0,2.0,h
+S2324-G0140,4,05:27,DET,91.0,PHX,106.0,K. Hayes,DET,Hayes Free Throw 1 of 1 (13 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G0140,4,02:35,DET,,PHX,,K. Hayes,DET,SUB: Bagley III FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0619,1,10:16,DET,7.0,CHA,5.0,K. Hayes,DET,Hayes 5' Driving Floating Jump Shot (2 PTS) (Duren 1 AST),Made Shot,Driving Floating Jump Shot,-39,27,5,1,2.0,2.0,h
+S2324-G0619,1,10:16,DET,,CHA,,K. Hayes,DET,MISS Hayes Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2324-G0619,1,07:50,DET,,CHA,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0619,1,04:17,DET,,CHA,,K. Hayes,DET,MISS Hayes 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,105,246,27,1,3.0,0.0,h
+S2324-G0619,1,04:03,DET,,CHA,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0619,1,04:02,DET,,CHA,,K. Hayes,DET,SUB: Knox II FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0619,2,00:32.600000,DET,,CHA,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0619,3,07:43,DET,,CHA,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0619,3,07:40,DET,,CHA,,K. Hayes,DET,Hayes Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0619,3,05:41,DET,76.0,CHA,68.0,K. Hayes,DET,Hayes 28' 3PT Jump Shot (5 PTS) (Morris 3 AST),Made Shot,Jump Shot,-152,235,28,1,3.0,3.0,h
+S2324-G0619,3,04:54,DET,,CHA,,K. Hayes,DET,SUB: Burks FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0619,4,04:39,DET,,CHA,,K. Hayes,DET,Hayes S.FOUL (P1.T3) (D.Collins),Foul,Shooting,0,0,0,0,,,h
+S2324-G0619,4,04:06,DET,,CHA,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0619,4,03:00,DET,,CHA,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0619,4,00:11.500000,DET,,CHA,,K. Hayes,DET,Hayes REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0619,4,00:08.900000,DET,113.0,CHA,106.0,K. Hayes,DET,Hayes Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0619,4,00:08.900000,DET,,CHA,,K. Hayes,DET,MISS Hayes Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h

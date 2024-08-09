@@ -1,0 +1,1407 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2324-G1230,1,07:33,LAL,,NOP,,T. Prince,LAL,Prince P.FOUL (P1.T2) (A.Moyer-Gleich),Foul,Personal,0,0,0,0,,,h
+S2324-G1230,1,07:19,LAL,15.0,NOP,11.0,T. Prince,LAL,Prince 25' 3PT Pullup Jump Shot (3 PTS) (James 2 AST),Made Shot,Pullup Jump shot,173,180,25,1,3.0,3.0,h
+S2324-G1230,1,04:29,LAL,,NOP,,T. Prince,LAL,MISS Prince 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,0,37,4,1,2.0,0.0,h
+S2324-G1230,1,04:17,LAL,,NOP,,T. Prince,LAL,SUB: Reaves FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G1230,2,06:43,LAL,,NOP,,T. Prince,LAL,MISS Prince 3PT Jump Shot,Missed Shot,Jump Shot,-233,16,0,1,3.0,0.0,h
+S2324-G1230,2,06:36,LAL,,NOP,,T. Prince,LAL,MISS Prince 27' 3PT Jump Shot,Missed Shot,Jump Shot,-181,206,27,1,3.0,0.0,h
+S2324-G1230,2,04:32,LAL,53.0,NOP,45.0,T. Prince,LAL,Prince 3PT Jump Shot (6 PTS) (Reaves 3 AST),Made Shot,Jump Shot,222,21,0,1,3.0,3.0,h
+S2324-G1230,2,02:08,LAL,60.0,NOP,51.0,T. Prince,LAL,Prince 26' 3PT Jump Shot (9 PTS) (James 4 AST),Made Shot,Jump Shot,-151,212,26,1,3.0,3.0,h
+S2324-G1230,2,01:32,LAL,,NOP,,T. Prince,LAL,Prince P.FOUL (P2.PN) (A.Moyer-Gleich),Foul,Personal,0,0,0,0,,,h
+S2324-G1230,2,01:05,LAL,67.0,NOP,54.0,T. Prince,LAL,Prince 24' 3PT Pullup Jump Shot (12 PTS) (Reaves 4 AST),Made Shot,Pullup Jump shot,235,48,24,1,3.0,3.0,h
+S2324-G1230,3,09:50,LAL,,NOP,,T. Prince,LAL,Prince STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1230,3,08:24,LAL,,NOP,,T. Prince,LAL,MISS Prince 3PT Jump Shot,Missed Shot,Jump Shot,234,13,0,1,3.0,0.0,h
+S2324-G1230,3,07:50,LAL,,NOP,,T. Prince,LAL,Prince S.FOUL (P3.T2) (S.Foster),Foul,Shooting,0,0,0,0,,,h
+S2324-G1230,3,06:23,LAL,,NOP,,T. Prince,LAL,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1230,3,04:46,LAL,,NOP,,T. Prince,LAL,Prince REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1230,3,04:29,LAL,93.0,NOP,62.0,T. Prince,LAL,Prince 3PT Jump Shot (15 PTS) (Vanderbilt 1 AST),Made Shot,Jump Shot,-225,6,0,1,3.0,3.0,h
+S2324-G1230,3,03:51,LAL,,NOP,,T. Prince,LAL,Prince REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1230,3,03:32,LAL,,NOP,,T. Prince,LAL,SUB: Reddish FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0163,1,11:16,HOU,,LAL,,T. Prince,LAL,MISS Prince 24' 3PT Jump Shot,Missed Shot,Jump Shot,237,15,24,1,3.0,0.0,v
+S2324-G0163,1,08:32,HOU,,LAL,,T. Prince,LAL,MISS Prince 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,53,108,12,1,2.0,0.0,v
+S2324-G0163,1,08:06,HOU,11.0,LAL,4.0,T. Prince,LAL,Prince 4' Driving Layup (2 PTS) (Russell 1 AST),Made Shot,Driving Layup Shot,33,13,4,1,2.0,2.0,v
+S2324-G0163,1,06:51,HOU,,LAL,,T. Prince,LAL,Prince S.FOUL (P1.T1) (R.Acosta),Foul,Shooting,0,0,0,0,,,v
+S2324-G0163,1,05:12,HOU,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0163,1,04:52,HOU,,LAL,,T. Prince,LAL,SUB: Reddish FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0163,2,06:03,HOU,51.0,LAL,32.0,T. Prince,LAL,Prince 26' 3PT Jump Shot (5 PTS) (Russell 3 AST),Made Shot,Jump Shot,-72,245,26,1,3.0,3.0,v
+S2324-G0163,2,04:30,HOU,,LAL,,T. Prince,LAL,Prince Lost Ball Turnover (P1.T6),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0163,2,00:32.900000,HOU,64.0,LAL,43.0,T. Prince,LAL,Prince 17' Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,-113,129,17,1,2.0,2.0,v
+S2324-G0163,3,09:17,HOU,,LAL,,T. Prince,LAL,MISS Prince 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-129,32,13,1,2.0,0.0,v
+S2324-G0163,3,02:43,HOU,,LAL,,T. Prince,LAL,Prince P.FOUL (P2.T4) (D.Collins),Foul,Personal,0,0,0,0,,,v
+S2324-G0163,3,00:12.800000,HOU,,LAL,,T. Prince,LAL,Prince S.FOUL (P3.PN) (T.Maddox),Foul,Shooting,0,0,0,0,,,v
+S2324-G0026,1,07:02,LAL,18.0,MEM,9.0,T. Prince,LAL,Prince 26' 3PT Jump Shot (3 PTS) (Russell 2 AST),Made Shot,Jump Shot,115,233,26,1,3.0,3.0,h
+S2324-G0026,1,05:48,LAL,,MEM,,T. Prince,LAL,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0026,1,05:45,LAL,,MEM,,T. Prince,LAL,SUB: Reaves FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0026,1,03:36,LAL,,MEM,,T. Prince,LAL,MISS Prince 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,72,230,24,1,3.0,0.0,h
+S2324-G0026,1,02:23,LAL,31.0,MEM,23.0,T. Prince,LAL,Prince 3' Cutting Layup Shot (5 PTS) (Reaves 1 AST),Made Shot,Cutting Layup Shot,-16,29,3,1,2.0,2.0,h
+S2324-G0026,1,00:42.700000,LAL,,MEM,,T. Prince,LAL,Prince REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0026,1,00:16.300000,LAL,,MEM,,T. Prince,LAL,Prince P.FOUL (P1.T2) (S.Mitchell),Foul,Personal,0,0,0,0,,,h
+S2324-G0026,2,03:15,LAL,,MEM,,T. Prince,LAL,MISS Prince 3PT Jump Shot,Missed Shot,Jump Shot,224,47,0,1,3.0,0.0,h
+S2324-G0026,3,10:36,LAL,82.0,MEM,55.0,T. Prince,LAL,Prince 26' 3PT Jump Shot (8 PTS) (Davis 3 AST),Made Shot,Jump Shot,-91,248,26,1,3.0,3.0,h
+S2324-G0026,3,08:01,LAL,,MEM,,T. Prince,LAL,Prince S.FOUL (P2.T1) (R.Acosta),Foul,Shooting,0,0,0,0,,,h
+S2324-G0026,3,07:46,LAL,,MEM,,T. Prince,LAL,MISS Prince 26' 3PT Jump Shot,Missed Shot,Jump Shot,179,194,26,1,3.0,0.0,h
+S2324-G0026,3,07:17,LAL,,MEM,,T. Prince,LAL,SUB: Reaves FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0026,4,11:43,LAL,,MEM,,T. Prince,LAL,Prince STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0026,4,08:53,LAL,,MEM,,T. Prince,LAL,Prince REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0026,4,08:33,LAL,,MEM,,T. Prince,LAL,Prince S.FOUL (P3.T1) (R.Acosta),Foul,Shooting,0,0,0,0,,,h
+S2324-G0026,4,08:33,LAL,,MEM,,T. Prince,LAL,SUB: Christie FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G1103,1,04:24,WAS,,LAL,,T. Prince,LAL,Prince STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G1103,1,04:04,WAS,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1103,1,03:35,WAS,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1103,1,02:59,WAS,,LAL,,T. Prince,LAL,MISS Prince 24' 3PT Jump Shot,Missed Shot,Jump Shot,-238,-5,24,1,3.0,0.0,v
+S2324-G1103,1,01:42,WAS,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1103,1,01:16,WAS,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1103,1,00:18,WAS,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1103,2,11:05,WAS,,LAL,,T. Prince,LAL,Prince S.FOUL (P1.T2) (B.Kennedy),Foul,Shooting,0,0,0,0,,,v
+S2324-G1103,2,09:16,WAS,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1103,2,07:41,WAS,,LAL,,T. Prince,LAL,SUB: Russell FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G1103,3,02:50,WAS,,LAL,,T. Prince,LAL,Prince REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1103,3,01:37,WAS,82.0,LAL,97.0,T. Prince,LAL,Prince 26' 3PT Pullup Jump Shot (3 PTS) (Davis 1 AST),Made Shot,Pullup Jump shot,212,149,26,1,3.0,3.0,v
+S2324-G1103,4,11:42,WAS,86.0,LAL,103.0,T. Prince,LAL,Prince 14' Pullup Jump Shot (5 PTS) (Hayes 2 AST),Made Shot,Pullup Jump shot,137,8,14,1,2.0,2.0,v
+S2324-G1103,4,10:13,WAS,,LAL,,T. Prince,LAL,Prince Lost Ball Turnover (P1.T14),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G1103,4,09:19,WAS,,LAL,,T. Prince,LAL,MISS Prince 25' 3PT Jump Shot,Missed Shot,Jump Shot,-250,-4,25,1,3.0,0.0,v
+S2324-G1103,4,09:13,WAS,,LAL,,T. Prince,LAL,SUB: Davis FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G1103,4,01:21,WAS,,LAL,,T. Prince,LAL,SUB: Lewis FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0591,1,08:32,LAL,,BKN,,T. Prince,LAL,Prince Violation:Kicked Ball (C.Kirkland),Violation,Kicked Ball,0,0,0,0,,,h
+S2324-G0591,1,07:01,LAL,,BKN,,T. Prince,LAL,Prince P.FOUL (P1.T2) (J.Sterling),Foul,Personal,0,0,0,0,,,h
+S2324-G0591,1,06:21,LAL,19.0,BKN,9.0,T. Prince,LAL,Prince 3PT Jump Shot (3 PTS) (James 2 AST),Made Shot,Jump Shot,-233,2,0,1,3.0,3.0,h
+S2324-G0591,1,04:45,LAL,,BKN,,T. Prince,LAL,MISS Prince 26' 3PT Jump Shot,Missed Shot,Jump Shot,219,138,26,1,3.0,0.0,h
+S2324-G0591,1,04:36,LAL,,BKN,,T. Prince,LAL,SUB: Christie FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0591,2,06:53,LAL,,BKN,,T. Prince,LAL,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0591,2,06:10,LAL,,BKN,,T. Prince,LAL,Prince STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0591,2,02:42,LAL,,BKN,,T. Prince,LAL,Prince Violation:Kicked Ball (C.Kirkland),Violation,Kicked Ball,0,0,0,0,,,h
+S2324-G0591,2,02:28,LAL,,BKN,,T. Prince,LAL,Prince REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0591,2,01:36,LAL,,BKN,,T. Prince,LAL,MISS Prince 3PT Jump Shot,Missed Shot,Jump Shot,232,-1,0,1,3.0,0.0,h
+S2324-G0591,2,01:25,LAL,,BKN,,T. Prince,LAL,Prince REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0591,2,00:45.500000,LAL,,BKN,,T. Prince,LAL,Prince Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0591,2,00:31.500000,LAL,68.0,BKN,60.0,T. Prince,LAL,Prince 27' 3PT Running Jump Shot (6 PTS) (Russell 5 AST),Made Shot,Running Jump Shot,140,231,27,1,3.0,3.0,h
+S2324-G0591,3,09:51,LAL,72.0,BKN,68.0,T. Prince,LAL,Prince 4' Driving Layup (8 PTS) (Davis 5 AST),Made Shot,Driving Layup Shot,-16,38,4,1,2.0,2.0,h
+S2324-G0591,3,08:17,LAL,,BKN,,T. Prince,LAL,Prince Out of Bounds - Bad Pass Turnover Turnover (P2.T6),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G0591,3,05:07,LAL,,BKN,,T. Prince,LAL,MISS Prince 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,54,120,13,1,2.0,0.0,h
+S2324-G0591,3,04:28,LAL,,BKN,,T. Prince,LAL,SUB: Christie FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0591,4,08:16,LAL,,BKN,,T. Prince,LAL,MISS Prince 6' Floating Jump Shot,Missed Shot,Floating Jump shot,38,51,6,1,2.0,0.0,h
+S2324-G0591,4,07:23,LAL,,BKN,,T. Prince,LAL,Prince Bad Pass Turnover (P3.T10),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0591,4,03:15,LAL,106.0,BKN,125.0,T. Prince,LAL,Prince Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0591,4,03:15,LAL,107.0,BKN,125.0,T. Prince,LAL,Prince Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0591,4,02:56,LAL,,BKN,,T. Prince,LAL,SUB: Hayes FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0856,1,04:18,LAL,,WAS,,T. Prince,LAL,MISS Prince 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,66,16,7,1,2.0,0.0,h
+S2324-G0856,1,04:08,LAL,,WAS,,T. Prince,LAL,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0856,1,04:08,LAL,,WAS,,T. Prince,LAL,Prince Out of Bounds Lost Ball Turnover (P1.T2),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2324-G0856,1,03:48,LAL,,WAS,,T. Prince,LAL,Prince S.FOUL (P1.T2) (A.Smith),Foul,Shooting,0,0,0,0,,,h
+S2324-G0856,2,08:52,LAL,,WAS,,T. Prince,LAL,SUB: Hachimura FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0856,3,00:52.300000,LAL,,WAS,,T. Prince,LAL,Prince REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0856,4,09:12,LAL,108.0,WAS,104.0,T. Prince,LAL,Prince 8' Turnaround Fadeaway (2 PTS) (James 5 AST),Made Shot,Turnaround Fadeaway shot,9,80,8,1,2.0,2.0,h
+S2324-G0856,4,08:31,LAL,,WAS,,T. Prince,LAL,SUB: Hachimura FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0505,1,11:37,LAL,3.0,LAC,0.0,T. Prince,LAL,Prince 26' 3PT Jump Shot (3 PTS) (Davis 1 AST),Made Shot,Jump Shot,-172,194,26,1,3.0,3.0,h
+S2324-G0505,1,07:38,LAL,,LAC,,T. Prince,LAL,MISS Prince 10' Jump Bank Shot,Missed Shot,Jump Bank Shot,-78,67,10,1,2.0,0.0,h
+S2324-G0505,1,04:34,LAL,12.0,LAC,16.0,T. Prince,LAL,Prince 2' Driving Layup (5 PTS) (James 1 AST),Made Shot,Driving Layup Shot,2,18,2,1,2.0,2.0,h
+S2324-G0505,1,03:34,LAL,,LAC,,T. Prince,LAL,SUB: Christie FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0505,2,06:09,LAL,39.0,LAC,41.0,T. Prince,LAL,Prince 24' 3PT Jump Shot (8 PTS) (James 3 AST),Made Shot,Jump Shot,-235,6,24,1,3.0,3.0,h
+S2324-G0505,2,05:43,LAL,,LAC,,T. Prince,LAL,Prince S.FOUL (P1.T3) (M.Lindsay),Foul,Shooting,0,0,0,0,,,h
+S2324-G0505,2,01:12,LAL,,LAC,,T. Prince,LAL,Prince STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0505,3,10:27,LAL,,LAC,,T. Prince,LAL,MISS Prince 26' 3PT Jump Shot,Missed Shot,Jump Shot,234,105,26,1,3.0,0.0,h
+S2324-G0505,3,07:04,LAL,,LAC,,T. Prince,LAL,MISS Prince 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-188,193,27,1,3.0,0.0,h
+S2324-G0505,3,05:08,LAL,,LAC,,T. Prince,LAL,Prince P.FOUL (P2.T1) (M.Myers),Foul,Personal,0,0,0,0,,,h
+S2324-G0505,3,03:50,LAL,,LAC,,T. Prince,LAL,MISS Prince 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,17,24,1,3.0,0.0,h
+S2324-G0505,3,03:18,LAL,,LAC,,T. Prince,LAL,SUB: Christie FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0505,4,02:19,LAL,,LAC,,T. Prince,LAL,Prince S.FOUL (P3.T2) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,h
+S2324-G0505,4,01:32,LAL,,LAC,,T. Prince,LAL,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0505,4,01:17,LAL,101.0,LAC,98.0,T. Prince,LAL,Prince 26' 3PT Jump Shot (11 PTS) (Russell 6 AST),Made Shot,Jump Shot,21,261,26,1,3.0,3.0,h
+S2324-G0505,4,00:12.300000,LAL,104.0,LAC,101.0,T. Prince,LAL,Prince Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0505,4,00:12.300000,LAL,105.0,LAC,101.0,T. Prince,LAL,Prince Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0397,1,11:13,OKC,2.0,LAL,3.0,T. Prince,LAL,Prince Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0397,1,11:13,OKC,2.0,LAL,4.0,T. Prince,LAL,Prince Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0397,1,09:36,OKC,6.0,LAL,9.0,T. Prince,LAL,Prince 3PT Jump Shot (5 PTS) (James 1 AST),Made Shot,Jump Shot,228,49,0,1,3.0,3.0,v
+S2324-G0397,1,08:29,OKC,,LAL,,T. Prince,LAL,MISS Prince 3PT Jump Shot,Missed Shot,Jump Shot,-232,-34,0,1,3.0,0.0,v
+S2324-G0397,1,06:50,OKC,,LAL,,T. Prince,LAL,SUB: Reaves FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0397,1,01:20,OKC,,LAL,,T. Prince,LAL,Prince BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0397,1,01:02,OKC,,LAL,,T. Prince,LAL,MISS Prince 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,141,211,25,1,3.0,0.0,v
+S2324-G0397,1,00:03.600000,OKC,,LAL,,T. Prince,LAL,Prince P.FOUL (P1.T4) (J.Schroeder),Foul,Personal,0,0,0,0,,,v
+S2324-G0397,2,11:34,OKC,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0397,2,09:41,OKC,42.0,LAL,49.0,T. Prince,LAL,Prince 24' 3PT Running Jump Shot (8 PTS) (James 4 AST),Made Shot,Running Jump Shot,225,74,24,1,3.0,3.0,v
+S2324-G0397,2,07:37,OKC,,LAL,,T. Prince,LAL,Prince STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0397,2,07:34,OKC,,LAL,,T. Prince,LAL,SUB: Hachimura FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0397,2,02:57,OKC,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0397,2,02:36,OKC,55.0,LAL,64.0,T. Prince,LAL,Prince 12' Pullup Jump Shot (10 PTS) (Reddish 5 AST),Made Shot,Pullup Jump shot,96,67,12,1,2.0,2.0,v
+S2324-G0397,2,01:08,OKC,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0397,2,00:54.900000,OKC,,LAL,,T. Prince,LAL,Prince REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0397,2,00:02.500000,OKC,,LAL,,T. Prince,LAL,Prince REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0397,3,09:57,OKC,,LAL,,T. Prince,LAL,Prince P.FOUL (P2.T1) (E.Malloy),Foul,Personal,0,0,0,0,,,v
+S2324-G0397,3,07:08,OKC,,LAL,,T. Prince,LAL,Prince S.FOUL (P3.T3) (E.Malloy),Foul,Shooting,0,0,0,0,,,v
+S2324-G0397,3,05:55,OKC,,LAL,,T. Prince,LAL,SUB: Reaves FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0397,4,11:51,OKC,,LAL,,T. Prince,LAL,MISS Prince 26' 3PT Jump Shot,Missed Shot,Jump Shot,235,110,26,1,3.0,0.0,v
+S2324-G0397,4,09:45,OKC,,LAL,,T. Prince,LAL,MISS Prince 9' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-89,5,9,1,2.0,0.0,v
+S2324-G0397,4,09:16,OKC,,LAL,,T. Prince,LAL,Prince BLOCK (2 BLK),,,0,0,0,0,,,v
+S2324-G0397,4,08:04,OKC,,LAL,,T. Prince,LAL,Prince S.FOUL (P4.T1) (J.Schroeder),Foul,Shooting,0,0,0,0,,,v
+S2324-G0397,4,07:25,OKC,,LAL,,T. Prince,LAL,Prince REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0397,4,07:08,OKC,,LAL,,T. Prince,LAL,Prince S.FOUL (P5.T2) (E.Dalen),Foul,Shooting,0,0,0,0,,,v
+S2324-G0397,4,07:08,OKC,,LAL,,T. Prince,LAL,SUB: Vanderbilt FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0397,4,06:30,OKC,,LAL,,T. Prince,LAL,Prince T.FOUL (P5.T2) (J.Schroeder),Foul,Technical,0,0,0,0,,,v
+S2324-G0380,1,10:10,MIN,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0380,1,10:05,MIN,5.0,LAL,8.0,T. Prince,LAL,Prince 4' Running Layup (2 PTS),Made Shot,Running Layup Shot,38,21,4,1,2.0,2.0,v
+S2324-G0380,1,08:57,MIN,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0380,1,05:36,MIN,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0380,1,05:31,MIN,,LAL,,T. Prince,LAL,SUB: Reaves FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0380,1,02:25,MIN,,LAL,,T. Prince,LAL,Prince Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0380,1,00:00.500000,MIN,36.0,LAL,32.0,T. Prince,LAL,Prince 25' 3PT Turnaround Fadeaway (5 PTS),Made Shot,Turnaround Fadeaway shot,-181,178,25,1,3.0,3.0,v
+S2324-G0380,2,10:07,MIN,,LAL,,T. Prince,LAL,SUB: Russell FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0380,2,04:36,MIN,,LAL,,T. Prince,LAL,Prince Lost Ball Turnover (P2.T9),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0380,2,01:56,MIN,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0380,2,00:18.600000,MIN,63.0,LAL,59.0,T. Prince,LAL,Prince 25' 3PT Jump Shot (8 PTS) (Reaves 3 AST),Made Shot,Jump Shot,207,144,25,1,3.0,3.0,v
+S2324-G0380,3,10:37,MIN,,LAL,,T. Prince,LAL,Prince P.FOUL (P1.T1) (A.Nagy),Foul,Personal,0,0,0,0,,,v
+S2324-G0380,3,07:13,MIN,70.0,LAL,70.0,T. Prince,LAL,Prince 25' 3PT Jump Shot (11 PTS) (Davis 4 AST),Made Shot,Jump Shot,98,232,25,1,3.0,3.0,v
+S2324-G0380,3,05:24,MIN,,LAL,,T. Prince,LAL,Prince S.FOUL (P2.T4) (K.Cutler),Foul,Shooting,0,0,0,0,,,v
+S2324-G0380,3,01:54,MIN,,LAL,,T. Prince,LAL,SUB: Hachimura FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0380,4,08:21,MIN,,LAL,,T. Prince,LAL,Prince S.FOUL (P3.T2) (A.Nagy),Foul,Shooting,0,0,0,0,,,v
+S2324-G0380,4,05:07,MIN,,LAL,,T. Prince,LAL,Prince S.FOUL (P4.T3) (S.Corbin),Foul,Shooting,0,0,0,0,,,v
+S2324-G0380,4,04:27,MIN,110.0,LAL,102.0,T. Prince,LAL,Prince 25' 3PT Jump Shot (14 PTS) (Russell 8 AST),Made Shot,Jump Shot,-216,127,25,1,3.0,3.0,v
+S2324-G0380,4,03:21,MIN,,LAL,,T. Prince,LAL,MISS Prince 26' 3PT Jump Shot,Missed Shot,Jump Shot,110,232,26,1,3.0,0.0,v
+S2324-G0380,4,01:45,MIN,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0380,4,00:36.200000,MIN,,LAL,,T. Prince,LAL,Prince Out of Bounds - Bad Pass Turnover Turnover (P3.T18),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0713,1,04:48,CHA,20.0,LAL,25.0,T. Prince,LAL,Prince 3PT Jump Shot (3 PTS) (Reaves 3 AST),Made Shot,Jump Shot,227,6,0,1,3.0,3.0,v
+S2324-G0713,1,02:55,CHA,23.0,LAL,31.0,T. Prince,LAL,Prince 15' Fadeaway Jumper (5 PTS) (Davis 3 AST),Made Shot,Fadeaway Jump Shot,151,-7,15,1,2.0,2.0,v
+S2324-G0713,1,01:15,CHA,,LAL,,T. Prince,LAL,Prince Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0713,1,01:07,CHA,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0713,2,11:14,CHA,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0713,2,10:12,CHA,,LAL,,T. Prince,LAL,Prince Out of Bounds - Bad Pass Turnover Turnover (P2.T5),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0713,2,07:59,CHA,,LAL,,T. Prince,LAL,MISS Prince 3PT Running Jump Shot,Missed Shot,Running Jump Shot,224,27,0,1,3.0,0.0,v
+S2324-G0713,2,07:32,CHA,,LAL,,T. Prince,LAL,SUB: Davis FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0713,3,03:42,CHA,,LAL,,T. Prince,LAL,MISS Prince 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-153,215,26,1,3.0,0.0,v
+S2324-G0713,3,02:02,CHA,77.0,LAL,98.0,T. Prince,LAL,Prince 2' Running Layup (7 PTS) (Davis 11 AST),Made Shot,Running Layup Shot,13,15,2,1,2.0,2.0,v
+S2324-G0713,3,00:29.700000,CHA,,LAL,,T. Prince,LAL,MISS Prince Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0713,3,00:29.700000,CHA,,LAL,,T. Prince,LAL,MISS Prince Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0713,4,10:38,CHA,,LAL,,T. Prince,LAL,Prince REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0713,4,10:07,CHA,,LAL,,T. Prince,LAL,MISS Prince 3PT Jump Shot,Missed Shot,Jump Shot,-225,8,0,1,3.0,0.0,v
+S2324-G0713,4,08:40,CHA,,LAL,,T. Prince,LAL,Prince REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0713,4,08:37,CHA,90.0,LAL,105.0,T. Prince,LAL,Prince 4' Running Layup (9 PTS),Made Shot,Running Layup Shot,-19,38,4,1,2.0,2.0,v
+S2324-G0713,4,07:38,CHA,,LAL,,T. Prince,LAL,SUB: Hachimura FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G1155,1,05:14,LAL,,GSW,,T. Prince,LAL,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1155,1,04:19,LAL,,GSW,,T. Prince,LAL,MISS Prince 14' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-107,91,14,1,2.0,0.0,h
+S2324-G1155,2,08:32,LAL,,GSW,,T. Prince,LAL,Prince S.FOUL (P1.T2) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,h
+S2324-G1155,2,07:52,LAL,41.0,GSW,47.0,T. Prince,LAL,Prince 5' Pullup Jump Shot (2 PTS) (James 3 AST),Made Shot,Pullup Jump shot,-36,30,5,1,2.0,2.0,h
+S2324-G1155,2,06:27,LAL,,GSW,,T. Prince,LAL,SUB: Hachimura FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G1155,3,05:20,LAL,,GSW,,T. Prince,LAL,MISS Prince 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-58,132,14,1,2.0,0.0,h
+S2324-G1155,3,04:31,LAL,,GSW,,T. Prince,LAL,Prince STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1155,3,03:43,LAL,,GSW,,T. Prince,LAL,MISS Prince 27' 3PT Jump Shot,Missed Shot,Jump Shot,233,132,27,1,3.0,0.0,h
+S2324-G1155,3,02:24,LAL,,GSW,,T. Prince,LAL,MISS Prince 26' 3PT Jump Shot,Missed Shot,Jump Shot,-146,213,26,1,3.0,0.0,h
+S2324-G1155,3,00:26.500000,LAL,,GSW,,T. Prince,LAL,MISS Prince 26' 3PT Jump Shot,Missed Shot,Jump Shot,127,230,26,1,3.0,0.0,h
+S2324-G1143,1,01:55,LAL,,MIN,,T. Prince,LAL,Prince Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G1143,1,01:32,LAL,,MIN,,T. Prince,LAL,MISS Prince 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,17,55,6,1,2.0,0.0,h
+S2324-G1143,1,01:25,LAL,,MIN,,T. Prince,LAL,Prince BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G1143,2,09:18,LAL,,MIN,,T. Prince,LAL,MISS Prince 26' 3PT Jump Shot,Missed Shot,Jump Shot,-179,185,26,1,3.0,0.0,h
+S2324-G1143,2,08:53,LAL,45.0,MIN,49.0,T. Prince,LAL,Prince Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1143,2,08:53,LAL,46.0,MIN,49.0,T. Prince,LAL,Prince Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1143,2,06:54,LAL,,MIN,,T. Prince,LAL,SUB: Reddish FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G1143,2,01:14,LAL,,MIN,,T. Prince,LAL,Prince Lost Ball Turnover (P2.T7),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G1143,2,01:01,LAL,64.0,MIN,74.0,T. Prince,LAL,Prince 4' Running Layup (4 PTS) (Russell 7 AST),Made Shot,Running Layup Shot,-31,32,4,1,2.0,2.0,h
+S2324-G1143,3,05:18,LAL,,MIN,,T. Prince,LAL,Prince Lost Ball Turnover (P3.T9),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G1143,3,03:02,LAL,,MIN,,T. Prince,LAL,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1143,3,02:49,LAL,85.0,MIN,90.0,T. Prince,LAL,Prince 6' Fadeaway Bank Shot (6 PTS) (Hachimura 1 AST),Made Shot,Fadeaway Bank shot,-18,53,6,1,2.0,2.0,h
+S2324-G1143,3,00:22.100000,LAL,,MIN,,T. Prince,LAL,MISS Prince 3PT Jump Shot,Missed Shot,Jump Shot,225,4,0,1,3.0,0.0,h
+S2324-G1143,4,08:28,LAL,,MIN,,T. Prince,LAL,Prince REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1143,4,07:45,LAL,,MIN,,T. Prince,LAL,Prince REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1143,4,07:39,LAL,,MIN,,T. Prince,LAL,Prince Bad Pass Turnover (P4.T14),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G1143,4,07:34,LAL,,MIN,,T. Prince,LAL,SUB: Hayes FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0990,1,04:22,LAL,,ATL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0990,1,02:58,LAL,,ATL,,T. Prince,LAL,Prince BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0990,1,02:55,LAL,,ATL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0990,1,02:52,LAL,,ATL,,T. Prince,LAL,Prince Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0990,1,01:08,LAL,,ATL,,T. Prince,LAL,MISS Prince 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,224,43,0,1,3.0,0.0,h
+S2324-G0990,1,00:03,LAL,,ATL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0990,2,08:36,LAL,,ATL,,T. Prince,LAL,SUB: Hachimura FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0990,2,00:02.300000,LAL,,ATL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0990,2,00:00.800000,LAL,,ATL,,T. Prince,LAL,MISS Prince 42' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-6,416,42,1,3.0,0.0,h
+S2324-G0990,3,03:17,LAL,,ATL,,T. Prince,LAL,MISS Prince 26' 3PT Jump Shot,Missed Shot,Jump Shot,-151,217,26,1,3.0,0.0,h
+S2324-G0990,3,01:19,LAL,102.0,ATL,83.0,T. Prince,LAL,Prince 24' 3PT Jump Shot (3 PTS) (Christie 1 AST),Made Shot,Jump Shot,229,86,24,1,3.0,3.0,h
+S2324-G0990,3,00:40.700000,LAL,,ATL,,T. Prince,LAL,Prince S.FOUL (P1.T3) (J.Orr),Foul,Shooting,0,0,0,0,,,h
+S2324-G0990,4,10:12,LAL,119.0,ATL,88.0,T. Prince,LAL,Prince 28' 3PT Running Jump Shot (6 PTS) (James 9 AST),Made Shot,Running Jump Shot,137,241,28,1,3.0,3.0,h
+S2324-G0990,4,08:07,LAL,,ATL,,T. Prince,LAL,Prince P.FOUL (P2.T2) (E.Malloy),Foul,Personal,0,0,0,0,,,h
+S2324-G0990,4,07:54,LAL,,ATL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0990,4,07:37,LAL,,ATL,,T. Prince,LAL,MISS Prince 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-192,179,26,1,3.0,0.0,h
+S2324-G0990,4,06:10,LAL,128.0,ATL,94.0,T. Prince,LAL,Prince 5' Layup (8 PTS) (Dinwiddie 3 AST),Made Shot,Layup Shot,-2,53,5,1,2.0,2.0,h
+S2324-G0990,4,05:29,LAL,,ATL,,T. Prince,LAL,MISS Prince 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,224,90,24,1,3.0,0.0,h
+S2324-G0990,4,05:05,LAL,,ATL,,T. Prince,LAL,SUB: Mays FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0549,1,08:11,UTA,,LAL,,T. Prince,LAL,MISS Prince 25' 3PT Jump Shot,Missed Shot,Jump Shot,-199,145,25,1,3.0,0.0,v
+S2324-G0549,1,07:57,UTA,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0549,1,04:50,UTA,24.0,LAL,22.0,T. Prince,LAL,Prince 25' 3PT Jump Shot (3 PTS) (Davis 2 AST),Made Shot,Jump Shot,230,95,25,1,3.0,3.0,v
+S2324-G0549,1,03:12,UTA,27.0,LAL,29.0,T. Prince,LAL,Prince 3' Driving Layup (5 PTS) (Christie 1 AST),Made Shot,Driving Layup Shot,-22,24,3,1,2.0,2.0,v
+S2324-G0549,1,02:54,UTA,,LAL,,T. Prince,LAL,SUB: Russell FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0549,2,03:43,UTA,,LAL,,T. Prince,LAL,MISS Prince 25' 3PT Jump Shot,Missed Shot,Jump Shot,230,96,25,1,3.0,0.0,v
+S2324-G0549,2,01:37,UTA,59.0,LAL,63.0,T. Prince,LAL,Prince 3PT Jump Shot (8 PTS) (Reaves 1 AST),Made Shot,Jump Shot,-222,-7,0,1,3.0,3.0,v
+S2324-G0549,3,08:42,UTA,,LAL,,T. Prince,LAL,MISS Prince 5' Driving Layup,Missed Shot,Driving Layup Shot,53,12,5,1,2.0,0.0,v
+S2324-G0549,3,07:51,UTA,,LAL,,T. Prince,LAL,Prince BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0549,3,07:14,UTA,,LAL,,T. Prince,LAL,Prince S.FOUL (P1.T3) (S.Twardoski),Foul,Shooting,0,0,0,0,,,v
+S2324-G0549,3,06:19,UTA,,LAL,,T. Prince,LAL,Prince S.FOUL (P2.T4) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,v
+S2324-G0549,3,04:38,UTA,86.0,LAL,84.0,T. Prince,LAL,Prince 5' Driving Layup (10 PTS) (Davis 7 AST),Made Shot,Driving Layup Shot,-32,36,5,1,2.0,2.0,v
+S2324-G0549,3,04:06,UTA,,LAL,,T. Prince,LAL,SUB: Hachimura FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0549,4,06:03,UTA,114.0,LAL,109.0,T. Prince,LAL,Prince 10' Pullup Jump Shot (12 PTS) (Reaves 2 AST),Made Shot,Pullup Jump shot,6,96,10,1,2.0,2.0,v
+S2324-G0549,4,00:10.600000,UTA,,LAL,,T. Prince,LAL,Prince P.FOUL (P3.PN) (P.Fraher),Foul,Personal,0,0,0,0,,,v
+S2324-G0271,1,11:11,OKC,,LAL,,T. Prince,LAL,Prince L.B.FOUL (P1.T1) (S.Wright),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0271,1,10:16,OKC,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0271,1,07:22,OKC,9.0,LAL,14.0,T. Prince,LAL,Prince 25' 3PT Running Pull-Up Jump Shot (3 PTS) (Russell 1 AST),Made Shot,Running Pull-Up Jump Shot,-181,176,25,1,3.0,3.0,v
+S2324-G0271,1,07:01,OKC,,LAL,,T. Prince,LAL,MISS Prince 3' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,-20,22,3,1,2.0,0.0,v
+S2324-G0271,1,06:28,OKC,,LAL,,T. Prince,LAL,SUB: Reaves FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0271,1,00:33.300000,OKC,,LAL,,T. Prince,LAL,Prince S.FOUL (P2.T4) (N.Green),Foul,Shooting,0,0,0,0,,,v
+S2324-G0271,1,00:33.300000,OKC,,LAL,,T. Prince,LAL,SUB: Christie FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0271,2,10:39,OKC,35.0,LAL,42.0,T. Prince,LAL,Prince 24' 3PT Jump Shot (6 PTS) (James 1 AST),Made Shot,Jump Shot,-233,-35,24,1,3.0,3.0,v
+S2324-G0271,2,09:42,OKC,,LAL,,T. Prince,LAL,Prince S.FOUL (P3.T2) (N.Green),Foul,Shooting,0,0,0,0,,,v
+S2324-G0271,2,09:42,OKC,,LAL,,T. Prince,LAL,SUB: Russell FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0271,3,11:13,OKC,,LAL,,T. Prince,LAL,Prince P.FOUL (P4.T1) (S.Wright),Foul,Personal,0,0,0,0,,,v
+S2324-G0271,3,10:23,OKC,,LAL,,T. Prince,LAL,SUB: Reaves FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0271,3,06:16,OKC,,LAL,,T. Prince,LAL,MISS Prince 3PT Jump Shot,Missed Shot,Jump Shot,233,20,0,1,3.0,0.0,v
+S2324-G0271,3,05:17,OKC,,LAL,,T. Prince,LAL,MISS Prince 24' 3PT Jump Shot,Missed Shot,Jump Shot,235,-11,24,1,3.0,0.0,v
+S2324-G0271,3,04:12,OKC,,LAL,,T. Prince,LAL,MISS Prince 3PT Jump Shot,Missed Shot,Jump Shot,-224,15,0,1,3.0,0.0,v
+S2324-G0271,3,01:31,OKC,,LAL,,T. Prince,LAL,MISS Prince 2' Driving Layup,Missed Shot,Driving Layup Shot,-23,8,2,1,2.0,0.0,v
+S2324-G0271,4,08:29,OKC,,LAL,,T. Prince,LAL,Prince OFF.Foul (P5) (A.Nagy),Foul,Offensive,0,0,0,0,,,v
+S2324-G0271,4,08:29,OKC,,LAL,,T. Prince,LAL,Prince Offensive Foul Turnover (P1.T11),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0271,4,04:01,OKC,,LAL,,T. Prince,LAL,SUB: Lewis FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0932,1,02:41,LAL,28.0,MIN,28.0,T. Prince,LAL,Prince 5' Driving Floating Bank Jump Shot (2 PTS) (Davis 5 AST),Made Shot,Driving Floating Bank Jump Shot,-1,48,5,1,2.0,2.0,h
+S2324-G0932,2,08:30,LAL,,MIN,,T. Prince,LAL,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0932,2,07:22,LAL,,MIN,,T. Prince,LAL,SUB: Reaves FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0932,3,05:18,LAL,,MIN,,T. Prince,LAL,Prince REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0932,3,01:28,LAL,88.0,MIN,90.0,T. Prince,LAL,Prince 5' Driving Layup (4 PTS) (Russell 5 AST),Made Shot,Driving Layup Shot,37,32,5,1,2.0,2.0,h
+S2324-G0932,3,00:05,LAL,,MIN,,T. Prince,LAL,MISS Prince 28' 3PT Jump Shot,Missed Shot,Jump Shot,159,231,28,1,3.0,0.0,h
+S2324-G0932,4,10:26,LAL,,MIN,,T. Prince,LAL,Prince STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0932,4,09:27,LAL,100.0,MIN,94.0,T. Prince,LAL,Prince 2' Running Reverse Layup (6 PTS) (James 7 AST),Made Shot,Running Reverse Layup Shot,16,16,2,1,2.0,2.0,h
+S2324-G0932,4,07:47,LAL,,MIN,,T. Prince,LAL,MISS Prince 24' 3PT Jump Shot,Missed Shot,Jump Shot,230,53,24,1,3.0,0.0,h
+S2324-G0932,4,07:38,LAL,,MIN,,T. Prince,LAL,Prince BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0932,4,07:36,LAL,,MIN,,T. Prince,LAL,Prince REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0932,4,06:25,LAL,,MIN,,T. Prince,LAL,MISS Prince 3PT Jump Shot,Missed Shot,Jump Shot,225,-5,0,1,3.0,0.0,h
+S2324-G0932,4,05:36,LAL,,MIN,,T. Prince,LAL,Prince P.FOUL (P1.T2) (J.Williams),Foul,Personal,0,0,0,0,,,h
+S2324-G0932,4,01:18,LAL,,MIN,,T. Prince,LAL,SUB: Christie FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0359,1,08:38,LAL,,NYK,,T. Prince,LAL,MISS Prince 26' 3PT Jump Shot,Missed Shot,Jump Shot,-152,214,26,1,3.0,0.0,h
+S2324-G0359,1,07:27,LAL,,NYK,,T. Prince,LAL,Prince Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0359,1,06:26,LAL,14.0,NYK,11.0,T. Prince,LAL,Prince 3PT Jump Shot (3 PTS) (Russell 2 AST),Made Shot,Jump Shot,-222,9,0,1,3.0,3.0,h
+S2324-G0359,1,05:44,LAL,,NYK,,T. Prince,LAL,Prince S.FOUL (P1.T2) (M.Lindsay),Foul,Shooting,0,0,0,0,,,h
+S2324-G0359,1,05:44,LAL,,NYK,,T. Prince,LAL,SUB: Reaves FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0359,1,02:48,LAL,,NYK,,T. Prince,LAL,MISS Prince 27' 3PT Jump Shot,Missed Shot,Jump Shot,-212,159,27,1,3.0,0.0,h
+S2324-G0359,2,10:05,LAL,,NYK,,T. Prince,LAL,Prince BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0359,2,06:45,LAL,39.0,NYK,46.0,T. Prince,LAL,Prince 26' 3PT Running Pull-Up Jump Shot (6 PTS) (James 3 AST),Made Shot,Running Pull-Up Jump Shot,-179,187,26,1,3.0,3.0,h
+S2324-G0359,2,06:27,LAL,,NYK,,T. Prince,LAL,SUB: Vanderbilt FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0359,2,04:23,LAL,43.0,NYK,51.0,T. Prince,LAL,Prince 25' 3PT Jump Shot (9 PTS) (Russell 3 AST),Made Shot,Jump Shot,223,116,25,1,3.0,3.0,h
+S2324-G0359,2,02:00,LAL,,NYK,,T. Prince,LAL,MISS Prince 26' 3PT Jump Shot,Missed Shot,Jump Shot,188,176,26,1,3.0,0.0,h
+S2324-G0359,2,00:38.800000,LAL,,NYK,,T. Prince,LAL,MISS Prince 3PT Jump Shot,Missed Shot,Jump Shot,230,31,0,1,3.0,0.0,h
+S2324-G0359,3,10:00,LAL,,NYK,,T. Prince,LAL,MISS Prince 25' 3PT Jump Shot,Missed Shot,Jump Shot,148,197,25,1,3.0,0.0,h
+S2324-G0359,3,05:08,LAL,,NYK,,T. Prince,LAL,MISS Prince 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,223,68,0,1,3.0,0.0,h
+S2324-G0359,3,02:36,LAL,,NYK,,T. Prince,LAL,MISS Prince 3PT Jump Shot,Missed Shot,Jump Shot,-229,4,0,1,3.0,0.0,h
+S2324-G0359,3,02:19,LAL,,NYK,,T. Prince,LAL,SUB: Vanderbilt FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0359,3,00:00.200000,LAL,,NYK,,T. Prince,LAL,MISS Prince 59' 3PT Jump Shot,Missed Shot,Jump Shot,183,558,59,1,3.0,0.0,h
+S2324-G0359,4,02:17,LAL,,NYK,,T. Prince,LAL,MISS Prince 3PT Jump Shot,Missed Shot,Jump Shot,-232,5,0,1,3.0,0.0,h
+S2324-G0359,4,01:37,LAL,,NYK,,T. Prince,LAL,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0359,4,01:30,LAL,,NYK,,T. Prince,LAL,MISS Prince 24' 3PT Jump Shot,Missed Shot,Jump Shot,-229,60,24,1,3.0,0.0,h
+S2324-G0359,4,00:16.300000,LAL,,NYK,,T. Prince,LAL,Prince REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0565,1,11:49,LAL,,OKC,,T. Prince,LAL,MISS Prince 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,12,21,2,1,2.0,0.0,h
+S2324-G0565,1,09:27,LAL,7.0,OKC,11.0,T. Prince,LAL,Prince 3PT Jump Shot (3 PTS) (James 1 AST),Made Shot,Jump Shot,-229,41,0,1,3.0,3.0,h
+S2324-G0565,1,09:08,LAL,,OKC,,T. Prince,LAL,MISS Prince 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-234,18,0,1,3.0,0.0,h
+S2324-G0565,1,08:02,LAL,,OKC,,T. Prince,LAL,Prince P.FOUL (P1.T1) (J.Tiven),Foul,Personal,0,0,0,0,,,h
+S2324-G0565,1,04:44,LAL,,OKC,,T. Prince,LAL,SUB: Vanderbilt FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0565,2,03:44,LAL,,OKC,,T. Prince,LAL,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0565,2,02:51,LAL,,OKC,,T. Prince,LAL,MISS Prince 24' 3PT Jump Shot,Missed Shot,Jump Shot,237,62,24,1,3.0,0.0,h
+S2324-G0565,2,01:27,LAL,,OKC,,T. Prince,LAL,Prince P.FOUL (P2.T3) (R.Acosta),Foul,Personal,0,0,0,0,,,h
+S2324-G0565,3,10:18,LAL,,OKC,,T. Prince,LAL,MISS Prince 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,6,24,1,3.0,0.0,h
+S2324-G0565,3,07:21,LAL,,OKC,,T. Prince,LAL,Prince REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0565,3,05:33,LAL,,OKC,,T. Prince,LAL,SUB: Christie FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0565,4,05:49,LAL,,OKC,,T. Prince,LAL,Prince BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0565,4,01:46,LAL,,OKC,,T. Prince,LAL,MISS Prince 3PT Jump Shot,Missed Shot,Jump Shot,-223,2,0,1,3.0,0.0,h
+S2324-G0973,1,02:19,LAL,32.0,GSW,25.0,T. Prince,LAL,Prince 3PT Jump Shot (3 PTS) (Russell 4 AST),Made Shot,Jump Shot,224,65,0,1,3.0,3.0,h
+S2324-G0973,1,01:55,LAL,,GSW,,T. Prince,LAL,MISS Prince 3PT Jump Shot,Missed Shot,Jump Shot,-233,-6,0,1,3.0,0.0,h
+S2324-G0973,1,00:22.400000,LAL,,GSW,,T. Prince,LAL,MISS Prince 2' Running Layup,Missed Shot,Running Layup Shot,22,5,2,1,2.0,0.0,h
+S2324-G0973,2,11:16,LAL,,GSW,,T. Prince,LAL,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0973,2,09:32,LAL,,GSW,,T. Prince,LAL,Prince S.FOUL (P1.T2) (M.Ervin),Foul,Shooting,0,0,0,0,,,h
+S2324-G0973,2,07:11,LAL,,GSW,,T. Prince,LAL,SUB: Hachimura FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0973,2,01:26,LAL,,GSW,,T. Prince,LAL,Prince BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0973,3,03:33,LAL,,GSW,,T. Prince,LAL,MISS Prince 26' 3PT Jump Shot,Missed Shot,Jump Shot,-148,211,26,1,3.0,0.0,h
+S2324-G0973,3,00:00.200000,LAL,,GSW,,T. Prince,LAL,MISS Prince 56' 3PT Floating Jump Shot,Missed Shot,Floating Jump shot,169,539,56,1,3.0,0.0,h
+S2324-G0973,4,11:12,LAL,96.0,GSW,102.0,T. Prince,LAL,Prince 26' 3PT Jump Shot (6 PTS) (Russell 11 AST),Made Shot,Jump Shot,170,198,26,1,3.0,3.0,h
+S2324-G0973,4,09:21,LAL,,GSW,,T. Prince,LAL,MISS Prince 12' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,56,103,12,1,2.0,0.0,h
+S2324-G0973,4,09:18,LAL,,GSW,,T. Prince,LAL,Prince REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0973,4,09:17,LAL,98.0,GSW,106.0,T. Prince,LAL,Prince 2' Putback Layup (8 PTS),Made Shot,Putback Layup Shot,22,9,2,1,2.0,2.0,h
+S2324-G0915,1,02:24,LAL,,MIL,,T. Prince,LAL,MISS Prince 26' 3PT Jump Shot,Missed Shot,Jump Shot,225,127,26,1,3.0,0.0,h
+S2324-G0915,1,00:45.700000,LAL,,MIL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0915,2,11:16,LAL,,MIL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0915,2,11:08,LAL,,MIL,,T. Prince,LAL,MISS Prince 7' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,67,11,7,1,2.0,0.0,h
+S2324-G0915,2,10:49,LAL,,MIL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0915,2,08:48,LAL,,MIL,,T. Prince,LAL,SUB: Reaves FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0915,3,04:56,LAL,84.0,MIL,79.0,T. Prince,LAL,Prince 3PT Jump Shot (3 PTS) (Reaves 4 AST),Made Shot,Jump Shot,-232,24,0,1,3.0,3.0,h
+S2324-G0915,3,02:56,LAL,89.0,MIL,85.0,T. Prince,LAL,Prince 26' 3PT Jump Shot (6 PTS) (Reaves 5 AST),Made Shot,Jump Shot,-181,188,26,1,3.0,3.0,h
+S2324-G0915,3,02:40,LAL,,MIL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0915,3,02:30,LAL,91.0,MIL,85.0,T. Prince,LAL,Prince 2' Driving Layup (8 PTS) (Reaves 6 AST),Made Shot,Driving Layup Shot,0,15,2,1,2.0,2.0,h
+S2324-G0915,3,01:47,LAL,,MIL,,T. Prince,LAL,MISS Prince 25' 3PT Jump Shot,Missed Shot,Jump Shot,-239,85,25,1,3.0,0.0,h
+S2324-G0915,3,01:22,LAL,,MIL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0915,4,10:41,LAL,,MIL,,T. Prince,LAL,Prince REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0915,4,10:09,LAL,,MIL,,T. Prince,LAL,MISS Prince 28' 3PT Jump Shot,Missed Shot,Jump Shot,-170,221,28,1,3.0,0.0,h
+S2324-G0915,4,09:53,LAL,,MIL,,T. Prince,LAL,SUB: Dinwiddie FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0446,1,11:44,NOP,,LAL,,T. Prince,LAL,MISS Prince 3PT Jump Shot,Missed Shot,Jump Shot,227,59,0,1,3.0,0.0,v
+S2324-G0446,1,09:59,NOP,,LAL,,T. Prince,LAL,Prince STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0446,1,09:49,NOP,,LAL,,T. Prince,LAL,Prince S.FOUL (P1.T1) (B.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2324-G0446,1,08:02,NOP,15.0,LAL,10.0,T. Prince,LAL,Prince 3' Cutting Layup Shot (2 PTS) (Davis 2 AST),Made Shot,Cutting Layup Shot,-23,18,3,1,2.0,2.0,v
+S2324-G0446,1,08:02,NOP,15.0,LAL,11.0,T. Prince,LAL,Prince Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G0446,1,05:47,NOP,21.0,LAL,20.0,T. Prince,LAL,Prince 24' 3PT Jump Shot (6 PTS) (James 1 AST),Made Shot,Jump Shot,-237,-1,24,1,3.0,3.0,v
+S2324-G0446,1,05:30,NOP,,LAL,,T. Prince,LAL,Prince STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0446,1,00:59.700000,NOP,,LAL,,T. Prince,LAL,SUB: Hayes FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0446,2,04:12,NOP,,LAL,,T. Prince,LAL,Prince BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0446,2,02:11,NOP,,LAL,,T. Prince,LAL,Prince P.FOUL (P2.PN) (B.Taylor),Foul,Personal,0,0,0,0,,,v
+S2324-G0446,2,02:02,NOP,,LAL,,T. Prince,LAL,Prince Traveling Turnover (P1.T7),Turnover,Traveling,0,0,0,0,,,v
+S2324-G0446,2,01:36,NOP,67.0,LAL,52.0,T. Prince,LAL,Prince 26' 3PT Running Pull-Up Jump Shot (9 PTS) (James 3 AST),Made Shot,Running Pull-Up Jump Shot,150,216,26,1,3.0,3.0,v
+S2324-G0446,2,00:07.300000,NOP,,LAL,,T. Prince,LAL,Prince Violation:Defensive Goaltending (J.Butler),Violation,Defensive Goaltending,0,0,0,0,,,v
+S2324-G0446,3,07:03,NOP,86.0,LAL,72.0,T. Prince,LAL,Prince 27' 3PT Jump Shot (12 PTS) (James 5 AST),Made Shot,Jump Shot,-141,225,27,1,3.0,3.0,v
+S2324-G0446,3,05:37,NOP,,LAL,,T. Prince,LAL,Prince Bad Pass Turnover (P2.T10),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0446,3,05:09,NOP,,LAL,,T. Prince,LAL,MISS Prince 20' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-151,133,20,1,2.0,0.0,v
+S2324-G0446,3,04:13,NOP,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0446,3,03:54,NOP,,LAL,,T. Prince,LAL,Prince BLOCK (2 BLK),,,0,0,0,0,,,v
+S2324-G0446,3,01:20,NOP,,LAL,,T. Prince,LAL,MISS Prince 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-167,189,25,1,3.0,0.0,v
+S2324-G0446,3,01:19,NOP,,LAL,,T. Prince,LAL,SUB: Hood-Schifino FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0446,4,05:51,NOP,117.0,LAL,104.0,T. Prince,LAL,Prince 3PT Jump Shot (15 PTS) (Reaves 9 AST),Made Shot,Jump Shot,225,53,0,1,3.0,3.0,v
+S2324-G0446,4,04:09,NOP,,LAL,,T. Prince,LAL,MISS Prince 26' 3PT Jump Shot,Missed Shot,Jump Shot,-154,212,26,1,3.0,0.0,v
+S2324-G0446,4,01:16,NOP,,LAL,,T. Prince,LAL,SUB: Hood-Schifino FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0684,1,06:21,BOS,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0684,1,05:05,BOS,,LAL,,T. Prince,LAL,MISS Prince 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-176,194,26,1,3.0,0.0,v
+S2324-G0684,1,04:28,BOS,,LAL,,T. Prince,LAL,SUB: Hachimura FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0684,1,00:17.600000,BOS,,LAL,,T. Prince,LAL,MISS Prince 6' Driving Layup,Missed Shot,Driving Layup Shot,-36,51,6,1,2.0,0.0,v
+S2324-G0684,2,08:32,BOS,,LAL,,T. Prince,LAL,Prince P.FOUL (P1.T2) (J.Williams),Foul,Personal,0,0,0,0,,,v
+S2324-G0684,2,07:44,BOS,32.0,LAL,41.0,T. Prince,LAL,Prince 18' Pullup Jump Shot (2 PTS) (Russell 5 AST),Made Shot,Pullup Jump shot,-142,104,18,1,2.0,2.0,v
+S2324-G0684,2,05:48,BOS,38.0,LAL,43.0,T. Prince,LAL,Prince 4' Driving Layup (4 PTS) (Reaves 2 AST),Made Shot,Driving Layup Shot,29,30,4,1,2.0,2.0,v
+S2324-G0684,2,03:32,BOS,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0684,2,03:28,BOS,,LAL,,T. Prince,LAL,MISS Prince 5' Running Layup,Missed Shot,Running Layup Shot,40,32,5,1,2.0,0.0,v
+S2324-G0684,2,03:17,BOS,,LAL,,T. Prince,LAL,SUB: Christie FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0684,3,11:42,BOS,,LAL,,T. Prince,LAL,MISS Prince 17' Step Back Jump Shot,Missed Shot,Step Back Jump shot,126,110,17,1,2.0,0.0,v
+S2324-G0684,3,10:17,BOS,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0684,3,09:30,BOS,,LAL,,T. Prince,LAL,Prince BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0684,3,08:53,BOS,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0684,3,07:52,BOS,57.0,LAL,72.0,T. Prince,LAL,Prince 1' Driving Layup (6 PTS) (Russell 8 AST),Made Shot,Driving Layup Shot,-11,5,1,1,2.0,2.0,v
+S2324-G0684,3,06:58,BOS,59.0,LAL,75.0,T. Prince,LAL,Prince 25' 3PT Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,138,205,25,1,3.0,3.0,v
+S2324-G0684,3,03:42,BOS,,LAL,,T. Prince,LAL,SUB: Russell FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0684,4,11:15,BOS,82.0,LAL,90.0,T. Prince,LAL,Prince 1' Driving Layup (11 PTS) (Russell 11 AST),Made Shot,Driving Layup Shot,4,7,1,1,2.0,2.0,v
+S2324-G0684,4,10:57,BOS,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0684,4,09:27,BOS,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0684,4,07:52,BOS,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0684,4,04:37,BOS,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0684,4,03:49,BOS,,LAL,,T. Prince,LAL,MISS Prince 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-81,159,18,1,2.0,0.0,v
+S2324-G0684,4,01:43,BOS,,LAL,,T. Prince,LAL,Prince STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0684,4,01:17,BOS,,LAL,,T. Prince,LAL,Prince S.FOUL (P2.T3) (G.Petraitis),Foul,Shooting,0,0,0,0,,,v
+S2324-G0684,4,00:46.500000,BOS,,LAL,,T. Prince,LAL,SUB: Windler FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0954,1,00:41.400000,SAC,27.0,LAL,27.0,T. Prince,LAL,Prince 3' Driving Layup (2 PTS) (Davis 1 AST),Made Shot,Driving Layup Shot,5,25,3,1,2.0,2.0,v
+S2324-G0954,2,11:14,SAC,,LAL,,T. Prince,LAL,Prince STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0954,2,08:00,SAC,,LAL,,T. Prince,LAL,Prince S.FOUL (P1.T3) (M.Lindsay),Foul,Shooting,0,0,0,0,,,v
+S2324-G0954,2,08:00,SAC,,LAL,,T. Prince,LAL,SUB: Reaves FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0954,3,04:25,SAC,,LAL,,T. Prince,LAL,Prince Violation:Kicked Ball (M.Lindsay),Violation,Kicked Ball,0,0,0,0,,,v
+S2324-G0954,3,03:55,SAC,77.0,LAL,64.0,T. Prince,LAL,Prince Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0954,3,03:55,SAC,77.0,LAL,65.0,T. Prince,LAL,Prince Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0954,3,00:55.600000,SAC,86.0,LAL,73.0,T. Prince,LAL,Prince 24' 3PT Jump Shot (7 PTS) (James 6 AST),Made Shot,Jump Shot,237,0,24,1,3.0,3.0,v
+S2324-G0954,4,11:35,SAC,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0954,4,10:43,SAC,,LAL,,T. Prince,LAL,SUB: James FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0954,4,02:34,SAC,,LAL,,T. Prince,LAL,Prince STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0954,4,02:25,SAC,,LAL,,T. Prince,LAL,SUB: Russell FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0036,1,11:41,POR,0.0,LAL,2.0,T. Prince,LAL,Prince 7' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,44,55,7,1,2.0,2.0,v
+S2324-G0036,1,07:52,POR,6.0,LAL,14.0,T. Prince,LAL,Prince Free Throw 1 of 3 (3 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,v
+S2324-G0036,1,07:52,POR,6.0,LAL,15.0,T. Prince,LAL,Prince Free Throw 2 of 3 (4 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,v
+S2324-G0036,1,07:52,POR,6.0,LAL,16.0,T. Prince,LAL,Prince Free Throw 3 of 3 (5 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,v
+S2324-G0036,1,06:41,POR,,LAL,,T. Prince,LAL,SUB: Hachimura FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0036,1,00:59.900000,POR,,LAL,,T. Prince,LAL,MISS Prince 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,217,109,24,1,3.0,0.0,v
+S2324-G0036,2,10:42,POR,,LAL,,T. Prince,LAL,Prince REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0036,2,08:40,POR,,LAL,,T. Prince,LAL,MISS Prince 24' 3PT Jump Shot,Missed Shot,Jump Shot,237,43,24,1,3.0,0.0,v
+S2324-G0036,2,06:28,POR,,LAL,,T. Prince,LAL,SUB: Reddish FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0036,2,01:52,POR,,LAL,,T. Prince,LAL,Prince STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0036,2,01:07,POR,,LAL,,T. Prince,LAL,Prince STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0036,2,00:43.800000,POR,,LAL,,T. Prince,LAL,Prince P.FOUL (P1.PN) (S.Twardoski),Foul,Personal,0,0,0,0,,,v
+S2324-G0036,2,00:00,POR,,LAL,,T. Prince,LAL,MISS Prince 57' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,180,539,57,1,3.0,0.0,v
+S2324-G0036,3,06:18,POR,,LAL,,T. Prince,LAL,MISS Prince 24' 3PT Jump Shot,Missed Shot,Jump Shot,-228,67,24,1,3.0,0.0,v
+S2324-G0036,3,06:04,POR,,LAL,,T. Prince,LAL,SUB: Hachimura FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0036,3,02:43,POR,,LAL,,T. Prince,LAL,Prince S.FOUL (P2.T3) (J.Tiven),Foul,Shooting,0,0,0,0,,,v
+S2324-G0036,4,10:21,POR,75.0,LAL,89.0,T. Prince,LAL,Prince 3' Running Layup (7 PTS) (James 4 AST),Made Shot,Running Layup Shot,-18,18,3,1,2.0,2.0,v
+S2324-G0036,4,08:54,POR,77.0,LAL,92.0,T. Prince,LAL,Prince 3PT Jump Shot (10 PTS) (James 5 AST),Made Shot,Jump Shot,223,28,0,1,3.0,3.0,v
+S2324-G0036,4,08:38,POR,,LAL,,T. Prince,LAL,Prince P.FOUL (P3.T1) (J.Tiven),Foul,Personal,0,0,0,0,,,v
+S2324-G0036,4,07:03,POR,,LAL,,T. Prince,LAL,Prince P.FOUL (P4.T3) (J.Sterling),Foul,Personal,0,0,0,0,,,v
+S2324-G0036,4,07:03,POR,,LAL,,T. Prince,LAL,SUB: Reddish FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0036,4,04:13,POR,,LAL,,T. Prince,LAL,Prince P.FOUL (P5.PN) (J.Tiven),Foul,Personal,0,0,0,0,,,v
+S2324-G0036,4,01:11,POR,,LAL,,T. Prince,LAL,SUB: Lewis FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0061,1,10:57,DEN,2.0,LAL,5.0,T. Prince,LAL,Prince 24' 3PT Jump Shot (3 PTS) (James 1 AST),Made Shot,Jump Shot,237,56,24,1,3.0,3.0,v
+S2324-G0061,1,10:33,DEN,4.0,LAL,8.0,T. Prince,LAL,Prince 25' 3PT Jump Shot (6 PTS) (James 2 AST),Made Shot,Jump Shot,-207,134,25,1,3.0,3.0,v
+S2324-G0061,1,07:30,DEN,,LAL,,T. Prince,LAL,Prince BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0061,1,05:53,DEN,,LAL,,T. Prince,LAL,MISS Prince 3PT Jump Shot,Missed Shot,Jump Shot,-227,25,0,1,3.0,0.0,v
+S2324-G0061,1,03:57,DEN,,LAL,,T. Prince,LAL,Prince REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0061,1,03:35,DEN,,LAL,,T. Prince,LAL,Prince REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0061,1,02:50,DEN,,LAL,,T. Prince,LAL,SUB: Reddish FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0061,2,05:56,DEN,49.0,LAL,36.0,T. Prince,LAL,Prince 3' Driving Finger Roll Layup (8 PTS) (Davis 1 AST),Made Shot,Driving Finger Roll Layup Shot,-5,29,3,1,2.0,2.0,v
+S2324-G0061,2,02:55,DEN,,LAL,,T. Prince,LAL,Prince REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0061,2,02:17,DEN,,LAL,,T. Prince,LAL,MISS Prince 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,239,72,25,1,3.0,0.0,v
+S2324-G0061,3,11:03,DEN,63.0,LAL,58.0,T. Prince,LAL,Prince 4' Running Layup (10 PTS) (James 3 AST),Made Shot,Running Layup Shot,39,17,4,1,2.0,2.0,v
+S2324-G0061,3,09:34,DEN,70.0,LAL,61.0,T. Prince,LAL,Prince 26' 3PT Step Back Jump Shot (13 PTS) (Davis 2 AST),Made Shot,Step Back Jump shot,-94,247,26,1,3.0,3.0,v
+S2324-G0061,3,08:26,DEN,70.0,LAL,63.0,T. Prince,LAL,Prince Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0061,3,08:26,DEN,70.0,LAL,64.0,T. Prince,LAL,Prince Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0061,3,04:52,DEN,,LAL,,T. Prince,LAL,SUB: Reddish FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0061,4,07:32,DEN,,LAL,,T. Prince,LAL,Prince Traveling Turnover (P1.T9),Turnover,Traveling,0,0,0,0,,,v
+S2324-G0061,4,05:45,DEN,103.0,LAL,94.0,T. Prince,LAL,Prince 25' 3PT Jump Shot (18 PTS) (James 5 AST),Made Shot,Jump Shot,161,190,25,1,3.0,3.0,v
+S2324-G0061,4,01:15,DEN,,LAL,,T. Prince,LAL,SUB: Reddish FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0076,1,11:15,LAL,,PHX,,T. Prince,LAL,MISS Prince 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-228,50,0,1,3.0,0.0,h
+S2324-G0076,1,10:33,LAL,,PHX,,T. Prince,LAL,Prince STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0076,1,08:23,LAL,,PHX,,T. Prince,LAL,Prince P.FOUL (P1.T2) (J.Goldenberg),Foul,Personal,0,0,0,0,,,h
+S2324-G0076,1,05:03,LAL,,PHX,,T. Prince,LAL,MISS Prince 2' Driving Layup,Missed Shot,Driving Layup Shot,4,21,2,1,2.0,0.0,h
+S2324-G0076,1,03:54,LAL,,PHX,,T. Prince,LAL,MISS Prince 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-59,182,19,1,2.0,0.0,h
+S2324-G0076,1,02:46,LAL,,PHX,,T. Prince,LAL,SUB: Russell FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0076,2,04:40,LAL,,PHX,,T. Prince,LAL,Prince P.FOUL (P2.T3) (J.Van Duyne),Foul,Personal,0,0,0,0,,,h
+S2324-G0076,2,04:07,LAL,,PHX,,T. Prince,LAL,Prince S.FOUL (P3.T4) (Z.Zarba),Foul,Shooting,0,0,0,0,,,h
+S2324-G0076,2,04:07,LAL,,PHX,,T. Prince,LAL,SUB: Vincent FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0076,3,11:18,LAL,,PHX,,T. Prince,LAL,MISS Prince 15' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,16,154,15,1,2.0,0.0,h
+S2324-G0076,3,06:04,LAL,,PHX,,T. Prince,LAL,MISS Prince 4' Driving Layup,Missed Shot,Driving Layup Shot,-13,33,4,1,2.0,0.0,h
+S2324-G0076,3,04:52,LAL,,PHX,,T. Prince,LAL,SUB: Reddish FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G1094,1,04:18,TOR,21.0,LAL,26.0,T. Prince,LAL,Prince 24' 3PT Running Jump Shot (3 PTS) (Reaves 3 AST),Made Shot,Running Jump Shot,-197,145,24,1,3.0,3.0,v
+S2324-G1094,1,03:42,TOR,,LAL,,T. Prince,LAL,Prince BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G1094,1,00:02.900000,TOR,,LAL,,T. Prince,LAL,MISS Prince 4' Running Layup,Missed Shot,Running Layup Shot,-22,31,4,1,2.0,0.0,v
+S2324-G1094,2,11:08,TOR,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1094,2,09:13,TOR,32.0,LAL,42.0,T. Prince,LAL,Prince 25' 3PT Pullup Jump Shot (6 PTS) (Christie 1 AST),Made Shot,Pullup Jump shot,-232,88,25,1,3.0,3.0,v
+S2324-G1094,2,07:47,TOR,,LAL,,T. Prince,LAL,Prince STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G1094,2,07:40,TOR,,LAL,,T. Prince,LAL,Prince Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G1094,2,07:13,TOR,,LAL,,T. Prince,LAL,SUB: Davis FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G1094,3,01:32,TOR,,LAL,,T. Prince,LAL,Prince STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G1094,4,11:37,TOR,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1094,4,11:26,TOR,,LAL,,T. Prince,LAL,MISS Prince 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,44,4,1,2.0,0.0,v
+S2324-G1094,4,11:21,TOR,,LAL,,T. Prince,LAL,Prince REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1094,4,11:21,TOR,79.0,LAL,102.0,T. Prince,LAL,Prince Putback Dunk (8 PTS),Made Shot,Putback Dunk Shot,0,0,0,1,2.0,2.0,v
+S2324-G1094,4,09:51,TOR,,LAL,,T. Prince,LAL,SUB: Christie FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G1094,4,06:35,TOR,,LAL,,T. Prince,LAL,MISS Prince 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-54,21,6,1,2.0,0.0,v
+S2324-G1094,4,05:18,TOR,,LAL,,T. Prince,LAL,Prince REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1094,4,04:49,TOR,,LAL,,T. Prince,LAL,MISS Prince 7' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,37,57,7,1,2.0,0.0,v
+S2324-G1094,4,04:46,TOR,,LAL,,T. Prince,LAL,Prince REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1094,4,04:01,TOR,,LAL,,T. Prince,LAL,MISS Prince 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-1,179,18,1,2.0,0.0,v
+S2324-G1094,4,01:02,TOR,,LAL,,T. Prince,LAL,Prince S.FOUL (P1.PN) (C.Blair),Foul,Shooting,0,0,0,0,,,v
+S2324-G1094,4,00:19,TOR,,LAL,,T. Prince,LAL,Prince P.FOUL (P2.PN) (J.Van Duyne),Foul,Personal,0,0,0,0,,,v
+S2324-G0650,1,11:41,GSW,,LAL,,T. Prince,LAL,MISS Prince 6' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,53,34,6,1,2.0,0.0,v
+S2324-G0650,1,05:40,GSW,,LAL,,T. Prince,LAL,SUB: Vanderbilt FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0650,2,07:41,GSW,,LAL,,T. Prince,LAL,MISS Prince 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-199,172,26,1,3.0,0.0,v
+S2324-G0650,2,06:48,GSW,,LAL,,T. Prince,LAL,Prince P.FOUL (P1.T3) (M.Ervin),Foul,Personal,0,0,0,0,,,v
+S2324-G0650,2,03:14,GSW,,LAL,,T. Prince,LAL,Prince S.FOUL (P2.PN) (D.Richardson),Foul,Shooting,0,0,0,0,,,v
+S2324-G0650,2,01:55,GSW,,LAL,,T. Prince,LAL,SUB: James FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0650,3,09:32,GSW,,LAL,,T. Prince,LAL,Prince OFF.Foul (P3) (J.Goble),Foul,Offensive,0,0,0,0,,,v
+S2324-G0650,3,09:32,GSW,,LAL,,T. Prince,LAL,Prince Offensive Foul Turnover (P1.T7),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0650,3,08:11,GSW,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0650,3,06:55,GSW,,LAL,,T. Prince,LAL,Prince Non-Unsportsmanlike Tech Foul - Flopping (P3.T1) (J.Goble),Foul                                    ,Flopping,0,0,0,0,,,v
+S2324-G0650,3,06:55,GSW,,LAL,,T. Prince,LAL,SUB: Vanderbilt FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0650,4,11:31,GSW,,LAL,,T. Prince,LAL,Prince P.FOUL (P4.T1) (M.Ervin),Foul,Personal,0,0,0,0,,,v
+S2324-G0650,4,06:52,GSW,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0650,4,06:33,GSW,,LAL,,T. Prince,LAL,Prince STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0650,4,06:16,GSW,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0650,4,05:36,GSW,,LAL,,T. Prince,LAL,SUB: James FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0884,1,03:38,LAL,17.0,OKC,22.0,T. Prince,LAL,Prince 3PT Jump Shot (3 PTS) (Reaves 2 AST),Made Shot,Jump Shot,221,4,0,1,3.0,3.0,h
+S2324-G0884,1,00:49.300000,LAL,,OKC,,T. Prince,LAL,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0884,2,10:46,LAL,27.0,OKC,27.0,T. Prince,LAL,Prince 10' Pullup Jump Shot (5 PTS) (Dinwiddie 1 AST),Made Shot,Pullup Jump shot,98,-3,10,1,2.0,2.0,h
+S2324-G0884,2,09:46,LAL,,OKC,,T. Prince,LAL,Prince REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0884,2,09:24,LAL,,OKC,,T. Prince,LAL,Prince P.FOUL (P1.T1) (J.Orr),Foul,Personal,0,0,0,0,,,h
+S2324-G0884,2,08:06,LAL,,OKC,,T. Prince,LAL,Prince REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0884,2,07:38,LAL,,OKC,,T. Prince,LAL,Prince BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0884,2,07:31,LAL,,OKC,,T. Prince,LAL,SUB: Reaves FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0884,3,09:28,LAL,,OKC,,T. Prince,LAL,Prince T.FOUL (P1.T0) (J.Orr),Foul,Technical,0,0,0,0,,,h
+S2324-G0884,3,04:07,LAL,,OKC,,T. Prince,LAL,Prince REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0884,3,03:51,LAL,,OKC,,T. Prince,LAL,MISS Prince 3PT Jump Shot,Missed Shot,Jump Shot,-228,13,0,1,3.0,0.0,h
+S2324-G0884,4,11:35,LAL,,OKC,,T. Prince,LAL,Prince S.FOUL (P2.T1) (J.Schroeder),Foul,Shooting,0,0,0,0,,,h
+S2324-G0884,4,11:22,LAL,92.0,OKC,74.0,T. Prince,LAL,Prince 3PT Jump Shot (8 PTS) (James 8 AST),Made Shot,Jump Shot,-225,15,0,1,3.0,3.0,h
+S2324-G0884,4,11:05,LAL,,OKC,,T. Prince,LAL,Prince S.FOUL (P3.T2) (J.Capers),Foul,Shooting,0,0,0,0,,,h
+S2324-G0884,4,10:35,LAL,,OKC,,T. Prince,LAL,Prince REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0884,4,07:42,LAL,,OKC,,T. Prince,LAL,Prince REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0884,4,06:49,LAL,107.0,OKC,85.0,T. Prince,LAL,Prince 3PT Jump Shot (11 PTS) (Dinwiddie 3 AST),Made Shot,Jump Shot,-221,11,0,1,3.0,3.0,h
+S2324-G0884,4,06:33,LAL,,OKC,,T. Prince,LAL,MISS Prince 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,205,141,25,1,3.0,0.0,h
+S2324-G0884,4,05:50,LAL,110.0,OKC,85.0,T. Prince,LAL,Prince 3PT Jump Shot (14 PTS) (Russell 3 AST),Made Shot,Jump Shot,233,15,0,1,3.0,3.0,h
+S2324-G0884,4,04:44,LAL,,OKC,,T. Prince,LAL,Prince Offensive Charge Foul (P4) (J.Capers),Foul,Offensive Charge,0,0,0,0,,,h
+S2324-G0884,4,04:44,LAL,,OKC,,T. Prince,LAL,Prince Offensive Foul Turnover (P1.T18),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0884,4,03:34,LAL,,OKC,,T. Prince,LAL,SUB: Lewis FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0187,1,10:26,LAL,6.0,POR,2.0,T. Prince,LAL,Prince 3' Driving Layup (2 PTS) (Davis 1 AST),Made Shot,Driving Layup Shot,23,10,3,1,2.0,2.0,h
+S2324-G0187,1,07:29,LAL,,POR,,T. Prince,LAL,MISS Prince 24' 3PT Jump Shot,Missed Shot,Jump Shot,-223,2,0,1,3.0,0.0,h
+S2324-G0187,1,07:09,LAL,,POR,,T. Prince,LAL,Prince S.FOUL (P1.T2) (M.Dagher),Foul,Shooting,0,0,0,0,,,h
+S2324-G0187,1,05:25,LAL,,POR,,T. Prince,LAL,MISS Prince 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,25,153,16,1,2.0,0.0,h
+S2324-G0187,1,05:16,LAL,,POR,,T. Prince,LAL,Prince S.FOUL (P2.T3) (A.Smith),Foul,Shooting,0,0,0,0,,,h
+S2324-G0187,1,05:16,LAL,,POR,,T. Prince,LAL,SUB: Reaves FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0187,2,06:44,LAL,40.0,POR,42.0,T. Prince,LAL,Prince 2' Driving Layup (4 PTS) (Davis 3 AST),Made Shot,Driving Layup Shot,15,11,2,1,2.0,2.0,h
+S2324-G0187,2,06:10,LAL,,POR,,T. Prince,LAL,MISS Prince 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-222,57,0,1,3.0,0.0,h
+S2324-G0187,2,05:39,LAL,42.0,POR,45.0,T. Prince,LAL,Prince 2' Layup (6 PTS) (Russell 4 AST),Made Shot,Layup Shot,-21,5,2,1,2.0,2.0,h
+S2324-G0187,2,05:18,LAL,,POR,,T. Prince,LAL,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0187,2,04:44,LAL,,POR,,T. Prince,LAL,SUB: Reaves FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0187,3,09:40,LAL,61.0,POR,63.0,T. Prince,LAL,Prince 8' Driving Floating Bank Jump Shot (8 PTS) (Davis 5 AST),Made Shot,Driving Floating Bank Jump Shot,-70,39,8,1,2.0,2.0,h
+S2324-G0187,3,09:40,LAL,62.0,POR,63.0,T. Prince,LAL,Prince Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G0187,3,08:02,LAL,,POR,,T. Prince,LAL,Prince Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0187,3,06:41,LAL,,POR,,T. Prince,LAL,SUB: Reaves FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0187,3,03:45,LAL,,POR,,T. Prince,LAL,Prince REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0187,3,01:40,LAL,,POR,,T. Prince,LAL,Prince T.FOUL (P2.T1) (M.Lindsay),Foul,Technical,0,0,0,0,,,h
+S2324-G0187,4,08:02,LAL,,POR,,T. Prince,LAL,Prince REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0187,4,05:48,LAL,,POR,,T. Prince,LAL,MISS Prince 3PT Jump Shot,Missed Shot,Jump Shot,227,2,0,1,3.0,0.0,h
+S2324-G0187,4,02:34,LAL,,POR,,T. Prince,LAL,Prince STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0187,4,02:32,LAL,108.0,POR,103.0,T. Prince,LAL,Prince 1' Running Layup (11 PTS),Made Shot,Running Layup Shot,5,12,1,1,2.0,2.0,h
+S2324-G0216,1,07:14,LAL,,HOU,,T. Prince,LAL,MISS Prince 5' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,51,-3,5,1,2.0,0.0,h
+S2324-G0216,1,06:02,LAL,,HOU,,T. Prince,LAL,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0216,1,05:51,LAL,,HOU,,T. Prince,LAL,MISS Prince 25' 3PT Jump Shot,Missed Shot,Jump Shot,102,228,25,1,3.0,0.0,h
+S2324-G0216,1,05:19,LAL,,HOU,,T. Prince,LAL,MISS Prince 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-232,84,25,1,3.0,0.0,h
+S2324-G0216,1,04:55,LAL,,HOU,,T. Prince,LAL,MISS Prince 3' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,26,15,3,1,2.0,0.0,h
+S2324-G0216,1,04:30,LAL,,HOU,,T. Prince,LAL,MISS Prince 6' Driving Layup,Missed Shot,Driving Layup Shot,-13,55,6,1,2.0,0.0,h
+S2324-G0216,1,04:29,LAL,,HOU,,T. Prince,LAL,Prince REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0216,1,04:28,LAL,,HOU,,T. Prince,LAL,MISS Prince 5' Putback Layup,Missed Shot,Putback Layup Shot,9,46,5,1,2.0,0.0,h
+S2324-G0216,1,03:33,LAL,,HOU,,T. Prince,LAL,SUB: Reaves FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0216,1,00:05.900000,LAL,,HOU,,T. Prince,LAL,SUB: James FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0216,2,04:35,LAL,,HOU,,T. Prince,LAL,SUB: James FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0216,3,09:37,LAL,,HOU,,T. Prince,LAL,Prince Traveling Turnover (P1.T9),Turnover,Traveling,0,0,0,0,,,h
+S2324-G0216,3,09:05,LAL,,HOU,,T. Prince,LAL,MISS Prince 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-224,10,0,1,3.0,0.0,h
+S2324-G0216,3,06:20,LAL,66.0,HOU,62.0,T. Prince,LAL,Prince 5' Driving Layup (2 PTS) (Reaves 3 AST),Made Shot,Driving Layup Shot,32,34,5,1,2.0,2.0,h
+S2324-G0216,3,06:20,LAL,,HOU,,T. Prince,LAL,MISS Prince Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2324-G0216,3,06:16,LAL,,HOU,,T. Prince,LAL,Prince REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0216,3,06:15,LAL,,HOU,,T. Prince,LAL,Prince Lost Ball Turnover (P2.T11),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0216,3,05:41,LAL,,HOU,,T. Prince,LAL,MISS Prince 3PT Jump Shot,Missed Shot,Jump Shot,225,34,0,1,3.0,0.0,h
+S2324-G0216,3,05:40,LAL,,HOU,,T. Prince,LAL,Prince REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0216,3,05:39,LAL,,HOU,,T. Prince,LAL,MISS Prince 6' Driving Layup,Missed Shot,Driving Layup Shot,15,56,6,1,2.0,0.0,h
+S2324-G0216,3,05:24,LAL,,HOU,,T. Prince,LAL,SUB: Reddish FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0216,4,08:17,LAL,,HOU,,T. Prince,LAL,MISS Prince 22' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-218,4,22,1,2.0,0.0,h
+S2324-G0216,4,07:53,LAL,,HOU,,T. Prince,LAL,SUB: Reddish FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0901,1,01:59,LAL,,SAC,,T. Prince,LAL,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0901,2,11:25,LAL,,SAC,,T. Prince,LAL,Prince REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0901,2,10:11,LAL,,SAC,,T. Prince,LAL,Prince BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0901,2,09:37,LAL,43.0,SAC,34.0,T. Prince,LAL,Prince 26' 3PT Jump Shot (3 PTS) (James 5 AST),Made Shot,Jump Shot,235,108,26,1,3.0,3.0,h
+S2324-G0901,2,09:03,LAL,,SAC,,T. Prince,LAL,MISS Prince 3PT Jump Shot,Missed Shot,Jump Shot,229,-8,0,1,3.0,0.0,h
+S2324-G0901,2,05:53,LAL,,SAC,,T. Prince,LAL,SUB: Russell FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0901,3,06:56,LAL,,SAC,,T. Prince,LAL,SUB: Hayes FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0901,3,00:42.200000,LAL,,SAC,,T. Prince,LAL,Prince BLOCK (2 BLK),,,0,0,0,0,,,h
+S2324-G0901,4,11:20,LAL,95.0,SAC,106.0,T. Prince,LAL,Prince 3PT Jump Shot (6 PTS),Made Shot,Jump Shot,-229,11,0,1,3.0,3.0,h
+S2324-G0901,4,10:31,LAL,,SAC,,T. Prince,LAL,Prince Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0901,4,10:02,LAL,,SAC,,T. Prince,LAL,SUB: Hachimura FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0813,1,04:51,LAL,19.0,SAS,15.0,T. Prince,LAL,Prince 2' Running Layup (2 PTS) (James 1 AST),Made Shot,Running Layup Shot,16,12,2,1,2.0,2.0,h
+S2324-G0813,1,04:51,LAL,,SAS,,T. Prince,LAL,MISS Prince Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2324-G0813,1,03:09,LAL,,SAS,,T. Prince,LAL,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0813,1,01:59,LAL,,SAS,,T. Prince,LAL,Prince P.FOUL (P1.T4) (M.Lindsay),Foul,Personal,0,0,0,0,,,h
+S2324-G0813,1,01:47,LAL,,SAS,,T. Prince,LAL,Prince REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0813,1,01:41,LAL,,SAS,,T. Prince,LAL,Prince Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0813,1,01:30,LAL,,SAS,,T. Prince,LAL,MISS Prince 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-229,11,0,1,3.0,0.0,h
+S2324-G0813,1,00:22.800000,LAL,,SAS,,T. Prince,LAL,MISS Prince 6' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,17,54,6,1,2.0,0.0,h
+S2324-G0813,2,11:02,LAL,,SAS,,T. Prince,LAL,Prince S.FOUL (P2.T1) (M.Kallio),Foul,Shooting,0,0,0,0,,,h
+S2324-G0813,2,10:04,LAL,,SAS,,T. Prince,LAL,Prince L.B.FOUL (P3.T3) (J.Orr),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0813,2,10:04,LAL,,SAS,,T. Prince,LAL,SUB: Hachimura FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0813,3,04:02,LAL,,SAS,,T. Prince,LAL,MISS Prince 5' Driving Layup,Missed Shot,Driving Layup Shot,-20,45,5,1,2.0,0.0,h
+S2324-G0813,3,03:36,LAL,,SAS,,T. Prince,LAL,MISS Prince 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-203,143,25,1,3.0,0.0,h
+S2324-G0813,3,02:26,LAL,,SAS,,T. Prince,LAL,Prince Out of Bounds - Bad Pass Turnover Turnover (P2.T10),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G0813,3,02:06,LAL,,SAS,,T. Prince,LAL,Prince REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0813,3,01:29,LAL,,SAS,,T. Prince,LAL,Prince REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0813,4,11:10,LAL,,SAS,,T. Prince,LAL,Prince STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0813,4,09:26,LAL,108.0,SAS,96.0,T. Prince,LAL,Prince 26' 3PT Jump Shot (5 PTS) (Dinwiddie 1 AST),Made Shot,Jump Shot,217,146,26,1,3.0,3.0,h
+S2324-G0813,4,07:48,LAL,,SAS,,T. Prince,LAL,SUB: Hachimura FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0813,4,00:36.100000,LAL,,SAS,,T. Prince,LAL,Prince Personal Take Foul (P4.T4) (M.Kallio),Foul,Personal Take,0,0,0,0,,,h
+S2324-G0813,4,00:36.100000,LAL,,SAS,,T. Prince,LAL,SUB: Christie FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G1078,1,03:55,BKN,,LAL,,T. Prince,LAL,MISS Prince 3PT Running Jump Shot,Missed Shot,Running Jump Shot,233,15,0,1,3.0,0.0,v
+S2324-G1078,2,08:33,BKN,,LAL,,T. Prince,LAL,SUB: Davis FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G1078,3,03:03,BKN,,LAL,,T. Prince,LAL,MISS Prince 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,59,4,6,1,2.0,0.0,v
+S2324-G1078,3,02:13,BKN,,LAL,,T. Prince,LAL,SUB: Hachimura FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G1078,4,10:56,BKN,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1078,4,09:55,BKN,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1078,4,08:16,BKN,,LAL,,T. Prince,LAL,SUB: Davis FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0669,1,11:38,ATL,,LAL,,T. Prince,LAL,Prince STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0669,1,10:50,ATL,,LAL,,T. Prince,LAL,MISS Prince 25' 3PT Jump Shot,Missed Shot,Jump Shot,162,192,25,1,3.0,0.0,v
+S2324-G0669,1,07:48,ATL,6.0,LAL,12.0,T. Prince,LAL,Prince 1' Running Dunk (2 PTS) (James 1 AST),Made Shot,Running Dunk Shot,-6,6,1,1,2.0,2.0,v
+S2324-G0669,1,04:57,ATL,,LAL,,T. Prince,LAL,MISS Prince 3PT Jump Shot,Missed Shot,Jump Shot,-223,66,0,1,3.0,0.0,v
+S2324-G0669,1,04:27,ATL,,LAL,,T. Prince,LAL,SUB: Christie FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0669,2,06:27,ATL,,LAL,,T. Prince,LAL,MISS Prince 13' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,4,126,13,1,2.0,0.0,v
+S2324-G0669,2,01:59,ATL,61.0,LAL,52.0,T. Prince,LAL,Prince 26' 3PT Jump Shot (5 PTS) (Reaves 4 AST),Made Shot,Jump Shot,-20,260,26,1,3.0,3.0,v
+S2324-G0669,2,01:24,ATL,63.0,LAL,54.0,T. Prince,LAL,Prince 12' Pullup Jump Shot (7 PTS) (Reaves 5 AST),Made Shot,Pullup Jump shot,-16,121,12,1,2.0,2.0,v
+S2324-G0669,2,01:01,ATL,,LAL,,T. Prince,LAL,Prince S.FOUL (P1.PN) (C.Washington),Foul,Shooting,0,0,0,0,,,v
+S2324-G0669,3,11:34,ATL,,LAL,,T. Prince,LAL,Prince Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0669,3,08:53,ATL,,LAL,,T. Prince,LAL,MISS Prince 3PT Jump Shot,Missed Shot,Jump Shot,-233,-13,0,1,3.0,0.0,v
+S2324-G0669,3,07:56,ATL,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0669,3,06:04,ATL,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0669,3,05:54,ATL,,LAL,,T. Prince,LAL,SUB: Wood FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0669,4,03:21,ATL,,LAL,,T. Prince,LAL,SUB: Hood-Schifino FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0491,1,09:44,LAL,,MEM,,T. Prince,LAL,MISS Prince 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-186,180,26,1,3.0,0.0,h
+S2324-G0491,1,08:53,LAL,,MEM,,T. Prince,LAL,Prince REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0491,1,04:33,LAL,,MEM,,T. Prince,LAL,SUB: Wood FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0491,2,08:07,LAL,45.0,MEM,32.0,T. Prince,LAL,Prince 25' 3PT Jump Shot (3 PTS) (Davis 2 AST),Made Shot,Jump Shot,214,121,25,1,3.0,3.0,h
+S2324-G0491,2,05:06,LAL,,MEM,,T. Prince,LAL,Prince S.FOUL (P1.T2) (S.Corbin),Foul,Shooting,0,0,0,0,,,h
+S2324-G0491,2,04:26,LAL,,MEM,,T. Prince,LAL,MISS Prince 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,143,201,25,1,3.0,0.0,h
+S2324-G0491,2,03:56,LAL,,MEM,,T. Prince,LAL,Prince STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0491,2,02:26,LAL,,MEM,,T. Prince,LAL,MISS Prince 2' Driving Layup,Missed Shot,Driving Layup Shot,-5,15,2,1,2.0,0.0,h
+S2324-G0491,2,02:07,LAL,57.0,MEM,50.0,T. Prince,LAL,Prince 26' 3PT Jump Shot (6 PTS) (Reaves 6 AST),Made Shot,Jump Shot,-147,215,26,1,3.0,3.0,h
+S2324-G0491,2,01:39,LAL,,MEM,,T. Prince,LAL,Prince STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0491,2,01:12,LAL,,MEM,,T. Prince,LAL,MISS Prince 8' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-16,80,8,1,2.0,0.0,h
+S2324-G0491,3,10:05,LAL,,MEM,,T. Prince,LAL,MISS Prince 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-223,32,0,1,3.0,0.0,h
+S2324-G0491,3,08:54,LAL,68.0,MEM,67.0,T. Prince,LAL,Prince 25' 3PT Running Jump Shot (9 PTS) (Reaves 9 AST),Made Shot,Running Jump Shot,145,205,25,1,3.0,3.0,h
+S2324-G0491,3,07:17,LAL,,MEM,,T. Prince,LAL,Prince REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0491,3,07:17,LAL,,MEM,,T. Prince,LAL,Prince Out of Bounds - Bad Pass Turnover Turnover (P1.T5),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G0491,3,06:12,LAL,77.0,MEM,75.0,T. Prince,LAL,Prince Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0491,3,06:12,LAL,,MEM,,T. Prince,LAL,MISS Prince Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0491,3,04:52,LAL,,MEM,,T. Prince,LAL,Prince BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0491,3,04:44,LAL,,MEM,,T. Prince,LAL,Prince Transition Take Foul (P2.T2) (S.Corbin),Foul                                    ,Transition Take,0,0,0,0,,,h
+S2324-G0491,3,04:44,LAL,,MEM,,T. Prince,LAL,Prince T.FOUL (P2.T2) (D.Guthrie),Foul,Technical,0,0,0,0,,,h
+S2324-G0491,3,01:50,LAL,,MEM,,T. Prince,LAL,SUB: Reaves FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0491,4,07:09,LAL,,MEM,,T. Prince,LAL,MISS Prince 25' 3PT Jump Shot,Missed Shot,Jump Shot,105,227,25,1,3.0,0.0,h
+S2324-G0491,4,05:16,LAL,,MEM,,T. Prince,LAL,Prince S.FOUL (P3.T3) (M.Boland),Foul,Shooting,0,0,0,0,,,h
+S2324-G0242,1,10:53,CLE,0.0,LAL,7.0,T. Prince,LAL,Prince 1' Running Layup (2 PTS) (James 1 AST),Made Shot,Running Layup Shot,0,6,1,1,2.0,2.0,v
+S2324-G0242,1,10:19,CLE,,LAL,,T. Prince,LAL,MISS Prince 25' 3PT Jump Shot,Missed Shot,Jump Shot,221,111,25,1,3.0,0.0,v
+S2324-G0242,1,10:10,CLE,,LAL,,T. Prince,LAL,Prince BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0242,1,10:06,CLE,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0242,1,09:34,CLE,4.0,LAL,10.0,T. Prince,LAL,Prince 26' 3PT Jump Shot (5 PTS) (Davis 1 AST),Made Shot,Jump Shot,161,205,26,1,3.0,3.0,v
+S2324-G0242,1,06:34,CLE,,LAL,,T. Prince,LAL,Prince STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0242,1,03:49,CLE,,LAL,,T. Prince,LAL,SUB: Christie FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0242,2,01:18,CLE,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0242,3,10:33,CLE,,LAL,,T. Prince,LAL,MISS Prince 3' Layup,Missed Shot,Layup Shot,23,22,3,1,2.0,0.0,v
+S2324-G0242,3,10:02,CLE,,LAL,,T. Prince,LAL,MISS Prince 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,203,153,25,1,3.0,0.0,v
+S2324-G0242,3,09:41,CLE,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0242,3,06:45,CLE,,LAL,,T. Prince,LAL,SUB: Reaves FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0242,3,03:15,CLE,,LAL,,T. Prince,LAL,MISS Prince 1' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,7,6,1,1,2.0,0.0,v
+S2324-G0242,4,10:40,CLE,96.0,LAL,97.0,T. Prince,LAL,Prince 1' Driving Layup (7 PTS) (James 5 AST),Made Shot,Driving Layup Shot,-7,-6,1,1,2.0,2.0,v
+S2324-G0242,4,08:44,CLE,,LAL,,T. Prince,LAL,Prince BLOCK (2 BLK),,,0,0,0,0,,,v
+S2324-G0242,4,07:30,CLE,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0242,4,06:51,CLE,,LAL,,T. Prince,LAL,MISS Prince 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,17,154,15,1,2.0,0.0,v
+S2324-G0242,4,04:45,CLE,,LAL,,T. Prince,LAL,SUB: Reaves FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0848,1,03:43,LAC,,LAL,,T. Prince,LAL,Prince S.FOUL (P1.T3) (T.Brothers),Foul,Shooting,0,0,0,0,,,v
+S2324-G0848,1,01:45,LAC,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0848,1,01:44,LAC,,LAL,,T. Prince,LAL,Prince Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0848,1,00:44.600000,LAC,,LAL,,T. Prince,LAL,Prince REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0848,2,10:59,LAC,,LAL,,T. Prince,LAL,MISS Prince 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,81,253,27,1,3.0,0.0,v
+S2324-G0848,2,10:30,LAC,34.0,LAL,31.0,T. Prince,LAL,Prince 19' Pullup Jump Shot (2 PTS) (Russell 1 AST),Made Shot,Pullup Jump shot,-134,132,19,1,2.0,2.0,v
+S2324-G0848,2,08:51,LAC,,LAL,,T. Prince,LAL,Prince Traveling Turnover (P2.T7),Turnover,Traveling,0,0,0,0,,,v
+S2324-G0848,2,08:19,LAC,,LAL,,T. Prince,LAL,SUB: Hachimura FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0848,4,09:57,LAC,,LAL,,T. Prince,LAL,MISS Prince 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,4,61,6,1,2.0,0.0,v
+S2324-G0848,4,08:36,LAC,,LAL,,T. Prince,LAL,Prince S.FOUL (P2.T1) (A.Nagy),Foul,Shooting,0,0,0,0,,,v
+S2324-G0848,4,08:21,LAC,,LAL,,T. Prince,LAL,MISS Prince 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,141,85,16,1,2.0,0.0,v
+S2324-G0848,4,07:41,LAC,,LAL,,T. Prince,LAL,Prince STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0848,4,06:53,LAC,,LAL,,T. Prince,LAL,SUB: Davis FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0370,1,08:54,CHI,,LAL,,T. Prince,LAL,MISS Prince 24' 3PT Jump Shot,Missed Shot,Jump Shot,218,107,24,1,3.0,0.0,v
+S2324-G0370,1,07:17,CHI,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0370,1,04:31,CHI,24.0,LAL,17.0,T. Prince,LAL,Prince 26' 3PT Jump Shot (3 PTS) (James 4 AST),Made Shot,Jump Shot,216,146,26,1,3.0,3.0,v
+S2324-G0370,1,03:41,CHI,,LAL,,T. Prince,LAL,SUB: Hachimura FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0370,2,06:44,CHI,48.0,LAL,33.0,T. Prince,LAL,Prince 5' Driving Floating Jump Shot (5 PTS),Made Shot,Driving Floating Jump Shot,13,50,5,1,2.0,2.0,v
+S2324-G0370,2,06:05,CHI,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0370,2,05:28,CHI,48.0,LAL,41.0,T. Prince,LAL,Prince 24' 3PT Jump Shot (8 PTS) (Davis 3 AST),Made Shot,Jump Shot,-236,3,24,1,3.0,3.0,v
+S2324-G0370,2,04:38,CHI,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0370,2,04:06,CHI,,LAL,,T. Prince,LAL,Prince P.FOUL (P1.T2) (J.Williams),Foul,Personal,0,0,0,0,,,v
+S2324-G0370,2,03:17,CHI,51.0,LAL,46.0,T. Prince,LAL,Prince 3PT Jump Shot (11 PTS) (James 5 AST),Made Shot,Jump Shot,223,-3,0,1,3.0,3.0,v
+S2324-G0370,2,02:18,CHI,53.0,LAL,47.0,T. Prince,LAL,Prince Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0370,2,02:18,CHI,53.0,LAL,48.0,T. Prince,LAL,Prince Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0370,2,01:42,CHI,,LAL,,T. Prince,LAL,Prince S.FOUL (P2.T3) (J.Conley),Foul,Shooting,0,0,0,0,,,v
+S2324-G0370,2,01:29,CHI,,LAL,,T. Prince,LAL,MISS Prince 3PT Jump Shot,Missed Shot,Jump Shot,234,1,0,1,3.0,0.0,v
+S2324-G0370,3,09:29,CHI,,LAL,,T. Prince,LAL,Prince BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0370,3,09:27,CHI,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0370,3,08:50,CHI,,LAL,,T. Prince,LAL,MISS Prince 25' 3PT Jump Shot,Missed Shot,Jump Shot,207,132,25,1,3.0,0.0,v
+S2324-G0370,3,05:51,CHI,,LAL,,T. Prince,LAL,MISS Prince 25' 3PT Jump Shot,Missed Shot,Jump Shot,5,250,25,1,3.0,0.0,v
+S2324-G0370,3,01:07,CHI,,LAL,,T. Prince,LAL,Prince STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0370,3,00:10.100000,CHI,,LAL,,T. Prince,LAL,Prince Lost Ball Turnover (P1.T11),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0370,4,04:13,CHI,,LAL,,T. Prince,LAL,MISS Prince 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,21,5,2,1,2.0,0.0,v
+S2324-G0370,4,03:02,CHI,,LAL,,T. Prince,LAL,Prince S.FOUL (P3.T3) (J.Williams),Foul,Shooting,0,0,0,0,,,v
+S2324-G0370,4,02:14,CHI,120.0,LAL,106.0,T. Prince,LAL,Prince 3PT Jump Shot (16 PTS) (Reaves 3 AST),Made Shot,Jump Shot,232,-2,0,1,3.0,3.0,v
+S2324-G0370,4,01:18,CHI,,LAL,,T. Prince,LAL,SUB: Christie FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G1127,1,03:44,LAL,,CLE,,T. Prince,LAL,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1127,1,01:38,LAL,,CLE,,T. Prince,LAL,Prince REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1127,1,01:22,LAL,,CLE,,T. Prince,LAL,Prince Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G1127,1,01:13,LAL,33.0,CLE,31.0,T. Prince,LAL,Prince 25' 3PT Running Jump Shot (3 PTS) (Vincent 1 AST),Made Shot,Running Jump Shot,-175,183,25,1,3.0,3.0,h
+S2324-G1127,1,00:23.800000,LAL,,CLE,,T. Prince,LAL,Prince S.FOUL (P1.T1) (J.Butler),Foul,Shooting,0,0,0,0,,,h
+S2324-G1127,2,11:49,LAL,,CLE,,T. Prince,LAL,Prince STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1127,2,11:46,LAL,38.0,CLE,33.0,T. Prince,LAL,Prince 3' Running Finger Roll Layup (5 PTS),Made Shot,Running Finger Roll Layup Shot,1,31,3,1,2.0,2.0,h
+S2324-G1127,2,11:23,LAL,,CLE,,T. Prince,LAL,Prince REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1127,2,09:48,LAL,48.0,CLE,35.0,T. Prince,LAL,Prince 27' 3PT Running Jump Shot (8 PTS) (James 7 AST),Made Shot,Running Jump Shot,-173,201,27,1,3.0,3.0,h
+S2324-G1127,2,09:11,LAL,51.0,CLE,35.0,T. Prince,LAL,Prince 26' 3PT Jump Shot (11 PTS) (James 8 AST),Made Shot,Jump Shot,-179,189,26,1,3.0,3.0,h
+S2324-G1127,2,08:31,LAL,,CLE,,T. Prince,LAL,SUB: Reaves FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G1127,3,02:54,LAL,83.0,CLE,73.0,T. Prince,LAL,Prince 26' 3PT Running Pull-Up Jump Shot (14 PTS) (Davis 2 AST),Made Shot,Running Pull-Up Jump Shot,-194,173,26,1,3.0,3.0,h
+S2324-G1127,3,02:38,LAL,,CLE,,T. Prince,LAL,MISS Prince 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-158,223,27,1,3.0,0.0,h
+S2324-G1127,3,01:41,LAL,,CLE,,T. Prince,LAL,Prince REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1127,3,01:19,LAL,88.0,CLE,73.0,T. Prince,LAL,Prince 4' Driving Layup (16 PTS) (Vincent 2 AST),Made Shot,Driving Layup Shot,25,25,4,1,2.0,2.0,h
+S2324-G1127,3,00:45.400000,LAL,90.0,CLE,76.0,T. Prince,LAL,Prince 14' Fadeaway Jumper (18 PTS) (Russell 2 AST),Made Shot,Fadeaway Jump Shot,-28,141,14,1,2.0,2.0,h
+S2324-G1127,4,07:03,LAL,,CLE,,T. Prince,LAL,SUB: Hachimura FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G1127,4,00:47.800000,LAL,,CLE,,T. Prince,LAL,MISS Prince 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-109,23,11,1,2.0,0.0,h
+S2324-G0331,1,10:51,SAS,,LAL,,T. Prince,LAL,MISS Prince 3PT Jump Shot,Missed Shot,Jump Shot,-233,-1,0,1,3.0,0.0,v
+S2324-G0331,1,10:27,SAS,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0331,1,08:19,SAS,,LAL,,T. Prince,LAL,MISS Prince 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,159,195,25,1,3.0,0.0,v
+S2324-G0331,1,04:21,SAS,,LAL,,T. Prince,LAL,SUB: Reaves FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0331,2,08:11,SAS,49.0,LAL,28.0,T. Prince,LAL,Prince 1' Reverse Layup (2 PTS) (Reaves 1 AST),Made Shot,Reverse Layup Shot,-2,6,1,1,2.0,2.0,v
+S2324-G0331,2,06:19,SAS,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0331,2,05:17,SAS,,LAL,,T. Prince,LAL,Prince Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0331,2,04:27,SAS,56.0,LAL,44.0,T. Prince,LAL,Prince 25' 3PT Jump Shot (5 PTS) (James 5 AST),Made Shot,Jump Shot,-213,132,25,1,3.0,3.0,v
+S2324-G0331,2,02:22,SAS,62.0,LAL,52.0,T. Prince,LAL,Prince 2' Running Dunk (7 PTS) (James 7 AST),Made Shot,Running Dunk Shot,1,17,2,1,2.0,2.0,v
+S2324-G0331,2,01:53,SAS,64.0,LAL,55.0,T. Prince,LAL,Prince 25' 3PT Jump Shot (10 PTS) (James 8 AST),Made Shot,Jump Shot,-91,232,25,1,3.0,3.0,v
+S2324-G0331,2,01:03,SAS,,LAL,,T. Prince,LAL,Prince STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0331,3,11:24,SAS,,LAL,,T. Prince,LAL,Prince S.FOUL (P1.T2) (M.Boland),Foul,Shooting,0,0,0,0,,,v
+S2324-G0331,3,11:00,SAS,,LAL,,T. Prince,LAL,MISS Prince 9' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,16,92,9,1,2.0,0.0,v
+S2324-G0331,3,08:21,SAS,,LAL,,T. Prince,LAL,Prince BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0331,3,07:36,SAS,,LAL,,T. Prince,LAL,MISS Prince 26' 3PT Jump Shot,Missed Shot,Jump Shot,-232,113,26,1,3.0,0.0,v
+S2324-G0331,3,07:10,SAS,,LAL,,T. Prince,LAL,Prince S.FOUL (P2.T4) (M.Boland),Foul,Shooting,0,0,0,0,,,v
+S2324-G0331,3,03:00,SAS,,LAL,,T. Prince,LAL,SUB: Christie FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0331,4,09:35,SAS,103.0,LAL,91.0,T. Prince,LAL,Prince 1' Driving Layup (12 PTS) (James 12 AST),Made Shot,Driving Layup Shot,-1,8,1,1,2.0,2.0,v
+S2324-G0331,4,06:41,SAS,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0331,4,06:26,SAS,,LAL,,T. Prince,LAL,MISS Prince 26' 3PT Jump Shot,Missed Shot,Jump Shot,-167,196,26,1,3.0,0.0,v
+S2324-G0331,4,05:29,SAS,,LAL,,T. Prince,LAL,SUB: Hayes FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0258,1,08:09,DET,8.0,LAL,11.0,T. Prince,LAL,Prince 24' 3PT Running Jump Shot (3 PTS) (James 1 AST),Made Shot,Running Jump Shot,239,51,24,1,3.0,3.0,v
+S2324-G0258,1,04:59,DET,,LAL,,T. Prince,LAL,SUB: Reddish FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0258,2,05:50,DET,,LAL,,T. Prince,LAL,MISS Prince 27' 3PT Jump Shot,Missed Shot,Jump Shot,132,240,27,1,3.0,0.0,v
+S2324-G0258,2,04:48,DET,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0258,2,03:49,DET,,LAL,,T. Prince,LAL,Prince Violation:Kicked Ball (K.Lane),Violation,Kicked Ball,0,0,0,0,,,v
+S2324-G0258,2,01:54,DET,44.0,LAL,62.0,T. Prince,LAL,Prince 24' 3PT Jump Shot (6 PTS) (Russell 7 AST),Made Shot,Jump Shot,239,22,24,1,3.0,3.0,v
+S2324-G0258,2,01:38,DET,,LAL,,T. Prince,LAL,Prince Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0258,3,10:52,DET,,LAL,,T. Prince,LAL,Prince STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0258,3,05:53,DET,61.0,LAL,84.0,T. Prince,LAL,Prince 26' 3PT Jump Shot (9 PTS) (Russell 9 AST),Made Shot,Jump Shot,157,207,26,1,3.0,3.0,v
+S2324-G0258,3,03:46,DET,,LAL,,T. Prince,LAL,SUB: Reddish FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0577,1,09:58,LAL,,DAL,,T. Prince,LAL,MISS Prince 3PT Jump Shot,Missed Shot,Jump Shot,-229,21,0,1,3.0,0.0,h
+S2324-G0577,1,09:18,LAL,,DAL,,T. Prince,LAL,MISS Prince 10' Driving Layup,Missed Shot,Driving Layup Shot,51,88,10,1,2.0,0.0,h
+S2324-G0577,1,08:11,LAL,9.0,DAL,10.0,T. Prince,LAL,Prince Free Throw 1 of 3 (1 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,h
+S2324-G0577,1,08:11,LAL,,DAL,,T. Prince,LAL,MISS Prince Free Throw 2 of 3,Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,0.0,h
+S2324-G0577,1,08:11,LAL,10.0,DAL,10.0,T. Prince,LAL,Prince Free Throw 3 of 3 (2 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,h
+S2324-G0577,1,07:41,LAL,,DAL,,T. Prince,LAL,MISS Prince 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,225,119,25,1,3.0,0.0,h
+S2324-G0577,1,05:14,LAL,,DAL,,T. Prince,LAL,SUB: Christie FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0577,2,05:49,LAL,,DAL,,T. Prince,LAL,Prince S.FOUL (P1.T1) (N.Green),Foul,Shooting,0,0,0,0,,,h
+S2324-G0577,2,04:23,LAL,,DAL,,T. Prince,LAL,MISS Prince 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-175,196,26,1,3.0,0.0,h
+S2324-G0577,2,04:04,LAL,,DAL,,T. Prince,LAL,Prince P.FOUL (P2.T2) (A.Smith),Foul,Personal,0,0,0,0,,,h
+S2324-G0577,2,02:06,LAL,,DAL,,T. Prince,LAL,MISS Prince Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0577,2,02:06,LAL,53.0,DAL,45.0,T. Prince,LAL,Prince Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0577,2,00:58.600000,LAL,,DAL,,T. Prince,LAL,Prince FLAGRANT.FOUL.TYPE1 (P3.T3) (S.Foster),Foul,Flagrant Type 1,0,0,0,0,,,h
+S2324-G0577,2,00:58.600000,LAL,,DAL,,T. Prince,LAL,SUB: James FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0577,3,11:24,LAL,,DAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0577,3,10:45,LAL,,DAL,,T. Prince,LAL,MISS Prince 5' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,-42,26,5,1,2.0,0.0,h
+S2324-G0577,3,10:12,LAL,62.0,DAL,57.0,T. Prince,LAL,Prince 3' Driving Layup (5 PTS) (Davis 6 AST),Made Shot,Driving Layup Shot,25,13,3,1,2.0,2.0,h
+S2324-G0577,3,07:32,LAL,74.0,DAL,64.0,T. Prince,LAL,Prince 10' Fadeaway Jumper (7 PTS) (Davis 8 AST),Made Shot,Fadeaway Jump Shot,-5,102,10,1,2.0,2.0,h
+S2324-G0577,3,06:40,LAL,79.0,DAL,64.0,T. Prince,LAL,Prince 1' Running Alley Oop Layup Shot (9 PTS) (Reaves 4 AST),Made Shot,Running Alley Oop Layup Shot,6,8,1,1,2.0,2.0,h
+S2324-G0577,3,05:29,LAL,,DAL,,T. Prince,LAL,Prince S.FOUL (P4.T2) (N.Green),Foul,Shooting,0,0,0,0,,,h
+S2324-G0577,3,05:29,LAL,,DAL,,T. Prince,LAL,SUB: Vanderbilt FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G1063,1,01:00,IND,23.0,LAL,22.0,T. Prince,LAL,Prince 3' Driving Layup (2 PTS) (Hayes 1 AST),Made Shot,Driving Layup Shot,11,24,3,1,2.0,2.0,v
+S2324-G1063,1,00:05.500000,IND,,LAL,,T. Prince,LAL,MISS Prince 26' 3PT Jump Shot,Missed Shot,Jump Shot,129,220,26,1,3.0,0.0,v
+S2324-G1063,2,08:53,IND,35.0,LAL,33.0,T. Prince,LAL,Prince 26' 3PT Jump Shot (5 PTS) (Russell 3 AST),Made Shot,Jump Shot,-230,111,26,1,3.0,3.0,v
+S2324-G1063,2,08:09,IND,,LAL,,T. Prince,LAL,SUB: Hachimura FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G1063,3,04:30,IND,,LAL,,T. Prince,LAL,Prince Out of Bounds - Bad Pass Turnover Turnover (P1.T12),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G1063,3,03:05,IND,,LAL,,T. Prince,LAL,MISS Prince 3' Driving Layup,Missed Shot,Driving Layup Shot,27,17,3,1,2.0,0.0,v
+S2324-G1063,3,00:59.500000,IND,,LAL,,T. Prince,LAL,MISS Prince 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,235,25,24,1,3.0,0.0,v
+S2324-G1063,4,09:13,IND,,LAL,,T. Prince,LAL,SUB: Hachimura FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0776,1,01:30,LAL,32.0,DET,18.0,T. Prince,LAL,Prince 26' 3PT Jump Shot (3 PTS) (Russell 2 AST),Made Shot,Jump Shot,173,194,26,1,3.0,3.0,h
+S2324-G0776,2,11:10,LAL,,DET,,T. Prince,LAL,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0776,2,10:22,LAL,,DET,,T. Prince,LAL,Prince STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0776,2,10:18,LAL,41.0,DET,28.0,T. Prince,LAL,Prince 3' Running Layup (5 PTS) (James 4 AST),Made Shot,Running Layup Shot,-2,33,3,1,2.0,2.0,h
+S2324-G0776,2,10:18,LAL,,DET,,T. Prince,LAL,MISS Prince Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2324-G0776,2,09:04,LAL,,DET,,T. Prince,LAL,MISS Prince 3PT Jump Shot,Missed Shot,Jump Shot,-230,27,0,1,3.0,0.0,h
+S2324-G0776,2,07:03,LAL,,DET,,T. Prince,LAL,Prince S.FOUL (P1.T2) (C.Flores),Foul,Shooting,0,0,0,0,,,h
+S2324-G0776,2,05:09,LAL,,DET,,T. Prince,LAL,Prince REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0776,2,04:51,LAL,,DET,,T. Prince,LAL,Prince REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0776,2,04:26,LAL,,DET,,T. Prince,LAL,Prince REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0776,2,04:23,LAL,,DET,,T. Prince,LAL,SUB: Dinwiddie FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0776,3,01:23,LAL,,DET,,T. Prince,LAL,Prince T.FOUL (P1.T2) (B.Nansel),Foul,Technical,0,0,0,0,,,h
+S2324-G0776,3,00:10.400000,LAL,,DET,,T. Prince,LAL,Prince BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0776,4,10:34,LAL,102.0,DET,83.0,T. Prince,LAL,Prince 3PT Jump Shot (8 PTS) (Dinwiddie 6 AST),Made Shot,Jump Shot,-233,-7,0,1,3.0,3.0,h
+S2324-G0776,4,10:04,LAL,,DET,,T. Prince,LAL,Prince REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0776,4,10:04,LAL,,DET,,T. Prince,LAL,MISS Prince Tip Dunk Shot,Missed Shot,Tip Dunk Shot,0,0,0,1,2.0,0.0,h
+S2324-G0776,4,08:57,LAL,,DET,,T. Prince,LAL,SUB: Reaves FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0776,4,02:18,LAL,,DET,,T. Prince,LAL,SUB: Hood-Schifino FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0633,1,10:10,LAL,8.0,CHI,7.0,T. Prince,LAL,Prince 25' 3PT Jump Shot (3 PTS) (Davis 2 AST),Made Shot,Jump Shot,140,205,25,1,3.0,3.0,h
+S2324-G0633,1,09:58,LAL,,CHI,,T. Prince,LAL,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0633,1,08:46,LAL,,CHI,,T. Prince,LAL,Prince REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0633,1,07:58,LAL,,CHI,,T. Prince,LAL,Prince STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0633,1,07:54,LAL,,CHI,,T. Prince,LAL,MISS Prince 27' 3PT Jump Shot,Missed Shot,Jump Shot,154,216,27,1,3.0,0.0,h
+S2324-G0633,1,07:01,LAL,,CHI,,T. Prince,LAL,Prince S.FOUL (P1.T1) (J.Orr),Foul,Shooting,0,0,0,0,,,h
+S2324-G0633,1,05:33,LAL,,CHI,,T. Prince,LAL,SUB: Vanderbilt FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0633,2,05:27,LAL,,CHI,,T. Prince,LAL,Prince P.FOUL (P2.T3) (Z.Zarba),Foul,Personal,0,0,0,0,,,h
+S2324-G0633,2,05:03,LAL,,CHI,,T. Prince,LAL,MISS Prince 3PT Jump Shot,Missed Shot,Jump Shot,230,25,0,1,3.0,0.0,h
+S2324-G0633,2,03:39,LAL,,CHI,,T. Prince,LAL,Prince Violation:Defensive Goaltending (D.Mosher),Violation,Defensive Goaltending,0,0,0,0,,,h
+S2324-G0633,2,02:14,LAL,,CHI,,T. Prince,LAL,SUB: Vanderbilt FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0633,3,11:28,LAL,,CHI,,T. Prince,LAL,MISS Prince 24' 3PT Jump Shot,Missed Shot,Jump Shot,225,90,24,1,3.0,0.0,h
+S2324-G0633,3,10:26,LAL,78.0,CHI,59.0,T. Prince,LAL,Prince 24' 3PT Jump Shot (6 PTS) (Russell 3 AST),Made Shot,Jump Shot,239,22,24,1,3.0,3.0,h
+S2324-G0633,3,10:08,LAL,,CHI,,T. Prince,LAL,Prince REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0633,3,08:34,LAL,86.0,CHI,65.0,T. Prince,LAL,Prince 3PT Jump Shot (9 PTS) (James 7 AST),Made Shot,Jump Shot,-225,21,0,1,3.0,3.0,h
+S2324-G0633,3,06:06,LAL,,CHI,,T. Prince,LAL,Prince STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0633,3,03:09,LAL,,CHI,,T. Prince,LAL,Prince S.FOUL (P3.T4) (Z.Zarba),Foul,Shooting,0,0,0,0,,,h
+S2324-G0633,3,03:09,LAL,,CHI,,T. Prince,LAL,SUB: Hachimura FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0633,4,07:22,LAL,,CHI,,T. Prince,LAL,Prince REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0633,4,07:09,LAL,124.0,CHI,106.0,T. Prince,LAL,Prince 11' Pullup Jump Shot (11 PTS) (James 9 AST),Made Shot,Pullup Jump shot,55,92,11,1,2.0,2.0,h
+S2324-G0633,4,05:36,LAL,130.0,CHI,114.0,T. Prince,LAL,Prince 24' 3PT Jump Shot (14 PTS) (James 10 AST),Made Shot,Jump Shot,-239,10,24,1,3.0,3.0,h
+S2324-G1055,1,04:58,MEM,16.0,LAL,23.0,T. Prince,LAL,Prince Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1055,1,04:58,MEM,,LAL,,T. Prince,LAL,MISS Prince Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G1055,1,04:57,MEM,,LAL,,T. Prince,LAL,Prince L.B.FOUL (P1.T2) (M.Smith),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G1055,1,00:46.400000,MEM,,LAL,,T. Prince,LAL,Prince Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G1055,2,11:43,MEM,36.0,LAL,39.0,T. Prince,LAL,Prince 1' Driving Finger Roll Layup (3 PTS) (James 2 AST),Made Shot,Driving Finger Roll Layup Shot,6,6,1,1,2.0,2.0,v
+S2324-G1055,2,09:26,MEM,,LAL,,T. Prince,LAL,Prince S.FOUL (P2.T2) (S.Foster),Foul,Shooting,0,0,0,0,,,v
+S2324-G1055,2,08:01,MEM,47.0,LAL,47.0,T. Prince,LAL,Prince Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1055,2,08:01,MEM,47.0,LAL,48.0,T. Prince,LAL,Prince Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1055,2,06:27,MEM,,LAL,,T. Prince,LAL,SUB: Hayes FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G1055,3,07:05,MEM,70.0,LAL,89.0,T. Prince,LAL,Prince 3PT Running Jump Shot (8 PTS) (James 9 AST),Made Shot,Running Jump Shot,-223,2,0,1,3.0,3.0,v
+S2324-G1055,3,05:56,MEM,,LAL,,T. Prince,LAL,MISS Prince 3PT Jump Shot,Missed Shot,Jump Shot,234,-10,0,1,3.0,0.0,v
+S2324-G1055,3,03:08,MEM,,LAL,,T. Prince,LAL,Prince Traveling Turnover (P2.T11),Turnover,Traveling,0,0,0,0,,,v
+S2324-G1055,3,02:45,MEM,77.0,LAL,102.0,T. Prince,LAL,Prince 25' 3PT Jump Shot (11 PTS) (Russell 3 AST),Made Shot,Jump Shot,-153,194,25,1,3.0,3.0,v
+S2324-G1055,3,01:16,MEM,,LAL,,T. Prince,LAL,Prince L.B.FOUL (P3.PN) (S.Foster),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G1055,4,11:05,MEM,95.0,LAL,108.0,T. Prince,LAL,Prince 3PT Jump Shot (14 PTS) (James 11 AST),Made Shot,Jump Shot,-229,-4,0,1,3.0,3.0,v
+S2324-G1055,4,10:48,MEM,,LAL,,T. Prince,LAL,Prince P.FOUL (P4.T1) (M.Smith),Foul,Personal,0,0,0,0,,,v
+S2324-G1055,4,08:55,MEM,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1055,4,07:51,MEM,102.0,LAL,118.0,T. Prince,LAL,Prince Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1055,4,07:51,MEM,,LAL,,T. Prince,LAL,MISS Prince Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G1055,4,06:55,MEM,,LAL,,T. Prince,LAL,SUB: Hayes FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0701,1,03:08,NYK,17.0,LAL,17.0,T. Prince,LAL,Prince 1' Cutting Dunk Shot (2 PTS) (Davis 2 AST),Made Shot,Cutting Dunk Shot,6,9,1,1,2.0,2.0,v
+S2324-G0701,1,01:01,NYK,,LAL,,T. Prince,LAL,Prince BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0701,1,00:58.900000,NYK,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0701,1,00:26,NYK,23.0,LAL,27.0,T. Prince,LAL,Prince 3' Driving Layup (4 PTS) (Russell 3 AST),Made Shot,Driving Layup Shot,16,20,3,1,2.0,2.0,v
+S2324-G0701,2,08:37,NYK,,LAL,,T. Prince,LAL,SUB: Hachimura FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0701,2,03:54,NYK,,LAL,,T. Prince,LAL,MISS Prince 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-232,-15,0,1,3.0,0.0,v
+S2324-G0701,2,03:44,NYK,,LAL,,T. Prince,LAL,Prince S.FOUL (P1.T3) (J.DeRosa),Foul,Shooting,0,0,0,0,,,v
+S2324-G0701,2,03:24,NYK,,LAL,,T. Prince,LAL,Prince P.FOUL (P2.T4) (J.DeRosa),Foul,Personal,0,0,0,0,,,v
+S2324-G0701,2,03:01,NYK,48.0,LAL,53.0,T. Prince,LAL,Prince 24' 3PT Jump Shot (7 PTS) (Reaves 3 AST),Made Shot,Jump Shot,238,1,24,1,3.0,3.0,v
+S2324-G0701,2,01:54,NYK,,LAL,,T. Prince,LAL,MISS Prince 25' 3PT Jump Shot,Missed Shot,Jump Shot,-181,173,25,1,3.0,0.0,v
+S2324-G0701,3,05:14,NYK,,LAL,,T. Prince,LAL,Prince Violation:Kicked Ball (J.Capers),Violation,Kicked Ball,0,0,0,0,,,v
+S2324-G0701,3,01:18,NYK,,LAL,,T. Prince,LAL,MISS Prince 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-80,128,15,1,2.0,0.0,v
+S2324-G0701,3,00:33.600000,NYK,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0701,4,11:20,NYK,86.0,LAL,85.0,T. Prince,LAL,Prince 25' 3PT Running Jump Shot (10 PTS) (James 4 AST),Made Shot,Running Jump Shot,192,155,25,1,3.0,3.0,v
+S2324-G0701,4,08:49,NYK,,LAL,,T. Prince,LAL,Prince S.FOUL (P3.T1) (S.Wall),Foul,Shooting,0,0,0,0,,,v
+S2324-G0701,4,07:06,NYK,96.0,LAL,96.0,T. Prince,LAL,Prince 2' Driving Layup (12 PTS),Made Shot,Driving Layup Shot,17,12,2,1,2.0,2.0,v
+S2324-G0701,4,07:06,NYK,96.0,LAL,97.0,T. Prince,LAL,Prince Free Throw 1 of 1 (13 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G0701,4,06:53,NYK,,LAL,,T. Prince,LAL,Prince Violation:Kicked Ball (J.DeRosa),Violation,Kicked Ball,0,0,0,0,,,v
+S2324-G0701,4,06:34,NYK,,LAL,,T. Prince,LAL,Prince Traveling Turnover (P1.T4),Turnover,Traveling,0,0,0,0,,,v
+S2324-G0701,4,06:00,NYK,96.0,LAL,100.0,T. Prince,LAL,Prince 3PT Jump Shot (16 PTS) (Reaves 7 AST),Made Shot,Jump Shot,-225,1,0,1,3.0,3.0,v
+S2324-G0701,4,05:40,NYK,,LAL,,T. Prince,LAL,Prince Out of Bounds Lost Ball Turnover (P2.T5),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2324-G0701,4,02:39,NYK,,LAL,,T. Prince,LAL,MISS Prince 3PT Jump Shot,Missed Shot,Jump Shot,-232,-6,0,1,3.0,0.0,v
+S2324-G0428,1,11:44,LAL,,CHA,,T. Prince,LAL,MISS Prince 5' Driving Layup,Missed Shot,Driving Layup Shot,-11,50,5,1,2.0,0.0,h
+S2324-G0428,1,10:27,LAL,,CHA,,T. Prince,LAL,Prince STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0428,1,10:09,LAL,,CHA,,T. Prince,LAL,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0428,1,07:48,LAL,,CHA,,T. Prince,LAL,Prince S.FOUL (P1.T1) (B.Nansel),Foul,Shooting,0,0,0,0,,,h
+S2324-G0428,1,06:20,LAL,,CHA,,T. Prince,LAL,MISS Prince 24' 3PT Jump Shot,Missed Shot,Jump Shot,-237,53,24,1,3.0,0.0,h
+S2324-G0428,1,05:54,LAL,,CHA,,T. Prince,LAL,Prince REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0428,1,05:21,LAL,,CHA,,T. Prince,LAL,MISS Prince 3' Driving Layup,Missed Shot,Driving Layup Shot,9,29,3,1,2.0,0.0,h
+S2324-G0428,1,03:46,LAL,,CHA,,T. Prince,LAL,SUB: Christie FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0428,2,06:11,LAL,,CHA,,T. Prince,LAL,MISS Prince 6' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-25,50,6,1,2.0,0.0,h
+S2324-G0428,2,04:25,LAL,,CHA,,T. Prince,LAL,Prince Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0428,2,04:09,LAL,,CHA,,T. Prince,LAL,MISS Prince 26' 3PT Jump Shot,Missed Shot,Jump Shot,119,227,26,1,3.0,0.0,h
+S2324-G0428,2,02:35,LAL,,CHA,,T. Prince,LAL,Prince STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0428,2,01:39,LAL,53.0,CHA,53.0,T. Prince,LAL,Prince 3PT Jump Shot (3 PTS) (James 5 AST),Made Shot,Jump Shot,223,36,0,1,3.0,3.0,h
+S2324-G0428,2,01:16,LAL,,CHA,,T. Prince,LAL,MISS Prince 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-169,206,27,1,3.0,0.0,h
+S2324-G0428,2,00:35.900000,LAL,,CHA,,T. Prince,LAL,Prince STEAL (3 STL),,,0,0,0,0,,,h
+S2324-G0428,3,11:23,LAL,,CHA,,T. Prince,LAL,Prince P.FOUL (P2.T1) (T.Washington),Foul,Personal,0,0,0,0,,,h
+S2324-G0428,3,06:36,LAL,,CHA,,T. Prince,LAL,Prince REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0428,3,04:11,LAL,,CHA,,T. Prince,LAL,SUB: Christie FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0306,1,09:46,DAL,,LAL,,T. Prince,LAL,MISS Prince 25' 3PT Jump Shot,Missed Shot,Jump Shot,-188,167,25,1,3.0,0.0,v
+S2324-G0306,1,06:26,DAL,16.0,LAL,14.0,T. Prince,LAL,Prince 25' 3PT Jump Shot (3 PTS) (James 3 AST),Made Shot,Jump Shot,-199,156,25,1,3.0,3.0,v
+S2324-G0306,1,06:11,DAL,,LAL,,T. Prince,LAL,SUB: Hayes FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0306,1,00:55.300000,DAL,28.0,LAL,23.0,T. Prince,LAL,Prince 25' 3PT Jump Shot (6 PTS) (Reaves 1 AST),Made Shot,Jump Shot,-1,251,25,1,3.0,3.0,v
+S2324-G0306,2,09:47,DAL,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0306,2,07:18,DAL,,LAL,,T. Prince,LAL,Prince Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0306,2,07:01,DAL,,LAL,,T. Prince,LAL,SUB: Reddish FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0306,2,04:44,DAL,56.0,LAL,44.0,T. Prince,LAL,Prince 3PT Jump Shot (9 PTS) (James 5 AST),Made Shot,Jump Shot,-228,16,0,1,3.0,3.0,v
+S2324-G0306,2,02:55,DAL,,LAL,,T. Prince,LAL,Prince Violation:Kicked Ball (B.Barnaky),Violation,Kicked Ball,0,0,0,0,,,v
+S2324-G0306,2,01:20,DAL,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0306,3,08:59,DAL,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0306,3,07:01,DAL,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0306,3,05:28,DAL,86.0,LAL,83.0,T. Prince,LAL,Prince 24' 3PT Running Jump Shot (12 PTS) (James 7 AST),Made Shot,Running Jump Shot,-233,39,24,1,3.0,3.0,v
+S2324-G0306,3,02:35,DAL,,LAL,,T. Prince,LAL,SUB: Christie FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0306,4,02:30,DAL,122.0,LAL,118.0,T. Prince,LAL,Prince 25' 3PT Step Back Jump Shot (15 PTS) (Reaves 7 AST),Made Shot,Step Back Jump shot,-85,239,25,1,3.0,3.0,v
+S2324-G0869,1,02:47,LAL,,DEN,,T. Prince,LAL,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0869,1,02:29,LAL,,DEN,,T. Prince,LAL,MISS Prince 20' Step Back Jump Shot,Missed Shot,Step Back Jump shot,167,110,20,1,2.0,0.0,h
+S2324-G0869,1,01:58,LAL,,DEN,,T. Prince,LAL,MISS Prince 3PT Jump Shot,Missed Shot,Jump Shot,224,52,0,1,3.0,0.0,h
+S2324-G0869,1,01:00,LAL,31.0,DEN,22.0,T. Prince,LAL,Prince 3' Driving Layup (2 PTS) (Reaves 7 AST),Made Shot,Driving Layup Shot,-2,34,3,1,2.0,2.0,h
+S2324-G0869,1,00:32.500000,LAL,,DEN,,T. Prince,LAL,MISS Prince 7' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,53,46,7,1,2.0,0.0,h
+S2324-G0869,2,09:27,LAL,,DEN,,T. Prince,LAL,MISS Prince 3PT Running Jump Shot,Missed Shot,Running Jump Shot,228,16,0,1,3.0,0.0,h
+S2324-G0869,2,07:26,LAL,,DEN,,T. Prince,LAL,SUB: Hachimura FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0869,3,01:19,LAL,,DEN,,T. Prince,LAL,MISS Prince 3' Driving Layup,Missed Shot,Driving Layup Shot,16,28,3,1,2.0,0.0,h
+S2324-G0255,1,11:02,PHI,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0255,1,07:44,PHI,,LAL,,T. Prince,LAL,Prince S.FOUL (P1.T2) (B.Barnaky),Foul,Shooting,0,0,0,0,,,v
+S2324-G0255,1,07:32,PHI,,LAL,,T. Prince,LAL,Prince Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0255,1,06:55,PHI,,LAL,,T. Prince,LAL,MISS Prince 24' 3PT Jump Shot,Missed Shot,Jump Shot,238,42,24,1,3.0,0.0,v
+S2324-G0255,1,06:54,PHI,,LAL,,T. Prince,LAL,SUB: Reaves FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0255,2,07:25,PHI,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0255,2,06:22,PHI,,LAL,,T. Prince,LAL,SUB: Russell FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0255,3,11:12,PHI,70.0,LAL,58.0,T. Prince,LAL,Prince 26' 3PT Jump Shot (3 PTS) (James 5 AST),Made Shot,Jump Shot,202,171,26,1,3.0,3.0,v
+S2324-G0255,3,09:44,PHI,74.0,LAL,63.0,T. Prince,LAL,Prince 26' 3PT Running Jump Shot (6 PTS) (Russell 6 AST),Made Shot,Running Jump Shot,-156,213,26,1,3.0,3.0,v
+S2324-G0255,3,09:13,PHI,,LAL,,T. Prince,LAL,MISS Prince 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,82,240,25,1,3.0,0.0,v
+S2324-G0255,3,07:48,PHI,,LAL,,T. Prince,LAL,MISS Prince 8' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-75,3,8,1,2.0,0.0,v
+S2324-G0255,3,06:12,PHI,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0255,3,06:02,PHI,,LAL,,T. Prince,LAL,SUB: Wood FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0255,3,03:15,PHI,93.0,LAL,75.0,T. Prince,LAL,Prince 26' 3PT Running Jump Shot (9 PTS) (Davis 2 AST),Made Shot,Running Jump Shot,-121,235,26,1,3.0,3.0,v
+S2324-G0255,3,02:07,PHI,,LAL,,T. Prince,LAL,Prince P.FOUL (P2.PN) (B.Barnaky),Foul,Personal,0,0,0,0,,,v
+S2324-G0255,3,01:24,PHI,94.0,LAL,80.0,T. Prince,LAL,Prince 1' Running Layup (11 PTS) (Russell 7 AST),Made Shot,Running Layup Shot,-4,11,1,1,2.0,2.0,v
+S2324-G0255,3,01:09,PHI,,LAL,,T. Prince,LAL,Prince S.FOUL (P3.PN) (T.Ford),Foul,Shooting,0,0,0,0,,,v
+S2324-G0255,4,10:21,PHI,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0255,4,10:18,PHI,,LAL,,T. Prince,LAL,MISS Prince 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-36,255,26,1,3.0,0.0,v
+S2324-G0255,4,08:18,PHI,,LAL,,T. Prince,LAL,SUB: Hood-Schifino FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0740,1,05:33,LAL,,DEN,,T. Prince,LAL,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0740,1,05:10,LAL,,DEN,,T. Prince,LAL,Prince REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0740,1,02:59,LAL,16.0,DEN,21.0,T. Prince,LAL,Prince 25' 3PT Jump Shot (3 PTS) (Wood 1 AST),Made Shot,Jump Shot,205,143,25,1,3.0,3.0,h
+S2324-G0740,1,02:30,LAL,17.0,DEN,23.0,T. Prince,LAL,Prince Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0740,1,02:30,LAL,18.0,DEN,23.0,T. Prince,LAL,Prince Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0740,1,01:39,LAL,,DEN,,T. Prince,LAL,Prince P.FOUL (P1.T2) (P.Fraher),Foul,Personal,0,0,0,0,,,h
+S2324-G0740,2,10:42,LAL,25.0,DEN,29.0,T. Prince,LAL,Prince 3' Driving Floating Bank Jump Shot (7 PTS) (Reaves 2 AST),Made Shot,Driving Floating Bank Jump Shot,10,25,3,1,2.0,2.0,h
+S2324-G0740,2,10:42,LAL,26.0,DEN,29.0,T. Prince,LAL,Prince Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G0740,2,09:36,LAL,,DEN,,T. Prince,LAL,SUB: Christie FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0740,2,06:08,LAL,35.0,DEN,41.0,T. Prince,LAL,Prince 24' 3PT Jump Shot (11 PTS) (Christie 1 AST),Made Shot,Jump Shot,237,62,24,1,3.0,3.0,h
+S2324-G0740,2,01:36,LAL,,DEN,,T. Prince,LAL,Prince STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0740,2,01:05,LAL,47.0,DEN,54.0,T. Prince,LAL,Prince 14' Driving Floating Jump Shot (13 PTS) (Reaves 4 AST),Made Shot,Driving Floating Jump Shot,-5,142,14,1,2.0,2.0,h
+S2324-G0740,2,00:54,LAL,,DEN,,T. Prince,LAL,Prince STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0740,2,00:51.100000,LAL,,DEN,,T. Prince,LAL,Prince Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0740,3,10:39,LAL,,DEN,,T. Prince,LAL,Prince S.FOUL (P2.T1) (J.Goble),Foul,Shooting,0,0,0,0,,,h
+S2324-G0740,3,05:17,LAL,,DEN,,T. Prince,LAL,Prince REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0740,3,03:06,LAL,,DEN,,T. Prince,LAL,MISS Prince 5' Driving Layup,Missed Shot,Driving Layup Shot,49,22,5,1,2.0,0.0,h
+S2324-G0740,3,00:15.900000,LAL,,DEN,,T. Prince,LAL,Prince BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0740,3,00:03.600000,LAL,,DEN,,T. Prince,LAL,SUB: Mays FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0740,4,05:56,LAL,,DEN,,T. Prince,LAL,MISS Prince 3PT Jump Shot,Missed Shot,Jump Shot,-229,44,0,1,3.0,0.0,h
+S2324-G0150,1,09:13,MIA,,LAL,,T. Prince,LAL,MISS Prince 3PT Jump Shot,Missed Shot,Jump Shot,232,16,0,1,3.0,0.0,v
+S2324-G0150,1,07:59,MIA,,LAL,,T. Prince,LAL,Prince P.FOUL (P1.T1) (B.Haskill),Foul,Personal,0,0,0,0,,,v
+S2324-G0150,1,07:47,MIA,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0150,1,07:20,MIA,14.0,LAL,14.0,T. Prince,LAL,Prince 2' Cutting Dunk Shot (2 PTS) (Russell 1 AST),Made Shot,Cutting Dunk Shot,-6,15,2,1,2.0,2.0,v
+S2324-G0150,1,06:42,MIA,,LAL,,T. Prince,LAL,MISS Prince 3' Running Layup,Missed Shot,Running Layup Shot,21,23,3,1,2.0,0.0,v
+S2324-G0150,1,05:01,MIA,,LAL,,T. Prince,LAL,SUB: Christie FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0150,2,05:18,MIA,,LAL,,T. Prince,LAL,MISS Prince 14' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,138,4,14,1,2.0,0.0,v
+S2324-G0150,2,03:18,MIA,51.0,LAL,52.0,T. Prince,LAL,Prince 26' 3PT Jump Shot (5 PTS) (Christie 1 AST),Made Shot,Jump Shot,-216,152,26,1,3.0,3.0,v
+S2324-G0150,2,03:00,MIA,,LAL,,T. Prince,LAL,SUB: James FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0150,3,11:35,MIA,62.0,LAL,61.0,T. Prince,LAL,Prince 7' Driving Floating Jump Shot (7 PTS) (Davis 4 AST),Made Shot,Driving Floating Jump Shot,2,69,7,1,2.0,2.0,v
+S2324-G0150,3,10:37,MIA,65.0,LAL,65.0,T. Prince,LAL,Prince 2' Driving Layup (9 PTS) (Reaves 5 AST),Made Shot,Driving Layup Shot,15,10,2,1,2.0,2.0,v
+S2324-G0150,3,10:21,MIA,,LAL,,T. Prince,LAL,MISS Prince 25' 3PT Jump Shot,Missed Shot,Jump Shot,-176,177,25,1,3.0,0.0,v
+S2324-G0150,3,08:17,MIA,,LAL,,T. Prince,LAL,Prince STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0150,3,07:54,MIA,,LAL,,T. Prince,LAL,Prince P.FOUL (P2.T2) (B.Haskill),Foul,Personal,0,0,0,0,,,v
+S2324-G0150,3,05:31,MIA,,LAL,,T. Prince,LAL,SUB: Christie FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0150,4,11:49,MIA,,LAL,,T. Prince,LAL,Prince P.FOUL (P3.T1) (J.Williams),Foul,Personal,0,0,0,0,,,v
+S2324-G0150,4,10:40,MIA,,LAL,,T. Prince,LAL,Prince L.B.FOUL (P4.T2) (J.Williams),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0150,4,09:08,MIA,,LAL,,T. Prince,LAL,Prince STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0150,4,08:24,MIA,,LAL,,T. Prince,LAL,MISS Prince 24' 3PT Jump Shot,Missed Shot,Jump Shot,238,8,24,1,3.0,0.0,v
+S2324-G0150,4,01:58,MIA,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0150,4,00:48.500000,MIA,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0015,1,04:09,PHX,,LAL,,T. Prince,LAL,Prince S.FOUL (P1.T3) (E.Dalen),Foul,Shooting,0,0,0,0,,,v
+S2324-G0015,1,01:55,PHX,,LAL,,T. Prince,LAL,MISS Prince 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-207,137,25,1,3.0,0.0,v
+S2324-G0015,1,01:02,PHX,,LAL,,T. Prince,LAL,Prince BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0015,1,00:50.200000,PHX,,LAL,,T. Prince,LAL,Prince S.FOUL (P2.T4) (K.Scott),Foul,Shooting,0,0,0,0,,,v
+S2324-G0015,1,00:50.200000,PHX,,LAL,,T. Prince,LAL,SUB: Russell FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0015,2,07:55,PHX,,LAL,,T. Prince,LAL,SUB: Reaves FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0015,2,06:28,PHX,,LAL,,T. Prince,LAL,Prince BLOCK (2 BLK),,,0,0,0,0,,,v
+S2324-G0015,2,03:48,PHX,57.0,LAL,46.0,T. Prince,LAL,Prince Driving Dunk (2 PTS) (Russell 5 AST),Made Shot,Driving Dunk Shot,2,-2,0,1,2.0,2.0,v
+S2324-G0015,2,03:20,PHX,57.0,LAL,48.0,T. Prince,LAL,Prince 2' Driving Layup (4 PTS) (Russell 6 AST),Made Shot,Driving Layup Shot,-15,14,2,1,2.0,2.0,v
+S2324-G0015,2,01:42,PHX,,LAL,,T. Prince,LAL,MISS Prince 3PT Jump Shot,Missed Shot,Jump Shot,-229,19,0,1,3.0,0.0,v
+S2324-G0015,3,08:14,PHX,,LAL,,T. Prince,LAL,MISS Prince 3PT Jump Shot,Missed Shot,Jump Shot,227,12,0,1,3.0,0.0,v
+S2324-G0015,3,04:43,PHX,,LAL,,T. Prince,LAL,Prince S.FOUL (P3.T2) (E.Dalen),Foul,Shooting,0,0,0,0,,,v
+S2324-G0015,3,03:39,PHX,,LAL,,T. Prince,LAL,SUB: Hachimura FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0015,4,03:58,PHX,,LAL,,T. Prince,LAL,MISS Prince Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0015,4,03:58,PHX,107.0,LAL,111.0,T. Prince,LAL,Prince Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0015,4,01:36,PHX,,LAL,,T. Prince,LAL,MISS Prince 24' 3PT Jump Shot,Missed Shot,Jump Shot,-239,-8,24,1,3.0,0.0,v
+S2324-G0015,4,01:31,PHX,,LAL,,T. Prince,LAL,MISS Prince 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-28,34,4,1,2.0,0.0,v
+S2324-G0015,4,00:58.900000,PHX,,LAL,,T. Prince,LAL,Prince P.FOUL (P4.T3) (K.Scott),Foul,Personal,0,0,0,0,,,v
+S2324-G0015,4,00:45.800000,PHX,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0015,4,00:25.700000,PHX,113.0,LAL,120.0,T. Prince,LAL,Prince 3' Driving Finger Roll Layup (7 PTS) (Reaves 7 AST),Made Shot,Driving Finger Roll Layup Shot,-17,26,3,1,2.0,2.0,v
+S2324-G1203,1,08:11,LAL,9.0,PHX,9.0,T. Prince,LAL,Prince 2' Cutting Layup Shot (2 PTS) (Russell 1 AST),Made Shot,Cutting Layup Shot,20,8,2,1,2.0,2.0,h
+S2324-G1203,1,06:44,LAL,,PHX,,T. Prince,LAL,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1203,1,06:14,LAL,16.0,PHX,11.0,T. Prince,LAL,Prince 2' Reverse Layup (4 PTS) (James 3 AST),Made Shot,Reverse Layup Shot,17,11,2,1,2.0,2.0,h
+S2324-G1203,1,04:20,LAL,,PHX,,T. Prince,LAL,SUB: Reaves FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G1203,2,07:15,LAL,,PHX,,T. Prince,LAL,Prince Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G1203,2,06:09,LAL,,PHX,,T. Prince,LAL,MISS Prince Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G1203,2,06:09,LAL,45.0,PHX,36.0,T. Prince,LAL,Prince Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1203,2,05:07,LAL,,PHX,,T. Prince,LAL,MISS Prince 25' 3PT Jump Shot,Missed Shot,Jump Shot,-206,147,25,1,3.0,0.0,h
+S2324-G1203,2,04:03,LAL,,PHX,,T. Prince,LAL,Prince STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1203,2,03:08,LAL,,PHX,,T. Prince,LAL,MISS Prince 3PT Jump Shot,Missed Shot,Jump Shot,227,6,0,1,3.0,0.0,h
+S2324-G1203,2,02:15,LAL,,PHX,,T. Prince,LAL,Prince STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G1203,2,01:53,LAL,,PHX,,T. Prince,LAL,Prince REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1203,3,11:18,LAL,,PHX,,T. Prince,LAL,MISS Prince 2' Driving Layup,Missed Shot,Driving Layup Shot,15,13,2,1,2.0,0.0,h
+S2324-G1203,3,09:22,LAL,,PHX,,T. Prince,LAL,Prince Bad Pass Turnover (P2.T6),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G1203,3,08:56,LAL,,PHX,,T. Prince,LAL,MISS Prince 2' Driving Layup,Missed Shot,Driving Layup Shot,17,10,2,1,2.0,0.0,h
+S2324-G1203,3,08:16,LAL,,PHX,,T. Prince,LAL,Prince REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1203,3,07:48,LAL,,PHX,,T. Prince,LAL,Prince STEAL (3 STL),,,0,0,0,0,,,h
+S2324-G1203,3,07:22,LAL,,PHX,,T. Prince,LAL,Prince Bad Pass Turnover (P3.T7),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G1203,3,07:21,LAL,,PHX,,T. Prince,LAL,Prince S.FOUL (P1.T4) (T.Washington),Foul,Shooting,0,0,0,0,,,h
+S2324-G1203,3,07:21,LAL,,PHX,,T. Prince,LAL,SUB: Vanderbilt FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0042,1,09:13,LAL,,UTA,,T. Prince,LAL,MISS Prince 3PT Jump Shot,Missed Shot,Jump Shot,-232,28,0,1,3.0,0.0,h
+S2324-G0042,1,08:23,LAL,,UTA,,T. Prince,LAL,MISS Prince 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-6,64,6,1,2.0,0.0,h
+S2324-G0042,1,07:38,LAL,,UTA,,T. Prince,LAL,Prince Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0042,1,02:52,LAL,24.0,UTA,11.0,T. Prince,LAL,Prince 2' Driving Layup (2 PTS) (Davis 2 AST),Made Shot,Driving Layup Shot,16,8,2,1,2.0,2.0,h
+S2324-G0042,1,02:40,LAL,,UTA,,T. Prince,LAL,SUB: Christie FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0042,2,07:52,LAL,,UTA,,T. Prince,LAL,MISS Prince 25' 3PT Jump Shot,Missed Shot,Jump Shot,159,191,25,1,3.0,0.0,h
+S2324-G0042,2,03:16,LAL,,UTA,,T. Prince,LAL,Prince Bad Pass Turnover (P2.T5),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0042,2,01:57,LAL,54.0,UTA,37.0,T. Prince,LAL,Prince Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0042,2,01:57,LAL,55.0,UTA,37.0,T. Prince,LAL,Prince Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0042,3,10:53,LAL,,UTA,,T. Prince,LAL,MISS Prince 25' 3PT Jump Shot,Missed Shot,Jump Shot,227,98,25,1,3.0,0.0,h
+S2324-G0042,3,09:57,LAL,,UTA,,T. Prince,LAL,MISS Prince 24' 3PT Jump Shot,Missed Shot,Jump Shot,227,79,24,1,3.0,0.0,h
+S2324-G0042,3,09:46,LAL,,UTA,,T. Prince,LAL,Prince BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0042,3,06:45,LAL,,UTA,,T. Prince,LAL,MISS Prince 3' Reverse Layup,Missed Shot,Reverse Layup Shot,-26,9,3,1,2.0,0.0,h
+S2324-G0042,3,05:49,LAL,,UTA,,T. Prince,LAL,MISS Prince 4' Running Layup,Missed Shot,Running Layup Shot,-31,30,4,1,2.0,0.0,h
+S2324-G0042,3,05:03,LAL,,UTA,,T. Prince,LAL,SUB: Hachimura FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0042,3,01:21,LAL,,UTA,,T. Prince,LAL,MISS Prince Free Throw Technical,Free Throw,Free Throw Technical,0,0,0,0,1.0,0.0,h
+S2324-G0042,4,08:49,LAL,,UTA,,T. Prince,LAL,SUB: Russell FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0238,1,11:11,LAL,,DAL,,T. Prince,LAL,Prince REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0238,1,09:02,LAL,,DAL,,T. Prince,LAL,MISS Prince 3PT Jump Shot,Missed Shot,Jump Shot,224,41,0,1,3.0,0.0,h
+S2324-G0238,1,06:47,LAL,10.0,DAL,10.0,T. Prince,LAL,Prince 26' 3PT Jump Shot (3 PTS),Made Shot,Jump Shot,196,172,26,1,3.0,3.0,h
+S2324-G0238,1,02:33,LAL,,DAL,,T. Prince,LAL,SUB: Christie FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0238,2,03:40,LAL,42.0,DAL,51.0,T. Prince,LAL,Prince 10' Turnaround Fadeaway (5 PTS) (Russell 2 AST),Made Shot,Turnaround Fadeaway shot,-22,93,10,1,2.0,2.0,h
+S2324-G0238,2,01:50,LAL,,DAL,,T. Prince,LAL,MISS Prince 25' 3PT Jump Shot,Missed Shot,Jump Shot,237,75,25,1,3.0,0.0,h
+S2324-G0238,3,10:49,LAL,,DAL,,T. Prince,LAL,Prince REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0238,3,09:04,LAL,58.0,DAL,72.0,T. Prince,LAL,Prince 3' Driving Layup (7 PTS) (Russell 4 AST),Made Shot,Driving Layup Shot,-1,31,3,1,2.0,2.0,h
+S2324-G0238,3,08:39,LAL,,DAL,,T. Prince,LAL,MISS Prince 28' 3PT Jump Shot,Missed Shot,Jump Shot,-188,204,28,1,3.0,0.0,h
+S2324-G0238,3,08:25,LAL,,DAL,,T. Prince,LAL,Prince REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0238,3,08:23,LAL,,DAL,,T. Prince,LAL,Prince Out of Bounds Lost Ball Turnover (P1.T7),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2324-G0238,3,03:54,LAL,67.0,DAL,83.0,T. Prince,LAL,Prince 2' Driving Layup (9 PTS) (Reaves 3 AST),Made Shot,Driving Layup Shot,1,17,2,1,2.0,2.0,h
+S2324-G0238,3,03:46,LAL,,DAL,,T. Prince,LAL,Prince P.FOUL (P1.T3) (M.Kogut),Foul,Personal,0,0,0,0,,,h
+S2324-G0238,3,03:18,LAL,,DAL,,T. Prince,LAL,SUB: Christie FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0238,4,10:45,LAL,,DAL,,T. Prince,LAL,MISS Prince 21' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-141,157,21,1,2.0,0.0,h
+S2324-G0238,4,09:30,LAL,,DAL,,T. Prince,LAL,Prince REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0238,4,08:11,LAL,,DAL,,T. Prince,LAL,Prince S.FOUL (P2.T2) (D.Richardson),Foul,Shooting,0,0,0,0,,,h
+S2324-G0238,4,07:09,LAL,,DAL,,T. Prince,LAL,Prince Violation:Kicked Ball (Z.Zarba),Violation,Kicked Ball,0,0,0,0,,,h
+S2324-G0238,4,06:34,LAL,87.0,DAL,93.0,T. Prince,LAL,Prince 25' 3PT Step Back Jump Shot (12 PTS),Made Shot,Step Back Jump shot,186,174,25,1,3.0,3.0,h
+S2324-G0238,4,06:14,LAL,,DAL,,T. Prince,LAL,Prince S.FOUL (P3.T3) (Z.Zarba),Foul,Shooting,0,0,0,0,,,h
+S2324-G0238,4,02:40,LAL,,DAL,,T. Prince,LAL,Prince REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0238,4,02:21,LAL,97.0,DAL,99.0,T. Prince,LAL,Prince 6' Floating Jump Shot (14 PTS) (Russell 5 AST),Made Shot,Floating Jump shot,31,54,6,1,2.0,2.0,h
+S2324-G0238,4,00:53.700000,LAL,,DAL,,T. Prince,LAL,Prince REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0111,1,10:18,LAL,,ORL,,T. Prince,LAL,MISS Prince 28' 3PT Jump Shot,Missed Shot,Jump Shot,-145,242,28,1,3.0,0.0,h
+S2324-G0111,1,08:03,LAL,,ORL,,T. Prince,LAL,Prince BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0111,1,04:58,LAL,,ORL,,T. Prince,LAL,SUB: Reddish FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0111,2,05:30,LAL,,ORL,,T. Prince,LAL,Prince P.FOUL (P1.T1) (M.Myers),Foul,Personal,0,0,0,0,,,h
+S2324-G0111,2,01:44,LAL,,ORL,,T. Prince,LAL,Prince P.FOUL (P2.T4) (M.Myers),Foul,Personal,0,0,0,0,,,h
+S2324-G0111,2,00:29.400000,LAL,,ORL,,T. Prince,LAL,Prince S.FOUL (P3.PN) (M.Myers),Foul,Shooting,0,0,0,0,,,h
+S2324-G0111,3,09:58,LAL,61.0,ORL,62.0,T. Prince,LAL,Prince 10' Turnaround Fadeaway (2 PTS) (Russell 6 AST),Made Shot,Turnaround Fadeaway shot,-98,21,10,1,2.0,2.0,h
+S2324-G0111,3,08:14,LAL,,ORL,,T. Prince,LAL,MISS Prince 26' 3PT Jump Shot,Missed Shot,Jump Shot,-183,191,26,1,3.0,0.0,h
+S2324-G0111,3,05:26,LAL,69.0,ORL,70.0,T. Prince,LAL,Prince Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0111,3,05:26,LAL,70.0,ORL,70.0,T. Prince,LAL,Prince Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0111,3,05:14,LAL,,ORL,,T. Prince,LAL,SUB: Reddish FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0111,4,03:00,LAL,,ORL,,T. Prince,LAL,MISS Prince 3' Driving Layup,Missed Shot,Driving Layup Shot,-12,22,3,1,2.0,0.0,h
+S2324-G0516,1,10:12,LAL,,TOR,,T. Prince,LAL,MISS Prince 25' 3PT Jump Shot,Missed Shot,Jump Shot,-183,172,25,1,3.0,0.0,h
+S2324-G0516,1,05:53,LAL,,TOR,,T. Prince,LAL,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0516,1,04:49,LAL,,TOR,,T. Prince,LAL,Prince REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0516,1,04:36,LAL,,TOR,,T. Prince,LAL,Prince S.FOUL (P1.T1) (T.Ricks),Foul,Shooting,0,0,0,0,,,h
+S2324-G0516,1,02:59,LAL,,TOR,,T. Prince,LAL,SUB: Christie FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0516,2,06:44,LAL,39.0,TOR,34.0,T. Prince,LAL,Prince 8' Driving Floating Bank Jump Shot (2 PTS) (Davis 4 AST),Made Shot,Driving Floating Bank Jump Shot,68,43,8,1,2.0,2.0,h
+S2324-G0516,2,03:49,LAL,,TOR,,T. Prince,LAL,MISS Prince Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0516,2,03:49,LAL,45.0,TOR,41.0,T. Prince,LAL,Prince Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0516,2,02:40,LAL,,TOR,,T. Prince,LAL,MISS Prince 26' 3PT Jump Shot,Missed Shot,Jump Shot,119,228,26,1,3.0,0.0,h
+S2324-G0516,3,11:22,LAL,,TOR,,T. Prince,LAL,Prince STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0516,3,10:37,LAL,54.0,TOR,53.0,T. Prince,LAL,Prince 3' Driving Layup (5 PTS) (James 8 AST),Made Shot,Driving Layup Shot,6,32,3,1,2.0,2.0,h
+S2324-G0516,3,08:01,LAL,62.0,TOR,64.0,T. Prince,LAL,Prince 3PT Step Back Jump Shot (8 PTS) (Reaves 3 AST),Made Shot,Step Back Jump shot,-226,38,0,1,3.0,3.0,h
+S2324-G0516,3,06:15,LAL,,TOR,,T. Prince,LAL,MISS Prince 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,130,212,25,1,3.0,0.0,h
+S2324-G0516,3,05:58,LAL,,TOR,,T. Prince,LAL,Prince STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0516,3,05:05,LAL,70.0,TOR,72.0,T. Prince,LAL,Prince 24' 3PT Jump Shot (11 PTS) (Reaves 4 AST),Made Shot,Jump Shot,-233,37,24,1,3.0,3.0,h
+S2324-G0516,3,03:24,LAL,,TOR,,T. Prince,LAL,SUB: Christie FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0516,4,05:26,LAL,,TOR,,T. Prince,LAL,Prince REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0516,4,05:12,LAL,,TOR,,T. Prince,LAL,MISS Prince 3PT Jump Shot,Missed Shot,Jump Shot,-228,1,0,1,3.0,0.0,h
+S2324-G0516,4,02:52,LAL,,TOR,,T. Prince,LAL,Prince P.FOUL (P2.T4) (B.Taylor),Foul,Personal,0,0,0,0,,,h
+S2324-G0516,4,02:43,LAL,,TOR,,T. Prince,LAL,Prince REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0788,1,10:03,UTA,,LAL,,T. Prince,LAL,Prince S.FOUL (P1.T1) (C.Blair),Foul,Shooting,0,0,0,0,,,v
+S2324-G0788,1,09:49,UTA,,LAL,,T. Prince,LAL,MISS Prince 25' 3PT Jump Shot,Missed Shot,Jump Shot,105,222,25,1,3.0,0.0,v
+S2324-G0788,1,09:39,UTA,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0788,1,09:33,UTA,,LAL,,T. Prince,LAL,MISS Prince 4' Driving Layup,Missed Shot,Driving Layup Shot,33,21,4,1,2.0,0.0,v
+S2324-G0788,1,06:31,UTA,,LAL,,T. Prince,LAL,MISS Prince 4' Driving Layup,Missed Shot,Driving Layup Shot,-34,9,4,1,2.0,0.0,v
+S2324-G0788,1,05:26,UTA,,LAL,,T. Prince,LAL,SUB: Wood FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0788,2,02:32,UTA,61.0,LAL,65.0,T. Prince,LAL,Prince 8' Driving Floating Bank Jump Shot (2 PTS) (Russell 8 AST),Made Shot,Driving Floating Bank Jump Shot,67,37,8,1,2.0,2.0,v
+S2324-G0788,3,10:14,UTA,,LAL,,T. Prince,LAL,MISS Prince 4' Driving Layup,Missed Shot,Driving Layup Shot,34,17,4,1,2.0,0.0,v
+S2324-G0788,3,08:53,UTA,76.0,LAL,75.0,T. Prince,LAL,Prince Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0788,3,08:53,UTA,76.0,LAL,76.0,T. Prince,LAL,Prince Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0788,3,07:24,UTA,,LAL,,T. Prince,LAL,Prince P.FOUL (P2.T1) (C.Blair),Foul,Personal,0,0,0,0,,,v
+S2324-G0788,3,06:00,UTA,,LAL,,T. Prince,LAL,SUB: Wood FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0788,3,00:06.500000,UTA,92.0,LAL,105.0,T. Prince,LAL,Prince 11' Jump Bank Shot (6 PTS) (Reaves 7 AST),Made Shot,Jump Bank Shot,88,71,11,1,2.0,2.0,v
+S2324-G0788,4,08:39,UTA,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0788,4,04:46,UTA,,LAL,,T. Prince,LAL,Prince BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0788,4,04:44,UTA,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0788,4,04:31,UTA,109.0,LAL,129.0,T. Prince,LAL,Prince 25' 3PT Jump Shot (9 PTS) (Russell 15 AST),Made Shot,Jump Shot,-221,125,25,1,3.0,3.0,v
+S2324-G0788,4,03:46,UTA,113.0,LAL,131.0,T. Prince,LAL,Prince 3' Layup (11 PTS) (Russell 16 AST),Made Shot,Layup Shot,20,21,3,1,2.0,2.0,v
+S2324-G0788,4,02:27,UTA,,LAL,,T. Prince,LAL,SUB: Windler FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0198,1,11:42,LAL,,SAC,,T. Prince,LAL,MISS Prince 24' 3PT Jump Shot,Missed Shot,Jump Shot,-241,19,24,1,3.0,0.0,h
+S2324-G0198,1,10:30,LAL,4.0,SAC,7.0,T. Prince,LAL,Prince 4' Driving Layup (2 PTS) (Russell 1 AST),Made Shot,Driving Layup Shot,17,37,4,1,2.0,2.0,h
+S2324-G0198,1,10:09,LAL,,SAC,,T. Prince,LAL,MISS Prince 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,4,36,4,1,2.0,0.0,h
+S2324-G0198,1,09:53,LAL,,SAC,,T. Prince,LAL,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0198,1,08:43,LAL,,SAC,,T. Prince,LAL,Prince P.FOUL (P1.T2) (R.Mott),Foul,Personal,0,0,0,0,,,h
+S2324-G0198,1,06:01,LAL,,SAC,,T. Prince,LAL,SUB: Reaves FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0198,1,00:00.300000,LAL,25.0,SAC,38.0,T. Prince,LAL,Prince 26' 3PT Jump Shot (5 PTS) (Reaves 1 AST),Made Shot,Jump Shot,34,256,26,1,3.0,3.0,h
+S2324-G0198,2,05:12,LAL,,SAC,,T. Prince,LAL,MISS Prince 24' 3PT Jump Shot,Missed Shot,Jump Shot,-243,-8,24,1,3.0,0.0,h
+S2324-G0198,2,01:34,LAL,,SAC,,T. Prince,LAL,Prince STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0198,2,00:11.700000,LAL,,SAC,,T. Prince,LAL,Prince S.FOUL (P2.T2) (M.Davis),Foul,Shooting,0,0,0,0,,,h
+S2324-G0198,3,10:29,LAL,63.0,SAC,75.0,T. Prince,LAL,Prince 16' Turnaround Fadeaway (7 PTS) (James 6 AST),Made Shot,Turnaround Fadeaway shot,-154,44,16,1,2.0,2.0,h
+S2324-G0198,3,06:51,LAL,,SAC,,T. Prince,LAL,SUB: Reaves FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0198,3,03:38,LAL,,SAC,,T. Prince,LAL,MISS Prince 27' 3PT Jump Shot,Missed Shot,Jump Shot,-167,210,27,1,3.0,0.0,h
+S2324-G0198,3,00:03.700000,LAL,,SAC,,T. Prince,LAL,Prince REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0618,1,11:16,LAC,,LAL,,T. Prince,LAL,MISS Prince 3PT Jump Shot,Missed Shot,Jump Shot,223,13,0,1,3.0,0.0,v
+S2324-G0618,1,10:58,LAC,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0618,1,05:45,LAC,,LAL,,T. Prince,LAL,SUB: Vanderbilt FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0618,2,04:09,LAC,,LAL,,T. Prince,LAL,Prince P.FOUL (P1.T2) (J.Goldenberg),Foul,Personal,0,0,0,0,,,v
+S2324-G0618,2,00:02.200000,LAC,77.0,LAL,63.0,T. Prince,LAL,Prince 5' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,-1,46,5,1,2.0,2.0,v
+S2324-G0618,2,00:02.200000,LAC,77.0,LAL,64.0,T. Prince,LAL,Prince Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G0618,3,09:57,LAC,,LAL,,T. Prince,LAL,MISS Prince 3PT Jump Shot,Missed Shot,Jump Shot,234,-5,0,1,3.0,0.0,v
+S2324-G0618,3,09:03,LAC,,LAL,,T. Prince,LAL,MISS Prince 5' Driving Layup,Missed Shot,Driving Layup Shot,-32,36,5,1,2.0,0.0,v
+S2324-G0618,3,07:56,LAC,,LAL,,T. Prince,LAL,Prince Lost Ball Turnover (P1.T7),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0618,3,07:41,LAC,88.0,LAL,80.0,T. Prince,LAL,Prince 26' 3PT Running Jump Shot (6 PTS) (Reaves 3 AST),Made Shot,Running Jump Shot,232,117,26,1,3.0,3.0,v
+S2324-G0618,3,06:26,LAC,,LAL,,T. Prince,LAL,Prince BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0618,3,06:23,LAC,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0618,3,04:39,LAC,,LAL,,T. Prince,LAL,SUB: Reddish FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0618,4,11:15,LAC,,LAL,,T. Prince,LAL,Prince STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0618,4,11:04,LAC,106.0,LAL,100.0,T. Prince,LAL,Prince 26' 3PT Jump Shot (9 PTS),Made Shot,Jump Shot,-152,215,26,1,3.0,3.0,v
+S2324-G0618,4,10:20,LAC,,LAL,,T. Prince,LAL,Prince P.FOUL (P2.T1) (K.Scott),Foul,Personal,0,0,0,0,,,v
+S2324-G0618,4,09:51,LAC,,LAL,,T. Prince,LAL,Prince STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0618,4,08:11,LAC,,LAL,,T. Prince,LAL,MISS Prince 26' 3PT Jump Shot,Missed Shot,Jump Shot,-157,204,26,1,3.0,0.0,v
+S2324-G0618,4,07:45,LAC,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0618,4,07:44,LAC,,LAL,,T. Prince,LAL,MISS Prince 2' Running Layup,Missed Shot,Running Layup Shot,-15,14,2,1,2.0,0.0,v
+S2324-G0618,4,07:32,LAC,110.0,LAL,108.0,T. Prince,LAL,Prince 2' Running Layup (11 PTS) (Reaves 5 AST),Made Shot,Running Layup Shot,-4,15,2,1,2.0,2.0,v
+S2324-G0618,4,06:46,LAC,,LAL,,T. Prince,LAL,SUB: Hachimura FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0618,4,02:12,LAC,,LAL,,T. Prince,LAL,MISS Prince 25' 3PT Jump Shot,Missed Shot,Jump Shot,241,57,25,1,3.0,0.0,v
+S2324-G0618,4,00:55.100000,LAC,,LAL,,T. Prince,LAL,SUB: Christie FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0531,1,11:20,LAL,,PHX,,T. Prince,LAL,MISS Prince 25' 3PT Jump Shot,Missed Shot,Jump Shot,230,85,25,1,3.0,0.0,h
+S2324-G0531,1,11:05,LAL,3.0,PHX,6.0,T. Prince,LAL,Prince 26' 3PT Step Back Jump Shot (3 PTS) (James 1 AST),Made Shot,Step Back Jump shot,-185,188,26,1,3.0,3.0,h
+S2324-G0531,1,10:08,LAL,,PHX,,T. Prince,LAL,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0531,1,08:58,LAL,,PHX,,T. Prince,LAL,Prince REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0531,1,08:53,LAL,9.0,PHX,11.0,T. Prince,LAL,Prince 11' Driving Floating Jump Shot (5 PTS) (Reaves 2 AST),Made Shot,Driving Floating Jump Shot,72,88,11,1,2.0,2.0,h
+S2324-G0531,1,07:06,LAL,14.0,PHX,17.0,T. Prince,LAL,Prince 3PT Jump Shot (8 PTS) (James 4 AST),Made Shot,Jump Shot,230,30,0,1,3.0,3.0,h
+S2324-G0531,1,05:25,LAL,,PHX,,T. Prince,LAL,MISS Prince 3PT Jump Shot,Missed Shot,Jump Shot,228,-10,0,1,3.0,0.0,h
+S2324-G0531,1,02:44,LAL,,PHX,,T. Prince,LAL,SUB: Reddish FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0531,2,06:11,LAL,,PHX,,T. Prince,LAL,Prince REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0531,2,04:37,LAL,,PHX,,T. Prince,LAL,Prince Violation:Kicked Ball (G.Petraitis),Violation,Kicked Ball,0,0,0,0,,,h
+S2324-G0531,2,04:15,LAL,,PHX,,T. Prince,LAL,MISS Prince 3PT Jump Shot,Missed Shot,Jump Shot,229,6,0,1,3.0,0.0,h
+S2324-G0531,2,03:22,LAL,,PHX,,T. Prince,LAL,Prince REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0531,2,02:33,LAL,,PHX,,T. Prince,LAL,Prince REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0531,2,00:00.900000,LAL,,PHX,,T. Prince,LAL,MISS Prince 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-1,82,8,1,2.0,0.0,h
+S2324-G0531,3,11:23,LAL,,PHX,,T. Prince,LAL,Prince REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0531,3,09:14,LAL,58.0,PHX,72.0,T. Prince,LAL,Prince 26' 3PT Jump Shot (11 PTS) (Reaves 6 AST),Made Shot,Jump Shot,-157,212,26,1,3.0,3.0,h
+S2324-G0531,3,08:20,LAL,,PHX,,T. Prince,LAL,MISS Prince 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-233,10,0,1,3.0,0.0,h
+S2324-G0531,3,03:20,LAL,,PHX,,T. Prince,LAL,MISS Prince 25' 3PT Jump Shot,Missed Shot,Jump Shot,151,204,25,1,3.0,0.0,h
+S2324-G0403,1,11:32,LAL,,BOS,,T. Prince,LAL,MISS Prince 26' 3PT Jump Shot,Missed Shot,Jump Shot,143,221,26,1,3.0,0.0,h
+S2324-G0403,1,11:21,LAL,,BOS,,T. Prince,LAL,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0403,1,08:37,LAL,,BOS,,T. Prince,LAL,Prince S.FOUL (P1.T1) (K.Lane),Foul,Shooting,0,0,0,0,,,h
+S2324-G0403,1,06:53,LAL,,BOS,,T. Prince,LAL,SUB: Hachimura FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0403,1,00:37.400000,LAL,,BOS,,T. Prince,LAL,Prince REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0403,1,00:01,LAL,,BOS,,T. Prince,LAL,MISS Prince 26' 3PT Jump Shot,Missed Shot,Jump Shot,-152,217,26,1,3.0,0.0,h
+S2324-G0403,2,10:33,LAL,28.0,BOS,35.0,T. Prince,LAL,Prince 3PT Jump Shot (3 PTS) (Russell 2 AST),Made Shot,Jump Shot,-230,38,0,1,3.0,3.0,h
+S2324-G0403,2,09:57,LAL,30.0,BOS,38.0,T. Prince,LAL,Prince 4' Driving Layup (5 PTS) (Russell 3 AST),Made Shot,Driving Layup Shot,16,41,4,1,2.0,2.0,h
+S2324-G0403,2,08:28,LAL,,BOS,,T. Prince,LAL,SUB: Hachimura FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0403,2,02:04,LAL,52.0,BOS,52.0,T. Prince,LAL,Prince 26' 3PT Running Jump Shot (8 PTS) (James 3 AST),Made Shot,Running Jump Shot,-188,184,26,1,3.0,3.0,h
+S2324-G0403,2,01:32,LAL,,BOS,,T. Prince,LAL,Prince S.FOUL (P2.T3) (K.Lane),Foul,Shooting,0,0,0,0,,,h
+S2324-G0403,2,00:47.100000,LAL,55.0,BOS,58.0,T. Prince,LAL,Prince 25' 3PT Jump Shot (11 PTS) (James 4 AST),Made Shot,Jump Shot,225,116,25,1,3.0,3.0,h
+S2324-G0403,3,10:38,LAL,62.0,BOS,60.0,T. Prince,LAL,Prince 26' 3PT Jump Shot (14 PTS) (Davis 2 AST),Made Shot,Jump Shot,-161,203,26,1,3.0,3.0,h
+S2324-G0403,3,10:00,LAL,,BOS,,T. Prince,LAL,Prince S.FOUL (P3.T3) (S.Foster),Foul,Shooting,0,0,0,0,,,h
+S2324-G0403,3,08:03,LAL,,BOS,,T. Prince,LAL,Prince REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0403,3,07:10,LAL,72.0,BOS,73.0,T. Prince,LAL,Prince 26' 3PT Jump Shot (17 PTS) (James 6 AST),Made Shot,Jump Shot,-175,198,26,1,3.0,3.0,h
+S2324-G0403,3,05:24,LAL,,BOS,,T. Prince,LAL,MISS Prince 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,190,185,27,1,3.0,0.0,h
+S2324-G0403,3,04:33,LAL,,BOS,,T. Prince,LAL,Prince STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0403,3,02:16,LAL,,BOS,,T. Prince,LAL,SUB: Reddish FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0403,4,11:20,LAL,,BOS,,T. Prince,LAL,Prince S.FOUL (P4.T1) (S.Foster),Foul,Shooting,0,0,0,0,,,h
+S2324-G0403,4,08:37,LAL,,BOS,,T. Prince,LAL,MISS Prince 3PT Jump Shot,Missed Shot,Jump Shot,225,1,0,1,3.0,0.0,h
+S2324-G0403,4,07:58,LAL,,BOS,,T. Prince,LAL,Prince REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0403,4,00:33.100000,LAL,,BOS,,T. Prince,LAL,MISS Prince 26' 3PT Jump Shot,Missed Shot,Jump Shot,195,177,26,1,3.0,0.0,h
+S2324-G0403,4,00:28.700000,LAL,,BOS,,T. Prince,LAL,MISS Prince 24' 3PT Jump Shot,Missed Shot,Jump Shot,235,57,24,1,3.0,0.0,h
+S2324-G0403,4,00:00.700000,LAL,,BOS,,T. Prince,LAL,MISS Prince 30' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,125,278,30,1,3.0,0.0,h
+S2324-G0100,1,10:56,SAC,,LAL,,T. Prince,LAL,MISS Prince 25' 3PT Jump Shot,Missed Shot,Jump Shot,-152,201,25,1,3.0,0.0,v
+S2324-G0100,1,10:21,SAC,4.0,LAL,3.0,T. Prince,LAL,Prince 26' 3PT Running Jump Shot (3 PTS) (Russell 1 AST),Made Shot,Running Jump Shot,96,241,26,1,3.0,3.0,v
+S2324-G0100,1,09:41,SAC,,LAL,,T. Prince,LAL,Prince S.FOUL (P1.T1) (D.Guthrie),Foul,Shooting,0,0,0,0,,,v
+S2324-G0100,1,08:28,SAC,,LAL,,T. Prince,LAL,MISS Prince 26' 3PT Jump Shot,Missed Shot,Jump Shot,-159,207,26,1,3.0,0.0,v
+S2324-G0100,1,06:22,SAC,18.0,LAL,15.0,T. Prince,LAL,Prince 26' 3PT Running Jump Shot (6 PTS) (Davis 1 AST),Made Shot,Running Jump Shot,163,202,26,1,3.0,3.0,v
+S2324-G0100,1,05:49,SAC,,LAL,,T. Prince,LAL,MISS Prince Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0100,1,05:49,SAC,21.0,LAL,16.0,T. Prince,LAL,Prince Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0100,1,05:23,SAC,,LAL,,T. Prince,LAL,MISS Prince 24' 3PT Jump Shot,Missed Shot,Jump Shot,-241,11,24,1,3.0,0.0,v
+S2324-G0100,1,04:50,SAC,,LAL,,T. Prince,LAL,SUB: Reddish FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0100,2,06:48,SAC,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0100,2,06:16,SAC,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0100,2,05:29,SAC,,LAL,,T. Prince,LAL,Prince Traveling Turnover (P1.T5),Turnover,Traveling,0,0,0,0,,,v
+S2324-G0100,2,04:23,SAC,,LAL,,T. Prince,LAL,Prince P.FOUL (P2.T2) (D.Guthrie),Foul,Personal,0,0,0,0,,,v
+S2324-G0100,2,01:50,SAC,,LAL,,T. Prince,LAL,Prince BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0100,3,10:27,SAC,68.0,LAL,59.0,T. Prince,LAL,Prince 2' Driving Layup (9 PTS) (Russell 4 AST),Made Shot,Driving Layup Shot,-18,11,2,1,2.0,2.0,v
+S2324-G0100,3,10:09,SAC,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0100,3,09:36,SAC,,LAL,,T. Prince,LAL,MISS Prince 3PT Jump Shot,Missed Shot,Jump Shot,-225,-21,0,1,3.0,0.0,v
+S2324-G0100,3,09:03,SAC,71.0,LAL,64.0,T. Prince,LAL,Prince 3PT Jump Shot (12 PTS) (James 5 AST),Made Shot,Jump Shot,233,-1,0,1,3.0,3.0,v
+S2324-G0100,3,07:50,SAC,,LAL,,T. Prince,LAL,MISS Prince 8' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-78,4,8,1,2.0,0.0,v
+S2324-G0100,3,06:07,SAC,76.0,LAL,72.0,T. Prince,LAL,Prince 24' 3PT Jump Shot (15 PTS) (Reaves 2 AST),Made Shot,Jump Shot,234,64,24,1,3.0,3.0,v
+S2324-G0100,3,05:33,SAC,76.0,LAL,75.0,T. Prince,LAL,Prince 24' 3PT Pullup Jump Shot (18 PTS),Made Shot,Pullup Jump shot,-197,142,24,1,3.0,3.0,v
+S2324-G0100,3,05:01,SAC,,LAL,,T. Prince,LAL,MISS Prince 3PT Jump Shot,Missed Shot,Jump Shot,230,22,0,1,3.0,0.0,v
+S2324-G0100,3,03:18,SAC,,LAL,,T. Prince,LAL,SUB: Hachimura FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0100,4,08:10,SAC,95.0,LAL,99.0,T. Prince,LAL,Prince 6' Pullup Jump Shot (20 PTS) (Vincent 2 AST),Made Shot,Pullup Jump shot,-6,56,6,1,2.0,2.0,v
+S2324-G0100,4,04:32,SAC,,LAL,,T. Prince,LAL,Prince S.FOUL (P3.T4) (D.Richardson),Foul,Shooting,0,0,0,0,,,v
+S2324-G0100,4,03:19,SAC,,LAL,,T. Prince,LAL,MISS Prince 24' 3PT Jump Shot,Missed Shot,Jump Shot,240,1,24,1,3.0,0.0,v
+S2324-G0100,4,00:30.100000,SAC,,LAL,,T. Prince,LAL,MISS Prince 2' Driving Layup,Missed Shot,Driving Layup Shot,9,22,2,1,2.0,0.0,v
+S2324-G0100,5,01:59,SAC,,LAL,,T. Prince,LAL,MISS Prince 26' 3PT Jump Shot,Missed Shot,Jump Shot,131,226,26,1,3.0,0.0,v
+S2324-G0100,5,01:21,SAC,,LAL,,T. Prince,LAL,MISS Prince 3PT Jump Shot,Missed Shot,Jump Shot,-221,-7,0,1,3.0,0.0,v
+S2324-G0291,1,11:40,LAL,,HOU,,T. Prince,LAL,Prince Violation:Kicked Ball (T.Maddox),Violation,Kicked Ball,0,0,0,0,,,h
+S2324-G0291,1,11:17,LAL,3.0,HOU,0.0,T. Prince,LAL,Prince 3PT Jump Shot (3 PTS) (Russell 1 AST),Made Shot,Jump Shot,-225,44,0,1,3.0,3.0,h
+S2324-G0291,1,04:05,LAL,,HOU,,T. Prince,LAL,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0291,1,02:54,LAL,,HOU,,T. Prince,LAL,SUB: Wood FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0291,2,06:02,LAL,,HOU,,T. Prince,LAL,Prince STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0291,2,04:58,LAL,,HOU,,T. Prince,LAL,Prince REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0291,2,02:35,LAL,,HOU,,T. Prince,LAL,Prince REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0291,2,02:18,LAL,,HOU,,T. Prince,LAL,SUB: James FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0291,3,11:33,LAL,,HOU,,T. Prince,LAL,Prince Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0291,3,06:46,LAL,,HOU,,T. Prince,LAL,Prince REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0291,3,06:29,LAL,71.0,HOU,56.0,T. Prince,LAL,Prince 27' 3PT Jump Shot (6 PTS) (Russell 6 AST),Made Shot,Jump Shot,-207,179,27,1,3.0,3.0,h
+S2324-G0291,3,06:05,LAL,73.0,HOU,56.0,T. Prince,LAL,Prince 2' Driving Layup (8 PTS) (Christie 2 AST),Made Shot,Driving Layup Shot,0,24,2,1,2.0,2.0,h
+S2324-G0291,3,05:33,LAL,,HOU,,T. Prince,LAL,MISS Prince 26' 3PT Jump Shot,Missed Shot,Jump Shot,138,216,26,1,3.0,0.0,h
+S2324-G0291,3,03:28,LAL,,HOU,,T. Prince,LAL,SUB: Reddish FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0291,4,09:19,LAL,,HOU,,T. Prince,LAL,MISS Prince 4' Driving Layup,Missed Shot,Driving Layup Shot,-28,25,4,1,2.0,0.0,h
+S2324-G0291,4,08:41,LAL,,HOU,,T. Prince,LAL,MISS Prince 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-223,9,0,1,3.0,0.0,h
+S2324-G0291,4,06:57,LAL,,HOU,,T. Prince,LAL,Prince REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0291,4,05:20,LAL,,HOU,,T. Prince,LAL,Prince STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0291,4,03:52,LAL,106.0,HOU,88.0,T. Prince,LAL,Prince 3PT Jump Shot (11 PTS) (Davis 3 AST),Made Shot,Jump Shot,-225,0,0,1,3.0,3.0,h
+S2324-G0291,4,03:21,LAL,,HOU,,T. Prince,LAL,Prince REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0291,4,02:54,LAL,,HOU,,T. Prince,LAL,SUB: Wood FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G1195,1,03:04,NOP,15.0,LAL,24.0,T. Prince,LAL,Prince 25' 3PT Jump Shot (3 PTS) (Hachimura 2 AST),Made Shot,Jump Shot,-200,151,25,1,3.0,3.0,v
+S2324-G1195,1,00:00,NOP,24.0,LAL,29.0,T. Prince,LAL,Prince Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1195,1,00:00,NOP,24.0,LAL,30.0,T. Prince,LAL,Prince Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1195,2,11:37,NOP,24.0,LAL,32.0,T. Prince,LAL,Prince 2' Driving Layup (7 PTS) (Russell 1 AST),Made Shot,Driving Layup Shot,-16,9,2,1,2.0,2.0,v
+S2324-G1195,2,11:20,NOP,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1195,2,09:15,NOP,26.0,LAL,41.0,T. Prince,LAL,Prince 2' Driving Layup (9 PTS) (James 10 AST),Made Shot,Driving Layup Shot,18,1,2,1,2.0,2.0,v
+S2324-G1195,2,07:23,NOP,,LAL,,T. Prince,LAL,Prince Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G1195,2,07:23,NOP,,LAL,,T. Prince,LAL,SUB: Reaves FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G1195,2,05:16,NOP,,LAL,,T. Prince,LAL,MISS Prince 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,67,3,7,1,2.0,0.0,v
+S2324-G1195,2,05:06,NOP,,LAL,,T. Prince,LAL,SUB: James FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G1195,3,00:48.900000,NOP,,LAL,,T. Prince,LAL,Prince Traveling Turnover (P2.T11),Turnover,Traveling,0,0,0,0,,,v
+S2324-G1195,4,10:05,NOP,,LAL,,T. Prince,LAL,MISS Prince 3' Driving Layup,Missed Shot,Driving Layup Shot,25,18,3,1,2.0,0.0,v
+S2324-G1195,4,09:27,NOP,,LAL,,T. Prince,LAL,Prince STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G1195,4,09:18,NOP,,LAL,,T. Prince,LAL,MISS Prince 2' Reverse Layup,Missed Shot,Reverse Layup Shot,15,10,2,1,2.0,0.0,v
+S2324-G1195,4,05:22,NOP,,LAL,,T. Prince,LAL,SUB: Russell FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G1195,4,01:47,NOP,,LAL,,T. Prince,LAL,SUB: Giles III FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0747,1,04:17,LAL,,NOP,,T. Prince,LAL,Prince Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0747,1,03:08,LAL,,NOP,,T. Prince,LAL,Prince S.FOUL (P1.PN) (J.Butler),Foul,Shooting,0,0,0,0,,,h
+S2324-G0747,1,02:11,LAL,,NOP,,T. Prince,LAL,Prince S.FOUL (P2.PN) (S.Twardoski),Foul,Shooting,0,0,0,0,,,h
+S2324-G0747,1,00:48.300000,LAL,,NOP,,T. Prince,LAL,MISS Prince Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0747,1,00:48.300000,LAL,36.0,NOP,37.0,T. Prince,LAL,Prince Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0747,2,05:38,LAL,,NOP,,T. Prince,LAL,MISS Prince 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-230,22,0,1,3.0,0.0,h
+S2324-G0747,2,05:13,LAL,,NOP,,T. Prince,LAL,SUB: Mays FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0747,3,04:35,LAL,,NOP,,T. Prince,LAL,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0747,3,04:35,LAL,102.0,NOP,96.0,T. Prince,LAL,Prince Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0747,3,04:35,LAL,103.0,NOP,96.0,T. Prince,LAL,Prince Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0747,3,03:47,LAL,,NOP,,T. Prince,LAL,Prince REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0747,3,02:06,LAL,,NOP,,T. Prince,LAL,MISS Prince 26' 3PT Jump Shot,Missed Shot,Jump Shot,-146,210,26,1,3.0,0.0,h
+S2324-G0747,4,08:29,LAL,,NOP,,T. Prince,LAL,SUB: Hachimura FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0747,4,05:31,LAL,,NOP,,T. Prince,LAL,SUB: James FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0316,1,10:37,SAS,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0316,1,09:08,SAS,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0316,1,08:58,SAS,,LAL,,T. Prince,LAL,Prince REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0316,1,08:39,SAS,,LAL,,T. Prince,LAL,Prince STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0316,1,08:35,SAS,,LAL,,T. Prince,LAL,Prince Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0316,1,08:08,SAS,,LAL,,T. Prince,LAL,Prince REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0316,1,06:51,SAS,,LAL,,T. Prince,LAL,MISS Prince 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,190,182,26,1,3.0,0.0,v
+S2324-G0316,1,05:43,SAS,,LAL,,T. Prince,LAL,SUB: Reaves FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0316,2,09:27,SAS,28.0,LAL,44.0,T. Prince,LAL,Prince 26' 3PT Pullup Jump Shot (3 PTS) (Reaves 3 AST),Made Shot,Pullup Jump shot,-228,117,26,1,3.0,3.0,v
+S2324-G0316,2,07:10,SAS,,LAL,,T. Prince,LAL,Prince Out of Bounds - Bad Pass Turnover Turnover (P2.T8),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0316,2,06:39,SAS,,LAL,,T. Prince,LAL,MISS Prince 26' 3PT Jump Shot,Missed Shot,Jump Shot,-181,187,26,1,3.0,0.0,v
+S2324-G0316,2,06:14,SAS,33.0,LAL,48.0,T. Prince,LAL,Prince 2' Cutting Finger Roll Layup Shot (5 PTS) (Russell 6 AST),Made Shot,Cutting Finger Roll Layup Shot,15,5,2,1,2.0,2.0,v
+S2324-G0316,2,05:05,SAS,,LAL,,T. Prince,LAL,Prince S.FOUL (P1.T1) (P.Fraher),Foul,Shooting,0,0,0,0,,,v
+S2324-G0316,2,03:41,SAS,38.0,LAL,56.0,T. Prince,LAL,Prince 24' 3PT Jump Shot (8 PTS) (Reddish 2 AST),Made Shot,Jump Shot,-232,78,24,1,3.0,3.0,v
+S2324-G0316,2,02:33,SAS,,LAL,,T. Prince,LAL,SUB: Reaves FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0316,3,11:52,SAS,,LAL,,T. Prince,LAL,MISS Prince 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,229,59,24,1,3.0,0.0,v
+S2324-G0316,3,08:27,SAS,,LAL,,T. Prince,LAL,Prince BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0316,3,07:48,SAS,58.0,LAL,74.0,T. Prince,LAL,Prince 1' Layup (10 PTS),Made Shot,Layup Shot,13,-1,1,1,2.0,2.0,v
+S2324-G0316,3,07:08,SAS,58.0,LAL,77.0,T. Prince,LAL,Prince 3PT Jump Shot (13 PTS) (Russell 9 AST),Made Shot,Jump Shot,-228,-9,0,1,3.0,3.0,v
+S2324-G0316,3,06:26,SAS,,LAL,,T. Prince,LAL,Prince STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0316,3,06:21,SAS,,LAL,,T. Prince,LAL,MISS Prince 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,217,118,25,1,3.0,0.0,v
+S2324-G0316,3,06:13,SAS,,LAL,,T. Prince,LAL,Prince Out of Bounds - Bad Pass Turnover Turnover (P3.T11),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0316,3,04:05,SAS,,LAL,,T. Prince,LAL,SUB: Reaves FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0316,4,08:57,SAS,81.0,LAL,97.0,T. Prince,LAL,Prince 3PT Jump Shot (16 PTS) (Reaves 7 AST),Made Shot,Jump Shot,-232,2,0,1,3.0,3.0,v
+S2324-G0316,4,08:44,SAS,,LAL,,T. Prince,LAL,Prince REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0316,4,08:29,SAS,,LAL,,T. Prince,LAL,MISS Prince 26' 3PT Jump Shot,Missed Shot,Jump Shot,-191,169,26,1,3.0,0.0,v
+S2324-G0316,4,04:08,SAS,,LAL,,T. Prince,LAL,MISS Prince 25' 3PT Jump Shot,Missed Shot,Jump Shot,210,133,25,1,3.0,0.0,v
+S2324-G0316,4,00:00.800000,SAS,,LAL,,T. Prince,LAL,MISS Prince Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0316,4,00:00.800000,SAS,119.0,LAL,122.0,T. Prince,LAL,Prince Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1045,1,02:17,MIL,,LAL,,T. Prince,LAL,Prince Out of Bounds Lost Ball Turnover (P1.T3),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2324-G1045,1,01:47,MIL,,LAL,,T. Prince,LAL,MISS Prince 29' 3PT Jump Shot,Missed Shot,Jump Shot,-219,185,29,1,3.0,0.0,v
+S2324-G1045,1,00:31.200000,MIL,,LAL,,T. Prince,LAL,MISS Prince 5' Driving Layup,Missed Shot,Driving Layup Shot,28,38,5,1,2.0,0.0,v
+S2324-G1045,2,11:42,MIL,32.0,LAL,18.0,T. Prince,LAL,Prince 10' Driving Finger Roll Layup (2 PTS) (Russell 1 AST),Made Shot,Driving Finger Roll Layup Shot,54,90,10,1,2.0,2.0,v
+S2324-G1045,2,11:10,MIL,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1045,2,10:59,MIL,,LAL,,T. Prince,LAL,MISS Prince 10' Driving Layup,Missed Shot,Driving Layup Shot,-15,100,10,1,2.0,0.0,v
+S2324-G1045,2,10:51,MIL,,LAL,,T. Prince,LAL,Prince Traveling Turnover (P2.T4),Turnover,Traveling,0,0,0,0,,,v
+S2324-G1045,2,10:18,MIL,,LAL,,T. Prince,LAL,MISS Prince 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,77,80,11,1,2.0,0.0,v
+S2324-G1045,2,09:14,MIL,35.0,LAL,23.0,T. Prince,LAL,Prince 27' 3PT Jump Shot (5 PTS) (Russell 3 AST),Made Shot,Jump Shot,154,216,27,1,3.0,3.0,v
+S2324-G1045,2,08:00,MIL,,LAL,,T. Prince,LAL,SUB: Dinwiddie FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G1045,3,04:26,MIL,77.0,LAL,69.0,T. Prince,LAL,Prince 12' Fadeaway Jumper (7 PTS) (Russell 6 AST),Made Shot,Fadeaway Jump Shot,64,104,12,1,2.0,2.0,v
+S2324-G1045,3,01:36,MIL,,LAL,,T. Prince,LAL,MISS Prince 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,162,216,27,1,3.0,0.0,v
+S2324-G1045,4,11:05,MIL,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1045,4,10:26,MIL,,LAL,,T. Prince,LAL,Prince Out of Bounds - Bad Pass Turnover Turnover (P3.T11),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G1045,4,10:11,MIL,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1045,4,10:04,MIL,,LAL,,T. Prince,LAL,MISS Prince 25' 3PT Jump Shot,Missed Shot,Jump Shot,-110,230,25,1,3.0,0.0,v
+S2324-G1045,4,08:12,MIL,,LAL,,T. Prince,LAL,MISS Prince 26' 3PT Jump Shot,Missed Shot,Jump Shot,9,263,26,1,3.0,0.0,v
+S2324-G1045,4,00:54.600000,MIL,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1045,4,00:43.900000,MIL,101.0,LAL,100.0,T. Prince,LAL,Prince Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1045,4,00:43.900000,MIL,101.0,LAL,101.0,T. Prince,LAL,Prince Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1045,5,00:13.600000,MIL,,LAL,,T. Prince,LAL,SUB: Russell FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G1045,6,00:22.300000,MIL,,LAL,,T. Prince,LAL,SUB: Russell FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0443,1,11:02,MIN,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0443,1,08:29,MIN,,LAL,,T. Prince,LAL,Prince Out of Bounds - Bad Pass Turnover Turnover (P1.T2),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0443,1,07:46,MIN,,LAL,,T. Prince,LAL,MISS Prince 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,21,18,3,1,2.0,0.0,v
+S2324-G0443,1,07:05,MIN,,LAL,,T. Prince,LAL,SUB: Hachimura FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0443,1,02:36,MIN,,LAL,,T. Prince,LAL,Prince STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0443,1,01:56,MIN,,LAL,,T. Prince,LAL,MISS Prince 2' Driving Layup,Missed Shot,Driving Layup Shot,15,4,2,1,2.0,0.0,v
+S2324-G0443,2,05:44,MIN,42.0,LAL,46.0,T. Prince,LAL,Prince 3PT Jump Shot (3 PTS) (Reddish 2 AST),Made Shot,Jump Shot,-227,17,0,1,3.0,3.0,v
+S2324-G0443,2,05:25,MIN,,LAL,,T. Prince,LAL,Prince Bad Pass Turnover (P2.T6),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0443,2,04:43,MIN,,LAL,,T. Prince,LAL,MISS Prince 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-43,247,25,1,3.0,0.0,v
+S2324-G0443,2,02:26,MIN,,LAL,,T. Prince,LAL,SUB: James FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0443,3,07:23,MIN,,LAL,,T. Prince,LAL,Prince S.FOUL (P1.T3) (B.Barnaky),Foul,Shooting,0,0,0,0,,,v
+S2324-G0443,3,06:32,MIN,,LAL,,T. Prince,LAL,Prince STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0443,3,06:21,MIN,,LAL,,T. Prince,LAL,MISS Prince 24' 3PT Jump Shot,Missed Shot,Jump Shot,-225,85,24,1,3.0,0.0,v
+S2324-G0443,3,05:50,MIN,,LAL,,T. Prince,LAL,SUB: Russell FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0443,3,02:17,MIN,,LAL,,T. Prince,LAL,Prince STEAL (3 STL),,,0,0,0,0,,,v
+S2324-G0443,3,02:14,MIN,75.0,LAL,73.0,T. Prince,LAL,Prince 24' 3PT Running Pull-Up Jump Shot (6 PTS),Made Shot,Running Pull-Up Jump Shot,-169,176,24,1,3.0,3.0,v
+S2324-G0443,3,01:05,MIN,,LAL,,T. Prince,LAL,MISS Prince 3' Driving Layup,Missed Shot,Driving Layup Shot,-26,11,3,1,2.0,0.0,v
+S2324-G0443,4,10:52,MIN,82.0,LAL,82.0,T. Prince,LAL,Prince 24' 3PT Jump Shot (9 PTS) (James 4 AST),Made Shot,Jump Shot,-200,135,24,1,3.0,3.0,v
+S2324-G0443,4,08:02,MIN,,LAL,,T. Prince,LAL,MISS Prince 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-202,143,25,1,3.0,0.0,v
+S2324-G0443,4,06:39,MIN,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0443,4,04:53,MIN,,LAL,,T. Prince,LAL,Prince Traveling Turnover (P3.T9),Turnover,Traveling,0,0,0,0,,,v
+S2324-G0443,4,04:24,MIN,,LAL,,T. Prince,LAL,SUB: Reaves FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0802,1,07:58,GSW,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0802,1,07:58,GSW,,LAL,,T. Prince,LAL,Prince Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0802,1,06:38,GSW,,LAL,,T. Prince,LAL,MISS Prince 25' 3PT Jump Shot,Missed Shot,Jump Shot,170,190,25,1,3.0,0.0,v
+S2324-G0802,1,05:44,GSW,,LAL,,T. Prince,LAL,MISS Prince 27' 3PT Jump Shot,Missed Shot,Jump Shot,33,269,27,1,3.0,0.0,v
+S2324-G0802,1,03:34,GSW,,LAL,,T. Prince,LAL,SUB: Hayes FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0802,2,10:30,GSW,31.0,LAL,35.0,T. Prince,LAL,Prince 3PT Jump Shot (3 PTS) (Christie 2 AST),Made Shot,Jump Shot,-223,-7,0,1,3.0,3.0,v
+S2324-G0802,2,08:41,GSW,38.0,LAL,41.0,T. Prince,LAL,Prince 5' Driving Layup (5 PTS) (Russell 3 AST),Made Shot,Driving Layup Shot,-42,27,5,1,2.0,2.0,v
+S2324-G0802,2,08:36,GSW,,LAL,,T. Prince,LAL,Prince STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0802,2,06:42,GSW,44.0,LAL,46.0,T. Prince,LAL,Prince 5' Running Layup (7 PTS),Made Shot,Running Layup Shot,-20,41,5,1,2.0,2.0,v
+S2324-G0802,2,04:41,GSW,,LAL,,T. Prince,LAL,MISS Prince 27' 3PT Jump Shot,Missed Shot,Jump Shot,174,206,27,1,3.0,0.0,v
+S2324-G0802,2,04:34,GSW,,LAL,,T. Prince,LAL,SUB: Russell FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0802,3,10:39,GSW,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0802,3,02:13,GSW,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0802,3,02:02,GSW,89.0,LAL,80.0,T. Prince,LAL,Prince 3PT Jump Shot (10 PTS) (Dinwiddie 3 AST),Made Shot,Jump Shot,233,0,0,1,3.0,3.0,v
+S2324-G0802,3,01:26,GSW,,LAL,,T. Prince,LAL,MISS Prince 26' 3PT Jump Shot,Missed Shot,Jump Shot,147,217,26,1,3.0,0.0,v
+S2324-G0802,4,08:15,GSW,109.0,LAL,96.0,T. Prince,LAL,Prince 11' Driving Floating Jump Shot (12 PTS) (Russell 9 AST),Made Shot,Driving Floating Jump Shot,-26,104,11,1,2.0,2.0,v
+S2324-G0802,4,06:12,GSW,,LAL,,T. Prince,LAL,MISS Prince 3PT Jump Shot,Missed Shot,Jump Shot,-228,13,0,1,3.0,0.0,v
+S2324-G0802,4,05:52,GSW,,LAL,,T. Prince,LAL,SUB: Christie FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0475,1,10:17,LAL,,MIA,,T. Prince,LAL,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0475,1,08:19,LAL,,MIA,,T. Prince,LAL,Prince REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0475,1,06:30,LAL,,MIA,,T. Prince,LAL,MISS Prince 26' 3PT Jump Shot,Missed Shot,Jump Shot,-153,204,26,1,3.0,0.0,h
+S2324-G0475,1,05:35,LAL,,MIA,,T. Prince,LAL,Prince REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0475,1,03:49,LAL,,MIA,,T. Prince,LAL,SUB: Reaves FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0475,2,08:36,LAL,,MIA,,T. Prince,LAL,MISS Prince 3PT Jump Shot,Missed Shot,Jump Shot,232,-13,0,1,3.0,0.0,h
+S2324-G0475,2,05:28,LAL,,MIA,,T. Prince,LAL,Prince S.FOUL (P1.T3) (C.Blair),Foul,Shooting,0,0,0,0,,,h
+S2324-G0475,2,04:33,LAL,,MIA,,T. Prince,LAL,Prince Bad Pass Turnover (P1.T14),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0475,2,03:50,LAL,,MIA,,T. Prince,LAL,Prince REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0475,3,10:27,LAL,,MIA,,T. Prince,LAL,MISS Prince 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-64,257,26,1,3.0,0.0,h
+S2324-G0475,3,06:11,LAL,,MIA,,T. Prince,LAL,Prince REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0475,3,06:01,LAL,,MIA,,T. Prince,LAL,SUB: Christie FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0475,4,11:07,LAL,,MIA,,T. Prince,LAL,MISS Prince 24' 3PT Jump Shot,Missed Shot,Jump Shot,-232,44,24,1,3.0,0.0,h
+S2324-G0475,4,08:44,LAL,,MIA,,T. Prince,LAL,MISS Prince 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-163,202,26,1,3.0,0.0,h
+S2324-G0475,4,07:35,LAL,,MIA,,T. Prince,LAL,Prince S.FOUL (P2.T2) (C.Blair),Foul,Shooting,0,0,0,0,,,h
+S2324-G0475,4,06:38,LAL,,MIA,,T. Prince,LAL,MISS Prince 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-12,104,10,1,2.0,0.0,h
+S2324-G0475,4,06:08,LAL,,MIA,,T. Prince,LAL,SUB: Vanderbilt FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G1177,1,05:29,MEM,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1177,1,02:33,MEM,23.0,LAL,26.0,T. Prince,LAL,Prince 26' 3PT Jump Shot (3 PTS) (Vincent 1 AST),Made Shot,Jump Shot,-145,210,26,1,3.0,3.0,v
+S2324-G1177,1,01:21,MEM,,LAL,,T. Prince,LAL,MISS Prince 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-156,200,25,1,3.0,0.0,v
+S2324-G1177,2,11:37,MEM,,LAL,,T. Prince,LAL,Prince S.FOUL (P1.T1) (S.Wright),Foul,Shooting,0,0,0,0,,,v
+S2324-G1177,2,11:04,MEM,,LAL,,T. Prince,LAL,Prince S.FOUL (P2.T2) (S.Twardoski),Foul,Shooting,0,0,0,0,,,v
+S2324-G1177,2,09:23,MEM,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1177,2,09:00,MEM,32.0,LAL,44.0,T. Prince,LAL,Prince 27' 3PT Running Jump Shot (6 PTS) (Russell 5 AST),Made Shot,Running Jump Shot,156,216,27,1,3.0,3.0,v
+S2324-G1177,2,07:25,MEM,37.0,LAL,50.0,T. Prince,LAL,Prince 25' 3PT Running Jump Shot (9 PTS) (Russell 7 AST),Made Shot,Running Jump Shot,114,227,25,1,3.0,3.0,v
+S2324-G1177,2,06:49,MEM,,LAL,,T. Prince,LAL,SUB: Hachimura FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G1177,3,01:40,MEM,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1177,3,01:39,MEM,,LAL,,T. Prince,LAL,Prince Out of Bounds - Bad Pass Turnover Turnover (P1.T15),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G1177,4,08:45,MEM,,LAL,,T. Prince,LAL,MISS Prince 3PT Jump Shot,Missed Shot,Jump Shot,-224,5,0,1,3.0,0.0,v
+S2324-G1177,4,07:31,MEM,,LAL,,T. Prince,LAL,MISS Prince 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,75,51,9,1,2.0,0.0,v
+S2324-G1177,4,07:28,MEM,,LAL,,T. Prince,LAL,Prince REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1177,4,07:28,MEM,,LAL,,T. Prince,LAL,MISS Prince Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2324-G1177,4,07:14,MEM,,LAL,,T. Prince,LAL,SUB: Hachimura FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G1177,4,04:50,MEM,,LAL,,T. Prince,LAL,MISS Prince 3PT Jump Shot,Missed Shot,Jump Shot,228,-4,0,1,3.0,0.0,v
+S2324-G1032,1,04:17,LAL,,IND,,T. Prince,LAL,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1032,1,04:05,LAL,,IND,,T. Prince,LAL,Prince S.FOUL (P1.T1) (M.Myers),Foul,Shooting,0,0,0,0,,,h
+S2324-G1032,1,01:49,LAL,,IND,,T. Prince,LAL,Prince P.FOUL (P2.T4) (M.Myers),Foul,Personal,0,0,0,0,,,h
+S2324-G1032,1,01:05,LAL,25.0,IND,34.0,T. Prince,LAL,Prince 3' Driving Layup (2 PTS) (Davis 1 AST),Made Shot,Driving Layup Shot,13,30,3,1,2.0,2.0,h
+S2324-G1032,2,10:11,LAL,,IND,,T. Prince,LAL,Prince REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1032,2,09:09,LAL,,IND,,T. Prince,LAL,Prince S.FOUL (P3.T2) (M.Davis),Foul,Shooting,0,0,0,0,,,h
+S2324-G1032,2,09:09,LAL,,IND,,T. Prince,LAL,SUB: Hachimura FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G1032,2,02:24,LAL,65.0,IND,62.0,T. Prince,LAL,Prince 2' Driving Reverse Layup (4 PTS),Made Shot,Driving Reverse Layup Shot,-21,-4,2,1,2.0,2.0,h
+S2324-G1032,2,02:24,LAL,,IND,,T. Prince,LAL,MISS Prince Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2324-G1032,2,02:01,LAL,68.0,IND,62.0,T. Prince,LAL,Prince 3PT Jump Shot (7 PTS) (Reaves 5 AST),Made Shot,Jump Shot,-224,6,0,1,3.0,3.0,h
+S2324-G1032,2,00:43.600000,LAL,70.0,IND,66.0,T. Prince,LAL,Prince 3' Driving Layup (9 PTS) (James 4 AST),Made Shot,Driving Layup Shot,21,20,3,1,2.0,2.0,h
+S2324-G1032,3,02:21,LAL,110.0,IND,93.0,T. Prince,LAL,Prince 27' 3PT Jump Shot (12 PTS) (James 7 AST),Made Shot,Jump Shot,-162,222,27,1,3.0,3.0,h
+S2324-G1032,3,00:45.800000,LAL,,IND,,T. Prince,LAL,Prince BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G1032,3,00:01.600000,LAL,,IND,,T. Prince,LAL,MISS Prince 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-43,107,12,1,2.0,0.0,h
+S2324-G1032,4,09:10,LAL,,IND,,T. Prince,LAL,MISS Prince 3PT Running Jump Shot,Missed Shot,Running Jump Shot,232,31,0,1,3.0,0.0,h
+S2324-G1032,4,07:33,LAL,127.0,IND,118.0,T. Prince,LAL,Prince 1' Driving Dunk (14 PTS) (James 10 AST),Made Shot,Driving Dunk Shot,-2,13,1,1,2.0,2.0,h
+S2324-G1032,4,07:07,LAL,,IND,,T. Prince,LAL,SUB: Reddish FOR Prince,Substitution,,0,0,0,0,,,h
+S2324-G0818,1,03:15,PHX,,LAL,,T. Prince,LAL,MISS Prince 25' 3PT Jump Shot,Missed Shot,Jump Shot,-197,157,25,1,3.0,0.0,v
+S2324-G0818,1,02:06,PHX,38.0,LAL,20.0,T. Prince,LAL,Prince 4' Driving Layup (2 PTS) (Dinwiddie 1 AST),Made Shot,Driving Layup Shot,34,24,4,1,2.0,2.0,v
+S2324-G0818,1,00:38.600000,PHX,,LAL,,T. Prince,LAL,Prince Violation:Kicked Ball (T.Ford),Violation,Kicked Ball,0,0,0,0,,,v
+S2324-G0818,2,11:37,PHX,,LAL,,T. Prince,LAL,MISS Prince 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,16,26,3,1,2.0,0.0,v
+S2324-G0818,2,08:38,PHX,,LAL,,T. Prince,LAL,MISS Prince 3PT Jump Shot,Missed Shot,Jump Shot,-230,21,0,1,3.0,0.0,v
+S2324-G0818,2,07:11,PHX,56.0,LAL,42.0,T. Prince,LAL,Prince 27' 3PT Jump Shot (5 PTS) (James 4 AST),Made Shot,Jump Shot,225,140,27,1,3.0,3.0,v
+S2324-G0818,2,06:19,PHX,56.0,LAL,47.0,T. Prince,LAL,Prince 27' 3PT Running Jump Shot (8 PTS) (Reaves 3 AST),Made Shot,Running Jump Shot,212,167,27,1,3.0,3.0,v
+S2324-G0818,2,04:33,PHX,,LAL,,T. Prince,LAL,MISS Prince 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-72,240,25,1,3.0,0.0,v
+S2324-G0818,2,03:02,PHX,,LAL,,T. Prince,LAL,SUB: James FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0818,3,01:55,PHX,,LAL,,T. Prince,LAL,MISS Prince 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,196,163,25,1,3.0,0.0,v
+S2324-G0818,3,01:39,PHX,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0818,3,01:22,PHX,,LAL,,T. Prince,LAL,MISS Prince 4' Driving Layup,Missed Shot,Driving Layup Shot,40,16,4,1,2.0,0.0,v
+S2324-G0818,4,09:01,PHX,,LAL,,T. Prince,LAL,Prince Violation:Kicked Ball (N.Sago),Violation,Kicked Ball,0,0,0,0,,,v
+S2324-G0818,4,05:25,PHX,,LAL,,T. Prince,LAL,SUB: James FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0818,4,00:39.100000,PHX,,LAL,,T. Prince,LAL,MISS Prince 2' Driving Layup,Missed Shot,Driving Layup Shot,6,23,2,1,2.0,0.0,v
+S2324-G0662,1,11:46,HOU,,LAL,,T. Prince,LAL,MISS Prince 26' 3PT Jump Shot,Missed Shot,Jump Shot,91,241,26,1,3.0,0.0,v
+S2324-G0662,1,10:13,HOU,,LAL,,T. Prince,LAL,Prince BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0662,1,05:44,HOU,,LAL,,T. Prince,LAL,SUB: Vanderbilt FOR Prince,Substitution,,0,0,0,0,,,v
+S2324-G0662,2,09:18,HOU,,LAL,,T. Prince,LAL,Prince S.FOUL (P1.T3) (S.Mehta),Foul,Shooting,0,0,0,0,,,v
+S2324-G0662,2,08:33,HOU,,LAL,,T. Prince,LAL,Prince Lost Ball Turnover (P1.T5),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0662,2,06:52,HOU,62.0,LAL,44.0,T. Prince,LAL,Prince 24' 3PT Jump Shot (3 PTS) (Russell 4 AST),Made Shot,Jump Shot,238,-8,24,1,3.0,3.0,v
+S2324-G0662,2,03:32,HOU,,LAL,,T. Prince,LAL,MISS Prince 24' 3PT Jump Shot,Missed Shot,Jump Shot,243,1,24,1,3.0,0.0,v
+S2324-G0662,2,01:42,HOU,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0662,2,01:41,HOU,,LAL,,T. Prince,LAL,Prince Lost Ball Turnover (P2.T7),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0662,2,00:52.300000,HOU,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0662,2,00:44.900000,HOU,,LAL,,T. Prince,LAL,MISS Prince 24' 3PT Jump Shot,Missed Shot,Jump Shot,-191,152,24,1,3.0,0.0,v
+S2324-G0662,3,05:07,HOU,,LAL,,T. Prince,LAL,MISS Prince 7' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-4,67,7,1,2.0,0.0,v
+S2324-G0662,3,04:42,HOU,99.0,LAL,72.0,T. Prince,LAL,Prince 14' Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,-143,23,14,1,2.0,2.0,v
+S2324-G0662,3,03:38,HOU,,LAL,,T. Prince,LAL,Prince REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0662,3,03:06,HOU,,LAL,,T. Prince,LAL,SUB: Wood FOR Prince,Substitution,,0,0,0,0,,,v

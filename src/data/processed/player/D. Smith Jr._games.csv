@@ -1,0 +1,970 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2324-G0067,2,10:46,BKN,37.0,CLE,40.0,D. Smith Jr.,BKN,Smith Jr. 3PT Jump Shot (3 PTS) (Dinwiddie 2 AST),Made Shot,Jump Shot,229,-6,0,1,3.0,3.0,h
+S2324-G0067,2,04:34,BKN,,CLE,,D. Smith Jr.,BKN,SUB: Finney-Smith FOR Smith Jr.,Substitution,,0,0,0,0,,,h
+S2324-G0067,3,00:57,BKN,,CLE,,D. Smith Jr.,BKN,Smith Jr. P.FOUL (P1.T4) (R.Acosta),Foul,Personal,0,0,0,0,,,h
+S2324-G0067,3,00:12.100000,BKN,,CLE,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0067,3,00:12.100000,BKN,87.0,CLE,90.0,D. Smith Jr.,BKN,Smith Jr. 2' Putback Layup (5 PTS),Made Shot,Putback Layup Shot,7,14,2,1,2.0,2.0,h
+S2324-G0067,4,10:34,BKN,,CLE,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0067,4,10:28,BKN,,CLE,,D. Smith Jr.,BKN,Smith Jr. Bad Pass Turnover (P1.T14),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0067,4,09:25,BKN,,CLE,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0067,4,09:20,BKN,97.0,CLE,95.0,D. Smith Jr.,BKN,Smith Jr. 24' 3PT Jump Shot (8 PTS),Made Shot,Jump Shot,-237,0,24,1,3.0,3.0,h
+S2324-G0067,4,08:07,BKN,101.0,CLE,95.0,D. Smith Jr.,BKN,Smith Jr. 2' Layup (10 PTS) (Finney-Smith 2 AST),Made Shot,Layup Shot,22,-5,2,1,2.0,2.0,h
+S2324-G0067,4,06:41,BKN,,CLE,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0067,4,06:31,BKN,,CLE,,D. Smith Jr.,BKN,MISS Smith Jr. 24' 3PT Jump Shot,Missed Shot,Jump Shot,-120,208,24,1,3.0,0.0,h
+S2324-G0067,4,04:49,BKN,,CLE,,D. Smith Jr.,BKN,SUB: Dinwiddie FOR Smith Jr.,Substitution,,0,0,0,0,,,h
+S2324-G0677,2,07:21,BKN,37.0,PHX,45.0,D. Smith Jr.,BKN,Smith Jr. 3' Driving Finger Roll Layup (2 PTS) (Walker IV 4 AST),Made Shot,Driving Finger Roll Layup Shot,0,25,3,1,2.0,2.0,h
+S2324-G0677,2,06:28,BKN,,PHX,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0677,2,04:51,BKN,48.0,PHX,51.0,D. Smith Jr.,BKN,Smith Jr. 1' Driving Finger Roll Layup (4 PTS) (Dinwiddie 2 AST),Made Shot,Driving Finger Roll Layup Shot,1,8,1,1,2.0,2.0,h
+S2324-G0677,2,04:38,BKN,,PHX,,D. Smith Jr.,BKN,Smith Jr. S.FOUL (P1.T2) (S.Foster),Foul,Shooting,0,0,0,0,,,h
+S2324-G0677,2,04:05,BKN,,PHX,,D. Smith Jr.,BKN,SUB: Claxton FOR Smith Jr.,Substitution,,0,0,0,0,,,h
+S2324-G0677,3,03:22,BKN,,PHX,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0677,3,03:21,BKN,,PHX,,D. Smith Jr.,BKN,MISS Smith Jr. 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,-2,11,1,1,2.0,0.0,h
+S2324-G0677,3,03:21,BKN,,PHX,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0677,3,01:34,BKN,,PHX,,D. Smith Jr.,BKN,Smith Jr. STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0677,3,01:29,BKN,,PHX,,D. Smith Jr.,BKN,MISS Smith Jr. 2' Running Layup,Missed Shot,Running Layup Shot,-10,21,2,1,2.0,0.0,h
+S2324-G0677,3,00:29.600000,BKN,,PHX,,D. Smith Jr.,BKN,Smith Jr. S.FOUL (P2.PN) (K.Lane),Foul,Shooting,0,0,0,0,,,h
+S2324-G0677,4,11:36,BKN,,PHX,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0677,4,10:47,BKN,,PHX,,D. Smith Jr.,BKN,MISS Smith Jr. 3PT Jump Shot,Missed Shot,Jump Shot,-232,-29,0,1,3.0,0.0,h
+S2324-G0677,4,10:09,BKN,,PHX,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0677,4,09:00,BKN,,PHX,,D. Smith Jr.,BKN,SUB: Johnson FOR Smith Jr.,Substitution,,0,0,0,0,,,h
+S2324-G1007,1,03:19,MIL,,BKN,,D. Smith Jr.,BKN,Smith Jr. Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G1007,1,00:51.200000,MIL,,BKN,,D. Smith Jr.,BKN,Smith Jr. STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G1007,1,00:46.400000,MIL,,BKN,,D. Smith Jr.,BKN,Smith Jr. Out of Bounds - Bad Pass Turnover Turnover (P2.T3),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G1007,2,11:02,MIL,,BKN,,D. Smith Jr.,BKN,Smith Jr. P.FOUL (P1.T1) (B.Forte),Foul,Personal,0,0,0,0,,,v
+S2324-G1007,2,09:19,MIL,,BKN,,D. Smith Jr.,BKN,SUB: Schroder FOR Smith Jr.,Substitution,,0,0,0,0,,,v
+S2324-G1007,3,02:46,MIL,,BKN,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1007,3,00:35.900000,MIL,,BKN,,D. Smith Jr.,BKN,Smith Jr. P.FOUL (P2.PN) (M.Lindsay),Foul,Personal,0,0,0,0,,,v
+S2324-G1007,3,00:09,MIL,,BKN,,D. Smith Jr.,BKN,Smith Jr. STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G1007,4,10:37,MIL,,BKN,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1007,4,09:43,MIL,81.0,BKN,77.0,D. Smith Jr.,BKN,Smith Jr. 26' 3PT Jump Shot (3 PTS) (Wilson 1 AST),Made Shot,Jump Shot,-150,210,26,1,3.0,3.0,v
+S2324-G1007,4,06:42,MIL,,BKN,,D. Smith Jr.,BKN,Smith Jr. STEAL (3 STL),,,0,0,0,0,,,v
+S2324-G1007,4,06:41,MIL,87.0,BKN,90.0,D. Smith Jr.,BKN,Smith Jr. 2' Running Dunk (5 PTS) (Wilson 2 AST),Made Shot,Running Dunk Shot,-23,-1,2,1,2.0,2.0,v
+S2324-G1007,4,06:24,MIL,,BKN,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1007,4,04:34,MIL,,BKN,,D. Smith Jr.,BKN,SUB: Schroder FOR Smith Jr.,Substitution,,0,0,0,0,,,v
+S2324-G1007,4,01:41,MIL,,BKN,,D. Smith Jr.,BKN,Smith Jr. Lost Ball Turnover (P3.T13),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G1007,4,01:37,MIL,,BKN,,D. Smith Jr.,BKN,SUB: Johnson FOR Smith Jr.,Substitution,,0,0,0,0,,,v
+S2324-G0600,1,03:46,LAC,,BKN,,D. Smith Jr.,BKN,Smith Jr. S.FOUL (P1.T2) (J.Butler),Foul,Shooting,0,0,0,0,,,v
+S2324-G0600,1,03:27,LAC,18.0,BKN,21.0,D. Smith Jr.,BKN,Smith Jr. 3PT Jump Shot (3 PTS) (Bridges 1 AST),Made Shot,Jump Shot,234,5,0,1,3.0,3.0,v
+S2324-G0600,1,03:06,LAC,18.0,BKN,23.0,D. Smith Jr.,BKN,Smith Jr. 2' Running Layup (5 PTS) (Bridges 2 AST),Made Shot,Running Layup Shot,-2,22,2,1,2.0,2.0,v
+S2324-G0600,1,02:39,LAC,,BKN,,D. Smith Jr.,BKN,Smith Jr. Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0600,1,02:15,LAC,,BKN,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0600,2,10:53,LAC,,BKN,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0600,2,10:50,LAC,27.0,BKN,30.0,D. Smith Jr.,BKN,Smith Jr. 3' Driving Finger Roll Layup (7 PTS),Made Shot,Driving Finger Roll Layup Shot,-17,27,3,1,2.0,2.0,v
+S2324-G0600,2,09:29,LAC,,BKN,,D. Smith Jr.,BKN,Smith Jr. Bad Pass Turnover (P2.T4),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0600,2,08:16,LAC,29.0,BKN,40.0,D. Smith Jr.,BKN,Smith Jr. 2' Driving Reverse Layup (9 PTS) (Thomas 2 AST),Made Shot,Driving Reverse Layup Shot,-4,20,2,1,2.0,2.0,v
+S2324-G0600,2,08:09,LAC,,BKN,,D. Smith Jr.,BKN,Smith Jr. P.FOUL (P2.T2) (D.Richardson),Foul,Personal,0,0,0,0,,,v
+S2324-G0600,2,07:34,LAC,,BKN,,D. Smith Jr.,BKN,"Double Technical - Smith Jr., Harden (S.Foster)",Foul,Double Technical,0,0,0,0,,,
+S2324-G0600,2,07:19,LAC,,BKN,,D. Smith Jr.,BKN,SUB: Thomas FOR Smith Jr.,Substitution,,0,0,0,0,,,v
+S2324-G0600,3,01:29,LAC,,BKN,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0600,4,11:14,LAC,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 5' Cutting Finger Roll Layup Shot,Missed Shot,Cutting Finger Roll Layup Shot,-39,26,5,1,2.0,0.0,v
+S2324-G0600,4,08:27,LAC,94.0,BKN,106.0,D. Smith Jr.,BKN,Smith Jr. 1' Running Finger Roll Layup (11 PTS),Made Shot,Running Finger Roll Layup Shot,7,4,1,1,2.0,2.0,v
+S2324-G0600,4,07:40,LAC,99.0,BKN,108.0,D. Smith Jr.,BKN,Smith Jr. 3' Driving Finger Roll Layup (13 PTS),Made Shot,Driving Finger Roll Layup Shot,20,27,3,1,2.0,2.0,v
+S2324-G0600,4,06:18,LAC,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 28' 3PT Jump Shot,Missed Shot,Jump Shot,-37,279,28,1,3.0,0.0,v
+S2324-G0600,4,06:07,LAC,,BKN,,D. Smith Jr.,BKN,SUB: Claxton FOR Smith Jr.,Substitution,,0,0,0,0,,,v
+S2324-G0084,1,00:18.600000,DAL,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 2' Driving Layup,Missed Shot,Driving Layup Shot,13,20,2,1,2.0,0.0,v
+S2324-G0084,2,11:35,DAL,,BKN,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0084,2,08:31,DAL,,BKN,,D. Smith Jr.,BKN,Smith Jr. OFF.Foul (P1) (J.Tiven),Foul,Offensive,0,0,0,0,,,v
+S2324-G0084,2,08:31,DAL,,BKN,,D. Smith Jr.,BKN,Smith Jr. Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0084,2,08:31,DAL,,BKN,,D. Smith Jr.,BKN,SUB: Simmons FOR Smith Jr.,Substitution,,0,0,0,0,,,v
+S2324-G0084,3,02:53,DAL,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,5,188,19,1,2.0,0.0,v
+S2324-G0084,3,02:41,DAL,,BKN,,D. Smith Jr.,BKN,Smith Jr. S.FOUL (P2.T3) (D.Scott),Foul,Shooting,0,0,0,0,,,v
+S2324-G0084,3,02:15,DAL,,BKN,,D. Smith Jr.,BKN,Smith Jr. S.FOUL (P3.T4) (T.Ford),Foul,Shooting,0,0,0,0,,,v
+S2324-G0084,3,01:55,DAL,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-5,56,6,1,2.0,0.0,v
+S2324-G0084,3,01:43,DAL,,BKN,,D. Smith Jr.,BKN,Smith Jr. S.FOUL (P4.PN) (T.Ford),Foul,Shooting,0,0,0,0,,,v
+S2324-G0084,3,01:43,DAL,,BKN,,D. Smith Jr.,BKN,SUB: Dinwiddie FOR Smith Jr.,Substitution,,0,0,0,0,,,v
+S2324-G0591,1,01:38,LAL,31.0,BKN,26.0,D. Smith Jr.,BKN,Smith Jr. 3PT Jump Shot (3 PTS) (Bridges 1 AST),Made Shot,Jump Shot,227,-7,0,1,3.0,3.0,v
+S2324-G0591,1,01:08,LAL,,BKN,,D. Smith Jr.,BKN,Smith Jr. STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0591,1,01:04,LAL,,BKN,,D. Smith Jr.,BKN,Smith Jr. Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0591,1,00:09.900000,LAL,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 29' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,183,225,29,1,3.0,0.0,v
+S2324-G0591,2,06:21,LAL,,BKN,,D. Smith Jr.,BKN,Smith Jr. S.FOUL (P1.T3) (P.Fraher),Foul,Shooting,0,0,0,0,,,v
+S2324-G0591,2,06:07,LAL,,BKN,,D. Smith Jr.,BKN,Smith Jr. S.FOUL (P2.T4) (C.Kirkland),Foul,Shooting,0,0,0,0,,,v
+S2324-G0591,2,06:07,LAL,,BKN,,D. Smith Jr.,BKN,SUB: Bridges FOR Smith Jr.,Substitution,,0,0,0,0,,,v
+S2324-G0591,3,00:16.900000,LAL,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 24' 3PT Jump Shot,Missed Shot,Jump Shot,-230,59,24,1,3.0,0.0,v
+S2324-G0591,4,11:38,LAL,,BKN,,D. Smith Jr.,BKN,Smith Jr. STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0591,4,10:31,LAL,,BKN,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0591,4,10:29,LAL,91.0,BKN,105.0,D. Smith Jr.,BKN,Smith Jr. 2' Running Layup (5 PTS) (Walker IV 2 AST),Made Shot,Running Layup Shot,6,21,2,1,2.0,2.0,v
+S2324-G0591,4,09:47,LAL,95.0,BKN,107.0,D. Smith Jr.,BKN,Smith Jr. 2' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,-13,15,2,1,2.0,2.0,v
+S2324-G0591,4,09:47,LAL,95.0,BKN,108.0,D. Smith Jr.,BKN,Smith Jr. Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G0591,4,09:34,LAL,,BKN,,D. Smith Jr.,BKN,Smith Jr. STEAL (3 STL),,,0,0,0,0,,,v
+S2324-G0591,4,09:28,LAL,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 3' Driving Layup,Missed Shot,Driving Layup Shot,-4,26,3,1,2.0,0.0,v
+S2324-G0591,4,07:13,LAL,,BKN,,D. Smith Jr.,BKN,Smith Jr. Bad Pass Turnover (P2.T9),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0591,4,06:06,LAL,,BKN,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0591,4,05:56,LAL,102.0,BKN,120.0,D. Smith Jr.,BKN,Smith Jr. 24' 3PT Jump Shot (11 PTS) (Walker IV 3 AST),Made Shot,Jump Shot,-234,47,24,1,3.0,3.0,v
+S2324-G0591,4,05:29,LAL,,BKN,,D. Smith Jr.,BKN,SUB: Bridges FOR Smith Jr.,Substitution,,0,0,0,0,,,v
+S2324-G0968,2,10:01,IND,29.0,BKN,36.0,D. Smith Jr.,BKN,Smith Jr. Alley Oop Dunk (2 PTS) (Johnson 2 AST),Made Shot,Alley Oop Dunk Shot,-4,0,0,1,2.0,2.0,v
+S2324-G0968,2,09:09,IND,,BKN,,D. Smith Jr.,BKN,Smith Jr. S.FOUL (P1.T1) (B.Kennedy),Foul,Shooting,0,0,0,0,,,v
+S2324-G0968,2,09:01,IND,32.0,BKN,38.0,D. Smith Jr.,BKN,Smith Jr. 2' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,-5,17,2,1,2.0,2.0,v
+S2324-G0968,2,08:40,IND,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,-191,180,26,1,3.0,0.0,v
+S2324-G0968,2,07:13,IND,,BKN,,D. Smith Jr.,BKN,Smith Jr. P.FOUL (P2.T2) (B.Kennedy),Foul,Personal,0,0,0,0,,,v
+S2324-G0968,2,05:58,IND,,BKN,,D. Smith Jr.,BKN,SUB: Johnson FOR Smith Jr.,Substitution,,0,0,0,0,,,v
+S2324-G0968,3,01:35,IND,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 9' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-88,27,9,1,2.0,0.0,v
+S2324-G0968,3,01:29,IND,,BKN,,D. Smith Jr.,BKN,Smith Jr. S.FOUL (P3.T2) (E.Scott),Foul,Shooting,0,0,0,0,,,v
+S2324-G0968,4,09:16,IND,,BKN,,D. Smith Jr.,BKN,Smith Jr. Bad Pass Turnover (P1.T17),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0968,4,09:12,IND,,BKN,,D. Smith Jr.,BKN,SUB: Finney-Smith FOR Smith Jr.,Substitution,,0,0,0,0,,,v
+S2324-G0010,1,00:50.800000,BOS,,BKN,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0010,1,00:45.700000,BOS,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 5' Running Layup,Missed Shot,Running Layup Shot,-42,21,5,1,2.0,0.0,v
+S2324-G0010,1,00:00.800000,BOS,,BKN,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0010,2,03:24,BOS,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,228,94,25,1,3.0,0.0,v
+S2324-G0010,2,01:10,BOS,66.0,BKN,51.0,D. Smith Jr.,BKN,Smith Jr. 23' Step Back Jump Shot (2 PTS),Made Shot,Step Back Jump shot,86,211,23,1,2.0,2.0,v
+S2324-G0010,3,05:06,BOS,,BKN,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0010,3,04:32,BOS,81.0,BKN,65.0,D. Smith Jr.,BKN,Smith Jr. 7' Driving Layup (4 PTS) (Walker IV 3 AST),Made Shot,Driving Layup Shot,-44,56,7,1,2.0,2.0,v
+S2324-G0010,3,03:40,BOS,86.0,BKN,71.0,D. Smith Jr.,BKN,Smith Jr. 4' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,23,32,4,1,2.0,2.0,v
+S2324-G0010,3,01:02,BOS,,BKN,,D. Smith Jr.,BKN,Smith Jr. P.FOUL (P1.PN) (S.Corbin),Foul,Personal,0,0,0,0,,,v
+S2324-G0010,3,00:51.400000,BOS,92.0,BKN,81.0,D. Smith Jr.,BKN,Smith Jr. Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0010,3,00:51.400000,BOS,92.0,BKN,82.0,D. Smith Jr.,BKN,Smith Jr. Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0010,3,00:40.600000,BOS,,BKN,,D. Smith Jr.,BKN,Smith Jr. P.FOUL (P2.PN) (Z.Zarba),Foul,Personal,0,0,0,0,,,v
+S2324-G0010,3,00:30.400000,BOS,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 4' Driving Layup,Missed Shot,Driving Layup Shot,21,29,4,1,2.0,0.0,v
+S2324-G0010,4,10:27,BOS,98.0,BKN,86.0,D. Smith Jr.,BKN,Smith Jr. 20' Step Back Jump Shot (10 PTS),Made Shot,Step Back Jump shot,-184,72,20,1,2.0,2.0,v
+S2324-G0010,4,09:39,BOS,,BKN,,D. Smith Jr.,BKN,SUB: Walker IV FOR Smith Jr.,Substitution,,0,0,0,0,,,v
+S2324-G0010,4,08:15,BOS,,BKN,,D. Smith Jr.,BKN,Smith Jr. S.FOUL (P3.PN) (Z.Zarba),Foul,Shooting,0,0,0,0,,,v
+S2324-G0010,4,08:03,BOS,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 15' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-70,127,15,1,2.0,0.0,v
+S2324-G0010,4,08:01,BOS,,BKN,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0010,4,08:01,BOS,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2324-G0010,4,07:49,BOS,106.0,BKN,90.0,D. Smith Jr.,BKN,Smith Jr. 2' Running Dunk (12 PTS) (Walker IV 4 AST),Made Shot,Running Dunk Shot,-4,22,2,1,2.0,2.0,v
+S2324-G0010,4,03:32,BOS,116.0,BKN,95.0,D. Smith Jr.,BKN,Smith Jr. Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0010,4,03:32,BOS,116.0,BKN,96.0,D. Smith Jr.,BKN,Smith Jr. Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0010,4,00:46.300000,BOS,,BKN,,D. Smith Jr.,BKN,Smith Jr. S.FOUL (P4.PN) (S.Corbin),Foul,Shooting,0,0,0,0,,,v
+S2324-G0417,1,08:58,BKN,,MIL,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0417,1,05:03,BKN,,MIL,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0417,1,04:24,BKN,,MIL,,D. Smith Jr.,BKN,MISS Smith Jr. 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,39,184,19,1,2.0,0.0,h
+S2324-G0417,1,03:57,BKN,,MIL,,D. Smith Jr.,BKN,SUB: Watford FOR Smith Jr.,Substitution,,0,0,0,0,,,h
+S2324-G0417,2,11:45,BKN,,MIL,,D. Smith Jr.,BKN,MISS Smith Jr. 3' Driving Layup,Missed Shot,Driving Layup Shot,-25,11,3,1,2.0,0.0,h
+S2324-G0417,2,10:39,BKN,35.0,MIL,35.0,D. Smith Jr.,BKN,Smith Jr. 3' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,17,30,3,1,2.0,2.0,h
+S2324-G0417,2,08:45,BKN,,MIL,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0417,2,08:26,BKN,,MIL,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0417,2,08:23,BKN,,MIL,,D. Smith Jr.,BKN,Smith Jr. T.FOUL (P0.T1) (J.Orr),Foul,Technical,0,0,0,0,,,h
+S2324-G0417,2,08:06,BKN,,MIL,,D. Smith Jr.,BKN,MISS Smith Jr. 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,21,255,26,1,3.0,0.0,h
+S2324-G0417,2,07:11,BKN,39.0,MIL,41.0,D. Smith Jr.,BKN,Smith Jr. 1' Driving Layup (4 PTS) (Clowney 1 AST),Made Shot,Driving Layup Shot,-7,0,1,1,2.0,2.0,h
+S2324-G0417,2,05:51,BKN,,MIL,,D. Smith Jr.,BKN,MISS Smith Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,48,252,26,1,3.0,0.0,h
+S2324-G0417,2,05:16,BKN,41.0,MIL,47.0,D. Smith Jr.,BKN,Smith Jr. 1' Running Dunk (6 PTS),Made Shot,Running Dunk Shot,6,4,1,1,2.0,2.0,h
+S2324-G0417,2,04:44,BKN,,MIL,,D. Smith Jr.,BKN,MISS Smith Jr. 3' Driving Layup,Missed Shot,Driving Layup Shot,-32,0,3,1,2.0,0.0,h
+S2324-G0417,2,03:25,BKN,,MIL,,D. Smith Jr.,BKN,MISS Smith Jr. 4' Running Layup,Missed Shot,Running Layup Shot,15,32,4,1,2.0,0.0,h
+S2324-G0417,2,02:19,BKN,,MIL,,D. Smith Jr.,BKN,SUB: Johnson FOR Smith Jr.,Substitution,,0,0,0,0,,,h
+S2324-G0417,3,11:38,BKN,,MIL,,D. Smith Jr.,BKN,MISS Smith Jr. 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-147,207,25,1,3.0,0.0,h
+S2324-G0417,3,11:14,BKN,,MIL,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0417,3,11:14,BKN,62.0,MIL,66.0,D. Smith Jr.,BKN,Smith Jr. Tip Layup Shot (8 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2324-G0417,3,10:03,BKN,65.0,MIL,71.0,D. Smith Jr.,BKN,Smith Jr. 1' Driving Dunk (10 PTS),Made Shot,Driving Dunk Shot,2,8,1,1,2.0,2.0,h
+S2324-G0417,3,07:51,BKN,,MIL,,D. Smith Jr.,BKN,MISS Smith Jr. 2' Driving Layup,Missed Shot,Driving Layup Shot,-12,18,2,1,2.0,0.0,h
+S2324-G0417,3,06:30,BKN,,MIL,,D. Smith Jr.,BKN,Smith Jr. STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0417,3,06:30,BKN,,MIL,,D. Smith Jr.,BKN,Smith Jr. Step Out of Bounds Turnover (P1.T5),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2324-G0417,3,06:24,BKN,,MIL,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0417,3,05:39,BKN,,MIL,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0417,3,04:49,BKN,81.0,MIL,81.0,D. Smith Jr.,BKN,Smith Jr. 5' Driving Layup (12 PTS) (Sharpe 4 AST),Made Shot,Driving Layup Shot,-37,29,5,1,2.0,2.0,h
+S2324-G0417,3,04:00,BKN,,MIL,,D. Smith Jr.,BKN,Smith Jr. Bad Pass Turnover (P2.T7),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0417,3,03:13,BKN,84.0,MIL,88.0,D. Smith Jr.,BKN,Smith Jr. 2' Driving Finger Roll Layup (14 PTS),Made Shot,Driving Finger Roll Layup Shot,12,20,2,1,2.0,2.0,h
+S2324-G0417,3,01:00,BKN,,MIL,,D. Smith Jr.,BKN,MISS Smith Jr. 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,112,227,25,1,3.0,0.0,h
+S2324-G0417,3,00:00,BKN,,MIL,,D. Smith Jr.,BKN,MISS Smith Jr. 10' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-66,69,10,1,2.0,0.0,h
+S2324-G0178,1,04:18,BKN,,WAS,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0178,1,03:20,BKN,,WAS,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0178,1,03:16,BKN,21.0,WAS,9.0,D. Smith Jr.,BKN,Smith Jr. Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0178,1,03:16,BKN,22.0,WAS,9.0,D. Smith Jr.,BKN,Smith Jr. Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0178,2,10:06,BKN,33.0,WAS,21.0,D. Smith Jr.,BKN,Smith Jr. 25' 3PT Pullup Jump Shot (5 PTS) (Watford 1 AST),Made Shot,Pullup Jump shot,-11,248,25,1,3.0,3.0,h
+S2324-G0178,2,09:51,BKN,,WAS,,D. Smith Jr.,BKN,SUB: Bridges FOR Smith Jr.,Substitution,,0,0,0,0,,,h
+S2324-G0178,2,02:13,BKN,,WAS,,D. Smith Jr.,BKN,Smith Jr. Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0178,3,05:14,BKN,,WAS,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0178,3,04:25,BKN,,WAS,,D. Smith Jr.,BKN,Smith Jr. Bad Pass Turnover (P2.T13),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0178,3,04:00,BKN,,WAS,,D. Smith Jr.,BKN,Smith Jr. Out of Bounds - Bad Pass Turnover Turnover (P3.T14),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G0178,3,02:31,BKN,71.0,WAS,67.0,D. Smith Jr.,BKN,Smith Jr. 3PT Jump Shot (8 PTS) (Walker IV 2 AST),Made Shot,Jump Shot,229,-5,0,1,3.0,3.0,h
+S2324-G0178,3,02:15,BKN,,WAS,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0178,3,01:27,BKN,,WAS,,D. Smith Jr.,BKN,MISS Smith Jr. 7' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,42,59,7,1,2.0,0.0,h
+S2324-G0178,4,11:47,BKN,,WAS,,D. Smith Jr.,BKN,MISS Smith Jr. 3' Driving Layup,Missed Shot,Driving Layup Shot,-31,4,3,1,2.0,0.0,h
+S2324-G0178,4,10:34,BKN,,WAS,,D. Smith Jr.,BKN,Smith Jr. S.FOUL (P1.T1) (K.Lane),Foul,Shooting,0,0,0,0,,,h
+S2324-G0178,4,10:10,BKN,,WAS,,D. Smith Jr.,BKN,Smith Jr. Bad Pass Turnover (P4.T15),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0178,4,09:43,BKN,,WAS,,D. Smith Jr.,BKN,SUB: Dinwiddie FOR Smith Jr.,Substitution,,0,0,0,0,,,h
+S2324-G0660,1,00:58.300000,BKN,38.0,UTA,24.0,D. Smith Jr.,BKN,Smith Jr. 2' Driving Floating Bank Jump Shot (2 PTS) (Walker IV 1 AST),Made Shot,Driving Floating Bank Jump Shot,-2,20,2,1,2.0,2.0,h
+S2324-G0660,1,00:06.500000,BKN,,UTA,,D. Smith Jr.,BKN,Smith Jr. STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0660,1,00:04.600000,BKN,43.0,UTA,25.0,D. Smith Jr.,BKN,Smith Jr. 1' Running Dunk (4 PTS),Made Shot,Running Dunk Shot,2,6,1,1,2.0,2.0,h
+S2324-G0660,2,11:27,BKN,,UTA,,D. Smith Jr.,BKN,Smith Jr. Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G0660,2,10:51,BKN,,UTA,,D. Smith Jr.,BKN,MISS Smith Jr. 24' 3PT Jump Shot,Missed Shot,Jump Shot,-154,190,24,1,3.0,0.0,h
+S2324-G0660,2,09:38,BKN,,UTA,,D. Smith Jr.,BKN,MISS Smith Jr. 2' Driving Layup,Missed Shot,Driving Layup Shot,21,3,2,1,2.0,0.0,h
+S2324-G0660,2,08:25,BKN,,UTA,,D. Smith Jr.,BKN,Smith Jr. S.FOUL (P1.T2) (B.Forte),Foul,Shooting,0,0,0,0,,,h
+S2324-G0660,2,08:25,BKN,,UTA,,D. Smith Jr.,BKN,SUB: Thomas FOR Smith Jr.,Substitution,,0,0,0,0,,,h
+S2324-G0660,3,02:02,BKN,,UTA,,D. Smith Jr.,BKN,MISS Smith Jr. 27' 3PT Jump Shot,Missed Shot,Jump Shot,80,257,27,1,3.0,0.0,h
+S2324-G0660,3,01:13,BKN,,UTA,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0660,3,00:34.700000,BKN,98.0,UTA,85.0,D. Smith Jr.,BKN,Smith Jr. Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0660,3,00:34.700000,BKN,99.0,UTA,85.0,D. Smith Jr.,BKN,Smith Jr. Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0660,3,00:28.800000,BKN,,UTA,,D. Smith Jr.,BKN,Smith Jr. STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0660,3,00:25.800000,BKN,101.0,UTA,85.0,D. Smith Jr.,BKN,Smith Jr. 1' Running Layup (8 PTS) (Bridges 3 AST),Made Shot,Running Layup Shot,-7,8,1,1,2.0,2.0,h
+S2324-G0660,4,11:22,BKN,,UTA,,D. Smith Jr.,BKN,Smith Jr. P.FOUL (P2.T1) (M.Smith),Foul,Personal,0,0,0,0,,,h
+S2324-G0660,4,10:03,BKN,,UTA,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0660,4,09:06,BKN,118.0,UTA,92.0,D. Smith Jr.,BKN,Smith Jr. 1' Alley Oop Dunk (10 PTS) (Dinwiddie 8 AST),Made Shot,Alley Oop Dunk Shot,2,-6,1,1,2.0,2.0,h
+S2324-G0660,4,07:44,BKN,,UTA,,D. Smith Jr.,BKN,SUB: Simmons FOR Smith Jr.,Substitution,,0,0,0,0,,,h
+S2324-G0660,4,00:51.300000,BKN,147.0,UTA,112.0,D. Smith Jr.,BKN,Smith Jr. 2' Driving Reverse Layup (12 PTS) (Giles III 1 AST),Made Shot,Driving Reverse Layup Shot,-6,20,2,1,2.0,2.0,h
+S2324-G0461,1,01:38,NOP,,BKN,,D. Smith Jr.,BKN,Smith Jr. S.FOUL (P1.T3) (G.Petraitis),Foul,Shooting,0,0,0,0,,,v
+S2324-G0461,2,11:06,NOP,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 27' 3PT Jump Shot,Missed Shot,Jump Shot,-190,185,27,1,3.0,0.0,v
+S2324-G0461,2,09:31,NOP,42.0,BKN,23.0,D. Smith Jr.,BKN,Smith Jr. 3PT Jump Shot (3 PTS) (Johnson 1 AST),Made Shot,Jump Shot,224,-3,0,1,3.0,3.0,v
+S2324-G0461,2,07:42,NOP,,BKN,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0461,2,06:50,NOP,,BKN,,D. Smith Jr.,BKN,Smith Jr. Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0461,2,06:38,NOP,,BKN,,D. Smith Jr.,BKN,SUB: Finney-Smith FOR Smith Jr.,Substitution,,0,0,0,0,,,v
+S2324-G0461,3,07:20,NOP,,BKN,,D. Smith Jr.,BKN,Smith Jr. STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0461,3,07:15,NOP,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 4' Running Layup,Missed Shot,Running Layup Shot,-15,37,4,1,2.0,0.0,v
+S2324-G0461,3,04:25,NOP,77.0,BKN,53.0,D. Smith Jr.,BKN,Smith Jr. 24' 3PT Jump Shot (6 PTS) (O'Neale 2 AST),Made Shot,Jump Shot,229,80,24,1,3.0,3.0,v
+S2324-G0461,3,03:52,NOP,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 3PT Jump Shot,Missed Shot,Jump Shot,-228,24,0,1,3.0,0.0,v
+S2324-G0461,3,02:08,NOP,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0461,3,02:08,NOP,80.0,BKN,57.0,D. Smith Jr.,BKN,Smith Jr. Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0461,3,01:38,NOP,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 7' Driving Layup,Missed Shot,Driving Layup Shot,-54,40,7,1,2.0,0.0,v
+S2324-G0461,4,09:10,NOP,89.0,BKN,64.0,D. Smith Jr.,BKN,Smith Jr. 3' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,-13,22,3,1,2.0,2.0,v
+S2324-G0461,4,06:51,NOP,,BKN,,D. Smith Jr.,BKN,SUB: Watford FOR Smith Jr.,Substitution,,0,0,0,0,,,v
+S2324-G0498,1,02:53,BKN,,POR,,D. Smith Jr.,BKN,Smith Jr. STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0498,1,01:17,BKN,,POR,,D. Smith Jr.,BKN,Smith Jr. S.FOUL (P1.PN) (T.Ford),Foul,Shooting,0,0,0,0,,,h
+S2324-G0498,1,00:29.200000,BKN,,POR,,D. Smith Jr.,BKN,Smith Jr. L.B.FOUL (P2.PN) (J.Conley),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0498,1,00:00.700000,BKN,,POR,,D. Smith Jr.,BKN,Smith Jr. STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0498,1,00:00,BKN,,POR,,D. Smith Jr.,BKN,MISS Smith Jr. 15' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,75,133,15,1,2.0,0.0,h
+S2324-G0498,2,10:28,BKN,,POR,,D. Smith Jr.,BKN,Smith Jr. S.FOUL (P3.T3) (A.Nagy),Foul,Shooting,0,0,0,0,,,h
+S2324-G0498,2,09:55,BKN,,POR,,D. Smith Jr.,BKN,MISS Smith Jr. 3' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,-22,23,3,1,2.0,0.0,h
+S2324-G0498,2,08:33,BKN,38.0,POR,31.0,D. Smith Jr.,BKN,Smith Jr. 1' Running Dunk (2 PTS),Made Shot,Running Dunk Shot,-5,12,1,1,2.0,2.0,h
+S2324-G0498,2,08:19,BKN,,POR,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0498,2,07:39,BKN,,POR,,D. Smith Jr.,BKN,SUB: Dinwiddie FOR Smith Jr.,Substitution,,0,0,0,0,,,h
+S2324-G0498,3,02:57,BKN,,POR,,D. Smith Jr.,BKN,MISS Smith Jr. 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,13,-8,2,1,2.0,0.0,h
+S2324-G0498,3,01:35,BKN,88.0,POR,83.0,D. Smith Jr.,BKN,Smith Jr. Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0498,3,01:35,BKN,89.0,POR,83.0,D. Smith Jr.,BKN,Smith Jr. Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0498,3,00:01.800000,BKN,92.0,POR,85.0,D. Smith Jr.,BKN,Smith Jr. Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0498,3,00:01.800000,BKN,93.0,POR,85.0,D. Smith Jr.,BKN,Smith Jr. Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0498,4,09:29,BKN,97.0,POR,93.0,D. Smith Jr.,BKN,Smith Jr. 1' Driving Dunk (8 PTS),Made Shot,Driving Dunk Shot,10,-2,1,1,2.0,2.0,h
+S2324-G0498,4,06:46,BKN,,POR,,D. Smith Jr.,BKN,Smith Jr. BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0498,4,05:22,BKN,,POR,,D. Smith Jr.,BKN,Smith Jr. OFF.Foul (P4) (A.Nagy),Foul,Offensive,0,0,0,0,,,h
+S2324-G0498,4,05:22,BKN,,POR,,D. Smith Jr.,BKN,Smith Jr. Offensive Foul Turnover (P1.T13),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0498,4,04:21,BKN,,POR,,D. Smith Jr.,BKN,MISS Smith Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,20,245,25,1,3.0,0.0,h
+S2324-G0498,4,03:14,BKN,,POR,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0498,4,01:46,BKN,111.0,POR,110.0,D. Smith Jr.,BKN,Smith Jr. 2' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,22,-6,2,1,2.0,2.0,h
+S2324-G0498,4,00:05.500000,BKN,,POR,,D. Smith Jr.,BKN,SUB: O'Neale FOR Smith Jr.,Substitution,,0,0,0,0,,,h
+S2324-G0498,5,00:30.700000,BKN,,POR,,D. Smith Jr.,BKN,Smith Jr. Personal Take Foul (P5.PN) (A.Nagy),Foul,Personal Take,0,0,0,0,,,h
+S2324-G0498,5,00:24.300000,BKN,,POR,,D. Smith Jr.,BKN,MISS Smith Jr. 2' Running Reverse Layup,Missed Shot,Running Reverse Layup Shot,23,5,2,1,2.0,0.0,h
+S2324-G0498,5,00:23.900000,BKN,,POR,,D. Smith Jr.,BKN,Smith Jr. P.FOUL (P6.PN) (J.Conley),Foul,Personal,0,0,0,0,,,h
+S2324-G0498,5,00:23.900000,BKN,,POR,,D. Smith Jr.,BKN,SUB: Watford FOR Smith Jr.,Substitution,,0,0,0,0,,,h
+S2324-G0578,1,02:05,POR,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 3' Driving Layup,Missed Shot,Driving Layup Shot,-28,11,3,1,2.0,0.0,v
+S2324-G0578,1,02:05,POR,,BKN,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0578,2,11:05,POR,,BKN,,D. Smith Jr.,BKN,Smith Jr. STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0578,2,11:01,POR,26.0,BKN,28.0,D. Smith Jr.,BKN,Smith Jr. 2' Running Dunk (2 PTS),Made Shot,Running Dunk Shot,-16,2,2,1,2.0,2.0,v
+S2324-G0578,2,10:43,POR,,BKN,,D. Smith Jr.,BKN,Smith Jr. Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0578,2,08:34,POR,,BKN,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0578,2,07:55,POR,,BKN,,D. Smith Jr.,BKN,Smith Jr. S.FOUL (P1.T2) (R.Acosta),Foul,Shooting,0,0,0,0,,,v
+S2324-G0578,2,05:54,POR,,BKN,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0578,2,05:05,POR,,BKN,,D. Smith Jr.,BKN,SUB: Bridges FOR Smith Jr.,Substitution,,0,0,0,0,,,v
+S2324-G0578,2,00:00.900000,POR,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-82,262,27,1,3.0,0.0,v
+S2324-G0578,4,09:32,POR,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 13' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,51,119,13,1,2.0,0.0,v
+S2324-G0578,4,08:43,POR,,BKN,,D. Smith Jr.,BKN,Smith Jr. STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0578,4,07:32,POR,,BKN,,D. Smith Jr.,BKN,SUB: Johnson FOR Smith Jr.,Substitution,,0,0,0,0,,,v
+S2324-G0981,1,01:39,SAS,,BKN,,D. Smith Jr.,BKN,Smith Jr. Step Out of Bounds Turnover (P1.T2),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2324-G0981,1,00:06.500000,SAS,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 24' 3PT Jump Shot,Missed Shot,Jump Shot,238,26,24,1,3.0,0.0,v
+S2324-G0981,2,10:23,SAS,,BKN,,D. Smith Jr.,BKN,SUB: Finney-Smith FOR Smith Jr.,Substitution,,0,0,0,0,,,v
+S2324-G0981,3,02:08,SAS,,BKN,,D. Smith Jr.,BKN,Smith Jr. STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0981,3,02:04,SAS,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 2' Running Layup,Missed Shot,Running Layup Shot,-2,23,2,1,2.0,0.0,v
+S2324-G0981,3,02:02,SAS,,BKN,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0981,3,02:02,SAS,,BKN,,D. Smith Jr.,BKN,Smith Jr. T.FOUL (P0.T2) (G.Petraitis),Foul,Technical,0,0,0,0,,,v
+S2324-G0981,3,01:35,SAS,76.0,BKN,79.0,D. Smith Jr.,BKN,Smith Jr. 1' Driving Dunk (2 PTS),Made Shot,Driving Dunk Shot,2,8,1,1,2.0,2.0,v
+S2324-G0981,3,00:07.700000,SAS,,BKN,,D. Smith Jr.,BKN,Smith Jr. P.FOUL (P1.T3) (B.Schwab),Foul,Personal,0,0,0,0,,,v
+S2324-G0981,4,11:33,SAS,,BKN,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0981,4,11:30,SAS,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 1' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,9,0,1,1,2.0,0.0,v
+S2324-G0981,4,08:46,SAS,,BKN,,D. Smith Jr.,BKN,Smith Jr. STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0981,4,08:13,SAS,91.0,BKN,96.0,D. Smith Jr.,BKN,Smith Jr. 24' 3PT Jump Shot (5 PTS) (Schroder 6 AST),Made Shot,Jump Shot,230,84,24,1,3.0,3.0,v
+S2324-G0981,4,07:42,SAS,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 1' Driving Layup,Missed Shot,Driving Layup Shot,-6,7,1,1,2.0,0.0,v
+S2324-G0981,4,07:13,SAS,,BKN,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0981,4,04:36,SAS,,BKN,,D. Smith Jr.,BKN,SUB: Thomas FOR Smith Jr.,Substitution,,0,0,0,0,,,v
+S2324-G0981,5,00:20.800000,SAS,,BKN,,D. Smith Jr.,BKN,SUB: Johnson FOR Smith Jr.,Substitution,,0,0,0,0,,,v
+S2324-G0780,1,02:03,BOS,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,67,256,26,1,3.0,0.0,v
+S2324-G0780,1,00:08.400000,BOS,,BKN,,D. Smith Jr.,BKN,Smith Jr. S.FOUL (P1.PN) (J.Schroeder),Foul,Shooting,0,0,0,0,,,v
+S2324-G0780,2,03:49,BOS,55.0,BKN,22.0,D. Smith Jr.,BKN,Smith Jr. 25' 3PT Jump Shot (3 PTS) (C. Johnson 1 AST),Made Shot,Jump Shot,135,215,25,1,3.0,3.0,v
+S2324-G0780,2,02:52,BOS,55.0,BKN,26.0,D. Smith Jr.,BKN,Smith Jr. 17' Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,-7,165,17,1,2.0,2.0,v
+S2324-G0780,2,01:38,BOS,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 6' Driving Layup,Missed Shot,Driving Layup Shot,-40,49,6,1,2.0,0.0,v
+S2324-G0780,2,01:03,BOS,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,259,26,1,3.0,0.0,v
+S2324-G0780,2,00:00,BOS,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 48' 3PT Jump Shot,Missed Shot,Jump Shot,-140,458,48,1,3.0,0.0,v
+S2324-G0780,3,05:30,BOS,,BKN,,D. Smith Jr.,BKN,Smith Jr. Lost Ball Turnover (P1.T8),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0780,3,03:25,BOS,,BKN,,D. Smith Jr.,BKN,Smith Jr. Transition Take Foul (P2.T2) (J.Goble),Foul                                    ,Transition Take,0,0,0,0,,,v
+S2324-G0780,3,01:54,BOS,93.0,BKN,52.0,D. Smith Jr.,BKN,Smith Jr. 2' Running Dunk (7 PTS) (Bridges 4 AST),Made Shot,Running Dunk Shot,-1,20,2,1,2.0,2.0,v
+S2324-G0780,3,00:01,BOS,,BKN,,D. Smith Jr.,BKN,Smith Jr. STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0562,1,03:32,BKN,,MIA,,D. Smith Jr.,BKN,Smith Jr. BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0562,1,03:00,BKN,,MIA,,D. Smith Jr.,BKN,Smith Jr. STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0562,1,02:19,BKN,,MIA,,D. Smith Jr.,BKN,MISS Smith Jr. 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-11,133,13,1,2.0,0.0,h
+S2324-G0562,1,01:57,BKN,,MIA,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0562,1,01:56,BKN,16.0,MIA,14.0,D. Smith Jr.,BKN,Smith Jr. Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0562,1,01:56,BKN,,MIA,,D. Smith Jr.,BKN,MISS Smith Jr. Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0562,1,00:31.800000,BKN,,MIA,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0562,2,07:47,BKN,,MIA,,D. Smith Jr.,BKN,Smith Jr. STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0562,2,07:40,BKN,,MIA,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0562,2,06:43,BKN,35.0,MIA,21.0,D. Smith Jr.,BKN,Smith Jr. 1' Driving Finger Roll Layup (3 PTS) (Walker IV 1 AST),Made Shot,Driving Finger Roll Layup Shot,-11,10,1,1,2.0,2.0,h
+S2324-G0562,2,06:12,BKN,,MIA,,D. Smith Jr.,BKN,MISS Smith Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,-102,238,26,1,3.0,0.0,h
+S2324-G0562,2,05:57,BKN,,MIA,,D. Smith Jr.,BKN,Smith Jr. S.FOUL (P1.T3) (M.Kallio),Foul,Shooting,0,0,0,0,,,h
+S2324-G0562,2,05:57,BKN,,MIA,,D. Smith Jr.,BKN,SUB: Johnson FOR Smith Jr.,Substitution,,0,0,0,0,,,h
+S2324-G0562,3,02:58,BKN,58.0,MIA,57.0,D. Smith Jr.,BKN,Smith Jr. 2' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,-21,13,2,1,2.0,2.0,h
+S2324-G0562,3,01:43,BKN,64.0,MIA,64.0,D. Smith Jr.,BKN,Smith Jr. 3PT Jump Shot (8 PTS) (Bridges 4 AST),Made Shot,Jump Shot,229,10,0,1,3.0,3.0,h
+S2324-G0562,4,11:51,BKN,,MIA,,D. Smith Jr.,BKN,Smith Jr. Lost Ball Turnover (P1.T6),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0562,4,11:43,BKN,,MIA,,D. Smith Jr.,BKN,Smith Jr. STEAL (3 STL),,,0,0,0,0,,,h
+S2324-G0562,4,10:31,BKN,,MIA,,D. Smith Jr.,BKN,Smith Jr. Bad Pass Turnover (P2.T7),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0562,4,10:28,BKN,,MIA,,D. Smith Jr.,BKN,Smith Jr. STEAL (4 STL),,,0,0,0,0,,,h
+S2324-G0562,4,09:37,BKN,,MIA,,D. Smith Jr.,BKN,MISS Smith Jr. 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,230,26,0,1,3.0,0.0,h
+S2324-G0562,4,03:08,BKN,,MIA,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0562,4,03:07,BKN,,MIA,,D. Smith Jr.,BKN,MISS Smith Jr. 2' Running Layup,Missed Shot,Running Layup Shot,5,24,2,1,2.0,0.0,h
+S2324-G0562,4,02:57,BKN,,MIA,,D. Smith Jr.,BKN,MISS Smith Jr. 3PT Jump Shot,Missed Shot,Jump Shot,233,14,0,1,3.0,0.0,h
+S2324-G0562,4,00:05.900000,BKN,,MIA,,D. Smith Jr.,BKN,SUB: Johnson FOR Smith Jr.,Substitution,,0,0,0,0,,,h
+S2324-G0562,5,02:27,BKN,,MIA,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0562,5,00:11.800000,BKN,,MIA,,D. Smith Jr.,BKN,Smith Jr. S.FOUL (P2.T2) (J.Orr),Foul,Shooting,0,0,0,0,,,h
+S2324-G0562,5,00:11.800000,BKN,,MIA,,D. Smith Jr.,BKN,SUB: Finney-Smith FOR Smith Jr.,Substitution,,0,0,0,0,,,h
+S2324-G0866,1,02:49,BKN,,ATL,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0866,1,00:43,BKN,,ATL,,D. Smith Jr.,BKN,MISS Smith Jr. 3PT Jump Shot,Missed Shot,Jump Shot,-233,18,0,1,3.0,0.0,h
+S2324-G0866,2,09:16,BKN,,ATL,,D. Smith Jr.,BKN,MISS Smith Jr. 10' Step Back Jump Shot,Missed Shot,Step Back Jump shot,21,94,10,1,2.0,0.0,h
+S2324-G0866,2,09:04,BKN,,ATL,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0866,2,09:00,BKN,,ATL,,D. Smith Jr.,BKN,SUB: Walker IV FOR Smith Jr.,Substitution,,0,0,0,0,,,h
+S2324-G0866,2,02:46,BKN,,ATL,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0866,2,02:03,BKN,54.0,ATL,56.0,D. Smith Jr.,BKN,Smith Jr. 24' 3PT Jump Shot (3 PTS) (Bridges 2 AST),Made Shot,Jump Shot,235,18,24,1,3.0,3.0,h
+S2324-G0866,2,01:10,BKN,,ATL,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0866,3,03:48,BKN,,ATL,,D. Smith Jr.,BKN,Smith Jr. BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0866,3,02:06,BKN,,ATL,,D. Smith Jr.,BKN,MISS Smith Jr. 2' Driving Layup,Missed Shot,Driving Layup Shot,-21,-11,2,1,2.0,0.0,h
+S2324-G0866,3,01:55,BKN,,ATL,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0866,3,00:55.300000,BKN,,ATL,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0866,3,00:48.200000,BKN,,ATL,,D. Smith Jr.,BKN,MISS Smith Jr. 2' Layup,Missed Shot,Layup Shot,-18,-8,2,1,2.0,0.0,h
+S2324-G0866,3,00:12.600000,BKN,,ATL,,D. Smith Jr.,BKN,SUB: Johnson FOR Smith Jr.,Substitution,,0,0,0,0,,,h
+S2324-G0866,4,10:17,BKN,,ATL,,D. Smith Jr.,BKN,MISS Smith Jr. 3PT Jump Shot,Missed Shot,Jump Shot,223,13,0,1,3.0,0.0,h
+S2324-G0866,4,08:45,BKN,,ATL,,D. Smith Jr.,BKN,Smith Jr. S.FOUL (P1.T2) (K.Lane),Foul,Shooting,0,0,0,0,,,h
+S2324-G0866,4,08:45,BKN,,ATL,,D. Smith Jr.,BKN,SUB: Bridges FOR Smith Jr.,Substitution,,0,0,0,0,,,h
+S2324-G0866,4,01:45,BKN,,ATL,,D. Smith Jr.,BKN,Smith Jr. S.FOUL (P2.PN) (T.Brothers),Foul,Shooting,0,0,0,0,,,h
+S2324-G0020,1,03:08,BKN,,ORL,,D. Smith Jr.,BKN,MISS Smith Jr. 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,7,29,3,1,2.0,0.0,h
+S2324-G0020,1,02:42,BKN,,ORL,,D. Smith Jr.,BKN,MISS Smith Jr. 8' Pullup Jump Shot,Missed Shot,Pullup Jump shot,4,75,8,1,2.0,0.0,h
+S2324-G0020,1,01:00,BKN,,ORL,,D. Smith Jr.,BKN,Smith Jr. STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0020,2,11:44,BKN,,ORL,,D. Smith Jr.,BKN,Smith Jr. P.FOUL (P1.T1) (E.Scott),Foul,Personal,0,0,0,0,,,h
+S2324-G0020,2,10:51,BKN,,ORL,,D. Smith Jr.,BKN,MISS Smith Jr. 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-20,110,11,1,2.0,0.0,h
+S2324-G0020,2,09:21,BKN,,ORL,,D. Smith Jr.,BKN,SUB: O'Neale FOR Smith Jr.,Substitution,,0,0,0,0,,,h
+S2324-G0020,3,04:42,BKN,73.0,ORL,74.0,D. Smith Jr.,BKN,Smith Jr. 1' Driving Layup (2 PTS) (Bridges 4 AST),Made Shot,Driving Layup Shot,13,-4,1,1,2.0,2.0,h
+S2324-G0020,3,02:14,BKN,,ORL,,D. Smith Jr.,BKN,MISS Smith Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,178,183,26,1,3.0,0.0,h
+S2324-G0020,3,00:58.100000,BKN,,ORL,,D. Smith Jr.,BKN,Smith Jr. P.FOUL (P2.PN) (M.Kogut),Foul,Personal,0,0,0,0,,,h
+S2324-G0020,3,00:26,BKN,,ORL,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0020,3,00:25.900000,BKN,88.0,ORL,84.0,D. Smith Jr.,BKN,Smith Jr. Putback Layup (4 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,h
+S2324-G0020,4,09:45,BKN,,ORL,,D. Smith Jr.,BKN,Smith Jr. Out of Bounds - Bad Pass Turnover Turnover (P1.T11),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G0020,4,08:39,BKN,,ORL,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0020,4,08:20,BKN,,ORL,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0020,4,07:56,BKN,,ORL,,D. Smith Jr.,BKN,Smith Jr. STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0020,4,07:53,BKN,,ORL,,D. Smith Jr.,BKN,SUB: Bridges FOR Smith Jr.,Substitution,,0,0,0,0,,,h
+S2324-G0020,4,02:05,BKN,,ORL,,D. Smith Jr.,BKN,Smith Jr. S.FOUL (P3.T4) (M.Kogut),Foul,Shooting,0,0,0,0,,,h
+S2324-G0020,4,01:47,BKN,118.0,ORL,101.0,D. Smith Jr.,BKN,Smith Jr. 4' Driving Floating Bank Jump Shot (6 PTS),Made Shot,Driving Floating Bank Jump Shot,39,6,4,1,2.0,2.0,h
+S2324-G0149,2,11:04,BKN,,MIL,,D. Smith Jr.,BKN,MISS Smith Jr. 1' Driving Layup,Missed Shot,Driving Layup Shot,-5,0,1,1,2.0,0.0,h
+S2324-G0149,2,07:17,BKN,44.0,MIL,48.0,D. Smith Jr.,BKN,Smith Jr. 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,-32,-1,3,1,2.0,2.0,h
+S2324-G0149,2,06:15,BKN,,MIL,,D. Smith Jr.,BKN,SUB: Dinwiddie FOR Smith Jr.,Substitution,,0,0,0,0,,,h
+S2324-G0149,3,03:29,BKN,,MIL,,D. Smith Jr.,BKN,Smith Jr. P.FOUL (P1.T3) (M.Smith),Foul,Personal,0,0,0,0,,,h
+S2324-G0149,3,02:08,BKN,,MIL,,D. Smith Jr.,BKN,MISS Smith Jr. 5' Driving Layup,Missed Shot,Driving Layup Shot,36,31,5,1,2.0,0.0,h
+S2324-G0149,3,01:37,BKN,,MIL,,D. Smith Jr.,BKN,SUB: Bridges FOR Smith Jr.,Substitution,,0,0,0,0,,,h
+S2324-G0735,1,00:33.200000,BKN,,CLE,,D. Smith Jr.,BKN,MISS Smith Jr. 5' Layup,Missed Shot,Layup Shot,53,3,5,1,2.0,0.0,h
+S2324-G0735,1,00:30.100000,BKN,,CLE,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0735,1,00:05.300000,BKN,,CLE,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0735,2,06:16,BKN,,CLE,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0735,2,05:28,BKN,,CLE,,D. Smith Jr.,BKN,MISS Smith Jr. 6' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,5,63,6,1,2.0,0.0,h
+S2324-G0735,2,05:03,BKN,,CLE,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0735,2,05:03,BKN,38.0,CLE,47.0,D. Smith Jr.,BKN,Smith Jr. Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2324-G0735,2,04:57,BKN,,CLE,,D. Smith Jr.,BKN,Smith Jr. STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0735,2,03:16,BKN,,CLE,,D. Smith Jr.,BKN,MISS Smith Jr. 3' Driving Layup,Missed Shot,Driving Layup Shot,26,20,3,1,2.0,0.0,h
+S2324-G0735,2,02:09,BKN,,CLE,,D. Smith Jr.,BKN,SUB: Bridges FOR Smith Jr.,Substitution,,0,0,0,0,,,h
+S2324-G0735,3,07:17,BKN,,CLE,,D. Smith Jr.,BKN,MISS Smith Jr. 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,15,198,20,1,2.0,0.0,h
+S2324-G0735,3,07:09,BKN,,CLE,,D. Smith Jr.,BKN,Smith Jr. P.FOUL (P1.T4) (A.Nagy),Foul,Personal,0,0,0,0,,,h
+S2324-G0735,3,06:10,BKN,,CLE,,D. Smith Jr.,BKN,Smith Jr. P.FOUL (P2.PN) (A.Nagy),Foul,Personal,0,0,0,0,,,h
+S2324-G0735,3,05:27,BKN,,CLE,,D. Smith Jr.,BKN,Smith Jr. STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0735,3,03:04,BKN,,CLE,,D. Smith Jr.,BKN,Smith Jr. STEAL (3 STL),,,0,0,0,0,,,h
+S2324-G0735,3,02:29,BKN,,CLE,,D. Smith Jr.,BKN,Smith Jr. STEAL (4 STL),,,0,0,0,0,,,h
+S2324-G0735,3,02:04,BKN,,CLE,,D. Smith Jr.,BKN,Smith Jr. STEAL (5 STL),,,0,0,0,0,,,h
+S2324-G0735,3,00:53.500000,BKN,69.0,CLE,88.0,D. Smith Jr.,BKN,Smith Jr. 4' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,34,11,4,1,2.0,2.0,h
+S2324-G0735,4,02:05,BKN,,CLE,,D. Smith Jr.,BKN,MISS Smith Jr. 3' Reverse Layup,Missed Shot,Reverse Layup Shot,28,19,3,1,2.0,0.0,h
+S2324-G0735,4,01:10,BKN,95.0,CLE,115.0,D. Smith Jr.,BKN,Smith Jr. 16' Step Back Jump Shot (6 PTS) (Watford 2 AST),Made Shot,Step Back Jump shot,-43,150,16,1,2.0,2.0,h
+S2324-G0918,1,02:12,CHA,,BKN,,D. Smith Jr.,BKN,Smith Jr. Traveling Turnover (P1.T4),Turnover,Traveling,0,0,0,0,,,v
+S2324-G0918,1,01:55,CHA,,BKN,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0918,1,00:53.200000,CHA,28.0,BKN,31.0,D. Smith Jr.,BKN,Smith Jr. 27' 3PT Jump Shot (3 PTS) (Bridges 1 AST),Made Shot,Jump Shot,-132,235,27,1,3.0,3.0,v
+S2324-G0918,1,00:37.100000,CHA,28.0,BKN,32.0,D. Smith Jr.,BKN,Smith Jr. Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0918,1,00:37.100000,CHA,28.0,BKN,33.0,D. Smith Jr.,BKN,Smith Jr. Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0918,2,10:44,CHA,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,162,192,25,1,3.0,0.0,v
+S2324-G0918,2,09:52,CHA,,BKN,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0918,2,09:48,CHA,,BKN,,D. Smith Jr.,BKN,SUB: Schroder FOR Smith Jr.,Substitution,,0,0,0,0,,,v
+S2324-G0918,3,03:20,CHA,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,240,29,24,1,3.0,0.0,v
+S2324-G0918,3,02:38,CHA,83.0,BKN,76.0,D. Smith Jr.,BKN,Smith Jr. 3' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,15,25,3,1,2.0,2.0,v
+S2324-G0918,3,02:22,CHA,,BKN,,D. Smith Jr.,BKN,Smith Jr. P.FOUL (P1.T3) (P.Fraher),Foul,Personal,0,0,0,0,,,v
+S2324-G0918,3,00:02.800000,CHA,,BKN,,D. Smith Jr.,BKN,SUB: Thomas FOR Smith Jr.,Substitution,,0,0,0,0,,,v
+S2324-G0918,4,08:41,CHA,,BKN,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0918,4,06:48,CHA,,BKN,,D. Smith Jr.,BKN,SUB: Claxton FOR Smith Jr.,Substitution,,0,0,0,0,,,v
+S2324-G0430,1,03:25,WAS,,BKN,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0430,1,01:54,WAS,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 11' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-53,94,11,1,2.0,0.0,v
+S2324-G0430,1,01:10,WAS,,BKN,,D. Smith Jr.,BKN,Smith Jr. P.FOUL (P1.T3) (B.Adair),Foul,Personal,0,0,0,0,,,v
+S2324-G0430,1,00:59.200000,WAS,,BKN,,D. Smith Jr.,BKN,Smith Jr. STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0430,2,10:19,WAS,31.0,BKN,29.0,D. Smith Jr.,BKN,Smith Jr. 3' Cutting Layup Shot (2 PTS) (Sharpe 1 AST),Made Shot,Cutting Layup Shot,-25,20,3,1,2.0,2.0,v
+S2324-G0430,2,09:14,WAS,,BKN,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0430,2,08:12,WAS,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 27' 3PT Jump Shot,Missed Shot,Jump Shot,-186,189,27,1,3.0,0.0,v
+S2324-G0430,2,06:36,WAS,,BKN,,D. Smith Jr.,BKN,SUB: Dinwiddie FOR Smith Jr.,Substitution,,0,0,0,0,,,v
+S2324-G0430,2,00:58.200000,WAS,48.0,BKN,51.0,D. Smith Jr.,BKN,Smith Jr. 2' Reverse Layup (4 PTS) (Sharpe 2 AST),Made Shot,Reverse Layup Shot,-9,22,2,1,2.0,2.0,v
+S2324-G0430,3,06:09,WAS,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 19' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-180,59,19,1,2.0,0.0,v
+S2324-G0430,3,02:34,WAS,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0430,3,02:34,WAS,75.0,BKN,83.0,D. Smith Jr.,BKN,Smith Jr. Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0430,3,01:04,WAS,,BKN,,D. Smith Jr.,BKN,Smith Jr. STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0430,4,11:40,WAS,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,148,92,17,1,2.0,0.0,v
+S2324-G0430,4,10:58,WAS,,BKN,,D. Smith Jr.,BKN,Smith Jr. P.FOUL (P2.T1) (B.Adair),Foul,Personal,0,0,0,0,,,v
+S2324-G0430,4,10:58,WAS,,BKN,,D. Smith Jr.,BKN,SUB: Bridges FOR Smith Jr.,Substitution,,0,0,0,0,,,v
+S2324-G0430,4,05:01,WAS,,BKN,,D. Smith Jr.,BKN,Smith Jr. S.FOUL (P3.PN) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,v
+S2324-G0430,4,05:01,WAS,,BKN,,D. Smith Jr.,BKN,SUB: Thomas FOR Smith Jr.,Substitution,,0,0,0,0,,,v
+S2324-G0830,1,04:55,MEM,,BKN,,D. Smith Jr.,BKN,Smith Jr. S.FOUL (P1.T2) (C.Blair),Foul,Shooting,0,0,0,0,,,v
+S2324-G0830,1,04:32,MEM,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,2,56,6,1,2.0,0.0,v
+S2324-G0830,1,02:42,MEM,,BKN,,D. Smith Jr.,BKN,SUB: Finney-Smith FOR Smith Jr.,Substitution,,0,0,0,0,,,v
+S2324-G0830,2,08:05,MEM,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 3PT Jump Shot,Missed Shot,Jump Shot,-228,5,0,1,3.0,0.0,v
+S2324-G0830,2,08:03,MEM,,BKN,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0830,2,07:08,MEM,,BKN,,D. Smith Jr.,BKN,SUB: Finney-Smith FOR Smith Jr.,Substitution,,0,0,0,0,,,v
+S2324-G0830,4,06:21,MEM,,BKN,,D. Smith Jr.,BKN,Smith Jr. P.FOUL (P2.T3) (C.Blair),Foul,Personal,0,0,0,0,,,v
+S2324-G0830,4,02:48,MEM,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 9' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,10,85,9,1,2.0,0.0,v
+S2324-G0830,4,02:48,MEM,,BKN,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0830,4,02:48,MEM,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0830,4,02:48,MEM,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0902,1,11:20,DET,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 28' 3PT Jump Shot,Missed Shot,Jump Shot,49,272,28,1,3.0,0.0,v
+S2324-G0902,1,09:27,DET,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 3' Driving Layup,Missed Shot,Driving Layup Shot,-28,-8,3,1,2.0,0.0,v
+S2324-G0902,1,08:20,DET,,BKN,,D. Smith Jr.,BKN,Smith Jr. P.FOUL (P1.T1) (E.Malloy),Foul,Personal,0,0,0,0,,,v
+S2324-G0902,1,08:20,DET,,BKN,,D. Smith Jr.,BKN,SUB: Walker IV FOR Smith Jr.,Substitution,,0,0,0,0,,,v
+S2324-G0902,1,03:50,DET,,BKN,,D. Smith Jr.,BKN,Smith Jr. S.FOUL (P2.T3) (E.Malloy),Foul,Shooting,0,0,0,0,,,v
+S2324-G0902,1,02:16,DET,,BKN,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0902,1,00:50.500000,DET,26.0,BKN,14.0,D. Smith Jr.,BKN,Smith Jr. 24' 3PT Jump Shot (3 PTS) (Bridges 2 AST),Made Shot,Jump Shot,237,-3,24,1,3.0,3.0,v
+S2324-G0902,2,09:59,DET,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 3PT Jump Shot,Missed Shot,Jump Shot,234,18,0,1,3.0,0.0,v
+S2324-G0902,2,09:54,DET,,BKN,,D. Smith Jr.,BKN,Smith Jr. STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0902,2,09:34,DET,,BKN,,D. Smith Jr.,BKN,SUB: Bridges FOR Smith Jr.,Substitution,,0,0,0,0,,,v
+S2324-G0902,2,04:18,DET,,BKN,,D. Smith Jr.,BKN,Smith Jr. S.FOUL (P3.T3) (B.Barnaky),Foul,Shooting,0,0,0,0,,,v
+S2324-G0902,2,02:55,DET,,BKN,,D. Smith Jr.,BKN,Smith Jr. STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0902,2,02:23,DET,49.0,BKN,50.0,D. Smith Jr.,BKN,Smith Jr. 3' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,26,13,3,1,2.0,2.0,v
+S2324-G0902,2,01:04,DET,51.0,BKN,54.0,D. Smith Jr.,BKN,Smith Jr. 19' Pullup Jump Shot (7 PTS) (Claxton 1 AST),Made Shot,Pullup Jump shot,54,181,19,1,2.0,2.0,v
+S2324-G0902,2,00:31.400000,DET,,BKN,,D. Smith Jr.,BKN,Smith Jr. STEAL (3 STL),,,0,0,0,0,,,v
+S2324-G0902,2,00:27.800000,DET,,BKN,,D. Smith Jr.,BKN,Smith Jr. Out of Bounds - Bad Pass Turnover Turnover (P1.T8),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0902,3,06:33,DET,,BKN,,D. Smith Jr.,BKN,Smith Jr. S.FOUL (P4.T3) (S.Wall),Foul,Shooting,0,0,0,0,,,v
+S2324-G0902,3,05:25,DET,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 3' Driving Layup,Missed Shot,Driving Layup Shot,-17,25,3,1,2.0,0.0,v
+S2324-G0902,3,05:23,DET,,BKN,,D. Smith Jr.,BKN,Smith Jr. STEAL (4 STL),,,0,0,0,0,,,v
+S2324-G0902,3,05:18,DET,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 3PT Jump Shot,Missed Shot,Jump Shot,-230,48,0,1,3.0,0.0,v
+S2324-G0902,3,05:04,DET,,BKN,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0902,3,04:36,DET,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-92,66,11,1,2.0,0.0,v
+S2324-G0902,3,02:33,DET,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 2' Driving Layup,Missed Shot,Driving Layup Shot,-22,9,2,1,2.0,0.0,v
+S2324-G0902,3,01:51,DET,,BKN,,D. Smith Jr.,BKN,SUB: Schroder FOR Smith Jr.,Substitution,,0,0,0,0,,,v
+S2324-G0902,4,10:38,DET,91.0,BKN,85.0,D. Smith Jr.,BKN,Smith Jr. Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0902,4,10:38,DET,91.0,BKN,86.0,D. Smith Jr.,BKN,Smith Jr. Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0902,4,10:27,DET,,BKN,,D. Smith Jr.,BKN,Smith Jr. S.FOUL (P5.T2) (B.Barnaky),Foul,Shooting,0,0,0,0,,,v
+S2324-G0902,4,10:27,DET,,BKN,,D. Smith Jr.,BKN,SUB: Bridges FOR Smith Jr.,Substitution,,0,0,0,0,,,v
+S2324-G0902,4,00:54.200000,DET,,BKN,,D. Smith Jr.,BKN,Smith Jr. P.FOUL (P6.T4) (S.Wall),Foul,Personal,0,0,0,0,,,v
+S2324-G0902,4,00:54.200000,DET,,BKN,,D. Smith Jr.,BKN,SUB: Finney-Smith FOR Smith Jr.,Substitution,,0,0,0,0,,,v
+S2324-G0282,1,04:03,BKN,,ORL,,D. Smith Jr.,BKN,MISS Smith Jr. 4' Running Layup,Missed Shot,Running Layup Shot,42,8,4,1,2.0,0.0,h
+S2324-G0282,1,04:00,BKN,,ORL,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0282,1,04:00,BKN,22.0,ORL,14.0,D. Smith Jr.,BKN,Smith Jr. 3' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,20,16,3,1,2.0,2.0,h
+S2324-G0282,1,02:47,BKN,,ORL,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0282,1,02:36,BKN,,ORL,,D. Smith Jr.,BKN,Smith Jr. BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0282,1,02:25,BKN,,ORL,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0282,1,01:04,BKN,,ORL,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0282,1,00:11.100000,BKN,,ORL,,D. Smith Jr.,BKN,SUB: Thomas FOR Smith Jr.,Substitution,,0,0,0,0,,,h
+S2324-G0282,2,11:10,BKN,,ORL,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0282,2,10:58,BKN,,ORL,,D. Smith Jr.,BKN,MISS Smith Jr. 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,92,254,27,1,3.0,0.0,h
+S2324-G0282,2,10:53,BKN,45.0,ORL,24.0,D. Smith Jr.,BKN,Smith Jr. 2' Driving Finger Roll Layup (4 PTS) (Watford 1 AST),Made Shot,Driving Finger Roll Layup Shot,-13,18,2,1,2.0,2.0,h
+S2324-G0282,2,10:29,BKN,,ORL,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0282,2,09:24,BKN,,ORL,,D. Smith Jr.,BKN,SUB: Johnson FOR Smith Jr.,Substitution,,0,0,0,0,,,h
+S2324-G0282,2,00:01.600000,BKN,,ORL,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0282,3,03:32,BKN,,ORL,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0282,3,01:26,BKN,,ORL,,D. Smith Jr.,BKN,Smith Jr. Traveling Turnover (P1.T9),Turnover,Traveling,0,0,0,0,,,h
+S2324-G0282,3,01:14,BKN,,ORL,,D. Smith Jr.,BKN,Smith Jr. STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0282,3,01:11,BKN,,ORL,,D. Smith Jr.,BKN,MISS Smith Jr. 1' Running Dunk,Missed Shot,Running Dunk Shot,7,10,1,1,2.0,0.0,h
+S2324-G0282,3,00:34,BKN,,ORL,,D. Smith Jr.,BKN,MISS Smith Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,-183,179,26,1,3.0,0.0,h
+S2324-G0282,3,00:12,BKN,,ORL,,D. Smith Jr.,BKN,SUB: Johnson FOR Smith Jr.,Substitution,,0,0,0,0,,,h
+S2324-G0282,4,10:33,BKN,103.0,ORL,88.0,D. Smith Jr.,BKN,Smith Jr. 1' Running Alley Oop Dunk Shot (6 PTS) (O'Neale 4 AST),Made Shot,Running Alley Oop Dunk Shot,1,-8,1,1,2.0,2.0,h
+S2324-G0282,4,10:23,BKN,,ORL,,D. Smith Jr.,BKN,Smith Jr. STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0282,4,10:00,BKN,,ORL,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:1 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0282,4,09:05,BKN,,ORL,,D. Smith Jr.,BKN,MISS Smith Jr. 3PT Jump Shot,Missed Shot,Jump Shot,230,6,0,1,3.0,0.0,h
+S2324-G0282,4,09:00,BKN,107.0,ORL,90.0,D. Smith Jr.,BKN,Smith Jr. 1' Driving Layup (8 PTS) (Claxton 1 AST),Made Shot,Driving Layup Shot,12,1,1,1,2.0,2.0,h
+S2324-G0282,4,08:15,BKN,,ORL,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:1 Def:9),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0282,4,07:21,BKN,109.0,ORL,92.0,D. Smith Jr.,BKN,Smith Jr. 1' Driving Layup (10 PTS) (O'Neale 5 AST),Made Shot,Driving Layup Shot,-10,-8,1,1,2.0,2.0,h
+S2324-G0282,4,07:21,BKN,,ORL,,D. Smith Jr.,BKN,MISS Smith Jr. Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2324-G0282,4,06:12,BKN,,ORL,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:1 Def:10),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0282,4,06:01,BKN,,ORL,,D. Smith Jr.,BKN,SUB: Dinwiddie FOR Smith Jr.,Substitution,,0,0,0,0,,,h
+S2324-G0406,1,04:42,DET,22.0,BKN,14.0,D. Smith Jr.,BKN,Smith Jr. 13' Pullup Jump Shot (2 PTS) (Bridges 1 AST),Made Shot,Pullup Jump shot,89,91,13,1,2.0,2.0,v
+S2324-G0406,1,04:14,DET,,BKN,,D. Smith Jr.,BKN,Smith Jr. Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0406,1,02:52,DET,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 16' Step Back Jump Shot,Missed Shot,Step Back Jump shot,125,102,16,1,2.0,0.0,v
+S2324-G0406,1,01:21,DET,,BKN,,D. Smith Jr.,BKN,Smith Jr. S.FOUL (P1.PN) (D.Collins),Foul,Shooting,0,0,0,0,,,v
+S2324-G0406,1,00:57.200000,DET,,BKN,,D. Smith Jr.,BKN,Smith Jr. STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0406,1,00:52,DET,,BKN,,D. Smith Jr.,BKN,Smith Jr. Traveling Turnover (P2.T4),Turnover,Traveling,0,0,0,0,,,v
+S2324-G0406,1,00:01,DET,,BKN,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0406,2,11:37,DET,31.0,BKN,27.0,D. Smith Jr.,BKN,Smith Jr. 8' Turnaround Jump Shot (4 PTS),Made Shot,Turnaround Jump Shot,-36,76,8,1,2.0,2.0,v
+S2324-G0406,2,11:11,DET,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-145,216,26,1,3.0,0.0,v
+S2324-G0406,2,10:10,DET,,BKN,,D. Smith Jr.,BKN,SUB: Dinwiddie FOR Smith Jr.,Substitution,,0,0,0,0,,,v
+S2324-G0406,2,03:26,DET,,BKN,,D. Smith Jr.,BKN,Smith Jr. S.FOUL (P2.T3) (J.Goble),Foul,Shooting,0,0,0,0,,,v
+S2324-G0406,2,02:11,DET,50.0,BKN,54.0,D. Smith Jr.,BKN,Smith Jr. 5' Layup (6 PTS),Made Shot,Layup Shot,-43,26,5,1,2.0,2.0,v
+S2324-G0406,3,06:39,DET,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,40,116,12,1,2.0,0.0,v
+S2324-G0406,3,04:33,DET,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 6' Driving Layup,Missed Shot,Driving Layup Shot,-58,20,6,1,2.0,0.0,v
+S2324-G0406,3,04:24,DET,,BKN,,D. Smith Jr.,BKN,Smith Jr. S.FOUL (P3.PN) (B.Barnaky),Foul,Shooting,0,0,0,0,,,v
+S2324-G0406,3,03:46,DET,,BKN,,D. Smith Jr.,BKN,Smith Jr. Lost Ball Turnover (P3.T8),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0406,3,02:24,DET,,BKN,,D. Smith Jr.,BKN,SUB: Dinwiddie FOR Smith Jr.,Substitution,,0,0,0,0,,,v
+S2324-G0406,3,01:11,DET,,BKN,,D. Smith Jr.,BKN,SUB: Thomas FOR Smith Jr.,Substitution,,0,0,0,0,,,v
+S2324-G0406,4,10:58,DET,,BKN,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0406,4,09:24,DET,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 1' Running Layup,Missed Shot,Running Layup Shot,-6,-12,1,1,2.0,0.0,v
+S2324-G0406,4,07:53,DET,,BKN,,D. Smith Jr.,BKN,SUB: Johnson FOR Smith Jr.,Substitution,,0,0,0,0,,,v
+S2324-G0447,1,01:08,OKC,,,,D. Smith Jr.,BKN,Smith Jr. S.FOUL (P1.PN) (A.Nagy),Foul,Shooting,0,0,0,0,,,v
+S2324-G0447,2,10:32,OKC,,,,D. Smith Jr.,BKN,MISS Smith Jr. 24' 3PT Jump Shot,Missed Shot,Jump Shot,-218,109,24,1,3.0,0.0,v
+S2324-G0447,2,10:11,OKC,,,,D. Smith Jr.,BKN,Smith Jr. STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0447,2,09:43,OKC,,,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0447,2,08:45,OKC,,,,D. Smith Jr.,BKN,SUB: Dinwiddie FOR Smith Jr.,Substitution,,0,0,0,0,,,v
+S2324-G0447,2,06:05,OKC,,,,D. Smith Jr.,BKN,Smith Jr. Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0447,2,05:49,OKC,49.0,,46.0,D. Smith Jr.,BKN,Smith Jr. 6' Cutting Layup Shot (2 PTS) (Dinwiddie 3 AST),Made Shot,Cutting Layup Shot,61,0,6,1,2.0,2.0,v
+S2324-G0447,2,05:49,OKC,49.0,,47.0,D. Smith Jr.,BKN,Smith Jr. Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G0447,2,05:43,OKC,,,,D. Smith Jr.,BKN,Smith Jr. P.FOUL (P2.T4) (J.Williams),Foul,Personal,0,0,0,0,,,v
+S2324-G0447,2,05:18,OKC,49.0,,49.0,D. Smith Jr.,BKN,Smith Jr. 1' Cutting Layup Shot (5 PTS) (Claxton 3 AST),Made Shot,Cutting Layup Shot,-9,1,1,1,2.0,2.0,v
+S2324-G0447,2,04:18,OKC,,,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0447,2,03:18,OKC,,,,D. Smith Jr.,BKN,Smith Jr. P.FOUL (P3.PN) (D.Scott),Foul,Personal,0,0,0,0,,,v
+S2324-G0447,2,03:18,OKC,,,,D. Smith Jr.,BKN,SUB: Finney-Smith FOR Smith Jr.,Substitution,,0,0,0,0,,,v
+S2324-G0447,3,05:19,OKC,,,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0447,3,05:13,OKC,78.0,,68.0,D. Smith Jr.,BKN,Smith Jr. Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0447,3,05:13,OKC,78.0,,69.0,D. Smith Jr.,BKN,Smith Jr. Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0447,3,04:17,OKC,,,,D. Smith Jr.,BKN,Smith Jr. OFF.Foul (P4) (J.Williams),Foul,Offensive,0,0,0,0,,,v
+S2324-G0447,3,04:17,OKC,,,,D. Smith Jr.,BKN,Smith Jr. Offensive Foul Turnover (P2.T4),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0447,3,03:48,OKC,,,,D. Smith Jr.,BKN,Smith Jr. Out of Bounds Lost Ball Turnover (P3.T5),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2324-G0447,3,03:16,OKC,,,,D. Smith Jr.,BKN,SUB: Dinwiddie FOR Smith Jr.,Substitution,,0,0,0,0,,,v
+S2324-G0851,2,09:22,BKN,,ATL,,D. Smith Jr.,BKN,Smith Jr. S.FOUL (P1.T2) (M.Kallio),Foul,Shooting,0,0,0,0,,,h
+S2324-G0851,2,09:22,BKN,,ATL,,D. Smith Jr.,BKN,SUB: Schroder FOR Smith Jr.,Substitution,,0,0,0,0,,,h
+S2324-G0851,3,03:25,BKN,85.0,ATL,65.0,D. Smith Jr.,BKN,Smith Jr. 14' Pullup Jump Shot (2 PTS) (Wilson 2 AST),Made Shot,Pullup Jump shot,-18,137,14,1,2.0,2.0,h
+S2324-G0851,3,02:44,BKN,87.0,ATL,66.0,D. Smith Jr.,BKN,Smith Jr. 21' Step Back Jump Shot (4 PTS),Made Shot,Step Back Jump shot,151,141,21,1,2.0,2.0,h
+S2324-G0851,4,11:35,BKN,,ATL,,D. Smith Jr.,BKN,MISS Smith Jr. 3PT Jump Shot,Missed Shot,Jump Shot,-224,-17,0,1,3.0,0.0,h
+S2324-G0851,4,11:09,BKN,96.0,ATL,75.0,D. Smith Jr.,BKN,Smith Jr. 5' Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,-34,32,5,1,2.0,2.0,h
+S2324-G0851,4,08:32,BKN,,ATL,,D. Smith Jr.,BKN,Smith Jr. STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0851,4,08:29,BKN,107.0,ATL,80.0,D. Smith Jr.,BKN,Smith Jr. 25' 3PT Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,-196,152,25,1,3.0,3.0,h
+S2324-G0851,4,07:51,BKN,,ATL,,D. Smith Jr.,BKN,Smith Jr. P.FOUL (P2.T3) (Z.Zarba),Foul,Personal,0,0,0,0,,,h
+S2324-G0851,4,04:12,BKN,118.0,ATL,90.0,D. Smith Jr.,BKN,Smith Jr. Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0851,4,04:12,BKN,,ATL,,D. Smith Jr.,BKN,MISS Smith Jr. Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0851,4,03:38,BKN,,ATL,,D. Smith Jr.,BKN,MISS Smith Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,-184,172,25,1,3.0,0.0,h
+S2324-G0851,4,01:04,BKN,,ATL,,D. Smith Jr.,BKN,MISS Smith Jr. 1' Driving Dunk,Missed Shot,Driving Dunk Shot,-9,-10,1,1,2.0,0.0,h
+S2324-G0200,1,01:40,MIA,,BKN,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0200,1,01:32,MIA,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 3' Driving Layup,Missed Shot,Driving Layup Shot,-27,15,3,1,2.0,0.0,v
+S2324-G0200,1,01:32,MIA,,BKN,,D. Smith Jr.,BKN,Smith Jr. P.FOUL (P1.PN) (J.DeRosa),Foul,Personal,0,0,0,0,,,v
+S2324-G0200,1,00:01.400000,MIA,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 2' Driving Layup,Missed Shot,Driving Layup Shot,16,1,2,1,2.0,0.0,v
+S2324-G0200,2,11:25,MIA,,BKN,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0200,2,07:52,MIA,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 27' 3PT Jump Shot,Missed Shot,Jump Shot,124,239,27,1,3.0,0.0,v
+S2324-G0200,2,07:18,MIA,,BKN,,D. Smith Jr.,BKN,SUB: Dinwiddie FOR Smith Jr.,Substitution,,0,0,0,0,,,v
+S2324-G0200,3,02:05,MIA,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 8' Driving Layup,Missed Shot,Driving Layup Shot,82,4,8,1,2.0,0.0,v
+S2324-G0200,3,01:38,MIA,86.0,BKN,76.0,D. Smith Jr.,BKN,Smith Jr. 24' 3PT Jump Shot (3 PTS) (Walker IV 1 AST),Made Shot,Jump Shot,219,107,24,1,3.0,3.0,v
+S2324-G0200,3,00:52.800000,MIA,,BKN,,D. Smith Jr.,BKN,Smith Jr. P.FOUL (P2.PN) (M.Ervin),Foul,Personal,0,0,0,0,,,v
+S2324-G0200,3,00:52.800000,MIA,,BKN,,D. Smith Jr.,BKN,Smith Jr. T.FOUL (P2.PN) (J.DeRosa),Foul,Technical,0,0,0,0,,,v
+S2324-G0200,4,11:48,MIA,95.0,BKN,85.0,D. Smith Jr.,BKN,Smith Jr. 1' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,4,4,1,1,2.0,2.0,v
+S2324-G0200,4,09:55,MIA,,BKN,,D. Smith Jr.,BKN,SUB: Dinwiddie FOR Smith Jr.,Substitution,,0,0,0,0,,,v
+S2324-G1078,1,05:12,BKN,4.0,LAL,19.0,D. Smith Jr.,BKN,Smith Jr. 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,18,13,2,1,2.0,2.0,h
+S2324-G1078,1,04:24,BKN,,LAL,,D. Smith Jr.,BKN,MISS Smith Jr. 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-102,254,27,1,3.0,0.0,h
+S2324-G1078,1,02:49,BKN,,LAL,,D. Smith Jr.,BKN,SUB: Clowney FOR Smith Jr.,Substitution,,0,0,0,0,,,h
+S2324-G0887,1,05:21,BKN,17.0,PHI,17.0,D. Smith Jr.,BKN,Smith Jr. 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,15,-3,2,1,2.0,2.0,h
+S2324-G0887,1,05:21,BKN,,PHI,,D. Smith Jr.,BKN,MISS Smith Jr. Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2324-G0887,1,02:19,BKN,,PHI,,D. Smith Jr.,BKN,MISS Smith Jr. 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-116,230,26,1,3.0,0.0,h
+S2324-G0887,1,02:13,BKN,,PHI,,D. Smith Jr.,BKN,Smith Jr. P.FOUL (P1.T1) (J.DeRosa),Foul,Personal,0,0,0,0,,,h
+S2324-G0887,1,02:13,BKN,,PHI,,D. Smith Jr.,BKN,SUB: Schroder FOR Smith Jr.,Substitution,,0,0,0,0,,,h
+S2324-G0887,2,09:32,BKN,,PHI,,D. Smith Jr.,BKN,Smith Jr. Out of Bounds - Bad Pass Turnover Turnover (P1.T5),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G0887,2,07:07,BKN,,PHI,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0887,2,06:59,BKN,,PHI,,D. Smith Jr.,BKN,Smith Jr. Bad Pass Turnover (P2.T6),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0887,2,05:19,BKN,,PHI,,D. Smith Jr.,BKN,Smith Jr. STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0887,2,03:38,BKN,,PHI,,D. Smith Jr.,BKN,Smith Jr. STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0887,2,03:32,BKN,45.0,PHI,46.0,D. Smith Jr.,BKN,Smith Jr. 1' Running Layup (4 PTS),Made Shot,Running Layup Shot,4,12,1,1,2.0,2.0,h
+S2324-G0887,2,02:02,BKN,,PHI,,D. Smith Jr.,BKN,SUB: Schroder FOR Smith Jr.,Substitution,,0,0,0,0,,,h
+S2324-G0887,3,05:20,BKN,,PHI,,D. Smith Jr.,BKN,Smith Jr. S.FOUL (P2.T4) (J.DeRosa),Foul,Shooting,0,0,0,0,,,h
+S2324-G0887,3,03:40,BKN,,PHI,,D. Smith Jr.,BKN,SUB: Watford FOR Smith Jr.,Substitution,,0,0,0,0,,,h
+S2324-G0887,4,10:28,BKN,,PHI,,D. Smith Jr.,BKN,MISS Smith Jr. 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,22,47,5,1,2.0,0.0,h
+S2324-G0887,4,06:46,BKN,,PHI,,D. Smith Jr.,BKN,MISS Smith Jr. Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0887,4,06:46,BKN,91.0,PHI,92.0,D. Smith Jr.,BKN,Smith Jr. Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0887,4,05:37,BKN,,PHI,,D. Smith Jr.,BKN,Smith Jr. P.FOUL (P3.T2) (C.Blair),Foul,Personal,0,0,0,0,,,h
+S2324-G0887,4,04:41,BKN,,PHI,,D. Smith Jr.,BKN,MISS Smith Jr. 3PT Jump Shot,Missed Shot,Jump Shot,-229,-33,0,1,3.0,0.0,h
+S2324-G0887,4,04:31,BKN,,PHI,,D. Smith Jr.,BKN,Smith Jr. STEAL (3 STL),,,0,0,0,0,,,h
+S2324-G0887,4,04:28,BKN,97.0,PHI,94.0,D. Smith Jr.,BKN,Smith Jr. Running Dunk (7 PTS),Made Shot,Running Dunk Shot,-2,-1,0,1,2.0,2.0,h
+S2324-G0887,4,03:16,BKN,,PHI,,D. Smith Jr.,BKN,SUB: Walker IV FOR Smith Jr.,Substitution,,0,0,0,0,,,h
+S2324-G0887,4,00:11.500000,BKN,,PHI,,D. Smith Jr.,BKN,SUB: Walker IV FOR Smith Jr.,Substitution,,0,0,0,0,,,h
+S2324-G0645,1,00:42.700000,BKN,35.0,HOU,14.0,D. Smith Jr.,BKN,Smith Jr. 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,-13,-2,1,1,2.0,2.0,h
+S2324-G0645,2,11:34,BKN,,HOU,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0645,2,11:13,BKN,,HOU,,D. Smith Jr.,BKN,MISS Smith Jr. 3PT Jump Shot,Missed Shot,Jump Shot,222,-2,0,1,3.0,0.0,h
+S2324-G0645,2,10:48,BKN,,HOU,,D. Smith Jr.,BKN,Smith Jr. STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0645,2,10:46,BKN,,HOU,,D. Smith Jr.,BKN,Smith Jr. OFF.Foul (P1) (S.Wall),Foul,Offensive,0,0,0,0,,,h
+S2324-G0645,2,10:46,BKN,,HOU,,D. Smith Jr.,BKN,Smith Jr. Offensive Foul Turnover (P1.T3),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0645,2,09:07,BKN,39.0,HOU,17.0,D. Smith Jr.,BKN,Smith Jr. 3' Running Reverse Layup (4 PTS),Made Shot,Running Reverse Layup Shot,26,-2,3,1,2.0,2.0,h
+S2324-G0645,2,06:02,BKN,,HOU,,D. Smith Jr.,BKN,SUB: Dinwiddie FOR Smith Jr.,Substitution,,0,0,0,0,,,h
+S2324-G0645,4,10:04,BKN,,HOU,,D. Smith Jr.,BKN,Smith Jr. P.FOUL (P2.T1) (M.Kogut),Foul,Personal,0,0,0,0,,,h
+S2324-G0645,4,07:45,BKN,,HOU,,D. Smith Jr.,BKN,SUB: Dinwiddie FOR Smith Jr.,Substitution,,0,0,0,0,,,h
+S2324-G0645,4,03:26,BKN,,HOU,,D. Smith Jr.,BKN,MISS Smith Jr. 4' Driving Layup,Missed Shot,Driving Layup Shot,26,34,4,1,2.0,0.0,h
+S2324-G0645,4,03:21,BKN,,HOU,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0645,4,03:16,BKN,,HOU,,D. Smith Jr.,BKN,Smith Jr. STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0645,4,01:34,BKN,,HOU,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0645,4,00:19.700000,BKN,,HOU,,D. Smith Jr.,BKN,MISS Smith Jr. Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0645,4,00:19.700000,BKN,103.0,HOU,97.0,D. Smith Jr.,BKN,Smith Jr. Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0645,4,00:10.500000,BKN,,HOU,,D. Smith Jr.,BKN,SUB: Thomas FOR Smith Jr.,Substitution,,0,0,0,0,,,h
+S2324-G0645,4,00:05.100000,BKN,,HOU,,D. Smith Jr.,BKN,SUB: Claxton FOR Smith Jr.,Substitution,,0,0,0,0,,,h
+S2324-G0645,4,00:03.900000,BKN,,HOU,,D. Smith Jr.,BKN,SUB: Giles III FOR Smith Jr.,Substitution,,0,0,0,0,,,h
+S2324-G0720,1,04:40,BKN,19.0,DAL,19.0,D. Smith Jr.,BKN,Smith Jr. 1' Running Dunk (2 PTS) (Thomas 1 AST),Made Shot,Running Dunk Shot,5,5,1,1,2.0,2.0,h
+S2324-G0720,1,03:05,BKN,,DAL,,D. Smith Jr.,BKN,MISS Smith Jr. 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,135,116,18,1,2.0,0.0,h
+S2324-G0720,1,02:48,BKN,,DAL,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0720,1,02:16,BKN,,DAL,,D. Smith Jr.,BKN,Smith Jr. OFF.Foul (P1) (E.Dalen),Foul,Offensive,0,0,0,0,,,h
+S2324-G0720,1,02:16,BKN,,DAL,,D. Smith Jr.,BKN,Smith Jr. Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0720,2,04:35,BKN,,DAL,,D. Smith Jr.,BKN,Smith Jr. P.FOUL (P2.T3) (J.Goldenberg),Foul,Personal,0,0,0,0,,,h
+S2324-G0720,2,03:51,BKN,,DAL,,D. Smith Jr.,BKN,Smith Jr. S.FOUL (P3.T4) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,h
+S2324-G0720,2,00:24.300000,BKN,,DAL,,D. Smith Jr.,BKN,MISS Smith Jr. 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,6,263,26,1,3.0,0.0,h
+S2324-G0720,3,03:39,BKN,,DAL,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0720,3,03:32,BKN,71.0,DAL,80.0,D. Smith Jr.,BKN,Smith Jr. 1' Layup (4 PTS),Made Shot,Layup Shot,-2,13,1,1,2.0,2.0,h
+S2324-G0720,3,01:41,BKN,75.0,DAL,84.0,D. Smith Jr.,BKN,Smith Jr. 2' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,-16,3,2,1,2.0,2.0,h
+S2324-G1019,1,02:39,NYK,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 3PT Jump Shot,Missed Shot,Jump Shot,230,16,0,1,3.0,0.0,v
+S2324-G1019,1,01:32,NYK,22.0,BKN,25.0,D. Smith Jr.,BKN,Smith Jr. Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1019,1,01:32,NYK,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G1019,2,11:44,NYK,,BKN,,D. Smith Jr.,BKN,Smith Jr. STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G1019,2,09:19,NYK,,BKN,,D. Smith Jr.,BKN,Smith Jr. S.FOUL (P1.T2) (J.Tiven),Foul,Shooting,0,0,0,0,,,v
+S2324-G1019,2,09:19,NYK,,BKN,,D. Smith Jr.,BKN,SUB: Schroder FOR Smith Jr.,Substitution,,0,0,0,0,,,v
+S2324-G1019,3,00:05.500000,NYK,,BKN,,D. Smith Jr.,BKN,SUB: Johnson FOR Smith Jr.,Substitution,,0,0,0,0,,,v
+S2324-G1019,4,11:44,NYK,80.0,BKN,80.0,D. Smith Jr.,BKN,Smith Jr. 26' 3PT Jump Shot (4 PTS) (Thomas 5 AST),Made Shot,Jump Shot,-142,214,26,1,3.0,3.0,v
+S2324-G1019,4,10:20,NYK,,BKN,,D. Smith Jr.,BKN,SUB: Schroder FOR Smith Jr.,Substitution,,0,0,0,0,,,v
+S2324-G1019,4,04:26,NYK,,BKN,,D. Smith Jr.,BKN,Smith Jr. Traveling Turnover (P1.T13),Turnover,Traveling,0,0,0,0,,,v
+S2324-G1019,4,03:21,NYK,,BKN,,D. Smith Jr.,BKN,Smith Jr. STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G1019,4,01:30,NYK,104.0,BKN,91.0,D. Smith Jr.,BKN,Smith Jr. Driving Dunk (6 PTS) (Watford 1 AST),Made Shot,Driving Dunk Shot,1,4,0,1,2.0,2.0,v
+S2324-G1019,4,00:53.700000,NYK,,BKN,,D. Smith Jr.,BKN,Smith Jr. Lost Ball Turnover (P2.T15),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G1019,4,00:10.900000,NYK,105.0,BKN,93.0,D. Smith Jr.,BKN,Smith Jr. Driving Finger Roll Layup (8 PTS),Made Shot,Driving Finger Roll Layup Shot,-2,1,0,1,2.0,2.0,v
+S2324-G0833,1,03:26,ORL,,BKN,,D. Smith Jr.,BKN,Smith Jr. S.FOUL (P1.T3) (M.Ervin),Foul,Shooting,0,0,0,0,,,v
+S2324-G0833,1,03:13,ORL,,BKN,,D. Smith Jr.,BKN,Smith Jr. Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0833,1,00:52.500000,ORL,,BKN,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0833,1,00:50.600000,ORL,31.0,BKN,23.0,D. Smith Jr.,BKN,Smith Jr. 3PT Step Back Jump Shot (3 PTS),Made Shot,Step Back Jump shot,-233,-1,0,1,3.0,3.0,v
+S2324-G0833,2,03:35,ORL,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-102,236,26,1,3.0,0.0,v
+S2324-G0833,2,03:07,ORL,,BKN,,D. Smith Jr.,BKN,Smith Jr. Out of Bounds - Bad Pass Turnover Turnover (P2.T8),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0833,2,01:27,ORL,,BKN,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0833,2,00:01,ORL,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 4' Driving Layup,Missed Shot,Driving Layup Shot,-21,30,4,1,2.0,0.0,v
+S2324-G0833,4,10:09,ORL,,BKN,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0833,4,08:15,ORL,93.0,BKN,64.0,D. Smith Jr.,BKN,Smith Jr. 13' Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,7,132,13,1,2.0,2.0,v
+S2324-G0833,4,07:13,ORL,97.0,BKN,69.0,D. Smith Jr.,BKN,Smith Jr. 2' Cutting Layup Shot (7 PTS) (Sharpe 1 AST),Made Shot,Cutting Layup Shot,13,18,2,1,2.0,2.0,v
+S2324-G0833,4,06:45,ORL,,BKN,,D. Smith Jr.,BKN,Smith Jr. Lost Ball Turnover (P3.T20),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0833,4,06:42,ORL,,BKN,,D. Smith Jr.,BKN,Smith Jr. P.FOUL (P2.PN) (D.Taylor),Foul,Personal,0,0,0,0,,,v
+S2324-G0833,4,06:35,ORL,,BKN,,D. Smith Jr.,BKN,Smith Jr. STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0833,4,01:36,ORL,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,-126,213,25,1,3.0,0.0,v
+S2324-G0717,1,03:55,BKN,,GSW,,D. Smith Jr.,BKN,MISS Smith Jr. 3PT Jump Shot,Missed Shot,Jump Shot,-222,-22,0,1,3.0,0.0,h
+S2324-G0717,1,03:34,BKN,,GSW,,D. Smith Jr.,BKN,MISS Smith Jr. 3' Driving Layup,Missed Shot,Driving Layup Shot,20,16,3,1,2.0,0.0,h
+S2324-G0717,1,03:22,BKN,,GSW,,D. Smith Jr.,BKN,Smith Jr. STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0717,1,03:20,BKN,17.0,GSW,14.0,D. Smith Jr.,BKN,Smith Jr. 1' Running Dunk (2 PTS),Made Shot,Running Dunk Shot,-6,-6,1,1,2.0,2.0,h
+S2324-G0717,1,02:12,BKN,,GSW,,D. Smith Jr.,BKN,Smith Jr. BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0717,1,02:10,BKN,,GSW,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0717,2,09:29,BKN,,GSW,,D. Smith Jr.,BKN,MISS Smith Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,-112,232,26,1,3.0,0.0,h
+S2324-G0717,2,08:55,BKN,,GSW,,D. Smith Jr.,BKN,Smith Jr. Traveling Turnover (P1.T3),Turnover,Traveling,0,0,0,0,,,h
+S2324-G0717,2,08:06,BKN,,GSW,,D. Smith Jr.,BKN,Smith Jr. STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0717,2,06:02,BKN,,GSW,,D. Smith Jr.,BKN,Smith Jr. P.FOUL (P1.T4) (N.Green),Foul,Personal,0,0,0,0,,,h
+S2324-G0717,2,05:31,BKN,,GSW,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0717,2,03:03,BKN,42.0,GSW,36.0,D. Smith Jr.,BKN,Smith Jr. 26' 3PT Jump Shot (5 PTS) (Bridges 1 AST),Made Shot,Jump Shot,-163,198,26,1,3.0,3.0,h
+S2324-G0717,2,02:35,BKN,44.0,GSW,39.0,D. Smith Jr.,BKN,Smith Jr. 9' Driving Hook Shot (7 PTS),Made Shot,Driving Hook Shot,-4,85,9,1,2.0,2.0,h
+S2324-G0717,2,00:38.600000,BKN,,GSW,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0717,3,05:30,BKN,,GSW,,D. Smith Jr.,BKN,Smith Jr. OFF.Foul (P2) (M.Lindsay),Foul,Offensive,0,0,0,0,,,h
+S2324-G0717,3,05:30,BKN,,GSW,,D. Smith Jr.,BKN,Smith Jr. Offensive Foul Turnover (P2.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0717,3,04:52,BKN,,GSW,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0717,3,03:38,BKN,67.0,GSW,67.0,D. Smith Jr.,BKN,Smith Jr. 2' Layup (9 PTS),Made Shot,Layup Shot,-18,15,2,1,2.0,2.0,h
+S2324-G0717,3,01:57,BKN,,GSW,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0717,3,01:35,BKN,,GSW,,D. Smith Jr.,BKN,SUB: Thomas FOR Smith Jr.,Substitution,,0,0,0,0,,,h
+S2324-G0717,4,11:49,BKN,,GSW,,D. Smith Jr.,BKN,Smith Jr. Bad Pass Turnover (P3.T7),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0717,4,10:39,BKN,,GSW,,D. Smith Jr.,BKN,Smith Jr. BLOCK (2 BLK),,,0,0,0,0,,,h
+S2324-G0717,4,10:36,BKN,,GSW,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0717,4,10:34,BKN,,GSW,,D. Smith Jr.,BKN,Smith Jr. Offensive Charge Foul (P3) (N.Green),Foul,Offensive Charge,0,0,0,0,,,h
+S2324-G0717,4,10:34,BKN,,GSW,,D. Smith Jr.,BKN,Smith Jr. Offensive Foul Turnover (P4.T9),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0717,4,10:03,BKN,,GSW,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0717,4,09:51,BKN,,GSW,,D. Smith Jr.,BKN,MISS Smith Jr. Free Throw 1 of 3,Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,0.0,h
+S2324-G0717,4,09:51,BKN,71.0,GSW,80.0,D. Smith Jr.,BKN,Smith Jr. Free Throw 2 of 3 (10 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,h
+S2324-G0717,4,09:51,BKN,,GSW,,D. Smith Jr.,BKN,MISS Smith Jr. Free Throw 3 of 3,Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,0.0,h
+S2324-G0717,4,07:19,BKN,,GSW,,D. Smith Jr.,BKN,Smith Jr. P.FOUL (P4.T3) (N.Buchert),Foul,Personal,0,0,0,0,,,h
+S2324-G0717,4,06:47,BKN,,GSW,,D. Smith Jr.,BKN,SUB: Thomas FOR Smith Jr.,Substitution,,0,0,0,0,,,h
+S2324-G0717,4,03:06,BKN,91.0,GSW,96.0,D. Smith Jr.,BKN,Smith Jr. Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0717,4,03:06,BKN,92.0,GSW,96.0,D. Smith Jr.,BKN,Smith Jr. Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0717,4,01:31,BKN,,GSW,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0717,4,01:31,BKN,,GSW,,D. Smith Jr.,BKN,MISS Smith Jr. Putback Layup,Missed Shot,Putback Layup Shot,0,0,0,1,2.0,0.0,h
+S2324-G0717,4,00:06.200000,BKN,,GSW,,D. Smith Jr.,BKN,MISS Smith Jr. 3' Driving Layup,Missed Shot,Driving Layup Shot,22,21,3,1,2.0,0.0,h
+S2324-G0629,1,05:07,BKN,,MIN,,D. Smith Jr.,BKN,MISS Smith Jr. 1' Driving Layup,Missed Shot,Driving Layup Shot,-7,4,1,1,2.0,0.0,h
+S2324-G0629,1,05:04,BKN,,MIN,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0629,1,05:03,BKN,,MIN,,D. Smith Jr.,BKN,MISS Smith Jr. 2' Putback Layup,Missed Shot,Putback Layup Shot,16,15,2,1,2.0,0.0,h
+S2324-G0629,1,05:02,BKN,,MIN,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0629,1,03:25,BKN,,MIN,,D. Smith Jr.,BKN,Smith Jr. L.B.FOUL (P1.T2) (J.Tiven),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0629,1,03:06,BKN,,MIN,,D. Smith Jr.,BKN,MISS Smith Jr. 6' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-2,55,6,1,2.0,0.0,h
+S2324-G0629,2,11:27,BKN,,MIN,,D. Smith Jr.,BKN,Smith Jr. Out of Bounds Lost Ball Turnover (P1.T3),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2324-G0629,2,05:32,BKN,,MIN,,D. Smith Jr.,BKN,SUB: Walker IV FOR Smith Jr.,Substitution,,0,0,0,0,,,h
+S2324-G0629,4,08:45,BKN,,MIN,,D. Smith Jr.,BKN,MISS Smith Jr. 3' Driving Layup,Missed Shot,Driving Layup Shot,29,-5,3,1,2.0,0.0,h
+S2324-G0629,4,08:36,BKN,,MIN,,D. Smith Jr.,BKN,SUB: Bridges FOR Smith Jr.,Substitution,,0,0,0,0,,,h
+S2324-G0795,1,00:21.100000,TOR,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 10' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-11,100,10,1,2.0,0.0,v
+S2324-G0795,1,00:16.800000,TOR,30.0,BKN,21.0,D. Smith Jr.,BKN,Smith Jr. 1' Cutting Finger Roll Layup Shot (2 PTS) (Claxton 2 AST),Made Shot,Cutting Finger Roll Layup Shot,5,1,1,1,2.0,2.0,v
+S2324-G0795,2,07:32,TOR,,BKN,,D. Smith Jr.,BKN,Smith Jr. P.FOUL (P1.T3) (S.Wall),Foul,Personal,0,0,0,0,,,v
+S2324-G0795,2,07:32,TOR,,BKN,,D. Smith Jr.,BKN,SUB: Schroder FOR Smith Jr.,Substitution,,0,0,0,0,,,v
+S2324-G0795,3,05:36,TOR,,BKN,,D. Smith Jr.,BKN,Smith Jr. Bad Pass Turnover (P1.T10),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0795,3,04:42,TOR,,BKN,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0795,3,01:28,TOR,,BKN,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0795,3,00:45.500000,TOR,82.0,BKN,71.0,D. Smith Jr.,BKN,Smith Jr. 7' Driving Floating Bank Jump Shot (4 PTS),Made Shot,Driving Floating Bank Jump Shot,66,35,7,1,2.0,2.0,v
+S2324-G0795,3,00:02.400000,TOR,,BKN,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0795,3,00:00.200000,TOR,,BKN,,D. Smith Jr.,BKN,Smith Jr. Lost Ball Turnover (P2.T14),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0795,4,06:01,TOR,,BKN,,D. Smith Jr.,BKN,Smith Jr. Bad Pass Turnover (P3.T18),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0795,4,05:43,TOR,103.0,BKN,79.0,D. Smith Jr.,BKN,Smith Jr. Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0795,4,05:43,TOR,103.0,BKN,80.0,D. Smith Jr.,BKN,Smith Jr. Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0795,4,04:15,TOR,,BKN,,D. Smith Jr.,BKN,Smith Jr. Lost Ball Turnover (P4.T19),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0795,4,04:06,TOR,,BKN,,D. Smith Jr.,BKN,SUB: Wilson FOR Smith Jr.,Substitution,,0,0,0,0,,,v
+S2324-G0771,1,02:29,BKN,,BOS,,D. Smith Jr.,BKN,Smith Jr. Out of Bounds Lost Ball Turnover (P1.T1),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2324-G0771,1,01:11,BKN,,BOS,,D. Smith Jr.,BKN,MISS Smith Jr. 3PT Jump Shot,Missed Shot,Jump Shot,-228,31,0,1,3.0,0.0,h
+S2324-G0771,2,11:28,BKN,,BOS,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0771,2,09:52,BKN,,BOS,,D. Smith Jr.,BKN,Smith Jr. Bad Pass Turnover (P2.T2),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0771,2,09:22,BKN,,BOS,,D. Smith Jr.,BKN,MISS Smith Jr. 3PT Jump Shot,Missed Shot,Jump Shot,232,0,0,1,3.0,0.0,h
+S2324-G0771,2,08:09,BKN,,BOS,,D. Smith Jr.,BKN,SUB: Finney-Smith FOR Smith Jr.,Substitution,,0,0,0,0,,,h
+S2324-G0527,1,00:27.400000,CLE,,BKN,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0527,2,10:02,CLE,,BKN,,D. Smith Jr.,BKN,SUB: Dinwiddie FOR Smith Jr.,Substitution,,0,0,0,0,,,v
+S2324-G0527,2,01:33,CLE,,BKN,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0527,2,01:18,CLE,,BKN,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0527,2,00:50.900000,CLE,,BKN,,D. Smith Jr.,BKN,Smith Jr. BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0527,2,00:25.600000,CLE,,BKN,,D. Smith Jr.,BKN,Smith Jr. Bad Pass Turnover (P1.T13),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0527,4,08:42,CLE,86.0,BKN,73.0,D. Smith Jr.,BKN,Smith Jr. 1' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,13,4,1,1,2.0,2.0,v
+S2324-G0527,4,02:58,CLE,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 2' Driving Layup,Missed Shot,Driving Layup Shot,-7,19,2,1,2.0,0.0,v
+S2324-G0527,4,02:51,CLE,,BKN,,D. Smith Jr.,BKN,Smith Jr. S.FOUL (P1.T4) (M.Davis),Foul,Shooting,0,0,0,0,,,v
+S2324-G0527,4,02:51,CLE,,BKN,,D. Smith Jr.,BKN,SUB: Watford FOR Smith Jr.,Substitution,,0,0,0,0,,,v
+S2324-G0527,4,00:31.800000,CLE,,BKN,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0136,1,00:58.300000,BKN,,BOS,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0136,1,00:43.900000,BKN,,BOS,,D. Smith Jr.,BKN,MISS Smith Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,-170,191,26,1,3.0,0.0,h
+S2324-G0136,1,00:35.600000,BKN,,BOS,,D. Smith Jr.,BKN,Smith Jr. BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0136,1,00:17.900000,BKN,,BOS,,D. Smith Jr.,BKN,SUB: Bridges FOR Smith Jr.,Substitution,,0,0,0,0,,,h
+S2324-G0136,2,05:13,BKN,,BOS,,D. Smith Jr.,BKN,Smith Jr. BLOCK (2 BLK),,,0,0,0,0,,,h
+S2324-G0136,2,05:09,BKN,,BOS,,D. Smith Jr.,BKN,Jump Ball Smith Jr. vs. Brown: Tip to Holiday,Jump Ball,,0,0,0,0,,,h
+S2324-G0136,2,04:45,BKN,,BOS,,D. Smith Jr.,BKN,Smith Jr. L.B.FOUL (P1.T4) (J.Butler),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0136,2,04:29,BKN,,BOS,,D. Smith Jr.,BKN,Smith Jr. STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0136,2,04:02,BKN,,BOS,,D. Smith Jr.,BKN,Smith Jr. S.FOUL (P2.PN) (J.Butler),Foul,Shooting,0,0,0,0,,,h
+S2324-G0136,2,03:53,BKN,,BOS,,D. Smith Jr.,BKN,MISS Smith Jr. 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-134,231,27,1,3.0,0.0,h
+S2324-G0136,2,03:16,BKN,,BOS,,D. Smith Jr.,BKN,Smith Jr. S.FOUL (P3.PN) (D.Guthrie),Foul,Shooting,0,0,0,0,,,h
+S2324-G0136,2,03:16,BKN,,BOS,,D. Smith Jr.,BKN,SUB: Sharpe FOR Smith Jr.,Substitution,,0,0,0,0,,,h
+S2324-G0136,4,11:02,BKN,,BOS,,D. Smith Jr.,BKN,Smith Jr. Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0136,4,07:47,BKN,95.0,BOS,96.0,D. Smith Jr.,BKN,Smith Jr. 26' 3PT Jump Shot (3 PTS) (Thomas 2 AST),Made Shot,Jump Shot,-112,230,26,1,3.0,3.0,h
+S2324-G0136,4,07:13,BKN,97.0,BOS,99.0,D. Smith Jr.,BKN,Smith Jr. 3' Driving Layup (5 PTS) (Thomas 3 AST),Made Shot,Driving Layup Shot,-29,9,3,1,2.0,2.0,h
+S2324-G0136,4,06:44,BKN,,BOS,,D. Smith Jr.,BKN,MISS Smith Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,-110,221,25,1,3.0,0.0,h
+S2324-G0136,4,06:10,BKN,,BOS,,D. Smith Jr.,BKN,SUB: Dinwiddie FOR Smith Jr.,Substitution,,0,0,0,0,,,h
+S2324-G0004,1,00:55,CHI,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 22' Jump Shot,Missed Shot,Jump Shot,9,215,22,1,2.0,0.0,v
+S2324-G0004,1,00:13.600000,CHI,,BKN,,D. Smith Jr.,BKN,SUB: Bridges FOR Smith Jr.,Substitution,,0,0,0,0,,,v
+S2324-G0004,2,10:30,CHI,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,135,115,18,1,2.0,0.0,v
+S2324-G0004,2,08:11,CHI,,BKN,,D. Smith Jr.,BKN,Smith Jr. Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0004,2,07:28,CHI,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 17' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-49,166,17,1,2.0,0.0,v
+S2324-G0004,2,06:57,CHI,,BKN,,D. Smith Jr.,BKN,SUB: Thomas FOR Smith Jr.,Substitution,,0,0,0,0,,,v
+S2324-G0004,3,01:15,CHI,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-23,269,27,1,3.0,0.0,v
+S2324-G0004,4,11:09,CHI,82.0,BKN,80.0,D. Smith Jr.,BKN,Smith Jr. Driving Finger Roll Layup (2 PTS) (O'Neale 6 AST),Made Shot,Driving Finger Roll Layup Shot,1,1,0,1,2.0,2.0,v
+S2324-G0004,4,10:12,CHI,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 5' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,38,25,5,1,2.0,0.0,v
+S2324-G0004,4,10:10,CHI,,BKN,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0004,4,09:01,CHI,86.0,BKN,88.0,D. Smith Jr.,BKN,Smith Jr. 8' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,-71,38,8,1,2.0,2.0,v
+S2324-G0004,4,07:40,CHI,88.0,BKN,93.0,D. Smith Jr.,BKN,Smith Jr. 3PT Jump Shot (7 PTS) (Bridges 3 AST),Made Shot,Jump Shot,234,-6,0,1,3.0,3.0,v
+S2324-G0004,4,06:26,CHI,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 17' Jump Shot,Missed Shot,Jump Shot,-156,65,17,1,2.0,0.0,v
+S2324-G0004,4,06:00,CHI,,BKN,,D. Smith Jr.,BKN,Smith Jr. STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0004,4,05:47,CHI,,BKN,,D. Smith Jr.,BKN,SUB: Thomas FOR Smith Jr.,Substitution,,0,0,0,0,,,v
+S2324-G0815,1,01:54,MIN,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 4' Driving Layup,Missed Shot,Driving Layup Shot,22,34,4,1,2.0,0.0,v
+S2324-G0815,1,00:52.300000,MIN,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 4' Driving Layup,Missed Shot,Driving Layup Shot,-12,35,4,1,2.0,0.0,v
+S2324-G0815,2,11:35,MIN,,BKN,,D. Smith Jr.,BKN,Smith Jr. STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0815,2,11:33,MIN,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 1' Running Layup,Missed Shot,Running Layup Shot,-4,8,1,1,2.0,0.0,v
+S2324-G0815,2,11:20,MIN,,BKN,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0815,2,06:56,MIN,,BKN,,D. Smith Jr.,BKN,SUB: Schroder FOR Smith Jr.,Substitution,,0,0,0,0,,,v
+S2324-G0815,3,02:35,MIN,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 6' Driving Layup,Missed Shot,Driving Layup Shot,10,55,6,1,2.0,0.0,v
+S2324-G0815,3,01:41,MIN,,BKN,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0815,3,00:43.100000,MIN,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 15' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-34,151,15,1,2.0,0.0,v
+S2324-G0815,3,00:31.100000,MIN,,BKN,,D. Smith Jr.,BKN,SUB: Bridges FOR Smith Jr.,Substitution,,0,0,0,0,,,v
+S2324-G0815,4,10:38,MIN,,BKN,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0815,4,09:58,MIN,,BKN,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0815,4,08:56,MIN,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 4' Driving Layup,Missed Shot,Driving Layup Shot,-15,37,4,1,2.0,0.0,v
+S2324-G0815,4,08:03,MIN,,BKN,,D. Smith Jr.,BKN,SUB: Schroder FOR Smith Jr.,Substitution,,0,0,0,0,,,v
+S2324-G0383,1,03:29,BKN,20.0,DEN,24.0,D. Smith Jr.,BKN,Smith Jr. Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0383,1,03:29,BKN,21.0,DEN,24.0,D. Smith Jr.,BKN,Smith Jr. Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0383,1,00:10.700000,BKN,,DEN,,D. Smith Jr.,BKN,MISS Smith Jr. 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-154,200,25,1,3.0,0.0,h
+S2324-G0383,2,11:11,BKN,,DEN,,D. Smith Jr.,BKN,Smith Jr. STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0383,2,09:42,BKN,37.0,DEN,31.0,D. Smith Jr.,BKN,Smith Jr. 1' Driving Dunk (4 PTS) (O'Neale 2 AST),Made Shot,Driving Dunk Shot,-1,11,1,1,2.0,2.0,h
+S2324-G0383,2,08:07,BKN,,DEN,,D. Smith Jr.,BKN,SUB: Sharpe FOR Smith Jr.,Substitution,,0,0,0,0,,,h
+S2324-G0383,2,00:28.600000,BKN,,DEN,,D. Smith Jr.,BKN,Smith Jr. P.FOUL (P1.PN) (D.Taylor),Foul,Personal,0,0,0,0,,,h
+S2324-G0383,2,00:11,BKN,,DEN,,D. Smith Jr.,BKN,MISS Smith Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,-21,263,26,1,3.0,0.0,h
+S2324-G0383,3,02:30,BKN,,DEN,,D. Smith Jr.,BKN,Smith Jr. S.FOUL (P2.PN) (D.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2324-G0383,3,02:10,BKN,,DEN,,D. Smith Jr.,BKN,MISS Smith Jr. 2' Driving Layup,Missed Shot,Driving Layup Shot,18,4,2,1,2.0,0.0,h
+S2324-G0383,3,01:44,BKN,,DEN,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0383,3,00:55.400000,BKN,,DEN,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0383,4,11:12,BKN,89.0,DEN,90.0,D. Smith Jr.,BKN,Smith Jr. 24' 3PT Step Back Jump Shot (7 PTS) (Claxton 6 AST),Made Shot,Step Back Jump shot,-138,200,24,1,3.0,3.0,h
+S2324-G0383,4,09:26,BKN,,DEN,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0383,4,09:20,BKN,,DEN,,D. Smith Jr.,BKN,MISS Smith Jr. 2' Driving Layup,Missed Shot,Driving Layup Shot,-17,-6,2,1,2.0,0.0,h
+S2324-G0383,4,09:19,BKN,,DEN,,D. Smith Jr.,BKN,Smith Jr. P.FOUL (P3.T1) (M.Davis),Foul,Personal,0,0,0,0,,,h
+S2324-G0383,4,09:01,BKN,,DEN,,D. Smith Jr.,BKN,Smith Jr. S.FOUL (P4.T2) (D.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2324-G0383,4,06:33,BKN,,DEN,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0383,4,05:46,BKN,,DEN,,D. Smith Jr.,BKN,MISS Smith Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,-135,211,25,1,3.0,0.0,h
+S2324-G0383,4,05:02,BKN,,DEN,,D. Smith Jr.,BKN,SUB: Johnson FOR Smith Jr.,Substitution,,0,0,0,0,,,h
+S2324-G0383,4,00:18.400000,BKN,,DEN,,D. Smith Jr.,BKN,Smith Jr. Personal Take Foul (P5.PN) (M.Davis),Foul,Personal Take,0,0,0,0,,,h
+S2324-G0383,4,00:18.400000,BKN,,DEN,,D. Smith Jr.,BKN,SUB: Thomas FOR Smith Jr.,Substitution,,0,0,0,0,,,h
+S2324-G0481,1,03:36,BKN,24.0,OKC,15.0,D. Smith Jr.,BKN,Smith Jr. 2' Running Layup (2 PTS) (O'Neale 1 AST),Made Shot,Running Layup Shot,16,13,2,1,2.0,2.0,h
+S2324-G0481,1,03:19,BKN,,OKC,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0481,1,03:14,BKN,26.0,OKC,15.0,D. Smith Jr.,BKN,Smith Jr. 1' Running Layup (4 PTS),Made Shot,Running Layup Shot,5,4,1,1,2.0,2.0,h
+S2324-G0481,1,03:02,BKN,,OKC,,D. Smith Jr.,BKN,Smith Jr. STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0481,1,02:12,BKN,,OKC,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0481,1,01:49,BKN,,OKC,,D. Smith Jr.,BKN,Smith Jr. S.FOUL (P1.T4) (T.Washington),Foul,Shooting,0,0,0,0,,,h
+S2324-G0481,1,00:55.100000,BKN,,OKC,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0481,2,11:34,BKN,,OKC,,D. Smith Jr.,BKN,MISS Smith Jr. 3PT Jump Shot,Missed Shot,Jump Shot,230,-13,0,1,3.0,0.0,h
+S2324-G0481,2,10:06,BKN,,OKC,,D. Smith Jr.,BKN,Smith Jr. L.B.FOUL (P2.T1) (T.Washington),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0481,2,09:56,BKN,,OKC,,D. Smith Jr.,BKN,Smith Jr. S.FOUL (P3.T2) (E.Scott),Foul,Shooting,0,0,0,0,,,h
+S2324-G0481,2,09:39,BKN,,OKC,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0481,2,09:37,BKN,46.0,OKC,26.0,D. Smith Jr.,BKN,Smith Jr. 1' Putback Dunk (6 PTS),Made Shot,Putback Dunk Shot,0,10,1,1,2.0,2.0,h
+S2324-G0481,2,09:25,BKN,,OKC,,D. Smith Jr.,BKN,Smith Jr. STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0481,2,09:20,BKN,,OKC,,D. Smith Jr.,BKN,MISS Smith Jr. 2' Running Reverse Layup,Missed Shot,Running Reverse Layup Shot,13,8,2,1,2.0,0.0,h
+S2324-G0481,2,09:02,BKN,,OKC,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0481,2,08:17,BKN,,OKC,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0481,2,06:07,BKN,,OKC,,D. Smith Jr.,BKN,MISS Smith Jr. 3PT Jump Shot,Missed Shot,Jump Shot,225,8,0,1,3.0,0.0,h
+S2324-G0481,2,05:05,BKN,59.0,OKC,34.0,D. Smith Jr.,BKN,Smith Jr. 5' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,36,34,5,1,2.0,2.0,h
+S2324-G0481,2,04:41,BKN,,OKC,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0481,2,03:32,BKN,,OKC,,D. Smith Jr.,BKN,SUB: Thomas FOR Smith Jr.,Substitution,,0,0,0,0,,,h
+S2324-G0481,2,01:37,BKN,,OKC,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0481,3,03:31,BKN,,OKC,,D. Smith Jr.,BKN,MISS Smith Jr. 2' Driving Layup,Missed Shot,Driving Layup Shot,12,13,2,1,2.0,0.0,h
+S2324-G0481,3,03:29,BKN,,OKC,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:4 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0481,3,02:56,BKN,99.0,OKC,74.0,D. Smith Jr.,BKN,Smith Jr. 25' 3PT Jump Shot (11 PTS) (Bridges 3 AST),Made Shot,Jump Shot,-136,205,25,1,3.0,3.0,h
+S2324-G0481,3,02:03,BKN,,OKC,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:4 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0481,3,01:30,BKN,,OKC,,D. Smith Jr.,BKN,Smith Jr. P.FOUL (P4.PN) (B.Kennedy),Foul,Personal,0,0,0,0,,,h
+S2324-G0481,4,11:04,BKN,,OKC,,D. Smith Jr.,BKN,MISS Smith Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,-151,193,25,1,3.0,0.0,h
+S2324-G0481,4,09:47,BKN,,OKC,,D. Smith Jr.,BKN,SUB: Johnson FOR Smith Jr.,Substitution,,0,0,0,0,,,h
+S2324-G0481,4,01:47,BKN,,OKC,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:5 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0481,4,01:44,BKN,,OKC,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:6 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0481,4,01:44,BKN,117.0,OKC,107.0,D. Smith Jr.,BKN,Smith Jr. Tip Layup Shot (13 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2324-G0481,4,00:27.600000,BKN,,OKC,,D. Smith Jr.,BKN,SUB: Thomas FOR Smith Jr.,Substitution,,0,0,0,0,,,h
+S2324-G0481,4,00:18.500000,BKN,,OKC,,D. Smith Jr.,BKN,SUB: Finney-Smith FOR Smith Jr.,Substitution,,0,0,0,0,,,h
+S2324-G0993,1,01:30,BKN,,NOP,,D. Smith Jr.,BKN,Smith Jr. Lost Ball Turnover (P1.T5),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0993,1,00:01.700000,BKN,,NOP,,D. Smith Jr.,BKN,SUB: Thomas FOR Smith Jr.,Substitution,,0,0,0,0,,,h
+S2324-G0993,2,06:51,BKN,,NOP,,D. Smith Jr.,BKN,MISS Smith Jr. 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,74,189,20,1,2.0,0.0,h
+S2324-G0993,2,06:15,BKN,,NOP,,D. Smith Jr.,BKN,Smith Jr. STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0993,2,03:32,BKN,,NOP,,D. Smith Jr.,BKN,Smith Jr. S.FOUL (P1.T3) (C.Kirkland),Foul,Shooting,0,0,0,0,,,h
+S2324-G0993,2,03:32,BKN,,NOP,,D. Smith Jr.,BKN,SUB: Thomas FOR Smith Jr.,Substitution,,0,0,0,0,,,h
+S2324-G0993,2,00:02.100000,BKN,,NOP,,D. Smith Jr.,BKN,MISS Smith Jr. 1' Running Layup,Missed Shot,Running Layup Shot,-4,8,1,1,2.0,0.0,h
+S2324-G0993,2,00:01.200000,BKN,,NOP,,D. Smith Jr.,BKN,SUB: Thomas FOR Smith Jr.,Substitution,,0,0,0,0,,,h
+S2324-G0615,1,00:32.300000,BKN,,NYK,,D. Smith Jr.,BKN,Smith Jr. Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0615,1,00:18,BKN,28.0,NYK,26.0,D. Smith Jr.,BKN,Smith Jr. 1' Running Layup (2 PTS) (Bridges 2 AST),Made Shot,Running Layup Shot,9,8,1,1,2.0,2.0,h
+S2324-G0615,2,11:51,BKN,,NYK,,D. Smith Jr.,BKN,MISS Smith Jr. 4' Driving Dunk,Missed Shot,Driving Dunk Shot,-26,27,4,1,2.0,0.0,h
+S2324-G0615,2,08:07,BKN,,NYK,,D. Smith Jr.,BKN,Smith Jr. STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0615,2,07:22,BKN,,NYK,,D. Smith Jr.,BKN,MISS Smith Jr. 24' 3PT Jump Shot,Missed Shot,Jump Shot,-237,62,24,1,3.0,0.0,h
+S2324-G0615,2,06:35,BKN,,NYK,,D. Smith Jr.,BKN,Smith Jr. BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0615,2,06:32,BKN,,NYK,,D. Smith Jr.,BKN,Smith Jr. S.FOUL (P1.T1) (J.Capers),Foul,Shooting,0,0,0,0,,,h
+S2324-G0615,2,04:07,BKN,46.0,NYK,46.0,D. Smith Jr.,BKN,Smith Jr. 4' Driving Layup (4 PTS) (Finney-Smith 3 AST),Made Shot,Driving Layup Shot,-7,42,4,1,2.0,2.0,h
+S2324-G0615,2,03:51,BKN,,NYK,,D. Smith Jr.,BKN,Smith Jr. P.FOUL (P2.T4) (P.Ransom),Foul,Personal,0,0,0,0,,,h
+S2324-G0615,2,03:51,BKN,,NYK,,D. Smith Jr.,BKN,SUB: Claxton FOR Smith Jr.,Substitution,,0,0,0,0,,,h
+S2324-G0615,3,06:09,BKN,,NYK,,D. Smith Jr.,BKN,MISS Smith Jr. 2' Driving Layup,Missed Shot,Driving Layup Shot,-21,-4,2,1,2.0,0.0,h
+S2324-G0615,3,04:47,BKN,,NYK,,D. Smith Jr.,BKN,Smith Jr. S.FOUL (P3.T2) (G.Petraitis),Foul,Shooting,0,0,0,0,,,h
+S2324-G0615,3,03:55,BKN,,NYK,,D. Smith Jr.,BKN,Smith Jr. OFF.Foul (P4) (J.Capers),Foul,Offensive,0,0,0,0,,,h
+S2324-G0615,3,03:55,BKN,,NYK,,D. Smith Jr.,BKN,Smith Jr. Offensive Foul Turnover (P2.T9),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0615,3,03:18,BKN,,NYK,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0615,3,01:38,BKN,79.0,NYK,71.0,D. Smith Jr.,BKN,Smith Jr. 1' Running Layup (6 PTS) (Bridges 5 AST),Made Shot,Running Layup Shot,9,-6,1,1,2.0,2.0,h
+S2324-G0615,3,01:25,BKN,,NYK,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0615,4,11:36,BKN,,NYK,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0615,4,11:17,BKN,,NYK,,D. Smith Jr.,BKN,Smith Jr. Bad Pass Turnover (P3.T11),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0615,4,09:04,BKN,,NYK,,D. Smith Jr.,BKN,SUB: Dinwiddie FOR Smith Jr.,Substitution,,0,0,0,0,,,h
+S2324-G0615,4,06:56,BKN,,NYK,,D. Smith Jr.,BKN,Smith Jr. S.FOUL (P5.T2) (G.Petraitis),Foul,Shooting,0,0,0,0,,,h
+S2324-G0615,4,05:40,BKN,97.0,NYK,94.0,D. Smith Jr.,BKN,Smith Jr. 1' Driving Finger Roll Layup (8 PTS),Made Shot,Driving Finger Roll Layup Shot,7,6,1,1,2.0,2.0,h
+S2324-G0615,4,05:17,BKN,,NYK,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0615,4,05:13,BKN,,NYK,,D. Smith Jr.,BKN,Smith Jr. Traveling Turnover (P4.T12),Turnover,Traveling,0,0,0,0,,,h
+S2324-G0615,4,03:17,BKN,,NYK,,D. Smith Jr.,BKN,Smith Jr. Bad Pass Turnover (P5.T13),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0615,4,01:54,BKN,,NYK,,D. Smith Jr.,BKN,MISS Smith Jr. 7' Pullup Jump Shot,Missed Shot,Pullup Jump shot,20,68,7,1,2.0,0.0,h
+S2324-G0615,4,01:45,BKN,,NYK,,D. Smith Jr.,BKN,Smith Jr. STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0615,4,01:10,BKN,,NYK,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0615,4,01:08,BKN,,NYK,,D. Smith Jr.,BKN,MISS Smith Jr. 1' Running Layup,Missed Shot,Running Layup Shot,-12,5,1,1,2.0,0.0,h
+S2324-G0615,4,00:25.300000,BKN,,NYK,,D. Smith Jr.,BKN,SUB: Thomas FOR Smith Jr.,Substitution,,0,0,0,0,,,h
+S2324-G0750,1,05:58,BKN,,SAS,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0750,1,05:56,BKN,13.0,SAS,10.0,D. Smith Jr.,BKN,Smith Jr. 1' Running Layup (2 PTS) (Schroder 1 AST),Made Shot,Running Layup Shot,6,-12,1,1,2.0,2.0,h
+S2324-G0750,1,05:19,BKN,16.0,SAS,10.0,D. Smith Jr.,BKN,Smith Jr. 25' 3PT Jump Shot (5 PTS) (Schroder 2 AST),Made Shot,Jump Shot,228,114,25,1,3.0,3.0,h
+S2324-G0750,2,04:51,BKN,,SAS,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0750,2,01:52,BKN,,SAS,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0750,2,01:52,BKN,58.0,SAS,48.0,D. Smith Jr.,BKN,Smith Jr. Tip Layup Shot (7 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2324-G0750,2,01:30,BKN,,SAS,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0750,2,01:29,BKN,60.0,SAS,48.0,D. Smith Jr.,BKN,Smith Jr. 1' Running Finger Roll Layup (9 PTS),Made Shot,Running Finger Roll Layup Shot,4,10,1,1,2.0,2.0,h
+S2324-G0750,2,00:46.800000,BKN,,SAS,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0750,3,03:01,BKN,,SAS,,D. Smith Jr.,BKN,MISS Smith Jr. 9' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,48,79,9,1,2.0,0.0,h
+S2324-G0750,3,01:52,BKN,,SAS,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0750,3,01:29,BKN,,SAS,,D. Smith Jr.,BKN,MISS Smith Jr. 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,66,176,19,1,2.0,0.0,h
+S2324-G0750,3,00:02.800000,BKN,,SAS,,D. Smith Jr.,BKN,Smith Jr. BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0750,4,11:37,BKN,96.0,SAS,75.0,D. Smith Jr.,BKN,Smith Jr. 26' 3PT Jump Shot (12 PTS) (Finney-Smith 2 AST),Made Shot,Jump Shot,-161,201,26,1,3.0,3.0,h
+S2324-G0750,4,09:03,BKN,102.0,SAS,77.0,D. Smith Jr.,BKN,Smith Jr. 1' Driving Layup (14 PTS) (Simmons 5 AST),Made Shot,Driving Layup Shot,-13,-6,1,1,2.0,2.0,h
+S2324-G0750,4,08:41,BKN,,SAS,,D. Smith Jr.,BKN,Smith Jr. P.FOUL (P1.T3) (M.Dagher),Foul,Personal,0,0,0,0,,,h
+S2324-G0750,4,06:00,BKN,,SAS,,D. Smith Jr.,BKN,MISS Smith Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,157,204,26,1,3.0,0.0,h
+S2324-G0750,4,05:01,BKN,,SAS,,D. Smith Jr.,BKN,SUB: Watford FOR Smith Jr.,Substitution,,0,0,0,0,,,h
+S2324-G0879,1,01:50,BKN,,MEM,,D. Smith Jr.,BKN,MISS Smith Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,-39,248,25,1,3.0,0.0,h
+S2324-G0879,1,01:06,BKN,29.0,MEM,23.0,D. Smith Jr.,BKN,Smith Jr. 25' 3PT Jump Shot (3 PTS) (Finney-Smith 2 AST),Made Shot,Jump Shot,-118,224,25,1,3.0,3.0,h
+S2324-G0879,1,00:03.700000,BKN,,MEM,,D. Smith Jr.,BKN,MISS Smith Jr. 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,64,141,15,1,2.0,0.0,h
+S2324-G0879,2,09:58,BKN,,MEM,,D. Smith Jr.,BKN,SUB: Johnson FOR Smith Jr.,Substitution,,0,0,0,0,,,h
+S2324-G0879,3,00:52.600000,BKN,,MEM,,D. Smith Jr.,BKN,Smith Jr. BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0879,3,00:44.100000,BKN,,MEM,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0879,4,11:28,BKN,,MEM,,D. Smith Jr.,BKN,Smith Jr. STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0879,4,11:25,BKN,82.0,MEM,80.0,D. Smith Jr.,BKN,Smith Jr. 2' Running Dunk (5 PTS) (Bridges 4 AST),Made Shot,Running Dunk Shot,10,13,2,1,2.0,2.0,h
+S2324-G0879,4,11:12,BKN,,MEM,,D. Smith Jr.,BKN,Smith Jr. STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0879,4,10:20,BKN,,MEM,,D. Smith Jr.,BKN,Smith Jr. S.FOUL (P1.T2) (J.Williams),Foul,Shooting,0,0,0,0,,,h
+S2324-G0879,4,10:05,BKN,,MEM,,D. Smith Jr.,BKN,MISS Smith Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,-151,205,25,1,3.0,0.0,h
+S2324-G0879,4,09:40,BKN,,MEM,,D. Smith Jr.,BKN,SUB: Schroder FOR Smith Jr.,Substitution,,0,0,0,0,,,h
+S2324-G0879,4,03:17,BKN,,MEM,,D. Smith Jr.,BKN,Smith Jr. Bad Pass Turnover (P1.T12),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0879,4,03:06,BKN,,MEM,,D. Smith Jr.,BKN,SUB: Finney-Smith FOR Smith Jr.,Substitution,,0,0,0,0,,,h
+S2324-G0879,4,00:30,BKN,,MEM,,D. Smith Jr.,BKN,SUB: Johnson FOR Smith Jr.,Substitution,,0,0,0,0,,,h
+S2324-G0879,4,00:06.700000,BKN,,MEM,,D. Smith Jr.,BKN,SUB: Claxton FOR Smith Jr.,Substitution,,0,0,0,0,,,h
+S2324-G0101,1,03:02,CHA,,BKN,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0101,1,01:33,CHA,,BKN,,D. Smith Jr.,BKN,Smith Jr. S.FOUL (P1.PN) (C.Washington),Foul,Shooting,0,0,0,0,,,v
+S2324-G0101,1,00:38.500000,CHA,,BKN,,D. Smith Jr.,BKN,SUB: Bridges FOR Smith Jr.,Substitution,,0,0,0,0,,,v
+S2324-G0101,2,10:24,CHA,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 5' Driving Layup,Missed Shot,Driving Layup Shot,-1,48,5,1,2.0,0.0,v
+S2324-G0101,2,10:18,CHA,,BKN,,D. Smith Jr.,BKN,Smith Jr. L.B.FOUL (P2.T2) (C.Washington),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0101,2,09:11,CHA,,BKN,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0101,2,08:59,CHA,30.0,BKN,48.0,D. Smith Jr.,BKN,Smith Jr. 21' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,-97,184,21,1,2.0,2.0,v
+S2324-G0101,2,08:18,CHA,,BKN,,D. Smith Jr.,BKN,SUB: Simmons FOR Smith Jr.,Substitution,,0,0,0,0,,,v
+S2324-G0101,2,02:22,CHA,,BKN,,D. Smith Jr.,BKN,Smith Jr. STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0101,2,01:22,CHA,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-60,265,27,1,3.0,0.0,v
+S2324-G0101,2,00:48.800000,CHA,,BKN,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0101,2,00:13.700000,CHA,55.0,BKN,66.0,D. Smith Jr.,BKN,Smith Jr. Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0101,2,00:13.700000,CHA,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0101,3,01:58,CHA,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 8' Pullup Jump Shot,Missed Shot,Pullup Jump shot,18,79,8,1,2.0,0.0,v
+S2324-G0101,3,01:22,CHA,,BKN,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0101,3,01:20,CHA,,BKN,,D. Smith Jr.,BKN,Smith Jr. Out of Bounds - Bad Pass Turnover Turnover (P1.T9),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0101,3,00:11.700000,CHA,,BKN,,D. Smith Jr.,BKN,SUB: Walker IV FOR Smith Jr.,Substitution,,0,0,0,0,,,v
+S2324-G0947,1,00:03.100000,ORL,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 24' 3PT Jump Shot,Missed Shot,Jump Shot,229,55,24,1,3.0,0.0,v
+S2324-G0947,2,10:31,ORL,,BKN,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0947,2,08:44,ORL,41.0,BKN,29.0,D. Smith Jr.,BKN,Smith Jr. 26' 3PT Jump Shot (3 PTS) (Claxton 4 AST),Made Shot,Jump Shot,110,231,26,1,3.0,3.0,v
+S2324-G0947,2,08:32,ORL,,BKN,,D. Smith Jr.,BKN,SUB: Bridges FOR Smith Jr.,Substitution,,0,0,0,0,,,v
+S2324-G0947,2,02:42,ORL,,BKN,,D. Smith Jr.,BKN,Smith Jr. STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0947,2,01:16,ORL,59.0,BKN,49.0,D. Smith Jr.,BKN,Smith Jr. 25' 3PT Jump Shot (6 PTS) (Johnson 1 AST),Made Shot,Jump Shot,127,216,25,1,3.0,3.0,v
+S2324-G0947,2,01:03,ORL,,BKN,,D. Smith Jr.,BKN,Smith Jr. STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0947,2,01:00,ORL,59.0,BKN,51.0,D. Smith Jr.,BKN,Smith Jr. Running Dunk (8 PTS),Made Shot,Running Dunk Shot,1,2,0,1,2.0,2.0,v
+S2324-G0947,3,04:23,ORL,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,86,231,25,1,3.0,0.0,v
+S2324-G0947,3,00:24.300000,ORL,,BKN,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0947,3,00:04,ORL,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,-94,241,26,1,3.0,0.0,v
+S2324-G0947,4,02:44,ORL,,BKN,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0947,4,02:44,ORL,112.0,BKN,100.0,D. Smith Jr.,BKN,Smith Jr. Putback Layup (10 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,v
+S2324-G0947,4,02:25,ORL,,BKN,,D. Smith Jr.,BKN,SUB: Watford FOR Smith Jr.,Substitution,,0,0,0,0,,,v
+S2324-G0394,1,01:28,BKN,,DET,,D. Smith Jr.,BKN,Smith Jr. P.FOUL (P1.T3) (R.Mott),Foul,Personal,0,0,0,0,,,h
+S2324-G0394,2,10:55,BKN,,DET,,D. Smith Jr.,BKN,MISS Smith Jr. 22' Step Back Jump Shot,Missed Shot,Step Back Jump shot,51,210,22,1,2.0,0.0,h
+S2324-G0394,2,10:49,BKN,,DET,,D. Smith Jr.,BKN,Smith Jr. S.FOUL (P2.T1) (B.Nansel),Foul,Shooting,0,0,0,0,,,h
+S2324-G0394,2,09:46,BKN,,DET,,D. Smith Jr.,BKN,Smith Jr. Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0394,2,08:40,BKN,,DET,,D. Smith Jr.,BKN,MISS Smith Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,-118,220,25,1,3.0,0.0,h
+S2324-G0394,2,07:05,BKN,44.0,DET,35.0,D. Smith Jr.,BKN,Smith Jr. 26' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,9,256,26,1,3.0,3.0,h
+S2324-G0394,2,06:10,BKN,,DET,,D. Smith Jr.,BKN,Smith Jr. S.FOUL (P3.T4) (M.Myers),Foul,Shooting,0,0,0,0,,,h
+S2324-G0394,2,05:30,BKN,,DET,,D. Smith Jr.,BKN,SUB: Dinwiddie FOR Smith Jr.,Substitution,,0,0,0,0,,,h
+S2324-G0394,3,00:00.200000,BKN,,DET,,D. Smith Jr.,BKN,MISS Smith Jr. 3' Driving Layup,Missed Shot,Driving Layup Shot,-20,18,3,1,2.0,0.0,h
+S2324-G0394,4,08:41,BKN,106.0,DET,89.0,D. Smith Jr.,BKN,Smith Jr. Alley Oop Dunk (5 PTS) (O'Neale 5 AST),Made Shot,Alley Oop Dunk Shot,-2,4,0,1,2.0,2.0,h
+S2324-G0394,4,07:40,BKN,,DET,,D. Smith Jr.,BKN,SUB: Johnson FOR Smith Jr.,Substitution,,0,0,0,0,,,h
+S2324-G0394,4,01:14,BKN,,DET,,D. Smith Jr.,BKN,MISS Smith Jr. Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0394,4,01:14,BKN,126.0,DET,110.0,D. Smith Jr.,BKN,Smith Jr. Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0394,4,00:42.100000,BKN,,DET,,D. Smith Jr.,BKN,MISS Smith Jr. 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-21,80,8,1,2.0,0.0,h
+S2324-G0160,1,02:41,BKN,,LAC,,D. Smith Jr.,BKN,Smith Jr. STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0160,1,02:36,BKN,13.0,LAC,19.0,D. Smith Jr.,BKN,Smith Jr. 1' Running Layup (2 PTS),Made Shot,Running Layup Shot,-11,8,1,1,2.0,2.0,h
+S2324-G0160,1,00:55.700000,BKN,,LAC,,D. Smith Jr.,BKN,MISS Smith Jr. 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-142,96,17,1,2.0,0.0,h
+S2324-G0160,1,00:20.300000,BKN,,LAC,,D. Smith Jr.,BKN,MISS Smith Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,-190,180,26,1,3.0,0.0,h
+S2324-G0160,2,10:45,BKN,,LAC,,D. Smith Jr.,BKN,Smith Jr. P.FOUL (P1.T1) (C.Aubry),Foul,Personal,0,0,0,0,,,h
+S2324-G0160,2,10:31,BKN,,LAC,,D. Smith Jr.,BKN,Smith Jr. OFF.Foul (P2) (B.Forte),Foul,Offensive,0,0,0,0,,,h
+S2324-G0160,2,10:31,BKN,,LAC,,D. Smith Jr.,BKN,Smith Jr. Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0160,2,08:15,BKN,,LAC,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0160,2,07:02,BKN,,LAC,,D. Smith Jr.,BKN,MISS Smith Jr. 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,154,197,25,1,3.0,0.0,h
+S2324-G0160,2,06:49,BKN,,LAC,,D. Smith Jr.,BKN,SUB: Bridges FOR Smith Jr.,Substitution,,0,0,0,0,,,h
+S2324-G0160,3,03:17,BKN,,LAC,,D. Smith Jr.,BKN,MISS Smith Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,-154,207,26,1,3.0,0.0,h
+S2324-G0160,4,10:20,BKN,78.0,LAC,73.0,D. Smith Jr.,BKN,Smith Jr. 1' Running Dunk (4 PTS) (Bridges 6 AST),Made Shot,Running Dunk Shot,-2,5,1,1,2.0,2.0,h
+S2324-G0160,4,08:35,BKN,,LAC,,D. Smith Jr.,BKN,Smith Jr. STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0160,4,05:37,BKN,,LAC,,D. Smith Jr.,BKN,Smith Jr. P.FOUL (P3.T3) (B.Forte),Foul,Personal,0,0,0,0,,,h
+S2324-G0160,4,03:56,BKN,,LAC,,D. Smith Jr.,BKN,MISS Smith Jr. 5' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,12,48,5,1,2.0,0.0,h
+S2324-G0160,4,03:47,BKN,,LAC,,D. Smith Jr.,BKN,Smith Jr. S.FOUL (P4.PN) (E.Malloy),Foul,Shooting,0,0,0,0,,,h
+S2324-G0160,4,01:59,BKN,,LAC,,D. Smith Jr.,BKN,SUB: Dinwiddie FOR Smith Jr.,Substitution,,0,0,0,0,,,h
+S2324-G0930,1,01:03,CLE,,BKN,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0930,1,00:57.900000,CLE,24.0,BKN,28.0,D. Smith Jr.,BKN,Smith Jr. Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0930,1,00:57.900000,CLE,24.0,BKN,29.0,D. Smith Jr.,BKN,Smith Jr. Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0930,1,00:19.900000,CLE,,BKN,,D. Smith Jr.,BKN,SUB: Thomas FOR Smith Jr.,Substitution,,0,0,0,0,,,v
+S2324-G0930,2,09:04,CLE,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 24' 3PT Jump Shot,Missed Shot,Jump Shot,-237,-8,24,1,3.0,0.0,v
+S2324-G0930,2,06:55,CLE,,BKN,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0930,2,06:52,CLE,,BKN,,D. Smith Jr.,BKN,Smith Jr. Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0930,2,06:52,CLE,,BKN,,D. Smith Jr.,BKN,Smith Jr. P.FOUL (P1.T1) (J.Orr),Foul,Personal,0,0,0,0,,,v
+S2324-G0930,2,06:26,CLE,34.0,BKN,44.0,D. Smith Jr.,BKN,Smith Jr. 1' Running Dunk (4 PTS) (Schroder 2 AST),Made Shot,Running Dunk Shot,-6,10,1,1,2.0,2.0,v
+S2324-G0930,2,06:11,CLE,,BKN,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0930,2,05:12,CLE,,BKN,,D. Smith Jr.,BKN,SUB: Walker IV FOR Smith Jr.,Substitution,,0,0,0,0,,,v
+S2324-G0930,2,00:05,CLE,,BKN,,D. Smith Jr.,BKN,Smith Jr. P.FOUL (P2.T4) (M.Boland),Foul,Personal,0,0,0,0,,,v
+S2324-G0930,2,00:05,CLE,,BKN,,D. Smith Jr.,BKN,Smith Jr. AWAY.FROM.PLAY.FOUL (P3.PN) (J.Orr),Foul,Away From Play,0,0,0,0,,,v
+S2324-G0930,4,09:35,CLE,82.0,BKN,108.0,D. Smith Jr.,BKN,Smith Jr. 3PT Jump Shot (7 PTS) (Sharpe 4 AST),Made Shot,Jump Shot,232,16,0,1,3.0,3.0,v
+S2324-G0930,4,08:18,CLE,,BKN,,D. Smith Jr.,BKN,Smith Jr. P.FOUL (P4.T1) (J.Orr),Foul,Personal,0,0,0,0,,,v
+S2324-G0930,4,06:58,CLE,,BKN,,D. Smith Jr.,BKN,SUB: Wilson FOR Smith Jr.,Substitution,,0,0,0,0,,,v
+S2324-G1209,1,03:01,ATL,,BKN,,D. Smith Jr.,BKN,Smith Jr. STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G1209,1,02:58,ATL,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 4' Layup,Missed Shot,Layup Shot,-39,13,4,1,2.0,0.0,v
+S2324-G1209,1,02:58,ATL,,BKN,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1209,1,02:58,ATL,24.0,BKN,24.0,D. Smith Jr.,BKN,Smith Jr. Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1209,1,02:58,ATL,24.0,BKN,25.0,D. Smith Jr.,BKN,Smith Jr. Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1209,1,02:49,ATL,,BKN,,D. Smith Jr.,BKN,Smith Jr. P.FOUL (P1.PN) (D.Taylor),Foul,Personal,0,0,0,0,,,v
+S2324-G1209,1,01:20,ATL,28.0,BKN,30.0,D. Smith Jr.,BKN,Smith Jr. Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1209,1,01:20,ATL,28.0,BKN,31.0,D. Smith Jr.,BKN,Smith Jr. Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1209,1,00:44.100000,ATL,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 2' Driving Layup,Missed Shot,Driving Layup Shot,0,17,2,1,2.0,0.0,v
+S2324-G1209,1,00:42.300000,ATL,,BKN,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1209,1,00:32,ATL,,BKN,,D. Smith Jr.,BKN,Smith Jr. S.FOUL (P2.PN) (M.Ervin),Foul,Shooting,0,0,0,0,,,v
+S2324-G1209,2,08:25,ATL,37.0,BKN,36.0,D. Smith Jr.,BKN,Smith Jr. 20' Pullup Jump Shot (6 PTS) (Claxton 1 AST),Made Shot,Pullup Jump shot,-48,193,20,1,2.0,2.0,v
+S2324-G1209,2,07:57,ATL,37.0,BKN,38.0,D. Smith Jr.,BKN,Smith Jr. Driving Dunk (8 PTS),Made Shot,Driving Dunk Shot,1,-3,0,1,2.0,2.0,v
+S2324-G1209,2,07:24,ATL,,BKN,,D. Smith Jr.,BKN,Smith Jr. REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1209,2,06:25,ATL,,BKN,,D. Smith Jr.,BKN,MISS Smith Jr. 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-4,105,11,1,2.0,0.0,v
+S2324-G1209,2,05:40,ATL,,BKN,,D. Smith Jr.,BKN,Smith Jr. S.FOUL (P3.T2) (D.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2324-G1209,2,05:40,ATL,,BKN,,D. Smith Jr.,BKN,SUB: Bridges FOR Smith Jr.,Substitution,,0,0,0,0,,,v
+S2324-G1209,3,03:55,ATL,75.0,BKN,73.0,D. Smith Jr.,BKN,Smith Jr. 1' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,-7,5,1,1,2.0,2.0,v
+S2324-G1209,3,03:55,ATL,75.0,BKN,74.0,D. Smith Jr.,BKN,Smith Jr. Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G1209,4,11:08,ATL,84.0,BKN,83.0,D. Smith Jr.,BKN,Smith Jr. 1' Driving Layup (13 PTS),Made Shot,Driving Layup Shot,11,8,1,1,2.0,2.0,v
+S2324-G1209,4,08:14,ATL,,BKN,,D. Smith Jr.,BKN,Smith Jr. STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G1209,4,07:18,ATL,,BKN,,D. Smith Jr.,BKN,SUB: Dinwiddie FOR Smith Jr.,Substitution,,0,0,0,0,,,v

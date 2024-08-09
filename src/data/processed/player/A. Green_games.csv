@@ -1,0 +1,419 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2324-G0899,4,11:14,GSW,,MIL,,A. Green,MIL,Green REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0899,4,10:53,GSW,,MIL,,A. Green,MIL,MISS Green 3PT Jump Shot,Missed Shot,Jump Shot,-234,-9,0,1,3.0,0.0,v
+S2324-G0899,4,09:15,GSW,,MIL,,A. Green,MIL,MISS Green 3PT Jump Shot,Missed Shot,Jump Shot,-228,31,0,1,3.0,0.0,v
+S2324-G0899,4,05:01,GSW,113.0,MIL,90.0,A. Green,MIL,Green 15' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,-153,15,15,1,2.0,2.0,v
+S2324-G0899,4,02:30,GSW,,MIL,,A. Green,MIL,MISS Green 27' 3PT Jump Shot,Missed Shot,Jump Shot,157,215,27,1,3.0,0.0,v
+S2324-G0899,4,01:21,GSW,,MIL,,A. Green,MIL,MISS Green 31' 3PT Jump Shot,Missed Shot,Jump Shot,17,309,31,1,3.0,0.0,v
+S2324-G0899,4,00:35.200000,GSW,,MIL,,A. Green,MIL,MISS Green 28' 3PT Jump Shot,Missed Shot,Jump Shot,-89,263,28,1,3.0,0.0,v
+S2324-G0899,4,00:16,GSW,,MIL,,A. Green,MIL,Green Bad Pass Turnover (P1.T15),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0572,3,00:52.100000,CLE,,MIL,,A. Green,MIL,Green S.FOUL (P1.PN) (B.Kennedy),Foul,Shooting,0,0,0,0,,,v
+S2324-G0572,4,11:25,CLE,,MIL,,A. Green,MIL,MISS Green 4' Driving Layup,Missed Shot,Driving Layup Shot,-11,42,4,1,2.0,0.0,v
+S2324-G0572,4,11:21,CLE,,MIL,,A. Green,MIL,Green REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0572,4,11:01,CLE,,MIL,,A. Green,MIL,Green S.FOUL (P2.T1) (D.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2324-G0572,4,07:57,CLE,,MIL,,A. Green,MIL,Green REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0572,4,07:49,CLE,119.0,MIL,82.0,A. Green,MIL,Green 26' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,11,258,26,1,3.0,3.0,v
+S2324-G0572,4,06:27,CLE,,MIL,,A. Green,MIL,MISS Green 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-126,224,26,1,3.0,0.0,v
+S2324-G0572,4,03:40,CLE,,MIL,,A. Green,MIL,MISS Green 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,153,209,26,1,3.0,0.0,v
+S2324-G0572,4,00:11.700000,CLE,,MIL,,A. Green,MIL,MISS Green 25' 3PT Jump Shot,Missed Shot,Jump Shot,-92,230,25,1,3.0,0.0,v
+S2324-G0773,2,11:44,MIL,,MIA,,A. Green,MIL,Green BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0773,2,10:48,MIL,,MIA,,A. Green,MIL,MISS Green 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-17,273,27,1,3.0,0.0,h
+S2324-G0773,2,09:54,MIL,,MIA,,A. Green,MIL,MISS Green 28' 3PT Jump Shot,Missed Shot,Jump Shot,164,225,28,1,3.0,0.0,h
+S2324-G0773,2,07:40,MIL,,MIA,,A. Green,MIL,SUB: G. Antetokounmpo FOR Green,Substitution,,0,0,0,0,,,h
+S2324-G0773,3,01:49,MIL,73.0,MIA,94.0,A. Green,MIL,Green Free Throw Technical (1 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,h
+S2324-G0773,4,07:14,MIL,,MIA,,A. Green,MIL,MISS Green 14' Step Back Jump Shot,Missed Shot,Step Back Jump shot,137,-5,14,1,2.0,0.0,h
+S2324-G0773,4,06:45,MIL,87.0,MIA,115.0,A. Green,MIL,Green 27' 3PT Jump Shot (4 PTS) (Beverley 2 AST),Made Shot,Jump Shot,-201,175,27,1,3.0,3.0,h
+S2324-G0773,4,05:40,MIL,,MIA,,A. Green,MIL,MISS Green 3PT Jump Shot,Missed Shot,Jump Shot,-227,10,0,1,3.0,0.0,h
+S2324-G0773,4,04:51,MIL,,MIA,,A. Green,MIL,Green REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0773,4,03:50,MIL,,MIA,,A. Green,MIL,Green REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0773,4,03:41,MIL,,MIA,,A. Green,MIL,MISS Green 29' 3PT Jump Shot,Missed Shot,Jump Shot,-122,259,29,1,3.0,0.0,h
+S2324-G0773,4,02:46,MIL,,MIA,,A. Green,MIL,Green REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0773,4,01:16,MIL,,MIA,,A. Green,MIL,Green STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0773,4,00:47,MIL,,MIA,,A. Green,MIL,Green Out of Bounds - Bad Pass Turnover Turnover (P1.T18),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G0773,4,00:24.400000,MIL,,MIA,,A. Green,MIL,MISS Green 31' 3PT Jump Shot,Missed Shot,Jump Shot,-55,301,31,1,3.0,0.0,h
+S2324-G1162,1,03:15,MIL,,ORL,,A. Green,MIL,Green S.FOUL (P1.T3) (S.Foster),Foul,Shooting,0,0,0,0,,,h
+S2324-G1162,1,02:21,MIL,,ORL,,A. Green,MIL,MISS Green 27' 3PT Jump Shot,Missed Shot,Jump Shot,5,273,27,1,3.0,0.0,h
+S2324-G1162,1,01:22,MIL,,ORL,,A. Green,MIL,MISS Green 27' 3PT Jump Shot,Missed Shot,Jump Shot,190,187,27,1,3.0,0.0,h
+S2324-G1162,1,01:16,MIL,,ORL,,A. Green,MIL,Green STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1162,1,01:10,MIL,,ORL,,A. Green,MIL,Green Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G1162,1,00:27.800000,MIL,26.0,ORL,21.0,A. Green,MIL,Green Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1162,1,00:27.800000,MIL,27.0,ORL,21.0,A. Green,MIL,Green Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1162,2,08:05,MIL,,ORL,,A. Green,MIL,MISS Green 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-62,155,17,1,2.0,0.0,h
+S2324-G1162,2,05:54,MIL,,ORL,,A. Green,MIL,SUB: Beasley FOR Green,Substitution,,0,0,0,0,,,h
+S2324-G1007,2,11:38,MIL,,BKN,,A. Green,MIL,Green REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1007,2,09:51,MIL,31.0,BKN,25.0,A. Green,MIL,Green 24' 3PT Jump Shot (3 PTS) (G. Antetokounmpo 2 AST),Made Shot,Jump Shot,232,59,24,1,3.0,3.0,h
+S2324-G1007,2,09:20,MIL,34.0,BKN,25.0,A. Green,MIL,Green 32' 3PT Running Jump Shot (6 PTS) (Connaughton 3 AST),Made Shot,Running Jump Shot,-168,276,32,1,3.0,3.0,h
+S2324-G1007,2,08:36,MIL,37.0,BKN,25.0,A. Green,MIL,Green 24' 3PT Jump Shot (9 PTS) (Portis 2 AST),Made Shot,Jump Shot,-237,1,24,1,3.0,3.0,h
+S2324-G1007,2,05:49,MIL,,BKN,,A. Green,MIL,SUB: Lopez FOR Green,Substitution,,0,0,0,0,,,h
+S2324-G1007,3,03:51,MIL,,BKN,,A. Green,MIL,Green Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G1007,3,02:20,MIL,74.0,BKN,67.0,A. Green,MIL,Green 28' 3PT Jump Shot (12 PTS) (G. Antetokounmpo 4 AST),Made Shot,Jump Shot,127,244,28,1,3.0,3.0,h
+S2324-G1007,3,01:33,MIL,,BKN,,A. Green,MIL,MISS Green 24' 3PT Jump Shot,Missed Shot,Jump Shot,-234,38,24,1,3.0,0.0,h
+S2324-G1007,3,01:27,MIL,77.0,BKN,67.0,A. Green,MIL,Green 29' 3PT Jump Shot (15 PTS) (Connaughton 4 AST),Made Shot,Jump Shot,-178,225,29,1,3.0,3.0,h
+S2324-G1007,3,00:42,MIL,,BKN,,A. Green,MIL,Green REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1007,4,11:36,MIL,,BKN,,A. Green,MIL,Green S.FOUL (P1.T2) (B.Forte),Foul,Shooting,0,0,0,0,,,h
+S2324-G1007,4,10:40,MIL,,BKN,,A. Green,MIL,MISS Green 3PT Jump Shot,Missed Shot,Jump Shot,229,-5,0,1,3.0,0.0,h
+S2324-G1007,4,09:42,MIL,,BKN,,A. Green,MIL,SUB: Crowder FOR Green,Substitution,,0,0,0,0,,,h
+S2324-G0315,4,02:04,MIL,,IND,,A. Green,MIL,SUB: G. Antetokounmpo FOR Green,Substitution,,0,0,0,0,,,h
+S2324-G0745,1,00:41.500000,MIL,,CHA,,A. Green,MIL,Green REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0745,1,00:39.200000,MIL,,CHA,,A. Green,MIL,MISS Green 30' 3PT Jump Shot,Missed Shot,Jump Shot,-143,268,30,1,3.0,0.0,h
+S2324-G0745,2,10:55,MIL,,CHA,,A. Green,MIL,Green P.FOUL (P1.T2) (N.Buchert),Foul,Personal,0,0,0,0,,,h
+S2324-G0745,2,09:53,MIL,,CHA,,A. Green,MIL,MISS Green 26' 3PT Jump Shot,Missed Shot,Jump Shot,110,236,26,1,3.0,0.0,h
+S2324-G0745,2,07:54,MIL,,CHA,,A. Green,MIL,Green REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0745,2,07:22,MIL,,CHA,,A. Green,MIL,SUB: Crowder FOR Green,Substitution,,0,0,0,0,,,h
+S2324-G0745,4,11:19,MIL,,CHA,,A. Green,MIL,MISS Green 26' 3PT Jump Shot,Missed Shot,Jump Shot,-233,113,26,1,3.0,0.0,h
+S2324-G0745,4,10:33,MIL,,CHA,,A. Green,MIL,Green STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0745,4,09:01,MIL,,CHA,,A. Green,MIL,Green REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0745,4,08:03,MIL,,CHA,,A. Green,MIL,MISS Green 29' 3PT Jump Shot,Missed Shot,Jump Shot,1,285,29,1,3.0,0.0,h
+S2324-G0745,4,07:13,MIL,,CHA,,A. Green,MIL,MISS Green 26' 3PT Jump Shot,Missed Shot,Jump Shot,5,263,26,1,3.0,0.0,h
+S2324-G0745,4,06:12,MIL,,CHA,,A. Green,MIL,Green S.FOUL (P2.T4) (A.Smith),Foul,Shooting,0,0,0,0,,,h
+S2324-G0745,4,05:56,MIL,,CHA,,A. Green,MIL,MISS Green 27' 3PT Jump Shot,Missed Shot,Jump Shot,-158,225,27,1,3.0,0.0,h
+S2324-G0745,4,04:31,MIL,,CHA,,A. Green,MIL,MISS Green 26' 3PT Jump Shot,Missed Shot,Jump Shot,108,232,26,1,3.0,0.0,h
+S2324-G0745,4,03:43,MIL,,CHA,,A. Green,MIL,Green REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0745,4,03:34,MIL,,CHA,,A. Green,MIL,Green S.FOUL (P3.PN) (R.Hussey),Foul,Shooting,0,0,0,0,,,h
+S2324-G0745,4,02:52,MIL,118.0,CHA,79.0,A. Green,MIL,Green 25' 3PT Step Back Jump Shot (3 PTS) (T. Antetokounmpo 1 AST),Made Shot,Step Back Jump shot,-227,115,25,1,3.0,3.0,h
+S2324-G0745,4,00:44.300000,MIL,,CHA,,A. Green,MIL,MISS Green 27' 3PT Jump Shot,Missed Shot,Jump Shot,156,216,27,1,3.0,0.0,h
+S2324-G0417,1,01:25,BKN,,MIL,,A. Green,MIL,Green S.FOUL (P1.T4) (J.Orr),Foul,Shooting,0,0,0,0,,,v
+S2324-G0417,1,00:05.100000,BKN,,MIL,,A. Green,MIL,Green P.FOUL (P2.PN) (T.Maddox),Foul,Personal,0,0,0,0,,,v
+S2324-G0417,1,00:00.600000,BKN,,MIL,,A. Green,MIL,MISS Green 24' 3PT Jump Shot,Missed Shot,Jump Shot,-237,-4,24,1,3.0,0.0,v
+S2324-G0417,4,00:50,BKN,120.0,MIL,142.0,A. Green,MIL,Green 25' 3PT Jump Shot (3 PTS) (T. Antetokounmpo 1 AST),Made Shot,Jump Shot,135,209,25,1,3.0,3.0,v
+S2324-G0417,4,00:08,BKN,,MIL,,A. Green,MIL,Green REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0552,1,01:31,,,SAC,,A. Green,MIL,MISS Green 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,181,-10,18,1,2.0,0.0,h
+S2324-G0552,2,07:10,,49.0,SAC,52.0,A. Green,MIL,Green Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0552,2,07:10,,50.0,SAC,52.0,A. Green,MIL,Green Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0552,2,05:18,,,SAC,,A. Green,MIL,MISS Green 3PT Jump Shot,Missed Shot,Jump Shot,229,24,0,1,3.0,0.0,h
+S2324-G0552,2,05:02,,57.0,SAC,54.0,A. Green,MIL,Green 26' 3PT Running Jump Shot (5 PTS) (Lillard 1 AST),Made Shot,Running Jump Shot,131,221,26,1,3.0,3.0,h
+S2324-G0552,2,03:51,,,SAC,,A. Green,MIL,MISS Green 27' 3PT Jump Shot,Missed Shot,Jump Shot,-208,168,27,1,3.0,0.0,h
+S2324-G0552,2,02:30,,,SAC,,A. Green,MIL,SUB: Connaughton FOR Green,Substitution,,0,0,0,0,,,h
+S2324-G0552,3,09:12,,,SAC,,A. Green,MIL,Green P.FOUL (P1.T2) (D.Guthrie),Foul,Personal,0,0,0,0,,,h
+S2324-G0552,3,07:49,,,SAC,,A. Green,MIL,Green S.FOUL (P2.T3) (B.Forte),Foul,Shooting,0,0,0,0,,,h
+S2324-G0552,3,05:39,,,SAC,,A. Green,MIL,MISS Green 26' 3PT Jump Shot,Missed Shot,Jump Shot,-81,246,26,1,3.0,0.0,h
+S2324-G0552,3,05:10,,,SAC,,A. Green,MIL,SUB: Jackson Jr. FOR Green,Substitution,,0,0,0,0,,,h
+S2324-G1139,2,08:28,MIL,,NYK,,A. Green,MIL,MISS Green 29' 3PT Jump Shot,Missed Shot,Jump Shot,92,273,29,1,3.0,0.0,h
+S2324-G1139,2,07:48,MIL,,NYK,,A. Green,MIL,Green P.FOUL (P1.T2) (D.Guthrie),Foul,Personal,0,0,0,0,,,h
+S2324-G1139,2,07:15,MIL,,NYK,,A. Green,MIL,SUB: Beasley FOR Green,Substitution,,0,0,0,0,,,h
+S2324-G1139,2,00:23.900000,MIL,,NYK,,A. Green,MIL,Green STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1139,2,00:01.100000,MIL,61.0,NYK,50.0,A. Green,MIL,Green 16' Turnaround Jump Shot (2 PTS) (Lillard 3 AST),Made Shot,Turnaround Jump Shot,76,143,16,1,2.0,2.0,h
+S2324-G1139,4,09:38,MIL,,NYK,,A. Green,MIL,MISS Green 26' 3PT Jump Shot,Missed Shot,Jump Shot,69,249,26,1,3.0,0.0,h
+S2324-G1139,4,08:11,MIL,,NYK,,A. Green,MIL,SUB: Beasley FOR Green,Substitution,,0,0,0,0,,,h
+S2324-G0817,4,01:03,PHI,98.0,MIL,117.0,A. Green,MIL,Green 24' 3PT Step Back Jump Shot (3 PTS),Made Shot,Step Back Jump shot,-237,1,24,1,3.0,3.0,v
+S2324-G0790,1,01:14,MEM,24.0,MIL,26.0,A. Green,MIL,Green 26' 3PT Jump Shot (3 PTS) (G. Antetokounmpo 3 AST),Made Shot,Jump Shot,98,239,26,1,3.0,3.0,v
+S2324-G0790,1,00:43.700000,MEM,,MIL,,A. Green,MIL,MISS Green 25' 3PT Jump Shot,Missed Shot,Jump Shot,58,242,25,1,3.0,0.0,v
+S2324-G0790,2,11:04,MEM,,MIL,,A. Green,MIL,Green P.FOUL (P1.T1) (E.Dalen),Foul,Personal,0,0,0,0,,,v
+S2324-G0790,2,10:12,MEM,,MIL,,A. Green,MIL,Green REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0790,2,09:56,MEM,,MIL,,A. Green,MIL,Green P.FOUL (P2.T2) (B.Adair),Foul,Personal,0,0,0,0,,,v
+S2324-G0790,2,05:55,MEM,41.0,MIL,44.0,A. Green,MIL,Green 26' 3PT Pullup Jump Shot (6 PTS) (Lopez 2 AST),Made Shot,Pullup Jump shot,109,236,26,1,3.0,3.0,v
+S2324-G0790,2,03:49,MEM,,MIL,,A. Green,MIL,SUB: Beasley FOR Green,Substitution,,0,0,0,0,,,v
+S2324-G0790,4,11:56,MEM,,MIL,,A. Green,MIL,Green Lost Ball Turnover (P1.T11),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0790,4,09:43,MEM,,MIL,,A. Green,MIL,Green STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0790,4,09:23,MEM,,MIL,,A. Green,MIL,MISS Green 26' 3PT Jump Shot,Missed Shot,Jump Shot,91,242,26,1,3.0,0.0,v
+S2324-G0790,4,09:12,MEM,,MIL,,A. Green,MIL,SUB: Beasley FOR Green,Substitution,,0,0,0,0,,,v
+S2324-G0840,4,11:24,MIL,98.0,CHA,52.0,A. Green,MIL,Green 19' Jump Shot (2 PTS) (Connaughton 3 AST),Made Shot,Jump Shot,-56,178,19,1,2.0,2.0,h
+S2324-G0840,4,10:59,MIL,101.0,CHA,52.0,A. Green,MIL,Green 27' 3PT Jump Shot (5 PTS) (Beverley 3 AST),Made Shot,Jump Shot,-189,190,27,1,3.0,3.0,h
+S2324-G0840,4,08:16,MIL,,CHA,,A. Green,MIL,MISS Green 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,65,246,25,1,3.0,0.0,h
+S2324-G0840,4,06:18,MIL,,CHA,,A. Green,MIL,Green REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0840,4,04:21,MIL,,CHA,,A. Green,MIL,MISS Green 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,58,274,28,1,3.0,0.0,h
+S2324-G0840,4,01:37,MIL,123.0,CHA,80.0,A. Green,MIL,Green 24' 3PT Jump Shot (8 PTS) (Connaughton 5 AST),Made Shot,Jump Shot,227,87,24,1,3.0,3.0,h
+S2324-G0945,1,00:49.900000,SAC,,MIL,,A. Green,MIL,MISS Green 30' 3PT Jump Shot,Missed Shot,Jump Shot,-175,247,30,1,3.0,0.0,v
+S2324-G0945,1,00:43.700000,SAC,,MIL,,A. Green,MIL,Green L.B.FOUL (P1.T2) (C.Blair),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0945,2,09:29,SAC,,MIL,,A. Green,MIL,MISS Green 24' 3PT Jump Shot,Missed Shot,Jump Shot,241,18,24,1,3.0,0.0,v
+S2324-G0945,2,09:01,SAC,,MIL,,A. Green,MIL,SUB: Beasley FOR Green,Substitution,,0,0,0,0,,,v
+S2324-G0945,3,00:56.500000,SAC,92.0,MIL,78.0,A. Green,MIL,Green 27' 3PT Jump Shot (3 PTS) (Beverley 3 AST),Made Shot,Jump Shot,-208,168,27,1,3.0,3.0,v
+S2324-G0945,3,00:29.600000,SAC,,MIL,,A. Green,MIL,MISS Green 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,245,68,25,1,3.0,0.0,v
+S2324-G0945,4,06:38,SAC,,MIL,,A. Green,MIL,Green L.B.FOUL (P2.T4) (C.Blair),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0945,4,04:15,SAC,,MIL,,A. Green,MIL,Green REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0945,4,02:32,SAC,,MIL,,A. Green,MIL,MISS Green 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-44,131,14,1,2.0,0.0,v
+S2324-G0945,4,01:27,SAC,,MIL,,A. Green,MIL,MISS Green 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-89,116,15,1,2.0,0.0,v
+S2324-G0528,4,07:58,MIL,,BOS,,A. Green,MIL,MISS Green 3PT Jump Shot,Missed Shot,Jump Shot,228,4,0,1,3.0,0.0,h
+S2324-G0528,4,07:40,MIL,,BOS,,A. Green,MIL,Green S.FOUL (P1.T4) (M.Myers),Foul,Shooting,0,0,0,0,,,h
+S2324-G0528,4,06:51,MIL,118.0,BOS,88.0,A. Green,MIL,Green 2' Driving Finger Roll Layup (2 PTS) (Livingston 1 AST),Made Shot,Driving Finger Roll Layup Shot,11,18,2,1,2.0,2.0,h
+S2324-G0528,4,06:05,MIL,123.0,BOS,91.0,A. Green,MIL,Green 28' 3PT Jump Shot (5 PTS) (Payne 3 AST),Made Shot,Jump Shot,-147,236,28,1,3.0,3.0,h
+S2324-G0528,4,05:26,MIL,,BOS,,A. Green,MIL,Green REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0528,4,05:23,MIL,,BOS,,A. Green,MIL,Jump Ball Green vs. Queta: Tip to Livingston,Jump Ball,,0,0,0,0,,,h
+S2324-G0528,4,04:41,MIL,126.0,BOS,93.0,A. Green,MIL,Green 26' 3PT Jump Shot (8 PTS) (T. Antetokounmpo 1 AST),Made Shot,Jump Shot,-227,125,26,1,3.0,3.0,h
+S2324-G0528,4,04:41,MIL,127.0,BOS,93.0,A. Green,MIL,Green Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G0528,4,04:20,MIL,,BOS,,A. Green,MIL,MISS Green 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,81,254,27,1,3.0,0.0,h
+S2324-G0528,4,04:11,MIL,,BOS,,A. Green,MIL,Green BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0528,4,04:11,MIL,,BOS,,A. Green,MIL,Green REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0528,4,00:47.900000,MIL,,BOS,,A. Green,MIL,MISS Green 24' 3PT Jump Shot,Missed Shot,Jump Shot,222,97,24,1,3.0,0.0,h
+S2324-G0725,1,03:44,PHX,,MIL,,A. Green,MIL,MISS Green 27' 3PT Jump Shot,Missed Shot,Jump Shot,-190,190,27,1,3.0,0.0,v
+S2324-G0725,1,02:58,PHX,,MIL,,A. Green,MIL,MISS Green 26' 3PT Jump Shot,Missed Shot,Jump Shot,210,154,26,1,3.0,0.0,v
+S2324-G0725,2,10:21,PHX,,MIL,,A. Green,MIL,MISS Green 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-239,22,24,1,3.0,0.0,v
+S2324-G0725,2,08:16,PHX,,MIL,,A. Green,MIL,SUB: Beasley FOR Green,Substitution,,0,0,0,0,,,v
+S2324-G0725,3,01:04,PHX,,MIL,,A. Green,MIL,MISS Green 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-158,215,27,1,3.0,0.0,v
+S2324-G0725,3,00:06.100000,PHX,,MIL,,A. Green,MIL,Green P.FOUL (P1.T4) (J.Schroeder),Foul,Personal,0,0,0,0,,,v
+S2324-G0725,3,00:02.100000,PHX,,MIL,,A. Green,MIL,Green REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0725,4,09:34,PHX,,MIL,,A. Green,MIL,SUB: Crowder FOR Green,Substitution,,0,0,0,0,,,v
+S2324-G1122,1,04:30,MIL,,TOR,,A. Green,MIL,Green REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1122,2,10:09,MIL,,TOR,,A. Green,MIL,MISS Green 25' 3PT Jump Shot,Missed Shot,Jump Shot,-222,122,25,1,3.0,0.0,h
+S2324-G1122,2,08:50,MIL,,TOR,,A. Green,MIL,Green REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1122,2,08:45,MIL,34.0,TOR,28.0,A. Green,MIL,Green 26' 3PT Jump Shot (3 PTS) (Middleton 4 AST),Made Shot,Jump Shot,179,190,26,1,3.0,3.0,h
+S2324-G1122,2,06:38,MIL,,TOR,,A. Green,MIL,Green Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G1122,2,06:27,MIL,,TOR,,A. Green,MIL,Green REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1122,2,06:17,MIL,,TOR,,A. Green,MIL,MISS Green 26' 3PT Jump Shot,Missed Shot,Jump Shot,-211,148,26,1,3.0,0.0,h
+S2324-G1122,2,05:41,MIL,,TOR,,A. Green,MIL,Green S.FOUL (P1.T3) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,h
+S2324-G1122,2,05:23,MIL,,TOR,,A. Green,MIL,SUB: Beasley FOR Green,Substitution,,0,0,0,0,,,h
+S2324-G1122,3,04:59,MIL,,TOR,,A. Green,MIL,Green S.FOUL (P2.T4) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,h
+S2324-G1122,3,04:45,MIL,69.0,TOR,79.0,A. Green,MIL,Green 28' 3PT Jump Shot (6 PTS) (Portis 1 AST),Made Shot,Jump Shot,223,173,28,1,3.0,3.0,h
+S2324-G1122,4,02:55,MIL,,TOR,,A. Green,MIL,SUB: Middleton FOR Green,Substitution,,0,0,0,0,,,h
+S2324-G1122,4,00:14.900000,MIL,,TOR,,A. Green,MIL,SUB: Lopez FOR Green,Substitution,,0,0,0,0,,,h
+S2324-G1122,4,00:10.500000,MIL,,TOR,,A. Green,MIL,MISS Green 26' 3PT Jump Shot,Missed Shot,Jump Shot,-165,197,26,1,3.0,0.0,h
+S2324-G0334,1,02:18,MIL,,DET,,A. Green,MIL,Green REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0334,1,02:08,MIL,,DET,,A. Green,MIL,Green P.FOUL (P1.T2) (D.Scott),Foul,Personal,0,0,0,0,,,h
+S2324-G0334,1,00:29.700000,MIL,43.0,DET,19.0,A. Green,MIL,Green 3PT Jump Shot (3 PTS) (Lillard 2 AST),Made Shot,Jump Shot,229,-5,0,1,3.0,3.0,h
+S2324-G0334,1,00:02.200000,MIL,,DET,,A. Green,MIL,MISS Green 3PT Jump Shot,Missed Shot,Jump Shot,-233,-6,0,1,3.0,0.0,h
+S2324-G0334,2,11:48,MIL,,DET,,A. Green,MIL,Green S.FOUL (P2.T1) (S.Foster),Foul,Shooting,0,0,0,0,,,h
+S2324-G0334,2,10:30,MIL,,DET,,A. Green,MIL,MISS Green 25' 3PT Jump Shot,Missed Shot,Jump Shot,104,230,25,1,3.0,0.0,h
+S2324-G0334,2,10:12,MIL,,DET,,A. Green,MIL,MISS Green 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,119,217,25,1,3.0,0.0,h
+S2324-G0334,2,09:51,MIL,,DET,,A. Green,MIL,SUB: Beauchamp FOR Green,Substitution,,0,0,0,0,,,h
+S2324-G0334,2,00:26.200000,MIL,,DET,,A. Green,MIL,Green P.FOUL (P3.PN) (S.Foster),Foul,Personal,0,0,0,0,,,h
+S2324-G0334,3,00:00.300000,MIL,114.0,DET,83.0,A. Green,MIL,Green 3PT Jump Shot (6 PTS) (Lillard 5 AST),Made Shot,Jump Shot,-230,32,0,1,3.0,3.0,h
+S2324-G0334,4,08:08,MIL,,DET,,A. Green,MIL,Green P.FOUL (P4.T4) (S.Foster),Foul,Personal,0,0,0,0,,,h
+S2324-G0334,4,07:03,MIL,,DET,,A. Green,MIL,Green S.FOUL (P5.PN) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,h
+S2324-G0334,4,07:03,MIL,,DET,,A. Green,MIL,SUB: Jackson Jr. FOR Green,Substitution,,0,0,0,0,,,h
+S2324-G0334,4,02:00,MIL,142.0,DET,108.0,A. Green,MIL,Green 3PT Jump Shot (9 PTS) (R. Lopez 1 AST),Made Shot,Jump Shot,227,14,0,1,3.0,3.0,h
+S2324-G0027,4,01:59,CHA,97.0,MIL,122.0,A. Green,MIL,Green 24' 3PT Jump Shot (3 PTS) (Payne 4 AST),Made Shot,Jump Shot,227,62,24,1,3.0,3.0,v
+S2324-G0027,4,01:39,CHA,97.0,MIL,125.0,A. Green,MIL,Green 26' 3PT Jump Shot (6 PTS) (Payne 5 AST),Made Shot,Jump Shot,140,221,26,1,3.0,3.0,v
+S2324-G0027,4,01:20,CHA,,MIL,,A. Green,MIL,Green REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0027,4,01:13,CHA,,MIL,,A. Green,MIL,MISS Green 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,159,230,28,1,3.0,0.0,v
+S2324-G0702,2,05:27,DAL,56.0,MIL,36.0,A. Green,MIL,Green 19' Pullup Jump Shot (2 PTS) (Portis 1 AST),Made Shot,Pullup Jump shot,-2,190,19,1,2.0,2.0,v
+S2324-G0702,2,00:23,DAL,65.0,MIL,57.0,A. Green,MIL,Green 3PT Jump Shot (5 PTS) (G. Antetokounmpo 6 AST),Made Shot,Jump Shot,-230,1,0,1,3.0,3.0,v
+S2324-G0738,2,10:44,MIL,32.0,MIN,32.0,A. Green,MIL,Green 26' 3PT Jump Shot (3 PTS) (Crowder 1 AST),Made Shot,Jump Shot,-216,152,26,1,3.0,3.0,h
+S2324-G0738,2,07:15,MIL,,MIN,,A. Green,MIL,SUB: Beasley FOR Green,Substitution,,0,0,0,0,,,h
+S2324-G0738,3,03:28,MIL,66.0,MIN,91.0,A. Green,MIL,Green 21' Pullup Jump Shot (5 PTS) (Connaughton 6 AST),Made Shot,Pullup Jump shot,-81,193,21,1,2.0,2.0,h
+S2324-G0738,3,03:00,MIL,,MIN,,A. Green,MIL,Green REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0738,3,03:00,MIL,67.0,MIN,91.0,A. Green,MIL,Green Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0738,3,03:00,MIL,68.0,MIN,91.0,A. Green,MIL,Green Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0738,3,02:12,MIL,71.0,MIN,94.0,A. Green,MIL,Green 26' 3PT Jump Shot (10 PTS) (Portis 1 AST),Made Shot,Jump Shot,222,130,26,1,3.0,3.0,h
+S2324-G0738,3,01:38,MIL,73.0,MIN,94.0,A. Green,MIL,Green 1' Driving Finger Roll Layup (12 PTS) (Jackson Jr. 1 AST),Made Shot,Driving Finger Roll Layup Shot,-6,0,1,1,2.0,2.0,h
+S2324-G0738,3,00:02.200000,MIL,,MIN,,A. Green,MIL,MISS Green 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,148,93,17,1,2.0,0.0,h
+S2324-G0738,4,09:08,MIL,,MIN,,A. Green,MIL,MISS Green 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,227,122,26,1,3.0,0.0,h
+S2324-G0738,4,08:16,MIL,83.0,MIN,108.0,A. Green,MIL,Green 3PT Jump Shot (15 PTS) (Beasley 3 AST),Made Shot,Jump Shot,-233,4,0,1,3.0,3.0,h
+S2324-G0738,4,07:43,MIL,86.0,MIN,111.0,A. Green,MIL,Green 28' 3PT Jump Shot (18 PTS) (Crowder 4 AST),Made Shot,Jump Shot,213,174,28,1,3.0,3.0,h
+S2324-G0738,4,07:08,MIL,89.0,MIN,114.0,A. Green,MIL,Green 26' 3PT Jump Shot (21 PTS) (Portis 3 AST),Made Shot,Jump Shot,-11,262,26,1,3.0,3.0,h
+S2324-G0738,4,05:52,MIL,94.0,MIN,117.0,A. Green,MIL,Green 24' 3PT Jump Shot (24 PTS) (Connaughton 8 AST),Made Shot,Jump Shot,-239,9,24,1,3.0,3.0,h
+S2324-G0738,4,05:14,MIL,,MIN,,A. Green,MIL,Green Bad Pass Turnover (P1.T11),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0738,4,00:59.200000,MIL,105.0,MIN,127.0,A. Green,MIL,Green 26' 3PT Jump Shot (27 PTS) (Jackson Jr. 3 AST),Made Shot,Jump Shot,-153,209,26,1,3.0,3.0,h
+S2324-G0738,4,00:10.700000,MIL,,MIN,,A. Green,MIL,Green REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1095,1,01:22,WAS,,MIL,,A. Green,MIL,Green Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G1095,2,10:58,WAS,,MIL,,A. Green,MIL,MISS Green 27' 3PT Jump Shot,Missed Shot,Jump Shot,-234,137,27,1,3.0,0.0,v
+S2324-G1095,2,10:50,WAS,,MIL,,A. Green,MIL,Green P.FOUL (P1.T2) (M.Davis),Foul,Personal,0,0,0,0,,,v
+S2324-G1095,2,10:50,WAS,,MIL,,A. Green,MIL,SUB: Middleton FOR Green,Substitution,,0,0,0,0,,,v
+S2324-G1095,3,00:33.900000,WAS,88.0,MIL,83.0,A. Green,MIL,Green 27' 3PT Jump Shot (3 PTS) (G. Antetokounmpo 10 AST),Made Shot,Jump Shot,34,268,27,1,3.0,3.0,v
+S2324-G1095,4,06:12,WAS,104.0,MIL,102.0,A. Green,MIL,Green 26' 3PT Jump Shot (6 PTS) (Connaughton 5 AST),Made Shot,Jump Shot,-232,123,26,1,3.0,3.0,v
+S2324-G1095,4,04:21,WAS,,MIL,,A. Green,MIL,MISS Green 29' 3PT Jump Shot,Missed Shot,Jump Shot,105,274,29,1,3.0,0.0,v
+S2324-G1095,4,03:55,WAS,,MIL,,A. Green,MIL,SUB: Beasley FOR Green,Substitution,,0,0,0,0,,,v
+S2324-G1148,2,04:59,MIL,,BOS,,A. Green,MIL,SUB: Beverley FOR Green,Substitution,,0,0,0,0,,,h
+S2324-G1148,3,02:53,MIL,76.0,BOS,60.0,A. Green,MIL,Green 29' 3PT Jump Shot (3 PTS) (Lillard 5 AST),Made Shot,Jump Shot,-39,286,29,1,3.0,3.0,h
+S2324-G1148,4,09:24,MIL,,BOS,,A. Green,MIL,Green REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1148,4,09:16,MIL,,BOS,,A. Green,MIL,MISS Green 26' 3PT Jump Shot,Missed Shot,Jump Shot,138,216,26,1,3.0,0.0,h
+S2324-G1148,4,09:01,MIL,88.0,BOS,71.0,A. Green,MIL,Green 32' 3PT Jump Shot (6 PTS) (Middleton 8 AST),Made Shot,Jump Shot,-213,233,32,1,3.0,3.0,h
+S2324-G1148,4,03:55,MIL,,BOS,,A. Green,MIL,SUB: Middleton FOR Green,Substitution,,0,0,0,0,,,h
+S2324-G0173,3,03:52,ORL,,MIL,,A. Green,MIL,Green REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0173,3,03:06,ORL,,MIL,,A. Green,MIL,Green REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0173,3,02:34,ORL,,MIL,,A. Green,MIL,MISS Green 25' 3PT Jump Shot,Missed Shot,Jump Shot,58,248,25,1,3.0,0.0,v
+S2324-G0173,3,01:04,ORL,88.0,MIL,72.0,A. Green,MIL,Green 25' 3PT Jump Shot (3 PTS) (T. Antetokounmpo 1 AST),Made Shot,Jump Shot,-221,125,25,1,3.0,3.0,v
+S2324-G0173,4,04:05,ORL,,MIL,,A. Green,MIL,MISS Green 25' 3PT Jump Shot,Missed Shot,Jump Shot,-221,121,25,1,3.0,0.0,v
+S2324-G0958,1,03:28,MIL,,PHI,,A. Green,MIL,Green REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0958,1,01:31,MIL,,PHI,,A. Green,MIL,Green STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0958,1,00:00,MIL,,PHI,,A. Green,MIL,MISS Green 24' 3PT Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,235,-10,24,1,3.0,0.0,h
+S2324-G0958,2,09:34,MIL,30.0,PHI,32.0,A. Green,MIL,Green 18' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,114,143,18,1,2.0,2.0,h
+S2324-G0958,2,06:12,MIL,36.0,PHI,45.0,A. Green,MIL,Green 3PT Jump Shot (5 PTS) (Connaughton 2 AST),Made Shot,Jump Shot,232,15,0,1,3.0,3.0,h
+S2324-G0958,2,05:01,MIL,39.0,PHI,48.0,A. Green,MIL,Green 25' 3PT Jump Shot (8 PTS) (G. Antetokounmpo 4 AST),Made Shot,Jump Shot,-100,230,25,1,3.0,3.0,h
+S2324-G0958,2,03:07,MIL,,PHI,,A. Green,MIL,MISS Green 27' 3PT Jump Shot,Missed Shot,Jump Shot,114,240,27,1,3.0,0.0,h
+S2324-G0958,2,02:52,MIL,,PHI,,A. Green,MIL,SUB: G. Antetokounmpo FOR Green,Substitution,,0,0,0,0,,,h
+S2324-G0958,4,11:35,MIL,,PHI,,A. Green,MIL,Green REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0958,4,09:39,MIL,,PHI,,A. Green,MIL,MISS Green 25' 3PT Jump Shot,Missed Shot,Jump Shot,141,212,25,1,3.0,0.0,h
+S2324-G0958,4,08:52,MIL,,PHI,,A. Green,MIL,Green REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0958,4,07:48,MIL,89.0,PHI,87.0,A. Green,MIL,Green Free Throw 1 of 3 (9 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,h
+S2324-G0958,4,07:48,MIL,90.0,PHI,87.0,A. Green,MIL,Green Free Throw 2 of 3 (10 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,h
+S2324-G0958,4,07:48,MIL,91.0,PHI,87.0,A. Green,MIL,Green Free Throw 3 of 3 (11 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,h
+S2324-G0958,4,06:50,MIL,94.0,PHI,90.0,A. Green,MIL,Green 26' 3PT Jump Shot (14 PTS) (Connaughton 4 AST),Made Shot,Jump Shot,116,236,26,1,3.0,3.0,h
+S2324-G0958,4,05:40,MIL,,PHI,,A. Green,MIL,Green REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0958,4,04:01,MIL,,PHI,,A. Green,MIL,MISS Green 3PT Jump Shot,Missed Shot,Jump Shot,230,-10,0,1,3.0,0.0,h
+S2324-G0958,4,01:47,MIL,,PHI,,A. Green,MIL,Green REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0958,4,00:37.400000,MIL,,PHI,,A. Green,MIL,Green S.FOUL (P1.PN) (J.Goble),Foul,Shooting,0,0,0,0,,,h
+S2324-G0958,4,00:37.400000,MIL,,PHI,,A. Green,MIL,SUB: Beverley FOR Green,Substitution,,0,0,0,0,,,h
+S2324-G1076,2,08:56,ATL,32.0,MIL,41.0,A. Green,MIL,Green 1' Cutting Layup Shot (2 PTS) (Connaughton 3 AST),Made Shot,Cutting Layup Shot,-7,6,1,1,2.0,2.0,v
+S2324-G1076,2,06:36,ATL,,MIL,,A. Green,MIL,SUB: Lopez FOR Green,Substitution,,0,0,0,0,,,v
+S2324-G1076,3,02:00,ATL,,MIL,,A. Green,MIL,Green P.FOUL (P1.T3) (Z.Zarba),Foul,Personal,0,0,0,0,,,v
+S2324-G1076,3,00:52.100000,ATL,,MIL,,A. Green,MIL,MISS Green 25' 3PT Jump Shot,Missed Shot,Jump Shot,180,169,25,1,3.0,0.0,v
+S2324-G1076,3,00:15.200000,ATL,,MIL,,A. Green,MIL,SUB: Beverley FOR Green,Substitution,,0,0,0,0,,,v
+S2324-G1076,4,10:55,ATL,,MIL,,A. Green,MIL,MISS Green 25' 3PT Jump Shot,Missed Shot,Jump Shot,218,117,25,1,3.0,0.0,v
+S2324-G1076,4,10:06,ATL,,MIL,,A. Green,MIL,Green BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G1076,4,09:36,ATL,,MIL,,A. Green,MIL,SUB: Lopez FOR Green,Substitution,,0,0,0,0,,,v
+S2324-G1061,4,08:26,NOP,,MIL,,A. Green,MIL,MISS Green 3PT Jump Shot,Missed Shot,Jump Shot,224,-9,0,1,3.0,0.0,v
+S2324-G1061,4,07:48,NOP,,MIL,,A. Green,MIL,SUB: G. Antetokounmpo FOR Green,Substitution,,0,0,0,0,,,v
+S2324-G0056,3,02:38,MIA,,MIL,,A. Green,MIL,MISS Green 24' 3PT Jump Shot,Missed Shot,Jump Shot,227,90,24,1,3.0,0.0,v
+S2324-G0056,3,00:51,MIA,,MIL,,A. Green,MIL,Green L.B.FOUL (P1.T3) (J.Goble),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0056,3,00:34.100000,MIA,,MIL,,A. Green,MIL,SUB: Jackson Jr. FOR Green,Substitution,,0,0,0,0,,,v
+S2324-G1201,1,04:33,MIL,18.0,NYK,18.0,A. Green,MIL,Green 27' 3PT Jump Shot (3 PTS) (Portis 1 AST),Made Shot,Jump Shot,122,241,27,1,3.0,3.0,h
+S2324-G1201,1,02:19,MIL,26.0,NYK,24.0,A. Green,MIL,Green 24' 3PT Jump Shot (6 PTS) (G. Antetokounmpo 2 AST),Made Shot,Jump Shot,-232,67,24,1,3.0,3.0,h
+S2324-G1201,1,01:52,MIL,29.0,NYK,27.0,A. Green,MIL,Green 26' 3PT Jump Shot (9 PTS) (Lillard 2 AST),Made Shot,Jump Shot,229,117,26,1,3.0,3.0,h
+S2324-G1201,1,00:04.800000,MIL,,NYK,,A. Green,MIL,SUB: Jackson Jr. FOR Green,Substitution,,0,0,0,0,,,h
+S2324-G1201,2,08:12,MIL,,NYK,,A. Green,MIL,SUB: Beasley FOR Green,Substitution,,0,0,0,0,,,h
+S2324-G1201,4,10:21,MIL,,NYK,,A. Green,MIL,SUB: B. Lopez FOR Green,Substitution,,0,0,0,0,,,h
+S2324-G1201,4,00:36.500000,MIL,,NYK,,A. Green,MIL,MISS Green 26' 3PT Jump Shot,Missed Shot,Jump Shot,154,209,26,1,3.0,0.0,h
+S2324-G1107,1,00:59.800000,MIL,,MEM,,A. Green,MIL,Green REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1107,1,00:55.700000,MIL,,MEM,,A. Green,MIL,Green Double Dribble Turnover (P1.T1),Turnover,Double Dribble,0,0,0,0,,,h
+S2324-G1107,2,09:16,MIL,,MEM,,A. Green,MIL,Green REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1107,2,08:52,MIL,,MEM,,A. Green,MIL,Green REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1107,2,08:27,MIL,,MEM,,A. Green,MIL,Green STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1107,2,06:51,MIL,39.0,MEM,35.0,A. Green,MIL,Green 27' 3PT Pullup Jump Shot (3 PTS) (G. Antetokounmpo 3 AST),Made Shot,Pullup Jump shot,-110,249,27,1,3.0,3.0,h
+S2324-G1107,2,06:08,MIL,,MEM,,A. Green,MIL,SUB: Lopez FOR Green,Substitution,,0,0,0,0,,,h
+S2324-G1107,3,04:01,MIL,,MEM,,A. Green,MIL,MISS Green 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,49,198,20,1,2.0,0.0,h
+S2324-G1107,3,00:49.300000,MIL,75.0,MEM,77.0,A. Green,MIL,Green 3PT Jump Shot (6 PTS) (Portis 1 AST),Made Shot,Jump Shot,-232,27,0,1,3.0,3.0,h
+S2324-G1107,4,10:40,MIL,,MEM,,A. Green,MIL,Green BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G1107,4,09:10,MIL,84.0,MEM,85.0,A. Green,MIL,Green 25' 3PT Jump Shot (9 PTS) (Portis 3 AST),Made Shot,Jump Shot,234,98,25,1,3.0,3.0,h
+S2324-G1107,4,09:10,MIL,,MEM,,A. Green,MIL,MISS Green Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2324-G1107,4,07:12,MIL,,MEM,,A. Green,MIL,Green REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1107,4,07:09,MIL,,MEM,,A. Green,MIL,MISS Green 27' 3PT Jump Shot,Missed Shot,Jump Shot,-15,271,27,1,3.0,0.0,h
+S2324-G1107,4,06:31,MIL,,MEM,,A. Green,MIL,MISS Green 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,66,267,28,1,3.0,0.0,h
+S2324-G1107,4,05:21,MIL,,MEM,,A. Green,MIL,MISS Green 28' 3PT Jump Shot,Missed Shot,Jump Shot,93,261,28,1,3.0,0.0,h
+S2324-G1107,4,05:10,MIL,,MEM,,A. Green,MIL,SUB: Connaughton FOR Green,Substitution,,0,0,0,0,,,h
+S2324-G0864,4,11:15,CHI,,MIL,,A. Green,MIL,Green P.FOUL (P1.T1) (J.Tiven),Foul,Personal,0,0,0,0,,,v
+S2324-G0864,4,10:57,CHI,,MIL,,A. Green,MIL,MISS Green Free Throw Technical,Free Throw,Free Throw Technical,0,0,0,0,1.0,0.0,v
+S2324-G0864,4,10:52,CHI,76.0,MIL,87.0,A. Green,MIL,Green 26' 3PT Pullup Jump Shot (3 PTS) (Portis 1 AST),Made Shot,Pullup Jump shot,-87,241,26,1,3.0,3.0,v
+S2324-G0864,4,09:27,CHI,76.0,MIL,89.0,A. Green,MIL,Green Free Throw Flagrant 1 of 2 (4 PTS),Free Throw,Free Throw Flagrant 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0864,4,09:27,CHI,76.0,MIL,90.0,A. Green,MIL,Green Free Throw Flagrant 2 of 2 (5 PTS),Free Throw,Free Throw Flagrant 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0864,4,08:55,CHI,,MIL,,A. Green,MIL,Green REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0864,4,04:58,CHI,,MIL,,A. Green,MIL,SUB: Lillard FOR Green,Substitution,,0,0,0,0,,,v
+S2324-G0864,4,01:05,CHI,,MIL,,A. Green,MIL,Green REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0864,4,00:50,CHI,,MIL,,A. Green,MIL,MISS Green 30' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,142,266,30,1,3.0,0.0,v
+S2324-G0864,4,00:35.800000,CHI,97.0,MIL,113.0,A. Green,MIL,Green 1' Cutting Layup Shot (7 PTS) (Jackson Jr. 1 AST),Made Shot,Cutting Layup Shot,-6,10,1,1,2.0,2.0,v
+S2324-G0219,1,03:05,WAS,21.0,MIL,26.0,A. Green,MIL,Green 12' Pullup Jump Shot (2 PTS) (G. Antetokounmpo 1 AST),Made Shot,Pullup Jump shot,116,16,12,1,2.0,2.0,v
+S2324-G0219,1,01:27,WAS,,MIL,,A. Green,MIL,SUB: Payne FOR Green,Substitution,,0,0,0,0,,,v
+S2324-G0219,2,07:45,WAS,,MIL,,A. Green,MIL,Green S.FOUL (P1.T3) (J.Tiven),Foul,Shooting,0,0,0,0,,,v
+S2324-G0219,2,06:10,WAS,,MIL,,A. Green,MIL,Green REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0219,2,04:41,WAS,,MIL,,A. Green,MIL,MISS Green 27' 3PT Jump Shot,Missed Shot,Jump Shot,-97,252,27,1,3.0,0.0,v
+S2324-G0219,2,04:22,WAS,,MIL,,A. Green,MIL,SUB: Lillard FOR Green,Substitution,,0,0,0,0,,,v
+S2324-G0219,3,04:27,WAS,,MIL,,A. Green,MIL,MISS Green 25' 3PT Jump Shot,Missed Shot,Jump Shot,213,132,25,1,3.0,0.0,v
+S2324-G0219,4,00:48.500000,WAS,,MIL,,A. Green,MIL,Green REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0219,4,00:42.300000,WAS,,MIL,,A. Green,MIL,MISS Green 31' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,78,297,31,1,3.0,0.0,v
+S2324-G0976,2,09:46,MIL,,PHX,,A. Green,MIL,Green REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0976,2,08:51,MIL,,PHX,,A. Green,MIL,Green S.FOUL (P1.T2) (K.Lane),Foul,Shooting,0,0,0,0,,,h
+S2324-G0976,2,08:15,MIL,52.0,PHX,44.0,A. Green,MIL,Green 27' 3PT Jump Shot (3 PTS) (Middleton 4 AST),Made Shot,Jump Shot,5,269,27,1,3.0,3.0,h
+S2324-G0976,2,06:15,MIL,,PHX,,A. Green,MIL,Green STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0976,2,06:03,MIL,,PHX,,A. Green,MIL,SUB: Beasley FOR Green,Substitution,,0,0,0,0,,,h
+S2324-G0976,3,01:16,MIL,101.0,PHX,94.0,A. Green,MIL,Green Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0976,3,01:16,MIL,102.0,PHX,94.0,A. Green,MIL,Green Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0976,4,06:17,MIL,,PHX,,A. Green,MIL,SUB: Crowder FOR Green,Substitution,,0,0,0,0,,,h
+S2324-G0998,2,03:12,BOS,,MIL,,A. Green,MIL,Green P.FOUL (P1.T4) (M.Boland),Foul,Personal,0,0,0,0,,,v
+S2324-G0998,2,01:51,BOS,,MIL,,A. Green,MIL,SUB: Portis FOR Green,Substitution,,0,0,0,0,,,v
+S2324-G0998,4,06:59,BOS,,MIL,,A. Green,MIL,MISS Green 30' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-113,279,30,1,3.0,0.0,v
+S2324-G0998,4,04:17,BOS,,MIL,,A. Green,MIL,MISS Green 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-9,29,3,1,2.0,0.0,v
+S2324-G0998,4,03:05,BOS,,MIL,,A. Green,MIL,SUB: Middleton FOR Green,Substitution,,0,0,0,0,,,v
+S2324-G0648,4,03:50,MIL,,NOP,,A. Green,MIL,Green REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0648,4,03:46,MIL,,NOP,,A. Green,MIL,Jump Ball Green vs. Marshall: Tip to Robinson-Earl,Jump Ball,,0,0,0,0,,,h
+S2324-G0648,4,03:46,MIL,,NOP,,A. Green,MIL,Green Lost Ball Turnover (P1.T8),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0648,4,02:54,MIL,,NOP,,A. Green,MIL,MISS Green 29' 3PT Jump Shot,Missed Shot,Jump Shot,13,288,29,1,3.0,0.0,h
+S2324-G0648,4,02:47,MIL,,NOP,,A. Green,MIL,Green P.FOUL (P1.PN) (S.Wright),Foul,Personal,0,0,0,0,,,h
+S2324-G0648,4,02:15,MIL,,NOP,,A. Green,MIL,MISS Green 3PT Jump Shot,Missed Shot,Jump Shot,-232,32,0,1,3.0,0.0,h
+S2324-G0648,4,01:15,MIL,139.0,NOP,113.0,A. Green,MIL,Green 26' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,-103,241,26,1,3.0,3.0,h
+S2324-G0849,4,04:53,CHA,,MIL,,A. Green,MIL,Green S.FOUL (P1.T3) (J.Schroeder),Foul,Shooting,0,0,0,0,,,v
+S2324-G0849,4,03:17,CHA,,MIL,,A. Green,MIL,Green Traveling Turnover (P1.T8),Turnover,Traveling,0,0,0,0,,,v
+S2324-G0849,4,03:04,CHA,,MIL,,A. Green,MIL,Green REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0849,4,02:12,CHA,,MIL,,A. Green,MIL,MISS Green 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,72,152,17,1,2.0,0.0,v
+S2324-G0097,4,03:51,MIL,,ATL,,A. Green,MIL,Green REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0097,4,03:41,MIL,99.0,ATL,123.0,A. Green,MIL,Green 28' 3PT Jump Shot (3 PTS) (T. Antetokounmpo 2 AST),Made Shot,Jump Shot,65,272,28,1,3.0,3.0,h
+S2324-G0097,4,03:12,MIL,100.0,ATL,126.0,A. Green,MIL,Green Free Throw 1 of 1 (4 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G0097,4,00:13,MIL,110.0,ATL,127.0,A. Green,MIL,Green 24' 3PT Jump Shot (7 PTS),Made Shot,Jump Shot,-235,29,24,1,3.0,3.0,h
+S2324-G0107,1,03:27,MIL,,MIA,,A. Green,MIL,Green P.FOUL (P1.T4) (T.Washington),Foul,Personal,0,0,0,0,,,h
+S2324-G0107,1,00:06.500000,MIL,,MIA,,A. Green,MIL,MISS Green 9' Layup,Missed Shot,Layup Shot,1,92,9,1,2.0,0.0,h
+S2324-G0107,2,11:01,MIL,,MIA,,A. Green,MIL,SUB: Middleton FOR Green,Substitution,,0,0,0,0,,,h
+S2324-G0107,3,03:05,MIL,,MIA,,A. Green,MIL,MISS Green 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,46,24,1,3.0,0.0,h
+S2324-G0107,3,01:26,MIL,,MIA,,A. Green,MIL,Green P.FOUL (P2.T4) (D.Collins),Foul,Personal,0,0,0,0,,,h
+S2324-G0107,4,11:07,MIL,,MIA,,A. Green,MIL,Green P.FOUL (P3.T1) (T.Washington),Foul,Personal,0,0,0,0,,,h
+S2324-G0107,4,09:51,MIL,,MIA,,A. Green,MIL,MISS Green 24' 3PT Jump Shot,Missed Shot,Jump Shot,-233,38,24,1,3.0,0.0,h
+S2324-G0107,4,07:02,MIL,,MIA,,A. Green,MIL,MISS Green 26' 3PT Jump Shot,Missed Shot,Jump Shot,234,122,26,1,3.0,0.0,h
+S2324-G0107,4,06:23,MIL,,MIA,,A. Green,MIL,SUB: Connaughton FOR Green,Substitution,,0,0,0,0,,,h
+S2324-G0049,4,10:54,MIL,,WAS,,A. Green,MIL,MISS Green 24' 3PT Jump Shot,Missed Shot,Jump Shot,140,201,24,1,3.0,0.0,h
+S2324-G0049,4,09:58,MIL,99.0,WAS,97.0,A. Green,MIL,Green 27' 3PT Jump Shot (3 PTS) (Payne 2 AST),Made Shot,Jump Shot,205,171,27,1,3.0,3.0,h
+S2324-G0049,4,08:42,MIL,,WAS,,A. Green,MIL,MISS Green 27' 3PT Jump Shot,Missed Shot,Jump Shot,89,255,27,1,3.0,0.0,h
+S2324-G0049,4,08:33,MIL,,WAS,,A. Green,MIL,MISS Green 26' 3PT Jump Shot,Missed Shot,Jump Shot,159,208,26,1,3.0,0.0,h
+S2324-G0049,4,08:20,MIL,,WAS,,A. Green,MIL,SUB: Jackson Jr. FOR Green,Substitution,,0,0,0,0,,,h
+S2324-G0767,2,09:34,MIL,,DEN,,A. Green,MIL,Green S.FOUL (P1.T1) (B.Schwab),Foul,Shooting,0,0,0,0,,,h
+S2324-G0767,2,09:19,MIL,38.0,DEN,24.0,A. Green,MIL,Green 25' 3PT Jump Shot (3 PTS) (Connaughton 3 AST),Made Shot,Jump Shot,178,176,25,1,3.0,3.0,h
+S2324-G0767,2,08:46,MIL,,DEN,,A. Green,MIL,MISS Green 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,167,216,27,1,3.0,0.0,h
+S2324-G0767,2,06:23,MIL,,DEN,,A. Green,MIL,Green L.B.FOUL (P2.T2) (G.Petraitis),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0767,2,06:23,MIL,,DEN,,A. Green,MIL,SUB: Lopez FOR Green,Substitution,,0,0,0,0,,,h
+S2324-G0767,4,10:09,MIL,95.0,DEN,68.0,A. Green,MIL,Green 3PT Jump Shot (6 PTS) (Connaughton 4 AST),Made Shot,Jump Shot,-233,20,0,1,3.0,3.0,h
+S2324-G0767,4,06:57,MIL,,DEN,,A. Green,MIL,MISS Green 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,223,127,26,1,3.0,0.0,h
+S2324-G0767,4,04:23,MIL,103.0,DEN,82.0,A. Green,MIL,Green 26' 3PT Jump Shot (9 PTS) (Connaughton 5 AST),Made Shot,Jump Shot,-202,165,26,1,3.0,3.0,h
+S2324-G0767,4,02:12,MIL,,DEN,,A. Green,MIL,SUB: Livingston FOR Green,Substitution,,0,0,0,0,,,h
+S2324-G0116,4,02:53,TOR,124.0,MIL,101.0,A. Green,MIL,Green 3' Cutting Finger Roll Layup Shot (2 PTS) (Jackson Jr. 2 AST),Made Shot,Cutting Finger Roll Layup Shot,-4,32,3,1,2.0,2.0,v
+S2324-G0116,4,02:03,TOR,,MIL,,A. Green,MIL,Green S.FOUL (P1.T3) (T.Mirkovich),Foul,Shooting,0,0,0,0,,,v
+S2324-G0116,4,01:22,TOR,,MIL,,A. Green,MIL,Green REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0205,2,09:36,MIL,38.0,DAL,40.0,A. Green,MIL,Green 16' Jump Shot (2 PTS) (G. Antetokounmpo 2 AST),Made Shot,Jump Shot,69,146,16,1,2.0,2.0,h
+S2324-G0205,2,08:17,MIL,,DAL,,A. Green,MIL,MISS Green 25' 3PT Jump Shot,Missed Shot,Jump Shot,-218,120,25,1,3.0,0.0,h
+S2324-G0205,2,06:44,MIL,50.0,DAL,42.0,A. Green,MIL,Green 3PT Running Jump Shot (5 PTS) (Jackson Jr. 1 AST),Made Shot,Running Jump Shot,-222,24,0,1,3.0,3.0,h
+S2324-G0205,2,05:59,MIL,,DAL,,A. Green,MIL,MISS Green 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-230,47,0,1,3.0,0.0,h
+S2324-G0205,2,05:10,MIL,,DAL,,A. Green,MIL,Green P.FOUL (P1.T2) (P.Fraher),Foul,Personal,0,0,0,0,,,h
+S2324-G0205,2,03:47,MIL,,DAL,,A. Green,MIL,SUB: Connaughton FOR Green,Substitution,,0,0,0,0,,,h
+S2324-G0205,4,09:25,MIL,99.0,DAL,106.0,A. Green,MIL,Green 25' 3PT Jump Shot (8 PTS) (G. Antetokounmpo 6 AST),Made Shot,Jump Shot,227,111,25,1,3.0,3.0,h
+S2324-G0205,4,09:04,MIL,,DAL,,A. Green,MIL,SUB: Beasley FOR Green,Substitution,,0,0,0,0,,,h
+S2324-G0245,2,10:58,MIL,,POR,,A. Green,MIL,MISS Green 3PT Jump Shot,Missed Shot,Jump Shot,228,19,0,1,3.0,0.0,h
+S2324-G0245,2,09:17,MIL,,POR,,A. Green,MIL,Green S.FOUL (P1.T3) (I.Hwang),Foul,Shooting,0,0,0,0,,,h
+S2324-G0245,2,08:58,MIL,,POR,,A. Green,MIL,MISS Green 28' 3PT Jump Shot,Missed Shot,Jump Shot,-150,239,28,1,3.0,0.0,h
+S2324-G0245,2,08:24,MIL,,POR,,A. Green,MIL,Green REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0245,2,08:06,MIL,,POR,,A. Green,MIL,SUB: Connaughton FOR Green,Substitution,,0,0,0,0,,,h
+S2324-G0300,2,10:47,MIL,40.0,CHI,37.0,A. Green,MIL,Green 26' 3PT Jump Shot (3 PTS) (G. Antetokounmpo 2 AST),Made Shot,Jump Shot,77,251,26,1,3.0,3.0,h
+S2324-G0300,2,10:23,MIL,,CHI,,A. Green,MIL,Green REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0300,2,08:34,MIL,51.0,CHI,39.0,A. Green,MIL,Green 27' 3PT Jump Shot (6 PTS) (G. Antetokounmpo 4 AST),Made Shot,Jump Shot,-31,270,27,1,3.0,3.0,h
+S2324-G0300,2,05:48,MIL,58.0,CHI,48.0,A. Green,MIL,Green 3PT Jump Shot (9 PTS) (Middleton 3 AST),Made Shot,Jump Shot,-230,1,0,1,3.0,3.0,h
+S2324-G0300,2,05:21,MIL,,CHI,,A. Green,MIL,SUB: G. Antetokounmpo FOR Green,Substitution,,0,0,0,0,,,h
+S2324-G0300,2,01:59,MIL,,CHI,,A. Green,MIL,Green REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0300,2,01:48,MIL,,CHI,,A. Green,MIL,MISS Green 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,129,133,19,1,2.0,0.0,h
+S2324-G0300,2,01:40,MIL,,CHI,,A. Green,MIL,Green REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0300,2,00:53.500000,MIL,,CHI,,A. Green,MIL,Green REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0300,4,11:38,MIL,94.0,CHI,89.0,A. Green,MIL,Green 27' 3PT Jump Shot (12 PTS) (Payne 2 AST),Made Shot,Jump Shot,114,240,27,1,3.0,3.0,h
+S2324-G0300,4,11:14,MIL,,CHI,,A. Green,MIL,Green REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0300,4,10:29,MIL,,CHI,,A. Green,MIL,MISS Green 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-143,239,28,1,3.0,0.0,h
+S2324-G0300,4,09:44,MIL,,CHI,,A. Green,MIL,Green S.FOUL (P1.T3) (E.Scott),Foul,Shooting,0,0,0,0,,,h
+S2324-G0300,4,09:01,MIL,,CHI,,A. Green,MIL,SUB: G. Antetokounmpo FOR Green,Substitution,,0,0,0,0,,,h
+S2324-G0880,1,01:25,MIL,,LAC,,A. Green,MIL,MISS Green 3PT Jump Shot,Missed Shot,Jump Shot,-229,5,0,1,3.0,0.0,h
+S2324-G0880,2,10:50,MIL,,LAC,,A. Green,MIL,Green Lost Ball Turnover (P1.T5),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0880,2,06:19,MIL,,LAC,,A. Green,MIL,SUB: Lopez FOR Green,Substitution,,0,0,0,0,,,h
+S2324-G0880,4,10:27,MIL,,LAC,,A. Green,MIL,Green REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0880,4,09:50,MIL,,LAC,,A. Green,MIL,Green REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0880,4,08:48,MIL,81.0,LAC,84.0,A. Green,MIL,Green 25' 3PT Jump Shot (3 PTS) (Gallinari 3 AST),Made Shot,Jump Shot,-97,234,25,1,3.0,3.0,h
+S2324-G0880,4,03:34,MIL,101.0,LAC,96.0,A. Green,MIL,Green 31' 3PT Jump Shot (6 PTS) (Lillard 4 AST),Made Shot,Jump Shot,69,307,31,1,3.0,3.0,h
+S2324-G0880,4,02:29,MIL,,LAC,,A. Green,MIL,MISS Green 27' 3PT Jump Shot,Missed Shot,Jump Shot,188,195,27,1,3.0,0.0,h
+S2324-G0496,4,08:13,HOU,,MIL,,A. Green,MIL,Green P.FOUL (P1.T3) (B.Forte),Foul,Personal,0,0,0,0,,,v
+S2324-G0496,4,08:13,HOU,,MIL,,A. Green,MIL,SUB: Lillard FOR Green,Substitution,,0,0,0,0,,,v
+S2324-G0195,3,01:21,TOR,,MIL,,A. Green,MIL,MISS Green 29' 3PT Jump Shot,Missed Shot,Jump Shot,190,216,29,1,3.0,0.0,v
+S2324-G0195,4,09:19,TOR,,MIL,,A. Green,MIL,SUB: Beasley FOR Green,Substitution,,0,0,0,0,,,v
+S2324-G1045,2,11:19,MIL,,LAL,,A. Green,MIL,MISS Green 27' 3PT Jump Shot,Missed Shot,Jump Shot,227,148,27,1,3.0,0.0,h
+S2324-G1045,2,08:09,MIL,,LAL,,A. Green,MIL,Green S.FOUL (P1.T1) (T.Brothers),Foul,Shooting,0,0,0,0,,,h
+S2324-G1045,2,08:09,MIL,,LAL,,A. Green,MIL,SUB: Beasley FOR Green,Substitution,,0,0,0,0,,,h
+S2324-G1045,3,02:47,MIL,,LAL,,A. Green,MIL,Green STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1045,3,02:37,MIL,,LAL,,A. Green,MIL,MISS Green 25' 3PT Jump Shot,Missed Shot,Jump Shot,123,216,25,1,3.0,0.0,h
+S2324-G1045,3,01:33,MIL,,LAL,,A. Green,MIL,Green REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1045,3,00:10.100000,MIL,,LAL,,A. Green,MIL,Green REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1045,4,08:01,MIL,,LAL,,A. Green,MIL,SUB: Middleton FOR Green,Substitution,,0,0,0,0,,,h
+S2324-G0711,1,06:03,UTA,,MIL,,A. Green,MIL,Green REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0711,1,05:49,UTA,18.0,MIL,18.0,A. Green,MIL,Green 26' 3PT Jump Shot (3 PTS) (G. Antetokounmpo 1 AST),Made Shot,Jump Shot,105,238,26,1,3.0,3.0,v
+S2324-G0711,1,01:26,UTA,,MIL,,A. Green,MIL,Green REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0711,1,00:35.200000,UTA,,MIL,,A. Green,MIL,Green P.FOUL (P1.PN) (T.Ford),Foul,Personal,0,0,0,0,,,v
+S2324-G0711,2,11:17,UTA,32.0,MIL,29.0,A. Green,MIL,Green 26' 3PT Jump Shot (6 PTS) (G. Antetokounmpo 2 AST),Made Shot,Jump Shot,-199,167,26,1,3.0,3.0,v
+S2324-G0711,2,09:53,UTA,,MIL,,A. Green,MIL,Green REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0711,2,09:50,UTA,32.0,MIL,37.0,A. Green,MIL,Green 30' 3PT Running Jump Shot (9 PTS) (Payne 1 AST),Made Shot,Running Jump Shot,60,290,30,1,3.0,3.0,v
+S2324-G0711,2,09:24,UTA,32.0,MIL,38.0,A. Green,MIL,Green Free Throw 1 of 1 (10 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G0711,2,09:17,UTA,,MIL,,A. Green,MIL,MISS Green 27' 3PT Jump Shot,Missed Shot,Jump Shot,-59,265,27,1,3.0,0.0,v
+S2324-G0711,2,07:35,UTA,,MIL,,A. Green,MIL,SUB: Beasley FOR Green,Substitution,,0,0,0,0,,,v
+S2324-G0711,3,06:46,UTA,,MIL,,A. Green,MIL,Green REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0711,3,01:16,UTA,,MIL,,A. Green,MIL,Green REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0711,3,00:08.700000,UTA,,MIL,,A. Green,MIL,Green S.FOUL (P2.PN) (T.Ford),Foul,Shooting,0,0,0,0,,,v
+S2324-G0711,4,09:58,UTA,,MIL,,A. Green,MIL,MISS Green 27' 3PT Jump Shot,Missed Shot,Jump Shot,113,245,27,1,3.0,0.0,v
+S2324-G0711,4,09:02,UTA,,MIL,,A. Green,MIL,MISS Green 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,164,195,25,1,3.0,0.0,v
+S2324-G0711,4,08:51,UTA,,MIL,,A. Green,MIL,SUB: Lillard FOR Green,Substitution,,0,0,0,0,,,v
+S2324-G1229,1,00:34.400000,MIL,,IND,,A. Green,MIL,MISS Green 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,33,113,12,1,2.0,0.0,h
+S2324-G0286,1,00:39.200000,MIL,,ATL,,A. Green,MIL,Green REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0286,2,10:21,MIL,,ATL,,A. Green,MIL,Green S.FOUL (P1.T1) (B.Barnaky),Foul,Shooting,0,0,0,0,,,h
+S2324-G0286,2,10:21,MIL,,ATL,,A. Green,MIL,SUB: Beasley FOR Green,Substitution,,0,0,0,0,,,h
+S2324-G0510,1,01:33,MIL,21.0,UTA,29.0,A. Green,MIL,Green 26' 3PT Jump Shot (3 PTS) (G. Antetokounmpo 1 AST),Made Shot,Jump Shot,22,264,26,1,3.0,3.0,h
+S2324-G0510,1,00:00.300000,MIL,,UTA,,A. Green,MIL,MISS Green 26' 3PT Jump Shot,Missed Shot,Jump Shot,161,210,26,1,3.0,0.0,h
+S2324-G0510,2,09:50,MIL,26.0,UTA,45.0,A. Green,MIL,Green 26' 3PT Running Pull-Up Jump Shot (6 PTS) (Beasley 1 AST),Made Shot,Running Pull-Up Jump Shot,137,222,26,1,3.0,3.0,h
+S2324-G0510,2,09:11,MIL,,UTA,,A. Green,MIL,Green REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0510,2,07:02,MIL,31.0,UTA,56.0,A. Green,MIL,Green 1' Cutting Layup Shot (8 PTS) (B. Lopez 2 AST),Made Shot,Cutting Layup Shot,11,10,1,1,2.0,2.0,h
+S2324-G0510,2,05:01,MIL,,UTA,,A. Green,MIL,SUB: Jackson Jr. FOR Green,Substitution,,0,0,0,0,,,h
+S2324-G0361,4,00:55.700000,MIL,,SAS,,A. Green,MIL,MISS Green 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-115,254,28,1,3.0,0.0,h

@@ -1,0 +1,85 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2324-G0698,4,08:39,PHI,,BKN,,T. Smith,PHI,MISS Smith 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,13,278,28,1,3.0,0.0,h
+S2324-G0698,4,08:22,PHI,,BKN,,T. Smith,PHI,Smith S.FOUL (P1.T1) (J.Williams),Foul,Shooting,0,0,0,0,,,h
+S2324-G0698,4,07:01,PHI,,BKN,,T. Smith,PHI,Smith L.B.FOUL (P2.T2) (J.Williams),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0698,4,06:44,PHI,95.0,BKN,120.0,T. Smith,PHI,Smith 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,17,6,2,1,2.0,2.0,h
+S2324-G0698,4,06:44,PHI,,BKN,,T. Smith,PHI,MISS Smith Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2324-G0698,4,04:54,PHI,100.0,BKN,127.0,T. Smith,PHI,Smith 26' 3PT Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,93,245,26,1,3.0,3.0,h
+S2324-G0698,4,04:16,PHI,103.0,BKN,129.0,T. Smith,PHI,Smith 27' 3PT Jump Shot (8 PTS) (Korkmaz 1 AST),Made Shot,Jump Shot,115,245,27,1,3.0,3.0,h
+S2324-G0698,4,02:29,PHI,113.0,BKN,133.0,T. Smith,PHI,Smith 26' 3PT Running Jump Shot (11 PTS) (Martin 3 AST),Made Shot,Running Jump Shot,145,215,26,1,3.0,3.0,h
+S2324-G0698,4,02:09,PHI,116.0,BKN,133.0,T. Smith,PHI,Smith 26' 3PT Jump Shot (14 PTS) (Martin 4 AST),Made Shot,Jump Shot,-9,262,26,1,3.0,3.0,h
+S2324-G0698,4,01:42,PHI,119.0,BKN,134.0,T. Smith,PHI,Smith 27' 3PT Jump Shot (17 PTS) (Council IV 1 AST),Made Shot,Jump Shot,167,208,27,1,3.0,3.0,h
+S2324-G0162,3,07:20,CHI,68.0,PHX,70.0,T. Smith,,Instant Replay3rd Period (9:32 PM EST),Instant Replay,Coach Challenge Overturn Ruling,0,0,0,0,,,
+S2324-G0082,3,07:09,CHI,44.0,TOR,48.0,T. Smith,,Instant Replay3rd Period (9:32 PM EST),Instant Replay,Coach Challenge Overturn Ruling,0,0,0,0,,,
+S2324-G1129,4,03:44,MEM,,PHI,,T. Smith,PHI,Smith S.FOUL (P1.T3) (N.Sago),Foul,Shooting,0,0,0,0,,,v
+S2324-G1129,4,03:29,MEM,88.0,PHI,112.0,T. Smith,PHI,Smith 25' 3PT Jump Shot (3 PTS) (Dowtin Jr. 2 AST),Made Shot,Jump Shot,-159,189,25,1,3.0,3.0,v
+S2324-G1129,4,03:08,MEM,,PHI,,T. Smith,PHI,Smith S.FOUL (P2.T4) (I.Hwang),Foul,Shooting,0,0,0,0,,,v
+S2324-G1129,4,02:31,MEM,,PHI,,T. Smith,PHI,Smith REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1129,4,02:31,MEM,,PHI,,T. Smith,PHI,Smith Out of Bounds - Bad Pass Turnover Turnover (P1.T19),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G1129,4,02:02,MEM,,PHI,,T. Smith,PHI,MISS Smith 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,119,241,27,1,3.0,0.0,v
+S2324-G1129,4,01:39,MEM,,PHI,,T. Smith,PHI,Smith STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G1129,4,00:25.800000,MEM,96.0,PHI,116.0,T. Smith,PHI,Smith 1' Running Finger Roll Layup (5 PTS) (Council IV 1 AST),Made Shot,Running Finger Roll Layup Shot,-6,3,1,1,2.0,2.0,v
+S2324-G0779,3,04:16,PHI,,MIA,,T. Smith,PHI,MISS Smith 28' 3PT Jump Shot,Missed Shot,Jump Shot,176,215,28,1,3.0,0.0,h
+S2324-G0779,3,04:08,PHI,,MIA,,T. Smith,PHI,SUB: Maxey FOR Smith,Substitution,,0,0,0,0,,,h
+S2324-G0627,4,11:39,IND,,PHI,,T. Smith,PHI,Smith STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0627,4,09:29,IND,,PHI,,T. Smith,PHI,MISS Smith 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,234,144,27,1,3.0,0.0,v
+S2324-G0627,4,08:20,IND,,PHI,,T. Smith,PHI,MISS Smith 3' Driving Layup,Missed Shot,Driving Layup Shot,23,16,3,1,2.0,0.0,v
+S2324-G0627,4,07:15,IND,,PHI,,T. Smith,PHI,Smith Bad Pass Turnover (P1.T11),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0627,4,06:42,IND,,PHI,,T. Smith,PHI,Smith STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0627,4,06:14,IND,,PHI,,T. Smith,PHI,Smith STEAL (3 STL),,,0,0,0,0,,,v
+S2324-G0627,4,06:10,IND,,PHI,,T. Smith,PHI,MISS Smith 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-203,169,26,1,3.0,0.0,v
+S2324-G0627,4,04:31,IND,,PHI,,T. Smith,PHI,MISS Smith 27' 3PT Jump Shot,Missed Shot,Jump Shot,93,257,27,1,3.0,0.0,v
+S2324-G0627,4,03:56,IND,,PHI,,T. Smith,PHI,MISS Smith 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-51,179,19,1,2.0,0.0,v
+S2324-G0627,4,03:09,IND,,PHI,,T. Smith,PHI,MISS Smith 26' 3PT Jump Shot,Missed Shot,Jump Shot,230,116,26,1,3.0,0.0,v
+S2324-G0627,4,00:30.200000,IND,134.0,PHI,119.0,T. Smith,PHI,Smith Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0627,4,00:30.200000,IND,134.0,PHI,120.0,T. Smith,PHI,Smith Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0762,2,05:15,CLE,,PHI,,T. Smith,PHI,MISS Smith 24' 3PT Jump Shot,Missed Shot,Jump Shot,229,79,24,1,3.0,0.0,v
+S2324-G0762,2,04:22,CLE,,PHI,,T. Smith,PHI,MISS Smith 3PT Jump Shot,Missed Shot,Jump Shot,233,14,0,1,3.0,0.0,v
+S2324-G0762,2,04:05,CLE,,PHI,,T. Smith,PHI,Smith P.FOUL (P1.T1) (N.Buchert),Foul,Personal,0,0,0,0,,,v
+S2324-G0762,2,04:05,CLE,,PHI,,T. Smith,PHI,SUB: Oubre Jr. FOR Smith,Substitution,,0,0,0,0,,,v
+S2324-G0715,4,05:28,PHI,88.0,DAL,105.0,T. Smith,PHI,Smith 27' 3PT Jump Shot (3 PTS) (Springer 2 AST),Made Shot,Jump Shot,173,201,27,1,3.0,3.0,h
+S2324-G0715,4,04:41,PHI,,DAL,,T. Smith,PHI,Smith REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0715,4,01:44,PHI,,DAL,,T. Smith,PHI,MISS Smith 29' 3PT Jump Shot,Missed Shot,Jump Shot,-170,238,29,1,3.0,0.0,h
+S2324-G0715,4,00:43.500000,PHI,,DAL,,T. Smith,PHI,Smith STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0742,1,04:10,PHI,,ATL,,T. Smith,PHI,Smith Out of Bounds - Bad Pass Turnover Turnover (P1.T2),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G0742,1,03:23,PHI,,ATL,,T. Smith,PHI,MISS Smith 26' 3PT Jump Shot,Missed Shot,Jump Shot,-221,132,26,1,3.0,0.0,h
+S2324-G0742,1,02:23,PHI,23.0,ATL,29.0,T. Smith,PHI,Smith 29' 3PT Jump Shot (3 PTS) (Hield 1 AST),Made Shot,Jump Shot,179,222,29,1,3.0,3.0,h
+S2324-G0742,1,01:13,PHI,,ATL,,T. Smith,PHI,MISS Smith 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,98,234,25,1,3.0,0.0,h
+S2324-G0742,1,00:19.800000,PHI,,ATL,,T. Smith,PHI,SUB: Council IV FOR Smith,Substitution,,0,0,0,0,,,h
+S2324-G0742,2,02:27,PHI,,ATL,,T. Smith,PHI,MISS Smith 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-131,231,27,1,3.0,0.0,h
+S2324-G0742,2,01:26,PHI,52.0,ATL,70.0,T. Smith,PHI,Smith 3PT Jump Shot (6 PTS) (Bamba 2 AST),Made Shot,Jump Shot,-225,-11,0,1,3.0,3.0,h
+S2324-G0742,2,00:23.500000,PHI,,ATL,,T. Smith,PHI,Smith STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0742,2,00:23.100000,PHI,56.0,ATL,70.0,T. Smith,PHI,Smith 1' Driving Dunk (8 PTS),Made Shot,Driving Dunk Shot,-9,11,1,1,2.0,2.0,h
+S2324-G0742,3,02:53,PHI,,ATL,,T. Smith,PHI,MISS Smith 27' 3PT Jump Shot,Missed Shot,Jump Shot,203,172,27,1,3.0,0.0,h
+S2324-G1145,4,00:57.800000,PHI,,DET,,T. Smith,PHI,Smith P.FOUL (P1.T3) (S.Wall),Foul,Personal,0,0,0,0,,,h
+S2324-G0608,4,00:14.600000,PHI,,SAS,,T. Smith,PHI,MISS Smith 14' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,13,135,14,1,2.0,0.0,h
+S2324-G1171,4,00:27.600000,PHI,,ORL,,T. Smith,PHI,Smith Lost Ball Turnover (P1.T13),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G1192,4,04:33,PHI,,BKN,,T. Smith,PHI,MISS Smith 26' 3PT Jump Shot,Missed Shot,Jump Shot,121,231,26,1,3.0,0.0,h
+S2324-G1192,4,04:23,PHI,,BKN,,T. Smith,PHI,Smith P.FOUL (P1.T4) (G.Petraitis),Foul,Personal,0,0,0,0,,,h
+S2324-G1192,4,03:51,PHI,,BKN,,T. Smith,PHI,Smith REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1192,4,03:23,PHI,100.0,BKN,78.0,T. Smith,PHI,Smith Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1192,4,03:23,PHI,,BKN,,T. Smith,PHI,MISS Smith Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G1192,4,02:57,PHI,,BKN,,T. Smith,PHI,Smith Bad Pass Turnover (P1.T12),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G1192,4,02:30,PHI,,BKN,,T. Smith,PHI,MISS Smith 26' 3PT Jump Shot,Missed Shot,Jump Shot,148,214,26,1,3.0,0.0,h
+S2324-G1192,4,01:19,PHI,,BKN,,T. Smith,PHI,MISS Smith 2' Running Layup,Missed Shot,Running Layup Shot,16,4,2,1,2.0,0.0,h
+S2324-G0668,4,04:13,POR,,PHI,,T. Smith,PHI,MISS Smith 25' 3PT Jump Shot,Missed Shot,Jump Shot,175,184,25,1,3.0,0.0,v
+S2324-G0668,4,03:36,POR,,PHI,,T. Smith,PHI,MISS Smith 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,172,179,25,1,3.0,0.0,v
+S2324-G0668,4,02:16,POR,124.0,PHI,97.0,T. Smith,PHI,Smith 30' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,-141,260,30,1,3.0,3.0,v
+S2324-G0668,4,01:46,POR,,PHI,,T. Smith,PHI,Smith STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0668,4,01:43,POR,,PHI,,T. Smith,PHI,Smith Lost Ball Turnover (P1.T16),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0668,4,01:22,POR,,PHI,,T. Smith,PHI,Smith S.FOUL (P1.PN) (J.Goble),Foul,Shooting,0,0,0,0,,,v
+S2324-G0668,4,00:23.500000,POR,,PHI,,T. Smith,PHI,MISS Smith 25' 3PT Jump Shot,Missed Shot,Jump Shot,202,139,25,1,3.0,0.0,v
+S2324-G0593,4,00:27.100000,CHA,,PHI,,T. Smith,PHI,SUB: Maxey FOR Smith,Substitution,,0,0,0,0,,,v
+S2324-G0585,4,00:46.900000,ORL,104.0,PHI,121.0,T. Smith,PHI,Smith 26' 3PT Jump Shot (3 PTS) (Oubre Jr. 2 AST),Made Shot,Jump Shot,36,257,26,1,3.0,3.0,v
+S2324-G0585,4,00:34.100000,ORL,106.0,PHI,124.0,T. Smith,PHI,Smith 29' 3PT Jump Shot (6 PTS) (Korkmaz 1 AST),Made Shot,Jump Shot,186,224,29,1,3.0,3.0,v
+S2324-G0727,4,09:49,PHI,,GSW,,T. Smith,PHI,MISS Smith 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-33,75,8,1,2.0,0.0,h
+S2324-G0727,4,08:33,PHI,,GSW,,T. Smith,PHI,MISS Smith 28' 3PT Jump Shot,Missed Shot,Jump Shot,-42,272,28,1,3.0,0.0,h
+S2324-G0727,4,08:18,PHI,,GSW,,T. Smith,PHI,Smith STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0727,4,08:12,PHI,79.0,GSW,104.0,T. Smith,PHI,Smith Running Dunk (2 PTS),Made Shot,Running Dunk Shot,-2,3,0,1,2.0,2.0,h
+S2324-G0727,4,06:58,PHI,85.0,GSW,104.0,T. Smith,PHI,Smith 25' 3PT Jump Shot (5 PTS) (Reed 4 AST),Made Shot,Jump Shot,-118,224,25,1,3.0,3.0,h
+S2324-G0727,4,06:30,PHI,,GSW,,T. Smith,PHI,MISS Smith 2' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,18,-2,2,1,2.0,0.0,h
+S2324-G0727,4,05:52,PHI,,GSW,,T. Smith,PHI,MISS Smith 27' 3PT Jump Shot,Missed Shot,Jump Shot,129,239,27,1,3.0,0.0,h
+S2324-G0727,4,05:35,PHI,,GSW,,T. Smith,PHI,Smith REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0727,4,04:05,PHI,,GSW,,T. Smith,PHI,Smith Bad Pass Turnover (P1.T14),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0727,4,02:59,PHI,94.0,GSW,113.0,T. Smith,PHI,Smith 2' Driving Finger Roll Layup (7 PTS),Made Shot,Driving Finger Roll Layup Shot,23,0,2,1,2.0,2.0,h
+S2324-G0727,4,00:53.300000,PHI,,GSW,,T. Smith,PHI,MISS Smith 3PT Jump Shot,Missed Shot,Jump Shot,-229,9,0,1,3.0,0.0,h

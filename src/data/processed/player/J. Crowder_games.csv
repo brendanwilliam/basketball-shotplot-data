@@ -1,0 +1,728 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2324-G0899,1,11:21,GSW,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0899,1,09:31,GSW,,MIL,,J. Crowder,MIL,MISS Crowder 29' 3PT Jump Shot,Missed Shot,Jump Shot,207,200,29,1,3.0,0.0,v
+S2324-G0899,1,08:33,GSW,12.0,MIL,10.0,J. Crowder,MIL,Crowder 6' Driving Floating Jump Shot (2 PTS) (Lillard 2 AST),Made Shot,Driving Floating Jump Shot,-47,43,6,1,2.0,2.0,v
+S2324-G0899,1,07:43,GSW,,MIL,,J. Crowder,MIL,MISS Crowder 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,168,36,17,1,2.0,0.0,v
+S2324-G0899,1,07:32,GSW,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0899,1,05:47,GSW,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0899,1,04:59,GSW,,MIL,,J. Crowder,MIL,MISS Crowder 5' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,45,27,5,1,2.0,0.0,v
+S2324-G0899,1,04:57,GSW,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0899,1,04:57,GSW,,MIL,,J. Crowder,MIL,MISS Crowder Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2324-G0899,1,04:48,GSW,,MIL,,J. Crowder,MIL,SUB: Beverley FOR Crowder,Substitution,,0,0,0,0,,,v
+S2324-G0899,3,11:46,GSW,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0899,3,10:54,GSW,78.0,MIL,60.0,J. Crowder,MIL,Crowder 4' Layup (4 PTS) (G. Antetokounmpo 3 AST),Made Shot,Layup Shot,34,18,4,1,2.0,2.0,v
+S2324-G0899,3,06:06,GSW,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0899,3,05:45,GSW,,MIL,,J. Crowder,MIL,Crowder STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0899,3,04:32,GSW,,MIL,,J. Crowder,MIL,SUB: Beverley FOR Crowder,Substitution,,0,0,0,0,,,v
+S2324-G0572,1,02:06,CLE,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0572,2,11:04,CLE,,MIL,,J. Crowder,MIL,MISS Crowder 27' 3PT Jump Shot,Missed Shot,Jump Shot,205,170,27,1,3.0,0.0,v
+S2324-G0572,2,09:38,CLE,39.0,MIL,25.0,J. Crowder,MIL,Crowder 10' Driving Floating Jump Shot (2 PTS) (Middleton 2 AST),Made Shot,Driving Floating Jump Shot,-44,92,10,1,2.0,2.0,v
+S2324-G0572,2,09:09,CLE,,MIL,,J. Crowder,MIL,MISS Crowder 24' 3PT Jump Shot,Missed Shot,Jump Shot,-234,49,24,1,3.0,0.0,v
+S2324-G0572,2,08:39,CLE,,MIL,,J. Crowder,MIL,MISS Crowder 25' 3PT Jump Shot,Missed Shot,Jump Shot,235,74,25,1,3.0,0.0,v
+S2324-G0572,2,07:59,CLE,,MIL,,J. Crowder,MIL,SUB: Payne FOR Crowder,Substitution,,0,0,0,0,,,v
+S2324-G0572,4,10:47,CLE,,MIL,,J. Crowder,MIL,MISS Crowder 25' 3PT Jump Shot,Missed Shot,Jump Shot,173,184,25,1,3.0,0.0,v
+S2324-G0572,4,09:44,CLE,118.0,MIL,74.0,J. Crowder,MIL,Crowder 26' 3PT Jump Shot (5 PTS) (Portis 3 AST),Made Shot,Jump Shot,163,198,26,1,3.0,3.0,v
+S2324-G0572,4,08:50,CLE,,MIL,,J. Crowder,MIL,MISS Crowder 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,43,78,9,1,2.0,0.0,v
+S2324-G0572,4,08:28,CLE,118.0,MIL,79.0,J. Crowder,MIL,Crowder 25' 3PT Jump Shot (8 PTS) (Green 1 AST),Made Shot,Jump Shot,-115,226,25,1,3.0,3.0,v
+S2324-G0572,4,07:13,CLE,,MIL,,J. Crowder,MIL,MISS Crowder Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0572,4,07:13,CLE,121.0,MIL,83.0,J. Crowder,MIL,Crowder Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0572,4,06:52,CLE,,MIL,,J. Crowder,MIL,Crowder P.FOUL (P1.T3) (B.Kennedy),Foul,Personal,0,0,0,0,,,v
+S2324-G0572,4,05:56,CLE,,MIL,,J. Crowder,MIL,MISS Crowder 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,188,199,27,1,3.0,0.0,v
+S2324-G0572,4,04:34,CLE,,MIL,,J. Crowder,MIL,MISS Crowder 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,51,103,11,1,2.0,0.0,v
+S2324-G0572,4,02:27,CLE,133.0,MIL,90.0,J. Crowder,MIL,Crowder 24' 3PT Step Back Jump Shot (12 PTS),Made Shot,Step Back Jump shot,124,211,24,1,3.0,3.0,v
+S2324-G0572,4,01:51,CLE,133.0,MIL,93.0,J. Crowder,MIL,Crowder 26' 3PT Jump Shot (15 PTS) (R. Lopez 1 AST),Made Shot,Jump Shot,-125,225,26,1,3.0,3.0,v
+S2324-G0572,4,01:15,CLE,,MIL,,J. Crowder,MIL,MISS Crowder 26' 3PT Jump Shot,Missed Shot,Jump Shot,-96,237,26,1,3.0,0.0,v
+S2324-G0572,4,00:20.200000,CLE,,MIL,,J. Crowder,MIL,Crowder STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0773,1,07:39,MIL,,MIA,,J. Crowder,MIL,Crowder REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0773,1,06:15,MIL,15.0,MIA,22.0,J. Crowder,MIL,Crowder 11' Running Jump Shot (2 PTS) (G. Antetokounmpo 2 AST),Made Shot,Running Jump Shot,108,3,11,1,2.0,2.0,h
+S2324-G0773,1,05:44,MIL,,MIA,,J. Crowder,MIL,SUB: Connaughton FOR Crowder,Substitution,,0,0,0,0,,,h
+S2324-G0773,2,10:36,MIL,,MIA,,J. Crowder,MIL,SUB: Lopez FOR Crowder,Substitution,,0,0,0,0,,,h
+S2324-G0773,2,01:21,MIL,,MIA,,J. Crowder,MIL,Crowder Traveling Turnover (P1.T6),Turnover,Traveling,0,0,0,0,,,h
+S2324-G0773,3,06:17,MIL,,MIA,,J. Crowder,MIL,SUB: Connaughton FOR Crowder,Substitution,,0,0,0,0,,,h
+S2324-G1162,1,04:50,MIL,19.0,ORL,15.0,J. Crowder,MIL,Crowder 1' Layup (2 PTS) (Lillard 4 AST),Made Shot,Layup Shot,-7,3,1,1,2.0,2.0,h
+S2324-G1162,1,04:43,MIL,,ORL,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1162,1,01:27,MIL,,ORL,,J. Crowder,MIL,Crowder REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1162,2,10:38,MIL,,ORL,,J. Crowder,MIL,MISS Crowder 25' 3PT Jump Shot,Missed Shot,Jump Shot,104,229,25,1,3.0,0.0,h
+S2324-G1162,2,07:45,MIL,44.0,ORL,32.0,J. Crowder,MIL,Crowder 24' 3PT Jump Shot (5 PTS) (Beverley 3 AST),Made Shot,Jump Shot,-235,15,24,1,3.0,3.0,h
+S2324-G1162,2,07:08,MIL,,ORL,,J. Crowder,MIL,MISS Crowder 26' 3PT Jump Shot,Missed Shot,Jump Shot,74,246,26,1,3.0,0.0,h
+S2324-G1162,2,06:52,MIL,46.0,ORL,35.0,J. Crowder,MIL,Crowder 2' Running Layup (7 PTS) (Portis 1 AST),Made Shot,Running Layup Shot,-13,8,2,1,2.0,2.0,h
+S2324-G1162,2,05:54,MIL,47.0,ORL,35.0,J. Crowder,MIL,Crowder Free Throw 1 of 3 (8 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,h
+S2324-G1162,2,05:54,MIL,,ORL,,J. Crowder,MIL,MISS Crowder Free Throw 2 of 3,Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,0.0,h
+S2324-G1162,2,05:54,MIL,48.0,ORL,35.0,J. Crowder,MIL,Crowder Free Throw 3 of 3 (9 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,h
+S2324-G1162,2,04:09,MIL,,ORL,,J. Crowder,MIL,MISS Crowder 24' 3PT Jump Shot,Missed Shot,Jump Shot,-237,30,24,1,3.0,0.0,h
+S2324-G1162,2,03:30,MIL,,ORL,,J. Crowder,MIL,SUB: Portis FOR Crowder,Substitution,,0,0,0,0,,,h
+S2324-G1162,3,08:38,MIL,,ORL,,J. Crowder,MIL,SUB: Portis FOR Crowder,Substitution,,0,0,0,0,,,h
+S2324-G1162,3,05:10,MIL,,ORL,,J. Crowder,MIL,Crowder S.FOUL (P1.PN) (S.Foster),Foul,Shooting,0,0,0,0,,,h
+S2324-G1162,3,04:34,MIL,,ORL,,J. Crowder,MIL,Crowder REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1162,3,01:46,MIL,,ORL,,J. Crowder,MIL,Crowder BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G1162,4,11:39,MIL,99.0,ORL,77.0,J. Crowder,MIL,Crowder 3PT Jump Shot (12 PTS) (Beverley 6 AST),Made Shot,Jump Shot,229,47,0,1,3.0,3.0,h
+S2324-G1162,4,06:03,MIL,,ORL,,J. Crowder,MIL,MISS Crowder 26' 3PT Jump Shot,Missed Shot,Jump Shot,91,244,26,1,3.0,0.0,h
+S2324-G1162,4,05:36,MIL,,ORL,,J. Crowder,MIL,MISS Crowder 9' Layup,Missed Shot,Layup Shot,-21,92,9,1,2.0,0.0,h
+S2324-G1162,4,05:36,MIL,,ORL,,J. Crowder,MIL,Crowder REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1162,4,05:36,MIL,108.0,ORL,85.0,J. Crowder,MIL,Crowder Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1162,4,05:36,MIL,109.0,ORL,85.0,J. Crowder,MIL,Crowder Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1162,4,04:01,MIL,,ORL,,J. Crowder,MIL,SUB: Beverley FOR Crowder,Substitution,,0,0,0,0,,,h
+S2324-G1007,1,09:58,MIL,4.0,BKN,4.0,J. Crowder,MIL,Crowder 10' Running Jump Shot (2 PTS) (G. Antetokounmpo 1 AST),Made Shot,Running Jump Shot,43,90,10,1,2.0,2.0,h
+S2324-G1007,1,08:55,MIL,,BKN,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1007,1,05:05,MIL,,BKN,,J. Crowder,MIL,SUB: Connaughton FOR Crowder,Substitution,,0,0,0,0,,,h
+S2324-G1007,2,02:19,MIL,55.0,BKN,38.0,J. Crowder,MIL,Crowder 7' Cutting Layup Shot (4 PTS) (G. Antetokounmpo 3 AST),Made Shot,Cutting Layup Shot,12,72,7,1,2.0,2.0,h
+S2324-G1007,3,11:03,MIL,,BKN,,J. Crowder,MIL,MISS Crowder 3PT Jump Shot,Missed Shot,Jump Shot,-230,-3,0,1,3.0,0.0,h
+S2324-G1007,3,10:38,MIL,,BKN,,J. Crowder,MIL,Crowder Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G1007,3,10:21,MIL,,BKN,,J. Crowder,MIL,MISS Crowder 27' 3PT Jump Shot,Missed Shot,Jump Shot,-163,218,27,1,3.0,0.0,h
+S2324-G1007,3,09:57,MIL,,BKN,,J. Crowder,MIL,Crowder REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1007,3,09:57,MIL,64.0,BKN,49.0,J. Crowder,MIL,Crowder Putback Layup (6 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,h
+S2324-G1007,3,08:14,MIL,,BKN,,J. Crowder,MIL,MISS Crowder 24' 3PT Jump Shot,Missed Shot,Jump Shot,-234,22,24,1,3.0,0.0,h
+S2324-G1007,3,06:49,MIL,,BKN,,J. Crowder,MIL,Crowder T.FOUL (P0.T1) (M.Lindsay),Foul,Technical,0,0,0,0,,,h
+S2324-G1007,3,05:51,MIL,,BKN,,J. Crowder,MIL,Crowder P.FOUL (P1.T3) (D.Taylor),Foul,Personal,0,0,0,0,,,h
+S2324-G1007,3,04:30,MIL,,BKN,,J. Crowder,MIL,SUB: Beverley FOR Crowder,Substitution,,0,0,0,0,,,h
+S2324-G1007,4,06:26,MIL,,BKN,,J. Crowder,MIL,Crowder REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0745,1,11:05,MIL,,CHA,,J. Crowder,MIL,MISS Crowder 26' 3PT Jump Shot,Missed Shot,Jump Shot,-134,227,26,1,3.0,0.0,h
+S2324-G0745,1,10:20,MIL,,CHA,,J. Crowder,MIL,MISS Crowder 20' Jump Shot,Missed Shot,Jump Shot,197,2,20,1,2.0,0.0,h
+S2324-G0745,1,06:41,MIL,17.0,CHA,6.0,J. Crowder,MIL,Crowder 24' 3PT Step Back Jump Shot (3 PTS) (Lillard 3 AST),Made Shot,Step Back Jump shot,-237,53,24,1,3.0,3.0,h
+S2324-G0745,1,05:59,MIL,,CHA,,J. Crowder,MIL,Crowder S.FOUL (P1.T3) (R.Hussey),Foul,Shooting,0,0,0,0,,,h
+S2324-G0745,1,03:08,MIL,,CHA,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0745,1,01:42,MIL,,CHA,,J. Crowder,MIL,SUB: Green FOR Crowder,Substitution,,0,0,0,0,,,h
+S2324-G0745,2,07:09,MIL,,CHA,,J. Crowder,MIL,MISS Crowder 3PT Jump Shot,Missed Shot,Jump Shot,227,48,0,1,3.0,0.0,h
+S2324-G0745,2,05:53,MIL,41.0,CHA,27.0,J. Crowder,MIL,Crowder Free Throw 1 of 3 (4 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,h
+S2324-G0745,2,05:53,MIL,,CHA,,J. Crowder,MIL,MISS Crowder Free Throw 2 of 3,Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,0.0,h
+S2324-G0745,2,05:53,MIL,42.0,CHA,27.0,J. Crowder,MIL,Crowder Free Throw 3 of 3 (5 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,h
+S2324-G0745,3,09:13,MIL,,CHA,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0745,3,07:25,MIL,,CHA,,J. Crowder,MIL,MISS Crowder 27' 3PT Jump Shot,Missed Shot,Jump Shot,-165,211,27,1,3.0,0.0,h
+S2324-G0745,3,06:58,MIL,,CHA,,J. Crowder,MIL,MISS Crowder 3PT Jump Shot,Missed Shot,Jump Shot,-232,34,0,1,3.0,0.0,h
+S2324-G0745,3,05:44,MIL,,CHA,,J. Crowder,MIL,MISS Crowder 3PT Jump Shot,Missed Shot,Jump Shot,233,-4,0,1,3.0,0.0,h
+S2324-G1139,1,00:07.300000,MIL,,NYK,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1139,2,06:31,MIL,,NYK,,J. Crowder,MIL,SUB: Lillard FOR Crowder,Substitution,,0,0,0,0,,,h
+S2324-G1139,3,04:34,MIL,,NYK,,J. Crowder,MIL,MISS Crowder 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-42,0,4,1,2.0,0.0,h
+S2324-G1139,4,10:18,MIL,,NYK,,J. Crowder,MIL,Crowder REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1139,4,10:17,MIL,,NYK,,J. Crowder,MIL,Crowder Bad Pass Turnover (P1.T11),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G1139,4,09:21,MIL,,NYK,,J. Crowder,MIL,SUB: Lillard FOR Crowder,Substitution,,0,0,0,0,,,h
+S2324-G0817,1,09:43,PHI,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0817,1,09:22,PHI,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0817,1,09:10,PHI,,MIL,,J. Crowder,MIL,MISS Crowder 27' 3PT Jump Shot,Missed Shot,Jump Shot,62,260,27,1,3.0,0.0,v
+S2324-G0817,1,08:47,PHI,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0817,1,06:10,PHI,,MIL,,J. Crowder,MIL,Crowder STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0817,1,06:06,PHI,,MIL,,J. Crowder,MIL,Crowder Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0817,1,05:10,PHI,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0817,1,04:39,PHI,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0817,1,03:58,PHI,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0817,1,03:56,PHI,,MIL,,J. Crowder,MIL,SUB: Connaughton FOR Crowder,Substitution,,0,0,0,0,,,v
+S2324-G0817,2,09:19,PHI,,MIL,,J. Crowder,MIL,MISS Crowder 3' Cutting Finger Roll Layup Shot,Missed Shot,Cutting Finger Roll Layup Shot,-11,31,3,1,2.0,0.0,v
+S2324-G0817,2,07:16,PHI,,MIL,,J. Crowder,MIL,MISS Crowder 24' 3PT Jump Shot,Missed Shot,Jump Shot,235,-5,24,1,3.0,0.0,v
+S2324-G0817,2,00:41,PHI,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0817,3,10:04,PHI,,MIL,,J. Crowder,MIL,MISS Crowder 3PT Jump Shot,Missed Shot,Jump Shot,-229,14,0,1,3.0,0.0,v
+S2324-G0817,3,08:30,PHI,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0817,3,04:31,PHI,,MIL,,J. Crowder,MIL,Crowder P.FOUL (P1.T3) (K.Lane),Foul,Personal,0,0,0,0,,,v
+S2324-G0817,3,04:12,PHI,,MIL,,J. Crowder,MIL,SUB: Beverley FOR Crowder,Substitution,,0,0,0,0,,,v
+S2324-G0790,1,11:24,MEM,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0790,1,06:33,MEM,,MIL,,J. Crowder,MIL,MISS Crowder 26' 3PT Jump Shot,Missed Shot,Jump Shot,120,229,26,1,3.0,0.0,v
+S2324-G0790,1,05:34,MEM,,MIL,,J. Crowder,MIL,SUB: Connaughton FOR Crowder,Substitution,,0,0,0,0,,,v
+S2324-G0790,2,03:33,MEM,46.0,MIL,51.0,J. Crowder,MIL,Crowder 2' Cutting Layup Shot (2 PTS) (Lillard 3 AST),Made Shot,Cutting Layup Shot,-10,20,2,1,2.0,2.0,v
+S2324-G0790,2,03:18,MEM,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0790,2,01:28,MEM,,MIL,,J. Crowder,MIL,Crowder STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0790,2,01:25,MEM,,MIL,,J. Crowder,MIL,Crowder Lost Ball Turnover (P1.T6),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0790,2,01:23,MEM,,MIL,,J. Crowder,MIL,Crowder S.FOUL (P1.T4) (E.Dalen),Foul,Shooting,0,0,0,0,,,v
+S2324-G0790,2,01:09,MEM,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0790,2,00:29.900000,MEM,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0790,2,00:00,MEM,,MIL,,J. Crowder,MIL,MISS Crowder 46' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,91,456,46,1,3.0,0.0,v
+S2324-G0790,3,09:21,MEM,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0790,3,07:51,MEM,,MIL,,J. Crowder,MIL,Crowder Transition Take Foul (P2.T1) (B.Adair),Foul                                    ,Transition Take,0,0,0,0,,,v
+S2324-G0790,3,05:12,MEM,,MIL,,J. Crowder,MIL,SUB: Connaughton FOR Crowder,Substitution,,0,0,0,0,,,v
+S2324-G0790,4,03:29,MEM,101.0,MIL,102.0,J. Crowder,MIL,Crowder 21' Jump Shot (4 PTS) (G. Antetokounmpo 11 AST),Made Shot,Jump Shot,205,15,21,1,2.0,2.0,v
+S2324-G0840,1,09:18,MIL,,CHA,,J. Crowder,MIL,Crowder REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0840,1,06:52,MIL,,CHA,,J. Crowder,MIL,Crowder REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0840,1,05:27,MIL,,CHA,,J. Crowder,MIL,Crowder P.FOUL (P1.T2) (N.Green),Foul,Personal,0,0,0,0,,,h
+S2324-G0840,1,02:50,MIL,,CHA,,J. Crowder,MIL,Crowder REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0840,1,02:23,MIL,,CHA,,J. Crowder,MIL,SUB: G. Antetokounmpo FOR Crowder,Substitution,,0,0,0,0,,,h
+S2324-G0840,2,04:14,MIL,,CHA,,J. Crowder,MIL,MISS Crowder 26' 3PT Jump Shot,Missed Shot,Jump Shot,-228,118,26,1,3.0,0.0,h
+S2324-G0840,2,04:10,MIL,49.0,CHA,24.0,J. Crowder,MIL,Crowder 2' Cutting Layup Shot (2 PTS) (Portis 2 AST),Made Shot,Cutting Layup Shot,6,16,2,1,2.0,2.0,h
+S2324-G0840,2,03:05,MIL,,CHA,,J. Crowder,MIL,Crowder REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0840,2,02:23,MIL,56.0,CHA,24.0,J. Crowder,MIL,Crowder 3PT Running Jump Shot (5 PTS) (Beasley 2 AST),Made Shot,Running Jump Shot,-230,1,0,1,3.0,3.0,h
+S2324-G0840,2,01:22,MIL,,CHA,,J. Crowder,MIL,Crowder REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0840,3,10:25,MIL,,CHA,,J. Crowder,MIL,Crowder REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0840,3,07:39,MIL,,CHA,,J. Crowder,MIL,Crowder REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0840,3,06:24,MIL,75.0,CHA,39.0,J. Crowder,MIL,Crowder 22' Running Jump Shot (7 PTS) (Lillard 6 AST),Made Shot,Running Jump Shot,181,126,22,1,2.0,2.0,h
+S2324-G0840,3,04:36,MIL,82.0,CHA,39.0,J. Crowder,MIL,Crowder 26' 3PT Jump Shot (10 PTS) (Connaughton 1 AST),Made Shot,Jump Shot,168,195,26,1,3.0,3.0,h
+S2324-G0840,3,04:00,MIL,,CHA,,J. Crowder,MIL,SUB: Beverley FOR Crowder,Substitution,,0,0,0,0,,,h
+S2324-G0683,1,04:09,POR,,MIL,,J. Crowder,MIL,MISS Crowder 3PT Jump Shot,Missed Shot,Jump Shot,-225,11,0,1,3.0,0.0,v
+S2324-G0683,1,04:06,POR,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0683,1,04:04,POR,21.0,MIL,29.0,J. Crowder,MIL,Crowder 1' Driving Reverse Layup (2 PTS),Made Shot,Driving Reverse Layup Shot,4,4,1,1,2.0,2.0,v
+S2324-G0683,1,03:01,POR,,MIL,,J. Crowder,MIL,MISS Crowder 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-173,204,27,1,3.0,0.0,v
+S2324-G0683,1,01:42,POR,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0683,1,01:05,POR,32.0,MIL,36.0,J. Crowder,MIL,Crowder 26' 3PT Pullup Jump Shot (5 PTS) (G. Antetokounmpo 1 AST),Made Shot,Pullup Jump shot,-180,189,26,1,3.0,3.0,v
+S2324-G0683,1,00:55.300000,POR,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0683,2,09:10,POR,,MIL,,J. Crowder,MIL,MISS Crowder 27' 3PT Jump Shot,Missed Shot,Jump Shot,-169,209,27,1,3.0,0.0,v
+S2324-G0683,2,08:24,POR,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0683,2,07:11,POR,,MIL,,J. Crowder,MIL,SUB: B. Lopez FOR Crowder,Substitution,,0,0,0,0,,,v
+S2324-G0683,2,02:15,POR,,MIL,,J. Crowder,MIL,MISS Crowder 31' 3PT Jump Bank Shot,Missed Shot,Jump Bank Shot,-113,291,31,1,3.0,0.0,v
+S2324-G0683,2,02:08,POR,,MIL,,J. Crowder,MIL,SUB: Middleton FOR Crowder,Substitution,,0,0,0,0,,,v
+S2324-G0683,3,00:23.800000,POR,,MIL,,J. Crowder,MIL,MISS Crowder Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0683,3,00:23.800000,POR,94.0,MIL,91.0,J. Crowder,MIL,Crowder Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0683,3,00:12.800000,POR,,MIL,,J. Crowder,MIL,Crowder Personal Take Foul (P1.T4) (L.Wood),Foul,Personal Take,0,0,0,0,,,v
+S2324-G0683,4,10:49,POR,,MIL,,J. Crowder,MIL,Crowder BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0683,4,06:52,POR,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0683,4,06:47,POR,,MIL,,J. Crowder,MIL,SUB: Beasley FOR Crowder,Substitution,,0,0,0,0,,,v
+S2324-G0683,4,00:04.600000,POR,,MIL,,J. Crowder,MIL,SUB: G. Antetokounmpo FOR Crowder,Substitution,,0,0,0,0,,,v
+S2324-G0945,1,04:25,SAC,,MIL,,J. Crowder,MIL,SUB: Beverley FOR Crowder,Substitution,,0,0,0,0,,,v
+S2324-G0945,2,04:59,SAC,,MIL,,J. Crowder,MIL,Crowder S.FOUL (P1.T4) (P.Ransom),Foul,Shooting,0,0,0,0,,,v
+S2324-G0945,2,02:44,SAC,,MIL,,J. Crowder,MIL,SUB: Beasley FOR Crowder,Substitution,,0,0,0,0,,,v
+S2324-G0945,3,08:11,SAC,,MIL,,J. Crowder,MIL,Crowder STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0945,3,08:09,SAC,,MIL,,J. Crowder,MIL,SUB: Connaughton FOR Crowder,Substitution,,0,0,0,0,,,v
+S2324-G1179,1,07:16,OKC,,MIL,,J. Crowder,MIL,MISS Crowder 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,12,8,1,1,2.0,0.0,v
+S2324-G1179,1,07:12,OKC,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1179,1,07:11,OKC,,MIL,,J. Crowder,MIL,MISS Crowder 1' Putback Layup,Missed Shot,Putback Layup Shot,-5,13,1,1,2.0,0.0,v
+S2324-G1179,1,06:45,OKC,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1179,1,01:45,OKC,,MIL,,J. Crowder,MIL,MISS Crowder 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,21,49,5,1,2.0,0.0,v
+S2324-G1179,1,00:43,OKC,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1179,1,00:00,OKC,,MIL,,J. Crowder,MIL,Crowder Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G1179,2,08:54,OKC,47.0,MIL,41.0,J. Crowder,MIL,Crowder 26' 3PT Jump Shot (3 PTS) (Beverley 5 AST),Made Shot,Jump Shot,102,235,26,1,3.0,3.0,v
+S2324-G1179,2,08:28,OKC,,MIL,,J. Crowder,MIL,SUB: Gallinari FOR Crowder,Substitution,,0,0,0,0,,,v
+S2324-G1179,2,00:02.700000,OKC,,MIL,,J. Crowder,MIL,MISS Crowder 3PT Jump Shot,Missed Shot,Jump Shot,232,20,0,1,3.0,0.0,v
+S2324-G1179,3,04:29,OKC,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1179,3,04:12,OKC,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1179,4,10:20,OKC,,MIL,,J. Crowder,MIL,MISS Crowder 7' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,1,74,7,1,2.0,0.0,v
+S2324-G1179,4,09:51,OKC,,MIL,,J. Crowder,MIL,MISS Crowder 25' 3PT Jump Shot,Missed Shot,Jump Shot,-140,206,25,1,3.0,0.0,v
+S2324-G1179,4,08:35,OKC,,MIL,,J. Crowder,MIL,MISS Crowder 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,192,158,25,1,3.0,0.0,v
+S2324-G1179,4,07:35,OKC,,MIL,,J. Crowder,MIL,SUB: Beauchamp FOR Crowder,Substitution,,0,0,0,0,,,v
+S2324-G0725,1,05:55,PHX,,MIL,,J. Crowder,MIL,Crowder S.FOUL (P1.T3) (S.Wright),Foul,Shooting,0,0,0,0,,,v
+S2324-G0725,1,04:08,PHX,,MIL,,J. Crowder,MIL,MISS Crowder 24' 3PT Jump Shot,Missed Shot,Jump Shot,-239,7,24,1,3.0,0.0,v
+S2324-G0725,1,02:10,PHX,,MIL,,J. Crowder,MIL,Crowder S.FOUL (P2.T4) (M.Ervin),Foul,Shooting,0,0,0,0,,,v
+S2324-G0725,2,10:56,PHX,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0725,2,10:55,PHX,,MIL,,J. Crowder,MIL,Crowder Lost Ball Turnover (P1.T5),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0725,2,09:01,PHX,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0725,2,08:50,PHX,,MIL,,J. Crowder,MIL,MISS Crowder 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-36,21,4,1,2.0,0.0,v
+S2324-G0725,2,08:46,PHX,29.0,MIL,25.0,J. Crowder,MIL,Crowder 1' Layup (2 PTS) (Portis 1 AST),Made Shot,Layup Shot,-11,5,1,1,2.0,2.0,v
+S2324-G0725,2,08:22,PHX,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0725,2,08:16,PHX,29.0,MIL,26.0,J. Crowder,MIL,Crowder Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0725,2,08:16,PHX,29.0,MIL,27.0,J. Crowder,MIL,Crowder Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0725,2,06:38,PHX,,MIL,,J. Crowder,MIL,MISS Crowder 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,136,222,26,1,3.0,0.0,v
+S2324-G0725,2,04:42,PHX,,MIL,,J. Crowder,MIL,Crowder BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0725,3,09:51,PHX,,MIL,,J. Crowder,MIL,MISS Crowder 25' 3PT Jump Shot,Missed Shot,Jump Shot,246,-6,25,1,3.0,0.0,v
+S2324-G0725,3,08:59,PHX,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0725,3,04:40,PHX,,MIL,,J. Crowder,MIL,Crowder S.FOUL (P3.T3) (J.Schroeder),Foul,Shooting,0,0,0,0,,,v
+S2324-G0725,3,03:53,PHX,71.0,MIL,66.0,J. Crowder,MIL,Crowder 4' Layup (6 PTS) (G. Antetokounmpo 4 AST),Made Shot,Layup Shot,42,-2,4,1,2.0,2.0,v
+S2324-G0725,3,01:43,PHX,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0725,3,00:18.600000,PHX,,MIL,,J. Crowder,MIL,SUB: G. Antetokounmpo FOR Crowder,Substitution,,0,0,0,0,,,v
+S2324-G0725,4,08:26,PHX,,MIL,,J. Crowder,MIL,Crowder STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0725,4,06:38,PHX,95.0,MIL,86.0,J. Crowder,MIL,Crowder 5' Running Layup (8 PTS) (Connaughton 4 AST),Made Shot,Running Layup Shot,33,34,5,1,2.0,2.0,v
+S2324-G0725,4,04:48,PHX,,MIL,,J. Crowder,MIL,Crowder S.FOUL (P4.PN) (M.Ervin),Foul,Shooting,0,0,0,0,,,v
+S2324-G0725,4,03:05,PHX,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0725,4,02:56,PHX,107.0,MIL,95.0,J. Crowder,MIL,Crowder 2' Driving Finger Roll Layup (10 PTS) (G. Antetokounmpo 6 AST),Made Shot,Driving Finger Roll Layup Shot,5,20,2,1,2.0,2.0,v
+S2324-G0725,4,02:14,PHX,,MIL,,J. Crowder,MIL,Crowder Violation:Kicked Ball (J.Schroeder),Violation,Kicked Ball,0,0,0,0,,,v
+S2324-G0725,4,01:39,PHX,,MIL,,J. Crowder,MIL,Crowder STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0725,4,01:24,PHX,,MIL,,J. Crowder,MIL,Crowder Violation:Kicked Ball (M.Ervin),Violation,Kicked Ball,0,0,0,0,,,v
+S2324-G0725,4,00:16.100000,PHX,,MIL,,J. Crowder,MIL,MISS Crowder 24' 3PT Jump Shot,Missed Shot,Jump Shot,238,22,24,1,3.0,0.0,v
+S2324-G1122,1,10:48,MIL,,TOR,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1122,1,06:22,MIL,,TOR,,J. Crowder,MIL,MISS Crowder 21' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,113,173,21,1,2.0,0.0,h
+S2324-G1122,1,04:49,MIL,,TOR,,J. Crowder,MIL,Crowder REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1122,1,04:46,MIL,,TOR,,J. Crowder,MIL,SUB: Green FOR Crowder,Substitution,,0,0,0,0,,,h
+S2324-G1122,2,05:08,MIL,,TOR,,J. Crowder,MIL,Crowder STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1122,2,03:46,MIL,48.0,TOR,40.0,J. Crowder,MIL,Crowder 1' Driving Reverse Layup (2 PTS) (Lillard 3 AST),Made Shot,Driving Reverse Layup Shot,-1,8,1,1,2.0,2.0,h
+S2324-G1122,2,00:57.100000,MIL,,TOR,,J. Crowder,MIL,Crowder REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1122,3,08:22,MIL,,TOR,,J. Crowder,MIL,Crowder REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1122,3,08:11,MIL,,TOR,,J. Crowder,MIL,Crowder REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1122,3,08:11,MIL,61.0,TOR,64.0,J. Crowder,MIL,Crowder Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2324-G1122,3,07:10,MIL,,TOR,,J. Crowder,MIL,SUB: Connaughton FOR Crowder,Substitution,,0,0,0,0,,,h
+S2324-G1030,1,04:41,MIL,18.0,OKC,19.0,J. Crowder,MIL,Crowder 3PT Jump Shot (3 PTS) (Lopez 1 AST),Made Shot,Jump Shot,230,-10,0,1,3.0,3.0,h
+S2324-G1030,1,02:41,MIL,,OKC,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1030,1,02:12,MIL,,OKC,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1030,2,10:41,MIL,29.0,OKC,26.0,J. Crowder,MIL,Crowder 1' Cutting Layup Shot (5 PTS) (Portis 1 AST),Made Shot,Cutting Layup Shot,4,7,1,1,2.0,2.0,h
+S2324-G1030,2,08:07,MIL,,OKC,,J. Crowder,MIL,SUB: Lillard FOR Crowder,Substitution,,0,0,0,0,,,h
+S2324-G1030,3,02:59,MIL,73.0,OKC,60.0,J. Crowder,MIL,Crowder 22' Jump Shot (7 PTS) (Connaughton 1 AST),Made Shot,Jump Shot,212,49,22,1,2.0,2.0,h
+S2324-G1030,3,02:06,MIL,78.0,OKC,61.0,J. Crowder,MIL,Crowder 25' 3PT Jump Shot (10 PTS) (G. Antetokounmpo 4 AST),Made Shot,Jump Shot,-146,205,25,1,3.0,3.0,h
+S2324-G1030,4,10:43,MIL,,OKC,,J. Crowder,MIL,Crowder STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1030,4,09:21,MIL,,OKC,,J. Crowder,MIL,Crowder S.FOUL (P1.T2) (M.Kogut),Foul,Shooting,0,0,0,0,,,h
+S2324-G1030,4,08:51,MIL,,OKC,,J. Crowder,MIL,SUB: Middleton FOR Crowder,Substitution,,0,0,0,0,,,h
+S2324-G0924,1,10:47,LAC,,MIL,,J. Crowder,MIL,MISS Crowder 3' Reverse Layup,Missed Shot,Reverse Layup Shot,-28,13,3,1,2.0,0.0,v
+S2324-G0924,1,10:43,LAC,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0924,1,10:24,LAC,,MIL,,J. Crowder,MIL,Crowder S.FOUL (P1.T1) (M.Kallio),Foul,Shooting,0,0,0,0,,,v
+S2324-G0924,1,10:14,LAC,7.0,MIL,8.0,J. Crowder,MIL,Crowder 3' Cutting Layup Shot (2 PTS) (G. Antetokounmpo 3 AST),Made Shot,Cutting Layup Shot,-29,13,3,1,2.0,2.0,v
+S2324-G0924,1,08:36,LAC,,MIL,,J. Crowder,MIL,MISS Crowder 26' 3PT Jump Shot,Missed Shot,Jump Shot,-173,191,26,1,3.0,0.0,v
+S2324-G0924,1,08:24,LAC,,MIL,,J. Crowder,MIL,Crowder S.FOUL (P2.T2) (J.DeRosa),Foul,Shooting,0,0,0,0,,,v
+S2324-G0924,1,06:28,LAC,,MIL,,J. Crowder,MIL,SUB: Connaughton FOR Crowder,Substitution,,0,0,0,0,,,v
+S2324-G0924,2,00:24.800000,LAC,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0924,2,00:00.300000,LAC,,MIL,,J. Crowder,MIL,Crowder BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0924,3,10:17,LAC,,MIL,,J. Crowder,MIL,Crowder STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0924,3,07:32,LAC,71.0,MIL,73.0,J. Crowder,MIL,Crowder 3PT Jump Shot (5 PTS) (G. Antetokounmpo 8 AST),Made Shot,Jump Shot,-228,6,0,1,3.0,3.0,v
+S2324-G0924,3,06:43,LAC,,MIL,,J. Crowder,MIL,Crowder S.FOUL (P3.T4) (M.Kallio),Foul,Shooting,0,0,0,0,,,v
+S2324-G0924,3,03:42,LAC,80.0,MIL,85.0,J. Crowder,MIL,Crowder 2' Running Layup (7 PTS) (G. Antetokounmpo 9 AST),Made Shot,Running Layup Shot,-22,9,2,1,2.0,2.0,v
+S2324-G0924,3,00:41,LAC,,MIL,,J. Crowder,MIL,SUB: Lillard FOR Crowder,Substitution,,0,0,0,0,,,v
+S2324-G0702,1,07:49,DAL,,MIL,,J. Crowder,MIL,Crowder S.FOUL (P1.T3) (C.Blair),Foul,Shooting,0,0,0,0,,,v
+S2324-G0702,1,06:27,DAL,,MIL,,J. Crowder,MIL,MISS Crowder 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-99,56,11,1,2.0,0.0,v
+S2324-G0702,1,05:06,DAL,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0702,1,04:30,DAL,,MIL,,J. Crowder,MIL,Crowder P.FOUL (P2.T4) (C.Washington),Foul,Personal,0,0,0,0,,,v
+S2324-G0702,1,02:48,DAL,33.0,MIL,20.0,J. Crowder,MIL,Crowder 4' Turnaround Hook Shot (2 PTS) (G. Antetokounmpo 2 AST),Made Shot,Turnaround Hook Shot,-25,31,4,1,2.0,2.0,v
+S2324-G0702,1,00:31.800000,DAL,,MIL,,J. Crowder,MIL,Crowder L.B.FOUL (P3.PN) (C.Washington),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0702,1,00:31.800000,DAL,,MIL,,J. Crowder,MIL,Crowder T.FOUL (P3.PN) (C.Washington),Foul,Technical,0,0,0,0,,,v
+S2324-G0702,1,00:31.800000,DAL,,MIL,,J. Crowder,MIL,SUB: Middleton FOR Crowder,Substitution,,0,0,0,0,,,v
+S2324-G0702,3,08:26,DAL,,MIL,,J. Crowder,MIL,Crowder STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0702,3,06:13,DAL,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0702,3,05:02,DAL,,MIL,,J. Crowder,MIL,Crowder STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0702,3,04:31,DAL,75.0,MIL,83.0,J. Crowder,MIL,Crowder 9' Driving Floating Jump Shot (4 PTS) (Middleton 4 AST),Made Shot,Driving Floating Jump Shot,-32,89,9,1,2.0,2.0,v
+S2324-G0702,3,03:27,DAL,79.0,MIL,85.0,J. Crowder,MIL,Crowder 10' Driving Floating Jump Shot (6 PTS) (Portis 2 AST),Made Shot,Driving Floating Jump Shot,97,19,10,1,2.0,2.0,v
+S2324-G0702,3,02:06,DAL,,MIL,,J. Crowder,MIL,MISS Crowder 3PT Jump Shot,Missed Shot,Jump Shot,-227,-5,0,1,3.0,0.0,v
+S2324-G0702,3,01:38,DAL,86.0,MIL,87.0,J. Crowder,MIL,Crowder 2' Cutting Layup Shot (8 PTS) (Connaughton 1 AST),Made Shot,Cutting Layup Shot,11,15,2,1,2.0,2.0,v
+S2324-G0606,1,04:55,DET,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0606,1,03:53,DET,,MIL,,J. Crowder,MIL,MISS Crowder 6' Running Layup,Missed Shot,Running Layup Shot,59,23,6,1,2.0,0.0,v
+S2324-G0606,1,01:52,DET,,MIL,,J. Crowder,MIL,MISS Crowder 24' 3PT Jump Shot,Missed Shot,Jump Shot,237,27,24,1,3.0,0.0,v
+S2324-G0606,3,05:43,DET,,MIL,,J. Crowder,MIL,Crowder OFF.Foul (P1) (J.Goble),Foul,Offensive,0,0,0,0,,,v
+S2324-G0606,3,05:43,DET,,MIL,,J. Crowder,MIL,Crowder Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0606,3,03:53,DET,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0606,3,03:40,DET,,MIL,,J. Crowder,MIL,MISS Crowder 24' 3PT Jump Shot,Missed Shot,Jump Shot,238,19,24,1,3.0,0.0,v
+S2324-G0606,3,03:34,DET,,MIL,,J. Crowder,MIL,Crowder Violation:Kicked Ball (A.Nagy),Violation,Kicked Ball,0,0,0,0,,,v
+S2324-G0606,3,03:03,DET,,MIL,,J. Crowder,MIL,MISS Crowder 2' Layup,Missed Shot,Layup Shot,-4,15,2,1,2.0,0.0,v
+S2324-G0606,3,02:59,DET,,MIL,,J. Crowder,MIL,MISS Crowder 25' 3PT Jump Shot,Missed Shot,Jump Shot,207,134,25,1,3.0,0.0,v
+S2324-G0606,3,01:07,DET,79.0,MIL,87.0,J. Crowder,MIL,Crowder 24' 3PT Jump Shot (3 PTS) (B. Lopez 2 AST),Made Shot,Jump Shot,233,62,24,1,3.0,3.0,v
+S2324-G1191,1,04:34,ORL,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1191,1,04:33,ORL,,MIL,,J. Crowder,MIL,MISS Crowder Putback Layup,Missed Shot,Putback Layup Shot,0,0,0,1,2.0,0.0,v
+S2324-G1191,1,00:37.100000,ORL,20.0,MIL,30.0,J. Crowder,MIL,Crowder 24' 3PT Jump Shot (3 PTS) (Lillard 1 AST),Made Shot,Jump Shot,-234,31,24,1,3.0,3.0,v
+S2324-G1191,2,11:39,ORL,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1191,2,08:18,ORL,,MIL,,J. Crowder,MIL,SUB: Lopez FOR Crowder,Substitution,,0,0,0,0,,,v
+S2324-G1191,2,05:57,ORL,,MIL,,J. Crowder,MIL,Crowder S.FOUL (P1.T1) (J.Williams),Foul,Shooting,0,0,0,0,,,v
+S2324-G1191,2,04:33,ORL,,MIL,,J. Crowder,MIL,MISS Crowder 26' 3PT Jump Shot,Missed Shot,Jump Shot,-110,239,26,1,3.0,0.0,v
+S2324-G1191,2,04:27,ORL,,MIL,,J. Crowder,MIL,Crowder S.FOUL (P2.T2) (R.Acosta),Foul,Shooting,0,0,0,0,,,v
+S2324-G1191,2,03:44,ORL,,MIL,,J. Crowder,MIL,SUB: Portis FOR Crowder,Substitution,,0,0,0,0,,,v
+S2324-G1191,3,00:28.400000,ORL,80.0,MIL,69.0,J. Crowder,MIL,Crowder 24' 3PT Jump Shot (6 PTS) (Lillard 2 AST),Made Shot,Jump Shot,228,72,24,1,3.0,3.0,v
+S2324-G1191,4,11:12,ORL,,MIL,,J. Crowder,MIL,MISS Crowder 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,176,178,25,1,3.0,0.0,v
+S2324-G1191,4,10:50,ORL,,MIL,,J. Crowder,MIL,Crowder STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G1191,4,10:44,ORL,,MIL,,J. Crowder,MIL,Crowder Out of Bounds Lost Ball Turnover (P1.T12),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2324-G1191,4,10:12,ORL,,MIL,,J. Crowder,MIL,MISS Crowder 3PT Jump Shot,Missed Shot,Jump Shot,230,20,0,1,3.0,0.0,v
+S2324-G1191,4,08:39,ORL,,MIL,,J. Crowder,MIL,Crowder Bad Pass Turnover (P2.T14),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G1191,4,07:09,ORL,,MIL,,J. Crowder,MIL,SUB: Beauchamp FOR Crowder,Substitution,,0,0,0,0,,,v
+S2324-G0915,1,10:50,LAL,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0915,1,09:14,LAL,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0915,1,09:08,LAL,4.0,MIL,5.0,J. Crowder,MIL,Crowder Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0915,1,09:08,LAL,4.0,MIL,6.0,J. Crowder,MIL,Crowder Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0915,1,07:10,LAL,,MIL,,J. Crowder,MIL,Crowder S.FOUL (P1.T2) (K.Scott),Foul,Shooting,0,0,0,0,,,v
+S2324-G0915,1,04:35,LAL,,MIL,,J. Crowder,MIL,Crowder P.FOUL (P2.T3) (S.Mitchell),Foul,Personal,0,0,0,0,,,v
+S2324-G0915,1,04:35,LAL,,MIL,,J. Crowder,MIL,SUB: Connaughton FOR Crowder,Substitution,,0,0,0,0,,,v
+S2324-G0915,2,06:50,LAL,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0915,2,06:33,LAL,,MIL,,J. Crowder,MIL,MISS Crowder 26' 3PT Jump Shot,Missed Shot,Jump Shot,-136,223,26,1,3.0,0.0,v
+S2324-G0915,2,06:04,LAL,51.0,MIL,45.0,J. Crowder,MIL,Crowder 3' Layup (4 PTS) (G. Antetokounmpo 5 AST),Made Shot,Layup Shot,-20,21,3,1,2.0,2.0,v
+S2324-G0915,2,01:40,LAL,,MIL,,J. Crowder,MIL,MISS Crowder 3PT Jump Shot,Missed Shot,Jump Shot,-233,25,0,1,3.0,0.0,v
+S2324-G0915,3,09:33,LAL,,MIL,,J. Crowder,MIL,Crowder STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0915,3,09:26,LAL,,MIL,,J. Crowder,MIL,MISS Crowder 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-15,71,7,1,2.0,0.0,v
+S2324-G0915,3,08:11,LAL,,MIL,,J. Crowder,MIL,MISS Crowder 6' Driving Layup,Missed Shot,Driving Layup Shot,13,59,6,1,2.0,0.0,v
+S2324-G0915,3,07:00,LAL,,MIL,,J. Crowder,MIL,SUB: Connaughton FOR Crowder,Substitution,,0,0,0,0,,,v
+S2324-G0738,1,11:45,MIL,3.0,MIN,0.0,J. Crowder,MIL,Crowder 27' 3PT Jump Shot (3 PTS) (Connaughton 1 AST),Made Shot,Jump Shot,-134,233,27,1,3.0,3.0,h
+S2324-G0738,1,08:42,MIL,,MIN,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0738,1,07:59,MIL,,MIN,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0738,1,07:25,MIL,,MIN,,J. Crowder,MIL,MISS Crowder 23' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,82,210,23,1,2.0,0.0,h
+S2324-G0738,1,06:51,MIL,15.0,MIN,11.0,J. Crowder,MIL,Crowder 27' 3PT Jump Shot (6 PTS) (G. Antetokounmpo 2 AST),Made Shot,Jump Shot,51,264,27,1,3.0,3.0,h
+S2324-G0738,1,06:21,MIL,,MIN,,J. Crowder,MIL,MISS Crowder 20' Jump Shot,Missed Shot,Jump Shot,201,12,20,1,2.0,0.0,h
+S2324-G0738,1,04:55,MIL,,MIN,,J. Crowder,MIL,MISS Crowder 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,74,74,10,1,2.0,0.0,h
+S2324-G0738,1,03:24,MIL,,MIN,,J. Crowder,MIL,SUB: Jackson Jr. FOR Crowder,Substitution,,0,0,0,0,,,h
+S2324-G0738,2,11:43,MIL,,MIN,,J. Crowder,MIL,Crowder S.FOUL (P1.T1) (E.Dalen),Foul,Shooting,0,0,0,0,,,h
+S2324-G0738,2,11:13,MIL,29.0,MIN,32.0,J. Crowder,MIL,Crowder 26' 3PT Jump Shot (9 PTS) (Green 1 AST),Made Shot,Jump Shot,-40,260,26,1,3.0,3.0,h
+S2324-G0738,2,10:51,MIL,,MIN,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0738,2,10:23,MIL,,MIN,,J. Crowder,MIL,Crowder STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0738,2,09:32,MIL,,MIN,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0738,2,08:59,MIL,34.0,MIN,35.0,J. Crowder,MIL,Crowder 3' Cutting Layup Shot (11 PTS) (G. Antetokounmpo 4 AST),Made Shot,Cutting Layup Shot,4,25,3,1,2.0,2.0,h
+S2324-G0738,2,05:49,MIL,,MIN,,J. Crowder,MIL,Crowder REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0738,2,01:51,MIL,45.0,MIN,58.0,J. Crowder,MIL,Crowder Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0738,2,01:51,MIL,46.0,MIN,58.0,J. Crowder,MIL,Crowder Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0738,2,00:51.200000,MIL,50.0,MIN,60.0,J. Crowder,MIL,Crowder 12' Driving Floating Jump Shot (15 PTS) (G. Antetokounmpo 5 AST),Made Shot,Driving Floating Jump Shot,-115,2,12,1,2.0,2.0,h
+S2324-G0738,2,00:51.200000,MIL,51.0,MIN,60.0,J. Crowder,MIL,Crowder Free Throw 1 of 1 (16 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G0738,3,11:01,MIL,,MIN,,J. Crowder,MIL,Crowder REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0738,3,10:09,MIL,,MIN,,J. Crowder,MIL,Crowder REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0738,3,08:30,MIL,,MIN,,J. Crowder,MIL,Crowder REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0738,3,07:48,MIL,,MIN,,J. Crowder,MIL,MISS Crowder 27' 3PT Jump Shot,Missed Shot,Jump Shot,97,253,27,1,3.0,0.0,h
+S2324-G0738,3,05:29,MIL,63.0,MIN,81.0,J. Crowder,MIL,Crowder 16' Pullup Jump Shot (18 PTS) (Lopez 2 AST),Made Shot,Pullup Jump shot,-156,9,16,1,2.0,2.0,h
+S2324-G0738,3,05:03,MIL,,MIN,,J. Crowder,MIL,SUB: Green FOR Crowder,Substitution,,0,0,0,0,,,h
+S2324-G0738,3,01:19,MIL,,MIN,,J. Crowder,MIL,Crowder P.FOUL (P2.PN) (E.Dalen),Foul,Personal,0,0,0,0,,,h
+S2324-G0738,4,11:05,MIL,78.0,MIN,102.0,J. Crowder,MIL,Crowder 24' 3PT Jump Shot (21 PTS) (Portis 2 AST),Made Shot,Jump Shot,235,27,24,1,3.0,3.0,h
+S2324-G0738,4,05:24,MIL,,MIN,,J. Crowder,MIL,SUB: Jackson Jr. FOR Crowder,Substitution,,0,0,0,0,,,h
+S2324-G1095,1,01:28,WAS,,MIL,,J. Crowder,MIL,Crowder STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G1095,2,08:20,WAS,37.0,MIL,34.0,J. Crowder,MIL,Crowder 9' Driving Floating Jump Shot (2 PTS) (Lopez 1 AST),Made Shot,Driving Floating Jump Shot,-7,89,9,1,2.0,2.0,v
+S2324-G1095,2,08:06,WAS,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1095,2,08:00,WAS,,MIL,,J. Crowder,MIL,MISS Crowder 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,135,230,27,1,3.0,0.0,v
+S2324-G1095,2,06:18,WAS,,MIL,,J. Crowder,MIL,SUB: Beasley FOR Crowder,Substitution,,0,0,0,0,,,v
+S2324-G1095,3,01:12,WAS,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1095,3,01:06,WAS,,MIL,,J. Crowder,MIL,MISS Crowder 26' 3PT Jump Shot,Missed Shot,Jump Shot,176,196,26,1,3.0,0.0,v
+S2324-G1095,3,00:00.300000,WAS,91.0,MIL,86.0,J. Crowder,MIL,Crowder 24' 3PT Jump Shot (5 PTS) (Portis 3 AST),Made Shot,Jump Shot,-237,-6,24,1,3.0,3.0,v
+S2324-G1095,4,11:18,WAS,,MIL,,J. Crowder,MIL,MISS Crowder 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,223,73,0,1,3.0,0.0,v
+S2324-G1095,4,09:17,WAS,,MIL,,J. Crowder,MIL,MISS Crowder 3PT Jump Shot,Missed Shot,Jump Shot,224,10,0,1,3.0,0.0,v
+S2324-G1095,4,05:13,WAS,,MIL,,J. Crowder,MIL,MISS Crowder 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-211,149,26,1,3.0,0.0,v
+S2324-G1095,4,03:55,WAS,,MIL,,J. Crowder,MIL,Crowder S.FOUL (P1.T2) (M.Davis),Foul,Shooting,0,0,0,0,,,v
+S2324-G1095,4,03:55,WAS,,MIL,,J. Crowder,MIL,SUB: G. Antetokounmpo FOR Crowder,Substitution,,0,0,0,0,,,v
+S2324-G0165,1,10:08,MIL,,DET,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0165,1,07:54,MIL,9.0,DET,9.0,J. Crowder,MIL,Crowder 17' Driving Floating Jump Shot (2 PTS) (G. Antetokounmpo 2 AST),Made Shot,Driving Floating Jump Shot,-39,168,17,1,2.0,2.0,h
+S2324-G0165,1,05:06,MIL,,DET,,J. Crowder,MIL,MISS Crowder 28' 3PT Jump Shot,Missed Shot,Jump Shot,-175,218,28,1,3.0,0.0,h
+S2324-G0165,1,04:51,MIL,,DET,,J. Crowder,MIL,SUB: Connaughton FOR Crowder,Substitution,,0,0,0,0,,,h
+S2324-G0165,2,09:16,MIL,,DET,,J. Crowder,MIL,"Double Technical - Crowder, Stewart (R.Mott)",Foul,Double Technical,0,0,0,0,,,
+S2324-G0165,2,09:16,MIL,38.0,DET,27.0,J. Crowder,MIL,Crowder Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G0165,2,04:48,MIL,52.0,DET,42.0,J. Crowder,MIL,Crowder 27' 3PT Jump Shot (6 PTS) (Lillard 1 AST),Made Shot,Jump Shot,97,256,27,1,3.0,3.0,h
+S2324-G0165,2,04:14,MIL,,DET,,J. Crowder,MIL,Crowder STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0165,2,03:48,MIL,,DET,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0165,2,00:50.800000,MIL,,DET,,J. Crowder,MIL,Crowder L.B.FOUL (P1.T4) (M.Ervin),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0165,3,11:38,MIL,,DET,,J. Crowder,MIL,MISS Crowder 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-92,126,16,1,2.0,0.0,h
+S2324-G0165,3,11:19,MIL,,DET,,J. Crowder,MIL,Crowder P.FOUL (P2.T1) (S.Twardoski),Foul,Personal,0,0,0,0,,,h
+S2324-G0165,3,08:27,MIL,,DET,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0165,3,06:50,MIL,,DET,,J. Crowder,MIL,SUB: Connaughton FOR Crowder,Substitution,,0,0,0,0,,,h
+S2324-G0165,3,02:51,MIL,87.0,DET,82.0,J. Crowder,MIL,Crowder 26' 3PT Jump Shot (9 PTS) (Portis 1 AST),Made Shot,Jump Shot,130,230,26,1,3.0,3.0,h
+S2324-G0165,3,01:06,MIL,,DET,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0165,4,06:28,MIL,,DET,,J. Crowder,MIL,MISS Crowder 24' 3PT Jump Shot,Missed Shot,Jump Shot,-243,5,24,1,3.0,0.0,h
+S2324-G0165,4,00:55.500000,MIL,,DET,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0165,4,00:03.900000,MIL,,DET,,J. Crowder,MIL,MISS Crowder Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0165,4,00:03.900000,MIL,120.0,DET,118.0,J. Crowder,MIL,Crowder Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0173,1,05:41,ORL,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0173,2,06:15,ORL,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0173,2,03:02,ORL,,MIL,,J. Crowder,MIL,MISS Crowder Free Throw Technical,Free Throw,Free Throw Technical,0,0,0,0,1.0,0.0,v
+S2324-G0173,2,03:02,ORL,57.0,MIL,45.0,J. Crowder,MIL,Crowder Free Throw Technical (1 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,v
+S2324-G0173,3,04:53,ORL,,MIL,,J. Crowder,MIL,MISS Crowder 26' 3PT Jump Shot,Missed Shot,Jump Shot,58,249,26,1,3.0,0.0,v
+S2324-G0173,3,03:54,ORL,,MIL,,J. Crowder,MIL,SUB: Green FOR Crowder,Substitution,,0,0,0,0,,,v
+S2324-G0958,1,10:00,MIL,,PHI,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0958,1,06:18,MIL,,PHI,,J. Crowder,MIL,MISS Crowder 27' 3PT Jump Shot,Missed Shot,Jump Shot,51,267,27,1,3.0,0.0,h
+S2324-G0958,1,04:28,MIL,,PHI,,J. Crowder,MIL,MISS Crowder 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,36,30,5,1,2.0,0.0,h
+S2324-G0958,1,04:09,MIL,,PHI,,J. Crowder,MIL,Crowder REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0958,1,04:05,MIL,,PHI,,J. Crowder,MIL,SUB: Green FOR Crowder,Substitution,,0,0,0,0,,,h
+S2324-G0958,2,00:42.300000,MIL,51.0,PHI,55.0,J. Crowder,MIL,Crowder 24' 3PT Jump Shot (3 PTS) (Lopez 3 AST),Made Shot,Jump Shot,238,34,24,1,3.0,3.0,h
+S2324-G0958,2,00:33.800000,MIL,,PHI,,J. Crowder,MIL,Crowder P.FOUL (P1.T3) (J.Williams),Foul,Personal,0,0,0,0,,,h
+S2324-G0958,2,00:33.800000,MIL,,PHI,,J. Crowder,MIL,Crowder T.FOUL (P1.T3) (J.Williams),Foul,Technical,0,0,0,0,,,h
+S2324-G0958,3,10:20,MIL,,PHI,,J. Crowder,MIL,MISS Crowder 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-114,44,12,1,2.0,0.0,h
+S2324-G0958,3,09:21,MIL,60.0,PHI,67.0,J. Crowder,MIL,Crowder 3PT Jump Shot (6 PTS) (Lillard 5 AST),Made Shot,Jump Shot,233,6,0,1,3.0,3.0,h
+S2324-G0958,3,07:54,MIL,,PHI,,J. Crowder,MIL,MISS Crowder 26' 3PT Jump Shot,Missed Shot,Jump Shot,163,206,26,1,3.0,0.0,h
+S2324-G0958,3,07:43,MIL,,PHI,,J. Crowder,MIL,MISS Crowder 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,222,125,25,1,3.0,0.0,h
+S2324-G0958,3,05:27,MIL,67.0,PHI,72.0,J. Crowder,MIL,Crowder 3PT Jump Shot (9 PTS) (Lillard 6 AST),Made Shot,Jump Shot,233,5,0,1,3.0,3.0,h
+S2324-G0958,3,04:54,MIL,,PHI,,J. Crowder,MIL,SUB: Portis FOR Crowder,Substitution,,0,0,0,0,,,h
+S2324-G1076,2,11:34,ATL,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1076,2,10:37,ATL,30.0,MIL,37.0,J. Crowder,MIL,Crowder 18' Jump Shot (2 PTS) (Connaughton 1 AST),Made Shot,Jump Shot,181,24,18,1,2.0,2.0,v
+S2324-G1076,2,09:53,ATL,,MIL,,J. Crowder,MIL,MISS Crowder 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-150,203,25,1,3.0,0.0,v
+S2324-G1076,2,08:15,ATL,,MIL,,J. Crowder,MIL,MISS Crowder 13' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,129,20,13,1,2.0,0.0,v
+S2324-G1076,2,06:37,ATL,,MIL,,J. Crowder,MIL,MISS Crowder 25' 3PT Jump Shot,Missed Shot,Jump Shot,-172,177,25,1,3.0,0.0,v
+S2324-G1076,2,06:10,ATL,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1076,2,05:21,ATL,,MIL,,J. Crowder,MIL,SUB: Middleton FOR Crowder,Substitution,,0,0,0,0,,,v
+S2324-G1076,3,00:15.200000,ATL,74.0,MIL,87.0,J. Crowder,MIL,Crowder Free Throw 1 of 3 (3 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,v
+S2324-G1076,3,00:15.200000,ATL,74.0,MIL,88.0,J. Crowder,MIL,Crowder Free Throw 2 of 3 (4 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,v
+S2324-G1076,3,00:15.200000,ATL,74.0,MIL,89.0,J. Crowder,MIL,Crowder Free Throw 3 of 3 (5 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,v
+S2324-G1076,4,11:45,ATL,,MIL,,J. Crowder,MIL,MISS Crowder 3PT Jump Shot,Missed Shot,Jump Shot,223,-16,0,1,3.0,0.0,v
+S2324-G1076,4,11:24,ATL,,MIL,,J. Crowder,MIL,Crowder Bad Pass Turnover (P1.T10),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G1076,4,09:36,ATL,,MIL,,J. Crowder,MIL,SUB: Beverley FOR Crowder,Substitution,,0,0,0,0,,,v
+S2324-G0667,1,03:10,DEN,,MIL,,J. Crowder,MIL,Crowder STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0667,2,07:48,DEN,,MIL,,J. Crowder,MIL,MISS Crowder 3PT Jump Shot,Missed Shot,Jump Shot,-228,43,0,1,3.0,0.0,v
+S2324-G0667,2,07:34,DEN,38.0,MIL,40.0,J. Crowder,MIL,Crowder 24' 3PT Step Back Jump Shot (3 PTS) (Portis 1 AST),Made Shot,Step Back Jump shot,-244,14,24,1,3.0,3.0,v
+S2324-G0667,2,05:35,DEN,,MIL,,J. Crowder,MIL,SUB: Middleton FOR Crowder,Substitution,,0,0,0,0,,,v
+S2324-G0667,3,00:31.400000,DEN,,MIL,,J. Crowder,MIL,MISS Crowder 27' 3PT Jump Shot,Missed Shot,Jump Shot,223,155,27,1,3.0,0.0,v
+S2324-G0667,4,08:09,DEN,,MIL,,J. Crowder,MIL,Crowder S.FOUL (P1.T1) (T.Brothers),Foul,Shooting,0,0,0,0,,,v
+S2324-G0667,4,06:42,DEN,,MIL,,J. Crowder,MIL,SUB: Beasley FOR Crowder,Substitution,,0,0,0,0,,,v
+S2324-G0149,1,05:41,BKN,,MIL,,J. Crowder,MIL,Crowder Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0149,1,05:20,BKN,17.0,MIL,15.0,J. Crowder,MIL,Crowder 3PT Jump Shot (3 PTS) (Lillard 1 AST),Made Shot,Jump Shot,-233,20,0,1,3.0,3.0,v
+S2324-G0149,1,03:48,BKN,23.0,MIL,20.0,J. Crowder,MIL,Crowder 26' 3PT Step Back Jump Shot (6 PTS) (B. Lopez 1 AST),Made Shot,Step Back Jump shot,156,204,26,1,3.0,3.0,v
+S2324-G0149,2,05:45,BKN,,MIL,,J. Crowder,MIL,Crowder STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0149,2,05:32,BKN,48.0,MIL,55.0,J. Crowder,MIL,Crowder 26' 3PT Jump Shot (9 PTS) (Middleton 3 AST),Made Shot,Jump Shot,123,232,26,1,3.0,3.0,v
+S2324-G0149,2,03:25,BKN,,MIL,,J. Crowder,MIL,MISS Crowder 27' 3PT Jump Shot,Missed Shot,Jump Shot,-125,235,27,1,3.0,0.0,v
+S2324-G0149,3,06:36,BKN,,MIL,,J. Crowder,MIL,Crowder Out of Bounds Lost Ball Turnover (P2.T8),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2324-G0149,3,05:34,BKN,,MIL,,J. Crowder,MIL,MISS Crowder 25' 3PT Jump Shot,Missed Shot,Jump Shot,-143,206,25,1,3.0,0.0,v
+S2324-G0149,3,04:51,BKN,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0149,3,04:49,BKN,89.0,MIL,81.0,J. Crowder,MIL,Crowder 1' Putback Layup (11 PTS),Made Shot,Putback Layup Shot,7,3,1,1,2.0,2.0,v
+S2324-G0149,3,04:00,BKN,,MIL,,J. Crowder,MIL,MISS Crowder 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-112,235,26,1,3.0,0.0,v
+S2324-G0149,3,02:20,BKN,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0149,3,00:43.100000,BKN,93.0,MIL,94.0,J. Crowder,MIL,Crowder 24' 3PT Jump Shot (14 PTS) (Beauchamp 2 AST),Made Shot,Jump Shot,228,89,24,1,3.0,3.0,v
+S2324-G0149,3,00:27.900000,BKN,,MIL,,J. Crowder,MIL,Crowder S.FOUL (P1.T3) (M.Smith),Foul,Shooting,0,0,0,0,,,v
+S2324-G0149,3,00:01,BKN,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0149,4,07:10,BKN,,MIL,,J. Crowder,MIL,MISS Crowder 25' 3PT Jump Shot,Missed Shot,Jump Shot,-179,171,25,1,3.0,0.0,v
+S2324-G0149,4,04:57,BKN,,MIL,,J. Crowder,MIL,MISS Crowder 24' 3PT Jump Shot,Missed Shot,Jump Shot,234,40,24,1,3.0,0.0,v
+S2324-G0149,4,03:37,BKN,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0149,4,02:29,BKN,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0149,4,00:05.900000,BKN,,MIL,,J. Crowder,MIL,MISS Crowder Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0149,4,00:05.900000,BKN,125.0,MIL,129.0,J. Crowder,MIL,Crowder Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1061,1,03:14,NOP,,MIL,,J. Crowder,MIL,MISS Crowder 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,164,78,18,1,2.0,0.0,v
+S2324-G1061,1,00:32,NOP,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1061,1,00:02.300000,NOP,,MIL,,J. Crowder,MIL,MISS Crowder 3PT Jump Shot,Missed Shot,Jump Shot,228,35,0,1,3.0,0.0,v
+S2324-G1061,2,07:19,NOP,,MIL,,J. Crowder,MIL,SUB: Lopez FOR Crowder,Substitution,,0,0,0,0,,,v
+S2324-G1061,4,10:12,NOP,87.0,MIL,76.0,J. Crowder,MIL,Crowder 24' 3PT Jump Shot (3 PTS) (Lillard 6 AST),Made Shot,Jump Shot,234,60,24,1,3.0,3.0,v
+S2324-G1061,4,08:45,NOP,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1061,4,06:46,NOP,,MIL,,J. Crowder,MIL,SUB: Beasley FOR Crowder,Substitution,,0,0,0,0,,,v
+S2324-G0002,1,02:04,MIL,,NYK,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0002,1,00:58.700000,MIL,,NYK,,J. Crowder,MIL,MISS Crowder 23' Jump Shot,Missed Shot,Jump Shot,-27,228,23,1,2.0,0.0,h
+S2324-G0002,1,00:52.100000,MIL,,NYK,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0002,2,11:44,MIL,24.0,NYK,25.0,J. Crowder,MIL,Crowder 25' 3PT Jump Shot (3 PTS) (G. Antetokounmpo 1 AST),Made Shot,Jump Shot,-126,220,25,1,3.0,3.0,h
+S2324-G0002,2,11:21,MIL,,NYK,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0002,2,10:42,MIL,27.0,NYK,27.0,J. Crowder,MIL,Crowder 3PT Step Back Jump Shot (6 PTS) (Beauchamp 1 AST),Made Shot,Step Back Jump shot,-226,-8,0,1,3.0,3.0,h
+S2324-G0002,2,09:40,MIL,,NYK,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0002,2,08:51,MIL,36.0,NYK,29.0,J. Crowder,MIL,Crowder 24' 3PT Jump Shot (9 PTS) (Payne 1 AST),Made Shot,Jump Shot,-238,-13,24,1,3.0,3.0,h
+S2324-G0002,2,07:14,MIL,,NYK,,J. Crowder,MIL,Crowder STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0002,2,06:30,MIL,,NYK,,J. Crowder,MIL,Crowder S.FOUL (P1.T3) (T.Ford),Foul,Shooting,0,0,0,0,,,h
+S2324-G0002,2,05:31,MIL,,NYK,,J. Crowder,MIL,SUB: Connaughton FOR Crowder,Substitution,,0,0,0,0,,,h
+S2324-G0002,3,04:15,MIL,,NYK,,J. Crowder,MIL,MISS Crowder 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,15,24,1,3.0,0.0,h
+S2324-G0002,3,04:11,MIL,71.0,NYK,62.0,J. Crowder,MIL,Crowder 24' 3PT Jump Shot (12 PTS) (Beauchamp 2 AST),Made Shot,Jump Shot,-236,17,24,1,3.0,3.0,h
+S2324-G0002,3,03:34,MIL,,NYK,,J. Crowder,MIL,MISS Crowder 28' 3PT Jump Shot,Missed Shot,Jump Shot,154,231,28,1,3.0,0.0,h
+S2324-G0002,3,02:45,MIL,76.0,NYK,67.0,J. Crowder,MIL,Crowder 4' Cutting Layup Shot (14 PTS) (Connaughton 1 AST),Made Shot,Cutting Layup Shot,9,38,4,1,2.0,2.0,h
+S2324-G0002,3,01:12,MIL,,NYK,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0002,4,02:14,MIL,,NYK,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1107,1,10:15,MIL,,MEM,,J. Crowder,MIL,MISS Crowder 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,45,69,8,1,2.0,0.0,h
+S2324-G1107,1,09:53,MIL,,MEM,,J. Crowder,MIL,MISS Crowder 24' 3PT Jump Shot,Missed Shot,Jump Shot,-233,54,24,1,3.0,0.0,h
+S2324-G1107,1,07:35,MIL,,MEM,,J. Crowder,MIL,MISS Crowder 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-86,258,27,1,3.0,0.0,h
+S2324-G1107,1,07:22,MIL,,MEM,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1107,1,07:22,MIL,11.0,MEM,8.0,J. Crowder,MIL,Crowder Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1107,1,07:22,MIL,,MEM,,J. Crowder,MIL,MISS Crowder Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G1107,1,06:47,MIL,,MEM,,J. Crowder,MIL,MISS Crowder 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-86,10,9,1,2.0,0.0,h
+S2324-G1107,1,06:20,MIL,,MEM,,J. Crowder,MIL,Crowder REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1107,1,06:19,MIL,13.0,MEM,13.0,J. Crowder,MIL,Crowder 4' Putback Layup (3 PTS),Made Shot,Putback Layup Shot,22,28,4,1,2.0,2.0,h
+S2324-G1107,1,03:05,MIL,,MEM,,J. Crowder,MIL,SUB: Gallinari FOR Crowder,Substitution,,0,0,0,0,,,h
+S2324-G1107,2,03:38,MIL,46.0,MEM,40.0,J. Crowder,MIL,Crowder 3PT Jump Shot (6 PTS) (Beasley 2 AST),Made Shot,Jump Shot,-232,16,0,1,3.0,3.0,h
+S2324-G1107,2,01:03,MIL,,MEM,,J. Crowder,MIL,MISS Crowder 27' 3PT Jump Shot,Missed Shot,Jump Shot,-196,183,27,1,3.0,0.0,h
+S2324-G1107,3,11:43,MIL,,MEM,,J. Crowder,MIL,MISS Crowder 24' 3PT Jump Shot,Missed Shot,Jump Shot,237,51,24,1,3.0,0.0,h
+S2324-G1107,3,07:28,MIL,,MEM,,J. Crowder,MIL,Crowder BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G1107,3,04:15,MIL,,MEM,,J. Crowder,MIL,SUB: Green FOR Crowder,Substitution,,0,0,0,0,,,h
+S2324-G1107,4,00:59.300000,MIL,,MEM,,J. Crowder,MIL,SUB: Green FOR Crowder,Substitution,,0,0,0,0,,,h
+S2324-G0624,1,04:22,MIL,,CLE,,J. Crowder,MIL,Crowder P.FOUL (P1.T2) (D.Scott),Foul,Personal,0,0,0,0,,,h
+S2324-G0624,1,03:41,MIL,,CLE,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0624,1,01:42,MIL,29.0,CLE,20.0,J. Crowder,MIL,Crowder 25' 3PT Jump Shot (3 PTS) (G. Antetokounmpo 1 AST),Made Shot,Jump Shot,124,222,25,1,3.0,3.0,h
+S2324-G0624,2,03:56,MIL,,CLE,,J. Crowder,MIL,Crowder REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0624,2,03:15,MIL,,CLE,,J. Crowder,MIL,Crowder Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0624,2,02:24,MIL,,CLE,,J. Crowder,MIL,MISS Crowder 25' 3PT Jump Shot,Missed Shot,Jump Shot,-104,230,25,1,3.0,0.0,h
+S2324-G0624,2,02:09,MIL,,CLE,,J. Crowder,MIL,Crowder Backcourt Turnover (P2.T6),Turnover,Backcourt Turnover,0,0,0,0,,,h
+S2324-G0624,2,02:09,MIL,,CLE,,J. Crowder,MIL,SUB: Middleton FOR Crowder,Substitution,,0,0,0,0,,,h
+S2324-G0624,3,04:38,MIL,,CLE,,J. Crowder,MIL,Crowder REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0624,3,04:19,MIL,,CLE,,J. Crowder,MIL,Crowder OFF.Foul (P2) (D.Scott),Foul,Offensive,0,0,0,0,,,h
+S2324-G0624,3,04:19,MIL,,CLE,,J. Crowder,MIL,Crowder Offensive Foul Turnover (P3.T8),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0171,1,05:43,IND,25.0,MIL,9.0,J. Crowder,MIL,Crowder 3' Cutting Layup Shot (2 PTS) (Portis 1 AST),Made Shot,Cutting Layup Shot,-21,15,3,1,2.0,2.0,v
+S2324-G0171,1,02:36,IND,,MIL,,J. Crowder,MIL,Crowder STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0171,1,02:30,IND,,MIL,,J. Crowder,MIL,SUB: Jackson Jr. FOR Crowder,Substitution,,0,0,0,0,,,v
+S2324-G0171,2,05:52,IND,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0171,2,05:29,IND,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0171,2,04:15,IND,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0171,2,01:37,IND,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0171,3,01:39,IND,90.0,MIL,94.0,J. Crowder,MIL,Crowder 24' 3PT Jump Shot (5 PTS) (Beauchamp 2 AST),Made Shot,Jump Shot,235,30,24,1,3.0,3.0,v
+S2324-G0171,4,07:51,IND,,MIL,,J. Crowder,MIL,Crowder P.FOUL (P1.T2) (K.Cutler),Foul,Personal,0,0,0,0,,,v
+S2324-G0171,4,00:02.300000,IND,,MIL,,J. Crowder,MIL,Crowder Personal Take Foul (P2.PN) (K.Cutler),Foul,Personal Take,0,0,0,0,,,v
+S2324-G0864,1,09:49,CHI,,MIL,,J. Crowder,MIL,Crowder STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0864,1,07:40,CHI,,MIL,,J. Crowder,MIL,Crowder P.FOUL (P1.T1) (J.DeRosa),Foul,Personal,0,0,0,0,,,v
+S2324-G0864,1,05:08,CHI,,MIL,,J. Crowder,MIL,Crowder STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0864,1,04:58,CHI,,MIL,,J. Crowder,MIL,MISS Crowder 26' 3PT Jump Shot,Missed Shot,Jump Shot,-92,243,26,1,3.0,0.0,v
+S2324-G0864,1,04:40,CHI,,MIL,,J. Crowder,MIL,SUB: Portis FOR Crowder,Substitution,,0,0,0,0,,,v
+S2324-G0864,2,05:00,CHI,,MIL,,J. Crowder,MIL,Crowder S.FOUL (P2.PN) (J.DeRosa),Foul,Shooting,0,0,0,0,,,v
+S2324-G0864,2,02:54,CHI,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0864,2,00:00.500000,CHI,44.0,MIL,58.0,J. Crowder,MIL,Crowder 25' 3PT Jump Shot (3 PTS) (Lillard 5 AST),Made Shot,Jump Shot,-229,107,25,1,3.0,3.0,v
+S2324-G0864,3,09:56,CHI,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0864,3,07:23,CHI,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0864,3,06:03,CHI,,MIL,,J. Crowder,MIL,Crowder L.B.FOUL (P3.T1) (J.Tiven),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0864,3,05:26,CHI,,MIL,,J. Crowder,MIL,Crowder Violation:Kicked Ball (M.Myers),Violation,Kicked Ball,0,0,0,0,,,v
+S2324-G0864,3,02:48,CHI,,MIL,,J. Crowder,MIL,SUB: Connaughton FOR Crowder,Substitution,,0,0,0,0,,,v
+S2324-G0075,1,05:57,MIL,17.0,PHI,9.0,J. Crowder,MIL,Crowder 16' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,18,159,16,1,2.0,2.0,h
+S2324-G0075,1,05:47,MIL,,PHI,,J. Crowder,MIL,Crowder S.FOUL (P1.T2) (B.Barnaky),Foul,Shooting,0,0,0,0,,,h
+S2324-G0075,1,05:44,MIL,,PHI,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0075,1,03:44,MIL,,PHI,,J. Crowder,MIL,MISS Crowder 3' Running Layup,Missed Shot,Running Layup Shot,-16,22,3,1,2.0,0.0,h
+S2324-G0075,1,00:18.900000,MIL,,PHI,,J. Crowder,MIL,Crowder STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0075,2,11:07,MIL,,PHI,,J. Crowder,MIL,SUB: Middleton FOR Crowder,Substitution,,0,0,0,0,,,h
+S2324-G0075,2,07:03,MIL,,PHI,,J. Crowder,MIL,Crowder STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0075,2,05:27,MIL,,PHI,,J. Crowder,MIL,Crowder P.FOUL (P2.PN) (E.Scott),Foul,Personal,0,0,0,0,,,h
+S2324-G0075,2,05:03,MIL,,PHI,,J. Crowder,MIL,Crowder P.FOUL (P3.PN) (E.Scott),Foul,Personal,0,0,0,0,,,h
+S2324-G0075,2,05:03,MIL,,PHI,,J. Crowder,MIL,SUB: Connaughton FOR Crowder,Substitution,,0,0,0,0,,,h
+S2324-G0075,3,05:58,MIL,,PHI,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0075,3,05:56,MIL,,PHI,,J. Crowder,MIL,Crowder Bad Pass Turnover (P1.T10),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0075,3,03:45,MIL,82.0,PHI,72.0,J. Crowder,MIL,Crowder 19' Jump Shot (4 PTS) (Portis 2 AST),Made Shot,Jump Shot,192,23,19,1,2.0,2.0,h
+S2324-G0075,3,02:17,MIL,83.0,PHI,80.0,J. Crowder,MIL,Crowder Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0075,3,02:17,MIL,84.0,PHI,80.0,J. Crowder,MIL,Crowder Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0075,3,01:53,MIL,,PHI,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0075,4,05:40,MIL,100.0,PHI,102.0,J. Crowder,MIL,Crowder 28' 3PT Running Jump Shot (9 PTS) (Beasley 3 AST),Made Shot,Running Jump Shot,-140,244,28,1,3.0,3.0,h
+S2324-G0075,4,04:50,MIL,,PHI,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0976,1,09:28,MIL,6.0,PHX,9.0,J. Crowder,MIL,Crowder 24' 3PT Jump Shot (3 PTS) (Lillard 1 AST),Made Shot,Jump Shot,243,26,24,1,3.0,3.0,h
+S2324-G0976,1,05:18,MIL,,PHX,,J. Crowder,MIL,Crowder STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0976,1,05:12,MIL,21.0,PHX,20.0,J. Crowder,MIL,Crowder 25' 3PT Running Jump Shot (6 PTS) (Beasley 1 AST),Made Shot,Running Jump Shot,227,116,25,1,3.0,3.0,h
+S2324-G0976,1,03:47,MIL,27.0,PHX,24.0,J. Crowder,MIL,Crowder 15' Driving Floating Jump Shot (8 PTS) (Beasley 2 AST),Made Shot,Driving Floating Jump Shot,-152,11,15,1,2.0,2.0,h
+S2324-G0976,1,02:21,MIL,,PHX,,J. Crowder,MIL,MISS Crowder 24' 3PT Jump Shot,Missed Shot,Jump Shot,-234,51,24,1,3.0,0.0,h
+S2324-G0976,1,01:54,MIL,,PHX,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0976,1,01:54,MIL,,PHX,,J. Crowder,MIL,SUB: Beverley FOR Crowder,Substitution,,0,0,0,0,,,h
+S2324-G0976,2,05:27,MIL,,PHX,,J. Crowder,MIL,MISS Crowder 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,34,78,9,1,2.0,0.0,h
+S2324-G0976,2,03:36,MIL,,PHX,,J. Crowder,MIL,Crowder STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0976,2,02:43,MIL,,PHX,,J. Crowder,MIL,Crowder STEAL (3 STL),,,0,0,0,0,,,h
+S2324-G0976,2,01:39,MIL,74.0,PHX,55.0,J. Crowder,MIL,Crowder 10' Jump Shot (10 PTS) (Lillard 11 AST),Made Shot,Jump Shot,100,-8,10,1,2.0,2.0,h
+S2324-G0976,3,11:41,MIL,,PHX,,J. Crowder,MIL,MISS Crowder 3PT Jump Shot,Missed Shot,Jump Shot,-233,-9,0,1,3.0,0.0,h
+S2324-G0976,3,09:09,MIL,,PHX,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0976,3,08:02,MIL,,PHX,,J. Crowder,MIL,Crowder S.FOUL (P1.T2) (J.Capers),Foul,Shooting,0,0,0,0,,,h
+S2324-G0976,3,03:43,MIL,,PHX,,J. Crowder,MIL,SUB: Beverley FOR Crowder,Substitution,,0,0,0,0,,,h
+S2324-G0976,4,05:23,MIL,128.0,PHX,117.0,J. Crowder,MIL,Crowder 29' 3PT Jump Shot (13 PTS) (Beverley 4 AST),Made Shot,Jump Shot,-168,233,29,1,3.0,3.0,h
+S2324-G0976,4,04:26,MIL,131.0,PHX,120.0,J. Crowder,MIL,Crowder 3PT Running Jump Shot (16 PTS) (Lillard 15 AST),Made Shot,Running Jump Shot,229,-6,0,1,3.0,3.0,h
+S2324-G0976,4,03:39,MIL,,PHX,,J. Crowder,MIL,MISS Crowder 15' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,146,-8,15,1,2.0,0.0,h
+S2324-G0976,4,02:46,MIL,136.0,PHX,122.0,J. Crowder,MIL,Crowder 13' Floating Jump Shot (18 PTS) (Lillard 16 AST),Made Shot,Floating Jump shot,-50,121,13,1,2.0,2.0,h
+S2324-G0998,1,10:57,BOS,2.0,MIL,2.0,J. Crowder,MIL,Crowder 17' Step Back Jump Shot (2 PTS) (Middleton 1 AST),Made Shot,Step Back Jump shot,72,156,17,1,2.0,2.0,v
+S2324-G0998,1,08:48,BOS,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0998,1,08:01,BOS,,MIL,,J. Crowder,MIL,Crowder Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0998,1,07:46,BOS,17.0,MIL,12.0,J. Crowder,MIL,Crowder 3' Cutting Layup Shot (4 PTS) (Middleton 3 AST),Made Shot,Cutting Layup Shot,-22,20,3,1,2.0,2.0,v
+S2324-G0998,1,07:07,BOS,,MIL,,J. Crowder,MIL,MISS Crowder 3PT Jump Shot,Missed Shot,Jump Shot,-233,25,0,1,3.0,0.0,v
+S2324-G0998,1,06:33,BOS,,MIL,,J. Crowder,MIL,Crowder S.FOUL (P1.T2) (S.Foster),Foul,Shooting,0,0,0,0,,,v
+S2324-G0998,1,04:19,BOS,,MIL,,J. Crowder,MIL,MISS Crowder 25' 3PT Jump Shot,Missed Shot,Jump Shot,208,142,25,1,3.0,0.0,v
+S2324-G0998,1,02:48,BOS,,MIL,,J. Crowder,MIL,SUB: Gallinari FOR Crowder,Substitution,,0,0,0,0,,,v
+S2324-G0998,2,05:15,BOS,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0998,2,05:01,BOS,,MIL,,J. Crowder,MIL,Crowder P.FOUL (P2.T2) (M.Boland),Foul,Personal,0,0,0,0,,,v
+S2324-G0998,2,03:53,BOS,58.0,MIL,43.0,J. Crowder,MIL,Crowder 3PT Jump Shot (7 PTS) (Lopez 2 AST),Made Shot,Jump Shot,-232,34,0,1,3.0,3.0,v
+S2324-G0998,2,03:33,BOS,,MIL,,J. Crowder,MIL,Crowder S.FOUL (P3.T3) (S.Foster),Foul,Shooting,0,0,0,0,,,v
+S2324-G0998,2,03:25,BOS,,MIL,,J. Crowder,MIL,SUB: Middleton FOR Crowder,Substitution,,0,0,0,0,,,v
+S2324-G0998,3,09:47,BOS,,MIL,,J. Crowder,MIL,Crowder P.FOUL (P4.T1) (M.Boland),Foul,Personal,0,0,0,0,,,v
+S2324-G0998,3,08:40,BOS,,MIL,,J. Crowder,MIL,SUB: Portis FOR Crowder,Substitution,,0,0,0,0,,,v
+S2324-G0648,1,09:20,MIL,,NOP,,J. Crowder,MIL,MISS Crowder 3PT Jump Shot,Missed Shot,Jump Shot,-234,12,0,1,3.0,0.0,h
+S2324-G0648,1,08:57,MIL,,NOP,,J. Crowder,MIL,MISS Crowder 3PT Jump Shot,Missed Shot,Jump Shot,-233,10,0,1,3.0,0.0,h
+S2324-G0648,1,05:07,MIL,20.0,NOP,17.0,J. Crowder,MIL,Crowder 26' 3PT Jump Shot (3 PTS) (Portis 1 AST),Made Shot,Jump Shot,-50,258,26,1,3.0,3.0,h
+S2324-G0648,1,04:06,MIL,,NOP,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0648,1,02:12,MIL,,NOP,,J. Crowder,MIL,Crowder P.FOUL (P1.T1) (K.Lane),Foul,Personal,0,0,0,0,,,h
+S2324-G0648,1,02:12,MIL,,NOP,,J. Crowder,MIL,SUB: Connaughton FOR Crowder,Substitution,,0,0,0,0,,,h
+S2324-G0648,2,06:09,MIL,,NOP,,J. Crowder,MIL,Crowder REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0648,2,05:57,MIL,,NOP,,J. Crowder,MIL,Crowder S.FOUL (P2.T4) (K.Lane),Foul,Shooting,0,0,0,0,,,h
+S2324-G0648,2,05:54,MIL,,NOP,,J. Crowder,MIL,Crowder REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0648,2,02:25,MIL,,NOP,,J. Crowder,MIL,MISS Crowder 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,138,226,26,1,3.0,0.0,h
+S2324-G0648,2,00:33.100000,MIL,,NOP,,J. Crowder,MIL,Crowder S.FOUL (P3.PN) (S.Wright),Foul,Shooting,0,0,0,0,,,h
+S2324-G0648,2,00:33.100000,MIL,,NOP,,J. Crowder,MIL,SUB: Connaughton FOR Crowder,Substitution,,0,0,0,0,,,h
+S2324-G0648,3,10:36,MIL,,NOP,,J. Crowder,MIL,Crowder REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0648,3,06:36,MIL,90.0,NOP,67.0,J. Crowder,MIL,Crowder 17' Driving Floating Jump Shot (5 PTS) (Lillard 7 AST),Made Shot,Driving Floating Jump Shot,78,147,17,1,2.0,2.0,h
+S2324-G0648,3,05:34,MIL,,NOP,,J. Crowder,MIL,SUB: Connaughton FOR Crowder,Substitution,,0,0,0,0,,,h
+S2324-G0808,1,11:43,MIN,,MIL,,J. Crowder,MIL,Crowder STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0808,1,08:47,MIN,,MIL,,J. Crowder,MIL,MISS Crowder 3PT Jump Shot,Missed Shot,Jump Shot,230,1,0,1,3.0,0.0,v
+S2324-G0808,1,07:18,MIN,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0808,1,06:40,MIN,,MIL,,J. Crowder,MIL,MISS Crowder 3PT Jump Shot,Missed Shot,Jump Shot,-224,13,0,1,3.0,0.0,v
+S2324-G0808,1,05:48,MIN,,MIL,,J. Crowder,MIL,SUB: Connaughton FOR Crowder,Substitution,,0,0,0,0,,,v
+S2324-G0808,2,07:51,MIN,,MIL,,J. Crowder,MIL,Crowder S.FOUL (P1.PN) (J.Capers),Foul,Shooting,0,0,0,0,,,v
+S2324-G0808,2,06:30,MIN,,MIL,,J. Crowder,MIL,MISS Crowder 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-60,42,7,1,2.0,0.0,v
+S2324-G0808,2,06:25,MIN,,MIL,,J. Crowder,MIL,Crowder S.FOUL (P2.PN) (J.Capers),Foul,Shooting,0,0,0,0,,,v
+S2324-G0808,2,06:02,MIN,,MIL,,J. Crowder,MIL,MISS Crowder 26' 3PT Jump Shot,Missed Shot,Jump Shot,208,148,26,1,3.0,0.0,v
+S2324-G0808,2,05:39,MIN,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0808,2,05:21,MIN,,MIL,,J. Crowder,MIL,Crowder BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0808,2,02:56,MIN,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0808,2,02:02,MIN,,MIL,,J. Crowder,MIL,Crowder Violation:Kicked Ball (S.Mitchell),Violation,Kicked Ball,0,0,0,0,,,v
+S2324-G0808,2,01:33,MIN,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0808,3,09:27,MIN,,MIL,,J. Crowder,MIL,Crowder L.B.FOUL (P3.T1) (J.Capers),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0808,3,06:51,MIN,,MIL,,J. Crowder,MIL,Crowder STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0808,3,06:47,MIN,,MIL,,J. Crowder,MIL,Crowder Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0808,3,06:40,MIN,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0808,3,04:18,MIN,,MIL,,J. Crowder,MIL,SUB: Connaughton FOR Crowder,Substitution,,0,0,0,0,,,v
+S2324-G0808,4,07:59,MIN,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0808,4,06:27,MIN,,MIL,,J. Crowder,MIL,SUB: Beasley FOR Crowder,Substitution,,0,0,0,0,,,v
+S2324-G0808,4,03:56,MIN,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0808,4,03:53,MIN,,MIL,,J. Crowder,MIL,Crowder Bad Pass Turnover (P2.T10),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0808,4,00:35.500000,MIN,104.0,MIL,110.0,J. Crowder,MIL,Crowder 2' Layup (2 PTS) (G. Antetokounmpo 5 AST),Made Shot,Layup Shot,11,22,2,1,2.0,2.0,v
+S2324-G0849,1,09:56,CHA,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0849,1,08:52,CHA,,MIL,,J. Crowder,MIL,MISS Crowder 20' Jump Shot,Missed Shot,Jump Shot,202,14,20,1,2.0,0.0,v
+S2324-G0849,1,08:42,CHA,,MIL,,J. Crowder,MIL,Crowder STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0849,1,04:46,CHA,,MIL,,J. Crowder,MIL,SUB: Connaughton FOR Crowder,Substitution,,0,0,0,0,,,v
+S2324-G0849,2,05:13,CHA,,MIL,,J. Crowder,MIL,Crowder S.FOUL (P1.T3) (E.Malloy),Foul,Shooting,0,0,0,0,,,v
+S2324-G0849,2,05:09,CHA,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0849,2,03:00,CHA,47.0,MIL,61.0,J. Crowder,MIL,Crowder 7' Driving Floating Jump Shot (2 PTS) (Lopez 3 AST),Made Shot,Driving Floating Jump Shot,-7,66,7,1,2.0,2.0,v
+S2324-G0849,2,02:44,CHA,,MIL,,J. Crowder,MIL,Crowder STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0849,2,02:31,CHA,,MIL,,J. Crowder,MIL,MISS Crowder 24' 3PT Jump Shot,Missed Shot,Jump Shot,180,166,24,1,3.0,0.0,v
+S2324-G0849,2,00:21.700000,CHA,,MIL,,J. Crowder,MIL,Crowder S.FOUL (P2.PN) (M.Smith),Foul,Shooting,0,0,0,0,,,v
+S2324-G0849,3,11:38,CHA,51.0,MIL,72.0,J. Crowder,MIL,Crowder 5' Layup (4 PTS) (Lopez 4 AST),Made Shot,Layup Shot,-40,22,5,1,2.0,2.0,v
+S2324-G0849,3,08:03,CHA,,MIL,,J. Crowder,MIL,MISS Crowder 3PT Jump Shot,Missed Shot,Jump Shot,-230,18,0,1,3.0,0.0,v
+S2324-G0849,3,07:31,CHA,,MIL,,J. Crowder,MIL,Crowder P.FOUL (P3.T1) (M.Smith),Foul,Personal,0,0,0,0,,,v
+S2324-G0849,3,06:16,CHA,,MIL,,J. Crowder,MIL,Crowder S.FOUL (P4.T2) (E.Malloy),Foul,Shooting,0,0,0,0,,,v
+S2324-G0849,3,06:02,CHA,,MIL,,J. Crowder,MIL,Crowder Out of Bounds Lost Ball Turnover (P1.T4),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2324-G0849,3,04:10,CHA,,MIL,,J. Crowder,MIL,SUB: Beverley FOR Crowder,Substitution,,0,0,0,0,,,v
+S2324-G0097,1,11:20,MIL,,ATL,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0097,1,07:47,MIL,,ATL,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0097,1,07:18,MIL,,ATL,,J. Crowder,MIL,MISS Crowder 24' 3PT Jump Shot,Missed Shot,Jump Shot,-240,8,24,1,3.0,0.0,h
+S2324-G0097,1,03:31,MIL,,ATL,,J. Crowder,MIL,SUB: G. Antetokounmpo FOR Crowder,Substitution,,0,0,0,0,,,h
+S2324-G0097,2,09:21,MIL,,ATL,,J. Crowder,MIL,Crowder BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0097,2,06:30,MIL,,ATL,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0097,2,04:00,MIL,,ATL,,J. Crowder,MIL,MISS Crowder 3PT Jump Shot,Missed Shot,Jump Shot,233,1,0,1,3.0,0.0,h
+S2324-G0097,2,02:29,MIL,,ATL,,J. Crowder,MIL,SUB: Payne FOR Crowder,Substitution,,0,0,0,0,,,h
+S2324-G0097,3,11:04,MIL,,ATL,,J. Crowder,MIL,MISS Crowder 29' 3PT Jump Shot,Missed Shot,Jump Shot,170,232,29,1,3.0,0.0,h
+S2324-G0097,3,03:11,MIL,,ATL,,J. Crowder,MIL,Crowder S.FOUL (P1.T4) (T.Maddox),Foul,Shooting,0,0,0,0,,,h
+S2324-G0097,3,02:27,MIL,75.0,ATL,93.0,J. Crowder,MIL,Crowder 9' Cutting Layup Shot (2 PTS) (Payne 1 AST),Made Shot,Cutting Layup Shot,1,92,9,1,2.0,2.0,h
+S2324-G0097,3,01:42,MIL,,ATL,,J. Crowder,MIL,SUB: G. Antetokounmpo FOR Crowder,Substitution,,0,0,0,0,,,h
+S2324-G0107,1,05:20,MIL,,MIA,,J. Crowder,MIL,Crowder OFF.Foul (P1) (D.Collins),Foul,Offensive,0,0,0,0,,,h
+S2324-G0107,1,05:20,MIL,,MIA,,J. Crowder,MIL,Crowder Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0107,1,04:22,MIL,,MIA,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0107,1,03:23,MIL,,MIA,,J. Crowder,MIL,Crowder S.FOUL (P2.PN) (D.Collins),Foul,Shooting,0,0,0,0,,,h
+S2324-G0107,1,02:41,MIL,,MIA,,J. Crowder,MIL,SUB: G. Antetokounmpo FOR Crowder,Substitution,,0,0,0,0,,,h
+S2324-G0107,2,07:48,MIL,,MIA,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0107,2,06:45,MIL,48.0,MIA,36.0,J. Crowder,MIL,Crowder 2' Cutting Layup Shot (2 PTS) (Lillard 2 AST),Made Shot,Cutting Layup Shot,-15,3,2,1,2.0,2.0,h
+S2324-G0107,2,05:35,MIL,,MIA,,J. Crowder,MIL,MISS Crowder 19' Jump Shot,Missed Shot,Jump Shot,163,95,19,1,2.0,0.0,h
+S2324-G0107,2,04:47,MIL,,MIA,,J. Crowder,MIL,Crowder BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0107,2,02:58,MIL,,MIA,,J. Crowder,MIL,MISS Crowder 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-10,19,2,1,2.0,0.0,h
+S2324-G0107,2,01:31,MIL,,MIA,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0107,2,00:00.200000,MIL,62.0,MIA,52.0,J. Crowder,MIL,Crowder 24' 3PT Jump Shot (5 PTS) (Beasley 2 AST),Made Shot,Jump Shot,-56,236,24,1,3.0,3.0,h
+S2324-G0107,3,05:31,MIL,,MIA,,J. Crowder,MIL,Crowder Violation:Kicked Ball (T.Washington),Violation,Kicked Ball,0,0,0,0,,,h
+S2324-G0107,3,03:42,MIL,,MIA,,J. Crowder,MIL,MISS Crowder 24' 3PT Jump Shot,Missed Shot,Jump Shot,-237,11,24,1,3.0,0.0,h
+S2324-G0107,3,01:59,MIL,88.0,MIA,71.0,J. Crowder,MIL,Crowder 24' 3PT Jump Shot (8 PTS) (Portis 2 AST),Made Shot,Jump Shot,235,25,24,1,3.0,3.0,h
+S2324-G0107,3,01:36,MIL,,MIA,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0107,3,01:32,MIL,,MIA,,J. Crowder,MIL,SUB: G. Antetokounmpo FOR Crowder,Substitution,,0,0,0,0,,,h
+S2324-G0107,4,05:33,MIL,,MIA,,J. Crowder,MIL,Crowder STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0107,4,02:58,MIL,,MIA,,J. Crowder,MIL,Crowder REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0107,4,02:56,MIL,,MIA,,J. Crowder,MIL,MISS Crowder 4' Putback Layup,Missed Shot,Putback Layup Shot,9,37,4,1,2.0,0.0,h
+S2324-G0767,1,11:31,MIL,,DEN,,J. Crowder,MIL,MISS Crowder 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,5,34,3,1,2.0,0.0,h
+S2324-G0767,1,07:43,MIL,,DEN,,J. Crowder,MIL,Crowder STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0767,1,06:56,MIL,,DEN,,J. Crowder,MIL,Crowder Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0767,1,03:12,MIL,,DEN,,J. Crowder,MIL,SUB: Connaughton FOR Crowder,Substitution,,0,0,0,0,,,h
+S2324-G0767,2,05:17,MIL,,DEN,,J. Crowder,MIL,MISS Crowder 25' 3PT Jump Shot,Missed Shot,Jump Shot,-237,80,25,1,3.0,0.0,h
+S2324-G0767,2,05:00,MIL,,DEN,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0767,2,03:28,MIL,54.0,DEN,33.0,J. Crowder,MIL,Crowder 9' Driving Floating Jump Shot (2 PTS) (Beverley 3 AST),Made Shot,Driving Floating Jump Shot,48,78,9,1,2.0,2.0,h
+S2324-G0767,2,00:04.400000,MIL,,DEN,,J. Crowder,MIL,MISS Crowder 26' 3PT Jump Shot,Missed Shot,Jump Shot,225,121,26,1,3.0,0.0,h
+S2324-G0767,3,05:17,MIL,,DEN,,J. Crowder,MIL,Crowder STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0767,3,04:09,MIL,,DEN,,J. Crowder,MIL,SUB: Connaughton FOR Crowder,Substitution,,0,0,0,0,,,h
+S2324-G0116,1,04:28,TOR,,MIL,,J. Crowder,MIL,Crowder P.FOUL (P1.T1) (J.DeRosa),Foul,Personal,0,0,0,0,,,v
+S2324-G0116,1,01:23,TOR,,MIL,,J. Crowder,MIL,MISS Crowder 26' 3PT Jump Shot,Missed Shot,Jump Shot,-87,247,26,1,3.0,0.0,v
+S2324-G0116,2,04:00,TOR,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0116,2,03:06,TOR,,MIL,,J. Crowder,MIL,MISS Crowder 2' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,18,12,2,1,2.0,0.0,v
+S2324-G0116,2,01:55,TOR,,MIL,,J. Crowder,MIL,Crowder BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0116,3,07:54,TOR,75.0,MIL,57.0,J. Crowder,MIL,Crowder 26' 3PT Jump Shot (3 PTS) (Lillard 4 AST),Made Shot,Jump Shot,-22,262,26,1,3.0,3.0,v
+S2324-G0116,3,07:11,TOR,75.0,MIL,60.0,J. Crowder,MIL,Crowder 26' 3PT Step Back Jump Shot (6 PTS),Made Shot,Step Back Jump shot,98,241,26,1,3.0,3.0,v
+S2324-G0116,3,06:01,TOR,,MIL,,J. Crowder,MIL,SUB: Connaughton FOR Crowder,Substitution,,0,0,0,0,,,v
+S2324-G0116,3,03:35,TOR,,MIL,,J. Crowder,MIL,Crowder S.FOUL (P2.PN) (J.DeRosa),Foul,Shooting,0,0,0,0,,,v
+S2324-G0116,3,02:59,TOR,88.0,MIL,70.0,J. Crowder,MIL,Crowder 9' Floating Jump Shot (8 PTS) (Portis 1 AST),Made Shot,Floating Jump shot,13,94,9,1,2.0,2.0,v
+S2324-G0116,3,01:37,TOR,,MIL,,J. Crowder,MIL,SUB: G. Antetokounmpo FOR Crowder,Substitution,,0,0,0,0,,,v
+S2324-G0116,4,06:42,TOR,,MIL,,J. Crowder,MIL,MISS Crowder Free Throw 1 of 3,Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,0.0,v
+S2324-G0116,4,06:42,TOR,115.0,MIL,92.0,J. Crowder,MIL,Crowder Free Throw 2 of 3 (9 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,v
+S2324-G0116,4,06:42,TOR,,MIL,,J. Crowder,MIL,MISS Crowder Free Throw 3 of 3,Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,0.0,v
+S2324-G0116,4,06:21,TOR,,MIL,,J. Crowder,MIL,SUB: Jackson Jr. FOR Crowder,Substitution,,0,0,0,0,,,v
+S2324-G0880,1,08:10,MIL,11.0,LAC,7.0,J. Crowder,MIL,Crowder 24' 3PT Jump Shot (3 PTS) (Beasley 1 AST),Made Shot,Jump Shot,-237,-1,24,1,3.0,3.0,h
+S2324-G0880,1,04:41,MIL,,LAC,,J. Crowder,MIL,MISS Crowder 24' 3PT Jump Shot,Missed Shot,Jump Shot,-237,-4,24,1,3.0,0.0,h
+S2324-G0880,1,04:37,MIL,,LAC,,J. Crowder,MIL,SUB: Portis FOR Crowder,Substitution,,0,0,0,0,,,h
+S2324-G0880,2,02:14,MIL,,LAC,,J. Crowder,MIL,Crowder REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0880,2,01:20,MIL,,LAC,,J. Crowder,MIL,Crowder P.FOUL (P1.T3) (C.Blair),Foul,Personal,0,0,0,0,,,h
+S2324-G0880,2,00:37.800000,MIL,,LAC,,J. Crowder,MIL,MISS Crowder 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,123,226,26,1,3.0,0.0,h
+S2324-G0880,3,08:39,MIL,,LAC,,J. Crowder,MIL,MISS Crowder 4' Running Layup,Missed Shot,Running Layup Shot,37,4,4,1,2.0,0.0,h
+S2324-G0880,3,08:02,MIL,,LAC,,J. Crowder,MIL,Crowder REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0880,3,07:39,MIL,,LAC,,J. Crowder,MIL,SUB: Connaughton FOR Crowder,Substitution,,0,0,0,0,,,h
+S2324-G1045,1,01:07,MIL,,LAL,,J. Crowder,MIL,Crowder S.FOUL (P1.T3) (A.Smith),Foul,Shooting,0,0,0,0,,,h
+S2324-G1045,1,00:50.600000,MIL,,LAL,,J. Crowder,MIL,MISS Crowder 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,20,109,11,1,2.0,0.0,h
+S2324-G1045,2,07:29,MIL,,LAL,,J. Crowder,MIL,SUB: Lillard FOR Crowder,Substitution,,0,0,0,0,,,h
+S2324-G1045,3,02:00,MIL,84.0,LAL,71.0,J. Crowder,MIL,Crowder 3PT Jump Shot (3 PTS) (Connaughton 6 AST),Made Shot,Jump Shot,230,-5,0,1,3.0,3.0,h
+S2324-G1045,3,00:04.100000,MIL,,LAL,,J. Crowder,MIL,MISS Crowder 27' 3PT Jump Shot,Missed Shot,Jump Shot,125,239,27,1,3.0,0.0,h
+S2324-G1045,4,10:47,MIL,,LAL,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1045,4,10:00,MIL,,LAL,,J. Crowder,MIL,Crowder STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1045,4,09:54,MIL,92.0,LAL,74.0,J. Crowder,MIL,Crowder 1' Running Reverse Layup (5 PTS) (Connaughton 8 AST),Made Shot,Running Reverse Layup Shot,-4,8,1,1,2.0,2.0,h
+S2324-G1045,4,09:52,MIL,,LAL,,J. Crowder,MIL,Crowder AWAY.FROM.PLAY.FOUL (P2.T1) (A.Smith),Foul,Away From Play,0,0,0,0,,,h
+S2324-G1045,4,08:35,MIL,,LAL,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1045,4,06:56,MIL,,LAL,,J. Crowder,MIL,SUB: G. Antetokounmpo FOR Crowder,Substitution,,0,0,0,0,,,h
+S2324-G1045,5,00:03.100000,MIL,,LAL,,J. Crowder,MIL,SUB: Portis FOR Crowder,Substitution,,0,0,0,0,,,h
+S2324-G1045,6,00:14.700000,MIL,,LAL,,J. Crowder,MIL,SUB: Middleton FOR Crowder,Substitution,,0,0,0,0,,,h
+S2324-G1045,6,00:01.700000,MIL,,LAL,,J. Crowder,MIL,SUB: Connaughton FOR Crowder,Substitution,,0,0,0,0,,,h
+S2324-G0711,1,07:39,UTA,,MIL,,J. Crowder,MIL,MISS Crowder 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-188,20,19,1,2.0,0.0,v
+S2324-G0711,1,07:19,UTA,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0711,1,06:30,UTA,,MIL,,J. Crowder,MIL,SUB: Green FOR Crowder,Substitution,,0,0,0,0,,,v
+S2324-G0711,1,00:27.700000,UTA,,MIL,,J. Crowder,MIL,MISS Crowder 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-91,-1,9,1,2.0,0.0,v
+S2324-G0711,1,00:00,UTA,,MIL,,J. Crowder,MIL,MISS Crowder 28' 3PT Jump Shot,Missed Shot,Jump Shot,159,233,28,1,3.0,0.0,v
+S2324-G0711,2,11:45,UTA,,MIL,,J. Crowder,MIL,MISS Crowder 26' 3PT Jump Shot,Missed Shot,Jump Shot,87,242,26,1,3.0,0.0,v
+S2324-G0711,2,08:11,UTA,34.0,MIL,43.0,J. Crowder,MIL,Crowder 3PT Jump Shot (3 PTS) (G. Antetokounmpo 4 AST),Made Shot,Jump Shot,-230,22,0,1,3.0,3.0,v
+S2324-G0711,2,07:55,UTA,,MIL,,J. Crowder,MIL,Crowder STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0711,2,07:35,UTA,,MIL,,J. Crowder,MIL,SUB: Portis FOR Crowder,Substitution,,0,0,0,0,,,v
+S2324-G0711,3,10:16,UTA,,MIL,,J. Crowder,MIL,MISS Crowder 20' Jump Shot,Missed Shot,Jump Shot,203,-5,20,1,2.0,0.0,v
+S2324-G0711,3,09:01,UTA,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0711,3,08:44,UTA,,MIL,,J. Crowder,MIL,Crowder S.FOUL (P1.T2) (T.Ford),Foul,Shooting,0,0,0,0,,,v
+S2324-G0711,3,04:58,UTA,,MIL,,J. Crowder,MIL,SUB: Connaughton FOR Crowder,Substitution,,0,0,0,0,,,v
+S2324-G0711,3,00:29.500000,UTA,80.0,MIL,93.0,J. Crowder,MIL,Crowder 3PT Jump Shot (6 PTS) (Lillard 5 AST),Made Shot,Jump Shot,-230,34,0,1,3.0,3.0,v
+S2324-G0711,4,10:21,UTA,,MIL,,J. Crowder,MIL,MISS Crowder 3PT Jump Shot,Missed Shot,Jump Shot,-221,43,0,1,3.0,0.0,v
+S2324-G0711,4,08:51,UTA,,MIL,,J. Crowder,MIL,Crowder FLAGRANT.FOUL.TYPE1 (P2.T1) (T.Ford),Foul,Flagrant Type 1,0,0,0,0,,,v
+S2324-G0711,4,04:09,UTA,,MIL,,J. Crowder,MIL,MISS Crowder 25' 3PT Jump Shot,Missed Shot,Jump Shot,-47,243,25,1,3.0,0.0,v
+S2324-G0711,4,01:04,UTA,,MIL,,J. Crowder,MIL,MISS Crowder 24' 3PT Jump Shot,Missed Shot,Jump Shot,-170,176,24,1,3.0,0.0,v
+S2324-G0711,4,00:37.300000,UTA,,MIL,,J. Crowder,MIL,SUB: Beauchamp FOR Crowder,Substitution,,0,0,0,0,,,v
+S2324-G0592,1,02:18,DET,,MIL,,J. Crowder,MIL,Crowder S.FOUL (P1.T2) (P.Ransom),Foul,Shooting,0,0,0,0,,,v
+S2324-G0592,2,11:12,DET,,MIL,,J. Crowder,MIL,Crowder STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0592,2,11:02,DET,40.0,MIL,38.0,J. Crowder,MIL,Crowder 5' Cutting Layup Shot (2 PTS) (Connaughton 1 AST),Made Shot,Cutting Layup Shot,34,34,5,1,2.0,2.0,v
+S2324-G0592,2,10:02,DET,,MIL,,J. Crowder,MIL,MISS Crowder 3PT Jump Shot,Missed Shot,Jump Shot,232,10,0,1,3.0,0.0,v
+S2324-G0592,2,09:43,DET,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0592,2,09:34,DET,,MIL,,J. Crowder,MIL,MISS Crowder 3PT Jump Shot,Missed Shot,Jump Shot,-228,39,0,1,3.0,0.0,v
+S2324-G0592,2,09:17,DET,,MIL,,J. Crowder,MIL,SUB: Beasley FOR Crowder,Substitution,,0,0,0,0,,,v
+S2324-G0592,3,01:06,DET,,MIL,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0592,3,00:43.100000,DET,,MIL,,J. Crowder,MIL,Crowder P.FOUL (P2.PN) (S.Twardoski),Foul,Personal,0,0,0,0,,,v
+S2324-G0639,1,01:50,MIL,,CLE,,J. Crowder,MIL,Crowder P.FOUL (P1.T3) (M.Smith),Foul,Personal,0,0,0,0,,,h
+S2324-G0639,1,00:58.500000,MIL,,CLE,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0639,2,09:07,MIL,38.0,CLE,33.0,J. Crowder,MIL,Crowder 26' 3PT Jump Shot (3 PTS) (G. Antetokounmpo 6 AST),Made Shot,Jump Shot,148,216,26,1,3.0,3.0,h
+S2324-G0639,2,07:42,MIL,,CLE,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0639,2,07:27,MIL,,CLE,,J. Crowder,MIL,MISS Crowder 26' 3PT Jump Shot,Missed Shot,Jump Shot,-152,210,26,1,3.0,0.0,h
+S2324-G0639,2,05:05,MIL,,CLE,,J. Crowder,MIL,Crowder P.FOUL (P2.T3) (P.Fraher),Foul,Personal,0,0,0,0,,,h
+S2324-G0639,2,02:39,MIL,,CLE,,J. Crowder,MIL,SUB: Middleton FOR Crowder,Substitution,,0,0,0,0,,,h
+S2324-G0639,3,01:26,MIL,71.0,CLE,76.0,J. Crowder,MIL,Crowder 27' 3PT Jump Shot (6 PTS) (G. Antetokounmpo 8 AST),Made Shot,Jump Shot,-43,265,27,1,3.0,3.0,h
+S2324-G0639,3,00:39.200000,MIL,,CLE,,J. Crowder,MIL,Crowder REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0639,3,00:00.300000,MIL,,CLE,,J. Crowder,MIL,MISS Crowder 3PT Jump Shot,Missed Shot,Jump Shot,-232,-9,0,1,3.0,0.0,h
+S2324-G0639,4,05:17,MIL,,CLE,,J. Crowder,MIL,SUB: Beasley FOR Crowder,Substitution,,0,0,0,0,,,h
+S2324-G0639,4,00:54.300000,MIL,,CLE,,J. Crowder,MIL,SUB: B. Lopez FOR Crowder,Substitution,,0,0,0,0,,,h

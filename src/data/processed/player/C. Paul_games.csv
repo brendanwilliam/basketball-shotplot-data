@@ -1,0 +1,1184 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2324-G0860,1,04:20,TOR,,GSW,,C. Paul,GSW,MISS Paul 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,110,104,15,1,2.0,0.0,v
+S2324-G0860,1,01:20,TOR,,GSW,,C. Paul,GSW,MISS Paul 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,105,244,27,1,3.0,0.0,v
+S2324-G0860,1,00:43.500000,TOR,31.0,GSW,28.0,C. Paul,GSW,Paul 27' 3PT Jump Shot (3 PTS) (Kuminga 2 AST),Made Shot,Jump Shot,-21,268,27,1,3.0,3.0,v
+S2324-G0860,1,00:24.600000,TOR,,GSW,,C. Paul,GSW,Paul P.FOUL (P1.T2) (D.Collins),Foul,Personal,0,0,0,0,,,v
+S2324-G0860,2,09:44,TOR,,GSW,,C. Paul,GSW,MISS Paul 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-48,258,26,1,3.0,0.0,v
+S2324-G0860,2,09:02,TOR,,GSW,,C. Paul,GSW,Paul STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0860,2,06:56,TOR,43.0,GSW,38.0,C. Paul,GSW,Paul 26' 3PT Jump Shot (6 PTS) (Saric 2 AST),Made Shot,Jump Shot,-194,168,26,1,3.0,3.0,v
+S2324-G0860,2,06:40,TOR,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0860,2,06:26,TOR,,GSW,,C. Paul,GSW,MISS Paul 3PT Jump Shot,Missed Shot,Jump Shot,-232,-6,0,1,3.0,0.0,v
+S2324-G0860,2,06:17,TOR,,GSW,,C. Paul,GSW,SUB: Curry FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G0860,3,04:08,TOR,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0860,3,02:33,TOR,,GSW,,C. Paul,GSW,Paul S.FOUL (P2.PN) (B.Forte),Foul,Shooting,0,0,0,0,,,v
+S2324-G0860,3,01:54,TOR,79.0,GSW,88.0,C. Paul,GSW,Paul 16' Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,156,9,16,1,2.0,2.0,v
+S2324-G0860,3,00:46.100000,TOR,,GSW,,C. Paul,GSW,Paul STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0860,4,10:47,TOR,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0860,4,10:37,TOR,89.0,GSW,98.0,C. Paul,GSW,Paul 17' Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,48,167,17,1,2.0,2.0,v
+S2324-G0860,4,08:20,TOR,,GSW,,C. Paul,GSW,MISS Paul 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-65,150,16,1,2.0,0.0,v
+S2324-G0860,4,07:40,TOR,,GSW,,C. Paul,GSW,SUB: Curry FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G0860,4,01:56,TOR,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0860,4,00:15.200000,TOR,105.0,GSW,120.0,C. Paul,GSW,Paul 26' 3PT Pullup Jump Shot (13 PTS),Made Shot,Pullup Jump shot,-156,205,26,1,3.0,3.0,v
+S2324-G0899,1,01:52,GSW,,MIL,,C. Paul,GSW,Paul STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0899,1,00:30.100000,GSW,40.0,MIL,29.0,C. Paul,GSW,Paul 28' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,96,263,28,1,3.0,3.0,h
+S2324-G0899,2,10:45,GSW,,MIL,,C. Paul,GSW,Paul STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0899,2,08:36,GSW,,MIL,,C. Paul,GSW,Paul Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0899,2,07:10,GSW,55.0,MIL,42.0,C. Paul,GSW,Paul 27' 3PT Step Back Jump Shot (6 PTS),Made Shot,Step Back Jump shot,-205,180,27,1,3.0,3.0,h
+S2324-G0899,2,06:36,GSW,,MIL,,C. Paul,GSW,Paul L.B.FOUL (P1.T4) (J.Orr),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0899,2,06:25,GSW,,MIL,,C. Paul,GSW,SUB: Curry FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G0899,3,04:54,GSW,,MIL,,C. Paul,GSW,Paul STEAL (3 STL),,,0,0,0,0,,,h
+S2324-G0899,3,04:35,GSW,,MIL,,C. Paul,GSW,Paul Bad Pass Turnover (P2.T10),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0899,3,04:08,GSW,,MIL,,C. Paul,GSW,Paul REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0899,3,01:57,GSW,,MIL,,C. Paul,GSW,MISS Paul 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-173,183,25,1,3.0,0.0,h
+S2324-G0899,3,00:22,GSW,,MIL,,C. Paul,GSW,MISS Paul 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-201,158,26,1,3.0,0.0,h
+S2324-G0899,4,10:13,GSW,,MIL,,C. Paul,GSW,Paul REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0899,4,08:50,GSW,,MIL,,C. Paul,GSW,MISS Paul 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,104,246,27,1,3.0,0.0,h
+S2324-G0899,4,08:30,GSW,,MIL,,C. Paul,GSW,SUB: Jackson-Davis FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G1031,1,00:50,MIN,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1031,1,00:06.900000,MIN,,GSW,,C. Paul,GSW,MISS Paul 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-27,260,26,1,3.0,0.0,v
+S2324-G1031,1,00:06.300000,MIN,,GSW,,C. Paul,GSW,SUB: Kuminga FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G1031,2,10:54,MIN,,GSW,,C. Paul,GSW,MISS Paul 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,77,104,13,1,2.0,0.0,v
+S2324-G1031,2,07:39,MIN,,GSW,,C. Paul,GSW,MISS Paul 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,56,119,13,1,2.0,0.0,v
+S2324-G1031,2,07:27,MIN,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1031,2,07:05,MIN,,GSW,,C. Paul,GSW,Paul P.FOUL (P1.T2) (B.Kennedy),Foul,Personal,0,0,0,0,,,v
+S2324-G1031,2,05:26,MIN,,GSW,,C. Paul,GSW,SUB: Jackson-Davis FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G1031,3,03:29,MIN,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1031,3,00:58.200000,MIN,73.0,GSW,79.0,C. Paul,GSW,Paul 27' 3PT Pullup Jump Shot (3 PTS) (Thompson 2 AST),Made Shot,Pullup Jump shot,-113,244,27,1,3.0,3.0,v
+S2324-G1031,3,00:32.600000,MIN,75.0,GSW,81.0,C. Paul,GSW,Paul 12' Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,9,118,12,1,2.0,2.0,v
+S2324-G1031,3,00:00,MIN,,GSW,,C. Paul,GSW,MISS Paul 28' 3PT Fadeaway Bank Shot,Missed Shot,Fadeaway Bank shot,0,277,28,1,3.0,0.0,v
+S2324-G1031,4,09:42,MIN,86.0,GSW,86.0,C. Paul,GSW,Paul 9' Turnaround Fadeaway (7 PTS),Made Shot,Turnaround Fadeaway shot,94,12,9,1,2.0,2.0,v
+S2324-G1031,4,09:01,MIN,,GSW,,C. Paul,GSW,Paul Bad Pass Turnover (P1.T12),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G1031,4,07:25,MIN,,GSW,,C. Paul,GSW,MISS Paul 9' Pullup Jump Shot,Missed Shot,Pullup Jump shot,12,86,9,1,2.0,0.0,v
+S2324-G1031,4,06:54,MIN,,GSW,,C. Paul,GSW,SUB: Payton II FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G1031,4,00:41,MIN,,GSW,,C. Paul,GSW,Paul REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1031,4,00:36.600000,MIN,,GSW,,C. Paul,GSW,SUB: Payton II FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G1031,4,00:05.300000,MIN,,GSW,,C. Paul,GSW,Paul Personal Take Foul (P2.PN) (E.Dalen),Foul,Personal Take,0,0,0,0,,,v
+S2324-G0362,1,03:44,GSW,,BOS,,C. Paul,GSW,MISS Paul 26' 3PT Jump Shot,Missed Shot,Jump Shot,222,138,26,1,3.0,0.0,h
+S2324-G0362,1,02:27,GSW,,BOS,,C. Paul,GSW,Paul REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0362,1,01:03,GSW,,BOS,,C. Paul,GSW,Paul REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0362,2,08:15,GSW,,BOS,,C. Paul,GSW,SUB: Curry FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G0362,2,03:14,GSW,,BOS,,C. Paul,GSW,Paul REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0362,2,01:33,GSW,,BOS,,C. Paul,GSW,Paul REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0362,2,01:28,GSW,,BOS,,C. Paul,GSW,MISS Paul 12' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,53,103,12,1,2.0,0.0,h
+S2324-G0362,2,00:47,GSW,,BOS,,C. Paul,GSW,MISS Paul 9' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,59,62,9,1,2.0,0.0,h
+S2324-G0362,3,05:55,GSW,,BOS,,C. Paul,GSW,MISS Paul 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,36,191,19,1,2.0,0.0,h
+S2324-G0362,3,05:00,GSW,,BOS,,C. Paul,GSW,MISS Paul 27' 3PT Jump Shot,Missed Shot,Jump Shot,125,243,27,1,3.0,0.0,h
+S2324-G0362,3,00:38.500000,GSW,84.0,BOS,94.0,C. Paul,GSW,Paul 28' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,-124,252,28,1,3.0,3.0,h
+S2324-G0362,3,00:15.200000,GSW,86.0,BOS,97.0,C. Paul,GSW,Paul 17' Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,-125,120,17,1,2.0,2.0,h
+S2324-G0362,4,11:19,GSW,88.0,BOS,97.0,C. Paul,GSW,Paul 10' Turnaround Jump Shot (7 PTS) (Curry 3 AST),Made Shot,Turnaround Jump Shot,-49,90,10,1,2.0,2.0,h
+S2324-G0362,4,10:56,GSW,,BOS,,C. Paul,GSW,Paul REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0362,4,08:49,GSW,,BOS,,C. Paul,GSW,Paul REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0362,4,08:24,GSW,,BOS,,C. Paul,GSW,Paul P.FOUL (P1.T1) (D.Collins),Foul,Personal,0,0,0,0,,,h
+S2324-G0362,4,07:31,GSW,,BOS,,C. Paul,GSW,SUB: Thompson FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G0362,4,03:45,GSW,,BOS,,C. Paul,GSW,Paul P.FOUL (P2.PN) (D.Collins),Foul,Personal,0,0,0,0,,,h
+S2324-G0362,4,03:29,GSW,112.0,BOS,116.0,C. Paul,GSW,Paul 5' Driving Layup (9 PTS) (Curry 6 AST),Made Shot,Driving Layup Shot,7,49,5,1,2.0,2.0,h
+S2324-G0362,4,00:18,GSW,,BOS,,C. Paul,GSW,MISS Paul 32' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-1,315,32,1,3.0,0.0,h
+S2324-G0362,5,04:39,GSW,,BOS,,C. Paul,GSW,MISS Paul 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,5,202,20,1,2.0,0.0,h
+S2324-G0362,5,03:44,GSW,,BOS,,C. Paul,GSW,MISS Paul 27' 3PT Jump Shot,Missed Shot,Jump Shot,-202,174,27,1,3.0,0.0,h
+S2324-G0362,5,00:13.100000,GSW,,BOS,,C. Paul,GSW,Paul REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1142,1,06:14,GSW,,UTA,,C. Paul,GSW,Paul Step Out of Bounds Turnover (P1.T2),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2324-G1142,1,05:57,GSW,,UTA,,C. Paul,GSW,Paul REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1142,1,05:11,GSW,,UTA,,C. Paul,GSW,MISS Paul 27' 3PT Jump Shot,Missed Shot,Jump Shot,-200,180,27,1,3.0,0.0,h
+S2324-G1142,1,03:59,GSW,,UTA,,C. Paul,GSW,Paul Bad Pass Turnover (P2.T3),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G1142,1,02:49,GSW,30.0,UTA,19.0,C. Paul,GSW,Paul 5' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,47,8,5,1,2.0,2.0,h
+S2324-G1142,1,02:42,GSW,,UTA,,C. Paul,GSW,SUB: Jackson-Davis FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G1142,2,06:04,GSW,57.0,UTA,37.0,C. Paul,GSW,Paul 27' 3PT Jump Shot (5 PTS) (Payton II 2 AST),Made Shot,Jump Shot,-215,161,27,1,3.0,3.0,h
+S2324-G1142,2,04:28,GSW,,UTA,,C. Paul,GSW,Paul S.FOUL (P1.PN) (M.Kallio),Foul,Shooting,0,0,0,0,,,h
+S2324-G1142,2,03:45,GSW,,UTA,,C. Paul,GSW,MISS Paul 29' 3PT Jump Shot,Missed Shot,Jump Shot,131,257,29,1,3.0,0.0,h
+S2324-G1142,2,00:01.900000,GSW,,UTA,,C. Paul,GSW,MISS Paul 30' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,99,285,30,1,3.0,0.0,h
+S2324-G1142,3,11:49,GSW,,UTA,,C. Paul,GSW,Paul STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1142,3,10:03,GSW,74.0,UTA,56.0,C. Paul,GSW,Paul 17' Jump Shot (7 PTS) (Podziemski 4 AST),Made Shot,Jump Shot,44,163,17,1,2.0,2.0,h
+S2324-G1142,3,07:37,GSW,,UTA,,C. Paul,GSW,Paul Out of Bounds - Bad Pass Turnover Turnover (P3.T8),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G1142,3,06:46,GSW,,UTA,,C. Paul,GSW,Paul STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G1142,3,06:42,GSW,,UTA,,C. Paul,GSW,MISS Paul 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-225,13,0,1,3.0,0.0,h
+S2324-G1142,3,05:47,GSW,,UTA,,C. Paul,GSW,Paul P.FOUL (P2.T1) (J.Orr),Foul,Personal,0,0,0,0,,,h
+S2324-G1142,3,05:47,GSW,,UTA,,C. Paul,GSW,Paul T.FOUL (P2.T1) (J.Orr),Foul,Technical,0,0,0,0,,,h
+S2324-G1142,3,05:38,GSW,,UTA,,C. Paul,GSW,Paul STEAL (3 STL),,,0,0,0,0,,,h
+S2324-G1142,3,04:54,GSW,,UTA,,C. Paul,GSW,Paul Out of Bounds - Bad Pass Turnover Turnover (P4.T11),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G1142,3,04:30,GSW,,UTA,,C. Paul,GSW,Paul BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G1142,3,04:22,GSW,,UTA,,C. Paul,GSW,SUB: Podziemski FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G1142,4,07:47,GSW,105.0,UTA,91.0,C. Paul,GSW,Paul 15' Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,114,100,15,1,2.0,2.0,h
+S2324-G1142,4,06:37,GSW,,UTA,,C. Paul,GSW,MISS Paul 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,21,185,19,1,2.0,0.0,h
+S2324-G1142,4,05:26,GSW,,UTA,,C. Paul,GSW,Paul STEAL (4 STL),,,0,0,0,0,,,h
+S2324-G1142,4,03:03,GSW,116.0,UTA,97.0,C. Paul,GSW,Paul 27' 3PT Jump Shot (12 PTS) (Looney 1 AST),Made Shot,Jump Shot,-191,188,27,1,3.0,3.0,h
+S2324-G1142,4,02:47,GSW,,UTA,,C. Paul,GSW,SUB: Garuba FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G0207,1,10:16,GSW,,OKC,,C. Paul,GSW,MISS Paul 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-37,184,19,1,2.0,0.0,h
+S2324-G0207,1,10:00,GSW,,OKC,,C. Paul,GSW,Paul STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0207,1,07:37,GSW,,OKC,,C. Paul,GSW,Paul REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0207,1,06:37,GSW,,OKC,,C. Paul,GSW,SUB: Saric FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G0207,1,00:07.400000,GSW,,OKC,,C. Paul,GSW,SUB: Wiggins FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G0207,2,11:03,GSW,,OKC,,C. Paul,GSW,MISS Paul 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-183,180,26,1,3.0,0.0,h
+S2324-G0207,2,09:10,GSW,38.0,OKC,39.0,C. Paul,GSW,Paul 27' 3PT Jump Shot (3 PTS) (Kuminga 1 AST),Made Shot,Jump Shot,36,272,27,1,3.0,3.0,h
+S2324-G0207,2,08:51,GSW,,OKC,,C. Paul,GSW,Paul STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0207,2,08:07,GSW,,OKC,,C. Paul,GSW,SUB: Wiggins FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G0207,2,02:02,GSW,,OKC,,C. Paul,GSW,MISS Paul 26' 3PT Jump Shot,Missed Shot,Jump Shot,91,247,26,1,3.0,0.0,h
+S2324-G0207,2,02:00,GSW,,OKC,,C. Paul,GSW,Paul REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0207,2,01:03,GSW,,OKC,,C. Paul,GSW,Paul S.FOUL (P1.T4) (J.Butler),Foul,Shooting,0,0,0,0,,,h
+S2324-G0207,3,10:37,GSW,,OKC,,C. Paul,GSW,Paul STEAL (3 STL),,,0,0,0,0,,,h
+S2324-G0207,3,08:49,GSW,71.0,OKC,57.0,C. Paul,GSW,Paul 24' 3PT Jump Shot (6 PTS) (Wiggins 1 AST),Made Shot,Jump Shot,239,9,24,1,3.0,3.0,h
+S2324-G0207,3,06:25,GSW,,OKC,,C. Paul,GSW,SUB: Podziemski FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G0207,3,00:32.100000,GSW,,OKC,,C. Paul,GSW,MISS Paul 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-180,167,25,1,3.0,0.0,h
+S2324-G0207,4,09:10,GSW,,OKC,,C. Paul,GSW,Paul REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0207,4,08:20,GSW,,OKC,,C. Paul,GSW,SUB: Moody FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G0207,4,02:54,GSW,111.0,OKC,110.0,C. Paul,GSW,Paul 3PT Jump Shot (9 PTS) (Wiggins 3 AST),Made Shot,Jump Shot,224,22,0,1,3.0,3.0,h
+S2324-G0207,5,04:38,GSW,,OKC,,C. Paul,GSW,MISS Paul 17' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,118,124,17,1,2.0,0.0,h
+S2324-G0207,5,04:13,GSW,,OKC,,C. Paul,GSW,Paul REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0207,5,03:27,GSW,120.0,OKC,119.0,C. Paul,GSW,Paul 3PT Jump Shot (12 PTS) (Looney 5 AST),Made Shot,Jump Shot,-228,-12,0,1,3.0,3.0,h
+S2324-G0207,5,00:38.600000,GSW,,OKC,,C. Paul,GSW,Paul P.FOUL (P2.T2) (S.Wright),Foul,Personal,0,0,0,0,,,h
+S2324-G0207,5,00:35.200000,GSW,,OKC,,C. Paul,GSW,Paul Personal Take Foul (P3.PN) (S.Wright),Foul,Personal Take,0,0,0,0,,,h
+S2324-G0339,1,04:02,GSW,,BKN,,C. Paul,GSW,Paul Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G0339,1,00:03.300000,GSW,,BKN,,C. Paul,GSW,MISS Paul 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-183,176,25,1,3.0,0.0,h
+S2324-G0339,2,10:56,GSW,,BKN,,C. Paul,GSW,MISS Paul 26' 3PT Jump Shot,Missed Shot,Jump Shot,45,257,26,1,3.0,0.0,h
+S2324-G0339,2,09:38,GSW,,BKN,,C. Paul,GSW,Paul REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0339,2,08:50,GSW,41.0,BKN,31.0,C. Paul,GSW,Paul 16' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,28,162,16,1,2.0,2.0,h
+S2324-G0339,2,08:04,GSW,,BKN,,C. Paul,GSW,SUB: Moody FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G0339,2,03:19,GSW,,BKN,,C. Paul,GSW,Paul REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0339,2,02:27,GSW,,BKN,,C. Paul,GSW,Paul REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0339,2,01:41,GSW,,BKN,,C. Paul,GSW,Paul S.FOUL (P1.T3) (E.Scott),Foul,Shooting,0,0,0,0,,,h
+S2324-G0339,3,07:02,GSW,,BKN,,C. Paul,GSW,Paul Bad Pass Turnover (P2.T11),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0339,3,03:37,GSW,,BKN,,C. Paul,GSW,Paul REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0339,3,03:07,GSW,,BKN,,C. Paul,GSW,Paul Bad Pass Turnover (P3.T12),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0339,3,00:37.300000,GSW,,BKN,,C. Paul,GSW,MISS Paul 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,26,195,20,1,2.0,0.0,h
+S2324-G0339,3,00:03.400000,GSW,,BKN,,C. Paul,GSW,Paul Personal Take Foul (P2.T4) (E.Scott),Foul,Personal Take,0,0,0,0,,,h
+S2324-G0339,4,08:40,GSW,,BKN,,C. Paul,GSW,SUB: Curry FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G1085,1,03:31,SAS,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1085,1,01:06,SAS,32.0,GSW,22.0,C. Paul,GSW,Paul 26' 3PT Jump Shot (3 PTS) (Looney 1 AST),Made Shot,Jump Shot,-152,217,26,1,3.0,3.0,v
+S2324-G1085,1,00:56.400000,SAS,,GSW,,C. Paul,GSW,Paul Violation:Kicked Ball (M.Davis),Violation,Kicked Ball,0,0,0,0,,,v
+S2324-G1085,1,00:11.300000,SAS,,GSW,,C. Paul,GSW,Paul STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G1085,1,00:00.500000,SAS,34.0,GSW,27.0,C. Paul,GSW,Paul 15' Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,124,85,15,1,2.0,2.0,v
+S2324-G1085,2,11:44,SAS,,GSW,,C. Paul,GSW,MISS Paul 15' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,56,138,15,1,2.0,0.0,v
+S2324-G1085,2,08:42,SAS,38.0,GSW,37.0,C. Paul,GSW,Paul 14' Turnaround Fadeaway (7 PTS),Made Shot,Turnaround Fadeaway shot,-109,94,14,1,2.0,2.0,v
+S2324-G1085,2,06:07,SAS,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1085,2,05:11,SAS,,GSW,,C. Paul,GSW,MISS Paul 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-168,212,27,1,3.0,0.0,v
+S2324-G1085,2,04:59,SAS,,GSW,,C. Paul,GSW,Paul S.FOUL (P1.T3) (M.Davis),Foul,Shooting,0,0,0,0,,,v
+S2324-G1085,2,04:59,SAS,,GSW,,C. Paul,GSW,SUB: Thompson FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G1085,2,01:45,SAS,,GSW,,C. Paul,GSW,MISS Paul 3PT Jump Shot,Missed Shot,Jump Shot,224,25,0,1,3.0,0.0,v
+S2324-G1085,2,00:39.600000,SAS,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1085,3,01:29,SAS,,GSW,,C. Paul,GSW,MISS Paul 13' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-60,116,13,1,2.0,0.0,v
+S2324-G1085,4,10:44,SAS,83.0,GSW,94.0,C. Paul,GSW,Paul 11' Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,96,43,11,1,2.0,2.0,v
+S2324-G1085,4,10:07,SAS,,GSW,,C. Paul,GSW,MISS Paul 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,115,1,12,1,2.0,0.0,v
+S2324-G1085,4,10:00,SAS,,GSW,,C. Paul,GSW,Paul STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G1085,4,08:53,SAS,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1085,4,08:03,SAS,,GSW,,C. Paul,GSW,SUB: Payton II FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G1085,4,00:03.900000,SAS,,GSW,,C. Paul,GSW,SUB: Jackson-Davis FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G0051,2,10:59,GSW,34.0,SAS,38.0,C. Paul,GSW,Paul 12' Pullup Jump Shot (2 PTS) (Saric 2 AST),Made Shot,Pullup Jump shot,-20,118,12,1,2.0,2.0,h
+S2324-G0051,2,08:59,GSW,,SAS,,C. Paul,GSW,Paul REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0051,2,08:46,GSW,,SAS,,C. Paul,GSW,MISS Paul 25' 3PT Jump Shot,Missed Shot,Jump Shot,75,243,25,1,3.0,0.0,h
+S2324-G0051,2,08:39,GSW,,SAS,,C. Paul,GSW,Paul P.FOUL (P1.T1) (J.Van Duyne),Foul,Personal,0,0,0,0,,,h
+S2324-G0051,2,08:27,GSW,,SAS,,C. Paul,GSW,SUB: Payton II FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G0051,2,02:34,GSW,,SAS,,C. Paul,GSW,MISS Paul 27' 3PT Jump Shot,Missed Shot,Jump Shot,-15,265,27,1,3.0,0.0,h
+S2324-G0051,2,01:39,GSW,,SAS,,C. Paul,GSW,MISS Paul 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,100,147,18,1,2.0,0.0,h
+S2324-G0051,2,00:52.700000,GSW,,SAS,,C. Paul,GSW,Paul REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0051,3,03:05,GSW,,SAS,,C. Paul,GSW,Paul REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0051,3,00:01.500000,GSW,,SAS,,C. Paul,GSW,MISS Paul 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,121,58,13,1,2.0,0.0,h
+S2324-G0051,4,11:38,GSW,,SAS,,C. Paul,GSW,Paul REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0051,4,11:03,GSW,,SAS,,C. Paul,GSW,Paul REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0051,4,10:57,GSW,92.0,SAS,81.0,C. Paul,GSW,Paul 3PT Jump Shot (5 PTS) (Saric 4 AST),Made Shot,Jump Shot,-229,4,0,1,3.0,3.0,h
+S2324-G0051,4,09:22,GSW,,SAS,,C. Paul,GSW,Paul P.FOUL (P2.T1) (T.Brothers),Foul,Personal,0,0,0,0,,,h
+S2324-G0051,4,07:18,GSW,,SAS,,C. Paul,GSW,SUB: Wiggins FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G0051,4,03:28,GSW,,SAS,,C. Paul,GSW,Paul Out of Bounds - Bad Pass Turnover Turnover (P1.T19),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G0952,1,07:08,DAL,,GSW,,C. Paul,GSW,SUB: Podziemski FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G0952,1,01:06,DAL,23.0,GSW,27.0,C. Paul,GSW,Paul 26' 3PT Jump Shot (3 PTS) (Podziemski 2 AST),Made Shot,Jump Shot,116,237,26,1,3.0,3.0,v
+S2324-G0952,1,00:16.300000,DAL,,GSW,,C. Paul,GSW,SUB: Payton II FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G0952,2,10:10,DAL,,GSW,,C. Paul,GSW,MISS Paul 3PT Jump Shot,Missed Shot,Jump Shot,227,23,0,1,3.0,0.0,v
+S2324-G0952,2,08:42,DAL,,GSW,,C. Paul,GSW,SUB: Thompson FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G0952,2,03:27,DAL,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0952,2,02:09,DAL,,GSW,,C. Paul,GSW,MISS Paul 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,93,89,13,1,2.0,0.0,v
+S2324-G0952,2,00:36.300000,DAL,,GSW,,C. Paul,GSW,MISS Paul 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-18,36,4,1,2.0,0.0,v
+S2324-G0952,3,10:32,DAL,,GSW,,C. Paul,GSW,MISS Paul 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,54,156,17,1,2.0,0.0,v
+S2324-G0952,3,08:46,DAL,,GSW,,C. Paul,GSW,Paul P.FOUL (P1.T1) (S.Corbin),Foul,Personal,0,0,0,0,,,v
+S2324-G0952,3,08:43,DAL,,GSW,,C. Paul,GSW,Paul P.FOUL (P2.T2) (S.Corbin),Foul,Personal,0,0,0,0,,,v
+S2324-G0952,3,07:55,DAL,54.0,GSW,51.0,C. Paul,GSW,Paul 13' Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,131,25,13,1,2.0,2.0,v
+S2324-G0952,3,07:26,DAL,54.0,GSW,53.0,C. Paul,GSW,Paul 9' Driving Floating Jump Shot (7 PTS),Made Shot,Driving Floating Jump Shot,34,80,9,1,2.0,2.0,v
+S2324-G0952,3,06:32,DAL,,GSW,,C. Paul,GSW,SUB: Podziemski FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G0952,3,00:49.700000,DAL,,GSW,,C. Paul,GSW,Paul S.FOUL (P3.PN) (C.Kirkland),Foul,Shooting,0,0,0,0,,,v
+S2324-G0952,3,00:36.400000,DAL,74.0,GSW,69.0,C. Paul,GSW,Paul 7' Driving Floating Bank Jump Shot (9 PTS),Made Shot,Driving Floating Bank Jump Shot,-64,21,7,1,2.0,2.0,v
+S2324-G0952,3,00:04.800000,DAL,,GSW,,C. Paul,GSW,MISS Paul 14' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-132,35,14,1,2.0,0.0,v
+S2324-G0952,3,00:02.500000,DAL,,GSW,,C. Paul,GSW,SUB: Payton II FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G0952,4,10:43,DAL,,GSW,,C. Paul,GSW,MISS Paul 3PT Jump Shot,Missed Shot,Jump Shot,224,10,0,1,3.0,0.0,v
+S2324-G0952,4,08:39,DAL,,GSW,,C. Paul,GSW,MISS Paul 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,66,148,16,1,2.0,0.0,v
+S2324-G0952,4,08:38,DAL,,GSW,,C. Paul,GSW,Paul T.FOUL (P3.T0) (M.Myers),Foul,Technical,0,0,0,0,,,v
+S2324-G0952,4,07:49,DAL,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0952,4,07:46,DAL,,GSW,,C. Paul,GSW,MISS Paul 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-184,187,26,1,3.0,0.0,v
+S2324-G0952,4,06:11,DAL,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0952,4,05:15,DAL,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0952,4,03:53,DAL,,GSW,,C. Paul,GSW,SUB: Quinones FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G0142,1,02:54,CLE,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0142,1,02:03,CLE,,GSW,,C. Paul,GSW,Paul S.FOUL (P1.T2) (M.Kogut),Foul,Shooting,0,0,0,0,,,v
+S2324-G0142,1,00:47.100000,CLE,,GSW,,C. Paul,GSW,MISS Paul 26' 3PT Jump Shot,Missed Shot,Jump Shot,205,162,26,1,3.0,0.0,v
+S2324-G0142,2,09:21,CLE,,GSW,,C. Paul,GSW,MISS Paul 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,77,147,17,1,2.0,0.0,v
+S2324-G0142,2,07:53,CLE,,GSW,,C. Paul,GSW,SUB: Moody FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G0142,2,00:42.800000,CLE,,GSW,,C. Paul,GSW,Paul AWAY.FROM.PLAY.FOUL (P2.PN) (M.Kogut),Foul,Away From Play,0,0,0,0,,,v
+S2324-G0142,2,00:00,CLE,,GSW,,C. Paul,GSW,MISS Paul 25' 3PT Jump Shot,Missed Shot,Jump Shot,222,107,25,1,3.0,0.0,v
+S2324-G0142,3,01:49,CLE,,GSW,,C. Paul,GSW,MISS Paul 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,127,83,15,1,2.0,0.0,v
+S2324-G0142,3,00:00,CLE,,GSW,,C. Paul,GSW,MISS Paul 52' 3PT Floating Jump Shot,Missed Shot,Floating Jump shot,196,487,52,1,3.0,0.0,v
+S2324-G0142,4,11:36,CLE,86.0,GSW,80.0,C. Paul,GSW,Paul 25' 3PT Jump Shot (3 PTS) (Podziemski 1 AST),Made Shot,Jump Shot,-81,241,25,1,3.0,3.0,v
+S2324-G0142,4,11:03,CLE,,GSW,,C. Paul,GSW,MISS Paul 13' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-99,78,13,1,2.0,0.0,v
+S2324-G0142,4,10:54,CLE,,GSW,,C. Paul,GSW,Paul STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0142,4,08:45,CLE,93.0,GSW,86.0,C. Paul,GSW,Paul 13' Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,-82,96,13,1,2.0,2.0,v
+S2324-G0142,4,07:47,CLE,,GSW,,C. Paul,GSW,MISS Paul 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-124,225,26,1,3.0,0.0,v
+S2324-G0142,4,07:44,CLE,,GSW,,C. Paul,GSW,SUB: Wiggins FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G0142,4,03:25,CLE,,GSW,,C. Paul,GSW,MISS Paul 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-39,82,9,1,2.0,0.0,v
+S2324-G0142,4,03:19,CLE,,GSW,,C. Paul,GSW,Paul STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0142,4,02:49,CLE,,GSW,,C. Paul,GSW,Paul S.FOUL (P3.T3) (M.Kogut),Foul,Shooting,0,0,0,0,,,v
+S2324-G0142,4,02:33,CLE,,GSW,,C. Paul,GSW,SUB: Moody FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G1155,1,03:36,LAL,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1155,1,01:31,LAL,21.0,GSW,29.0,C. Paul,GSW,Paul 14' Fadeaway Jumper (2 PTS),Made Shot,Fadeaway Jump Shot,55,127,14,1,2.0,2.0,v
+S2324-G1155,1,00:05.800000,LAL,,GSW,,C. Paul,GSW,SUB: Green FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G1155,2,10:11,LAL,,GSW,,C. Paul,GSW,MISS Paul 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,114,10,11,1,2.0,0.0,v
+S2324-G1155,2,09:23,LAL,,GSW,,C. Paul,GSW,MISS Paul 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,114,135,18,1,2.0,0.0,v
+S2324-G1155,2,08:41,LAL,,GSW,,C. Paul,GSW,Paul S.FOUL (P1.T1) (Z.Zarba),Foul,Shooting,0,0,0,0,,,v
+S2324-G1155,2,05:37,LAL,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1155,2,05:36,LAL,,GSW,,C. Paul,GSW,Paul Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G1155,2,05:09,LAL,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1155,2,04:24,LAL,,GSW,,C. Paul,GSW,SUB: Podziemski FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G1155,2,00:11.700000,LAL,,GSW,,C. Paul,GSW,MISS Paul 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-105,257,28,1,3.0,0.0,v
+S2324-G1155,3,04:02,LAL,,GSW,,C. Paul,GSW,MISS Paul 29' 3PT Jump Shot,Missed Shot,Jump Shot,-113,264,29,1,3.0,0.0,v
+S2324-G1155,3,02:11,LAL,86.0,GSW,96.0,C. Paul,GSW,Paul 11' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,47,101,11,1,2.0,2.0,v
+S2324-G1155,3,01:55,LAL,,GSW,,C. Paul,GSW,Paul S.FOUL (P2.T3) (Z.Zarba),Foul,Shooting,0,0,0,0,,,v
+S2324-G1155,3,01:46,LAL,,GSW,,C. Paul,GSW,Paul Backcourt Turnover (P2.T9),Turnover,Backcourt Turnover,0,0,0,0,,,v
+S2324-G1155,3,00:38.600000,LAL,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1155,3,00:03,LAL,89.0,GSW,106.0,C. Paul,GSW,Paul 2' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,-1,23,2,1,2.0,2.0,v
+S2324-G1155,4,09:47,LAL,98.0,GSW,109.0,C. Paul,GSW,Paul 27' 3PT Jump Shot (9 PTS) (Green 6 AST),Made Shot,Jump Shot,136,237,27,1,3.0,3.0,v
+S2324-G1155,4,07:29,LAL,102.0,GSW,116.0,C. Paul,GSW,Paul 3' Driving Layup (11 PTS),Made Shot,Driving Layup Shot,-6,33,3,1,2.0,2.0,v
+S2324-G1155,4,06:39,LAL,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1155,4,06:37,LAL,,GSW,,C. Paul,GSW,Paul Out of Bounds - Bad Pass Turnover Turnover (P3.T13),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G1155,4,05:13,LAL,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1155,4,04:58,LAL,,GSW,,C. Paul,GSW,MISS Paul 3PT Jump Shot,Missed Shot,Jump Shot,223,33,0,1,3.0,0.0,v
+S2324-G1155,4,04:51,LAL,,GSW,,C. Paul,GSW,SUB: Thompson FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G0973,1,01:42,LAL,32.0,GSW,27.0,C. Paul,GSW,Paul 10' Driving Floating Bank Jump Shot (2 PTS),Made Shot,Driving Floating Bank Jump Shot,96,37,10,1,2.0,2.0,v
+S2324-G0973,1,00:50.600000,LAL,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0973,1,00:20.100000,LAL,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0973,1,00:03.100000,LAL,,GSW,,C. Paul,GSW,SUB: Green FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G0973,2,11:20,LAL,,GSW,,C. Paul,GSW,MISS Paul 20' Step Back Jump Shot,Missed Shot,Step Back Jump shot,75,184,20,1,2.0,0.0,v
+S2324-G0973,2,09:12,LAL,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0973,2,08:11,LAL,,GSW,,C. Paul,GSW,MISS Paul 14' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,110,87,14,1,2.0,0.0,v
+S2324-G0973,2,07:36,LAL,,GSW,,C. Paul,GSW,Paul P.FOUL (P1.T2) (M.Ervin),Foul,Personal,0,0,0,0,,,v
+S2324-G0973,2,05:29,LAL,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0973,2,04:19,LAL,,GSW,,C. Paul,GSW,SUB: Thompson FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G0973,3,01:31,LAL,,GSW,,C. Paul,GSW,Paul S.FOUL (P2.PN) (D.Guthrie),Foul,Shooting,0,0,0,0,,,v
+S2324-G0973,3,00:02.600000,LAL,93.0,GSW,102.0,C. Paul,GSW,Paul 8' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,-54,57,8,1,2.0,2.0,v
+S2324-G0973,4,09:45,LAL,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0973,4,09:40,LAL,,GSW,,C. Paul,GSW,MISS Paul 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,10,120,12,1,2.0,0.0,v
+S2324-G0973,4,09:37,LAL,,GSW,,C. Paul,GSW,Paul REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0973,4,08:58,LAL,98.0,GSW,108.0,C. Paul,GSW,Paul 7' Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,38,62,7,1,2.0,2.0,v
+S2324-G0973,4,08:25,LAL,101.0,GSW,110.0,C. Paul,GSW,Paul 14' Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,102,95,14,1,2.0,2.0,v
+S2324-G0973,4,07:14,LAL,,GSW,,C. Paul,GSW,Paul Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0973,4,07:10,LAL,,GSW,,C. Paul,GSW,SUB: Wiggins FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G1113,1,02:05,HOU,20.0,GSW,28.0,C. Paul,GSW,Paul 26' 3PT Jump Shot (3 PTS) (Looney 1 AST),Made Shot,Jump Shot,-186,180,26,1,3.0,3.0,v
+S2324-G1113,1,01:09,HOU,,GSW,,C. Paul,GSW,Paul Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G1113,1,00:27.800000,HOU,24.0,GSW,33.0,C. Paul,GSW,Paul 25' 3PT Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,82,238,25,1,3.0,3.0,v
+S2324-G1113,2,11:42,HOU,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1113,2,11:33,HOU,,GSW,,C. Paul,GSW,Paul Traveling Turnover (P2.T10),Turnover,Traveling,0,0,0,0,,,v
+S2324-G1113,2,11:01,HOU,,GSW,,C. Paul,GSW,MISS Paul 16' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-64,151,16,1,2.0,0.0,v
+S2324-G1113,2,08:25,HOU,,GSW,,C. Paul,GSW,MISS Paul 19' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,102,162,19,1,2.0,0.0,v
+S2324-G1113,2,08:01,HOU,33.0,GSW,44.0,C. Paul,GSW,Paul 9' Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,45,83,9,1,2.0,2.0,v
+S2324-G1113,2,05:54,HOU,,GSW,,C. Paul,GSW,MISS Paul 25' 3PT Jump Shot,Missed Shot,Jump Shot,221,123,25,1,3.0,0.0,v
+S2324-G1113,2,05:05,HOU,,GSW,,C. Paul,GSW,MISS Paul 28' 3PT Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-157,230,28,1,3.0,0.0,v
+S2324-G1113,2,05:05,HOU,,GSW,,C. Paul,GSW,SUB: Jackson-Davis FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G1113,3,02:49,HOU,,GSW,,C. Paul,GSW,MISS Paul 18' Jump Shot,Missed Shot,Jump Shot,-102,143,18,1,2.0,0.0,v
+S2324-G1113,3,02:45,HOU,,GSW,,C. Paul,GSW,Paul S.FOUL (P1.PN) (N.Sago),Foul,Shooting,0,0,0,0,,,v
+S2324-G1113,3,00:32,HOU,,GSW,,C. Paul,GSW,Paul Bad Pass Turnover (P3.T20),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G1113,4,10:31,HOU,,GSW,,C. Paul,GSW,Paul STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G1113,4,08:42,HOU,,GSW,,C. Paul,GSW,MISS Paul 20' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-127,150,20,1,2.0,0.0,v
+S2324-G1113,4,05:25,HOU,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1113,4,05:05,HOU,,GSW,,C. Paul,GSW,SUB: Thompson FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G1001,1,00:02.500000,GSW,,MEM,,C. Paul,GSW,Paul REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1001,2,11:33,GSW,,MEM,,C. Paul,GSW,MISS Paul 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,137,-5,14,1,2.0,0.0,h
+S2324-G1001,2,05:54,GSW,52.0,MEM,47.0,C. Paul,GSW,Paul 3PT Jump Shot (3 PTS) (Wiggins 1 AST),Made Shot,Jump Shot,228,27,0,1,3.0,3.0,h
+S2324-G1001,2,05:38,GSW,,MEM,,C. Paul,GSW,Paul REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1001,2,05:30,GSW,,MEM,,C. Paul,GSW,MISS Paul 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,125,226,26,1,3.0,0.0,h
+S2324-G1001,2,04:16,GSW,56.0,MEM,50.0,C. Paul,GSW,Paul 15' Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,152,-25,15,1,2.0,2.0,h
+S2324-G1001,2,04:04,GSW,,MEM,,C. Paul,GSW,Paul REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1001,2,02:30,GSW,,MEM,,C. Paul,GSW,SUB: Thompson FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G1001,3,03:44,GSW,,MEM,,C. Paul,GSW,Paul S.FOUL (P1.T4) (D.Collins),Foul,Shooting,0,0,0,0,,,h
+S2324-G1001,3,03:07,GSW,100.0,MEM,80.0,C. Paul,GSW,Paul 18' Pullup Jump Shot (7 PTS) (Podziemski 4 AST),Made Shot,Pullup Jump shot,21,181,18,1,2.0,2.0,h
+S2324-G1001,3,01:46,GSW,,MEM,,C. Paul,GSW,Paul S.FOUL (P2.PN) (D.Collins),Foul,Shooting,0,0,0,0,,,h
+S2324-G1001,4,10:56,GSW,,MEM,,C. Paul,GSW,Paul REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1001,4,10:12,GSW,113.0,MEM,92.0,C. Paul,GSW,Paul 26' 3PT Pullup Jump Shot (10 PTS) (Green 7 AST),Made Shot,Pullup Jump shot,67,256,26,1,3.0,3.0,h
+S2324-G1001,4,05:44,GSW,129.0,MEM,104.0,C. Paul,GSW,Paul 20' Step Back Jump Shot (12 PTS),Made Shot,Step Back Jump shot,82,180,20,1,2.0,2.0,h
+S2324-G1001,4,04:29,GSW,,MEM,,C. Paul,GSW,MISS Paul 20' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-18,202,20,1,2.0,0.0,h
+S2324-G1001,4,03:42,GSW,,MEM,,C. Paul,GSW,SUB: Santos FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G0169,1,04:16,DEN,,GSW,,C. Paul,GSW,Paul Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0169,1,03:05,DEN,,GSW,,C. Paul,GSW,MISS Paul 3PT Jump Shot,Missed Shot,Jump Shot,-229,4,0,1,3.0,0.0,v
+S2324-G0169,1,00:26.100000,DEN,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0169,2,08:08,DEN,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0169,2,07:36,DEN,,GSW,,C. Paul,GSW,SUB: Podziemski FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G0169,2,03:30,DEN,,GSW,,C. Paul,GSW,MISS Paul 15' Jump Shot,Missed Shot,Jump Shot,150,11,15,1,2.0,0.0,v
+S2324-G0169,2,02:17,DEN,46.0,GSW,44.0,C. Paul,GSW,Paul 9' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,-45,79,9,1,2.0,2.0,v
+S2324-G0169,3,02:22,DEN,,GSW,,C. Paul,GSW,MISS Paul 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,134,27,14,1,2.0,0.0,v
+S2324-G0169,3,00:46.800000,DEN,,GSW,,C. Paul,GSW,MISS Paul 14' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-107,95,14,1,2.0,0.0,v
+S2324-G0169,3,00:43.700000,DEN,,GSW,,C. Paul,GSW,Paul REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0169,3,00:41.700000,DEN,76.0,GSW,76.0,C. Paul,GSW,Paul 14' Fadeaway Jumper (4 PTS),Made Shot,Fadeaway Jump Shot,141,22,14,1,2.0,2.0,v
+S2324-G0169,4,11:38,DEN,76.0,GSW,81.0,C. Paul,GSW,Paul 25' 3PT Jump Shot (7 PTS) (Podziemski 2 AST),Made Shot,Jump Shot,105,225,25,1,3.0,3.0,v
+S2324-G0169,4,10:01,DEN,,GSW,,C. Paul,GSW,MISS Paul 24' 3PT Jump Shot,Missed Shot,Jump Shot,-211,114,24,1,3.0,0.0,v
+S2324-G0169,4,09:40,DEN,,GSW,,C. Paul,GSW,Paul REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0169,4,09:32,DEN,,GSW,,C. Paul,GSW,Paul P.FOUL (P1.T1) (K.Scott),Foul,Personal,0,0,0,0,,,v
+S2324-G0169,4,07:48,DEN,92.0,GSW,89.0,C. Paul,GSW,Paul 16' Jump Shot (9 PTS),Made Shot,Jump Shot,108,124,16,1,2.0,2.0,v
+S2324-G0169,4,07:12,DEN,,GSW,,C. Paul,GSW,Paul STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0169,4,07:05,DEN,,GSW,,C. Paul,GSW,SUB: Looney FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G0169,4,00:57.200000,DEN,,GSW,,C. Paul,GSW,MISS Paul 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,82,239,25,1,3.0,0.0,v
+S2324-G0169,4,00:15,DEN,,GSW,,C. Paul,GSW,Paul Personal Take Foul (P2.PN) (A.Smith),Foul,Personal Take,0,0,0,0,,,v
+S2324-G0169,4,00:01.600000,DEN,,GSW,,C. Paul,GSW,Paul REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0186,1,00:34.700000,GSW,,MIN,,C. Paul,GSW,Paul Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0186,2,11:27,GSW,,MIN,,C. Paul,GSW,Paul P.FOUL (P1.T1) (R.Acosta),Foul,Personal,0,0,0,0,,,h
+S2324-G0186,2,10:49,GSW,,MIN,,C. Paul,GSW,Paul REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0186,2,09:43,GSW,,MIN,,C. Paul,GSW,Paul P.FOUL (P2.T2) (M.Davis),Foul,Personal,0,0,0,0,,,h
+S2324-G0186,2,09:03,GSW,,MIN,,C. Paul,GSW,MISS Paul 26' 3PT Jump Shot,Missed Shot,Jump Shot,-200,162,26,1,3.0,0.0,h
+S2324-G0186,2,08:23,GSW,,MIN,,C. Paul,GSW,SUB: Moody FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G0186,2,02:20,GSW,,MIN,,C. Paul,GSW,Paul P.FOUL (P3.T4) (M.Davis),Foul,Personal,0,0,0,0,,,h
+S2324-G0186,2,01:22,GSW,,MIN,,C. Paul,GSW,MISS Paul 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,114,105,15,1,2.0,0.0,h
+S2324-G0186,2,00:01.600000,GSW,,MIN,,C. Paul,GSW,SUB: Payton II FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G0186,3,03:02,GSW,,MIN,,C. Paul,GSW,MISS Paul 3PT Jump Shot,Missed Shot,Jump Shot,-224,-5,0,1,3.0,0.0,h
+S2324-G0186,4,11:33,GSW,,MIN,,C. Paul,GSW,Paul Bad Pass Turnover (P2.T11),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0186,4,08:46,GSW,81.0,MIN,93.0,C. Paul,GSW,Paul Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0186,4,08:46,GSW,82.0,MIN,93.0,C. Paul,GSW,Paul Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0186,4,07:41,GSW,,MIN,,C. Paul,GSW,Paul Transition Take Foul (P4.T1) (M.Davis),Foul                                    ,Transition Take,0,0,0,0,,,h
+S2324-G0186,4,06:37,GSW,,MIN,,C. Paul,GSW,SUB: Green FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G0201,1,11:08,GSW,,OKC,,C. Paul,GSW,Paul STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0201,1,10:26,GSW,,OKC,,C. Paul,GSW,Paul Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0201,1,07:30,GSW,13.0,OKC,12.0,C. Paul,GSW,Paul 27' 3PT Jump Shot (3 PTS) (Thompson 1 AST),Made Shot,Jump Shot,-37,270,27,1,3.0,3.0,h
+S2324-G0201,1,06:17,GSW,,OKC,,C. Paul,GSW,MISS Paul 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-172,200,26,1,3.0,0.0,h
+S2324-G0201,1,05:05,GSW,17.0,OKC,19.0,C. Paul,GSW,Paul Free Throw Technical (4 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,h
+S2324-G0201,1,04:17,GSW,,OKC,,C. Paul,GSW,SUB: Joseph FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G0201,2,08:10,GSW,,OKC,,C. Paul,GSW,Paul S.FOUL (P1.T2) (D.Richardson),Foul,Shooting,0,0,0,0,,,h
+S2324-G0201,2,08:01,GSW,,OKC,,C. Paul,GSW,SUB: Joseph FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G0201,2,03:40,GSW,,OKC,,C. Paul,GSW,MISS Paul 24' 3PT Jump Shot,Missed Shot,Jump Shot,-239,13,24,1,3.0,0.0,h
+S2324-G0201,2,02:40,GSW,50.0,OKC,62.0,C. Paul,GSW,Paul 28' 3PT Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,132,244,28,1,3.0,3.0,h
+S2324-G0201,2,00:33,GSW,,OKC,,C. Paul,GSW,MISS Paul 17' Jump Shot,Missed Shot,Jump Shot,-116,127,17,1,2.0,0.0,h
+S2324-G0201,3,11:48,GSW,,OKC,,C. Paul,GSW,MISS Paul 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-78,145,16,1,2.0,0.0,h
+S2324-G0201,3,09:23,GSW,,OKC,,C. Paul,GSW,Paul REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0201,3,07:23,GSW,73.0,OKC,79.0,C. Paul,GSW,Paul 25' 3PT Pullup Jump Shot (10 PTS) (Saric 2 AST),Made Shot,Pullup Jump shot,-200,152,25,1,3.0,3.0,h
+S2324-G0201,3,04:30,GSW,,OKC,,C. Paul,GSW,Paul REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0201,3,04:22,GSW,,OKC,,C. Paul,GSW,SUB: Moody FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G0201,4,11:16,GSW,88.0,OKC,97.0,C. Paul,GSW,Paul 3PT Jump Shot (13 PTS) (Podziemski 2 AST),Made Shot,Jump Shot,-227,-1,0,1,3.0,3.0,h
+S2324-G0201,4,10:05,GSW,92.0,OKC,102.0,C. Paul,GSW,Paul Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0201,4,10:05,GSW,93.0,OKC,102.0,C. Paul,GSW,Paul Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0201,4,08:39,GSW,,OKC,,C. Paul,GSW,Paul REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0201,4,07:57,GSW,,OKC,,C. Paul,GSW,SUB: Joseph FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G0145,1,04:41,DET,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0145,1,03:22,DET,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0145,1,00:55.400000,DET,24.0,GSW,28.0,C. Paul,GSW,Paul 17' Running Pull-Up Jump Shot (2 PTS),Made Shot,Running Pull-Up Jump Shot,18,173,17,1,2.0,2.0,v
+S2324-G0145,1,00:30.600000,DET,26.0,GSW,31.0,C. Paul,GSW,Paul 3PT Jump Shot (5 PTS),Made Shot,Jump Shot,224,-3,0,1,3.0,3.0,v
+S2324-G0145,1,00:06.300000,DET,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0145,2,08:36,DET,,GSW,,C. Paul,GSW,MISS Paul 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,134,-16,13,1,2.0,0.0,v
+S2324-G0145,2,07:38,DET,35.0,GSW,42.0,C. Paul,GSW,Paul 12' Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,65,96,12,1,2.0,2.0,v
+S2324-G0145,2,07:21,DET,,GSW,,C. Paul,GSW,SUB: Curry FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G0145,3,01:26,DET,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0145,3,01:09,DET,,GSW,,C. Paul,GSW,MISS Paul 25' 3PT Jump Shot,Missed Shot,Jump Shot,-229,101,25,1,3.0,0.0,v
+S2324-G0145,4,10:30,DET,88.0,GSW,88.0,C. Paul,GSW,Paul 25' 3PT Jump Shot (10 PTS) (Saric 1 AST),Made Shot,Jump Shot,70,245,25,1,3.0,3.0,v
+S2324-G0145,4,09:47,DET,,GSW,,C. Paul,GSW,MISS Paul 18' Jump Shot,Missed Shot,Jump Shot,-158,93,18,1,2.0,0.0,v
+S2324-G0145,4,09:04,DET,95.0,GSW,92.0,C. Paul,GSW,Paul 9' Driving Layup (12 PTS),Made Shot,Driving Layup Shot,65,56,9,1,2.0,2.0,v
+S2324-G0145,4,09:04,DET,95.0,GSW,93.0,C. Paul,GSW,Paul Free Throw 1 of 1 (13 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G0145,4,05:25,DET,,GSW,,C. Paul,GSW,SUB: Green FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G0145,4,01:26,DET,109.0,GSW,115.0,C. Paul,GSW,Paul 12' Jump Shot (15 PTS),Made Shot,Jump Shot,120,-1,12,1,2.0,2.0,v
+S2324-G0145,4,01:04,DET,109.0,GSW,116.0,C. Paul,GSW,Paul Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0145,4,01:04,DET,109.0,GSW,117.0,C. Paul,GSW,Paul Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0145,4,00:48,DET,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0145,4,00:29.300000,DET,,GSW,,C. Paul,GSW,SUB: Jackson-Davis FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G0348,1,05:18,POR,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0348,1,04:19,POR,,GSW,,C. Paul,GSW,Paul REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0348,1,03:39,POR,,GSW,,C. Paul,GSW,MISS Paul 26' 3PT Jump Shot,Missed Shot,Jump Shot,-174,193,26,1,3.0,0.0,v
+S2324-G0348,1,02:12,POR,,GSW,,C. Paul,GSW,Paul Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0348,1,00:49.100000,POR,,GSW,,C. Paul,GSW,Paul REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0348,2,06:33,POR,,GSW,,C. Paul,GSW,SUB: Moody FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G0348,2,03:27,POR,,GSW,,C. Paul,GSW,MISS Paul 27' 3PT Jump Shot,Missed Shot,Jump Shot,-142,227,27,1,3.0,0.0,v
+S2324-G0348,2,01:46,POR,,GSW,,C. Paul,GSW,Paul STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0348,3,06:24,POR,,GSW,,C. Paul,GSW,MISS Paul 25' 3PT Jump Shot,Missed Shot,Jump Shot,-192,166,25,1,3.0,0.0,v
+S2324-G0348,3,06:08,POR,,GSW,,C. Paul,GSW,Paul S.FOUL (P1.T4) (S.Twardoski),Foul,Shooting,0,0,0,0,,,v
+S2324-G0348,3,05:12,POR,,GSW,,C. Paul,GSW,MISS Paul 17' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-83,143,17,1,2.0,0.0,v
+S2324-G0348,4,11:27,POR,,GSW,,C. Paul,GSW,Paul Out of Bounds Lost Ball Turnover (P2.T11),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2324-G0348,4,11:11,POR,,GSW,,C. Paul,GSW,Paul REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0348,4,09:35,POR,,GSW,,C. Paul,GSW,Warriors T.Foul (Def. 3 Sec Paul ) (S.Twardoski),Foul,Defense 3 Second,0,0,0,0,,,v
+S2324-G0348,4,08:47,POR,,GSW,,C. Paul,GSW,MISS Paul 3PT Jump Shot,Missed Shot,Jump Shot,-222,9,0,1,3.0,0.0,v
+S2324-G0348,4,08:03,POR,,GSW,,C. Paul,GSW,SUB: Curry FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G0348,4,02:26,POR,103.0,GSW,111.0,C. Paul,GSW,Paul 16' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,-31,162,16,1,2.0,2.0,v
+S2324-G0348,4,00:20.900000,POR,111.0,GSW,115.0,C. Paul,GSW,Paul 12' Fadeaway Jumper (4 PTS),Made Shot,Fadeaway Jump Shot,120,-10,12,1,2.0,2.0,v
+S2324-G0108,1,03:34,NOP,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0108,1,03:23,NOP,18.0,GSW,20.0,C. Paul,GSW,Paul 12' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,118,-5,12,1,2.0,2.0,v
+S2324-G0108,1,00:09.500000,NOP,27.0,GSW,29.0,C. Paul,GSW,Paul 25' 3PT Jump Shot (5 PTS) (Podziemski 2 AST),Made Shot,Jump Shot,-185,170,25,1,3.0,3.0,v
+S2324-G0108,2,08:19,NOP,34.0,GSW,37.0,C. Paul,GSW,Paul 9' Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,-16,92,9,1,2.0,2.0,v
+S2324-G0108,2,08:03,NOP,,GSW,,C. Paul,GSW,SUB: Curry FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G0108,2,03:39,NOP,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0108,2,03:24,NOP,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0108,2,01:10,NOP,,GSW,,C. Paul,GSW,MISS Paul 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,121,212,24,1,3.0,0.0,v
+S2324-G0108,2,00:00.500000,NOP,,GSW,,C. Paul,GSW,MISS Paul 26' 3PT Floating Jump Shot,Missed Shot,Floating Jump shot,40,254,26,1,3.0,0.0,v
+S2324-G0108,3,04:20,NOP,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0108,3,03:31,NOP,77.0,GSW,87.0,C. Paul,GSW,Paul 19' Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,37,187,19,1,2.0,2.0,v
+S2324-G0108,3,03:22,NOP,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0108,3,03:18,NOP,,GSW,,C. Paul,GSW,MISS Paul 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,103,235,26,1,3.0,0.0,v
+S2324-G0108,3,02:44,NOP,77.0,GSW,91.0,C. Paul,GSW,Paul 11' Pullup Jump Shot (11 PTS),Made Shot,Pullup Jump shot,61,96,11,1,2.0,2.0,v
+S2324-G0108,3,01:42,NOP,,GSW,,C. Paul,GSW,Paul Out of Bounds - Bad Pass Turnover Turnover (P1.T10),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0108,3,01:27,NOP,,GSW,,C. Paul,GSW,Paul STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0108,3,00:45.100000,NOP,78.0,GSW,96.0,C. Paul,GSW,Paul 18' Fadeaway Jumper (13 PTS),Made Shot,Fadeaway Jump Shot,176,11,18,1,2.0,2.0,v
+S2324-G0108,3,00:12.900000,NOP,,GSW,,C. Paul,GSW,MISS Paul 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-203,158,26,1,3.0,0.0,v
+S2324-G0108,3,00:00.500000,NOP,,GSW,,C. Paul,GSW,Paul STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0108,4,10:58,NOP,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0108,4,07:48,NOP,,GSW,,C. Paul,GSW,SUB: Payton II FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G0325,1,05:38,LAC,,GSW,,C. Paul,GSW,Paul S.FOUL (P1.T2) (T.Brothers),Foul,Shooting,0,0,0,0,,,v
+S2324-G0325,1,04:17,LAC,18.0,GSW,17.0,C. Paul,GSW,Paul 25' 3PT Jump Shot (3 PTS) (Saric 1 AST),Made Shot,Jump Shot,-42,245,25,1,3.0,3.0,v
+S2324-G0325,1,02:46,LAC,20.0,GSW,21.0,C. Paul,GSW,Paul Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0325,1,02:46,LAC,20.0,GSW,22.0,C. Paul,GSW,Paul Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0325,1,00:27,LAC,,GSW,,C. Paul,GSW,Paul Lost Ball Turnover (P1.T5),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0325,1,00:00.800000,LAC,,GSW,,C. Paul,GSW,MISS Paul 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,10,257,26,1,3.0,0.0,v
+S2324-G0325,2,09:00,LAC,,GSW,,C. Paul,GSW,MISS Paul 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,119,230,26,1,3.0,0.0,v
+S2324-G0325,2,08:45,LAC,,GSW,,C. Paul,GSW,Paul FLAGRANT.FOUL.TYPE1 (P2.T3) (T.Brothers),Foul,Flagrant Type 1,0,0,0,0,,,v
+S2324-G0325,2,07:32,LAC,,GSW,,C. Paul,GSW,SUB: Curry FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G0325,2,03:27,LAC,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0325,2,02:48,LAC,,GSW,,C. Paul,GSW,Paul Traveling Turnover (P2.T9),Turnover,Traveling,0,0,0,0,,,v
+S2324-G0325,2,02:33,LAC,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0325,2,00:00.200000,LAC,,GSW,,C. Paul,GSW,MISS Paul 10' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-55,83,10,1,2.0,0.0,v
+S2324-G0325,3,02:25,LAC,97.0,GSW,86.0,C. Paul,GSW,Paul 13' Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,120,54,13,1,2.0,2.0,v
+S2324-G0325,3,00:00,LAC,99.0,GSW,93.0,C. Paul,GSW,Paul 32' 3PT Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,163,277,32,1,3.0,3.0,v
+S2324-G0325,4,10:03,LAC,,GSW,,C. Paul,GSW,MISS Paul 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,49,134,14,1,2.0,0.0,v
+S2324-G0325,4,09:29,LAC,,GSW,,C. Paul,GSW,MISS Paul 26' 3PT Jump Shot,Missed Shot,Jump Shot,129,228,26,1,3.0,0.0,v
+S2324-G0325,4,08:53,LAC,103.0,GSW,102.0,C. Paul,GSW,Paul 13' Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,33,122,13,1,2.0,2.0,v
+S2324-G0325,4,08:06,LAC,,GSW,,C. Paul,GSW,SUB: Curry FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G0325,4,00:29.500000,LAC,,GSW,,C. Paul,GSW,Paul Personal Take Foul (P3.PN) (A.Smith),Foul,Personal Take,0,0,0,0,,,v
+S2324-G0325,4,00:20.400000,LAC,,GSW,,C. Paul,GSW,Paul Personal Take Foul (P4.PN) (A.Smith),Foul,Personal Take,0,0,0,0,,,v
+S2324-G0236,1,10:44,PHX,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0236,1,08:08,PHX,5.0,GSW,8.0,C. Paul,GSW,Paul 17' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,-110,131,17,1,2.0,2.0,v
+S2324-G0236,1,06:48,PHX,,GSW,,C. Paul,GSW,SUB: Moody FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G0236,1,03:33,PHX,19.0,GSW,24.0,C. Paul,GSW,Paul Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0236,1,03:33,PHX,19.0,GSW,25.0,C. Paul,GSW,Paul Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0236,1,00:53.700000,PHX,,GSW,,C. Paul,GSW,MISS Paul 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-140,215,26,1,3.0,0.0,v
+S2324-G0236,1,00:40.800000,PHX,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0236,1,00:09.700000,PHX,26.0,GSW,30.0,C. Paul,GSW,Paul Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0236,1,00:09.700000,PHX,26.0,GSW,31.0,C. Paul,GSW,Paul Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0236,2,09:25,PHX,,GSW,,C. Paul,GSW,Paul Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0236,2,08:28,PHX,,GSW,,C. Paul,GSW,SUB: Podziemski FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G0236,2,00:23.200000,PHX,,GSW,,C. Paul,GSW,Paul P.FOUL (P1.PN) (S.Foster),Foul,Personal,0,0,0,0,,,v
+S2324-G0236,2,00:23.200000,PHX,,GSW,,C. Paul,GSW,Paul T.FOUL (P1.PN) (S.Foster),Foul,Technical,0,0,0,0,,,v
+S2324-G0236,2,00:23.200000,PHX,,GSW,,C. Paul,GSW,Paul T.FOUL (P1.PN) (S.Foster),Foul,Technical,0,0,0,0,,,v
+S2324-G0236,2,00:23.200000,PHX,,GSW,,C. Paul,GSW,Paul Ejection:Other,Ejection,Other,0,0,0,0,,,v
+S2324-G0236,2,00:23.200000,PHX,,GSW,,C. Paul,GSW,SUB: Saric FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G0060,1,04:16,SAC,,GSW,,C. Paul,GSW,MISS Paul 25' 3PT Jump Shot,Missed Shot,Jump Shot,-121,220,25,1,3.0,0.0,v
+S2324-G0060,1,03:57,SAC,18.0,GSW,30.0,C. Paul,GSW,Paul 24' 3PT Jump Shot (3 PTS),Made Shot,Jump Shot,50,237,24,1,3.0,3.0,v
+S2324-G0060,1,02:49,SAC,,GSW,,C. Paul,GSW,Paul STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0060,1,02:24,SAC,,GSW,,C. Paul,GSW,Paul STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0060,1,01:54,SAC,,GSW,,C. Paul,GSW,Paul S.FOUL (P1.T2) (J.Orr),Foul,Shooting,0,0,0,0,,,v
+S2324-G0060,1,00:19,SAC,,GSW,,C. Paul,GSW,SUB: Green FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G0308,1,06:31,PHX,,GSW,,C. Paul,GSW,MISS Paul 3PT Jump Shot,Missed Shot,Jump Shot,225,-14,0,1,3.0,0.0,v
+S2324-G0308,1,06:11,PHX,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0308,1,00:58.400000,PHX,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0308,1,00:04.300000,PHX,25.0,GSW,25.0,C. Paul,GSW,Paul 26' 3PT Jump Shot (3 PTS) (Curry 2 AST),Made Shot,Jump Shot,-18,263,26,1,3.0,3.0,v
+S2324-G0308,2,09:36,PHX,,GSW,,C. Paul,GSW,Paul STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0308,2,09:27,PHX,25.0,GSW,35.0,C. Paul,GSW,Paul 27' 3PT Pullup Jump Shot (6 PTS) (Podziemski 3 AST),Made Shot,Pullup Jump shot,81,253,27,1,3.0,3.0,v
+S2324-G0308,2,08:24,PHX,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0308,2,07:15,PHX,,GSW,,C. Paul,GSW,SUB: Curry FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G0308,3,06:31,PHX,,GSW,,C. Paul,GSW,Paul Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0308,3,02:10,PHX,80.0,GSW,82.0,C. Paul,GSW,Paul 26' 3PT Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,92,243,26,1,3.0,3.0,v
+S2324-G0308,3,01:23,PHX,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0308,3,01:10,PHX,83.0,GSW,86.0,C. Paul,GSW,Paul Free Throw 1 of 3 (10 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,v
+S2324-G0308,3,01:10,PHX,,GSW,,C. Paul,GSW,MISS Paul Free Throw 2 of 3,Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,0.0,v
+S2324-G0308,3,01:10,PHX,83.0,GSW,87.0,C. Paul,GSW,Paul Free Throw 3 of 3 (11 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,v
+S2324-G0308,3,00:57.200000,PHX,,GSW,,C. Paul,GSW,Paul S.FOUL (P1.PN) (B.Forte),Foul,Shooting,0,0,0,0,,,v
+S2324-G0308,4,09:16,PHX,95.0,GSW,91.0,C. Paul,GSW,Paul 11' Pullup Jump Shot (13 PTS),Made Shot,Pullup Jump shot,88,63,11,1,2.0,2.0,v
+S2324-G0308,4,08:50,PHX,,GSW,,C. Paul,GSW,MISS Paul 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,108,126,17,1,2.0,0.0,v
+S2324-G0308,4,08:38,PHX,,GSW,,C. Paul,GSW,Paul STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0308,4,08:15,PHX,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0308,4,07:58,PHX,,GSW,,C. Paul,GSW,MISS Paul 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,121,145,19,1,2.0,0.0,v
+S2324-G0308,4,07:38,PHX,,GSW,,C. Paul,GSW,SUB: Kuminga FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G0308,4,04:08,PHX,,GSW,,C. Paul,GSW,Paul S.FOUL (P2.PN) (B.Forte),Foul,Shooting,0,0,0,0,,,v
+S2324-G0308,4,01:19,PHX,,GSW,,C. Paul,GSW,Paul P.FOUL (P3.PN) (J.Goble),Foul,Personal,0,0,0,0,,,v
+S2324-G0308,4,01:08,PHX,115.0,GSW,108.0,C. Paul,GSW,Paul 1' Driving Layup (15 PTS),Made Shot,Driving Layup Shot,10,9,1,1,2.0,2.0,v
+S2324-G0308,4,00:05,PHX,,GSW,,C. Paul,GSW,Paul Personal Take Foul (P4.PN) (B.Nansel),Foul,Personal Take,0,0,0,0,,,v
+S2324-G0426,1,04:22,GSW,,MIA,,C. Paul,GSW,Paul L.B.FOUL (P1.T4) (J.Williams),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0426,1,02:32,GSW,,MIA,,C. Paul,GSW,Paul REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0426,2,10:08,GSW,,MIA,,C. Paul,GSW,Paul Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0426,2,09:10,GSW,,MIA,,C. Paul,GSW,MISS Paul 27' 3PT Jump Shot,Missed Shot,Jump Shot,-174,202,27,1,3.0,0.0,h
+S2324-G0426,2,08:54,GSW,,MIA,,C. Paul,GSW,Paul REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0426,2,08:37,GSW,,MIA,,C. Paul,GSW,Paul Out of Bounds - Bad Pass Turnover Turnover (P2.T5),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G0426,2,07:42,GSW,,MIA,,C. Paul,GSW,SUB: Curry FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G0426,2,01:40,GSW,,MIA,,C. Paul,GSW,Paul REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0426,2,01:40,GSW,49.0,MIA,56.0,C. Paul,GSW,Paul Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0426,2,01:40,GSW,50.0,MIA,56.0,C. Paul,GSW,Paul Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0426,2,01:00,GSW,,MIA,,C. Paul,GSW,Paul REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0426,2,00:31,GSW,,MIA,,C. Paul,GSW,Paul P.FOUL (P2.T4) (I.Hwang),Foul,Personal,0,0,0,0,,,h
+S2324-G0426,3,01:36,GSW,74.0,MIA,87.0,C. Paul,GSW,Paul 11' Jump Shot (4 PTS),Made Shot,Jump Shot,103,31,11,1,2.0,2.0,h
+S2324-G0426,3,00:58.900000,GSW,76.0,MIA,87.0,C. Paul,GSW,Paul 18' Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,112,137,18,1,2.0,2.0,h
+S2324-G0426,3,00:31.400000,GSW,,MIA,,C. Paul,GSW,MISS Paul 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,49,241,25,1,3.0,0.0,h
+S2324-G0426,3,00:24.700000,GSW,,MIA,,C. Paul,GSW,Paul S.FOUL (P3.T3) (I.Hwang),Foul,Shooting,0,0,0,0,,,h
+S2324-G0426,4,11:23,GSW,,MIA,,C. Paul,GSW,Paul S.FOUL (P4.T1) (J.Williams),Foul,Shooting,0,0,0,0,,,h
+S2324-G0426,4,10:01,GSW,,MIA,,C. Paul,GSW,Paul Bad Pass Turnover (P3.T11),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0426,4,08:22,GSW,,MIA,,C. Paul,GSW,MISS Paul 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,158,205,26,1,3.0,0.0,h
+S2324-G0426,4,07:55,GSW,,MIA,,C. Paul,GSW,SUB: Jackson-Davis FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G0426,4,03:51,GSW,91.0,MIA,104.0,C. Paul,GSW,Paul 25' 3PT Jump Shot (9 PTS) (Wiggins 3 AST),Made Shot,Jump Shot,-112,224,25,1,3.0,3.0,h
+S2324-G0426,4,02:09,GSW,,MIA,,C. Paul,GSW,SUB: Robinson FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G1169,1,09:53,POR,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1169,1,09:47,POR,,GSW,,C. Paul,GSW,Paul Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G1169,1,08:26,POR,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1169,1,08:18,POR,,GSW,,C. Paul,GSW,Paul S.FOUL (P1.T1) (N.Sago),Foul,Shooting,0,0,0,0,,,v
+S2324-G1169,1,06:48,POR,,GSW,,C. Paul,GSW,SUB: Moody FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G1169,2,11:17,POR,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1169,2,08:39,POR,30.0,GSW,33.0,C. Paul,GSW,Paul 15' Turnaround Fadeaway (2 PTS),Made Shot,Turnaround Fadeaway shot,55,142,15,1,2.0,2.0,v
+S2324-G1169,2,07:37,POR,,GSW,,C. Paul,GSW,MISS Paul 27' 3PT Jump Shot,Missed Shot,Jump Shot,72,256,27,1,3.0,0.0,v
+S2324-G1169,2,06:11,POR,,GSW,,C. Paul,GSW,MISS Paul 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-70,248,26,1,3.0,0.0,v
+S2324-G1169,2,05:35,POR,,GSW,,C. Paul,GSW,SUB: Podziemski FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G1169,3,08:36,POR,,GSW,,C. Paul,GSW,Paul STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G1169,3,06:55,POR,,GSW,,C. Paul,GSW,SUB: Podziemski FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G1169,3,03:42,POR,64.0,GSW,67.0,C. Paul,GSW,Paul 3PT Jump Shot (5 PTS) (Podziemski 3 AST),Made Shot,Jump Shot,-221,40,0,1,3.0,3.0,v
+S2324-G1169,3,03:19,POR,,GSW,,C. Paul,GSW,Paul L.B.FOUL (P2.PN) (T.Ford),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G1169,3,01:29,POR,,GSW,,C. Paul,GSW,MISS Paul 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-103,235,26,1,3.0,0.0,v
+S2324-G1169,4,10:37,POR,,GSW,,C. Paul,GSW,SUB: Curry FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G1169,4,06:03,POR,,GSW,,C. Paul,GSW,Paul BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G1169,4,05:16,POR,,GSW,,C. Paul,GSW,MISS Paul 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,76,126,15,1,2.0,0.0,v
+S2324-G1169,4,03:49,POR,,GSW,,C. Paul,GSW,Paul P.FOUL (P3.T4) (T.Ford),Foul,Personal,0,0,0,0,,,v
+S2324-G1169,4,01:17,POR,,GSW,,C. Paul,GSW,MISS Paul 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,152,216,26,1,3.0,0.0,v
+S2324-G1169,4,01:04,POR,90.0,GSW,100.0,C. Paul,GSW,Paul 26' 3PT Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,-54,255,26,1,3.0,3.0,v
+S2324-G1169,4,00:24,POR,,GSW,,C. Paul,GSW,MISS Paul 14' Jump Shot,Missed Shot,Jump Shot,76,121,14,1,2.0,0.0,v
+S2324-G0386,1,07:14,GSW,9.0,WAS,15.0,C. Paul,GSW,Paul 15' Pullup Jump Shot (2 PTS) (Jackson-Davis 1 AST),Made Shot,Pullup Jump shot,13,151,15,1,2.0,2.0,h
+S2324-G0386,1,06:12,GSW,,WAS,,C. Paul,GSW,Paul S.FOUL (P1.T3) (G.Petraitis),Foul,Shooting,0,0,0,0,,,h
+S2324-G0386,1,04:30,GSW,20.0,WAS,21.0,C. Paul,GSW,Paul 5' Pullup Jump Shot (4 PTS) (Curry 4 AST),Made Shot,Pullup Jump shot,11,47,5,1,2.0,2.0,h
+S2324-G0386,1,03:20,GSW,,WAS,,C. Paul,GSW,MISS Paul 18' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,11,178,18,1,2.0,0.0,h
+S2324-G0386,1,02:58,GSW,,WAS,,C. Paul,GSW,MISS Paul 27' 3PT Jump Shot,Missed Shot,Jump Shot,-150,227,27,1,3.0,0.0,h
+S2324-G0386,1,02:33,GSW,,WAS,,C. Paul,GSW,Paul REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0386,1,01:58,GSW,,WAS,,C. Paul,GSW,Paul REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0386,1,01:38,GSW,,WAS,,C. Paul,GSW,Paul S.FOUL (P2.PN) (G.Petraitis),Foul,Shooting,0,0,0,0,,,h
+S2324-G0386,1,01:29,GSW,,WAS,,C. Paul,GSW,MISS Paul Free Throw Technical,Free Throw,Free Throw Technical,0,0,0,0,1.0,0.0,h
+S2324-G0386,1,00:15.900000,GSW,,WAS,,C. Paul,GSW,SUB: Joseph FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G0386,2,09:13,GSW,,WAS,,C. Paul,GSW,Paul REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0386,2,08:33,GSW,,WAS,,C. Paul,GSW,Paul REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0386,2,08:30,GSW,,WAS,,C. Paul,GSW,SUB: Curry FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G0386,2,00:00.300000,GSW,,WAS,,C. Paul,GSW,MISS Paul 33' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,142,297,33,1,3.0,0.0,h
+S2324-G0386,3,04:59,GSW,,WAS,,C. Paul,GSW,MISS Paul 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,120,109,16,1,2.0,0.0,h
+S2324-G0386,3,04:23,GSW,,WAS,,C. Paul,GSW,Paul STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0386,3,03:08,GSW,,WAS,,C. Paul,GSW,Paul Out of Bounds - Bad Pass Turnover Turnover (P1.T8),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G0386,3,02:03,GSW,,WAS,,C. Paul,GSW,Paul REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0386,3,00:40.600000,GSW,,WAS,,C. Paul,GSW,Paul REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0386,4,10:05,GSW,,WAS,,C. Paul,GSW,MISS Paul 3PT Jump Shot,Missed Shot,Jump Shot,-228,43,0,1,3.0,0.0,h
+S2324-G0386,4,09:03,GSW,,WAS,,C. Paul,GSW,Paul REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0386,4,08:47,GSW,,WAS,,C. Paul,GSW,SUB: Joseph FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G1016,1,00:00.700000,GSW,,IND,,C. Paul,GSW,MISS Paul 61' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,208,572,61,1,3.0,0.0,h
+S2324-G1016,2,11:23,GSW,,IND,,C. Paul,GSW,Paul REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1016,2,09:18,GSW,,IND,,C. Paul,GSW,MISS Paul 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,67,180,19,1,2.0,0.0,h
+S2324-G1016,2,08:57,GSW,50.0,IND,45.0,C. Paul,GSW,Paul 7' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,5,74,7,1,2.0,2.0,h
+S2324-G1016,2,07:55,GSW,56.0,IND,48.0,C. Paul,GSW,Paul 25' 3PT Jump Shot (5 PTS) (Thompson 1 AST),Made Shot,Jump Shot,-181,168,25,1,3.0,3.0,h
+S2324-G1016,2,05:21,GSW,,IND,,C. Paul,GSW,MISS Paul 5' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,10,45,5,1,2.0,0.0,h
+S2324-G1016,2,05:20,GSW,,IND,,C. Paul,GSW,Paul REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1016,2,04:31,GSW,64.0,IND,54.0,C. Paul,GSW,Paul 10' Turnaround Fadeaway (7 PTS),Made Shot,Turnaround Fadeaway shot,-98,5,10,1,2.0,2.0,h
+S2324-G1016,2,03:59,GSW,,IND,,C. Paul,GSW,MISS Paul 3PT Jump Shot,Missed Shot,Jump Shot,-227,1,0,1,3.0,0.0,h
+S2324-G1016,2,03:07,GSW,,IND,,C. Paul,GSW,SUB: Green FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G1016,3,01:29,GSW,,IND,,C. Paul,GSW,Paul Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G1016,3,01:06,GSW,85.0,IND,99.0,C. Paul,GSW,Paul 12' Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,-2,116,12,1,2.0,2.0,h
+S2324-G1016,3,00:30.100000,GSW,,IND,,C. Paul,GSW,Paul REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1016,3,00:12.700000,GSW,88.0,IND,99.0,C. Paul,GSW,Paul 26' 3PT Jump Shot (12 PTS) (Podziemski 2 AST),Made Shot,Jump Shot,-147,217,26,1,3.0,3.0,h
+S2324-G1016,3,00:03.300000,GSW,,IND,,C. Paul,GSW,SUB: Kuminga FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G1016,4,10:52,GSW,,IND,,C. Paul,GSW,Paul REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1016,4,10:17,GSW,,IND,,C. Paul,GSW,Paul P.FOUL (P1.T2) (T.Brothers),Foul,Personal,0,0,0,0,,,h
+S2324-G1016,4,08:52,GSW,,IND,,C. Paul,GSW,Paul REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1016,4,08:52,GSW,,IND,,C. Paul,GSW,Paul Out of Bounds - Bad Pass Turnover Turnover (P2.T11),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G1016,4,08:39,GSW,,IND,,C. Paul,GSW,Paul REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1016,4,07:48,GSW,,IND,,C. Paul,GSW,Paul P.FOUL (P2.T3) (N.Buchert),Foul,Personal,0,0,0,0,,,h
+S2324-G1016,4,07:48,GSW,,IND,,C. Paul,GSW,SUB: Wiggins FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G1016,4,01:05,GSW,,IND,,C. Paul,GSW,Paul S.FOUL (P3.PN) (D.Richardson),Foul,Shooting,0,0,0,0,,,h
+S2324-G1016,4,00:37.500000,GSW,,IND,,C. Paul,GSW,MISS Paul 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,12,24,1,3.0,0.0,h
+S2324-G1016,4,00:22.600000,GSW,,IND,,C. Paul,GSW,Paul P.FOUL (P4.PN) (T.Brothers),Foul,Personal,0,0,0,0,,,h
+S2324-G1016,4,00:22.600000,GSW,,IND,,C. Paul,GSW,Paul T.FOUL (P4.PN) (T.Brothers),Foul,Technical,0,0,0,0,,,h
+S2324-G1016,4,00:06.600000,GSW,,IND,,C. Paul,GSW,Paul T.FOUL (P4.PN) (T.Brothers),Foul,Technical,0,0,0,0,,,h
+S2324-G1016,4,00:06.600000,GSW,,IND,,C. Paul,GSW,Paul Ejection:Other,Ejection,Other,0,0,0,0,,,h
+S2324-G1016,4,00:06.600000,GSW,,IND,,C. Paul,GSW,SUB: Jackson-Davis FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G1214,1,02:32,GSW,,POR,,C. Paul,GSW,Paul Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G1214,2,11:04,GSW,,POR,,C. Paul,GSW,MISS Paul 26' 3PT Jump Shot,Missed Shot,Jump Shot,-176,194,26,1,3.0,0.0,h
+S2324-G1214,2,07:58,GSW,,POR,,C. Paul,GSW,SUB: Wiggins FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G1214,2,01:57,GSW,44.0,POR,48.0,C. Paul,GSW,Paul 19' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,58,183,19,1,2.0,2.0,h
+S2324-G1214,2,01:38,GSW,,POR,,C. Paul,GSW,Paul REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1214,2,01:38,GSW,,POR,,C. Paul,GSW,Paul Lost Ball Turnover (P2.T10),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G1214,2,01:38,GSW,,POR,,C. Paul,GSW,Paul L.B.FOUL (P1.T3) (D.Scott),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G1214,2,00:07.600000,GSW,,POR,,C. Paul,GSW,Paul REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1214,4,11:50,GSW,,POR,,C. Paul,GSW,MISS Paul 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-117,67,13,1,2.0,0.0,h
+S2324-G1214,4,09:30,GSW,,POR,,C. Paul,GSW,Paul REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1214,4,08:26,GSW,,POR,,C. Paul,GSW,MISS Paul 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-184,173,25,1,3.0,0.0,h
+S2324-G1214,4,07:22,GSW,,POR,,C. Paul,GSW,Paul P.FOUL (P2.T4) (A.Smith),Foul,Personal,0,0,0,0,,,h
+S2324-G1214,4,05:32,GSW,,POR,,C. Paul,GSW,SUB: Wiggins FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G1097,1,00:33.700000,DAL,31.0,GSW,29.0,C. Paul,GSW,Paul 19' Step Back Jump Shot (2 PTS),Made Shot,Step Back Jump shot,157,113,19,1,2.0,2.0,v
+S2324-G1097,1,00:00.300000,DAL,31.0,GSW,32.0,C. Paul,GSW,Paul 27' 3PT Step Back Jump Shot (5 PTS),Made Shot,Step Back Jump shot,-97,257,27,1,3.0,3.0,v
+S2324-G1097,2,10:17,DAL,,GSW,,C. Paul,GSW,MISS Paul 4' Floating Jump Shot,Missed Shot,Floating Jump shot,38,23,4,1,2.0,0.0,v
+S2324-G1097,2,10:02,DAL,,GSW,,C. Paul,GSW,Paul STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G1097,2,07:06,DAL,40.0,GSW,42.0,C. Paul,GSW,Paul 21' Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,-20,205,21,1,2.0,2.0,v
+S2324-G1097,2,06:29,DAL,,GSW,,C. Paul,GSW,Paul STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G1097,2,05:50,DAL,,GSW,,C. Paul,GSW,Paul Lost Ball Turnover (P1.T7),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G1097,2,05:42,DAL,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1097,2,05:38,DAL,,GSW,,C. Paul,GSW,MISS Paul 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,6,253,25,1,3.0,0.0,v
+S2324-G1097,2,05:29,DAL,,GSW,,C. Paul,GSW,Paul STEAL (3 STL),,,0,0,0,0,,,v
+S2324-G1097,2,05:01,DAL,,GSW,,C. Paul,GSW,Paul BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G1097,2,04:36,DAL,,GSW,,C. Paul,GSW,SUB: Podziemski FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G1097,2,02:48,DAL,,GSW,,C. Paul,GSW,Paul STEAL (4 STL),,,0,0,0,0,,,v
+S2324-G1097,2,01:04,DAL,,GSW,,C. Paul,GSW,Paul Step Out of Bounds Turnover (P2.T8),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2324-G1097,2,00:01,DAL,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1097,3,10:37,DAL,,GSW,,C. Paul,GSW,MISS Paul 3PT Jump Shot,Missed Shot,Jump Shot,-229,15,0,1,3.0,0.0,v
+S2324-G1097,3,09:23,DAL,,GSW,,C. Paul,GSW,Paul S.FOUL (P1.T1) (C.Flores),Foul,Shooting,0,0,0,0,,,v
+S2324-G1097,3,07:14,DAL,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1097,3,06:37,DAL,,GSW,,C. Paul,GSW,Paul OFF.Foul (P2) (B.Forte),Foul,Offensive,0,0,0,0,,,v
+S2324-G1097,3,06:37,DAL,,GSW,,C. Paul,GSW,Paul Offensive Foul Turnover (P3.T9),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G1097,3,06:37,DAL,,GSW,,C. Paul,GSW,SUB: Payton II FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G1097,3,00:35.600000,DAL,77.0,GSW,75.0,C. Paul,GSW,Paul Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1097,3,00:35.600000,DAL,77.0,GSW,76.0,C. Paul,GSW,Paul Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1097,4,11:11,DAL,,GSW,,C. Paul,GSW,Paul S.FOUL (P3.T1) (C.Flores),Foul,Shooting,0,0,0,0,,,v
+S2324-G1097,4,10:02,DAL,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1097,4,08:46,DAL,,GSW,,C. Paul,GSW,Paul S.FOUL (P4.T2) (K.Scott),Foul,Shooting,0,0,0,0,,,v
+S2324-G1097,4,08:46,DAL,,GSW,,C. Paul,GSW,SUB: Podziemski FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G1097,4,04:14,DAL,,GSW,,C. Paul,GSW,MISS Paul 3PT Jump Shot,Missed Shot,Jump Shot,-232,22,0,1,3.0,0.0,v
+S2324-G1097,4,03:11,DAL,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0852,1,00:37.100000,NYK,,GSW,,C. Paul,GSW,Paul STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0852,1,00:31.500000,NYK,16.0,GSW,31.0,C. Paul,GSW,Paul 26' 3PT Running Pull-Up Jump Shot (3 PTS),Made Shot,Running Pull-Up Jump Shot,-109,236,26,1,3.0,3.0,v
+S2324-G0852,1,00:00,NYK,,GSW,,C. Paul,GSW,MISS Paul 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-67,169,18,1,2.0,0.0,v
+S2324-G0852,2,10:56,NYK,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0852,2,09:41,NYK,26.0,GSW,36.0,C. Paul,GSW,Paul 24' 3PT Jump Shot (6 PTS) (Jackson-Davis 1 AST),Made Shot,Jump Shot,-235,-5,24,1,3.0,3.0,v
+S2324-G0852,2,08:22,NYK,,GSW,,C. Paul,GSW,MISS Paul 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,66,262,27,1,3.0,0.0,v
+S2324-G0852,2,08:13,NYK,,GSW,,C. Paul,GSW,SUB: Curry FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G0852,2,04:31,NYK,,GSW,,C. Paul,GSW,Paul Step Out of Bounds Turnover (P1.T3),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2324-G0852,2,03:01,NYK,,GSW,,C. Paul,GSW,SUB: Thompson FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G0852,3,04:15,NYK,,GSW,,C. Paul,GSW,Paul STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0852,3,03:44,NYK,,GSW,,C. Paul,GSW,Paul STEAL (3 STL),,,0,0,0,0,,,v
+S2324-G0852,3,01:35,NYK,,GSW,,C. Paul,GSW,Paul S.FOUL (P1.T3) (J.Capers),Foul,Shooting,0,0,0,0,,,v
+S2324-G0852,3,01:16,NYK,,GSW,,C. Paul,GSW,MISS Paul 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,92,140,17,1,2.0,0.0,v
+S2324-G0852,4,10:53,NYK,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0852,4,10:40,NYK,72.0,GSW,87.0,C. Paul,GSW,Paul 16' Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,64,150,16,1,2.0,2.0,v
+S2324-G0852,4,10:29,NYK,,GSW,,C. Paul,GSW,Paul S.FOUL (P2.T1) (R.Acosta),Foul,Shooting,0,0,0,0,,,v
+S2324-G0852,4,09:49,NYK,,GSW,,C. Paul,GSW,MISS Paul 25' 3PT Jump Shot,Missed Shot,Jump Shot,-137,209,25,1,3.0,0.0,v
+S2324-G0852,4,09:12,NYK,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0852,4,07:38,NYK,,GSW,,C. Paul,GSW,MISS Paul 15' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-44,145,15,1,2.0,0.0,v
+S2324-G0852,4,07:17,NYK,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0852,4,06:35,NYK,,GSW,,C. Paul,GSW,SUB: Kuminga FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G0852,4,00:47.300000,NYK,95.0,GSW,106.0,C. Paul,GSW,Paul Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0852,4,00:47.300000,NYK,,GSW,,C. Paul,GSW,MISS Paul Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0852,4,00:18.200000,NYK,99.0,GSW,109.0,C. Paul,GSW,Paul Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0852,4,00:18.200000,NYK,99.0,GSW,110.0,C. Paul,GSW,Paul Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0444,1,06:15,GSW,,DAL,,C. Paul,GSW,SUB: Podziemski FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G0444,1,01:02,GSW,,DAL,,C. Paul,GSW,MISS Paul 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,112,136,18,1,2.0,0.0,h
+S2324-G0444,1,00:28.600000,GSW,26.0,DAL,34.0,C. Paul,GSW,Paul 26' 3PT Jump Shot (3 PTS) (Saric 1 AST),Made Shot,Jump Shot,124,228,26,1,3.0,3.0,h
+S2324-G0444,2,11:02,GSW,,DAL,,C. Paul,GSW,Paul REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0444,2,10:22,GSW,33.0,DAL,36.0,C. Paul,GSW,Paul 26' 3PT Jump Shot (6 PTS) (Saric 3 AST),Made Shot,Jump Shot,6,263,26,1,3.0,3.0,h
+S2324-G0444,2,08:03,GSW,,DAL,,C. Paul,GSW,MISS Paul 26' 3PT Jump Shot,Missed Shot,Jump Shot,-180,189,26,1,3.0,0.0,h
+S2324-G0444,2,07:07,GSW,,DAL,,C. Paul,GSW,SUB: Curry FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G0444,2,01:35,GSW,,DAL,,C. Paul,GSW,Paul BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0444,2,00:02.400000,GSW,54.0,DAL,63.0,C. Paul,GSW,Paul 13' Fadeaway Jumper (8 PTS),Made Shot,Fadeaway Jump Shot,134,2,13,1,2.0,2.0,h
+S2324-G0444,3,11:05,GSW,,DAL,,C. Paul,GSW,MISS Paul 3PT Jump Shot,Missed Shot,Jump Shot,-223,15,0,1,3.0,0.0,h
+S2324-G0444,3,08:48,GSW,59.0,DAL,71.0,C. Paul,GSW,Paul 8' Driving Floating Jump Shot (10 PTS) (Curry 5 AST),Made Shot,Driving Floating Jump Shot,4,78,8,1,2.0,2.0,h
+S2324-G0444,3,06:53,GSW,67.0,DAL,77.0,C. Paul,GSW,Paul 28' 3PT Jump Shot (13 PTS) (Kuminga 2 AST),Made Shot,Jump Shot,190,206,28,1,3.0,3.0,h
+S2324-G0444,3,06:39,GSW,,DAL,,C. Paul,GSW,Paul STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0444,3,06:06,GSW,,DAL,,C. Paul,GSW,SUB: Wiggins FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G0444,3,02:39,GSW,,DAL,,C. Paul,GSW,MISS Paul 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,100,148,18,1,2.0,0.0,h
+S2324-G0444,3,01:20,GSW,,DAL,,C. Paul,GSW,MISS Paul 3PT Jump Shot,Missed Shot,Jump Shot,233,-4,0,1,3.0,0.0,h
+S2324-G0444,4,09:06,GSW,96.0,DAL,107.0,C. Paul,GSW,Paul 13' Pullup Jump Shot (15 PTS),Made Shot,Pullup Jump shot,71,111,13,1,2.0,2.0,h
+S2324-G0444,4,08:54,GSW,,DAL,,C. Paul,GSW,Paul P.FOUL (P1.T1) (T.Washington),Foul,Personal,0,0,0,0,,,h
+S2324-G0444,4,08:54,GSW,,DAL,,C. Paul,GSW,SUB: Curry FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G0444,4,04:34,GSW,,DAL,,C. Paul,GSW,Paul REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0444,4,02:52,GSW,,DAL,,C. Paul,GSW,Paul STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0444,4,02:47,GSW,114.0,DAL,119.0,C. Paul,GSW,Paul 26' 3PT Running Jump Shot (18 PTS) (Curry 7 AST),Made Shot,Running Jump Shot,217,148,26,1,3.0,3.0,h
+S2324-G0444,4,01:40,GSW,119.0,DAL,125.0,C. Paul,GSW,Paul 27' 3PT Jump Shot (21 PTS) (Jackson-Davis 2 AST),Made Shot,Jump Shot,178,200,27,1,3.0,3.0,h
+S2324-G0444,4,00:50.600000,GSW,122.0,DAL,129.0,C. Paul,GSW,Paul 26' 3PT Pullup Jump Shot (24 PTS),Made Shot,Pullup Jump shot,-158,205,26,1,3.0,3.0,h
+S2324-G0444,4,00:42.300000,GSW,,DAL,,C. Paul,GSW,Paul Personal Take Foul (P2.PN) (K.Scott),Foul,Personal Take,0,0,0,0,,,h
+S2324-G0096,1,02:01,HOU,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0096,2,11:48,HOU,24.0,GSW,28.0,C. Paul,GSW,Paul 10' Fadeaway Jumper (2 PTS) (Saric 4 AST),Made Shot,Fadeaway Jump Shot,96,2,10,1,2.0,2.0,v
+S2324-G0096,2,10:20,HOU,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0096,2,08:13,HOU,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0096,2,07:56,HOU,,GSW,,C. Paul,GSW,MISS Paul 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-109,233,26,1,3.0,0.0,v
+S2324-G0096,2,07:46,HOU,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0096,2,07:42,HOU,,GSW,,C. Paul,GSW,SUB: Green FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G0096,2,01:39,HOU,,GSW,,C. Paul,GSW,MISS Paul 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,169,123,21,1,2.0,0.0,v
+S2324-G0096,2,01:26,HOU,,GSW,,C. Paul,GSW,Paul STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0096,3,03:48,HOU,,GSW,,C. Paul,GSW,MISS Paul 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,124,229,26,1,3.0,0.0,v
+S2324-G0096,3,03:42,HOU,,GSW,,C. Paul,GSW,Paul P.FOUL (P1.T4) (R.Mott),Foul,Personal,0,0,0,0,,,v
+S2324-G0096,3,00:30.300000,HOU,,GSW,,C. Paul,GSW,MISS Paul 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,165,220,28,1,3.0,0.0,v
+S2324-G0096,4,10:06,HOU,,GSW,,C. Paul,GSW,Paul Lost Ball Turnover (P1.T13),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0096,4,09:27,HOU,81.0,GSW,83.0,C. Paul,GSW,Paul 14' Jump Shot (4 PTS) (Payton II 1 AST),Made Shot,Jump Shot,88,106,14,1,2.0,2.0,v
+S2324-G0096,4,08:55,HOU,83.0,GSW,85.0,C. Paul,GSW,Paul 18' Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,116,132,18,1,2.0,2.0,v
+S2324-G0096,4,07:35,HOU,,GSW,,C. Paul,GSW,MISS Paul 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,74,108,13,1,2.0,0.0,v
+S2324-G0096,4,07:34,HOU,,GSW,,C. Paul,GSW,SUB: Curry FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G0096,4,01:46,HOU,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0096,4,00:20.200000,HOU,95.0,GSW,105.0,C. Paul,GSW,Paul Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0096,4,00:20.200000,HOU,95.0,GSW,106.0,C. Paul,GSW,Paul Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1062,1,11:05,CHA,,GSW,,C. Paul,GSW,Paul Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G1062,1,09:36,CHA,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1062,1,08:22,CHA,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1062,1,08:19,CHA,,GSW,,C. Paul,GSW,Paul Out of Bounds - Bad Pass Turnover Turnover (P2.T2),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G1062,1,06:00,CHA,,GSW,,C. Paul,GSW,SUB: Payton II FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G1062,2,10:18,CHA,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1062,2,08:05,CHA,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1062,2,07:49,CHA,,GSW,,C. Paul,GSW,MISS Paul 3PT Jump Shot,Missed Shot,Jump Shot,230,37,0,1,3.0,0.0,v
+S2324-G1062,2,07:30,CHA,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1062,2,07:16,CHA,,GSW,,C. Paul,GSW,Paul Out of Bounds - Bad Pass Turnover Turnover (P3.T6),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G1062,2,07:16,CHA,,GSW,,C. Paul,GSW,SUB: Curry FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G1062,2,00:59.400000,CHA,40.0,GSW,47.0,C. Paul,GSW,Paul 27' 3PT Jump Shot (3 PTS) (Wiggins 2 AST),Made Shot,Jump Shot,-157,214,27,1,3.0,3.0,v
+S2324-G1062,3,10:57,CHA,47.0,GSW,54.0,C. Paul,GSW,Paul 13' Fadeaway Jumper (5 PTS),Made Shot,Fadeaway Jump Shot,-127,9,13,1,2.0,2.0,v
+S2324-G1062,3,10:31,CHA,,GSW,,C. Paul,GSW,Paul Bad Pass Turnover (P4.T9),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G1062,3,10:28,CHA,,GSW,,C. Paul,GSW,Paul S.FOUL (P1.T1) (D.Richardson),Foul,Shooting,0,0,0,0,,,v
+S2324-G1062,3,06:57,CHA,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1062,3,06:54,CHA,,GSW,,C. Paul,GSW,SUB: Podziemski FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G1062,3,03:26,CHA,66.0,GSW,81.0,C. Paul,GSW,Paul 16' Fadeaway Jumper (7 PTS),Made Shot,Fadeaway Jump Shot,-9,158,16,1,2.0,2.0,v
+S2324-G1062,3,02:41,CHA,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1062,4,11:44,CHA,71.0,GSW,91.0,C. Paul,GSW,Paul 13' Fadeaway Jumper (9 PTS),Made Shot,Fadeaway Jump Shot,-130,8,13,1,2.0,2.0,v
+S2324-G1062,4,07:38,CHA,,GSW,,C. Paul,GSW,Paul P.FOUL (P2.T2) (D.Richardson),Foul,Personal,0,0,0,0,,,v
+S2324-G1062,4,07:17,CHA,85.0,GSW,103.0,C. Paul,GSW,Paul 18' Pullup Jump Shot (11 PTS),Made Shot,Pullup Jump shot,71,163,18,1,2.0,2.0,v
+S2324-G1062,4,04:26,CHA,,GSW,,C. Paul,GSW,SUB: Podziemski FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G0126,1,02:00,GSW,,SAC,,C. Paul,GSW,MISS Paul 27' 3PT Jump Shot,Missed Shot,Jump Shot,-199,185,27,1,3.0,0.0,h
+S2324-G0126,2,09:59,GSW,,SAC,,C. Paul,GSW,Paul REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0126,2,09:37,GSW,,SAC,,C. Paul,GSW,Paul REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0126,2,08:33,GSW,,SAC,,C. Paul,GSW,SUB: Green FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G0126,2,03:38,GSW,,SAC,,C. Paul,GSW,Paul REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0126,2,01:26,GSW,,SAC,,C. Paul,GSW,MISS Paul 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-232,-9,0,1,3.0,0.0,h
+S2324-G0126,3,03:30,GSW,,SAC,,C. Paul,GSW,Paul REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0126,4,11:11,GSW,,SAC,,C. Paul,GSW,MISS Paul 10' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,72,73,10,1,2.0,0.0,h
+S2324-G0126,4,10:59,GSW,,SAC,,C. Paul,GSW,MISS Paul 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,13,262,26,1,3.0,0.0,h
+S2324-G0126,4,10:49,GSW,78.0,SAC,79.0,C. Paul,GSW,Paul 4' Driving Finger Roll Layup (2 PTS) (Saric 2 AST),Made Shot,Driving Finger Roll Layup Shot,-32,21,4,1,2.0,2.0,h
+S2324-G0126,4,08:36,GSW,,SAC,,C. Paul,GSW,Paul S.FOUL (P1.T3) (J.Capers),Foul,Shooting,0,0,0,0,,,h
+S2324-G0126,4,08:03,GSW,,SAC,,C. Paul,GSW,SUB: Curry FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G0126,4,03:11,GSW,,SAC,,C. Paul,GSW,Paul P.FOUL (P2.PN) (J.Schroeder),Foul,Personal,0,0,0,0,,,h
+S2324-G0126,4,00:00.200000,GSW,,SAC,,C. Paul,GSW,SUB: Looney FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G0872,1,02:39,BOS,,GSW,,C. Paul,GSW,MISS Paul 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,109,144,18,1,2.0,0.0,v
+S2324-G0872,1,01:49,BOS,,GSW,,C. Paul,GSW,Paul Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0872,1,00:11.900000,BOS,,GSW,,C. Paul,GSW,MISS Paul 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,38,178,18,1,2.0,0.0,v
+S2324-G0872,2,08:59,BOS,,GSW,,C. Paul,GSW,MISS Paul 3PT Jump Shot,Missed Shot,Jump Shot,-230,16,0,1,3.0,0.0,v
+S2324-G0872,2,08:15,BOS,,GSW,,C. Paul,GSW,SUB: Curry FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G0872,2,00:54.800000,BOS,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0872,3,09:36,BOS,90.0,GSW,44.0,C. Paul,GSW,Paul 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,2,24,2,1,2.0,2.0,v
+S2324-G0872,3,09:06,BOS,,GSW,,C. Paul,GSW,Paul Bad Pass Turnover (P2.T10),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0872,3,06:54,BOS,,GSW,,C. Paul,GSW,Paul STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0872,3,06:13,BOS,,GSW,,C. Paul,GSW,MISS Paul 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-184,173,25,1,3.0,0.0,v
+S2324-G0872,3,05:30,BOS,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0872,3,05:00,BOS,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0872,3,03:01,BOS,,GSW,,C. Paul,GSW,MISS Paul 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,267,27,1,3.0,0.0,v
+S2324-G0872,3,02:51,BOS,,GSW,,C. Paul,GSW,SUB: Quinones FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G0921,1,11:46,GSW,2.0,SAS,0.0,C. Paul,GSW,Paul 9' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,22,83,9,1,2.0,2.0,h
+S2324-G0921,1,10:34,GSW,,SAS,,C. Paul,GSW,MISS Paul 24' 3PT Jump Shot,Missed Shot,Jump Shot,-185,151,24,1,3.0,0.0,h
+S2324-G0921,1,07:20,GSW,,SAS,,C. Paul,GSW,MISS Paul 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-34,100,11,1,2.0,0.0,h
+S2324-G0921,1,07:10,GSW,,SAS,,C. Paul,GSW,SUB: Moody FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G0921,1,02:13,GSW,,SAS,,C. Paul,GSW,Paul P.FOUL (P1.T4) (S.Wright),Foul,Personal,0,0,0,0,,,h
+S2324-G0921,1,02:04,GSW,,SAS,,C. Paul,GSW,Paul REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0921,2,10:43,GSW,,SAS,,C. Paul,GSW,Paul STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0921,2,09:40,GSW,30.0,SAS,40.0,C. Paul,GSW,Paul 24' 3PT Jump Shot (5 PTS) (Green 2 AST),Made Shot,Jump Shot,-214,113,24,1,3.0,3.0,h
+S2324-G0921,2,08:54,GSW,,SAS,,C. Paul,GSW,SUB: Podziemski FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G0921,2,04:47,GSW,,SAS,,C. Paul,GSW,MISS Paul 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,56,92,11,1,2.0,0.0,h
+S2324-G0921,2,02:10,GSW,,SAS,,C. Paul,GSW,Paul REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0921,2,01:58,GSW,,SAS,,C. Paul,GSW,MISS Paul 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,9,147,15,1,2.0,0.0,h
+S2324-G0921,2,00:05.900000,GSW,,SAS,,C. Paul,GSW,Paul STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0921,3,08:48,GSW,,SAS,,C. Paul,GSW,Paul REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0921,3,08:19,GSW,56.0,SAS,66.0,C. Paul,GSW,Paul 9' Floating Jump Shot (7 PTS),Made Shot,Floating Jump shot,56,68,9,1,2.0,2.0,h
+S2324-G0921,3,05:35,GSW,65.0,SAS,78.0,C. Paul,GSW,Paul 27' 3PT Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,39,265,27,1,3.0,3.0,h
+S2324-G0921,3,04:52,GSW,,SAS,,C. Paul,GSW,Paul REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0921,3,04:31,GSW,,SAS,,C. Paul,GSW,SUB: Quinones FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G0921,4,10:35,GSW,,SAS,,C. Paul,GSW,MISS Paul 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,28,200,20,1,2.0,0.0,h
+S2324-G0921,4,07:08,GSW,,SAS,,C. Paul,GSW,Paul STEAL (3 STL),,,0,0,0,0,,,h
+S2324-G0921,4,06:05,GSW,,SAS,,C. Paul,GSW,SUB: Jackson-Davis FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G0936,1,10:09,SAS,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0936,1,07:21,SAS,,GSW,,C. Paul,GSW,SUB: Payton II FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G0936,1,02:40,SAS,29.0,GSW,23.0,C. Paul,GSW,Paul 9' Floating Jump Shot (2 PTS),Made Shot,Floating Jump shot,-11,90,9,1,2.0,2.0,v
+S2324-G0936,1,02:00,SAS,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0936,1,01:11,SAS,,GSW,,C. Paul,GSW,Paul P.FOUL (P1.T3) (M.Smith),Foul,Personal,0,0,0,0,,,v
+S2324-G0936,1,00:49.300000,SAS,33.0,GSW,25.0,C. Paul,GSW,Paul 2' Driving Finger Roll Layup (4 PTS) (Jackson-Davis 2 AST),Made Shot,Driving Finger Roll Layup Shot,16,-3,2,1,2.0,2.0,v
+S2324-G0936,1,00:27.900000,SAS,36.0,GSW,27.0,C. Paul,GSW,Paul 17' Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,-114,126,17,1,2.0,2.0,v
+S2324-G0936,1,00:00,SAS,37.0,GSW,29.0,C. Paul,GSW,Paul 22' Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,-62,209,22,1,2.0,2.0,v
+S2324-G0936,2,10:38,SAS,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0936,2,10:36,SAS,39.0,GSW,34.0,C. Paul,GSW,Paul 25' 3PT Running Pull-Up Jump Shot (11 PTS),Made Shot,Running Pull-Up Jump Shot,137,214,25,1,3.0,3.0,v
+S2324-G0936,2,09:41,SAS,,GSW,,C. Paul,GSW,MISS Paul 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,26,4,3,1,2.0,0.0,v
+S2324-G0936,2,08:13,SAS,,GSW,,C. Paul,GSW,SUB: Thompson FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G0936,2,01:44,SAS,,GSW,,C. Paul,GSW,MISS Paul 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-6,153,15,1,2.0,0.0,v
+S2324-G0936,2,01:20,SAS,,GSW,,C. Paul,GSW,MISS Paul 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-123,232,26,1,3.0,0.0,v
+S2324-G0936,2,00:47.400000,SAS,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0936,3,11:32,SAS,,GSW,,C. Paul,GSW,MISS Paul 16' Floating Jump Shot,Missed Shot,Floating Jump shot,-110,122,16,1,2.0,0.0,v
+S2324-G0936,3,11:16,SAS,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0936,3,09:30,SAS,68.0,GSW,62.0,C. Paul,GSW,Paul 17' Pullup Jump Shot (13 PTS),Made Shot,Pullup Jump shot,100,136,17,1,2.0,2.0,v
+S2324-G0936,3,08:16,SAS,,GSW,,C. Paul,GSW,Paul L.B.FOUL (P2.T2) (E.Malloy),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0936,3,07:26,SAS,,GSW,,C. Paul,GSW,SUB: Jackson-Davis FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G0936,3,02:20,SAS,,GSW,,C. Paul,GSW,MISS Paul 11' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,108,11,1,2.0,0.0,v
+S2324-G0936,3,02:09,SAS,,GSW,,C. Paul,GSW,Paul Out of Bounds - Bad Pass Turnover Turnover (P1.T10),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0936,3,00:59.500000,SAS,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0936,3,00:56,SAS,,GSW,,C. Paul,GSW,Paul REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0936,3,00:52.500000,SAS,74.0,GSW,90.0,C. Paul,GSW,Paul Putback Layup (15 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,v
+S2324-G0936,3,00:01.200000,SAS,,GSW,,C. Paul,GSW,MISS Paul 30' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-13,303,30,1,3.0,0.0,v
+S2324-G0936,4,07:33,SAS,,GSW,,C. Paul,GSW,Paul S.FOUL (P3.T2) (M.Smith),Foul,Shooting,0,0,0,0,,,v
+S2324-G0936,4,07:19,SAS,93.0,GSW,103.0,C. Paul,GSW,Paul 19' Pullup Jump Shot (17 PTS) (Wiggins 2 AST),Made Shot,Pullup Jump shot,5,192,19,1,2.0,2.0,v
+S2324-G0936,4,05:44,SAS,,GSW,,C. Paul,GSW,MISS Paul 1' Driving Layup,Missed Shot,Driving Layup Shot,6,8,1,1,2.0,0.0,v
+S2324-G0936,4,05:12,SAS,99.0,GSW,109.0,C. Paul,GSW,Paul 10' Pullup Jump Shot (19 PTS),Made Shot,Pullup Jump shot,40,90,10,1,2.0,2.0,v
+S2324-G0936,4,04:36,SAS,,GSW,,C. Paul,GSW,Paul STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0936,4,03:20,SAS,,GSW,,C. Paul,GSW,MISS Paul 13' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-32,125,13,1,2.0,0.0,v
+S2324-G0936,4,02:22,SAS,,GSW,,C. Paul,GSW,Paul REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0936,4,02:18,SAS,,GSW,,C. Paul,GSW,MISS Paul 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-227,117,26,1,3.0,0.0,v
+S2324-G0936,4,01:38,SAS,,GSW,,C. Paul,GSW,MISS Paul 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-108,21,11,1,2.0,0.0,v
+S2324-G0936,4,01:01,SAS,,GSW,,C. Paul,GSW,Paul REBOUND (Off:2 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0936,4,00:38.700000,SAS,,GSW,,C. Paul,GSW,Paul P.FOUL (P4.PN) (M.Smith),Foul,Personal,0,0,0,0,,,v
+S2324-G0062,1,11:50,GSW,,PHX,,C. Paul,GSW,MISS Paul 9' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,69,60,9,1,2.0,0.0,h
+S2324-G0062,1,09:46,GSW,,PHX,,C. Paul,GSW,MISS Paul 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,98,264,28,1,3.0,0.0,h
+S2324-G0062,1,07:23,GSW,,PHX,,C. Paul,GSW,Paul REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0062,1,07:05,GSW,,PHX,,C. Paul,GSW,SUB: Kuminga FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G0062,2,10:41,GSW,,PHX,,C. Paul,GSW,Paul REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0062,2,10:32,GSW,,PHX,,C. Paul,GSW,MISS Paul 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,114,25,12,1,2.0,0.0,h
+S2324-G0062,2,10:00,GSW,,PHX,,C. Paul,GSW,MISS Paul Free Throw 1 of 3,Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,0.0,h
+S2324-G0062,2,10:00,GSW,31.0,PHX,28.0,C. Paul,GSW,Paul Free Throw 2 of 3 (1 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,h
+S2324-G0062,2,10:00,GSW,32.0,PHX,28.0,C. Paul,GSW,Paul Free Throw 3 of 3 (2 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,h
+S2324-G0062,2,08:37,GSW,,PHX,,C. Paul,GSW,MISS Paul 18' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-64,168,18,1,2.0,0.0,h
+S2324-G0062,2,07:48,GSW,,PHX,,C. Paul,GSW,MISS Paul 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,138,206,25,1,3.0,0.0,h
+S2324-G0062,2,07:39,GSW,,PHX,,C. Paul,GSW,SUB: Looney FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G0062,2,00:30.300000,GSW,,PHX,,C. Paul,GSW,MISS Paul 6' Driving Layup,Missed Shot,Driving Layup Shot,47,36,6,1,2.0,0.0,h
+S2324-G0062,3,11:36,GSW,,PHX,,C. Paul,GSW,Paul REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0062,3,08:28,GSW,,PHX,,C. Paul,GSW,Paul REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0062,3,07:54,GSW,,PHX,,C. Paul,GSW,Paul STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0062,3,07:21,GSW,,PHX,,C. Paul,GSW,Paul Lost Ball Turnover (P1.T5),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0062,3,06:49,GSW,63.0,PHX,64.0,C. Paul,GSW,Paul 11' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,-114,11,11,1,2.0,2.0,h
+S2324-G0062,3,05:46,GSW,67.0,PHX,66.0,C. Paul,GSW,Paul 6' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,47,41,6,1,2.0,2.0,h
+S2324-G0062,3,05:46,GSW,68.0,PHX,66.0,C. Paul,GSW,Paul Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G0062,3,05:28,GSW,69.0,PHX,66.0,C. Paul,GSW,Paul Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0062,3,05:28,GSW,70.0,PHX,66.0,C. Paul,GSW,Paul Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0062,3,05:13,GSW,,PHX,,C. Paul,GSW,Paul REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0062,3,04:17,GSW,,PHX,,C. Paul,GSW,Paul REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0062,3,03:55,GSW,75.0,PHX,68.0,C. Paul,GSW,Paul 5' Driving Finger Roll Layup (11 PTS) (Payton II 2 AST),Made Shot,Driving Finger Roll Layup Shot,44,19,5,1,2.0,2.0,h
+S2324-G0062,3,03:55,GSW,76.0,PHX,68.0,C. Paul,GSW,Paul Free Throw 1 of 1 (12 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G0062,3,03:10,GSW,,PHX,,C. Paul,GSW,MISS Paul 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,118,30,12,1,2.0,0.0,h
+S2324-G0062,3,02:53,GSW,,PHX,,C. Paul,GSW,SUB: Curry FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G0062,4,09:29,GSW,,PHX,,C. Paul,GSW,MISS Paul 25' 3PT Jump Shot,Missed Shot,Jump Shot,-140,203,25,1,3.0,0.0,h
+S2324-G0062,4,05:22,GSW,,PHX,,C. Paul,GSW,SUB: Kuminga FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G0062,4,02:57,GSW,99.0,PHX,100.0,C. Paul,GSW,Paul 18' Pullup Jump Shot (14 PTS),Made Shot,Pullup Jump shot,56,176,18,1,2.0,2.0,h
+S2324-G0062,4,01:45,GSW,,PHX,,C. Paul,GSW,Paul STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0062,4,01:35,GSW,,PHX,,C. Paul,GSW,MISS Paul 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,130,240,27,1,3.0,0.0,h
+S2324-G0062,4,00:36.200000,GSW,,PHX,,C. Paul,GSW,MISS Paul 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,196,187,27,1,3.0,0.0,h
+S2324-G0062,4,00:08,GSW,,PHX,,C. Paul,GSW,MISS Paul 24' 3PT Jump Shot,Missed Shot,Jump Shot,-181,162,24,1,3.0,0.0,h
+S2324-G0490,1,07:47,GSW,,DET,,C. Paul,GSW,Paul BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0490,1,05:53,GSW,,DET,,C. Paul,GSW,SUB: Jackson-Davis FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G0490,1,03:06,GSW,,DET,,C. Paul,GSW,MISS Paul Free Throw Technical,Free Throw,Free Throw Technical,0,0,0,0,1.0,0.0,h
+S2324-G0490,1,01:49,GSW,,DET,,C. Paul,GSW,Paul REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0490,1,01:46,GSW,,DET,,C. Paul,GSW,Paul Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0490,2,10:22,GSW,,DET,,C. Paul,GSW,Paul REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0490,2,09:02,GSW,,DET,,C. Paul,GSW,MISS Paul 3PT Jump Shot,Missed Shot,Jump Shot,-223,2,0,1,3.0,0.0,h
+S2324-G0490,2,08:51,GSW,26.0,DET,27.0,C. Paul,GSW,Paul 2' Driving Layup (2 PTS) (Podziemski 1 AST),Made Shot,Driving Layup Shot,-7,17,2,1,2.0,2.0,h
+S2324-G0490,2,08:15,GSW,,DET,,C. Paul,GSW,Paul REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0490,2,07:04,GSW,,DET,,C. Paul,GSW,Paul P.FOUL (P1.T3) (M.Lindsay),Foul,Personal,0,0,0,0,,,h
+S2324-G0490,2,07:04,GSW,,DET,,C. Paul,GSW,SUB: Curry FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G0490,2,00:02.400000,GSW,,DET,,C. Paul,GSW,Paul L.B.FOUL (P2.T4) (C.Washington),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0490,3,10:15,GSW,56.0,DET,52.0,C. Paul,GSW,Paul 28' 3PT Jump Shot (5 PTS) (Curry 4 AST),Made Shot,Jump Shot,-110,257,28,1,3.0,3.0,h
+S2324-G0490,3,08:05,GSW,,DET,,C. Paul,GSW,Paul REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0490,3,07:03,GSW,,DET,,C. Paul,GSW,Paul REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0490,3,06:56,GSW,63.0,DET,56.0,C. Paul,GSW,Paul 28' 3PT Jump Shot (8 PTS) (Thompson 4 AST),Made Shot,Jump Shot,96,258,28,1,3.0,3.0,h
+S2324-G0490,3,06:25,GSW,,DET,,C. Paul,GSW,Paul REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0490,3,06:08,GSW,,DET,,C. Paul,GSW,MISS Paul 27' 3PT Jump Shot,Missed Shot,Jump Shot,140,236,27,1,3.0,0.0,h
+S2324-G0490,3,05:39,GSW,,DET,,C. Paul,GSW,SUB: Wiggins FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G0399,1,04:42,GSW,,POR,,C. Paul,GSW,Paul Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0399,1,03:24,GSW,,POR,,C. Paul,GSW,Paul REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0399,1,02:53,GSW,19.0,POR,25.0,C. Paul,GSW,Paul 18' Turnaround Jump Shot (2 PTS),Made Shot,Turnaround Jump Shot,173,29,18,1,2.0,2.0,h
+S2324-G0399,1,01:32,GSW,,POR,,C. Paul,GSW,MISS Paul 3PT Jump Shot,Missed Shot,Jump Shot,-227,11,0,1,3.0,0.0,h
+S2324-G0399,2,11:23,GSW,,POR,,C. Paul,GSW,Paul STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0399,2,07:00,GSW,,POR,,C. Paul,GSW,SUB: Curry FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G0399,2,00:32.400000,GSW,,POR,,C. Paul,GSW,Paul STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0399,2,00:02.800000,GSW,,POR,,C. Paul,GSW,Paul REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0399,3,04:48,GSW,,POR,,C. Paul,GSW,Paul STEAL (3 STL),,,0,0,0,0,,,h
+S2324-G0399,3,04:00,GSW,,POR,,C. Paul,GSW,Paul S.FOUL (P1.T3) (J.Tiven),Foul,Shooting,0,0,0,0,,,h
+S2324-G0399,3,02:16,GSW,,POR,,C. Paul,GSW,MISS Paul 3PT Jump Shot,Missed Shot,Jump Shot,232,-8,0,1,3.0,0.0,h
+S2324-G0399,3,00:01.100000,GSW,,POR,,C. Paul,GSW,MISS Paul 20' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-54,197,20,1,2.0,0.0,h
+S2324-G0399,4,08:20,GSW,,POR,,C. Paul,GSW,Paul REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0399,4,06:39,GSW,,POR,,C. Paul,GSW,SUB: Looney FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G0589,1,01:48,GSW,,DAL,,C. Paul,GSW,MISS Paul 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,134,91,16,1,2.0,0.0,h
+S2324-G0589,1,00:34.100000,GSW,26.0,DAL,27.0,C. Paul,GSW,Paul 27' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,-162,211,27,1,3.0,3.0,h
+S2324-G0589,1,00:04.200000,GSW,28.0,DAL,27.0,C. Paul,GSW,Paul 17' Fadeaway Jumper (5 PTS),Made Shot,Fadeaway Jump Shot,-167,16,17,1,2.0,2.0,h
+S2324-G0589,2,11:45,GSW,,DAL,,C. Paul,GSW,Paul REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0589,2,08:17,GSW,35.0,DAL,34.0,C. Paul,GSW,Paul 8' Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,36,75,8,1,2.0,2.0,h
+S2324-G0589,2,07:26,GSW,,DAL,,C. Paul,GSW,MISS Paul 4' Running Layup,Missed Shot,Running Layup Shot,28,34,4,1,2.0,0.0,h
+S2324-G0589,2,07:17,GSW,,DAL,,C. Paul,GSW,SUB: Wiggins FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G0589,3,01:27,GSW,75.0,DAL,74.0,C. Paul,GSW,Paul 14' Running Jump Shot (9 PTS),Made Shot,Running Jump Shot,105,89,14,1,2.0,2.0,h
+S2324-G0589,3,01:04,GSW,78.0,DAL,74.0,C. Paul,GSW,Paul 26' 3PT Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,-13,258,26,1,3.0,3.0,h
+S2324-G0589,4,11:43,GSW,,DAL,,C. Paul,GSW,MISS Paul 10' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-100,-10,10,1,2.0,0.0,h
+S2324-G0589,4,08:48,GSW,88.0,DAL,79.0,C. Paul,GSW,Paul 11' Pullup Jump Shot (14 PTS) (Looney 1 AST),Made Shot,Pullup Jump shot,-110,-21,11,1,2.0,2.0,h
+S2324-G0589,4,05:20,GSW,,DAL,,C. Paul,GSW,MISS Paul 5' Driving Layup,Missed Shot,Driving Layup Shot,39,27,5,1,2.0,0.0,h
+S2324-G0589,4,05:08,GSW,,DAL,,C. Paul,GSW,MISS Paul 25' 3PT Jump Shot,Missed Shot,Jump Shot,-180,169,25,1,3.0,0.0,h
+S2324-G0589,4,05:00,GSW,,DAL,,C. Paul,GSW,SUB: Wiggins FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G0589,4,00:10.300000,GSW,,DAL,,C. Paul,GSW,SUB: Payton II FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G0907,1,02:19,GSW,,CHI,,C. Paul,GSW,Paul REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0907,1,00:25.700000,GSW,,CHI,,C. Paul,GSW,MISS Paul 25' 3PT Jump Shot,Missed Shot,Jump Shot,125,221,25,1,3.0,0.0,h
+S2324-G0907,2,09:28,GSW,38.0,CHI,34.0,C. Paul,GSW,Paul 11' Fadeaway Jumper (2 PTS),Made Shot,Fadeaway Jump Shot,45,104,11,1,2.0,2.0,h
+S2324-G0907,2,07:17,GSW,,CHI,,C. Paul,GSW,Paul REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0907,2,07:15,GSW,44.0,CHI,40.0,C. Paul,GSW,Paul 13' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,27,127,13,1,2.0,2.0,h
+S2324-G0907,2,07:15,GSW,,CHI,,C. Paul,GSW,SUB: Thompson FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G0907,2,01:20,GSW,,CHI,,C. Paul,GSW,Paul REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0907,2,01:17,GSW,,CHI,,C. Paul,GSW,Paul Lost Ball Turnover (P1.T5),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0907,3,03:14,GSW,,CHI,,C. Paul,GSW,MISS Paul 28' 3PT Jump Shot,Missed Shot,Jump Shot,-146,242,28,1,3.0,0.0,h
+S2324-G0907,3,00:43.900000,GSW,,CHI,,C. Paul,GSW,Paul REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0907,3,00:28,GSW,87.0,CHI,96.0,C. Paul,GSW,Paul 8' Driving Floating Jump Shot (6 PTS),Made Shot,Driving Floating Jump Shot,17,76,8,1,2.0,2.0,h
+S2324-G0907,3,00:07,GSW,88.0,CHI,99.0,C. Paul,GSW,Paul Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0907,3,00:07,GSW,89.0,CHI,99.0,C. Paul,GSW,Paul Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0907,4,10:25,GSW,93.0,CHI,100.0,C. Paul,GSW,Paul 19' Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,1,189,19,1,2.0,2.0,h
+S2324-G0907,4,09:09,GSW,97.0,CHI,100.0,C. Paul,GSW,Paul 16' Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,88,134,16,1,2.0,2.0,h
+S2324-G0907,4,07:23,GSW,,CHI,,C. Paul,GSW,SUB: Thompson FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G0907,4,00:04.300000,GSW,122.0,CHI,123.0,C. Paul,GSW,Paul 26' 3PT Jump Shot (15 PTS) (Jackson-Davis 2 AST),Made Shot,Jump Shot,-237,113,26,1,3.0,3.0,h
+S2324-G1044,1,03:48,MIA,,GSW,,C. Paul,GSW,Paul OFF.Foul (P1) (J.Tiven),Foul,Offensive,0,0,0,0,,,v
+S2324-G1044,1,03:48,MIA,,GSW,,C. Paul,GSW,Paul Offensive Foul Turnover (P1.T3),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G1044,1,03:12,MIA,,GSW,,C. Paul,GSW,Paul Out of Bounds Lost Ball Turnover (P2.T4),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2324-G1044,2,08:02,MIA,,GSW,,C. Paul,GSW,Paul STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G1044,2,06:06,MIA,,GSW,,C. Paul,GSW,SUB: Moody FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G1044,2,00:41.400000,MIA,,GSW,,C. Paul,GSW,Paul Lost Ball Turnover (P3.T7),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G1044,3,01:46,MIA,,GSW,,C. Paul,GSW,Paul STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G1044,4,10:34,MIA,,GSW,,C. Paul,GSW,MISS Paul 27' 3PT Jump Shot,Missed Shot,Jump Shot,-169,206,27,1,3.0,0.0,v
+S2324-G1044,4,08:57,MIA,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1044,4,06:47,MIA,,GSW,,C. Paul,GSW,Paul P.FOUL (P2.T4) (A.Nagy),Foul,Personal,0,0,0,0,,,v
+S2324-G1044,4,05:20,MIA,,GSW,,C. Paul,GSW,SUB: Thompson FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G1044,4,01:46,MIA,,GSW,,C. Paul,GSW,MISS Paul 18' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,184,-8,18,1,2.0,0.0,v
+S2324-G1044,4,01:36,MIA,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1044,4,01:34,MIA,,GSW,,C. Paul,GSW,SUB: Quinones FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G0478,1,09:05,GSW,11.0,DEN,7.0,C. Paul,GSW,Paul 26' 3PT Jump Shot (3 PTS) (Thompson 1 AST),Made Shot,Jump Shot,96,243,26,1,3.0,3.0,h
+S2324-G0478,1,07:27,GSW,18.0,DEN,9.0,C. Paul,GSW,Paul 9' Jump Shot (5 PTS) (Kuminga 2 AST),Made Shot,Jump Shot,6,91,9,1,2.0,2.0,h
+S2324-G0478,1,07:03,GSW,,DEN,,C. Paul,GSW,SUB: Wiggins FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G0478,1,01:34,GSW,,DEN,,C. Paul,GSW,Paul REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0478,1,00:34.800000,GSW,,DEN,,C. Paul,GSW,MISS Paul 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-157,222,27,1,3.0,0.0,h
+S2324-G0478,1,00:05.800000,GSW,,DEN,,C. Paul,GSW,Paul REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0478,2,07:25,GSW,,DEN,,C. Paul,GSW,MISS Paul 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,92,147,17,1,2.0,0.0,h
+S2324-G0478,2,07:05,GSW,,DEN,,C. Paul,GSW,SUB: Kuminga FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G0478,2,01:10,GSW,61.0,DEN,66.0,C. Paul,GSW,Paul 13' Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,-104,70,13,1,2.0,2.0,h
+S2324-G0478,2,01:10,GSW,,DEN,,C. Paul,GSW,MISS Paul Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2324-G0478,3,08:48,GSW,,DEN,,C. Paul,GSW,Paul REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0478,3,08:31,GSW,,DEN,,C. Paul,GSW,Paul P.FOUL (P1.T1) (J.Orr),Foul,Personal,0,0,0,0,,,h
+S2324-G0478,3,07:27,GSW,,DEN,,C. Paul,GSW,SUB: Podziemski FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G0478,4,11:23,GSW,,DEN,,C. Paul,GSW,Paul S.FOUL (P2.T1) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,h
+S2324-G0478,4,10:33,GSW,112.0,DEN,98.0,C. Paul,GSW,Paul 4' Cutting Layup Shot (9 PTS) (Saric 4 AST),Made Shot,Cutting Layup Shot,34,25,4,1,2.0,2.0,h
+S2324-G0478,4,08:35,GSW,,DEN,,C. Paul,GSW,SUB: Curry FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G0478,4,01:20,GSW,,DEN,,C. Paul,GSW,Paul REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0478,4,01:20,GSW,,DEN,,C. Paul,GSW,SUB: Wiggins FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G0478,4,00:51.400000,GSW,,DEN,,C. Paul,GSW,MISS Paul 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-53,252,26,1,3.0,0.0,h
+S2324-G0478,4,00:03.600000,GSW,,DEN,,C. Paul,GSW,SUB: Podziemski FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G0087,1,10:28,SAC,,GSW,,C. Paul,GSW,MISS Paul 15' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-93,119,15,1,2.0,0.0,v
+S2324-G0087,1,09:48,SAC,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0087,1,07:04,SAC,,GSW,,C. Paul,GSW,SUB: Kuminga FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G0087,1,00:33.400000,SAC,,GSW,,C. Paul,GSW,MISS Paul 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-85,262,28,1,3.0,0.0,v
+S2324-G0087,2,10:48,SAC,35.0,GSW,26.0,C. Paul,GSW,Paul 12' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,116,8,12,1,2.0,2.0,v
+S2324-G0087,2,10:36,SAC,,GSW,,C. Paul,GSW,Paul STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0087,2,09:41,SAC,,GSW,,C. Paul,GSW,MISS Paul 20' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-33,194,20,1,2.0,0.0,v
+S2324-G0087,2,09:12,SAC,,GSW,,C. Paul,GSW,SUB: Curry FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G0087,2,03:31,SAC,,GSW,,C. Paul,GSW,Paul STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0087,2,02:09,SAC,,GSW,,C. Paul,GSW,Paul STEAL (3 STL),,,0,0,0,0,,,v
+S2324-G0087,2,01:14,SAC,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0087,2,00:31.500000,SAC,57.0,GSW,57.0,C. Paul,GSW,Paul 16' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,-99,130,16,1,2.0,2.0,v
+S2324-G0087,3,09:53,SAC,,GSW,,C. Paul,GSW,MISS Paul 6' Driving Layup,Missed Shot,Driving Layup Shot,-26,55,6,1,2.0,0.0,v
+S2324-G0087,3,07:15,SAC,,GSW,,C. Paul,GSW,SUB: Saric FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G0087,3,03:30,SAC,,GSW,,C. Paul,GSW,MISS Paul 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,82,116,14,1,2.0,0.0,v
+S2324-G0087,3,01:26,SAC,,GSW,,C. Paul,GSW,MISS Paul 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,47,125,13,1,2.0,0.0,v
+S2324-G0087,3,01:17,SAC,,GSW,,C. Paul,GSW,Paul S.FOUL (P1.PN) (J.DeRosa),Foul,Shooting,0,0,0,0,,,v
+S2324-G0087,4,07:53,SAC,89.0,GSW,107.0,C. Paul,GSW,Paul 9' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,60,65,9,1,2.0,2.0,v
+S2324-G0087,4,06:42,SAC,,GSW,,C. Paul,GSW,Paul Kicked Ball Violation Turnover (P1.T13),Turnover,Kicked Ball Violation,0,0,0,0,,,v
+S2324-G0087,4,06:12,SAC,,GSW,,C. Paul,GSW,MISS Paul 27' 3PT Jump Shot,Missed Shot,Jump Shot,-161,214,27,1,3.0,0.0,v
+S2324-G0087,4,05:54,SAC,93.0,GSW,111.0,C. Paul,GSW,Paul 3' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,7,26,3,1,2.0,2.0,v
+S2324-G0087,4,04:07,SAC,100.0,GSW,115.0,C. Paul,GSW,Paul 15' Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,42,148,15,1,2.0,2.0,v
+S2324-G0087,4,03:30,SAC,,GSW,,C. Paul,GSW,Paul L.B.FOUL (P2.PN) (C.Washington),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0087,4,02:32,SAC,,GSW,,C. Paul,GSW,Paul Traveling Turnover (P2.T17),Turnover,Traveling,0,0,0,0,,,v
+S2324-G0087,4,00:12.500000,SAC,,GSW,,C. Paul,GSW,Paul Bad Pass Turnover (P3.T19),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0402,1,01:13,DEN,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0402,1,00:05.700000,DEN,,GSW,,C. Paul,GSW,MISS Paul 3PT Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,222,2,0,1,3.0,0.0,v
+S2324-G0402,2,09:59,DEN,34.0,GSW,34.0,C. Paul,GSW,Paul 25' 3PT Jump Shot (3 PTS) (Saric 2 AST),Made Shot,Jump Shot,-132,217,25,1,3.0,3.0,v
+S2324-G0402,2,08:54,DEN,37.0,GSW,39.0,C. Paul,GSW,Paul 24' 3PT Jump Shot (6 PTS) (Wiggins 1 AST),Made Shot,Jump Shot,54,237,24,1,3.0,3.0,v
+S2324-G0402,2,07:59,DEN,,GSW,,C. Paul,GSW,SUB: Curry FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G0402,2,04:16,DEN,,GSW,,C. Paul,GSW,MISS Paul 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-136,86,16,1,2.0,0.0,v
+S2324-G0402,2,00:54,DEN,,GSW,,C. Paul,GSW,MISS Paul 10' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-51,85,10,1,2.0,0.0,v
+S2324-G0402,3,05:54,DEN,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0402,3,05:13,DEN,,GSW,,C. Paul,GSW,Paul P.FOUL (P1.PN) (M.Smith),Foul,Personal,0,0,0,0,,,v
+S2324-G0402,3,03:53,DEN,,GSW,,C. Paul,GSW,MISS Paul 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,36,173,18,1,2.0,0.0,v
+S2324-G0402,3,03:49,DEN,,GSW,,C. Paul,GSW,Paul REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0402,3,03:49,DEN,81.0,GSW,77.0,C. Paul,GSW,Paul 13' Jump Shot (8 PTS),Made Shot,Jump Shot,80,104,13,1,2.0,2.0,v
+S2324-G0402,3,03:36,DEN,,GSW,,C. Paul,GSW,Paul Bad Pass Turnover (P1.T11),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0402,3,02:11,DEN,85.0,GSW,82.0,C. Paul,GSW,Paul 26' 3PT Pullup Jump Shot (11 PTS),Made Shot,Pullup Jump shot,23,260,26,1,3.0,3.0,v
+S2324-G0402,3,00:00.400000,DEN,,GSW,,C. Paul,GSW,MISS Paul 25' 3PT Jump Shot,Missed Shot,Jump Shot,-15,247,25,1,3.0,0.0,v
+S2324-G0402,4,08:22,DEN,,GSW,,C. Paul,GSW,SUB: Curry FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G0402,4,00:26.200000,DEN,118.0,GSW,114.0,C. Paul,GSW,Paul 2' Driving Reverse Layup (13 PTS),Made Shot,Driving Reverse Layup Shot,17,6,2,1,2.0,2.0,v
+S2324-G1182,1,01:44,GSW,,NOP,,C. Paul,GSW,Paul Out of Bounds Lost Ball Turnover (P1.T2),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2324-G1182,1,01:34,GSW,,NOP,,C. Paul,GSW,MISS Paul 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,181,195,27,1,3.0,0.0,h
+S2324-G1182,1,00:45.600000,GSW,,NOP,,C. Paul,GSW,Paul STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1182,1,00:31.100000,GSW,,NOP,,C. Paul,GSW,Paul REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1182,1,00:25.900000,GSW,,NOP,,C. Paul,GSW,MISS Paul 8' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,37,66,8,1,2.0,0.0,h
+S2324-G1182,2,11:47,GSW,28.0,NOP,17.0,C. Paul,GSW,Paul 14' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,141,-12,14,1,2.0,2.0,h
+S2324-G1182,2,11:12,GSW,,NOP,,C. Paul,GSW,MISS Paul 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-135,95,17,1,2.0,0.0,h
+S2324-G1182,2,09:03,GSW,33.0,NOP,24.0,C. Paul,GSW,Paul 4' Driving Floating Bank Jump Shot (4 PTS),Made Shot,Driving Floating Bank Jump Shot,23,27,4,1,2.0,2.0,h
+S2324-G1182,2,08:21,GSW,,NOP,,C. Paul,GSW,Paul STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G1182,2,06:18,GSW,,NOP,,C. Paul,GSW,SUB: Podziemski FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G1182,2,00:04.800000,GSW,,NOP,,C. Paul,GSW,Paul P.FOUL (P1.T3) (B.Nansel),Foul,Personal,0,0,0,0,,,h
+S2324-G1182,3,05:01,GSW,,NOP,,C. Paul,GSW,MISS Paul 3PT Jump Shot,Missed Shot,Jump Shot,230,43,0,1,3.0,0.0,h
+S2324-G1182,3,03:26,GSW,,NOP,,C. Paul,GSW,Paul REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1182,3,03:15,GSW,68.0,NOP,82.0,C. Paul,GSW,Paul 4' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,31,25,4,1,2.0,2.0,h
+S2324-G1182,3,01:32,GSW,,NOP,,C. Paul,GSW,Paul S.FOUL (P2.T4) (J.Butler),Foul,Shooting,0,0,0,0,,,h
+S2324-G1182,3,00:49.500000,GSW,,NOP,,C. Paul,GSW,Paul REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1182,4,10:23,GSW,,NOP,,C. Paul,GSW,MISS Paul 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-164,27,17,1,2.0,0.0,h
+S2324-G1182,4,08:44,GSW,86.0,NOP,92.0,C. Paul,GSW,Paul 27' 3PT Jump Shot (9 PTS) (Moody 1 AST),Made Shot,Jump Shot,-163,217,27,1,3.0,3.0,h
+S2324-G1182,4,05:03,GSW,,NOP,,C. Paul,GSW,Paul REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0005,1,03:57,OKC,,GSW,,C. Paul,GSW,MISS Paul 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,25,126,13,1,2.0,0.0,v
+S2324-G0005,1,03:41,OKC,,GSW,,C. Paul,GSW,MISS Paul 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-161,197,25,1,3.0,0.0,v
+S2324-G0005,2,08:37,OKC,,GSW,,C. Paul,GSW,SUB: Curry FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G0005,2,00:36.200000,OKC,,GSW,,C. Paul,GSW,MISS Paul 16' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,65,142,16,1,2.0,0.0,v
+S2324-G0005,2,00:02.300000,OKC,,GSW,,C. Paul,GSW,Paul STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0005,3,05:09,OKC,,GSW,,C. Paul,GSW,MISS Paul 3PT Jump Shot,Missed Shot,Jump Shot,-232,-34,0,1,3.0,0.0,v
+S2324-G0005,3,04:11,OKC,,GSW,,C. Paul,GSW,MISS Paul 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,26,64,7,1,2.0,0.0,v
+S2324-G0005,3,03:10,OKC,,GSW,,C. Paul,GSW,Paul STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0005,3,02:29,OKC,,GSW,,C. Paul,GSW,Paul L.B.FOUL (P1.PN) (M.Ervin),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0005,3,01:18,OKC,,GSW,,C. Paul,GSW,MISS Paul 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,134,1,13,1,2.0,0.0,v
+S2324-G0005,3,00:20.100000,OKC,106.0,GSW,106.0,C. Paul,GSW,Paul Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0005,3,00:20.100000,OKC,,GSW,,C. Paul,GSW,MISS Paul Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0005,3,00:01.500000,OKC,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0005,4,08:10,OKC,,GSW,,C. Paul,GSW,SUB: Green FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G0005,4,03:29,OKC,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0005,4,00:38.800000,OKC,,GSW,,C. Paul,GSW,SUB: Kuminga FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G0005,4,00:21,OKC,,GSW,,C. Paul,GSW,SUB: Wiggins FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G0834,1,04:19,WAS,,GSW,,C. Paul,GSW,MISS Paul 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-110,16,11,1,2.0,0.0,v
+S2324-G0834,1,04:17,WAS,,GSW,,C. Paul,GSW,Paul REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0834,1,03:32,WAS,,GSW,,C. Paul,GSW,Paul S.FOUL (P1.T1) (I.Hwang),Foul,Shooting,0,0,0,0,,,v
+S2324-G0834,1,02:46,WAS,,GSW,,C. Paul,GSW,Paul Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0834,1,01:08,WAS,,GSW,,C. Paul,GSW,Paul REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0834,1,00:16.100000,WAS,,GSW,,C. Paul,GSW,Paul STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0834,2,11:20,WAS,,GSW,,C. Paul,GSW,MISS Paul 24' 3PT Jump Shot,Missed Shot,Jump Shot,-239,-8,24,1,3.0,0.0,v
+S2324-G0834,2,10:38,WAS,,GSW,,C. Paul,GSW,Paul STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0834,2,09:34,WAS,,GSW,,C. Paul,GSW,Paul STEAL (3 STL),,,0,0,0,0,,,v
+S2324-G0834,2,09:12,WAS,,GSW,,C. Paul,GSW,Paul REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0834,2,08:35,WAS,33.0,GSW,36.0,C. Paul,GSW,Paul 27' 3PT Pullup Jump Shot (3 PTS) (Thompson 2 AST),Made Shot,Pullup Jump shot,1,272,27,1,3.0,3.0,v
+S2324-G0834,2,07:53,WAS,,GSW,,C. Paul,GSW,Paul REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0834,2,06:17,WAS,,GSW,,C. Paul,GSW,SUB: Curry FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G0834,2,01:54,WAS,,GSW,,C. Paul,GSW,Paul Bad Pass Turnover (P2.T9),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0834,2,00:31.300000,WAS,56.0,GSW,60.0,C. Paul,GSW,Paul 26' 3PT Pullup Jump Shot (6 PTS) (Thompson 3 AST),Made Shot,Pullup Jump shot,-148,212,26,1,3.0,3.0,v
+S2324-G0834,3,04:23,WAS,71.0,GSW,85.0,C. Paul,GSW,Paul 27' 3PT Jump Shot (9 PTS),Made Shot,Jump Shot,-140,234,27,1,3.0,3.0,v
+S2324-G0834,3,00:10.800000,WAS,,GSW,,C. Paul,GSW,Paul STEAL (4 STL),,,0,0,0,0,,,v
+S2324-G0834,3,00:01.900000,WAS,,GSW,,C. Paul,GSW,MISS Paul 27' 3PT Jump Shot,Missed Shot,Jump Shot,-100,246,27,1,3.0,0.0,v
+S2324-G0834,4,08:32,WAS,,GSW,,C. Paul,GSW,SUB: Curry FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G0025,1,09:19,GSW,4.0,,3.0,C. Paul,GSW,Paul Free Throw Technical (1 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,h
+S2324-G0025,1,09:05,GSW,6.0,,3.0,C. Paul,GSW,Paul 20' Step Back Jump Shot (3 PTS) (Saric 1 AST),Made Shot,Step Back Jump shot,195,46,20,1,2.0,2.0,h
+S2324-G0025,1,08:08,GSW,,,,C. Paul,GSW,Paul Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0025,1,07:31,GSW,,,,C. Paul,GSW,Paul REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0025,1,06:32,GSW,,,,C. Paul,GSW,MISS Paul 9' Jump Shot,Missed Shot,Jump Shot,-85,25,9,1,2.0,0.0,h
+S2324-G0025,1,05:24,GSW,,,,C. Paul,GSW,MISS Paul 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,115,130,17,1,2.0,0.0,h
+S2324-G0025,1,04:22,GSW,,,,C. Paul,GSW,SUB: Joseph FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G0025,2,08:26,GSW,,,,C. Paul,GSW,Paul REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0025,2,07:23,GSW,41.0,,39.0,C. Paul,GSW,Paul 10' Driving Floating Bank Jump Shot (5 PTS),Made Shot,Driving Floating Bank Jump Shot,-98,30,10,1,2.0,2.0,h
+S2324-G0025,2,07:10,GSW,,,,C. Paul,GSW,Paul REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0025,2,06:04,GSW,,,,C. Paul,GSW,SUB: Wiggins FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G0025,2,02:55,GSW,53.0,,49.0,C. Paul,GSW,Paul 27' 3PT Jump Shot (8 PTS) (Looney 1 AST),Made Shot,Jump Shot,-157,217,27,1,3.0,3.0,h
+S2324-G0025,2,00:32.600000,GSW,,,,C. Paul,GSW,MISS Paul 13' Jump Shot,Missed Shot,Jump Shot,10,133,13,1,2.0,0.0,h
+S2324-G0025,2,00:01.200000,GSW,,,,C. Paul,GSW,MISS Paul 6' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,45,42,6,1,2.0,0.0,h
+S2324-G0025,3,09:44,GSW,,,,C. Paul,GSW,Paul BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0025,3,08:53,GSW,,,,C. Paul,GSW,Paul STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0025,3,08:24,GSW,68.0,,59.0,C. Paul,GSW,Paul 11' Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,12,106,11,1,2.0,2.0,h
+S2324-G0025,3,06:55,GSW,,,,C. Paul,GSW,Paul Bad Pass Turnover (P2.T14),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0025,3,06:45,GSW,,,,C. Paul,GSW,Paul REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0025,3,05:53,GSW,,,,C. Paul,GSW,MISS Paul 17' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,123,111,17,1,2.0,0.0,h
+S2324-G0025,3,04:35,GSW,,,,C. Paul,GSW,MISS Paul 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-37,260,26,1,3.0,0.0,h
+S2324-G0025,3,04:34,GSW,,,,C. Paul,GSW,SUB: Moody FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G0025,4,11:23,GSW,,,,C. Paul,GSW,Paul Bad Pass Turnover (P3.T16),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0025,4,11:11,GSW,,,,C. Paul,GSW,Paul REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0025,4,10:57,GSW,,,,C. Paul,GSW,MISS Paul 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,179,35,18,1,2.0,0.0,h
+S2324-G0025,4,06:38,GSW,,,,C. Paul,GSW,SUB: Podziemski FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G0025,4,05:50,GSW,89.0,,89.0,C. Paul,GSW,Paul 18' Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,89,157,18,1,2.0,2.0,h
+S2324-G0025,4,04:47,GSW,92.0,,92.0,C. Paul,GSW,Paul 28' 3PT Jump Shot (15 PTS) (Looney 3 AST),Made Shot,Jump Shot,152,230,28,1,3.0,3.0,h
+S2324-G0025,4,04:26,GSW,,,,C. Paul,GSW,Paul STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0025,4,03:11,GSW,,,,C. Paul,GSW,Paul Bad Pass Turnover (P4.T20),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0025,4,00:52.600000,GSW,,,,C. Paul,GSW,MISS Paul 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-91,89,13,1,2.0,0.0,h
+S2324-G0025,4,00:01,GSW,,,,C. Paul,GSW,Paul STEAL (3 STL),,,0,0,0,0,,,h
+S2324-G0463,1,07:37,GSW,,ORL,,C. Paul,GSW,SUB: Podziemski FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G0463,1,00:02.600000,GSW,30.0,ORL,28.0,C. Paul,GSW,Paul 28' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,119,251,28,1,3.0,3.0,h
+S2324-G0463,2,06:45,GSW,,ORL,,C. Paul,GSW,Paul Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0463,2,05:24,GSW,,ORL,,C. Paul,GSW,SUB: Jackson-Davis FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G0463,2,00:33,GSW,51.0,ORL,52.0,C. Paul,GSW,Paul 27' 3PT Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,-12,272,27,1,3.0,3.0,h
+S2324-G0463,2,00:03.500000,GSW,,ORL,,C. Paul,GSW,SUB: Payton II FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G0463,3,10:12,GSW,,ORL,,C. Paul,GSW,Paul REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0463,3,07:57,GSW,67.0,ORL,62.0,C. Paul,GSW,Paul 25' 3PT Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,-180,169,25,1,3.0,3.0,h
+S2324-G0463,3,06:40,GSW,,ORL,,C. Paul,GSW,Paul P.FOUL (P1.T3) (L.Wood),Foul,Personal,0,0,0,0,,,h
+S2324-G0463,3,06:40,GSW,,ORL,,C. Paul,GSW,SUB: Payton II FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G0463,3,03:25,GSW,,ORL,,C. Paul,GSW,MISS Paul 15' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,114,100,15,1,2.0,0.0,h
+S2324-G0463,4,09:47,GSW,,ORL,,C. Paul,GSW,Paul REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0463,4,08:33,GSW,,ORL,,C. Paul,GSW,SUB: Kuminga FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G0463,4,01:41,GSW,,ORL,,C. Paul,GSW,MISS Paul 4' Driving Layup,Missed Shot,Driving Layup Shot,0,41,4,1,2.0,0.0,h
+S2324-G0463,4,00:46.400000,GSW,115.0,ORL,105.0,C. Paul,GSW,Paul Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0463,4,00:46.400000,GSW,116.0,ORL,105.0,C. Paul,GSW,Paul Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0463,4,00:30.600000,GSW,,ORL,,C. Paul,GSW,MISS Paul Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0463,4,00:30.600000,GSW,117.0,ORL,108.0,C. Paul,GSW,Paul Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0176,1,04:11,GSW,,CLE,,C. Paul,GSW,Paul STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0176,1,02:59,GSW,,CLE,,C. Paul,GSW,Paul Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0176,1,01:45,GSW,,CLE,,C. Paul,GSW,Paul STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0176,1,00:08.600000,GSW,31.0,CLE,30.0,C. Paul,GSW,Paul 28' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,-172,217,28,1,3.0,3.0,h
+S2324-G0176,2,11:23,GSW,33.0,CLE,33.0,C. Paul,GSW,Paul 13' Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,134,-5,13,1,2.0,2.0,h
+S2324-G0176,2,08:32,GSW,,CLE,,C. Paul,GSW,SUB: Moody FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G0176,2,00:02.600000,GSW,,CLE,,C. Paul,GSW,Paul REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0176,2,00:00.100000,GSW,,CLE,,C. Paul,GSW,MISS Paul 56' 3PT Jump Shot,Missed Shot,Jump Shot,105,553,56,1,3.0,0.0,h
+S2324-G0176,3,04:41,GSW,,CLE,,C. Paul,GSW,Paul STEAL (3 STL),,,0,0,0,0,,,h
+S2324-G0176,3,04:29,GSW,71.0,CLE,77.0,C. Paul,GSW,Paul 18' Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,145,106,18,1,2.0,2.0,h
+S2324-G0176,3,02:56,GSW,,CLE,,C. Paul,GSW,Paul REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0176,3,02:52,GSW,,CLE,,C. Paul,GSW,Paul Traveling Turnover (P2.T13),Turnover,Traveling,0,0,0,0,,,h
+S2324-G0176,3,02:12,GSW,,CLE,,C. Paul,GSW,Paul REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0176,3,02:06,GSW,,CLE,,C. Paul,GSW,Paul Bad Pass Turnover (P3.T14),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0176,3,01:59,GSW,,CLE,,C. Paul,GSW,Paul S.FOUL (P1.T3) (B.Barnaky),Foul,Shooting,0,0,0,0,,,h
+S2324-G0176,3,00:10.600000,GSW,83.0,CLE,82.0,C. Paul,GSW,Paul 15' Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,134,67,15,1,2.0,2.0,h
+S2324-G0176,4,10:48,GSW,,CLE,,C. Paul,GSW,MISS Paul 16' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-66,151,16,1,2.0,0.0,h
+S2324-G0176,4,09:46,GSW,,CLE,,C. Paul,GSW,MISS Paul 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,69,167,18,1,2.0,0.0,h
+S2324-G0176,4,08:19,GSW,,CLE,,C. Paul,GSW,SUB: Looney FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G0176,4,02:12,GSW,,CLE,,C. Paul,GSW,Paul S.FOUL (P2.PN) (B.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2324-G0176,4,02:12,GSW,,CLE,,C. Paul,GSW,SUB: Kuminga FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G0988,1,00:46.100000,GSW,,NYK,,C. Paul,GSW,Paul REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0988,1,00:33.800000,GSW,22.0,NYK,30.0,C. Paul,GSW,Paul 26' 3PT Jump Shot (3 PTS) (Thompson 3 AST),Made Shot,Jump Shot,123,230,26,1,3.0,3.0,h
+S2324-G0988,1,00:04.500000,GSW,,NYK,,C. Paul,GSW,MISS Paul 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,96,81,13,1,2.0,0.0,h
+S2324-G0988,2,10:17,GSW,27.0,NYK,34.0,C. Paul,GSW,Paul 12' Pullup Jump Shot (5 PTS) (Jackson-Davis 1 AST),Made Shot,Pullup Jump shot,-1,121,12,1,2.0,2.0,h
+S2324-G0988,2,09:22,GSW,29.0,NYK,39.0,C. Paul,GSW,Paul 14' Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,92,101,14,1,2.0,2.0,h
+S2324-G0988,2,07:01,GSW,34.0,NYK,46.0,C. Paul,GSW,Paul 13' Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,-4,134,13,1,2.0,2.0,h
+S2324-G0988,2,06:40,GSW,,NYK,,C. Paul,GSW,Paul REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0988,2,06:31,GSW,37.0,NYK,46.0,C. Paul,GSW,Paul 28' 3PT Jump Shot (12 PTS) (Curry 3 AST),Made Shot,Jump Shot,-151,237,28,1,3.0,3.0,h
+S2324-G0988,2,05:02,GSW,,NYK,,C. Paul,GSW,SUB: Wiggins FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G0988,3,00:54.800000,GSW,,NYK,,C. Paul,GSW,Paul P.FOUL (P1.PN) (A.Nagy),Foul,Personal,0,0,0,0,,,h
+S2324-G0988,3,00:12.700000,GSW,,NYK,,C. Paul,GSW,Paul STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0988,3,00:01.800000,GSW,,NYK,,C. Paul,GSW,MISS Paul 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,150,82,17,1,2.0,0.0,h
+S2324-G0988,4,11:04,GSW,,NYK,,C. Paul,GSW,Paul REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0988,4,10:44,GSW,93.0,NYK,99.0,C. Paul,GSW,Paul 19' Pullup Jump Shot (14 PTS),Made Shot,Pullup Jump shot,140,122,19,1,2.0,2.0,h
+S2324-G0988,4,09:06,GSW,,NYK,,C. Paul,GSW,Paul REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0988,4,08:32,GSW,,NYK,,C. Paul,GSW,MISS Paul 9' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,80,50,9,1,2.0,0.0,h
+S2324-G0988,4,06:47,GSW,,NYK,,C. Paul,GSW,Paul S.FOUL (P2.T1) (Z.Zarba),Foul,Shooting,0,0,0,0,,,h
+S2324-G0988,4,06:47,GSW,,NYK,,C. Paul,GSW,SUB: Thompson FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G0988,4,00:26.200000,GSW,,NYK,,C. Paul,GSW,Paul Personal Take Foul (P3.PN) (A.Nagy),Foul,Personal Take,0,0,0,0,,,h
+S2324-G0988,4,00:20,GSW,,NYK,,C. Paul,GSW,Paul Bad Pass Turnover (P1.T13),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G1049,1,00:48.400000,ORL,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1049,1,00:08,ORL,,GSW,,C. Paul,GSW,MISS Paul 25' 3PT Jump Shot,Missed Shot,Jump Shot,-85,237,25,1,3.0,0.0,v
+S2324-G1049,2,11:30,ORL,14.0,GSW,29.0,C. Paul,GSW,Paul 13' Pullup Jump Shot (2 PTS) (Podziemski 1 AST),Made Shot,Pullup Jump shot,49,120,13,1,2.0,2.0,v
+S2324-G1049,2,09:59,ORL,,GSW,,C. Paul,GSW,MISS Paul 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-107,136,17,1,2.0,0.0,v
+S2324-G1049,2,06:41,ORL,,GSW,,C. Paul,GSW,SUB: Payton II FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G1049,3,03:21,ORL,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1049,3,02:40,ORL,,GSW,,C. Paul,GSW,MISS Paul 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-5,122,12,1,2.0,0.0,v
+S2324-G1049,3,00:50.600000,ORL,,GSW,,C. Paul,GSW,Paul Lost Ball Turnover (P1.T9),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G1049,3,00:08,ORL,,GSW,,C. Paul,GSW,MISS Paul Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G1049,3,00:08,ORL,66.0,GSW,72.0,C. Paul,GSW,Paul Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1049,3,00:02.400000,ORL,,GSW,,C. Paul,GSW,Paul REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1049,3,00:00.700000,ORL,,GSW,,C. Paul,GSW,MISS Paul 58' 3PT Jump Shot,Missed Shot,Jump Shot,-12,575,58,1,3.0,0.0,v
+S2324-G1049,4,08:16,ORL,,GSW,,C. Paul,GSW,SUB: Moody FOR Paul,Substitution,,0,0,0,0,,,v
+S2324-G1198,1,10:07,GSW,,UTA,,C. Paul,GSW,Paul S.FOUL (P1.T1) (D.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2324-G1198,1,09:09,GSW,6.0,UTA,7.0,C. Paul,GSW,Paul 11' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,49,103,11,1,2.0,2.0,h
+S2324-G1198,1,08:47,GSW,,UTA,,C. Paul,GSW,Paul REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1198,1,07:38,GSW,,UTA,,C. Paul,GSW,MISS Paul 26' 3PT Jump Shot,Missed Shot,Jump Shot,-189,177,26,1,3.0,0.0,h
+S2324-G1198,1,05:09,GSW,,UTA,,C. Paul,GSW,MISS Paul 26' 3PT Jump Shot,Missed Shot,Jump Shot,27,257,26,1,3.0,0.0,h
+S2324-G1198,1,04:45,GSW,19.0,UTA,19.0,C. Paul,GSW,Paul 13' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,0,127,13,1,2.0,2.0,h
+S2324-G1198,1,03:15,GSW,,UTA,,C. Paul,GSW,SUB: Thompson FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G1198,2,06:21,GSW,,UTA,,C. Paul,GSW,Paul REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1198,2,05:10,GSW,,UTA,,C. Paul,GSW,MISS Paul 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-9,122,12,1,2.0,0.0,h
+S2324-G1198,2,04:59,GSW,,UTA,,C. Paul,GSW,Paul REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1198,2,04:08,GSW,,UTA,,C. Paul,GSW,MISS Paul 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,150,15,1,2.0,0.0,h
+S2324-G1198,2,02:47,GSW,,UTA,,C. Paul,GSW,Paul S.FOUL (P2.T2) (K.Scott),Foul,Shooting,0,0,0,0,,,h
+S2324-G1198,2,02:45,GSW,,UTA,,C. Paul,GSW,Paul REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1198,2,02:45,GSW,,UTA,,C. Paul,GSW,Paul Out of Bounds - Bad Pass Turnover Turnover (P1.T6),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G1198,2,02:23,GSW,,UTA,,C. Paul,GSW,MISS Paul 5' Driving Layup,Missed Shot,Driving Layup Shot,47,5,5,1,2.0,0.0,h
+S2324-G1198,2,02:07,GSW,,UTA,,C. Paul,GSW,MISS Paul 3PT Jump Shot,Missed Shot,Jump Shot,229,7,0,1,3.0,0.0,h
+S2324-G1198,3,07:34,GSW,,UTA,,C. Paul,GSW,Paul S.FOUL (P3.T2) (K.Cutler),Foul,Shooting,0,0,0,0,,,h
+S2324-G1198,3,06:48,GSW,77.0,UTA,79.0,C. Paul,GSW,Paul 12' Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,-4,120,12,1,2.0,2.0,h
+S2324-G1198,3,06:24,GSW,,UTA,,C. Paul,GSW,MISS Paul 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,97,168,19,1,2.0,0.0,h
+S2324-G1198,3,05:17,GSW,,UTA,,C. Paul,GSW,SUB: Quinones FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G0224,1,09:56,GSW,,HOU,,C. Paul,GSW,Paul STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0224,1,08:17,GSW,,HOU,,C. Paul,GSW,Paul REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0224,1,07:24,GSW,,HOU,,C. Paul,GSW,SUB: Saric FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G0224,1,01:40,GSW,,HOU,,C. Paul,GSW,Paul REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0224,2,10:31,GSW,34.0,HOU,31.0,C. Paul,GSW,Paul 29' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,158,239,29,1,3.0,3.0,h
+S2324-G0224,2,08:37,GSW,,HOU,,C. Paul,GSW,MISS Paul 25' 3PT Jump Shot,Missed Shot,Jump Shot,-186,167,25,1,3.0,0.0,h
+S2324-G0224,2,08:27,GSW,,HOU,,C. Paul,GSW,Paul REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0224,2,08:20,GSW,39.0,HOU,36.0,C. Paul,GSW,Paul 12' Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,-60,109,12,1,2.0,2.0,h
+S2324-G0224,2,07:44,GSW,,HOU,,C. Paul,GSW,Paul STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0224,2,07:41,GSW,,HOU,,C. Paul,GSW,SUB: Curry FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G0224,2,03:35,GSW,,HOU,,C. Paul,GSW,Paul P.FOUL (P1.T4) (S.Twardoski),Foul,Personal,0,0,0,0,,,h
+S2324-G0224,2,01:47,GSW,,HOU,,C. Paul,GSW,Paul REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0224,2,01:47,GSW,56.0,HOU,51.0,C. Paul,GSW,Paul Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0224,2,01:47,GSW,57.0,HOU,51.0,C. Paul,GSW,Paul Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0224,3,09:46,GSW,,HOU,,C. Paul,GSW,Paul P.FOUL (P2.T2) (Z.Zarba),Foul,Personal,0,0,0,0,,,h
+S2324-G0224,3,09:39,GSW,,HOU,,C. Paul,GSW,Paul REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0224,3,09:14,GSW,,HOU,,C. Paul,GSW,Paul REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0224,3,08:43,GSW,72.0,HOU,61.0,C. Paul,GSW,Paul 26' 3PT Jump Shot (10 PTS) (Thompson 3 AST),Made Shot,Jump Shot,-192,175,26,1,3.0,3.0,h
+S2324-G0224,3,08:18,GSW,,HOU,,C. Paul,GSW,MISS Paul 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,31,128,13,1,2.0,0.0,h
+S2324-G0224,3,07:20,GSW,,HOU,,C. Paul,GSW,Paul P.FOUL (P3.T4) (Z.Zarba),Foul,Personal,0,0,0,0,,,h
+S2324-G0224,3,07:20,GSW,,HOU,,C. Paul,GSW,SUB: Moody FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G0224,3,04:14,GSW,,HOU,,C. Paul,GSW,MISS Paul 28' 3PT Jump Shot,Missed Shot,Jump Shot,-45,279,28,1,3.0,0.0,h
+S2324-G0224,3,02:35,GSW,88.0,HOU,76.0,C. Paul,GSW,Paul Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0224,3,02:35,GSW,89.0,HOU,76.0,C. Paul,GSW,Paul Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0224,4,11:40,GSW,,HOU,,C. Paul,GSW,Paul Lost Ball Turnover (P1.T7),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0224,4,09:55,GSW,,HOU,,C. Paul,GSW,SUB: Podziemski FOR Paul,Substitution,,0,0,0,0,,,h
+S2324-G0224,4,05:13,GSW,,HOU,,C. Paul,GSW,Paul S.FOUL (P4.PN) (M.Kogut),Foul,Shooting,0,0,0,0,,,h
+S2324-G0224,4,04:52,GSW,110.0,HOU,98.0,C. Paul,GSW,Paul 28' 3PT Jump Shot (15 PTS) (Wiggins 1 AST),Made Shot,Jump Shot,-168,221,28,1,3.0,3.0,h

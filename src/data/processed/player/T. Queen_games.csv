@@ -1,0 +1,121 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2324-G0499,4,11:09,ORL,,ATL,,T. Queen,ORL,Queen REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0499,4,11:09,ORL,87.0,ATL,78.0,T. Queen,ORL,Queen Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2324-G0499,4,10:26,ORL,,ATL,,T. Queen,ORL,Queen P.FOUL (P1.T1) (E.Scott),Foul,Personal,0,0,0,0,,,h
+S2324-G0499,4,10:15,ORL,,ATL,,T. Queen,ORL,Queen S.FOUL (P2.T2) (E.Scott),Foul,Shooting,0,0,0,0,,,h
+S2324-G0499,4,09:57,ORL,,ATL,,T. Queen,ORL,Queen Bad Pass Turnover (P1.T10),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0499,4,06:14,ORL,,ATL,,T. Queen,ORL,SUB: Houstan FOR Queen,Substitution,,0,0,0,0,,,h
+S2324-G0476,1,03:09,SAC,,ORL,,T. Queen,ORL,Queen REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0476,1,00:33.400000,SAC,,ORL,,T. Queen,ORL,Queen S.FOUL (P1.PN) (M.Smith),Foul,Shooting,0,0,0,0,,,v
+S2324-G0476,1,00:33.400000,SAC,,ORL,,T. Queen,ORL,SUB: M. Wagner FOR Queen,Substitution,,0,0,0,0,,,v
+S2324-G0476,2,03:12,SAC,,ORL,,T. Queen,ORL,MISS Queen 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,69,86,11,1,2.0,0.0,v
+S2324-G0476,3,09:46,SAC,,ORL,,T. Queen,ORL,Queen STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0476,3,08:57,SAC,,ORL,,T. Queen,ORL,Queen S.FOUL (P2.T2) (C.Aubry),Foul,Shooting,0,0,0,0,,,v
+S2324-G0476,3,08:39,SAC,77.0,ORL,66.0,T. Queen,ORL,Queen 18' Pullup Jump Shot (2 PTS) (Bitadze 2 AST),Made Shot,Pullup Jump shot,70,171,18,1,2.0,2.0,v
+S2324-G0476,3,07:29,SAC,,ORL,,T. Queen,ORL,MISS Queen 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,158,221,27,1,3.0,0.0,v
+S2324-G0476,3,06:04,SAC,,ORL,,T. Queen,ORL,SUB: Okeke FOR Queen,Substitution,,0,0,0,0,,,v
+S2324-G0476,3,01:33,SAC,,ORL,,T. Queen,ORL,Queen S.FOUL (P3.PN) (S.Wright),Foul,Shooting,0,0,0,0,,,v
+S2324-G0476,4,10:46,SAC,,ORL,,T. Queen,ORL,Queen BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0476,4,10:46,SAC,,ORL,,T. Queen,ORL,Queen REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0476,4,09:45,SAC,,ORL,,T. Queen,ORL,MISS Queen 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,53,252,26,1,3.0,0.0,v
+S2324-G0476,4,06:54,SAC,96.0,ORL,101.0,T. Queen,ORL,Queen Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0476,4,06:54,SAC,,ORL,,T. Queen,ORL,MISS Queen Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0476,4,06:43,SAC,,ORL,,T. Queen,ORL,Queen STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0476,4,06:39,SAC,96.0,ORL,103.0,T. Queen,ORL,Queen 1' Running Dunk (5 PTS) (M. Wagner 2 AST),Made Shot,Running Dunk Shot,-5,10,1,1,2.0,2.0,v
+S2324-G0476,4,06:31,SAC,,ORL,,T. Queen,ORL,Queen S.FOUL (P4.T2) (M.Smith),Foul,Shooting,0,0,0,0,,,v
+S2324-G0476,4,04:39,SAC,,ORL,,T. Queen,ORL,SUB: Houstan FOR Queen,Substitution,,0,0,0,0,,,v
+S2324-G0476,5,02:17,SAC,,ORL,,T. Queen,ORL,MISS Queen 24' 3PT Jump Shot,Missed Shot,Jump Shot,239,50,24,1,3.0,0.0,v
+S2324-G0476,5,01:21,SAC,,ORL,,T. Queen,ORL,MISS Queen 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-55,161,17,1,2.0,0.0,v
+S2324-G0476,5,00:25,SAC,,ORL,,T. Queen,ORL,Queen P.FOUL (P5.T3) (C.Aubry),Foul,Personal,0,0,0,0,,,v
+S2324-G0476,5,00:17.700000,SAC,,ORL,,T. Queen,ORL,SUB: Houstan FOR Queen,Substitution,,0,0,0,0,,,v
+S2324-G0476,6,00:04.200000,SAC,,ORL,,T. Queen,ORL,SUB: M. Wagner FOR Queen,Substitution,,0,0,0,0,,,v
+S2324-G0513,1,03:26,ORL,,MIN,,T. Queen,ORL,MISS Queen 4' Driving Layup,Missed Shot,Driving Layup Shot,21,30,4,1,2.0,0.0,h
+S2324-G0513,1,02:51,ORL,,MIN,,T. Queen,ORL,Queen REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0513,1,02:51,ORL,,MIN,,T. Queen,ORL,MISS Queen Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2324-G0513,2,10:13,ORL,,MIN,,T. Queen,ORL,Queen P.FOUL (P1.T3) (P.Fraher),Foul,Personal,0,0,0,0,,,h
+S2324-G0513,2,08:16,ORL,,MIN,,T. Queen,ORL,Queen Out of Bounds Lost Ball Turnover (P1.T3),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2324-G0513,2,07:25,ORL,29.0,MIN,39.0,T. Queen,ORL,Queen Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0513,2,07:25,ORL,30.0,MIN,39.0,T. Queen,ORL,Queen Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0513,2,06:00,ORL,33.0,MIN,43.0,T. Queen,ORL,Queen 25' 3PT Jump Shot (5 PTS) (Bitadze 1 AST),Made Shot,Jump Shot,89,232,25,1,3.0,3.0,h
+S2324-G0513,2,03:44,ORL,,MIN,,T. Queen,ORL,Queen Violation:Defensive Goaltending (P.Fraher),Violation,Defensive Goaltending,0,0,0,0,,,h
+S2324-G0513,2,03:05,ORL,,MIN,,T. Queen,ORL,SUB: Houstan FOR Queen,Substitution,,0,0,0,0,,,h
+S2324-G0513,4,10:56,ORL,,MIN,,T. Queen,ORL,MISS Queen 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,234,69,24,1,3.0,0.0,h
+S2324-G0513,4,08:35,ORL,,MIN,,T. Queen,ORL,Queen REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0513,4,08:29,ORL,,MIN,,T. Queen,ORL,Queen Lost Ball Turnover (P2.T12),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0513,4,07:40,ORL,78.0,MIN,99.0,T. Queen,ORL,Queen 3PT Jump Shot (8 PTS) (Houstan 2 AST),Made Shot,Jump Shot,-230,37,0,1,3.0,3.0,h
+S2324-G0513,4,06:53,ORL,,MIN,,T. Queen,ORL,MISS Queen 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,23,157,16,1,2.0,0.0,h
+S2324-G0513,4,04:17,ORL,,MIN,,T. Queen,ORL,Queen STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0513,4,03:22,ORL,,MIN,,T. Queen,ORL,MISS Queen 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,29,8,3,1,2.0,0.0,h
+S2324-G0513,4,03:02,ORL,,MIN,,T. Queen,ORL,Queen REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0513,4,01:18,ORL,,MIN,,T. Queen,ORL,MISS Queen 5' Driving Layup,Missed Shot,Driving Layup Shot,40,27,5,1,2.0,0.0,h
+S2324-G0513,4,00:19.100000,ORL,92.0,MIN,113.0,T. Queen,ORL,Queen 26' 3PT Pullup Jump Shot (11 PTS),Made Shot,Pullup Jump shot,36,258,26,1,3.0,3.0,h
+S2324-G0601,4,00:17,ORL,,MIA,,T. Queen,ORL,Queen REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0535,2,01:07,MIA,,ORL,,T. Queen,ORL,Queen REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0535,3,06:00,MIA,,ORL,,T. Queen,ORL,Queen Out of Bounds - Bad Pass Turnover Turnover (P1.T10),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0535,3,02:59,MIA,,ORL,,T. Queen,ORL,MISS Queen 26' 3PT Jump Shot,Missed Shot,Jump Shot,-112,230,26,1,3.0,0.0,v
+S2324-G0535,3,01:27,MIA,,ORL,,T. Queen,ORL,SUB: Okeke FOR Queen,Substitution,,0,0,0,0,,,v
+S2324-G0535,3,00:08.200000,MIA,,ORL,,T. Queen,ORL,SUB: Anthony FOR Queen,Substitution,,0,0,0,0,,,v
+S2324-G0535,4,00:38,MIA,,ORL,,T. Queen,ORL,SUB: Suggs FOR Queen,Substitution,,0,0,0,0,,,v
+S2324-G0535,4,00:18.500000,MIA,,ORL,,T. Queen,ORL,SUB: Houstan FOR Queen,Substitution,,0,0,0,0,,,v
+S2324-G0488,1,02:31,DEN,,ORL,,T. Queen,ORL,Queen REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0488,1,00:53.200000,DEN,,ORL,,T. Queen,ORL,Queen S.FOUL (P1.PN) (M.Myers),Foul,Shooting,0,0,0,0,,,v
+S2324-G0488,2,11:23,DEN,,ORL,,T. Queen,ORL,Queen BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0488,2,09:47,DEN,,ORL,,T. Queen,ORL,MISS Queen 3' Driving Layup,Missed Shot,Driving Layup Shot,32,-8,3,1,2.0,0.0,v
+S2324-G0488,2,05:45,DEN,,ORL,,T. Queen,ORL,MISS Queen 24' 3PT Jump Shot,Missed Shot,Jump Shot,28,241,24,1,3.0,0.0,v
+S2324-G0488,2,05:43,DEN,,ORL,,T. Queen,ORL,SUB: Anthony FOR Queen,Substitution,,0,0,0,0,,,v
+S2324-G0488,2,02:47,DEN,,ORL,,T. Queen,ORL,Queen REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0488,2,01:15,DEN,,ORL,,T. Queen,ORL,Queen REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0488,3,03:32,DEN,,ORL,,T. Queen,ORL,Queen STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0488,3,03:29,DEN,91.0,ORL,85.0,T. Queen,ORL,Queen 1' Running Layup (2 PTS),Made Shot,Running Layup Shot,5,6,1,1,2.0,2.0,v
+S2324-G0488,3,03:29,DEN,91.0,ORL,86.0,T. Queen,ORL,Queen Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G0488,4,11:31,DEN,,ORL,,T. Queen,ORL,Queen P.FOUL (P2.T1) (M.Myers),Foul,Personal,0,0,0,0,,,v
+S2324-G0488,4,09:05,DEN,,ORL,,T. Queen,ORL,Queen P.FOUL (P3.T3) (M.Myers),Foul,Personal,0,0,0,0,,,v
+S2324-G0488,4,07:26,DEN,,ORL,,T. Queen,ORL,Queen REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0488,4,06:43,DEN,,ORL,,T. Queen,ORL,Queen STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0488,4,06:25,DEN,,ORL,,T. Queen,ORL,Queen P.FOUL (P4.PN) (E.Malloy),Foul,Personal,0,0,0,0,,,v
+S2324-G0488,4,06:07,DEN,107.0,ORL,110.0,T. Queen,ORL,Queen 1' Driving Layup (5 PTS) (Banchero 11 AST),Made Shot,Driving Layup Shot,6,8,1,1,2.0,2.0,v
+S2324-G0488,4,05:18,DEN,,ORL,,T. Queen,ORL,Queen REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0778,1,01:23,ORL,,NYK,,T. Queen,ORL,Queen S.FOUL (P1.T4) (N.Buchert),Foul,Shooting,0,0,0,0,,,h
+S2324-G0778,4,03:46,ORL,,NYK,,T. Queen,ORL,MISS Queen 3PT Jump Shot,Missed Shot,Jump Shot,-233,26,0,1,3.0,0.0,h
+S2324-G0778,4,03:27,ORL,,NYK,,T. Queen,ORL,Queen REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0778,4,03:19,ORL,,NYK,,T. Queen,ORL,MISS Queen 5' Driving Layup,Missed Shot,Driving Layup Shot,48,16,5,1,2.0,0.0,h
+S2324-G0607,3,01:09,ORL,72.0,CLE,101.0,T. Queen,ORL,Queen 4' Cutting Dunk Shot (2 PTS) (M. Wagner 1 AST),Made Shot,Cutting Dunk Shot,1,37,4,1,2.0,2.0,h
+S2324-G0607,3,00:32.300000,ORL,74.0,CLE,103.0,T. Queen,ORL,Queen 2' Running Dunk (4 PTS),Made Shot,Running Dunk Shot,-1,21,2,1,2.0,2.0,h
+S2324-G0607,4,10:47,ORL,,CLE,,T. Queen,ORL,Queen Out of Bounds - Bad Pass Turnover Turnover (P1.T14),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G0607,4,10:26,ORL,,CLE,,T. Queen,ORL,Queen STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0607,4,10:18,ORL,,CLE,,T. Queen,ORL,MISS Queen 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,135,226,26,1,3.0,0.0,h
+S2324-G0607,4,08:12,ORL,,CLE,,T. Queen,ORL,MISS Queen 2' Reverse Layup,Missed Shot,Reverse Layup Shot,7,18,2,1,2.0,0.0,h
+S2324-G0607,4,02:39,ORL,93.0,CLE,126.0,T. Queen,ORL,Queen Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0607,4,02:39,ORL,94.0,CLE,126.0,T. Queen,ORL,Queen Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0607,4,02:00,ORL,95.0,CLE,126.0,T. Queen,ORL,Queen Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0607,4,02:00,ORL,,CLE,,T. Queen,ORL,MISS Queen Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0607,4,01:32,ORL,,CLE,,T. Queen,ORL,Queen REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0607,4,00:54.200000,ORL,96.0,CLE,126.0,T. Queen,ORL,Queen Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0607,4,00:54.200000,ORL,,CLE,,T. Queen,ORL,MISS Queen Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G1150,4,01:19,HOU,,ORL,,T. Queen,ORL,Queen REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0638,2,02:09,MEM,,ORL,,T. Queen,ORL,MISS Queen 26' 3PT Jump Bank Shot,Missed Shot,Jump Bank Shot,-168,200,26,1,3.0,0.0,v
+S2324-G0638,2,01:35,MEM,,ORL,,T. Queen,ORL,SUB: F. Wagner FOR Queen,Substitution,,0,0,0,0,,,v
+S2324-G0546,1,01:16,OKC,,ORL,,T. Queen,ORL,Queen S.FOUL (P1.T4) (G.Petraitis),Foul,Shooting,0,0,0,0,,,v
+S2324-G0546,1,01:04,OKC,,ORL,,T. Queen,ORL,MISS Queen 3PT Jump Shot,Missed Shot,Jump Shot,-233,-10,0,1,3.0,0.0,v
+S2324-G0546,1,00:51.200000,OKC,23.0,ORL,21.0,T. Queen,ORL,Queen 4' Cutting Finger Roll Layup Shot (2 PTS) (Anthony 1 AST),Made Shot,Cutting Finger Roll Layup Shot,27,25,4,1,2.0,2.0,v
+S2324-G0546,1,00:29.500000,OKC,,ORL,,T. Queen,ORL,Queen REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0546,2,10:59,OKC,,ORL,,T. Queen,ORL,Queen REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0546,2,10:50,OKC,,ORL,,T. Queen,ORL,Queen BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0546,2,08:01,OKC,31.0,ORL,26.0,T. Queen,ORL,Queen 1' Cutting Dunk Shot (4 PTS) (Isaac 1 AST),Made Shot,Cutting Dunk Shot,-4,5,1,1,2.0,2.0,v
+S2324-G0546,2,07:15,OKC,,ORL,,T. Queen,ORL,Queen P.FOUL (P2.T3) (G.Petraitis),Foul,Personal,0,0,0,0,,,v
+S2324-G0546,2,07:00,OKC,,ORL,,T. Queen,ORL,Queen Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0546,2,06:55,OKC,,ORL,,T. Queen,ORL,Queen BLOCK (2 BLK),,,0,0,0,0,,,v
+S2324-G0546,2,06:24,OKC,,ORL,,T. Queen,ORL,SUB: Suggs FOR Queen,Substitution,,0,0,0,0,,,v
+S2324-G0546,4,10:00,OKC,,ORL,,T. Queen,ORL,MISS Queen 24' 3PT Jump Shot,Missed Shot,Jump Shot,-238,19,24,1,3.0,0.0,v
+S2324-G0546,4,09:08,OKC,,ORL,,T. Queen,ORL,MISS Queen 26' 3PT Jump Shot,Missed Shot,Jump Shot,190,173,26,1,3.0,0.0,v
+S2324-G0546,4,08:36,OKC,,ORL,,T. Queen,ORL,Queen REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0546,4,07:41,OKC,,ORL,,T. Queen,ORL,Queen BLOCK (3 BLK),,,0,0,0,0,,,v
+S2324-G0546,4,07:39,OKC,,ORL,,T. Queen,ORL,Queen REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0546,4,07:38,OKC,,ORL,,T. Queen,ORL,Queen Bad Pass Turnover (P2.T15),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0546,4,07:23,OKC,94.0,ORL,86.0,T. Queen,ORL,Queen 6' Driving Layup (6 PTS) (Banchero 8 AST),Made Shot,Driving Layup Shot,55,-1,6,1,2.0,2.0,v
+S2324-G0546,4,07:23,OKC,94.0,ORL,87.0,T. Queen,ORL,Queen Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G0546,4,06:51,OKC,,ORL,,T. Queen,ORL,SUB: Houstan FOR Queen,Substitution,,0,0,0,0,,,v
+S2324-G0415,4,01:00,ORL,,PHI,,T. Queen,ORL,MISS Queen 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-61,259,27,1,3.0,0.0,h
+S2324-G0415,4,00:37.500000,ORL,,PHI,,T. Queen,ORL,Queen STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0655,4,01:10,ORL,,PHX,,T. Queen,ORL,MISS Queen 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,120,233,26,1,3.0,0.0,h
+S2324-G0585,4,00:39.300000,ORL,106.0,PHI,121.0,T. Queen,ORL,Queen 2' Cutting Dunk Shot (2 PTS) (Wagner 1 AST),Made Shot,Cutting Dunk Shot,-2,15,2,1,2.0,2.0,h

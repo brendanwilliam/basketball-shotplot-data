@@ -1,0 +1,225 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2324-G0504,4,00:52.700000,GSW,113.0,TOR,133.0,G. Temple,TOR,Temple 2' Running Finger Roll Layup (2 PTS) (Boucher 1 AST),Made Shot,Running Finger Roll Layup Shot,-23,1,2,1,2.0,2.0,v
+S2324-G0504,4,00:14.100000,GSW,,TOR,,G. Temple,TOR,Temple Lost Ball Turnover (P1.T7),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0637,4,00:45,TOR,,LAC,,G. Temple,TOR,Temple REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0637,4,00:44.600000,TOR,,LAC,,G. Temple,TOR,Temple Out of Bounds - Bad Pass Turnover Turnover (P1.T11),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G0637,4,00:13.800000,TOR,,LAC,,G. Temple,TOR,MISS Temple 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,99,272,29,1,3.0,0.0,h
+S2324-G0174,4,02:20,BOS,,TOR,,G. Temple,TOR,Temple REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0174,4,01:36,BOS,,TOR,,G. Temple,TOR,MISS Temple 20' Jump Shot,Missed Shot,Jump Shot,-118,161,20,1,2.0,0.0,v
+S2324-G0174,4,01:24,BOS,,TOR,,G. Temple,TOR,Temple STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0174,4,01:21,BOS,115.0,TOR,92.0,G. Temple,TOR,Temple 3' Running Dunk (2 PTS),Made Shot,Running Dunk Shot,-5,32,3,1,2.0,2.0,v
+S2324-G0128,1,03:02,PHI,,TOR,,G. Temple,TOR,Temple T.FOUL (P0.T1) (M.Lindsay),Foul,Technical,0,0,0,0,,,v
+S2324-G0128,4,00:22.200000,PHI,114.0,TOR,99.0,G. Temple,TOR,Temple 1' Running Finger Roll Layup (2 PTS) (Young 1 AST),Made Shot,Running Finger Roll Layup Shot,-7,-8,1,1,2.0,2.0,v
+S2324-G0692,4,03:10,HOU,,TOR,,G. Temple,TOR,MISS Temple 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-87,179,20,1,2.0,0.0,v
+S2324-G0692,4,00:30.200000,HOU,,TOR,,G. Temple,TOR,MISS Temple 24' 3PT Jump Shot,Missed Shot,Jump Shot,240,-12,24,1,3.0,0.0,v
+S2324-G0574,4,01:54,TOR,,MIA,,G. Temple,TOR,MISS Temple 24' 3PT Jump Shot,Missed Shot,Jump Shot,-232,42,24,1,3.0,0.0,h
+S2324-G0574,4,01:07,TOR,,MIA,,G. Temple,TOR,Temple REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0574,4,00:29.600000,TOR,,MIA,,G. Temple,TOR,Temple STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0718,4,09:54,NOP,,TOR,,G. Temple,TOR,MISS Temple 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-229,-10,0,1,3.0,0.0,v
+S2324-G0718,4,09:40,NOP,,TOR,,G. Temple,TOR,Temple P.FOUL (P1.T1) (A.Nagy),Foul,Personal,0,0,0,0,,,v
+S2324-G0718,4,08:24,NOP,,TOR,,G. Temple,TOR,Temple S.FOUL (P2.T2) (A.Nagy),Foul,Shooting,0,0,0,0,,,v
+S2324-G0718,4,08:09,NOP,,TOR,,G. Temple,TOR,MISS Temple 26' 3PT Jump Shot,Missed Shot,Jump Shot,195,178,26,1,3.0,0.0,v
+S2324-G0718,4,07:04,NOP,120.0,TOR,80.0,G. Temple,TOR,Temple 2' Cutting Finger Roll Layup Shot (2 PTS) (Nwora 3 AST),Made Shot,Cutting Finger Roll Layup Shot,18,3,2,1,2.0,2.0,v
+S2324-G0718,4,03:31,NOP,,TOR,,G. Temple,TOR,MISS Temple Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0718,4,03:31,NOP,126.0,TOR,89.0,G. Temple,TOR,Temple Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0718,4,02:57,NOP,,TOR,,G. Temple,TOR,Temple REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0718,4,02:56,NOP,,TOR,,G. Temple,TOR,Temple Bad Pass Turnover (P1.T17),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0718,4,00:29.300000,NOP,,TOR,,G. Temple,TOR,Temple STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0718,4,00:26.500000,NOP,138.0,TOR,98.0,G. Temple,TOR,Temple Running Dunk (5 PTS),Made Shot,Running Dunk Shot,-2,-4,0,1,2.0,2.0,v
+S2324-G1036,1,01:10,TOR,,BKN,,G. Temple,TOR,Temple REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1036,2,09:08,TOR,24.0,BKN,27.0,G. Temple,TOR,Temple 1' Running Layup (2 PTS) (Brown 1 AST),Made Shot,Running Layup Shot,-6,4,1,1,2.0,2.0,h
+S2324-G1036,2,06:22,TOR,,BKN,,G. Temple,TOR,Temple REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1036,2,05:42,TOR,,BKN,,G. Temple,TOR,SUB: Trent Jr. FOR Temple,Substitution,,0,0,0,0,,,h
+S2324-G1036,3,02:24,TOR,,BKN,,G. Temple,TOR,Temple REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1036,3,01:34,TOR,,BKN,,G. Temple,TOR,Temple STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1036,4,10:02,TOR,,BKN,,G. Temple,TOR,MISS Temple 26' 3PT Jump Shot,Missed Shot,Jump Shot,138,216,26,1,3.0,0.0,h
+S2324-G1036,4,09:52,TOR,,BKN,,G. Temple,TOR,Temple P.FOUL (P1.T3) (M.Smith),Foul,Personal,0,0,0,0,,,h
+S2324-G1036,4,08:11,TOR,,BKN,,G. Temple,TOR,SUB: Agbaji FOR Temple,Substitution,,0,0,0,0,,,h
+S2324-G1108,1,10:17,MIN,0.0,TOR,5.0,G. Temple,TOR,Temple 3PT Jump Shot (3 PTS) (McDaniels 1 AST),Made Shot,Jump Shot,-228,14,0,1,3.0,3.0,v
+S2324-G1108,1,09:38,MIN,,TOR,,G. Temple,TOR,MISS Temple 3PT Jump Shot,Missed Shot,Jump Shot,-225,29,0,1,3.0,0.0,v
+S2324-G1108,1,06:49,MIN,,TOR,,G. Temple,TOR,MISS Temple 3PT Jump Shot,Missed Shot,Jump Shot,-229,29,0,1,3.0,0.0,v
+S2324-G1108,1,05:49,MIN,,TOR,,G. Temple,TOR,MISS Temple 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,162,30,16,1,2.0,0.0,v
+S2324-G1108,1,02:58,MIN,,TOR,,G. Temple,TOR,Temple REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1108,1,01:06,MIN,,TOR,,G. Temple,TOR,MISS Temple 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,23,9,2,1,2.0,0.0,v
+S2324-G1108,2,03:56,MIN,,TOR,,G. Temple,TOR,MISS Temple 4' Floating Jump Shot,Missed Shot,Floating Jump shot,-27,32,4,1,2.0,0.0,v
+S2324-G1108,2,01:10,MIN,,TOR,,G. Temple,TOR,MISS Temple 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-109,35,11,1,2.0,0.0,v
+S2324-G1108,2,00:00.600000,MIN,,TOR,,G. Temple,TOR,Temple Personal Take Foul (P1.T3) (B.Barnaky),Foul,Personal Take,0,0,0,0,,,v
+S2324-G1108,3,11:11,MIN,,TOR,,G. Temple,TOR,Temple BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G1108,3,08:19,MIN,,TOR,,G. Temple,TOR,MISS Temple 3PT Jump Shot,Missed Shot,Jump Shot,-227,42,0,1,3.0,0.0,v
+S2324-G1108,3,07:23,MIN,68.0,TOR,49.0,G. Temple,TOR,Temple 4' Running Layup (5 PTS) (McDaniels 4 AST),Made Shot,Running Layup Shot,31,20,4,1,2.0,2.0,v
+S2324-G1108,3,06:07,MIN,,TOR,,G. Temple,TOR,Temple REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1108,3,06:07,MIN,72.0,TOR,51.0,G. Temple,TOR,Temple Tip Layup Shot (7 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2324-G1108,3,06:07,MIN,,TOR,,G. Temple,TOR,SUB: Freeman-Liberty FOR Temple,Substitution,,0,0,0,0,,,v
+S2324-G1108,3,00:25.100000,MIN,,TOR,,G. Temple,TOR,Temple S.FOUL (P2.T3) (M.Kallio),Foul,Shooting,0,0,0,0,,,v
+S2324-G1108,4,10:18,MIN,,TOR,,G. Temple,TOR,MISS Temple 24' 3PT Jump Shot,Missed Shot,Jump Shot,233,43,24,1,3.0,0.0,v
+S2324-G1108,4,09:54,MIN,,TOR,,G. Temple,TOR,Temple S.FOUL (P3.T1) (M.Kallio),Foul,Shooting,0,0,0,0,,,v
+S2324-G1108,4,09:43,MIN,,TOR,,G. Temple,TOR,Temple Bad Pass Turnover (P1.T14),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G1108,4,05:36,MIN,,TOR,,G. Temple,TOR,SUB: Freeman-Liberty FOR Temple,Substitution,,0,0,0,0,,,v
+S2324-G1094,1,02:58,TOR,,LAL,,G. Temple,TOR,MISS Temple 3PT Jump Shot,Missed Shot,Jump Shot,-233,12,0,1,3.0,0.0,h
+S2324-G1094,1,02:44,TOR,,LAL,,G. Temple,TOR,MISS Temple 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,88,244,26,1,3.0,0.0,h
+S2324-G1094,1,01:46,TOR,,LAL,,G. Temple,TOR,Temple P.FOUL (P1.T4) (C.Blair),Foul,Personal,0,0,0,0,,,h
+S2324-G1094,1,00:09.100000,TOR,,LAL,,G. Temple,TOR,MISS Temple 2' Reverse Layup,Missed Shot,Reverse Layup Shot,15,13,2,1,2.0,0.0,h
+S2324-G1094,1,00:00.200000,TOR,,LAL,,G. Temple,TOR,MISS Temple 39' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,143,361,39,1,3.0,0.0,h
+S2324-G1094,2,06:38,TOR,,LAL,,G. Temple,TOR,Temple STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1094,2,06:27,TOR,,LAL,,G. Temple,TOR,MISS Temple 26' 3PT Jump Shot,Missed Shot,Jump Shot,-201,159,26,1,3.0,0.0,h
+S2324-G1094,2,04:27,TOR,,LAL,,G. Temple,TOR,SUB: Barrett FOR Temple,Substitution,,0,0,0,0,,,h
+S2324-G1094,3,07:31,TOR,,LAL,,G. Temple,TOR,Temple OFF.Foul (P2) (S.Mehta),Foul,Offensive,0,0,0,0,,,h
+S2324-G1094,3,07:31,TOR,,LAL,,G. Temple,TOR,Temple Offensive Foul Turnover (P1.T7),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G1094,3,03:00,TOR,,LAL,,G. Temple,TOR,Temple P.FOUL (P3.PN) (C.Blair),Foul,Personal,0,0,0,0,,,h
+S2324-G1094,4,08:30,TOR,,LAL,,G. Temple,TOR,MISS Temple 24' 3PT Jump Shot,Missed Shot,Jump Shot,241,-1,24,1,3.0,0.0,h
+S2324-G1094,4,08:06,TOR,86.0,LAL,116.0,G. Temple,TOR,Temple 1' Cutting Layup Shot (2 PTS),Made Shot,Cutting Layup Shot,-4,5,1,1,2.0,2.0,h
+S2324-G1094,4,06:30,TOR,,LAL,,G. Temple,TOR,MISS Temple Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G1094,4,06:30,TOR,,LAL,,G. Temple,TOR,MISS Temple Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G1094,4,06:09,TOR,,LAL,,G. Temple,TOR,Temple STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G1094,4,05:56,TOR,,LAL,,G. Temple,TOR,Temple Bad Pass Turnover (P2.T16),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G1094,4,00:44.700000,TOR,109.0,LAL,128.0,G. Temple,TOR,Temple 1' Running Finger Roll Layup (4 PTS) (Simmons 3 AST),Made Shot,Running Finger Roll Layup Shot,7,3,1,1,2.0,2.0,h
+S2324-G1094,4,00:19.500000,TOR,,LAL,,G. Temple,TOR,Temple REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1094,4,00:19,TOR,110.0,LAL,128.0,G. Temple,TOR,Temple Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1094,4,00:19,TOR,111.0,LAL,128.0,G. Temple,TOR,Temple Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0596,4,02:42,NYK,119.0,TOR,95.0,G. Temple,TOR,Temple Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0596,4,02:42,NYK,119.0,TOR,96.0,G. Temple,TOR,Temple Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0596,4,01:28,NYK,,TOR,,G. Temple,TOR,MISS Temple 26' 3PT Jump Shot,Missed Shot,Jump Shot,188,180,26,1,3.0,0.0,v
+S2324-G0596,4,00:32.900000,NYK,,TOR,,G. Temple,TOR,MISS Temple 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,13,36,4,1,2.0,0.0,v
+S2324-G0596,4,00:30.300000,NYK,,TOR,,G. Temple,TOR,Temple REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0596,4,00:28.200000,NYK,,TOR,,G. Temple,TOR,Temple REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0596,4,00:21.500000,NYK,,TOR,,G. Temple,TOR,MISS Temple 1' Layup,Missed Shot,Layup Shot,0,8,1,1,2.0,0.0,v
+S2324-G0540,4,07:16,UTA,,TOR,,G. Temple,TOR,Temple REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0540,4,05:04,UTA,,TOR,,G. Temple,TOR,Temple S.FOUL (P1.T3) (E.Scott),Foul,Shooting,0,0,0,0,,,v
+S2324-G0540,4,03:21,UTA,,TOR,,G. Temple,TOR,Temple Bad Pass Turnover (P1.T12),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0540,4,01:41,UTA,,TOR,,G. Temple,TOR,MISS Temple 24' 3PT Jump Shot,Missed Shot,Jump Shot,-78,232,24,1,3.0,0.0,v
+S2324-G0038,4,00:26,ORL,123.0,TOR,107.0,G. Temple,TOR,Temple 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,4,21,2,1,2.0,2.0,v
+S2324-G1189,1,03:37,MIA,,TOR,,G. Temple,TOR,Temple S.FOUL (P1.T3) (M.Lindsay),Foul,Shooting,0,0,0,0,,,v
+S2324-G1189,1,03:36,MIA,18.0,TOR,16.0,G. Temple,TOR,Temple Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1189,1,03:36,MIA,18.0,TOR,17.0,G. Temple,TOR,Temple Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1189,1,03:07,MIA,,TOR,,G. Temple,TOR,MISS Temple 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-89,6,9,1,2.0,0.0,v
+S2324-G1189,1,01:32,MIA,,TOR,,G. Temple,TOR,MISS Temple 24' 3PT Jump Shot,Missed Shot,Jump Shot,-213,113,24,1,3.0,0.0,v
+S2324-G1189,1,00:45.400000,MIA,,TOR,,G. Temple,TOR,Temple S.FOUL (P2.PN) (J.Sterling),Foul,Shooting,0,0,0,0,,,v
+S2324-G1189,2,11:41,MIA,,TOR,,G. Temple,TOR,MISS Temple 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,6,43,4,1,2.0,0.0,v
+S2324-G1189,2,11:34,MIA,,TOR,,G. Temple,TOR,Temple REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1189,2,11:34,MIA,,TOR,,G. Temple,TOR,MISS Temple Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2324-G1189,2,09:25,MIA,,TOR,,G. Temple,TOR,Temple Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G1189,2,07:43,MIA,,TOR,,G. Temple,TOR,Temple REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1189,2,05:50,MIA,,TOR,,G. Temple,TOR,SUB: Agbaji FOR Temple,Substitution,,0,0,0,0,,,v
+S2324-G1189,3,01:53,MIA,,TOR,,G. Temple,TOR,Temple S.FOUL (P3.PN) (J.Sterling),Foul,Shooting,0,0,0,0,,,v
+S2324-G1189,3,00:53.500000,MIA,,TOR,,G. Temple,TOR,MISS Temple 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,31,252,25,1,3.0,0.0,v
+S2324-G1189,4,10:09,MIA,,TOR,,G. Temple,TOR,MISS Temple 25' 3PT Jump Shot,Missed Shot,Jump Shot,9,251,25,1,3.0,0.0,v
+S2324-G1189,4,06:47,MIA,,TOR,,G. Temple,TOR,Temple REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1189,4,04:59,MIA,108.0,TOR,86.0,G. Temple,TOR,Temple 25' 3PT Jump Shot (5 PTS) (Freeman-Liberty 7 AST),Made Shot,Jump Shot,195,151,25,1,3.0,3.0,v
+S2324-G1189,4,01:16,MIA,116.0,TOR,96.0,G. Temple,TOR,Temple Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1189,4,01:16,MIA,116.0,TOR,97.0,G. Temple,TOR,Temple Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1189,4,00:57.100000,MIA,116.0,TOR,98.0,G. Temple,TOR,Temple Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1189,4,00:57.100000,MIA,116.0,TOR,99.0,G. Temple,TOR,Temple Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1189,4,00:00.700000,MIA,,TOR,,G. Temple,TOR,MISS Temple 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-108,246,27,1,3.0,0.0,v
+S2324-G0672,3,02:39,CHI,,TOR,,G. Temple,TOR,Temple S.FOUL (P1.PN) (S.Wright),Foul,Shooting,0,0,0,0,,,v
+S2324-G0672,3,00:40.300000,CHI,,TOR,,G. Temple,TOR,Temple REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0672,3,00:00.300000,CHI,,TOR,,G. Temple,TOR,MISS Temple 3' Layup,Missed Shot,Layup Shot,0,32,3,1,2.0,0.0,v
+S2324-G1022,1,02:49,WAS,,TOR,,G. Temple,TOR,Temple REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1022,1,00:37.500000,WAS,,TOR,,G. Temple,TOR,MISS Temple 25' 3PT Jump Shot,Missed Shot,Jump Shot,147,206,25,1,3.0,0.0,v
+S2324-G1022,1,00:28.400000,WAS,,TOR,,G. Temple,TOR,Temple REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1022,1,00:02.500000,WAS,,TOR,,G. Temple,TOR,Temple P.FOUL (P1.PN) (J.Schroeder),Foul,Personal,0,0,0,0,,,v
+S2324-G1022,2,11:44,WAS,23.0,TOR,28.0,G. Temple,TOR,Temple 24' 3PT Jump Shot (3 PTS) (Dick 1 AST),Made Shot,Jump Shot,-238,32,24,1,3.0,3.0,v
+S2324-G1022,2,11:30,WAS,,TOR,,G. Temple,TOR,Temple S.FOUL (P2.T1) (R.Acosta),Foul,Shooting,0,0,0,0,,,v
+S2324-G1022,2,09:57,WAS,,TOR,,G. Temple,TOR,Temple REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1022,2,09:16,WAS,,TOR,,G. Temple,TOR,SUB: Gueye FOR Temple,Substitution,,0,0,0,0,,,v
+S2324-G1022,3,04:19,WAS,,TOR,,G. Temple,TOR,Temple BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G1022,3,04:17,WAS,,TOR,,G. Temple,TOR,Temple REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1022,3,03:03,WAS,,TOR,,G. Temple,TOR,Temple P.FOUL (P3.T2) (J.Schroeder),Foul,Personal,0,0,0,0,,,v
+S2324-G1022,3,01:06,WAS,,TOR,,G. Temple,TOR,Temple REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1022,4,00:11.600000,WAS,,TOR,,G. Temple,TOR,SUB: Olynyk FOR Temple,Substitution,,0,0,0,0,,,v
+S2324-G0756,4,00:46,TOR,,CLE,,G. Temple,TOR,Temple Bad Pass Turnover (P1.T11),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G1080,1,04:22,TOR,,PHI,,G. Temple,TOR,MISS Temple 5' Layup,Missed Shot,Layup Shot,29,41,5,1,2.0,0.0,h
+S2324-G1080,2,09:51,TOR,31.0,PHI,41.0,G. Temple,TOR,Temple 1' Running Finger Roll Layup (2 PTS) (Simmons 2 AST),Made Shot,Running Finger Roll Layup Shot,1,12,1,1,2.0,2.0,h
+S2324-G1080,2,09:33,TOR,,PHI,,G. Temple,TOR,Temple REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1080,2,09:24,TOR,,PHI,,G. Temple,TOR,Temple S.FOUL (P1.T1) (J.Tiven),Foul,Shooting,0,0,0,0,,,h
+S2324-G1080,2,08:03,TOR,,PHI,,G. Temple,TOR,Temple REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1080,2,07:52,TOR,,PHI,,G. Temple,TOR,Temple S.FOUL (P2.T2) (T.Washington),Foul,Shooting,0,0,0,0,,,h
+S2324-G1080,2,07:52,TOR,,PHI,,G. Temple,TOR,SUB: Trent Jr. FOR Temple,Substitution,,0,0,0,0,,,h
+S2324-G1160,1,07:04,BKN,9.0,TOR,13.0,G. Temple,TOR,Temple 24' 3PT Jump Shot (3 PTS) (Quickley 2 AST),Made Shot,Jump Shot,-235,26,24,1,3.0,3.0,v
+S2324-G1160,1,06:27,BKN,,TOR,,G. Temple,TOR,Temple REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1160,1,06:27,BKN,,TOR,,G. Temple,TOR,MISS Temple 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-217,179,28,1,3.0,0.0,v
+S2324-G1160,1,06:06,BKN,,TOR,,G. Temple,TOR,Temple REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1160,1,04:56,BKN,,TOR,,G. Temple,TOR,SUB: Gueye FOR Temple,Substitution,,0,0,0,0,,,v
+S2324-G1160,2,11:23,BKN,,TOR,,G. Temple,TOR,Temple Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G1160,2,09:53,BKN,,TOR,,G. Temple,TOR,Temple STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G1160,2,07:49,BKN,,TOR,,G. Temple,TOR,Temple S.FOUL (P1.T3) (K.Lane),Foul,Shooting,0,0,0,0,,,v
+S2324-G1160,2,07:49,BKN,,TOR,,G. Temple,TOR,SUB: Agbaji FOR Temple,Substitution,,0,0,0,0,,,v
+S2324-G1160,2,01:13,BKN,,TOR,,G. Temple,TOR,SUB: Gueye FOR Temple,Substitution,,0,0,0,0,,,v
+S2324-G1160,3,10:22,BKN,,TOR,,G. Temple,TOR,Temple REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1160,3,09:40,BKN,,TOR,,G. Temple,TOR,Temple REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1160,3,08:14,BKN,,TOR,,G. Temple,TOR,Temple REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1160,3,05:50,BKN,,TOR,,G. Temple,TOR,Temple Traveling Turnover (P2.T8),Turnover,Traveling,0,0,0,0,,,v
+S2324-G1160,3,04:33,BKN,,TOR,,G. Temple,TOR,SUB: Gueye FOR Temple,Substitution,,0,0,0,0,,,v
+S2324-G1160,3,01:09,BKN,,TOR,,G. Temple,TOR,MISS Temple 3PT Jump Shot,Missed Shot,Jump Shot,-225,57,0,1,3.0,0.0,v
+S2324-G1160,3,00:36.800000,BKN,,TOR,,G. Temple,TOR,MISS Temple 4' Running Layup,Missed Shot,Running Layup Shot,-37,8,4,1,2.0,0.0,v
+S2324-G1160,4,10:37,BKN,,TOR,,G. Temple,TOR,Temple REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1160,4,10:36,BKN,,TOR,,G. Temple,TOR,MISS Temple 2' Tip Layup Shot,Missed Shot,Tip Layup Shot,4,20,2,1,2.0,0.0,v
+S2324-G1160,4,00:21.700000,BKN,,TOR,,G. Temple,TOR,Temple Lost Ball Turnover (P3.T10),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G1160,4,00:17.800000,BKN,,TOR,,G. Temple,TOR,Temple STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G1160,4,00:15,BKN,,TOR,,G. Temple,TOR,MISS Temple 1' Running Layup,Missed Shot,Running Layup Shot,1,11,1,1,2.0,0.0,v
+S2324-G1137,3,02:18,TOR,,WAS,,G. Temple,TOR,Temple BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G1137,3,01:05,TOR,,WAS,,G. Temple,TOR,Temple Bad Pass Turnover (P1.T13),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G1137,4,11:38,TOR,,WAS,,G. Temple,TOR,Temple REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1137,4,11:36,TOR,101.0,WAS,87.0,G. Temple,TOR,Temple Putback Layup (2 PTS),Made Shot,Putback Layup Shot,0,-1,0,1,2.0,2.0,h
+S2324-G1137,4,10:49,TOR,,WAS,,G. Temple,TOR,Temple S.FOUL (P1.T1) (J.Conley),Foul,Shooting,0,0,0,0,,,h
+S2324-G1137,4,09:16,TOR,112.0,WAS,94.0,G. Temple,TOR,Temple 26' 3PT Jump Shot (5 PTS) (Quickley 10 AST),Made Shot,Jump Shot,161,199,26,1,3.0,3.0,h
+S2324-G1137,4,09:03,TOR,,WAS,,G. Temple,TOR,Temple S.FOUL (P2.T2) (J.Conley),Foul,Shooting,0,0,0,0,,,h
+S2324-G1137,4,06:23,TOR,,WAS,,G. Temple,TOR,Temple S.FOUL (P3.T4) (J.Conley),Foul,Shooting,0,0,0,0,,,h
+S2324-G1137,4,06:05,TOR,,WAS,,G. Temple,TOR,Temple REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1137,4,06:05,TOR,,WAS,,G. Temple,TOR,MISS Temple Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2324-G1137,4,05:45,TOR,,WAS,,G. Temple,TOR,SUB: Quickley FOR Temple,Substitution,,0,0,0,0,,,h
+S2324-G1176,4,10:53,MIA,,TOR,,G. Temple,TOR,Temple REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1176,4,10:14,MIA,,TOR,,G. Temple,TOR,MISS Temple 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,228,62,24,1,3.0,0.0,v
+S2324-G1176,4,09:27,MIA,,TOR,,G. Temple,TOR,Temple S.FOUL (P1.T2) (J.Tiven),Foul,Shooting,0,0,0,0,,,v
+S2324-G1176,4,08:01,MIA,,TOR,,G. Temple,TOR,MISS Temple Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G1176,4,08:01,MIA,105.0,TOR,85.0,G. Temple,TOR,Temple Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1176,4,07:30,MIA,,TOR,,G. Temple,TOR,SUB: Trent Jr. FOR Temple,Substitution,,0,0,0,0,,,v
+S2324-G1176,4,03:19,MIA,117.0,TOR,97.0,G. Temple,TOR,Temple Running Layup (3 PTS),Made Shot,Running Layup Shot,0,1,0,1,2.0,2.0,v
+S2324-G1176,4,02:57,MIA,117.0,TOR,99.0,G. Temple,TOR,Temple 1' Running Finger Roll Layup (5 PTS),Made Shot,Running Finger Roll Layup Shot,-10,7,1,1,2.0,2.0,v
+S2324-G1176,4,01:34,MIA,,TOR,,G. Temple,TOR,Temple REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0116,4,02:03,TOR,127.0,MIL,104.0,G. Temple,TOR,Temple Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0116,4,02:03,TOR,128.0,MIL,104.0,G. Temple,TOR,Temple Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1053,1,01:49,TOR,26.0,NYK,40.0,G. Temple,TOR,Temple 26' 3PT Pullup Jump Shot (3 PTS) (Gueye 1 AST),Made Shot,Pullup Jump shot,184,179,26,1,3.0,3.0,h
+S2324-G1053,1,01:03,TOR,,NYK,,G. Temple,TOR,MISS Temple 26' 3PT Jump Shot,Missed Shot,Jump Shot,-186,175,26,1,3.0,0.0,h
+S2324-G1053,1,00:33,TOR,30.0,NYK,43.0,G. Temple,TOR,Temple 1' Cutting Finger Roll Layup Shot (5 PTS) (Nwora 1 AST),Made Shot,Cutting Finger Roll Layup Shot,-2,-6,1,1,2.0,2.0,h
+S2324-G1053,1,00:00,TOR,33.0,NYK,45.0,G. Temple,TOR,Temple 3PT Jump Shot (8 PTS) (Simmons 2 AST),Made Shot,Jump Shot,228,13,0,1,3.0,3.0,h
+S2324-G1053,2,10:20,TOR,39.0,NYK,49.0,G. Temple,TOR,Temple 3PT Jump Shot (11 PTS) (Simmons 4 AST),Made Shot,Jump Shot,-233,-1,0,1,3.0,3.0,h
+S2324-G1053,2,09:20,TOR,,NYK,,G. Temple,TOR,Jump Ball Temple vs. Achiuwa: Tip to Hartenstein,Jump Ball,,0,0,0,0,,,h
+S2324-G1053,2,07:21,TOR,,NYK,,G. Temple,TOR,SUB: Trent Jr. FOR Temple,Substitution,,0,0,0,0,,,h
+S2324-G1053,2,00:43.300000,TOR,,NYK,,G. Temple,TOR,Temple S.FOUL (P1.PN) (Z.Zarba),Foul,Shooting,0,0,0,0,,,h
+S2324-G1053,3,06:08,TOR,,NYK,,G. Temple,TOR,Temple REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1053,3,05:58,TOR,,NYK,,G. Temple,TOR,MISS Temple 3PT Jump Shot,Missed Shot,Jump Shot,-233,16,0,1,3.0,0.0,h
+S2324-G1053,3,03:54,TOR,,NYK,,G. Temple,TOR,Temple STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1053,3,03:48,TOR,,NYK,,G. Temple,TOR,MISS Temple 3' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,7,29,3,1,2.0,0.0,h
+S2324-G1053,3,03:46,TOR,,NYK,,G. Temple,TOR,Temple REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1053,3,03:46,TOR,,NYK,,G. Temple,TOR,MISS Temple Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2324-G1053,3,03:44,TOR,,NYK,,G. Temple,TOR,Temple REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1053,3,03:44,TOR,78.0,NYK,102.0,G. Temple,TOR,Temple Putback Layup (13 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,h
+S2324-G1053,3,03:14,TOR,,NYK,,G. Temple,TOR,Temple L.B.FOUL (P2.T4) (Z.Zarba),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G1053,3,02:24,TOR,,NYK,,G. Temple,TOR,Temple REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1053,3,02:24,TOR,79.0,NYK,103.0,G. Temple,TOR,Temple Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1053,3,02:24,TOR,80.0,NYK,103.0,G. Temple,TOR,Temple Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1053,3,02:13,TOR,,NYK,,G. Temple,TOR,SUB: Nwora FOR Temple,Substitution,,0,0,0,0,,,h
+S2324-G1053,4,06:50,TOR,,NYK,,G. Temple,TOR,Temple Backcourt Turnover (P1.T15),Turnover,Backcourt Turnover,0,0,0,0,,,h
+S2324-G1053,4,03:19,TOR,,NYK,,G. Temple,TOR,MISS Temple 3PT Jump Shot,Missed Shot,Jump Shot,-228,11,0,1,3.0,0.0,h
+S2324-G1053,4,02:40,TOR,,NYK,,G. Temple,TOR,Temple REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1053,4,02:10,TOR,,NYK,,G. Temple,TOR,Temple REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1053,4,00:52.300000,TOR,,NYK,,G. Temple,TOR,Temple STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G1012,2,05:44,TOR,,OKC,,G. Temple,TOR,Temple STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1012,2,03:31,TOR,49.0,OKC,55.0,G. Temple,TOR,Temple 3PT Jump Shot (3 PTS) (Agbaji 3 AST),Made Shot,Jump Shot,225,-9,0,1,3.0,3.0,h
+S2324-G1012,2,01:50,TOR,,OKC,,G. Temple,TOR,SUB: Freeman-Liberty FOR Temple,Substitution,,0,0,0,0,,,h
+S2324-G1012,3,03:58,TOR,72.0,OKC,84.0,G. Temple,TOR,Temple 25' 3PT Jump Shot (6 PTS) (Porter 4 AST),Made Shot,Jump Shot,134,216,25,1,3.0,3.0,h
+S2324-G1012,3,02:36,TOR,,OKC,,G. Temple,TOR,Temple REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1012,3,00:33.500000,TOR,,OKC,,G. Temple,TOR,Temple STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G1012,4,07:04,TOR,,OKC,,G. Temple,TOR,SUB: Brown FOR Temple,Substitution,,0,0,0,0,,,h
+S2324-G1012,4,01:50,TOR,100.0,OKC,120.0,G. Temple,TOR,Temple Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1012,4,01:50,TOR,101.0,OKC,120.0,G. Temple,TOR,Temple Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1012,4,01:13,TOR,,OKC,,G. Temple,TOR,Temple REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0195,4,01:16,TOR,108.0,MIL,128.0,G. Temple,TOR,Temple 24' 3PT Running Jump Shot (3 PTS) (Nowell 1 AST),Made Shot,Running Jump Shot,-235,68,24,1,3.0,3.0,h
+S2324-G0195,4,00:38.200000,TOR,,MIL,,G. Temple,TOR,Temple REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0526,1,01:27,LAC,24.0,TOR,24.0,G. Temple,TOR,Temple 3PT Jump Shot (3 PTS) (Porter 1 AST),Made Shot,Jump Shot,-232,26,0,1,3.0,3.0,v
+S2324-G0526,1,00:50.700000,LAC,,TOR,,G. Temple,TOR,Temple REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0526,2,09:20,LAC,,TOR,,G. Temple,TOR,MISS Temple 3' Running Layup,Missed Shot,Running Layup Shot,22,26,3,1,2.0,0.0,v
+S2324-G0526,2,08:34,LAC,,TOR,,G. Temple,TOR,Temple REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0526,2,08:15,LAC,,TOR,,G. Temple,TOR,Temple P.FOUL (P1.T1) (L.Wood),Foul,Personal,0,0,0,0,,,v
+S2324-G0526,2,08:15,LAC,,TOR,,G. Temple,TOR,SUB: Barnes FOR Temple,Substitution,,0,0,0,0,,,v
+S2324-G0526,3,00:12.400000,LAC,,TOR,,G. Temple,TOR,Temple S.FOUL (P2.T2) (L.Wood),Foul,Shooting,0,0,0,0,,,v
