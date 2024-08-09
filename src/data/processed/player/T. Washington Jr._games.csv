@@ -1,0 +1,34 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2324-G0773,4,03:01,MIL,,MIA,,T. Washington Jr.,MIL,MISS Washington Jr. 15' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,67,132,15,1,2.0,0.0,h
+S2324-G0773,4,00:50.500000,MIL,,MIA,,T. Washington Jr.,MIL,Washington Jr. STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1162,4,01:31,MIL,,ORL,,T. Washington Jr.,MIL,MISS Washington Jr. 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-10,179,18,1,2.0,0.0,h
+S2324-G1162,4,00:11.700000,MIL,,ORL,,T. Washington Jr.,MIL,Washington Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0745,4,05:29,MIL,,CHA,,T. Washington Jr.,MIL,MISS Washington Jr. 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,124,157,20,1,2.0,0.0,h
+S2324-G0745,4,03:37,MIL,,CHA,,T. Washington Jr.,MIL,MISS Washington Jr. 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,221,159,27,1,3.0,0.0,h
+S2324-G1139,4,00:25.500000,MIL,,NYK,,T. Washington Jr.,MIL,MISS Washington Jr. 21' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-174,111,21,1,2.0,0.0,h
+S2324-G1179,3,00:01.500000,OKC,95.0,MIL,83.0,T. Washington Jr.,MIL,Washington Jr. 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,28,6,3,1,2.0,2.0,v
+S2324-G1179,4,11:33,OKC,,MIL,,T. Washington Jr.,MIL,MISS Washington Jr. 20' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-102,169,20,1,2.0,0.0,v
+S2324-G1179,4,05:36,OKC,,MIL,,T. Washington Jr.,MIL,MISS Washington Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,-27,257,26,1,3.0,0.0,v
+S2324-G1179,4,04:12,OKC,,MIL,,T. Washington Jr.,MIL,MISS Washington Jr. 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,39,71,8,1,2.0,0.0,v
+S2324-G1179,4,02:35,OKC,,MIL,,T. Washington Jr.,MIL,Washington Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1179,4,01:43,OKC,,MIL,,T. Washington Jr.,MIL,MISS Washington Jr. 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,109,236,26,1,3.0,0.0,v
+S2324-G1179,4,00:07.700000,OKC,,MIL,,T. Washington Jr.,MIL,Washington Jr. STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G1191,4,06:57,ORL,98.0,MIL,75.0,T. Washington Jr.,MIL,Washington Jr. 18' Pullup Jump Shot (2 PTS) (Antetokounmpo 1 AST),Made Shot,Pullup Jump shot,93,155,18,1,2.0,2.0,v
+S2324-G1191,4,03:05,ORL,,MIL,,T. Washington Jr.,MIL,MISS Washington Jr. 22' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-148,159,22,1,2.0,0.0,v
+S2324-G1191,4,02:42,ORL,109.0,MIL,81.0,T. Washington Jr.,MIL,Washington Jr. 12' Driving Floating Jump Shot (4 PTS) (Rollins 1 AST),Made Shot,Driving Floating Jump Shot,-43,111,12,1,2.0,2.0,v
+S2324-G1191,4,00:55.900000,ORL,113.0,MIL,88.0,T. Washington Jr.,MIL,Washington Jr. 8' Driving Floating Jump Shot (6 PTS),Made Shot,Driving Floating Jump Shot,-40,71,8,1,2.0,2.0,v
+S2324-G1107,1,00:40.800000,MIL,,MEM,,T. Washington Jr.,MIL,Washington Jr. S.FOUL (P1.T3) (K.Lane),Foul,Shooting,0,0,0,0,,,h
+S2324-G1107,1,00:20.500000,MIL,,MEM,,T. Washington Jr.,MIL,MISS Washington Jr. 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-74,55,9,1,2.0,0.0,h
+S2324-G1107,1,00:18,MIL,,MEM,,T. Washington Jr.,MIL,Washington Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1107,2,10:31,MIL,29.0,MEM,28.0,T. Washington Jr.,MIL,Washington Jr. 25' 3PT Jump Shot (3 PTS) (Gallinari 1 AST),Made Shot,Jump Shot,186,172,25,1,3.0,3.0,h
+S2324-G1107,2,09:42,MIL,,MEM,,T. Washington Jr.,MIL,Washington Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1107,2,06:08,MIL,,MEM,,T. Washington Jr.,MIL,SUB: Connaughton FOR Washington Jr.,Substitution,,0,0,0,0,,,h
+S2324-G1107,3,03:50,MIL,,MEM,,T. Washington Jr.,MIL,SUB: Connaughton FOR Washington Jr.,Substitution,,0,0,0,0,,,h
+S2324-G0097,4,02:39,MIL,,ATL,,T. Washington Jr.,MIL,Washington Jr. Lost Ball Turnover (P1.T21),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0097,4,02:11,MIL,105.0,ATL,126.0,T. Washington Jr.,MIL,Washington Jr. 3PT Jump Shot (3 PTS) (Jackson Jr. 1 AST),Made Shot,Jump Shot,223,27,0,1,3.0,3.0,h
+S2324-G0097,4,01:36,MIL,,ATL,,T. Washington Jr.,MIL,MISS Washington Jr. 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-99,131,16,1,2.0,0.0,h
+S2324-G0767,4,01:51,MIL,,DEN,,T. Washington Jr.,MIL,MISS Washington Jr. 10' Driving Layup,Missed Shot,Driving Layup Shot,66,69,10,1,2.0,0.0,h
+S2324-G0195,4,01:53,TOR,,MIL,,T. Washington Jr.,MIL,Washington Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0195,4,01:31,TOR,,MIL,,T. Washington Jr.,MIL,Washington Jr. STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0195,4,01:03,TOR,,MIL,,T. Washington Jr.,MIL,Washington Jr. Lost Ball Turnover (P1.T13),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0195,4,00:39.700000,TOR,,MIL,,T. Washington Jr.,MIL,MISS Washington Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,217,116,25,1,3.0,0.0,v

@@ -1,0 +1,1543 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2324-G0708,1,03:14,MIA,18.0,LAC,13.0,N. Powell,LAC,Powell 19' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,-185,15,19,1,2.0,2.0,v
+S2324-G0708,1,02:35,MIA,20.0,LAC,15.0,N. Powell,LAC,Powell 2' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,12,11,2,1,2.0,2.0,v
+S2324-G0708,1,01:46,MIA,,LAC,,N. Powell,LAC,MISS Powell 3PT Jump Shot,Missed Shot,Jump Shot,-227,25,0,1,3.0,0.0,v
+S2324-G0708,1,00:06.800000,MIA,,LAC,,N. Powell,LAC,MISS Powell 28' 3PT Jump Shot,Missed Shot,Jump Shot,201,195,28,1,3.0,0.0,v
+S2324-G0708,2,11:37,MIA,,LAC,,N. Powell,LAC,MISS Powell 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-235,34,24,1,3.0,0.0,v
+S2324-G0708,2,08:39,MIA,27.0,LAC,28.0,N. Powell,LAC,Powell 3PT Jump Shot (7 PTS) (Harden 3 AST),Made Shot,Jump Shot,-229,37,0,1,3.0,3.0,v
+S2324-G0708,2,06:29,MIA,,LAC,,N. Powell,LAC,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0708,2,05:31,MIA,,LAC,,N. Powell,LAC,SUB: Mann FOR Powell,Substitution,,0,0,0,0,,,v
+S2324-G0708,3,03:21,MIA,61.0,LAC,69.0,N. Powell,LAC,Powell 2' Driving Reverse Layup (9 PTS) (Harden 9 AST),Made Shot,Driving Reverse Layup Shot,-15,8,2,1,2.0,2.0,v
+S2324-G0708,3,02:54,MIA,,LAC,,N. Powell,LAC,MISS Powell 3PT Jump Shot,Missed Shot,Jump Shot,228,5,0,1,3.0,0.0,v
+S2324-G0708,3,02:17,MIA,,LAC,,N. Powell,LAC,MISS Powell 2' Driving Layup,Missed Shot,Driving Layup Shot,-16,2,2,1,2.0,0.0,v
+S2324-G0708,3,00:40.300000,MIA,,LAC,,N. Powell,LAC,Powell S.FOUL (P1.T4) (B.Nansel),Foul,Shooting,0,0,0,0,,,v
+S2324-G0708,4,10:54,MIA,70.0,LAC,70.0,N. Powell,LAC,Powell Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0708,4,10:54,MIA,70.0,LAC,71.0,N. Powell,LAC,Powell Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0708,4,07:51,MIA,76.0,LAC,83.0,N. Powell,LAC,Powell 24' 3PT Jump Shot (14 PTS) (George 4 AST),Made Shot,Jump Shot,-243,-15,24,1,3.0,3.0,v
+S2324-G0708,4,07:12,MIA,,LAC,,N. Powell,LAC,MISS Powell 27' 3PT Jump Shot,Missed Shot,Jump Shot,-234,138,27,1,3.0,0.0,v
+S2324-G0708,4,06:38,MIA,76.0,LAC,85.0,N. Powell,LAC,Powell 16' Pullup Jump Shot (16 PTS) (Harden 11 AST),Made Shot,Pullup Jump shot,-148,49,16,1,2.0,2.0,v
+S2324-G0749,1,02:56,LAC,,DET,,N. Powell,LAC,MISS Powell 5' Driving Hook Shot,Missed Shot,Driving Hook Shot,44,25,5,1,2.0,0.0,h
+S2324-G0749,2,09:53,LAC,,DET,,N. Powell,LAC,Powell P.FOUL (P1.T1) (P.Fraher),Foul,Personal,0,0,0,0,,,h
+S2324-G0749,2,09:39,LAC,,DET,,N. Powell,LAC,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0749,2,05:30,LAC,,DET,,N. Powell,LAC,SUB: Mann FOR Powell,Substitution,,0,0,0,0,,,h
+S2324-G0749,3,02:26,LAC,,DET,,N. Powell,LAC,Powell REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0749,3,02:21,LAC,,DET,,N. Powell,LAC,MISS Powell 4' Running Layup,Missed Shot,Running Layup Shot,-34,17,4,1,2.0,0.0,h
+S2324-G0749,4,10:19,LAC,,DET,,N. Powell,LAC,Powell P.FOUL (P2.T2) (M.Myers),Foul,Personal,0,0,0,0,,,h
+S2324-G0749,4,09:01,LAC,,DET,,N. Powell,LAC,Powell BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0749,4,07:57,LAC,,DET,,N. Powell,LAC,Powell REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0749,4,07:01,LAC,,DET,,N. Powell,LAC,Powell STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0749,4,06:54,LAC,96.0,DET,92.0,N. Powell,LAC,Powell 1' Driving Layup (2 PTS) (George 3 AST),Made Shot,Driving Layup Shot,-12,-8,1,1,2.0,2.0,h
+S2324-G0749,4,05:12,LAC,,DET,,N. Powell,LAC,SUB: Westbrook FOR Powell,Substitution,,0,0,0,0,,,h
+S2324-G0964,1,04:46,NOP,,LAC,,N. Powell,LAC,Powell S.FOUL (P1.T3) (J.Capers),Foul,Shooting,0,0,0,0,,,v
+S2324-G0964,1,04:07,NOP,,LAC,,N. Powell,LAC,MISS Powell 15' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,141,55,15,1,2.0,0.0,v
+S2324-G0964,1,01:44,NOP,,LAC,,N. Powell,LAC,MISS Powell 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-26,262,26,1,3.0,0.0,v
+S2324-G0964,1,01:17,NOP,,LAC,,N. Powell,LAC,MISS Powell 26' 3PT Jump Shot,Missed Shot,Jump Shot,153,205,26,1,3.0,0.0,v
+S2324-G0964,1,00:01.100000,NOP,,LAC,,N. Powell,LAC,Powell STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0964,2,09:49,NOP,,LAC,,N. Powell,LAC,Powell Traveling Turnover (P1.T4),Turnover,Traveling,0,0,0,0,,,v
+S2324-G0964,2,08:01,NOP,,LAC,,N. Powell,LAC,SUB: Mann FOR Powell,Substitution,,0,0,0,0,,,v
+S2324-G0964,3,04:01,NOP,69.0,LAC,66.0,N. Powell,LAC,Powell 24' 3PT Jump Shot (3 PTS) (George 4 AST),Made Shot,Jump Shot,21,240,24,1,3.0,3.0,v
+S2324-G0964,3,02:58,NOP,71.0,LAC,71.0,N. Powell,LAC,Powell 26' 3PT Jump Shot (6 PTS) (Leonard 2 AST),Made Shot,Jump Shot,163,197,26,1,3.0,3.0,v
+S2324-G0964,3,01:10,NOP,78.0,LAC,76.0,N. Powell,LAC,Powell Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0964,3,01:10,NOP,78.0,LAC,77.0,N. Powell,LAC,Powell Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0964,3,00:40.500000,NOP,,LAC,,N. Powell,LAC,MISS Powell 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-110,227,25,1,3.0,0.0,v
+S2324-G0964,4,11:03,NOP,87.0,LAC,82.0,N. Powell,LAC,Powell 2' Driving Layup (10 PTS) (Zubac 2 AST),Made Shot,Driving Layup Shot,23,4,2,1,2.0,2.0,v
+S2324-G0964,4,11:03,NOP,87.0,LAC,83.0,N. Powell,LAC,Powell Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G0964,4,09:01,NOP,92.0,LAC,87.0,N. Powell,LAC,Powell Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0964,4,09:01,NOP,92.0,LAC,88.0,N. Powell,LAC,Powell Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0964,4,03:47,NOP,,LAC,,N. Powell,LAC,MISS Powell 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-218,136,26,1,3.0,0.0,v
+S2324-G0964,4,01:26,NOP,,LAC,,N. Powell,LAC,Powell P.FOUL (P2.T2) (J.Capers),Foul,Personal,0,0,0,0,,,v
+S2324-G0964,4,00:56.300000,NOP,,LAC,,N. Powell,LAC,Powell S.FOUL (P3.PN) (J.Capers),Foul,Shooting,0,0,0,0,,,v
+S2324-G0964,4,00:21.800000,NOP,112.0,LAC,104.0,N. Powell,LAC,Powell 3' Driving Layup (15 PTS) (Hyland 4 AST),Made Shot,Driving Layup Shot,27,1,3,1,2.0,2.0,v
+S2324-G0568,1,03:03,LAC,,OKC,,N. Powell,LAC,MISS Powell 4' Driving Layup,Missed Shot,Driving Layup Shot,-12,38,4,1,2.0,0.0,h
+S2324-G0568,1,01:26,LAC,,OKC,,N. Powell,LAC,MISS Powell 3PT Jump Shot,Missed Shot,Jump Shot,233,30,0,1,3.0,0.0,h
+S2324-G0568,1,00:46.700000,LAC,32.0,OKC,30.0,N. Powell,LAC,Powell 24' 3PT Running Jump Shot (3 PTS) (Westbrook 1 AST),Made Shot,Running Jump Shot,-235,8,24,1,3.0,3.0,h
+S2324-G0568,2,08:49,LAC,,OKC,,N. Powell,LAC,MISS Powell 27' 3PT Jump Shot,Missed Shot,Jump Shot,110,247,27,1,3.0,0.0,h
+S2324-G0568,2,07:54,LAC,,OKC,,N. Powell,LAC,MISS Powell Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0568,2,07:54,LAC,45.0,OKC,42.0,N. Powell,LAC,Powell Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0568,2,05:54,LAC,,OKC,,N. Powell,LAC,SUB: Mann FOR Powell,Substitution,,0,0,0,0,,,h
+S2324-G0568,3,02:12,LAC,,OKC,,N. Powell,LAC,MISS Powell 29' 3PT Jump Shot,Missed Shot,Jump Shot,172,230,29,1,3.0,0.0,h
+S2324-G0568,3,01:17,LAC,,OKC,,N. Powell,LAC,Powell L.B.FOUL (P1.PN) (A.Nagy),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0568,3,00:37,LAC,99.0,OKC,86.0,N. Powell,LAC,Powell 3PT Jump Shot (7 PTS) (Westbrook 4 AST),Made Shot,Jump Shot,230,33,0,1,3.0,3.0,h
+S2324-G0568,3,00:02.100000,LAC,,OKC,,N. Powell,LAC,MISS Powell 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-153,228,27,1,3.0,0.0,h
+S2324-G0568,4,10:54,LAC,,OKC,,N. Powell,LAC,MISS Powell 28' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-151,235,28,1,3.0,0.0,h
+S2324-G0568,4,10:20,LAC,,OKC,,N. Powell,LAC,MISS Powell 13' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,49,121,13,1,2.0,0.0,h
+S2324-G0568,4,10:01,LAC,,OKC,,N. Powell,LAC,MISS Powell Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0568,4,10:01,LAC,102.0,OKC,94.0,N. Powell,LAC,Powell Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0568,4,09:11,LAC,,OKC,,N. Powell,LAC,Powell S.FOUL (P2.T3) (A.Nagy),Foul,Shooting,0,0,0,0,,,h
+S2324-G0568,4,08:35,LAC,,OKC,,N. Powell,LAC,MISS Powell 3' Driving Layup,Missed Shot,Driving Layup Shot,0,28,3,1,2.0,0.0,h
+S2324-G0568,4,07:08,LAC,,OKC,,N. Powell,LAC,Powell STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0568,4,06:48,LAC,,OKC,,N. Powell,LAC,Powell P.FOUL (P3.T4) (A.Smith),Foul,Personal,0,0,0,0,,,h
+S2324-G0568,4,06:48,LAC,,OKC,,N. Powell,LAC,SUB: Mann FOR Powell,Substitution,,0,0,0,0,,,h
+S2324-G0600,1,04:15,LAC,15.0,BKN,18.0,N. Powell,LAC,Powell 27' 3PT Jump Shot (3 PTS) (Leonard 1 AST),Made Shot,Jump Shot,-134,230,27,1,3.0,3.0,h
+S2324-G0600,1,03:12,LAC,,BKN,,N. Powell,LAC,MISS Powell 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-176,91,20,1,2.0,0.0,h
+S2324-G0600,1,00:30,LAC,,BKN,,N. Powell,LAC,MISS Powell 30' 3PT Jump Shot,Missed Shot,Jump Shot,-164,248,30,1,3.0,0.0,h
+S2324-G0600,2,11:47,LAC,,BKN,,N. Powell,LAC,MISS Powell 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,16,21,3,1,2.0,0.0,h
+S2324-G0600,2,11:42,LAC,,BKN,,N. Powell,LAC,Powell S.FOUL (P1.T1) (S.Foster),Foul,Shooting,0,0,0,0,,,h
+S2324-G0600,2,11:12,LAC,,BKN,,N. Powell,LAC,Powell P.FOUL (P2.T2) (S.Foster),Foul,Personal,0,0,0,0,,,h
+S2324-G0600,2,07:48,LAC,,BKN,,N. Powell,LAC,SUB: Mann FOR Powell,Substitution,,0,0,0,0,,,h
+S2324-G0600,3,02:36,LAC,,BKN,,N. Powell,LAC,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0600,3,02:29,LAC,75.0,BKN,87.0,N. Powell,LAC,Powell 7' Driving Floating Jump Shot (5 PTS),Made Shot,Driving Floating Jump Shot,26,64,7,1,2.0,2.0,h
+S2324-G0600,4,11:14,LAC,,BKN,,N. Powell,LAC,Powell REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0600,4,10:29,LAC,,BKN,,N. Powell,LAC,Powell REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0600,4,10:29,LAC,,BKN,,N. Powell,LAC,MISS Powell Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2324-G0600,4,10:11,LAC,89.0,BKN,104.0,N. Powell,LAC,Powell Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0600,4,10:11,LAC,90.0,BKN,104.0,N. Powell,LAC,Powell Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0600,4,03:44,LAC,113.0,BKN,114.0,N. Powell,LAC,Powell 3PT Running Jump Shot (10 PTS) (Westbrook 4 AST),Made Shot,Running Jump Shot,-227,17,0,1,3.0,3.0,h
+S2324-G0600,4,02:27,LAC,,BKN,,N. Powell,LAC,Powell REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0600,4,00:54.200000,LAC,122.0,BKN,114.0,N. Powell,LAC,Powell 1' Running Dunk (12 PTS) (Westbrook 5 AST),Made Shot,Running Dunk Shot,-1,8,1,1,2.0,2.0,h
+S2324-G0600,4,00:14.500000,LAC,,BKN,,N. Powell,LAC,Powell REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0179,1,06:57,LAC,,MEM,,N. Powell,LAC,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0179,1,04:57,LAC,,MEM,,N. Powell,LAC,MISS Powell 5' Driving Layup,Missed Shot,Driving Layup Shot,-16,44,5,1,2.0,0.0,h
+S2324-G0179,1,03:16,LAC,,MEM,,N. Powell,LAC,Powell REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0179,1,03:13,LAC,15.0,MEM,23.0,N. Powell,LAC,Powell 8' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,6,80,8,1,2.0,2.0,h
+S2324-G0179,1,00:29.200000,LAC,,MEM,,N. Powell,LAC,MISS Powell Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0179,1,00:29.200000,LAC,20.0,MEM,32.0,N. Powell,LAC,Powell Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0179,2,10:58,LAC,,MEM,,N. Powell,LAC,MISS Powell 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,55,196,20,1,2.0,0.0,h
+S2324-G0179,2,09:15,LAC,,MEM,,N. Powell,LAC,MISS Powell 6' Running Layup,Missed Shot,Running Layup Shot,10,55,6,1,2.0,0.0,h
+S2324-G0179,2,07:19,LAC,,MEM,,N. Powell,LAC,SUB: Leonard FOR Powell,Substitution,,0,0,0,0,,,h
+S2324-G0179,3,07:37,LAC,,MEM,,N. Powell,LAC,MISS Powell 26' 3PT Jump Shot,Missed Shot,Jump Shot,131,227,26,1,3.0,0.0,h
+S2324-G0179,3,07:22,LAC,54.0,MEM,64.0,N. Powell,LAC,Powell 3' Running Layup (5 PTS) (Harden 2 AST),Made Shot,Running Layup Shot,-31,11,3,1,2.0,2.0,h
+S2324-G0179,3,05:26,LAC,,MEM,,N. Powell,LAC,Powell L.B.FOUL (P1.PN) (J.Conley),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0179,3,04:29,LAC,62.0,MEM,72.0,N. Powell,LAC,Powell 26' 3PT Jump Shot (8 PTS) (Leonard 3 AST),Made Shot,Jump Shot,-170,193,26,1,3.0,3.0,h
+S2324-G0179,3,04:12,LAC,,MEM,,N. Powell,LAC,Powell S.FOUL (P2.PN) (T.Ford),Foul,Shooting,0,0,0,0,,,h
+S2324-G0179,3,02:55,LAC,,MEM,,N. Powell,LAC,MISS Powell Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0179,3,02:55,LAC,,MEM,,N. Powell,LAC,MISS Powell Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0179,3,01:20,LAC,,MEM,,N. Powell,LAC,SUB: George FOR Powell,Substitution,,0,0,0,0,,,h
+S2324-G0179,4,08:41,LAC,76.0,MEM,82.0,N. Powell,LAC,Powell 26' 3PT Jump Shot (11 PTS) (George 6 AST),Made Shot,Jump Shot,-130,227,26,1,3.0,3.0,h
+S2324-G0179,4,07:16,LAC,,MEM,,N. Powell,LAC,Powell P.FOUL (P3.PN) (J.Conley),Foul,Personal,0,0,0,0,,,h
+S2324-G0179,4,05:49,LAC,87.0,MEM,89.0,N. Powell,LAC,Powell 25' 3PT Jump Shot (14 PTS) (George 7 AST),Made Shot,Jump Shot,-218,126,25,1,3.0,3.0,h
+S2324-G0179,4,05:10,LAC,90.0,MEM,91.0,N. Powell,LAC,Powell 3PT Jump Shot (17 PTS) (Mann 2 AST),Made Shot,Jump Shot,-230,17,0,1,3.0,3.0,h
+S2324-G0179,4,04:24,LAC,,MEM,,N. Powell,LAC,MISS Powell 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-223,121,25,1,3.0,0.0,h
+S2324-G0179,4,03:36,LAC,,MEM,,N. Powell,LAC,MISS Powell Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0179,4,03:36,LAC,93.0,MEM,93.0,N. Powell,LAC,Powell Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0179,4,03:09,LAC,95.0,MEM,93.0,N. Powell,LAC,Powell 19' Jump Shot (20 PTS) (Mann 3 AST),Made Shot,Jump Shot,-185,10,19,1,2.0,2.0,h
+S2324-G0179,4,01:57,LAC,,MEM,,N. Powell,LAC,MISS Powell 3PT Jump Shot,Missed Shot,Jump Shot,-230,3,0,1,3.0,0.0,h
+S2324-G0179,4,01:15,LAC,,MEM,,N. Powell,LAC,Powell L.B.FOUL (P4.PN) (T.Ford),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0179,4,01:15,LAC,,MEM,,N. Powell,LAC,SUB: Zubac FOR Powell,Substitution,,0,0,0,0,,,h
+S2324-G0179,4,00:25.600000,LAC,,MEM,,N. Powell,LAC,Powell P.FOUL (P5.PN) (J.Conley),Foul,Personal,0,0,0,0,,,h
+S2324-G0179,4,00:18.900000,LAC,,MEM,,N. Powell,LAC,SUB: Westbrook FOR Powell,Substitution,,0,0,0,0,,,h
+S2324-G0505,1,03:14,LAL,,LAC,,N. Powell,LAC,MISS Powell 19' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,142,131,19,1,2.0,0.0,v
+S2324-G0505,1,02:41,LAL,,LAC,,N. Powell,LAC,MISS Powell 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-4,57,6,1,2.0,0.0,v
+S2324-G0505,1,02:41,LAL,,LAC,,N. Powell,LAC,Powell L.B.FOUL (P1.T2) (M.Myers),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0505,1,01:02,LAL,,LAC,,N. Powell,LAC,MISS Powell 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-44,145,15,1,2.0,0.0,v
+S2324-G0505,1,00:41.600000,LAL,19.0,LAC,22.0,N. Powell,LAC,Powell 2' Running Dunk (2 PTS) (George 1 AST),Made Shot,Running Dunk Shot,-16,4,2,1,2.0,2.0,v
+S2324-G0505,2,10:15,LAL,,LAC,,N. Powell,LAC,MISS Powell 4' Driving Layup,Missed Shot,Driving Layup Shot,0,37,4,1,2.0,0.0,v
+S2324-G0505,2,08:04,LAL,30.0,LAC,32.0,N. Powell,LAC,Powell Free Throw Flagrant 1 of 3 (3 PTS),Free Throw,Free Throw Flagrant 1 of 3,0,0,0,0,1.0,1.0,v
+S2324-G0505,2,08:04,LAL,30.0,LAC,33.0,N. Powell,LAC,Powell Free Throw Flagrant 2 of 3 (4 PTS),Free Throw,Free Throw Flagrant 2 of 3,0,0,0,0,1.0,1.0,v
+S2324-G0505,2,08:04,LAL,30.0,LAC,34.0,N. Powell,LAC,Powell Free Throw Flagrant 3 of 3 (5 PTS),Free Throw,Free Throw Flagrant 3 of 3,0,0,0,0,1.0,1.0,v
+S2324-G0505,2,08:04,LAL,,LAC,,N. Powell,LAC,SUB: Leonard FOR Powell,Substitution,,0,0,0,0,,,v
+S2324-G0505,4,11:25,LAL,,LAC,,N. Powell,LAC,MISS Powell 1' Driving Layup,Missed Shot,Driving Layup Shot,-1,13,1,1,2.0,0.0,v
+S2324-G0505,4,10:18,LAL,,LAC,,N. Powell,LAC,MISS Powell 3PT Running Jump Shot,Missed Shot,Running Jump Shot,227,39,0,1,3.0,0.0,v
+S2324-G0505,4,10:01,LAL,,LAC,,N. Powell,LAC,Powell STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0505,4,06:53,LAL,94.0,LAC,90.0,N. Powell,LAC,Powell 3PT Running Jump Shot (8 PTS) (George 3 AST),Made Shot,Running Jump Shot,224,50,0,1,3.0,3.0,v
+S2324-G0505,4,06:16,LAL,94.0,LAC,93.0,N. Powell,LAC,Powell 28' 3PT Jump Shot (11 PTS) (Harden 9 AST),Made Shot,Jump Shot,-183,209,28,1,3.0,3.0,v
+S2324-G0505,4,05:17,LAL,,LAC,,N. Powell,LAC,MISS Powell 4' Driving Layup,Missed Shot,Driving Layup Shot,-21,33,4,1,2.0,0.0,v
+S2324-G0505,4,05:10,LAL,,LAC,,N. Powell,LAC,MISS Powell 3PT Jump Shot,Missed Shot,Jump Shot,-234,-20,0,1,3.0,0.0,v
+S2324-G0505,4,03:15,LAL,,LAC,,N. Powell,LAC,Powell STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0505,4,02:19,LAL,98.0,LAC,96.0,N. Powell,LAC,Powell Free Throw 1 of 3 (12 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,v
+S2324-G0505,4,02:19,LAL,98.0,LAC,97.0,N. Powell,LAC,Powell Free Throw 2 of 3 (13 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,v
+S2324-G0505,4,02:19,LAL,98.0,LAC,98.0,N. Powell,LAC,Powell Free Throw 3 of 3 (14 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,v
+S2324-G0505,4,00:00.800000,LAL,,LAC,,N. Powell,LAC,MISS Powell 26' 3PT Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,222,141,26,1,3.0,0.0,v
+S2324-G0944,1,02:54,LAC,,MIN,,N. Powell,LAC,MISS Powell 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,55,57,8,1,2.0,0.0,h
+S2324-G0944,1,02:52,LAC,,MIN,,N. Powell,LAC,Powell REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0944,1,02:51,LAC,,MIN,,N. Powell,LAC,MISS Powell 9' Layup,Missed Shot,Layup Shot,21,84,9,1,2.0,0.0,h
+S2324-G0944,1,02:03,LAC,26.0,MIN,15.0,N. Powell,LAC,Powell Free Throw 1 of 3 (1 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,h
+S2324-G0944,1,02:03,LAC,27.0,MIN,15.0,N. Powell,LAC,Powell Free Throw 2 of 3 (2 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,h
+S2324-G0944,1,02:03,LAC,,MIN,,N. Powell,LAC,MISS Powell Free Throw 3 of 3,Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,0.0,h
+S2324-G0944,2,11:40,LAC,36.0,MIN,21.0,N. Powell,LAC,Powell 2' Driving Layup (4 PTS) (Theis 1 AST),Made Shot,Driving Layup Shot,22,11,2,1,2.0,2.0,h
+S2324-G0944,2,09:20,LAC,46.0,MIN,28.0,N. Powell,LAC,Powell 14' Pullup Jump Shot (6 PTS) (Harden 4 AST),Made Shot,Pullup Jump shot,-97,104,14,1,2.0,2.0,h
+S2324-G0944,2,09:05,LAC,,MIN,,N. Powell,LAC,Powell REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0944,2,08:53,LAC,49.0,MIN,28.0,N. Powell,LAC,Powell 3PT Jump Shot (9 PTS) (Coffey 1 AST),Made Shot,Jump Shot,225,16,0,1,3.0,3.0,h
+S2324-G0944,2,08:08,LAC,,MIN,,N. Powell,LAC,Powell S.FOUL (P1.T3) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,h
+S2324-G0944,2,07:38,LAC,,MIN,,N. Powell,LAC,Powell BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0944,2,06:34,LAC,51.0,MIN,32.0,N. Powell,LAC,Powell 3' Driving Layup (11 PTS),Made Shot,Driving Layup Shot,-22,12,3,1,2.0,2.0,h
+S2324-G0944,2,06:15,LAC,,MIN,,N. Powell,LAC,SUB: Mann FOR Powell,Substitution,,0,0,0,0,,,h
+S2324-G0944,2,02:32,LAC,,MIN,,N. Powell,LAC,Powell REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0944,2,00:57,LAC,,MIN,,N. Powell,LAC,Powell Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0944,2,00:28,LAC,,MIN,,N. Powell,LAC,Powell REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0944,3,09:50,LAC,,MIN,,N. Powell,LAC,MISS Powell 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-230,16,0,1,3.0,0.0,h
+S2324-G0944,3,07:35,LAC,,MIN,,N. Powell,LAC,MISS Powell 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-110,9,11,1,2.0,0.0,h
+S2324-G0944,3,04:33,LAC,,MIN,,N. Powell,LAC,Powell P.FOUL (P2.T3) (J.Van Duyne),Foul,Personal,0,0,0,0,,,h
+S2324-G0944,3,01:13,LAC,,MIN,,N. Powell,LAC,MISS Powell 3' Driving Layup,Missed Shot,Driving Layup Shot,-29,6,3,1,2.0,0.0,h
+S2324-G0944,4,05:15,LAC,,MIN,,N. Powell,LAC,Powell P.FOUL (P3.T2) (J.Van Duyne),Foul,Personal,0,0,0,0,,,h
+S2324-G0944,4,04:08,LAC,,MIN,,N. Powell,LAC,SUB: Plumlee FOR Powell,Substitution,,0,0,0,0,,,h
+S2324-G0114,1,05:05,LAC,,ORL,,N. Powell,LAC,Powell P.FOUL (P1.T2) (J.Schroeder),Foul,Personal,0,0,0,0,,,h
+S2324-G0114,1,01:41,LAC,,ORL,,N. Powell,LAC,MISS Powell Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0114,1,01:41,LAC,9.0,ORL,13.0,N. Powell,LAC,Powell Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0114,1,00:42.400000,LAC,,ORL,,N. Powell,LAC,Powell Lost Ball Turnover (P1.T6),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0114,2,11:37,LAC,15.0,ORL,18.0,N. Powell,LAC,Powell 3' Driving Floating Bank Jump Shot (3 PTS),Made Shot,Driving Floating Bank Jump Shot,-25,24,3,1,2.0,2.0,h
+S2324-G0114,2,11:04,LAC,,ORL,,N. Powell,LAC,MISS Powell 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,98,252,27,1,3.0,0.0,h
+S2324-G0114,2,09:59,LAC,18.0,ORL,23.0,N. Powell,LAC,Powell 28' 3PT Jump Shot (6 PTS) (Plumlee 1 AST),Made Shot,Jump Shot,-181,215,28,1,3.0,3.0,h
+S2324-G0114,2,08:27,LAC,21.0,ORL,25.0,N. Powell,LAC,Powell Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0114,2,08:27,LAC,22.0,ORL,25.0,N. Powell,LAC,Powell Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0114,2,07:27,LAC,24.0,ORL,30.0,N. Powell,LAC,Powell 13' Driving Floating Jump Shot (10 PTS) (Leonard 2 AST),Made Shot,Driving Floating Jump Shot,127,21,13,1,2.0,2.0,h
+S2324-G0114,2,07:27,LAC,25.0,ORL,30.0,N. Powell,LAC,Powell Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G0114,2,06:10,LAC,,ORL,,N. Powell,LAC,Powell Bad Pass Turnover (P2.T7),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0114,2,04:45,LAC,,ORL,,N. Powell,LAC,SUB: Brown FOR Powell,Substitution,,0,0,0,0,,,h
+S2324-G0114,3,02:25,LAC,,ORL,,N. Powell,LAC,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0114,4,11:44,LAC,,ORL,,N. Powell,LAC,Powell S.FOUL (P2.T1) (J.Schroeder),Foul,Shooting,0,0,0,0,,,h
+S2324-G0114,4,10:21,LAC,92.0,ORL,75.0,N. Powell,LAC,Powell 9' Driving Floating Bank Jump Shot (13 PTS) (Hyland 3 AST),Made Shot,Driving Floating Bank Jump Shot,-59,62,9,1,2.0,2.0,h
+S2324-G0114,4,08:57,LAC,,ORL,,N. Powell,LAC,Powell REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0114,4,07:37,LAC,,ORL,,N. Powell,LAC,Powell REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0114,4,06:10,LAC,,ORL,,N. Powell,LAC,Powell OFF.Foul (P3) (J.Schroeder),Foul,Offensive,0,0,0,0,,,h
+S2324-G0114,4,06:10,LAC,,ORL,,N. Powell,LAC,Powell Offensive Foul Turnover (P3.T15),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0114,4,05:37,LAC,,ORL,,N. Powell,LAC,MISS Powell 3PT Jump Shot,Missed Shot,Jump Shot,232,18,0,1,3.0,0.0,h
+S2324-G0114,4,04:11,LAC,,ORL,,N. Powell,LAC,MISS Powell 26' 3PT Jump Shot,Missed Shot,Jump Shot,-208,157,26,1,3.0,0.0,h
+S2324-G0114,4,02:55,LAC,,ORL,,N. Powell,LAC,MISS Powell Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0114,4,02:55,LAC,107.0,ORL,93.0,N. Powell,LAC,Powell Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0114,4,01:53,LAC,113.0,ORL,98.0,N. Powell,LAC,Powell 26' 3PT Pullup Jump Shot (17 PTS) (Diabate 1 AST),Made Shot,Pullup Jump shot,-18,260,26,1,3.0,3.0,h
+S2324-G0114,4,00:40.200000,LAC,,ORL,,N. Powell,LAC,Powell P.FOUL (P4.PN) (J.Schroeder),Foul,Personal,0,0,0,0,,,h
+S2324-G0379,1,04:03,OKC,,LAC,,N. Powell,LAC,MISS Powell 26' 3PT Jump Shot,Missed Shot,Jump Shot,162,209,26,1,3.0,0.0,v
+S2324-G0379,1,03:49,OKC,,LAC,,N. Powell,LAC,Powell Out of Bounds - Bad Pass Turnover Turnover (P1.T2),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0379,1,01:15,OKC,32.0,LAC,25.0,N. Powell,LAC,Powell 2' Running Layup (2 PTS),Made Shot,Running Layup Shot,-10,13,2,1,2.0,2.0,v
+S2324-G0379,2,10:38,OKC,40.0,LAC,32.0,N. Powell,LAC,Powell 3PT Jump Shot (5 PTS) (Mann 1 AST),Made Shot,Jump Shot,-227,-25,0,1,3.0,3.0,v
+S2324-G0379,2,09:23,OKC,,LAC,,N. Powell,LAC,SUB: George FOR Powell,Substitution,,0,0,0,0,,,v
+S2324-G0379,2,06:22,OKC,,LAC,,N. Powell,LAC,MISS Powell 3PT Jump Shot,Missed Shot,Jump Shot,-228,-20,0,1,3.0,0.0,v
+S2324-G0379,2,06:20,OKC,,LAC,,N. Powell,LAC,Powell REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0379,2,06:18,OKC,51.0,LAC,39.0,N. Powell,LAC,Powell 4' Floating Jump Shot (7 PTS),Made Shot,Floating Jump shot,-25,27,4,1,2.0,2.0,v
+S2324-G0379,2,04:28,OKC,,LAC,,N. Powell,LAC,MISS Powell 3PT Jump Shot,Missed Shot,Jump Shot,-223,-18,0,1,3.0,0.0,v
+S2324-G0379,2,04:16,OKC,,LAC,,N. Powell,LAC,Powell REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0379,2,03:57,OKC,,LAC,,N. Powell,LAC,MISS Powell 4' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,29,22,4,1,2.0,0.0,v
+S2324-G0379,2,02:42,OKC,59.0,LAC,50.0,N. Powell,LAC,Powell 3PT Jump Shot (10 PTS) (Zubac 1 AST),Made Shot,Jump Shot,-229,-20,0,1,3.0,3.0,v
+S2324-G0379,2,01:32,OKC,,LAC,,N. Powell,LAC,Powell BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0379,2,00:27.600000,OKC,64.0,LAC,59.0,N. Powell,LAC,Powell 3PT Jump Shot (13 PTS) (Harden 5 AST),Made Shot,Jump Shot,-225,-32,0,1,3.0,3.0,v
+S2324-G0379,3,06:04,OKC,,LAC,,N. Powell,LAC,Powell REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0379,3,05:21,OKC,,LAC,,N. Powell,LAC,MISS Powell 25' 3PT Jump Shot,Missed Shot,Jump Shot,-228,110,25,1,3.0,0.0,v
+S2324-G0379,3,03:47,OKC,,LAC,,N. Powell,LAC,Powell REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0379,4,10:56,OKC,111.0,LAC,95.0,N. Powell,LAC,Powell 24' 3PT Jump Shot (16 PTS) (Westbrook 3 AST),Made Shot,Jump Shot,-237,-37,24,1,3.0,3.0,v
+S2324-G0379,4,09:51,OKC,,LAC,,N. Powell,LAC,SUB: Brown FOR Powell,Substitution,,0,0,0,0,,,v
+S2324-G0553,1,02:52,MIN,,LAC,,N. Powell,LAC,Powell Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0553,1,02:43,MIN,,LAC,,N. Powell,LAC,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0553,1,01:54,MIN,25.0,LAC,17.0,N. Powell,LAC,Powell 25' 3PT Step Back Jump Shot (3 PTS),Made Shot,Step Back Jump shot,134,209,25,1,3.0,3.0,v
+S2324-G0553,2,11:10,MIN,32.0,LAC,22.0,N. Powell,LAC,Powell 26' 3PT Jump Bank Shot (6 PTS) (Westbrook 5 AST),Made Shot,Jump Bank Shot,10,255,26,1,3.0,3.0,v
+S2324-G0553,2,10:47,MIN,,LAC,,N. Powell,LAC,Powell BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0553,2,07:12,MIN,37.0,LAC,29.0,N. Powell,LAC,Powell 24' 3PT Jump Shot (9 PTS) (George 1 AST),Made Shot,Jump Shot,-199,140,24,1,3.0,3.0,v
+S2324-G0553,2,05:33,MIN,,LAC,,N. Powell,LAC,SUB: Leonard FOR Powell,Substitution,,0,0,0,0,,,v
+S2324-G0553,2,00:37.300000,MIN,44.0,LAC,45.0,N. Powell,LAC,Powell 1' Running Dunk (11 PTS) (Westbrook 7 AST),Made Shot,Running Dunk Shot,-12,5,1,1,2.0,2.0,v
+S2324-G0553,2,00:01.200000,MIN,,LAC,,N. Powell,LAC,MISS Powell 24' 3PT Jump Shot,Missed Shot,Jump Shot,-130,205,24,1,3.0,0.0,v
+S2324-G0553,3,03:49,MIN,,LAC,,N. Powell,LAC,MISS Powell 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,125,222,25,1,3.0,0.0,v
+S2324-G0553,4,11:21,MIN,83.0,LAC,70.0,N. Powell,LAC,Powell 12' Pullup Jump Shot (13 PTS) (Westbrook 9 AST),Made Shot,Pullup Jump shot,-89,76,12,1,2.0,2.0,v
+S2324-G0553,4,11:07,MIN,,LAC,,N. Powell,LAC,Powell BLOCK (2 BLK),,,0,0,0,0,,,v
+S2324-G0553,4,11:00,MIN,,LAC,,N. Powell,LAC,MISS Powell 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-233,32,24,1,3.0,0.0,v
+S2324-G0553,4,08:20,MIN,88.0,LAC,77.0,N. Powell,LAC,Powell 3PT Jump Shot (16 PTS) (Westbrook 10 AST),Made Shot,Jump Shot,-229,29,0,1,3.0,3.0,v
+S2324-G0553,4,04:29,MIN,98.0,LAC,88.0,N. Powell,LAC,Powell 27' 3PT Jump Shot (19 PTS) (Westbrook 12 AST),Made Shot,Jump Shot,-105,252,27,1,3.0,3.0,v
+S2324-G0553,4,02:43,MIN,103.0,LAC,94.0,N. Powell,LAC,Powell 2' Driving Dunk (21 PTS) (Westbrook 13 AST),Made Shot,Driving Dunk Shot,5,17,2,1,2.0,2.0,v
+S2324-G0553,4,01:10,MIN,103.0,LAC,100.0,N. Powell,LAC,Powell 3PT Step Back Jump Shot (24 PTS) (Harden 8 AST),Made Shot,Step Back Jump shot,-229,20,0,1,3.0,3.0,v
+S2324-G0553,4,00:42.500000,MIN,,LAC,,N. Powell,LAC,Powell Personal Take Foul (P1.PN) (N.Green),Foul,Personal Take,0,0,0,0,,,v
+S2324-G0553,4,00:25.200000,MIN,,LAC,,N. Powell,LAC,SUB: Plumlee FOR Powell,Substitution,,0,0,0,0,,,v
+S2324-G0085,1,00:43.300000,UTA,31.0,LAC,28.0,N. Powell,LAC,Powell 4' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,32,26,4,1,2.0,2.0,v
+S2324-G0085,2,11:47,UTA,,LAC,,N. Powell,LAC,Powell Double Dribble Turnover (P1.T5),Turnover,Double Dribble,0,0,0,0,,,v
+S2324-G0085,2,10:30,UTA,,LAC,,N. Powell,LAC,MISS Powell 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,6,24,1,3.0,0.0,v
+S2324-G0085,2,09:47,UTA,,LAC,,N. Powell,LAC,SUB: Zubac FOR Powell,Substitution,,0,0,0,0,,,v
+S2324-G0085,2,00:50,UTA,,LAC,,N. Powell,LAC,Powell P.FOUL (P1.PN) (J.Goldenberg),Foul,Personal,0,0,0,0,,,v
+S2324-G0085,3,04:57,UTA,,LAC,,N. Powell,LAC,Powell STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0085,3,02:12,UTA,83.0,LAC,78.0,N. Powell,LAC,Powell 8' Driving Floating Bank Jump Shot (4 PTS),Made Shot,Driving Floating Bank Jump Shot,62,48,8,1,2.0,2.0,v
+S2324-G0085,3,01:48,UTA,,LAC,,N. Powell,LAC,MISS Powell 4' Driving Layup,Missed Shot,Driving Layup Shot,-38,15,4,1,2.0,0.0,v
+S2324-G0085,3,00:24.200000,UTA,89.0,LAC,82.0,N. Powell,LAC,Powell Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0085,3,00:24.200000,UTA,89.0,LAC,83.0,N. Powell,LAC,Powell Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0085,4,11:26,UTA,92.0,LAC,85.0,N. Powell,LAC,Powell 6' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,53,37,6,1,2.0,2.0,v
+S2324-G0085,4,11:11,UTA,,LAC,,N. Powell,LAC,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0085,4,10:20,UTA,,LAC,,N. Powell,LAC,MISS Powell 24' 3PT Jump Shot,Missed Shot,Jump Shot,-49,240,24,1,3.0,0.0,v
+S2324-G0085,4,09:30,UTA,97.0,LAC,90.0,N. Powell,LAC,Powell 25' 3PT Jump Shot (11 PTS) (Batum 2 AST),Made Shot,Jump Shot,218,114,25,1,3.0,3.0,v
+S2324-G0085,4,09:12,UTA,,LAC,,N. Powell,LAC,Powell REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0085,4,08:34,UTA,,LAC,,N. Powell,LAC,Powell REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0085,4,06:58,UTA,99.0,LAC,98.0,N. Powell,LAC,Powell 4' Driving Layup (13 PTS) (Batum 3 AST),Made Shot,Driving Layup Shot,29,26,4,1,2.0,2.0,v
+S2324-G0085,4,06:28,UTA,101.0,LAC,101.0,N. Powell,LAC,Powell 25' 3PT Jump Shot (16 PTS) (Leonard 3 AST),Made Shot,Jump Shot,0,252,25,1,3.0,3.0,v
+S2324-G0085,4,05:38,UTA,,LAC,,N. Powell,LAC,Powell P.FOUL (P2.T4) (K.Cutler),Foul,Personal,0,0,0,0,,,v
+S2324-G0085,4,05:00,UTA,103.0,LAC,106.0,N. Powell,LAC,Powell 3' Layup (18 PTS) (Leonard 5 AST),Made Shot,Layup Shot,18,19,3,1,2.0,2.0,v
+S2324-G0085,4,02:54,UTA,111.0,LAC,110.0,N. Powell,LAC,Powell Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0085,4,02:54,UTA,111.0,LAC,111.0,N. Powell,LAC,Powell Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0085,4,00:41.200000,UTA,,LAC,,N. Powell,LAC,SUB: Covington FOR Powell,Substitution,,0,0,0,0,,,v
+S2324-G0343,1,04:56,LAC,22.0,NYK,18.0,N. Powell,LAC,Powell 4' Driving Floating Jump Shot (2 PTS) (Leonard 1 AST),Made Shot,Driving Floating Jump Shot,-27,35,4,1,2.0,2.0,h
+S2324-G0343,1,04:10,LAC,26.0,NYK,21.0,N. Powell,LAC,Powell 2' Driving Finger Roll Layup (4 PTS) (Leonard 2 AST),Made Shot,Driving Finger Roll Layup Shot,-12,11,2,1,2.0,2.0,h
+S2324-G0343,1,02:34,LAC,,NYK,,N. Powell,LAC,MISS Powell 3' Driving Layup,Missed Shot,Driving Layup Shot,-26,10,3,1,2.0,0.0,h
+S2324-G0343,1,00:12.100000,LAC,,NYK,,N. Powell,LAC,Powell Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0343,2,11:34,LAC,37.0,NYK,33.0,N. Powell,LAC,Powell 4' Driving Reverse Layup (6 PTS) (Harden 3 AST),Made Shot,Driving Reverse Layup Shot,-36,14,4,1,2.0,2.0,h
+S2324-G0343,2,11:02,LAC,,NYK,,N. Powell,LAC,MISS Powell 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,69,103,12,1,2.0,0.0,h
+S2324-G0343,2,09:51,LAC,40.0,NYK,37.0,N. Powell,LAC,Powell Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0343,2,09:51,LAC,41.0,NYK,37.0,N. Powell,LAC,Powell Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0343,2,06:14,LAC,,NYK,,N. Powell,LAC,SUB: Leonard FOR Powell,Substitution,,0,0,0,0,,,h
+S2324-G0343,2,01:46,LAC,,NYK,,N. Powell,LAC,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0343,2,00:16.400000,LAC,,NYK,,N. Powell,LAC,SUB: Coffey FOR Powell,Substitution,,0,0,0,0,,,h
+S2324-G0343,3,00:45.100000,LAC,111.0,NYK,96.0,N. Powell,LAC,Powell 19' Driving Floating Jump Shot (10 PTS) (Leonard 4 AST),Made Shot,Driving Floating Jump Shot,20,186,19,1,2.0,2.0,h
+S2324-G0343,3,00:45.100000,LAC,112.0,NYK,96.0,N. Powell,LAC,Powell Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G0343,4,11:16,LAC,,NYK,,N. Powell,LAC,MISS Powell 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-1,88,9,1,2.0,0.0,h
+S2324-G0343,4,10:38,LAC,,NYK,,N. Powell,LAC,MISS Powell 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-1,262,26,1,3.0,0.0,h
+S2324-G0343,4,09:53,LAC,,NYK,,N. Powell,LAC,Powell BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0343,4,09:50,LAC,,NYK,,N. Powell,LAC,Jump Ball Powell vs. Barrett: Tip to George,Jump Ball,,0,0,0,0,,,h
+S2324-G0343,4,08:40,LAC,125.0,NYK,104.0,N. Powell,LAC,Powell 3PT Jump Shot (14 PTS) (Harden 10 AST),Made Shot,Jump Shot,-228,42,0,1,3.0,3.0,h
+S2324-G0343,4,07:27,LAC,,NYK,,N. Powell,LAC,Powell P.FOUL (P1.T4) (B.Schwab),Foul,Personal,0,0,0,0,,,h
+S2324-G0343,4,06:52,LAC,127.0,NYK,106.0,N. Powell,LAC,Powell 2' Driving Layup (16 PTS) (Harden 11 AST),Made Shot,Driving Layup Shot,-2,21,2,1,2.0,2.0,h
+S2324-G0343,4,05:39,LAC,,NYK,,N. Powell,LAC,Powell REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0343,4,04:59,LAC,,NYK,,N. Powell,LAC,SUB: Moon FOR Powell,Substitution,,0,0,0,0,,,h
+S2324-G1114,1,06:06,LAC,,DEN,,N. Powell,LAC,MISS Powell 12' Floating Jump Shot,Missed Shot,Floating Jump shot,-94,73,12,1,2.0,0.0,h
+S2324-G1114,1,05:45,LAC,,DEN,,N. Powell,LAC,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1114,1,03:57,LAC,11.0,DEN,25.0,N. Powell,LAC,Powell 3PT Jump Shot (3 PTS) (George 1 AST),Made Shot,Jump Shot,-229,3,0,1,3.0,3.0,h
+S2324-G1114,1,02:26,LAC,,DEN,,N. Powell,LAC,MISS Powell 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,80,250,26,1,3.0,0.0,h
+S2324-G1114,1,01:35,LAC,17.0,DEN,29.0,N. Powell,LAC,Powell 1' Running Layup (5 PTS) (Zubac 1 AST),Made Shot,Running Layup Shot,-1,14,1,1,2.0,2.0,h
+S2324-G1114,2,11:40,LAC,22.0,DEN,31.0,N. Powell,LAC,Powell 2' Driving Layup (7 PTS) (Harden 2 AST),Made Shot,Driving Layup Shot,12,21,2,1,2.0,2.0,h
+S2324-G1114,2,11:20,LAC,,DEN,,N. Powell,LAC,MISS Powell 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-126,167,21,1,2.0,0.0,h
+S2324-G1114,2,10:17,LAC,28.0,DEN,31.0,N. Powell,LAC,Powell 25' 3PT Step Back Jump Shot (10 PTS) (Westbrook 4 AST),Made Shot,Step Back Jump shot,216,122,25,1,3.0,3.0,h
+S2324-G1114,2,09:56,LAC,,DEN,,N. Powell,LAC,Powell STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1114,2,08:49,LAC,,DEN,,N. Powell,LAC,MISS Powell 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,134,215,25,1,3.0,0.0,h
+S2324-G1114,2,07:29,LAC,,DEN,,N. Powell,LAC,Powell REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1114,2,03:51,LAC,,DEN,,N. Powell,LAC,Powell REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1114,2,03:39,LAC,,DEN,,N. Powell,LAC,MISS Powell 27' 3PT Jump Shot,Missed Shot,Jump Shot,-212,172,27,1,3.0,0.0,h
+S2324-G1114,3,04:14,LAC,,DEN,,N. Powell,LAC,MISS Powell 2' Driving Layup,Missed Shot,Driving Layup Shot,-13,21,2,1,2.0,0.0,h
+S2324-G1114,3,03:51,LAC,71.0,DEN,62.0,N. Powell,LAC,Powell Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1114,3,03:51,LAC,,DEN,,N. Powell,LAC,MISS Powell Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G1114,3,02:38,LAC,,DEN,,N. Powell,LAC,MISS Powell 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-234,38,24,1,3.0,0.0,h
+S2324-G1114,4,03:32,LAC,,DEN,,N. Powell,LAC,MISS Powell 24' 3PT Jump Shot,Missed Shot,Jump Shot,-238,29,24,1,3.0,0.0,h
+S2324-G0637,1,04:13,TOR,13.0,LAC,21.0,N. Powell,LAC,Powell 11' Driving Floating Jump Shot (2 PTS) (Plumlee 1 AST),Made Shot,Driving Floating Jump Shot,11,111,11,1,2.0,2.0,v
+S2324-G0637,1,03:34,TOR,,LAC,,N. Powell,LAC,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0637,1,03:31,TOR,,LAC,,N. Powell,LAC,MISS Powell 28' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-27,283,28,1,3.0,0.0,v
+S2324-G0637,1,02:32,TOR,,LAC,,N. Powell,LAC,MISS Powell 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-94,188,21,1,2.0,0.0,v
+S2324-G0637,1,00:40.500000,TOR,,LAC,,N. Powell,LAC,MISS Powell 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-232,-3,0,1,3.0,0.0,v
+S2324-G0637,2,11:49,TOR,,LAC,,N. Powell,LAC,Powell Offensive Charge Foul (P1) (J.DeRosa),Foul,Offensive Charge,0,0,0,0,,,v
+S2324-G0637,2,11:49,TOR,,LAC,,N. Powell,LAC,Powell Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0637,2,09:38,TOR,28.0,LAC,40.0,N. Powell,LAC,Powell 27' 3PT Jump Shot (5 PTS) (Westbrook 2 AST),Made Shot,Jump Shot,-202,174,27,1,3.0,3.0,v
+S2324-G0637,2,08:56,TOR,32.0,LAC,43.0,N. Powell,LAC,Powell Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0637,2,08:56,TOR,32.0,LAC,44.0,N. Powell,LAC,Powell Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0637,2,08:27,TOR,,LAC,,N. Powell,LAC,Powell REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0637,2,08:23,TOR,,LAC,,N. Powell,LAC,MISS Powell 5' Running Layup,Missed Shot,Running Layup Shot,-47,22,5,1,2.0,0.0,v
+S2324-G0637,2,07:48,TOR,,LAC,,N. Powell,LAC,MISS Powell 27' 3PT Jump Shot,Missed Shot,Jump Shot,-141,227,27,1,3.0,0.0,v
+S2324-G0637,2,06:52,TOR,,LAC,,N. Powell,LAC,Powell STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0637,2,06:52,TOR,,LAC,,N. Powell,LAC,Powell Step Out of Bounds Turnover (P2.T4),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2324-G0637,2,06:30,TOR,,LAC,,N. Powell,LAC,SUB: Leonard FOR Powell,Substitution,,0,0,0,0,,,v
+S2324-G0637,3,01:17,TOR,,LAC,,N. Powell,LAC,MISS Powell Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0637,3,01:17,TOR,77.0,LAC,90.0,N. Powell,LAC,Powell Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0637,3,00:29.800000,TOR,,LAC,,N. Powell,LAC,MISS Powell 26' 3PT Jump Shot,Missed Shot,Jump Shot,6,260,26,1,3.0,0.0,v
+S2324-G0637,4,09:06,TOR,,LAC,,N. Powell,LAC,Powell REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0637,4,08:53,TOR,,LAC,,N. Powell,LAC,Powell S.FOUL (P2.T4) (B.Schwab),Foul,Shooting,0,0,0,0,,,v
+S2324-G0637,4,05:54,TOR,95.0,LAC,110.0,N. Powell,LAC,Powell 3' Floating Jump Shot (10 PTS) (Harden 11 AST),Made Shot,Floating Jump shot,-20,25,3,1,2.0,2.0,v
+S2324-G0637,4,05:26,TOR,97.0,LAC,112.0,N. Powell,LAC,Powell 1' Cutting Finger Roll Layup Shot (12 PTS) (Harden 12 AST),Made Shot,Cutting Finger Roll Layup Shot,6,8,1,1,2.0,2.0,v
+S2324-G0637,4,05:15,TOR,,LAC,,N. Powell,LAC,Powell REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0637,4,02:43,TOR,,LAC,,N. Powell,LAC,MISS Powell 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-230,-10,0,1,3.0,0.0,v
+S2324-G0637,4,01:50,TOR,107.0,LAC,121.0,N. Powell,LAC,Powell 3PT Step Back Jump Shot (15 PTS),Made Shot,Step Back Jump shot,-229,-2,0,1,3.0,3.0,v
+S2324-G0637,4,01:33,TOR,107.0,LAC,123.0,N. Powell,LAC,Powell 1' Running Dunk (17 PTS),Made Shot,Running Dunk Shot,5,6,1,1,2.0,2.0,v
+S2324-G0637,4,01:33,TOR,,LAC,,N. Powell,LAC,SUB: Hyland FOR Powell,Substitution,,0,0,0,0,,,v
+S2324-G0676,1,02:45,WAS,,LAC,,N. Powell,LAC,MISS Powell 3' Driving Layup,Missed Shot,Driving Layup Shot,20,18,3,1,2.0,0.0,v
+S2324-G0676,1,02:44,WAS,,LAC,,N. Powell,LAC,Powell REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0676,1,02:34,WAS,26.0,LAC,30.0,N. Powell,LAC,Powell 24' 3PT Jump Shot (3 PTS) (Westbrook 3 AST),Made Shot,Jump Shot,233,32,24,1,3.0,3.0,v
+S2324-G0676,1,01:39,WAS,29.0,LAC,35.0,N. Powell,LAC,Powell 26' 3PT Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,-192,179,26,1,3.0,3.0,v
+S2324-G0676,1,01:13,WAS,,LAC,,N. Powell,LAC,Powell Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0676,2,09:58,WAS,,LAC,,N. Powell,LAC,Powell REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0676,2,06:48,WAS,,LAC,,N. Powell,LAC,MISS Powell 6' Driving Layup,Missed Shot,Driving Layup Shot,-53,37,6,1,2.0,0.0,v
+S2324-G0676,2,06:38,WAS,,LAC,,N. Powell,LAC,Powell REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0676,2,03:03,WAS,51.0,LAC,58.0,N. Powell,LAC,Powell 17' Running Pull-Up Jump Shot (8 PTS) (Harden 4 AST),Made Shot,Running Pull-Up Jump Shot,152,83,17,1,2.0,2.0,v
+S2324-G0676,2,00:21.500000,WAS,,LAC,,N. Powell,LAC,Powell REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0676,3,00:48.700000,WAS,,LAC,,N. Powell,LAC,Powell REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0676,3,00:16.700000,WAS,79.0,LAC,106.0,N. Powell,LAC,Powell 14' Pullup Jump Shot (10 PTS) (Leonard 4 AST),Made Shot,Pullup Jump shot,-11,135,14,1,2.0,2.0,v
+S2324-G0676,4,11:03,WAS,,LAC,,N. Powell,LAC,MISS Powell 25' 3PT Jump Shot,Missed Shot,Jump Shot,219,125,25,1,3.0,0.0,v
+S2324-G0676,4,10:33,WAS,,LAC,,N. Powell,LAC,MISS Powell 4' Driving Layup,Missed Shot,Driving Layup Shot,33,19,4,1,2.0,0.0,v
+S2324-G0676,4,09:35,WAS,84.0,LAC,112.0,N. Powell,LAC,Powell 25' 3PT Running Pull-Up Jump Shot (13 PTS),Made Shot,Running Pull-Up Jump Shot,224,116,25,1,3.0,3.0,v
+S2324-G0676,4,09:01,WAS,,LAC,,N. Powell,LAC,Powell S.FOUL (P1.T2) (S.Twardoski),Foul,Shooting,0,0,0,0,,,v
+S2324-G0676,4,07:09,WAS,,LAC,,N. Powell,LAC,Powell REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0676,4,07:03,WAS,,LAC,,N. Powell,LAC,Powell Out of Bounds Lost Ball Turnover (P2.T6),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2324-G0676,4,06:36,WAS,91.0,LAC,118.0,N. Powell,LAC,Powell Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0676,4,06:36,WAS,,LAC,,N. Powell,LAC,MISS Powell Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0676,4,06:00,WAS,,LAC,,N. Powell,LAC,MISS Powell 27' 3PT Jump Shot,Missed Shot,Jump Shot,-159,213,27,1,3.0,0.0,v
+S2324-G0676,4,05:49,WAS,,LAC,,N. Powell,LAC,Powell REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0676,4,05:27,WAS,,LAC,,N. Powell,LAC,SUB: Hyland FOR Powell,Substitution,,0,0,0,0,,,v
+S2324-G0924,1,06:16,LAC,19.0,MIL,18.0,N. Powell,LAC,Powell 16' Fadeaway Jumper (2 PTS) (Harden 3 AST),Made Shot,Fadeaway Jump Shot,152,36,16,1,2.0,2.0,h
+S2324-G0924,1,05:49,LAC,,MIL,,N. Powell,LAC,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0924,1,05:45,LAC,21.0,MIL,18.0,N. Powell,LAC,Powell 2' Running Alley Oop Layup Shot (4 PTS) (Mann 1 AST),Made Shot,Running Alley Oop Layup Shot,21,10,2,1,2.0,2.0,h
+S2324-G0924,1,04:51,LAC,,MIL,,N. Powell,LAC,MISS Powell 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-230,26,0,1,3.0,0.0,h
+S2324-G0924,1,04:07,LAC,,MIL,,N. Powell,LAC,Powell REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0924,1,03:22,LAC,,MIL,,N. Powell,LAC,Powell STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0924,1,03:17,LAC,25.0,MIL,26.0,N. Powell,LAC,Powell 2' Running Finger Roll Layup (6 PTS),Made Shot,Running Finger Roll Layup Shot,-15,10,2,1,2.0,2.0,h
+S2324-G0924,1,02:49,LAC,,MIL,,N. Powell,LAC,Powell REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0924,1,02:45,LAC,,MIL,,N. Powell,LAC,MISS Powell 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,181,176,25,1,3.0,0.0,h
+S2324-G0924,1,01:36,LAC,,MIL,,N. Powell,LAC,MISS Powell 25' 3PT Jump Shot,Missed Shot,Jump Shot,-151,201,25,1,3.0,0.0,h
+S2324-G0924,1,00:01,LAC,,MIL,,N. Powell,LAC,MISS Powell 63' 3PT Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-169,612,63,1,3.0,0.0,h
+S2324-G0924,2,11:06,LAC,,MIL,,N. Powell,LAC,MISS Powell 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,185,169,25,1,3.0,0.0,h
+S2324-G0924,2,10:05,LAC,,MIL,,N. Powell,LAC,SUB: Harden FOR Powell,Substitution,,0,0,0,0,,,h
+S2324-G0924,3,10:09,LAC,,MIL,,N. Powell,LAC,Powell S.FOUL (P1.T3) (J.DeRosa),Foul,Shooting,0,0,0,0,,,h
+S2324-G0924,3,09:57,LAC,63.0,MIL,66.0,N. Powell,LAC,Powell Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0924,3,09:57,LAC,64.0,MIL,66.0,N. Powell,LAC,Powell Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0924,3,08:58,LAC,69.0,MIL,68.0,N. Powell,LAC,Powell 24' 3PT Jump Shot (11 PTS) (Plumlee 2 AST),Made Shot,Jump Shot,-232,53,24,1,3.0,3.0,h
+S2324-G0924,3,06:46,LAC,,MIL,,N. Powell,LAC,Powell REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0924,3,06:43,LAC,,MIL,,N. Powell,LAC,MISS Powell Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0924,3,06:43,LAC,75.0,MIL,73.0,N. Powell,LAC,Powell Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0924,3,05:21,LAC,80.0,MIL,79.0,N. Powell,LAC,Powell 3PT Jump Shot (15 PTS) (Plumlee 3 AST),Made Shot,Jump Shot,-234,6,0,1,3.0,3.0,h
+S2324-G0924,3,04:13,LAC,,MIL,,N. Powell,LAC,Powell OFF.Foul (P2) (M.Kallio),Foul,Offensive,0,0,0,0,,,h
+S2324-G0924,3,04:13,LAC,,MIL,,N. Powell,LAC,Powell Offensive Foul Turnover (P1.T8),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0924,3,02:23,LAC,83.0,MIL,88.0,N. Powell,LAC,Powell 25' 3PT Pullup Jump Shot (18 PTS) (Tucker 2 AST),Made Shot,Pullup Jump shot,-167,191,25,1,3.0,3.0,h
+S2324-G0924,3,01:50,LAC,,MIL,,N. Powell,LAC,MISS Powell 3PT Jump Shot,Missed Shot,Jump Shot,-232,18,0,1,3.0,0.0,h
+S2324-G0924,3,00:27.200000,LAC,,MIL,,N. Powell,LAC,Powell REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0924,3,00:09.100000,LAC,,MIL,,N. Powell,LAC,MISS Powell 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-99,257,28,1,3.0,0.0,h
+S2324-G0924,4,11:25,LAC,87.0,MIL,93.0,N. Powell,LAC,Powell 20' Pullup Jump Shot (20 PTS) (Hyland 4 AST),Made Shot,Pullup Jump shot,114,162,20,1,2.0,2.0,h
+S2324-G0924,4,11:25,LAC,88.0,MIL,93.0,N. Powell,LAC,Powell Free Throw 1 of 1 (21 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G0924,4,10:52,LAC,,MIL,,N. Powell,LAC,MISS Powell 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-129,235,27,1,3.0,0.0,h
+S2324-G0924,4,10:32,LAC,,MIL,,N. Powell,LAC,Powell REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0924,4,10:28,LAC,90.0,MIL,93.0,N. Powell,LAC,Powell 7' Driving Floating Jump Shot (23 PTS),Made Shot,Driving Floating Jump Shot,47,48,7,1,2.0,2.0,h
+S2324-G0924,4,10:28,LAC,91.0,MIL,93.0,N. Powell,LAC,Powell Free Throw 1 of 1 (24 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G0924,4,08:38,LAC,,MIL,,N. Powell,LAC,Powell REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0924,4,07:48,LAC,,MIL,,N. Powell,LAC,MISS Powell 13' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-12,134,13,1,2.0,0.0,h
+S2324-G0924,4,05:50,LAC,,MIL,,N. Powell,LAC,MISS Powell 26' 3PT Jump Shot,Missed Shot,Jump Shot,94,241,26,1,3.0,0.0,h
+S2324-G0924,4,01:05,LAC,111.0,MIL,119.0,N. Powell,LAC,Powell 3' Driving Layup (26 PTS),Made Shot,Driving Layup Shot,10,31,3,1,2.0,2.0,h
+S2324-G0924,4,00:50.600000,LAC,,MIL,,N. Powell,LAC,MISS Powell 26' 3PT Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,142,217,26,1,3.0,0.0,h
+S2324-G0924,4,00:04.600000,LAC,,MIL,,N. Powell,LAC,MISS Powell 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-184,186,26,1,3.0,0.0,h
+S2324-G0309,1,02:15,LAC,27.0,SAC,19.0,N. Powell,LAC,Powell 27' 3PT Jump Shot (3 PTS) (Leonard 1 AST),Made Shot,Jump Shot,-21,266,27,1,3.0,3.0,h
+S2324-G0309,2,11:30,LAC,34.0,SAC,26.0,N. Powell,LAC,Powell 3' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,-25,11,3,1,2.0,2.0,h
+S2324-G0309,2,11:14,LAC,35.0,SAC,26.0,N. Powell,LAC,Powell Free Throw 1 of 3 (6 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,h
+S2324-G0309,2,11:14,LAC,36.0,SAC,26.0,N. Powell,LAC,Powell Free Throw 2 of 3 (7 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,h
+S2324-G0309,2,11:14,LAC,37.0,SAC,26.0,N. Powell,LAC,Powell Free Throw 3 of 3 (8 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,h
+S2324-G0309,2,06:47,LAC,,SAC,,N. Powell,LAC,Powell S.FOUL (P1.T4) (J.Orr),Foul,Shooting,0,0,0,0,,,h
+S2324-G0309,2,05:43,LAC,,SAC,,N. Powell,LAC,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0309,2,05:38,LAC,59.0,SAC,39.0,N. Powell,LAC,Powell 26' 3PT Running Pull-Up Jump Shot (11 PTS),Made Shot,Running Pull-Up Jump Shot,234,110,26,1,3.0,3.0,h
+S2324-G0309,2,04:50,LAC,,SAC,,N. Powell,LAC,SUB: Mann FOR Powell,Substitution,,0,0,0,0,,,h
+S2324-G0309,3,09:57,LAC,,SAC,,N. Powell,LAC,MISS Powell 26' 3PT Jump Shot,Missed Shot,Jump Shot,237,110,26,1,3.0,0.0,h
+S2324-G0309,3,09:05,LAC,,SAC,,N. Powell,LAC,MISS Powell 3' Driving Hook Shot,Missed Shot,Driving Hook Shot,20,20,3,1,2.0,0.0,h
+S2324-G0309,3,08:37,LAC,,SAC,,N. Powell,LAC,MISS Powell 18' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-179,23,18,1,2.0,0.0,h
+S2324-G0309,3,08:01,LAC,,SAC,,N. Powell,LAC,MISS Powell 12' Floating Jump Shot,Missed Shot,Floating Jump shot,42,109,12,1,2.0,0.0,h
+S2324-G0309,3,05:26,LAC,,SAC,,N. Powell,LAC,MISS Powell 28' 3PT Jump Shot,Missed Shot,Jump Shot,-118,252,28,1,3.0,0.0,h
+S2324-G0309,3,04:37,LAC,,SAC,,N. Powell,LAC,Powell Bad Pass Turnover (P1.T10),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0309,3,04:31,LAC,,SAC,,N. Powell,LAC,MISS Powell 2' Driving Layup,Missed Shot,Driving Layup Shot,2,22,2,1,2.0,0.0,h
+S2324-G0309,3,04:09,LAC,,SAC,,N. Powell,LAC,SUB: Brown FOR Powell,Substitution,,0,0,0,0,,,h
+S2324-G0309,4,11:50,LAC,101.0,SAC,70.0,N. Powell,LAC,Powell 4' Driving Floating Bank Jump Shot (13 PTS) (Westbrook 3 AST),Made Shot,Driving Floating Bank Jump Shot,25,34,4,1,2.0,2.0,h
+S2324-G0309,4,10:16,LAC,103.0,SAC,71.0,N. Powell,LAC,Powell 4' Driving Layup (15 PTS),Made Shot,Driving Layup Shot,-10,39,4,1,2.0,2.0,h
+S2324-G0309,4,06:34,LAC,,SAC,,N. Powell,LAC,SUB: Moon FOR Powell,Substitution,,0,0,0,0,,,h
+S2324-G0827,1,09:49,LAC,7.0,SAC,5.0,N. Powell,LAC,Powell 26' 3PT Jump Shot (3 PTS) (Zubac 1 AST),Made Shot,Jump Shot,-120,234,26,1,3.0,3.0,h
+S2324-G0827,1,05:53,LAC,18.0,SAC,18.0,N. Powell,LAC,Powell 3' Driving Layup (5 PTS) (Zubac 2 AST),Made Shot,Driving Layup Shot,21,14,3,1,2.0,2.0,h
+S2324-G0827,1,05:25,LAC,,SAC,,N. Powell,LAC,MISS Powell 5' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-34,42,5,1,2.0,0.0,h
+S2324-G0827,1,03:50,LAC,,SAC,,N. Powell,LAC,MISS Powell 15' Jump Shot,Missed Shot,Jump Shot,-138,53,15,1,2.0,0.0,h
+S2324-G0827,1,03:01,LAC,,SAC,,N. Powell,LAC,SUB: Tucker FOR Powell,Substitution,,0,0,0,0,,,h
+S2324-G0827,2,07:56,LAC,,SAC,,N. Powell,LAC,MISS Powell 26' 3PT Jump Shot,Missed Shot,Jump Shot,0,261,26,1,3.0,0.0,h
+S2324-G0827,2,06:40,LAC,,SAC,,N. Powell,LAC,MISS Powell 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-44,69,8,1,2.0,0.0,h
+S2324-G0827,2,06:37,LAC,,SAC,,N. Powell,LAC,Powell REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0827,2,04:13,LAC,42.0,SAC,46.0,N. Powell,LAC,Powell 25' 3PT Jump Shot (8 PTS) (Harden 3 AST),Made Shot,Jump Shot,235,79,25,1,3.0,3.0,h
+S2324-G0827,2,00:01.200000,LAC,,SAC,,N. Powell,LAC,MISS Powell 27' 3PT Jump Shot,Missed Shot,Jump Shot,-99,247,27,1,3.0,0.0,h
+S2324-G0827,3,10:01,LAC,,SAC,,N. Powell,LAC,Powell Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0827,3,08:15,LAC,,SAC,,N. Powell,LAC,Powell S.FOUL (P1.T1) (D.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2324-G0827,3,07:15,LAC,,SAC,,N. Powell,LAC,Powell STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0827,3,05:34,LAC,,SAC,,N. Powell,LAC,MISS Powell 7' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-22,65,7,1,2.0,0.0,h
+S2324-G0827,3,04:25,LAC,66.0,SAC,80.0,N. Powell,LAC,Powell 17' Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,-169,12,17,1,2.0,2.0,h
+S2324-G0827,3,03:02,LAC,73.0,SAC,82.0,N. Powell,LAC,Powell 27' 3PT Jump Shot (13 PTS) (Mann 4 AST),Made Shot,Jump Shot,-161,217,27,1,3.0,3.0,h
+S2324-G0827,3,01:32,LAC,78.0,SAC,85.0,N. Powell,LAC,Powell 3PT Jump Shot (16 PTS) (Leonard 2 AST),Made Shot,Jump Shot,-225,-14,0,1,3.0,3.0,h
+S2324-G0827,3,00:06,LAC,,SAC,,N. Powell,LAC,MISS Powell 24' 3PT Jump Shot,Missed Shot,Jump Shot,228,57,24,1,3.0,0.0,h
+S2324-G0827,4,04:50,LAC,100.0,SAC,111.0,N. Powell,LAC,Powell 5' Driving Bank Hook Shot (18 PTS),Made Shot,Driving Bank Hook Shot,44,23,5,1,2.0,2.0,h
+S2324-G0827,4,03:29,LAC,103.0,SAC,116.0,N. Powell,LAC,Powell 27' 3PT Jump Shot (21 PTS) (Leonard 3 AST),Made Shot,Jump Shot,-114,244,27,1,3.0,3.0,h
+S2324-G0827,4,02:37,LAC,,SAC,,N. Powell,LAC,Powell REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0827,4,01:03,LAC,,SAC,,N. Powell,LAC,MISS Powell 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-60,18,6,1,2.0,0.0,h
+S2324-G0827,4,00:27.100000,LAC,,SAC,,N. Powell,LAC,MISS Powell 27' 3PT Jump Shot,Missed Shot,Jump Shot,-172,207,27,1,3.0,0.0,h
+S2324-G0372,1,03:44,DAL,14.0,LAC,23.0,N. Powell,LAC,Powell Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0372,1,03:44,DAL,14.0,LAC,24.0,N. Powell,LAC,Powell Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0372,1,02:45,DAL,,LAC,,N. Powell,LAC,MISS Powell 25' 3PT Jump Shot,Missed Shot,Jump Shot,222,120,25,1,3.0,0.0,v
+S2324-G0372,1,02:09,DAL,,LAC,,N. Powell,LAC,Powell S.FOUL (P1.T4) (J.Tiven),Foul,Shooting,0,0,0,0,,,v
+S2324-G0372,1,00:37.300000,DAL,22.0,LAC,35.0,N. Powell,LAC,Powell 25' 3PT Jump Shot (5 PTS) (Theis 1 AST),Made Shot,Jump Shot,-234,75,25,1,3.0,3.0,v
+S2324-G0372,2,11:00,DAL,,LAC,,N. Powell,LAC,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0372,2,10:54,DAL,25.0,LAC,37.0,N. Powell,LAC,Powell 8' Driving Floating Jump Shot (7 PTS),Made Shot,Driving Floating Jump Shot,-80,6,8,1,2.0,2.0,v
+S2324-G0372,2,07:07,DAL,,LAC,,N. Powell,LAC,Powell REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0372,2,07:02,DAL,33.0,LAC,55.0,N. Powell,LAC,Powell 24' 3PT Running Pull-Up Jump Shot (10 PTS),Made Shot,Running Pull-Up Jump Shot,227,73,24,1,3.0,3.0,v
+S2324-G0372,2,06:05,DAL,,LAC,,N. Powell,LAC,SUB: Leonard FOR Powell,Substitution,,0,0,0,0,,,v
+S2324-G0372,3,06:58,DAL,68.0,LAC,72.0,N. Powell,LAC,Powell 27' 3PT Jump Shot (13 PTS) (Leonard 2 AST),Made Shot,Jump Shot,99,247,27,1,3.0,3.0,v
+S2324-G0372,3,02:09,DAL,,LAC,,N. Powell,LAC,MISS Powell 25' 3PT Jump Shot,Missed Shot,Jump Shot,-200,150,25,1,3.0,0.0,v
+S2324-G0372,3,01:24,DAL,,LAC,,N. Powell,LAC,Powell S.FOUL (P2.PN) (M.Kallio),Foul,Shooting,0,0,0,0,,,v
+S2324-G0372,3,01:11,DAL,,LAC,,N. Powell,LAC,MISS Powell 25' 3PT Jump Shot,Missed Shot,Jump Shot,-143,209,25,1,3.0,0.0,v
+S2324-G0372,3,00:34.700000,DAL,,LAC,,N. Powell,LAC,Powell Lost Ball Turnover (P1.T11),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0372,4,11:16,DAL,83.0,LAC,87.0,N. Powell,LAC,Powell 2' Running Layup (15 PTS) (Coffey 3 AST),Made Shot,Running Layup Shot,-23,4,2,1,2.0,2.0,v
+S2324-G0372,4,11:16,DAL,83.0,LAC,88.0,N. Powell,LAC,Powell Free Throw 1 of 1 (16 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G0372,4,06:08,DAL,100.0,LAC,102.0,N. Powell,LAC,Powell 3' Driving Floating Bank Jump Shot (18 PTS),Made Shot,Driving Floating Bank Jump Shot,-20,15,3,1,2.0,2.0,v
+S2324-G0372,4,02:18,DAL,110.0,LAC,113.0,N. Powell,LAC,Powell 2' Cutting Layup Shot (20 PTS) (Leonard 5 AST),Made Shot,Cutting Layup Shot,-15,15,2,1,2.0,2.0,v
+S2324-G0372,4,02:18,DAL,110.0,LAC,114.0,N. Powell,LAC,Powell Free Throw 1 of 1 (21 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G0372,4,02:04,DAL,,LAC,,N. Powell,LAC,Powell STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0372,4,01:09,DAL,,LAC,,N. Powell,LAC,Powell REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0688,1,04:33,DET,,LAC,,N. Powell,LAC,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0688,1,04:26,DET,,LAC,,N. Powell,LAC,MISS Powell 16' Jump Shot,Missed Shot,Jump Shot,154,28,16,1,2.0,0.0,v
+S2324-G0688,1,00:00.300000,DET,,LAC,,N. Powell,LAC,Powell S.FOUL (P1.T3) (E.Dalen),Foul,Shooting,0,0,0,0,,,v
+S2324-G0688,2,11:19,DET,33.0,LAC,29.0,N. Powell,LAC,Powell 8' Driving Floating Bank Jump Shot (2 PTS),Made Shot,Driving Floating Bank Jump Shot,-67,48,8,1,2.0,2.0,v
+S2324-G0688,2,10:25,DET,,LAC,,N. Powell,LAC,MISS Powell 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,11,24,1,3.0,0.0,v
+S2324-G0688,2,09:38,DET,,LAC,,N. Powell,LAC,MISS Powell 24' 3PT Jump Shot,Missed Shot,Jump Shot,233,63,24,1,3.0,0.0,v
+S2324-G0688,2,08:22,DET,42.0,LAC,36.0,N. Powell,LAC,Powell 25' 3PT Jump Shot (5 PTS) (George 2 AST),Made Shot,Jump Shot,-173,184,25,1,3.0,3.0,v
+S2324-G0688,2,08:12,DET,,LAC,,N. Powell,LAC,Powell P.FOUL (P2.T2) (J.Sterling),Foul,Personal,0,0,0,0,,,v
+S2324-G0688,2,05:45,DET,,LAC,,N. Powell,LAC,Powell REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0688,2,05:39,DET,,LAC,,N. Powell,LAC,Powell REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0688,2,05:21,DET,,LAC,,N. Powell,LAC,Powell L.B.FOUL (P3.T3) (B.Taylor),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0688,2,05:21,DET,,LAC,,N. Powell,LAC,SUB: Leonard FOR Powell,Substitution,,0,0,0,0,,,v
+S2324-G0688,3,03:11,DET,,LAC,,N. Powell,LAC,Powell REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0688,3,02:53,DET,,LAC,,N. Powell,LAC,MISS Powell 24' 3PT Jump Shot,Missed Shot,Jump Shot,-176,169,24,1,3.0,0.0,v
+S2324-G0688,3,02:47,DET,,LAC,,N. Powell,LAC,Powell S.FOUL (P4.PN) (E.Dalen),Foul,Shooting,0,0,0,0,,,v
+S2324-G0688,3,02:34,DET,89.0,LAC,94.0,N. Powell,LAC,Powell 5' Driving Finger Roll Layup (7 PTS) (Theis 1 AST),Made Shot,Driving Finger Roll Layup Shot,40,24,5,1,2.0,2.0,v
+S2324-G0688,3,00:10.900000,DET,,LAC,,N. Powell,LAC,Powell REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0688,3,00:01.300000,DET,90.0,LAC,101.0,N. Powell,LAC,Powell 24' 3PT Step Back Jump Shot (10 PTS),Made Shot,Step Back Jump shot,-195,136,24,1,3.0,3.0,v
+S2324-G0688,4,11:48,DET,90.0,LAC,104.0,N. Powell,LAC,Powell 25' 3PT Jump Shot (13 PTS) (Theis 2 AST),Made Shot,Jump Shot,-190,169,25,1,3.0,3.0,v
+S2324-G0688,4,08:04,DET,,LAC,,N. Powell,LAC,MISS Powell 3' Driving Layup,Missed Shot,Driving Layup Shot,22,14,3,1,2.0,0.0,v
+S2324-G0688,4,06:45,DET,109.0,LAC,120.0,N. Powell,LAC,Powell 2' Layup (15 PTS) (Westbrook 8 AST),Made Shot,Layup Shot,15,-2,2,1,2.0,2.0,v
+S2324-G0688,4,03:59,DET,,LAC,,N. Powell,LAC,Powell P.FOUL (P5.T4) (B.Taylor),Foul,Personal,0,0,0,0,,,v
+S2324-G0688,4,03:59,DET,,LAC,,N. Powell,LAC,SUB: Westbrook FOR Powell,Substitution,,0,0,0,0,,,v
+S2324-G0688,4,02:39,DET,,LAC,,N. Powell,LAC,SUB: Boston Jr. FOR Powell,Substitution,,0,0,0,0,,,v
+S2324-G0325,1,06:49,LAC,,GSW,,N. Powell,LAC,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0325,1,05:00,LAC,,GSW,,N. Powell,LAC,Powell STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0325,1,02:55,LAC,20.0,GSW,20.0,N. Powell,LAC,Powell 3' Driving Layup (2 PTS) (Harden 5 AST),Made Shot,Driving Layup Shot,23,11,3,1,2.0,2.0,h
+S2324-G0325,1,02:46,LAC,,GSW,,N. Powell,LAC,Powell S.FOUL (P1.T2) (T.Brothers),Foul,Shooting,0,0,0,0,,,h
+S2324-G0325,1,00:09.400000,LAC,29.0,GSW,28.0,N. Powell,LAC,Powell 2' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,-18,12,2,1,2.0,2.0,h
+S2324-G0325,2,08:37,LAC,44.0,GSW,33.0,N. Powell,LAC,Powell 26' 3PT Jump Shot (7 PTS) (Harden 8 AST),Made Shot,Jump Shot,-6,264,26,1,3.0,3.0,h
+S2324-G0325,2,06:57,LAC,49.0,GSW,37.0,N. Powell,LAC,Powell 2' Cutting Layup Shot (9 PTS) (Harden 9 AST),Made Shot,Cutting Layup Shot,-16,12,2,1,2.0,2.0,h
+S2324-G0325,2,05:05,LAC,,GSW,,N. Powell,LAC,Powell REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0325,2,04:45,LAC,,GSW,,N. Powell,LAC,SUB: Coffey FOR Powell,Substitution,,0,0,0,0,,,h
+S2324-G0325,2,00:09.300000,LAC,69.0,GSW,56.0,N. Powell,LAC,Powell 16' Pullup Jump Shot (11 PTS),Made Shot,Pullup Jump shot,72,139,16,1,2.0,2.0,h
+S2324-G0325,3,03:29,LAC,,GSW,,N. Powell,LAC,MISS Powell 25' 3PT Jump Shot,Missed Shot,Jump Shot,199,156,25,1,3.0,0.0,h
+S2324-G0325,3,02:06,LAC,,GSW,,N. Powell,LAC,MISS Powell 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,13,256,26,1,3.0,0.0,h
+S2324-G0325,3,00:26.400000,LAC,,GSW,,N. Powell,LAC,Powell S.FOUL (P2.PN) (T.Brothers),Foul,Shooting,0,0,0,0,,,h
+S2324-G0325,3,00:04.400000,LAC,,GSW,,N. Powell,LAC,MISS Powell 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,40,99,11,1,2.0,0.0,h
+S2324-G0325,4,11:08,LAC,,GSW,,N. Powell,LAC,Powell P.FOUL (P3.T1) (P.Ransom),Foul,Personal,0,0,0,0,,,h
+S2324-G0325,4,10:15,LAC,,GSW,,N. Powell,LAC,MISS Powell 3PT Jump Shot,Missed Shot,Jump Shot,-234,14,0,1,3.0,0.0,h
+S2324-G0325,4,05:54,LAC,,GSW,,N. Powell,LAC,Powell REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0325,4,05:18,LAC,111.0,GSW,105.0,N. Powell,LAC,Powell 7' Driving Floating Jump Shot (13 PTS) (Zubac 1 AST),Made Shot,Driving Floating Jump Shot,-11,72,7,1,2.0,2.0,h
+S2324-G0325,4,04:14,LAC,113.0,GSW,107.0,N. Powell,LAC,Powell 3' Driving Layup (15 PTS) (Zubac 2 AST),Made Shot,Driving Layup Shot,-28,4,3,1,2.0,2.0,h
+S2324-G0325,4,03:10,LAC,115.0,GSW,107.0,N. Powell,LAC,Powell 3' Cutting Layup Shot (17 PTS) (Leonard 2 AST),Made Shot,Cutting Layup Shot,18,21,3,1,2.0,2.0,h
+S2324-G0325,4,02:19,LAC,,GSW,,N. Powell,LAC,Powell Bad Pass Turnover (P1.T13),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0325,4,01:33,LAC,117.0,GSW,109.0,N. Powell,LAC,Powell 2' Driving Finger Roll Layup (19 PTS) (Harden 15 AST),Made Shot,Driving Finger Roll Layup Shot,-10,20,2,1,2.0,2.0,h
+S2324-G0325,4,00:21.200000,LAC,,GSW,,N. Powell,LAC,Powell REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0325,4,00:20.400000,LAC,120.0,GSW,113.0,N. Powell,LAC,Powell Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0325,4,00:20.400000,LAC,121.0,GSW,113.0,N. Powell,LAC,Powell Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0325,4,00:13,LAC,,GSW,,N. Powell,LAC,Powell REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1132,1,02:12,LAC,29.0,CLE,29.0,N. Powell,LAC,Powell 3PT Running Jump Shot (3 PTS) (George 1 AST),Made Shot,Running Jump Shot,-232,25,0,1,3.0,3.0,h
+S2324-G1132,1,01:45,LAC,31.0,CLE,31.0,N. Powell,LAC,Powell 2' Driving Finger Roll Layup (5 PTS) (Westbrook 1 AST),Made Shot,Driving Finger Roll Layup Shot,4,24,2,1,2.0,2.0,h
+S2324-G1132,2,09:21,LAC,,CLE,,N. Powell,LAC,MISS Powell 26' 3PT Jump Shot,Missed Shot,Jump Shot,232,124,26,1,3.0,0.0,h
+S2324-G1132,2,09:01,LAC,,CLE,,N. Powell,LAC,MISS Powell 27' 3PT Jump Shot,Missed Shot,Jump Shot,213,159,27,1,3.0,0.0,h
+S2324-G1132,2,08:55,LAC,,CLE,,N. Powell,LAC,Powell S.FOUL (P1.T1) (S.Corbin),Foul,Shooting,0,0,0,0,,,h
+S2324-G1132,2,06:31,LAC,,CLE,,N. Powell,LAC,MISS Powell 26' 3PT Jump Shot,Missed Shot,Jump Shot,-137,222,26,1,3.0,0.0,h
+S2324-G1132,2,06:20,LAC,,CLE,,N. Powell,LAC,Powell S.FOUL (P2.T2) (B.Adair),Foul,Shooting,0,0,0,0,,,h
+S2324-G1132,2,05:33,LAC,,CLE,,N. Powell,LAC,SUB: Coffey FOR Powell,Substitution,,0,0,0,0,,,h
+S2324-G1132,3,04:28,LAC,77.0,CLE,94.0,N. Powell,LAC,Powell 24' 3PT Jump Shot (8 PTS) (Zubac 1 AST),Made Shot,Jump Shot,-237,11,24,1,3.0,3.0,h
+S2324-G1132,3,00:31.400000,LAC,86.0,CLE,97.0,N. Powell,LAC,Powell 26' 3PT Jump Shot (11 PTS) (Westbrook 5 AST),Made Shot,Jump Shot,39,258,26,1,3.0,3.0,h
+S2324-G1132,4,11:27,LAC,,CLE,,N. Powell,LAC,MISS Powell 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-249,38,25,1,3.0,0.0,h
+S2324-G1132,4,10:26,LAC,,CLE,,N. Powell,LAC,MISS Powell 3' Driving Bank Hook Shot,Missed Shot,Driving Bank Hook Shot,26,22,3,1,2.0,0.0,h
+S2324-G1132,4,10:24,LAC,,CLE,,N. Powell,LAC,Powell REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1132,4,10:22,LAC,92.0,CLE,100.0,N. Powell,LAC,Powell 27' 3PT Pullup Jump Shot (14 PTS),Made Shot,Pullup Jump shot,235,138,27,1,3.0,3.0,h
+S2324-G1132,4,08:45,LAC,,CLE,,N. Powell,LAC,Powell REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1132,4,05:37,LAC,,CLE,,N. Powell,LAC,MISS Powell 5' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,26,39,5,1,2.0,0.0,h
+S2324-G1132,4,05:17,LAC,,CLE,,N. Powell,LAC,Powell REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1132,4,04:16,LAC,,CLE,,N. Powell,LAC,MISS Powell 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-138,217,26,1,3.0,0.0,h
+S2324-G1132,4,02:19,LAC,,CLE,,N. Powell,LAC,Powell STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1132,4,02:16,LAC,,CLE,,N. Powell,LAC,MISS Powell 3' Running Layup,Missed Shot,Running Layup Shot,20,23,3,1,2.0,0.0,h
+S2324-G1132,4,00:31.700000,LAC,,CLE,,N. Powell,LAC,SUB: Plumlee FOR Powell,Substitution,,0,0,0,0,,,h
+S2324-G1132,4,00:01.700000,LAC,,CLE,,N. Powell,LAC,SUB: Zubac FOR Powell,Substitution,,0,0,0,0,,,h
+S2324-G0037,1,03:30,LAC,,HOU,,N. Powell,LAC,MISS Powell 13' Running Jump Shot,Missed Shot,Running Jump Shot,5,132,13,1,2.0,0.0,h
+S2324-G0037,1,03:23,LAC,,HOU,,N. Powell,LAC,Powell BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0037,1,00:51.700000,LAC,29.0,HOU,21.0,N. Powell,LAC,Powell 26' 3PT Pullup Jump Shot (3 PTS) (Westbrook 1 AST),Made Shot,Pullup Jump shot,114,237,26,1,3.0,3.0,h
+S2324-G0037,2,11:06,LAC,,HOU,,N. Powell,LAC,MISS Powell 25' 3PT Jump Shot,Missed Shot,Jump Shot,-218,123,25,1,3.0,0.0,h
+S2324-G0037,2,08:02,LAC,32.0,HOU,30.0,N. Powell,LAC,Powell Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0037,2,08:02,LAC,33.0,HOU,30.0,N. Powell,LAC,Powell Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0037,2,06:20,LAC,,HOU,,N. Powell,LAC,MISS Powell 4' Driving Layup,Missed Shot,Driving Layup Shot,34,17,4,1,2.0,0.0,h
+S2324-G0037,2,06:20,LAC,,HOU,,N. Powell,LAC,SUB: Harden FOR Powell,Substitution,,0,0,0,0,,,h
+S2324-G0037,2,00:00.400000,LAC,,HOU,,N. Powell,LAC,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0037,3,04:45,LAC,,HOU,,N. Powell,LAC,MISS Powell 3PT Jump Shot,Missed Shot,Jump Shot,-230,40,0,1,3.0,0.0,h
+S2324-G0037,3,03:49,LAC,71.0,HOU,66.0,N. Powell,LAC,Powell 8' Driving Floating Jump Shot (7 PTS) (Harden 5 AST),Made Shot,Driving Floating Jump Shot,40,66,8,1,2.0,2.0,h
+S2324-G0037,3,03:09,LAC,,HOU,,N. Powell,LAC,MISS Powell 27' 3PT Jump Shot,Missed Shot,Jump Shot,-181,194,27,1,3.0,0.0,h
+S2324-G0037,3,01:04,LAC,,HOU,,N. Powell,LAC,MISS Powell 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-66,136,15,1,2.0,0.0,h
+S2324-G0037,3,00:03.100000,LAC,,HOU,,N. Powell,LAC,Powell STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0037,4,11:12,LAC,,HOU,,N. Powell,LAC,Powell REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0037,4,11:05,LAC,,HOU,,N. Powell,LAC,MISS Powell 4' Driving Layup,Missed Shot,Driving Layup Shot,-36,22,4,1,2.0,0.0,h
+S2324-G0037,4,11:01,LAC,,HOU,,N. Powell,LAC,Powell REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0037,4,07:35,LAC,,HOU,,N. Powell,LAC,Powell S.FOUL (P1.T1) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,h
+S2324-G0037,4,06:45,LAC,92.0,HOU,92.0,N. Powell,LAC,Powell 26' 3PT Jump Shot (10 PTS) (Zubac 2 AST),Made Shot,Jump Shot,-190,172,26,1,3.0,3.0,h
+S2324-G0037,4,04:37,LAC,,HOU,,N. Powell,LAC,Powell P.FOUL (P2.T2) (C.Kirkland),Foul,Personal,0,0,0,0,,,h
+S2324-G0037,4,04:21,LAC,,HOU,,N. Powell,LAC,MISS Powell 4' Driving Layup,Missed Shot,Driving Layup Shot,17,40,4,1,2.0,0.0,h
+S2324-G0099,1,03:50,LAC,,SAS,,N. Powell,LAC,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0099,1,03:44,LAC,,SAS,,N. Powell,LAC,MISS Powell 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,12,63,6,1,2.0,0.0,h
+S2324-G0099,1,03:12,LAC,,SAS,,N. Powell,LAC,Powell STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0099,1,02:09,LAC,,SAS,,N. Powell,LAC,MISS Powell 26' 3PT Jump Shot,Missed Shot,Jump Shot,-153,215,26,1,3.0,0.0,h
+S2324-G0099,1,01:24,LAC,,SAS,,N. Powell,LAC,Powell BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0099,2,11:29,LAC,25.0,SAS,17.0,N. Powell,LAC,Powell 13' Driving Floating Jump Shot (2 PTS) (Westbrook 2 AST),Made Shot,Driving Floating Jump Shot,-13,129,13,1,2.0,2.0,h
+S2324-G0099,2,09:44,LAC,31.0,SAS,17.0,N. Powell,LAC,Powell 27' 3PT Jump Shot (5 PTS) (Batum 1 AST),Made Shot,Jump Shot,-103,250,27,1,3.0,3.0,h
+S2324-G0099,2,09:14,LAC,,SAS,,N. Powell,LAC,MISS Powell 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,216,145,26,1,3.0,0.0,h
+S2324-G0099,2,08:48,LAC,,SAS,,N. Powell,LAC,MISS Powell 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,99,248,27,1,3.0,0.0,h
+S2324-G0099,2,08:40,LAC,,SAS,,N. Powell,LAC,Powell P.FOUL (P1.T2) (Z.Zarba),Foul,Personal,0,0,0,0,,,h
+S2324-G0099,2,07:50,LAC,33.0,SAS,19.0,N. Powell,LAC,Powell 16' Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,89,127,16,1,2.0,2.0,h
+S2324-G0099,2,07:40,LAC,,SAS,,N. Powell,LAC,SUB: Leonard FOR Powell,Substitution,,0,0,0,0,,,h
+S2324-G0099,2,00:20.200000,LAC,,SAS,,N. Powell,LAC,Powell REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0099,3,01:07,LAC,,SAS,,N. Powell,LAC,Powell REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0099,3,01:06,LAC,,SAS,,N. Powell,LAC,MISS Powell 5' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,43,32,5,1,2.0,0.0,h
+S2324-G0099,3,00:33.500000,LAC,,SAS,,N. Powell,LAC,Powell STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0099,3,00:30.800000,LAC,92.0,SAS,58.0,N. Powell,LAC,Powell Running Dunk (9 PTS),Made Shot,Running Dunk Shot,0,4,0,1,2.0,2.0,h
+S2324-G0099,3,00:01.400000,LAC,,SAS,,N. Powell,LAC,MISS Powell Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0099,3,00:01.400000,LAC,93.0,SAS,60.0,N. Powell,LAC,Powell Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0099,4,07:31,LAC,102.0,SAS,75.0,N. Powell,LAC,Powell 26' 3PT Jump Shot (13 PTS) (Plumlee 1 AST),Made Shot,Jump Shot,23,260,26,1,3.0,3.0,h
+S2324-G0099,4,04:51,LAC,,SAS,,N. Powell,LAC,MISS Powell 6' Running Layup,Missed Shot,Running Layup Shot,-2,64,6,1,2.0,0.0,h
+S2324-G0099,4,04:50,LAC,,SAS,,N. Powell,LAC,SUB: Diabate FOR Powell,Substitution,,0,0,0,0,,,h
+S2324-G0257,1,01:33,LAC,,DEN,,N. Powell,LAC,MISS Powell 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-227,26,0,1,3.0,0.0,h
+S2324-G0257,1,01:04,LAC,,DEN,,N. Powell,LAC,MISS Powell 2' Driving Layup,Missed Shot,Driving Layup Shot,-16,3,2,1,2.0,0.0,h
+S2324-G0257,2,11:41,LAC,,DEN,,N. Powell,LAC,Powell STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0257,2,10:59,LAC,31.0,DEN,28.0,N. Powell,LAC,Powell Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0257,2,10:59,LAC,32.0,DEN,28.0,N. Powell,LAC,Powell Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0257,2,10:36,LAC,35.0,DEN,28.0,N. Powell,LAC,Powell 27' 3PT Jump Shot (5 PTS) (Tucker 1 AST),Made Shot,Jump Shot,199,183,27,1,3.0,3.0,h
+S2324-G0257,2,09:36,LAC,,DEN,,N. Powell,LAC,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0257,2,09:29,LAC,39.0,DEN,31.0,N. Powell,LAC,Powell 7' Driving Floating Bank Jump Shot (7 PTS),Made Shot,Driving Floating Bank Jump Shot,-36,56,7,1,2.0,2.0,h
+S2324-G0257,2,09:29,LAC,40.0,DEN,31.0,N. Powell,LAC,Powell Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G0257,2,09:03,LAC,41.0,DEN,31.0,N. Powell,LAC,Powell Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0257,2,09:03,LAC,42.0,DEN,31.0,N. Powell,LAC,Powell Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0257,2,07:31,LAC,,DEN,,N. Powell,LAC,MISS Powell 3PT Jump Shot,Missed Shot,Jump Shot,-234,17,0,1,3.0,0.0,h
+S2324-G0257,2,05:48,LAC,,DEN,,N. Powell,LAC,SUB: Mann FOR Powell,Substitution,,0,0,0,0,,,h
+S2324-G0257,2,00:00.800000,LAC,,DEN,,N. Powell,LAC,Powell S.FOUL (P1.PN) (L.Holtkamp),Foul,Shooting,0,0,0,0,,,h
+S2324-G0257,3,03:07,LAC,,DEN,,N. Powell,LAC,Powell BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0257,3,01:56,LAC,,DEN,,N. Powell,LAC,Powell P.FOUL (P2.T2) (S.Mehta),Foul,Personal,0,0,0,0,,,h
+S2324-G0257,4,10:26,LAC,,DEN,,N. Powell,LAC,Powell S.FOUL (P3.T1) (L.Holtkamp),Foul,Shooting,0,0,0,0,,,h
+S2324-G0257,4,09:55,LAC,,DEN,,N. Powell,LAC,Powell REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0257,4,09:47,LAC,,DEN,,N. Powell,LAC,MISS Powell 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-154,138,21,1,2.0,0.0,h
+S2324-G0257,4,07:40,LAC,,DEN,,N. Powell,LAC,MISS Powell 27' 3PT Jump Shot,Missed Shot,Jump Shot,-172,204,27,1,3.0,0.0,h
+S2324-G0257,4,05:46,LAC,,DEN,,N. Powell,LAC,SUB: George FOR Powell,Substitution,,0,0,0,0,,,h
+S2324-G0257,4,00:34.200000,LAC,,DEN,,N. Powell,LAC,MISS Powell 27' 3PT Jump Shot,Missed Shot,Jump Shot,-38,264,27,1,3.0,0.0,h
+S2324-G0304,1,01:41,LAC,37.0,POR,24.0,N. Powell,LAC,Powell 28' 3PT Jump Shot (3 PTS) (Leonard 3 AST),Made Shot,Jump Shot,-145,234,28,1,3.0,3.0,h
+S2324-G0304,1,00:29.700000,LAC,,POR,,N. Powell,LAC,Powell BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0304,2,11:50,LAC,,POR,,N. Powell,LAC,Powell BLOCK (2 BLK),,,0,0,0,0,,,h
+S2324-G0304,2,07:50,LAC,52.0,POR,45.0,N. Powell,LAC,Powell 4' Driving Layup (5 PTS) (Harden 3 AST),Made Shot,Driving Layup Shot,5,36,4,1,2.0,2.0,h
+S2324-G0304,2,07:04,LAC,,POR,,N. Powell,LAC,MISS Powell 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,191,177,26,1,3.0,0.0,h
+S2324-G0304,2,06:29,LAC,55.0,POR,48.0,N. Powell,LAC,Powell 24' 3PT Jump Shot (8 PTS) (George 4 AST),Made Shot,Jump Shot,-237,-1,24,1,3.0,3.0,h
+S2324-G0304,2,06:17,LAC,,POR,,N. Powell,LAC,SUB: Leonard FOR Powell,Substitution,,0,0,0,0,,,h
+S2324-G0304,2,04:47,LAC,57.0,POR,51.0,N. Powell,LAC,Powell 8' Driving Floating Jump Shot (10 PTS) (Harden 4 AST),Made Shot,Driving Floating Jump Shot,17,77,8,1,2.0,2.0,h
+S2324-G0304,2,04:39,LAC,,POR,,N. Powell,LAC,Powell S.FOUL (P1.PN) (J.Goble),Foul,Shooting,0,0,0,0,,,h
+S2324-G0304,2,04:26,LAC,59.0,POR,53.0,N. Powell,LAC,Powell 4' Driving Floating Jump Shot (12 PTS) (Harden 5 AST),Made Shot,Driving Floating Jump Shot,38,17,4,1,2.0,2.0,h
+S2324-G0304,2,04:15,LAC,,POR,,N. Powell,LAC,Powell S.FOUL (P2.PN) (J.Goble),Foul,Shooting,0,0,0,0,,,h
+S2324-G0304,2,02:09,LAC,,POR,,N. Powell,LAC,MISS Powell 26' 3PT Jump Shot,Missed Shot,Jump Shot,201,161,26,1,3.0,0.0,h
+S2324-G0304,2,01:58,LAC,,POR,,N. Powell,LAC,Powell P.FOUL (P3.PN) (J.Goble),Foul,Personal,0,0,0,0,,,h
+S2324-G0304,2,01:58,LAC,,POR,,N. Powell,LAC,SUB: George FOR Powell,Substitution,,0,0,0,0,,,h
+S2324-G0304,3,02:49,LAC,,POR,,N. Powell,LAC,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0304,3,01:45,LAC,,POR,,N. Powell,LAC,Powell REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0304,3,00:58.900000,LAC,102.0,POR,96.0,N. Powell,LAC,Powell 5' Floating Jump Shot (14 PTS) (Westbrook 6 AST),Made Shot,Floating Jump shot,-16,50,5,1,2.0,2.0,h
+S2324-G0304,4,07:39,LAC,,POR,,N. Powell,LAC,Powell REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0304,4,06:44,LAC,,POR,,N. Powell,LAC,Powell STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0304,4,05:23,LAC,,POR,,N. Powell,LAC,MISS Powell 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,16,39,4,1,2.0,0.0,h
+S2324-G0304,4,05:20,LAC,,POR,,N. Powell,LAC,Powell T.FOUL (P3.T4) (J.Goble),Foul,Technical,0,0,0,0,,,h
+S2324-G0304,4,05:04,LAC,,POR,,N. Powell,LAC,Powell L.B.FOUL (P4.PN) (J.Goble),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0304,4,02:44,LAC,,POR,,N. Powell,LAC,SUB: Mann FOR Powell,Substitution,,0,0,0,0,,,h
+S2324-G0304,4,00:15.400000,LAC,129.0,POR,125.0,N. Powell,LAC,Powell Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0304,4,00:15.400000,LAC,130.0,POR,125.0,N. Powell,LAC,Powell Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0646,1,04:43,BOS,,LAC,,N. Powell,LAC,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0646,1,03:17,BOS,,LAC,,N. Powell,LAC,Powell REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0646,1,00:55.200000,BOS,16.0,LAC,23.0,N. Powell,LAC,Powell 19' Pullup Jump Shot (2 PTS) (Westbrook 1 AST),Made Shot,Pullup Jump shot,-50,185,19,1,2.0,2.0,v
+S2324-G0646,1,00:02,BOS,,LAC,,N. Powell,LAC,MISS Powell 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,274,27,1,3.0,0.0,v
+S2324-G0646,2,10:52,BOS,,LAC,,N. Powell,LAC,Powell REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0646,2,08:55,BOS,,LAC,,N. Powell,LAC,Powell P.FOUL (P1.T1) (C.Flores),Foul,Personal,0,0,0,0,,,v
+S2324-G0646,2,06:48,BOS,,LAC,,N. Powell,LAC,Powell REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0646,2,06:13,BOS,,LAC,,N. Powell,LAC,SUB: Leonard FOR Powell,Substitution,,0,0,0,0,,,v
+S2324-G0646,2,00:15.900000,BOS,,LAC,,N. Powell,LAC,MISS Powell 26' 3PT Jump Shot,Missed Shot,Jump Shot,-98,243,26,1,3.0,0.0,v
+S2324-G0646,3,04:31,BOS,,LAC,,N. Powell,LAC,Powell P.FOUL (P2.T3) (C.Flores),Foul,Personal,0,0,0,0,,,v
+S2324-G0646,3,03:24,BOS,,LAC,,N. Powell,LAC,MISS Powell 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-123,101,16,1,2.0,0.0,v
+S2324-G0646,3,00:53.700000,BOS,,LAC,,N. Powell,LAC,MISS Powell 4' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,-31,31,4,1,2.0,0.0,v
+S2324-G0646,4,11:40,BOS,,LAC,,N. Powell,LAC,Powell STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0646,4,10:53,BOS,,LAC,,N. Powell,LAC,MISS Powell 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-29,24,4,1,2.0,0.0,v
+S2324-G0646,4,10:27,BOS,64.0,LAC,99.0,N. Powell,LAC,Powell 2' Running Dunk (4 PTS) (Theis 1 AST),Made Shot,Running Dunk Shot,-4,21,2,1,2.0,2.0,v
+S2324-G0646,4,10:27,BOS,,LAC,,N. Powell,LAC,SUB: Hyland FOR Powell,Substitution,,0,0,0,0,,,v
+S2324-G0956,1,04:37,CHI,14.0,LAC,21.0,N. Powell,LAC,Powell 25' 3PT Jump Shot (3 PTS) (George 2 AST),Made Shot,Jump Shot,20,251,25,1,3.0,3.0,v
+S2324-G0956,1,00:22.700000,CHI,,LAC,,N. Powell,LAC,Powell STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0956,1,00:03.800000,CHI,26.0,LAC,37.0,N. Powell,LAC,Powell 1' Cutting Layup Shot (5 PTS) (George 3 AST),Made Shot,Cutting Layup Shot,6,1,1,1,2.0,2.0,v
+S2324-G0956,2,11:44,CHI,,LAC,,N. Powell,LAC,MISS Powell 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-118,216,25,1,3.0,0.0,v
+S2324-G0956,2,07:56,CHI,,LAC,,N. Powell,LAC,MISS Powell Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0956,2,07:56,CHI,35.0,LAC,49.0,N. Powell,LAC,Powell Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0956,2,06:38,CHI,39.0,LAC,53.0,N. Powell,LAC,Powell 3' Driving Layup (8 PTS) (Zubac 2 AST),Made Shot,Driving Layup Shot,21,17,3,1,2.0,2.0,v
+S2324-G0956,2,06:15,CHI,,LAC,,N. Powell,LAC,Powell Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0956,2,06:15,CHI,,LAC,,N. Powell,LAC,Powell Transition Take Foul (P1.T4) (M.Smith),Foul                                    ,Transition Take,0,0,0,0,,,v
+S2324-G0956,2,06:15,CHI,,LAC,,N. Powell,LAC,SUB: Leonard FOR Powell,Substitution,,0,0,0,0,,,v
+S2324-G0956,2,01:02,CHI,,LAC,,N. Powell,LAC,MISS Powell 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,197,162,26,1,3.0,0.0,v
+S2324-G0956,2,00:45.600000,CHI,,LAC,,N. Powell,LAC,Powell P.FOUL (P2.PN) (M.Smith),Foul,Personal,0,0,0,0,,,v
+S2324-G0956,2,00:45.600000,CHI,,LAC,,N. Powell,LAC,SUB: Coffey FOR Powell,Substitution,,0,0,0,0,,,v
+S2324-G0956,3,03:25,CHI,,LAC,,N. Powell,LAC,Powell Out of Bounds - Bad Pass Turnover Turnover (P2.T7),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0956,3,00:08.800000,CHI,,LAC,,N. Powell,LAC,Powell P.FOUL (P3.T4) (M.Smith),Foul,Personal,0,0,0,0,,,v
+S2324-G0956,4,11:17,CHI,,LAC,,N. Powell,LAC,MISS Powell 5' Driving Layup,Missed Shot,Driving Layup Shot,50,20,5,1,2.0,0.0,v
+S2324-G0956,4,11:13,CHI,82.0,LAC,95.0,N. Powell,LAC,Powell 3PT Jump Shot (11 PTS) (Theis 3 AST),Made Shot,Jump Shot,229,-11,0,1,3.0,3.0,v
+S2324-G0956,4,09:37,CHI,,LAC,,N. Powell,LAC,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0956,4,09:30,CHI,,LAC,,N. Powell,LAC,MISS Powell 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-131,228,26,1,3.0,0.0,v
+S2324-G0956,4,08:19,CHI,92.0,LAC,103.0,N. Powell,LAC,Powell 8' Driving Floating Jump Shot (13 PTS) (Hyland 10 AST),Made Shot,Driving Floating Jump Shot,-27,71,8,1,2.0,2.0,v
+S2324-G0956,4,06:12,CHI,,LAC,,N. Powell,LAC,Powell REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0956,4,04:22,CHI,102.0,LAC,114.0,N. Powell,LAC,Powell Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0956,4,04:22,CHI,102.0,LAC,115.0,N. Powell,LAC,Powell Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0956,4,02:42,CHI,102.0,LAC,123.0,N. Powell,LAC,Powell 26' 3PT Step Back Jump Shot (18 PTS),Made Shot,Step Back Jump shot,168,195,26,1,3.0,3.0,v
+S2324-G0956,4,02:27,CHI,,LAC,,N. Powell,LAC,SUB: Plumlee FOR Powell,Substitution,,0,0,0,0,,,v
+S2324-G0151,1,00:42.900000,NYK,,LAC,,N. Powell,LAC,MISS Powell 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-164,186,25,1,3.0,0.0,v
+S2324-G0151,2,10:20,NYK,,LAC,,N. Powell,LAC,Powell Out of Bounds - Bad Pass Turnover Turnover (P1.T6),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0151,2,04:00,NYK,36.0,LAC,35.0,N. Powell,LAC,Powell 3PT Jump Shot (3 PTS) (Leonard 1 AST),Made Shot,Jump Shot,225,10,0,1,3.0,3.0,v
+S2324-G0151,2,03:26,NYK,,LAC,,N. Powell,LAC,Powell L.B.FOUL (P1.T2) (J.DeRosa),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0151,2,03:06,NYK,,LAC,,N. Powell,LAC,MISS Powell 3PT Jump Shot,Missed Shot,Jump Shot,-233,-16,0,1,3.0,0.0,v
+S2324-G0151,2,03:01,NYK,36.0,LAC,38.0,N. Powell,LAC,Powell 3PT Jump Shot (6 PTS) (Leonard 2 AST),Made Shot,Jump Shot,-232,-10,0,1,3.0,3.0,v
+S2324-G0151,2,02:32,NYK,,LAC,,N. Powell,LAC,SUB: Harden FOR Powell,Substitution,,0,0,0,0,,,v
+S2324-G0151,2,00:44.800000,NYK,42.0,LAC,46.0,N. Powell,LAC,Powell 25' 3PT Jump Shot (9 PTS) (Harden 3 AST),Made Shot,Jump Shot,-164,193,25,1,3.0,3.0,v
+S2324-G0151,4,10:39,NYK,,LAC,,N. Powell,LAC,Powell Bad Pass Turnover (P2.T17),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0151,4,09:38,NYK,,LAC,,N. Powell,LAC,SUB: George FOR Powell,Substitution,,0,0,0,0,,,v
+S2324-G0151,4,03:19,NYK,,LAC,,N. Powell,LAC,Powell BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0151,4,03:17,NYK,,LAC,,N. Powell,LAC,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0151,4,03:13,NYK,,LAC,,N. Powell,LAC,Powell Bad Pass Turnover (P3.T22),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0151,4,02:32,NYK,108.0,LAC,94.0,N. Powell,LAC,Powell 1' Driving Layup (11 PTS) (Hyland 3 AST),Made Shot,Driving Layup Shot,-7,-1,1,1,2.0,2.0,v
+S2324-G0151,4,01:47,NYK,111.0,LAC,97.0,N. Powell,LAC,Powell 3PT Jump Shot (14 PTS) (Hyland 4 AST),Made Shot,Jump Shot,-224,-23,0,1,3.0,3.0,v
+S2324-G0014,1,00:48,DAL,,LAC,,N. Powell,LAC,MISS Powell 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-10,78,8,1,2.0,0.0,v
+S2324-G0014,1,00:02.100000,DAL,,LAC,,N. Powell,LAC,Powell Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0014,2,07:07,DAL,,LAC,,N. Powell,LAC,Powell Traveling Turnover (P2.T8),Turnover,Traveling,0,0,0,0,,,v
+S2324-G0014,2,07:07,DAL,,LAC,,N. Powell,LAC,Powell T.FOUL (P0.T2) (T.Maddox),Foul,Technical,0,0,0,0,,,v
+S2324-G0014,2,06:25,DAL,,LAC,,N. Powell,LAC,SUB: Hyland FOR Powell,Substitution,,0,0,0,0,,,v
+S2324-G0014,3,00:44.900000,DAL,,LAC,,N. Powell,LAC,Powell S.FOUL (P1.T3) (T.Maddox),Foul,Shooting,0,0,0,0,,,v
+S2324-G0014,3,00:44.900000,DAL,,LAC,,N. Powell,LAC,SUB: Hyland FOR Powell,Substitution,,0,0,0,0,,,v
+S2324-G0917,1,01:48,LAC,,CHI,,N. Powell,LAC,MISS Powell 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-17,290,29,1,3.0,0.0,h
+S2324-G0917,1,00:40.900000,LAC,22.0,CHI,27.0,N. Powell,LAC,Powell Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0917,1,00:40.900000,LAC,23.0,CHI,27.0,N. Powell,LAC,Powell Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0917,1,00:05.800000,LAC,,CHI,,N. Powell,LAC,MISS Powell 26' 3PT Jump Shot,Missed Shot,Jump Shot,154,205,26,1,3.0,0.0,h
+S2324-G0917,2,11:35,LAC,,CHI,,N. Powell,LAC,MISS Powell 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,37,263,27,1,3.0,0.0,h
+S2324-G0917,2,08:34,LAC,,CHI,,N. Powell,LAC,Powell Lost Ball Turnover (P1.T5),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0917,2,07:54,LAC,,CHI,,N. Powell,LAC,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0917,2,07:26,LAC,32.0,CHI,39.0,N. Powell,LAC,Powell 1' Running Layup (4 PTS) (Harden 1 AST),Made Shot,Running Layup Shot,-1,6,1,1,2.0,2.0,h
+S2324-G0917,2,07:05,LAC,,CHI,,N. Powell,LAC,Powell Step Out of Bounds Turnover (P2.T7),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2324-G0917,2,06:28,LAC,33.0,CHI,42.0,N. Powell,LAC,Powell Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0917,2,06:28,LAC,34.0,CHI,42.0,N. Powell,LAC,Powell Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0917,2,06:04,LAC,36.0,CHI,42.0,N. Powell,LAC,Powell 5' Driving Layup (8 PTS) (Harden 2 AST),Made Shot,Driving Layup Shot,32,44,5,1,2.0,2.0,h
+S2324-G0917,2,05:54,LAC,,CHI,,N. Powell,LAC,SUB: Mann FOR Powell,Substitution,,0,0,0,0,,,h
+S2324-G0917,3,03:33,LAC,,CHI,,N. Powell,LAC,Powell P.FOUL (P1.T4) (T.Ford),Foul,Personal,0,0,0,0,,,h
+S2324-G0917,3,02:59,LAC,78.0,CHI,74.0,N. Powell,LAC,Powell 3' Driving Finger Roll Layup (10 PTS) (Theis 1 AST),Made Shot,Driving Finger Roll Layup Shot,21,14,3,1,2.0,2.0,h
+S2324-G0917,3,02:33,LAC,,CHI,,N. Powell,LAC,MISS Powell 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-5,247,25,1,3.0,0.0,h
+S2324-G0917,3,00:01.300000,LAC,,CHI,,N. Powell,LAC,MISS Powell 20' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,157,126,20,1,2.0,0.0,h
+S2324-G0917,4,11:06,LAC,88.0,CHI,85.0,N. Powell,LAC,Powell 3PT Jump Shot (13 PTS) (George 8 AST),Made Shot,Jump Shot,230,26,0,1,3.0,3.0,h
+S2324-G0917,4,09:31,LAC,94.0,CHI,85.0,N. Powell,LAC,Powell 24' 3PT Jump Shot (16 PTS) (Theis 2 AST),Made Shot,Jump Shot,-114,215,24,1,3.0,3.0,h
+S2324-G0917,4,08:52,LAC,,CHI,,N. Powell,LAC,Powell S.FOUL (P2.T4) (K.Lane),Foul,Shooting,0,0,0,0,,,h
+S2324-G0917,4,08:34,LAC,,CHI,,N. Powell,LAC,Powell STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0917,4,06:53,LAC,,CHI,,N. Powell,LAC,MISS Powell 24' 3PT Jump Shot,Missed Shot,Jump Shot,-223,98,24,1,3.0,0.0,h
+S2324-G0917,4,05:52,LAC,100.0,CHI,95.0,N. Powell,LAC,Powell 1' Driving Dunk (18 PTS) (George 9 AST),Made Shot,Driving Dunk Shot,-6,-2,1,1,2.0,2.0,h
+S2324-G0917,4,04:20,LAC,,CHI,,N. Powell,LAC,Powell REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0917,4,02:15,LAC,,CHI,,N. Powell,LAC,MISS Powell 3PT Jump Shot,Missed Shot,Jump Shot,-224,-13,0,1,3.0,0.0,h
+S2324-G0917,4,00:41.800000,LAC,,CHI,,N. Powell,LAC,MISS Powell 3PT Jump Shot,Missed Shot,Jump Shot,232,14,0,1,3.0,0.0,h
+S2324-G0917,4,00:39.100000,LAC,,CHI,,N. Powell,LAC,Powell REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0917,4,00:28,LAC,,CHI,,N. Powell,LAC,Powell REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0716,1,03:23,ATL,,LAC,,N. Powell,LAC,Powell S.FOUL (P1.T1) (A.Smith),Foul,Shooting,0,0,0,0,,,v
+S2324-G0716,1,01:17,ATL,,LAC,,N. Powell,LAC,MISS Powell 1' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,-1,13,1,1,2.0,0.0,v
+S2324-G0716,1,00:09.300000,ATL,28.0,LAC,36.0,N. Powell,LAC,Powell Free Throw Technical (1 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,v
+S2324-G0716,1,00:09.300000,ATL,,LAC,,N. Powell,LAC,MISS Powell Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0716,1,00:09.300000,ATL,28.0,LAC,37.0,N. Powell,LAC,Powell Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0716,2,11:12,ATL,30.0,LAC,43.0,N. Powell,LAC,Powell 26' 3PT Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,-56,258,26,1,3.0,3.0,v
+S2324-G0716,2,10:29,ATL,,LAC,,N. Powell,LAC,MISS Powell 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,39,258,26,1,3.0,0.0,v
+S2324-G0716,2,09:50,ATL,36.0,LAC,46.0,N. Powell,LAC,Powell 3PT Jump Shot (8 PTS) (Coffey 1 AST),Made Shot,Jump Shot,225,11,0,1,3.0,3.0,v
+S2324-G0716,2,09:23,ATL,36.0,LAC,49.0,N. Powell,LAC,Powell 3PT Jump Shot (11 PTS) (Theis 2 AST),Made Shot,Jump Shot,-234,-13,0,1,3.0,3.0,v
+S2324-G0716,2,07:39,ATL,,LAC,,N. Powell,LAC,MISS Powell 3PT Jump Shot,Missed Shot,Jump Shot,225,52,0,1,3.0,0.0,v
+S2324-G0716,2,05:43,ATL,,LAC,,N. Powell,LAC,SUB: Mann FOR Powell,Substitution,,0,0,0,0,,,v
+S2324-G0716,3,00:07.700000,ATL,,LAC,,N. Powell,LAC,Powell Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0716,4,11:14,ATL,,LAC,,N. Powell,LAC,Powell S.FOUL (P2.T1) (J.Goble),Foul,Shooting,0,0,0,0,,,v
+S2324-G0716,4,10:16,ATL,108.0,LAC,107.0,N. Powell,LAC,Powell 15' Pullup Jump Shot (13 PTS) (Harden 10 AST),Made Shot,Pullup Jump shot,17,147,15,1,2.0,2.0,v
+S2324-G0716,4,09:34,ATL,,LAC,,N. Powell,LAC,MISS Powell 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,0,110,11,1,2.0,0.0,v
+S2324-G0716,4,08:56,ATL,,LAC,,N. Powell,LAC,SUB: George FOR Powell,Substitution,,0,0,0,0,,,v
+S2324-G0350,2,11:21,IND,,LAC,,N. Powell,LAC,MISS Powell 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-109,20,11,1,2.0,0.0,v
+S2324-G0350,2,10:44,IND,,LAC,,N. Powell,LAC,MISS Powell 6' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-29,53,6,1,2.0,0.0,v
+S2324-G0350,2,08:57,IND,,LAC,,N. Powell,LAC,MISS Powell 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-16,259,26,1,3.0,0.0,v
+S2324-G0350,2,06:17,IND,53.0,LAC,51.0,N. Powell,LAC,Powell Free Throw 1 of 3 (1 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,v
+S2324-G0350,2,06:17,IND,53.0,LAC,52.0,N. Powell,LAC,Powell Free Throw 2 of 3 (2 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,v
+S2324-G0350,2,06:17,IND,53.0,LAC,53.0,N. Powell,LAC,Powell Free Throw 3 of 3 (3 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,v
+S2324-G0350,2,05:27,IND,55.0,LAC,57.0,N. Powell,LAC,Powell 5' Driving Finger Roll Layup (5 PTS) (George 3 AST),Made Shot,Driving Finger Roll Layup Shot,-16,44,5,1,2.0,2.0,v
+S2324-G0350,2,02:47,IND,,LAC,,N. Powell,LAC,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0350,2,01:08,IND,,LAC,,N. Powell,LAC,Powell S.FOUL (P1.T2) (J.Conley),Foul,Shooting,0,0,0,0,,,v
+S2324-G0350,2,00:07.100000,IND,,LAC,,N. Powell,LAC,SUB: Coffey FOR Powell,Substitution,,0,0,0,0,,,v
+S2324-G0350,3,05:13,IND,,LAC,,N. Powell,LAC,Powell REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0350,3,05:10,IND,,LAC,,N. Powell,LAC,MISS Powell 3' Running Layup,Missed Shot,Running Layup Shot,23,11,3,1,2.0,0.0,v
+S2324-G0350,3,02:22,IND,87.0,LAC,109.0,N. Powell,LAC,Powell 25' 3PT Jump Shot (8 PTS) (Westbrook 4 AST),Made Shot,Jump Shot,121,220,25,1,3.0,3.0,v
+S2324-G0350,3,01:56,IND,87.0,LAC,112.0,N. Powell,LAC,Powell 24' 3PT Running Jump Shot (11 PTS) (Coffey 1 AST),Made Shot,Running Jump Shot,237,26,24,1,3.0,3.0,v
+S2324-G0350,4,09:46,IND,99.0,LAC,119.0,N. Powell,LAC,Powell 17' Fadeaway Jumper (13 PTS) (Westbrook 5 AST),Made Shot,Fadeaway Jump Shot,86,147,17,1,2.0,2.0,v
+S2324-G0350,4,05:52,IND,,LAC,,N. Powell,LAC,Powell REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0350,4,05:44,IND,,LAC,,N. Powell,LAC,MISS Powell 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-75,245,26,1,3.0,0.0,v
+S2324-G0350,4,04:29,IND,111.0,LAC,142.0,N. Powell,LAC,Powell 26' 3PT Pullup Jump Shot (16 PTS) (Brown 1 AST),Made Shot,Pullup Jump shot,109,235,26,1,3.0,3.0,v
+S2324-G0350,4,03:46,IND,113.0,LAC,145.0,N. Powell,LAC,Powell 26' 3PT Jump Shot (19 PTS) (Coffey 2 AST),Made Shot,Jump Shot,29,261,26,1,3.0,3.0,v
+S2324-G0350,4,03:45,IND,,LAC,,N. Powell,LAC,SUB: Mann FOR Powell,Substitution,,0,0,0,0,,,v
+S2324-G0848,1,05:09,LAC,,LAL,,N. Powell,LAC,MISS Powell 12' Jump Shot,Missed Shot,Jump Shot,-48,105,12,1,2.0,0.0,h
+S2324-G0848,1,04:19,LAC,,LAL,,N. Powell,LAC,Powell P.FOUL (P1.T4) (T.Brothers),Foul,Personal,0,0,0,0,,,h
+S2324-G0848,1,02:29,LAC,,LAL,,N. Powell,LAC,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0848,1,02:27,LAC,,LAL,,N. Powell,LAC,Powell Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G0848,2,11:48,LAC,32.0,LAL,29.0,N. Powell,LAC,Powell 15' Pullup Jump Shot (2 PTS) (Plumlee 1 AST),Made Shot,Pullup Jump shot,4,145,15,1,2.0,2.0,h
+S2324-G0848,2,10:57,LAC,,LAL,,N. Powell,LAC,Powell REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0848,2,10:48,LAC,34.0,LAL,29.0,N. Powell,LAC,Powell 3' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,9,29,3,1,2.0,2.0,h
+S2324-G0848,2,08:10,LAC,,LAL,,N. Powell,LAC,Powell REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0848,2,08:04,LAC,45.0,LAL,36.0,N. Powell,LAC,Powell 2' Running Layup (6 PTS),Made Shot,Running Layup Shot,-11,15,2,1,2.0,2.0,h
+S2324-G0848,2,07:30,LAC,,LAL,,N. Powell,LAC,MISS Powell 26' 3PT Jump Shot,Missed Shot,Jump Shot,126,232,26,1,3.0,0.0,h
+S2324-G0848,2,05:14,LAC,,LAL,,N. Powell,LAC,SUB: Coffey FOR Powell,Substitution,,0,0,0,0,,,h
+S2324-G0848,2,01:08,LAC,,LAL,,N. Powell,LAC,MISS Powell 26' 3PT Jump Shot,Missed Shot,Jump Shot,119,231,26,1,3.0,0.0,h
+S2324-G0848,2,00:38.200000,LAC,,LAL,,N. Powell,LAC,SUB: Tucker FOR Powell,Substitution,,0,0,0,0,,,h
+S2324-G0848,3,02:46,LAC,,LAL,,N. Powell,LAC,MISS Powell 30' 3PT Jump Shot,Missed Shot,Jump Shot,-154,254,30,1,3.0,0.0,h
+S2324-G0848,3,02:16,LAC,89.0,LAL,75.0,N. Powell,LAC,Powell 10' Driving Floating Jump Shot (8 PTS) (Theis 2 AST),Made Shot,Driving Floating Jump Shot,-18,96,10,1,2.0,2.0,h
+S2324-G0848,3,02:04,LAC,,LAL,,N. Powell,LAC,Powell Violation:Kicked Ball (T.Brothers),Violation,Kicked Ball,0,0,0,0,,,h
+S2324-G0848,3,00:11.200000,LAC,,LAL,,N. Powell,LAC,MISS Powell 4' Layup,Missed Shot,Layup Shot,34,16,4,1,2.0,0.0,h
+S2324-G0848,3,00:01.200000,LAC,96.0,LAL,77.0,N. Powell,LAC,Powell 27' 3PT Jump Shot (11 PTS) (Plumlee 2 AST),Made Shot,Jump Shot,211,164,27,1,3.0,3.0,h
+S2324-G0848,4,11:18,LAC,,LAL,,N. Powell,LAC,MISS Powell 26' 3PT Jump Shot,Missed Shot,Jump Shot,-179,194,26,1,3.0,0.0,h
+S2324-G0848,4,10:38,LAC,,LAL,,N. Powell,LAC,Powell S.FOUL (P2.T1) (T.Brothers),Foul,Shooting,0,0,0,0,,,h
+S2324-G0848,4,09:19,LAC,,LAL,,N. Powell,LAC,MISS Powell 24' 3PT Jump Shot,Missed Shot,Jump Shot,-234,25,24,1,3.0,0.0,h
+S2324-G0848,4,08:11,LAC,,LAL,,N. Powell,LAC,Powell STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0848,4,07:03,LAC,104.0,LAL,96.0,N. Powell,LAC,Powell 28' 3PT Jump Shot (14 PTS) (Leonard 6 AST),Made Shot,Jump Shot,216,173,28,1,3.0,3.0,h
+S2324-G0848,4,05:03,LAC,,LAL,,N. Powell,LAC,Powell REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0848,4,04:56,LAC,,LAL,,N. Powell,LAC,MISS Powell 27' 3PT Jump Shot,Missed Shot,Jump Shot,-123,244,27,1,3.0,0.0,h
+S2324-G0848,4,02:46,LAC,,LAL,,N. Powell,LAC,MISS Powell 27' 3PT Jump Shot,Missed Shot,Jump Shot,-29,270,27,1,3.0,0.0,h
+S2324-G0235,1,04:04,SAS,,LAC,,N. Powell,LAC,MISS Powell 17' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-45,163,17,1,2.0,0.0,v
+S2324-G0235,1,02:55,SAS,11.0,LAC,18.0,N. Powell,LAC,Powell 4' Running Finger Roll Layup (2 PTS) (Leonard 3 AST),Made Shot,Running Finger Roll Layup Shot,-4,42,4,1,2.0,2.0,v
+S2324-G0235,1,02:10,SAS,,LAC,,N. Powell,LAC,Powell Lost Ball Turnover (P1.T5),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0235,2,11:38,SAS,,LAC,,N. Powell,LAC,Powell L.B.FOUL (P1.T2) (R.Hussey),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0235,2,10:32,SAS,15.0,LAC,31.0,N. Powell,LAC,Powell 26' 3PT Pullup Jump Shot (5 PTS) (Westbrook 2 AST),Made Shot,Pullup Jump shot,28,262,26,1,3.0,3.0,v
+S2324-G0235,2,10:32,SAS,,LAC,,N. Powell,LAC,MISS Powell Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2324-G0235,2,10:16,SAS,,LAC,,N. Powell,LAC,Powell BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0235,2,10:11,SAS,,LAC,,N. Powell,LAC,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0235,2,10:06,SAS,,LAC,,N. Powell,LAC,MISS Powell 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-26,68,7,1,2.0,0.0,v
+S2324-G0235,2,06:12,SAS,,LAC,,N. Powell,LAC,SUB: Mann FOR Powell,Substitution,,0,0,0,0,,,v
+S2324-G0235,2,02:19,SAS,,LAC,,N. Powell,LAC,Powell Bad Pass Turnover (P2.T10),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0389,1,04:15,LAC,,BOS,,N. Powell,LAC,MISS Powell 4' Driving Layup,Missed Shot,Driving Layup Shot,22,39,4,1,2.0,0.0,h
+S2324-G0389,1,03:58,LAC,,BOS,,N. Powell,LAC,Powell L.B.FOUL (P1.T1) (M.Dagher),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0389,1,03:03,LAC,,BOS,,N. Powell,LAC,Powell P.FOUL (P2.T3) (J.Van Duyne),Foul,Personal,0,0,0,0,,,h
+S2324-G0389,1,00:01.400000,LAC,,BOS,,N. Powell,LAC,MISS Powell 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-141,133,19,1,2.0,0.0,h
+S2324-G0389,2,11:46,LAC,23.0,BOS,28.0,N. Powell,LAC,Powell 4' Driving Finger Roll Layup (2 PTS) (Brown 1 AST),Made Shot,Driving Finger Roll Layup Shot,22,36,4,1,2.0,2.0,h
+S2324-G0389,2,10:23,LAC,,BOS,,N. Powell,LAC,MISS Powell 5' Driving Layup,Missed Shot,Driving Layup Shot,-20,44,5,1,2.0,0.0,h
+S2324-G0389,2,06:51,LAC,,BOS,,N. Powell,LAC,SUB: George FOR Powell,Substitution,,0,0,0,0,,,h
+S2324-G0389,2,04:04,LAC,,BOS,,N. Powell,LAC,MISS Powell 26' 3PT Jump Shot,Missed Shot,Jump Shot,-124,230,26,1,3.0,0.0,h
+S2324-G0389,2,01:00,LAC,49.0,BOS,64.0,N. Powell,LAC,Powell 26' 3PT Running Jump Shot (5 PTS) (Westbrook 2 AST),Made Shot,Running Jump Shot,-145,215,26,1,3.0,3.0,h
+S2324-G0389,3,02:22,LAC,,BOS,,N. Powell,LAC,Powell S.FOUL (P3.PN) (K.Cutler),Foul,Shooting,0,0,0,0,,,h
+S2324-G0389,4,11:17,LAC,,BOS,,N. Powell,LAC,MISS Powell 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,140,231,27,1,3.0,0.0,h
+S2324-G0389,4,11:10,LAC,,BOS,,N. Powell,LAC,Powell P.FOUL (P4.T1) (J.Van Duyne),Foul,Personal,0,0,0,0,,,h
+S2324-G0389,4,09:48,LAC,86.0,BOS,111.0,N. Powell,LAC,Powell 4' Driving Layup (7 PTS) (Westbrook 4 AST),Made Shot,Driving Layup Shot,27,29,4,1,2.0,2.0,h
+S2324-G0389,4,09:28,LAC,,BOS,,N. Powell,LAC,Powell S.FOUL (P5.T4) (M.Dagher),Foul,Shooting,0,0,0,0,,,h
+S2324-G0389,4,08:34,LAC,,BOS,,N. Powell,LAC,MISS Powell 14' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-135,26,14,1,2.0,0.0,h
+S2324-G0389,4,07:36,LAC,,BOS,,N. Powell,LAC,Powell Step Out of Bounds Turnover (P1.T11),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2324-G0389,4,07:22,LAC,,BOS,,N. Powell,LAC,SUB: Mann FOR Powell,Substitution,,0,0,0,0,,,h
+S2324-G0223,1,10:20,SAS,,LAC,,N. Powell,LAC,MISS Powell 24' 3PT Jump Shot,Missed Shot,Jump Shot,-239,34,24,1,3.0,0.0,v
+S2324-G0223,1,10:07,SAS,2.0,LAC,2.0,N. Powell,LAC,Powell 15' Fadeaway Jumper (2 PTS) (Mann 1 AST),Made Shot,Fadeaway Jump Shot,-154,-5,15,1,2.0,2.0,v
+S2324-G0223,1,08:54,SAS,,LAC,,N. Powell,LAC,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0223,1,08:46,SAS,,LAC,,N. Powell,LAC,MISS Powell 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,55,32,6,1,2.0,0.0,v
+S2324-G0223,1,07:45,SAS,,LAC,,N. Powell,LAC,SUB: George FOR Powell,Substitution,,0,0,0,0,,,v
+S2324-G0223,1,00:28.200000,SAS,,LAC,,N. Powell,LAC,Powell REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0223,1,00:05.900000,SAS,25.0,LAC,31.0,N. Powell,LAC,Powell Free Throw 1 of 3 (3 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,v
+S2324-G0223,1,00:05.900000,SAS,25.0,LAC,32.0,N. Powell,LAC,Powell Free Throw 2 of 3 (4 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,v
+S2324-G0223,1,00:05.900000,SAS,25.0,LAC,33.0,N. Powell,LAC,Powell Free Throw 3 of 3 (5 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,v
+S2324-G0223,1,00:01,SAS,,LAC,,N. Powell,LAC,MISS Powell 65' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-191,617,65,1,3.0,0.0,v
+S2324-G0223,2,10:58,SAS,,LAC,,N. Powell,LAC,Powell REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0223,2,08:53,SAS,35.0,LAC,42.0,N. Powell,LAC,Powell 26' 3PT Jump Shot (8 PTS) (George 1 AST),Made Shot,Jump Shot,-232,109,26,1,3.0,3.0,v
+S2324-G0223,2,06:28,SAS,39.0,LAC,51.0,N. Powell,LAC,Powell Free Throw 1 of 3 (9 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,v
+S2324-G0223,2,06:28,SAS,39.0,LAC,52.0,N. Powell,LAC,Powell Free Throw 2 of 3 (10 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,v
+S2324-G0223,2,06:28,SAS,39.0,LAC,53.0,N. Powell,LAC,Powell Free Throw 3 of 3 (11 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,v
+S2324-G0223,2,06:09,SAS,,LAC,,N. Powell,LAC,SUB: Mann FOR Powell,Substitution,,0,0,0,0,,,v
+S2324-G0223,3,01:38,SAS,,LAC,,N. Powell,LAC,MISS Powell 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,64,266,27,1,3.0,0.0,v
+S2324-G0223,3,01:20,SAS,75.0,LAC,89.0,N. Powell,LAC,Powell 26' 3PT Running Jump Shot (14 PTS) (Harden 10 AST),Made Shot,Running Jump Shot,191,182,26,1,3.0,3.0,v
+S2324-G0223,4,11:49,SAS,,LAC,,N. Powell,LAC,Powell STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0223,4,11:43,SAS,,LAC,,N. Powell,LAC,MISS Powell 3' Running Layup,Missed Shot,Running Layup Shot,-26,14,3,1,2.0,0.0,v
+S2324-G0223,4,09:50,SAS,,LAC,,N. Powell,LAC,Powell REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0223,4,09:44,SAS,,LAC,,N. Powell,LAC,Powell Out of Bounds - Bad Pass Turnover Turnover (P1.T6),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0223,4,08:01,SAS,82.0,LAC,104.0,N. Powell,LAC,Powell 2' Driving Layup (16 PTS),Made Shot,Driving Layup Shot,-21,8,2,1,2.0,2.0,v
+S2324-G0223,4,08:01,SAS,82.0,LAC,105.0,N. Powell,LAC,Powell Free Throw 1 of 1 (17 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G0223,4,04:01,SAS,,LAC,,N. Powell,LAC,MISS Powell 26' 3PT Jump Shot,Missed Shot,Jump Shot,120,236,26,1,3.0,0.0,v
+S2324-G0223,4,03:44,SAS,94.0,LAC,118.0,N. Powell,LAC,Powell 2' Running Layup (19 PTS) (Hyland 1 AST),Made Shot,Running Layup Shot,-23,-1,2,1,2.0,2.0,v
+S2324-G0223,4,02:39,SAS,,LAC,,N. Powell,LAC,MISS Powell 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,28,64,7,1,2.0,0.0,v
+S2324-G0223,4,01:31,SAS,,LAC,,N. Powell,LAC,Powell BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0223,4,01:28,SAS,,LAC,,N. Powell,LAC,Powell REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0223,4,00:03.400000,SAS,,LAC,,N. Powell,LAC,Powell STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0537,1,03:32,MEM,,LAC,,N. Powell,LAC,Powell S.FOUL (P1.T3) (D.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2324-G0537,1,02:34,MEM,,LAC,,N. Powell,LAC,MISS Powell 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,123,220,25,1,3.0,0.0,v
+S2324-G0537,1,01:04,MEM,,LAC,,N. Powell,LAC,Powell L.B.FOUL (P2.T4) (C.Kirkland),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0537,2,11:47,MEM,26.0,LAC,25.0,N. Powell,LAC,Powell 17' Pullup Jump Shot (2 PTS) (Theis 1 AST),Made Shot,Pullup Jump shot,99,135,17,1,2.0,2.0,v
+S2324-G0537,2,10:04,MEM,,LAC,,N. Powell,LAC,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0537,2,08:37,MEM,34.0,LAC,38.0,N. Powell,LAC,Powell 3' Cutting Finger Roll Layup Shot (4 PTS) (Harden 5 AST),Made Shot,Cutting Finger Roll Layup Shot,27,21,3,1,2.0,2.0,v
+S2324-G0537,2,06:03,MEM,39.0,LAC,49.0,N. Powell,LAC,Powell 5' Driving Floating Jump Shot (6 PTS),Made Shot,Driving Floating Jump Shot,44,17,5,1,2.0,2.0,v
+S2324-G0537,2,05:40,MEM,,LAC,,N. Powell,LAC,Powell REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0537,2,04:41,MEM,,LAC,,N. Powell,LAC,SUB: Mann FOR Powell,Substitution,,0,0,0,0,,,v
+S2324-G0537,3,04:36,MEM,,LAC,,N. Powell,LAC,Powell REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0537,3,03:48,MEM,,LAC,,N. Powell,LAC,Powell REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0537,3,01:21,MEM,,LAC,,N. Powell,LAC,Powell REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0537,3,01:20,MEM,,LAC,,N. Powell,LAC,Powell Out of Bounds - Bad Pass Turnover Turnover (P1.T12),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0537,3,00:18.900000,MEM,,LAC,,N. Powell,LAC,MISS Powell 3PT Jump Shot,Missed Shot,Jump Shot,-230,31,0,1,3.0,0.0,v
+S2324-G0537,4,11:32,MEM,,LAC,,N. Powell,LAC,MISS Powell 21' Jump Shot,Missed Shot,Jump Shot,-28,207,21,1,2.0,0.0,v
+S2324-G0537,4,08:25,MEM,91.0,LAC,108.0,N. Powell,LAC,Powell 3' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,-20,21,3,1,2.0,2.0,v
+S2324-G0537,4,07:20,MEM,93.0,LAC,110.0,N. Powell,LAC,Powell 18' Floating Jump Shot (10 PTS) (Theis 4 AST),Made Shot,Floating Jump shot,92,158,18,1,2.0,2.0,v
+S2324-G0537,4,07:20,MEM,93.0,LAC,111.0,N. Powell,LAC,Powell Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G0537,4,04:13,MEM,,LAC,,N. Powell,LAC,SUB: Miller FOR Powell,Substitution,,0,0,0,0,,,v
+S2324-G0074,1,03:16,LAC,20.0,POR,10.0,N. Powell,LAC,Powell Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0074,1,03:16,LAC,21.0,POR,10.0,N. Powell,LAC,Powell Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0074,1,02:09,LAC,24.0,POR,12.0,N. Powell,LAC,Powell 27' 3PT Jump Shot (5 PTS) (Batum 1 AST),Made Shot,Jump Shot,145,232,27,1,3.0,3.0,h
+S2324-G0074,1,01:37,LAC,,POR,,N. Powell,LAC,MISS Powell 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-184,189,26,1,3.0,0.0,h
+S2324-G0074,1,01:01,LAC,,POR,,N. Powell,LAC,MISS Powell 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-237,93,25,1,3.0,0.0,h
+S2324-G0074,1,00:45.600000,LAC,,POR,,N. Powell,LAC,Powell Step Out of Bounds Turnover (P1.T6),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2324-G0074,2,10:55,LAC,,POR,,N. Powell,LAC,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0074,2,07:21,LAC,,POR,,N. Powell,LAC,SUB: Leonard FOR Powell,Substitution,,0,0,0,0,,,h
+S2324-G0074,3,01:54,LAC,,POR,,N. Powell,LAC,Powell REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0074,3,01:03,LAC,,POR,,N. Powell,LAC,MISS Powell 27' 3PT Jump Shot,Missed Shot,Jump Shot,164,214,27,1,3.0,0.0,h
+S2324-G0074,3,00:50.400000,LAC,,POR,,N. Powell,LAC,Powell REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0074,4,11:27,LAC,102.0,POR,73.0,N. Powell,LAC,Powell 28' 3PT Jump Shot (8 PTS) (Martin Jr. 1 AST),Made Shot,Jump Shot,-22,275,28,1,3.0,3.0,h
+S2324-G0074,4,10:35,LAC,,POR,,N. Powell,LAC,MISS Powell 10' Floating Jump Shot,Missed Shot,Floating Jump shot,-22,101,10,1,2.0,0.0,h
+S2324-G0074,4,08:37,LAC,,POR,,N. Powell,LAC,SUB: Covington FOR Powell,Substitution,,0,0,0,0,,,h
+S2324-G0074,4,04:02,LAC,,POR,,N. Powell,LAC,Powell Out of Bounds - Bad Pass Turnover Turnover (P2.T17),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G0074,4,03:56,LAC,,POR,,N. Powell,LAC,SUB: Miller FOR Powell,Substitution,,0,0,0,0,,,h
+S2324-G0473,1,01:44,PHX,,LAC,,N. Powell,LAC,Powell Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0473,1,00:52.100000,PHX,,LAC,,N. Powell,LAC,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0473,1,00:47.900000,PHX,,LAC,,N. Powell,LAC,MISS Powell 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-145,202,25,1,3.0,0.0,v
+S2324-G0473,2,10:59,PHX,23.0,LAC,37.0,N. Powell,LAC,Powell 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,-31,12,3,1,2.0,2.0,v
+S2324-G0473,2,09:17,PHX,31.0,LAC,42.0,N. Powell,LAC,Powell 26' 3PT Jump Shot (5 PTS) (Coffey 1 AST),Made Shot,Jump Shot,-157,202,26,1,3.0,3.0,v
+S2324-G0473,2,05:42,PHX,,LAC,,N. Powell,LAC,Powell REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0473,2,05:28,PHX,,LAC,,N. Powell,LAC,MISS Powell 25' 3PT Jump Shot,Missed Shot,Jump Shot,-208,146,25,1,3.0,0.0,v
+S2324-G0473,2,04:48,PHX,,LAC,,N. Powell,LAC,SUB: Mann FOR Powell,Substitution,,0,0,0,0,,,v
+S2324-G0473,3,02:16,PHX,,LAC,,N. Powell,LAC,MISS Powell 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-105,1,11,1,2.0,0.0,v
+S2324-G0473,3,00:01.200000,PHX,,LAC,,N. Powell,LAC,Powell S.FOUL (P1.PN) (N.Green),Foul,Shooting,0,0,0,0,,,v
+S2324-G0473,4,09:08,PHX,96.0,LAC,114.0,N. Powell,LAC,Powell 25' 3PT Running Jump Shot (8 PTS) (Harden 10 AST),Made Shot,Running Jump Shot,232,95,25,1,3.0,3.0,v
+S2324-G0473,4,03:50,PHX,110.0,LAC,121.0,N. Powell,LAC,Powell 26' 3PT Jump Shot (11 PTS) (Harden 11 AST),Made Shot,Jump Shot,-11,255,26,1,3.0,3.0,v
+S2324-G0473,4,02:49,PHX,,LAC,,N. Powell,LAC,Powell Out of Bounds Lost Ball Turnover (P2.T13),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2324-G0473,4,00:49.700000,PHX,,LAC,,N. Powell,LAC,Powell Bad Pass Turnover (P3.T14),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0473,4,00:18.600000,PHX,122.0,LAC,131.0,N. Powell,LAC,Powell 1' Layup (13 PTS) (Mann 1 AST),Made Shot,Layup Shot,-5,-1,1,1,2.0,2.0,v
+S2324-G0865,1,02:45,LAC,,WAS,,N. Powell,LAC,MISS Powell 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,38,177,18,1,2.0,0.0,h
+S2324-G0865,1,02:07,LAC,,WAS,,N. Powell,LAC,MISS Powell 2' Driving Layup,Missed Shot,Driving Layup Shot,2,22,2,1,2.0,0.0,h
+S2324-G0865,1,01:40,LAC,,WAS,,N. Powell,LAC,MISS Powell 25' 3PT Jump Shot,Missed Shot,Jump Shot,-146,203,25,1,3.0,0.0,h
+S2324-G0865,2,10:50,LAC,,WAS,,N. Powell,LAC,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0865,2,09:48,LAC,,WAS,,N. Powell,LAC,Powell S.FOUL (P1.T2) (J.Goble),Foul,Shooting,0,0,0,0,,,h
+S2324-G0865,2,06:51,LAC,54.0,WAS,40.0,N. Powell,LAC,Powell 1' Running Alley Oop Dunk Shot (2 PTS) (Coffey 2 AST),Made Shot,Running Alley Oop Dunk Shot,4,10,1,1,2.0,2.0,h
+S2324-G0865,2,06:24,LAC,,WAS,,N. Powell,LAC,Powell STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0865,2,05:25,LAC,,WAS,,N. Powell,LAC,SUB: Leonard FOR Powell,Substitution,,0,0,0,0,,,h
+S2324-G0865,3,02:22,LAC,105.0,WAS,78.0,N. Powell,LAC,Powell 4' Driving Layup (4 PTS) (Plumlee 1 AST),Made Shot,Driving Layup Shot,18,32,4,1,2.0,2.0,h
+S2324-G0865,3,01:03,LAC,,WAS,,N. Powell,LAC,Powell REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0865,4,08:42,LAC,118.0,WAS,93.0,N. Powell,LAC,Powell 26' 3PT Pullup Jump Shot (7 PTS) (Hyland 2 AST),Made Shot,Pullup Jump shot,-157,210,26,1,3.0,3.0,h
+S2324-G0865,4,08:00,LAC,120.0,WAS,98.0,N. Powell,LAC,Powell 4' Driving Reverse Layup (9 PTS) (Hyland 3 AST),Made Shot,Driving Reverse Layup Shot,-18,31,4,1,2.0,2.0,h
+S2324-G0865,4,08:00,LAC,,WAS,,N. Powell,LAC,MISS Powell Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2324-G0865,4,06:50,LAC,,WAS,,N. Powell,LAC,MISS Powell 3PT Jump Shot,Missed Shot,Jump Shot,-227,54,0,1,3.0,0.0,h
+S2324-G0865,4,05:40,LAC,,WAS,,N. Powell,LAC,Powell REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0865,4,05:17,LAC,,WAS,,N. Powell,LAC,SUB: Brown FOR Powell,Substitution,,0,0,0,0,,,h
+S2324-G0873,1,04:38,MIN,23.0,LAC,10.0,N. Powell,LAC,Powell 25' 3PT Running Pull-Up Jump Shot (3 PTS) (Leonard 1 AST),Made Shot,Running Pull-Up Jump Shot,-165,183,25,1,3.0,3.0,v
+S2324-G0873,1,03:53,MIN,23.0,LAC,13.0,N. Powell,LAC,Powell 24' 3PT Jump Shot (6 PTS) (Harden 2 AST),Made Shot,Jump Shot,-173,173,24,1,3.0,3.0,v
+S2324-G0873,1,02:15,MIN,,LAC,,N. Powell,LAC,MISS Powell 3PT Jump Shot,Missed Shot,Jump Shot,233,4,0,1,3.0,0.0,v
+S2324-G0873,1,00:45.500000,MIN,,LAC,,N. Powell,LAC,Powell S.FOUL (P1.PN) (T.Ford),Foul,Shooting,0,0,0,0,,,v
+S2324-G0873,1,00:12.600000,MIN,,LAC,,N. Powell,LAC,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0873,1,00:00.900000,MIN,30.0,LAC,18.0,N. Powell,LAC,Powell 24' 3PT Turnaround Jump Shot (9 PTS),Made Shot,Turnaround Jump Shot,-135,202,24,1,3.0,3.0,v
+S2324-G0873,2,11:45,MIN,30.0,LAC,21.0,N. Powell,LAC,Powell 24' 3PT Jump Shot (12 PTS) (Hyland 1 AST),Made Shot,Jump Shot,45,240,24,1,3.0,3.0,v
+S2324-G0873,2,09:59,MIN,,LAC,,N. Powell,LAC,Powell Traveling Turnover (P1.T5),Turnover,Traveling,0,0,0,0,,,v
+S2324-G0873,2,09:21,MIN,30.0,LAC,28.0,N. Powell,LAC,Powell 6' Driving Floating Jump Shot (14 PTS) (George 1 AST),Made Shot,Driving Floating Jump Shot,9,57,6,1,2.0,2.0,v
+S2324-G0873,2,08:22,MIN,,LAC,,N. Powell,LAC,Powell P.FOUL (P2.T1) (P.Ransom),Foul,Personal,0,0,0,0,,,v
+S2324-G0873,2,08:01,MIN,,LAC,,N. Powell,LAC,MISS Powell 6' Driving Layup,Missed Shot,Driving Layup Shot,49,25,6,1,2.0,0.0,v
+S2324-G0873,2,07:19,MIN,,LAC,,N. Powell,LAC,SUB: Leonard FOR Powell,Substitution,,0,0,0,0,,,v
+S2324-G0873,3,04:10,MIN,,LAC,,N. Powell,LAC,MISS Powell 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-210,137,25,1,3.0,0.0,v
+S2324-G0873,3,01:56,MIN,,LAC,,N. Powell,LAC,Powell S.FOUL (P3.T4) (P.Ransom),Foul,Shooting,0,0,0,0,,,v
+S2324-G0873,3,01:16,MIN,,LAC,,N. Powell,LAC,Powell S.FOUL (P4.PN) (T.Ford),Foul,Shooting,0,0,0,0,,,v
+S2324-G0873,3,01:02,MIN,,LAC,,N. Powell,LAC,MISS Powell 4' Driving Layup,Missed Shot,Driving Layup Shot,38,20,4,1,2.0,0.0,v
+S2324-G0873,3,00:00.300000,MIN,68.0,LAC,67.0,N. Powell,LAC,Powell 26' 3PT Pullup Jump Shot (17 PTS),Made Shot,Pullup Jump shot,-219,141,26,1,3.0,3.0,v
+S2324-G0873,4,09:25,MIN,,LAC,,N. Powell,LAC,Powell REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0873,4,08:43,MIN,73.0,LAC,71.0,N. Powell,LAC,Powell 13' Driving Floating Jump Shot (19 PTS) (Harden 8 AST),Made Shot,Driving Floating Jump Shot,-62,117,13,1,2.0,2.0,v
+S2324-G0873,4,04:45,MIN,78.0,LAC,82.0,N. Powell,LAC,Powell 25' 3PT Jump Shot (22 PTS) (Harden 9 AST),Made Shot,Jump Shot,-197,154,25,1,3.0,3.0,v
+S2324-G0873,4,03:22,MIN,,LAC,,N. Powell,LAC,Powell STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0873,4,03:19,MIN,80.0,LAC,84.0,N. Powell,LAC,Powell Running Dunk (24 PTS),Made Shot,Running Dunk Shot,2,4,0,1,2.0,2.0,v
+S2324-G0873,4,00:57.800000,MIN,,LAC,,N. Powell,LAC,Powell REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0873,4,00:13.100000,MIN,,LAC,,N. Powell,LAC,SUB: Mann FOR Powell,Substitution,,0,0,0,0,,,v
+S2324-G0127,1,04:24,LAL,14.0,LAC,25.0,N. Powell,LAC,Powell 4' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,22,29,4,1,2.0,2.0,v
+S2324-G0127,1,02:34,LAL,,LAC,,N. Powell,LAC,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0127,1,01:58,LAL,,LAC,,N. Powell,LAC,Powell REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0127,1,01:10,LAL,18.0,LAC,37.0,N. Powell,LAC,Powell 2' Running Layup (4 PTS),Made Shot,Running Layup Shot,0,16,2,1,2.0,2.0,v
+S2324-G0127,1,00:10.400000,LAL,,LAC,,N. Powell,LAC,MISS Powell 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,85,250,26,1,3.0,0.0,v
+S2324-G0127,2,10:17,LAL,,LAC,,N. Powell,LAC,MISS Powell 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,107,63,12,1,2.0,0.0,v
+S2324-G0127,2,08:07,LAL,,LAC,,N. Powell,LAC,MISS Powell 2' Running Layup,Missed Shot,Running Layup Shot,13,21,2,1,2.0,0.0,v
+S2324-G0127,2,06:15,LAL,35.0,LAC,48.0,N. Powell,LAC,Powell 5' Driving Floating Jump Shot (6 PTS) (Westbrook 4 AST),Made Shot,Driving Floating Jump Shot,-20,43,5,1,2.0,2.0,v
+S2324-G0127,2,05:36,LAL,,LAC,,N. Powell,LAC,MISS Powell 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-234,-15,0,1,3.0,0.0,v
+S2324-G0127,2,05:24,LAL,,LAC,,N. Powell,LAC,SUB: Hyland FOR Powell,Substitution,,0,0,0,0,,,v
+S2324-G0127,3,05:35,LAL,,LAC,,N. Powell,LAC,Powell S.FOUL (P1.PN) (M.Ervin),Foul,Shooting,0,0,0,0,,,v
+S2324-G0127,3,03:42,LAL,,LAC,,N. Powell,LAC,Powell P.FOUL (P2.PN) (A.Nagy),Foul,Personal,0,0,0,0,,,v
+S2324-G0127,4,09:50,LAL,,LAC,,N. Powell,LAC,MISS Powell 26' 3PT Jump Shot,Missed Shot,Jump Shot,121,226,26,1,3.0,0.0,v
+S2324-G0127,4,09:03,LAL,94.0,LAC,95.0,N. Powell,LAC,Powell 6' Driving Floating Jump Shot (8 PTS) (Hyland 4 AST),Made Shot,Driving Floating Jump Shot,-1,55,6,1,2.0,2.0,v
+S2324-G0127,4,08:26,LAL,,LAC,,N. Powell,LAC,Powell BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0127,4,08:01,LAL,,LAC,,N. Powell,LAC,MISS Powell 12' Floating Jump Shot,Missed Shot,Floating Jump shot,-53,107,12,1,2.0,0.0,v
+S2324-G0127,4,04:54,LAL,,LAC,,N. Powell,LAC,MISS Powell 8' Floating Jump Shot,Missed Shot,Floating Jump shot,-1,84,8,1,2.0,0.0,v
+S2324-G0127,4,04:05,LAL,108.0,LAC,102.0,N. Powell,LAC,Powell 3' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,-5,32,3,1,2.0,2.0,v
+S2324-G0127,4,03:47,LAL,,LAC,,N. Powell,LAC,Powell S.FOUL (P3.PN) (A.Nagy),Foul,Shooting,0,0,0,0,,,v
+S2324-G0127,4,02:01,LAL,113.0,LAC,106.0,N. Powell,LAC,Powell 3' Driving Finger Roll Layup (12 PTS),Made Shot,Driving Finger Roll Layup Shot,-2,33,3,1,2.0,2.0,v
+S2324-G0127,4,00:18.500000,LAL,,LAC,,N. Powell,LAC,Powell Personal Take Foul (P4.PN) (C.Blair),Foul,Personal Take,0,0,0,0,,,v
+S2324-G0127,5,03:37,LAL,,LAC,,N. Powell,LAC,Powell S.FOUL (P5.T2) (A.Nagy),Foul,Shooting,0,0,0,0,,,v
+S2324-G0127,5,03:18,LAL,,LAC,,N. Powell,LAC,MISS Powell 26' 3PT Jump Shot,Missed Shot,Jump Shot,-143,220,26,1,3.0,0.0,v
+S2324-G0127,5,00:47.600000,LAL,,LAC,,N. Powell,LAC,Powell P.FOUL (P6.PN) (C.Blair),Foul,Personal,0,0,0,0,,,v
+S2324-G0127,5,00:47.600000,LAL,,LAC,,N. Powell,LAC,SUB: Hyland FOR Powell,Substitution,,0,0,0,0,,,v
+S2324-G1126,1,02:57,LAC,36.0,UTA,11.0,N. Powell,LAC,Powell 11' Fadeaway Jumper (2 PTS) (Theis 1 AST),Made Shot,Fadeaway Jump Shot,33,107,11,1,2.0,2.0,h
+S2324-G1126,1,01:45,LAC,,UTA,,N. Powell,LAC,Powell Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G1126,1,01:18,LAC,39.0,UTA,15.0,N. Powell,LAC,Powell 3PT Jump Shot (5 PTS) (George 1 AST),Made Shot,Jump Shot,-230,32,0,1,3.0,3.0,h
+S2324-G1126,2,11:26,LAC,,UTA,,N. Powell,LAC,MISS Powell 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,130,257,29,1,3.0,0.0,h
+S2324-G1126,2,10:33,LAC,,UTA,,N. Powell,LAC,Powell STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1126,2,09:50,LAC,,UTA,,N. Powell,LAC,Powell P.FOUL (P1.T2) (M.Lindsay),Foul,Personal,0,0,0,0,,,h
+S2324-G1126,2,07:31,LAC,55.0,UTA,27.0,N. Powell,LAC,Powell Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1126,2,07:31,LAC,56.0,UTA,27.0,N. Powell,LAC,Powell Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1126,2,05:43,LAC,,UTA,,N. Powell,LAC,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1126,2,03:56,LAC,67.0,UTA,33.0,N. Powell,LAC,Powell 28' 3PT Jump Shot (10 PTS) (Harden 8 AST),Made Shot,Jump Shot,146,239,28,1,3.0,3.0,h
+S2324-G1126,2,02:14,LAC,,UTA,,N. Powell,LAC,MISS Powell 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,230,74,24,1,3.0,0.0,h
+S2324-G1126,2,01:13,LAC,75.0,UTA,37.0,N. Powell,LAC,Powell 28' 3PT Running Jump Shot (13 PTS) (Harden 10 AST),Made Shot,Running Jump Shot,-143,237,28,1,3.0,3.0,h
+S2324-G1126,3,04:20,LAC,,UTA,,N. Powell,LAC,MISS Powell 5' Driving Bank Hook Shot,Missed Shot,Driving Bank Hook Shot,38,31,5,1,2.0,0.0,h
+S2324-G1126,3,00:44.400000,LAC,,UTA,,N. Powell,LAC,MISS Powell 5' Driving Layup,Missed Shot,Driving Layup Shot,26,43,5,1,2.0,0.0,h
+S2324-G1126,3,00:36.800000,LAC,,UTA,,N. Powell,LAC,MISS Powell 25' 3PT Jump Shot,Missed Shot,Jump Shot,-219,129,25,1,3.0,0.0,h
+S2324-G1126,3,00:00,LAC,104.0,UTA,79.0,N. Powell,LAC,Powell 25' 3PT Jump Shot (16 PTS) (Westbrook 3 AST),Made Shot,Jump Shot,-217,125,25,1,3.0,3.0,h
+S2324-G1126,4,11:43,LAC,105.0,UTA,79.0,N. Powell,LAC,Powell Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1126,4,11:43,LAC,106.0,UTA,79.0,N. Powell,LAC,Powell Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1126,4,11:33,LAC,,UTA,,N. Powell,LAC,Powell S.FOUL (P2.T1) (J.Schroeder),Foul,Shooting,0,0,0,0,,,h
+S2324-G1126,4,11:08,LAC,,UTA,,N. Powell,LAC,Powell REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1126,4,08:48,LAC,,UTA,,N. Powell,LAC,MISS Powell 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,39,59,7,1,2.0,0.0,h
+S2324-G1126,4,07:51,LAC,,UTA,,N. Powell,LAC,MISS Powell 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-121,255,28,1,3.0,0.0,h
+S2324-G1126,4,07:09,LAC,,UTA,,N. Powell,LAC,SUB: Plumlee FOR Powell,Substitution,,0,0,0,0,,,h
+S2324-G0799,1,04:32,OKC,,LAC,,N. Powell,LAC,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0799,1,03:12,OKC,,LAC,,N. Powell,LAC,Powell Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0799,1,02:57,OKC,,LAC,,N. Powell,LAC,Powell S.FOUL (P1.T2) (J.Goble),Foul,Shooting,0,0,0,0,,,v
+S2324-G0799,1,01:22,OKC,,LAC,,N. Powell,LAC,Powell Lost Ball Turnover (P2.T4),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0799,2,11:01,OKC,,LAC,,N. Powell,LAC,MISS Powell 24' 3PT Jump Shot,Missed Shot,Jump Shot,-147,188,24,1,3.0,0.0,v
+S2324-G0799,2,09:39,OKC,40.0,LAC,35.0,N. Powell,LAC,Powell 6' Driving Floating Bank Jump Shot (2 PTS) (George 2 AST),Made Shot,Driving Floating Bank Jump Shot,-56,4,6,1,2.0,2.0,v
+S2324-G0799,2,09:13,OKC,,LAC,,N. Powell,LAC,Powell BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0799,2,08:13,OKC,41.0,LAC,36.0,N. Powell,LAC,Powell Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0799,2,08:13,OKC,,LAC,,N. Powell,LAC,MISS Powell Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0799,2,07:44,OKC,44.0,LAC,39.0,N. Powell,LAC,Powell 3PT Jump Shot (6 PTS) (Coffey 2 AST),Made Shot,Jump Shot,232,22,0,1,3.0,3.0,v
+S2324-G0799,2,06:38,OKC,44.0,LAC,45.0,N. Powell,LAC,Powell 3PT Jump Shot (9 PTS) (Coffey 3 AST),Made Shot,Jump Shot,-225,-7,0,1,3.0,3.0,v
+S2324-G0799,2,05:11,OKC,,LAC,,N. Powell,LAC,MISS Powell 3PT Jump Shot,Missed Shot,Jump Shot,-229,-22,0,1,3.0,0.0,v
+S2324-G0799,2,04:48,OKC,50.0,LAC,48.0,N. Powell,LAC,Powell 24' 3PT Jump Shot (12 PTS) (Leonard 1 AST),Made Shot,Jump Shot,-232,43,24,1,3.0,3.0,v
+S2324-G0799,2,04:17,OKC,52.0,LAC,50.0,N. Powell,LAC,Powell 14' Pullup Jump Shot (14 PTS) (Leonard 2 AST),Made Shot,Pullup Jump shot,-136,21,14,1,2.0,2.0,v
+S2324-G0799,2,03:06,OKC,,LAC,,N. Powell,LAC,SUB: Coffey FOR Powell,Substitution,,0,0,0,0,,,v
+S2324-G0799,3,01:55,OKC,,LAC,,N. Powell,LAC,MISS Powell 27' 3PT Jump Shot,Missed Shot,Jump Shot,21,268,27,1,3.0,0.0,v
+S2324-G0799,3,01:07,OKC,,LAC,,N. Powell,LAC,Powell REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0799,3,01:05,OKC,,LAC,,N. Powell,LAC,MISS Powell 2' Layup,Missed Shot,Layup Shot,-1,17,2,1,2.0,0.0,v
+S2324-G0799,3,00:20.600000,OKC,96.0,LAC,82.0,N. Powell,LAC,Powell 3PT Jump Shot (17 PTS) (Mann 5 AST),Made Shot,Jump Shot,-232,0,0,1,3.0,3.0,v
+S2324-G0799,4,06:59,OKC,,LAC,,N. Powell,LAC,MISS Powell 3' Driving Layup,Missed Shot,Driving Layup Shot,31,13,3,1,2.0,0.0,v
+S2324-G0799,4,05:24,OKC,111.0,LAC,99.0,N. Powell,LAC,Powell 6' Driving Floating Jump Shot (19 PTS),Made Shot,Driving Floating Jump Shot,5,64,6,1,2.0,2.0,v
+S2324-G0799,4,03:41,OKC,,LAC,,N. Powell,LAC,MISS Powell 24' 3PT Jump Shot,Missed Shot,Jump Shot,-238,-24,24,1,3.0,0.0,v
+S2324-G0799,4,03:33,OKC,,LAC,,N. Powell,LAC,MISS Powell 1' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,4,13,1,1,2.0,0.0,v
+S2324-G0799,4,01:06,OKC,,LAC,,N. Powell,LAC,Powell Backcourt Turnover (P3.T13),Turnover,Backcourt Turnover,0,0,0,0,,,v
+S2324-G0799,4,00:23.600000,OKC,,LAC,,N. Powell,LAC,MISS Powell 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,37,251,25,1,3.0,0.0,v
+S2324-G0486,1,02:19,NOP,24.0,LAC,20.0,N. Powell,LAC,Powell 2' Cutting Layup Shot (2 PTS) (Westbrook 1 AST),Made Shot,Cutting Layup Shot,15,-1,2,1,2.0,2.0,v
+S2324-G0486,1,01:00,NOP,24.0,LAC,26.0,N. Powell,LAC,Powell 26' 3PT Running Jump Shot (5 PTS) (Westbrook 2 AST),Made Shot,Running Jump Shot,-189,174,26,1,3.0,3.0,v
+S2324-G0486,1,00:23.900000,NOP,,LAC,,N. Powell,LAC,MISS Powell 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-129,235,27,1,3.0,0.0,v
+S2324-G0486,2,11:43,NOP,,LAC,,N. Powell,LAC,MISS Powell 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-5,95,10,1,2.0,0.0,v
+S2324-G0486,2,10:37,NOP,,LAC,,N. Powell,LAC,Powell STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0486,2,08:40,NOP,,LAC,,N. Powell,LAC,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0486,2,08:31,NOP,,LAC,,N. Powell,LAC,MISS Powell 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,216,120,25,1,3.0,0.0,v
+S2324-G0486,2,07:59,NOP,,LAC,,N. Powell,LAC,Powell REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0486,2,05:14,NOP,36.0,LAC,40.0,N. Powell,LAC,Powell 6' Driving Floating Jump Shot (7 PTS) (Leonard 2 AST),Made Shot,Driving Floating Jump Shot,-23,54,6,1,2.0,2.0,v
+S2324-G0486,2,02:18,NOP,,LAC,,N. Powell,LAC,MISS Powell 5' Driving Layup,Missed Shot,Driving Layup Shot,36,28,5,1,2.0,0.0,v
+S2324-G0486,3,00:00.900000,NOP,68.0,LAC,92.0,N. Powell,LAC,Powell 3PT Jump Shot (10 PTS) (Harden 13 AST),Made Shot,Jump Shot,-229,24,0,1,3.0,3.0,v
+S2324-G0486,4,11:17,NOP,68.0,LAC,95.0,N. Powell,LAC,Powell 25' 3PT Step Back Jump Shot (13 PTS),Made Shot,Step Back Jump shot,234,73,25,1,3.0,3.0,v
+S2324-G0486,4,09:46,NOP,,LAC,,N. Powell,LAC,MISS Powell 3' Driving Layup,Missed Shot,Driving Layup Shot,26,8,3,1,2.0,0.0,v
+S2324-G0486,4,08:14,NOP,,LAC,,N. Powell,LAC,MISS Powell 25' 3PT Jump Shot,Missed Shot,Jump Shot,9,253,25,1,3.0,0.0,v
+S2324-G0486,4,07:59,NOP,,LAC,,N. Powell,LAC,MISS Powell 2' Driving Layup,Missed Shot,Driving Layup Shot,-17,10,2,1,2.0,0.0,v
+S2324-G0486,4,07:13,NOP,,LAC,,N. Powell,LAC,Powell REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0486,4,06:35,NOP,,LAC,,N. Powell,LAC,MISS Powell 14' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-12,140,14,1,2.0,0.0,v
+S2324-G0486,4,06:29,NOP,,LAC,,N. Powell,LAC,Powell S.FOUL (P1.T2) (R.Mott),Foul,Shooting,0,0,0,0,,,v
+S2324-G0486,4,06:29,NOP,,LAC,,N. Powell,LAC,SUB: Hyland FOR Powell,Substitution,,0,0,0,0,,,v
+S2324-G1043,1,05:08,LAC,18.0,IND,16.0,N. Powell,LAC,Powell 25' 3PT Pullup Jump Shot (3 PTS) (Leonard 1 AST),Made Shot,Pullup Jump shot,-115,220,25,1,3.0,3.0,h
+S2324-G1043,1,04:26,LAC,,IND,,N. Powell,LAC,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1043,1,04:13,LAC,23.0,IND,17.0,N. Powell,LAC,Powell 28' 3PT Jump Shot (6 PTS) (Leonard 2 AST),Made Shot,Jump Shot,-88,264,28,1,3.0,3.0,h
+S2324-G1043,1,03:00,LAC,26.0,IND,20.0,N. Powell,LAC,Powell Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1043,1,03:00,LAC,27.0,IND,20.0,N. Powell,LAC,Powell Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1043,1,01:02,LAC,,IND,,N. Powell,LAC,MISS Powell 26' 3PT Jump Shot,Missed Shot,Jump Shot,58,252,26,1,3.0,0.0,h
+S2324-G1043,2,09:21,LAC,42.0,IND,40.0,N. Powell,LAC,Powell 2' Driving Layup (10 PTS) (Westbrook 4 AST),Made Shot,Driving Layup Shot,-9,16,2,1,2.0,2.0,h
+S2324-G1043,2,06:57,LAC,,IND,,N. Powell,LAC,Powell S.FOUL (P1.T2) (J.Capers),Foul,Shooting,0,0,0,0,,,h
+S2324-G1043,2,06:33,LAC,,IND,,N. Powell,LAC,SUB: Leonard FOR Powell,Substitution,,0,0,0,0,,,h
+S2324-G1043,3,07:22,LAC,,IND,,N. Powell,LAC,Powell REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1043,3,07:16,LAC,73.0,IND,80.0,N. Powell,LAC,Powell 14' Step Back Jump Shot (12 PTS),Made Shot,Step Back Jump shot,67,127,14,1,2.0,2.0,h
+S2324-G1043,3,04:52,LAC,,IND,,N. Powell,LAC,Powell Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G1043,3,04:47,LAC,,IND,,N. Powell,LAC,Powell P.FOUL (P2.T4) (J.Capers),Foul,Personal,0,0,0,0,,,h
+S2324-G1043,3,03:44,LAC,,IND,,N. Powell,LAC,MISS Powell 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-26,40,5,1,2.0,0.0,h
+S2324-G1043,3,01:30,LAC,86.0,IND,93.0,N. Powell,LAC,Powell 4' Driving Floating Bank Jump Shot (14 PTS) (Westbrook 6 AST),Made Shot,Driving Floating Bank Jump Shot,36,26,4,1,2.0,2.0,h
+S2324-G1043,4,11:13,LAC,,IND,,N. Powell,LAC,MISS Powell 17' Step Back Jump Shot,Missed Shot,Step Back Jump shot,13,172,17,1,2.0,0.0,h
+S2324-G1043,4,08:13,LAC,,IND,,N. Powell,LAC,MISS Powell 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,49,261,27,1,3.0,0.0,h
+S2324-G1043,4,07:54,LAC,97.0,IND,115.0,N. Powell,LAC,Powell 16' Step Back Jump Shot (16 PTS) (Coffey 1 AST),Made Shot,Step Back Jump shot,156,53,16,1,2.0,2.0,h
+S2324-G1043,4,05:58,LAC,100.0,IND,122.0,N. Powell,LAC,Powell Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1043,4,05:58,LAC,101.0,IND,122.0,N. Powell,LAC,Powell Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1043,4,05:31,LAC,,IND,,N. Powell,LAC,Powell REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1043,4,02:13,LAC,,IND,,N. Powell,LAC,MISS Powell 25' 3PT Jump Shot,Missed Shot,Jump Shot,-246,-12,25,1,3.0,0.0,h
+S2324-G1043,4,01:41,LAC,114.0,IND,131.0,N. Powell,LAC,Powell 1' Driving Layup (20 PTS) (Moon 1 AST),Made Shot,Driving Layup Shot,5,3,1,1,2.0,2.0,h
+S2324-G1043,4,00:49.400000,LAC,116.0,IND,133.0,N. Powell,LAC,Powell 3' Running Layup (22 PTS) (Moon 2 AST),Made Shot,Running Layup Shot,4,30,3,1,2.0,2.0,h
+S2324-G1079,1,01:42,CHA,19.0,LAC,25.0,N. Powell,LAC,Powell 24' 3PT Jump Shot (3 PTS) (Westbrook 1 AST),Made Shot,Jump Shot,238,17,24,1,3.0,3.0,v
+S2324-G1079,2,10:25,CHA,,LAC,,N. Powell,LAC,MISS Powell 8' Floating Jump Shot,Missed Shot,Floating Jump shot,1,78,8,1,2.0,0.0,v
+S2324-G1079,2,07:41,CHA,,LAC,,N. Powell,LAC,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1079,2,07:32,CHA,,LAC,,N. Powell,LAC,MISS Powell 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,233,101,25,1,3.0,0.0,v
+S2324-G1079,2,07:06,CHA,,LAC,,N. Powell,LAC,MISS Powell 2' Driving Layup,Missed Shot,Driving Layup Shot,6,15,2,1,2.0,0.0,v
+S2324-G1079,2,05:39,CHA,,LAC,,N. Powell,LAC,SUB: Zubac FOR Powell,Substitution,,0,0,0,0,,,v
+S2324-G1079,2,01:11,CHA,,LAC,,N. Powell,LAC,MISS Powell 3PT Jump Shot,Missed Shot,Jump Shot,-222,2,0,1,3.0,0.0,v
+S2324-G1079,2,00:15.700000,CHA,55.0,LAC,66.0,N. Powell,LAC,Powell Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1079,2,00:15.700000,CHA,55.0,LAC,67.0,N. Powell,LAC,Powell Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1079,3,01:46,CHA,,LAC,,N. Powell,LAC,MISS Powell 26' 3PT Jump Shot,Missed Shot,Jump Shot,142,221,26,1,3.0,0.0,v
+S2324-G1079,4,10:05,CHA,84.0,LAC,100.0,N. Powell,LAC,Powell 12' Pullup Jump Shot (7 PTS) (Coffey 2 AST),Made Shot,Pullup Jump shot,119,19,12,1,2.0,2.0,v
+S2324-G1079,4,10:05,CHA,84.0,LAC,101.0,N. Powell,LAC,Powell Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G1079,4,09:12,CHA,87.0,LAC,104.0,N. Powell,LAC,Powell Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1079,4,09:12,CHA,87.0,LAC,105.0,N. Powell,LAC,Powell Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1079,4,08:46,CHA,,LAC,,N. Powell,LAC,MISS Powell 21' Jump Shot,Missed Shot,Jump Shot,-136,159,21,1,2.0,0.0,v
+S2324-G1079,4,05:54,CHA,,LAC,,N. Powell,LAC,Powell S.FOUL (P1.T3) (M.Smith),Foul,Shooting,0,0,0,0,,,v
+S2324-G1079,4,05:37,CHA,102.0,LAC,111.0,N. Powell,LAC,Powell 9' Turnaround Hook Shot (12 PTS),Made Shot,Turnaround Hook Shot,60,66,9,1,2.0,2.0,v
+S2324-G1079,4,04:19,CHA,105.0,LAC,114.0,N. Powell,LAC,Powell Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1079,4,04:19,CHA,,LAC,,N. Powell,LAC,MISS Powell Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G1079,4,03:45,CHA,107.0,LAC,117.0,N. Powell,LAC,Powell 3PT Jump Shot (16 PTS) (Harden 9 AST),Made Shot,Jump Shot,224,68,0,1,3.0,3.0,v
+S2324-G1079,4,03:14,CHA,,LAC,,N. Powell,LAC,MISS Powell 1' Driving Dunk,Missed Shot,Driving Dunk Shot,1,13,1,1,2.0,0.0,v
+S2324-G1215,1,02:04,LAC,,DEN,,N. Powell,LAC,MISS Powell 25' 3PT Jump Shot,Missed Shot,Jump Shot,-248,-10,25,1,3.0,0.0,h
+S2324-G1215,1,01:10,LAC,20.0,DEN,34.0,N. Powell,LAC,Powell Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1215,1,01:10,LAC,21.0,DEN,34.0,N. Powell,LAC,Powell Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1215,1,00:00.700000,LAC,,DEN,,N. Powell,LAC,MISS Powell 30' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-114,273,30,1,3.0,0.0,h
+S2324-G1215,2,11:11,LAC,,DEN,,N. Powell,LAC,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1215,2,10:41,LAC,,DEN,,N. Powell,LAC,MISS Powell 5' Driving Layup,Missed Shot,Driving Layup Shot,-16,48,5,1,2.0,0.0,h
+S2324-G1215,2,10:38,LAC,,DEN,,N. Powell,LAC,Jump Ball Powell vs. Braun: Tip to Theis,Jump Ball,,0,0,0,0,,,h
+S2324-G1215,2,08:35,LAC,34.0,DEN,42.0,N. Powell,LAC,Powell 24' 3PT Step Back Jump Shot (5 PTS) (Harden 6 AST),Made Shot,Step Back Jump shot,238,50,24,1,3.0,3.0,h
+S2324-G1215,2,07:42,LAC,38.0,DEN,44.0,N. Powell,LAC,Powell Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1215,2,07:42,LAC,39.0,DEN,44.0,N. Powell,LAC,Powell Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1215,2,07:21,LAC,41.0,DEN,44.0,N. Powell,LAC,Powell 3' Running Layup (9 PTS),Made Shot,Running Layup Shot,-28,0,3,1,2.0,2.0,h
+S2324-G1215,2,03:59,LAC,51.0,DEN,48.0,N. Powell,LAC,Powell 8' Floating Jump Shot (11 PTS) (Harden 8 AST),Made Shot,Floating Jump shot,1,79,8,1,2.0,2.0,h
+S2324-G1215,2,02:03,LAC,57.0,DEN,48.0,N. Powell,LAC,Powell 12' Running Layup (13 PTS),Made Shot,Running Layup Shot,113,22,12,1,2.0,2.0,h
+S2324-G1215,2,00:07.400000,LAC,,DEN,,N. Powell,LAC,SUB: George FOR Powell,Substitution,,0,0,0,0,,,h
+S2324-G1215,3,02:29,LAC,,DEN,,N. Powell,LAC,Powell STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1215,3,01:55,LAC,,DEN,,N. Powell,LAC,Powell REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1215,3,01:47,LAC,,DEN,,N. Powell,LAC,MISS Powell 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-18,53,6,1,2.0,0.0,h
+S2324-G1215,3,00:01.400000,LAC,,DEN,,N. Powell,LAC,MISS Powell 17' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-68,154,17,1,2.0,0.0,h
+S2324-G1215,4,11:26,LAC,,DEN,,N. Powell,LAC,MISS Powell 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-42,67,8,1,2.0,0.0,h
+S2324-G1215,4,10:53,LAC,,DEN,,N. Powell,LAC,Powell REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1215,4,08:16,LAC,,DEN,,N. Powell,LAC,MISS Powell 3' Driving Dunk,Missed Shot,Driving Dunk Shot,-5,28,3,1,2.0,0.0,h
+S2324-G1215,4,07:36,LAC,,DEN,,N. Powell,LAC,Powell REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1215,4,07:29,LAC,92.0,DEN,89.0,N. Powell,LAC,Powell 2' Running Finger Roll Layup (15 PTS),Made Shot,Running Finger Roll Layup Shot,12,21,2,1,2.0,2.0,h
+S2324-G1215,4,06:06,LAC,,DEN,,N. Powell,LAC,Powell Traveling Turnover (P1.T10),Turnover,Traveling,0,0,0,0,,,h
+S2324-G1215,4,00:21.700000,LAC,110.0,DEN,102.0,N. Powell,LAC,Powell Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1215,4,00:21.700000,LAC,111.0,DEN,102.0,N. Powell,LAC,Powell Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1215,4,00:10.100000,LAC,,DEN,,N. Powell,LAC,Powell REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0280,2,11:30,LAC,24.0,GSW,34.0,N. Powell,LAC,Powell 14' Pullup Jump Shot (2 PTS) (Zubac 1 AST),Made Shot,Pullup Jump shot,69,126,14,1,2.0,2.0,h
+S2324-G0280,2,11:06,LAC,,GSW,,N. Powell,LAC,MISS Powell 15' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,152,17,15,1,2.0,0.0,h
+S2324-G0280,2,07:38,LAC,36.0,GSW,44.0,N. Powell,LAC,Powell 26' 3PT Jump Shot (5 PTS) (Mann 1 AST),Made Shot,Jump Shot,-189,178,26,1,3.0,3.0,h
+S2324-G0280,2,06:54,LAC,,GSW,,N. Powell,LAC,MISS Powell 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-53,-1,5,1,2.0,0.0,h
+S2324-G0280,2,06:51,LAC,,GSW,,N. Powell,LAC,Powell REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0280,2,06:50,LAC,,GSW,,N. Powell,LAC,Powell Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0280,2,02:51,LAC,44.0,GSW,55.0,N. Powell,LAC,Powell Running Layup (7 PTS) (Theis 1 AST),Made Shot,Running Layup Shot,-2,0,0,1,2.0,2.0,h
+S2324-G0280,2,02:33,LAC,,GSW,,N. Powell,LAC,MISS Powell 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-240,4,24,1,3.0,0.0,h
+S2324-G0280,2,01:26,LAC,,GSW,,N. Powell,LAC,Powell Out of Bounds Lost Ball Turnover (P2.T5),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2324-G0280,2,00:27.100000,LAC,,GSW,,N. Powell,LAC,MISS Powell 17' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-132,106,17,1,2.0,0.0,h
+S2324-G0280,3,08:38,LAC,,GSW,,N. Powell,LAC,Powell S.FOUL (P1.T2) (L.Wood),Foul,Shooting,0,0,0,0,,,h
+S2324-G0280,3,08:19,LAC,60.0,GSW,77.0,N. Powell,LAC,Powell 2' Cutting Layup Shot (9 PTS) (George 3 AST),Made Shot,Cutting Layup Shot,22,8,2,1,2.0,2.0,h
+S2324-G0280,3,01:16,LAC,,GSW,,N. Powell,LAC,MISS Powell 28' 3PT Jump Shot,Missed Shot,Jump Shot,174,218,28,1,3.0,0.0,h
+S2324-G0280,3,01:01,LAC,83.0,GSW,87.0,N. Powell,LAC,Powell 3PT Jump Shot (12 PTS) (Westbrook 1 AST),Made Shot,Jump Shot,225,14,0,1,3.0,3.0,h
+S2324-G0280,3,00:00.200000,LAC,,GSW,,N. Powell,LAC,MISS Powell 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-12,36,4,1,2.0,0.0,h
+S2324-G0280,4,03:16,LAC,,GSW,,N. Powell,LAC,MISS Powell 3PT Jump Shot,Missed Shot,Jump Shot,-229,-12,0,1,3.0,0.0,h
+S2324-G0280,4,01:42,LAC,,GSW,,N. Powell,LAC,SUB: Mann FOR Powell,Substitution,,0,0,0,0,,,h
+S2324-G0280,4,00:38.100000,LAC,,GSW,,N. Powell,LAC,SUB: Zubac FOR Powell,Substitution,,0,0,0,0,,,h
+S2324-G1184,1,02:38,LAC,,UTA,,N. Powell,LAC,MISS Powell 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,129,236,27,1,3.0,0.0,h
+S2324-G1184,1,01:06,LAC,35.0,UTA,23.0,N. Powell,LAC,Powell 4' Driving Reverse Layup (2 PTS) (Hyland 1 AST),Made Shot,Driving Reverse Layup Shot,37,20,4,1,2.0,2.0,h
+S2324-G1184,1,00:28,LAC,,UTA,,N. Powell,LAC,MISS Powell 3PT Jump Shot,Missed Shot,Jump Shot,-227,39,0,1,3.0,0.0,h
+S2324-G1184,2,08:48,LAC,,UTA,,N. Powell,LAC,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1184,2,08:44,LAC,,UTA,,N. Powell,LAC,MISS Powell 16' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-72,143,16,1,2.0,0.0,h
+S2324-G1184,2,08:19,LAC,45.0,UTA,42.0,N. Powell,LAC,Powell 5' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,25,46,5,1,2.0,2.0,h
+S2324-G1184,2,06:57,LAC,,UTA,,N. Powell,LAC,MISS Powell 5' Driving Layup,Missed Shot,Driving Layup Shot,17,42,5,1,2.0,0.0,h
+S2324-G1184,2,02:24,LAC,,UTA,,N. Powell,LAC,MISS Powell 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-154,212,26,1,3.0,0.0,h
+S2324-G0264,1,02:39,SAC,,LAC,,N. Powell,LAC,Powell S.FOUL (P1.T3) (D.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2324-G0264,1,01:00,SAC,21.0,LAC,29.0,N. Powell,LAC,Powell 25' 3PT Jump Shot (3 PTS) (Westbrook 1 AST),Made Shot,Jump Shot,-97,231,25,1,3.0,3.0,v
+S2324-G0264,2,11:47,SAC,,LAC,,N. Powell,LAC,MISS Powell 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,55,115,13,1,2.0,0.0,v
+S2324-G0264,2,10:11,SAC,,LAC,,N. Powell,LAC,MISS Powell 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,55,56,8,1,2.0,0.0,v
+S2324-G0264,2,09:57,SAC,,LAC,,N. Powell,LAC,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0264,2,09:06,SAC,,LAC,,N. Powell,LAC,MISS Powell 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-114,47,12,1,2.0,0.0,v
+S2324-G0264,2,08:50,SAC,,LAC,,N. Powell,LAC,SUB: Mann FOR Powell,Substitution,,0,0,0,0,,,v
+S2324-G0264,3,01:05,SAC,,LAC,,N. Powell,LAC,MISS Powell 3PT Jump Shot,Missed Shot,Jump Shot,230,17,0,1,3.0,0.0,v
+S2324-G0264,3,00:09.200000,SAC,,LAC,,N. Powell,LAC,SUB: Mann FOR Powell,Substitution,,0,0,0,0,,,v
+S2324-G0264,4,09:14,SAC,,LAC,,N. Powell,LAC,MISS Powell 14' Floating Jump Shot,Missed Shot,Floating Jump shot,-118,74,14,1,2.0,0.0,v
+S2324-G0264,4,08:55,SAC,,LAC,,N. Powell,LAC,SUB: Harden FOR Powell,Substitution,,0,0,0,0,,,v
+S2324-G0458,1,03:37,LAC,19.0,MIA,20.0,N. Powell,LAC,Powell 3PT Jump Shot (3 PTS) (George 1 AST),Made Shot,Jump Shot,-224,16,0,1,3.0,3.0,h
+S2324-G0458,1,03:22,LAC,,MIA,,N. Powell,LAC,Powell STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0458,1,03:17,LAC,,MIA,,N. Powell,LAC,Powell Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0458,1,02:39,LAC,,MIA,,N. Powell,LAC,Powell S.FOUL (P1.T2) (D.Richardson),Foul,Shooting,0,0,0,0,,,h
+S2324-G0458,1,00:57.300000,LAC,,MIA,,N. Powell,LAC,Powell P.FOUL (P2.T4) (E.Malloy),Foul,Personal,0,0,0,0,,,h
+S2324-G0458,2,11:35,LAC,25.0,MIA,35.0,N. Powell,LAC,Powell 6' Driving Floating Jump Shot (5 PTS) (Harden 1 AST),Made Shot,Driving Floating Jump Shot,18,62,6,1,2.0,2.0,h
+S2324-G0458,2,09:25,LAC,30.0,MIA,41.0,N. Powell,LAC,Powell 3PT Jump Shot (8 PTS) (Coffey 1 AST),Made Shot,Jump Shot,227,15,0,1,3.0,3.0,h
+S2324-G0458,2,07:23,LAC,,MIA,,N. Powell,LAC,MISS Powell 26' 3PT Jump Shot,Missed Shot,Jump Shot,-147,215,26,1,3.0,0.0,h
+S2324-G0458,2,04:31,LAC,46.0,MIA,48.0,N. Powell,LAC,Powell 24' 3PT Jump Shot (11 PTS) (Leonard 2 AST),Made Shot,Jump Shot,230,53,24,1,3.0,3.0,h
+S2324-G0458,2,01:08,LAC,56.0,MIA,58.0,N. Powell,LAC,Powell 3PT Jump Shot (14 PTS) (George 2 AST),Made Shot,Jump Shot,-227,0,0,1,3.0,3.0,h
+S2324-G0458,2,00:48.700000,LAC,,MIA,,N. Powell,LAC,Powell STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0458,3,04:06,LAC,,MIA,,N. Powell,LAC,MISS Powell 5' Running Layup,Missed Shot,Running Layup Shot,-22,41,5,1,2.0,0.0,h
+S2324-G0458,3,00:27.200000,LAC,95.0,MIA,85.0,N. Powell,LAC,Powell 5' Driving Hook Shot (16 PTS) (Leonard 4 AST),Made Shot,Driving Hook Shot,23,48,5,1,2.0,2.0,h
+S2324-G0458,4,10:15,LAC,,MIA,,N. Powell,LAC,Powell S.FOUL (P3.T2) (M.Smith),Foul,Shooting,0,0,0,0,,,h
+S2324-G0458,4,09:34,LAC,,MIA,,N. Powell,LAC,Powell P.FOUL (P4.T3) (D.Richardson),Foul,Personal,0,0,0,0,,,h
+S2324-G0458,4,09:03,LAC,103.0,MIA,90.0,N. Powell,LAC,Powell 20' Pullup Jump Shot (18 PTS) (Leonard 5 AST),Made Shot,Pullup Jump shot,-29,199,20,1,2.0,2.0,h
+S2324-G0458,4,07:19,LAC,108.0,MIA,94.0,N. Powell,LAC,Powell 2' Cutting Dunk Shot (20 PTS) (Harden 8 AST),Made Shot,Cutting Dunk Shot,-6,18,2,1,2.0,2.0,h
+S2324-G0458,4,05:57,LAC,,MIA,,N. Powell,LAC,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0458,4,05:27,LAC,112.0,MIA,94.0,N. Powell,LAC,Powell 7' Driving Floating Jump Shot (22 PTS),Made Shot,Driving Floating Jump Shot,-65,17,7,1,2.0,2.0,h
+S2324-G0458,4,03:33,LAC,,MIA,,N. Powell,LAC,Powell REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0458,4,02:55,LAC,,MIA,,N. Powell,LAC,SUB: Brown FOR Powell,Substitution,,0,0,0,0,,,h
+S2324-G1064,1,03:46,ORL,,LAC,,N. Powell,LAC,Powell S.FOUL (P1.T1) (M.Myers),Foul,Shooting,0,0,0,0,,,v
+S2324-G1064,1,02:26,ORL,19.0,LAC,20.0,N. Powell,LAC,Powell 11' Driving Floating Jump Shot (2 PTS) (Leonard 3 AST),Made Shot,Driving Floating Jump Shot,-4,111,11,1,2.0,2.0,v
+S2324-G1064,1,01:34,ORL,19.0,LAC,22.0,N. Powell,LAC,Powell 2' Running Layup (4 PTS) (Westbrook 1 AST),Made Shot,Running Layup Shot,16,9,2,1,2.0,2.0,v
+S2324-G1064,1,01:06,ORL,,LAC,,N. Powell,LAC,MISS Powell 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-118,66,14,1,2.0,0.0,v
+S2324-G1064,2,11:04,ORL,,LAC,,N. Powell,LAC,Powell P.FOUL (P2.T1) (G.Petraitis),Foul,Personal,0,0,0,0,,,v
+S2324-G1064,2,10:37,ORL,24.0,LAC,30.0,N. Powell,LAC,Powell 9' Turnaround Jump Shot (6 PTS),Made Shot,Turnaround Jump Shot,-31,85,9,1,2.0,2.0,v
+S2324-G1064,2,06:49,ORL,37.0,LAC,41.0,N. Powell,LAC,Powell 3' Driving Layup (8 PTS) (Zubac 2 AST),Made Shot,Driving Layup Shot,-25,11,3,1,2.0,2.0,v
+S2324-G1064,2,05:51,ORL,,LAC,,N. Powell,LAC,SUB: Leonard FOR Powell,Substitution,,0,0,0,0,,,v
+S2324-G1064,3,03:43,ORL,,LAC,,N. Powell,LAC,MISS Powell 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-229,49,0,1,3.0,0.0,v
+S2324-G1064,3,01:53,ORL,71.0,LAC,75.0,N. Powell,LAC,Powell 15' Pullup Jump Shot (10 PTS) (Leonard 4 AST),Made Shot,Pullup Jump shot,-50,137,15,1,2.0,2.0,v
+S2324-G1064,4,10:10,ORL,,LAC,,N. Powell,LAC,Powell BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G1064,4,07:21,ORL,,LAC,,N. Powell,LAC,MISS Powell 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,6,104,10,1,2.0,0.0,v
+S2324-G1064,4,04:43,ORL,,LAC,,N. Powell,LAC,Powell Lost Ball Turnover (P1.T16),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G1064,4,00:05.100000,ORL,,LAC,,N. Powell,LAC,SUB: Coffey FOR Powell,Substitution,,0,0,0,0,,,v
+S2324-G0618,1,04:41,LAC,,LAL,,N. Powell,LAC,MISS Powell 5' Floating Jump Shot,Missed Shot,Floating Jump shot,0,46,5,1,2.0,0.0,h
+S2324-G0618,1,03:24,LAC,25.0,LAL,20.0,N. Powell,LAC,Powell 2' Running Layup (2 PTS),Made Shot,Running Layup Shot,-12,19,2,1,2.0,2.0,h
+S2324-G0618,1,01:36,LAC,,LAL,,N. Powell,LAC,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0618,1,01:32,LAC,,LAL,,N. Powell,LAC,MISS Powell 2' Running Layup,Missed Shot,Running Layup Shot,11,17,2,1,2.0,0.0,h
+S2324-G0618,1,01:29,LAC,,LAL,,N. Powell,LAC,MISS Powell 20' Jump Shot,Missed Shot,Jump Shot,-123,153,20,1,2.0,0.0,h
+S2324-G0618,2,11:15,LAC,39.0,LAL,29.0,N. Powell,LAC,Powell 9' Driving Floating Jump Shot (4 PTS) (Theis 1 AST),Made Shot,Driving Floating Jump Shot,54,73,9,1,2.0,2.0,h
+S2324-G0618,2,10:43,LAC,,LAL,,N. Powell,LAC,MISS Powell 25' 3PT Jump Shot,Missed Shot,Jump Shot,-146,209,25,1,3.0,0.0,h
+S2324-G0618,2,09:46,LAC,44.0,LAL,33.0,N. Powell,LAC,Powell 7' Driving Floating Bank Jump Shot (6 PTS),Made Shot,Driving Floating Bank Jump Shot,-61,36,7,1,2.0,2.0,h
+S2324-G0618,2,08:40,LAC,49.0,LAL,40.0,N. Powell,LAC,Powell 11' Fadeaway Jumper (8 PTS) (Harden 3 AST),Made Shot,Fadeaway Jump Shot,37,104,11,1,2.0,2.0,h
+S2324-G0618,2,07:11,LAC,,LAL,,N. Powell,LAC,SUB: George FOR Powell,Substitution,,0,0,0,0,,,h
+S2324-G0618,3,04:19,LAC,,LAL,,N. Powell,LAC,Powell REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0618,3,00:43.100000,LAC,,LAL,,N. Powell,LAC,MISS Powell 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-33,259,26,1,3.0,0.0,h
+S2324-G0618,4,11:48,LAC,,LAL,,N. Powell,LAC,Powell Out of Bounds Lost Ball Turnover (P1.T9),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2324-G0618,4,11:27,LAC,,LAL,,N. Powell,LAC,Powell BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0618,4,08:24,LAC,110.0,LAL,106.0,N. Powell,LAC,Powell 3' Driving Layup (10 PTS) (Harden 10 AST),Made Shot,Driving Layup Shot,-5,32,3,1,2.0,2.0,h
+S2324-G0618,4,07:02,LAC,113.0,LAL,108.0,N. Powell,LAC,Powell 25' 3PT Jump Shot (13 PTS) (Leonard 7 AST),Made Shot,Jump Shot,234,101,25,1,3.0,3.0,h
+S2324-G0618,4,06:46,LAC,,LAL,,N. Powell,LAC,Powell BLOCK (2 BLK),,,0,0,0,0,,,h
+S2324-G0618,4,05:38,LAC,117.0,LAL,108.0,N. Powell,LAC,Powell 4' Driving Floating Bank Jump Shot (15 PTS) (Leonard 9 AST),Made Shot,Driving Floating Bank Jump Shot,-23,29,4,1,2.0,2.0,h
+S2324-G0618,4,02:09,LAC,,LAL,,N. Powell,LAC,Powell REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0618,4,01:59,LAC,,LAL,,N. Powell,LAC,MISS Powell 27' 3PT Jump Shot,Missed Shot,Jump Shot,110,244,27,1,3.0,0.0,h
+S2324-G0618,4,01:46,LAC,,LAL,,N. Powell,LAC,Powell REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0618,4,01:16,LAC,,LAL,,N. Powell,LAC,Powell REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0618,4,00:20.700000,LAC,127.0,LAL,116.0,N. Powell,LAC,Powell 3' Driving Layup (17 PTS) (Mann 1 AST),Made Shot,Driving Layup Shot,27,21,3,1,2.0,2.0,h
+S2324-G0024,1,04:04,DEN,,LAC,,N. Powell,LAC,Powell S.FOUL (P1.T3) (M.Boland),Foul,Shooting,0,0,0,0,,,v
+S2324-G0024,1,03:49,DEN,,LAC,,N. Powell,LAC,MISS Powell 9' Floating Jump Shot,Missed Shot,Floating Jump shot,21,88,9,1,2.0,0.0,v
+S2324-G0024,1,00:44.800000,DEN,,LAC,,N. Powell,LAC,MISS Powell 25' 3PT Jump Shot,Missed Shot,Jump Shot,-146,201,25,1,3.0,0.0,v
+S2324-G0024,1,00:01.200000,DEN,28.0,LAC,26.0,N. Powell,LAC,Powell Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0024,1,00:01.200000,DEN,,LAC,,N. Powell,LAC,MISS Powell Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0024,2,10:03,DEN,,LAC,,N. Powell,LAC,Powell P.FOUL (P2.T1) (M.Boland),Foul,Personal,0,0,0,0,,,v
+S2324-G0024,2,08:23,DEN,,LAC,,N. Powell,LAC,Powell S.FOUL (P3.T2) (J.Tiven),Foul,Shooting,0,0,0,0,,,v
+S2324-G0024,2,08:23,DEN,,LAC,,N. Powell,LAC,SUB: Tucker FOR Powell,Substitution,,0,0,0,0,,,v
+S2324-G0024,2,02:14,DEN,54.0,LAC,42.0,N. Powell,LAC,Powell Free Throw 1 of 3 (2 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,v
+S2324-G0024,2,02:14,DEN,54.0,LAC,43.0,N. Powell,LAC,Powell Free Throw 2 of 3 (3 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,v
+S2324-G0024,2,02:14,DEN,54.0,LAC,44.0,N. Powell,LAC,Powell Free Throw 3 of 3 (4 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,v
+S2324-G0024,2,01:57,DEN,56.0,LAC,46.0,N. Powell,LAC,Powell 12' Pullup Jump Shot (6 PTS) (George 2 AST),Made Shot,Pullup Jump shot,-116,25,12,1,2.0,2.0,v
+S2324-G0024,2,01:02,DEN,,LAC,,N. Powell,LAC,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0024,3,05:07,DEN,70.0,LAC,67.0,N. Powell,LAC,Powell 24' 3PT Jump Shot (9 PTS) (Harden 2 AST),Made Shot,Jump Shot,232,51,24,1,3.0,3.0,v
+S2324-G0024,3,03:49,DEN,,LAC,,N. Powell,LAC,MISS Powell 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-154,6,15,1,2.0,0.0,v
+S2324-G0024,3,01:40,DEN,79.0,LAC,77.0,N. Powell,LAC,Powell 2' Cutting Layup Shot (11 PTS) (Harden 4 AST),Made Shot,Cutting Layup Shot,7,17,2,1,2.0,2.0,v
+S2324-G0024,3,00:31.400000,DEN,,LAC,,N. Powell,LAC,SUB: Westbrook FOR Powell,Substitution,,0,0,0,0,,,v
+S2324-G0024,4,08:30,DEN,,LAC,,N. Powell,LAC,SUB: Leonard FOR Powell,Substitution,,0,0,0,0,,,v
+S2324-G0024,4,03:24,DEN,98.0,LAC,102.0,N. Powell,LAC,Powell 24' 3PT Jump Shot (14 PTS) (Mann 5 AST),Made Shot,Jump Shot,233,55,24,1,3.0,3.0,v
+S2324-G0024,4,01:37,DEN,,LAC,,N. Powell,LAC,Powell S.FOUL (P4.PN) (M.Boland),Foul,Shooting,0,0,0,0,,,v
+S2324-G0024,4,01:21,DEN,,LAC,,N. Powell,LAC,SUB: Tucker FOR Powell,Substitution,,0,0,0,0,,,v
+S2324-G0024,4,00:13,DEN,,LAC,,N. Powell,LAC,Powell P.FOUL (P5.PN) (J.Tiven),Foul,Personal,0,0,0,0,,,v
+S2324-G0024,4,00:13,DEN,,LAC,,N. Powell,LAC,SUB: Zubac FOR Powell,Substitution,,0,0,0,0,,,v
+S2324-G0511,2,11:14,LAC,,PHX,,N. Powell,LAC,MISS Powell 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-197,161,25,1,3.0,0.0,h
+S2324-G0511,2,10:27,LAC,,PHX,,N. Powell,LAC,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0511,2,04:26,LAC,56.0,PHX,53.0,N. Powell,LAC,Powell 26' 3PT Jump Shot (3 PTS) (Mann 2 AST),Made Shot,Jump Shot,181,187,26,1,3.0,3.0,h
+S2324-G0511,2,04:06,LAC,,PHX,,N. Powell,LAC,Powell REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0511,2,03:20,LAC,,PHX,,N. Powell,LAC,SUB: Leonard FOR Powell,Substitution,,0,0,0,0,,,h
+S2324-G0511,2,01:00,LAC,,PHX,,N. Powell,LAC,Powell Lost Ball Turnover (P1.T8),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0511,2,00:45.400000,LAC,71.0,PHX,63.0,N. Powell,LAC,Powell 15' Pullup Jump Shot (5 PTS) (Zubac 2 AST),Made Shot,Pullup Jump shot,-127,75,15,1,2.0,2.0,h
+S2324-G0511,3,03:12,LAC,,PHX,,N. Powell,LAC,MISS Powell 6' Running Dunk,Missed Shot,Running Dunk Shot,-6,57,6,1,2.0,0.0,h
+S2324-G0511,3,02:28,LAC,92.0,PHX,79.0,N. Powell,LAC,Powell Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0511,3,02:28,LAC,93.0,PHX,79.0,N. Powell,LAC,Powell Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0511,3,01:43,LAC,94.0,PHX,81.0,N. Powell,LAC,Powell Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0511,3,01:43,LAC,95.0,PHX,81.0,N. Powell,LAC,Powell Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0511,3,00:33.200000,LAC,,PHX,,N. Powell,LAC,Powell S.FOUL (P1.PN) (Z.Zarba),Foul,Shooting,0,0,0,0,,,h
+S2324-G0511,4,11:34,LAC,,PHX,,N. Powell,LAC,Powell REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0511,4,10:33,LAC,,PHX,,N. Powell,LAC,Powell REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0511,4,10:33,LAC,103.0,PHX,94.0,N. Powell,LAC,Powell Putback Dunk (11 PTS),Made Shot,Putback Dunk Shot,0,0,0,1,2.0,2.0,h
+S2324-G0511,4,08:24,LAC,114.0,PHX,96.0,N. Powell,LAC,Powell 3PT Running Jump Shot (14 PTS) (Harden 8 AST),Made Shot,Running Jump Shot,224,32,0,1,3.0,3.0,h
+S2324-G0511,4,08:08,LAC,,PHX,,N. Powell,LAC,Powell REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0511,4,04:38,LAC,,PHX,,N. Powell,LAC,SUB: Brown FOR Powell,Substitution,,0,0,0,0,,,h
+S2324-G1101,1,10:52,SAC,,LAC,,N. Powell,LAC,Powell S.FOUL (P1.T1) (S.Foster),Foul,Shooting,0,0,0,0,,,v
+S2324-G1101,1,06:57,SAC,5.0,LAC,6.0,N. Powell,LAC,Powell Free Throw 1 of 3 (1 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,v
+S2324-G1101,1,06:57,SAC,5.0,LAC,7.0,N. Powell,LAC,Powell Free Throw 2 of 3 (2 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,v
+S2324-G1101,1,06:57,SAC,5.0,LAC,8.0,N. Powell,LAC,Powell Free Throw 3 of 3 (3 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,v
+S2324-G1101,1,04:17,SAC,,LAC,,N. Powell,LAC,SUB: Boston Jr. FOR Powell,Substitution,,0,0,0,0,,,v
+S2324-G1101,2,09:59,SAC,,LAC,,N. Powell,LAC,MISS Powell 8' Driving Layup,Missed Shot,Driving Layup Shot,53,61,8,1,2.0,0.0,v
+S2324-G1101,2,08:20,SAC,,LAC,,N. Powell,LAC,MISS Powell 15' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,70,130,15,1,2.0,0.0,v
+S2324-G1101,2,06:53,SAC,,LAC,,N. Powell,LAC,Powell STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G1101,2,06:47,SAC,44.0,LAC,31.0,N. Powell,LAC,Powell Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1101,2,06:47,SAC,44.0,LAC,32.0,N. Powell,LAC,Powell Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1101,2,05:58,SAC,46.0,LAC,37.0,N. Powell,LAC,Powell 3PT Jump Shot (8 PTS) (Harden 3 AST),Made Shot,Jump Shot,-232,34,0,1,3.0,3.0,v
+S2324-G1101,2,05:03,SAC,,LAC,,N. Powell,LAC,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1101,2,04:47,SAC,48.0,LAC,42.0,N. Powell,LAC,Powell 24' 3PT Jump Shot (11 PTS) (Harden 4 AST),Made Shot,Jump Shot,-233,51,24,1,3.0,3.0,v
+S2324-G1101,2,01:33,SAC,52.0,LAC,48.0,N. Powell,LAC,Powell 19' Pullup Jump Shot (13 PTS) (Zubac 2 AST),Made Shot,Pullup Jump shot,-132,131,19,1,2.0,2.0,v
+S2324-G1101,2,01:33,SAC,52.0,LAC,49.0,N. Powell,LAC,Powell Free Throw 1 of 1 (14 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G1101,3,11:12,SAC,,LAC,,N. Powell,LAC,Powell Step Out of Bounds Turnover (P1.T8),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2324-G1101,3,10:34,SAC,,LAC,,N. Powell,LAC,Powell REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1101,3,10:13,SAC,,LAC,,N. Powell,LAC,MISS Powell 27' 3PT Jump Shot,Missed Shot,Jump Shot,-27,264,27,1,3.0,0.0,v
+S2324-G1101,3,07:08,SAC,67.0,LAC,60.0,N. Powell,LAC,Powell 28' 3PT Jump Shot (17 PTS) (Harden 8 AST),Made Shot,Jump Shot,-148,232,28,1,3.0,3.0,v
+S2324-G1101,3,04:16,SAC,,LAC,,N. Powell,LAC,Powell Bad Pass Turnover (P2.T11),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G1101,3,03:41,SAC,,LAC,,N. Powell,LAC,SUB: Coffey FOR Powell,Substitution,,0,0,0,0,,,v
+S2324-G1101,4,07:38,SAC,,LAC,,N. Powell,LAC,SUB: Hyland FOR Powell,Substitution,,0,0,0,0,,,v
+S2324-G0897,1,02:50,HOU,,LAC,,N. Powell,LAC,MISS Powell 13' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,10,128,13,1,2.0,0.0,v
+S2324-G0897,1,01:44,HOU,,LAC,,N. Powell,LAC,MISS Powell 4' Driving Layup,Missed Shot,Driving Layup Shot,31,21,4,1,2.0,0.0,v
+S2324-G0897,1,01:31,HOU,,LAC,,N. Powell,LAC,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0897,1,00:47.900000,HOU,27.0,LAC,17.0,N. Powell,LAC,Powell 26' 3PT Pullup Jump Shot (3 PTS) (Leonard 1 AST),Made Shot,Pullup Jump shot,-127,222,26,1,3.0,3.0,v
+S2324-G0897,2,07:28,HOU,,LAC,,N. Powell,LAC,MISS Powell 25' 3PT Jump Shot,Missed Shot,Jump Shot,-175,172,25,1,3.0,0.0,v
+S2324-G0897,2,06:25,HOU,,LAC,,N. Powell,LAC,MISS Powell 3PT Jump Shot,Missed Shot,Jump Shot,229,6,0,1,3.0,0.0,v
+S2324-G0897,2,05:44,HOU,,LAC,,N. Powell,LAC,SUB: Mann FOR Powell,Substitution,,0,0,0,0,,,v
+S2324-G0897,2,02:06,HOU,52.0,LAC,40.0,N. Powell,LAC,Powell 3PT Running Jump Shot (6 PTS) (Leonard 2 AST),Made Shot,Running Jump Shot,229,11,0,1,3.0,3.0,v
+S2324-G0897,4,11:27,HOU,,LAC,,N. Powell,LAC,MISS Powell 2' Driving Layup,Missed Shot,Driving Layup Shot,16,8,2,1,2.0,0.0,v
+S2324-G0897,4,07:11,HOU,,LAC,,N. Powell,LAC,Powell STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0897,4,05:33,HOU,103.0,LAC,101.0,N. Powell,LAC,Powell 20' Pullup Jump Shot (8 PTS) (Harden 6 AST),Made Shot,Pullup Jump shot,-150,130,20,1,2.0,2.0,v
+S2324-G0897,4,04:29,HOU,108.0,LAC,106.0,N. Powell,LAC,Powell 26' 3PT Jump Shot (11 PTS) (Harden 7 AST),Made Shot,Jump Shot,29,258,26,1,3.0,3.0,v
+S2324-G0897,4,02:55,HOU,,LAC,,N. Powell,LAC,Powell REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0897,4,01:41,HOU,,LAC,,N. Powell,LAC,MISS Powell Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0897,4,01:41,HOU,112.0,LAC,115.0,N. Powell,LAC,Powell Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1156,1,11:04,PHX,,LAC,,N. Powell,LAC,Powell S.FOUL (P1.T1) (K.Cutler),Foul,Shooting,0,0,0,0,,,v
+S2324-G1156,1,10:50,PHX,0.0,LAC,4.0,N. Powell,LAC,Powell 3' Cutting Dunk Shot (2 PTS) (Zubac 1 AST),Made Shot,Cutting Dunk Shot,-11,27,3,1,2.0,2.0,v
+S2324-G1156,1,04:55,PHX,,LAC,,N. Powell,LAC,SUB: Coffey FOR Powell,Substitution,,0,0,0,0,,,v
+S2324-G1156,2,11:17,PHX,12.0,LAC,43.0,N. Powell,LAC,Powell 26' 3PT Jump Shot (5 PTS) (Westbrook 6 AST),Made Shot,Jump Shot,-115,236,26,1,3.0,3.0,v
+S2324-G1156,2,09:46,PHX,,LAC,,N. Powell,LAC,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1156,2,09:38,PHX,,LAC,,N. Powell,LAC,MISS Powell 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,34,58,7,1,2.0,0.0,v
+S2324-G1156,2,08:36,PHX,,LAC,,N. Powell,LAC,Powell P.FOUL (P2.T1) (P.Ransom),Foul,Personal,0,0,0,0,,,v
+S2324-G1156,2,06:16,PHX,,LAC,,N. Powell,LAC,MISS Powell 3' Driving Hook Shot,Missed Shot,Driving Hook Shot,23,23,3,1,2.0,0.0,v
+S2324-G1156,2,04:52,PHX,,LAC,,N. Powell,LAC,Powell REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1156,2,04:45,PHX,,LAC,,N. Powell,LAC,Powell Lost Ball Turnover (P1.T7),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G1156,2,03:11,PHX,,LAC,,N. Powell,LAC,MISS Powell 5' Driving Layup,Missed Shot,Driving Layup Shot,42,23,5,1,2.0,0.0,v
+S2324-G1156,2,02:48,PHX,,LAC,,N. Powell,LAC,SUB: Mann FOR Powell,Substitution,,0,0,0,0,,,v
+S2324-G1156,3,10:43,PHX,,LAC,,N. Powell,LAC,Powell REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1156,3,10:08,PHX,,LAC,,N. Powell,LAC,Powell S.FOUL (P3.T2) (K.Cutler),Foul,Shooting,0,0,0,0,,,v
+S2324-G1156,3,07:48,PHX,,LAC,,N. Powell,LAC,MISS Powell 26' 3PT Jump Shot,Missed Shot,Jump Shot,-180,183,26,1,3.0,0.0,v
+S2324-G1156,3,05:20,PHX,,LAC,,N. Powell,LAC,MISS Powell 24' 3PT Jump Shot,Missed Shot,Jump Shot,-228,58,24,1,3.0,0.0,v
+S2324-G1156,3,05:02,PHX,,LAC,,N. Powell,LAC,MISS Powell 2' Reverse Layup,Missed Shot,Reverse Layup Shot,1,15,2,1,2.0,0.0,v
+S2324-G1156,3,04:07,PHX,,LAC,,N. Powell,LAC,Powell S.FOUL (P4.T3) (T.Brothers),Foul,Shooting,0,0,0,0,,,v
+S2324-G1156,3,03:30,PHX,56.0,LAC,84.0,N. Powell,LAC,Powell 24' 3PT Running Jump Shot (8 PTS) (Coffey 2 AST),Made Shot,Running Jump Shot,-230,55,24,1,3.0,3.0,v
+S2324-G1156,3,03:19,PHX,,LAC,,N. Powell,LAC,Powell S.FOUL (P5.T4) (K.Cutler),Foul,Shooting,0,0,0,0,,,v
+S2324-G1156,3,03:19,PHX,,LAC,,N. Powell,LAC,SUB: Hyland FOR Powell,Substitution,,0,0,0,0,,,v
+S2324-G1156,4,06:57,PHX,,LAC,,N. Powell,LAC,MISS Powell 5' Driving Layup,Missed Shot,Driving Layup Shot,17,50,5,1,2.0,0.0,v
+S2324-G1156,4,06:15,PHX,,LAC,,N. Powell,LAC,Powell REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1156,4,06:08,PHX,84.0,LAC,93.0,N. Powell,LAC,Powell 2' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,9,19,2,1,2.0,2.0,v
+S2324-G1156,4,04:42,PHX,,LAC,,N. Powell,LAC,Powell REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1156,4,04:26,PHX,,LAC,,N. Powell,LAC,MISS Powell 5' Driving Layup,Missed Shot,Driving Layup Shot,43,34,5,1,2.0,0.0,v
+S2324-G1156,4,01:10,PHX,,LAC,,N. Powell,LAC,SUB: Moon FOR Powell,Substitution,,0,0,0,0,,,v
+S2324-G0244,1,02:02,LAC,26.0,DAL,14.0,N. Powell,LAC,Powell 3PT Step Back Jump Shot (3 PTS) (Westbrook 2 AST),Made Shot,Step Back Jump shot,-228,53,0,1,3.0,3.0,h
+S2324-G0244,2,11:39,LAC,30.0,DAL,18.0,N. Powell,LAC,Powell Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0244,2,11:39,LAC,31.0,DAL,18.0,N. Powell,LAC,Powell Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0244,2,10:29,LAC,36.0,DAL,20.0,N. Powell,LAC,Powell 25' 3PT Running Pull-Up Jump Shot (8 PTS) (Westbrook 3 AST),Made Shot,Running Pull-Up Jump Shot,-205,151,25,1,3.0,3.0,h
+S2324-G0244,2,09:43,LAC,37.0,DAL,20.0,N. Powell,LAC,Powell Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0244,2,09:43,LAC,38.0,DAL,20.0,N. Powell,LAC,Powell Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0244,2,07:04,LAC,42.0,DAL,26.0,N. Powell,LAC,Powell 23' Pullup Jump Shot (12 PTS) (Westbrook 4 AST),Made Shot,Pullup Jump shot,69,218,23,1,2.0,2.0,h
+S2324-G0244,2,05:40,LAC,,DAL,,N. Powell,LAC,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0244,2,04:41,LAC,,DAL,,N. Powell,LAC,SUB: Mann FOR Powell,Substitution,,0,0,0,0,,,h
+S2324-G0244,3,01:45,LAC,,DAL,,N. Powell,LAC,Powell OFF.Foul (P1) (R.Mott),Foul,Offensive,0,0,0,0,,,h
+S2324-G0244,3,01:45,LAC,,DAL,,N. Powell,LAC,Powell Offensive Foul Turnover (P1.T8),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0244,3,01:27,LAC,79.0,DAL,55.0,N. Powell,LAC,Powell 3PT Jump Shot (15 PTS) (Harden 7 AST),Made Shot,Jump Shot,224,16,0,1,3.0,3.0,h
+S2324-G0244,4,08:19,LAC,,DAL,,N. Powell,LAC,Powell REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0244,4,06:45,LAC,,DAL,,N. Powell,LAC,Powell REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0244,4,05:35,LAC,,DAL,,N. Powell,LAC,Powell S.FOUL (P2.T2) (T.Brothers),Foul,Shooting,0,0,0,0,,,h
+S2324-G0244,4,04:45,LAC,,DAL,,N. Powell,LAC,SUB: Diabate FOR Powell,Substitution,,0,0,0,0,,,h
+S2324-G1052,1,01:56,PHI,,LAC,,N. Powell,LAC,MISS Powell 26' 3PT Jump Shot,Missed Shot,Jump Shot,28,258,26,1,3.0,0.0,v
+S2324-G1052,1,01:16,PHI,,LAC,,N. Powell,LAC,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1052,1,01:10,PHI,,LAC,,N. Powell,LAC,MISS Powell 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-80,121,15,1,2.0,0.0,v
+S2324-G1052,2,07:49,PHI,,LAC,,N. Powell,LAC,Powell STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G1052,2,07:46,PHI,38.0,LAC,26.0,N. Powell,LAC,Powell 2' Running Layup (2 PTS),Made Shot,Running Layup Shot,12,13,2,1,2.0,2.0,v
+S2324-G1052,2,06:00,PHI,,LAC,,N. Powell,LAC,SUB: Mann FOR Powell,Substitution,,0,0,0,0,,,v
+S2324-G1052,3,01:36,PHI,71.0,LAC,69.0,N. Powell,LAC,Powell 1' Driving Finger Roll Layup (4 PTS),Made Shot,Driving Finger Roll Layup Shot,1,11,1,1,2.0,2.0,v
+S2324-G1052,4,09:42,PHI,,LAC,,N. Powell,LAC,Powell REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1052,4,09:37,PHI,,LAC,,N. Powell,LAC,MISS Powell Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G1052,4,09:37,PHI,,LAC,,N. Powell,LAC,MISS Powell Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G1052,4,04:51,PHI,,LAC,,N. Powell,LAC,Powell REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1052,4,03:26,PHI,99.0,LAC,96.0,N. Powell,LAC,Powell 2' Driving Layup (6 PTS) (Harden 13 AST),Made Shot,Driving Layup Shot,-16,16,2,1,2.0,2.0,v
+S2324-G1052,4,02:40,PHI,101.0,LAC,99.0,N. Powell,LAC,Powell 26' 3PT Jump Shot (9 PTS) (George 4 AST),Made Shot,Jump Shot,-210,158,26,1,3.0,3.0,v
+S2324-G1052,4,01:44,PHI,104.0,LAC,101.0,N. Powell,LAC,Powell 1' Driving Layup (11 PTS) (Harden 14 AST),Made Shot,Driving Layup Shot,1,11,1,1,2.0,2.0,v
+S2324-G0880,2,09:57,MIL,,LAC,,N. Powell,LAC,Powell STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0880,2,08:41,MIL,,LAC,,N. Powell,LAC,MISS Powell 24' 3PT Jump Shot,Missed Shot,Jump Shot,-232,66,24,1,3.0,0.0,v
+S2324-G0880,2,06:32,MIL,,LAC,,N. Powell,LAC,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0880,2,04:59,MIL,,LAC,,N. Powell,LAC,Powell P.FOUL (P1.T3) (M.Boland),Foul,Personal,0,0,0,0,,,v
+S2324-G0880,2,04:15,MIL,,LAC,,N. Powell,LAC,Powell STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0880,2,04:12,MIL,41.0,LAC,50.0,N. Powell,LAC,Powell 1' Running Dunk (2 PTS) (Mann 1 AST),Made Shot,Running Dunk Shot,1,10,1,1,2.0,2.0,v
+S2324-G0880,2,02:24,MIL,,LAC,,N. Powell,LAC,Powell Lost Ball Turnover (P1.T5),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0880,3,05:24,MIL,,LAC,,N. Powell,LAC,MISS Powell 26' 3PT Jump Shot,Missed Shot,Jump Shot,161,204,26,1,3.0,0.0,v
+S2324-G0880,3,03:07,MIL,,LAC,,N. Powell,LAC,MISS Powell 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-51,269,27,1,3.0,0.0,v
+S2324-G0880,3,02:57,MIL,,LAC,,N. Powell,LAC,Powell BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0880,3,02:52,MIL,,LAC,,N. Powell,LAC,Powell REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0880,3,01:16,MIL,68.0,LAC,79.0,N. Powell,LAC,Powell Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0880,3,01:16,MIL,,LAC,,N. Powell,LAC,MISS Powell Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0880,4,10:56,MIL,,LAC,,N. Powell,LAC,MISS Powell 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-82,97,13,1,2.0,0.0,v
+S2324-G0880,4,04:49,MIL,,LAC,,N. Powell,LAC,MISS Powell 35' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-15,351,35,1,3.0,0.0,v
+S2324-G0880,4,02:22,MIL,,LAC,,N. Powell,LAC,Powell REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0880,4,02:14,MIL,,LAC,,N. Powell,LAC,MISS Powell 26' 3PT Jump Shot,Missed Shot,Jump Shot,153,215,26,1,3.0,0.0,v
+S2324-G0880,4,01:58,MIL,,LAC,,N. Powell,LAC,Powell S.FOUL (P2.T3) (B.Barnaky),Foul,Shooting,0,0,0,0,,,v
+S2324-G0880,4,01:41,MIL,105.0,LAC,99.0,N. Powell,LAC,Powell 3PT Jump Shot (6 PTS) (Leonard 4 AST),Made Shot,Jump Shot,-232,-5,0,1,3.0,3.0,v
+S2324-G0880,4,00:31,MIL,,LAC,,N. Powell,LAC,Powell P.FOUL (P3.PN) (C.Blair),Foul,Personal,0,0,0,0,,,v
+S2324-G0438,1,03:12,LAC,,MEM,,N. Powell,LAC,MISS Powell 8' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,80,24,8,1,2.0,0.0,h
+S2324-G0438,1,03:08,LAC,,MEM,,N. Powell,LAC,MISS Powell 26' 3PT Jump Shot,Missed Shot,Jump Shot,212,146,26,1,3.0,0.0,h
+S2324-G0438,1,00:44.400000,LAC,31.0,MEM,25.0,N. Powell,LAC,Powell 5' Driving Floating Jump Shot (2 PTS) (Harden 3 AST),Made Shot,Driving Floating Jump Shot,-23,47,5,1,2.0,2.0,h
+S2324-G0438,2,11:47,LAC,35.0,MEM,25.0,N. Powell,LAC,Powell 4' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,32,22,4,1,2.0,2.0,h
+S2324-G0438,2,07:06,LAC,48.0,MEM,38.0,N. Powell,LAC,Powell Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0438,2,07:06,LAC,49.0,MEM,38.0,N. Powell,LAC,Powell Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0438,2,06:06,LAC,,MEM,,N. Powell,LAC,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0438,2,06:03,LAC,,MEM,,N. Powell,LAC,MISS Powell 5' Driving Layup,Missed Shot,Driving Layup Shot,15,44,5,1,2.0,0.0,h
+S2324-G0438,2,05:34,LAC,,MEM,,N. Powell,LAC,MISS Powell 26' 3PT Jump Shot,Missed Shot,Jump Shot,-25,259,26,1,3.0,0.0,h
+S2324-G0438,2,03:50,LAC,,MEM,,N. Powell,LAC,SUB: Coffey FOR Powell,Substitution,,0,0,0,0,,,h
+S2324-G0438,2,00:09.300000,LAC,,MEM,,N. Powell,LAC,Powell REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0438,4,10:59,LAC,,MEM,,N. Powell,LAC,MISS Powell 25' 3PT Jump Shot,Missed Shot,Jump Shot,141,208,25,1,3.0,0.0,h
+S2324-G0438,4,10:54,LAC,,MEM,,N. Powell,LAC,Powell S.FOUL (P1.T1) (J.Sterling),Foul,Shooting,0,0,0,0,,,h
+S2324-G0438,4,08:41,LAC,,MEM,,N. Powell,LAC,MISS Powell 6' Driving Layup,Missed Shot,Driving Layup Shot,1,55,6,1,2.0,0.0,h
+S2324-G0438,4,07:27,LAC,,MEM,,N. Powell,LAC,Powell REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0438,4,07:20,LAC,,MEM,,N. Powell,LAC,Powell Lost Ball Turnover (P1.T15),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0438,4,06:46,LAC,,MEM,,N. Powell,LAC,Powell P.FOUL (P2.PN) (J.Sterling),Foul,Personal,0,0,0,0,,,h
+S2324-G0438,4,06:35,LAC,103.0,MEM,92.0,N. Powell,LAC,Powell 25' 3PT Jump Shot (9 PTS) (Zubac 1 AST),Made Shot,Jump Shot,212,134,25,1,3.0,3.0,h
+S2324-G0438,4,06:12,LAC,105.0,MEM,94.0,N. Powell,LAC,Powell 3' Driving Layup (11 PTS),Made Shot,Driving Layup Shot,13,31,3,1,2.0,2.0,h
+S2324-G0438,4,05:00,LAC,,MEM,,N. Powell,LAC,Powell REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0438,4,04:54,LAC,,MEM,,N. Powell,LAC,MISS Powell 4' Running Layup,Missed Shot,Running Layup Shot,-21,35,4,1,2.0,0.0,h
+S2324-G0438,4,03:43,LAC,,MEM,,N. Powell,LAC,Powell REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0438,4,01:18,LAC,114.0,MEM,103.0,N. Powell,LAC,Powell 5' Driving Floating Bank Jump Shot (13 PTS),Made Shot,Driving Floating Bank Jump Shot,-27,36,5,1,2.0,2.0,h
+S2324-G0438,4,00:28.700000,LAC,,MEM,,N. Powell,LAC,Powell REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0414,2,11:22,LAC,27.0,CHA,27.0,N. Powell,LAC,Powell Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0414,2,11:22,LAC,28.0,CHA,27.0,N. Powell,LAC,Powell Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0414,2,10:56,LAC,,CHA,,N. Powell,LAC,MISS Powell 25' 3PT Jump Shot,Missed Shot,Jump Shot,227,94,25,1,3.0,0.0,h
+S2324-G0414,2,08:50,LAC,,CHA,,N. Powell,LAC,MISS Powell 28' 3PT Jump Shot,Missed Shot,Jump Shot,82,263,28,1,3.0,0.0,h
+S2324-G0414,2,07:29,LAC,,CHA,,N. Powell,LAC,Powell S.FOUL (P1.T2) (J.Conley),Foul,Shooting,0,0,0,0,,,h
+S2324-G0414,2,06:49,LAC,,CHA,,N. Powell,LAC,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0414,2,06:33,LAC,,CHA,,N. Powell,LAC,MISS Powell 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-159,109,19,1,2.0,0.0,h
+S2324-G0414,2,03:12,LAC,,CHA,,N. Powell,LAC,SUB: Mann FOR Powell,Substitution,,0,0,0,0,,,h
+S2324-G0414,3,03:46,LAC,,CHA,,N. Powell,LAC,Powell REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0414,4,10:49,LAC,84.0,CHA,83.0,N. Powell,LAC,Powell 9' Driving Bank Hook Shot (4 PTS),Made Shot,Driving Bank Hook Shot,67,61,9,1,2.0,2.0,h
+S2324-G0414,4,09:12,LAC,87.0,CHA,91.0,N. Powell,LAC,Powell 3PT Jump Shot (7 PTS) (Brown 2 AST),Made Shot,Jump Shot,-223,2,0,1,3.0,3.0,h
+S2324-G0414,4,08:44,LAC,,CHA,,N. Powell,LAC,Powell REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0414,4,04:33,LAC,,CHA,,N. Powell,LAC,MISS Powell 26' 3PT Jump Shot,Missed Shot,Jump Shot,-202,158,26,1,3.0,0.0,h
+S2324-G0414,4,00:27.900000,LAC,,CHA,,N. Powell,LAC,MISS Powell 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,157,218,27,1,3.0,0.0,h
+S2324-G0052,1,03:43,LAC,,NOP,,N. Powell,LAC,MISS Powell 24' 3PT Jump Shot,Missed Shot,Jump Shot,-237,41,24,1,3.0,0.0,h
+S2324-G0052,1,01:43,LAC,14.0,NOP,33.0,N. Powell,LAC,Powell 5' Running Jump Shot (2 PTS) (Leonard 1 AST),Made Shot,Running Jump Shot,-22,48,5,1,2.0,2.0,h
+S2324-G0052,1,01:43,LAC,15.0,NOP,33.0,N. Powell,LAC,Powell Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G0052,1,00:16.400000,LAC,23.0,NOP,36.0,N. Powell,LAC,Powell 28' 3PT Jump Shot (6 PTS) (Theis 1 AST),Made Shot,Jump Shot,104,259,28,1,3.0,3.0,h
+S2324-G0052,2,11:19,LAC,26.0,NOP,38.0,N. Powell,LAC,Powell 26' 3PT Jump Shot (9 PTS) (George 2 AST),Made Shot,Jump Shot,148,208,26,1,3.0,3.0,h
+S2324-G0052,2,11:02,LAC,,NOP,,N. Powell,LAC,Powell STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0052,2,10:59,LAC,28.0,NOP,38.0,N. Powell,LAC,Powell 4' Running Layup (11 PTS),Made Shot,Running Layup Shot,-5,41,4,1,2.0,2.0,h
+S2324-G0052,2,09:15,LAC,,NOP,,N. Powell,LAC,MISS Powell 8' Jump Shot,Missed Shot,Jump Shot,6,78,8,1,2.0,0.0,h
+S2324-G0052,2,09:01,LAC,,NOP,,N. Powell,LAC,Powell STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0052,2,08:59,LAC,,NOP,,N. Powell,LAC,MISS Powell 1' Running Layup,Missed Shot,Running Layup Shot,-3,6,1,1,2.0,0.0,h
+S2324-G0052,2,08:23,LAC,32.0,NOP,47.0,N. Powell,LAC,Powell 6' Driving Finger Roll Layup (13 PTS) (Tucker 1 AST),Made Shot,Driving Finger Roll Layup Shot,0,55,6,1,2.0,2.0,h
+S2324-G0052,2,07:12,LAC,36.0,NOP,49.0,N. Powell,LAC,Powell 22' Pullup Jump Shot (15 PTS) (Theis 2 AST),Made Shot,Pullup Jump shot,-118,186,22,1,2.0,2.0,h
+S2324-G0052,2,06:06,LAC,,NOP,,N. Powell,LAC,MISS Powell 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-70,58,9,1,2.0,0.0,h
+S2324-G0052,2,05:34,LAC,,NOP,,N. Powell,LAC,SUB: Leonard FOR Powell,Substitution,,0,0,0,0,,,h
+S2324-G0052,3,01:56,LAC,,NOP,,N. Powell,LAC,MISS Powell 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-102,155,19,1,2.0,0.0,h
+S2324-G0052,4,09:52,LAC,,NOP,,N. Powell,LAC,Powell S.FOUL (P1.T3) (S.Twardoski),Foul,Shooting,0,0,0,0,,,h
+S2324-G0052,4,09:27,LAC,,NOP,,N. Powell,LAC,Powell STEAL (3 STL),,,0,0,0,0,,,h
+S2324-G0052,4,09:16,LAC,89.0,NOP,93.0,N. Powell,LAC,Powell 29' 3PT Pullup Jump Shot (18 PTS) (Tucker 3 AST),Made Shot,Pullup Jump shot,163,235,29,1,3.0,3.0,h
+S2324-G0052,4,01:03,LAC,,NOP,,N. Powell,LAC,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0052,4,00:53.800000,LAC,106.0,NOP,110.0,N. Powell,LAC,Powell 2' Driving Layup (20 PTS) (Mann 5 AST),Made Shot,Driving Layup Shot,7,22,2,1,2.0,2.0,h
+S2324-G0052,4,00:11.500000,LAC,,NOP,,N. Powell,LAC,MISS Powell 3PT Jump Shot,Missed Shot,Jump Shot,-233,-15,0,1,3.0,0.0,h
+S2324-G1028,1,01:05,LAC,29.0,PHI,36.0,N. Powell,LAC,Powell 25' 3PT Jump Shot (3 PTS) (Theis 1 AST),Made Shot,Jump Shot,-70,243,25,1,3.0,3.0,h
+S2324-G1028,1,00:25.900000,LAC,,PHI,,N. Powell,LAC,MISS Powell 4' Driving Layup,Missed Shot,Driving Layup Shot,16,36,4,1,2.0,0.0,h
+S2324-G1028,1,00:22.800000,LAC,,PHI,,N. Powell,LAC,Powell REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1028,2,11:45,LAC,31.0,PHI,41.0,N. Powell,LAC,Powell 3' Driving Layup (5 PTS) (Theis 2 AST),Made Shot,Driving Layup Shot,23,14,3,1,2.0,2.0,h
+S2324-G1028,2,11:11,LAC,33.0,PHI,41.0,N. Powell,LAC,Powell 1' Dunk (7 PTS) (Harden 2 AST),Made Shot,Dunk Shot,10,9,1,1,2.0,2.0,h
+S2324-G1028,2,09:21,LAC,,PHI,,N. Powell,LAC,MISS Powell 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-40,242,25,1,3.0,0.0,h
+S2324-G1028,2,08:46,LAC,36.0,PHI,50.0,N. Powell,LAC,Powell 3PT Jump Shot (10 PTS) (Coffey 1 AST),Made Shot,Jump Shot,-232,-6,0,1,3.0,3.0,h
+S2324-G1028,2,03:41,LAC,,PHI,,N. Powell,LAC,SUB: Mann FOR Powell,Substitution,,0,0,0,0,,,h
+S2324-G1028,3,02:51,LAC,,PHI,,N. Powell,LAC,Powell P.FOUL (P1.T3) (A.Moyer-Gleich),Foul,Personal,0,0,0,0,,,h
+S2324-G1028,3,01:07,LAC,81.0,PHI,86.0,N. Powell,LAC,Powell 2' Driving Layup (12 PTS) (Leonard 3 AST),Made Shot,Driving Layup Shot,22,10,2,1,2.0,2.0,h
+S2324-G1028,4,11:33,LAC,,PHI,,N. Powell,LAC,MISS Powell 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-10,121,12,1,2.0,0.0,h
+S2324-G1028,4,10:19,LAC,,PHI,,N. Powell,LAC,Jump Ball Powell vs. Martin: Tip to George,Jump Ball,,0,0,0,0,,,h
+S2324-G1028,4,09:12,LAC,,PHI,,N. Powell,LAC,Powell 3 Second Violation Turnover (P1.T11),Turnover,3 Second Violation,0,0,0,0,,,h
+S2324-G1028,4,08:50,LAC,,PHI,,N. Powell,LAC,MISS Powell 27' 3PT Jump Shot,Missed Shot,Jump Shot,-202,172,27,1,3.0,0.0,h
+S2324-G1028,4,05:19,LAC,92.0,PHI,110.0,N. Powell,LAC,Powell Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1028,4,05:19,LAC,93.0,PHI,110.0,N. Powell,LAC,Powell Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1028,4,04:57,LAC,95.0,PHI,113.0,N. Powell,LAC,Powell 13' Pullup Jump Shot (16 PTS),Made Shot,Pullup Jump shot,-121,44,13,1,2.0,2.0,h
+S2324-G1028,4,04:57,LAC,96.0,PHI,113.0,N. Powell,LAC,Powell Free Throw 1 of 1 (17 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G1028,4,04:35,LAC,99.0,PHI,113.0,N. Powell,LAC,Powell 26' 3PT Running Pull-Up Jump Shot (20 PTS),Made Shot,Running Pull-Up Jump Shot,77,244,26,1,3.0,3.0,h
+S2324-G1028,4,03:57,LAC,,PHI,,N. Powell,LAC,SUB: Moon FOR Powell,Substitution,,0,0,0,0,,,h
+S2324-G0160,1,01:43,BKN,,LAC,,N. Powell,LAC,Powell BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0160,1,01:36,BKN,,LAC,,N. Powell,LAC,MISS Powell 26' 3PT Jump Shot,Missed Shot,Jump Shot,-222,136,26,1,3.0,0.0,v
+S2324-G0160,1,01:06,BKN,,LAC,,N. Powell,LAC,MISS Powell 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-132,241,27,1,3.0,0.0,v
+S2324-G0160,2,10:51,BKN,,LAC,,N. Powell,LAC,Powell S.FOUL (P1.T1) (C.Aubry),Foul,Shooting,0,0,0,0,,,v
+S2324-G0160,2,10:36,BKN,,LAC,,N. Powell,LAC,Powell Traveling Turnover (P1.T4),Turnover,Traveling,0,0,0,0,,,v
+S2324-G0160,2,08:18,BKN,,LAC,,N. Powell,LAC,Powell BLOCK (2 BLK),,,0,0,0,0,,,v
+S2324-G0160,2,06:49,BKN,,LAC,,N. Powell,LAC,SUB: Leonard FOR Powell,Substitution,,0,0,0,0,,,v
+S2324-G0160,3,03:37,BKN,64.0,LAC,62.0,N. Powell,LAC,Powell 1' Driving Layup (2 PTS) (Tucker 1 AST),Made Shot,Driving Layup Shot,-11,1,1,1,2.0,2.0,v
+S2324-G0160,3,02:22,BKN,67.0,LAC,66.0,N. Powell,LAC,Powell 8' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,11,84,8,1,2.0,2.0,v
+S2324-G0160,3,01:58,BKN,67.0,LAC,69.0,N. Powell,LAC,Powell 25' 3PT Jump Shot (7 PTS) (Tucker 3 AST),Made Shot,Jump Shot,-99,229,25,1,3.0,3.0,v
+S2324-G0160,3,01:39,BKN,,LAC,,N. Powell,LAC,Powell S.FOUL (P2.T4) (C.Aubry),Foul,Shooting,0,0,0,0,,,v
+S2324-G0160,3,01:23,BKN,,LAC,,N. Powell,LAC,MISS Powell 3' Driving Layup,Missed Shot,Driving Layup Shot,21,21,3,1,2.0,0.0,v
+S2324-G0160,4,11:34,BKN,,LAC,,N. Powell,LAC,Powell STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0160,4,05:42,BKN,,LAC,,N. Powell,LAC,Powell STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0160,4,05:26,BKN,,LAC,,N. Powell,LAC,MISS Powell 3PT Jump Shot,Missed Shot,Jump Shot,-228,-32,0,1,3.0,0.0,v
+S2324-G0160,4,05:11,BKN,,LAC,,N. Powell,LAC,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0160,4,04:43,BKN,,LAC,,N. Powell,LAC,SUB: Harden FOR Powell,Substitution,,0,0,0,0,,,v
+S2324-G0160,4,00:07.100000,BKN,100.0,LAC,93.0,N. Powell,LAC,Powell 26' 3PT Jump Shot (10 PTS) (Westbrook 8 AST),Made Shot,Jump Shot,-78,250,26,1,3.0,3.0,v
+S2324-G0526,1,03:14,LAC,,TOR,,N. Powell,LAC,MISS Powell 28' 3PT Jump Shot,Missed Shot,Jump Shot,123,257,28,1,3.0,0.0,h
+S2324-G0526,1,00:23.600000,LAC,,TOR,,N. Powell,LAC,Powell P.FOUL (P1.T1) (G.Petraitis),Foul,Personal,0,0,0,0,,,h
+S2324-G0526,1,00:01.700000,LAC,,TOR,,N. Powell,LAC,MISS Powell 21' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-180,113,21,1,2.0,0.0,h
+S2324-G0526,2,11:34,LAC,,TOR,,N. Powell,LAC,MISS Powell 27' 3PT Jump Shot,Missed Shot,Jump Shot,39,267,27,1,3.0,0.0,h
+S2324-G0526,2,07:38,LAC,,TOR,,N. Powell,LAC,SUB: Mann FOR Powell,Substitution,,0,0,0,0,,,h
+S2324-G0526,2,02:29,LAC,,TOR,,N. Powell,LAC,MISS Powell 27' 3PT Jump Shot,Missed Shot,Jump Shot,135,232,27,1,3.0,0.0,h
+S2324-G0526,2,01:53,LAC,,TOR,,N. Powell,LAC,MISS Powell 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,126,16,13,1,2.0,0.0,h
+S2324-G0526,2,00:35.500000,LAC,54.0,TOR,54.0,N. Powell,LAC,Powell Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0526,2,00:35.500000,LAC,55.0,TOR,54.0,N. Powell,LAC,Powell Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0526,2,00:02.700000,LAC,58.0,TOR,57.0,N. Powell,LAC,Powell 26' 3PT Step Back Jump Shot (5 PTS) (Leonard 3 AST),Made Shot,Step Back Jump shot,-219,144,26,1,3.0,3.0,h
+S2324-G0526,3,03:04,LAC,,TOR,,N. Powell,LAC,MISS Powell 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,123,230,26,1,3.0,0.0,h
+S2324-G0526,3,02:49,LAC,,TOR,,N. Powell,LAC,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0526,3,01:22,LAC,,TOR,,N. Powell,LAC,Powell REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0526,4,11:00,LAC,97.0,TOR,92.0,N. Powell,LAC,Powell 3PT Jump Shot (8 PTS) (George 5 AST),Made Shot,Jump Shot,232,37,0,1,3.0,3.0,h
+S2324-G0526,4,09:48,LAC,,TOR,,N. Powell,LAC,MISS Powell 27' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-189,188,27,1,3.0,0.0,h
+S2324-G0526,4,08:31,LAC,106.0,TOR,98.0,N. Powell,LAC,Powell 3PT Jump Shot (11 PTS) (George 6 AST),Made Shot,Jump Shot,-230,10,0,1,3.0,3.0,h
+S2324-G0526,4,03:25,LAC,,TOR,,N. Powell,LAC,Powell REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0526,4,03:24,LAC,119.0,TOR,108.0,N. Powell,LAC,Powell Running Layup (13 PTS),Made Shot,Running Layup Shot,-1,4,0,1,2.0,2.0,h
+S2324-G0526,4,00:21.300000,LAC,,TOR,,N. Powell,LAC,SUB: Mann FOR Powell,Substitution,,0,0,0,0,,,h
+S2324-G1225,1,03:25,UTA,,LAC,,N. Powell,LAC,MISS Powell 3PT Jump Shot,Missed Shot,Jump Shot,-233,15,0,1,3.0,0.0,v
+S2324-G1225,1,02:58,UTA,,LAC,,N. Powell,LAC,MISS Powell 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,253,25,1,3.0,0.0,v
+S2324-G1225,1,02:26,UTA,18.0,LAC,26.0,N. Powell,LAC,Powell 6' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,39,43,6,1,2.0,2.0,v
+S2324-G1225,2,10:28,UTA,,LAC,,N. Powell,LAC,MISS Powell 24' 3PT Jump Shot,Missed Shot,Jump Shot,-237,4,24,1,3.0,0.0,v
+S2324-G1225,2,10:06,UTA,,LAC,,N. Powell,LAC,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1225,2,09:59,UTA,30.0,LAC,34.0,N. Powell,LAC,Powell 14' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,91,109,14,1,2.0,2.0,v
+S2324-G1225,2,09:32,UTA,32.0,LAC,37.0,N. Powell,LAC,Powell 3PT Jump Shot (7 PTS) (Harden 1 AST),Made Shot,Jump Shot,-233,-6,0,1,3.0,3.0,v
+S2324-G1225,2,08:35,UTA,,LAC,,N. Powell,LAC,MISS Powell 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-196,167,26,1,3.0,0.0,v
+S2324-G1225,2,08:03,UTA,,LAC,,N. Powell,LAC,MISS Powell 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-66,256,26,1,3.0,0.0,v
+S2324-G1225,2,07:56,UTA,,LAC,,N. Powell,LAC,SUB: Leonard FOR Powell,Substitution,,0,0,0,0,,,v
+S2324-G1225,3,00:43,UTA,,LAC,,N. Powell,LAC,MISS Powell 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,92,256,27,1,3.0,0.0,v
+S2324-G1225,4,08:40,UTA,,LAC,,N. Powell,LAC,MISS Powell 6' Driving Layup,Missed Shot,Driving Layup Shot,2,57,6,1,2.0,0.0,v
+S2324-G1225,4,06:29,UTA,93.0,LAC,102.0,N. Powell,LAC,Powell 25' 3PT Jump Shot (10 PTS) (Harden 7 AST),Made Shot,Jump Shot,-85,230,25,1,3.0,3.0,v
+S2324-G1225,4,00:39.300000,UTA,,LAC,,N. Powell,LAC,Powell Bad Pass Turnover (P1.T13),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0658,1,04:52,CLE,16.0,LAC,13.0,N. Powell,LAC,Powell Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0658,1,04:52,CLE,16.0,LAC,14.0,N. Powell,LAC,Powell Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0658,1,03:04,CLE,,LAC,,N. Powell,LAC,MISS Powell 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,147,217,26,1,3.0,0.0,v
+S2324-G0658,1,02:37,CLE,26.0,LAC,19.0,N. Powell,LAC,Powell 2' Driving Layup (4 PTS) (Theis 1 AST),Made Shot,Driving Layup Shot,4,16,2,1,2.0,2.0,v
+S2324-G0658,1,01:34,CLE,,LAC,,N. Powell,LAC,MISS Powell 7' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-31,67,7,1,2.0,0.0,v
+S2324-G0658,2,11:05,CLE,28.0,LAC,30.0,N. Powell,LAC,Powell 27' 3PT Jump Shot (7 PTS) (Westbrook 2 AST),Made Shot,Jump Shot,-162,214,27,1,3.0,3.0,v
+S2324-G0658,2,10:13,CLE,30.0,LAC,33.0,N. Powell,LAC,Powell 26' 3PT Jump Shot (10 PTS) (Theis 3 AST),Made Shot,Jump Shot,-207,163,26,1,3.0,3.0,v
+S2324-G0658,2,08:39,CLE,,LAC,,N. Powell,LAC,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0658,2,07:03,CLE,,LAC,,N. Powell,LAC,MISS Powell 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-82,180,20,1,2.0,0.0,v
+S2324-G0658,2,06:41,CLE,,LAC,,N. Powell,LAC,SUB: Leonard FOR Powell,Substitution,,0,0,0,0,,,v
+S2324-G0658,2,00:38.800000,CLE,,LAC,,N. Powell,LAC,MISS Powell 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,140,162,21,1,2.0,0.0,v
+S2324-G0658,3,03:07,CLE,,LAC,,N. Powell,LAC,Powell L.B.FOUL (P1.T4) (S.Foster),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0658,3,01:52,CLE,,LAC,,N. Powell,LAC,Powell REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0658,3,01:18,CLE,82.0,LAC,81.0,N. Powell,LAC,Powell 24' 3PT Jump Shot (13 PTS) (Leonard 3 AST),Made Shot,Jump Shot,-238,-11,24,1,3.0,3.0,v
+S2324-G0658,4,11:33,CLE,,LAC,,N. Powell,LAC,Powell REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0658,4,11:30,CLE,88.0,LAC,84.0,N. Powell,LAC,Powell 25' 3PT Jump Shot (16 PTS) (Westbrook 3 AST),Made Shot,Jump Shot,-240,51,25,1,3.0,3.0,v
+S2324-G0658,4,10:51,CLE,,LAC,,N. Powell,LAC,MISS Powell 5' Driving Hook Shot,Missed Shot,Driving Hook Shot,42,26,5,1,2.0,0.0,v
+S2324-G0658,4,10:00,CLE,,LAC,,N. Powell,LAC,Powell S.FOUL (P2.T1) (S.Foster),Foul,Shooting,0,0,0,0,,,v
+S2324-G0658,4,07:41,CLE,,LAC,,N. Powell,LAC,MISS Powell Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0658,4,07:41,CLE,,LAC,,N. Powell,LAC,MISS Powell Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0658,4,06:31,CLE,,LAC,,N. Powell,LAC,MISS Powell 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,241,10,24,1,3.0,0.0,v
+S2324-G0658,4,03:20,CLE,111.0,LAC,104.0,N. Powell,LAC,Powell 1' Driving Layup (18 PTS) (George 3 AST),Made Shot,Driving Layup Shot,7,3,1,1,2.0,2.0,v
+S2324-G0658,4,00:58.500000,CLE,,LAC,,N. Powell,LAC,MISS Powell 25' 3PT Jump Shot,Missed Shot,Jump Shot,-98,226,25,1,3.0,0.0,v
+S2324-G0273,1,04:00,GSW,,LAC,,N. Powell,LAC,Powell Traveling Turnover (P1.T1),Turnover,Traveling,0,0,0,0,,,v
+S2324-G0273,1,01:52,GSW,,LAC,,N. Powell,LAC,MISS Powell 6' Running Layup,Missed Shot,Running Layup Shot,54,29,6,1,2.0,0.0,v
+S2324-G0273,2,07:47,GSW,46.0,LAC,30.0,N. Powell,LAC,Powell Free Throw 1 of 3 (1 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,v
+S2324-G0273,2,07:47,GSW,46.0,LAC,31.0,N. Powell,LAC,Powell Free Throw 2 of 3 (2 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,v
+S2324-G0273,2,07:47,GSW,46.0,LAC,32.0,N. Powell,LAC,Powell Free Throw 3 of 3 (3 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,v
+S2324-G0273,2,07:22,GSW,48.0,LAC,34.0,N. Powell,LAC,Powell 5' Driving Layup (5 PTS) (Westbrook 1 AST),Made Shot,Driving Layup Shot,-42,18,5,1,2.0,2.0,v
+S2324-G0273,2,06:43,GSW,,LAC,,N. Powell,LAC,SUB: Harden FOR Powell,Substitution,,0,0,0,0,,,v
+S2324-G0273,3,02:49,GSW,,LAC,,N. Powell,LAC,Powell S.FOUL (P1.T3) (D.Scott),Foul,Shooting,0,0,0,0,,,v
+S2324-G0273,3,00:47.500000,GSW,,LAC,,N. Powell,LAC,Powell STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0273,3,00:42,GSW,,LAC,,N. Powell,LAC,Powell Bad Pass Turnover (P2.T4),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0273,4,07:04,GSW,,LAC,,N. Powell,LAC,SUB: Harden FOR Powell,Substitution,,0,0,0,0,,,v
+S2324-G0789,1,04:08,GSW,,LAC,,N. Powell,LAC,Powell S.FOUL (P1.T3) (S.Twardoski),Foul,Shooting,0,0,0,0,,,v
+S2324-G0789,1,01:36,GSW,,LAC,,N. Powell,LAC,Powell OFF.Foul (P2) (S.Twardoski),Foul,Offensive,0,0,0,0,,,v
+S2324-G0789,1,01:36,GSW,,LAC,,N. Powell,LAC,Powell Offensive Foul Turnover (P1.T3),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0789,2,11:43,GSW,,LAC,,N. Powell,LAC,MISS Powell 6' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,40,41,6,1,2.0,0.0,v
+S2324-G0789,2,10:15,GSW,,LAC,,N. Powell,LAC,MISS Powell 30' 3PT Jump Shot,Missed Shot,Jump Shot,-178,237,30,1,3.0,0.0,v
+S2324-G0789,2,09:12,GSW,35.0,LAC,27.0,N. Powell,LAC,Powell 12' Driving Floating Jump Shot (2 PTS) (Mann 2 AST),Made Shot,Driving Floating Jump Shot,-47,107,12,1,2.0,2.0,v
+S2324-G0789,2,07:21,GSW,40.0,LAC,33.0,N. Powell,LAC,Powell 5' Driving Layup (4 PTS) (Harden 2 AST),Made Shot,Driving Layup Shot,-26,38,5,1,2.0,2.0,v
+S2324-G0789,2,04:05,GSW,47.0,LAC,43.0,N. Powell,LAC,Powell 5' Running Layup (6 PTS) (Westbrook 2 AST),Made Shot,Running Layup Shot,-13,49,5,1,2.0,2.0,v
+S2324-G0789,2,02:33,GSW,,LAC,,N. Powell,LAC,MISS Powell 26' 3PT Jump Shot,Missed Shot,Jump Shot,-173,196,26,1,3.0,0.0,v
+S2324-G0789,2,01:36,GSW,,LAC,,N. Powell,LAC,SUB: Mann FOR Powell,Substitution,,0,0,0,0,,,v
+S2324-G0789,3,03:24,GSW,86.0,LAC,76.0,N. Powell,LAC,Powell 30' 3PT Jump Shot (9 PTS) (Harden 4 AST),Made Shot,Jump Shot,183,237,30,1,3.0,3.0,v
+S2324-G0789,4,10:23,GSW,,LAC,,N. Powell,LAC,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0789,4,09:45,GSW,,LAC,,N. Powell,LAC,MISS Powell 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,84,129,15,1,2.0,0.0,v
+S2324-G0789,4,08:44,GSW,,LAC,,N. Powell,LAC,MISS Powell 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,45,108,12,1,2.0,0.0,v
+S2324-G0789,4,07:03,GSW,106.0,LAC,104.0,N. Powell,LAC,Powell 29' 3PT Jump Shot (12 PTS) (George 5 AST),Made Shot,Jump Shot,116,267,29,1,3.0,3.0,v
+S2324-G0789,4,05:36,GSW,108.0,LAC,111.0,N. Powell,LAC,Powell 3PT Jump Shot (15 PTS) (Zubac 2 AST),Made Shot,Jump Shot,-225,29,0,1,3.0,3.0,v
+S2324-G0789,4,03:35,GSW,,LAC,,N. Powell,LAC,Powell REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0789,4,03:22,GSW,115.0,LAC,116.0,N. Powell,LAC,Powell 25' 3PT Jump Shot (18 PTS) (Harden 6 AST),Made Shot,Jump Shot,-249,3,25,1,3.0,3.0,v
+S2324-G0789,4,02:25,GSW,115.0,LAC,121.0,N. Powell,LAC,Powell 27' 3PT Jump Shot (21 PTS) (Harden 7 AST),Made Shot,Jump Shot,238,131,27,1,3.0,3.0,v
+S2324-G0731,1,02:45,LAC,,NOP,,N. Powell,LAC,MISS Powell 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-125,146,19,1,2.0,0.0,h
+S2324-G0731,1,01:49,LAC,19.0,NOP,28.0,N. Powell,LAC,Powell 10' Driving Floating Jump Shot (2 PTS) (Westbrook 1 AST),Made Shot,Driving Floating Jump Shot,34,99,10,1,2.0,2.0,h
+S2324-G0731,2,11:47,LAC,22.0,NOP,36.0,N. Powell,LAC,Powell 28' 3PT Jump Shot (5 PTS) (Plumlee 1 AST),Made Shot,Jump Shot,-98,263,28,1,3.0,3.0,h
+S2324-G0731,2,11:35,LAC,,NOP,,N. Powell,LAC,Powell STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0731,2,10:58,LAC,,NOP,,N. Powell,LAC,MISS Powell 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-67,36,8,1,2.0,0.0,h
+S2324-G0731,2,10:22,LAC,,NOP,,N. Powell,LAC,Powell Bad Pass Turnover (P1.T10),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0731,2,09:09,LAC,29.0,NOP,40.0,N. Powell,LAC,Powell 24' 3PT Jump Shot (8 PTS) (Harden 1 AST),Made Shot,Jump Shot,-234,33,24,1,3.0,3.0,h
+S2324-G0731,2,06:28,LAC,,NOP,,N. Powell,LAC,MISS Powell 28' 3PT Jump Shot,Missed Shot,Jump Shot,-83,263,28,1,3.0,0.0,h
+S2324-G0731,2,05:32,LAC,36.0,NOP,49.0,N. Powell,LAC,Powell 15' Pullup Jump Shot (10 PTS) (George 2 AST),Made Shot,Pullup Jump shot,114,102,15,1,2.0,2.0,h
+S2324-G0731,2,03:01,LAC,,NOP,,N. Powell,LAC,SUB: Mann FOR Powell,Substitution,,0,0,0,0,,,h
+S2324-G0731,3,01:28,LAC,,NOP,,N. Powell,LAC,MISS Powell 24' 3PT Jump Shot,Missed Shot,Jump Shot,-189,153,24,1,3.0,0.0,h
+S2324-G0731,3,00:07.600000,LAC,,NOP,,N. Powell,LAC,MISS Powell 24' 3PT Jump Shot,Missed Shot,Jump Shot,-244,-5,24,1,3.0,0.0,h
+S2324-G0731,4,10:50,LAC,,NOP,,N. Powell,LAC,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0731,4,09:26,LAC,82.0,NOP,86.0,N. Powell,LAC,Powell 4' Driving Floating Jump Shot (12 PTS),Made Shot,Driving Floating Jump Shot,-18,36,4,1,2.0,2.0,h
+S2324-G0731,4,08:29,LAC,83.0,NOP,92.0,N. Powell,LAC,Powell Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0731,4,08:29,LAC,84.0,NOP,92.0,N. Powell,LAC,Powell Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0731,4,07:58,LAC,86.0,NOP,95.0,N. Powell,LAC,Powell 3' Driving Finger Roll Layup (16 PTS) (Leonard 3 AST),Made Shot,Driving Finger Roll Layup Shot,-2,27,3,1,2.0,2.0,h
+S2324-G0731,4,05:27,LAC,,NOP,,N. Powell,LAC,MISS Powell 26' 3PT Jump Shot,Missed Shot,Jump Shot,206,161,26,1,3.0,0.0,h
+S2324-G0731,4,04:29,LAC,94.0,NOP,107.0,N. Powell,LAC,Powell 3' Driving Finger Roll Layup (18 PTS) (Harden 5 AST),Made Shot,Driving Finger Roll Layup Shot,23,21,3,1,2.0,2.0,h
+S2324-G0731,4,03:42,LAC,,NOP,,N. Powell,LAC,MISS Powell 27' 3PT Floating Jump Shot,Missed Shot,Floating Jump shot,4,268,27,1,3.0,0.0,h
+S2324-G0731,4,03:27,LAC,,NOP,,N. Powell,LAC,Powell Violation:Kicked Ball (J.Orr),Violation,Kicked Ball,0,0,0,0,,,h
+S2324-G0731,4,03:27,LAC,,NOP,,N. Powell,LAC,SUB: Brown FOR Powell,Substitution,,0,0,0,0,,,h
+S2324-G0770,1,04:07,LAC,,,,N. Powell,LAC,Powell S.FOUL (P1.T3) (R.Acosta),Foul,Shooting,0,0,0,0,,,h
+S2324-G0770,1,02:40,LAC,,,,N. Powell,LAC,MISS Powell 26' 3PT Jump Shot,Missed Shot,Jump Shot,-127,227,26,1,3.0,0.0,h
+S2324-G0770,1,01:56,LAC,,,,N. Powell,LAC,Powell REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0770,1,00:49.200000,LAC,,,,N. Powell,LAC,MISS Powell 3' Driving Layup,Missed Shot,Driving Layup Shot,6,26,3,1,2.0,0.0,h
+S2324-G0770,2,11:48,LAC,26.0,,28.0,N. Powell,LAC,Powell 4' Driving Layup (2 PTS) (Plumlee 2 AST),Made Shot,Driving Layup Shot,0,39,4,1,2.0,2.0,h
+S2324-G0770,2,08:39,LAC,,,,N. Powell,LAC,Powell REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0770,2,08:31,LAC,,,,N. Powell,LAC,MISS Powell 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-32,102,11,1,2.0,0.0,h
+S2324-G0770,2,06:56,LAC,,,,N. Powell,LAC,SUB: Mann FOR Powell,Substitution,,0,0,0,0,,,h
+S2324-G0770,3,01:49,LAC,,,,N. Powell,LAC,MISS Powell 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,34,113,12,1,2.0,0.0,h
+S2324-G0770,3,01:27,LAC,,,,N. Powell,LAC,MISS Powell Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0770,3,01:27,LAC,72.0,,83.0,N. Powell,LAC,Powell Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0770,3,00:56.400000,LAC,,,,N. Powell,LAC,MISS Powell 3' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-22,25,3,1,2.0,0.0,h
+S2324-G0770,4,11:23,LAC,75.0,,91.0,N. Powell,LAC,Powell 29' 3PT Jump Shot (6 PTS) (Coffey 2 AST),Made Shot,Jump Shot,131,258,29,1,3.0,3.0,h
+S2324-G0770,4,09:20,LAC,,,,N. Powell,LAC,Powell Out of Bounds Lost Ball Turnover (P1.T11),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2324-G0770,4,09:08,LAC,,,,N. Powell,LAC,SUB: Zubac FOR Powell,Substitution,,0,0,0,0,,,h

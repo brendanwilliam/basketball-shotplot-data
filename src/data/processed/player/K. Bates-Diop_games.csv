@@ -1,0 +1,506 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2324-G0677,1,02:31,BKN,,PHX,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0677,1,02:24,BKN,,PHX,,K. Bates-Diop,PHX,Bates-Diop Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0677,2,08:35,BKN,,PHX,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0677,2,02:42,BKN,,PHX,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0677,2,02:41,BKN,50.0,PHX,57.0,K. Bates-Diop,PHX,Bates-Diop 1' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,2,9,1,1,2.0,2.0,v
+S2324-G0677,2,02:33,BKN,,PHX,,K. Bates-Diop,PHX,SUB: Beal FOR Bates-Diop,Substitution,,0,0,0,0,,,v
+S2324-G0677,3,00:58,BKN,87.0,PHX,103.0,K. Bates-Diop,PHX,Bates-Diop 3PT Jump Shot (5 PTS) (Beal 5 AST),Made Shot,Jump Shot,-228,8,0,1,3.0,3.0,v
+S2324-G0677,4,11:22,BKN,,PHX,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0677,4,08:28,BKN,,PHX,,K. Bates-Diop,PHX,SUB: Gordon FOR Bates-Diop,Substitution,,0,0,0,0,,,v
+S2324-G0661,1,02:15,MIA,19.0,PHX,26.0,K. Bates-Diop,PHX,Bates-Diop 24' 3PT Jump Shot (3 PTS) (Durant 4 AST),Made Shot,Jump Shot,-235,5,24,1,3.0,3.0,v
+S2324-G0661,3,01:06,MIA,,PHX,,K. Bates-Diop,PHX,Bates-Diop BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0636,2,03:44,IND,,PHX,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0636,2,03:44,IND,57.0,PHX,66.0,K. Bates-Diop,PHX,Bates-Diop Tip Dunk Shot (2 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,v
+S2324-G0636,2,02:52,IND,,PHX,,K. Bates-Diop,PHX,SUB: Beal FOR Bates-Diop,Substitution,,0,0,0,0,,,v
+S2324-G0636,3,03:37,IND,,PHX,,K. Bates-Diop,PHX,Bates-Diop Lost Ball Turnover (P1.T17),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0636,3,02:43,IND,,PHX,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0636,3,02:14,IND,,PHX,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0636,3,00:11.700000,IND,,PHX,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0968,4,03:30,IND,,BKN,,K. Bates-Diop,BKN,Bates-Diop S.FOUL (P1.T4) (K.Cutler),Foul,Shooting,0,0,0,0,,,v
+S2324-G0968,4,01:20,IND,,BKN,,K. Bates-Diop,BKN,Bates-Diop REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0456,1,06:02,PHX,9.0,POR,13.0,K. Bates-Diop,PHX,Bates-Diop 3PT Jump Shot (3 PTS) (Beal 1 AST),Made Shot,Jump Shot,234,18,0,1,3.0,3.0,h
+S2324-G0456,1,02:38,PHX,,POR,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0456,2,01:37,PHX,,POR,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0456,3,03:48,PHX,,POR,,K. Bates-Diop,PHX,Bates-Diop STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0456,3,02:34,PHX,,POR,,K. Bates-Diop,PHX,Bates-Diop S.FOUL (P1.T4) (S.Wright),Foul,Shooting,0,0,0,0,,,h
+S2324-G0456,3,01:43,PHX,,POR,,K. Bates-Diop,PHX,Bates-Diop STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0456,3,01:11,PHX,,POR,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0197,1,01:43,PHX,,MIN,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0197,1,01:00,PHX,,MIN,,K. Bates-Diop,PHX,Bates-Diop S.FOUL (P1.PN) (J.Butler),Foul,Shooting,0,0,0,0,,,h
+S2324-G0197,2,11:35,PHX,37.0,MIN,29.0,K. Bates-Diop,PHX,Bates-Diop 12' Driving Floating Jump Shot (2 PTS) (Watanabe 1 AST),Made Shot,Driving Floating Jump Shot,-114,17,12,1,2.0,2.0,h
+S2324-G0197,2,09:45,PHX,,MIN,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0197,2,09:04,PHX,,MIN,,K. Bates-Diop,PHX,SUB: Durant FOR Bates-Diop,Substitution,,0,0,0,0,,,h
+S2324-G0197,4,08:23,PHX,,MIN,,K. Bates-Diop,PHX,SUB: Gordon FOR Bates-Diop,Substitution,,0,0,0,0,,,h
+S2324-G0247,1,11:41,NYK,,PHX,,K. Bates-Diop,PHX,MISS Bates-Diop 24' 3PT Jump Shot,Missed Shot,Jump Shot,-234,27,24,1,3.0,0.0,v
+S2324-G0247,1,10:56,NYK,0.0,PHX,4.0,K. Bates-Diop,PHX,Bates-Diop 1' Running Dunk (2 PTS) (Booker 1 AST),Made Shot,Running Dunk Shot,-2,5,1,1,2.0,2.0,v
+S2324-G0247,1,10:30,NYK,,PHX,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0247,1,06:55,NYK,10.0,PHX,17.0,K. Bates-Diop,PHX,Bates-Diop 1' Dunk (4 PTS) (Booker 4 AST),Made Shot,Dunk Shot,0,5,1,1,2.0,2.0,v
+S2324-G0247,1,05:51,NYK,,PHX,,K. Bates-Diop,PHX,Bates-Diop STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0247,1,05:48,NYK,,PHX,,K. Bates-Diop,PHX,MISS Bates-Diop 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-224,110,25,1,3.0,0.0,v
+S2324-G0247,1,04:44,NYK,,PHX,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0247,1,03:26,NYK,,PHX,,K. Bates-Diop,PHX,SUB: Booker FOR Bates-Diop,Substitution,,0,0,0,0,,,v
+S2324-G0247,2,04:18,NYK,,PHX,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0247,2,04:18,NYK,,PHX,,K. Bates-Diop,PHX,Bates-Diop Step Out of Bounds Turnover (P1.T5),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2324-G0247,2,02:54,NYK,,PHX,,K. Bates-Diop,PHX,Bates-Diop S.FOUL (P1.PN) (M.Lindsay),Foul,Shooting,0,0,0,0,,,v
+S2324-G0247,2,02:20,NYK,,PHX,,K. Bates-Diop,PHX,Bates-Diop STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0247,2,01:52,NYK,,PHX,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0247,2,01:38,NYK,,PHX,,K. Bates-Diop,PHX,MISS Bates-Diop 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-228,-12,0,1,3.0,0.0,v
+S2324-G0247,2,01:31,NYK,48.0,PHX,60.0,K. Bates-Diop,PHX,Bates-Diop Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0247,2,01:31,NYK,48.0,PHX,61.0,K. Bates-Diop,PHX,Bates-Diop Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0247,2,00:54.500000,NYK,51.0,PHX,63.0,K. Bates-Diop,PHX,Bates-Diop 1' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,12,8,1,1,2.0,2.0,v
+S2324-G0247,2,00:54.500000,NYK,51.0,PHX,64.0,K. Bates-Diop,PHX,Bates-Diop Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G0247,2,00:33.500000,NYK,,PHX,,K. Bates-Diop,PHX,MISS Bates-Diop 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-5,101,10,1,2.0,0.0,v
+S2324-G0247,2,00:01.200000,NYK,,PHX,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0247,2,00:00.100000,NYK,,PHX,,K. Bates-Diop,PHX,MISS Bates-Diop 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,230,24,0,1,3.0,0.0,v
+S2324-G0247,3,10:49,NYK,,PHX,,K. Bates-Diop,PHX,MISS Bates-Diop 2' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-21,11,2,1,2.0,0.0,v
+S2324-G0247,3,06:17,NYK,,PHX,,K. Bates-Diop,PHX,Bates-Diop P.FOUL (P2.T3) (G.Petraitis),Foul,Personal,0,0,0,0,,,v
+S2324-G0247,3,04:44,NYK,,PHX,,K. Bates-Diop,PHX,MISS Bates-Diop 26' 3PT Jump Shot,Missed Shot,Jump Shot,-143,215,26,1,3.0,0.0,v
+S2324-G0247,3,04:38,NYK,,PHX,,K. Bates-Diop,PHX,Bates-Diop S.FOUL (P3.PN) (C.Washington),Foul,Shooting,0,0,0,0,,,v
+S2324-G0247,3,04:38,NYK,,PHX,,K. Bates-Diop,PHX,SUB: Metu FOR Bates-Diop,Substitution,,0,0,0,0,,,v
+S2324-G0247,4,04:20,NYK,,PHX,,K. Bates-Diop,PHX,MISS Bates-Diop 4' Layup,Missed Shot,Layup Shot,-23,27,4,1,2.0,0.0,v
+S2324-G0247,4,04:02,NYK,,PHX,,K. Bates-Diop,PHX,Bates-Diop BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0247,4,03:56,NYK,,PHX,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0247,4,01:57,NYK,,PHX,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0247,4,00:21.900000,NYK,,PHX,,K. Bates-Diop,PHX,SUB: Watanabe FOR Bates-Diop,Substitution,,0,0,0,0,,,v
+S2324-G0705,4,07:23,WAS,,PHX,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0705,4,05:17,WAS,,PHX,,K. Bates-Diop,PHX,Bates-Diop STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0705,4,04:52,WAS,101.0,PHX,131.0,K. Bates-Diop,PHX,Bates-Diop 11' Driving Floating Jump Shot (2 PTS) (Little 2 AST),Made Shot,Driving Floating Jump Shot,4,107,11,1,2.0,2.0,v
+S2324-G0705,4,03:50,WAS,,PHX,,K. Bates-Diop,PHX,Bates-Diop Bad Pass Turnover (P1.T15),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0705,4,03:18,WAS,,PHX,,K. Bates-Diop,PHX,Bates-Diop BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0705,4,02:31,WAS,,PHX,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0705,4,00:58.300000,WAS,,PHX,,K. Bates-Diop,PHX,Bates-Diop BLOCK (2 BLK),,,0,0,0,0,,,v
+S2324-G0705,4,00:58.300000,WAS,,PHX,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0705,4,00:54.800000,WAS,,PHX,,K. Bates-Diop,PHX,Bates-Diop Lost Ball Turnover (P2.T17),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0288,1,02:00,PHX,,MEM,,K. Bates-Diop,PHX,MISS Bates-Diop 1' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,2,-7,1,1,2.0,0.0,h
+S2324-G0288,1,00:29,PHX,,MEM,,K. Bates-Diop,PHX,SUB: Watanabe FOR Bates-Diop,Substitution,,0,0,0,0,,,h
+S2324-G0288,2,07:09,PHX,,MEM,,K. Bates-Diop,PHX,SUB: Goodwin FOR Bates-Diop,Substitution,,0,0,0,0,,,h
+S2324-G0288,3,01:57,PHX,,MEM,,K. Bates-Diop,PHX,Bates-Diop STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0288,3,00:25.800000,PHX,,MEM,,K. Bates-Diop,PHX,SUB: Watanabe FOR Bates-Diop,Substitution,,0,0,0,0,,,h
+S2324-G0288,4,10:41,PHX,,MEM,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0288,4,10:24,PHX,90.0,MEM,74.0,K. Bates-Diop,PHX,Bates-Diop 26' 3PT Jump Shot (3 PTS) (Eubanks 1 AST),Made Shot,Jump Shot,-229,130,26,1,3.0,3.0,h
+S2324-G0288,4,09:54,PHX,,MEM,,K. Bates-Diop,PHX,Bates-Diop Lost Ball Turnover (P1.T14),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0288,4,09:21,PHX,92.0,MEM,78.0,K. Bates-Diop,PHX,Bates-Diop 1' Driving Layup (5 PTS) (Booker 7 AST),Made Shot,Driving Layup Shot,-7,-10,1,1,2.0,2.0,h
+S2324-G0288,4,08:23,PHX,,MEM,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0288,4,08:02,PHX,,MEM,,K. Bates-Diop,PHX,MISS Bates-Diop 26' 3PT Jump Shot,Missed Shot,Jump Shot,-211,155,26,1,3.0,0.0,h
+S2324-G0288,4,07:12,PHX,,MEM,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0288,4,07:08,PHX,,MEM,,K. Bates-Diop,PHX,SUB: Durant FOR Bates-Diop,Substitution,,0,0,0,0,,,h
+S2324-G0288,4,03:17,PHX,104.0,MEM,91.0,K. Bates-Diop,PHX,Bates-Diop 2' Reverse Layup (7 PTS) (Durant 5 AST),Made Shot,Reverse Layup Shot,-2,17,2,1,2.0,2.0,h
+S2324-G0288,4,03:17,PHX,105.0,MEM,91.0,K. Bates-Diop,PHX,Bates-Diop Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G0288,4,00:29.100000,PHX,,MEM,,K. Bates-Diop,PHX,MISS Bates-Diop 5' Layup,Missed Shot,Layup Shot,25,46,5,1,2.0,0.0,h
+S2324-G0162,1,09:46,CHI,,PHX,,K. Bates-Diop,PHX,Bates-Diop BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0162,1,09:43,CHI,,PHX,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0162,1,08:47,CHI,,PHX,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0162,1,05:21,CHI,,PHX,,K. Bates-Diop,PHX,Bates-Diop S.FOUL (P1.T2) (K.Cutler),Foul,Shooting,0,0,0,0,,,v
+S2324-G0162,1,05:21,CHI,,PHX,,K. Bates-Diop,PHX,SUB: Okogie FOR Bates-Diop,Substitution,,0,0,0,0,,,v
+S2324-G0162,2,01:57,CHI,,PHX,,K. Bates-Diop,PHX,MISS Bates-Diop Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0162,2,01:57,CHI,49.0,PHX,52.0,K. Bates-Diop,PHX,Bates-Diop Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0162,3,11:02,CHI,,PHX,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0162,3,08:59,CHI,63.0,PHX,68.0,K. Bates-Diop,PHX,Bates-Diop 26' 3PT Jump Shot (4 PTS) (Nurkic 7 AST),Made Shot,Jump Shot,-212,145,26,1,3.0,3.0,v
+S2324-G0162,3,08:12,CHI,,PHX,,K. Bates-Diop,PHX,Bates-Diop STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0162,3,06:29,CHI,,PHX,,K. Bates-Diop,PHX,Bates-Diop S.FOUL (P2.T3) (S.Mitchell),Foul,Shooting,0,0,0,0,,,v
+S2324-G0162,3,04:09,CHI,,PHX,,K. Bates-Diop,PHX,SUB: Eubanks FOR Bates-Diop,Substitution,,0,0,0,0,,,v
+S2324-G0162,4,10:19,CHI,,PHX,,K. Bates-Diop,PHX,Bates-Diop BLOCK (2 BLK),,,0,0,0,0,,,v
+S2324-G0162,4,06:11,CHI,,PHX,,K. Bates-Diop,PHX,Bates-Diop BLOCK (3 BLK),,,0,0,0,0,,,v
+S2324-G0162,4,06:08,CHI,,PHX,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0162,4,06:03,CHI,,PHX,,K. Bates-Diop,PHX,SUB: Okogie FOR Bates-Diop,Substitution,,0,0,0,0,,,v
+S2324-G0162,4,01:51,CHI,,PHX,,K. Bates-Diop,PHX,MISS Bates-Diop 3PT Jump Shot,Missed Shot,Jump Shot,-224,-17,0,1,3.0,0.0,v
+S2324-G0162,4,00:55.100000,CHI,,PHX,,K. Bates-Diop,PHX,Bates-Diop P.FOUL (P3.T4) (S.Mitchell),Foul,Personal,0,0,0,0,,,v
+S2324-G0162,4,00:15.700000,CHI,,PHX,,K. Bates-Diop,PHX,SUB: Watanabe FOR Bates-Diop,Substitution,,0,0,0,0,,,v
+S2324-G0162,5,03:21,CHI,,PHX,,K. Bates-Diop,PHX,MISS Bates-Diop 3PT Jump Shot,Missed Shot,Jump Shot,-233,9,0,1,3.0,0.0,v
+S2324-G0162,5,01:06,CHI,115.0,PHX,114.0,K. Bates-Diop,PHX,Bates-Diop 24' 3PT Jump Shot (7 PTS) (Nurkic 8 AST),Made Shot,Jump Shot,234,29,24,1,3.0,3.0,v
+S2324-G0162,5,00:55,CHI,,PHX,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0094,4,04:23,PHX,,UTA,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0094,4,03:54,PHX,,UTA,,K. Bates-Diop,PHX,MISS Bates-Diop 4' Driving Layup,Missed Shot,Driving Layup Shot,-36,-6,4,1,2.0,0.0,h
+S2324-G0094,4,01:21,PHX,124.0,UTA,99.0,K. Bates-Diop,PHX,Bates-Diop 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,7,-1,1,1,2.0,2.0,h
+S2324-G0780,4,09:50,BOS,110.0,BKN,62.0,K. Bates-Diop,BKN,Bates-Diop 2' Running Layup (2 PTS) (K. Johnson 1 AST),Made Shot,Running Layup Shot,10,16,2,1,2.0,2.0,v
+S2324-G0780,4,09:14,BOS,113.0,BKN,64.0,K. Bates-Diop,BKN,Bates-Diop 13' Driving Floating Jump Shot (4 PTS) (Wilson 1 AST),Made Shot,Driving Floating Jump Shot,126,38,13,1,2.0,2.0,v
+S2324-G0780,4,05:46,BOS,,BKN,,K. Bates-Diop,BKN,MISS Bates-Diop 7' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,-50,46,7,1,2.0,0.0,v
+S2324-G0780,4,03:36,BOS,,BKN,,K. Bates-Diop,BKN,Bates-Diop REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0780,4,03:28,BOS,,BKN,,K. Bates-Diop,BKN,Bates-Diop Lost Ball Turnover (P1.T11),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0780,4,02:50,BOS,,BKN,,K. Bates-Diop,BKN,Bates-Diop STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0780,4,02:44,BOS,132.0,BKN,81.0,K. Bates-Diop,BKN,Bates-Diop 26' 3PT Running Jump Shot (7 PTS) (Clowney 1 AST),Made Shot,Running Jump Shot,137,224,26,1,3.0,3.0,v
+S2324-G0503,2,08:26,PHX,,MEM,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0503,2,08:05,PHX,,MEM,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0503,2,08:00,PHX,,MEM,,K. Bates-Diop,PHX,MISS Bates-Diop 3PT Running Jump Shot,Missed Shot,Running Jump Shot,233,16,0,1,3.0,0.0,h
+S2324-G0503,2,07:25,PHX,40.0,MEM,43.0,K. Bates-Diop,PHX,Bates-Diop 25' 3PT Jump Shot (3 PTS) (Durant 3 AST),Made Shot,Jump Shot,205,145,25,1,3.0,3.0,h
+S2324-G0503,2,02:30,PHX,,MEM,,K. Bates-Diop,PHX,SUB: Durant FOR Bates-Diop,Substitution,,0,0,0,0,,,h
+S2324-G0503,3,00:17.300000,PHX,,MEM,,K. Bates-Diop,PHX,SUB: Beal FOR Bates-Diop,Substitution,,0,0,0,0,,,h
+S2324-G0503,4,08:08,PHX,,MEM,,K. Bates-Diop,PHX,Bates-Diop S.FOUL (P1.T1) (K.Cutler),Foul,Shooting,0,0,0,0,,,h
+S2324-G0503,4,07:11,PHX,,MEM,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0503,4,06:47,PHX,,MEM,,K. Bates-Diop,PHX,Bates-Diop P.FOUL (P2.T2) (K.Cutler),Foul,Personal,0,0,0,0,,,h
+S2324-G0503,4,06:47,PHX,,MEM,,K. Bates-Diop,PHX,SUB: Okogie FOR Bates-Diop,Substitution,,0,0,0,0,,,h
+S2324-G0503,4,05:48,PHX,,MEM,,K. Bates-Diop,PHX,MISS Bates-Diop 26' 3PT Jump Shot,Missed Shot,Jump Shot,197,176,26,1,3.0,0.0,h
+S2324-G0503,4,05:39,PHX,,MEM,,K. Bates-Diop,PHX,SUB: Allen FOR Bates-Diop,Substitution,,0,0,0,0,,,h
+S2324-G0503,4,00:08.400000,PHX,,MEM,,K. Bates-Diop,PHX,Bates-Diop Personal Take Foul (P3.PN) (K.Cutler),Foul,Personal Take,0,0,0,0,,,h
+S2324-G0503,4,00:08.400000,PHX,,MEM,,K. Bates-Diop,PHX,SUB: Nurkic FOR Bates-Diop,Substitution,,0,0,0,0,,,h
+S2324-G0041,1,01:25,PHX,,POR,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0041,2,10:07,PHX,,POR,,K. Bates-Diop,PHX,MISS Bates-Diop 6' Driving Layup,Missed Shot,Driving Layup Shot,-22,57,6,1,2.0,0.0,h
+S2324-G0041,2,07:57,PHX,,POR,,K. Bates-Diop,PHX,SUB: Durant FOR Bates-Diop,Substitution,,0,0,0,0,,,h
+S2324-G0041,4,09:58,PHX,,POR,,K. Bates-Diop,PHX,MISS Bates-Diop Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0041,4,09:58,PHX,99.0,POR,87.0,K. Bates-Diop,PHX,Bates-Diop Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0041,4,07:58,PHX,,POR,,K. Bates-Diop,PHX,SUB: Gordon FOR Bates-Diop,Substitution,,0,0,0,0,,,h
+S2324-G0554,2,06:41,POR,,PHX,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0554,2,06:40,POR,47.0,PHX,48.0,K. Bates-Diop,PHX,Bates-Diop 1' Putback Dunk (2 PTS),Made Shot,Putback Dunk Shot,7,6,1,1,2.0,2.0,v
+S2324-G0554,2,05:18,POR,,PHX,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0554,2,03:44,POR,,PHX,,K. Bates-Diop,PHX,MISS Bates-Diop 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-223,13,0,1,3.0,0.0,v
+S2324-G0554,2,02:59,POR,52.0,PHX,65.0,K. Bates-Diop,PHX,Bates-Diop 2' Driving Finger Roll Layup (4 PTS),Made Shot,Driving Finger Roll Layup Shot,10,17,2,1,2.0,2.0,v
+S2324-G0554,2,02:45,POR,,PHX,,K. Bates-Diop,PHX,Bates-Diop S.FOUL (P1.T3) (J.Capers),Foul,Shooting,0,0,0,0,,,v
+S2324-G0554,2,02:45,POR,,PHX,,K. Bates-Diop,PHX,SUB: Durant FOR Bates-Diop,Substitution,,0,0,0,0,,,v
+S2324-G0554,4,06:33,POR,,PHX,,K. Bates-Diop,PHX,SUB: Nurkic FOR Bates-Diop,Substitution,,0,0,0,0,,,v
+S2324-G0132,1,05:37,PHI,,PHX,,K. Bates-Diop,PHX,SUB: Okogie FOR Bates-Diop,Substitution,,0,0,0,0,,,v
+S2324-G0132,2,06:04,PHI,,PHX,,K. Bates-Diop,PHX,MISS Bates-Diop 24' 3PT Jump Shot,Missed Shot,Jump Shot,239,-13,24,1,3.0,0.0,v
+S2324-G0132,2,02:37,PHI,,PHX,,K. Bates-Diop,PHX,Bates-Diop STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0132,2,01:09,PHI,47.0,PHX,43.0,K. Bates-Diop,PHX,Bates-Diop 7' Driving Floating Bank Jump Shot (2 PTS) (Okogie 2 AST),Made Shot,Driving Floating Bank Jump Shot,-58,47,7,1,2.0,2.0,v
+S2324-G0132,2,01:00,PHI,,PHX,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0132,2,00:10.200000,PHI,,PHX,,K. Bates-Diop,PHX,Bates-Diop BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0132,2,00:03.900000,PHI,,PHX,,K. Bates-Diop,PHX,MISS Bates-Diop 3' Driving Layup,Missed Shot,Driving Layup Shot,16,31,3,1,2.0,0.0,v
+S2324-G0132,3,09:04,PHI,63.0,PHX,54.0,K. Bates-Diop,PHX,Bates-Diop 25' 3PT Jump Shot (5 PTS) (Eubanks 4 AST),Made Shot,Jump Shot,-159,188,25,1,3.0,3.0,v
+S2324-G0132,3,06:03,PHI,,PHX,,K. Bates-Diop,PHX,Bates-Diop BLOCK (2 BLK),,,0,0,0,0,,,v
+S2324-G0132,3,06:01,PHI,,PHX,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0132,3,04:40,PHI,,PHX,,K. Bates-Diop,PHX,SUB: Nurkic FOR Bates-Diop,Substitution,,0,0,0,0,,,v
+S2324-G0132,4,03:03,PHI,,PHX,,K. Bates-Diop,PHX,MISS Bates-Diop 2' Layup,Missed Shot,Layup Shot,15,17,2,1,2.0,0.0,v
+S2324-G0132,4,01:47,PHI,,PHX,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0132,4,00:19,PHI,112.0,PHX,100.0,K. Bates-Diop,PHX,Bates-Diop 26' 3PT Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,-37,258,26,1,3.0,3.0,v
+S2324-G0132,4,00:19,PHI,,PHX,,K. Bates-Diop,PHX,MISS Bates-Diop Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2324-G0489,2,09:29,PHX,,MIA,,K. Bates-Diop,PHX,Bates-Diop S.FOUL (P1.T2) (M.Kogut),Foul,Shooting,0,0,0,0,,,h
+S2324-G0489,2,07:44,PHX,,MIA,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0489,2,07:29,PHX,,MIA,,K. Bates-Diop,PHX,Bates-Diop STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0489,2,07:27,PHX,,MIA,,K. Bates-Diop,PHX,MISS Bates-Diop 3' Running Layup,Missed Shot,Running Layup Shot,21,18,3,1,2.0,0.0,h
+S2324-G0489,2,06:21,PHX,,MIA,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0489,2,05:01,PHX,,MIA,,K. Bates-Diop,PHX,SUB: Metu FOR Bates-Diop,Substitution,,0,0,0,0,,,h
+S2324-G0489,3,00:00,PHX,,MIA,,K. Bates-Diop,PHX,MISS Bates-Diop 25' 3PT Jump Shot,Missed Shot,Jump Shot,212,132,25,1,3.0,0.0,h
+S2324-G0489,4,09:29,PHX,,MIA,,K. Bates-Diop,PHX,MISS Bates-Diop 24' 3PT Jump Shot,Missed Shot,Jump Shot,-229,58,24,1,3.0,0.0,h
+S2324-G0489,4,09:15,PHX,,MIA,,K. Bates-Diop,PHX,Bates-Diop STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0489,4,09:09,PHX,,MIA,,K. Bates-Diop,PHX,MISS Bates-Diop 3' Running Reverse Layup,Missed Shot,Running Reverse Layup Shot,-25,-2,3,1,2.0,0.0,h
+S2324-G0489,4,08:07,PHX,,MIA,,K. Bates-Diop,PHX,MISS Bates-Diop 3PT Jump Shot,Missed Shot,Jump Shot,233,3,0,1,3.0,0.0,h
+S2324-G0489,4,05:02,PHX,,MIA,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0489,4,04:18,PHX,,MIA,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0489,4,04:18,PHX,,MIA,,K. Bates-Diop,PHX,MISS Bates-Diop Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2324-G0489,4,04:05,PHX,,MIA,,K. Bates-Diop,PHX,Bates-Diop STEAL (3 STL),,,0,0,0,0,,,h
+S2324-G0489,4,03:44,PHX,,MIA,,K. Bates-Diop,PHX,SUB: Allen FOR Bates-Diop,Substitution,,0,0,0,0,,,h
+S2324-G0333,1,00:02.700000,PHX,,NYK,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0333,2,04:24,PHX,,NYK,,K. Bates-Diop,PHX,SUNS T.Foul (Def. 3 Sec Bates-Diop ) (N.Buchert),Foul,Defense 3 Second,0,0,0,0,,,h
+S2324-G0333,2,03:20,PHX,,NYK,,K. Bates-Diop,PHX,MISS Bates-Diop 3' Layup,Missed Shot,Layup Shot,12,31,3,1,2.0,0.0,h
+S2324-G0333,2,03:11,PHX,,NYK,,K. Bates-Diop,PHX,SUB: Booker FOR Bates-Diop,Substitution,,0,0,0,0,,,h
+S2324-G0333,3,02:14,PHX,,NYK,,K. Bates-Diop,PHX,MISS Bates-Diop 25' 3PT Jump Shot,Missed Shot,Jump Shot,126,221,25,1,3.0,0.0,h
+S2324-G0333,3,01:22,PHX,,NYK,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0333,4,05:27,PHX,,NYK,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0333,4,05:19,PHX,,NYK,,K. Bates-Diop,PHX,MISS Bates-Diop 3' Layup,Missed Shot,Layup Shot,1,30,3,1,2.0,0.0,h
+S2324-G0333,4,01:32,PHX,118.0,NYK,136.0,K. Bates-Diop,PHX,Bates-Diop 13' Cutting Dunk Shot (2 PTS) (Goodwin 9 AST),Made Shot,Cutting Dunk Shot,67,113,13,1,2.0,2.0,h
+S2324-G0333,4,01:12,PHX,120.0,NYK,136.0,K. Bates-Diop,PHX,Bates-Diop 10' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,37,96,10,1,2.0,2.0,h
+S2324-G0260,1,00:28.400000,TOR,,PHX,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0260,2,11:06,TOR,,PHX,,K. Bates-Diop,PHX,MISS Bates-Diop 24' 3PT Jump Shot,Missed Shot,Jump Shot,237,9,24,1,3.0,0.0,v
+S2324-G0260,2,10:22,TOR,,PHX,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0260,2,10:18,TOR,32.0,PHX,22.0,K. Bates-Diop,PHX,Bates-Diop 3' Layup (2 PTS),Made Shot,Layup Shot,25,9,3,1,2.0,2.0,v
+S2324-G0260,2,10:18,TOR,32.0,PHX,23.0,K. Bates-Diop,PHX,Bates-Diop Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G0260,2,09:57,TOR,32.0,PHX,25.0,K. Bates-Diop,PHX,Bates-Diop 2' Running Layup (5 PTS) (Goodwin 1 AST),Made Shot,Running Layup Shot,-16,9,2,1,2.0,2.0,v
+S2324-G0260,2,08:12,TOR,,PHX,,K. Bates-Diop,PHX,SUB: Durant FOR Bates-Diop,Substitution,,0,0,0,0,,,v
+S2324-G0260,3,01:48,TOR,,PHX,,K. Bates-Diop,PHX,MISS Bates-Diop 10' Driving Hook Shot,Missed Shot,Driving Hook Shot,-99,34,10,1,2.0,0.0,v
+S2324-G0260,3,01:06,TOR,81.0,PHX,77.0,K. Bates-Diop,PHX,Bates-Diop Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0260,3,01:06,TOR,81.0,PHX,78.0,K. Bates-Diop,PHX,Bates-Diop Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0260,4,08:20,TOR,,PHX,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0260,4,08:20,TOR,96.0,PHX,88.0,K. Bates-Diop,PHX,Bates-Diop Tip Layup Shot (9 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2324-G0260,4,08:06,TOR,,PHX,,K. Bates-Diop,PHX,SUB: Gordon FOR Bates-Diop,Substitution,,0,0,0,0,,,v
+S2324-G0236,1,01:39,PHX,,GSW,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0236,1,00:30.300000,PHX,,GSW,,K. Bates-Diop,PHX,MISS Bates-Diop Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0236,1,00:30.300000,PHX,,GSW,,K. Bates-Diop,PHX,MISS Bates-Diop Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0236,2,10:10,PHX,,GSW,,K. Bates-Diop,PHX,Bates-Diop S.FOUL (P1.T1) (K.Cutler),Foul,Shooting,0,0,0,0,,,h
+S2324-G0236,2,09:25,PHX,,GSW,,K. Bates-Diop,PHX,Bates-Diop STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0236,2,09:19,PHX,,GSW,,K. Bates-Diop,PHX,Bates-Diop Out of Bounds - Bad Pass Turnover Turnover (P1.T2),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G0236,2,08:47,PHX,,GSW,,K. Bates-Diop,PHX,SUB: Durant FOR Bates-Diop,Substitution,,0,0,0,0,,,h
+S2324-G0236,2,00:03.400000,PHX,,GSW,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0236,3,02:18,PHX,,GSW,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0236,3,02:18,PHX,,GSW,,K. Bates-Diop,PHX,MISS Bates-Diop 2' Putback Layup,Missed Shot,Putback Layup Shot,2,21,2,1,2.0,0.0,h
+S2324-G0236,4,10:25,PHX,94.0,GSW,81.0,K. Bates-Diop,PHX,Bates-Diop 24' 3PT Jump Shot (3 PTS) (Booker 8 AST),Made Shot,Jump Shot,-239,17,24,1,3.0,3.0,h
+S2324-G0236,4,09:18,PHX,,GSW,,K. Bates-Diop,PHX,SUB: Okogie FOR Bates-Diop,Substitution,,0,0,0,0,,,h
+S2324-G0308,3,00:07.900000,PHX,,GSW,,K. Bates-Diop,PHX,MISS Bates-Diop 28' 3PT Jump Shot,Missed Shot,Jump Shot,-22,280,28,1,3.0,0.0,h
+S2324-G0308,4,08:38,PHX,,GSW,,K. Bates-Diop,PHX,Bates-Diop Bad Pass Turnover (P1.T10),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0308,4,08:17,PHX,,GSW,,K. Bates-Diop,PHX,MISS Bates-Diop 25' 3PT Jump Shot,Missed Shot,Jump Shot,-234,86,25,1,3.0,0.0,h
+S2324-G0308,4,07:38,PHX,,GSW,,K. Bates-Diop,PHX,SUB: Booker FOR Bates-Diop,Substitution,,0,0,0,0,,,h
+S2324-G0830,4,02:12,MEM,,BKN,,K. Bates-Diop,BKN,MISS Bates-Diop 26' 3PT Jump Shot,Missed Shot,Jump Shot,-168,194,26,1,3.0,0.0,v
+S2324-G0830,4,01:40,MEM,84.0,BKN,110.0,K. Bates-Diop,BKN,Bates-Diop Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0830,4,01:40,MEM,84.0,BKN,111.0,K. Bates-Diop,BKN,Bates-Diop Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0830,4,01:26,MEM,,BKN,,K. Bates-Diop,BKN,Bates-Diop BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0830,4,00:45.700000,MEM,,BKN,,K. Bates-Diop,BKN,MISS Bates-Diop 24' 3PT Jump Shot,Missed Shot,Jump Shot,-234,44,24,1,3.0,0.0,v
+S2324-G0902,1,05:24,DET,,BKN,,K. Bates-Diop,BKN,MISS Bates-Diop 4' Driving Hook Shot,Missed Shot,Driving Hook Shot,34,20,4,1,2.0,0.0,v
+S2324-G0902,1,04:45,DET,,BKN,,K. Bates-Diop,BKN,Bates-Diop STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0902,1,04:35,DET,,BKN,,K. Bates-Diop,BKN,Bates-Diop REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0902,1,04:35,DET,17.0,BKN,8.0,K. Bates-Diop,BKN,Bates-Diop Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2324-G0902,1,03:21,DET,,BKN,,K. Bates-Diop,BKN,Bates-Diop REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0902,1,03:10,DET,,BKN,,K. Bates-Diop,BKN,MISS Bates-Diop 3' Layup,Missed Shot,Layup Shot,26,13,3,1,2.0,0.0,v
+S2324-G0902,1,02:38,DET,,BKN,,K. Bates-Diop,BKN,SUB: Claxton FOR Bates-Diop,Substitution,,0,0,0,0,,,v
+S2324-G0851,4,05:25,BKN,,ATL,,K. Bates-Diop,BKN,Bates-Diop OFF.Foul (P1) (E.Dalen),Foul,Offensive,0,0,0,0,,,h
+S2324-G0851,4,05:25,BKN,,ATL,,K. Bates-Diop,BKN,Bates-Diop Offensive Foul Turnover (P1.T9),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0851,4,04:50,BKN,117.0,ATL,90.0,K. Bates-Diop,BKN,Bates-Diop 3' Cutting Layup Shot (2 PTS) (Smith Jr. 4 AST),Made Shot,Cutting Layup Shot,26,10,3,1,2.0,2.0,h
+S2324-G0851,4,01:29,BKN,123.0,ATL,95.0,K. Bates-Diop,BKN,Bates-Diop Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0851,4,01:29,BKN,124.0,ATL,95.0,K. Bates-Diop,BKN,Bates-Diop Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0690,1,00:48.400000,ATL,,PHX,,K. Bates-Diop,PHX,MISS Bates-Diop 3PT Jump Shot,Missed Shot,Jump Shot,230,14,0,1,3.0,0.0,v
+S2324-G0690,1,00:35.400000,ATL,,PHX,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0690,1,00:28.400000,ATL,,PHX,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0690,1,00:28.400000,ATL,,PHX,,K. Bates-Diop,PHX,MISS Bates-Diop Putback Layup,Missed Shot,Putback Layup Shot,0,0,0,1,2.0,0.0,v
+S2324-G0690,2,04:17,ATL,55.0,PHX,50.0,K. Bates-Diop,PHX,Bates-Diop 3PT Jump Shot (3 PTS) (Booker 2 AST),Made Shot,Jump Shot,232,6,0,1,3.0,3.0,v
+S2324-G0690,2,03:12,ATL,,PHX,,K. Bates-Diop,PHX,SUB: Gordon FOR Bates-Diop,Substitution,,0,0,0,0,,,v
+S2324-G0690,3,03:01,ATL,89.0,PHX,92.0,K. Bates-Diop,PHX,Bates-Diop 24' 3PT Jump Shot (6 PTS) (Booker 3 AST),Made Shot,Jump Shot,-234,36,24,1,3.0,3.0,v
+S2324-G0690,3,00:51.600000,ATL,,PHX,,K. Bates-Diop,PHX,MISS Bates-Diop 24' 3PT Jump Shot,Missed Shot,Jump Shot,-240,-20,24,1,3.0,0.0,v
+S2324-G0604,1,03:24,PHX,,IND,,K. Bates-Diop,PHX,Bates-Diop Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0604,1,02:47,PHX,,IND,,K. Bates-Diop,PHX,SUB: Beal FOR Bates-Diop,Substitution,,0,0,0,0,,,h
+S2324-G0604,1,00:35.400000,PHX,,IND,,K. Bates-Diop,PHX,Bates-Diop STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0604,2,04:21,PHX,,IND,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0604,2,02:54,PHX,,IND,,K. Bates-Diop,PHX,SUB: Durant FOR Bates-Diop,Substitution,,0,0,0,0,,,h
+S2324-G0604,4,09:27,PHX,,IND,,K. Bates-Diop,PHX,Bates-Diop S.FOUL (P1.T1) (C.Kirkland),Foul,Shooting,0,0,0,0,,,h
+S2324-G0604,4,08:31,PHX,,IND,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0604,4,06:46,PHX,,IND,,K. Bates-Diop,PHX,SUB: Booker FOR Bates-Diop,Substitution,,0,0,0,0,,,h
+S2324-G0887,1,00:28,BKN,,PHI,,K. Bates-Diop,BKN,MISS Bates-Diop 31' 3PT Jump Shot,Missed Shot,Jump Shot,112,286,31,1,3.0,0.0,h
+S2324-G0887,3,03:23,BKN,73.0,PHI,72.0,K. Bates-Diop,BKN,Bates-Diop 1' Dunk (2 PTS) (Schroder 4 AST),Made Shot,Dunk Shot,12,-5,1,1,2.0,2.0,h
+S2324-G0887,3,02:22,BKN,,PHI,,K. Bates-Diop,BKN,Bates-Diop REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0887,3,00:33.600000,BKN,,PHI,,K. Bates-Diop,BKN,SUB: Claxton FOR Bates-Diop,Substitution,,0,0,0,0,,,h
+S2324-G0612,1,00:02.700000,PHX,,,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0612,2,10:08,PHX,,,,K. Bates-Diop,PHX,Bates-Diop STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0612,2,09:45,PHX,29.0,,41.0,K. Bates-Diop,PHX,Bates-Diop 1' Running Dunk (2 PTS) (Durant 3 AST),Made Shot,Running Dunk Shot,4,5,1,1,2.0,2.0,h
+S2324-G0612,2,07:58,PHX,,,,K. Bates-Diop,PHX,SUB: Allen FOR Bates-Diop,Substitution,,0,0,0,0,,,h
+S2324-G0612,2,03:22,PHX,,,,K. Bates-Diop,PHX,SUB: Beal FOR Bates-Diop,Substitution,,0,0,0,0,,,h
+S2324-G0612,3,00:47.800000,PHX,81.0,,90.0,K. Bates-Diop,PHX,Bates-Diop 28' 3PT Jump Shot (5 PTS) (Booker 4 AST),Made Shot,Jump Shot,-206,193,28,1,3.0,3.0,h
+S2324-G0612,4,09:49,PHX,,,,K. Bates-Diop,PHX,MISS Bates-Diop 29' 3PT Jump Shot,Missed Shot,Jump Shot,-179,222,29,1,3.0,0.0,h
+S2324-G0612,4,09:02,PHX,,,,K. Bates-Diop,PHX,Bates-Diop BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0612,4,07:25,PHX,,,,K. Bates-Diop,PHX,SUB: Allen FOR Bates-Diop,Substitution,,0,0,0,0,,,h
+S2324-G0612,4,00:22.900000,PHX,,,,K. Bates-Diop,PHX,SUB: Nurkic FOR Bates-Diop,Substitution,,0,0,0,0,,,h
+S2324-G0612,4,00:01,PHX,,,,K. Bates-Diop,PHX,Bates-Diop P.FOUL (P1.T4) (K.Lane),Foul,Personal,0,0,0,0,,,h
+S2324-G0612,4,00:01,PHX,,,,K. Bates-Diop,PHX,SUB: Nurkic FOR Bates-Diop,Substitution,,0,0,0,0,,,h
+S2324-G0833,4,05:53,ORL,,BKN,,K. Bates-Diop,BKN,MISS Bates-Diop 26' 3PT Jump Shot,Missed Shot,Jump Shot,-200,162,26,1,3.0,0.0,v
+S2324-G0833,4,05:17,ORL,103.0,BKN,73.0,K. Bates-Diop,BKN,Bates-Diop 3' Driving Reverse Layup (2 PTS) (Wilson 1 AST),Made Shot,Driving Reverse Layup Shot,18,23,3,1,2.0,2.0,v
+S2324-G0833,4,01:05,ORL,,BKN,,K. Bates-Diop,BKN,Bates-Diop REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0131,2,04:13,PHX,47.0,SAS,64.0,K. Bates-Diop,PHX,Bates-Diop 1' Cutting Dunk Shot (2 PTS) (Nurkic 2 AST),Made Shot,Cutting Dunk Shot,-5,11,1,1,2.0,2.0,h
+S2324-G0131,2,03:12,PHX,,SAS,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0131,2,03:12,PHX,,SAS,,K. Bates-Diop,PHX,MISS Bates-Diop Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0131,2,03:12,PHX,,SAS,,K. Bates-Diop,PHX,MISS Bates-Diop Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0131,2,02:25,PHX,,SAS,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0131,2,02:14,PHX,49.0,SAS,67.0,K. Bates-Diop,PHX,Bates-Diop Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0131,2,02:14,PHX,50.0,SAS,67.0,K. Bates-Diop,PHX,Bates-Diop Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0131,2,01:30,PHX,,SAS,,K. Bates-Diop,PHX,MISS Bates-Diop 26' 3PT Jump Shot,Missed Shot,Jump Shot,-205,167,26,1,3.0,0.0,h
+S2324-G0131,2,01:05,PHX,,SAS,,K. Bates-Diop,PHX,SUB: Booker FOR Bates-Diop,Substitution,,0,0,0,0,,,h
+S2324-G0131,4,10:14,PHX,93.0,SAS,106.0,K. Bates-Diop,PHX,Bates-Diop 2' Driving Reverse Layup (6 PTS),Made Shot,Driving Reverse Layup Shot,21,-2,2,1,2.0,2.0,h
+S2324-G0131,4,07:32,PHX,103.0,SAS,111.0,K. Bates-Diop,PHX,Bates-Diop 3' Driving Floating Bank Jump Shot (8 PTS) (Watanabe 1 AST),Made Shot,Driving Floating Bank Jump Shot,-26,3,3,1,2.0,2.0,h
+S2324-G0131,4,06:04,PHX,108.0,SAS,111.0,K. Bates-Diop,PHX,Bates-Diop 2' Running Dunk (10 PTS) (Booker 12 AST),Made Shot,Running Dunk Shot,11,20,2,1,2.0,2.0,h
+S2324-G0131,4,04:21,PHX,116.0,SAS,116.0,K. Bates-Diop,PHX,Bates-Diop 3PT Jump Shot (13 PTS) (Allen 4 AST),Made Shot,Jump Shot,230,15,0,1,3.0,3.0,h
+S2324-G0131,4,00:38.800000,PHX,,SAS,,K. Bates-Diop,PHX,Bates-Diop P.FOUL (P1.T3) (T.Brothers),Foul,Personal,0,0,0,0,,,h
+S2324-G0131,4,00:24,PHX,,SAS,,K. Bates-Diop,PHX,MISS Bates-Diop 28' 3PT Jump Shot,Missed Shot,Jump Shot,163,226,28,1,3.0,0.0,h
+S2324-G0473,1,04:46,PHX,,LAC,,K. Bates-Diop,PHX,MISS Bates-Diop 3PT Jump Shot,Missed Shot,Jump Shot,-233,-26,0,1,3.0,0.0,h
+S2324-G0473,1,04:17,PHX,,LAC,,K. Bates-Diop,PHX,MISS Bates-Diop 2' Layup,Missed Shot,Layup Shot,-18,4,2,1,2.0,0.0,h
+S2324-G0473,2,04:36,PHX,,LAC,,K. Bates-Diop,PHX,Bates-Diop P.FOUL (P1.T2) (S.Corbin),Foul,Personal,0,0,0,0,,,h
+S2324-G0473,2,02:57,PHX,,LAC,,K. Bates-Diop,PHX,SUB: Beal FOR Bates-Diop,Substitution,,0,0,0,0,,,h
+S2324-G0473,3,06:28,PHX,,LAC,,K. Bates-Diop,PHX,Bates-Diop P.FOUL (P2.T2) (S.Corbin),Foul,Personal,0,0,0,0,,,h
+S2324-G0473,3,05:51,PHX,,LAC,,K. Bates-Diop,PHX,Bates-Diop S.FOUL (P3.T3) (N.Green),Foul,Shooting,0,0,0,0,,,h
+S2324-G0473,3,03:28,PHX,78.0,LAC,97.0,K. Bates-Diop,PHX,Bates-Diop Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0473,3,03:28,PHX,79.0,LAC,97.0,K. Bates-Diop,PHX,Bates-Diop Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0473,3,02:58,PHX,82.0,LAC,99.0,K. Bates-Diop,PHX,Bates-Diop 24' 3PT Jump Shot (5 PTS) (Allen 3 AST),Made Shot,Jump Shot,-235,41,24,1,3.0,3.0,h
+S2324-G0473,3,00:56.100000,PHX,,LAC,,K. Bates-Diop,PHX,Bates-Diop STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0473,4,08:00,PHX,,LAC,,K. Bates-Diop,PHX,SUB: Booker FOR Bates-Diop,Substitution,,0,0,0,0,,,h
+S2324-G0035,1,02:52,UTA,,PHX,,K. Bates-Diop,PHX,Bates-Diop S.FOUL (P1.T4) (M.Smith),Foul,Shooting,0,0,0,0,,,v
+S2324-G0035,1,01:51,UTA,,PHX,,K. Bates-Diop,PHX,Bates-Diop S.FOUL (P2.PN) (B.Kennedy),Foul,Shooting,0,0,0,0,,,v
+S2324-G0035,1,01:14,UTA,,PHX,,K. Bates-Diop,PHX,MISS Bates-Diop 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-60,8,6,1,2.0,0.0,v
+S2324-G0035,1,00:32.800000,UTA,,PHX,,K. Bates-Diop,PHX,Bates-Diop STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0035,2,10:50,UTA,,PHX,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0035,2,10:50,UTA,40.0,PHX,43.0,K. Bates-Diop,PHX,Bates-Diop 3' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,-31,8,3,1,2.0,2.0,v
+S2324-G0035,2,10:28,UTA,42.0,PHX,45.0,K. Bates-Diop,PHX,Bates-Diop 4' Driving Layup (4 PTS) (Booker 7 AST),Made Shot,Driving Layup Shot,25,27,4,1,2.0,2.0,v
+S2324-G0035,2,10:28,UTA,42.0,PHX,46.0,K. Bates-Diop,PHX,Bates-Diop Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G0035,2,09:29,UTA,,PHX,,K. Bates-Diop,PHX,Bates-Diop STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0035,2,08:26,UTA,45.0,PHX,52.0,K. Bates-Diop,PHX,Bates-Diop Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0035,2,08:26,UTA,45.0,PHX,53.0,K. Bates-Diop,PHX,Bates-Diop Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0035,2,07:23,UTA,,PHX,,K. Bates-Diop,PHX,Bates-Diop S.FOUL (P3.T1) (M.Smith),Foul,Shooting,0,0,0,0,,,v
+S2324-G0035,2,07:23,UTA,,PHX,,K. Bates-Diop,PHX,SUB: Nurkic FOR Bates-Diop,Substitution,,0,0,0,0,,,v
+S2324-G0035,3,02:06,UTA,,PHX,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0035,3,00:32.500000,UTA,,PHX,,K. Bates-Diop,PHX,Bates-Diop BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0035,4,11:09,UTA,,PHX,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0035,4,10:37,UTA,,PHX,,K. Bates-Diop,PHX,Bates-Diop BLOCK (2 BLK),,,0,0,0,0,,,v
+S2324-G0035,4,07:29,UTA,,PHX,,K. Bates-Diop,PHX,MISS Bates-Diop 7' Running Layup,Missed Shot,Running Layup Shot,64,22,7,1,2.0,0.0,v
+S2324-G0035,4,07:21,UTA,,PHX,,K. Bates-Diop,PHX,Bates-Diop S.FOUL (P4.T2) (M.Smith),Foul,Shooting,0,0,0,0,,,v
+S2324-G0035,4,07:21,UTA,,PHX,,K. Bates-Diop,PHX,SUB: Allen FOR Bates-Diop,Substitution,,0,0,0,0,,,v
+S2324-G0035,4,00:14.100000,UTA,,PHX,,K. Bates-Diop,PHX,Bates-Diop BLOCK (3 BLK),,,0,0,0,0,,,v
+S2324-G0035,4,00:03.200000,UTA,,PHX,,K. Bates-Diop,PHX,SUB: Gordon FOR Bates-Diop,Substitution,,0,0,0,0,,,v
+S2324-G0625,1,01:36,DAL,,PHX,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0625,2,09:51,DAL,,PHX,,K. Bates-Diop,PHX,MISS Bates-Diop 1' Layup,Missed Shot,Layup Shot,5,9,1,1,2.0,0.0,v
+S2324-G0625,2,09:48,DAL,,PHX,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0625,2,09:48,DAL,41.0,PHX,28.0,K. Bates-Diop,PHX,Bates-Diop 2' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,12,11,2,1,2.0,2.0,v
+S2324-G0625,2,09:11,DAL,,PHX,,K. Bates-Diop,PHX,Bates-Diop Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0625,2,08:23,DAL,46.0,PHX,32.0,K. Bates-Diop,PHX,Bates-Diop 3' Driving Layup (4 PTS) (Allen 2 AST),Made Shot,Driving Layup Shot,-25,8,3,1,2.0,2.0,v
+S2324-G0625,2,06:35,DAL,,PHX,,K. Bates-Diop,PHX,MISS Bates-Diop 3PT Jump Shot,Missed Shot,Jump Shot,224,36,0,1,3.0,0.0,v
+S2324-G0625,2,06:23,DAL,,PHX,,K. Bates-Diop,PHX,SUB: Okogie FOR Bates-Diop,Substitution,,0,0,0,0,,,v
+S2324-G0625,2,03:52,DAL,,PHX,,K. Bates-Diop,PHX,SUB: Durant FOR Bates-Diop,Substitution,,0,0,0,0,,,v
+S2324-G0625,3,02:18,DAL,,PHX,,K. Bates-Diop,PHX,Bates-Diop STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0625,3,02:15,DAL,70.0,PHX,93.0,K. Bates-Diop,PHX,Bates-Diop Running Dunk (6 PTS),Made Shot,Running Dunk Shot,4,0,0,1,2.0,2.0,v
+S2324-G0625,4,06:36,DAL,90.0,PHX,111.0,K. Bates-Diop,PHX,Bates-Diop 1' Driving Reverse Layup (8 PTS),Made Shot,Driving Reverse Layup Shot,9,2,1,1,2.0,2.0,v
+S2324-G0625,4,05:12,DAL,94.0,PHX,114.0,K. Bates-Diop,PHX,Bates-Diop 24' 3PT Jump Shot (11 PTS) (Okogie 3 AST),Made Shot,Jump Shot,235,-1,24,1,3.0,3.0,v
+S2324-G0625,4,04:48,DAL,,PHX,,K. Bates-Diop,PHX,SUB: Allen FOR Bates-Diop,Substitution,,0,0,0,0,,,v
+S2324-G0214,1,01:20,UTA,,PHX,,K. Bates-Diop,PHX,MISS Bates-Diop 3PT Jump Shot,Missed Shot,Jump Shot,230,3,0,1,3.0,0.0,v
+S2324-G0214,1,01:08,UTA,,PHX,,K. Bates-Diop,PHX,Bates-Diop STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0214,2,11:09,UTA,,PHX,,K. Bates-Diop,PHX,Bates-Diop BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0214,2,10:28,UTA,32.0,PHX,35.0,K. Bates-Diop,PHX,Bates-Diop 3PT Jump Shot (3 PTS) (Booker 4 AST),Made Shot,Jump Shot,-232,-8,0,1,3.0,3.0,v
+S2324-G0214,2,09:53,UTA,,PHX,,K. Bates-Diop,PHX,Bates-Diop BLOCK (2 BLK),,,0,0,0,0,,,v
+S2324-G0214,2,08:58,UTA,,PHX,,K. Bates-Diop,PHX,Bates-Diop S.FOUL (P1.T1) (J.Sterling),Foul,Shooting,0,0,0,0,,,v
+S2324-G0214,2,08:40,UTA,37.0,PHX,42.0,K. Bates-Diop,PHX,Bates-Diop 5' Driving Floating Jump Shot (5 PTS) (Gordon 3 AST),Made Shot,Driving Floating Jump Shot,-18,47,5,1,2.0,2.0,v
+S2324-G0214,2,08:40,UTA,37.0,PHX,43.0,K. Bates-Diop,PHX,Bates-Diop Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G0214,2,08:30,UTA,,PHX,,K. Bates-Diop,PHX,SUB: Little FOR Bates-Diop,Substitution,,0,0,0,0,,,v
+S2324-G0214,3,02:12,UTA,,PHX,,K. Bates-Diop,PHX,MISS Bates-Diop 26' 3PT Jump Shot,Missed Shot,Jump Shot,107,235,26,1,3.0,0.0,v
+S2324-G0214,4,11:06,UTA,,PHX,,K. Bates-Diop,PHX,MISS Bates-Diop 27' 3PT Jump Shot,Missed Shot,Jump Shot,93,253,27,1,3.0,0.0,v
+S2324-G0214,4,09:35,UTA,,PHX,,K. Bates-Diop,PHX,MISS Bates-Diop 6' Floating Jump Shot,Missed Shot,Floating Jump shot,0,55,6,1,2.0,0.0,v
+S2324-G0214,4,06:06,UTA,,PHX,,K. Bates-Diop,PHX,Bates-Diop S.FOUL (P2.T2) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,v
+S2324-G0214,4,05:22,UTA,,PHX,,K. Bates-Diop,PHX,SUB: Booker FOR Bates-Diop,Substitution,,0,0,0,0,,,v
+S2324-G0214,4,00:33.400000,UTA,,PHX,,K. Bates-Diop,PHX,Bates-Diop L.B.FOUL (P3.T4) (Z.Zarba),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0214,5,00:09.100000,UTA,,PHX,,K. Bates-Diop,PHX,SUB: Allen FOR Bates-Diop,Substitution,,0,0,0,0,,,v
+S2324-G0214,6,00:01,UTA,,PHX,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0185,1,02:23,PHX,,OKC,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0185,1,02:22,PHX,,OKC,,K. Bates-Diop,PHX,MISS Bates-Diop 2' Reverse Layup,Missed Shot,Reverse Layup Shot,20,-1,2,1,2.0,0.0,h
+S2324-G0185,1,01:17,PHX,,OKC,,K. Bates-Diop,PHX,Bates-Diop S.FOUL (P1.PN) (B.Barnaky),Foul,Shooting,0,0,0,0,,,h
+S2324-G0185,1,00:45.400000,PHX,,OKC,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0185,2,10:36,PHX,,OKC,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0185,2,10:24,PHX,33.0,OKC,31.0,K. Bates-Diop,PHX,Bates-Diop 1' Cutting Dunk Shot (2 PTS) (Nurkic 1 AST),Made Shot,Cutting Dunk Shot,-11,4,1,1,2.0,2.0,h
+S2324-G0185,2,08:25,PHX,35.0,OKC,35.0,K. Bates-Diop,PHX,Bates-Diop 5' Layup (4 PTS) (Goodwin 2 AST),Made Shot,Layup Shot,-23,47,5,1,2.0,2.0,h
+S2324-G0185,2,06:24,PHX,42.0,OKC,40.0,K. Bates-Diop,PHX,Bates-Diop 1' Running Layup (6 PTS) (Beal 3 AST),Made Shot,Running Layup Shot,-7,4,1,1,2.0,2.0,h
+S2324-G0185,2,05:57,PHX,,OKC,,K. Bates-Diop,PHX,MISS Bates-Diop 1' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,-6,7,1,1,2.0,0.0,h
+S2324-G0185,2,04:38,PHX,,OKC,,K. Bates-Diop,PHX,SUB: Watanabe FOR Bates-Diop,Substitution,,0,0,0,0,,,h
+S2324-G0185,3,05:06,PHX,,OKC,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0185,3,02:42,PHX,,OKC,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0185,3,01:25,PHX,,OKC,,K. Bates-Diop,PHX,Bates-Diop Traveling Turnover (P1.T13),Turnover,Traveling,0,0,0,0,,,h
+S2324-G0185,3,00:28.900000,PHX,,OKC,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0185,3,00:07,PHX,,OKC,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0185,3,00:06.400000,PHX,,OKC,,K. Bates-Diop,PHX,MISS Bates-Diop 2' Tip Layup Shot,Missed Shot,Tip Layup Shot,-1,23,2,1,2.0,0.0,h
+S2324-G0185,4,08:48,PHX,,OKC,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0185,4,08:47,PHX,,OKC,,K. Bates-Diop,PHX,MISS Bates-Diop 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,-3,8,1,1,2.0,0.0,h
+S2324-G0185,4,08:41,PHX,,OKC,,K. Bates-Diop,PHX,MISS Bates-Diop 1' Driving Layup,Missed Shot,Driving Layup Shot,-9,-5,1,1,2.0,0.0,h
+S2324-G0185,4,04:32,PHX,,OKC,,K. Bates-Diop,PHX,Bates-Diop S.FOUL (P2.T4) (M.Boland),Foul,Shooting,0,0,0,0,,,h
+S2324-G0185,4,04:32,PHX,,OKC,,K. Bates-Diop,PHX,SUB: Allen FOR Bates-Diop,Substitution,,0,0,0,0,,,h
+S2324-G0185,4,02:22,PHX,,OKC,,K. Bates-Diop,PHX,Bates-Diop P.FOUL (P3.PN) (B.Barnaky),Foul,Personal,0,0,0,0,,,h
+S2324-G0185,4,00:57.100000,PHX,,OKC,,K. Bates-Diop,PHX,MISS Bates-Diop 25' 3PT Jump Shot,Missed Shot,Jump Shot,246,-18,25,1,3.0,0.0,h
+S2324-G0185,4,00:39.900000,PHX,,OKC,,K. Bates-Diop,PHX,SUB: Eubanks FOR Bates-Diop,Substitution,,0,0,0,0,,,h
+S2324-G0279,1,06:12,PHX,,DEN,,K. Bates-Diop,PHX,SUB: Goodwin FOR Bates-Diop,Substitution,,0,0,0,0,,,h
+S2324-G0279,2,06:12,PHX,42.0,DEN,56.0,K. Bates-Diop,PHX,Bates-Diop Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0279,2,06:12,PHX,43.0,DEN,56.0,K. Bates-Diop,PHX,Bates-Diop Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0279,2,04:38,PHX,46.0,DEN,60.0,K. Bates-Diop,PHX,Bates-Diop Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0279,2,04:38,PHX,47.0,DEN,60.0,K. Bates-Diop,PHX,Bates-Diop Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0279,2,02:47,PHX,,DEN,,K. Bates-Diop,PHX,SUB: Okogie FOR Bates-Diop,Substitution,,0,0,0,0,,,h
+S2324-G0279,3,10:55,PHX,,DEN,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0279,3,10:49,PHX,,DEN,,K. Bates-Diop,PHX,MISS Bates-Diop 3' Running Layup,Missed Shot,Running Layup Shot,-16,30,3,1,2.0,0.0,h
+S2324-G0279,3,06:19,PHX,,DEN,,K. Bates-Diop,PHX,SUB: Little FOR Bates-Diop,Substitution,,0,0,0,0,,,h
+S2324-G0279,3,00:06.900000,PHX,,DEN,,K. Bates-Diop,PHX,SUB: Durant FOR Bates-Diop,Substitution,,0,0,0,0,,,h
+S2324-G0279,4,00:24.100000,PHX,,DEN,,K. Bates-Diop,PHX,SUB: Eubanks FOR Bates-Diop,Substitution,,0,0,0,0,,,h
+S2324-G0015,1,09:57,PHX,2.0,LAL,5.0,K. Bates-Diop,PHX,Bates-Diop 4' Running Layup (2 PTS),Made Shot,Running Layup Shot,-26,26,4,1,2.0,2.0,h
+S2324-G0015,1,09:57,PHX,3.0,LAL,5.0,K. Bates-Diop,PHX,Bates-Diop Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G0015,1,04:28,PHX,,LAL,,K. Bates-Diop,PHX,MISS Bates-Diop 24' 3PT Jump Shot,Missed Shot,Jump Shot,-241,16,24,1,3.0,0.0,h
+S2324-G0015,1,04:22,PHX,,LAL,,K. Bates-Diop,PHX,SUB: Gordon FOR Bates-Diop,Substitution,,0,0,0,0,,,h
+S2324-G0015,2,04:15,PHX,,LAL,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0015,2,04:05,PHX,57.0,LAL,44.0,K. Bates-Diop,PHX,Bates-Diop 1' Cutting Layup Shot (5 PTS) (Nurkic 4 AST),Made Shot,Cutting Layup Shot,-5,8,1,1,2.0,2.0,h
+S2324-G0015,2,02:58,PHX,,LAL,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0015,2,01:08,PHX,,LAL,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0015,3,11:37,PHX,,LAL,,K. Bates-Diop,PHX,MISS Bates-Diop 27' 3PT Jump Shot,Missed Shot,Jump Shot,165,211,27,1,3.0,0.0,h
+S2324-G0015,3,11:05,PHX,,LAL,,K. Bates-Diop,PHX,MISS Bates-Diop 24' 3PT Jump Shot,Missed Shot,Jump Shot,233,57,24,1,3.0,0.0,h
+S2324-G0015,3,10:41,PHX,,LAL,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0015,3,07:00,PHX,,LAL,,K. Bates-Diop,PHX,Bates-Diop STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0015,3,05:31,PHX,79.0,LAL,70.0,K. Bates-Diop,PHX,Bates-Diop 25' 3PT Jump Shot (8 PTS) (Durant 3 AST),Made Shot,Jump Shot,245,5,25,1,3.0,3.0,h
+S2324-G0015,3,04:50,PHX,,LAL,,K. Bates-Diop,PHX,MISS Bates-Diop 1' Reverse Layup,Missed Shot,Reverse Layup Shot,-13,1,1,1,2.0,0.0,h
+S2324-G0015,3,04:43,PHX,,LAL,,K. Bates-Diop,PHX,SUB: Watanabe FOR Bates-Diop,Substitution,,0,0,0,0,,,h
+S2324-G0015,3,00:28.600000,PHX,,LAL,,K. Bates-Diop,PHX,SUB: Allen FOR Bates-Diop,Substitution,,0,0,0,0,,,h
+S2324-G0015,4,11:47,PHX,,LAL,,K. Bates-Diop,PHX,Bates-Diop STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0015,4,11:23,PHX,,LAL,,K. Bates-Diop,PHX,MISS Bates-Diop 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-108,16,11,1,2.0,0.0,h
+S2324-G0015,4,09:25,PHX,,LAL,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0015,4,08:45,PHX,,LAL,,K. Bates-Diop,PHX,MISS Bates-Diop 24' 3PT Jump Shot,Missed Shot,Jump Shot,238,25,24,1,3.0,0.0,h
+S2324-G0015,4,05:32,PHX,103.0,LAL,107.0,K. Bates-Diop,PHX,Bates-Diop 4' Jump Bank Shot (10 PTS),Made Shot,Jump Bank Shot,20,31,4,1,2.0,2.0,h
+S2324-G0015,4,05:32,PHX,104.0,LAL,107.0,K. Bates-Diop,PHX,Bates-Diop Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G0015,4,04:29,PHX,,LAL,,K. Bates-Diop,PHX,SUB: Beal FOR Bates-Diop,Substitution,,0,0,0,0,,,h
+S2324-G0015,4,00:10.700000,PHX,,LAL,,K. Bates-Diop,PHX,MISS Bates-Diop 3PT Jump Shot,Missed Shot,Jump Shot,-230,3,0,1,3.0,0.0,h
+S2324-G0015,4,00:01.900000,PHX,,LAL,,K. Bates-Diop,PHX,SUB: Nurkic FOR Bates-Diop,Substitution,,0,0,0,0,,,h
+S2324-G1203,2,08:49,LAL,,PHX,,K. Bates-Diop,PHX,MISS Bates-Diop 25' 3PT Jump Shot,Missed Shot,Jump Shot,116,223,25,1,3.0,0.0,v
+S2324-G1203,2,07:31,LAL,44.0,PHX,31.0,K. Bates-Diop,PHX,Bates-Diop 2' Cutting Dunk Shot (2 PTS) (Nurkic 2 AST),Made Shot,Cutting Dunk Shot,15,4,2,1,2.0,2.0,v
+S2324-G1203,2,07:08,LAL,,PHX,,K. Bates-Diop,PHX,SUB: Gordon FOR Bates-Diop,Substitution,,0,0,0,0,,,v
+S2324-G1203,2,01:05,LAL,,PHX,,K. Bates-Diop,PHX,Bates-Diop BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G1203,2,00:02.100000,LAL,,PHX,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1203,2,00:02.100000,LAL,,PHX,,K. Bates-Diop,PHX,MISS Bates-Diop Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2324-G0795,4,01:32,TOR,,BKN,,K. Bates-Diop,BKN,Bates-Diop BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0795,4,01:03,TOR,,BKN,,K. Bates-Diop,BKN,Bates-Diop REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0531,4,03:47,LAL,,PHX,,K. Bates-Diop,PHX,MISS Bates-Diop 3PT Jump Shot,Missed Shot,Jump Shot,-225,16,0,1,3.0,0.0,v
+S2324-G0531,4,02:44,LAL,104.0,PHX,127.0,K. Bates-Diop,PHX,Bates-Diop 2' Layup (2 PTS) (Metu 1 AST),Made Shot,Layup Shot,-6,24,2,1,2.0,2.0,v
+S2324-G0531,4,01:52,LAL,,PHX,,K. Bates-Diop,PHX,MISS Bates-Diop 10' Driving Hook Shot,Missed Shot,Driving Hook Shot,20,93,10,1,2.0,0.0,v
+S2324-G0511,3,01:43,LAC,,PHX,,K. Bates-Diop,PHX,Bates-Diop S.FOUL (P1.PN) (J.Goble),Foul,Shooting,0,0,0,0,,,v
+S2324-G0511,3,01:30,LAC,95.0,PHX,84.0,K. Bates-Diop,PHX,Bates-Diop 3PT Jump Shot (3 PTS) (Booker 4 AST),Made Shot,Jump Shot,-223,26,0,1,3.0,3.0,v
+S2324-G0511,3,00:24.200000,LAC,,PHX,,K. Bates-Diop,PHX,SUB: Allen FOR Bates-Diop,Substitution,,0,0,0,0,,,v
+S2324-G1228,1,10:54,PHX,6.0,SAC,0.0,K. Bates-Diop,PHX,Bates-Diop 3PT Jump Shot (3 PTS) (Nurkic 1 AST),Made Shot,Jump Shot,-230,0,0,1,3.0,3.0,h
+S2324-G1228,1,10:22,PHX,,SAC,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1228,1,08:47,PHX,,SAC,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1228,1,04:19,PHX,,SAC,,K. Bates-Diop,PHX,SUB: Metu FOR Bates-Diop,Substitution,,0,0,0,0,,,h
+S2324-G1228,2,04:57,PHX,,SAC,,K. Bates-Diop,PHX,MISS Bates-Diop 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-47,90,10,1,2.0,0.0,h
+S2324-G1228,2,04:55,PHX,,SAC,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1228,2,04:54,PHX,,SAC,,K. Bates-Diop,PHX,MISS Bates-Diop 1' Putback Layup,Missed Shot,Putback Layup Shot,-7,7,1,1,2.0,0.0,h
+S2324-G1228,2,04:37,PHX,,SAC,,K. Bates-Diop,PHX,MISS Bates-Diop Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G1228,2,04:37,PHX,,SAC,,K. Bates-Diop,PHX,MISS Bates-Diop Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G1228,2,03:16,PHX,,SAC,,K. Bates-Diop,PHX,MISS Bates-Diop 3PT Jump Shot,Missed Shot,Jump Shot,-233,11,0,1,3.0,0.0,h
+S2324-G1228,2,03:10,PHX,,SAC,,K. Bates-Diop,PHX,SUB: Metu FOR Bates-Diop,Substitution,,0,0,0,0,,,h
+S2324-G1228,3,11:37,PHX,,SAC,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1228,3,11:18,PHX,61.0,SAC,50.0,K. Bates-Diop,PHX,Bates-Diop 1' Alley Oop Dunk (5 PTS) (Nurkic 3 AST),Made Shot,Alley Oop Dunk Shot,10,0,1,1,2.0,2.0,h
+S2324-G1228,3,08:44,PHX,,SAC,,K. Bates-Diop,PHX,SUB: Metu FOR Bates-Diop,Substitution,,0,0,0,0,,,h
+S2324-G1228,4,11:15,PHX,,SAC,,K. Bates-Diop,PHX,MISS Bates-Diop 3PT Jump Shot,Missed Shot,Jump Shot,230,11,0,1,3.0,0.0,h
+S2324-G1228,4,11:08,PHX,,SAC,,K. Bates-Diop,PHX,SUB: Gordon FOR Bates-Diop,Substitution,,0,0,0,0,,,h
+S2324-G0655,1,02:01,ORL,22.0,PHX,31.0,K. Bates-Diop,PHX,Bates-Diop 1' Running Finger Roll Layup (2 PTS) (Booker 2 AST),Made Shot,Running Finger Roll Layup Shot,13,7,1,1,2.0,2.0,v
+S2324-G0655,1,01:16,ORL,,PHX,,K. Bates-Diop,PHX,MISS Bates-Diop Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0655,1,01:16,ORL,24.0,PHX,34.0,K. Bates-Diop,PHX,Bates-Diop Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0655,2,10:38,ORL,,PHX,,K. Bates-Diop,PHX,MISS Bates-Diop 4' Driving Layup,Missed Shot,Driving Layup Shot,-2,42,4,1,2.0,0.0,v
+S2324-G0655,2,08:06,ORL,,PHX,,K. Bates-Diop,PHX,Bates-Diop BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0655,2,06:53,ORL,,PHX,,K. Bates-Diop,PHX,MISS Bates-Diop 24' 3PT Jump Shot,Missed Shot,Jump Shot,-237,59,24,1,3.0,0.0,v
+S2324-G0655,2,06:36,ORL,,PHX,,K. Bates-Diop,PHX,MISS Bates-Diop 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,13,13,2,1,2.0,0.0,v
+S2324-G0655,2,06:36,ORL,,PHX,,K. Bates-Diop,PHX,SUB: Booker FOR Bates-Diop,Substitution,,0,0,0,0,,,v
+S2324-G0655,2,04:15,ORL,,PHX,,K. Bates-Diop,PHX,MISS Bates-Diop 3' Running Layup,Missed Shot,Running Layup Shot,27,17,3,1,2.0,0.0,v
+S2324-G0655,2,03:44,ORL,,PHX,,K. Bates-Diop,PHX,Bates-Diop S.FOUL (P1.T2) (N.Green),Foul,Shooting,0,0,0,0,,,v
+S2324-G0655,2,03:19,ORL,,PHX,,K. Bates-Diop,PHX,SUB: Beal FOR Bates-Diop,Substitution,,0,0,0,0,,,v
+S2324-G0655,3,02:15,ORL,,PHX,,K. Bates-Diop,PHX,Bates-Diop Traveling Turnover (P1.T16),Turnover,Traveling,0,0,0,0,,,v
+S2324-G0655,4,09:32,ORL,,PHX,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0655,4,08:43,ORL,,PHX,,K. Bates-Diop,PHX,SUB: Allen FOR Bates-Diop,Substitution,,0,0,0,0,,,v
+S2324-G0655,4,01:56,ORL,110.0,PHX,96.0,K. Bates-Diop,PHX,Bates-Diop 4' Driving Finger Roll Layup (5 PTS),Made Shot,Driving Finger Roll Layup Shot,-2,41,4,1,2.0,2.0,v
+S2324-G0317,3,04:24,PHX,,BKN,,K. Bates-Diop,PHX,MISS Bates-Diop 7' Floating Jump Shot,Missed Shot,Floating Jump shot,-27,65,7,1,2.0,0.0,h
+S2324-G0317,3,02:58,PHX,,BKN,,K. Bates-Diop,PHX,SUB: Beal FOR Bates-Diop,Substitution,,0,0,0,0,,,h
+S2324-G0317,4,11:29,PHX,,BKN,,K. Bates-Diop,PHX,MISS Bates-Diop 27' 3PT Jump Shot,Missed Shot,Jump Shot,-29,264,27,1,3.0,0.0,h
+S2324-G0317,4,11:09,PHX,,BKN,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0317,4,10:10,PHX,,BKN,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0317,4,10:10,PHX,,BKN,,K. Bates-Diop,PHX,Bates-Diop Lost Ball Turnover (P1.T10),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0317,4,07:40,PHX,,BKN,,K. Bates-Diop,PHX,SUB: Nurkic FOR Bates-Diop,Substitution,,0,0,0,0,,,h
+S2324-G0317,4,05:24,PHX,,BKN,,K. Bates-Diop,PHX,SUB: Little FOR Bates-Diop,Substitution,,0,0,0,0,,,h
+S2324-G0317,4,00:27.900000,PHX,112.0,BKN,114.0,K. Bates-Diop,PHX,Bates-Diop 1' Running Dunk (2 PTS) (Booker 12 AST),Made Shot,Running Dunk Shot,-10,6,1,1,2.0,2.0,h
+S2324-G0317,4,00:03,PHX,,BKN,,K. Bates-Diop,PHX,Bates-Diop P.FOUL (P1.PN) (J.DeRosa),Foul,Personal,0,0,0,0,,,h
+S2324-G0317,4,00:03,PHX,,BKN,,K. Bates-Diop,PHX,SUB: Nurkic FOR Bates-Diop,Substitution,,0,0,0,0,,,h
+S2324-G0993,4,04:24,BKN,,NOP,,K. Bates-Diop,BKN,Bates-Diop STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0993,4,04:12,BKN,81.0,NOP,98.0,K. Bates-Diop,BKN,Bates-Diop Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0993,4,04:12,BKN,82.0,NOP,98.0,K. Bates-Diop,BKN,Bates-Diop Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0993,4,02:08,BKN,,NOP,,K. Bates-Diop,BKN,Bates-Diop REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0750,4,01:10,BKN,121.0,SAS,97.0,K. Bates-Diop,BKN,Bates-Diop 4' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,-2,42,4,1,2.0,2.0,h
+S2324-G0044,1,11:16,MEM,,PHX,,K. Bates-Diop,PHX,Bates-Diop BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0044,1,10:45,MEM,,PHX,,K. Bates-Diop,PHX,Bates-Diop BLOCK (2 BLK),,,0,0,0,0,,,v
+S2324-G0044,1,05:43,MEM,,PHX,,K. Bates-Diop,PHX,MISS Bates-Diop 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-38,49,6,1,2.0,0.0,v
+S2324-G0044,1,04:33,MEM,,PHX,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0044,1,03:54,MEM,18.0,PHX,17.0,K. Bates-Diop,PHX,Bates-Diop 5' Layup (2 PTS) (Gordon 2 AST),Made Shot,Layup Shot,39,36,5,1,2.0,2.0,v
+S2324-G0044,1,03:42,MEM,,PHX,,K. Bates-Diop,PHX,SUB: Metu FOR Bates-Diop,Substitution,,0,0,0,0,,,v
+S2324-G0044,2,04:58,MEM,,PHX,,K. Bates-Diop,PHX,Bates-Diop STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0044,2,03:44,MEM,49.0,PHX,50.0,K. Bates-Diop,PHX,Bates-Diop 1' Cutting Dunk Shot (4 PTS) (Nurkic 3 AST),Made Shot,Cutting Dunk Shot,0,6,1,1,2.0,2.0,v
+S2324-G0044,2,03:01,MEM,,PHX,,K. Bates-Diop,PHX,MISS Bates-Diop 3' Driving Layup,Missed Shot,Driving Layup Shot,-28,17,3,1,2.0,0.0,v
+S2324-G0044,2,02:17,MEM,,PHX,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0044,2,01:55,MEM,,PHX,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0044,3,08:27,MEM,,PHX,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0044,3,06:37,MEM,55.0,PHX,71.0,K. Bates-Diop,PHX,Bates-Diop Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0044,3,06:37,MEM,55.0,PHX,72.0,K. Bates-Diop,PHX,Bates-Diop Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0044,3,02:58,MEM,,PHX,,K. Bates-Diop,PHX,MISS Bates-Diop 3PT Jump Shot,Missed Shot,Jump Shot,229,1,0,1,3.0,0.0,v
+S2324-G0044,3,02:42,MEM,,PHX,,K. Bates-Diop,PHX,SUB: Little FOR Bates-Diop,Substitution,,0,0,0,0,,,v
+S2324-G0947,4,00:40.700000,ORL,,BKN,,K. Bates-Diop,BKN,MISS Bates-Diop 4' Running Layup,Missed Shot,Running Layup Shot,-1,43,4,1,2.0,0.0,v
+S2324-G0140,1,09:29,DET,,PHX,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0140,1,08:36,DET,,PHX,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0140,1,08:18,DET,,PHX,,K. Bates-Diop,PHX,Bates-Diop BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0140,1,08:14,DET,,PHX,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0140,1,07:08,DET,,PHX,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0140,1,04:15,DET,,PHX,,K. Bates-Diop,PHX,SUB: Eubanks FOR Bates-Diop,Substitution,,0,0,0,0,,,v
+S2324-G0140,2,01:59,DET,,PHX,,K. Bates-Diop,PHX,MISS Bates-Diop 14' Floating Jump Shot,Missed Shot,Floating Jump shot,93,104,14,1,2.0,0.0,v
+S2324-G0140,2,01:35,DET,,PHX,,K. Bates-Diop,PHX,SUB: Watanabe FOR Bates-Diop,Substitution,,0,0,0,0,,,v
+S2324-G0140,2,00:03.900000,DET,,PHX,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0140,3,10:46,DET,,PHX,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0140,3,08:23,DET,,PHX,,K. Bates-Diop,PHX,MISS Bates-Diop 3' Driving Layup,Missed Shot,Driving Layup Shot,13,22,3,1,2.0,0.0,v
+S2324-G0140,3,05:03,DET,,PHX,,K. Bates-Diop,PHX,MISS Bates-Diop 3PT Jump Shot,Missed Shot,Jump Shot,233,18,0,1,3.0,0.0,v
+S2324-G0140,3,04:33,DET,,PHX,,K. Bates-Diop,PHX,SUB: Watanabe FOR Bates-Diop,Substitution,,0,0,0,0,,,v
+S2324-G0588,4,04:05,NOP,,PHX,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0588,4,01:07,NOP,,PHX,,K. Bates-Diop,PHX,Bates-Diop REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0588,4,00:50.100000,NOP,,PHX,,K. Bates-Diop,PHX,MISS Bates-Diop 3PT Jump Shot,Missed Shot,Jump Shot,-234,15,0,1,3.0,0.0,v
+S2324-G0930,4,01:00,CLE,,BKN,,K. Bates-Diop,BKN,Bates-Diop REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v

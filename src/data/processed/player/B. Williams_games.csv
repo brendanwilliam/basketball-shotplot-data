@@ -1,0 +1,106 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2324-G1181,3,11:46,DAL,,DET,,B. Williams,DAL,MISS Williams 26' 3PT Jump Shot,Missed Shot,Jump Shot,-195,165,26,1,3.0,0.0,h
+S2324-G1181,3,10:49,DAL,,DET,,B. Williams,DAL,Williams Step Out of Bounds Turnover (P1.T12),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2324-G1181,3,09:23,DAL,,DET,,B. Williams,DAL,MISS Williams 1' Driving Layup,Missed Shot,Driving Layup Shot,11,5,1,1,2.0,0.0,h
+S2324-G1181,3,07:02,DAL,,DET,,B. Williams,DAL,MISS Williams 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-15,31,3,1,2.0,0.0,h
+S2324-G1181,3,06:26,DAL,,DET,,B. Williams,DAL,SUB: Lawson FOR Williams,Substitution,,0,0,0,0,,,h
+S2324-G1181,3,04:58,DAL,,DET,,B. Williams,DAL,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1181,3,04:54,DAL,62.0,DET,72.0,B. Williams,DAL,Williams 1' Running Finger Roll Layup (2 PTS),Made Shot,Running Finger Roll Layup Shot,13,-1,1,1,2.0,2.0,h
+S2324-G1181,3,02:04,DAL,,DET,,B. Williams,DAL,MISS Williams 4' Running Layup,Missed Shot,Running Layup Shot,34,18,4,1,2.0,0.0,h
+S2324-G1181,3,00:01.200000,DAL,,DET,,B. Williams,DAL,MISS Williams 1' Driving Layup,Missed Shot,Driving Layup Shot,9,8,1,1,2.0,0.0,h
+S2324-G1181,4,08:43,DAL,78.0,DET,86.0,B. Williams,DAL,Williams 19' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,-140,126,19,1,2.0,2.0,h
+S2324-G1181,4,07:05,DAL,,DET,,B. Williams,DAL,Williams S.FOUL (P1.T1) (M.Davis),Foul,Shooting,0,0,0,0,,,h
+S2324-G1181,4,07:05,DAL,,DET,,B. Williams,DAL,SUB: Lawson FOR Williams,Substitution,,0,0,0,0,,,h
+S2324-G1181,4,01:00,DAL,,DET,,B. Williams,DAL,MISS Williams 27' 3PT Jump Shot,Missed Shot,Jump Shot,5,267,27,1,3.0,0.0,h
+S2324-G0457,4,05:35,UTA,,DAL,,B. Williams,DAL,MISS B. Williams 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-54,43,7,1,2.0,0.0,v
+S2324-G0457,4,05:11,UTA,,DAL,,B. Williams,DAL,B. Williams REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0457,4,04:45,UTA,,DAL,,B. Williams,DAL,B. Williams Bad Pass Turnover (P1.T15),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0457,4,03:32,UTA,122.0,DAL,88.0,B. Williams,DAL,B. Williams 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,-27,21,3,1,2.0,2.0,v
+S2324-G0457,4,02:45,UTA,,DAL,,B. Williams,DAL,B. Williams S.FOUL (P1.T4) (T.Ford),Foul,Shooting,0,0,0,0,,,v
+S2324-G0457,4,00:40.800000,UTA,127.0,DAL,90.0,B. Williams,DAL,B. Williams 4' Driving Layup (4 PTS) (Hardy 1 AST),Made Shot,Driving Layup Shot,23,29,4,1,2.0,2.0,v
+S2324-G1196,1,06:00,OKC,,DAL,,B. Williams,DAL,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1196,1,05:54,OKC,17.0,DAL,9.0,B. Williams,DAL,Williams 1' Running Reverse Layup (2 PTS),Made Shot,Running Reverse Layup Shot,11,10,1,1,2.0,2.0,v
+S2324-G1196,1,04:42,OKC,,DAL,,B. Williams,DAL,Williams REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1196,1,03:48,OKC,22.0,DAL,16.0,B. Williams,DAL,Williams 11' Fadeaway Jumper (4 PTS),Made Shot,Fadeaway Jump Shot,72,83,11,1,2.0,2.0,v
+S2324-G1196,1,03:09,OKC,,DAL,,B. Williams,DAL,Williams REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1196,1,02:14,OKC,,DAL,,B. Williams,DAL,MISS Williams 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,9,59,6,1,2.0,0.0,v
+S2324-G1196,1,00:24.100000,OKC,37.0,DAL,21.0,B. Williams,DAL,Williams Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1196,1,00:24.100000,OKC,37.0,DAL,22.0,B. Williams,DAL,Williams Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1196,2,11:27,OKC,,DAL,,B. Williams,DAL,MISS Williams 6' Pullup Jump Shot,Missed Shot,Pullup Jump shot,61,12,6,1,2.0,0.0,v
+S2324-G1196,2,09:13,OKC,,DAL,,B. Williams,DAL,MISS Williams 27' 3PT Jump Shot,Missed Shot,Jump Shot,-126,235,27,1,3.0,0.0,v
+S2324-G1196,2,08:28,OKC,,DAL,,B. Williams,DAL,MISS Williams 22' Pullup Jump Shot,Missed Shot,Pullup Jump shot,2,223,22,1,2.0,0.0,v
+S2324-G1196,2,07:47,OKC,54.0,DAL,27.0,B. Williams,DAL,Williams 1' Running Layup (8 PTS) (Hardaway Jr. 2 AST),Made Shot,Running Layup Shot,12,6,1,1,2.0,2.0,v
+S2324-G1196,2,07:27,OKC,,DAL,,B. Williams,DAL,SUB: Lawson FOR Williams,Substitution,,0,0,0,0,,,v
+S2324-G1196,2,04:07,OKC,,DAL,,B. Williams,DAL,Williams Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G1196,2,03:26,OKC,70.0,DAL,32.0,B. Williams,DAL,Williams Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1196,2,03:26,OKC,,DAL,,B. Williams,DAL,MISS Williams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G1196,2,02:39,OKC,,DAL,,B. Williams,DAL,Williams S.FOUL (P1.PN) (N.Sago),Foul,Shooting,0,0,0,0,,,v
+S2324-G1196,3,11:31,OKC,,DAL,,B. Williams,DAL,Williams Out of Bounds - Bad Pass Turnover Turnover (P2.T10),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G1196,3,10:38,OKC,,DAL,,B. Williams,DAL,MISS Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,-1,253,25,1,3.0,0.0,v
+S2324-G1196,3,09:51,OKC,,DAL,,B. Williams,DAL,Williams REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1196,3,07:49,OKC,92.0,DAL,45.0,B. Williams,DAL,Williams 16' Fadeaway Jumper (11 PTS) (Green 2 AST),Made Shot,Fadeaway Jump Shot,-108,114,16,1,2.0,2.0,v
+S2324-G1196,3,07:34,OKC,,DAL,,B. Williams,DAL,SUB: Lawson FOR Williams,Substitution,,0,0,0,0,,,v
+S2324-G1196,3,03:12,OKC,,DAL,,B. Williams,DAL,MISS Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,62,246,25,1,3.0,0.0,v
+S2324-G1196,3,03:09,OKC,,DAL,,B. Williams,DAL,Williams REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1196,3,02:11,OKC,,DAL,,B. Williams,DAL,MISS Williams 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,71,136,15,1,2.0,0.0,v
+S2324-G1196,3,01:49,OKC,104.0,DAL,53.0,B. Williams,DAL,Williams 1' Running Dunk (13 PTS),Made Shot,Running Dunk Shot,-5,4,1,1,2.0,2.0,v
+S2324-G1196,3,01:22,OKC,104.0,DAL,55.0,B. Williams,DAL,Williams 21' Pullup Jump Shot (15 PTS),Made Shot,Pullup Jump shot,134,162,21,1,2.0,2.0,v
+S2324-G1196,3,00:48.600000,OKC,,DAL,,B. Williams,DAL,MISS Williams 19' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-115,155,19,1,2.0,0.0,v
+S2324-G1196,3,00:00.900000,OKC,,DAL,,B. Williams,DAL,Williams Bad Pass Turnover (P3.T12),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G1196,4,11:46,OKC,108.0,DAL,59.0,B. Williams,DAL,Williams 18' Pullup Jump Shot (17 PTS),Made Shot,Pullup Jump shot,103,142,18,1,2.0,2.0,v
+S2324-G1196,4,11:09,OKC,108.0,DAL,60.0,B. Williams,DAL,Williams Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1196,4,11:09,OKC,108.0,DAL,61.0,B. Williams,DAL,Williams Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1196,4,10:44,OKC,,DAL,,B. Williams,DAL,MISS Williams 3PT Jump Shot,Missed Shot,Jump Shot,233,26,0,1,3.0,0.0,v
+S2324-G1196,4,10:41,OKC,,DAL,,B. Williams,DAL,MISS Williams 24' 3PT Jump Shot,Missed Shot,Jump Shot,235,15,24,1,3.0,0.0,v
+S2324-G1196,4,09:25,OKC,,DAL,,B. Williams,DAL,MISS Williams 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,72,96,12,1,2.0,0.0,v
+S2324-G1196,4,08:59,OKC,113.0,DAL,64.0,B. Williams,DAL,Williams 26' 3PT Jump Shot (22 PTS) (Powell 1 AST),Made Shot,Jump Shot,65,248,26,1,3.0,3.0,v
+S2324-G1196,4,07:59,OKC,,DAL,,B. Williams,DAL,MISS Williams 5' Driving Layup,Missed Shot,Driving Layup Shot,-37,30,5,1,2.0,0.0,v
+S2324-G1196,4,05:55,OKC,,DAL,,B. Williams,DAL,MISS Williams 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,2,14,1,1,2.0,0.0,v
+S2324-G1196,4,05:47,OKC,,DAL,,B. Williams,DAL,SUB: Fudge FOR Williams,Substitution,,0,0,0,0,,,v
+S2324-G0748,4,04:42,DAL,,OKC,,B. Williams,DAL,Williams REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0748,4,04:39,DAL,,OKC,,B. Williams,DAL,MISS Williams 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,80,16,8,1,2.0,0.0,h
+S2324-G0748,4,04:13,DAL,,OKC,,B. Williams,DAL,Williams Lost Ball Turnover (P1.T12),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0748,4,02:26,DAL,,OKC,,B. Williams,DAL,MISS Williams 4' Driving Layup,Missed Shot,Driving Layup Shot,-38,17,4,1,2.0,0.0,h
+S2324-G0748,4,01:02,DAL,,OKC,,B. Williams,DAL,Williams REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1144,4,03:05,CHA,99.0,DAL,123.0,B. Williams,DAL,Williams 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,18,17,2,1,2.0,2.0,v
+S2324-G0082,3,02:47,CHI,56.0,TOR,59.0,B. Williams,,Instant Replay3rd Period (9:44 PM EST),Instant Replay,Coach Challenge Support Ruling,0,0,0,0,,,
+S2324-G0515,4,01:32,DAL,,MEM,,B. Williams,DAL,B. Williams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0515,4,01:27,DAL,,MEM,,B. Williams,DAL,MISS B. Williams 2' Running Layup,Missed Shot,Running Layup Shot,16,-6,2,1,2.0,0.0,h
+S2324-G1124,4,00:32.800000,DAL,,ATL,,B. Williams,DAL,MISS Williams 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-141,213,26,1,3.0,0.0,h
+S2324-G0715,4,01:31,PHI,,DAL,,B. Williams,DAL,MISS B. Williams 4' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,43,8,4,1,2.0,0.0,v
+S2324-G0715,4,01:05,PHI,,DAL,,B. Williams,DAL,MISS B. Williams 26' 3PT Jump Shot,Missed Shot,Jump Shot,-25,263,26,1,3.0,0.0,v
+S2324-G0487,4,08:12,DAL,,POR,,B. Williams,DAL,Jump Ball Williams vs. Rupert: Tip to Lawson,Jump Ball,,0,0,0,0,,,h
+S2324-G0487,4,08:09,DAL,113.0,POR,81.0,B. Williams,DAL,Williams 3' Driving Layup (2 PTS) (Lawson 2 AST),Made Shot,Driving Layup Shot,21,19,3,1,2.0,2.0,h
+S2324-G0487,4,08:09,DAL,114.0,POR,81.0,B. Williams,DAL,Williams Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G0487,4,05:46,DAL,,POR,,B. Williams,DAL,Williams BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0487,4,03:29,DAL,,POR,,B. Williams,DAL,Williams Bad Pass Turnover (P1.T17),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0487,4,01:32,DAL,135.0,POR,100.0,B. Williams,DAL,Williams 25' 3PT Pullup Jump Shot (6 PTS) (Hardy 9 AST),Made Shot,Pullup Jump shot,-9,250,25,1,3.0,3.0,h
+S2324-G0487,4,00:56.200000,DAL,136.0,POR,100.0,B. Williams,DAL,Williams Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0487,4,00:56.200000,DAL,,POR,,B. Williams,DAL,MISS Williams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0487,4,00:35.200000,DAL,,POR,,B. Williams,DAL,MISS Williams 22' Jump Shot,Missed Shot,Jump Shot,-174,137,22,1,2.0,0.0,h
+S2324-G0736,4,00:39.800000,NYK,108.0,DAL,122.0,B. Williams,DAL,Williams Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0736,4,00:39.800000,NYK,,DAL,,B. Williams,DAL,MISS Williams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0472,4,02:41,DAL,,POR,,B. Williams,DAL,B. Williams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0472,4,02:38,DAL,,POR,,B. Williams,DAL,MISS B. Williams Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0472,4,02:38,DAL,,POR,,B. Williams,DAL,MISS B. Williams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0472,4,02:31,DAL,,POR,,B. Williams,DAL,B. Williams STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0472,4,01:35,DAL,,POR,,B. Williams,DAL,B. Williams REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0472,4,01:34,DAL,,POR,,B. Williams,DAL,MISS B. Williams Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2324-G0577,4,03:17,LAL,123.0,DAL,101.0,B. Williams,DAL,B. Williams 4' Driving Layup (2 PTS) (G. Williams 2 AST),Made Shot,Driving Layup Shot,28,26,4,1,2.0,2.0,v
+S2324-G0577,4,02:52,LAL,,DAL,,B. Williams,DAL,B. Williams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0577,4,01:49,LAL,125.0,DAL,108.0,B. Williams,DAL,B. Williams 28' 3PT Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,-44,273,28,1,3.0,3.0,v
+S2324-G0577,4,01:14,LAL,,DAL,,B. Williams,DAL,MISS B. Williams 26' 3PT Jump Shot,Missed Shot,Jump Shot,-85,248,26,1,3.0,0.0,v
+S2324-G0625,4,01:49,DAL,,PHX,,B. Williams,DAL,MISS B. Williams 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-222,109,25,1,3.0,0.0,h
+S2324-G0625,4,01:16,DAL,103.0,PHX,130.0,B. Williams,DAL,B. Williams 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,20,17,3,1,2.0,2.0,h
+S2324-G0625,4,01:16,DAL,,PHX,,B. Williams,DAL,MISS B. Williams Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2324-G0680,4,05:54,MIN,99.0,DAL,73.0,B. Williams,DAL,B. Williams Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0680,4,05:54,MIN,99.0,DAL,74.0,B. Williams,DAL,B. Williams Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0680,4,04:15,MIN,,DAL,,B. Williams,DAL,MISS B. Williams 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,44,98,11,1,2.0,0.0,v
+S2324-G0680,4,03:29,MIN,,DAL,,B. Williams,DAL,MISS B. Williams 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-93,229,25,1,3.0,0.0,v
+S2324-G0680,4,01:55,MIN,113.0,DAL,82.0,B. Williams,DAL,B. Williams 6' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,-10,62,6,1,2.0,2.0,v
+S2324-G0680,4,01:55,MIN,113.0,DAL,83.0,B. Williams,DAL,B. Williams Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G0229,3,03:23,CLE,66.0,MIA,87.0,B. Williams,,Instant Replay3rd Period (9:13 PM EST),Instant Replay,Coach Challenge Overturn Ruling,0,0,0,0,,,
+S2324-G0785,4,05:02,DAL,,SAS,,B. Williams,DAL,MISS Williams 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,26,23,3,1,2.0,0.0,h
+S2324-G0785,4,02:02,DAL,,SAS,,B. Williams,DAL,Williams S.FOUL (P1.T2) (M.Davis),Foul,Shooting,0,0,0,0,,,h
+S2324-G0785,4,01:51,DAL,,SAS,,B. Williams,DAL,MISS Williams 2' Driving Dunk,Missed Shot,Driving Dunk Shot,20,10,2,1,2.0,0.0,h
+S2324-G1161,4,00:27.400000,MIA,92.0,DAL,111.0,B. Williams,DAL,Williams 3' Running Layup (2 PTS) (Hardy 1 AST),Made Shot,Running Layup Shot,-25,11,3,1,2.0,2.0,v

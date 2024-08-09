@@ -1,0 +1,75 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2324-G0179,1,07:31,LAC,,MEM,,M. Diabate,LAC,MISS Diabate 4' Alley Oop Dunk,Missed Shot,Alley Oop Dunk Shot,29,26,4,1,2.0,0.0,h
+S2324-G0179,1,05:18,LAC,,MEM,,M. Diabate,LAC,Diabate P.FOUL (P1.T2) (J.Conley),Foul,Personal,0,0,0,0,,,h
+S2324-G0179,1,04:23,LAC,,MEM,,M. Diabate,LAC,Diabate REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0179,1,02:07,LAC,17.0,MEM,26.0,M. Diabate,LAC,Diabate 1' Cutting Dunk Shot (2 PTS) (Leonard 2 AST),Made Shot,Cutting Dunk Shot,5,10,1,1,2.0,2.0,h
+S2324-G0179,1,00:29.200000,LAC,,MEM,,M. Diabate,LAC,SUB: Zubac FOR Diabate,Substitution,,0,0,0,0,,,h
+S2324-G0179,2,06:03,LAC,,MEM,,M. Diabate,LAC,Diabate REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0179,2,04:34,LAC,,MEM,,M. Diabate,LAC,SUB: Harden FOR Diabate,Substitution,,0,0,0,0,,,h
+S2324-G0179,3,05:08,LAC,,MEM,,M. Diabate,LAC,Diabate REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0179,3,04:04,LAC,,MEM,,M. Diabate,LAC,SUB: Zubac FOR Diabate,Substitution,,0,0,0,0,,,h
+S2324-G0114,4,00:49.400000,LAC,,ORL,,M. Diabate,LAC,MISS Diabate 7' Driving Layup,Missed Shot,Driving Layup Shot,16,63,7,1,2.0,0.0,h
+S2324-G0114,4,00:46.400000,LAC,,ORL,,M. Diabate,LAC,Diabate REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0114,4,00:46.400000,LAC,118.0,ORL,98.0,M. Diabate,LAC,Diabate Putback Layup (2 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,h
+S2324-G0114,4,00:16.100000,LAC,,ORL,,M. Diabate,LAC,Diabate Traveling Turnover (P1.T16),Turnover,Traveling,0,0,0,0,,,h
+S2324-G0099,4,01:01,LAC,,SAS,,M. Diabate,LAC,Diabate Bad Pass Turnover (P1.T15),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0099,4,00:28.400000,LAC,,SAS,,M. Diabate,LAC,Diabate REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0151,4,10:17,NYK,,LAC,,M. Diabate,LAC,SUB: Leonard FOR Diabate,Substitution,,0,0,0,0,,,v
+S2324-G0151,4,04:09,NYK,104.0,LAC,89.0,M. Diabate,LAC,Diabate Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0151,4,04:09,NYK,104.0,LAC,90.0,M. Diabate,LAC,Diabate Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0151,4,03:41,NYK,106.0,LAC,92.0,M. Diabate,LAC,Diabate 1' Dunk (4 PTS) (Hyland 2 AST),Made Shot,Dunk Shot,1,9,1,1,2.0,2.0,v
+S2324-G0014,2,01:55,DAL,,LAC,,M. Diabate,LAC,MISS Diabate 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-9,16,2,1,2.0,0.0,v
+S2324-G0014,2,00:51.400000,DAL,,LAC,,M. Diabate,LAC,Diabate REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0014,2,00:32.200000,DAL,,LAC,,M. Diabate,LAC,Diabate S.FOUL (P1.PN) (M.Lindsay),Foul,Shooting,0,0,0,0,,,v
+S2324-G0014,2,00:11.200000,DAL,77.0,LAC,51.0,M. Diabate,LAC,Diabate Cutting Dunk Shot (2 PTS) (Harden 3 AST),Made Shot,Cutting Dunk Shot,-2,2,0,1,2.0,2.0,v
+S2324-G0014,3,00:32.700000,DAL,113.0,LAC,87.0,M. Diabate,LAC,Diabate 8' Driving Floating Jump Shot (4 PTS) (Hyland 1 AST),Made Shot,Driving Floating Jump Shot,-27,77,8,1,2.0,2.0,v
+S2324-G0014,4,11:24,DAL,,LAC,,M. Diabate,LAC,Diabate REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0014,4,11:15,DAL,,LAC,,M. Diabate,LAC,Diabate REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0014,4,11:15,DAL,,LAC,,M. Diabate,LAC,MISS Diabate 1' Tip Dunk Shot,Missed Shot,Tip Dunk Shot,-5,12,1,1,2.0,0.0,v
+S2324-G0014,4,11:06,DAL,,LAC,,M. Diabate,LAC,Diabate Violation:Defensive Goaltending (T.Maddox),Violation,Defensive Goaltending,0,0,0,0,,,v
+S2324-G0014,4,08:20,DAL,,LAC,,M. Diabate,LAC,Diabate REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0014,4,07:47,DAL,124.0,LAC,101.0,M. Diabate,LAC,Diabate Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0014,4,07:47,DAL,,LAC,,M. Diabate,LAC,MISS Diabate Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0014,4,07:06,DAL,,LAC,,M. Diabate,LAC,Diabate P.FOUL (P2.T1) (T.Maddox),Foul,Personal,0,0,0,0,,,v
+S2324-G0014,4,06:56,DAL,,LAC,,M. Diabate,LAC,Diabate REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0014,4,06:18,DAL,126.0,LAC,107.0,M. Diabate,LAC,Diabate Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0014,4,06:18,DAL,126.0,LAC,108.0,M. Diabate,LAC,Diabate Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0014,4,05:27,DAL,,LAC,,M. Diabate,LAC,Diabate REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0014,4,05:27,DAL,126.0,LAC,112.0,M. Diabate,LAC,Diabate Tip Layup Shot (9 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2324-G0014,4,04:55,DAL,,LAC,,M. Diabate,LAC,Diabate REBOUND (Off:5 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0014,4,02:33,DAL,,LAC,,M. Diabate,LAC,Diabate S.FOUL (P3.PN) (M.Lindsay),Foul,Shooting,0,0,0,0,,,v
+S2324-G0014,4,00:57.900000,DAL,,LAC,,M. Diabate,LAC,Diabate REBOUND (Off:5 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0014,4,00:44.300000,DAL,,LAC,,M. Diabate,LAC,Diabate REBOUND (Off:6 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0014,4,00:43.100000,DAL,142.0,LAC,124.0,M. Diabate,LAC,Diabate 2' Putback Layup (11 PTS),Made Shot,Putback Layup Shot,-13,10,2,1,2.0,2.0,v
+S2324-G0223,4,04:07,SAS,,LAC,,M. Diabate,LAC,MISS Diabate 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-26,22,3,1,2.0,0.0,v
+S2324-G0223,4,04:02,SAS,,LAC,,M. Diabate,LAC,Diabate REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0223,4,03:51,SAS,,LAC,,M. Diabate,LAC,Diabate STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0223,4,03:05,SAS,,LAC,,M. Diabate,LAC,Diabate REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0223,4,03:04,SAS,94.0,LAC,120.0,M. Diabate,LAC,Diabate 2' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,10,13,2,1,2.0,2.0,v
+S2324-G0223,4,02:31,SAS,,LAC,,M. Diabate,LAC,MISS Diabate Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0223,4,02:31,SAS,94.0,LAC,121.0,M. Diabate,LAC,Diabate Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0074,4,03:03,LAC,119.0,POR,100.0,M. Diabate,LAC,Diabate 4' Dunk (2 PTS) (Coffey 1 AST),Made Shot,Dunk Shot,18,33,4,1,2.0,2.0,h
+S2324-G0074,4,02:50,LAC,,POR,,M. Diabate,LAC,Diabate STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0074,4,02:42,LAC,,POR,,M. Diabate,LAC,MISS Diabate 6' Floating Jump Shot,Missed Shot,Floating Jump shot,51,29,6,1,2.0,0.0,h
+S2324-G0074,4,02:06,LAC,,POR,,M. Diabate,LAC,Diabate REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0074,4,02:05,LAC,,POR,,M. Diabate,LAC,MISS Diabate 4' Layup,Missed Shot,Layup Shot,1,36,4,1,2.0,0.0,h
+S2324-G0074,4,00:12.900000,LAC,,POR,,M. Diabate,LAC,Diabate STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0865,4,04:56,LAC,,WAS,,M. Diabate,LAC,MISS Diabate Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0865,4,04:56,LAC,,WAS,,M. Diabate,LAC,MISS Diabate Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0865,4,04:38,LAC,,WAS,,M. Diabate,LAC,Diabate REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0865,4,02:36,LAC,,WAS,,M. Diabate,LAC,Diabate STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0865,4,02:25,LAC,,WAS,,M. Diabate,LAC,Diabate BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0865,4,01:48,LAC,,WAS,,M. Diabate,LAC,Diabate REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0865,4,00:51.600000,LAC,,WAS,,M. Diabate,LAC,Diabate REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0865,4,00:51.600000,LAC,140.0,WAS,113.0,M. Diabate,LAC,Diabate Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2324-G0865,4,00:36.800000,LAC,,WAS,,M. Diabate,LAC,Diabate REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0458,4,02:08,LAC,,MIA,,M. Diabate,LAC,Diabate REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0244,4,03:25,LAC,,DAL,,M. Diabate,LAC,Diabate REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0244,4,02:42,LAC,104.0,DAL,85.0,M. Diabate,LAC,Diabate Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0244,4,02:42,LAC,,DAL,,M. Diabate,LAC,MISS Diabate Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0244,4,01:24,LAC,,DAL,,M. Diabate,LAC,Diabate REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0244,4,01:23,LAC,,DAL,,M. Diabate,LAC,MISS Diabate 1' Putback Layup,Missed Shot,Putback Layup Shot,-11,1,1,1,2.0,0.0,h
+S2324-G0244,4,01:01,LAC,,DAL,,M. Diabate,LAC,Diabate STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0244,4,00:25.200000,LAC,,DAL,,M. Diabate,LAC,MISS Diabate 15' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-132,64,15,1,2.0,0.0,h
+S2324-G0273,4,00:17.800000,GSW,118.0,LAC,110.0,M. Diabate,LAC,Diabate Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0273,4,00:17.800000,GSW,118.0,LAC,111.0,M. Diabate,LAC,Diabate Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v

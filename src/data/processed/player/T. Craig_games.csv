@@ -1,0 +1,852 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2324-G1119,2,10:22,CHI,,NYK,,T. Craig,CHI,MISS Craig 25' 3PT Jump Shot,Missed Shot,Jump Shot,-99,229,25,1,3.0,0.0,h
+S2324-G1119,2,08:19,CHI,,NYK,,T. Craig,CHI,MISS Craig 2' Running Layup,Missed Shot,Running Layup Shot,13,9,2,1,2.0,0.0,h
+S2324-G1119,2,07:59,CHI,,NYK,,T. Craig,CHI,SUB: Caruso FOR Craig,Substitution,,0,0,0,0,,,h
+S2324-G1119,3,01:53,CHI,,NYK,,T. Craig,CHI,Craig S.FOUL (P1.PN) (B.Nansel),Foul,Shooting,0,0,0,0,,,h
+S2324-G1119,3,01:17,CHI,81.0,NYK,75.0,T. Craig,CHI,Craig 1' Running Layup (2 PTS) (Caruso 4 AST),Made Shot,Running Layup Shot,1,6,1,1,2.0,2.0,h
+S2324-G0088,1,05:19,DET,,CHI,,T. Craig,CHI,Craig P.FOUL (P1.T3) (M.Lindsay),Foul,Personal,0,0,0,0,,,v
+S2324-G0088,1,01:03,DET,,CHI,,T. Craig,CHI,SUB: Dosunmu FOR Craig,Substitution,,0,0,0,0,,,v
+S2324-G0088,1,00:37.900000,DET,,CHI,,T. Craig,CHI,MISS Craig 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-227,83,24,1,3.0,0.0,v
+S2324-G0088,1,00:09.300000,DET,,CHI,,T. Craig,CHI,Craig REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0088,2,11:22,DET,,CHI,,T. Craig,CHI,Craig S.FOUL (P2.T1) (N.Sago),Foul,Shooting,0,0,0,0,,,v
+S2324-G0088,2,08:44,DET,,CHI,,T. Craig,CHI,MISS Craig 24' 3PT Jump Shot,Missed Shot,Jump Shot,-237,21,24,1,3.0,0.0,v
+S2324-G0088,2,07:58,DET,,CHI,,T. Craig,CHI,MISS Craig 7' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,40,55,7,1,2.0,0.0,v
+S2324-G0088,2,06:23,DET,,CHI,,T. Craig,CHI,MISS Craig 4' Driving Layup,Missed Shot,Driving Layup Shot,25,31,4,1,2.0,0.0,v
+S2324-G0088,2,06:17,DET,,CHI,,T. Craig,CHI,Craig BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0088,2,06:17,DET,,CHI,,T. Craig,CHI,SUB: Caruso FOR Craig,Substitution,,0,0,0,0,,,v
+S2324-G0088,3,01:22,DET,81.0,CHI,73.0,T. Craig,CHI,Craig 3' Driving Layup (2 PTS) (Drummond 2 AST),Made Shot,Driving Layup Shot,-5,32,3,1,2.0,2.0,v
+S2324-G0088,3,00:30.900000,DET,,CHI,,T. Craig,CHI,Craig REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0088,4,11:48,DET,,CHI,,T. Craig,CHI,Craig S.FOUL (P3.T1) (N.Sago),Foul,Shooting,0,0,0,0,,,v
+S2324-G0088,4,11:25,DET,,CHI,,T. Craig,CHI,Craig REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0088,4,09:29,DET,95.0,CHI,85.0,T. Craig,CHI,Craig 3' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,-1,31,3,1,2.0,2.0,v
+S2324-G0088,4,08:42,DET,,CHI,,T. Craig,CHI,MISS Craig 4' Running Layup,Missed Shot,Running Layup Shot,-38,19,4,1,2.0,0.0,v
+S2324-G0088,4,05:14,DET,,CHI,,T. Craig,CHI,SUB: Caruso FOR Craig,Substitution,,0,0,0,0,,,v
+S2324-G0948,1,02:19,IND,,CHI,,T. Craig,CHI,Craig REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0948,1,01:44,IND,,CHI,,T. Craig,CHI,Craig Step Out of Bounds Turnover (P1.T1),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2324-G0948,1,01:27,IND,,CHI,,T. Craig,CHI,Craig REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0948,1,01:23,IND,22.0,CHI,28.0,T. Craig,CHI,Craig 28' 3PT Running Jump Shot (3 PTS) (Caruso 2 AST),Made Shot,Running Jump Shot,-42,272,28,1,3.0,3.0,v
+S2324-G0948,1,00:53.600000,IND,24.0,CHI,29.0,T. Craig,CHI,Craig Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0948,1,00:53.600000,IND,24.0,CHI,30.0,T. Craig,CHI,Craig Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0948,2,09:35,IND,,CHI,,T. Craig,CHI,MISS Craig 26' 3PT Jump Shot,Missed Shot,Jump Shot,-23,262,26,1,3.0,0.0,v
+S2324-G0948,2,04:10,IND,,CHI,,T. Craig,CHI,SUB: Dosunmu FOR Craig,Substitution,,0,0,0,0,,,v
+S2324-G0948,4,08:35,IND,,CHI,,T. Craig,CHI,Craig S.FOUL (P1.T4) (M.Ervin),Foul,Shooting,0,0,0,0,,,v
+S2324-G0948,4,06:34,IND,,CHI,,T. Craig,CHI,Craig REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0948,4,06:23,IND,,CHI,,T. Craig,CHI,Craig REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0948,4,06:11,IND,,CHI,,T. Craig,CHI,MISS Craig 3PT Jump Shot,Missed Shot,Jump Shot,-225,13,0,1,3.0,0.0,v
+S2324-G0948,4,03:57,IND,107.0,CHI,108.0,T. Craig,CHI,Craig 3PT Jump Shot (8 PTS) (Caruso 5 AST),Made Shot,Jump Shot,-223,4,0,1,3.0,3.0,v
+S2324-G0948,4,03:28,IND,,CHI,,T. Craig,CHI,Craig REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0948,4,03:15,IND,,CHI,,T. Craig,CHI,SUB: Dosunmu FOR Craig,Substitution,,0,0,0,0,,,v
+S2324-G0948,4,00:05.500000,IND,,CHI,,T. Craig,CHI,SUB: Bitim FOR Craig,Substitution,,0,0,0,0,,,v
+S2324-G0948,5,04:33,IND,,CHI,,T. Craig,CHI,Craig S.FOUL (P2.T1) (M.Ervin),Foul,Shooting,0,0,0,0,,,v
+S2324-G0948,5,00:24.200000,IND,127.0,CHI,131.0,T. Craig,CHI,Craig 2' Layup (10 PTS) (Caruso 7 AST),Made Shot,Layup Shot,-16,9,2,1,2.0,2.0,v
+S2324-G0948,5,00:13.600000,IND,,CHI,,T. Craig,CHI,Craig S.FOUL (P3.T3) (M.Ervin),Foul,Shooting,0,0,0,0,,,v
+S2324-G1066,1,02:29,BKN,24.0,CHI,13.0,T. Craig,CHI,Craig Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1066,1,02:29,BKN,24.0,CHI,14.0,T. Craig,CHI,Craig Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1066,1,02:06,BKN,24.0,CHI,16.0,T. Craig,CHI,Craig 2' Running Layup (4 PTS) (Bitim 1 AST),Made Shot,Running Layup Shot,9,12,2,1,2.0,2.0,v
+S2324-G1066,3,03:32,BKN,,CHI,,T. Craig,CHI,Craig BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G1066,3,03:21,BKN,,CHI,,T. Craig,CHI,Craig REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1066,3,02:46,BKN,,CHI,,T. Craig,CHI,Craig Lost Ball Turnover (P1.T11),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G1066,3,01:01,BKN,82.0,CHI,79.0,T. Craig,CHI,Craig 25' 3PT Running Jump Shot (7 PTS) (White 6 AST),Made Shot,Running Jump Shot,-2,247,25,1,3.0,3.0,v
+S2324-G1066,4,00:34.500000,BKN,,CHI,,T. Craig,CHI,MISS Craig 25' 3PT Jump Shot,Missed Shot,Jump Shot,141,210,25,1,3.0,0.0,v
+S2324-G0250,2,10:52,BKN,,CHI,,T. Craig,CHI,Craig Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0250,2,08:42,BKN,33.0,CHI,40.0,T. Craig,CHI,Craig Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0250,2,08:42,BKN,33.0,CHI,41.0,T. Craig,CHI,Craig Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0250,2,08:08,BKN,,CHI,,T. Craig,CHI,MISS Craig 13' Step Back Jump Shot,Missed Shot,Step Back Jump shot,0,133,13,1,2.0,0.0,v
+S2324-G0250,2,06:27,BKN,,CHI,,T. Craig,CHI,SUB: Williams FOR Craig,Substitution,,0,0,0,0,,,v
+S2324-G0250,4,11:32,BKN,,CHI,,T. Craig,CHI,Craig REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0250,4,11:31,BKN,,CHI,,T. Craig,CHI,Craig Bad Pass Turnover (P2.T10),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0250,4,10:36,BKN,97.0,CHI,87.0,T. Craig,CHI,Craig 3' Running Dunk (4 PTS),Made Shot,Running Dunk Shot,11,24,3,1,2.0,2.0,v
+S2324-G0250,4,09:57,BKN,,CHI,,T. Craig,CHI,Craig REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0250,4,08:02,BKN,,CHI,,T. Craig,CHI,Craig REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0250,4,04:34,BKN,,CHI,,T. Craig,CHI,SUB: White FOR Craig,Substitution,,0,0,0,0,,,v
+S2324-G0196,1,09:34,CHI,,ORL,,T. Craig,CHI,Craig OFF.Foul (P1) (B.Forte),Foul,Offensive,0,0,0,0,,,h
+S2324-G0196,1,09:34,CHI,,ORL,,T. Craig,CHI,Craig Offensive Foul Turnover (P1.T1),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0196,1,08:56,CHI,,ORL,,T. Craig,CHI,MISS Craig 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,10,49,5,1,2.0,0.0,h
+S2324-G0196,1,03:26,CHI,,ORL,,T. Craig,CHI,SUB: Carter FOR Craig,Substitution,,0,0,0,0,,,h
+S2324-G0196,2,09:04,CHI,,ORL,,T. Craig,CHI,Craig REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0196,2,08:40,CHI,,ORL,,T. Craig,CHI,Craig REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0196,2,08:29,CHI,,ORL,,T. Craig,CHI,Craig Bad Pass Turnover (P2.T9),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0196,2,06:15,CHI,,ORL,,T. Craig,CHI,Craig REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0196,2,06:13,CHI,24.0,ORL,37.0,T. Craig,CHI,Craig Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2324-G0196,2,05:40,CHI,,ORL,,T. Craig,CHI,MISS Craig 3PT Jump Shot,Missed Shot,Jump Shot,-228,-1,0,1,3.0,0.0,h
+S2324-G0196,2,05:15,CHI,,ORL,,T. Craig,CHI,SUB: Caruso FOR Craig,Substitution,,0,0,0,0,,,h
+S2324-G0196,3,10:57,CHI,,ORL,,T. Craig,CHI,Craig STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0196,3,10:54,CHI,37.0,ORL,52.0,T. Craig,CHI,Craig 1' Running Finger Roll Layup (4 PTS),Made Shot,Running Finger Roll Layup Shot,-6,10,1,1,2.0,2.0,h
+S2324-G0196,3,10:54,CHI,38.0,ORL,52.0,T. Craig,CHI,Craig Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G0196,3,10:24,CHI,40.0,ORL,52.0,T. Craig,CHI,Craig 1' Running Layup (7 PTS),Made Shot,Running Layup Shot,-12,5,1,1,2.0,2.0,h
+S2324-G0196,3,07:41,CHI,,ORL,,T. Craig,CHI,Craig REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0196,3,07:40,CHI,45.0,ORL,60.0,T. Craig,CHI,Craig Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0196,3,07:40,CHI,46.0,ORL,60.0,T. Craig,CHI,Craig Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0196,3,06:53,CHI,,ORL,,T. Craig,CHI,SUB: Drummond FOR Craig,Substitution,,0,0,0,0,,,h
+S2324-G0196,3,01:30,CHI,,ORL,,T. Craig,CHI,MISS Craig 26' 3PT Jump Shot,Missed Shot,Jump Shot,-123,232,26,1,3.0,0.0,h
+S2324-G0196,3,00:43.700000,CHI,,ORL,,T. Craig,CHI,Craig REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0196,3,00:08.400000,CHI,,ORL,,T. Craig,CHI,Craig REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0196,4,08:41,CHI,,ORL,,T. Craig,CHI,Craig REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0196,4,08:41,CHI,69.0,ORL,79.0,T. Craig,CHI,Craig Putback Layup (11 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,h
+S2324-G0196,4,07:53,CHI,,ORL,,T. Craig,CHI,SUB: Williams FOR Craig,Substitution,,0,0,0,0,,,h
+S2324-G0102,1,01:56,IND,,CHI,,T. Craig,CHI,Craig L.B.FOUL (P1.T4) (M.Kogut),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0102,1,01:06,IND,,CHI,,T. Craig,CHI,Craig Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0102,1,00:40.400000,IND,30.0,CHI,27.0,T. Craig,CHI,Craig 3PT Jump Shot (3 PTS) (Carter 2 AST),Made Shot,Jump Shot,228,16,0,1,3.0,3.0,v
+S2324-G0102,2,11:17,IND,,CHI,,T. Craig,CHI,Craig STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0102,2,10:22,IND,,CHI,,T. Craig,CHI,Craig S.FOUL (P2.T1) (P.Fraher),Foul,Shooting,0,0,0,0,,,v
+S2324-G0102,2,09:19,IND,,CHI,,T. Craig,CHI,Craig BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0102,2,07:49,IND,,CHI,,T. Craig,CHI,Craig REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0102,2,07:15,IND,,CHI,,T. Craig,CHI,Craig Step Out of Bounds Turnover (P2.T6),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2324-G0102,2,05:10,IND,,CHI,,T. Craig,CHI,SUB: Williams FOR Craig,Substitution,,0,0,0,0,,,v
+S2324-G0102,3,03:27,IND,,CHI,,T. Craig,CHI,Craig STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0102,3,02:20,IND,,CHI,,T. Craig,CHI,Craig REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0102,3,02:20,IND,,CHI,,T. Craig,CHI,MISS Craig Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2324-G0102,3,01:09,IND,,CHI,,T. Craig,CHI,Craig REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0102,4,10:50,IND,,CHI,,T. Craig,CHI,Craig REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0102,4,09:43,IND,86.0,CHI,84.0,T. Craig,CHI,Craig 9' Fadeaway Jumper (5 PTS) (DeRozan 2 AST),Made Shot,Fadeaway Jump Shot,-64,58,9,1,2.0,2.0,v
+S2324-G0102,4,05:50,IND,,CHI,,T. Craig,CHI,Craig S.FOUL (P3.T4) (P.Fraher),Foul,Shooting,0,0,0,0,,,v
+S2324-G0102,4,05:50,IND,,CHI,,T. Craig,CHI,SUB: Caruso FOR Craig,Substitution,,0,0,0,0,,,v
+S2324-G0285,1,03:26,CHI,19.0,NOP,21.0,T. Craig,CHI,Craig 26' 3PT Jump Shot (3 PTS) (Vucevic 1 AST),Made Shot,Jump Shot,98,239,26,1,3.0,3.0,h
+S2324-G0285,1,02:12,CHI,25.0,NOP,23.0,T. Craig,CHI,Craig 5' Driving Floating Jump Shot (5 PTS) (Dosunmu 2 AST),Made Shot,Driving Floating Jump Shot,-16,43,5,1,2.0,2.0,h
+S2324-G0285,1,01:40,CHI,26.0,NOP,26.0,T. Craig,CHI,Craig Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0285,1,01:40,CHI,27.0,NOP,26.0,T. Craig,CHI,Craig Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0285,1,00:03.600000,CHI,,NOP,,T. Craig,CHI,Craig REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0285,2,11:48,CHI,,NOP,,T. Craig,CHI,SUB: Williams FOR Craig,Substitution,,0,0,0,0,,,h
+S2324-G0285,3,06:03,CHI,,NOP,,T. Craig,CHI,Craig REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0285,3,04:41,CHI,,NOP,,T. Craig,CHI,Craig Out of Bounds - Bad Pass Turnover Turnover (P1.T9),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G0285,3,04:28,CHI,,NOP,,T. Craig,CHI,Craig P.FOUL (P1.T2) (S.Corbin),Foul,Personal,0,0,0,0,,,h
+S2324-G0285,3,03:53,CHI,,NOP,,T. Craig,CHI,MISS Craig 25' 3PT Jump Shot,Missed Shot,Jump Shot,-233,90,25,1,3.0,0.0,h
+S2324-G0285,3,01:53,CHI,84.0,NOP,78.0,T. Craig,CHI,Craig 3PT Jump Shot (10 PTS) (Carter 1 AST),Made Shot,Jump Shot,-224,-1,0,1,3.0,3.0,h
+S2324-G0285,3,01:00,CHI,,NOP,,T. Craig,CHI,Craig S.FOUL (P2.T3) (S.Corbin),Foul,Shooting,0,0,0,0,,,h
+S2324-G0285,3,00:20.600000,CHI,,NOP,,T. Craig,CHI,Craig REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0285,3,00:20.600000,CHI,89.0,NOP,82.0,T. Craig,CHI,Craig Putback Layup (12 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,h
+S2324-G0285,4,07:32,CHI,,NOP,,T. Craig,CHI,Craig REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0285,4,07:14,CHI,,NOP,,T. Craig,CHI,Craig BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0285,4,06:49,CHI,,NOP,,T. Craig,CHI,Craig REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0285,4,04:06,CHI,,NOP,,T. Craig,CHI,Craig REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0285,4,03:27,CHI,116.0,NOP,104.0,T. Craig,CHI,Craig 3PT Jump Shot (15 PTS) (White 5 AST),Made Shot,Jump Shot,-221,76,0,1,3.0,3.0,h
+S2324-G0285,4,02:38,CHI,,NOP,,T. Craig,CHI,SUB: Williams FOR Craig,Substitution,,0,0,0,0,,,h
+S2324-G0285,4,00:16.900000,CHI,,NOP,,T. Craig,CHI,Craig S.FOUL (P3.PN) (Z.Zarba),Foul,Shooting,0,0,0,0,,,h
+S2324-G0285,4,00:16.900000,CHI,,NOP,,T. Craig,CHI,SUB: Vucevic FOR Craig,Substitution,,0,0,0,0,,,h
+S2324-G1211,1,06:53,CHI,13.0,CHA,13.0,T. Craig,CHI,Craig 26' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,-161,210,26,1,3.0,3.0,h
+S2324-G1211,1,06:09,CHI,16.0,CHA,15.0,T. Craig,CHI,Craig 26' 3PT Jump Shot (6 PTS) (White 2 AST),Made Shot,Jump Shot,197,168,26,1,3.0,3.0,h
+S2324-G1211,1,03:23,CHI,,CHA,,T. Craig,CHI,Craig REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1211,1,03:07,CHI,,CHA,,T. Craig,CHI,Craig S.FOUL (P1.T3) (J.Conley),Foul,Shooting,0,0,0,0,,,h
+S2324-G1211,1,01:29,CHI,,CHA,,T. Craig,CHI,SUB: Drummond FOR Craig,Substitution,,0,0,0,0,,,h
+S2324-G1211,2,01:19,CHI,,CHA,,T. Craig,CHI,Craig REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1211,2,01:19,CHI,,CHA,,T. Craig,CHI,MISS Craig Putback Layup,Missed Shot,Putback Layup Shot,0,0,0,1,2.0,0.0,h
+S2324-G1211,3,02:33,CHI,,CHA,,T. Craig,CHI,Craig STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1211,4,11:36,CHI,,CHA,,T. Craig,CHI,Craig REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1211,4,10:19,CHI,,CHA,,T. Craig,CHI,Craig REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1211,4,09:41,CHI,,CHA,,T. Craig,CHI,MISS Craig 20' Step Back Jump Shot,Missed Shot,Step Back Jump shot,97,178,20,1,2.0,0.0,h
+S2324-G1211,4,08:54,CHI,,CHA,,T. Craig,CHI,Craig S.FOUL (P2.T2) (P.Ransom),Foul,Shooting,0,0,0,0,,,h
+S2324-G1211,4,08:03,CHI,,CHA,,T. Craig,CHI,SUB: Vucevic FOR Craig,Substitution,,0,0,0,0,,,h
+S2324-G0046,1,01:35,TOR,,CHI,,T. Craig,CHI,Craig P.FOUL (P1.T3) (E.Scott),Foul,Personal,0,0,0,0,,,v
+S2324-G0046,1,00:56.400000,TOR,,CHI,,T. Craig,CHI,MISS Craig Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0046,1,00:56.400000,TOR,34.0,CHI,22.0,T. Craig,CHI,Craig Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0046,2,09:42,TOR,,CHI,,T. Craig,CHI,Craig REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0046,2,09:34,TOR,,CHI,,T. Craig,CHI,Craig Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0046,2,08:39,TOR,,CHI,,T. Craig,CHI,Craig REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0046,2,08:15,TOR,,CHI,,T. Craig,CHI,Craig REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0046,2,06:41,TOR,,CHI,,T. Craig,CHI,SUB: DeRozan FOR Craig,Substitution,,0,0,0,0,,,v
+S2324-G0046,3,06:40,TOR,,CHI,,T. Craig,CHI,Craig S.FOUL (P2.T3) (E.Scott),Foul,Shooting,0,0,0,0,,,v
+S2324-G0046,3,06:05,TOR,,CHI,,T. Craig,CHI,Craig REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0046,3,05:13,TOR,,CHI,,T. Craig,CHI,Craig BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0046,3,04:46,TOR,,CHI,,T. Craig,CHI,MISS Craig 2' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,16,8,2,1,2.0,0.0,v
+S2324-G0046,3,04:24,TOR,81.0,CHI,64.0,T. Craig,CHI,Craig 7' Fadeaway Jumper (3 PTS) (Vucevic 4 AST),Made Shot,Fadeaway Jump Shot,18,64,7,1,2.0,2.0,v
+S2324-G0046,3,00:10.400000,TOR,,CHI,,T. Craig,CHI,Craig REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0046,3,00:10.400000,TOR,91.0,CHI,76.0,T. Craig,CHI,Craig Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0046,3,00:10.400000,TOR,91.0,CHI,77.0,T. Craig,CHI,Craig Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0046,4,10:44,TOR,,CHI,,T. Craig,CHI,SUB: LaVine FOR Craig,Substitution,,0,0,0,0,,,v
+S2324-G0046,4,09:06,TOR,,CHI,,T. Craig,CHI,MISS Craig 3PT Jump Shot,Missed Shot,Jump Shot,-223,3,0,1,3.0,0.0,v
+S2324-G0046,4,08:18,TOR,,CHI,,T. Craig,CHI,SUB: Vucevic FOR Craig,Substitution,,0,0,0,0,,,v
+S2324-G1084,1,07:07,MIN,,CHI,,T. Craig,CHI,Craig REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1084,1,07:06,MIN,,CHI,,T. Craig,CHI,Craig Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G1084,1,06:10,MIN,,CHI,,T. Craig,CHI,Craig REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1084,1,04:58,MIN,15.0,CHI,17.0,T. Craig,CHI,Craig 26' 3PT Jump Shot (3 PTS) (Vucevic 2 AST),Made Shot,Jump Shot,176,194,26,1,3.0,3.0,v
+S2324-G1084,1,03:17,MIN,,CHI,,T. Craig,CHI,Craig REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1084,1,02:04,MIN,,CHI,,T. Craig,CHI,SUB: DeRozan FOR Craig,Substitution,,0,0,0,0,,,v
+S2324-G1084,2,00:15.200000,MIN,,CHI,,T. Craig,CHI,Craig REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1084,2,00:13.800000,MIN,,CHI,,T. Craig,CHI,MISS Craig 1' Layup,Missed Shot,Layup Shot,0,9,1,1,2.0,0.0,v
+S2324-G1084,4,08:43,MIN,,CHI,,T. Craig,CHI,Craig P.FOUL (P1.T4) (J.DeRosa),Foul,Personal,0,0,0,0,,,v
+S2324-G1084,4,08:05,MIN,,CHI,,T. Craig,CHI,Craig S.FOUL (P2.PN) (T.Ford),Foul,Shooting,0,0,0,0,,,v
+S2324-G1084,4,08:05,MIN,,CHI,,T. Craig,CHI,SUB: Green FOR Craig,Substitution,,0,0,0,0,,,v
+S2324-G0986,1,10:33,CHI,,POR,,T. Craig,CHI,Craig REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0986,1,05:36,CHI,,POR,,T. Craig,CHI,SUB: Terry FOR Craig,Substitution,,0,0,0,0,,,h
+S2324-G0986,2,06:23,CHI,,POR,,T. Craig,CHI,MISS Craig 25' 3PT Jump Shot,Missed Shot,Jump Shot,-173,174,25,1,3.0,0.0,h
+S2324-G0986,2,03:41,CHI,,POR,,T. Craig,CHI,MISS Craig 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,0,48,5,1,2.0,0.0,h
+S2324-G0986,2,01:40,CHI,,POR,,T. Craig,CHI,SUB: Terry FOR Craig,Substitution,,0,0,0,0,,,h
+S2324-G0986,3,11:39,CHI,,POR,,T. Craig,CHI,MISS Craig 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-5,7,1,1,2.0,0.0,h
+S2324-G0986,3,11:36,CHI,,POR,,T. Craig,CHI,Craig REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0986,3,10:12,CHI,60.0,POR,53.0,T. Craig,CHI,Craig 3PT Jump Shot (3 PTS) (Dosunmu 6 AST),Made Shot,Jump Shot,229,-21,0,1,3.0,3.0,h
+S2324-G0986,3,09:35,CHI,,POR,,T. Craig,CHI,Craig P.FOUL (P1.T1) (S.Corbin),Foul,Personal,0,0,0,0,,,h
+S2324-G0986,3,09:10,CHI,,POR,,T. Craig,CHI,Craig P.FOUL (P2.T2) (K.Lane),Foul,Personal,0,0,0,0,,,h
+S2324-G0986,3,06:16,CHI,72.0,POR,62.0,T. Craig,CHI,Craig 24' 3PT Step Back Jump Shot (6 PTS) (Dosunmu 8 AST),Made Shot,Step Back Jump shot,228,69,24,1,3.0,3.0,h
+S2324-G0986,3,04:19,CHI,,POR,,T. Craig,CHI,Craig BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0986,3,03:20,CHI,,POR,,T. Craig,CHI,Craig STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0986,3,03:15,CHI,,POR,,T. Craig,CHI,SUB: Caruso FOR Craig,Substitution,,0,0,0,0,,,h
+S2324-G0986,4,05:33,CHI,,POR,,T. Craig,CHI,MISS Craig 28' 3PT Jump Shot,Missed Shot,Jump Shot,-165,231,28,1,3.0,0.0,h
+S2324-G0986,4,05:18,CHI,,POR,,T. Craig,CHI,MISS Craig 3PT Jump Shot,Missed Shot,Jump Shot,234,-8,0,1,3.0,0.0,h
+S2324-G0986,4,05:15,CHI,,POR,,T. Craig,CHI,SUB: Bitim FOR Craig,Substitution,,0,0,0,0,,,h
+S2324-G0986,4,00:31.200000,CHI,,POR,,T. Craig,CHI,SUB: Bitim FOR Craig,Substitution,,0,0,0,0,,,h
+S2324-G0986,4,00:07.400000,CHI,,POR,,T. Craig,CHI,SUB: Bitim FOR Craig,Substitution,,0,0,0,0,,,h
+S2324-G0181,1,11:44,CHI,,DET,,T. Craig,CHI,Craig REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0181,1,10:01,CHI,,DET,,T. Craig,CHI,Craig REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0181,1,09:16,CHI,,DET,,T. Craig,CHI,Craig REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0181,1,09:14,CHI,,DET,,T. Craig,CHI,MISS Craig 27' 3PT Jump Shot,Missed Shot,Jump Shot,-168,215,27,1,3.0,0.0,h
+S2324-G0181,1,07:54,CHI,,DET,,T. Craig,CHI,Craig STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0181,1,07:11,CHI,,DET,,T. Craig,CHI,Craig S.FOUL (P1.T2) (Z.Zarba),Foul,Shooting,0,0,0,0,,,h
+S2324-G0181,1,06:44,CHI,10.0,DET,8.0,T. Craig,CHI,Craig 3PT Jump Shot (3 PTS) (White 1 AST),Made Shot,Jump Shot,232,1,0,1,3.0,3.0,h
+S2324-G0181,1,04:47,CHI,,DET,,T. Craig,CHI,Craig REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0181,1,04:37,CHI,,DET,,T. Craig,CHI,MISS Craig 4' Driving Layup,Missed Shot,Driving Layup Shot,2,39,4,1,2.0,0.0,h
+S2324-G0181,1,04:33,CHI,,DET,,T. Craig,CHI,SUB: Dosunmu FOR Craig,Substitution,,0,0,0,0,,,h
+S2324-G0181,2,06:14,CHI,,DET,,T. Craig,CHI,MISS Craig 24' 3PT Jump Shot,Missed Shot,Jump Shot,239,7,24,1,3.0,0.0,h
+S2324-G0181,2,03:41,CHI,,DET,,T. Craig,CHI,Craig REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0181,2,02:49,CHI,,DET,,T. Craig,CHI,Craig REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0181,3,11:43,CHI,,DET,,T. Craig,CHI,MISS Craig 24' 3PT Jump Shot,Missed Shot,Jump Shot,240,14,24,1,3.0,0.0,h
+S2324-G0181,3,09:50,CHI,,DET,,T. Craig,CHI,Craig REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0181,3,08:43,CHI,,DET,,T. Craig,CHI,Craig S.FOUL (P2.T1) (Z.Zarba),Foul,Shooting,0,0,0,0,,,h
+S2324-G0181,3,07:05,CHI,,DET,,T. Craig,CHI,Craig S.FOUL (P3.T3) (J.Ralls),Foul,Shooting,0,0,0,0,,,h
+S2324-G0181,3,06:06,CHI,,DET,,T. Craig,CHI,Craig REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0181,3,02:55,CHI,,DET,,T. Craig,CHI,SUB: Williams FOR Craig,Substitution,,0,0,0,0,,,h
+S2324-G0181,4,07:59,CHI,,DET,,T. Craig,CHI,MISS Craig 13' Step Back Jump Shot,Missed Shot,Step Back Jump shot,133,8,13,1,2.0,0.0,h
+S2324-G0181,4,07:46,CHI,,DET,,T. Craig,CHI,Craig REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0181,4,04:26,CHI,,DET,,T. Craig,CHI,SUB: DeRozan FOR Craig,Substitution,,0,0,0,0,,,h
+S2324-G0181,4,00:24,CHI,,DET,,T. Craig,CHI,Craig REBOUND (Off:3 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0752,2,10:22,ORL,,CHI,,T. Craig,CHI,SUB: Terry FOR Craig,Substitution,,0,0,0,0,,,v
+S2324-G0752,2,07:19,ORL,,CHI,,T. Craig,CHI,MISS Craig 26' 3PT Jump Shot,Missed Shot,Jump Shot,-142,213,26,1,3.0,0.0,v
+S2324-G0752,2,06:23,ORL,,CHI,,T. Craig,CHI,Craig BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0752,2,04:29,ORL,,CHI,,T. Craig,CHI,SUB: Caruso FOR Craig,Substitution,,0,0,0,0,,,v
+S2324-G0752,3,07:21,ORL,,CHI,,T. Craig,CHI,Craig REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0752,3,07:21,ORL,,CHI,,T. Craig,CHI,MISS Craig Putback Layup,Missed Shot,Putback Layup Shot,0,0,0,1,2.0,0.0,v
+S2324-G0752,3,05:46,ORL,,CHI,,T. Craig,CHI,Craig STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0752,3,03:11,ORL,,CHI,,T. Craig,CHI,SUB: Caruso FOR Craig,Substitution,,0,0,0,0,,,v
+S2324-G0752,4,09:05,ORL,85.0,CHI,92.0,T. Craig,CHI,Craig 3PT Jump Shot (3 PTS) (White 5 AST),Made Shot,Jump Shot,229,4,0,1,3.0,3.0,v
+S2324-G0752,4,04:23,ORL,,CHI,,T. Craig,CHI,SUB: Caruso FOR Craig,Substitution,,0,0,0,0,,,v
+S2324-G1006,1,09:04,HOU,4.0,CHI,8.0,T. Craig,CHI,Craig 28' 3PT Jump Shot (3 PTS) (Vucevic 1 AST),Made Shot,Jump Shot,-114,260,28,1,3.0,3.0,v
+S2324-G1006,1,07:44,HOU,,CHI,,T. Craig,CHI,MISS Craig 24' 3PT Jump Shot,Missed Shot,Jump Shot,-229,70,24,1,3.0,0.0,v
+S2324-G1006,1,07:16,HOU,,CHI,,T. Craig,CHI,Craig REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1006,1,07:15,HOU,12.0,CHI,13.0,T. Craig,CHI,Craig 1' Putback Layup (5 PTS),Made Shot,Putback Layup Shot,-10,5,1,1,2.0,2.0,v
+S2324-G1006,1,06:49,HOU,,CHI,,T. Craig,CHI,MISS Craig 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-29,131,13,1,2.0,0.0,v
+S2324-G1006,1,05:43,HOU,,CHI,,T. Craig,CHI,Craig S.FOUL (P1.T4) (B.Schwab),Foul,Shooting,0,0,0,0,,,v
+S2324-G1006,1,04:38,HOU,,CHI,,T. Craig,CHI,MISS Craig 6' Layup,Missed Shot,Layup Shot,-32,52,6,1,2.0,0.0,v
+S2324-G1006,1,04:24,HOU,,CHI,,T. Craig,CHI,SUB: Caruso FOR Craig,Substitution,,0,0,0,0,,,v
+S2324-G1006,3,11:49,HOU,,CHI,,T. Craig,CHI,Craig OFF.Foul (P2) (C.Blair),Foul,Offensive,0,0,0,0,,,v
+S2324-G1006,3,11:49,HOU,,CHI,,T. Craig,CHI,Craig Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G1006,3,11:10,HOU,,CHI,,T. Craig,CHI,Craig REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1006,3,08:00,HOU,,CHI,,T. Craig,CHI,Craig REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1006,3,07:52,HOU,,CHI,,T. Craig,CHI,MISS Craig 2' Driving Layup,Missed Shot,Driving Layup Shot,-23,6,2,1,2.0,0.0,v
+S2324-G1006,3,07:01,HOU,,CHI,,T. Craig,CHI,Craig REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1006,3,06:47,HOU,,CHI,,T. Craig,CHI,Craig S.FOUL (P3.T1) (B.Schwab),Foul,Shooting,0,0,0,0,,,v
+S2324-G1006,3,05:23,HOU,,CHI,,T. Craig,CHI,SUB: Bitim FOR Craig,Substitution,,0,0,0,0,,,v
+S2324-G1006,4,10:54,HOU,105.0,CHI,99.0,T. Craig,CHI,Craig 24' 3PT Jump Shot (8 PTS) (Terry 4 AST),Made Shot,Jump Shot,-225,94,24,1,3.0,3.0,v
+S2324-G1006,4,10:17,HOU,107.0,CHI,101.0,T. Craig,CHI,Craig 1' Driving Layup (10 PTS) (Terry 5 AST),Made Shot,Driving Layup Shot,-9,1,1,1,2.0,2.0,v
+S2324-G1006,4,08:46,HOU,,CHI,,T. Craig,CHI,Craig BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G1006,4,07:33,HOU,,CHI,,T. Craig,CHI,Craig Lost Ball Turnover (P2.T8),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G1006,4,06:41,HOU,,CHI,,T. Craig,CHI,MISS Craig 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,14,24,1,3.0,0.0,v
+S2324-G1006,4,04:46,HOU,,CHI,,T. Craig,CHI,SUB: Caruso FOR Craig,Substitution,,0,0,0,0,,,v
+S2324-G0139,1,10:32,DEN,,CHI,,T. Craig,CHI,MISS Craig 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-22,78,8,1,2.0,0.0,v
+S2324-G0139,1,07:27,DEN,,CHI,,T. Craig,CHI,Craig REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0139,1,05:57,DEN,11.0,CHI,12.0,T. Craig,CHI,Craig 2' Cutting Layup Shot (2 PTS) (Caruso 1 AST),Made Shot,Cutting Layup Shot,21,4,2,1,2.0,2.0,v
+S2324-G0139,1,05:00,DEN,,CHI,,T. Craig,CHI,SUB: Williams FOR Craig,Substitution,,0,0,0,0,,,v
+S2324-G0139,2,05:45,DEN,,CHI,,T. Craig,CHI,Craig P.FOUL (P1.T2) (B.Schwab),Foul,Personal,0,0,0,0,,,v
+S2324-G0139,2,05:16,DEN,,CHI,,T. Craig,CHI,Craig STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0139,2,04:51,DEN,,CHI,,T. Craig,CHI,Craig REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0139,2,03:33,DEN,,CHI,,T. Craig,CHI,MISS Craig 26' 3PT Jump Shot,Missed Shot,Jump Shot,-18,260,26,1,3.0,0.0,v
+S2324-G0139,2,01:45,DEN,,CHI,,T. Craig,CHI,Craig REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0139,2,01:43,DEN,47.0,CHI,50.0,T. Craig,CHI,Craig Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2324-G0139,2,01:22,DEN,,CHI,,T. Craig,CHI,Craig REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0139,3,11:05,DEN,,CHI,,T. Craig,CHI,Craig REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0139,3,09:21,DEN,,CHI,,T. Craig,CHI,MISS Craig 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,7,99,10,1,2.0,0.0,v
+S2324-G0139,3,08:17,DEN,,CHI,,T. Craig,CHI,Craig REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0139,3,05:40,DEN,,CHI,,T. Craig,CHI,SUB: Williams FOR Craig,Substitution,,0,0,0,0,,,v
+S2324-G0139,4,08:26,DEN,99.0,CHI,86.0,T. Craig,CHI,Craig 3' Reverse Layup (6 PTS) (White 5 AST),Made Shot,Reverse Layup Shot,28,6,3,1,2.0,2.0,v
+S2324-G0139,4,08:26,DEN,99.0,CHI,87.0,T. Craig,CHI,Craig Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G0139,4,04:37,DEN,,CHI,,T. Craig,CHI,SUB: Williams FOR Craig,Substitution,,0,0,0,0,,,v
+S2324-G0898,4,00:09.300000,UTA,,CHI,,T. Craig,CHI,"Double Technical - Craig, Collins (K.Scott)",Foul,Double Technical,0,0,0,0,,,
+S2324-G0162,1,11:00,CHI,,PHX,,T. Craig,CHI,MISS Craig 19' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-22,184,19,1,2.0,0.0,h
+S2324-G0162,1,07:40,CHI,,PHX,,T. Craig,CHI,MISS Craig 3PT Jump Shot,Missed Shot,Jump Shot,-228,-21,0,1,3.0,0.0,h
+S2324-G0162,1,05:52,CHI,,PHX,,T. Craig,CHI,Craig S.FOUL (P1.T2) (J.DeRosa),Foul,Shooting,0,0,0,0,,,h
+S2324-G0162,1,05:52,CHI,,PHX,,T. Craig,CHI,SUB: Drummond FOR Craig,Substitution,,0,0,0,0,,,h
+S2324-G0162,2,06:37,CHI,,PHX,,T. Craig,CHI,Craig REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0162,2,02:29,CHI,,PHX,,T. Craig,CHI,Craig REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0162,2,02:07,CHI,,PHX,,T. Craig,CHI,SUB: DeRozan FOR Craig,Substitution,,0,0,0,0,,,h
+S2324-G0162,3,10:34,CHI,,PHX,,T. Craig,CHI,Craig P.FOUL (P2.T1) (S.Mitchell),Foul,Personal,0,0,0,0,,,h
+S2324-G0162,3,06:11,CHI,,PHX,,T. Craig,CHI,Craig STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0162,3,04:46,CHI,,PHX,,T. Craig,CHI,MISS Craig 26' 3PT Jump Shot,Missed Shot,Jump Shot,-148,218,26,1,3.0,0.0,h
+S2324-G0162,3,04:09,CHI,,PHX,,T. Craig,CHI,Craig P.FOUL (P3.T2) (K.Cutler),Foul,Personal,0,0,0,0,,,h
+S2324-G0162,3,04:09,CHI,,PHX,,T. Craig,CHI,SUB: Williams FOR Craig,Substitution,,0,0,0,0,,,h
+S2324-G0070,1,04:21,CHI,24.0,OKC,26.0,T. Craig,CHI,Craig 25' 3PT Jump Shot (3 PTS) (Carter 1 AST),Made Shot,Jump Shot,-127,216,25,1,3.0,3.0,h
+S2324-G0070,1,02:14,CHI,30.0,OKC,31.0,T. Craig,CHI,Craig 24' 3PT Jump Shot (6 PTS) (Caruso 1 AST),Made Shot,Jump Shot,-237,-12,24,1,3.0,3.0,h
+S2324-G0070,1,01:03,CHI,,OKC,,T. Craig,CHI,Craig REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0070,1,00:05,CHI,,OKC,,T. Craig,CHI,SUB: White FOR Craig,Substitution,,0,0,0,0,,,h
+S2324-G0070,2,11:41,CHI,,OKC,,T. Craig,CHI,Craig P.FOUL (P1.T1) (J.Capers),Foul,Personal,0,0,0,0,,,h
+S2324-G0070,2,11:03,CHI,,OKC,,T. Craig,CHI,Craig REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0070,2,09:54,CHI,,OKC,,T. Craig,CHI,Craig REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0070,2,08:29,CHI,,OKC,,T. Craig,CHI,Craig REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0070,2,07:53,CHI,,OKC,,T. Craig,CHI,SUB: Vucevic FOR Craig,Substitution,,0,0,0,0,,,h
+S2324-G0070,2,02:07,CHI,,OKC,,T. Craig,CHI,MISS Craig 3PT Jump Shot,Missed Shot,Jump Shot,-223,-8,0,1,3.0,0.0,h
+S2324-G0070,2,00:47.100000,CHI,53.0,OKC,58.0,T. Craig,CHI,Craig 25' 3PT Jump Shot (9 PTS) (Vucevic 2 AST),Made Shot,Jump Shot,205,143,25,1,3.0,3.0,h
+S2324-G0070,3,00:18.600000,CHI,,OKC,,T. Craig,CHI,Craig REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0070,4,09:57,CHI,,OKC,,T. Craig,CHI,Craig Bad Pass Turnover (P1.T12),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0070,4,08:49,CHI,,OKC,,T. Craig,CHI,Craig REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0070,4,08:48,CHI,,OKC,,T. Craig,CHI,MISS Craig 1' Putback Layup,Missed Shot,Putback Layup Shot,-9,10,1,1,2.0,0.0,h
+S2324-G0070,4,08:48,CHI,,OKC,,T. Craig,CHI,Craig REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0070,4,08:43,CHI,88.0,OKC,104.0,T. Craig,CHI,Craig Putback Layup (11 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,h
+S2324-G0070,4,07:17,CHI,,OKC,,T. Craig,CHI,Craig P.FOUL (P2.T2) (N.Green),Foul,Personal,0,0,0,0,,,h
+S2324-G0070,4,06:42,CHI,,OKC,,T. Craig,CHI,SUB: DeRozan FOR Craig,Substitution,,0,0,0,0,,,h
+S2324-G0190,1,10:53,MIL,,CHI,,T. Craig,CHI,Craig REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0190,1,09:56,MIL,,CHI,,T. Craig,CHI,Craig REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0190,1,09:23,MIL,,CHI,,T. Craig,CHI,MISS Craig 24' 3PT Jump Shot,Missed Shot,Jump Shot,229,63,24,1,3.0,0.0,v
+S2324-G0190,1,08:57,MIL,,CHI,,T. Craig,CHI,Craig REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0190,1,08:56,MIL,9.0,CHI,2.0,T. Craig,CHI,Craig Putback Layup (2 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,v
+S2324-G0190,1,05:06,MIL,,CHI,,T. Craig,CHI,Craig P.FOUL (P1.T2) (B.Schwab),Foul,Personal,0,0,0,0,,,v
+S2324-G0190,1,05:06,MIL,,CHI,,T. Craig,CHI,SUB: Williams FOR Craig,Substitution,,0,0,0,0,,,v
+S2324-G0190,2,07:29,MIL,,CHI,,T. Craig,CHI,MISS Craig 25' 3PT Jump Shot,Missed Shot,Jump Shot,-15,251,25,1,3.0,0.0,v
+S2324-G0190,2,04:03,MIL,,CHI,,T. Craig,CHI,SUB: Vucevic FOR Craig,Substitution,,0,0,0,0,,,v
+S2324-G0190,3,10:21,MIL,,CHI,,T. Craig,CHI,Craig REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0190,3,10:14,MIL,,CHI,,T. Craig,CHI,Craig REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0190,3,10:09,MIL,,CHI,,T. Craig,CHI,MISS Craig 24' 3PT Jump Shot,Missed Shot,Jump Shot,230,59,24,1,3.0,0.0,v
+S2324-G0190,3,09:32,MIL,,CHI,,T. Craig,CHI,Craig REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0190,3,08:00,MIL,,CHI,,T. Craig,CHI,Craig REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0190,3,07:59,MIL,64.0,CHI,58.0,T. Craig,CHI,Craig Putback Layup (4 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,v
+S2324-G0190,3,07:59,MIL,64.0,CHI,59.0,T. Craig,CHI,Craig Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G0190,3,07:02,MIL,,CHI,,T. Craig,CHI,Craig P.FOUL (P2.T3) (M.Smith),Foul,Personal,0,0,0,0,,,v
+S2324-G0190,3,06:00,MIL,,CHI,,T. Craig,CHI,SUB: Drummond FOR Craig,Substitution,,0,0,0,0,,,v
+S2324-G0190,4,11:03,MIL,,CHI,,T. Craig,CHI,Craig REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0190,4,09:50,MIL,,CHI,,T. Craig,CHI,Craig REBOUND (Off:5 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0190,4,07:16,MIL,,CHI,,T. Craig,CHI,Craig REBOUND (Off:6 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0190,4,07:15,MIL,,CHI,,T. Craig,CHI,MISS Craig 4' Putback Layup,Missed Shot,Putback Layup Shot,1,41,4,1,2.0,0.0,v
+S2324-G0190,4,07:14,MIL,,CHI,,T. Craig,CHI,Craig REBOUND (Off:7 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0190,4,07:14,MIL,,CHI,,T. Craig,CHI,MISS Craig 2' Putback Layup,Missed Shot,Putback Layup Shot,-11,11,2,1,2.0,0.0,v
+S2324-G0190,4,06:53,MIL,,CHI,,T. Craig,CHI,Craig REBOUND (Off:7 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0190,4,06:44,MIL,100.0,CHI,87.0,T. Craig,CHI,Craig 28' 3PT Pullup Jump Shot (8 PTS) (Vucevic 4 AST),Made Shot,Pullup Jump shot,131,247,28,1,3.0,3.0,v
+S2324-G0190,4,06:08,MIL,,CHI,,T. Craig,CHI,SUB: Williams FOR Craig,Substitution,,0,0,0,0,,,v
+S2324-G0082,1,04:06,CHI,,TOR,,T. Craig,CHI,Craig REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0082,1,04:02,CHI,13.0,TOR,16.0,T. Craig,CHI,Craig 3PT Jump Shot (3 PTS),Made Shot,Jump Shot,-224,2,0,1,3.0,3.0,h
+S2324-G0082,1,00:58.200000,CHI,,TOR,,T. Craig,CHI,Craig STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0082,2,11:38,CHI,,TOR,,T. Craig,CHI,Craig REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0082,2,10:05,CHI,,TOR,,T. Craig,CHI,MISS Craig 25' 3PT Jump Shot,Missed Shot,Jump Shot,-170,184,25,1,3.0,0.0,h
+S2324-G0082,2,09:52,CHI,,TOR,,T. Craig,CHI,SUB: Dosunmu FOR Craig,Substitution,,0,0,0,0,,,h
+S2324-G0082,3,06:29,CHI,,TOR,,T. Craig,CHI,Craig S.FOUL (P1.PN) (B.Barnaky),Foul,Shooting,0,0,0,0,,,h
+S2324-G0082,3,05:44,CHI,,TOR,,T. Craig,CHI,MISS Craig 24' 3PT Jump Shot,Missed Shot,Jump Shot,-96,224,24,1,3.0,0.0,h
+S2324-G0082,3,03:35,CHI,,TOR,,T. Craig,CHI,MISS Craig 3PT Jump Shot,Missed Shot,Jump Shot,229,-12,0,1,3.0,0.0,h
+S2324-G0082,3,03:28,CHI,56.0,TOR,59.0,T. Craig,CHI,Craig 1' Layup (5 PTS) (DeRozan 3 AST),Made Shot,Layup Shot,0,6,1,1,2.0,2.0,h
+S2324-G0082,3,02:57,CHI,,TOR,,T. Craig,CHI,Craig REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0082,3,02:51,CHI,,TOR,,T. Craig,CHI,MISS Craig 1' Layup,Missed Shot,Layup Shot,11,0,1,1,2.0,0.0,h
+S2324-G0082,3,01:17,CHI,63.0,TOR,63.0,T. Craig,CHI,Craig 6' Floating Jump Shot (7 PTS) (White 6 AST),Made Shot,Floating Jump shot,-4,57,6,1,2.0,2.0,h
+S2324-G0082,3,00:42.100000,CHI,,TOR,,T. Craig,CHI,Craig BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0082,3,00:17.900000,CHI,,TOR,,T. Craig,CHI,Craig L.B.FOUL (P2.PN) (B.Barnaky),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0082,4,11:43,CHI,,TOR,,T. Craig,CHI,Craig REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0082,4,10:33,CHI,,TOR,,T. Craig,CHI,SUB: Caruso FOR Craig,Substitution,,0,0,0,0,,,h
+S2324-G0082,4,07:28,CHI,,TOR,,T. Craig,CHI,Craig REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0082,4,05:33,CHI,,TOR,,T. Craig,CHI,SUB: LaVine FOR Craig,Substitution,,0,0,0,0,,,h
+S2324-G0082,4,00:08.600000,CHI,,TOR,,T. Craig,CHI,SUB: Vucevic FOR Craig,Substitution,,0,0,0,0,,,h
+S2324-G0082,4,00:03.500000,CHI,,TOR,,T. Craig,CHI,SUB: Vucevic FOR Craig,Substitution,,0,0,0,0,,,h
+S2324-G0935,2,11:21,CHI,,DAL,,T. Craig,CHI,MISS Craig 3PT Jump Shot,Missed Shot,Jump Shot,225,8,0,1,3.0,0.0,h
+S2324-G0935,2,11:01,CHI,,DAL,,T. Craig,CHI,Craig P.FOUL (P1.T1) (N.Buchert),Foul,Personal,0,0,0,0,,,h
+S2324-G0935,2,11:01,CHI,,DAL,,T. Craig,CHI,SUB: Phillips FOR Craig,Substitution,,0,0,0,0,,,h
+S2324-G0935,2,01:05,CHI,,DAL,,T. Craig,CHI,SUB: Phillips FOR Craig,Substitution,,0,0,0,0,,,h
+S2324-G0935,3,03:36,CHI,,DAL,,T. Craig,CHI,Craig S.FOUL (P2.T4) (D.Guthrie),Foul,Shooting,0,0,0,0,,,h
+S2324-G0935,3,00:52.200000,CHI,,DAL,,T. Craig,CHI,Craig Out of Bounds - Bad Pass Turnover Turnover (P1.T9),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G0935,3,00:01.500000,CHI,,DAL,,T. Craig,CHI,Craig REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0124,1,01:30,DAL,,,,T. Craig,CHI,Craig REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0124,1,00:41.900000,DAL,,,,T. Craig,CHI,Craig REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0124,1,00:17.200000,DAL,,,,T. Craig,CHI,SUB: LaVine FOR Craig,Substitution,,0,0,0,0,,,v
+S2324-G0124,2,08:56,DAL,,,,T. Craig,CHI,SUB: Vucevic FOR Craig,Substitution,,0,0,0,0,,,v
+S2324-G0124,3,03:03,DAL,,,,T. Craig,CHI,Craig S.FOUL (P1.PN) (M.Davis),Foul,Shooting,0,0,0,0,,,v
+S2324-G0124,3,02:23,DAL,,,,T. Craig,CHI,MISS Craig 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-217,134,26,1,3.0,0.0,v
+S2324-G0124,3,02:11,DAL,,,,T. Craig,CHI,Craig P.FOUL (P2.PN) (A.Moyer-Gleich),Foul,Personal,0,0,0,0,,,v
+S2324-G0124,3,01:43,DAL,,,,T. Craig,CHI,Craig REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0124,3,00:34.600000,DAL,,,,T. Craig,CHI,Craig S.FOUL (P3.PN) (M.Davis),Foul,Shooting,0,0,0,0,,,v
+S2324-G0124,4,10:16,DAL,,,,T. Craig,CHI,SUB: Williams FOR Craig,Substitution,,0,0,0,0,,,v
+S2324-G0124,4,06:13,DAL,,,,T. Craig,CHI,Craig REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0124,4,05:59,DAL,,,,T. Craig,CHI,Craig REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0124,4,05:59,DAL,94.0,,96.0,T. Craig,CHI,Craig 1' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,7,13,1,1,2.0,2.0,v
+S2324-G0124,4,05:12,DAL,,,,T. Craig,CHI,SUB: DeRozan FOR Craig,Substitution,,0,0,0,0,,,v
+S2324-G1037,1,08:04,CHI,,WAS,,T. Craig,CHI,SUB: Caruso FOR Craig,Substitution,,0,0,0,0,,,h
+S2324-G1037,2,10:20,CHI,,WAS,,T. Craig,CHI,MISS Craig 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,194,172,26,1,3.0,0.0,h
+S2324-G1037,2,10:05,CHI,,WAS,,T. Craig,CHI,Craig S.FOUL (P1.T1) (C.Flores),Foul,Shooting,0,0,0,0,,,h
+S2324-G1037,2,07:33,CHI,,WAS,,T. Craig,CHI,Craig STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1037,2,05:23,CHI,,WAS,,T. Craig,CHI,Craig REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1037,2,05:09,CHI,,WAS,,T. Craig,CHI,MISS Craig 25' 3PT Jump Shot,Missed Shot,Jump Shot,-11,253,25,1,3.0,0.0,h
+S2324-G1037,2,05:01,CHI,,WAS,,T. Craig,CHI,Craig STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G1037,2,04:56,CHI,39.0,WAS,40.0,T. Craig,CHI,Craig Running Finger Roll Layup (2 PTS),Made Shot,Running Finger Roll Layup Shot,1,3,0,1,2.0,2.0,h
+S2324-G1037,2,04:35,CHI,,WAS,,T. Craig,CHI,SUB: Dosunmu FOR Craig,Substitution,,0,0,0,0,,,h
+S2324-G1037,3,04:50,CHI,,WAS,,T. Craig,CHI,MISS Craig 26' 3PT Jump Shot,Missed Shot,Jump Shot,76,253,26,1,3.0,0.0,h
+S2324-G1037,3,04:12,CHI,,WAS,,T. Craig,CHI,MISS Craig 3PT Jump Shot,Missed Shot,Jump Shot,229,34,0,1,3.0,0.0,h
+S2324-G1037,3,00:35.800000,CHI,82.0,WAS,82.0,T. Craig,CHI,Craig 3PT Jump Shot (5 PTS) (DeRozan 6 AST),Made Shot,Jump Shot,229,-1,0,1,3.0,3.0,h
+S2324-G1037,3,00:12,CHI,,WAS,,T. Craig,CHI,Craig REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1037,4,10:38,CHI,,WAS,,T. Craig,CHI,MISS Craig 27' 3PT Jump Shot,Missed Shot,Jump Shot,83,252,27,1,3.0,0.0,h
+S2324-G1037,4,10:21,CHI,,WAS,,T. Craig,CHI,SUB: Terry FOR Craig,Substitution,,0,0,0,0,,,h
+S2324-G1037,4,00:07.600000,CHI,,WAS,,T. Craig,CHI,SUB: White FOR Craig,Substitution,,0,0,0,0,,,h
+S2324-G1037,4,00:05.300000,CHI,,WAS,,T. Craig,CHI,SUB: Vucevic FOR Craig,Substitution,,0,0,0,0,,,h
+S2324-G0763,1,10:56,ATL,,CHI,,T. Craig,CHI,Craig REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0763,1,10:43,ATL,,CHI,,T. Craig,CHI,MISS Craig 3PT Jump Shot,Missed Shot,Jump Shot,221,74,0,1,3.0,0.0,v
+S2324-G0763,1,10:03,ATL,2.0,CHI,4.0,T. Craig,CHI,Craig 2' Cutting Layup Shot (2 PTS) (Vucevic 1 AST),Made Shot,Cutting Layup Shot,-11,15,2,1,2.0,2.0,v
+S2324-G0763,1,07:32,ATL,8.0,CHI,11.0,T. Craig,CHI,Craig 3PT Jump Shot (5 PTS) (White 1 AST),Made Shot,Jump Shot,-230,-1,0,1,3.0,3.0,v
+S2324-G0763,1,04:44,ATL,,CHI,,T. Craig,CHI,Craig S.FOUL (P1.T2) (B.Barnaky),Foul,Shooting,0,0,0,0,,,v
+S2324-G0763,1,04:21,ATL,,CHI,,T. Craig,CHI,SUB: Carter FOR Craig,Substitution,,0,0,0,0,,,v
+S2324-G0763,2,06:44,ATL,,CHI,,T. Craig,CHI,Craig BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0763,2,06:10,ATL,,CHI,,T. Craig,CHI,Craig STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0763,2,05:50,ATL,,CHI,,T. Craig,CHI,Craig Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0763,2,05:34,ATL,,CHI,,T. Craig,CHI,SUB: DeRozan FOR Craig,Substitution,,0,0,0,0,,,v
+S2324-G0763,2,00:33.300000,ATL,,CHI,,T. Craig,CHI,Craig REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0763,2,00:02,ATL,,CHI,,T. Craig,CHI,Craig REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0763,3,08:15,ATL,,CHI,,T. Craig,CHI,Craig P.FOUL (P2.T2) (M.Myers),Foul,Personal,0,0,0,0,,,v
+S2324-G0763,3,07:43,ATL,,CHI,,T. Craig,CHI,Craig S.FOUL (P3.T3) (B.Barnaky),Foul,Shooting,0,0,0,0,,,v
+S2324-G0763,3,06:56,ATL,,CHI,,T. Craig,CHI,Craig S.FOUL (P4.T4) (B.Barnaky),Foul,Shooting,0,0,0,0,,,v
+S2324-G0763,3,06:56,ATL,,CHI,,T. Craig,CHI,SUB: Phillips FOR Craig,Substitution,,0,0,0,0,,,v
+S2324-G0763,4,06:00,ATL,111.0,CHI,115.0,T. Craig,CHI,Craig 25' 3PT Jump Shot (8 PTS) (White 7 AST),Made Shot,Jump Shot,-132,214,25,1,3.0,3.0,v
+S2324-G0763,4,01:42,ATL,,CHI,,T. Craig,CHI,MISS Craig 3PT Jump Shot,Missed Shot,Jump Shot,-228,10,0,1,3.0,0.0,v
+S2324-G0763,4,01:13,ATL,,CHI,,T. Craig,CHI,Craig REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0763,4,00:20.200000,ATL,,CHI,,T. Craig,CHI,Craig REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0763,4,00:18.800000,ATL,,CHI,,T. Craig,CHI,MISS Craig Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0763,4,00:18.800000,ATL,126.0,CHI,136.0,T. Craig,CHI,Craig Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0763,4,00:11.600000,ATL,,CHI,,T. Craig,CHI,Craig REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1172,1,11:17,WAS,,CHI,,T. Craig,CHI,MISS Craig 28' 3PT Jump Shot,Missed Shot,Jump Shot,-141,246,28,1,3.0,0.0,v
+S2324-G1172,1,10:17,WAS,,CHI,,T. Craig,CHI,MISS Craig 7' Floating Jump Shot,Missed Shot,Floating Jump shot,-4,73,7,1,2.0,0.0,v
+S2324-G1172,1,09:30,WAS,,CHI,,T. Craig,CHI,Craig REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1172,1,07:34,WAS,,CHI,,T. Craig,CHI,MISS Craig 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,29,3,1,2.0,0.0,v
+S2324-G1172,1,04:28,WAS,,CHI,,T. Craig,CHI,SUB: Drell FOR Craig,Substitution,,0,0,0,0,,,v
+S2324-G1172,2,06:30,WAS,,CHI,,T. Craig,CHI,Craig REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1172,2,06:22,WAS,51.0,CHI,50.0,T. Craig,CHI,Craig 28' 3PT Jump Shot (3 PTS) (Terry 5 AST),Made Shot,Jump Shot,-134,242,28,1,3.0,3.0,v
+S2324-G1172,2,04:48,WAS,,CHI,,T. Craig,CHI,Craig REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1172,2,03:59,WAS,,CHI,,T. Craig,CHI,Craig REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1172,2,02:53,WAS,,CHI,,T. Craig,CHI,Craig STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G1172,2,02:19,WAS,,CHI,,T. Craig,CHI,Craig REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1172,2,01:40,WAS,,CHI,,T. Craig,CHI,Craig Out of Bounds - Bad Pass Turnover Turnover (P1.T6),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G1172,2,01:23,WAS,,CHI,,T. Craig,CHI,Craig P.FOUL (P1.T4) (M.Kogut),Foul,Personal,0,0,0,0,,,v
+S2324-G1172,2,00:08,WAS,,CHI,,T. Craig,CHI,Craig REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1172,3,06:32,WAS,,CHI,,T. Craig,CHI,Craig REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1172,3,04:06,WAS,85.0,CHI,88.0,T. Craig,CHI,Craig 26' 3PT Jump Shot (6 PTS) (Carter 10 AST),Made Shot,Jump Shot,-235,119,26,1,3.0,3.0,v
+S2324-G1172,3,03:17,WAS,,CHI,,T. Craig,CHI,Craig REBOUND (Off:0 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1172,3,03:07,WAS,,CHI,,T. Craig,CHI,Craig BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G1172,3,02:42,WAS,,CHI,,T. Craig,CHI,Craig Lost Ball Turnover (P2.T10),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G1172,3,02:27,WAS,,CHI,,T. Craig,CHI,Craig REBOUND (Off:0 Def:9),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1172,3,02:02,WAS,,CHI,,T. Craig,CHI,Craig REBOUND (Off:0 Def:10),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1172,3,01:51,WAS,89.0,CHI,95.0,T. Craig,CHI,Craig 5' Driving Layup (8 PTS) (Carter 11 AST),Made Shot,Driving Layup Shot,-29,43,5,1,2.0,2.0,v
+S2324-G1172,3,00:31.500000,WAS,,CHI,,T. Craig,CHI,Craig REBOUND (Off:0 Def:11),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1172,3,00:00.800000,WAS,,CHI,,T. Craig,CHI,Craig S.FOUL (P2.PN) (M.Kogut),Foul,Shooting,0,0,0,0,,,v
+S2324-G1172,4,11:37,WAS,,CHI,,T. Craig,CHI,Craig REBOUND (Off:0 Def:12),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1172,4,10:41,WAS,,CHI,,T. Craig,CHI,Craig S.FOUL (P3.T1) (K.Lane),Foul,Shooting,0,0,0,0,,,v
+S2324-G1172,4,09:59,WAS,,CHI,,T. Craig,CHI,Craig REBOUND (Off:0 Def:13),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1172,4,08:57,WAS,,CHI,,T. Craig,CHI,SUB: Bitim FOR Craig,Substitution,,0,0,0,0,,,v
+S2324-G1172,4,02:00,WAS,,CHI,,T. Craig,CHI,Craig REBOUND (Off:0 Def:14),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1172,4,01:24,WAS,117.0,CHI,121.0,T. Craig,CHI,Craig 25' 3PT Jump Shot (11 PTS) (Terry 8 AST),Made Shot,Jump Shot,232,96,25,1,3.0,3.0,v
+S2324-G1172,4,00:00.100000,WAS,,CHI,,T. Craig,CHI,Craig REBOUND (Off:0 Def:15),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0723,1,04:08,CHI,,MIN,,T. Craig,CHI,MISS Craig 27' 3PT Jump Shot,Missed Shot,Jump Shot,138,235,27,1,3.0,0.0,h
+S2324-G0723,1,02:43,CHI,,MIN,,T. Craig,CHI,Craig STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0723,1,02:37,CHI,18.0,MIN,27.0,T. Craig,CHI,Craig 1' Running Layup (2 PTS),Made Shot,Running Layup Shot,6,10,1,1,2.0,2.0,h
+S2324-G0723,1,00:33.600000,CHI,,MIN,,T. Craig,CHI,MISS Craig 25' 3PT Jump Shot,Missed Shot,Jump Shot,-145,209,25,1,3.0,0.0,h
+S2324-G0723,2,03:19,CHI,,MIN,,T. Craig,CHI,Craig REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0723,2,03:18,CHI,,MIN,,T. Craig,CHI,Craig Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0723,2,02:49,CHI,,MIN,,T. Craig,CHI,SUB: White FOR Craig,Substitution,,0,0,0,0,,,h
+S2324-G0723,3,03:31,CHI,,MIN,,T. Craig,CHI,Craig REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0723,3,02:32,CHI,,MIN,,T. Craig,CHI,Craig BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0723,3,02:28,CHI,79.0,MIN,89.0,T. Craig,CHI,Craig 26' 3PT Running Jump Shot (5 PTS) (Dosunmu 3 AST),Made Shot,Running Jump Shot,-164,205,26,1,3.0,3.0,h
+S2324-G0723,3,01:28,CHI,,MIN,,T. Craig,CHI,MISS Craig 3PT Running Jump Shot,Missed Shot,Running Jump Shot,232,0,0,1,3.0,0.0,h
+S2324-G0723,3,01:05,CHI,,MIN,,T. Craig,CHI,Craig REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0723,3,01:05,CHI,80.0,MIN,92.0,T. Craig,CHI,Craig Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0723,3,01:05,CHI,81.0,MIN,92.0,T. Craig,CHI,Craig Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0723,3,00:50.300000,CHI,,MIN,,T. Craig,CHI,Craig REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0723,4,08:55,CHI,,MIN,,T. Craig,CHI,Craig REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0723,4,08:34,CHI,,MIN,,T. Craig,CHI,Craig Step Out of Bounds Turnover (P2.T12),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2324-G0723,4,07:16,CHI,,MIN,,T. Craig,CHI,SUB: Vucevic FOR Craig,Substitution,,0,0,0,0,,,h
+S2324-G0723,4,02:10,CHI,,MIN,,T. Craig,CHI,Craig BLOCK (2 BLK),,,0,0,0,0,,,h
+S2324-G0723,4,02:10,CHI,,MIN,,T. Craig,CHI,Craig REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0723,5,01:13,CHI,,MIN,,T. Craig,CHI,Craig P.FOUL (P1.T2) (C.Flores),Foul,Personal,0,0,0,0,,,h
+S2324-G0723,5,01:06,CHI,,MIN,,T. Craig,CHI,SUB: Drummond FOR Craig,Substitution,,0,0,0,0,,,h
+S2324-G0220,1,02:09,CHI,,MIA,,T. Craig,CHI,BULLS T.Foul (Def. 3 Sec Craig ) (P.Ransom),Foul,Defense 3 Second,0,0,0,0,,,h
+S2324-G0220,1,01:28,CHI,,MIA,,T. Craig,CHI,MISS Craig 10' Jump Shot,Missed Shot,Jump Shot,-21,95,10,1,2.0,0.0,h
+S2324-G0220,2,05:53,CHI,,MIA,,T. Craig,CHI,MISS Craig 24' 3PT Jump Shot,Missed Shot,Jump Shot,189,147,24,1,3.0,0.0,h
+S2324-G0220,2,05:42,CHI,,MIA,,T. Craig,CHI,Craig REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0220,2,04:43,CHI,,MIA,,T. Craig,CHI,Craig S.FOUL (P1.T3) (M.Davis),Foul,Shooting,0,0,0,0,,,h
+S2324-G0220,2,04:43,CHI,,MIA,,T. Craig,CHI,SUB: Caruso FOR Craig,Substitution,,0,0,0,0,,,h
+S2324-G0220,3,01:18,CHI,,MIA,,T. Craig,CHI,MISS Craig 3PT Jump Shot,Missed Shot,Jump Shot,230,-6,0,1,3.0,0.0,h
+S2324-G0220,4,06:40,CHI,,MIA,,T. Craig,CHI,MISS Craig 3PT Jump Shot,Missed Shot,Jump Shot,224,-6,0,1,3.0,0.0,h
+S2324-G0220,4,05:20,CHI,92.0,MIA,109.0,T. Craig,CHI,Craig 1' Cutting Dunk Shot (2 PTS) (LaVine 5 AST),Made Shot,Cutting Dunk Shot,-2,12,1,1,2.0,2.0,h
+S2324-G0220,4,04:53,CHI,,MIA,,T. Craig,CHI,SUB: DeRozan FOR Craig,Substitution,,0,0,0,0,,,h
+S2324-G1149,1,00:35.800000,CHI,,NYK,,T. Craig,CHI,MISS Craig Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G1149,1,00:35.800000,CHI,25.0,NYK,36.0,T. Craig,CHI,Craig Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1149,2,11:34,CHI,,NYK,,T. Craig,CHI,MISS Craig 2' Running Dunk,Missed Shot,Running Dunk Shot,-5,21,2,1,2.0,0.0,h
+S2324-G1149,2,10:06,CHI,32.0,NYK,40.0,T. Craig,CHI,Craig 3PT Jump Shot (4 PTS) (White 2 AST),Made Shot,Jump Shot,-225,-4,0,1,3.0,3.0,h
+S2324-G1149,2,09:32,CHI,,NYK,,T. Craig,CHI,MISS Craig 2' Driving Layup,Missed Shot,Driving Layup Shot,-2,15,2,1,2.0,0.0,h
+S2324-G1149,2,08:16,CHI,,NYK,,T. Craig,CHI,Craig REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1149,2,06:26,CHI,,NYK,,T. Craig,CHI,SUB: Green FOR Craig,Substitution,,0,0,0,0,,,h
+S2324-G1149,3,02:12,CHI,,NYK,,T. Craig,CHI,Craig REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1149,3,01:37,CHI,,NYK,,T. Craig,CHI,Craig P.FOUL (P1.T3) (A.Nagy),Foul,Personal,0,0,0,0,,,h
+S2324-G1149,3,00:40.600000,CHI,,NYK,,T. Craig,CHI,Craig P.FOUL (P2.PN) (M.Lindsay),Foul,Personal,0,0,0,0,,,h
+S2324-G1149,3,00:40.600000,CHI,,NYK,,T. Craig,CHI,Craig T.FOUL (P2.PN) (M.Lindsay),Foul,Technical,0,0,0,0,,,h
+S2324-G1149,3,00:01.700000,CHI,,NYK,,T. Craig,CHI,Craig BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0152,1,08:53,CHI,,UTA,,T. Craig,CHI,MISS Craig 6' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,1,59,6,1,2.0,0.0,h
+S2324-G0152,1,08:45,CHI,,UTA,,T. Craig,CHI,Craig STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0152,1,06:51,CHI,,UTA,,T. Craig,CHI,Craig S.FOUL (P1.T1) (E.Scott),Foul,Shooting,0,0,0,0,,,h
+S2324-G0152,1,06:03,CHI,,UTA,,T. Craig,CHI,Craig S.FOUL (P2.T2) (S.Twardoski),Foul,Shooting,0,0,0,0,,,h
+S2324-G0152,1,06:03,CHI,,UTA,,T. Craig,CHI,SUB: Williams FOR Craig,Substitution,,0,0,0,0,,,h
+S2324-G0152,2,05:55,CHI,55.0,UTA,44.0,T. Craig,CHI,Craig 3PT Jump Shot (3 PTS) (LaVine 2 AST),Made Shot,Jump Shot,-232,-14,0,1,3.0,3.0,h
+S2324-G0152,2,05:43,CHI,,UTA,,T. Craig,CHI,Craig P.FOUL (P3.T1) (S.Twardoski),Foul,Personal,0,0,0,0,,,h
+S2324-G0152,2,05:31,CHI,,UTA,,T. Craig,CHI,Craig REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0152,2,05:08,CHI,,UTA,,T. Craig,CHI,Craig BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0152,2,04:48,CHI,,UTA,,T. Craig,CHI,Craig REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0152,2,04:48,CHI,,UTA,,T. Craig,CHI,SUB: Caruso FOR Craig,Substitution,,0,0,0,0,,,h
+S2324-G0152,3,11:19,CHI,,UTA,,T. Craig,CHI,MISS Craig Cutting Layup Shot,Missed Shot,Cutting Layup Shot,2,-2,0,1,2.0,0.0,h
+S2324-G0152,3,11:10,CHI,,UTA,,T. Craig,CHI,Craig P.FOUL (P4.T1) (R.Mott),Foul,Personal,0,0,0,0,,,h
+S2324-G0152,3,07:10,CHI,,UTA,,T. Craig,CHI,SUB: Williams FOR Craig,Substitution,,0,0,0,0,,,h
+S2324-G0152,4,07:15,CHI,,UTA,,T. Craig,CHI,Craig S.FOUL (P5.T3) (E.Scott),Foul,Shooting,0,0,0,0,,,h
+S2324-G0152,4,06:18,CHI,,UTA,,T. Craig,CHI,Craig REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0152,4,01:55,CHI,,UTA,,T. Craig,CHI,SUB: Taylor FOR Craig,Substitution,,0,0,0,0,,,h
+S2324-G0781,1,04:29,CLE,13.0,CHI,22.0,T. Craig,CHI,Craig 27' 3PT Running Jump Shot (3 PTS) (White 1 AST),Made Shot,Running Jump Shot,-206,179,27,1,3.0,3.0,v
+S2324-G0781,1,03:41,CLE,,CHI,,T. Craig,CHI,Craig REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0781,1,02:58,CLE,17.0,CHI,27.0,T. Craig,CHI,Craig 26' 3PT Jump Shot (6 PTS) (Terry 1 AST),Made Shot,Jump Shot,162,201,26,1,3.0,3.0,v
+S2324-G0781,1,02:21,CLE,,CHI,,T. Craig,CHI,MISS Craig 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,140,215,26,1,3.0,0.0,v
+S2324-G0781,1,01:01,CLE,,CHI,,T. Craig,CHI,Craig REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0781,2,11:33,CLE,25.0,CHI,34.0,T. Craig,CHI,Craig 17' Fadeaway Jumper (8 PTS),Made Shot,Fadeaway Jump Shot,-99,134,17,1,2.0,2.0,v
+S2324-G0781,2,10:43,CLE,,CHI,,T. Craig,CHI,Craig REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0781,2,09:35,CLE,,CHI,,T. Craig,CHI,Craig REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0781,2,09:10,CLE,,CHI,,T. Craig,CHI,Craig REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0781,2,08:33,CLE,,CHI,,T. Craig,CHI,Craig BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0781,2,08:25,CLE,,CHI,,T. Craig,CHI,SUB: Dosunmu FOR Craig,Substitution,,0,0,0,0,,,v
+S2324-G0781,3,05:20,CLE,,CHI,,T. Craig,CHI,MISS Craig 25' 3PT Jump Shot,Missed Shot,Jump Shot,-235,72,25,1,3.0,0.0,v
+S2324-G0781,4,10:13,CLE,,CHI,,T. Craig,CHI,MISS Craig 25' 3PT Jump Shot,Missed Shot,Jump Shot,-221,111,25,1,3.0,0.0,v
+S2324-G0781,4,04:39,CLE,,CHI,,T. Craig,CHI,SUB: Drummond FOR Craig,Substitution,,0,0,0,0,,,v
+S2324-G0781,4,00:11,CLE,,CHI,,T. Craig,CHI,SUB: Vucevic FOR Craig,Substitution,,0,0,0,0,,,v
+S2324-G0781,4,00:04.700000,CLE,,CHI,,T. Craig,CHI,SUB: White FOR Craig,Substitution,,0,0,0,0,,,v
+S2324-G1190,1,02:38,NYK,,CHI,,T. Craig,CHI,Craig STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G1190,2,10:51,NYK,,CHI,,T. Craig,CHI,Craig REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1190,2,10:10,NYK,,CHI,,T. Craig,CHI,Craig P.FOUL (P1.T1) (J.Orr),Foul,Personal,0,0,0,0,,,v
+S2324-G1190,2,09:05,NYK,,CHI,,T. Craig,CHI,Craig P.FOUL (P2.T2) (Z.Zarba),Foul,Personal,0,0,0,0,,,v
+S2324-G1190,2,07:09,NYK,,CHI,,T. Craig,CHI,Craig REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1190,2,05:47,NYK,,CHI,,T. Craig,CHI,MISS Craig 3PT Jump Shot,Missed Shot,Jump Shot,-234,2,0,1,3.0,0.0,v
+S2324-G1190,2,05:36,NYK,,CHI,,T. Craig,CHI,Craig REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1190,2,05:17,NYK,,CHI,,T. Craig,CHI,Craig REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1190,2,05:12,NYK,,CHI,,T. Craig,CHI,MISS Craig 2' Driving Layup,Missed Shot,Driving Layup Shot,20,2,2,1,2.0,0.0,v
+S2324-G1190,2,03:53,NYK,,CHI,,T. Craig,CHI,SUB: White FOR Craig,Substitution,,0,0,0,0,,,v
+S2324-G1190,3,02:41,NYK,,CHI,,T. Craig,CHI,Craig S.FOUL (P3.T3) (J.Orr),Foul,Shooting,0,0,0,0,,,v
+S2324-G1190,3,00:39.200000,NYK,,CHI,,T. Craig,CHI,Craig REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1190,3,00:35.200000,NYK,74.0,CHI,79.0,T. Craig,CHI,Craig 1' Running Layup (2 PTS),Made Shot,Running Layup Shot,-9,0,1,1,2.0,2.0,v
+S2324-G1190,4,11:24,NYK,,CHI,,T. Craig,CHI,Craig S.FOUL (P4.T1) (M.Myers),Foul,Shooting,0,0,0,0,,,v
+S2324-G1190,4,10:36,NYK,,CHI,,T. Craig,CHI,SUB: Green FOR Craig,Substitution,,0,0,0,0,,,v
+S2324-G1190,4,04:19,NYK,,CHI,,T. Craig,CHI,Craig S.FOUL (P5.T4) (M.Myers),Foul,Shooting,0,0,0,0,,,v
+S2324-G1190,4,04:19,NYK,,CHI,,T. Craig,CHI,SUB: Green FOR Craig,Substitution,,0,0,0,0,,,v
+S2324-G0956,1,08:30,CHI,,LAC,,T. Craig,CHI,MISS Craig 2' Driving Layup,Missed Shot,Driving Layup Shot,16,17,2,1,2.0,0.0,h
+S2324-G0956,1,08:12,CHI,,LAC,,T. Craig,CHI,MISS Craig Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0956,1,08:12,CHI,,LAC,,T. Craig,CHI,MISS Craig Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0956,1,06:49,CHI,,LAC,,T. Craig,CHI,SUB: Bitim FOR Craig,Substitution,,0,0,0,0,,,h
+S2324-G0956,1,02:06,CHI,20.0,LAC,30.0,T. Craig,CHI,Craig 25' 3PT Jump Shot (3 PTS) (Vucevic 2 AST),Made Shot,Jump Shot,-127,221,25,1,3.0,3.0,h
+S2324-G0956,1,01:23,CHI,23.0,LAC,33.0,T. Craig,CHI,Craig 25' 3PT Jump Shot (6 PTS) (Vucevic 3 AST),Made Shot,Jump Shot,164,194,25,1,3.0,3.0,h
+S2324-G0956,1,01:08,CHI,,LAC,,T. Craig,CHI,Craig REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0956,1,00:54.700000,CHI,26.0,LAC,33.0,T. Craig,CHI,Craig 26' 3PT Jump Shot (9 PTS) (Dosunmu 3 AST),Made Shot,Jump Shot,153,205,26,1,3.0,3.0,h
+S2324-G0956,2,10:45,CHI,,LAC,,T. Craig,CHI,SUB: Carter FOR Craig,Substitution,,0,0,0,0,,,h
+S2324-G0956,2,04:26,CHI,,LAC,,T. Craig,CHI,Craig REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0956,2,00:56.500000,CHI,,LAC,,T. Craig,CHI,Craig REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0956,2,00:25.800000,CHI,,LAC,,T. Craig,CHI,Craig REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0956,3,11:10,CHI,,LAC,,T. Craig,CHI,Craig REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0956,3,09:06,CHI,61.0,LAC,76.0,T. Craig,CHI,Craig 3PT Jump Shot (12 PTS) (DeRozan 4 AST),Made Shot,Jump Shot,-225,0,0,1,3.0,3.0,h
+S2324-G0956,3,07:21,CHI,,LAC,,T. Craig,CHI,SUB: Bitim FOR Craig,Substitution,,0,0,0,0,,,h
+S2324-G0956,3,03:15,CHI,,LAC,,T. Craig,CHI,MISS Craig 3PT Jump Shot,Missed Shot,Jump Shot,227,30,0,1,3.0,0.0,h
+S2324-G0956,3,02:09,CHI,,LAC,,T. Craig,CHI,MISS Craig 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,224,-15,0,1,3.0,0.0,h
+S2324-G0956,3,00:15.500000,CHI,,LAC,,T. Craig,CHI,Craig REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0956,4,04:16,CHI,,LAC,,T. Craig,CHI,MISS Craig 25' 3PT Jump Shot,Missed Shot,Jump Shot,148,200,25,1,3.0,0.0,h
+S2324-G0956,4,02:53,CHI,,LAC,,T. Craig,CHI,Craig P.FOUL (P1.T2) (M.Smith),Foul,Personal,0,0,0,0,,,h
+S2324-G0956,4,02:53,CHI,,LAC,,T. Craig,CHI,SUB: Drell FOR Craig,Substitution,,0,0,0,0,,,h
+S2324-G0917,1,06:34,LAC,10.0,CHI,13.0,T. Craig,CHI,Craig 3PT Jump Shot (3 PTS) (DeRozan 2 AST),Made Shot,Jump Shot,223,63,0,1,3.0,3.0,v
+S2324-G0917,1,05:57,LAC,,CHI,,T. Craig,CHI,MISS Craig 3PT Jump Shot,Missed Shot,Jump Shot,-224,13,0,1,3.0,0.0,v
+S2324-G0917,1,03:38,LAC,,CHI,,T. Craig,CHI,Craig REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0917,1,02:53,LAC,,CHI,,T. Craig,CHI,Craig Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0917,1,02:44,LAC,,CHI,,T. Craig,CHI,Craig Out of Bounds Lost Ball Turnover (P2.T2),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2324-G0917,1,02:29,LAC,,CHI,,T. Craig,CHI,Craig S.FOUL (P1.T3) (K.Lane),Foul,Shooting,0,0,0,0,,,v
+S2324-G0917,1,02:29,LAC,,CHI,,T. Craig,CHI,SUB: DeRozan FOR Craig,Substitution,,0,0,0,0,,,v
+S2324-G0917,2,07:44,LAC,,CHI,,T. Craig,CHI,Craig STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0917,2,07:12,LAC,,CHI,,T. Craig,CHI,Craig REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0917,2,07:08,LAC,,CHI,,T. Craig,CHI,MISS Craig 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-23,125,13,1,2.0,0.0,v
+S2324-G0917,2,06:50,LAC,32.0,CHI,42.0,T. Craig,CHI,Craig 24' 3PT Jump Shot (6 PTS) (Dosunmu 3 AST),Made Shot,Jump Shot,235,10,24,1,3.0,3.0,v
+S2324-G0917,2,05:54,LAC,,CHI,,T. Craig,CHI,SUB: Caruso FOR Craig,Substitution,,0,0,0,0,,,v
+S2324-G0917,3,07:02,LAC,,CHI,,T. Craig,CHI,MISS Craig 3PT Jump Shot,Missed Shot,Jump Shot,-224,2,0,1,3.0,0.0,v
+S2324-G0917,3,06:59,LAC,,CHI,,T. Craig,CHI,Craig REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0917,3,03:05,LAC,,CHI,,T. Craig,CHI,Craig P.FOUL (P2.T3) (T.Ford),Foul,Personal,0,0,0,0,,,v
+S2324-G0917,3,01:33,LAC,,CHI,,T. Craig,CHI,MISS Craig 3PT Jump Shot,Missed Shot,Jump Shot,-229,38,0,1,3.0,0.0,v
+S2324-G0917,3,00:45.800000,LAC,,CHI,,T. Craig,CHI,SUB: White FOR Craig,Substitution,,0,0,0,0,,,v
+S2324-G0307,1,02:48,CHI,,DEN,,T. Craig,CHI,Craig Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G0307,1,02:42,CHI,,DEN,,T. Craig,CHI,Craig REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0307,1,01:16,CHI,,DEN,,T. Craig,CHI,MISS Craig 26' 3PT Jump Shot,Missed Shot,Jump Shot,142,215,26,1,3.0,0.0,h
+S2324-G0307,2,11:29,CHI,,DEN,,T. Craig,CHI,Craig S.FOUL (P1.T2) (M.Smith),Foul,Shooting,0,0,0,0,,,h
+S2324-G0307,2,11:24,CHI,,DEN,,T. Craig,CHI,Craig REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0307,2,10:07,CHI,,DEN,,T. Craig,CHI,Craig REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0307,2,09:57,CHI,,DEN,,T. Craig,CHI,SUB: Phillips FOR Craig,Substitution,,0,0,0,0,,,h
+S2324-G0307,2,03:42,CHI,,DEN,,T. Craig,CHI,Craig REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0307,2,02:28,CHI,,DEN,,T. Craig,CHI,Craig S.FOUL (P2.PN) (M.Dagher),Foul,Shooting,0,0,0,0,,,h
+S2324-G0307,2,00:54.700000,CHI,,DEN,,T. Craig,CHI,Craig L.B.FOUL (P3.PN) (M.Smith),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0307,2,00:54.700000,CHI,,DEN,,T. Craig,CHI,SUB: Williams FOR Craig,Substitution,,0,0,0,0,,,h
+S2324-G0307,3,04:54,CHI,,DEN,,T. Craig,CHI,Craig REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0307,3,04:41,CHI,68.0,DEN,81.0,T. Craig,CHI,Craig Cutting Layup Shot (2 PTS) (Vucevic 4 AST),Made Shot,Cutting Layup Shot,1,0,0,1,2.0,2.0,h
+S2324-G0307,3,04:16,CHI,,DEN,,T. Craig,CHI,Craig STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0307,3,03:21,CHI,,DEN,,T. Craig,CHI,Jump Ball Craig vs. Jordan: Tip to Vucevic,Jump Ball,,0,0,0,0,,,h
+S2324-G0307,3,03:16,CHI,,DEN,,T. Craig,CHI,MISS Craig 3PT Jump Shot,Missed Shot,Jump Shot,232,-3,0,1,3.0,0.0,h
+S2324-G0307,3,01:56,CHI,,DEN,,T. Craig,CHI,Craig Bad Pass Turnover (P2.T12),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0307,3,01:30,CHI,,DEN,,T. Craig,CHI,Craig P.FOUL (P4.PN) (M.Smith),Foul,Personal,0,0,0,0,,,h
+S2324-G0307,4,10:59,CHI,,DEN,,T. Craig,CHI,MISS Craig 6' Floating Jump Shot,Missed Shot,Floating Jump shot,6,58,6,1,2.0,0.0,h
+S2324-G0307,4,09:32,CHI,,DEN,,T. Craig,CHI,SUB: Williams FOR Craig,Substitution,,0,0,0,0,,,h
+S2324-G1054,1,06:32,CHI,,IND,,T. Craig,CHI,Craig S.FOUL (P1.T2) (E.Dalen),Foul,Shooting,0,0,0,0,,,h
+S2324-G1054,1,05:19,CHI,,IND,,T. Craig,CHI,Craig P.FOUL (P2.T4) (E.Dalen),Foul,Personal,0,0,0,0,,,h
+S2324-G1054,1,02:21,CHI,,IND,,T. Craig,CHI,SUB: DeRozan FOR Craig,Substitution,,0,0,0,0,,,h
+S2324-G1054,2,10:04,CHI,33.0,IND,28.0,T. Craig,CHI,Craig 3PT Jump Shot (3 PTS) (White 1 AST),Made Shot,Jump Shot,232,-1,0,1,3.0,3.0,h
+S2324-G1054,2,08:55,CHI,,IND,,T. Craig,CHI,Craig S.FOUL (P3.T1) (J.Goble),Foul,Shooting,0,0,0,0,,,h
+S2324-G1054,2,08:55,CHI,,IND,,T. Craig,CHI,SUB: Green FOR Craig,Substitution,,0,0,0,0,,,h
+S2324-G1054,3,04:46,CHI,,IND,,T. Craig,CHI,MISS Craig 3PT Jump Shot,Missed Shot,Jump Shot,-223,-5,0,1,3.0,0.0,h
+S2324-G1054,3,03:38,CHI,,IND,,T. Craig,CHI,MISS Craig 7' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,2,68,7,1,2.0,0.0,h
+S2324-G1054,3,00:11.200000,CHI,87.0,IND,74.0,T. Craig,CHI,Craig 9' Driving Floating Jump Shot (5 PTS) (Terry 2 AST),Made Shot,Driving Floating Jump Shot,47,74,9,1,2.0,2.0,h
+S2324-G1054,4,01:42,CHI,,IND,,T. Craig,CHI,Craig REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1054,4,01:03,CHI,125.0,IND,96.0,T. Craig,CHI,Craig Cutting Layup Shot (7 PTS) (Bitim 1 AST),Made Shot,Cutting Layup Shot,1,0,0,1,2.0,2.0,h
+S2324-G1054,4,00:53.100000,CHI,,IND,,T. Craig,CHI,Craig REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0700,1,02:32,CHI,,SAC,,T. Craig,CHI,SUB: DeRozan FOR Craig,Substitution,,0,0,0,0,,,h
+S2324-G0700,2,07:13,CHI,37.0,SAC,43.0,T. Craig,CHI,Craig 16' Pullup Jump Shot (2 PTS) (Dosunmu 1 AST),Made Shot,Pullup Jump shot,-31,157,16,1,2.0,2.0,h
+S2324-G0700,2,06:44,CHI,,SAC,,T. Craig,CHI,Craig S.FOUL (P1.T2) (L.Wood),Foul,Shooting,0,0,0,0,,,h
+S2324-G0700,2,05:35,CHI,,SAC,,T. Craig,CHI,MISS Craig 3PT Jump Shot,Missed Shot,Jump Shot,-228,10,0,1,3.0,0.0,h
+S2324-G0700,2,03:30,CHI,,SAC,,T. Craig,CHI,MISS Craig 26' 3PT Jump Shot,Missed Shot,Jump Shot,141,222,26,1,3.0,0.0,h
+S2324-G0700,2,03:12,CHI,,SAC,,T. Craig,CHI,SUB: White FOR Craig,Substitution,,0,0,0,0,,,h
+S2324-G0700,3,03:20,CHI,72.0,SAC,86.0,T. Craig,CHI,Craig 26' 3PT Jump Shot (5 PTS) (Dosunmu 3 AST),Made Shot,Jump Shot,228,125,26,1,3.0,3.0,h
+S2324-G0700,3,01:54,CHI,,SAC,,T. Craig,CHI,Craig REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0700,3,01:21,CHI,,SAC,,T. Craig,CHI,Craig REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0700,4,11:06,CHI,,SAC,,T. Craig,CHI,Craig REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0700,4,09:47,CHI,,SAC,,T. Craig,CHI,MISS Craig 27' 3PT Jump Shot,Missed Shot,Jump Shot,-179,206,27,1,3.0,0.0,h
+S2324-G0700,4,09:29,CHI,,SAC,,T. Craig,CHI,SUB: DeRozan FOR Craig,Substitution,,0,0,0,0,,,h
+S2324-G1166,1,04:45,DET,,CHI,,T. Craig,CHI,Craig STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G1166,1,04:27,DET,,CHI,,T. Craig,CHI,Craig REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1166,1,03:55,DET,,CHI,,T. Craig,CHI,MISS Craig 9' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-67,58,9,1,2.0,0.0,v
+S2324-G1166,1,00:41.300000,DET,,CHI,,T. Craig,CHI,Craig REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1166,2,10:05,DET,,CHI,,T. Craig,CHI,SUB: Green FOR Craig,Substitution,,0,0,0,0,,,v
+S2324-G1166,3,00:27.900000,DET,78.0,CHI,96.0,T. Craig,CHI,Craig 3' Running Layup (2 PTS) (DeRozan 7 AST),Made Shot,Running Layup Shot,-32,0,3,1,2.0,2.0,v
+S2324-G1166,3,00:27.900000,DET,78.0,CHI,97.0,T. Craig,CHI,Craig Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G1023,1,03:26,CHI,,BOS,,T. Craig,CHI,Craig REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1023,1,02:37,CHI,22.0,BOS,20.0,T. Craig,CHI,Craig 3PT Jump Shot (3 PTS) (Bitim 1 AST),Made Shot,Jump Shot,-234,10,0,1,3.0,3.0,h
+S2324-G1023,1,02:24,CHI,,BOS,,T. Craig,CHI,Craig P.FOUL (P1.T4) (I.Hwang),Foul,Personal,0,0,0,0,,,h
+S2324-G1023,1,00:08.400000,CHI,31.0,BOS,31.0,T. Craig,CHI,Craig 25' 3PT Jump Shot (6 PTS) (DeRozan 2 AST),Made Shot,Jump Shot,-143,208,25,1,3.0,3.0,h
+S2324-G1023,2,09:36,CHI,38.0,BOS,39.0,T. Craig,CHI,Craig 7' Fadeaway Jumper (8 PTS) (DeRozan 3 AST),Made Shot,Fadeaway Jump Shot,2,72,7,1,2.0,2.0,h
+S2324-G1023,2,08:06,CHI,,BOS,,T. Craig,CHI,Craig STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1023,2,07:13,CHI,,BOS,,T. Craig,CHI,SUB: Terry FOR Craig,Substitution,,0,0,0,0,,,h
+S2324-G1023,2,02:12,CHI,55.0,BOS,61.0,T. Craig,CHI,Craig 25' 3PT Jump Shot (11 PTS) (DeRozan 6 AST),Made Shot,Jump Shot,-39,248,25,1,3.0,3.0,h
+S2324-G1023,3,03:57,CHI,,BOS,,T. Craig,CHI,Craig S.FOUL (P2.T3) (B.Forte),Foul,Shooting,0,0,0,0,,,h
+S2324-G1023,3,01:47,CHI,,BOS,,T. Craig,CHI,Craig STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G1023,3,00:04,CHI,,BOS,,T. Craig,CHI,Craig P.FOUL (P3.PN) (B.Forte),Foul,Personal,0,0,0,0,,,h
+S2324-G1023,4,10:21,CHI,,BOS,,T. Craig,CHI,Craig REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1023,4,10:18,CHI,,BOS,,T. Craig,CHI,SUB: DeRozan FOR Craig,Substitution,,0,0,0,0,,,h
+S2324-G1223,1,03:03,SAS,,CHI,,T. Craig,CHI,MISS Craig 3PT Jump Shot,Missed Shot,Jump Shot,225,18,0,1,3.0,0.0,v
+S2324-G1223,1,02:32,SAS,,CHI,,T. Craig,CHI,MISS Craig 23' Jump Shot,Missed Shot,Jump Shot,-167,163,23,1,2.0,0.0,v
+S2324-G1223,1,02:15,SAS,,CHI,,T. Craig,CHI,Craig REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1223,1,01:29,SAS,,CHI,,T. Craig,CHI,Craig REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1223,1,00:59.100000,SAS,,CHI,,T. Craig,CHI,SUB: Caruso FOR Craig,Substitution,,0,0,0,0,,,v
+S2324-G1223,2,07:15,SAS,,CHI,,T. Craig,CHI,Craig REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1223,2,06:28,SAS,,CHI,,T. Craig,CHI,Craig S.FOUL (P1.T2) (D.Scott),Foul,Shooting,0,0,0,0,,,v
+S2324-G1223,2,03:43,SAS,,CHI,,T. Craig,CHI,SUB: Caruso FOR Craig,Substitution,,0,0,0,0,,,v
+S2324-G1223,3,02:10,SAS,,CHI,,T. Craig,CHI,Craig P.FOUL (P2.T4) (B.Forte),Foul,Personal,0,0,0,0,,,v
+S2324-G1223,3,02:09,SAS,,CHI,,T. Craig,CHI,Craig STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G1223,3,01:38,SAS,81.0,CHI,84.0,T. Craig,CHI,Craig Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1223,3,01:38,SAS,,CHI,,T. Craig,CHI,MISS Craig Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G1223,3,01:03,SAS,81.0,CHI,87.0,T. Craig,CHI,Craig 26' 3PT Jump Shot (4 PTS) (DeRozan 7 AST),Made Shot,Jump Shot,-156,210,26,1,3.0,3.0,v
+S2324-G1223,3,00:50.600000,SAS,,CHI,,T. Craig,CHI,Craig STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G1223,4,10:27,SAS,90.0,CHI,92.0,T. Craig,CHI,Craig 3PT Jump Shot (7 PTS) (White 4 AST),Made Shot,Jump Shot,-234,14,0,1,3.0,3.0,v
+S2324-G1223,4,09:27,SAS,93.0,CHI,97.0,T. Craig,CHI,Craig 25' 3PT Jump Shot (10 PTS) (DeRozan 8 AST),Made Shot,Jump Shot,-223,122,25,1,3.0,3.0,v
+S2324-G1223,4,08:45,SAS,,CHI,,T. Craig,CHI,MISS Craig 25' 3PT Jump Shot,Missed Shot,Jump Shot,-230,100,25,1,3.0,0.0,v
+S2324-G1223,4,08:31,SAS,,CHI,,T. Craig,CHI,Craig P.FOUL (P3.T2) (D.Scott),Foul,Personal,0,0,0,0,,,v
+S2324-G1223,4,08:31,SAS,,CHI,,T. Craig,CHI,SUB: Vucevic FOR Craig,Substitution,,0,0,0,0,,,v
+S2324-G1223,4,05:38,SAS,,CHI,,T. Craig,CHI,Craig REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1223,4,05:30,SAS,102.0,CHI,107.0,T. Craig,CHI,Craig 27' 3PT Jump Shot (13 PTS) (White 5 AST),Made Shot,Jump Shot,-191,185,27,1,3.0,3.0,v
+S2324-G1223,4,04:49,SAS,105.0,CHI,110.0,T. Craig,CHI,Craig 27' 3PT Jump Shot (16 PTS) (White 6 AST),Made Shot,Jump Shot,169,210,27,1,3.0,3.0,v
+S2324-G1223,4,02:29,SAS,,CHI,,T. Craig,CHI,Craig REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1223,4,01:00,SAS,,CHI,,T. Craig,CHI,Craig REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1223,4,00:50.900000,SAS,,CHI,,T. Craig,CHI,Craig REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1223,4,00:15.100000,SAS,,CHI,,T. Craig,CHI,Craig REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0737,1,05:01,MEM,,CHI,,T. Craig,CHI,Craig REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0737,1,03:53,MEM,,CHI,,T. Craig,CHI,Craig P.FOUL (P1.T4) (J.DeRosa),Foul,Personal,0,0,0,0,,,v
+S2324-G0737,1,01:44,MEM,,CHI,,T. Craig,CHI,SUB: Caruso FOR Craig,Substitution,,0,0,0,0,,,v
+S2324-G0737,2,07:36,MEM,,CHI,,T. Craig,CHI,Craig REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0737,2,07:09,MEM,,CHI,,T. Craig,CHI,Craig REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0737,2,06:11,MEM,41.0,CHI,37.0,T. Craig,CHI,Craig 3PT Step Back Jump Shot (3 PTS) (White 5 AST),Made Shot,Step Back Jump shot,-221,16,0,1,3.0,3.0,v
+S2324-G0737,2,04:40,MEM,,CHI,,T. Craig,CHI,Craig REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0737,2,04:09,MEM,,CHI,,T. Craig,CHI,MISS Craig 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-216,130,25,1,3.0,0.0,v
+S2324-G0737,2,02:49,MEM,,CHI,,T. Craig,CHI,SUB: Caruso FOR Craig,Substitution,,0,0,0,0,,,v
+S2324-G0737,3,01:07,MEM,,CHI,,T. Craig,CHI,MISS Craig 25' 3PT Jump Shot,Missed Shot,Jump Shot,-232,89,25,1,3.0,0.0,v
+S2324-G0737,3,00:01.500000,MEM,,CHI,,T. Craig,CHI,Craig REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0737,3,00:00,MEM,,CHI,,T. Craig,CHI,MISS Craig 36' 3PT Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-11,357,36,1,3.0,0.0,v
+S2324-G0234,1,01:11,OKC,,CHI,,T. Craig,CHI,MISS Craig 3PT Jump Shot,Missed Shot,Jump Shot,-233,-6,0,1,3.0,0.0,v
+S2324-G0234,1,00:19.900000,OKC,,CHI,,T. Craig,CHI,Craig S.FOUL (P1.T1) (P.Fraher),Foul,Shooting,0,0,0,0,,,v
+S2324-G0234,1,00:19.900000,OKC,,CHI,,T. Craig,CHI,SUB: White FOR Craig,Substitution,,0,0,0,0,,,v
+S2324-G0234,2,11:21,OKC,,CHI,,T. Craig,CHI,Craig REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0234,2,10:27,OKC,,CHI,,T. Craig,CHI,Craig S.FOUL (P2.T1) (L.Wood),Foul,Shooting,0,0,0,0,,,v
+S2324-G0234,2,09:02,OKC,,CHI,,T. Craig,CHI,Craig REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0234,2,08:29,OKC,,CHI,,T. Craig,CHI,SUB: White FOR Craig,Substitution,,0,0,0,0,,,v
+S2324-G0234,3,03:31,OKC,,CHI,,T. Craig,CHI,Craig Offensive Charge Foul (P3) (P.Fraher),Foul,Offensive Charge,0,0,0,0,,,v
+S2324-G0234,3,03:31,OKC,,CHI,,T. Craig,CHI,Craig Offensive Foul Turnover (P1.T8),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0234,3,02:05,OKC,,CHI,,T. Craig,CHI,Craig REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0234,3,01:59,OKC,,CHI,,T. Craig,CHI,MISS Craig 26' 3PT Jump Shot,Missed Shot,Jump Shot,-206,160,26,1,3.0,0.0,v
+S2324-G0234,4,10:18,OKC,,CHI,,T. Craig,CHI,MISS Craig 3PT Jump Shot,Missed Shot,Jump Shot,-228,-17,0,1,3.0,0.0,v
+S2324-G0234,4,09:42,OKC,,CHI,,T. Craig,CHI,Craig S.FOUL (P4.T2) (L.Wood),Foul,Shooting,0,0,0,0,,,v
+S2324-G0234,4,08:49,OKC,,CHI,,T. Craig,CHI,SUB: Williams FOR Craig,Substitution,,0,0,0,0,,,v
+S2324-G0337,1,09:56,MIA,,CHI,,T. Craig,CHI,MISS Craig 2' Layup,Missed Shot,Layup Shot,-13,14,2,1,2.0,0.0,v
+S2324-G0337,1,09:26,MIA,,CHI,,T. Craig,CHI,MISS Craig 26' 3PT Jump Shot,Missed Shot,Jump Shot,249,87,26,1,3.0,0.0,v
+S2324-G0337,1,08:22,MIA,11.0,CHI,4.0,T. Craig,CHI,Craig Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0337,1,08:22,MIA,,CHI,,T. Craig,CHI,MISS Craig Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0337,1,07:38,MIA,13.0,CHI,7.0,T. Craig,CHI,Craig 25' 3PT Jump Shot (4 PTS) (DeRozan 1 AST),Made Shot,Jump Shot,-83,237,25,1,3.0,3.0,v
+S2324-G0337,1,06:29,MIA,13.0,CHI,10.0,T. Craig,CHI,Craig 25' 3PT Jump Shot (7 PTS) (DeRozan 2 AST),Made Shot,Jump Shot,160,188,25,1,3.0,3.0,v
+S2324-G0337,1,04:46,MIA,,CHI,,T. Craig,CHI,Craig REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0337,1,04:11,MIA,,CHI,,T. Craig,CHI,Craig REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0337,1,03:36,MIA,24.0,CHI,15.0,T. Craig,CHI,Craig 3PT Jump Shot (10 PTS) (Carter 1 AST),Made Shot,Jump Shot,-234,14,0,1,3.0,3.0,v
+S2324-G0337,1,01:58,MIA,,CHI,,T. Craig,CHI,SUB: DeRozan FOR Craig,Substitution,,0,0,0,0,,,v
+S2324-G0337,2,05:58,MIA,44.0,CHI,41.0,T. Craig,CHI,Craig 3PT Jump Shot (13 PTS) (White 3 AST),Made Shot,Jump Shot,-224,58,0,1,3.0,3.0,v
+S2324-G0337,2,03:51,MIA,49.0,CHI,45.0,T. Craig,CHI,Craig 2' Driving Layup (15 PTS) (Vucevic 2 AST),Made Shot,Driving Layup Shot,-18,8,2,1,2.0,2.0,v
+S2324-G0337,2,03:51,MIA,49.0,CHI,46.0,T. Craig,CHI,Craig Free Throw 1 of 1 (16 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G0337,2,01:07,MIA,,CHI,,T. Craig,CHI,SUB: White FOR Craig,Substitution,,0,0,0,0,,,v
+S2324-G0004,1,11:43,CHI,,BKN,,T. Craig,CHI,Craig REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0004,1,11:24,CHI,3.0,BKN,0.0,T. Craig,CHI,Craig 25' 3PT Jump Shot (3 PTS) (Vucevic 1 AST),Made Shot,Jump Shot,-29,253,25,1,3.0,3.0,h
+S2324-G0004,1,10:27,CHI,,BKN,,T. Craig,CHI,Craig REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0004,1,10:16,CHI,,BKN,,T. Craig,CHI,Craig Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0004,1,05:41,CHI,,BKN,,T. Craig,CHI,Craig REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0004,1,04:00,CHI,,BKN,,T. Craig,CHI,Craig S.FOUL (P1.T1) (J.Orr),Foul,Shooting,0,0,0,0,,,h
+S2324-G0004,1,04:00,CHI,,BKN,,T. Craig,CHI,SUB: Caruso FOR Craig,Substitution,,0,0,0,0,,,h
+S2324-G0004,2,08:03,CHI,,BKN,,T. Craig,CHI,MISS Craig 2' Driving Layup,Missed Shot,Driving Layup Shot,12,13,2,1,2.0,0.0,h
+S2324-G0004,2,06:22,CHI,,BKN,,T. Craig,CHI,Craig P.FOUL (P2.T2) (J.Tiven),Foul,Personal,0,0,0,0,,,h
+S2324-G0004,2,03:52,CHI,,BKN,,T. Craig,CHI,Craig P.FOUL (P3.T3) (J.Tiven),Foul,Personal,0,0,0,0,,,h
+S2324-G0004,2,03:52,CHI,,BKN,,T. Craig,CHI,SUB: Caruso FOR Craig,Substitution,,0,0,0,0,,,h
+S2324-G0004,3,10:22,CHI,,BKN,,T. Craig,CHI,Craig REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0004,3,09:49,CHI,,BKN,,T. Craig,CHI,MISS Craig 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,-16,24,1,3.0,0.0,h
+S2324-G0004,3,07:25,CHI,,BKN,,T. Craig,CHI,Craig REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0004,3,05:45,CHI,,BKN,,T. Craig,CHI,Craig L.B.FOUL (P4.T2) (J.Orr),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0004,3,05:45,CHI,,BKN,,T. Craig,CHI,SUB: Caruso FOR Craig,Substitution,,0,0,0,0,,,h
+S2324-G0004,4,08:37,CHI,,BKN,,T. Craig,CHI,MISS Craig 19' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-6,188,19,1,2.0,0.0,h
+S2324-G0004,4,07:56,CHI,,BKN,,T. Craig,CHI,Craig STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0004,4,06:12,CHI,,BKN,,T. Craig,CHI,Craig REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0004,4,05:47,CHI,,BKN,,T. Craig,CHI,SUB: DeRozan FOR Craig,Substitution,,0,0,0,0,,,h
+S2324-G0004,4,00:12,CHI,,BKN,,T. Craig,CHI,SUB: Vucevic FOR Craig,Substitution,,0,0,0,0,,,h
+S2324-G0004,4,00:10.800000,CHI,,BKN,,T. Craig,CHI,SUB: White FOR Craig,Substitution,,0,0,0,0,,,h
+S2324-G0907,1,05:52,GSW,,CHI,,T. Craig,CHI,MISS Craig 27' 3PT Jump Shot,Missed Shot,Jump Shot,-125,239,27,1,3.0,0.0,v
+S2324-G0907,1,05:43,GSW,,CHI,,T. Craig,CHI,Craig S.FOUL (P1.T1) (P.Ransom),Foul,Shooting,0,0,0,0,,,v
+S2324-G0907,1,04:15,GSW,,CHI,,T. Craig,CHI,Craig REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0907,1,04:03,GSW,,CHI,,T. Craig,CHI,SUB: Bitim FOR Craig,Substitution,,0,0,0,0,,,v
+S2324-G0907,2,06:40,GSW,,CHI,,T. Craig,CHI,Craig BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0907,2,05:33,GSW,,CHI,,T. Craig,CHI,SUB: White FOR Craig,Substitution,,0,0,0,0,,,v
+S2324-G0907,3,05:27,GSW,,CHI,,T. Craig,CHI,Craig Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0907,3,02:38,GSW,,CHI,,T. Craig,CHI,SUB: DeRozan FOR Craig,Substitution,,0,0,0,0,,,v
+S2324-G0053,2,11:40,BOS,,CHI,,T. Craig,CHI,Craig STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0053,2,10:32,BOS,,CHI,,T. Craig,CHI,SUB: Williams FOR Craig,Substitution,,0,0,0,0,,,v
+S2324-G0053,3,02:00,BOS,,CHI,,T. Craig,CHI,Craig REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0053,3,01:33,BOS,,CHI,,T. Craig,CHI,Craig BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0053,3,00:03.900000,BOS,97.0,CHI,68.0,T. Craig,CHI,Craig 24' 3PT Jump Shot (3 PTS) (Vucevic 2 AST),Made Shot,Jump Shot,-234,30,24,1,3.0,3.0,v
+S2324-G0053,4,09:50,BOS,,CHI,,T. Craig,CHI,SUB: Phillips FOR Craig,Substitution,,0,0,0,0,,,v
+S2324-G1091,3,05:05,CHI,,ATL,,T. Craig,CHI,Craig REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1091,3,04:42,CHI,,ATL,,T. Craig,CHI,Craig REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1091,3,03:55,CHI,,ATL,,T. Craig,CHI,MISS Craig 24' 3PT Jump Shot,Missed Shot,Jump Shot,227,63,24,1,3.0,0.0,h
+S2324-G0300,1,04:52,MIL,23.0,CHI,21.0,T. Craig,CHI,Craig 3' Cutting Layup Shot (2 PTS) (Vucevic 2 AST),Made Shot,Cutting Layup Shot,6,34,3,1,2.0,2.0,v
+S2324-G0300,1,04:19,MIL,,CHI,,T. Craig,CHI,MISS Craig 26' 3PT Jump Shot,Missed Shot,Jump Shot,211,146,26,1,3.0,0.0,v
+S2324-G0300,1,02:31,MIL,,CHI,,T. Craig,CHI,Craig REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0300,1,02:23,MIL,,CHI,,T. Craig,CHI,MISS Craig 27' 3PT Jump Shot,Missed Shot,Jump Shot,126,242,27,1,3.0,0.0,v
+S2324-G0300,1,01:39,MIL,,CHI,,T. Craig,CHI,SUB: Williams FOR Craig,Substitution,,0,0,0,0,,,v
+S2324-G0300,2,05:34,MIL,58.0,CHI,51.0,T. Craig,CHI,Craig 27' 3PT Jump Shot (5 PTS) (White 2 AST),Made Shot,Jump Shot,225,145,27,1,3.0,3.0,v
+S2324-G0300,2,04:00,MIL,,CHI,,T. Craig,CHI,MISS Craig 3PT Jump Shot,Missed Shot,Jump Shot,-233,27,0,1,3.0,0.0,v
+S2324-G0300,2,03:59,MIL,,CHI,,T. Craig,CHI,Craig L.B.FOUL (P1.T3) (K.Scott),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0300,2,02:40,MIL,,CHI,,T. Craig,CHI,SUB: Williams FOR Craig,Substitution,,0,0,0,0,,,v
+S2324-G0300,3,04:57,MIL,,CHI,,T. Craig,CHI,Craig S.FOUL (P2.PN) (K.Scott),Foul,Shooting,0,0,0,0,,,v
+S2324-G0300,3,03:15,MIL,,CHI,,T. Craig,CHI,Craig REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0300,3,02:05,MIL,89.0,CHI,84.0,T. Craig,CHI,Craig Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0300,3,02:05,MIL,,CHI,,T. Craig,CHI,MISS Craig Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0300,3,01:18,MIL,,CHI,,T. Craig,CHI,Craig S.FOUL (P3.PN) (E.Scott),Foul,Shooting,0,0,0,0,,,v
+S2324-G0300,3,00:35.200000,MIL,,CHI,,T. Craig,CHI,MISS Craig 2' Driving Layup,Missed Shot,Driving Layup Shot,6,17,2,1,2.0,0.0,v
+S2324-G0300,3,00:21.500000,MIL,,CHI,,T. Craig,CHI,Craig BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0300,4,11:25,MIL,,CHI,,T. Craig,CHI,MISS Craig 27' 3PT Jump Shot,Missed Shot,Jump Shot,150,220,27,1,3.0,0.0,v
+S2324-G0300,4,07:21,MIL,,CHI,,T. Craig,CHI,SUB: Carter FOR Craig,Substitution,,0,0,0,0,,,v
+S2324-G0300,4,04:42,MIL,,CHI,,T. Craig,CHI,Craig S.FOUL (P4.T3) (K.Scott),Foul,Shooting,0,0,0,0,,,v
+S2324-G0300,4,03:12,MIL,,CHI,,T. Craig,CHI,Craig REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0300,4,03:00,MIL,,CHI,,T. Craig,CHI,Craig S.FOUL (P5.T4) (A.Smith),Foul,Shooting,0,0,0,0,,,v
+S2324-G0300,4,00:10.900000,MIL,,CHI,,T. Craig,CHI,Craig REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0300,5,04:41,MIL,,CHI,,T. Craig,CHI,MISS Craig Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0300,5,04:41,MIL,118.0,CHI,119.0,T. Craig,CHI,Craig Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0300,5,04:06,MIL,,CHI,,T. Craig,CHI,MISS Craig 5' Layup,Missed Shot,Layup Shot,1,49,5,1,2.0,0.0,v
+S2324-G0300,5,04:04,MIL,,CHI,,T. Craig,CHI,Craig REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0300,5,04:04,MIL,,CHI,,T. Craig,CHI,MISS Craig Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2324-G0300,5,01:04,MIL,,CHI,,T. Craig,CHI,Craig S.FOUL (P6.T2) (K.Scott),Foul,Shooting,0,0,0,0,,,v
+S2324-G0300,5,01:04,MIL,,CHI,,T. Craig,CHI,SUB: Dosunmu FOR Craig,Substitution,,0,0,0,0,,,v
+S2324-G0204,1,05:11,CHI,,MIA,,T. Craig,CHI,MISS Craig 25' 3PT Jump Shot,Missed Shot,Jump Shot,-7,252,25,1,3.0,0.0,h
+S2324-G0204,1,03:15,CHI,,MIA,,T. Craig,CHI,Craig REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0204,1,03:00,CHI,8.0,MIA,24.0,T. Craig,CHI,Craig 25' 3PT Jump Shot (3 PTS) (Carter 1 AST),Made Shot,Jump Shot,-58,239,25,1,3.0,3.0,h
+S2324-G0204,1,01:59,CHI,,MIA,,T. Craig,CHI,Craig REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0204,1,01:01,CHI,,MIA,,T. Craig,CHI,Craig BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0204,1,01:01,CHI,,MIA,,T. Craig,CHI,Craig REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0204,3,05:56,CHI,,MIA,,T. Craig,CHI,Craig L.B.FOUL (P1.T3) (I.Hwang),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0204,3,04:01,CHI,,MIA,,T. Craig,CHI,MISS Craig 27' 3PT Jump Shot,Missed Shot,Jump Shot,-170,206,27,1,3.0,0.0,h
+S2324-G0204,3,03:32,CHI,,MIA,,T. Craig,CHI,Craig REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0204,3,02:42,CHI,,MIA,,T. Craig,CHI,Craig REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0204,3,01:28,CHI,64.0,MIA,74.0,T. Craig,CHI,Craig 1' Driving Dunk (5 PTS) (Dosunmu 2 AST),Made Shot,Driving Dunk Shot,4,8,1,1,2.0,2.0,h
+S2324-G0204,3,00:28.800000,CHI,68.0,MIA,76.0,T. Craig,CHI,Craig 6' Fadeaway Jumper (7 PTS),Made Shot,Fadeaway Jump Shot,7,59,6,1,2.0,2.0,h
+S2324-G0204,4,09:07,CHI,,MIA,,T. Craig,CHI,SUB: Williams FOR Craig,Substitution,,0,0,0,0,,,h
+S2324-G0269,1,06:45,CHI,8.0,MIL,13.0,T. Craig,CHI,Craig 3PT Jump Shot (3 PTS) (Vucevic 2 AST),Made Shot,Jump Shot,-230,24,0,1,3.0,3.0,h
+S2324-G0269,1,04:54,CHI,,MIL,,T. Craig,CHI,Craig REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0269,1,04:47,CHI,,MIL,,T. Craig,CHI,Craig Out of Bounds Lost Ball Turnover (P1.T4),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2324-G0269,1,03:54,CHI,,MIL,,T. Craig,CHI,Craig STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0269,1,03:53,CHI,,MIL,,T. Craig,CHI,Craig Bad Pass Turnover (P2.T6),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0269,1,02:56,CHI,,MIL,,T. Craig,CHI,Craig BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0269,1,02:52,CHI,,MIL,,T. Craig,CHI,Craig REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0269,1,02:47,CHI,,MIL,,T. Craig,CHI,Craig REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0269,1,02:19,CHI,,MIL,,T. Craig,CHI,Craig REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0269,1,01:53,CHI,,MIL,,T. Craig,CHI,Craig P.FOUL (P1.T3) (R.Mott),Foul,Personal,0,0,0,0,,,h
+S2324-G0269,1,01:09,CHI,,MIL,,T. Craig,CHI,MISS Craig 25' 3PT Jump Shot,Missed Shot,Jump Shot,213,130,25,1,3.0,0.0,h
+S2324-G0269,2,10:54,CHI,,MIL,,T. Craig,CHI,SUB: Phillips FOR Craig,Substitution,,0,0,0,0,,,h
+S2324-G0269,2,06:58,CHI,,MIL,,T. Craig,CHI,MISS Craig 3PT Jump Shot,Missed Shot,Jump Shot,-232,-6,0,1,3.0,0.0,h
+S2324-G0269,2,04:40,CHI,,MIL,,T. Craig,CHI,Craig REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0269,2,04:37,CHI,,MIL,,T. Craig,CHI,MISS Craig 3PT Jump Shot,Missed Shot,Jump Shot,-228,-10,0,1,3.0,0.0,h
+S2324-G0269,2,02:51,CHI,,MIL,,T. Craig,CHI,MISS Craig 3' Driving Layup,Missed Shot,Driving Layup Shot,-6,27,3,1,2.0,0.0,h
+S2324-G0269,2,02:50,CHI,,MIL,,T. Craig,CHI,Craig REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0269,2,02:49,CHI,,MIL,,T. Craig,CHI,MISS Craig Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2324-G0269,2,02:47,CHI,,MIL,,T. Craig,CHI,Craig P.FOUL (P2.PN) (R.Mott),Foul,Personal,0,0,0,0,,,h
+S2324-G0269,2,02:47,CHI,,MIL,,T. Craig,CHI,SUB: Williams FOR Craig,Substitution,,0,0,0,0,,,h
+S2324-G0269,3,05:00,CHI,,MIL,,T. Craig,CHI,Craig P.FOUL (P3.T2) (B.Taylor),Foul,Personal,0,0,0,0,,,h
+S2324-G0269,3,04:17,CHI,,MIL,,T. Craig,CHI,MISS Craig 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,257,26,1,3.0,0.0,h
+S2324-G0269,3,04:01,CHI,,MIL,,T. Craig,CHI,Craig REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0269,3,02:43,CHI,74.0,MIL,76.0,T. Craig,CHI,Craig 1' Driving Finger Roll Layup (5 PTS) (Phillips 2 AST),Made Shot,Driving Finger Roll Layup Shot,5,3,1,1,2.0,2.0,h
+S2324-G0269,3,00:10.600000,CHI,,MIL,,T. Craig,CHI,Craig REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0269,4,10:28,CHI,86.0,MIL,80.0,T. Craig,CHI,Craig 25' 3PT Jump Shot (8 PTS) (White 5 AST),Made Shot,Jump Shot,-222,104,25,1,3.0,3.0,h
+S2324-G0269,4,09:01,CHI,90.0,MIL,80.0,T. Craig,CHI,Craig 16' Pullup Jump Shot (10 PTS) (Drummond 1 AST),Made Shot,Pullup Jump shot,12,155,16,1,2.0,2.0,h
+S2324-G0269,4,05:12,CHI,,MIL,,T. Craig,CHI,SUB: Caruso FOR Craig,Substitution,,0,0,0,0,,,h
+S2324-G0269,4,00:05.200000,CHI,,MIL,,T. Craig,CHI,Craig Personal Take Foul (P4.PN) (B.Taylor),Foul,Personal Take,0,0,0,0,,,h
+S2324-G0269,4,00:05.200000,CHI,,MIL,,T. Craig,CHI,SUB: White FOR Craig,Substitution,,0,0,0,0,,,h
+S2324-G0971,1,09:44,CHI,,WAS,,T. Craig,CHI,MISS Craig 3PT Jump Shot,Missed Shot,Jump Shot,234,15,0,1,3.0,0.0,h
+S2324-G0971,1,07:35,CHI,,WAS,,T. Craig,CHI,MISS Craig 26' 3PT Jump Shot,Missed Shot,Jump Shot,-60,248,26,1,3.0,0.0,h
+S2324-G0971,1,05:26,CHI,,WAS,,T. Craig,CHI,SUB: Caruso FOR Craig,Substitution,,0,0,0,0,,,h
+S2324-G0971,2,07:01,CHI,,WAS,,T. Craig,CHI,Craig S.FOUL (P1.T1) (D.Collins),Foul,Shooting,0,0,0,0,,,h
+S2324-G0971,2,03:02,CHI,,WAS,,T. Craig,CHI,Craig REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0971,2,03:02,CHI,61.0,WAS,38.0,T. Craig,CHI,Craig Putback Layup (2 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,h
+S2324-G0971,2,02:31,CHI,,WAS,,T. Craig,CHI,SUB: Caruso FOR Craig,Substitution,,0,0,0,0,,,h
+S2324-G0971,3,11:10,CHI,,WAS,,T. Craig,CHI,MISS Craig 3PT Jump Shot,Missed Shot,Jump Shot,225,-6,0,1,3.0,0.0,h
+S2324-G0971,3,10:11,CHI,71.0,WAS,48.0,T. Craig,CHI,Craig 8' Driving Floating Jump Shot (4 PTS) (DeRozan 5 AST),Made Shot,Driving Floating Jump Shot,-4,79,8,1,2.0,2.0,h
+S2324-G0971,3,07:13,CHI,,WAS,,T. Craig,CHI,Craig Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0971,3,05:33,CHI,,WAS,,T. Craig,CHI,SUB: Bitim FOR Craig,Substitution,,0,0,0,0,,,h
+S2324-G0033,1,02:28,CHI,,ORL,,T. Craig,CHI,MISS Craig 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,228,78,24,1,3.0,0.0,h
+S2324-G0033,1,00:25.800000,CHI,,ORL,,T. Craig,CHI,MISS Craig 3PT Jump Shot,Missed Shot,Jump Shot,-227,-1,0,1,3.0,0.0,h
+S2324-G0033,2,11:36,CHI,,ORL,,T. Craig,CHI,Craig STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0033,2,10:32,CHI,,ORL,,T. Craig,CHI,Craig Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0033,2,09:23,CHI,,ORL,,T. Craig,CHI,Craig P.FOUL (P1.T2) (T.Ford),Foul,Personal,0,0,0,0,,,h
+S2324-G0033,2,06:15,CHI,,ORL,,T. Craig,CHI,SUB: Williams FOR Craig,Substitution,,0,0,0,0,,,h
+S2324-G0033,3,00:01.300000,CHI,,ORL,,T. Craig,CHI,Craig S.FOUL (P2.PN) (D.Scott),Foul,Shooting,0,0,0,0,,,h
+S2324-G0033,4,11:42,CHI,68.0,ORL,77.0,T. Craig,CHI,Craig 25' 3PT Pullup Jump Shot (3 PTS) (Williams 1 AST),Made Shot,Pullup Jump shot,10,254,25,1,3.0,3.0,h
+S2324-G0033,4,10:45,CHI,,ORL,,T. Craig,CHI,Craig S.FOUL (P3.T1) (T.Ford),Foul,Shooting,0,0,0,0,,,h
+S2324-G0033,4,04:47,CHI,,ORL,,T. Craig,CHI,Craig REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0033,4,03:13,CHI,,ORL,,T. Craig,CHI,SUB: Caruso FOR Craig,Substitution,,0,0,0,0,,,h
+S2324-G0033,4,00:20.600000,CHI,,ORL,,T. Craig,CHI,SUB: White FOR Craig,Substitution,,0,0,0,0,,,h
+S2324-G1136,1,00:38,ORL,,CHI,,T. Craig,CHI,MISS Craig 27' 3PT Jump Shot,Missed Shot,Jump Shot,-86,252,27,1,3.0,0.0,v
+S2324-G1136,2,00:09.100000,ORL,,CHI,,T. Craig,CHI,Craig STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G1136,4,09:07,ORL,,CHI,,T. Craig,CHI,Craig REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1136,4,09:05,ORL,,CHI,,T. Craig,CHI,Craig Bad Pass Turnover (P1.T18),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G1136,4,06:23,ORL,,CHI,,T. Craig,CHI,MISS Craig 27' 3PT Jump Shot,Missed Shot,Jump Shot,-179,196,27,1,3.0,0.0,v
+S2324-G1136,4,05:54,ORL,,CHI,,T. Craig,CHI,SUB: Green FOR Craig,Substitution,,0,0,0,0,,,v
+S2324-G0320,1,04:33,MIA,,CHI,,T. Craig,CHI,Craig REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0320,1,03:33,MIA,,CHI,,T. Craig,CHI,Craig S.FOUL (P1.T3) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,v
+S2324-G0320,1,02:07,MIA,,CHI,,T. Craig,CHI,Craig P.FOUL (P2.PN) (D.Mosher),Foul,Personal,0,0,0,0,,,v
+S2324-G0320,2,11:10,MIA,22.0,CHI,40.0,T. Craig,CHI,Craig 1' Running Layup (2 PTS),Made Shot,Running Layup Shot,7,11,1,1,2.0,2.0,v
+S2324-G0320,2,11:10,MIA,22.0,CHI,41.0,T. Craig,CHI,Craig Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G0320,2,10:37,MIA,24.0,CHI,43.0,T. Craig,CHI,Craig 2' Layup (5 PTS) (White 6 AST),Made Shot,Layup Shot,15,10,2,1,2.0,2.0,v
+S2324-G0320,2,09:26,MIA,,CHI,,T. Craig,CHI,MISS Craig 27' 3PT Jump Shot,Missed Shot,Jump Shot,181,203,27,1,3.0,0.0,v
+S2324-G0320,2,08:04,MIA,,CHI,,T. Craig,CHI,Craig REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0320,2,07:59,MIA,,CHI,,T. Craig,CHI,SUB: Williams FOR Craig,Substitution,,0,0,0,0,,,v
+S2324-G0320,2,04:02,MIA,,CHI,,T. Craig,CHI,MISS Craig 3PT Jump Shot,Missed Shot,Jump Shot,-234,14,0,1,3.0,0.0,v
+S2324-G0320,2,03:11,MIA,,CHI,,T. Craig,CHI,Craig S.FOUL (P3.PN) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,v
+S2324-G0320,2,02:21,MIA,,CHI,,T. Craig,CHI,MISS Craig 24' 3PT Jump Shot,Missed Shot,Jump Shot,238,27,24,1,3.0,0.0,v
+S2324-G0320,2,02:11,MIA,,CHI,,T. Craig,CHI,SUB: Williams FOR Craig,Substitution,,0,0,0,0,,,v
+S2324-G0320,3,05:21,MIA,,CHI,,T. Craig,CHI,Craig STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0320,3,01:41,MIA,,CHI,,T. Craig,CHI,Craig REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0320,3,01:12,MIA,,CHI,,T. Craig,CHI,MISS Craig 6' Driving Layup,Missed Shot,Driving Layup Shot,-4,59,6,1,2.0,0.0,v
+S2324-G0320,4,11:20,MIA,,CHI,,T. Craig,CHI,MISS Craig 21' Jump Shot,Missed Shot,Jump Shot,-153,147,21,1,2.0,0.0,v
+S2324-G0320,4,08:59,MIA,,CHI,,T. Craig,CHI,SUB: Dosunmu FOR Craig,Substitution,,0,0,0,0,,,v

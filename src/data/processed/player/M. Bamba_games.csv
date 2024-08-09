@@ -1,0 +1,838 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2324-G0335,4,06:03,CHA,,PHI,,M. Bamba,PHI,Bamba L.B.FOUL (P1.T3) (J.Van Duyne),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0335,4,04:19,CHA,,PHI,,M. Bamba,PHI,MISS Bamba Free Throw Technical,Free Throw,Free Throw Technical,0,0,0,0,1.0,0.0,v
+S2324-G0335,4,04:02,CHA,72.0,PHI,121.0,M. Bamba,PHI,Bamba 20' Jump Shot (2 PTS) (Korkmaz 1 AST),Made Shot,Jump Shot,118,162,20,1,2.0,2.0,v
+S2324-G0335,4,02:44,CHA,75.0,PHI,128.0,M. Bamba,PHI,Bamba 27' 3PT Jump Shot (5 PTS) (Springer 1 AST),Made Shot,Jump Shot,-126,243,27,1,3.0,3.0,v
+S2324-G0335,4,02:10,CHA,,PHI,,M. Bamba,PHI,Bamba L.B.FOUL (P2.T4) (J.Van Duyne),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0335,4,01:57,CHA,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0335,4,01:47,CHA,77.0,PHI,130.0,M. Bamba,PHI,Bamba 3' Cutting Dunk Shot (7 PTS) (House Jr. 2 AST),Made Shot,Cutting Dunk Shot,20,26,3,1,2.0,2.0,v
+S2324-G0698,1,05:24,PHI,,BKN,,M. Bamba,PHI,Bamba REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0698,1,05:24,PHI,,BKN,,M. Bamba,PHI,MISS Bamba Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2324-G0698,1,05:15,PHI,,BKN,,M. Bamba,PHI,Bamba Violation:Defensive Goaltending (A.Moyer-Gleich),Violation,Defensive Goaltending,0,0,0,0,,,h
+S2324-G0698,1,01:55,PHI,18.0,BKN,32.0,M. Bamba,PHI,Bamba 2' Layup (2 PTS) (Beverley 2 AST),Made Shot,Layup Shot,22,0,2,1,2.0,2.0,h
+S2324-G0698,1,01:36,PHI,,BKN,,M. Bamba,PHI,SUB: Martin FOR Bamba,Substitution,,0,0,0,0,,,h
+S2324-G0698,2,05:15,PHI,,BKN,,M. Bamba,PHI,Bamba REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0698,2,03:08,PHI,,BKN,,M. Bamba,PHI,Bamba REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0698,2,03:00,PHI,,BKN,,M. Bamba,PHI,SUB: Springer FOR Bamba,Substitution,,0,0,0,0,,,h
+S2324-G0698,3,02:42,PHI,,BKN,,M. Bamba,PHI,Bamba S.FOUL (P1.PN) (J.Williams),Foul,Shooting,0,0,0,0,,,h
+S2324-G0698,3,02:21,PHI,,BKN,,M. Bamba,PHI,MISS Bamba 3' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,20,19,3,1,2.0,0.0,h
+S2324-G0698,3,01:43,PHI,,BKN,,M. Bamba,PHI,Bamba REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0698,3,01:43,PHI,,BKN,,M. Bamba,PHI,MISS Bamba Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0698,3,01:43,PHI,76.0,BKN,100.0,M. Bamba,PHI,Bamba Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0698,3,00:33.900000,PHI,,BKN,,M. Bamba,PHI,Bamba REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0698,4,09:37,PHI,,BKN,,M. Bamba,PHI,Bamba REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0698,4,09:37,PHI,86.0,BKN,111.0,M. Bamba,PHI,Bamba Putback Dunk (5 PTS),Made Shot,Putback Dunk Shot,0,0,0,1,2.0,2.0,h
+S2324-G0698,4,09:11,PHI,,BKN,,M. Bamba,PHI,SUB: Council IV FOR Bamba,Substitution,,0,0,0,0,,,h
+S2324-G0909,1,12:00,PHI,,NOP,,M. Bamba,PHI,Jump Ball Bamba vs. Valanciunas: Tip to Lowry,Jump Ball,,0,0,0,0,,,h
+S2324-G0909,1,08:20,PHI,,NOP,,M. Bamba,PHI,MISS Bamba 27' 3PT Jump Shot,Missed Shot,Jump Shot,-67,258,27,1,3.0,0.0,h
+S2324-G0909,1,07:23,PHI,,NOP,,M. Bamba,PHI,SUB: Reed FOR Bamba,Substitution,,0,0,0,0,,,h
+S2324-G0909,2,10:23,PHI,,NOP,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0909,2,09:39,PHI,,NOP,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0909,2,09:16,PHI,17.0,NOP,41.0,M. Bamba,PHI,Bamba 1' Alley Oop Dunk (2 PTS) (Oubre Jr. 2 AST),Made Shot,Alley Oop Dunk Shot,-9,-3,1,1,2.0,2.0,h
+S2324-G0909,2,08:26,PHI,,NOP,,M. Bamba,PHI,Bamba S.FOUL (P1.T2) (E.Dalen),Foul,Shooting,0,0,0,0,,,h
+S2324-G0909,2,08:00,PHI,,NOP,,M. Bamba,PHI,SUB: Hield FOR Bamba,Substitution,,0,0,0,0,,,h
+S2324-G0909,3,11:40,PHI,,NOP,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0909,3,10:39,PHI,,NOP,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0909,3,06:25,PHI,,NOP,,M. Bamba,PHI,Bamba BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0909,3,04:26,PHI,,NOP,,M. Bamba,PHI,Bamba REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0909,3,04:24,PHI,,NOP,,M. Bamba,PHI,Bamba Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0909,3,04:18,PHI,,NOP,,M. Bamba,PHI,Bamba BLOCK (2 BLK),,,0,0,0,0,,,h
+S2324-G0909,3,03:45,PHI,,NOP,,M. Bamba,PHI,Bamba REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0909,3,03:18,PHI,,NOP,,M. Bamba,PHI,Bamba S.FOUL (P2.T3) (E.Dalen),Foul,Shooting,0,0,0,0,,,h
+S2324-G0909,3,02:18,PHI,,NOP,,M. Bamba,PHI,SUB: Martin FOR Bamba,Substitution,,0,0,0,0,,,h
+S2324-G0495,1,05:15,PHI,18.0,UTA,20.0,M. Bamba,PHI,Bamba Cutting Dunk Shot (2 PTS) (Batum 2 AST),Made Shot,Cutting Dunk Shot,0,4,0,1,2.0,2.0,h
+S2324-G0495,1,04:55,PHI,,UTA,,M. Bamba,PHI,Bamba S.FOUL (P1.T3) (S.Mehta),Foul,Shooting,0,0,0,0,,,h
+S2324-G0495,1,01:57,PHI,,UTA,,M. Bamba,PHI,MISS Bamba 1' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,6,11,1,1,2.0,0.0,h
+S2324-G0495,2,11:39,PHI,,UTA,,M. Bamba,PHI,Bamba REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0495,2,11:39,PHI,30.0,UTA,32.0,M. Bamba,PHI,Bamba Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2324-G0495,2,11:09,PHI,,UTA,,M. Bamba,PHI,76ERS T.Foul (Def. 3 Sec Bamba ) (G.Petraitis),Foul,Defense 3 Second,0,0,0,0,,,h
+S2324-G0495,2,10:43,PHI,,UTA,,M. Bamba,PHI,Bamba REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0495,2,09:38,PHI,,UTA,,M. Bamba,PHI,Bamba L.B.FOUL (P2.T3) (G.Petraitis),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0495,2,09:10,PHI,,UTA,,M. Bamba,PHI,MISS Bamba 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-10,11,1,1,2.0,0.0,h
+S2324-G0495,2,09:06,PHI,,UTA,,M. Bamba,PHI,Bamba REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0495,2,09:06,PHI,,UTA,,M. Bamba,PHI,MISS Bamba Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2324-G0495,2,09:03,PHI,,UTA,,M. Bamba,PHI,SUB: Maxey FOR Bamba,Substitution,,0,0,0,0,,,h
+S2324-G0495,2,02:25,PHI,,UTA,,M. Bamba,PHI,Bamba L.B.FOUL (P3.PN) (S.Mehta),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0495,2,02:09,PHI,52.0,UTA,54.0,M. Bamba,PHI,Bamba 1' Cutting Layup Shot (6 PTS) (Beverley 4 AST),Made Shot,Cutting Layup Shot,6,10,1,1,2.0,2.0,h
+S2324-G0495,2,02:09,PHI,,UTA,,M. Bamba,PHI,MISS Bamba Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2324-G0495,2,01:11,PHI,,UTA,,M. Bamba,PHI,Bamba REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0495,3,07:12,PHI,,UTA,,M. Bamba,PHI,MISS Bamba 27' 3PT Jump Shot,Missed Shot,Jump Shot,-140,225,27,1,3.0,0.0,h
+S2324-G0495,3,06:49,PHI,,UTA,,M. Bamba,PHI,Bamba REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0495,3,06:23,PHI,,UTA,,M. Bamba,PHI,Bamba P.FOUL (P4.T2) (G.Petraitis),Foul,Personal,0,0,0,0,,,h
+S2324-G0495,3,05:03,PHI,,UTA,,M. Bamba,PHI,Bamba BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0495,3,04:04,PHI,,UTA,,M. Bamba,PHI,Bamba STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0495,3,03:17,PHI,,UTA,,M. Bamba,PHI,MISS Bamba 3' Reverse Layup,Missed Shot,Reverse Layup Shot,-2,30,3,1,2.0,0.0,h
+S2324-G0495,3,02:34,PHI,,UTA,,M. Bamba,PHI,MISS Bamba 25' 3PT Jump Shot,Missed Shot,Jump Shot,-62,245,25,1,3.0,0.0,h
+S2324-G0495,3,02:27,PHI,,UTA,,M. Bamba,PHI,SUB: Martin FOR Bamba,Substitution,,0,0,0,0,,,h
+S2324-G0483,4,03:55,PHI,87.0,NYK,121.0,M. Bamba,PHI,Bamba 2' Driving Reverse Layup (2 PTS) (House Jr. 1 AST),Made Shot,Driving Reverse Layup Shot,-20,0,2,1,2.0,2.0,h
+S2324-G0483,4,03:35,PHI,,NYK,,M. Bamba,PHI,Bamba STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0483,4,02:01,PHI,,NYK,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0483,4,01:30,PHI,,NYK,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0483,4,00:31.200000,PHI,,NYK,,M. Bamba,PHI,Bamba STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0817,3,05:41,PHI,,MIL,,M. Bamba,PHI,Bamba REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0817,3,05:41,PHI,,MIL,,M. Bamba,PHI,MISS Bamba Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2324-G0817,3,04:12,PHI,,MIL,,M. Bamba,PHI,Bamba S.FOUL (P1.PN) (K.Lane),Foul,Shooting,0,0,0,0,,,h
+S2324-G0817,3,04:12,PHI,,MIL,,M. Bamba,PHI,Bamba REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0817,3,03:09,PHI,,MIL,,M. Bamba,PHI,Jump Ball Bamba vs. G. Antetokounmpo: Tip to Maxey,Jump Ball,,0,0,0,0,,,h
+S2324-G0817,3,00:03.200000,PHI,,MIL,,M. Bamba,PHI,Bamba REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0817,4,10:50,PHI,,MIL,,M. Bamba,PHI,SUB: Hield FOR Bamba,Substitution,,0,0,0,0,,,h
+S2324-G0817,4,01:11,PHI,,MIL,,M. Bamba,PHI,Bamba P.FOUL (P2.T4) (K.Lane),Foul,Personal,0,0,0,0,,,h
+S2324-G0969,1,12:00,PHI,,,,M. Bamba,PHI,Jump Ball Bamba vs. Richards: Tip to Lowry,Jump Ball,,0,0,0,0,,,h
+S2324-G0969,1,10:30,PHI,,,,M. Bamba,PHI,Bamba S.FOUL (P1.T2) (S.Wall),Foul,Shooting,0,0,0,0,,,h
+S2324-G0969,1,09:51,PHI,7.0,,5.0,M. Bamba,PHI,Bamba 26' 3PT Running Jump Shot (3 PTS) (Oubre Jr. 1 AST),Made Shot,Running Jump Shot,-69,253,26,1,3.0,3.0,h
+S2324-G0969,1,09:34,PHI,,,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0969,1,07:29,PHI,,,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0969,1,04:27,PHI,,,,M. Bamba,PHI,SUB: Reed FOR Bamba,Substitution,,0,0,0,0,,,h
+S2324-G0969,2,07:35,PHI,,,,M. Bamba,PHI,Bamba Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0969,2,05:04,PHI,,,,M. Bamba,PHI,Bamba BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0969,2,03:36,PHI,,,,M. Bamba,PHI,Bamba STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0969,2,02:44,PHI,,,,M. Bamba,PHI,Bamba OFF.Foul (P2) (J.Goble),Foul,Offensive,0,0,0,0,,,h
+S2324-G0969,2,02:44,PHI,,,,M. Bamba,PHI,Bamba Offensive Foul Turnover (P2.T10),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0969,2,02:23,PHI,,,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0969,3,11:10,PHI,,,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0969,3,10:09,PHI,,,,M. Bamba,PHI,MISS Bamba 26' 3PT Jump Shot,Missed Shot,Jump Shot,124,225,26,1,3.0,0.0,h
+S2324-G0969,3,08:33,PHI,,,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0969,3,07:09,PHI,,,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0969,3,06:54,PHI,,,,M. Bamba,PHI,SUB: Reed FOR Bamba,Substitution,,0,0,0,0,,,h
+S2324-G0969,4,10:49,PHI,,,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0969,4,10:12,PHI,,,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0969,4,08:28,PHI,,,,M. Bamba,PHI,Bamba OFF.Foul (P3) (S.Corbin),Foul,Offensive,0,0,0,0,,,h
+S2324-G0969,4,08:28,PHI,,,,M. Bamba,PHI,Bamba Offensive Foul Turnover (P3.T15),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0969,4,05:58,PHI,,,,M. Bamba,PHI,Bamba L.B.FOUL (P4.T4) (S.Wall),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0969,4,05:58,PHI,,,,M. Bamba,PHI,Bamba T.FOUL (P4.T4) (S.Wall),Foul,Technical,0,0,0,0,,,h
+S2324-G0969,4,05:58,PHI,,,,M. Bamba,PHI,SUB: Lowry FOR Bamba,Substitution,,0,0,0,0,,,h
+S2324-G1067,1,08:18,CLE,,PHI,,M. Bamba,PHI,SUB: Reed FOR Bamba,Substitution,,0,0,0,0,,,v
+S2324-G1067,2,11:27,CLE,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1067,2,11:19,CLE,28.0,PHI,27.0,M. Bamba,PHI,Bamba 1' Cutting Layup Shot (2 PTS),Made Shot,Cutting Layup Shot,2,13,1,1,2.0,2.0,v
+S2324-G1067,2,10:46,CLE,30.0,PHI,29.0,M. Bamba,PHI,Bamba 3' Cutting Layup Shot (4 PTS) (Payne 1 AST),Made Shot,Cutting Layup Shot,7,29,3,1,2.0,2.0,v
+S2324-G1067,2,08:35,CLE,,PHI,,M. Bamba,PHI,SUB: Lowry FOR Bamba,Substitution,,0,0,0,0,,,v
+S2324-G1067,3,11:32,CLE,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1067,3,11:28,CLE,57.0,PHI,58.0,M. Bamba,PHI,Bamba 26' 3PT Running Jump Shot (7 PTS) (Lowry 2 AST),Made Shot,Running Jump Shot,-132,228,26,1,3.0,3.0,v
+S2324-G1067,3,10:31,CLE,,PHI,,M. Bamba,PHI,Bamba S.FOUL (P1.T1) (D.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2324-G1067,3,10:16,CLE,,PHI,,M. Bamba,PHI,Bamba Violation:Defensive Goaltending (R.Hussey),Violation,Defensive Goaltending,0,0,0,0,,,v
+S2324-G1067,3,08:20,CLE,,PHI,,M. Bamba,PHI,MISS Bamba 27' 3PT Jump Shot,Missed Shot,Jump Shot,-119,238,27,1,3.0,0.0,v
+S2324-G1067,3,07:53,CLE,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1067,3,06:17,CLE,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1067,3,06:00,CLE,,PHI,,M. Bamba,PHI,SUB: Hield FOR Bamba,Substitution,,0,0,0,0,,,v
+S2324-G1067,4,07:50,CLE,,PHI,,M. Bamba,PHI,Bamba S.FOUL (P2.T3) (R.Hussey),Foul,Shooting,0,0,0,0,,,v
+S2324-G1067,4,07:47,CLE,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1067,4,06:28,CLE,,PHI,,M. Bamba,PHI,Bamba Violation:Defensive Goaltending (P.Fraher),Violation,Defensive Goaltending,0,0,0,0,,,v
+S2324-G1067,4,05:47,CLE,,PHI,,M. Bamba,PHI,Bamba BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G1067,4,05:23,CLE,104.0,PHI,99.0,M. Bamba,PHI,Bamba 1' Running Alley Oop Dunk Shot (9 PTS) (Lowry 5 AST),Made Shot,Running Alley Oop Dunk Shot,4,-3,1,1,2.0,2.0,v
+S2324-G1067,4,04:34,CLE,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1067,4,04:34,CLE,104.0,PHI,103.0,M. Bamba,PHI,Bamba Tip Dunk Shot (11 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,v
+S2324-G1067,4,03:04,CLE,,PHI,,M. Bamba,PHI,Bamba BLOCK (2 BLK),,,0,0,0,0,,,v
+S2324-G1067,4,03:01,CLE,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1067,4,01:33,CLE,110.0,PHI,109.0,M. Bamba,PHI,Bamba Alley Oop Dunk (13 PTS) (Maxey 11 AST),Made Shot,Alley Oop Dunk Shot,1,1,0,1,2.0,2.0,v
+S2324-G1067,4,00:18.800000,CLE,115.0,PHI,114.0,M. Bamba,PHI,Bamba Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1067,4,00:18.800000,CLE,,PHI,,M. Bamba,PHI,MISS Bamba Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G1067,4,00:17.600000,CLE,,PHI,,M. Bamba,PHI,SUB: Oubre Jr. FOR Bamba,Substitution,,0,0,0,0,,,v
+S2324-G0532,1,04:31,PHI,,SAC,,M. Bamba,PHI,Bamba BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0532,1,02:38,PHI,,SAC,,M. Bamba,PHI,MISS Bamba Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0532,1,02:38,PHI,19.0,SAC,16.0,M. Bamba,PHI,Bamba Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0532,1,02:27,PHI,,SAC,,M. Bamba,PHI,Bamba STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0532,1,02:14,PHI,,SAC,,M. Bamba,PHI,Bamba REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0532,1,00:33.600000,PHI,,SAC,,M. Bamba,PHI,Bamba BLOCK (2 BLK),,,0,0,0,0,,,h
+S2324-G0532,2,11:35,PHI,,SAC,,M. Bamba,PHI,Bamba REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0532,2,11:33,PHI,,SAC,,M. Bamba,PHI,MISS Bamba Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2324-G0532,2,10:35,PHI,32.0,SAC,24.0,M. Bamba,PHI,Bamba 25' 3PT Jump Shot (4 PTS) (Maxey 2 AST),Made Shot,Jump Shot,26,253,25,1,3.0,3.0,h
+S2324-G0532,2,10:09,PHI,,SAC,,M. Bamba,PHI,Bamba BLOCK (3 BLK),,,0,0,0,0,,,h
+S2324-G0532,2,09:22,PHI,,SAC,,M. Bamba,PHI,SUB: Harris FOR Bamba,Substitution,,0,0,0,0,,,h
+S2324-G0532,3,02:49,PHI,85.0,SAC,69.0,M. Bamba,PHI,Bamba 2' Cutting Finger Roll Layup Shot (6 PTS) (Beverley 5 AST),Made Shot,Cutting Finger Roll Layup Shot,-1,22,2,1,2.0,2.0,h
+S2324-G0532,4,11:31,PHI,,SAC,,M. Bamba,PHI,Bamba REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0532,4,10:27,PHI,,SAC,,M. Bamba,PHI,Bamba Bad Pass Turnover (P1.T12),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0532,4,07:54,PHI,98.0,SAC,77.0,M. Bamba,PHI,Bamba 4' Reverse Layup (8 PTS) (Melton 2 AST),Made Shot,Reverse Layup Shot,1,41,4,1,2.0,2.0,h
+S2324-G0532,4,07:24,PHI,,SAC,,M. Bamba,PHI,Bamba OFF.Foul (P1) (T.Ford),Foul,Offensive,0,0,0,0,,,h
+S2324-G0532,4,07:24,PHI,,SAC,,M. Bamba,PHI,Bamba Offensive Foul Turnover (P2.T13),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0532,4,06:31,PHI,,SAC,,M. Bamba,PHI,Bamba BLOCK (4 BLK),,,0,0,0,0,,,h
+S2324-G0532,4,06:01,PHI,103.0,SAC,78.0,M. Bamba,PHI,Bamba 27' 3PT Jump Shot (11 PTS) (Melton 3 AST),Made Shot,Jump Shot,-40,263,27,1,3.0,3.0,h
+S2324-G0532,4,04:30,PHI,,SAC,,M. Bamba,PHI,MISS Bamba 2' Layup,Missed Shot,Layup Shot,-22,11,2,1,2.0,0.0,h
+S2324-G0532,4,03:13,PHI,,SAC,,M. Bamba,PHI,SUB: Springer FOR Bamba,Substitution,,0,0,0,0,,,h
+S2324-G0836,2,09:16,BOS,,PHI,,M. Bamba,PHI,Bamba S.FOUL (P1.T2) (D.Collins),Foul,Shooting,0,0,0,0,,,v
+S2324-G0836,2,08:36,BOS,,PHI,,M. Bamba,PHI,Bamba S.FOUL (P2.T3) (K.Scott),Foul,Shooting,0,0,0,0,,,v
+S2324-G0836,2,06:37,BOS,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0836,2,06:37,BOS,40.0,PHI,41.0,M. Bamba,PHI,Bamba Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2324-G0836,2,06:24,BOS,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0836,2,06:16,BOS,40.0,PHI,44.0,M. Bamba,PHI,Bamba 26' 3PT Jump Shot (5 PTS) (Payne 2 AST),Made Shot,Jump Shot,-49,253,26,1,3.0,3.0,v
+S2324-G0836,2,04:51,BOS,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0836,2,04:40,BOS,,PHI,,M. Bamba,PHI,MISS Bamba 26' 3PT Jump Shot,Missed Shot,Jump Shot,154,208,26,1,3.0,0.0,v
+S2324-G0836,2,04:10,BOS,,PHI,,M. Bamba,PHI,MISS Bamba 6' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,31,47,6,1,2.0,0.0,v
+S2324-G0836,2,03:15,BOS,,PHI,,M. Bamba,PHI,SUB: Reed FOR Bamba,Substitution,,0,0,0,0,,,v
+S2324-G0836,3,08:16,BOS,66.0,PHI,56.0,M. Bamba,PHI,Bamba 27' 3PT Jump Shot (8 PTS) (Maxey 4 AST),Made Shot,Jump Shot,-71,260,27,1,3.0,3.0,v
+S2324-G0836,3,07:01,BOS,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0836,3,06:02,BOS,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0836,3,06:02,BOS,70.0,PHI,62.0,M. Bamba,PHI,Bamba Tip Dunk Shot (10 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,v
+S2324-G0836,3,05:09,BOS,,PHI,,M. Bamba,PHI,Bamba P.FOUL (P3.PN) (C.Washington),Foul,Personal,0,0,0,0,,,v
+S2324-G0836,3,04:50,BOS,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0836,3,02:51,BOS,,PHI,,M. Bamba,PHI,MISS Bamba 5' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-28,38,5,1,2.0,0.0,v
+S2324-G0836,3,02:06,BOS,,PHI,,M. Bamba,PHI,Bamba S.FOUL (P4.PN) (K.Scott),Foul,Shooting,0,0,0,0,,,v
+S2324-G0836,3,02:06,BOS,,PHI,,M. Bamba,PHI,SUB: Harris FOR Bamba,Substitution,,0,0,0,0,,,v
+S2324-G0836,4,08:32,BOS,,PHI,,M. Bamba,PHI,Bamba BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0836,4,07:09,BOS,,PHI,,M. Bamba,PHI,Bamba Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0836,4,06:35,BOS,,PHI,,M. Bamba,PHI,MISS Bamba 9' Hook Shot,Missed Shot,Hook Shot,-74,43,9,1,2.0,0.0,v
+S2324-G0836,4,06:01,BOS,,PHI,,M. Bamba,PHI,SUB: Batum FOR Bamba,Substitution,,0,0,0,0,,,v
+S2324-G0939,1,07:25,NYK,,PHI,,M. Bamba,PHI,Bamba P.FOUL (P1.T1) (B.Forte),Foul,Personal,0,0,0,0,,,v
+S2324-G0939,1,06:36,NYK,,PHI,,M. Bamba,PHI,SUB: Batum FOR Bamba,Substitution,,0,0,0,0,,,v
+S2324-G0939,2,09:30,NYK,31.0,PHI,21.0,M. Bamba,PHI,Bamba 25' 3PT Jump Shot (3 PTS) (Maxey 1 AST),Made Shot,Jump Shot,62,242,25,1,3.0,3.0,v
+S2324-G0939,2,06:08,NYK,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0939,2,06:08,NYK,38.0,PHI,31.0,M. Bamba,PHI,Bamba Tip Layup Shot (5 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2324-G0939,2,03:47,NYK,,PHI,,M. Bamba,PHI,SUB: Reed FOR Bamba,Substitution,,0,0,0,0,,,v
+S2324-G0939,3,10:37,NYK,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0939,3,09:44,NYK,,PHI,,M. Bamba,PHI,Bamba L.B.FOUL (P2.T1) (J.Orr),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0939,3,08:17,NYK,,PHI,,M. Bamba,PHI,Bamba BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0939,3,07:58,NYK,,PHI,,M. Bamba,PHI,MISS Bamba 1' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,4,8,1,1,2.0,0.0,v
+S2324-G0939,3,06:56,NYK,,PHI,,M. Bamba,PHI,Bamba S.FOUL (P3.T2) (K.Cutler),Foul,Shooting,0,0,0,0,,,v
+S2324-G0939,3,06:56,NYK,,PHI,,M. Bamba,PHI,SUB: Reed FOR Bamba,Substitution,,0,0,0,0,,,v
+S2324-G0128,4,00:51.500000,PHI,,TOR,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0128,4,00:45.600000,PHI,,TOR,,M. Bamba,PHI,Bamba OFF.Foul (P1) (E.Scott),Foul,Offensive,0,0,0,0,,,h
+S2324-G0128,4,00:45.600000,PHI,,TOR,,M. Bamba,PHI,Bamba Offensive Foul Turnover (P1.T14),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0128,4,00:37.700000,PHI,,TOR,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0295,4,07:16,PHI,122.0,WAS,83.0,M. Bamba,PHI,Bamba 2' Driving Layup (2 PTS) (Korkmaz 1 AST),Made Shot,Driving Layup Shot,-11,11,2,1,2.0,2.0,h
+S2324-G0295,4,06:43,PHI,,WAS,,M. Bamba,PHI,MISS Bamba 8' Hook Shot,Missed Shot,Hook Shot,10,82,8,1,2.0,0.0,h
+S2324-G0295,4,05:43,PHI,,WAS,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0295,4,04:56,PHI,132.0,WAS,88.0,M. Bamba,PHI,Bamba 1' Reverse Dunk (4 PTS) (Martin 1 AST),Made Shot,Reverse Dunk Shot,-5,-4,1,1,2.0,2.0,h
+S2324-G0295,4,04:27,PHI,,WAS,,M. Bamba,PHI,Bamba S.FOUL (P1.PN) (S.Foster),Foul,Shooting,0,0,0,0,,,h
+S2324-G0295,4,03:38,PHI,,WAS,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0295,4,03:31,PHI,,WAS,,M. Bamba,PHI,MISS Bamba 27' 3PT Jump Shot,Missed Shot,Jump Shot,40,268,27,1,3.0,0.0,h
+S2324-G0295,4,03:01,PHI,,WAS,,M. Bamba,PHI,Bamba REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0295,4,03:01,PHI,,WAS,,M. Bamba,PHI,MISS Bamba Putback Layup,Missed Shot,Putback Layup Shot,0,0,0,1,2.0,0.0,h
+S2324-G0295,4,03:01,PHI,,WAS,,M. Bamba,PHI,Bamba REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0295,4,03:01,PHI,,WAS,,M. Bamba,PHI,MISS Bamba Putback Layup,Missed Shot,Putback Layup Shot,0,0,0,1,2.0,0.0,h
+S2324-G0295,4,03:01,PHI,,WAS,,M. Bamba,PHI,Bamba REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0295,4,03:01,PHI,136.0,WAS,95.0,M. Bamba,PHI,Bamba Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0295,4,03:01,PHI,137.0,WAS,95.0,M. Bamba,PHI,Bamba Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0295,4,02:07,PHI,,WAS,,M. Bamba,PHI,Bamba BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0295,4,01:15,PHI,,WAS,,M. Bamba,PHI,Bamba BLOCK (2 BLK),,,0,0,0,0,,,h
+S2324-G0295,4,01:13,PHI,,WAS,,M. Bamba,PHI,Bamba REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0779,1,03:42,PHI,29.0,MIA,24.0,M. Bamba,PHI,Bamba Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0779,1,03:42,PHI,,MIA,,M. Bamba,PHI,MISS Bamba Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0779,1,02:17,PHI,,MIA,,M. Bamba,PHI,Bamba Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0779,1,01:50,PHI,,MIA,,M. Bamba,PHI,MISS Bamba Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0779,1,01:50,PHI,,MIA,,M. Bamba,PHI,MISS Bamba Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0779,1,00:03.100000,PHI,,MIA,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0779,3,02:05,PHI,,MIA,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0779,3,00:41.300000,PHI,,MIA,,M. Bamba,PHI,Bamba Offensive Charge Foul (P1) (S.Foster),Foul,Offensive Charge,0,0,0,0,,,h
+S2324-G0779,3,00:41.300000,PHI,,MIA,,M. Bamba,PHI,Bamba Offensive Foul Turnover (P2.T11),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0779,4,11:37,PHI,,MIA,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0779,4,09:33,PHI,,MIA,,M. Bamba,PHI,Bamba P.FOUL (P2.T3) (S.Foster),Foul,Personal,0,0,0,0,,,h
+S2324-G0779,4,09:09,PHI,,MIA,,M. Bamba,PHI,SUB: Reed FOR Bamba,Substitution,,0,0,0,0,,,h
+S2324-G0132,4,01:12,PHI,,PHX,,M. Bamba,PHI,Bamba REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0132,4,01:12,PHI,,PHX,,M. Bamba,PHI,MISS Bamba 2' Layup,Missed Shot,Layup Shot,21,8,2,1,2.0,0.0,h
+S2324-G0132,4,01:08,PHI,,PHX,,M. Bamba,PHI,Jump Ball Bamba vs. Metu: Tip to Martin,Jump Ball,,0,0,0,0,,,h
+S2324-G0132,4,00:55.500000,PHI,,PHX,,M. Bamba,PHI,Bamba S.FOUL (P1.PN) (M.Boland),Foul,Shooting,0,0,0,0,,,h
+S2324-G0132,4,00:29.300000,PHI,,PHX,,M. Bamba,PHI,Bamba REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0132,4,00:29.300000,PHI,,PHX,,M. Bamba,PHI,MISS Bamba Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2324-G0098,4,01:09,PHI,,POR,,M. Bamba,PHI,Bamba BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0958,1,09:01,MIL,11.0,PHI,9.0,M. Bamba,PHI,Bamba 27' 3PT Jump Shot (3 PTS) (Harris 1 AST),Made Shot,Jump Shot,-181,197,27,1,3.0,3.0,v
+S2324-G0958,1,07:15,MIL,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0958,1,06:47,MIL,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0958,1,04:45,MIL,,PHI,,M. Bamba,PHI,SUB: Reed FOR Bamba,Substitution,,0,0,0,0,,,v
+S2324-G0958,2,03:49,MIL,,PHI,,M. Bamba,PHI,Bamba S.FOUL (P1.T4) (J.Goble),Foul,Shooting,0,0,0,0,,,v
+S2324-G0958,2,02:52,MIL,,PHI,,M. Bamba,PHI,Bamba OFF.Foul (P2) (D.Collins),Foul,Offensive,0,0,0,0,,,v
+S2324-G0958,2,02:52,MIL,,PHI,,M. Bamba,PHI,Bamba Offensive Foul Turnover (P1.T8),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0958,3,11:41,MIL,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0958,3,11:33,MIL,,PHI,,M. Bamba,PHI,MISS Bamba 26' 3PT Jump Shot,Missed Shot,Jump Shot,-85,248,26,1,3.0,0.0,v
+S2324-G0958,3,10:17,MIL,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0958,3,06:05,MIL,,PHI,,M. Bamba,PHI,SUB: Reed FOR Bamba,Substitution,,0,0,0,0,,,v
+S2324-G0958,4,03:53,MIL,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0958,4,03:53,MIL,100.0,PHI,97.0,M. Bamba,PHI,Bamba Tip Dunk Shot (5 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,v
+S2324-G0958,4,03:31,MIL,,PHI,,M. Bamba,PHI,Bamba S.FOUL (P3.T4) (J.Williams),Foul,Shooting,0,0,0,0,,,v
+S2324-G0958,4,02:43,MIL,,PHI,,M. Bamba,PHI,Bamba STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0958,4,00:44.600000,MIL,,PHI,,M. Bamba,PHI,Bamba S.FOUL (P4.PN) (D.Collins),Foul,Shooting,0,0,0,0,,,v
+S2324-G0958,4,00:37.400000,MIL,,PHI,,M. Bamba,PHI,SUB: Martin FOR Bamba,Substitution,,0,0,0,0,,,v
+S2324-G0148,4,02:53,PHI,,WAS,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0148,4,02:17,PHI,,WAS,,M. Bamba,PHI,Bamba Traveling Turnover (P1.T13),Turnover,Traveling,0,0,0,0,,,h
+S2324-G0148,4,01:57,PHI,,WAS,,M. Bamba,PHI,Bamba OFF.Foul (P1) (B.Forte),Foul,Offensive,0,0,0,0,,,h
+S2324-G0148,4,01:57,PHI,,WAS,,M. Bamba,PHI,Bamba Offensive Foul Turnover (P2.T14),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0148,4,01:20,PHI,142.0,WAS,124.0,M. Bamba,PHI,Bamba Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0148,4,01:20,PHI,143.0,WAS,124.0,M. Bamba,PHI,Bamba Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0148,4,00:49.800000,PHI,,WAS,,M. Bamba,PHI,Bamba BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0148,4,00:29.400000,PHI,,WAS,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0762,1,03:55,CLE,,PHI,,M. Bamba,PHI,MISS Bamba 25' 3PT Jump Shot,Missed Shot,Jump Shot,-112,229,25,1,3.0,0.0,v
+S2324-G0762,1,03:36,CLE,,PHI,,M. Bamba,PHI,Bamba BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0762,1,03:32,CLE,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0762,1,01:38,CLE,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0762,1,01:11,CLE,28.0,PHI,33.0,M. Bamba,PHI,Bamba 1' Alley Oop Dunk (2 PTS) (Payne 2 AST),Made Shot,Alley Oop Dunk Shot,5,10,1,1,2.0,2.0,v
+S2324-G0762,2,05:02,CLE,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0762,2,04:53,CLE,48.0,PHI,55.0,M. Bamba,PHI,Bamba 25' 3PT Jump Shot (5 PTS) (Maxey 6 AST),Made Shot,Jump Shot,-11,248,25,1,3.0,3.0,v
+S2324-G0762,2,04:05,CLE,,PHI,,M. Bamba,PHI,SUB: Reed FOR Bamba,Substitution,,0,0,0,0,,,v
+S2324-G0762,3,06:43,CLE,,PHI,,M. Bamba,PHI,MISS Bamba 3' Driving Layup,Missed Shot,Driving Layup Shot,-4,27,3,1,2.0,0.0,v
+S2324-G0762,3,06:38,CLE,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0762,3,04:59,CLE,,PHI,,M. Bamba,PHI,MISS Bamba 3' Layup,Missed Shot,Layup Shot,-9,32,3,1,2.0,0.0,v
+S2324-G0762,3,04:49,CLE,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0762,3,03:48,CLE,,PHI,,M. Bamba,PHI,SUB: Oubre Jr. FOR Bamba,Substitution,,0,0,0,0,,,v
+S2324-G0762,4,08:35,CLE,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0762,4,07:21,CLE,,PHI,,M. Bamba,PHI,Bamba OFF.Foul (P1) (J.Schroeder),Foul,Offensive,0,0,0,0,,,v
+S2324-G0762,4,07:21,CLE,,PHI,,M. Bamba,PHI,Bamba Offensive Foul Turnover (P1.T8),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0762,4,06:23,CLE,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0762,4,06:14,CLE,102.0,PHI,104.0,M. Bamba,PHI,Bamba 2' Dunk (7 PTS) (Hield 8 AST),Made Shot,Dunk Shot,-1,21,2,1,2.0,2.0,v
+S2324-G0762,4,02:10,CLE,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0762,4,00:29.400000,CLE,,PHI,,M. Bamba,PHI,SUB: Council IV FOR Bamba,Substitution,,0,0,0,0,,,v
+S2324-G0871,1,09:05,DAL,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0871,1,07:59,DAL,13.0,PHI,7.0,M. Bamba,PHI,Bamba 3' Driving Floating Jump Shot (2 PTS) (Maxey 2 AST),Made Shot,Driving Floating Jump Shot,-7,30,3,1,2.0,2.0,v
+S2324-G0871,1,07:45,DAL,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0871,1,07:07,DAL,,PHI,,M. Bamba,PHI,SUB: Reed FOR Bamba,Substitution,,0,0,0,0,,,v
+S2324-G0871,2,08:07,DAL,,PHI,,M. Bamba,PHI,SUB: Reed FOR Bamba,Substitution,,0,0,0,0,,,v
+S2324-G0871,3,11:17,DAL,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0871,3,11:17,DAL,51.0,PHI,57.0,M. Bamba,PHI,Bamba Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0871,3,11:17,DAL,51.0,PHI,58.0,M. Bamba,PHI,Bamba Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0871,3,09:14,DAL,,PHI,,M. Bamba,PHI,Bamba P.FOUL (P1.T2) (D.Taylor),Foul,Personal,0,0,0,0,,,v
+S2324-G0871,3,08:27,DAL,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0871,3,07:19,DAL,,PHI,,M. Bamba,PHI,MISS Bamba 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-32,15,4,1,2.0,0.0,v
+S2324-G0871,3,07:19,DAL,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0871,3,07:19,DAL,59.0,PHI,73.0,M. Bamba,PHI,Bamba Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0871,3,07:19,DAL,59.0,PHI,74.0,M. Bamba,PHI,Bamba Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0871,3,06:46,DAL,61.0,PHI,76.0,M. Bamba,PHI,Bamba 1' Alley Oop Dunk (8 PTS) (Lowry 5 AST),Made Shot,Alley Oop Dunk Shot,-10,11,1,1,2.0,2.0,v
+S2324-G0871,3,06:25,DAL,,PHI,,M. Bamba,PHI,SUB: Reed FOR Bamba,Substitution,,0,0,0,0,,,v
+S2324-G0715,1,05:21,PHI,,DAL,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0715,1,03:16,PHI,,DAL,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0715,1,03:07,PHI,23.0,DAL,22.0,M. Bamba,PHI,Bamba Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0715,1,03:07,PHI,,DAL,,M. Bamba,PHI,MISS Bamba Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0715,1,02:35,PHI,,DAL,,M. Bamba,PHI,SUB: Reed FOR Bamba,Substitution,,0,0,0,0,,,h
+S2324-G0715,2,08:57,PHI,,DAL,,M. Bamba,PHI,Bamba P.FOUL (P1.T2) (R.Acosta),Foul,Personal,0,0,0,0,,,h
+S2324-G0715,2,08:31,PHI,45.0,DAL,34.0,M. Bamba,PHI,Bamba 2' Driving Dunk (3 PTS) (Maxey 3 AST),Made Shot,Driving Dunk Shot,-12,13,2,1,2.0,2.0,h
+S2324-G0715,2,07:44,PHI,,DAL,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0715,2,07:37,PHI,,DAL,,M. Bamba,PHI,MISS Bamba 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,20,269,27,1,3.0,0.0,h
+S2324-G0715,2,07:09,PHI,,DAL,,M. Bamba,PHI,Bamba S.FOUL (P2.T3) (R.Acosta),Foul,Shooting,0,0,0,0,,,h
+S2324-G0715,2,07:07,PHI,,DAL,,M. Bamba,PHI,Jump Ball Bamba vs. Jones Jr.: Tip to Maxey,Jump Ball,,0,0,0,0,,,h
+S2324-G0715,2,05:23,PHI,,DAL,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0715,2,04:10,PHI,,DAL,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0715,2,03:27,PHI,,DAL,,M. Bamba,PHI,SUB: Reed FOR Bamba,Substitution,,0,0,0,0,,,h
+S2324-G0715,3,04:14,PHI,,DAL,,M. Bamba,PHI,Bamba REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0715,3,04:11,PHI,,DAL,,M. Bamba,PHI,MISS Bamba 4' Driving Hook Shot,Missed Shot,Driving Hook Shot,-1,42,4,1,2.0,0.0,h
+S2324-G0715,3,04:10,PHI,,DAL,,M. Bamba,PHI,Bamba REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0715,3,04:10,PHI,,DAL,,M. Bamba,PHI,MISS Bamba 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,7,13,1,1,2.0,0.0,h
+S2324-G0715,3,03:46,PHI,,DAL,,M. Bamba,PHI,Bamba OFF.Foul (P3) (S.Mehta),Foul,Offensive,0,0,0,0,,,h
+S2324-G0715,3,03:46,PHI,,DAL,,M. Bamba,PHI,Bamba Offensive Foul Turnover (P1.T9),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0715,3,02:59,PHI,,DAL,,M. Bamba,PHI,MISS Bamba 4' Cutting Finger Roll Layup Shot,Missed Shot,Cutting Finger Roll Layup Shot,10,41,4,1,2.0,0.0,h
+S2324-G0715,3,02:56,PHI,,DAL,,M. Bamba,PHI,Bamba REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0715,3,02:56,PHI,72.0,DAL,73.0,M. Bamba,PHI,Bamba Tip Layup Shot (5 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2324-G0715,3,02:21,PHI,,DAL,,M. Bamba,PHI,Bamba BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0715,3,02:18,PHI,,DAL,,M. Bamba,PHI,Bamba REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0715,3,01:21,PHI,,DAL,,M. Bamba,PHI,Bamba REBOUND (Off:4 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0715,3,01:19,PHI,,DAL,,M. Bamba,PHI,MISS Bamba 4' Putback Layup,Missed Shot,Putback Layup Shot,33,12,4,1,2.0,0.0,h
+S2324-G0715,3,00:53.800000,PHI,,DAL,,M. Bamba,PHI,SUB: Reed FOR Bamba,Substitution,,0,0,0,0,,,h
+S2324-G0715,4,06:56,PHI,,DAL,,M. Bamba,PHI,Bamba S.FOUL (P4.T1) (R.Acosta),Foul,Shooting,0,0,0,0,,,h
+S2324-G0715,4,05:41,PHI,,DAL,,M. Bamba,PHI,SUB: Council IV FOR Bamba,Substitution,,0,0,0,0,,,h
+S2324-G0742,1,02:34,PHI,,ATL,,M. Bamba,PHI,Bamba S.FOUL (P1.T3) (E.Malloy),Foul,Shooting,0,0,0,0,,,h
+S2324-G0742,1,01:48,PHI,,ATL,,M. Bamba,PHI,SUB: Reed FOR Bamba,Substitution,,0,0,0,0,,,h
+S2324-G0742,2,04:42,PHI,,ATL,,M. Bamba,PHI,Bamba BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0742,2,03:25,PHI,,ATL,,M. Bamba,PHI,Bamba P.FOUL (P2.T3) (E.Malloy),Foul,Personal,0,0,0,0,,,h
+S2324-G0742,2,01:28,PHI,,ATL,,M. Bamba,PHI,Bamba REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0742,2,00:53.200000,PHI,,ATL,,M. Bamba,PHI,MISS Bamba 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-9,89,9,1,2.0,0.0,h
+S2324-G0742,2,00:30.500000,PHI,,ATL,,M. Bamba,PHI,MISS Bamba 26' 3PT Jump Shot,Missed Shot,Jump Shot,69,251,26,1,3.0,0.0,h
+S2324-G0742,3,02:26,PHI,81.0,ATL,97.0,M. Bamba,PHI,Bamba 27' 3PT Jump Shot (3 PTS) (Hield 4 AST),Made Shot,Jump Shot,-7,267,27,1,3.0,3.0,h
+S2324-G0742,3,00:47.300000,PHI,,ATL,,M. Bamba,PHI,Bamba REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0742,3,00:46.500000,PHI,,ATL,,M. Bamba,PHI,Bamba Lost Ball Turnover (P1.T10),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0742,4,10:37,PHI,,ATL,,M. Bamba,PHI,Bamba BLOCK (2 BLK),,,0,0,0,0,,,h
+S2324-G0742,4,10:12,PHI,,ATL,,M. Bamba,PHI,Bamba BLOCK (3 BLK),,,0,0,0,0,,,h
+S2324-G0742,4,08:24,PHI,,ATL,,M. Bamba,PHI,Bamba STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0742,4,07:10,PHI,,ATL,,M. Bamba,PHI,Bamba REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0742,4,06:32,PHI,,ATL,,M. Bamba,PHI,SUB: Reed FOR Bamba,Substitution,,0,0,0,0,,,h
+S2324-G1145,4,01:32,PHI,,DET,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1145,4,01:19,PHI,119.0,DET,97.0,M. Bamba,PHI,Bamba Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1145,4,01:19,PHI,120.0,DET,97.0,M. Bamba,PHI,Bamba Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1145,4,01:06,PHI,,DET,,M. Bamba,PHI,Bamba BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G1145,4,00:42.800000,PHI,,DET,,M. Bamba,PHI,MISS Bamba 18' Jump Shot,Missed Shot,Jump Shot,-50,172,18,1,2.0,0.0,h
+S2324-G1145,4,00:26.600000,PHI,,DET,,M. Bamba,PHI,Bamba S.FOUL (P1.PN) (S.Wall),Foul,Shooting,0,0,0,0,,,h
+S2324-G0794,1,04:08,PHI,,NYK,,M. Bamba,PHI,MISS Bamba 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,15,21,3,1,2.0,0.0,h
+S2324-G0794,1,03:42,PHI,,NYK,,M. Bamba,PHI,Bamba Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0794,1,03:32,PHI,,NYK,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0794,1,03:10,PHI,,NYK,,M. Bamba,PHI,Bamba BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0794,1,01:24,PHI,,NYK,,M. Bamba,PHI,76ERS T.Foul (Def. 3 Sec Bamba ) (J.Van Duyne),Foul,Defense 3 Second,0,0,0,0,,,h
+S2324-G0794,1,00:30.500000,PHI,,NYK,,M. Bamba,PHI,MISS Bamba 25' 3PT Jump Shot,Missed Shot,Jump Shot,-92,237,25,1,3.0,0.0,h
+S2324-G0794,1,00:08.100000,PHI,,NYK,,M. Bamba,PHI,SUB: Reed FOR Bamba,Substitution,,0,0,0,0,,,h
+S2324-G0686,1,05:21,UTA,,PHI,,M. Bamba,PHI,MISS Bamba 26' 3PT Jump Shot,Missed Shot,Jump Shot,112,231,26,1,3.0,0.0,v
+S2324-G0686,1,04:08,UTA,23.0,PHI,30.0,M. Bamba,PHI,Bamba 2' Dunk (2 PTS) (Beverley 3 AST),Made Shot,Dunk Shot,-2,16,2,1,2.0,2.0,v
+S2324-G0686,1,03:24,UTA,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0686,1,03:04,UTA,,PHI,,M. Bamba,PHI,MISS Bamba 25' 3PT Jump Shot,Missed Shot,Jump Shot,99,230,25,1,3.0,0.0,v
+S2324-G0686,1,02:45,UTA,,PHI,,M. Bamba,PHI,SUB: Springer FOR Bamba,Substitution,,0,0,0,0,,,v
+S2324-G0686,2,06:46,UTA,,PHI,,M. Bamba,PHI,Bamba BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0686,2,06:10,UTA,,PHI,,M. Bamba,PHI,MISS Bamba 5' Layup,Missed Shot,Layup Shot,27,38,5,1,2.0,0.0,v
+S2324-G0686,2,06:10,UTA,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0686,2,06:07,UTA,,PHI,,M. Bamba,PHI,MISS Bamba Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2324-G0686,2,05:56,UTA,,PHI,,M. Bamba,PHI,SUB: Beverley FOR Bamba,Substitution,,0,0,0,0,,,v
+S2324-G0686,3,05:34,UTA,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0686,3,05:30,UTA,,PHI,,M. Bamba,PHI,Bamba Offensive Charge Foul (P1) (J.Tiven),Foul,Offensive Charge,0,0,0,0,,,v
+S2324-G0686,3,05:30,UTA,,PHI,,M. Bamba,PHI,Bamba Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0686,3,04:49,UTA,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0686,3,04:36,UTA,,PHI,,M. Bamba,PHI,MISS Bamba 17' Jump Shot,Missed Shot,Jump Shot,88,142,17,1,2.0,0.0,v
+S2324-G0686,3,03:47,UTA,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0686,3,03:28,UTA,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0686,3,02:49,UTA,,PHI,,M. Bamba,PHI,SUB: Springer FOR Bamba,Substitution,,0,0,0,0,,,v
+S2324-G0686,4,05:28,UTA,,PHI,,M. Bamba,PHI,Bamba BLOCK (2 BLK),,,0,0,0,0,,,v
+S2324-G0686,4,05:27,UTA,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0686,4,04:06,UTA,114.0,PHI,117.0,M. Bamba,PHI,Bamba 6' Hook Shot (4 PTS) (Harris 6 AST),Made Shot,Hook Shot,-32,55,6,1,2.0,2.0,v
+S2324-G0686,4,03:47,UTA,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0686,4,03:24,UTA,,PHI,,M. Bamba,PHI,Bamba BLOCK (3 BLK),,,0,0,0,0,,,v
+S2324-G0686,4,01:55,UTA,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:1 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0686,4,00:05.100000,UTA,,PHI,,M. Bamba,PHI,SUB: Korkmaz FOR Bamba,Substitution,,0,0,0,0,,,v
+S2324-G0805,1,06:39,PHI,,CLE,,M. Bamba,PHI,MISS Bamba 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,262,26,1,3.0,0.0,h
+S2324-G0805,1,05:06,PHI,,CLE,,M. Bamba,PHI,Bamba S.FOUL (P1.T4) (B.Barnaky),Foul,Shooting,0,0,0,0,,,h
+S2324-G0805,1,03:17,PHI,,CLE,,M. Bamba,PHI,MISS Bamba 2' Driving Layup,Missed Shot,Driving Layup Shot,22,-2,2,1,2.0,0.0,h
+S2324-G0805,1,03:08,PHI,,CLE,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0805,1,02:33,PHI,,CLE,,M. Bamba,PHI,Bamba BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0805,1,02:24,PHI,22.0,CLE,23.0,M. Bamba,PHI,Bamba 3' Hook Shot (2 PTS) (Harris 2 AST),Made Shot,Hook Shot,25,17,3,1,2.0,2.0,h
+S2324-G0805,1,02:11,PHI,,CLE,,M. Bamba,PHI,SUB: Reed FOR Bamba,Substitution,,0,0,0,0,,,h
+S2324-G0805,2,06:41,PHI,,CLE,,M. Bamba,PHI,Bamba BLOCK (2 BLK),,,0,0,0,0,,,h
+S2324-G0805,2,06:32,PHI,,CLE,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0805,2,03:45,PHI,,CLE,,M. Bamba,PHI,SUB: Oubre Jr. FOR Bamba,Substitution,,0,0,0,0,,,h
+S2324-G0805,3,07:41,PHI,,CLE,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0805,3,06:01,PHI,,CLE,,M. Bamba,PHI,Bamba BLOCK (3 BLK),,,0,0,0,0,,,h
+S2324-G0805,3,04:28,PHI,,CLE,,M. Bamba,PHI,MISS Bamba 1' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,2,13,1,1,2.0,0.0,h
+S2324-G0805,3,01:25,PHI,,CLE,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0805,3,00:22.900000,PHI,,CLE,,M. Bamba,PHI,MISS Bamba 21' Jump Shot,Missed Shot,Jump Shot,31,212,21,1,2.0,0.0,h
+S2324-G1042,1,11:01,SAC,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1042,1,10:40,SAC,,PHI,,M. Bamba,PHI,Bamba S.FOUL (P1.T1) (C.Kirkland),Foul,Shooting,0,0,0,0,,,v
+S2324-G1042,1,09:40,SAC,,PHI,,M. Bamba,PHI,Bamba L.B.FOUL (P2.T3) (C.Kirkland),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G1042,1,09:40,SAC,,PHI,,M. Bamba,PHI,SUB: Reed FOR Bamba,Substitution,,0,0,0,0,,,v
+S2324-G1042,2,10:28,SAC,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1042,2,10:28,SAC,33.0,PHI,29.0,M. Bamba,PHI,Bamba 3' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,-17,21,3,1,2.0,2.0,v
+S2324-G1042,2,10:28,SAC,33.0,PHI,30.0,M. Bamba,PHI,Bamba Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G1042,2,10:07,SAC,33.0,PHI,31.0,M. Bamba,PHI,Bamba Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1042,2,10:07,SAC,33.0,PHI,32.0,M. Bamba,PHI,Bamba Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1042,2,06:51,SAC,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1042,2,06:51,SAC,,PHI,,M. Bamba,PHI,SUB: Reed FOR Bamba,Substitution,,0,0,0,0,,,v
+S2324-G1042,3,11:34,SAC,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1042,3,11:06,SAC,,PHI,,M. Bamba,PHI,Bamba S.FOUL (P3.T1) (B.Barnaky),Foul,Shooting,0,0,0,0,,,v
+S2324-G1042,3,10:21,SAC,,PHI,,M. Bamba,PHI,MISS Bamba 24' 3PT Jump Shot,Missed Shot,Jump Shot,-50,239,24,1,3.0,0.0,v
+S2324-G1042,3,09:16,SAC,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:4 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1042,3,07:58,SAC,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:5 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1042,3,07:58,SAC,,PHI,,M. Bamba,PHI,MISS Bamba Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2324-G1042,3,07:20,SAC,,PHI,,M. Bamba,PHI,Bamba S.FOUL (P4.T2) (M.Dagher),Foul,Shooting,0,0,0,0,,,v
+S2324-G1042,3,07:20,SAC,,PHI,,M. Bamba,PHI,Bamba T.FOUL (P4.T2) (M.Dagher),Foul,Technical,0,0,0,0,,,v
+S2324-G1042,3,07:20,SAC,,PHI,,M. Bamba,PHI,SUB: Hield FOR Bamba,Substitution,,0,0,0,0,,,v
+S2324-G0887,1,11:17,BKN,0.0,PHI,2.0,M. Bamba,PHI,Bamba 6' Hook Shot (2 PTS),Made Shot,Hook Shot,15,59,6,1,2.0,2.0,v
+S2324-G0887,1,10:41,BKN,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0887,1,10:26,BKN,,PHI,,M. Bamba,PHI,MISS Bamba 7' Floating Jump Shot,Missed Shot,Floating Jump shot,31,66,7,1,2.0,0.0,v
+S2324-G0887,1,10:23,BKN,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0887,1,10:22,BKN,2.0,PHI,7.0,M. Bamba,PHI,Bamba 1' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,4,8,1,1,2.0,2.0,v
+S2324-G0887,1,09:02,BKN,,PHI,,M. Bamba,PHI,Bamba P.FOUL (P1.T1) (C.Blair),Foul,Personal,0,0,0,0,,,v
+S2324-G0887,1,07:42,BKN,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0887,1,06:55,BKN,,PHI,,M. Bamba,PHI,Bamba OFF.Foul (P2) (J.DeRosa),Foul,Offensive,0,0,0,0,,,v
+S2324-G0887,1,06:55,BKN,,PHI,,M. Bamba,PHI,Bamba Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0887,1,06:55,BKN,,PHI,,M. Bamba,PHI,SUB: Batum FOR Bamba,Substitution,,0,0,0,0,,,v
+S2324-G0887,2,05:30,BKN,,PHI,,M. Bamba,PHI,Bamba S.FOUL (P3.T4) (J.DeRosa),Foul,Shooting,0,0,0,0,,,v
+S2324-G0887,2,04:41,BKN,,PHI,,M. Bamba,PHI,SUB: Reed FOR Bamba,Substitution,,0,0,0,0,,,v
+S2324-G0887,3,11:49,BKN,,PHI,,M. Bamba,PHI,Bamba OFF.Foul (P4) (C.Blair),Foul,Offensive,0,0,0,0,,,v
+S2324-G0887,3,11:49,BKN,,PHI,,M. Bamba,PHI,Bamba Offensive Foul Turnover (P2.T8),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0887,3,11:35,BKN,,PHI,,M. Bamba,PHI,Bamba BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0887,3,10:24,BKN,,PHI,,M. Bamba,PHI,MISS Bamba 2' Reverse Layup,Missed Shot,Reverse Layup Shot,18,2,2,1,2.0,0.0,v
+S2324-G0887,3,07:10,BKN,,PHI,,M. Bamba,PHI,MISS Bamba 2' Dunk,Missed Shot,Dunk Shot,-16,13,2,1,2.0,0.0,v
+S2324-G0887,3,06:36,BKN,,PHI,,M. Bamba,PHI,SUB: Reed FOR Bamba,Substitution,,0,0,0,0,,,v
+S2324-G0327,4,07:17,PHI,,DET,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0327,4,07:02,PHI,,DET,,M. Bamba,PHI,Bamba BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0327,4,05:41,PHI,112.0,DET,71.0,M. Bamba,PHI,Bamba 24' 3PT Running Jump Shot (3 PTS) (House Jr. 1 AST),Made Shot,Running Jump Shot,21,243,24,1,3.0,3.0,h
+S2324-G0327,4,05:18,PHI,,DET,,M. Bamba,PHI,Bamba S.FOUL (P1.T4) (N.Sago),Foul,Shooting,0,0,0,0,,,h
+S2324-G0327,4,04:50,PHI,,DET,,M. Bamba,PHI,Bamba REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0327,4,04:50,PHI,,DET,,M. Bamba,PHI,MISS Bamba Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2324-G0327,4,04:46,PHI,,DET,,M. Bamba,PHI,Bamba REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0327,4,03:28,PHI,,DET,,M. Bamba,PHI,Bamba S.FOUL (P2.PN) (B.Kennedy),Foul,Shooting,0,0,0,0,,,h
+S2324-G0327,4,03:03,PHI,,DET,,M. Bamba,PHI,Bamba REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0262,1,06:59,NOP,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0262,1,06:59,NOP,,PHI,,M. Bamba,PHI,MISS Bamba Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2324-G0262,1,04:52,NOP,,PHI,,M. Bamba,PHI,MISS Bamba 18' Jump Shot,Missed Shot,Jump Shot,36,176,18,1,2.0,0.0,v
+S2324-G0262,1,04:28,NOP,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0262,1,04:28,NOP,27.0,PHI,13.0,M. Bamba,PHI,Bamba Tip Dunk Shot (2 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,v
+S2324-G0262,1,03:32,NOP,,PHI,,M. Bamba,PHI,Bamba OFF.Foul (P1) (J.DeRosa),Foul,Offensive,0,0,0,0,,,v
+S2324-G0262,1,03:32,NOP,,PHI,,M. Bamba,PHI,Bamba Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0262,1,03:18,NOP,,PHI,,M. Bamba,PHI,Bamba P.FOUL (P2.T3) (K.Cutler),Foul,Personal,0,0,0,0,,,v
+S2324-G0262,1,03:18,NOP,,PHI,,M. Bamba,PHI,SUB: Reed FOR Bamba,Substitution,,0,0,0,0,,,v
+S2324-G0262,3,01:15,NOP,,PHI,,M. Bamba,PHI,Bamba BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0262,3,00:33.400000,NOP,,PHI,,M. Bamba,PHI,Bamba S.FOUL (P3.PN) (K.Cutler),Foul,Shooting,0,0,0,0,,,v
+S2324-G0262,3,00:30,NOP,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0262,3,00:00,NOP,,PHI,,M. Bamba,PHI,Bamba BLOCK (2 BLK),,,0,0,0,0,,,v
+S2324-G0262,4,11:44,NOP,,PHI,,M. Bamba,PHI,Bamba BLOCK (3 BLK),,,0,0,0,0,,,v
+S2324-G0262,4,11:23,NOP,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0262,4,07:33,NOP,,PHI,,M. Bamba,PHI,Bamba BLOCK (4 BLK),,,0,0,0,0,,,v
+S2324-G0262,4,07:16,NOP,,PHI,,M. Bamba,PHI,MISS Bamba 3PT Jump Shot,Missed Shot,Jump Shot,222,-16,0,1,3.0,0.0,v
+S2324-G0262,4,06:45,NOP,,PHI,,M. Bamba,PHI,MISS Bamba 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-18,6,2,1,2.0,0.0,v
+S2324-G0262,4,04:27,NOP,,PHI,,M. Bamba,PHI,SUB: Korkmaz FOR Bamba,Substitution,,0,0,0,0,,,v
+S2324-G0262,4,00:24.600000,NOP,124.0,PHI,112.0,M. Bamba,PHI,Bamba 2' Layup (4 PTS) (Martin 2 AST),Made Shot,Layup Shot,-2,15,2,1,2.0,2.0,v
+S2324-G0262,4,00:24.600000,NOP,,PHI,,M. Bamba,PHI,MISS Bamba Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2324-G0262,4,00:14.700000,NOP,124.0,PHI,114.0,M. Bamba,PHI,Bamba 1' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,6,-3,1,1,2.0,2.0,v
+S2324-G1218,4,11:32,PHI,,ATL,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1218,4,10:26,PHI,,ATL,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1218,4,08:41,PHI,,ATL,,M. Bamba,PHI,Bamba Offensive Charge Foul (P1) (N.Green),Foul,Offensive Charge,0,0,0,0,,,h
+S2324-G1218,4,08:41,PHI,,ATL,,M. Bamba,PHI,Bamba Offensive Foul Turnover (P1.T9),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G1218,4,07:29,PHI,,ATL,,M. Bamba,PHI,Bamba REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1218,4,07:29,PHI,,ATL,,M. Bamba,PHI,MISS Bamba 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,10,10,1,1,2.0,0.0,h
+S2324-G1218,4,06:41,PHI,,ATL,,M. Bamba,PHI,SUB: Embiid FOR Bamba,Substitution,,0,0,0,0,,,h
+S2324-G0521,1,05:33,ATL,,PHI,,M. Bamba,PHI,Bamba BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0521,1,05:13,ATL,,PHI,,M. Bamba,PHI,MISS Bamba 25' 3PT Jump Shot,Missed Shot,Jump Shot,-131,216,25,1,3.0,0.0,v
+S2324-G0521,1,04:45,ATL,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0521,1,04:45,ATL,18.0,PHI,24.0,M. Bamba,PHI,Bamba Putback Layup (2 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,v
+S2324-G0521,1,04:35,ATL,,PHI,,M. Bamba,PHI,Bamba S.FOUL (P1.T4) (S.Corbin),Foul,Shooting,0,0,0,0,,,v
+S2324-G0521,1,03:55,ATL,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0521,1,03:55,ATL,,PHI,,M. Bamba,PHI,MISS Bamba 6' Tip Layup Shot,Missed Shot,Tip Layup Shot,51,25,6,1,2.0,0.0,v
+S2324-G0521,1,03:49,ATL,,PHI,,M. Bamba,PHI,Bamba S.FOUL (P2.PN) (D.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2324-G0521,1,03:47,ATL,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0521,1,03:11,ATL,,PHI,,M. Bamba,PHI,SUB: Martin FOR Bamba,Substitution,,0,0,0,0,,,v
+S2324-G0521,2,01:10,ATL,,PHI,,M. Bamba,PHI,Bamba BLOCK (2 BLK),,,0,0,0,0,,,v
+S2324-G0521,2,00:54.700000,ATL,,PHI,,M. Bamba,PHI,Bamba S.FOUL (P3.T4) (J.Williams),Foul,Shooting,0,0,0,0,,,v
+S2324-G0521,2,00:03.700000,ATL,,PHI,,M. Bamba,PHI,Bamba STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0521,2,00:03.500000,ATL,59.0,PHI,64.0,M. Bamba,PHI,Bamba 1' Dunk (4 PTS),Made Shot,Dunk Shot,11,5,1,1,2.0,2.0,v
+S2324-G0521,3,03:12,ATL,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0521,3,02:24,ATL,,PHI,,M. Bamba,PHI,MISS Bamba Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0521,3,02:24,ATL,88.0,PHI,94.0,M. Bamba,PHI,Bamba Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0521,4,11:24,ATL,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0521,4,11:22,ATL,,PHI,,M. Bamba,PHI,Bamba Lost Ball Turnover (P1.T9),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0521,4,09:42,ATL,,PHI,,M. Bamba,PHI,SUB: Harris FOR Bamba,Substitution,,0,0,0,0,,,v
+S2324-G0521,5,03:16,ATL,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0521,5,02:56,ATL,,PHI,,M. Bamba,PHI,Bamba BLOCK (3 BLK),,,0,0,0,0,,,v
+S2324-G0521,5,01:29,ATL,,PHI,,M. Bamba,PHI,SUB: Morris Sr. FOR Bamba,Substitution,,0,0,0,0,,,v
+S2324-G1018,1,11:46,LAL,,PHI,,M. Bamba,PHI,Bamba BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G1018,1,10:43,LAL,,PHI,,M. Bamba,PHI,MISS Bamba 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-27,32,4,1,2.0,0.0,v
+S2324-G1018,1,08:46,LAL,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1018,1,07:36,LAL,,PHI,,M. Bamba,PHI,SUB: Reed FOR Bamba,Substitution,,0,0,0,0,,,v
+S2324-G1018,2,08:17,LAL,,PHI,,M. Bamba,PHI,Bamba S.FOUL (P1.T4) (E.Dalen),Foul,Shooting,0,0,0,0,,,v
+S2324-G1018,2,07:42,LAL,37.0,PHI,32.0,M. Bamba,PHI,Bamba Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1018,2,07:42,LAL,37.0,PHI,33.0,M. Bamba,PHI,Bamba Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1018,2,05:02,LAL,,PHI,,M. Bamba,PHI,Bamba S.FOUL (P2.PN) (A.Nagy),Foul,Shooting,0,0,0,0,,,v
+S2324-G1018,2,04:28,LAL,,PHI,,M. Bamba,PHI,Bamba BLOCK (2 BLK),,,0,0,0,0,,,v
+S2324-G1018,2,03:32,LAL,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1018,2,02:46,LAL,,PHI,,M. Bamba,PHI,Bamba BLOCK (3 BLK),,,0,0,0,0,,,v
+S2324-G1018,2,02:16,LAL,,PHI,,M. Bamba,PHI,MISS Bamba Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G1018,2,02:16,LAL,46.0,PHI,44.0,M. Bamba,PHI,Bamba Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1018,2,01:13,LAL,,PHI,,M. Bamba,PHI,MISS Bamba 24' 3PT Jump Shot,Missed Shot,Jump Shot,-234,31,24,1,3.0,0.0,v
+S2324-G1018,2,00:02.100000,LAL,,PHI,,M. Bamba,PHI,Bamba STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G1018,2,00:01.100000,LAL,,PHI,,M. Bamba,PHI,MISS Bamba 38' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-181,331,38,1,3.0,0.0,v
+S2324-G1018,3,10:03,LAL,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1018,3,08:14,LAL,,PHI,,M. Bamba,PHI,MISS Bamba 3PT Jump Shot,Missed Shot,Jump Shot,229,46,0,1,3.0,0.0,v
+S2324-G1018,3,08:07,LAL,,PHI,,M. Bamba,PHI,Bamba STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G1018,3,06:35,LAL,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1018,3,06:27,LAL,59.0,PHI,65.0,M. Bamba,PHI,Bamba 27' 3PT Jump Shot (6 PTS) (Harris 4 AST),Made Shot,Jump Shot,-115,240,27,1,3.0,3.0,v
+S2324-G1018,3,03:32,LAL,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1018,3,03:25,LAL,67.0,PHI,68.0,M. Bamba,PHI,Bamba 2' Dunk (8 PTS) (Oubre Jr. 3 AST),Made Shot,Dunk Shot,2,21,2,1,2.0,2.0,v
+S2324-G1018,3,03:12,LAL,,PHI,,M. Bamba,PHI,Bamba P.FOUL (P3.T3) (A.Nagy),Foul,Personal,0,0,0,0,,,v
+S2324-G1018,3,03:12,LAL,,PHI,,M. Bamba,PHI,SUB: Hield FOR Bamba,Substitution,,0,0,0,0,,,v
+S2324-G1018,4,08:50,LAL,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1018,4,08:30,LAL,,PHI,,M. Bamba,PHI,Bamba S.FOUL (P4.T2) (Z.Zarba),Foul,Shooting,0,0,0,0,,,v
+S2324-G1018,4,05:26,LAL,,PHI,,M. Bamba,PHI,Bamba Out of Bounds - Bad Pass Turnover Turnover (P1.T8),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G1018,4,03:20,LAL,,PHI,,M. Bamba,PHI,Bamba S.FOUL (P5.T3) (A.Nagy),Foul,Shooting,0,0,0,0,,,v
+S2324-G1018,4,01:34,LAL,96.0,PHI,90.0,M. Bamba,PHI,Bamba 24' 3PT Jump Shot (11 PTS) (Lowry 3 AST),Made Shot,Jump Shot,228,62,24,1,3.0,3.0,v
+S2324-G1018,4,01:24,LAL,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1171,2,06:39,PHI,,ORL,,M. Bamba,PHI,SUB: Batum FOR Bamba,Substitution,,0,0,0,0,,,h
+S2324-G0275,1,03:44,BOS,,PHI,,M. Bamba,PHI,Bamba Offensive Goaltending Turnover (P1.T4),Turnover,Offensive Goaltending,0,0,0,0,,,v
+S2324-G0275,1,03:22,BOS,,PHI,,M. Bamba,PHI,Bamba P.FOUL (P1.PN) (P.Ransom),Foul,Personal,0,0,0,0,,,v
+S2324-G0275,1,01:32,BOS,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0275,2,11:51,BOS,,PHI,,M. Bamba,PHI,Bamba BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0275,2,11:16,BOS,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0275,2,11:15,BOS,,PHI,,M. Bamba,PHI,MISS Bamba Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0275,2,11:15,BOS,44.0,PHI,37.0,M. Bamba,PHI,Bamba Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0275,2,09:40,BOS,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0275,2,09:32,BOS,,PHI,,M. Bamba,PHI,SUB: Reed FOR Bamba,Substitution,,0,0,0,0,,,v
+S2324-G0275,3,04:44,BOS,,PHI,,M. Bamba,PHI,Bamba Bad Pass Turnover (P2.T11),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0275,3,04:13,BOS,87.0,PHI,84.0,M. Bamba,PHI,Bamba 25' 3PT Jump Shot (4 PTS) (Beverley 4 AST),Made Shot,Jump Shot,147,197,25,1,3.0,3.0,v
+S2324-G0275,3,03:20,BOS,87.0,PHI,87.0,M. Bamba,PHI,Bamba 27' 3PT Jump Shot (7 PTS) (Beverley 5 AST),Made Shot,Jump Shot,-29,269,27,1,3.0,3.0,v
+S2324-G0275,3,02:22,BOS,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0275,3,02:22,BOS,89.0,PHI,89.0,M. Bamba,PHI,Bamba Tip Dunk Shot (9 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,v
+S2324-G0275,3,02:04,BOS,,PHI,,M. Bamba,PHI,Bamba Violation:Defensive Goaltending (N.Buchert),Violation,Defensive Goaltending,0,0,0,0,,,v
+S2324-G0275,3,00:00,BOS,,PHI,,M. Bamba,PHI,MISS Bamba 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-137,227,27,1,3.0,0.0,v
+S2324-G0275,4,11:24,BOS,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:4 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0275,4,11:24,BOS,95.0,PHI,99.0,M. Bamba,PHI,Bamba Tip Layup Shot (11 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2324-G0275,4,09:42,BOS,,PHI,,M. Bamba,PHI,MISS Bamba 26' 3PT Jump Shot,Missed Shot,Jump Shot,135,223,26,1,3.0,0.0,v
+S2324-G0275,4,07:57,BOS,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:5 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0275,4,07:57,BOS,,PHI,,M. Bamba,PHI,MISS Bamba Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2324-G0275,4,07:56,BOS,,PHI,,M. Bamba,PHI,SUB: Reed FOR Bamba,Substitution,,0,0,0,0,,,v
+S2324-G0275,4,02:28,BOS,,PHI,,M. Bamba,PHI,SUB: Martin FOR Bamba,Substitution,,0,0,0,0,,,v
+S2324-G1002,1,11:46,PHX,0.0,PHI,2.0,M. Bamba,PHI,Bamba 2' Alley Oop Dunk (2 PTS) (Lowry 1 AST),Made Shot,Alley Oop Dunk Shot,-15,-15,2,1,2.0,2.0,v
+S2324-G1002,1,11:23,PHX,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1002,1,11:03,PHX,,PHI,,M. Bamba,PHI,Bamba Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G1002,1,09:45,PHX,,PHI,,M. Bamba,PHI,Bamba L.B.FOUL (P1.T2) (J.Schroeder),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G1002,1,08:38,PHX,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1002,1,06:34,PHX,,PHI,,M. Bamba,PHI,SUB: Reed FOR Bamba,Substitution,,0,0,0,0,,,v
+S2324-G1002,2,07:34,PHX,,PHI,,M. Bamba,PHI,Bamba BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G1002,2,07:31,PHX,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1002,2,05:49,PHX,38.0,PHI,36.0,M. Bamba,PHI,Bamba Alley Oop Dunk (4 PTS) (Oubre Jr. 1 AST),Made Shot,Alley Oop Dunk Shot,-1,-2,0,1,2.0,2.0,v
+S2324-G1002,2,05:21,PHX,,PHI,,M. Bamba,PHI,MISS Bamba 25' 3PT Jump Shot,Missed Shot,Jump Shot,-104,231,25,1,3.0,0.0,v
+S2324-G1002,2,03:43,PHX,,PHI,,M. Bamba,PHI,SUB: Reed FOR Bamba,Substitution,,0,0,0,0,,,v
+S2324-G1002,3,10:37,PHX,62.0,PHI,52.0,M. Bamba,PHI,Bamba 27' 3PT Jump Shot (7 PTS) (Maxey 5 AST),Made Shot,Jump Shot,-51,265,27,1,3.0,3.0,v
+S2324-G1002,3,08:49,PHX,,PHI,,M. Bamba,PHI,MISS Bamba 27' 3PT Jump Shot,Missed Shot,Jump Shot,-125,238,27,1,3.0,0.0,v
+S2324-G1002,3,08:26,PHX,71.0,PHI,56.0,M. Bamba,PHI,Bamba 11' Floating Jump Shot (9 PTS) (Oubre Jr. 2 AST),Made Shot,Floating Jump shot,-11,107,11,1,2.0,2.0,v
+S2324-G1002,3,08:06,PHX,,PHI,,M. Bamba,PHI,Bamba P.FOUL (P2.T1) (A.Smith),Foul,Personal,0,0,0,0,,,v
+S2324-G1002,3,07:50,PHX,,PHI,,M. Bamba,PHI,Bamba STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G1002,3,07:20,PHX,,PHI,,M. Bamba,PHI,Bamba STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G1002,3,07:14,PHX,,PHI,,M. Bamba,PHI,SUB: Reed FOR Bamba,Substitution,,0,0,0,0,,,v
+S2324-G1002,4,10:24,PHX,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1002,4,10:24,PHX,,PHI,,M. Bamba,PHI,MISS Bamba Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G1002,4,10:24,PHX,,PHI,,M. Bamba,PHI,MISS Bamba Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G1002,4,08:30,PHX,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1002,4,08:21,PHX,,PHI,,M. Bamba,PHI,SUB: Reed FOR Bamba,Substitution,,0,0,0,0,,,v
+S2324-G0255,4,05:18,PHI,,LAL,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0255,4,05:05,PHI,,LAL,,M. Bamba,PHI,MISS Bamba 3' Layup,Missed Shot,Layup Shot,-22,17,3,1,2.0,0.0,h
+S2324-G0255,4,02:10,PHI,,LAL,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0255,4,01:59,PHI,130.0,LAL,92.0,M. Bamba,PHI,Bamba 28' 3PT Jump Shot (3 PTS) (Korkmaz 2 AST),Made Shot,Jump Shot,-80,268,28,1,3.0,3.0,h
+S2324-G0255,4,01:48,PHI,132.0,LAL,92.0,M. Bamba,PHI,Bamba 1' Running Dunk (5 PTS) (Korkmaz 3 AST),Made Shot,Running Dunk Shot,4,12,1,1,2.0,2.0,h
+S2324-G0255,4,01:01,PHI,,LAL,,M. Bamba,PHI,Bamba REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0255,4,01:01,PHI,138.0,LAL,92.0,M. Bamba,PHI,Bamba Tip Dunk Shot (7 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,h
+S2324-G0310,4,02:43,DET,100.0,PHI,123.0,M. Bamba,PHI,Bamba 15' Jump Shot (2 PTS) (House Jr. 1 AST),Made Shot,Jump Shot,-123,90,15,1,2.0,2.0,v
+S2324-G1192,1,12:00,PHI,,BKN,,M. Bamba,PHI,Jump Ball Bamba vs. Claxton: Tip to Maxey,Jump Ball,,0,0,0,0,,,h
+S2324-G1192,1,08:00,PHI,,BKN,,M. Bamba,PHI,Bamba BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G1192,1,06:34,PHI,,BKN,,M. Bamba,PHI,SUB: Batum FOR Bamba,Substitution,,0,0,0,0,,,h
+S2324-G1192,2,04:50,PHI,,BKN,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1192,2,00:32.900000,PHI,,BKN,,M. Bamba,PHI,SUB: Batum FOR Bamba,Substitution,,0,0,0,0,,,h
+S2324-G1192,3,10:48,PHI,,BKN,,M. Bamba,PHI,Bamba REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1192,3,10:48,PHI,57.0,BKN,49.0,M. Bamba,PHI,Bamba Tip Dunk Shot (2 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,h
+S2324-G1192,3,09:22,PHI,,BKN,,M. Bamba,PHI,Bamba REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1192,3,09:20,PHI,59.0,BKN,52.0,M. Bamba,PHI,Bamba 2' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,-5,23,2,1,2.0,2.0,h
+S2324-G1192,3,08:11,PHI,,BKN,,M. Bamba,PHI,Bamba BLOCK (2 BLK),,,0,0,0,0,,,h
+S2324-G1192,3,08:09,PHI,,BKN,,M. Bamba,PHI,Bamba REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1192,3,07:58,PHI,,BKN,,M. Bamba,PHI,MISS Bamba 26' 3PT Jump Shot,Missed Shot,Jump Shot,4,262,26,1,3.0,0.0,h
+S2324-G1192,3,07:33,PHI,,BKN,,M. Bamba,PHI,Bamba REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1192,3,06:47,PHI,,BKN,,M. Bamba,PHI,Bamba REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1192,3,04:50,PHI,,BKN,,M. Bamba,PHI,Bamba S.FOUL (P1.T2) (J.Tiven),Foul,Shooting,0,0,0,0,,,h
+S2324-G1192,3,04:50,PHI,,BKN,,M. Bamba,PHI,SUB: Hield FOR Bamba,Substitution,,0,0,0,0,,,h
+S2324-G1080,1,11:21,TOR,0.0,PHI,2.0,M. Bamba,PHI,Bamba 2' Alley Oop Dunk (2 PTS) (Lowry 1 AST),Made Shot,Alley Oop Dunk Shot,7,14,2,1,2.0,2.0,v
+S2324-G1080,1,10:00,TOR,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1080,1,09:38,TOR,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1080,1,09:07,TOR,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1080,1,08:39,TOR,,PHI,,M. Bamba,PHI,MISS Bamba 25' 3PT Jump Shot,Missed Shot,Jump Shot,222,122,25,1,3.0,0.0,v
+S2324-G1080,1,07:14,TOR,,PHI,,M. Bamba,PHI,Bamba STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G1080,1,06:45,TOR,,PHI,,M. Bamba,PHI,SUB: Batum FOR Bamba,Substitution,,0,0,0,0,,,v
+S2324-G1080,2,03:04,TOR,,PHI,,M. Bamba,PHI,Bamba Lost Ball Turnover (P1.T6),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G1080,2,03:01,TOR,,PHI,,M. Bamba,PHI,SUB: Oubre Jr. FOR Bamba,Substitution,,0,0,0,0,,,v
+S2324-G1080,3,11:17,TOR,56.0,PHI,72.0,M. Bamba,PHI,Bamba Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1080,3,11:17,TOR,56.0,PHI,73.0,M. Bamba,PHI,Bamba Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1080,3,09:58,TOR,,PHI,,M. Bamba,PHI,MISS Bamba 3PT Jump Shot,Missed Shot,Jump Shot,227,-1,0,1,3.0,0.0,v
+S2324-G1080,3,09:16,TOR,,PHI,,M. Bamba,PHI,Bamba S.FOUL (P1.T3) (J.Tiven),Foul,Shooting,0,0,0,0,,,v
+S2324-G1080,3,09:14,TOR,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1080,3,07:44,TOR,,PHI,,M. Bamba,PHI,Bamba BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G1080,3,07:07,TOR,,PHI,,M. Bamba,PHI,SUB: Batum FOR Bamba,Substitution,,0,0,0,0,,,v
+S2324-G0668,1,03:04,POR,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0668,1,02:36,POR,18.0,PHI,21.0,M. Bamba,PHI,Bamba 1' Alley Oop Dunk (2 PTS) (Beverley 2 AST),Made Shot,Alley Oop Dunk Shot,6,8,1,1,2.0,2.0,v
+S2324-G0668,1,01:33,POR,,PHI,,M. Bamba,PHI,Bamba S.FOUL (P1.PN) (J.Goble),Foul,Shooting,0,0,0,0,,,v
+S2324-G0668,1,01:00,POR,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0668,2,11:51,POR,,PHI,,M. Bamba,PHI,Bamba P.FOUL (P2.T1) (J.Butler),Foul,Personal,0,0,0,0,,,v
+S2324-G0668,2,10:58,POR,,PHI,,M. Bamba,PHI,Bamba STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0668,2,10:28,POR,,PHI,,M. Bamba,PHI,Bamba BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0668,2,08:32,POR,,PHI,,M. Bamba,PHI,SUB: Reed FOR Bamba,Substitution,,0,0,0,0,,,v
+S2324-G0668,3,06:55,POR,,PHI,,M. Bamba,PHI,Bamba S.FOUL (P3.T4) (S.Mitchell),Foul,Shooting,0,0,0,0,,,v
+S2324-G0668,3,04:48,POR,82.0,PHI,66.0,M. Bamba,PHI,Bamba 2' Finger Roll Layup (4 PTS) (House Jr. 1 AST),Made Shot,Finger Roll Layup Shot,-9,13,2,1,2.0,2.0,v
+S2324-G0668,3,04:31,POR,,PHI,,M. Bamba,PHI,Bamba BLOCK (2 BLK),,,0,0,0,0,,,v
+S2324-G0668,3,03:51,POR,,PHI,,M. Bamba,PHI,MISS Bamba 3PT Jump Shot,Missed Shot,Jump Shot,-232,25,0,1,3.0,0.0,v
+S2324-G0668,3,03:39,POR,,PHI,,M. Bamba,PHI,Bamba Violation:Defensive Goaltending (J.Goble),Violation,Defensive Goaltending,0,0,0,0,,,v
+S2324-G0668,3,02:30,POR,,PHI,,M. Bamba,PHI,SUB: Martin FOR Bamba,Substitution,,0,0,0,0,,,v
+S2324-G0668,4,06:38,POR,,PHI,,M. Bamba,PHI,Bamba S.FOUL (P4.T3) (J.Butler),Foul,Shooting,0,0,0,0,,,v
+S2324-G0668,4,05:50,POR,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0668,4,05:09,POR,,PHI,,M. Bamba,PHI,Bamba S.FOUL (P5.T4) (J.Goble),Foul,Shooting,0,0,0,0,,,v
+S2324-G0668,4,05:01,POR,,PHI,,M. Bamba,PHI,MISS Bamba 26' 3PT Jump Shot,Missed Shot,Jump Shot,48,254,26,1,3.0,0.0,v
+S2324-G0668,4,00:52.100000,POR,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0668,4,00:35.200000,POR,,PHI,,M. Bamba,PHI,Bamba BLOCK (3 BLK),,,0,0,0,0,,,v
+S2324-G0668,4,00:31.100000,POR,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0404,1,05:22,MIA,,PHI,,M. Bamba,PHI,Bamba STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0404,1,01:47,MIA,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0404,1,00:45.600000,MIA,,PHI,,M. Bamba,PHI,SUB: Melton FOR Bamba,Substitution,,0,0,0,0,,,v
+S2324-G0404,2,08:20,MIA,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0404,2,08:07,MIA,,PHI,,M. Bamba,PHI,Bamba S.FOUL (P1.T4) (D.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2324-G0404,2,07:39,MIA,37.0,PHI,28.0,M. Bamba,PHI,Bamba 2' Running Layup (2 PTS) (Martin 1 AST),Made Shot,Running Layup Shot,17,2,2,1,2.0,2.0,v
+S2324-G0404,2,07:07,MIA,40.0,PHI,31.0,M. Bamba,PHI,Bamba 26' 3PT Jump Shot (5 PTS) (Maxey 2 AST),Made Shot,Jump Shot,11,258,26,1,3.0,3.0,v
+S2324-G0404,2,06:40,MIA,42.0,PHI,33.0,M. Bamba,PHI,Bamba 1' Dunk (7 PTS) (Melton 2 AST),Made Shot,Dunk Shot,-5,12,1,1,2.0,2.0,v
+S2324-G0404,2,05:54,MIA,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0404,2,05:54,MIA,45.0,PHI,35.0,M. Bamba,PHI,Bamba Tip Layup Shot (9 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2324-G0404,2,05:19,MIA,,PHI,,M. Bamba,PHI,Bamba STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0404,2,05:15,MIA,47.0,PHI,37.0,M. Bamba,PHI,Bamba 4' Layup (11 PTS),Made Shot,Layup Shot,-6,37,4,1,2.0,2.0,v
+S2324-G0404,2,04:24,MIA,50.0,PHI,43.0,M. Bamba,PHI,Bamba 26' 3PT Jump Shot (14 PTS) (Melton 3 AST),Made Shot,Jump Shot,205,155,26,1,3.0,3.0,v
+S2324-G0404,2,03:06,MIA,,PHI,,M. Bamba,PHI,MISS Bamba 3' Alley Oop Dunk,Missed Shot,Alley Oop Dunk Shot,-22,12,3,1,2.0,0.0,v
+S2324-G0404,2,02:43,MIA,,PHI,,M. Bamba,PHI,Bamba Violation:Defensive Goaltending (D.Taylor),Violation,Defensive Goaltending,0,0,0,0,,,v
+S2324-G0404,3,11:42,MIA,,PHI,,M. Bamba,PHI,76ers T.Foul (Def. 3 Sec Bamba ) (M.Kogut),Foul,Defense 3 Second,0,0,0,0,,,v
+S2324-G0404,3,10:40,MIA,,PHI,,M. Bamba,PHI,Bamba Traveling Turnover (P1.T5),Turnover,Traveling,0,0,0,0,,,v
+S2324-G0404,3,07:58,MIA,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0404,3,07:49,MIA,72.0,PHI,62.0,M. Bamba,PHI,Bamba 26' 3PT Jump Shot (17 PTS) (Harris 4 AST),Made Shot,Jump Shot,-216,142,26,1,3.0,3.0,v
+S2324-G0404,3,07:17,MIA,,PHI,,M. Bamba,PHI,Bamba P.FOUL (P2.T2) (T.Brothers),Foul,Personal,0,0,0,0,,,v
+S2324-G0404,3,06:27,MIA,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0404,3,06:16,MIA,,PHI,,M. Bamba,PHI,SUB: Reed FOR Bamba,Substitution,,0,0,0,0,,,v
+S2324-G0404,4,07:54,MIA,96.0,PHI,93.0,M. Bamba,PHI,Bamba Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0404,4,07:54,MIA,,PHI,,M. Bamba,PHI,MISS Bamba Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0404,4,06:50,MIA,,PHI,,M. Bamba,PHI,76ers T.Foul (Def. 3 Sec Bamba ) (T.Brothers),Foul,Defense 3 Second,0,0,0,0,,,v
+S2324-G0404,4,06:33,MIA,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0404,4,04:27,MIA,,PHI,,M. Bamba,PHI,SUB: Reed FOR Bamba,Substitution,,0,0,0,0,,,v
+S2324-G0858,1,12:00,PHI,,CHA,,M. Bamba,PHI,Jump Ball Bamba vs. Richards: Tip to Maxey,Jump Ball,,0,0,0,0,,,h
+S2324-G0858,1,10:39,PHI,,CHA,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0858,1,10:30,PHI,,CHA,,M. Bamba,PHI,MISS Bamba 26' 3PT Jump Shot,Missed Shot,Jump Shot,-221,134,26,1,3.0,0.0,h
+S2324-G0858,1,10:12,PHI,,CHA,,M. Bamba,PHI,Bamba BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0858,1,09:26,PHI,,CHA,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0858,1,09:04,PHI,,CHA,,M. Bamba,PHI,Bamba BLOCK (2 BLK),,,0,0,0,0,,,h
+S2324-G0858,1,08:56,PHI,,CHA,,M. Bamba,PHI,Bamba STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0858,1,07:55,PHI,,CHA,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0858,1,07:32,PHI,,CHA,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0858,1,07:30,PHI,,CHA,,M. Bamba,PHI,Bamba Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0858,1,06:30,PHI,,CHA,,M. Bamba,PHI,Bamba OFF.Foul (P1) (Z.Zarba),Foul,Offensive,0,0,0,0,,,h
+S2324-G0858,1,06:30,PHI,,CHA,,M. Bamba,PHI,Bamba Offensive Foul Turnover (P2.T2),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0858,1,04:18,PHI,,CHA,,M. Bamba,PHI,SUB: Payne FOR Bamba,Substitution,,0,0,0,0,,,h
+S2324-G0858,2,06:52,PHI,,CHA,,M. Bamba,PHI,Bamba REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0858,2,06:51,PHI,,CHA,,M. Bamba,PHI,MISS Bamba Tip Dunk Shot,Missed Shot,Tip Dunk Shot,0,0,0,1,2.0,0.0,h
+S2324-G0858,2,06:11,PHI,,CHA,,M. Bamba,PHI,Bamba REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0858,2,05:28,PHI,,CHA,,M. Bamba,PHI,Bamba REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0858,2,05:26,PHI,46.0,CHA,50.0,M. Bamba,PHI,Bamba 9' Turnaround Hook Shot (2 PTS),Made Shot,Turnaround Hook Shot,-89,26,9,1,2.0,2.0,h
+S2324-G0858,2,04:47,PHI,,CHA,,M. Bamba,PHI,SUB: Reed FOR Bamba,Substitution,,0,0,0,0,,,h
+S2324-G0858,3,11:14,PHI,,CHA,,M. Bamba,PHI,Bamba REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0858,3,09:32,PHI,,CHA,,M. Bamba,PHI,MISS Bamba 2' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,-6,-15,2,1,2.0,0.0,h
+S2324-G0858,3,05:47,PHI,,CHA,,M. Bamba,PHI,Bamba P.FOUL (P2.T2) (Z.Zarba),Foul,Personal,0,0,0,0,,,h
+S2324-G0858,3,05:47,PHI,,CHA,,M. Bamba,PHI,SUB: Batum FOR Bamba,Substitution,,0,0,0,0,,,h
+S2324-G0927,1,09:13,NYK,,PHI,,M. Bamba,PHI,MISS Bamba 24' 3PT Jump Shot,Missed Shot,Jump Shot,235,-8,24,1,3.0,0.0,v
+S2324-G0927,1,08:48,NYK,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0927,1,05:18,NYK,10.0,PHI,10.0,M. Bamba,PHI,Bamba Cutting Dunk Shot (2 PTS) (Lowry 2 AST),Made Shot,Cutting Dunk Shot,2,0,0,1,2.0,2.0,v
+S2324-G0927,1,03:57,NYK,,PHI,,M. Bamba,PHI,SUB: Reed FOR Bamba,Substitution,,0,0,0,0,,,v
+S2324-G0927,2,00:01.300000,NYK,,PHI,,M. Bamba,PHI,SUB: Hield FOR Bamba,Substitution,,0,0,0,0,,,v
+S2324-G0927,3,11:36,NYK,,PHI,,M. Bamba,PHI,76ers T.Foul (Def. 3 Sec Bamba ) (B.Kennedy),Foul,Defense 3 Second,0,0,0,0,,,v
+S2324-G0927,3,11:10,NYK,,PHI,,M. Bamba,PHI,MISS Bamba 26' 3PT Jump Shot,Missed Shot,Jump Shot,26,259,26,1,3.0,0.0,v
+S2324-G0927,3,10:08,NYK,35.0,PHI,41.0,M. Bamba,PHI,Bamba 4' Cutting Layup Shot (4 PTS) (Oubre Jr. 1 AST),Made Shot,Cutting Layup Shot,-1,37,4,1,2.0,2.0,v
+S2324-G0927,3,06:40,NYK,,PHI,,M. Bamba,PHI,SUB: Reed FOR Bamba,Substitution,,0,0,0,0,,,v
+S2324-G0415,1,02:53,ORL,,PHI,,M. Bamba,PHI,Bamba STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0415,1,01:58,ORL,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0415,1,01:47,ORL,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0415,1,00:00,ORL,,PHI,,M. Bamba,PHI,Bamba BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0415,2,11:08,ORL,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0415,2,10:52,ORL,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0415,2,10:52,ORL,,PHI,,M. Bamba,PHI,MISS Bamba Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2324-G0415,2,09:52,ORL,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0415,2,09:06,ORL,,PHI,,M. Bamba,PHI,Bamba S.FOUL (P1.T2) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,v
+S2324-G0415,2,09:06,ORL,,PHI,,M. Bamba,PHI,SUB: Melton FOR Bamba,Substitution,,0,0,0,0,,,v
+S2324-G0415,2,01:05,ORL,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0415,3,06:03,ORL,,PHI,,M. Bamba,PHI,Bamba OFF.Foul (P2) (B.Forte),Foul,Offensive,0,0,0,0,,,v
+S2324-G0415,3,06:03,ORL,,PHI,,M. Bamba,PHI,Bamba Offensive Foul Turnover (P1.T8),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0415,3,05:04,ORL,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0415,3,00:11.400000,ORL,,PHI,,M. Bamba,PHI,SUB: Harris FOR Bamba,Substitution,,0,0,0,0,,,v
+S2324-G0442,1,03:13,CHI,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0442,1,02:37,CHI,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0442,1,00:00.700000,CHI,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0442,2,11:19,CHI,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0442,2,11:19,CHI,22.0,PHI,19.0,M. Bamba,PHI,Bamba Putback Layup (2 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,v
+S2324-G0442,2,11:19,CHI,22.0,PHI,20.0,M. Bamba,PHI,Bamba Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G0442,2,08:42,CHI,,PHI,,M. Bamba,PHI,SUB: Melton FOR Bamba,Substitution,,0,0,0,0,,,v
+S2324-G0442,3,04:34,CHI,,PHI,,M. Bamba,PHI,Bamba Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0442,3,00:43.500000,CHI,,PHI,,M. Bamba,PHI,MISS Bamba 8' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,54,56,8,1,2.0,0.0,v
+S2324-G0442,3,00:40.900000,CHI,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0442,3,00:38.500000,CHI,,PHI,,M. Bamba,PHI,SUB: Martin FOR Bamba,Substitution,,0,0,0,0,,,v
+S2324-G0442,4,00:53,CHI,105.0,PHI,90.0,M. Bamba,PHI,Bamba 1' Driving Layup (5 PTS) (Oubre Jr. 2 AST),Made Shot,Driving Layup Shot,12,5,1,1,2.0,2.0,v
+S2324-G0985,1,12:00,PHI,,MIA,,M. Bamba,PHI,Jump Ball Bamba vs. Adebayo: Tip to Maxey,Jump Ball,,0,0,0,0,,,h
+S2324-G0985,1,10:11,PHI,5.0,MIA,4.0,M. Bamba,PHI,Bamba 25' 3PT Jump Shot (3 PTS) (Maxey 1 AST),Made Shot,Jump Shot,-141,211,25,1,3.0,3.0,h
+S2324-G0985,1,09:53,PHI,,MIA,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0985,1,09:49,PHI,,MIA,,M. Bamba,PHI,MISS Bamba 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,134,229,27,1,3.0,0.0,h
+S2324-G0985,1,09:14,PHI,,MIA,,M. Bamba,PHI,MISS Bamba 1' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,2,6,1,1,2.0,0.0,h
+S2324-G0985,1,08:28,PHI,,MIA,,M. Bamba,PHI,Bamba BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0985,1,08:25,PHI,,MIA,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0985,1,07:50,PHI,,MIA,,M. Bamba,PHI,Bamba P.FOUL (P1.T1) (M.Myers),Foul,Personal,0,0,0,0,,,h
+S2324-G0985,1,07:41,PHI,,MIA,,M. Bamba,PHI,Bamba STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0985,1,05:53,PHI,,MIA,,M. Bamba,PHI,SUB: Hield FOR Bamba,Substitution,,0,0,0,0,,,h
+S2324-G0985,2,00:23.900000,PHI,,MIA,,M. Bamba,PHI,Bamba S.FOUL (P2.PN) (B.Kennedy),Foul,Shooting,0,0,0,0,,,h
+S2324-G0985,2,00:23.900000,PHI,,MIA,,M. Bamba,PHI,SUB: Hield FOR Bamba,Substitution,,0,0,0,0,,,h
+S2324-G0985,3,11:26,PHI,53.0,MIA,49.0,M. Bamba,PHI,Bamba 1' Alley Oop Dunk (5 PTS) (Lowry 1 AST),Made Shot,Alley Oop Dunk Shot,1,12,1,1,2.0,2.0,h
+S2324-G0985,3,08:48,PHI,63.0,MIA,51.0,M. Bamba,PHI,Bamba 27' 3PT Running Jump Shot (8 PTS) (Oubre Jr. 2 AST),Made Shot,Running Jump Shot,20,268,27,1,3.0,3.0,h
+S2324-G0985,3,07:46,PHI,,MIA,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0985,3,07:17,PHI,,MIA,,M. Bamba,PHI,Bamba STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0985,3,06:55,PHI,,MIA,,M. Bamba,PHI,Bamba BLOCK (2 BLK),,,0,0,0,0,,,h
+S2324-G0985,3,05:28,PHI,,MIA,,M. Bamba,PHI,SUB: Hield FOR Bamba,Substitution,,0,0,0,0,,,h
+S2324-G0985,4,07:02,PHI,,MIA,,M. Bamba,PHI,Bamba REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0985,4,06:58,PHI,,MIA,,M. Bamba,PHI,Bamba Bad Pass Turnover (P1.T10),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0985,4,05:39,PHI,,MIA,,M. Bamba,PHI,SUB: Reed FOR Bamba,Substitution,,0,0,0,0,,,h
+S2324-G1140,1,05:59,SAS,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1140,1,05:22,SAS,14.0,PHI,21.0,M. Bamba,PHI,Bamba 26' 3PT Jump Shot (3 PTS) (Payne 2 AST),Made Shot,Jump Shot,-145,216,26,1,3.0,3.0,v
+S2324-G1140,1,03:27,SAS,,PHI,,M. Bamba,PHI,MISS Bamba 26' 3PT Jump Shot,Missed Shot,Jump Shot,-152,211,26,1,3.0,0.0,v
+S2324-G1140,1,03:22,SAS,,PHI,,M. Bamba,PHI,Bamba BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G1140,1,02:17,SAS,,PHI,,M. Bamba,PHI,MISS Bamba 15' Jump Shot,Missed Shot,Jump Shot,-53,140,15,1,2.0,0.0,v
+S2324-G1140,1,01:30,SAS,,PHI,,M. Bamba,PHI,Bamba BLOCK (2 BLK),,,0,0,0,0,,,v
+S2324-G1140,1,00:09.900000,SAS,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1140,2,11:18,SAS,,PHI,,M. Bamba,PHI,Bamba S.FOUL (P1.T1) (J.Schroeder),Foul,Shooting,0,0,0,0,,,v
+S2324-G1140,2,11:03,SAS,,PHI,,M. Bamba,PHI,MISS Bamba 3' Hook Shot,Missed Shot,Hook Shot,0,26,3,1,2.0,0.0,v
+S2324-G1140,2,10:23,SAS,,PHI,,M. Bamba,PHI,Bamba S.FOUL (P2.T2) (K.Lane),Foul,Shooting,0,0,0,0,,,v
+S2324-G1140,2,10:23,SAS,,PHI,,M. Bamba,PHI,SUB: Reed FOR Bamba,Substitution,,0,0,0,0,,,v
+S2324-G1140,2,04:18,SAS,,PHI,,M. Bamba,PHI,Bamba Violation:Defensive Goaltending (J.Schroeder),Violation,Defensive Goaltending,0,0,0,0,,,v
+S2324-G1140,2,03:51,SAS,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1140,2,03:34,SAS,,PHI,,M. Bamba,PHI,MISS Bamba 27' 3PT Jump Shot,Missed Shot,Jump Shot,-54,260,27,1,3.0,0.0,v
+S2324-G1140,2,02:23,SAS,,PHI,,M. Bamba,PHI,SUB: Martin FOR Bamba,Substitution,,0,0,0,0,,,v
+S2324-G1140,3,02:52,SAS,,PHI,,M. Bamba,PHI,Bamba S.FOUL (P3.T1) (K.Lane),Foul,Shooting,0,0,0,0,,,v
+S2324-G1140,3,02:08,SAS,,PHI,,M. Bamba,PHI,MISS Bamba 5' Hook Shot,Missed Shot,Hook Shot,-6,54,5,1,2.0,0.0,v
+S2324-G1140,3,01:49,SAS,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1140,3,01:21,SAS,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1140,3,00:29.300000,SAS,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1140,3,00:01.200000,SAS,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1140,4,11:48,SAS,,PHI,,M. Bamba,PHI,Bamba P.FOUL (P4.T1) (K.Lane),Foul,Personal,0,0,0,0,,,v
+S2324-G1140,4,11:26,SAS,,PHI,,M. Bamba,PHI,SUB: Reed FOR Bamba,Substitution,,0,0,0,0,,,v
+S2324-G1052,1,12:00,PHI,,LAC,,M. Bamba,PHI,Jump Ball Bamba vs. Zubac: Tip to Maxey,Jump Ball,,0,0,0,0,,,h
+S2324-G1052,1,11:18,PHI,,LAC,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1052,1,10:02,PHI,,LAC,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1052,1,07:44,PHI,,LAC,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1052,1,05:47,PHI,,LAC,,M. Bamba,PHI,Bamba REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1052,1,05:45,PHI,16.0,LAC,10.0,M. Bamba,PHI,Bamba 2' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,-15,15,2,1,2.0,2.0,h
+S2324-G1052,1,04:27,PHI,,LAC,,M. Bamba,PHI,SUB: Reed FOR Bamba,Substitution,,0,0,0,0,,,h
+S2324-G1052,2,08:31,PHI,,LAC,,M. Bamba,PHI,Bamba REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1052,2,08:20,PHI,,LAC,,M. Bamba,PHI,Bamba OFF.Foul (P1) (K.Scott),Foul,Offensive,0,0,0,0,,,h
+S2324-G1052,2,08:20,PHI,,LAC,,M. Bamba,PHI,Bamba Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G1052,2,08:07,PHI,,LAC,,M. Bamba,PHI,Bamba REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1052,2,07:24,PHI,39.0,LAC,26.0,M. Bamba,PHI,Bamba Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1052,2,07:24,PHI,40.0,LAC,26.0,M. Bamba,PHI,Bamba Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1052,2,06:23,PHI,,LAC,,M. Bamba,PHI,Bamba REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1052,2,06:23,PHI,42.0,LAC,31.0,M. Bamba,PHI,Bamba Tip Dunk Shot (6 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,h
+S2324-G1052,2,06:00,PHI,,LAC,,M. Bamba,PHI,Bamba P.FOUL (P2.T2) (K.Scott),Foul,Personal,0,0,0,0,,,h
+S2324-G1052,2,04:44,PHI,,LAC,,M. Bamba,PHI,Bamba BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G1052,2,04:41,PHI,,LAC,,M. Bamba,PHI,Bamba REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1052,2,04:00,PHI,,LAC,,M. Bamba,PHI,MISS Bamba 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-38,59,7,1,2.0,0.0,h
+S2324-G1052,2,03:28,PHI,,LAC,,M. Bamba,PHI,SUB: Reed FOR Bamba,Substitution,,0,0,0,0,,,h
+S2324-G1052,3,10:47,PHI,,LAC,,M. Bamba,PHI,MISS Bamba 25' 3PT Jump Shot,Missed Shot,Jump Shot,-180,177,25,1,3.0,0.0,h
+S2324-G1052,3,09:34,PHI,,LAC,,M. Bamba,PHI,Bamba REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1052,3,09:34,PHI,57.0,LAC,56.0,M. Bamba,PHI,Bamba Tip Layup Shot (8 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2324-G1052,3,08:21,PHI,61.0,LAC,56.0,M. Bamba,PHI,Bamba 1' Cutting Layup Shot (10 PTS) (Maxey 4 AST),Made Shot,Cutting Layup Shot,6,0,1,1,2.0,2.0,h
+S2324-G1052,3,07:54,PHI,,LAC,,M. Bamba,PHI,Bamba BLOCK (2 BLK),,,0,0,0,0,,,h
+S2324-G1052,3,07:47,PHI,,LAC,,M. Bamba,PHI,Bamba REBOUND (Off:3 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1052,3,07:38,PHI,,LAC,,M. Bamba,PHI,MISS Bamba 17' Jump Shot,Missed Shot,Jump Shot,-64,161,17,1,2.0,0.0,h
+S2324-G1052,3,07:18,PHI,,LAC,,M. Bamba,PHI,Bamba S.FOUL (P3.T2) (J.DeRosa),Foul,Shooting,0,0,0,0,,,h
+S2324-G1052,3,07:01,PHI,63.0,LAC,58.0,M. Bamba,PHI,Bamba 7' Alley Oop Dunk (12 PTS) (Lowry 1 AST),Made Shot,Alley Oop Dunk Shot,-13,66,7,1,2.0,2.0,h
+S2324-G1052,3,06:09,PHI,,LAC,,M. Bamba,PHI,Bamba REBOUND (Off:3 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1052,3,05:53,PHI,,LAC,,M. Bamba,PHI,SUB: Reed FOR Bamba,Substitution,,0,0,0,0,,,h
+S2324-G0896,2,10:25,PHI,,MEM,,M. Bamba,PHI,Bamba REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0896,2,10:08,PHI,,MEM,,M. Bamba,PHI,Bamba REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0896,2,08:06,PHI,,MEM,,M. Bamba,PHI,SUB: Dowtin Jr. FOR Bamba,Substitution,,0,0,0,0,,,h
+S2324-G0896,4,01:02,PHI,,MEM,,M. Bamba,PHI,SUB: Hield FOR Bamba,Substitution,,0,0,0,0,,,h
+S2324-G1028,1,11:21,LAC,,PHI,,M. Bamba,PHI,Bamba BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G1028,1,11:19,LAC,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1028,1,10:17,LAC,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1028,1,10:10,LAC,,PHI,,M. Bamba,PHI,MISS Bamba 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,2,63,6,1,2.0,0.0,v
+S2324-G1028,1,10:03,LAC,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1028,1,10:03,LAC,,PHI,,M. Bamba,PHI,MISS Bamba Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2324-G1028,1,09:39,LAC,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1028,1,07:16,LAC,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1028,1,06:00,LAC,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1028,1,05:34,LAC,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1028,1,05:26,LAC,12.0,PHI,21.0,M. Bamba,PHI,Bamba 26' 3PT Jump Shot (3 PTS) (Harris 1 AST),Made Shot,Jump Shot,-113,230,26,1,3.0,3.0,v
+S2324-G1028,1,05:00,LAC,,PHI,,M. Bamba,PHI,Bamba BLOCK (2 BLK),,,0,0,0,0,,,v
+S2324-G1028,1,03:46,LAC,,PHI,,M. Bamba,PHI,SUB: Payne FOR Bamba,Substitution,,0,0,0,0,,,v
+S2324-G1028,2,04:40,LAC,,PHI,,M. Bamba,PHI,MISS Bamba 25' 3PT Jump Shot,Missed Shot,Jump Shot,125,221,25,1,3.0,0.0,v
+S2324-G1028,3,11:47,LAC,,PHI,,M. Bamba,PHI,Bamba S.FOUL (P1.T1) (J.Sterling),Foul,Shooting,0,0,0,0,,,v
+S2324-G1028,3,10:37,LAC,62.0,PHI,65.0,M. Bamba,PHI,Bamba 12' Jump Shot (5 PTS) (Harris 3 AST),Made Shot,Jump Shot,59,110,12,1,2.0,2.0,v
+S2324-G1028,3,05:43,LAC,,PHI,,M. Bamba,PHI,SUB: Reed FOR Bamba,Substitution,,0,0,0,0,,,v
+S2324-G0434,1,03:55,HOU,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0434,1,03:55,HOU,22.0,PHI,16.0,M. Bamba,PHI,Bamba Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0434,1,03:55,HOU,22.0,PHI,17.0,M. Bamba,PHI,Bamba Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0434,1,01:54,HOU,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0434,1,00:40.500000,HOU,,PHI,,M. Bamba,PHI,MISS Bamba 5' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,50,13,5,1,2.0,0.0,v
+S2324-G0434,1,00:07.100000,HOU,,PHI,,M. Bamba,PHI,Bamba S.FOUL (P1.PN) (R.Acosta),Foul,Shooting,0,0,0,0,,,v
+S2324-G0434,1,00:07.100000,HOU,,PHI,,M. Bamba,PHI,SUB: Melton FOR Bamba,Substitution,,0,0,0,0,,,v
+S2324-G0208,4,01:39,BKN,97.0,PHI,113.0,M. Bamba,PHI,Bamba 6' Floating Jump Shot (2 PTS) (Beverley 1 AST),Made Shot,Floating Jump shot,-15,60,6,1,2.0,2.0,v
+S2324-G0208,4,01:39,BKN,97.0,PHI,114.0,M. Bamba,PHI,Bamba Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G0208,4,01:26,BKN,,PHI,,M. Bamba,PHI,Bamba STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0208,4,00:23.900000,BKN,99.0,PHI,121.0,M. Bamba,PHI,Bamba 2' Reverse Dunk (5 PTS) (Beverley 2 AST),Made Shot,Reverse Dunk Shot,-1,22,2,1,2.0,2.0,v
+S2324-G0727,1,02:29,PHI,,GSW,,M. Bamba,PHI,Bamba S.FOUL (P1.T4) (T.Ford),Foul,Shooting,0,0,0,0,,,h
+S2324-G0727,1,02:27,PHI,,GSW,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0727,1,02:14,PHI,,GSW,,M. Bamba,PHI,Bamba Out of Bounds Lost Ball Turnover (P1.T5),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2324-G0727,3,05:45,PHI,,GSW,,M. Bamba,PHI,Bamba S.FOUL (P2.T4) (L.Wood),Foul,Shooting,0,0,0,0,,,h
+S2324-G0727,3,04:27,PHI,,GSW,,M. Bamba,PHI,Bamba Offensive Charge Foul (P3) (L.Wood),Foul,Offensive Charge,0,0,0,0,,,h
+S2324-G0727,3,04:27,PHI,,GSW,,M. Bamba,PHI,Bamba Offensive Foul Turnover (P2.T11),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0727,3,02:56,PHI,,GSW,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0727,3,01:12,PHI,,GSW,,M. Bamba,PHI,SUB: Reed FOR Bamba,Substitution,,0,0,0,0,,,h
+S2324-G0232,4,04:06,MIN,109.0,PHI,93.0,M. Bamba,PHI,Bamba 2' Reverse Dunk (2 PTS) (House Jr. 1 AST),Made Shot,Reverse Dunk Shot,-13,16,2,1,2.0,2.0,v
+S2324-G0232,4,03:36,MIN,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0232,4,02:17,MIN,,PHI,,M. Bamba,PHI,MISS Bamba 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-230,30,0,1,3.0,0.0,v
+S2324-G0232,4,01:56,MIN,,PHI,,M. Bamba,PHI,Bamba REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0232,4,01:56,MIN,111.0,PHI,96.0,M. Bamba,PHI,Bamba Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0232,4,01:56,MIN,111.0,PHI,97.0,M. Bamba,PHI,Bamba Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0459,4,06:52,PHI,,CHI,,M. Bamba,PHI,MISS Bamba 21' Jump Shot,Missed Shot,Jump Shot,-6,206,21,1,2.0,0.0,h
+S2324-G0459,4,06:43,PHI,,CHI,,M. Bamba,PHI,Bamba STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0459,4,06:20,PHI,,CHI,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0459,4,06:01,PHI,,CHI,,M. Bamba,PHI,Bamba Offensive Charge Foul (P1) (S.Mitchell),Foul,Offensive Charge,0,0,0,0,,,h
+S2324-G0459,4,06:01,PHI,,CHI,,M. Bamba,PHI,Bamba Offensive Foul Turnover (P1.T14),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0459,4,05:17,PHI,,CHI,,M. Bamba,PHI,Bamba REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0459,4,03:36,PHI,,CHI,,M. Bamba,PHI,Bamba Out of Bounds - Bad Pass Turnover Turnover (P2.T16),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G0459,4,03:15,PHI,,CHI,,M. Bamba,PHI,Bamba S.FOUL (P2.T3) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,h
+S2324-G0459,4,02:36,PHI,,CHI,,M. Bamba,PHI,Bamba S.FOUL (P3.T4) (B.Forte),Foul,Shooting,0,0,0,0,,,h

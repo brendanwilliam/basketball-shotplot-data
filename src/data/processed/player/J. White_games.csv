@@ -1,0 +1,47 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2324-G1158,2,11:32,CLE,,MEM,,J. White,MEM,White REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1158,2,09:30,CLE,,MEM,,J. White,MEM,MISS White 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,7,-5,1,1,2.0,0.0,v
+S2324-G1158,2,08:08,CLE,,MEM,,J. White,MEM,White REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1158,2,08:07,CLE,,MEM,,J. White,MEM,MISS White 2' Putback Layup,Missed Shot,Putback Layup Shot,12,15,2,1,2.0,0.0,v
+S2324-G1158,2,06:27,CLE,,MEM,,J. White,MEM,SUB: Jackson FOR White,Substitution,,0,0,0,0,,,v
+S2324-G1158,3,01:46,CLE,,MEM,,J. White,MEM,White STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G1158,3,01:04,CLE,,MEM,,J. White,MEM,MISS White 25' 3PT Jump Shot,Missed Shot,Jump Shot,195,157,25,1,3.0,0.0,v
+S2324-G1158,4,11:01,CLE,,MEM,,J. White,MEM,White REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1158,4,10:08,CLE,,MEM,,J. White,MEM,SUB: Jackson FOR White,Substitution,,0,0,0,0,,,v
+S2324-G1158,4,00:28.100000,CLE,,MEM,,J. White,MEM,White REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1158,4,00:25.600000,CLE,,MEM,,J. White,MEM,White Bad Pass Turnover (P1.T16),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G1193,2,09:29,MEM,,DEN,,J. White,MEM,MISS White 1' Reverse Layup,Missed Shot,Reverse Layup Shot,1,6,1,1,2.0,0.0,h
+S2324-G1193,2,09:26,MEM,,DEN,,J. White,MEM,White REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1193,2,09:26,MEM,,DEN,,J. White,MEM,MISS White Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2324-G1193,2,06:47,MEM,,DEN,,J. White,MEM,SUB: Jemison FOR White,Substitution,,0,0,0,0,,,h
+S2324-G1193,4,09:46,MEM,,DEN,,J. White,MEM,White REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1193,4,09:38,MEM,,DEN,,J. White,MEM,MISS White 25' 3PT Jump Shot,Missed Shot,Jump Shot,163,190,25,1,3.0,0.0,h
+S2324-G1193,4,08:16,MEM,,DEN,,J. White,MEM,MISS White 26' 3PT Jump Shot,Missed Shot,Jump Shot,-137,218,26,1,3.0,0.0,h
+S2324-G1193,4,07:54,MEM,,DEN,,J. White,MEM,SUB: Jemison FOR White,Substitution,,0,0,0,0,,,h
+S2324-G1151,1,02:04,MEM,,SAS,,J. White,MEM,MISS White 3PT Jump Shot,Missed Shot,Jump Shot,229,16,0,1,3.0,0.0,h
+S2324-G1151,1,01:13,MEM,,SAS,,J. White,MEM,MISS White 15' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-151,22,15,1,2.0,0.0,h
+S2324-G1151,2,08:20,MEM,,SAS,,J. White,MEM,White STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1151,2,07:26,MEM,,SAS,,J. White,MEM,SUB: Simpson FOR White,Substitution,,0,0,0,0,,,h
+S2324-G1151,2,00:34.400000,MEM,,SAS,,J. White,MEM,White REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1151,3,02:40,MEM,61.0,SAS,73.0,J. White,MEM,White 25' 3PT Jump Shot (3 PTS) (Simpson 3 AST),Made Shot,Jump Shot,-113,224,25,1,3.0,3.0,h
+S2324-G1151,4,11:43,MEM,,SAS,,J. White,MEM,White BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G1151,4,11:22,MEM,,SAS,,J. White,MEM,MISS White 25' 3PT Jump Shot,Missed Shot,Jump Shot,-148,200,25,1,3.0,0.0,h
+S2324-G1151,4,11:14,MEM,,SAS,,J. White,MEM,White S.FOUL (P1.T1) (T.Washington),Foul,Shooting,0,0,0,0,,,h
+S2324-G1151,4,05:20,MEM,,SAS,,J. White,MEM,MISS White 25' 3PT Jump Shot,Missed Shot,Jump Shot,116,225,25,1,3.0,0.0,h
+S2324-G1151,4,03:40,MEM,,SAS,,J. White,MEM,MISS White 6' Driving Hook Shot,Missed Shot,Driving Hook Shot,-23,58,6,1,2.0,0.0,h
+S2324-G1151,4,03:31,MEM,,SAS,,J. White,MEM,White REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1151,4,01:27,MEM,84.0,SAS,97.0,J. White,MEM,White 26' 3PT Jump Bank Shot (6 PTS) (Allen 2 AST),Made Shot,Jump Bank Shot,140,219,26,1,3.0,3.0,h
+S2324-G1177,2,10:51,MEM,,LAL,,J. White,MEM,White STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1177,2,10:12,MEM,,LAL,,J. White,MEM,White S.FOUL (P1.T1) (S.Twardoski),Foul,Shooting,0,0,0,0,,,h
+S2324-G1177,2,09:26,MEM,,LAL,,J. White,MEM,MISS White 3PT Jump Shot,Missed Shot,Jump Shot,-227,-10,0,1,3.0,0.0,h
+S2324-G1177,2,06:49,MEM,,LAL,,J. White,MEM,SUB: Jemison FOR White,Substitution,,0,0,0,0,,,h
+S2324-G1177,4,11:44,MEM,,LAL,,J. White,MEM,White STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G1177,4,09:35,MEM,,LAL,,J. White,MEM,White REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1177,4,08:41,MEM,,LAL,,J. White,MEM,White REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1177,4,08:37,MEM,,LAL,,J. White,MEM,MISS White 26' 3PT Jump Shot,Missed Shot,Jump Shot,-147,209,26,1,3.0,0.0,h
+S2324-G1177,4,08:26,MEM,,LAL,,J. White,MEM,White S.FOUL (P2.T2) (S.Twardoski),Foul,Shooting,0,0,0,0,,,h
+S2324-G1177,4,07:14,MEM,,LAL,,J. White,MEM,SUB: Goodwin FOR White,Substitution,,0,0,0,0,,,h
+S2324-G1177,4,04:47,MEM,,LAL,,J. White,MEM,White REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1177,4,03:21,MEM,,LAL,,J. White,MEM,SUB: Jemison FOR White,Substitution,,0,0,0,0,,,h
+S2324-G1177,4,00:08,MEM,,LAL,,J. White,MEM,White REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1177,4,00:07,MEM,,LAL,,J. White,MEM,White Bad Pass Turnover (P1.T15),Turnover,Bad Pass,0,0,0,0,,,h

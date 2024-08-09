@@ -1,0 +1,437 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2324-G0641,3,00:18.100000,SAS,,POR,,R. Rupert,POR,Rupert S.FOUL (P1.PN) (T.Washington),Foul,Shooting,0,0,0,0,,,v
+S2324-G0641,3,00:02.100000,SAS,88.0,POR,78.0,R. Rupert,POR,Rupert 24' 3PT Jump Shot (3 PTS) (Simons 10 AST),Made Shot,Jump Shot,233,37,24,1,3.0,3.0,v
+S2324-G0641,4,08:41,SAS,,POR,,R. Rupert,POR,SUB: Ayton FOR Rupert,Substitution,,0,0,0,0,,,v
+S2324-G0529,4,10:16,OKC,,POR,,R. Rupert,POR,Rupert REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0529,4,06:43,OKC,129.0,POR,70.0,R. Rupert,POR,Rupert 3PT Jump Shot (3 PTS) (Minaya 1 AST),Made Shot,Jump Shot,232,17,0,1,3.0,3.0,v
+S2324-G0529,4,06:27,OKC,,POR,,R. Rupert,POR,Rupert REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0529,4,05:35,OKC,,POR,,R. Rupert,POR,MISS Rupert 5' Driving Layup,Missed Shot,Driving Layup Shot,49,21,5,1,2.0,0.0,v
+S2324-G0529,4,03:43,OKC,,POR,,R. Rupert,POR,MISS Rupert 27' 3PT Jump Shot,Missed Shot,Jump Shot,181,197,27,1,3.0,0.0,v
+S2324-G0529,4,03:04,OKC,,POR,,R. Rupert,POR,MISS Rupert 7' Running Layup,Missed Shot,Running Layup Shot,-70,14,7,1,2.0,0.0,v
+S2324-G0529,4,01:15,OKC,,POR,,R. Rupert,POR,Rupert REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0529,4,00:33.900000,OKC,,POR,,R. Rupert,POR,MISS Rupert 16' Jump Shot,Missed Shot,Jump Shot,-157,-27,16,1,2.0,0.0,v
+S2324-G0986,2,10:11,CHI,,POR,,R. Rupert,POR,MISS Rupert 1' Running Layup,Missed Shot,Running Layup Shot,-2,7,1,1,2.0,0.0,v
+S2324-G0986,2,08:58,CHI,,POR,,R. Rupert,POR,MISS Rupert 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-131,225,26,1,3.0,0.0,v
+S2324-G0986,2,08:52,CHI,,POR,,R. Rupert,POR,Rupert REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0986,2,08:19,CHI,,POR,,R. Rupert,POR,SUB: Camara FOR Rupert,Substitution,,0,0,0,0,,,v
+S2324-G1102,1,10:04,CHA,,POR,,R. Rupert,POR,MISS Rupert 25' 3PT Jump Shot,Missed Shot,Jump Shot,-218,120,25,1,3.0,0.0,v
+S2324-G1102,1,04:46,CHA,17.0,POR,16.0,R. Rupert,POR,Rupert 1' Driving Layup (2 PTS) (Henderson 1 AST),Made Shot,Driving Layup Shot,-5,3,1,1,2.0,2.0,v
+S2324-G1102,1,02:34,CHA,,POR,,R. Rupert,POR,MISS Rupert 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,4,45,5,1,2.0,0.0,v
+S2324-G1102,1,02:34,CHA,,POR,,R. Rupert,POR,SUB: Hagans FOR Rupert,Substitution,,0,0,0,0,,,v
+S2324-G1102,2,10:25,CHA,,POR,,R. Rupert,POR,Rupert Offensive Charge Foul (P1) (E.Scott),Foul,Offensive Charge,0,0,0,0,,,v
+S2324-G1102,2,10:25,CHA,,POR,,R. Rupert,POR,Rupert Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G1102,2,09:42,CHA,,POR,,R. Rupert,POR,Rupert P.FOUL (P2.T3) (E.Scott),Foul,Personal,0,0,0,0,,,v
+S2324-G1102,2,09:10,CHA,27.0,POR,35.0,R. Rupert,POR,Rupert Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1102,2,09:10,CHA,27.0,POR,36.0,R. Rupert,POR,Rupert Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1102,2,08:59,CHA,,POR,,R. Rupert,POR,SUB: Henderson FOR Rupert,Substitution,,0,0,0,0,,,v
+S2324-G1102,2,02:49,CHA,,POR,,R. Rupert,POR,Rupert S.FOUL (P3.PN) (K.Cutler),Foul,Shooting,0,0,0,0,,,v
+S2324-G1102,2,01:43,CHA,,POR,,R. Rupert,POR,SUB: Banton FOR Rupert,Substitution,,0,0,0,0,,,v
+S2324-G1102,3,10:47,CHA,,POR,,R. Rupert,POR,Rupert Lost Ball Turnover (P2.T9),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G1102,3,09:07,CHA,,POR,,R. Rupert,POR,Rupert STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G1102,3,09:01,CHA,,POR,,R. Rupert,POR,MISS Rupert 1' Running Layup,Missed Shot,Running Layup Shot,9,11,1,1,2.0,0.0,v
+S2324-G1102,3,07:27,CHA,,POR,,R. Rupert,POR,Rupert Bad Pass Turnover (P3.T10),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G1102,3,06:20,CHA,,POR,,R. Rupert,POR,SUB: Banton FOR Rupert,Substitution,,0,0,0,0,,,v
+S2324-G1102,4,11:02,CHA,,POR,,R. Rupert,POR,Rupert REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1102,4,09:51,CHA,,POR,,R. Rupert,POR,MISS Rupert 3' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,12,32,3,1,2.0,0.0,v
+S2324-G1102,4,09:28,CHA,,POR,,R. Rupert,POR,Rupert REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1102,4,09:19,CHA,,POR,,R. Rupert,POR,Rupert REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1102,4,08:05,CHA,,POR,,R. Rupert,POR,Rupert P.FOUL (P4.T2) (E.Scott),Foul,Personal,0,0,0,0,,,v
+S2324-G1102,4,07:54,CHA,,POR,,R. Rupert,POR,Rupert REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1102,4,06:56,CHA,,POR,,R. Rupert,POR,Rupert REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1051,1,08:55,ATL,,POR,,R. Rupert,POR,Rupert REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1051,1,06:34,ATL,12.0,POR,12.0,R. Rupert,POR,Rupert 25' 3PT Pullup Jump Shot (3 PTS) (Reath 2 AST),Made Shot,Pullup Jump shot,97,234,25,1,3.0,3.0,v
+S2324-G1051,1,06:16,ATL,,POR,,R. Rupert,POR,Rupert REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1051,1,05:01,ATL,14.0,POR,17.0,R. Rupert,POR,Rupert Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1051,1,05:01,ATL,14.0,POR,18.0,R. Rupert,POR,Rupert Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1051,1,04:46,ATL,,POR,,R. Rupert,POR,SUB: Banton FOR Rupert,Substitution,,0,0,0,0,,,v
+S2324-G1051,1,01:11,ATL,,POR,,R. Rupert,POR,Rupert REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1051,2,09:23,ATL,,POR,,R. Rupert,POR,Rupert P.FOUL (P1.T3) (R.Hussey),Foul,Personal,0,0,0,0,,,v
+S2324-G1051,2,09:15,ATL,,POR,,R. Rupert,POR,Rupert S.FOUL (P2.T4) (C.Blair),Foul,Shooting,0,0,0,0,,,v
+S2324-G1051,2,07:01,ATL,,POR,,R. Rupert,POR,SUB: Murray FOR Rupert,Substitution,,0,0,0,0,,,v
+S2324-G1051,3,11:42,ATL,65.0,POR,60.0,R. Rupert,POR,Rupert 1' Driving Layup (7 PTS) (Henderson 5 AST),Made Shot,Driving Layup Shot,-6,1,1,1,2.0,2.0,v
+S2324-G1051,3,04:19,ATL,,POR,,R. Rupert,POR,Rupert Out of Bounds - Bad Pass Turnover Turnover (P1.T14),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G1051,3,03:30,ATL,,POR,,R. Rupert,POR,Rupert REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1051,3,03:07,ATL,,POR,,R. Rupert,POR,Rupert P.FOUL (P3.T4) (R.Hussey),Foul,Personal,0,0,0,0,,,v
+S2324-G1051,4,11:22,ATL,,POR,,R. Rupert,POR,MISS Rupert 25' 3PT Jump Shot,Missed Shot,Jump Shot,-227,112,25,1,3.0,0.0,v
+S2324-G1051,4,10:58,ATL,,POR,,R. Rupert,POR,MISS Rupert 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-234,-4,0,1,3.0,0.0,v
+S2324-G1051,4,08:51,ATL,,POR,,R. Rupert,POR,Rupert P.FOUL (P4.T2) (C.Blair),Foul,Personal,0,0,0,0,,,v
+S2324-G1051,4,07:07,ATL,,POR,,R. Rupert,POR,Rupert BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G1051,4,06:28,ATL,,POR,,R. Rupert,POR,Rupert REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1051,4,05:04,ATL,,POR,,R. Rupert,POR,Rupert REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1051,4,04:19,ATL,,POR,,R. Rupert,POR,MISS Rupert 2' Driving Layup,Missed Shot,Driving Layup Shot,-12,11,2,1,2.0,0.0,v
+S2324-G1051,4,01:15,ATL,,POR,,R. Rupert,POR,MISS Rupert 2' Driving Layup,Missed Shot,Driving Layup Shot,4,21,2,1,2.0,0.0,v
+S2324-G1026,1,11:00,POR,,DEN,,R. Rupert,POR,Rupert Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G1026,1,08:06,POR,,DEN,,R. Rupert,POR,Rupert Lost Ball Turnover (P2.T3),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G1026,1,07:44,POR,,DEN,,R. Rupert,POR,Rupert REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1026,1,06:58,POR,,DEN,,R. Rupert,POR,SUB: Banton FOR Rupert,Substitution,,0,0,0,0,,,h
+S2324-G1026,2,09:37,POR,,DEN,,R. Rupert,POR,MISS Rupert 11' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-75,79,11,1,2.0,0.0,h
+S2324-G1026,2,08:41,POR,,DEN,,R. Rupert,POR,SUB: Camara FOR Rupert,Substitution,,0,0,0,0,,,h
+S2324-G1026,3,09:01,POR,,DEN,,R. Rupert,POR,Rupert S.FOUL (P1.T2) (J.Orr),Foul,Shooting,0,0,0,0,,,h
+S2324-G1026,3,07:23,POR,62.0,DEN,67.0,R. Rupert,POR,Rupert 5' Driving Layup (2 PTS) (Camara 3 AST),Made Shot,Driving Layup Shot,48,13,5,1,2.0,2.0,h
+S2324-G1026,3,07:23,POR,63.0,DEN,67.0,R. Rupert,POR,Rupert Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G1026,3,05:08,POR,,DEN,,R. Rupert,POR,SUB: Hagans FOR Rupert,Substitution,,0,0,0,0,,,h
+S2324-G1134,1,10:28,BOS,,POR,,R. Rupert,POR,Rupert STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G1134,1,10:22,BOS,,POR,,R. Rupert,POR,MISS Rupert 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,194,161,25,1,3.0,0.0,v
+S2324-G1134,1,10:12,BOS,,POR,,R. Rupert,POR,Rupert REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1134,1,10:04,BOS,2.0,POR,3.0,R. Rupert,POR,Rupert 27' 3PT Running Pull-Up Jump Shot (3 PTS),Made Shot,Running Pull-Up Jump Shot,-183,197,27,1,3.0,3.0,v
+S2324-G1134,1,09:27,BOS,,POR,,R. Rupert,POR,Rupert REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1134,1,09:25,BOS,,POR,,R. Rupert,POR,MISS Rupert 4' Putback Layup,Missed Shot,Putback Layup Shot,27,35,4,1,2.0,0.0,v
+S2324-G1134,1,07:32,BOS,7.0,POR,10.0,R. Rupert,POR,Rupert 3PT Jump Shot (6 PTS) (Henderson 1 AST),Made Shot,Jump Shot,-228,16,0,1,3.0,3.0,v
+S2324-G1134,1,06:53,BOS,,POR,,R. Rupert,POR,MISS Rupert 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-228,135,26,1,3.0,0.0,v
+S2324-G1134,1,02:40,BOS,,POR,,R. Rupert,POR,Rupert S.FOUL (P1.T1) (M.Ervin),Foul,Shooting,0,0,0,0,,,v
+S2324-G1134,1,01:03,BOS,,POR,,R. Rupert,POR,Rupert L.B.FOUL (P2.T2) (M.Ervin),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G1134,2,11:40,BOS,,POR,,R. Rupert,POR,MISS Rupert 26' 3PT Jump Shot,Missed Shot,Jump Shot,-134,221,26,1,3.0,0.0,v
+S2324-G1134,2,07:48,BOS,,POR,,R. Rupert,POR,MISS Rupert 20' Jump Shot,Missed Shot,Jump Shot,196,50,20,1,2.0,0.0,v
+S2324-G1134,2,06:24,BOS,,POR,,R. Rupert,POR,SUB: Walker FOR Rupert,Substitution,,0,0,0,0,,,v
+S2324-G1134,3,08:20,BOS,,POR,,R. Rupert,POR,Rupert S.FOUL (P3.T2) (M.Ervin),Foul,Shooting,0,0,0,0,,,v
+S2324-G1134,3,08:20,BOS,,POR,,R. Rupert,POR,SUB: Minaya FOR Rupert,Substitution,,0,0,0,0,,,v
+S2324-G1134,4,09:56,BOS,97.0,POR,88.0,R. Rupert,POR,Rupert 26' 3PT Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,-134,222,26,1,3.0,3.0,v
+S2324-G1134,4,01:29,BOS,,POR,,R. Rupert,POR,Rupert REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1134,4,01:25,BOS,,POR,,R. Rupert,POR,Rupert Out of Bounds Lost Ball Turnover (P1.T15),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2324-G0861,4,05:54,,,POR,,R. Rupert,POR,Rupert Bad Pass Turnover (P1.T11),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0861,4,04:57,,,POR,,R. Rupert,POR,Rupert REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0861,4,04:15,,84.0,POR,114.0,R. Rupert,POR,Rupert Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0861,4,04:15,,84.0,POR,115.0,R. Rupert,POR,Rupert Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0861,4,01:59,,,POR,,R. Rupert,POR,Rupert S.FOUL (P1.T3) (N.Buchert),Foul,Shooting,0,0,0,0,,,v
+S2324-G0861,4,01:27,,,POR,,R. Rupert,POR,Rupert REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0861,4,01:25,,,POR,,R. Rupert,POR,MISS Rupert 2' Running Layup,Missed Shot,Running Layup Shot,-20,9,2,1,2.0,0.0,v
+S2324-G0861,4,00:44.200000,,92.0,POR,122.0,R. Rupert,POR,Rupert 25' 3PT Jump Shot (5 PTS) (Murray 2 AST),Made Shot,Jump Shot,-170,179,25,1,3.0,3.0,v
+S2324-G1017,1,01:32,POR,,LAC,,R. Rupert,POR,Rupert S.FOUL (P1.PN) (G.Petraitis),Foul,Shooting,0,0,0,0,,,h
+S2324-G1017,2,09:32,POR,,LAC,,R. Rupert,POR,Rupert L.B.FOUL (P2.T1) (P.Ransom),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G1017,2,08:22,POR,,LAC,,R. Rupert,POR,SUB: Camara FOR Rupert,Substitution,,0,0,0,0,,,h
+S2324-G1017,3,00:01.600000,POR,,LAC,,R. Rupert,POR,Rupert REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1017,4,07:15,POR,,LAC,,R. Rupert,POR,Rupert BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G1017,4,05:19,POR,99.0,LAC,120.0,R. Rupert,POR,Rupert 2' Cutting Layup Shot (2 PTS) (Henderson 7 AST),Made Shot,Cutting Layup Shot,9,22,2,1,2.0,2.0,h
+S2324-G1017,4,02:28,POR,,LAC,,R. Rupert,POR,Rupert REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1017,4,00:50.400000,POR,113.0,LAC,123.0,R. Rupert,POR,Rupert 10' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,36,97,10,1,2.0,2.0,h
+S2324-G1017,4,00:10.400000,POR,117.0,LAC,123.0,R. Rupert,POR,Rupert Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1017,4,00:10.400000,POR,,LAC,,R. Rupert,POR,MISS Rupert Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0041,4,00:32.600000,PHX,,POR,,R. Rupert,POR,MISS Rupert 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,119,107,16,1,2.0,0.0,v
+S2324-G0041,4,00:23.300000,PHX,,POR,,R. Rupert,POR,Rupert STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G1200,1,11:23,SAC,,POR,,R. Rupert,POR,Rupert S.FOUL (P1.T1) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,v
+S2324-G1200,1,10:36,SAC,,POR,,R. Rupert,POR,MISS Rupert 25' 3PT Jump Shot,Missed Shot,Jump Shot,-185,175,25,1,3.0,0.0,v
+S2324-G1200,1,07:10,SAC,,POR,,R. Rupert,POR,Rupert Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G1200,1,07:09,SAC,,POR,,R. Rupert,POR,SUB: Moore FOR Rupert,Substitution,,0,0,0,0,,,v
+S2324-G1200,1,01:01,SAC,,POR,,R. Rupert,POR,Rupert REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1200,2,11:33,SAC,,POR,,R. Rupert,POR,MISS Rupert 26' 3PT Jump Shot,Missed Shot,Jump Shot,229,113,26,1,3.0,0.0,v
+S2324-G1200,2,08:40,SAC,40.0,POR,22.0,R. Rupert,POR,Rupert 5' Hook Bank Shot (2 PTS),Made Shot,Hook Bank Shot,-43,16,5,1,2.0,2.0,v
+S2324-G1200,2,08:17,SAC,,POR,,R. Rupert,POR,Rupert Bad Pass Turnover (P2.T8),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G1200,2,07:24,SAC,43.0,POR,25.0,R. Rupert,POR,Rupert 27' 3PT Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,140,225,27,1,3.0,3.0,v
+S2324-G1200,2,04:30,SAC,53.0,POR,27.0,R. Rupert,POR,Rupert 9' Driving Layup (7 PTS) (Banton 2 AST),Made Shot,Driving Layup Shot,91,10,9,1,2.0,2.0,v
+S2324-G1200,2,03:13,SAC,,POR,,R. Rupert,POR,Rupert REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1200,2,00:45.800000,SAC,,POR,,R. Rupert,POR,Rupert REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1200,3,09:04,SAC,,POR,,R. Rupert,POR,Rupert REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1200,3,08:57,SAC,,POR,,R. Rupert,POR,MISS Rupert 25' 3PT Jump Shot,Missed Shot,Jump Shot,-85,236,25,1,3.0,0.0,v
+S2324-G1200,3,08:10,SAC,71.0,POR,45.0,R. Rupert,POR,Rupert 3PT Jump Shot (10 PTS) (Banton 5 AST),Made Shot,Jump Shot,-227,4,0,1,3.0,3.0,v
+S2324-G1200,3,06:38,SAC,,POR,,R. Rupert,POR,MISS Rupert 3PT Jump Shot,Missed Shot,Jump Shot,-229,11,0,1,3.0,0.0,v
+S2324-G1200,3,06:34,SAC,,POR,,R. Rupert,POR,SUB: Minaya FOR Rupert,Substitution,,0,0,0,0,,,v
+S2324-G1200,3,04:05,SAC,,POR,,R. Rupert,POR,SUB: Reath FOR Rupert,Substitution,,0,0,0,0,,,v
+S2324-G1200,3,01:24,SAC,,POR,,R. Rupert,POR,MISS Rupert 10' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-4,96,10,1,2.0,0.0,v
+S2324-G1200,4,11:41,SAC,,POR,,R. Rupert,POR,MISS Rupert 14' Floating Jump Shot,Missed Shot,Floating Jump shot,59,125,14,1,2.0,0.0,v
+S2324-G1200,4,06:46,SAC,,POR,,R. Rupert,POR,Rupert REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1200,4,04:59,SAC,,POR,,R. Rupert,POR,MISS Rupert 25' 3PT Jump Shot,Missed Shot,Jump Shot,230,100,25,1,3.0,0.0,v
+S2324-G1200,4,04:58,SAC,,POR,,R. Rupert,POR,Rupert REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1200,4,02:09,SAC,,POR,,R. Rupert,POR,MISS Rupert 4' Driving Layup,Missed Shot,Driving Layup Shot,-29,30,4,1,2.0,0.0,v
+S2324-G1200,4,01:29,SAC,,POR,,R. Rupert,POR,MISS Rupert Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G1200,4,01:29,SAC,115.0,POR,82.0,R. Rupert,POR,Rupert Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0554,1,03:30,POR,,PHX,,R. Rupert,POR,Rupert S.FOUL (P1.PN) (J.Capers),Foul,Shooting,0,0,0,0,,,h
+S2324-G0554,1,01:22,POR,33.0,PHX,26.0,R. Rupert,POR,Rupert 25' 3PT Jump Shot (3 PTS) (Simons 2 AST),Made Shot,Jump Shot,-200,158,25,1,3.0,3.0,h
+S2324-G0554,2,10:34,POR,,PHX,,R. Rupert,POR,MISS Rupert 15' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-25,147,15,1,2.0,0.0,h
+S2324-G0554,2,09:03,POR,,PHX,,R. Rupert,POR,Rupert Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0554,2,07:54,POR,,PHX,,R. Rupert,POR,SUB: Minaya FOR Rupert,Substitution,,0,0,0,0,,,h
+S2324-G0554,4,11:32,POR,,PHX,,R. Rupert,POR,Rupert REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0554,4,09:59,POR,,PHX,,R. Rupert,POR,Rupert REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0554,4,09:51,POR,,PHX,,R. Rupert,POR,Rupert REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0554,4,09:51,POR,97.0,PHX,109.0,R. Rupert,POR,Rupert Tip Layup Shot (5 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2324-G0554,4,09:18,POR,,PHX,,R. Rupert,POR,Rupert REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0554,4,08:30,POR,102.0,PHX,109.0,R. Rupert,POR,Rupert 25' 3PT Jump Shot (8 PTS) (Murray 3 AST),Made Shot,Jump Shot,-217,114,25,1,3.0,3.0,h
+S2324-G0554,4,07:28,POR,,PHX,,R. Rupert,POR,Jump Ball Rupert vs. Bates-Diop: Tip to Booker,Jump Ball,,0,0,0,0,,,h
+S2324-G0554,4,06:59,POR,,PHX,,R. Rupert,POR,Rupert REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0554,4,06:50,POR,107.0,PHX,111.0,R. Rupert,POR,Rupert 3PT Jump Shot (11 PTS) (Simons 5 AST),Made Shot,Jump Shot,-232,11,0,1,3.0,3.0,h
+S2324-G0554,4,06:22,POR,,PHX,,R. Rupert,POR,Rupert S.FOUL (P2.T2) (B.Barnaky),Foul,Shooting,0,0,0,0,,,h
+S2324-G0554,4,05:18,POR,,PHX,,R. Rupert,POR,SUB: Camara FOR Rupert,Substitution,,0,0,0,0,,,h
+S2324-G0098,4,02:02,PHI,,POR,,R. Rupert,POR,MISS Rupert 28' 3PT Jump Shot,Missed Shot,Jump Shot,201,194,28,1,3.0,0.0,v
+S2324-G0923,1,01:52,POR,,TOR,,R. Rupert,POR,MISS Rupert 3PT Jump Shot,Missed Shot,Jump Shot,-232,30,0,1,3.0,0.0,h
+S2324-G0923,1,00:38.700000,POR,,TOR,,R. Rupert,POR,Rupert S.FOUL (P1.PN) (S.Twardoski),Foul,Shooting,0,0,0,0,,,h
+S2324-G0923,1,00:29.900000,POR,,TOR,,R. Rupert,POR,Rupert REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0923,2,09:53,POR,,TOR,,R. Rupert,POR,Rupert REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0923,2,07:14,POR,,TOR,,R. Rupert,POR,Rupert REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0923,2,06:51,POR,,TOR,,R. Rupert,POR,SUB: Camara FOR Rupert,Substitution,,0,0,0,0,,,h
+S2324-G0923,3,01:24,POR,,TOR,,R. Rupert,POR,Rupert S.FOUL (P2.PN) (D.Richardson),Foul,Shooting,0,0,0,0,,,h
+S2324-G0923,3,00:00.500000,POR,,TOR,,R. Rupert,POR,MISS Rupert 24' 3PT Jump Shot,Missed Shot,Jump Shot,-228,75,24,1,3.0,0.0,h
+S2324-G0923,4,11:55,POR,,TOR,,R. Rupert,POR,Rupert STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0923,4,11:21,POR,,TOR,,R. Rupert,POR,MISS Rupert 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,205,141,25,1,3.0,0.0,h
+S2324-G0923,4,09:47,POR,,TOR,,R. Rupert,POR,SUB: Simons FOR Rupert,Substitution,,0,0,0,0,,,h
+S2324-G0237,4,04:41,POR,,UTA,,R. Rupert,POR,MISS Rupert 25' 3PT Jump Shot,Missed Shot,Jump Shot,174,181,25,1,3.0,0.0,h
+S2324-G0237,4,02:37,POR,,UTA,,R. Rupert,POR,MISS Rupert 6' Driving Layup,Missed Shot,Driving Layup Shot,-53,34,6,1,2.0,0.0,h
+S2324-G0514,4,10:04,NYK,,POR,,R. Rupert,POR,MISS Rupert 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-82,67,11,1,2.0,0.0,v
+S2324-G0514,4,09:53,NYK,,POR,,R. Rupert,POR,Rupert REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0514,4,09:46,NYK,,POR,,R. Rupert,POR,MISS Rupert 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-116,231,26,1,3.0,0.0,v
+S2324-G0514,4,09:31,NYK,,POR,,R. Rupert,POR,Rupert REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0514,4,08:48,NYK,,POR,,R. Rupert,POR,Rupert REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0514,4,03:27,NYK,,POR,,R. Rupert,POR,Rupert REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0514,4,03:27,NYK,,POR,,R. Rupert,POR,Rupert Bad Pass Turnover (P1.T14),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0514,4,02:34,NYK,,POR,,R. Rupert,POR,Rupert REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0514,4,02:27,NYK,110.0,POR,79.0,R. Rupert,POR,Rupert 3' Running Layup (2 PTS),Made Shot,Running Layup Shot,-22,12,3,1,2.0,2.0,v
+S2324-G0514,4,01:39,NYK,,POR,,R. Rupert,POR,MISS Rupert 13' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-45,125,13,1,2.0,0.0,v
+S2324-G0514,4,01:11,NYK,112.0,POR,81.0,R. Rupert,POR,Rupert 10' Pullup Jump Shot (4 PTS) (Minaya 1 AST),Made Shot,Pullup Jump shot,-69,76,10,1,2.0,2.0,v
+S2324-G1169,1,10:40,POR,,GSW,,R. Rupert,POR,MISS Rupert 3PT Jump Shot,Missed Shot,Jump Shot,-225,57,0,1,3.0,0.0,h
+S2324-G1169,1,10:13,POR,,GSW,,R. Rupert,POR,Rupert S.FOUL (P1.T1) (N.Sago),Foul,Shooting,0,0,0,0,,,h
+S2324-G1169,1,07:45,POR,,GSW,,R. Rupert,POR,MISS Rupert 26' 3PT Jump Shot,Missed Shot,Jump Shot,161,206,26,1,3.0,0.0,h
+S2324-G1169,1,07:28,POR,,GSW,,R. Rupert,POR,Rupert REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1169,1,04:32,POR,,GSW,,R. Rupert,POR,SUB: Minaya FOR Rupert,Substitution,,0,0,0,0,,,h
+S2324-G1169,2,07:34,POR,,GSW,,R. Rupert,POR,Rupert REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1169,2,04:11,POR,,GSW,,R. Rupert,POR,MISS Rupert 15' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-85,120,15,1,2.0,0.0,h
+S2324-G1169,2,02:53,POR,,GSW,,R. Rupert,POR,Rupert S.FOUL (P2.PN) (T.Ford),Foul,Shooting,0,0,0,0,,,h
+S2324-G1169,2,02:53,POR,,GSW,,R. Rupert,POR,SUB: Minaya FOR Rupert,Substitution,,0,0,0,0,,,h
+S2324-G1169,3,10:50,POR,,GSW,,R. Rupert,POR,Rupert S.FOUL (P3.T1) (N.Sago),Foul,Shooting,0,0,0,0,,,h
+S2324-G1169,3,06:21,POR,,GSW,,R. Rupert,POR,SUB: Minaya FOR Rupert,Substitution,,0,0,0,0,,,h
+S2324-G1169,3,00:32.900000,POR,,GSW,,R. Rupert,POR,MISS Rupert 24' 3PT Jump Shot,Missed Shot,Jump Shot,-229,53,24,1,3.0,0.0,h
+S2324-G1169,4,11:40,POR,,GSW,,R. Rupert,POR,MISS Rupert 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-10,71,7,1,2.0,0.0,h
+S2324-G1169,4,11:35,POR,,GSW,,R. Rupert,POR,Rupert REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1169,4,11:35,POR,76.0,GSW,75.0,R. Rupert,POR,Rupert 4' Fadeaway Jumper (2 PTS),Made Shot,Fadeaway Jump Shot,-12,42,4,1,2.0,2.0,h
+S2324-G1169,4,11:16,POR,,GSW,,R. Rupert,POR,Rupert REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1169,4,08:44,POR,,GSW,,R. Rupert,POR,Rupert Traveling Turnover (P1.T8),Turnover,Traveling,0,0,0,0,,,h
+S2324-G1169,4,07:28,POR,,GSW,,R. Rupert,POR,SUB: Walker FOR Rupert,Substitution,,0,0,0,0,,,h
+S2324-G0938,4,01:20,POR,,BOS,,R. Rupert,POR,MISS Rupert 3' Driving Layup,Missed Shot,Driving Layup Shot,12,29,3,1,2.0,0.0,h
+S2324-G0538,4,06:04,MIN,,POR,,R. Rupert,POR,Rupert REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0538,4,05:53,MIN,,POR,,R. Rupert,POR,MISS Rupert 4' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,-26,26,4,1,2.0,0.0,v
+S2324-G0538,4,02:54,MIN,112.0,POR,86.0,R. Rupert,POR,Rupert 6' Running Layup (2 PTS) (Walker 3 AST),Made Shot,Running Layup Shot,-43,36,6,1,2.0,2.0,v
+S2324-G0538,4,02:20,MIN,112.0,POR,87.0,R. Rupert,POR,Rupert Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0538,4,02:20,MIN,,POR,,R. Rupert,POR,MISS Rupert Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0487,3,04:21,DAL,,POR,,R. Rupert,POR,MISS Rupert 25' 3PT Jump Shot,Missed Shot,Jump Shot,34,251,25,1,3.0,0.0,v
+S2324-G0487,3,04:09,DAL,,POR,,R. Rupert,POR,Rupert Bad Pass Turnover (P1.T15),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0487,3,03:52,DAL,,POR,,R. Rupert,POR,Rupert REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0487,3,03:11,DAL,,POR,,R. Rupert,POR,Rupert REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0487,3,03:10,DAL,96.0,POR,62.0,R. Rupert,POR,Rupert Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2324-G0487,4,10:07,DAL,106.0,POR,76.0,R. Rupert,POR,Rupert 3PT Jump Shot (5 PTS) (Sharpe 2 AST),Made Shot,Jump Shot,234,2,0,1,3.0,3.0,v
+S2324-G0487,4,09:54,DAL,,POR,,R. Rupert,POR,Rupert S.FOUL (P1.T1) (C.Flores),Foul,Shooting,0,0,0,0,,,v
+S2324-G0487,4,04:59,DAL,,POR,,R. Rupert,POR,Rupert Bad Pass Turnover (P2.T17),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0487,4,03:26,DAL,124.0,POR,93.0,R. Rupert,POR,Rupert 2' Running Layup (7 PTS) (Murray 1 AST),Made Shot,Running Layup Shot,-12,10,2,1,2.0,2.0,v
+S2324-G0487,4,00:56.200000,DAL,,POR,,R. Rupert,POR,Rupert S.FOUL (P2.T3) (M.Smith),Foul,Shooting,0,0,0,0,,,v
+S2324-G0487,4,00:33.100000,DAL,,POR,,R. Rupert,POR,Rupert REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0487,4,00:29,DAL,,POR,,R. Rupert,POR,MISS Rupert 4' Running Layup,Missed Shot,Running Layup Shot,30,26,4,1,2.0,0.0,v
+S2324-G0487,4,00:22,DAL,,POR,,R. Rupert,POR,Rupert S.FOUL (P3.PN) (J.Goble),Foul,Shooting,0,0,0,0,,,v
+S2324-G0868,2,00:56,MEM,,POR,,R. Rupert,POR,Rupert S.FOUL (P1.PN) (E.Malloy),Foul,Shooting,0,0,0,0,,,v
+S2324-G0868,3,00:08.300000,MEM,,POR,,R. Rupert,POR,Rupert REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0868,4,09:53,MEM,,POR,,R. Rupert,POR,MISS Rupert 25' 3PT Jump Shot,Missed Shot,Jump Shot,192,155,25,1,3.0,0.0,v
+S2324-G0868,4,09:48,MEM,,POR,,R. Rupert,POR,SUB: Simons FOR Rupert,Substitution,,0,0,0,0,,,v
+S2324-G1003,2,07:25,POR,,LAC,,R. Rupert,POR,SUB: Murray FOR Rupert,Substitution,,0,0,0,0,,,h
+S2324-G1003,3,00:26.800000,POR,,LAC,,R. Rupert,POR,Rupert REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1003,4,10:19,POR,,LAC,,R. Rupert,POR,Rupert S.FOUL (P1.T2) (A.Nagy),Foul,Shooting,0,0,0,0,,,h
+S2324-G1003,4,09:48,POR,77.0,LAC,100.0,R. Rupert,POR,Rupert 2' Running Layup (2 PTS) (Reath 1 AST),Made Shot,Running Layup Shot,9,17,2,1,2.0,2.0,h
+S2324-G1003,4,05:58,POR,,LAC,,R. Rupert,POR,Rupert REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1003,4,05:51,POR,87.0,LAC,109.0,R. Rupert,POR,Rupert 6' Running Pull-Up Jump Shot (4 PTS),Made Shot,Running Pull-Up Jump Shot,-56,21,6,1,2.0,2.0,h
+S2324-G1003,4,04:17,POR,,LAC,,R. Rupert,POR,MISS Rupert 3PT Jump Shot,Missed Shot,Jump Shot,224,52,0,1,3.0,0.0,h
+S2324-G1003,4,04:12,POR,91.0,LAC,112.0,R. Rupert,POR,Rupert Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1003,4,04:12,POR,92.0,LAC,112.0,R. Rupert,POR,Rupert Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1003,4,02:39,POR,,LAC,,R. Rupert,POR,Rupert REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1003,4,02:32,POR,,LAC,,R. Rupert,POR,MISS Rupert 26' 3PT Jump Shot,Missed Shot,Jump Shot,-174,195,26,1,3.0,0.0,h
+S2324-G1003,4,02:26,POR,,LAC,,R. Rupert,POR,Rupert REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1003,4,01:00,POR,,LAC,,R. Rupert,POR,Rupert REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1003,4,00:57.500000,POR,101.0,LAC,116.0,R. Rupert,POR,Rupert 3' Running Dunk (8 PTS),Made Shot,Running Dunk Shot,-25,23,3,1,2.0,2.0,h
+S2324-G0215,4,09:44,POR,,OKC,,R. Rupert,POR,Rupert REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0215,4,09:12,POR,,OKC,,R. Rupert,POR,MISS Rupert 6' Driving Layup,Missed Shot,Driving Layup Shot,32,48,6,1,2.0,0.0,h
+S2324-G0215,4,08:10,POR,,OKC,,R. Rupert,POR,Rupert Traveling Turnover (P1.T17),Turnover,Traveling,0,0,0,0,,,h
+S2324-G0215,4,07:49,POR,,OKC,,R. Rupert,POR,MISS Rupert Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0215,4,07:49,POR,76.0,OKC,112.0,R. Rupert,POR,Rupert Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0215,4,06:51,POR,79.0,OKC,115.0,R. Rupert,POR,Rupert 25' 3PT Jump Shot (4 PTS) (Bouyea 4 AST),Made Shot,Jump Shot,-199,146,25,1,3.0,3.0,h
+S2324-G0215,4,06:32,POR,,OKC,,R. Rupert,POR,Rupert STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0215,4,05:13,POR,,OKC,,R. Rupert,POR,MISS Rupert 8' Driving Layup,Missed Shot,Driving Layup Shot,6,79,8,1,2.0,0.0,h
+S2324-G0215,4,03:04,POR,,OKC,,R. Rupert,POR,MISS Rupert 24' 3PT Jump Shot,Missed Shot,Jump Shot,-233,55,24,1,3.0,0.0,h
+S2324-G0215,4,01:13,POR,,OKC,,R. Rupert,POR,MISS Rupert 25' 3PT Jump Shot,Missed Shot,Jump Shot,121,221,25,1,3.0,0.0,h
+S2324-G0023,4,00:59.400000,UTA,,POR,,R. Rupert,POR,MISS Rupert 11' Jump Shot,Missed Shot,Jump Shot,-62,86,11,1,2.0,0.0,v
+S2324-G0023,4,00:41.400000,UTA,,POR,,R. Rupert,POR,MISS Rupert Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0023,4,00:41.400000,UTA,115.0,POR,99.0,R. Rupert,POR,Rupert Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0023,4,00:22.600000,UTA,,POR,,R. Rupert,POR,MISS Rupert 8' Jump Shot,Missed Shot,Jump Shot,-32,75,8,1,2.0,0.0,v
+S2324-G0605,4,05:49,LAL,,POR,,R. Rupert,POR,Rupert REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0605,4,05:49,LAL,,POR,,R. Rupert,POR,MISS Rupert Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2324-G0605,4,03:03,LAL,,POR,,R. Rupert,POR,MISS Rupert 3PT Jump Shot,Missed Shot,Jump Shot,-224,42,0,1,3.0,0.0,v
+S2324-G0605,4,02:05,LAL,,POR,,R. Rupert,POR,MISS Rupert 25' 3PT Jump Shot,Missed Shot,Jump Shot,161,192,25,1,3.0,0.0,v
+S2324-G0605,4,01:28,LAL,130.0,POR,105.0,R. Rupert,POR,Rupert 2' Driving Reverse Layup (2 PTS) (Camara 1 AST),Made Shot,Driving Reverse Layup Shot,22,4,2,1,2.0,2.0,v
+S2324-G0605,4,00:46.800000,LAL,132.0,POR,107.0,R. Rupert,POR,Rupert Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0605,4,00:46.800000,LAL,132.0,POR,108.0,R. Rupert,POR,Rupert Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0605,4,00:25.300000,LAL,134.0,POR,110.0,R. Rupert,POR,Rupert 3' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,-31,6,3,1,2.0,2.0,v
+S2324-G1038,1,11:19,HOU,,POR,,R. Rupert,POR,Rupert P.FOUL (P1.T1) (S.Mehta),Foul,Personal,0,0,0,0,,,v
+S2324-G1038,1,11:07,HOU,,POR,,R. Rupert,POR,Rupert REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1038,1,10:07,HOU,,POR,,R. Rupert,POR,Rupert Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G1038,1,09:04,HOU,,POR,,R. Rupert,POR,Rupert REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1038,1,07:56,HOU,,POR,,R. Rupert,POR,Rupert S.FOUL (P2.T2) (S.Foster),Foul,Shooting,0,0,0,0,,,v
+S2324-G1038,1,07:56,HOU,,POR,,R. Rupert,POR,SUB: Banton FOR Rupert,Substitution,,0,0,0,0,,,v
+S2324-G1038,1,01:47,HOU,,POR,,R. Rupert,POR,MISS Rupert 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,0,59,6,1,2.0,0.0,v
+S2324-G1038,1,00:43.300000,HOU,,POR,,R. Rupert,POR,MISS Rupert 3' Driving Layup,Missed Shot,Driving Layup Shot,34,6,3,1,2.0,0.0,v
+S2324-G1038,2,09:52,HOU,32.0,POR,37.0,R. Rupert,POR,Rupert 25' 3PT Jump Shot (3 PTS) (Banton 3 AST),Made Shot,Jump Shot,-210,134,25,1,3.0,3.0,v
+S2324-G1038,2,09:06,HOU,,POR,,R. Rupert,POR,Rupert REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1038,2,05:54,HOU,,POR,,R. Rupert,POR,MISS Rupert 2' Running Layup,Missed Shot,Running Layup Shot,-23,8,2,1,2.0,0.0,v
+S2324-G1038,2,05:04,HOU,,POR,,R. Rupert,POR,MISS Rupert 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-121,-4,12,1,2.0,0.0,v
+S2324-G1038,2,04:29,HOU,,POR,,R. Rupert,POR,SUB: Murray FOR Rupert,Substitution,,0,0,0,0,,,v
+S2324-G1038,3,09:44,HOU,,POR,,R. Rupert,POR,Rupert REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1038,3,09:15,HOU,53.0,POR,58.0,R. Rupert,POR,Rupert 3PT Pullup Jump Shot (6 PTS) (Henderson 3 AST),Made Shot,Pullup Jump shot,-234,11,0,1,3.0,3.0,v
+S2324-G1038,3,08:45,HOU,55.0,POR,61.0,R. Rupert,POR,Rupert 26' 3PT Jump Shot (9 PTS) (Henderson 4 AST),Made Shot,Jump Shot,-180,191,26,1,3.0,3.0,v
+S2324-G1038,3,06:45,HOU,,POR,,R. Rupert,POR,MISS Rupert 26' 3PT Jump Shot,Missed Shot,Jump Shot,25,258,26,1,3.0,0.0,v
+S2324-G1038,3,05:47,HOU,,POR,,R. Rupert,POR,Rupert S.FOUL (P3.T3) (N.Sago),Foul,Shooting,0,0,0,0,,,v
+S2324-G1038,3,05:47,HOU,,POR,,R. Rupert,POR,SUB: Walker FOR Rupert,Substitution,,0,0,0,0,,,v
+S2324-G0916,1,03:49,POR,,HOU,,R. Rupert,POR,Rupert Traveling Turnover (P1.T1),Turnover,Traveling,0,0,0,0,,,h
+S2324-G0916,1,00:04,POR,,HOU,,R. Rupert,POR,Rupert S.FOUL (P1.T3) (B.Nansel),Foul,Shooting,0,0,0,0,,,h
+S2324-G0916,2,05:54,POR,,HOU,,R. Rupert,POR,Rupert REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0916,2,03:13,POR,,HOU,,R. Rupert,POR,SUB: Banton FOR Rupert,Substitution,,0,0,0,0,,,h
+S2324-G0916,3,02:15,POR,,HOU,,R. Rupert,POR,Rupert Lost Ball Turnover (P2.T13),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0916,4,03:40,POR,,HOU,,R. Rupert,POR,Rupert REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0916,4,03:37,POR,,HOU,,R. Rupert,POR,Rupert Bad Pass Turnover (P3.T17),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0916,4,01:28,POR,,HOU,,R. Rupert,POR,Rupert S.FOUL (P2.PN) (D.Collins),Foul,Shooting,0,0,0,0,,,h
+S2324-G0916,4,00:09.900000,POR,107.0,HOU,123.0,R. Rupert,POR,Rupert 3' Driving Reverse Layup (2 PTS) (Murray 7 AST),Made Shot,Driving Reverse Layup Shot,-34,7,3,1,2.0,2.0,h
+S2324-G0668,4,03:34,POR,,PHI,,R. Rupert,POR,Rupert REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0668,4,01:50,POR,,PHI,,R. Rupert,POR,Rupert REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0668,4,01:48,POR,,PHI,,R. Rupert,POR,MISS Rupert 2' Putback Layup,Missed Shot,Putback Layup Shot,-15,14,2,1,2.0,0.0,h
+S2324-G0668,4,00:44.600000,POR,,PHI,,R. Rupert,POR,Rupert STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0668,4,00:35.200000,POR,,PHI,,R. Rupert,POR,MISS Rupert 2' Driving Layup,Missed Shot,Driving Layup Shot,-15,13,2,1,2.0,0.0,h
+S2324-G0900,1,01:49,POR,,OKC,,R. Rupert,POR,Rupert S.FOUL (P1.PN) (R.Hussey),Foul,Shooting,0,0,0,0,,,h
+S2324-G0900,1,00:58.800000,POR,,OKC,,R. Rupert,POR,MISS Rupert 24' 3PT Jump Shot,Missed Shot,Jump Shot,-230,53,24,1,3.0,0.0,h
+S2324-G0900,1,00:47.700000,POR,,OKC,,R. Rupert,POR,Rupert S.FOUL (P2.PN) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,h
+S2324-G0900,2,11:01,POR,,OKC,,R. Rupert,POR,Rupert STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0900,2,10:19,POR,,OKC,,R. Rupert,POR,MISS Rupert 26' 3PT Jump Shot,Missed Shot,Jump Shot,-134,226,26,1,3.0,0.0,h
+S2324-G0900,2,09:58,POR,,OKC,,R. Rupert,POR,MISS Rupert 7' Running Layup,Missed Shot,Running Layup Shot,-50,44,7,1,2.0,0.0,h
+S2324-G0900,2,08:54,POR,,OKC,,R. Rupert,POR,MISS Rupert 6' Driving Layup,Missed Shot,Driving Layup Shot,-1,59,6,1,2.0,0.0,h
+S2324-G0900,2,08:22,POR,,OKC,,R. Rupert,POR,MISS Rupert 24' 3PT Jump Shot,Missed Shot,Jump Shot,-230,68,24,1,3.0,0.0,h
+S2324-G0900,2,08:12,POR,,OKC,,R. Rupert,POR,SUB: Reath FOR Rupert,Substitution,,0,0,0,0,,,h
+S2324-G0900,3,04:09,POR,,OKC,,R. Rupert,POR,Rupert S.FOUL (P3.T4) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,h
+S2324-G0900,3,03:27,POR,78.0,OKC,84.0,R. Rupert,POR,Rupert 24' 3PT Jump Shot (3 PTS) (Simons 4 AST),Made Shot,Jump Shot,-234,52,24,1,3.0,3.0,h
+S2324-G0900,3,02:30,POR,,OKC,,R. Rupert,POR,Rupert REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0900,4,09:24,POR,,OKC,,R. Rupert,POR,SUB: Murray FOR Rupert,Substitution,,0,0,0,0,,,h
+S2324-G0399,4,01:10,GSW,,POR,,R. Rupert,POR,MISS Rupert 3' Driving Layup,Missed Shot,Driving Layup Shot,-1,29,3,1,2.0,0.0,v
+S2324-G0970,1,02:00,NOP,,POR,,R. Rupert,POR,Rupert REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0970,1,01:14,NOP,,POR,,R. Rupert,POR,Rupert Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0970,1,01:09,NOP,,POR,,R. Rupert,POR,Rupert P.FOUL (P1.PN) (D.Mosher),Foul,Personal,0,0,0,0,,,v
+S2324-G0970,2,08:56,NOP,,POR,,R. Rupert,POR,Rupert Out of Bounds Lost Ball Turnover (P2.T6),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2324-G0970,2,08:26,NOP,,POR,,R. Rupert,POR,SUB: Simons FOR Rupert,Substitution,,0,0,0,0,,,v
+S2324-G0970,4,10:43,NOP,,POR,,R. Rupert,POR,SUB: Simons FOR Rupert,Substitution,,0,0,0,0,,,v
+S2324-G0970,4,01:00,NOP,124.0,POR,106.0,R. Rupert,POR,Rupert Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0970,4,01:00,NOP,124.0,POR,107.0,R. Rupert,POR,Rupert Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0970,4,00:31.800000,NOP,,POR,,R. Rupert,POR,MISS Rupert 7' Driving Bank Hook Shot,Missed Shot,Driving Bank Hook Shot,-38,58,7,1,2.0,0.0,v
+S2324-G1183,1,06:43,POR,,HOU,,R. Rupert,POR,SUB: Banton FOR Rupert,Substitution,,0,0,0,0,,,h
+S2324-G1183,1,01:46,POR,,HOU,,R. Rupert,POR,Rupert STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1183,1,01:10,POR,24.0,HOU,18.0,R. Rupert,POR,Rupert 25' 3PT Running Jump Shot (3 PTS) (Minaya 1 AST),Made Shot,Running Jump Shot,174,185,25,1,3.0,3.0,h
+S2324-G1183,1,00:04.300000,POR,,HOU,,R. Rupert,POR,MISS Rupert 26' 3PT Jump Shot,Missed Shot,Jump Shot,-131,220,26,1,3.0,0.0,h
+S2324-G1183,2,11:38,POR,,HOU,,R. Rupert,POR,MISS Rupert 9' Running Layup,Missed Shot,Running Layup Shot,69,50,9,1,2.0,0.0,h
+S2324-G1183,2,11:20,POR,,HOU,,R. Rupert,POR,Rupert Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G1183,2,09:04,POR,,HOU,,R. Rupert,POR,MISS Rupert Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G1183,2,09:04,POR,29.0,HOU,33.0,R. Rupert,POR,Rupert Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1183,2,08:01,POR,,HOU,,R. Rupert,POR,MISS Rupert 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,132,215,25,1,3.0,0.0,h
+S2324-G1183,2,05:24,POR,,HOU,,R. Rupert,POR,SUB: Banton FOR Rupert,Substitution,,0,0,0,0,,,h
+S2324-G1183,3,06:46,POR,,HOU,,R. Rupert,POR,Rupert REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1183,3,06:46,POR,,HOU,,R. Rupert,POR,MISS Rupert Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2324-G1183,3,04:01,POR,,HOU,,R. Rupert,POR,SUB: Minaya FOR Rupert,Substitution,,0,0,0,0,,,h
+S2324-G1183,4,11:37,POR,,HOU,,R. Rupert,POR,Rupert REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1183,4,10:20,POR,,HOU,,R. Rupert,POR,MISS Rupert 26' 3PT Jump Shot,Missed Shot,Jump Shot,-76,253,26,1,3.0,0.0,h
+S2324-G1183,4,08:33,POR,,HOU,,R. Rupert,POR,SUB: Murray FOR Rupert,Substitution,,0,0,0,0,,,h
+S2324-G1068,1,09:25,MIA,,POR,,R. Rupert,POR,Rupert STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G1068,1,09:19,MIA,4.0,POR,9.0,R. Rupert,POR,Rupert 3' Running Dunk (2 PTS),Made Shot,Running Dunk Shot,20,22,3,1,2.0,2.0,v
+S2324-G1068,1,07:32,MIA,,POR,,R. Rupert,POR,Rupert P.FOUL (P1.T3) (B.Barnaky),Foul,Personal,0,0,0,0,,,v
+S2324-G1068,1,04:45,MIA,,POR,,R. Rupert,POR,Rupert REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1068,1,04:04,MIA,,POR,,R. Rupert,POR,Rupert S.FOUL (P2.T4) (S.Mitchell),Foul,Shooting,0,0,0,0,,,v
+S2324-G1068,1,04:04,MIA,,POR,,R. Rupert,POR,SUB: Thybulle FOR Rupert,Substitution,,0,0,0,0,,,v
+S2324-G1068,2,02:52,MIA,,POR,,R. Rupert,POR,Rupert Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G1068,3,11:28,MIA,,POR,,R. Rupert,POR,Rupert OFF.Foul (P3) (S.Mitchell),Foul,Offensive,0,0,0,0,,,v
+S2324-G1068,3,11:28,MIA,,POR,,R. Rupert,POR,Rupert Offensive Foul Turnover (P2.T11),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G1068,3,10:23,MIA,,POR,,R. Rupert,POR,Rupert P.FOUL (P4.T1) (B.Barnaky),Foul,Personal,0,0,0,0,,,v
+S2324-G1068,3,10:23,MIA,,POR,,R. Rupert,POR,SUB: Minaya FOR Rupert,Substitution,,0,0,0,0,,,v
+S2324-G1068,4,06:34,MIA,,POR,,R. Rupert,POR,MISS Rupert 27' 3PT Jump Shot,Missed Shot,Jump Shot,168,208,27,1,3.0,0.0,v
+S2324-G1068,4,06:27,MIA,,POR,,R. Rupert,POR,Rupert REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1068,4,04:16,MIA,,POR,,R. Rupert,POR,Rupert REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1068,4,04:08,MIA,,POR,,R. Rupert,POR,MISS Rupert 7' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,31,61,7,1,2.0,0.0,v
+S2324-G1068,4,03:24,MIA,,POR,,R. Rupert,POR,MISS Rupert 9' Floating Jump Shot,Missed Shot,Floating Jump shot,20,85,9,1,2.0,0.0,v
+S2324-G1068,4,03:22,MIA,,POR,,R. Rupert,POR,Rupert REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1068,4,03:20,MIA,130.0,POR,78.0,R. Rupert,POR,Rupert 7' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,32,62,7,1,2.0,2.0,v
+S2324-G1068,4,02:43,MIA,,POR,,R. Rupert,POR,Rupert P.FOUL (P5.PN) (Z.Zarba),Foul,Personal,0,0,0,0,,,v
+S2324-G1068,4,01:18,MIA,137.0,POR,80.0,R. Rupert,POR,Rupert 4' Driving Reverse Layup (6 PTS) (Walker 2 AST),Made Shot,Driving Reverse Layup Shot,-23,35,4,1,2.0,2.0,v
+S2324-G1068,4,00:16,MIA,,POR,,R. Rupert,POR,Rupert Lost Ball Turnover (P3.T24),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0881,1,02:55,,,POR,,R. Rupert,POR,Rupert REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0881,1,02:09,,19.0,POR,22.0,R. Rupert,POR,Rupert 3' Driving Layup (2 PTS) (Brown 1 AST),Made Shot,Driving Layup Shot,-18,25,3,1,2.0,2.0,v
+S2324-G0881,1,02:00,,,POR,,R. Rupert,POR,MISS Rupert 8' Fadeaway Bank Shot,Missed Shot,Fadeaway Bank shot,-28,70,8,1,2.0,0.0,v
+S2324-G0881,1,00:55.300000,,,POR,,R. Rupert,POR,MISS Rupert 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-115,46,12,1,2.0,0.0,v
+S2324-G0881,2,10:42,,28.0,POR,32.0,R. Rupert,POR,Rupert 5' Driving Floating Jump Shot (4 PTS) (Brown 2 AST),Made Shot,Driving Floating Jump Shot,20,43,5,1,2.0,2.0,v
+S2324-G0881,2,09:46,,,POR,,R. Rupert,POR,Rupert S.FOUL (P1.T3) (K.Scott),Foul,Shooting,0,0,0,0,,,v
+S2324-G0881,2,06:59,,,POR,,R. Rupert,POR,SUB: Walker FOR Rupert,Substitution,,0,0,0,0,,,v
+S2324-G0881,3,05:16,,75.0,POR,69.0,R. Rupert,POR,Rupert 24' 3PT Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,-180,161,24,1,3.0,3.0,v
+S2324-G0881,3,04:16,,,POR,,R. Rupert,POR,Rupert REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0881,3,03:30,,,POR,,R. Rupert,POR,Rupert REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0881,4,11:15,,,POR,,R. Rupert,POR,Rupert S.FOUL (P2.T1) (E.Scott),Foul,Shooting,0,0,0,0,,,v
+S2324-G0881,4,11:13,,,POR,,R. Rupert,POR,Rupert REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0881,4,09:28,,,POR,,R. Rupert,POR,Rupert REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0881,4,07:03,,97.0,POR,87.0,R. Rupert,POR,Rupert 3PT Jump Shot (10 PTS) (Simons 11 AST),Made Shot,Jump Shot,-225,9,0,1,3.0,3.0,v
+S2324-G0881,4,06:17,,,POR,,R. Rupert,POR,Rupert Lost Ball Turnover (P1.T12),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0881,4,05:55,,102.0,POR,90.0,R. Rupert,POR,Rupert 24' 3PT Pullup Jump Shot (13 PTS) (Banton 3 AST),Made Shot,Pullup Jump shot,-210,122,24,1,3.0,3.0,v
+S2324-G0881,4,05:46,,,POR,,R. Rupert,POR,Rupert P.FOUL (P3.T2) (K.Scott),Foul,Personal,0,0,0,0,,,v
+S2324-G0881,4,03:23,,,POR,,R. Rupert,POR,Rupert REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0881,4,03:04,,,POR,,R. Rupert,POR,SUB: Walker FOR Rupert,Substitution,,0,0,0,0,,,v
+S2324-G1117,1,11:20,WAS,,POR,,R. Rupert,POR,Rupert REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1117,1,10:37,WAS,,POR,,R. Rupert,POR,Rupert REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1117,1,10:32,WAS,,POR,,R. Rupert,POR,MISS Rupert 6' Driving Layup,Missed Shot,Driving Layup Shot,-36,50,6,1,2.0,0.0,v
+S2324-G1117,1,10:23,WAS,,POR,,R. Rupert,POR,Rupert STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G1117,1,09:59,WAS,,POR,,R. Rupert,POR,Rupert REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1117,1,09:20,WAS,,POR,,R. Rupert,POR,MISS Rupert 3PT Jump Shot,Missed Shot,Jump Shot,-227,4,0,1,3.0,0.0,v
+S2324-G1117,1,07:14,WAS,,POR,,R. Rupert,POR,Rupert REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1117,1,07:07,WAS,,POR,,R. Rupert,POR,Rupert Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G1117,1,06:49,WAS,,POR,,R. Rupert,POR,SUB: Banton FOR Rupert,Substitution,,0,0,0,0,,,v
+S2324-G1117,1,03:48,WAS,18.0,POR,18.0,R. Rupert,POR,Rupert 27' 3PT Jump Shot (3 PTS) (Ayton 2 AST),Made Shot,Jump Shot,-83,262,27,1,3.0,3.0,v
+S2324-G1117,1,01:42,WAS,,POR,,R. Rupert,POR,Rupert S.FOUL (P1.T3) (G.Petraitis),Foul,Shooting,0,0,0,0,,,v
+S2324-G1117,1,00:01.300000,WAS,,POR,,R. Rupert,POR,Rupert STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G1117,2,10:14,WAS,,POR,,R. Rupert,POR,Rupert REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1117,2,08:52,WAS,,POR,,R. Rupert,POR,Rupert S.FOUL (P2.PN) (S.Wright),Foul,Shooting,0,0,0,0,,,v
+S2324-G1117,2,04:10,WAS,,POR,,R. Rupert,POR,SUB: Minaya FOR Rupert,Substitution,,0,0,0,0,,,v
+S2324-G1117,3,11:07,WAS,,POR,,R. Rupert,POR,MISS Rupert 26' 3PT Jump Shot,Missed Shot,Jump Shot,-174,193,26,1,3.0,0.0,v
+S2324-G1117,3,10:27,WAS,,POR,,R. Rupert,POR,Rupert BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G1117,3,06:49,WAS,,POR,,R. Rupert,POR,SUB: Banton FOR Rupert,Substitution,,0,0,0,0,,,v
+S2324-G1117,3,01:17,WAS,,POR,,R. Rupert,POR,MISS Rupert 3PT Jump Shot,Missed Shot,Jump Shot,230,-17,0,1,3.0,0.0,v
+S2324-G1117,4,11:15,WAS,,POR,,R. Rupert,POR,Rupert P.FOUL (P3.T1) (J.Sterling),Foul,Personal,0,0,0,0,,,v
+S2324-G1117,4,09:47,WAS,,POR,,R. Rupert,POR,MISS Rupert 26' 3PT Jump Shot,Missed Shot,Jump Shot,-228,121,26,1,3.0,0.0,v
+S2324-G1117,4,09:03,WAS,,POR,,R. Rupert,POR,Rupert REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1117,4,08:49,WAS,,POR,,R. Rupert,POR,MISS Rupert 4' Driving Layup,Missed Shot,Driving Layup Shot,-33,16,4,1,2.0,0.0,v
+S2324-G1117,4,08:37,WAS,,POR,,R. Rupert,POR,Rupert S.FOUL (P4.T3) (S.Wright),Foul,Shooting,0,0,0,0,,,v
+S2324-G1117,4,07:28,WAS,,POR,,R. Rupert,POR,Rupert REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1117,4,07:28,WAS,,POR,,R. Rupert,POR,MISS Rupert 3' Layup,Missed Shot,Layup Shot,18,22,3,1,2.0,0.0,v
+S2324-G1117,4,07:18,WAS,,POR,,R. Rupert,POR,Rupert S.FOUL (P5.T4) (G.Petraitis),Foul,Shooting,0,0,0,0,,,v
+S2324-G1117,4,07:18,WAS,,POR,,R. Rupert,POR,SUB: Banton FOR Rupert,Substitution,,0,0,0,0,,,v
+S2324-G1157,1,11:09,POR,,NOP,,R. Rupert,POR,MISS Rupert 24' 3PT Jump Shot,Missed Shot,Jump Shot,-239,42,24,1,3.0,0.0,h
+S2324-G1157,1,07:15,POR,11.0,NOP,10.0,R. Rupert,POR,Rupert 26' 3PT Jump Shot (3 PTS) (Murray 2 AST),Made Shot,Jump Shot,-143,219,26,1,3.0,3.0,h
+S2324-G1157,1,06:18,POR,,NOP,,R. Rupert,POR,Rupert S.FOUL (P1.T2) (C.Flores),Foul,Shooting,0,0,0,0,,,h
+S2324-G1157,1,03:45,POR,,NOP,,R. Rupert,POR,SUB: Minaya FOR Rupert,Substitution,,0,0,0,0,,,h
+S2324-G1157,2,11:36,POR,,NOP,,R. Rupert,POR,Rupert REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1157,2,09:23,POR,,NOP,,R. Rupert,POR,Rupert REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1157,2,08:43,POR,,NOP,,R. Rupert,POR,Rupert REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1157,2,06:13,POR,,NOP,,R. Rupert,POR,MISS Rupert 5' Driving Layup,Missed Shot,Driving Layup Shot,-50,15,5,1,2.0,0.0,h
+S2324-G1157,2,05:05,POR,,NOP,,R. Rupert,POR,Rupert REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1157,2,03:41,POR,,NOP,,R. Rupert,POR,MISS Rupert 26' 3PT Jump Shot,Missed Shot,Jump Shot,138,222,26,1,3.0,0.0,h
+S2324-G1157,2,02:03,POR,,NOP,,R. Rupert,POR,SUB: Banton FOR Rupert,Substitution,,0,0,0,0,,,h
+S2324-G1157,3,07:28,POR,,NOP,,R. Rupert,POR,SUB: Banton FOR Rupert,Substitution,,0,0,0,0,,,h
+S2324-G1157,4,11:38,POR,,NOP,,R. Rupert,POR,Jump Ball Rupert vs. Daniels: Tip to Banton,Jump Ball,,0,0,0,0,,,h
+S2324-G1157,4,09:21,POR,,NOP,,R. Rupert,POR,SUB: Ayton FOR Rupert,Substitution,,0,0,0,0,,,h
+S2324-G1157,4,07:28,POR,,NOP,,R. Rupert,POR,MISS Rupert 24' 3PT Jump Shot,Missed Shot,Jump Shot,-234,29,24,1,3.0,0.0,h
+S2324-G1157,4,03:48,POR,,NOP,,R. Rupert,POR,Rupert Out of Bounds Lost Ball Turnover (P1.T22),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2324-G1157,4,02:48,POR,,NOP,,R. Rupert,POR,MISS Rupert 24' 3PT Jump Shot,Missed Shot,Jump Shot,230,52,24,1,3.0,0.0,h
+S2324-G1157,4,01:40,POR,94.0,NOP,108.0,R. Rupert,POR,Rupert 24' 3PT Jump Shot (6 PTS) (Minaya 2 AST),Made Shot,Jump Shot,-237,28,24,1,3.0,3.0,h
+S2324-G1157,4,00:55.800000,POR,,NOP,,R. Rupert,POR,MISS Rupert 3' Running Layup,Missed Shot,Running Layup Shot,-10,33,3,1,2.0,0.0,h
+S2324-G1157,4,00:06.900000,POR,,NOP,,R. Rupert,POR,MISS Rupert 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,48,71,9,1,2.0,0.0,h
+S2324-G1090,1,11:24,ORL,,POR,,R. Rupert,POR,MISS Rupert 24' 3PT Jump Shot,Missed Shot,Jump Shot,243,2,24,1,3.0,0.0,v
+S2324-G1090,1,08:39,ORL,,POR,,R. Rupert,POR,MISS Rupert 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1,155,16,1,2.0,0.0,v
+S2324-G1090,1,07:36,ORL,7.0,POR,5.0,R. Rupert,POR,Rupert 27' 3PT Jump Shot (3 PTS) (Ayton 2 AST),Made Shot,Jump Shot,-96,257,27,1,3.0,3.0,v
+S2324-G1090,1,05:52,ORL,,POR,,R. Rupert,POR,MISS Rupert 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,109,238,26,1,3.0,0.0,v
+S2324-G1090,1,05:46,ORL,,POR,,R. Rupert,POR,Rupert S.FOUL (P1.PN) (M.Kallio),Foul,Shooting,0,0,0,0,,,v
+S2324-G1090,1,04:25,ORL,,POR,,R. Rupert,POR,SUB: Murray FOR Rupert,Substitution,,0,0,0,0,,,v
+S2324-G1090,2,10:08,ORL,27.0,POR,29.0,R. Rupert,POR,Rupert 2' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,-13,20,2,1,2.0,2.0,v
+S2324-G1090,2,08:21,ORL,,POR,,R. Rupert,POR,Rupert P.FOUL (P2.T2) (B.Forte),Foul,Personal,0,0,0,0,,,v
+S2324-G1090,2,06:17,ORL,,POR,,R. Rupert,POR,MISS Rupert 28' 3PT Jump Shot,Missed Shot,Jump Shot,170,223,28,1,3.0,0.0,v
+S2324-G1090,2,03:49,ORL,,POR,,R. Rupert,POR,Rupert Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G1090,2,03:33,ORL,,POR,,R. Rupert,POR,MISS Rupert 3' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,-9,33,3,1,2.0,0.0,v
+S2324-G1090,2,02:52,ORL,,POR,,R. Rupert,POR,SUB: Banton FOR Rupert,Substitution,,0,0,0,0,,,v
+S2324-G1090,3,08:33,ORL,63.0,POR,61.0,R. Rupert,POR,Rupert 27' 3PT Jump Shot (8 PTS) (Henderson 6 AST),Made Shot,Jump Shot,-151,224,27,1,3.0,3.0,v
+S2324-G1090,3,07:46,ORL,,POR,,R. Rupert,POR,MISS Rupert 9' Driving Hook Shot,Missed Shot,Driving Hook Shot,-88,22,9,1,2.0,0.0,v
+S2324-G1090,3,07:27,ORL,,POR,,R. Rupert,POR,Rupert REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1090,3,05:27,ORL,,POR,,R. Rupert,POR,MISS Rupert 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-119,26,12,1,2.0,0.0,v
+S2324-G1090,3,05:14,ORL,73.0,POR,66.0,R. Rupert,POR,Rupert 25' 3PT Running Jump Shot (11 PTS) (Henderson 7 AST),Made Shot,Running Jump Shot,-213,140,25,1,3.0,3.0,v
+S2324-G1090,3,00:54.700000,ORL,,POR,,R. Rupert,POR,Rupert STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G1090,4,04:42,ORL,,POR,,R. Rupert,POR,Rupert S.FOUL (P3.T2) (B.Forte),Foul,Shooting,0,0,0,0,,,v
+S2324-G1090,4,03:29,ORL,,POR,,R. Rupert,POR,SUB: Murray FOR Rupert,Substitution,,0,0,0,0,,,v
+S2324-G0199,4,02:22,POR,,CLE,,R. Rupert,POR,Rupert OFF.Foul (P1) (M.Smith),Foul,Offensive,0,0,0,0,,,h
+S2324-G0199,4,02:22,POR,,CLE,,R. Rupert,POR,Rupert Offensive Foul Turnover (P1.T14),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0199,4,00:41.300000,POR,,CLE,,R. Rupert,POR,MISS Rupert 26' 3PT Jump Shot,Missed Shot,Jump Shot,-159,208,26,1,3.0,0.0,h

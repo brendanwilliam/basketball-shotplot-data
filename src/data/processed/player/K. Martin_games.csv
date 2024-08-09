@@ -1,0 +1,612 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2324-G0335,4,04:19,CHA,,PHI,,K. Martin,PHI,Martin STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0335,4,03:14,CHA,,PHI,,K. Martin,PHI,Martin STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0335,4,00:40.300000,CHA,,PHI,,K. Martin,PHI,Martin P.FOUL (P1.PN) (J.Van Duyne),Foul,Personal,0,0,0,0,,,v
+S2324-G0698,1,01:21,PHI,,BKN,,K. Martin,PHI,Martin S.FOUL (P1.T2) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,h
+S2324-G0698,2,11:48,PHI,,BKN,,K. Martin,PHI,MISS Martin 3' Driving Layup,Missed Shot,Driving Layup Shot,-16,21,3,1,2.0,0.0,h
+S2324-G0698,2,11:39,PHI,,BKN,,K. Martin,PHI,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0698,2,11:36,PHI,24.0,BKN,38.0,K. Martin,PHI,Martin 2' Running Finger Roll Layup (2 PTS),Made Shot,Running Finger Roll Layup Shot,0,16,2,1,2.0,2.0,h
+S2324-G0698,2,08:50,PHI,26.0,BKN,49.0,K. Martin,PHI,Martin 2' Driving Hook Shot (4 PTS) (Maxey 2 AST),Made Shot,Driving Hook Shot,-12,21,2,1,2.0,2.0,h
+S2324-G0698,2,08:37,PHI,,BKN,,K. Martin,PHI,SUB: Oubre Jr. FOR Martin,Substitution,,0,0,0,0,,,h
+S2324-G0698,3,07:10,PHI,,BKN,,K. Martin,PHI,MISS Martin 3' Driving Layup,Missed Shot,Driving Layup Shot,-27,0,3,1,2.0,0.0,h
+S2324-G0698,3,07:07,PHI,65.0,BKN,85.0,K. Martin,PHI,Martin 3PT Jump Shot (7 PTS) (Maxey 5 AST),Made Shot,Jump Shot,-222,10,0,1,3.0,3.0,h
+S2324-G0698,3,05:45,PHI,,BKN,,K. Martin,PHI,MISS Martin 2' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,2,19,2,1,2.0,0.0,h
+S2324-G0698,3,04:13,PHI,,BKN,,K. Martin,PHI,SUB: Bamba FOR Martin,Substitution,,0,0,0,0,,,h
+S2324-G0698,4,09:11,PHI,88.0,BKN,111.0,K. Martin,PHI,Martin Running Dunk (9 PTS) (Beverley 9 AST),Made Shot,Running Dunk Shot,-1,-2,0,1,2.0,2.0,h
+S2324-G0698,4,07:51,PHI,,BKN,,K. Martin,PHI,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0698,4,07:45,PHI,92.0,BKN,115.0,K. Martin,PHI,Martin 3' Running Layup (11 PTS) (Springer 3 AST),Made Shot,Running Layup Shot,-1,34,3,1,2.0,2.0,h
+S2324-G0698,4,02:31,PHI,,BKN,,K. Martin,PHI,Martin REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0698,4,01:47,PHI,,BKN,,K. Martin,PHI,Martin REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0698,4,00:52.100000,PHI,,BKN,,K. Martin,PHI,MISS Martin 25' 3PT Jump Shot,Missed Shot,Jump Shot,-40,246,25,1,3.0,0.0,h
+S2324-G0909,1,03:58,PHI,,NOP,,K. Martin,PHI,Martin REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0909,1,03:57,PHI,,NOP,,K. Martin,PHI,MISS Martin 4' Putback Layup,Missed Shot,Putback Layup Shot,-29,27,4,1,2.0,0.0,h
+S2324-G0909,2,11:22,PHI,,NOP,,K. Martin,PHI,Martin Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0909,2,11:19,PHI,,NOP,,K. Martin,PHI,Martin S.FOUL (P1.T1) (E.Dalen),Foul,Shooting,0,0,0,0,,,h
+S2324-G0909,2,09:35,PHI,,NOP,,K. Martin,PHI,MISS Martin 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-221,99,24,1,3.0,0.0,h
+S2324-G0909,2,08:26,PHI,,NOP,,K. Martin,PHI,SUB: Harris FOR Martin,Substitution,,0,0,0,0,,,h
+S2324-G0909,3,01:21,PHI,,NOP,,K. Martin,PHI,Martin S.FOUL (P2.PN) (E.Dalen),Foul,Shooting,0,0,0,0,,,h
+S2324-G0909,3,00:06.100000,PHI,,NOP,,K. Martin,PHI,MISS Martin 2' Driving Layup,Missed Shot,Driving Layup Shot,-10,14,2,1,2.0,0.0,h
+S2324-G0909,4,10:43,PHI,,NOP,,K. Martin,PHI,Martin REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0909,4,05:49,PHI,,NOP,,K. Martin,PHI,Martin P.FOUL (P3.T4) (E.Dalen),Foul,Personal,0,0,0,0,,,h
+S2324-G0909,4,05:49,PHI,,NOP,,K. Martin,PHI,SUB: Oubre Jr. FOR Martin,Substitution,,0,0,0,0,,,h
+S2324-G0753,1,05:10,WAS,,PHI,,K. Martin,PHI,Martin S.FOUL (P1.T3) (S.Wall),Foul,Shooting,0,0,0,0,,,v
+S2324-G0753,1,04:55,WAS,,PHI,,K. Martin,PHI,Martin REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0753,1,04:55,WAS,19.0,PHI,16.0,K. Martin,PHI,Martin 1' Putback Dunk (2 PTS),Made Shot,Putback Dunk Shot,1,14,1,1,2.0,2.0,v
+S2324-G0753,1,01:02,WAS,,PHI,,K. Martin,PHI,Martin BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0753,1,00:31.300000,WAS,23.0,PHI,32.0,K. Martin,PHI,Martin 3' Driving Layup (4 PTS) (Hield 2 AST),Made Shot,Driving Layup Shot,-27,13,3,1,2.0,2.0,v
+S2324-G0753,2,04:13,WAS,,PHI,,K. Martin,PHI,SUB: Maxey FOR Martin,Substitution,,0,0,0,0,,,v
+S2324-G0753,3,06:02,WAS,,PHI,,K. Martin,PHI,MISS Martin 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,50,48,7,1,2.0,0.0,v
+S2324-G0753,3,05:16,WAS,,PHI,,K. Martin,PHI,Martin S.FOUL (P2.T4) (S.Wall),Foul,Shooting,0,0,0,0,,,v
+S2324-G0753,3,04:48,WAS,,PHI,,K. Martin,PHI,Martin L.B.FOUL (P3.PN) (S.Wall),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0753,3,00:53.700000,WAS,,PHI,,K. Martin,PHI,Martin REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0753,4,09:09,WAS,,PHI,,K. Martin,PHI,SUB: Harris FOR Martin,Substitution,,0,0,0,0,,,v
+S2324-G0753,4,03:15,WAS,,PHI,,K. Martin,PHI,SUB: Hield FOR Martin,Substitution,,0,0,0,0,,,v
+S2324-G0495,1,01:02,PHI,,UTA,,K. Martin,PHI,Martin STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0495,1,00:33.700000,PHI,28.0,UTA,29.0,K. Martin,PHI,Martin Cutting Dunk Shot (2 PTS) (Beverley 1 AST),Made Shot,Cutting Dunk Shot,-2,-1,0,1,2.0,2.0,h
+S2324-G0495,1,00:21.300000,PHI,,UTA,,K. Martin,PHI,Martin S.FOUL (P1.T4) (S.Mehta),Foul,Shooting,0,0,0,0,,,h
+S2324-G0495,1,00:06.200000,PHI,,UTA,,K. Martin,PHI,MISS Martin 3PT Jump Shot,Missed Shot,Jump Shot,-232,-6,0,1,3.0,0.0,h
+S2324-G0495,1,00:03.500000,PHI,,UTA,,K. Martin,PHI,SUB: Batum FOR Martin,Substitution,,0,0,0,0,,,h
+S2324-G0495,2,11:44,PHI,,UTA,,K. Martin,PHI,Martin REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0495,2,11:43,PHI,,UTA,,K. Martin,PHI,MISS Martin 2' Driving Dunk,Missed Shot,Driving Dunk Shot,18,17,2,1,2.0,0.0,h
+S2324-G0495,2,10:47,PHI,33.0,UTA,35.0,K. Martin,PHI,Martin Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0495,2,10:47,PHI,,UTA,,K. Martin,PHI,MISS Martin Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0495,2,10:24,PHI,,UTA,,K. Martin,PHI,Martin L.B.FOUL (P2.T2) (S.Mehta),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0495,2,09:03,PHI,,UTA,,K. Martin,PHI,Martin S.FOUL (P3.T4) (E.Dalen),Foul,Shooting,0,0,0,0,,,h
+S2324-G0495,2,09:03,PHI,,UTA,,K. Martin,PHI,SUB: Reed FOR Martin,Substitution,,0,0,0,0,,,h
+S2324-G0495,2,02:01,PHI,54.0,UTA,54.0,K. Martin,PHI,Martin Cutting Dunk Shot (5 PTS) (Maxey 2 AST),Made Shot,Cutting Dunk Shot,0,2,0,1,2.0,2.0,h
+S2324-G0495,3,01:12,PHI,77.0,UTA,82.0,K. Martin,PHI,Martin 1' Running Finger Roll Layup (7 PTS) (Batum 4 AST),Made Shot,Running Finger Roll Layup Shot,1,13,1,1,2.0,2.0,h
+S2324-G0495,3,00:31.100000,PHI,,UTA,,K. Martin,PHI,Martin L.B.FOUL (P4.PN) (E.Dalen),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0495,3,00:31.100000,PHI,,UTA,,K. Martin,PHI,SUB: Oubre Jr. FOR Martin,Substitution,,0,0,0,0,,,h
+S2324-G0495,4,10:58,PHI,,UTA,,K. Martin,PHI,MISS Martin 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,2,16,2,1,2.0,0.0,h
+S2324-G0495,4,09:44,PHI,,UTA,,K. Martin,PHI,Martin REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0495,4,07:21,PHI,,UTA,,K. Martin,PHI,SUB: Morris Sr. FOR Martin,Substitution,,0,0,0,0,,,h
+S2324-G0495,4,00:30.900000,PHI,109.0,UTA,120.0,K. Martin,PHI,Martin Cutting Dunk Shot (9 PTS) (Maxey 9 AST),Made Shot,Cutting Dunk Shot,4,-1,0,1,2.0,2.0,h
+S2324-G0483,4,07:08,PHI,,NYK,,K. Martin,PHI,Martin L.B.FOUL (P1.T4) (P.Fraher),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0483,4,06:22,PHI,,NYK,,K. Martin,PHI,Martin S.FOUL (P2.PN) (P.Fraher),Foul,Shooting,0,0,0,0,,,h
+S2324-G1093,2,03:41,PHI,37.0,OKC,39.0,K. Martin,PHI,Martin 2' Running Reverse Layup (2 PTS) (Harris 2 AST),Made Shot,Running Reverse Layup Shot,5,23,2,1,2.0,2.0,h
+S2324-G1093,3,00:01.900000,PHI,,OKC,,K. Martin,PHI,MISS Martin 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,7,40,4,1,2.0,0.0,h
+S2324-G1093,4,10:40,PHI,,OKC,,K. Martin,PHI,SUB: Embiid FOR Martin,Substitution,,0,0,0,0,,,h
+S2324-G0969,1,02:35,PHI,,,,K. Martin,PHI,Martin Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0969,1,02:15,PHI,24.0,,20.0,K. Martin,PHI,Martin 6' Driving Floating Jump Shot (2 PTS) (Hield 1 AST),Made Shot,Driving Floating Jump Shot,-5,63,6,1,2.0,2.0,h
+S2324-G0969,1,02:15,PHI,25.0,,20.0,K. Martin,PHI,Martin Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G0969,1,02:05,PHI,,,,K. Martin,PHI,Martin P.FOUL (P1.T4) (S.Wall),Foul,Personal,0,0,0,0,,,h
+S2324-G0969,1,01:47,PHI,,,,K. Martin,PHI,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0969,2,11:01,PHI,,,,K. Martin,PHI,Martin REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0969,2,09:48,PHI,,,,K. Martin,PHI,Martin P.FOUL (P2.T1) (S.Corbin),Foul,Personal,0,0,0,0,,,h
+S2324-G0969,2,09:38,PHI,,,,K. Martin,PHI,MISS Martin 1' Running Layup,Missed Shot,Running Layup Shot,-1,6,1,1,2.0,0.0,h
+S2324-G0969,2,09:02,PHI,37.0,,32.0,K. Martin,PHI,Martin 26' 3PT Jump Shot (6 PTS) (Payne 2 AST),Made Shot,Jump Shot,186,186,26,1,3.0,3.0,h
+S2324-G0969,2,08:49,PHI,,,,K. Martin,PHI,SUB: Lowry FOR Martin,Substitution,,0,0,0,0,,,h
+S2324-G0969,3,01:21,PHI,,,,K. Martin,PHI,Martin REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0969,4,11:30,PHI,,,,K. Martin,PHI,Martin S.FOUL (P3.T1) (J.Goble),Foul,Shooting,0,0,0,0,,,h
+S2324-G0969,4,10:28,PHI,,,,K. Martin,PHI,Martin AWAY.FROM.PLAY.FOUL (P4.T3) (J.Goble),Foul,Away From Play,0,0,0,0,,,h
+S2324-G0969,4,09:16,PHI,,,,K. Martin,PHI,SUB: Maxey FOR Martin,Substitution,,0,0,0,0,,,h
+S2324-G0532,4,01:22,PHI,107.0,SAC,87.0,K. Martin,PHI,Martin 2' Cutting Dunk Shot (2 PTS) (Beverley 7 AST),Made Shot,Cutting Dunk Shot,0,15,2,1,2.0,2.0,h
+S2324-G0939,4,08:23,NYK,,PHI,,K. Martin,PHI,MISS Martin 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-16,16,2,1,2.0,0.0,v
+S2324-G0939,4,04:14,NYK,,PHI,,K. Martin,PHI,MISS Martin 5' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-37,34,5,1,2.0,0.0,v
+S2324-G0128,4,00:40.400000,PHI,,TOR,,K. Martin,PHI,Martin P.FOUL (P1.PN) (J.Orr),Foul,Personal,0,0,0,0,,,h
+S2324-G0295,4,04:10,PHI,,WAS,,K. Martin,PHI,Martin S.FOUL (P1.PN) (K.Lane),Foul,Shooting,0,0,0,0,,,h
+S2324-G0295,4,02:39,PHI,,WAS,,K. Martin,PHI,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0295,4,02:26,PHI,139.0,WAS,95.0,K. Martin,PHI,Martin 1' Cutting Dunk Shot (2 PTS) (Bamba 2 AST),Made Shot,Cutting Dunk Shot,-4,9,1,1,2.0,2.0,h
+S2324-G1129,1,05:06,MEM,,PHI,,K. Martin,PHI,Martin REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1129,1,05:06,MEM,12.0,PHI,16.0,K. Martin,PHI,Martin Putback Layup (2 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,v
+S2324-G1129,1,03:08,MEM,,PHI,,K. Martin,PHI,Martin Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G1129,1,02:01,MEM,,PHI,,K. Martin,PHI,Martin REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1129,1,01:18,MEM,,PHI,,K. Martin,PHI,Martin OFF.Foul (P1) (I.Hwang),Foul,Offensive,0,0,0,0,,,v
+S2324-G1129,1,01:18,MEM,,PHI,,K. Martin,PHI,Martin Offensive Foul Turnover (P2.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G1129,1,00:00,MEM,,PHI,,K. Martin,PHI,Martin BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G1129,2,10:35,MEM,,PHI,,K. Martin,PHI,MISS Martin 1' Running Layup,Missed Shot,Running Layup Shot,0,-8,1,1,2.0,0.0,v
+S2324-G1129,2,10:31,MEM,,PHI,,K. Martin,PHI,Martin REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1129,2,10:31,MEM,23.0,PHI,34.0,K. Martin,PHI,Martin Putback Layup (4 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,v
+S2324-G1129,2,08:46,MEM,,PHI,,K. Martin,PHI,Martin REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1129,2,08:18,MEM,,PHI,,K. Martin,PHI,SUB: Oubre Jr. FOR Martin,Substitution,,0,0,0,0,,,v
+S2324-G1129,2,03:56,MEM,,PHI,,K. Martin,PHI,Martin REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1129,2,03:51,MEM,33.0,PHI,46.0,K. Martin,PHI,Martin Putback Layup (6 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,v
+S2324-G1129,2,02:20,MEM,,PHI,,K. Martin,PHI,Martin REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1129,2,02:10,MEM,,PHI,,K. Martin,PHI,Martin P.FOUL (P2.PN) (N.Sago),Foul,Personal,0,0,0,0,,,v
+S2324-G1129,2,02:10,MEM,,PHI,,K. Martin,PHI,SUB: Embiid FOR Martin,Substitution,,0,0,0,0,,,v
+S2324-G1129,3,03:56,MEM,,PHI,,K. Martin,PHI,Martin OFF.Foul (P3) (C.Kirkland),Foul,Offensive,0,0,0,0,,,v
+S2324-G1129,3,03:56,MEM,,PHI,,K. Martin,PHI,Martin Offensive Foul Turnover (P3.T14),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G1129,3,02:45,MEM,68.0,PHI,83.0,K. Martin,PHI,Martin 1' Running Finger Roll Layup (8 PTS) (Reed 3 AST),Made Shot,Running Finger Roll Layup Shot,-9,5,1,1,2.0,2.0,v
+S2324-G1129,3,01:23,MEM,,PHI,,K. Martin,PHI,MISS Martin 2' Alley Oop Dunk,Missed Shot,Alley Oop Dunk Shot,16,6,2,1,2.0,0.0,v
+S2324-G1129,3,01:16,MEM,,PHI,,K. Martin,PHI,Martin BLOCK (2 BLK),,,0,0,0,0,,,v
+S2324-G1129,4,02:51,MEM,90.0,PHI,114.0,K. Martin,PHI,Martin 1' Alley Oop Dunk (10 PTS) (Smith 1 AST),Made Shot,Alley Oop Dunk Shot,-4,3,1,1,2.0,2.0,v
+S2324-G0779,1,10:57,PHI,5.0,MIA,2.0,K. Martin,PHI,Martin 24' 3PT Jump Shot (3 PTS) (Hield 1 AST),Made Shot,Jump Shot,-237,9,24,1,3.0,3.0,h
+S2324-G0779,1,10:28,PHI,7.0,MIA,5.0,K. Martin,PHI,Martin 1' Alley Oop Dunk (5 PTS) (Maxey 1 AST),Made Shot,Alley Oop Dunk Shot,-4,9,1,1,2.0,2.0,h
+S2324-G0779,1,08:41,PHI,,MIA,,K. Martin,PHI,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0779,1,05:17,PHI,,MIA,,K. Martin,PHI,MISS Martin 24' 3PT Jump Shot,Missed Shot,Jump Shot,233,32,24,1,3.0,0.0,h
+S2324-G0779,1,05:11,PHI,,MIA,,K. Martin,PHI,SUB: Council IV FOR Martin,Substitution,,0,0,0,0,,,h
+S2324-G0779,2,08:41,PHI,,MIA,,K. Martin,PHI,MISS Martin 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,31,29,4,1,2.0,0.0,h
+S2324-G0779,2,06:19,PHI,48.0,MIA,46.0,K. Martin,PHI,Martin 3' Layup (7 PTS) (Hield 3 AST),Made Shot,Layup Shot,22,17,3,1,2.0,2.0,h
+S2324-G0779,2,04:40,PHI,52.0,MIA,51.0,K. Martin,PHI,Martin 1' Dunk (9 PTS) (Reed 2 AST),Made Shot,Dunk Shot,4,8,1,1,2.0,2.0,h
+S2324-G0779,2,03:15,PHI,,MIA,,K. Martin,PHI,Martin REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0779,2,02:10,PHI,,MIA,,K. Martin,PHI,MISS Martin 7' Floating Jump Shot,Missed Shot,Floating Jump shot,62,36,7,1,2.0,0.0,h
+S2324-G0779,2,02:05,PHI,,MIA,,K. Martin,PHI,Martin Violation:Defensive Goaltending (S.Foster),Violation,Defensive Goaltending,0,0,0,0,,,h
+S2324-G0779,2,01:33,PHI,,MIA,,K. Martin,PHI,Martin S.FOUL (P1.PN) (S.Foster),Foul,Shooting,0,0,0,0,,,h
+S2324-G0779,2,00:46.200000,PHI,,MIA,,K. Martin,PHI,SUB: Payne FOR Martin,Substitution,,0,0,0,0,,,h
+S2324-G0779,3,11:42,PHI,,MIA,,K. Martin,PHI,Martin Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0779,3,11:34,PHI,,MIA,,K. Martin,PHI,Martin REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0779,3,11:06,PHI,,MIA,,K. Martin,PHI,Martin REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0779,3,07:35,PHI,,MIA,,K. Martin,PHI,Martin REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0779,3,06:58,PHI,,MIA,,K. Martin,PHI,SUB: Smith FOR Martin,Substitution,,0,0,0,0,,,h
+S2324-G0779,4,00:01,PHI,,MIA,,K. Martin,PHI,Martin Lost Ball Turnover (P2.T14),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0132,4,01:02,PHI,,PHX,,K. Martin,PHI,Martin Out of Bounds Lost Ball Turnover (P1.T18),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2324-G0132,4,00:19,PHI,,PHX,,K. Martin,PHI,Martin S.FOUL (P1.PN) (E.Dalen),Foul,Shooting,0,0,0,0,,,h
+S2324-G0958,1,00:43.800000,MIL,,PHI,,K. Martin,PHI,Martin STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0958,1,00:04,MIL,,PHI,,K. Martin,PHI,SUB: Batum FOR Martin,Substitution,,0,0,0,0,,,v
+S2324-G0958,2,08:32,MIL,30.0,PHI,36.0,K. Martin,PHI,Martin Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0958,2,08:32,MIL,30.0,PHI,37.0,K. Martin,PHI,Martin Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0958,2,06:50,MIL,,PHI,,K. Martin,PHI,Martin S.FOUL (P1.T2) (J.Williams),Foul,Shooting,0,0,0,0,,,v
+S2324-G0958,2,05:41,MIL,,PHI,,K. Martin,PHI,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0958,2,03:49,MIL,,PHI,,K. Martin,PHI,SUB: Harris FOR Martin,Substitution,,0,0,0,0,,,v
+S2324-G0958,3,03:31,MIL,,PHI,,K. Martin,PHI,Martin P.FOUL (P2.T3) (J.Williams),Foul,Personal,0,0,0,0,,,v
+S2324-G0958,3,01:58,MIL,,PHI,,K. Martin,PHI,Martin STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0958,3,01:51,MIL,76.0,PHI,79.0,K. Martin,PHI,Martin 2' Driving Layup (4 PTS) (Maxey 3 AST),Made Shot,Driving Layup Shot,-1,20,2,1,2.0,2.0,v
+S2324-G0958,3,00:05.200000,MIL,,PHI,,K. Martin,PHI,Martin L.B.FOUL (P3.T4) (J.Williams),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0958,4,00:36.100000,MIL,,PHI,,K. Martin,PHI,Martin Personal Take Foul (P4.PN) (J.Goble),Foul,Personal Take,0,0,0,0,,,v
+S2324-G0958,4,00:36.100000,MIL,,PHI,,K. Martin,PHI,SUB: Hield FOR Martin,Substitution,,0,0,0,0,,,v
+S2324-G0148,4,00:46.600000,PHI,,WAS,,K. Martin,PHI,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0148,4,00:22.100000,PHI,,WAS,,K. Martin,PHI,MISS Martin 2' Running Dunk,Missed Shot,Running Dunk Shot,-4,19,2,1,2.0,0.0,h
+S2324-G0627,1,06:06,IND,,PHI,,K. Martin,PHI,Martin P.FOUL (P1.T4) (N.Green),Foul,Personal,0,0,0,0,,,v
+S2324-G0627,1,02:55,IND,,PHI,,K. Martin,PHI,Martin OFF.Foul (P2) (N.Green),Foul,Offensive,0,0,0,0,,,v
+S2324-G0627,1,02:55,IND,,PHI,,K. Martin,PHI,Martin Offensive Foul Turnover (P1.T3),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0627,1,00:00.700000,IND,,PHI,,K. Martin,PHI,MISS Martin 2' Dunk,Missed Shot,Dunk Shot,22,6,2,1,2.0,0.0,v
+S2324-G0627,1,00:00.700000,IND,,PHI,,K. Martin,PHI,Martin REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0627,2,05:20,IND,51.0,PHI,44.0,K. Martin,PHI,Martin Dunk (2 PTS) (Maxey 2 AST),Made Shot,Dunk Shot,-1,1,0,1,2.0,2.0,v
+S2324-G0627,2,04:51,IND,,PHI,,K. Martin,PHI,Martin STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0627,2,02:35,IND,,PHI,,K. Martin,PHI,SUB: Beverley FOR Martin,Substitution,,0,0,0,0,,,v
+S2324-G0627,3,06:51,IND,,PHI,,K. Martin,PHI,MISS Martin 27' 3PT Jump Shot,Missed Shot,Jump Shot,-17,267,27,1,3.0,0.0,v
+S2324-G0627,3,05:26,IND,,PHI,,K. Martin,PHI,Martin S.FOUL (P3.PN) (J.Goble),Foul,Shooting,0,0,0,0,,,v
+S2324-G0627,3,01:33,IND,,PHI,,K. Martin,PHI,Martin REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0627,3,00:02.100000,IND,,PHI,,K. Martin,PHI,Martin Out of Bounds Lost Ball Turnover (P2.T9),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2324-G0627,4,10:06,IND,,PHI,,K. Martin,PHI,Martin REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0627,4,09:56,IND,,PHI,,K. Martin,PHI,Martin L.B.FOUL (P4.T1) (J.Goble),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0627,4,06:22,IND,118.0,PHI,101.0,K. Martin,PHI,Martin 3' Cutting Layup Shot (4 PTS) (Smith 2 AST),Made Shot,Cutting Layup Shot,-22,21,3,1,2.0,2.0,v
+S2324-G0627,4,06:22,IND,118.0,PHI,102.0,K. Martin,PHI,Martin Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G0627,4,05:07,IND,,PHI,,K. Martin,PHI,Martin STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0627,4,04:17,IND,123.0,PHI,109.0,K. Martin,PHI,Martin 3' Running Finger Roll Layup (7 PTS),Made Shot,Running Finger Roll Layup Shot,-2,25,3,1,2.0,2.0,v
+S2324-G0627,4,04:17,IND,,PHI,,K. Martin,PHI,MISS Martin Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2324-G0627,4,03:47,IND,,PHI,,K. Martin,PHI,MISS Martin Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0627,4,03:47,IND,,PHI,,K. Martin,PHI,MISS Martin Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0627,4,02:08,IND,130.0,PHI,114.0,K. Martin,PHI,Martin 3' Driving Finger Roll Layup (9 PTS) (Smith 4 AST),Made Shot,Driving Finger Roll Layup Shot,-2,26,3,1,2.0,2.0,v
+S2324-G0627,4,00:57.100000,IND,132.0,PHI,117.0,K. Martin,PHI,Martin Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0627,4,00:57.100000,IND,132.0,PHI,118.0,K. Martin,PHI,Martin Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0762,1,11:01,CLE,,PHI,,K. Martin,PHI,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0762,1,10:23,CLE,,PHI,,K. Martin,PHI,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0762,1,10:23,CLE,,PHI,,K. Martin,PHI,Martin Step Out of Bounds Turnover (P1.T2),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2324-G0762,1,09:45,CLE,,PHI,,K. Martin,PHI,Martin P.FOUL (P1.T1) (M.Kogut),Foul,Personal,0,0,0,0,,,v
+S2324-G0762,1,09:22,CLE,,PHI,,K. Martin,PHI,Martin REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0762,1,07:23,CLE,12.0,PHI,10.0,K. Martin,PHI,Martin 1' Running Dunk (2 PTS) (Maxey 2 AST),Made Shot,Running Dunk Shot,-4,13,1,1,2.0,2.0,v
+S2324-G0762,1,06:44,CLE,,PHI,,K. Martin,PHI,SUB: Payne FOR Martin,Substitution,,0,0,0,0,,,v
+S2324-G0762,2,05:50,CLE,46.0,PHI,52.0,K. Martin,PHI,Martin 1' Running Reverse Layup (4 PTS) (Payne 4 AST),Made Shot,Running Reverse Layup Shot,-7,-2,1,1,2.0,2.0,v
+S2324-G0762,2,04:19,CLE,,PHI,,K. Martin,PHI,Martin REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0762,2,04:17,CLE,48.0,PHI,57.0,K. Martin,PHI,Martin 6' Putback Layup (6 PTS),Made Shot,Putback Layup Shot,45,34,6,1,2.0,2.0,v
+S2324-G0762,2,02:07,CLE,54.0,PHI,61.0,K. Martin,PHI,Martin 1' Running Alley Oop Dunk Shot (8 PTS) (Maxey 7 AST),Made Shot,Running Alley Oop Dunk Shot,0,9,1,1,2.0,2.0,v
+S2324-G0762,2,02:06,CLE,,PHI,,K. Martin,PHI,Martin HANGING.TECH.FOUL (P1.T1) (M.Kogut),Foul,Hanging Technical,0,0,0,0,,,v
+S2324-G0762,2,00:55.600000,CLE,,PHI,,K. Martin,PHI,Martin P.FOUL (P2.T2) (N.Buchert),Foul,Personal,0,0,0,0,,,v
+S2324-G0762,2,00:40.700000,CLE,,PHI,,K. Martin,PHI,Martin P.FOUL (P3.PN) (J.Schroeder),Foul,Personal,0,0,0,0,,,v
+S2324-G0762,2,00:40.700000,CLE,,PHI,,K. Martin,PHI,SUB: Payne FOR Martin,Substitution,,0,0,0,0,,,v
+S2324-G0762,3,10:01,CLE,,PHI,,K. Martin,PHI,Martin REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0762,3,10:01,CLE,65.0,PHI,72.0,K. Martin,PHI,Martin Tip Dunk Shot (10 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,v
+S2324-G0762,3,07:50,CLE,,PHI,,K. Martin,PHI,Martin OFF.Foul (P4) (N.Buchert),Foul,Offensive,0,0,0,0,,,v
+S2324-G0762,3,07:50,CLE,,PHI,,K. Martin,PHI,Martin Offensive Foul Turnover (P2.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0762,3,07:00,CLE,,PHI,,K. Martin,PHI,SUB: Council IV FOR Martin,Substitution,,0,0,0,0,,,v
+S2324-G0762,4,07:07,CLE,,PHI,,K. Martin,PHI,Martin REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0762,4,05:53,CLE,,PHI,,K. Martin,PHI,Martin REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0762,4,00:57.900000,CLE,,PHI,,K. Martin,PHI,SUB: Payne FOR Martin,Substitution,,0,0,0,0,,,v
+S2324-G0762,4,00:29.800000,CLE,,PHI,,K. Martin,PHI,Martin REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0871,1,00:55.100000,DAL,,PHI,,K. Martin,PHI,Martin STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0871,2,10:02,DAL,,PHI,,K. Martin,PHI,SUB: Harris FOR Martin,Substitution,,0,0,0,0,,,v
+S2324-G0099,1,01:49,LAC,,SAS,,K. Martin,LAC,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0099,2,11:05,LAC,,SAS,,K. Martin,LAC,Martin Lost Ball Turnover (P1.T8),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0099,2,10:20,LAC,,SAS,,K. Martin,LAC,MISS Martin Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0099,2,10:20,LAC,28.0,SAS,17.0,K. Martin,LAC,Martin Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0099,2,10:05,LAC,,SAS,,K. Martin,LAC,SUB: Covington FOR Martin,Substitution,,0,0,0,0,,,h
+S2324-G0099,3,01:10,LAC,,SAS,,K. Martin,LAC,MISS Martin 3PT Jump Shot,Missed Shot,Jump Shot,229,36,0,1,3.0,0.0,h
+S2324-G0099,3,00:50.500000,LAC,,SAS,,K. Martin,LAC,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0099,3,00:39.400000,LAC,,SAS,,K. Martin,LAC,Martin OFF.Foul (P1) (Z.Zarba),Foul,Offensive,0,0,0,0,,,h
+S2324-G0099,3,00:39.400000,LAC,,SAS,,K. Martin,LAC,Martin Offensive Foul Turnover (P2.T12),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0099,4,10:33,LAC,97.0,SAS,65.0,K. Martin,LAC,Martin 5' Driving Hook Shot (3 PTS) (Hyland 1 AST),Made Shot,Driving Hook Shot,5,53,5,1,2.0,2.0,h
+S2324-G0099,4,09:03,LAC,,SAS,,K. Martin,LAC,Martin STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0099,4,08:46,LAC,,SAS,,K. Martin,LAC,MISS Martin 26' 3PT Jump Shot,Missed Shot,Jump Shot,136,222,26,1,3.0,0.0,h
+S2324-G0099,4,06:01,LAC,,SAS,,K. Martin,LAC,Martin BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0099,4,05:48,LAC,108.0,SAS,78.0,K. Martin,LAC,Martin 3PT Jump Shot (6 PTS) (Powell 1 AST),Made Shot,Jump Shot,-228,2,0,1,3.0,3.0,h
+S2324-G0099,4,03:09,LAC,115.0,SAS,81.0,K. Martin,LAC,Martin Running Alley Oop Dunk Shot (8 PTS) (Brown 1 AST),Made Shot,Running Alley Oop Dunk Shot,-2,2,0,1,2.0,2.0,h
+S2324-G0099,4,03:08,LAC,,SAS,,K. Martin,LAC,Martin HANGING.TECH.FOUL (P1.T0) (J.Van Duyne),Foul,Hanging Technical,0,0,0,0,,,h
+S2324-G0099,4,01:36,LAC,120.0,SAS,82.0,K. Martin,LAC,Martin 1' Cutting Dunk Shot (10 PTS) (Diabate 1 AST),Made Shot,Cutting Dunk Shot,6,-1,1,1,2.0,2.0,h
+S2324-G0555,4,05:32,PHI,,HOU,,K. Martin,PHI,Martin S.FOUL (P1.T4) (B.Haskill),Foul,Shooting,0,0,0,0,,,h
+S2324-G0555,4,04:35,PHI,,HOU,,K. Martin,PHI,MISS Martin Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,-4,0,1,2.0,0.0,h
+S2324-G0555,4,01:57,PHI,,HOU,,K. Martin,PHI,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0715,4,04:08,PHI,,DAL,,K. Martin,PHI,MISS Martin 27' 3PT Jump Shot,Missed Shot,Jump Shot,-202,183,27,1,3.0,0.0,h
+S2324-G0715,4,03:46,PHI,93.0,DAL,109.0,K. Martin,PHI,Martin 2' Running Layup (2 PTS) (Springer 3 AST),Made Shot,Running Layup Shot,-13,20,2,1,2.0,2.0,h
+S2324-G0715,4,03:11,PHI,94.0,DAL,111.0,K. Martin,PHI,Martin Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0715,4,03:11,PHI,,DAL,,K. Martin,PHI,MISS Martin Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0715,4,02:44,PHI,,DAL,,K. Martin,PHI,Martin Lost Ball Turnover (P1.T11),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0715,4,02:39,PHI,,DAL,,K. Martin,PHI,Martin BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0715,4,02:37,PHI,,DAL,,K. Martin,PHI,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0715,4,00:58.900000,PHI,100.0,DAL,118.0,K. Martin,PHI,Martin Running Dunk (5 PTS) (Springer 4 AST),Made Shot,Running Dunk Shot,2,2,0,1,2.0,2.0,h
+S2324-G0742,1,02:08,PHI,,ATL,,K. Martin,PHI,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0742,1,01:48,PHI,,ATL,,K. Martin,PHI,Martin P.FOUL (P1.T4) (C.Flores),Foul,Personal,0,0,0,0,,,h
+S2324-G0742,1,00:02.900000,PHI,,ATL,,K. Martin,PHI,SUB: Payne FOR Martin,Substitution,,0,0,0,0,,,h
+S2324-G0742,2,04:41,PHI,,ATL,,K. Martin,PHI,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0742,2,04:38,PHI,,ATL,,K. Martin,PHI,MISS Martin Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0742,2,04:38,PHI,43.0,ATL,55.0,K. Martin,PHI,Martin Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0742,2,03:34,PHI,47.0,ATL,59.0,K. Martin,PHI,Martin 1' Driving Layup (3 PTS) (Bamba 1 AST),Made Shot,Driving Layup Shot,4,6,1,1,2.0,2.0,h
+S2324-G0742,2,02:42,PHI,,ATL,,K. Martin,PHI,Martin REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0742,2,02:40,PHI,,ATL,,K. Martin,PHI,Martin Lost Ball Turnover (P1.T6),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0742,2,00:52.100000,PHI,,ATL,,K. Martin,PHI,Martin REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0742,2,00:52.100000,PHI,54.0,ATL,70.0,K. Martin,PHI,Martin Tip Layup Shot (5 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2324-G0742,2,00:39.100000,PHI,,ATL,,K. Martin,PHI,SUB: Payne FOR Martin,Substitution,,0,0,0,0,,,h
+S2324-G0742,3,06:45,PHI,,ATL,,K. Martin,PHI,MISS Martin 2' Layup,Missed Shot,Layup Shot,-17,17,2,1,2.0,0.0,h
+S2324-G0742,3,02:51,PHI,,ATL,,K. Martin,PHI,Martin L.B.FOUL (P2.T3) (D.Taylor),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0742,3,02:39,PHI,,ATL,,K. Martin,PHI,Martin STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0742,3,01:42,PHI,,ATL,,K. Martin,PHI,Martin REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0742,3,00:50.600000,PHI,,ATL,,K. Martin,PHI,MISS Martin 26' 3PT Jump Shot,Missed Shot,Jump Shot,-138,226,26,1,3.0,0.0,h
+S2324-G0742,3,00:44.100000,PHI,,ATL,,K. Martin,PHI,Martin P.FOUL (P3.T4) (D.Taylor),Foul,Personal,0,0,0,0,,,h
+S2324-G0742,3,00:00,PHI,,ATL,,K. Martin,PHI,Martin REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0742,4,10:22,PHI,,ATL,,K. Martin,PHI,Martin P.FOUL (P4.T1) (D.Taylor),Foul,Personal,0,0,0,0,,,h
+S2324-G0742,4,10:22,PHI,,ATL,,K. Martin,PHI,SUB: Council IV FOR Martin,Substitution,,0,0,0,0,,,h
+S2324-G0794,1,02:08,PHI,,NYK,,K. Martin,PHI,MISS Martin 8' Floating Jump Shot,Missed Shot,Floating Jump shot,13,80,8,1,2.0,0.0,h
+S2324-G0794,2,03:49,PHI,,NYK,,K. Martin,PHI,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0794,2,01:53,PHI,,NYK,,K. Martin,PHI,Martin BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0794,2,00:30.200000,PHI,,NYK,,K. Martin,PHI,Martin S.FOUL (P1.PN) (P.Fraher),Foul,Shooting,0,0,0,0,,,h
+S2324-G0794,2,00:30.200000,PHI,,NYK,,K. Martin,PHI,SUB: Harris FOR Martin,Substitution,,0,0,0,0,,,h
+S2324-G0794,3,04:38,PHI,,NYK,,K. Martin,PHI,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0794,3,04:15,PHI,,NYK,,K. Martin,PHI,Martin REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0794,3,03:26,PHI,69.0,NYK,84.0,K. Martin,PHI,Martin 2' Layup (2 PTS) (Lowry 4 AST),Made Shot,Layup Shot,-4,20,2,1,2.0,2.0,h
+S2324-G0794,3,03:01,PHI,,NYK,,K. Martin,PHI,Martin REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0794,3,01:27,PHI,,NYK,,K. Martin,PHI,Martin REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0794,3,01:01,PHI,,NYK,,K. Martin,PHI,MISS Martin 5' Driving Layup,Missed Shot,Driving Layup Shot,-1,53,5,1,2.0,0.0,h
+S2324-G0794,3,00:31,PHI,,NYK,,K. Martin,PHI,Martin REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0794,3,00:31,PHI,79.0,NYK,91.0,K. Martin,PHI,Martin 2' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,-1,17,2,1,2.0,2.0,h
+S2324-G0794,3,00:18.400000,PHI,,NYK,,K. Martin,PHI,SUB: Hield FOR Martin,Substitution,,0,0,0,0,,,h
+S2324-G0794,4,10:17,PHI,,NYK,,K. Martin,PHI,Martin REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0794,4,09:56,PHI,,NYK,,K. Martin,PHI,Martin STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0794,4,09:26,PHI,,NYK,,K. Martin,PHI,SUB: Maxey FOR Martin,Substitution,,0,0,0,0,,,h
+S2324-G0794,4,01:14,PHI,96.0,NYK,108.0,K. Martin,PHI,Martin 1' Alley Oop Dunk (6 PTS) (Council IV 1 AST),Made Shot,Alley Oop Dunk Shot,2,7,1,1,2.0,2.0,h
+S2324-G0686,2,11:16,UTA,,PHI,,K. Martin,PHI,Martin REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0686,2,08:37,UTA,,PHI,,K. Martin,PHI,SUB: Harris FOR Martin,Substitution,,0,0,0,0,,,v
+S2324-G0686,2,06:39,UTA,,PHI,,K. Martin,PHI,MISS Martin 4' Running Layup,Missed Shot,Running Layup Shot,-40,20,4,1,2.0,0.0,v
+S2324-G0686,2,05:56,UTA,,PHI,,K. Martin,PHI,SUB: House Jr. FOR Martin,Substitution,,0,0,0,0,,,v
+S2324-G0805,1,06:18,PHI,,CLE,,K. Martin,PHI,Martin P.FOUL (P1.T3) (T.Brothers),Foul,Personal,0,0,0,0,,,h
+S2324-G0805,1,06:03,PHI,,CLE,,K. Martin,PHI,Martin BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0805,1,06:01,PHI,,CLE,,K. Martin,PHI,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0805,1,02:30,PHI,,CLE,,K. Martin,PHI,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0805,1,02:11,PHI,,CLE,,K. Martin,PHI,Martin S.FOUL (P2.PN) (B.Adair),Foul,Shooting,0,0,0,0,,,h
+S2324-G0805,1,02:11,PHI,,CLE,,K. Martin,PHI,SUB: Council IV FOR Martin,Substitution,,0,0,0,0,,,h
+S2324-G0805,2,07:35,PHI,,CLE,,K. Martin,PHI,Martin REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0805,2,06:25,PHI,,CLE,,K. Martin,PHI,Martin REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0805,2,06:20,PHI,40.0,CLE,38.0,K. Martin,PHI,Martin Putback Layup (2 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,h
+S2324-G0805,2,05:58,PHI,,CLE,,K. Martin,PHI,Martin REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0805,2,03:21,PHI,47.0,CLE,45.0,K. Martin,PHI,Martin Cutting Layup Shot (4 PTS) (Maxey 2 AST),Made Shot,Cutting Layup Shot,-1,0,0,1,2.0,2.0,h
+S2324-G0805,2,03:09,PHI,,CLE,,K. Martin,PHI,SUB: Harris FOR Martin,Substitution,,0,0,0,0,,,h
+S2324-G0805,3,06:12,PHI,,CLE,,K. Martin,PHI,MISS Martin 3' Reverse Layup,Missed Shot,Reverse Layup Shot,20,17,3,1,2.0,0.0,h
+S2324-G0805,3,04:25,PHI,,CLE,,K. Martin,PHI,Martin S.FOUL (P3.PN) (B.Adair),Foul,Shooting,0,0,0,0,,,h
+S2324-G0805,3,03:41,PHI,,CLE,,K. Martin,PHI,MISS Martin 2' Layup,Missed Shot,Layup Shot,17,8,2,1,2.0,0.0,h
+S2324-G0805,3,01:50,PHI,72.0,CLE,67.0,K. Martin,PHI,Martin 3' Layup (6 PTS) (Harris 4 AST),Made Shot,Layup Shot,9,29,3,1,2.0,2.0,h
+S2324-G0805,3,01:50,PHI,,CLE,,K. Martin,PHI,MISS Martin Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2324-G0805,3,01:00,PHI,,CLE,,K. Martin,PHI,Martin REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1042,1,07:15,SAC,,PHI,,K. Martin,PHI,Martin REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1042,1,07:15,SAC,,PHI,,K. Martin,PHI,MISS Martin Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2324-G1042,1,07:09,SAC,,PHI,,K. Martin,PHI,Martin AWAY.FROM.PLAY.FOUL (P1.T4) (C.Kirkland),Foul,Away From Play,0,0,0,0,,,v
+S2324-G1042,1,06:05,SAC,,PHI,,K. Martin,PHI,Martin REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1042,1,03:15,SAC,,PHI,,K. Martin,PHI,Martin S.FOUL (P2.PN) (C.Kirkland),Foul,Shooting,0,0,0,0,,,v
+S2324-G1042,1,01:40,SAC,,PHI,,K. Martin,PHI,Martin OFF.Foul (P3) (M.Dagher),Foul,Offensive,0,0,0,0,,,v
+S2324-G1042,1,01:40,SAC,,PHI,,K. Martin,PHI,Martin Offensive Foul Turnover (P1.T1),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G1042,1,01:14,SAC,,PHI,,K. Martin,PHI,SUB: Council IV FOR Martin,Substitution,,0,0,0,0,,,v
+S2324-G1042,2,03:53,SAC,,PHI,,K. Martin,PHI,Martin OFF.Foul (P4) (M.Dagher),Foul,Offensive,0,0,0,0,,,v
+S2324-G1042,2,03:53,SAC,,PHI,,K. Martin,PHI,Martin Offensive Foul Turnover (P2.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G1042,2,03:53,SAC,,PHI,,K. Martin,PHI,SUB: Hield FOR Martin,Substitution,,0,0,0,0,,,v
+S2324-G1042,3,05:36,SAC,,PHI,,K. Martin,PHI,MISS Martin 6' Driving Dunk,Missed Shot,Driving Dunk Shot,-5,57,6,1,2.0,0.0,v
+S2324-G1042,3,05:29,SAC,,PHI,,K. Martin,PHI,Martin BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G1042,3,02:52,SAC,,PHI,,K. Martin,PHI,Martin REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1042,3,02:24,SAC,,PHI,,K. Martin,PHI,Martin REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1042,3,02:18,SAC,,PHI,,K. Martin,PHI,Martin REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1042,3,02:18,SAC,75.0,PHI,62.0,K. Martin,PHI,Martin Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2324-G1042,4,10:49,SAC,,PHI,,K. Martin,PHI,MISS Martin 25' 3PT Jump Shot,Missed Shot,Jump Shot,-1,246,25,1,3.0,0.0,v
+S2324-G1042,4,10:19,SAC,,PHI,,K. Martin,PHI,MISS Martin 25' 3PT Jump Shot,Missed Shot,Jump Shot,-76,237,25,1,3.0,0.0,v
+S2324-G1042,4,10:07,SAC,,PHI,,K. Martin,PHI,SUB: Harris FOR Martin,Substitution,,0,0,0,0,,,v
+S2324-G1042,4,00:41.100000,SAC,105.0,PHI,95.0,K. Martin,PHI,Martin 1' Layup (4 PTS) (Wilson 2 AST),Made Shot,Layup Shot,-12,8,1,1,2.0,2.0,v
+S2324-G1042,4,00:31.800000,SAC,,PHI,,K. Martin,PHI,Martin Personal Take Foul (P5.PN) (C.Kirkland),Foul,Personal Take,0,0,0,0,,,v
+S2324-G0887,2,11:45,BKN,,PHI,,K. Martin,PHI,MISS Martin 16' Reverse Layup,Missed Shot,Reverse Layup Shot,-164,-2,16,1,2.0,0.0,v
+S2324-G0887,2,11:37,BKN,,PHI,,K. Martin,PHI,Martin STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0887,2,10:36,BKN,,PHI,,K. Martin,PHI,Martin S.FOUL (P1.T2) (J.DeRosa),Foul,Shooting,0,0,0,0,,,v
+S2324-G0887,2,10:20,BKN,24.0,PHI,35.0,K. Martin,PHI,Martin 2' Cutting Layup Shot (2 PTS) (Hield 2 AST),Made Shot,Cutting Layup Shot,-1,16,2,1,2.0,2.0,v
+S2324-G0887,2,08:33,BKN,,PHI,,K. Martin,PHI,Martin REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0887,2,08:31,BKN,,PHI,,K. Martin,PHI,Martin Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0887,2,06:56,BKN,31.0,PHI,43.0,K. Martin,PHI,Martin 1' Running Dunk (4 PTS) (Dowtin Jr. 1 AST),Made Shot,Running Dunk Shot,5,-4,1,1,2.0,2.0,v
+S2324-G0887,2,05:58,BKN,,PHI,,K. Martin,PHI,SUB: Harris FOR Martin,Substitution,,0,0,0,0,,,v
+S2324-G0887,2,00:29.800000,BKN,,PHI,,K. Martin,PHI,Martin REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0887,4,11:37,BKN,,PHI,,K. Martin,PHI,Martin REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0887,4,11:14,BKN,,PHI,,K. Martin,PHI,Martin P.FOUL (P2.T2) (C.Blair),Foul,Personal,0,0,0,0,,,v
+S2324-G0887,4,09:28,BKN,84.0,PHI,89.0,K. Martin,PHI,Martin 1' Dunk (6 PTS) (Oubre Jr. 4 AST),Made Shot,Dunk Shot,6,6,1,1,2.0,2.0,v
+S2324-G0887,4,08:24,BKN,,PHI,,K. Martin,PHI,Martin FLAGRANT.FOUL.TYPE1 (P3.T3) (J.Sterling),Foul,Flagrant Type 1,0,0,0,0,,,v
+S2324-G0887,4,07:27,BKN,,PHI,,K. Martin,PHI,SUB: Harris FOR Martin,Substitution,,0,0,0,0,,,v
+S2324-G1111,1,03:52,MIA,19.0,PHI,26.0,K. Martin,PHI,Martin 2' Alley Oop Dunk (2 PTS) (Batum 3 AST),Made Shot,Alley Oop Dunk Shot,-20,13,2,1,2.0,2.0,v
+S2324-G1111,1,03:29,MIA,,PHI,,K. Martin,PHI,Martin BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G1111,1,01:41,MIA,,PHI,,K. Martin,PHI,Martin REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1111,1,01:41,MIA,,PHI,,K. Martin,PHI,MISS Martin Tip Dunk Shot,Missed Shot,Tip Dunk Shot,0,0,0,1,2.0,0.0,v
+S2324-G1111,1,01:38,MIA,,PHI,,K. Martin,PHI,Martin REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1111,1,01:38,MIA,,PHI,,K. Martin,PHI,MISS Martin Putback Layup,Missed Shot,Putback Layup Shot,0,0,0,1,2.0,0.0,v
+S2324-G1111,1,00:49,MIA,,PHI,,K. Martin,PHI,MISS Martin 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,22,10,2,1,2.0,0.0,v
+S2324-G1111,2,09:19,MIA,,PHI,,K. Martin,PHI,SUB: Batum FOR Martin,Substitution,,0,0,0,0,,,v
+S2324-G1111,3,00:13.300000,MIA,,PHI,,K. Martin,PHI,SUB: Maxey FOR Martin,Substitution,,0,0,0,0,,,v
+S2324-G1111,4,10:54,MIA,,PHI,,K. Martin,PHI,Martin REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1111,4,10:54,MIA,,PHI,,K. Martin,PHI,MISS Martin Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2324-G1111,4,09:53,MIA,,PHI,,K. Martin,PHI,Martin REBOUND (Off:4 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1111,4,08:50,MIA,,PHI,,K. Martin,PHI,SUB: Lowry FOR Martin,Substitution,,0,0,0,0,,,v
+S2324-G1111,4,05:01,MIA,102.0,PHI,98.0,K. Martin,PHI,Martin 5' Driving Layup (4 PTS) (Lowry 5 AST),Made Shot,Driving Layup Shot,-50,7,5,1,2.0,2.0,v
+S2324-G1111,4,04:31,MIA,,PHI,,K. Martin,PHI,Martin Out of Bounds Lost Ball Turnover (P1.T11),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2324-G0327,4,06:09,PHI,,DET,,K. Martin,PHI,MISS Martin 4' Dunk,Missed Shot,Dunk Shot,-5,36,4,1,2.0,0.0,h
+S2324-G0327,4,06:05,PHI,,DET,,K. Martin,PHI,Martin REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0327,4,06:04,PHI,109.0,DET,71.0,K. Martin,PHI,Martin 2' Layup (2 PTS),Made Shot,Layup Shot,-15,19,2,1,2.0,2.0,h
+S2324-G0327,4,02:07,PHI,118.0,DET,84.0,K. Martin,PHI,Martin 1' Running Dunk (4 PTS) (Springer 3 AST),Made Shot,Running Dunk Shot,-5,-1,1,1,2.0,2.0,h
+S2324-G0262,2,09:04,NOP,,PHI,,K. Martin,PHI,Martin S.FOUL (P1.T2) (J.DeRosa),Foul,Shooting,0,0,0,0,,,v
+S2324-G0262,2,07:31,NOP,,PHI,,K. Martin,PHI,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0262,2,07:16,NOP,,PHI,,K. Martin,PHI,Martin Backcourt Turnover (P1.T9),Turnover,Backcourt Turnover,0,0,0,0,,,v
+S2324-G0262,2,07:09,NOP,,PHI,,K. Martin,PHI,Martin P.FOUL (P2.T3) (J.Goldenberg),Foul,Personal,0,0,0,0,,,v
+S2324-G0262,2,05:50,NOP,52.0,PHI,34.0,K. Martin,PHI,Martin 3' Cutting Layup Shot (2 PTS) (Melton 2 AST),Made Shot,Cutting Layup Shot,27,9,3,1,2.0,2.0,v
+S2324-G0262,2,04:23,NOP,,PHI,,K. Martin,PHI,Martin Offensive Goaltending Turnover (P2.T12),Turnover,Offensive Goaltending,0,0,0,0,,,v
+S2324-G0262,2,03:22,NOP,,PHI,,K. Martin,PHI,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0262,2,03:16,NOP,,PHI,,K. Martin,PHI,SUB: Reed FOR Martin,Substitution,,0,0,0,0,,,v
+S2324-G0262,3,04:24,NOP,,PHI,,K. Martin,PHI,MISS Martin 25' 3PT Jump Shot,Missed Shot,Jump Shot,-238,76,25,1,3.0,0.0,v
+S2324-G0262,3,04:18,NOP,,PHI,,K. Martin,PHI,Martin Violation:Defensive Goaltending (K.Cutler),Violation,Defensive Goaltending,0,0,0,0,,,v
+S2324-G0262,3,01:46,NOP,,PHI,,K. Martin,PHI,Martin P.FOUL (P3.PN) (K.Cutler),Foul,Personal,0,0,0,0,,,v
+S2324-G0262,4,11:26,NOP,,PHI,,K. Martin,PHI,MISS Martin 2' Running Layup,Missed Shot,Running Layup Shot,-20,2,2,1,2.0,0.0,v
+S2324-G0262,4,10:20,NOP,,PHI,,K. Martin,PHI,Martin S.FOUL (P4.T1) (J.DeRosa),Foul,Shooting,0,0,0,0,,,v
+S2324-G0262,4,09:22,NOP,107.0,PHI,87.0,K. Martin,PHI,Martin 2' Driving Reverse Layup (4 PTS) (Melton 5 AST),Made Shot,Driving Reverse Layup Shot,18,0,2,1,2.0,2.0,v
+S2324-G0262,4,06:45,NOP,,PHI,,K. Martin,PHI,SUB: Melton FOR Martin,Substitution,,0,0,0,0,,,v
+S2324-G0673,1,07:01,GSW,,PHI,,K. Martin,PHI,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0673,1,05:52,GSW,,PHI,,K. Martin,PHI,MISS Martin 24' 3PT Jump Shot,Missed Shot,Jump Shot,234,35,24,1,3.0,0.0,v
+S2324-G0673,2,09:46,GSW,,PHI,,K. Martin,PHI,Martin P.FOUL (P1.T1) (J.Van Duyne),Foul,Personal,0,0,0,0,,,v
+S2324-G0673,2,09:03,GSW,,PHI,,K. Martin,PHI,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0673,2,08:50,GSW,,PHI,,K. Martin,PHI,Martin Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0673,2,08:37,GSW,,PHI,,K. Martin,PHI,Martin STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0673,2,07:33,GSW,,PHI,,K. Martin,PHI,SUB: House Jr. FOR Martin,Substitution,,0,0,0,0,,,v
+S2324-G0673,2,03:47,GSW,,PHI,,K. Martin,PHI,SUB: Harris FOR Martin,Substitution,,0,0,0,0,,,v
+S2324-G0673,3,01:02,GSW,,PHI,,K. Martin,PHI,Martin BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0673,3,00:28.800000,GSW,82.0,PHI,77.0,K. Martin,PHI,Martin 5' Driving Layup (2 PTS) (Harris 2 AST),Made Shot,Driving Layup Shot,39,27,5,1,2.0,2.0,v
+S2324-G0673,3,00:28.800000,GSW,,PHI,,K. Martin,PHI,MISS Martin Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2324-G0673,3,00:04.400000,GSW,,PHI,,K. Martin,PHI,Martin OFF.Foul (P2) (J.Van Duyne),Foul,Offensive,0,0,0,0,,,v
+S2324-G0673,3,00:04.400000,GSW,,PHI,,K. Martin,PHI,Martin Offensive Foul Turnover (P2.T10),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0673,4,07:45,GSW,,PHI,,K. Martin,PHI,SUB: Embiid FOR Martin,Substitution,,0,0,0,0,,,v
+S2324-G0673,4,01:49,GSW,,PHI,,K. Martin,PHI,MISS Martin Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0673,4,01:49,GSW,,PHI,,K. Martin,PHI,MISS Martin Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0673,4,01:32,GSW,,PHI,,K. Martin,PHI,Martin S.FOUL (P3.PN) (T.Brothers),Foul,Shooting,0,0,0,0,,,v
+S2324-G0608,2,10:53,PHI,38.0,SAS,37.0,K. Martin,PHI,Martin 2' Alley Oop Dunk (2 PTS) (Maxey 3 AST),Made Shot,Alley Oop Dunk Shot,7,15,2,1,2.0,2.0,h
+S2324-G0608,2,07:29,PHI,,SAS,,K. Martin,PHI,MISS Martin 1' Driving Layup,Missed Shot,Driving Layup Shot,7,13,1,1,2.0,0.0,h
+S2324-G0608,2,06:29,PHI,,SAS,,K. Martin,PHI,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0608,2,05:23,PHI,,SAS,,K. Martin,PHI,SUB: Oubre Jr. FOR Martin,Substitution,,0,0,0,0,,,h
+S2324-G0608,4,11:47,PHI,,SAS,,K. Martin,PHI,Martin P.FOUL (P1.T1) (A.Smith),Foul,Personal,0,0,0,0,,,h
+S2324-G0608,4,11:31,PHI,,SAS,,K. Martin,PHI,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0608,4,10:32,PHI,110.0,SAS,91.0,K. Martin,PHI,Martin 2' Alley Oop Dunk (4 PTS) (Maxey 6 AST),Made Shot,Alley Oop Dunk Shot,-16,6,2,1,2.0,2.0,h
+S2324-G0608,4,09:10,PHI,,SAS,,K. Martin,PHI,MISS Martin 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-1,13,1,1,2.0,0.0,h
+S2324-G0608,4,07:24,PHI,,SAS,,K. Martin,PHI,MISS Martin 2' Driving Hook Shot,Missed Shot,Driving Hook Shot,-9,16,2,1,2.0,0.0,h
+S2324-G0608,4,06:38,PHI,,SAS,,K. Martin,PHI,Martin P.FOUL (P2.PN) (A.Smith),Foul,Personal,0,0,0,0,,,h
+S2324-G0608,4,06:38,PHI,,SAS,,K. Martin,PHI,SUB: Batum FOR Martin,Substitution,,0,0,0,0,,,h
+S2324-G0521,1,01:18,ATL,,PHI,,K. Martin,PHI,Martin Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0521,1,01:08,ATL,,PHI,,K. Martin,PHI,Martin P.FOUL (P1.PN) (S.Corbin),Foul,Personal,0,0,0,0,,,v
+S2324-G0521,1,00:03.700000,ATL,,PHI,,K. Martin,PHI,SUB: Harris FOR Martin,Substitution,,0,0,0,0,,,v
+S2324-G0521,2,09:35,ATL,,PHI,,K. Martin,PHI,SUB: Maxey FOR Martin,Substitution,,0,0,0,0,,,v
+S2324-G0074,1,01:14,LAC,,POR,,K. Martin,LAC,MISS Martin Jr. 24' 3PT Jump Shot,Missed Shot,Jump Shot,-239,3,24,1,3.0,0.0,h
+S2324-G0074,3,01:35,LAC,,POR,,K. Martin,LAC,MISS Martin Jr. 24' 3PT Jump Shot,Missed Shot,Jump Shot,212,117,24,1,3.0,0.0,h
+S2324-G0074,4,11:34,LAC,,POR,,K. Martin,LAC,Martin Jr. STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0074,4,11:28,LAC,,POR,,K. Martin,LAC,Martin Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0074,4,11:12,LAC,,POR,,K. Martin,LAC,Martin Jr. P.FOUL (P1.T1) (C.Washington),Foul,Personal,0,0,0,0,,,h
+S2324-G0074,4,10:06,LAC,,POR,,K. Martin,LAC,MISS Martin Jr. 4' Layup,Missed Shot,Layup Shot,31,32,4,1,2.0,0.0,h
+S2324-G0074,4,10:00,LAC,,POR,,K. Martin,LAC,SUB: George FOR Martin Jr.,Substitution,,0,0,0,0,,,h
+S2324-G0074,4,04:10,LAC,,POR,,K. Martin,LAC,MISS Martin Jr. 4' Driving Layup,Missed Shot,Driving Layup Shot,-26,29,4,1,2.0,0.0,h
+S2324-G0074,4,01:50,LAC,,POR,,K. Martin,LAC,Martin Jr. S.FOUL (P2.T4) (C.Washington),Foul,Shooting,0,0,0,0,,,h
+S2324-G1018,2,11:23,LAL,,PHI,,K. Martin,PHI,Martin S.FOUL (P1.T1) (E.Dalen),Foul,Shooting,0,0,0,0,,,v
+S2324-G1018,2,10:39,LAL,,PHI,,K. Martin,PHI,Martin REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1018,2,10:39,LAL,,PHI,,K. Martin,PHI,MISS Martin Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2324-G1018,2,10:37,LAL,,PHI,,K. Martin,PHI,Martin REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1018,2,09:38,LAL,,PHI,,K. Martin,PHI,Martin S.FOUL (P2.T3) (Z.Zarba),Foul,Shooting,0,0,0,0,,,v
+S2324-G1018,2,08:49,LAL,,PHI,,K. Martin,PHI,SUB: Bamba FOR Martin,Substitution,,0,0,0,0,,,v
+S2324-G0019,4,10:05,PHI,,IND,,K. Martin,PHI,SUB: House Jr. FOR Martin,Substitution,,0,0,0,0,,,h
+S2324-G0275,1,04:07,BOS,,PHI,,K. Martin,PHI,MISS Martin 4' Running Layup,Missed Shot,Running Layup Shot,23,30,4,1,2.0,0.0,v
+S2324-G0275,1,03:55,BOS,,PHI,,K. Martin,PHI,Martin STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0275,1,03:22,BOS,,PHI,,K. Martin,PHI,SUB: Harris FOR Martin,Substitution,,0,0,0,0,,,v
+S2324-G0275,2,04:29,BOS,,PHI,,K. Martin,PHI,Martin STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0275,2,04:27,BOS,,PHI,,K. Martin,PHI,MISS Martin 5' Running Layup,Missed Shot,Running Layup Shot,-33,40,5,1,2.0,0.0,v
+S2324-G0275,2,03:31,BOS,,PHI,,K. Martin,PHI,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0275,2,02:09,BOS,,PHI,,K. Martin,PHI,SUB: Harris FOR Martin,Substitution,,0,0,0,0,,,v
+S2324-G0275,3,01:54,BOS,,PHI,,K. Martin,PHI,MISS Martin 4' Driving Layup,Missed Shot,Driving Layup Shot,-12,34,4,1,2.0,0.0,v
+S2324-G0275,3,01:15,BOS,93.0,PHI,91.0,K. Martin,PHI,Martin 3' Driving Reverse Layup (2 PTS) (Covington 1 AST),Made Shot,Driving Reverse Layup Shot,-12,25,3,1,2.0,2.0,v
+S2324-G0275,3,01:03,BOS,,PHI,,K. Martin,PHI,Martin P.FOUL (P1.PN) (B.Kennedy),Foul,Personal,0,0,0,0,,,v
+S2324-G0275,3,00:41.800000,BOS,,PHI,,K. Martin,PHI,MISS Martin 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,11,21,2,1,2.0,0.0,v
+S2324-G0275,4,11:31,BOS,,PHI,,K. Martin,PHI,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0275,4,10:24,BOS,,PHI,,K. Martin,PHI,SUB: Harris FOR Martin,Substitution,,0,0,0,0,,,v
+S2324-G0275,4,01:34,BOS,,PHI,,K. Martin,PHI,SUB: Bamba FOR Martin,Substitution,,0,0,0,0,,,v
+S2324-G0367,3,02:16,PHI,,MIN,,K. Martin,PHI,MISS Martin Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0367,3,02:16,PHI,85.0,MIN,85.0,K. Martin,PHI,Martin Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0367,3,01:30,PHI,87.0,MIN,87.0,K. Martin,PHI,Martin 1' Layup (3 PTS) (Beverley 3 AST),Made Shot,Layup Shot,11,10,1,1,2.0,2.0,h
+S2324-G0367,4,05:27,PHI,,MIN,,K. Martin,PHI,Martin P.FOUL (P1.PN) (R.Mott),Foul,Personal,0,0,0,0,,,h
+S2324-G0367,4,04:50,PHI,,MIN,,K. Martin,PHI,SUB: Harris FOR Martin,Substitution,,0,0,0,0,,,h
+S2324-G0644,1,06:57,DEN,18.0,PHI,10.0,K. Martin,PHI,Martin 2' Reverse Layup (2 PTS) (Beverley 3 AST),Made Shot,Reverse Layup Shot,-9,17,2,1,2.0,2.0,v
+S2324-G0644,1,06:02,DEN,18.0,PHI,11.0,K. Martin,PHI,Martin Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0644,1,06:02,DEN,,PHI,,K. Martin,PHI,MISS Martin Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0644,1,03:09,DEN,,PHI,,K. Martin,PHI,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0644,1,03:07,DEN,,PHI,,K. Martin,PHI,Martin Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0644,1,02:01,DEN,,PHI,,K. Martin,PHI,Martin Step Out of Bounds Turnover (P2.T4),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2324-G0644,1,02:01,DEN,,PHI,,K. Martin,PHI,SUB: Morris Sr. FOR Martin,Substitution,,0,0,0,0,,,v
+S2324-G0644,2,07:12,DEN,,PHI,,K. Martin,PHI,Martin P.FOUL (P1.PN) (Z.Zarba),Foul,Personal,0,0,0,0,,,v
+S2324-G0644,2,06:30,DEN,,PHI,,K. Martin,PHI,MISS Martin 3' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,18,19,3,1,2.0,0.0,v
+S2324-G0644,2,05:44,DEN,,PHI,,K. Martin,PHI,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0644,2,05:09,DEN,,PHI,,K. Martin,PHI,SUB: Morris Sr. FOR Martin,Substitution,,0,0,0,0,,,v
+S2324-G0644,3,06:28,DEN,,PHI,,K. Martin,PHI,Martin REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0644,3,05:49,DEN,,PHI,,K. Martin,PHI,Martin P.FOUL (P2.T2) (Z.Zarba),Foul,Personal,0,0,0,0,,,v
+S2324-G0644,3,05:15,DEN,78.0,PHI,74.0,K. Martin,PHI,Martin 5' Layup (5 PTS) (Oubre Jr. 2 AST),Made Shot,Layup Shot,-45,22,5,1,2.0,2.0,v
+S2324-G0644,3,04:16,DEN,78.0,PHI,76.0,K. Martin,PHI,Martin 3' Driving Layup (7 PTS) (Korkmaz 2 AST),Made Shot,Driving Layup Shot,-21,22,3,1,2.0,2.0,v
+S2324-G0644,3,04:04,DEN,,PHI,,K. Martin,PHI,Martin P.FOUL (P3.T3) (N.Buchert),Foul,Personal,0,0,0,0,,,v
+S2324-G0644,3,04:04,DEN,,PHI,,K. Martin,PHI,SUB: Reed FOR Martin,Substitution,,0,0,0,0,,,v
+S2324-G0644,4,11:19,DEN,,PHI,,K. Martin,PHI,SUB: Batum FOR Martin,Substitution,,0,0,0,0,,,v
+S2324-G0644,4,04:40,DEN,,PHI,,K. Martin,PHI,Martin REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0644,4,04:23,DEN,,PHI,,K. Martin,PHI,Martin P.FOUL (P4.PN) (N.Buchert),Foul,Personal,0,0,0,0,,,v
+S2324-G0644,4,02:45,DEN,,PHI,,K. Martin,PHI,MISS Martin 3PT Jump Shot,Missed Shot,Jump Shot,-230,18,0,1,3.0,0.0,v
+S2324-G0644,4,02:28,DEN,,PHI,,K. Martin,PHI,SUB: Morris Sr. FOR Martin,Substitution,,0,0,0,0,,,v
+S2324-G1002,1,03:55,PHX,,PHI,,K. Martin,PHI,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1002,1,03:48,PHX,,PHI,,K. Martin,PHI,Martin REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1002,1,03:12,PHX,,PHI,,K. Martin,PHI,MISS Martin Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G1002,1,03:12,PHX,14.0,PHI,14.0,K. Martin,PHI,Martin Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1002,1,02:48,PHX,,PHI,,K. Martin,PHI,Martin L.B.FOUL (P1.T3) (D.Guthrie),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G1002,1,02:22,PHX,,PHI,,K. Martin,PHI,MISS Martin Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G1002,1,02:22,PHX,14.0,PHI,15.0,K. Martin,PHI,Martin Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1002,1,01:07,PHX,,PHI,,K. Martin,PHI,Martin REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1002,1,00:50.600000,PHX,17.0,PHI,21.0,K. Martin,PHI,Martin 1' Alley Oop Dunk (4 PTS) (Reed 2 AST),Made Shot,Alley Oop Dunk Shot,-4,8,1,1,2.0,2.0,v
+S2324-G1002,2,10:39,PHX,,PHI,,K. Martin,PHI,MISS Martin 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,4,-4,1,1,2.0,0.0,v
+S2324-G1002,2,09:14,PHX,,PHI,,K. Martin,PHI,SUB: Bamba FOR Martin,Substitution,,0,0,0,0,,,v
+S2324-G1002,3,04:00,PHX,,PHI,,K. Martin,PHI,Martin REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1002,3,01:14,PHX,,PHI,,K. Martin,PHI,MISS Martin 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-7,76,8,1,2.0,0.0,v
+S2324-G1002,3,01:02,PHX,,PHI,,K. Martin,PHI,Martin REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1002,4,11:46,PHX,,PHI,,K. Martin,PHI,MISS Martin 7' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,22,64,7,1,2.0,0.0,v
+S2324-G1002,4,11:22,PHX,,PHI,,K. Martin,PHI,Martin REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1002,4,09:55,PHX,92.0,PHI,71.0,K. Martin,PHI,Martin 1' Running Alley Oop Layup Shot (6 PTS) (Council IV 1 AST),Made Shot,Running Alley Oop Layup Shot,-4,13,1,1,2.0,2.0,v
+S2324-G1002,4,09:32,PHX,,PHI,,K. Martin,PHI,MISS Martin 27' 3PT Jump Shot,Missed Shot,Jump Shot,-229,151,27,1,3.0,0.0,v
+S2324-G1002,4,09:30,PHX,,PHI,,K. Martin,PHI,Martin REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1002,4,09:28,PHX,94.0,PHI,73.0,K. Martin,PHI,Martin 7' Driving Floating Jump Shot (8 PTS),Made Shot,Driving Floating Jump Shot,-16,68,7,1,2.0,2.0,v
+S2324-G1002,4,06:34,PHX,,PHI,,K. Martin,PHI,Martin REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1002,4,05:56,PHX,102.0,PHI,88.0,K. Martin,PHI,Martin 24' 3PT Jump Shot (11 PTS) (Dowtin Jr. 2 AST),Made Shot,Jump Shot,-239,12,24,1,3.0,3.0,v
+S2324-G1002,4,05:29,PHX,,PHI,,K. Martin,PHI,Martin REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1002,4,03:37,PHX,,PHI,,K. Martin,PHI,Martin REBOUND (Off:3 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1002,4,03:33,PHX,,PHI,,K. Martin,PHI,MISS Martin 2' Running Layup,Missed Shot,Running Layup Shot,-12,18,2,1,2.0,0.0,v
+S2324-G1002,4,02:25,PHX,,PHI,,K. Martin,PHI,Martin REBOUND (Off:3 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1002,4,01:02,PHX,,PHI,,K. Martin,PHI,Martin REBOUND (Off:3 Def:9),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1002,4,00:25.300000,PHX,,PHI,,K. Martin,PHI,Martin REBOUND (Off:3 Def:10),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0255,4,05:01,PHI,,LAL,,K. Martin,PHI,Martin S.FOUL (P1.T3) (B.Barnaky),Foul,Shooting,0,0,0,0,,,h
+S2324-G0255,4,04:19,PHI,,LAL,,K. Martin,PHI,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0255,4,01:04,PHI,136.0,LAL,92.0,K. Martin,PHI,Martin Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0255,4,01:04,PHI,,LAL,,K. Martin,PHI,MISS Martin Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0255,4,00:51.900000,PHI,,LAL,,K. Martin,PHI,Martin REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0310,4,02:27,DET,,PHI,,K. Martin,PHI,Martin STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0310,4,02:21,DET,100.0,PHI,125.0,K. Martin,PHI,Martin 4' Running Dunk (2 PTS) (Springer 2 AST),Made Shot,Running Dunk Shot,-26,34,4,1,2.0,2.0,v
+S2324-G0310,4,01:23,DET,,PHI,,K. Martin,PHI,Martin REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0310,4,00:16.500000,DET,,PHI,,K. Martin,PHI,Martin REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1080,2,11:21,TOR,,PHI,,K. Martin,PHI,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1080,2,09:39,TOR,,PHI,,K. Martin,PHI,Martin REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1080,2,09:35,TOR,,PHI,,K. Martin,PHI,MISS Martin 1' Layup,Missed Shot,Layup Shot,-2,5,1,1,2.0,0.0,v
+S2324-G1080,2,08:42,TOR,31.0,PHI,44.0,K. Martin,PHI,Martin 1' Turnaround Hook Shot (2 PTS),Made Shot,Turnaround Hook Shot,4,-5,1,1,2.0,2.0,v
+S2324-G1080,2,08:16,TOR,,PHI,,K. Martin,PHI,Martin REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1080,2,06:12,TOR,,PHI,,K. Martin,PHI,Martin S.FOUL (P1.T1) (T.Washington),Foul,Shooting,0,0,0,0,,,v
+S2324-G1080,2,06:12,TOR,,PHI,,K. Martin,PHI,SUB: Batum FOR Martin,Substitution,,0,0,0,0,,,v
+S2324-G1080,4,08:03,TOR,,PHI,,K. Martin,PHI,Martin REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1080,4,07:39,TOR,,PHI,,K. Martin,PHI,Martin REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1080,4,05:16,TOR,,PHI,,K. Martin,PHI,SUB: Harris FOR Martin,Substitution,,0,0,0,0,,,v
+S2324-G0668,2,09:40,POR,,PHI,,K. Martin,PHI,Martin S.FOUL (P1.T2) (J.Goble),Foul,Shooting,0,0,0,0,,,v
+S2324-G0668,2,09:00,POR,,PHI,,K. Martin,PHI,MISS Martin 7' Driving Hook Shot,Missed Shot,Driving Hook Shot,-65,22,7,1,2.0,0.0,v
+S2324-G0668,2,08:32,POR,28.0,PHI,34.0,K. Martin,PHI,Martin 1' Running Layup (2 PTS),Made Shot,Running Layup Shot,-5,8,1,1,2.0,2.0,v
+S2324-G0668,2,06:43,POR,,PHI,,K. Martin,PHI,SUB: Beverley FOR Martin,Substitution,,0,0,0,0,,,v
+S2324-G0668,3,02:00,POR,,PHI,,K. Martin,PHI,Martin P.FOUL (P2.PN) (J.Goble),Foul,Personal,0,0,0,0,,,v
+S2324-G0668,3,01:47,POR,,PHI,,K. Martin,PHI,MISS Martin 3' Driving Layup,Missed Shot,Driving Layup Shot,0,32,3,1,2.0,0.0,v
+S2324-G0668,3,00:52.200000,POR,,PHI,,K. Martin,PHI,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0668,3,00:48.100000,POR,91.0,PHI,77.0,K. Martin,PHI,Martin 2' Running Layup (4 PTS),Made Shot,Running Layup Shot,-15,6,2,1,2.0,2.0,v
+S2324-G0668,4,10:48,POR,,PHI,,K. Martin,PHI,Martin S.FOUL (P3.T1) (J.Goble),Foul,Shooting,0,0,0,0,,,v
+S2324-G0668,4,10:31,POR,,PHI,,K. Martin,PHI,Martin OFF.Foul (P4) (S.Mitchell),Foul,Offensive,0,0,0,0,,,v
+S2324-G0668,4,10:31,POR,,PHI,,K. Martin,PHI,Martin Offensive Foul Turnover (P1.T10),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0668,4,09:06,POR,,PHI,,K. Martin,PHI,SUB: Smith FOR Martin,Substitution,,0,0,0,0,,,v
+S2324-G0668,4,03:53,POR,112.0,PHI,91.0,K. Martin,PHI,Martin Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0668,4,03:53,POR,112.0,PHI,92.0,K. Martin,PHI,Martin Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0668,4,02:54,POR,,PHI,,K. Martin,PHI,Martin Offensive Charge Foul (P5) (S.Mitchell),Foul,Offensive Charge,0,0,0,0,,,v
+S2324-G0668,4,02:54,POR,,PHI,,K. Martin,PHI,Martin Offensive Foul Turnover (P2.T14),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0404,2,08:50,MIA,,PHI,,K. Martin,PHI,Martin STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0404,2,08:44,MIA,35.0,PHI,26.0,K. Martin,PHI,Martin 3' Running Finger Roll Layup (2 PTS) (Harris 1 AST),Made Shot,Running Finger Roll Layup Shot,-26,13,3,1,2.0,2.0,v
+S2324-G0404,2,06:39,MIA,,PHI,,K. Martin,PHI,SUB: Harris FOR Martin,Substitution,,0,0,0,0,,,v
+S2324-G0927,2,05:18,NYK,,PHI,,K. Martin,PHI,MISS Martin 3' Driving Layup,Missed Shot,Driving Layup Shot,-1,29,3,1,2.0,0.0,v
+S2324-G0927,2,05:17,NYK,,PHI,,K. Martin,PHI,Martin REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0927,2,05:17,NYK,,PHI,,K. Martin,PHI,MISS Martin Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2324-G0927,2,04:57,NYK,,PHI,,K. Martin,PHI,Martin REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0927,2,04:55,NYK,24.0,PHI,31.0,K. Martin,PHI,Martin Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2324-G0927,2,02:52,NYK,,PHI,,K. Martin,PHI,SUB: Batum FOR Martin,Substitution,,0,0,0,0,,,v
+S2324-G0442,4,09:50,CHI,80.0,PHI,75.0,K. Martin,PHI,Martin 1' Cutting Dunk Shot (2 PTS) (Batum 2 AST),Made Shot,Cutting Dunk Shot,6,3,1,1,2.0,2.0,v
+S2324-G0442,4,08:06,CHI,,PHI,,K. Martin,PHI,MISS Martin 3PT Jump Shot,Missed Shot,Jump Shot,227,-7,0,1,3.0,0.0,v
+S2324-G0442,4,07:47,CHI,,PHI,,K. Martin,PHI,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0442,4,07:17,CHI,,PHI,,K. Martin,PHI,SUB: Oubre Jr. FOR Martin,Substitution,,0,0,0,0,,,v
+S2324-G0985,2,08:25,PHI,,MIA,,K. Martin,PHI,Martin S.FOUL (P1.T3) (B.Kennedy),Foul,Shooting,0,0,0,0,,,h
+S2324-G0985,2,06:51,PHI,37.0,MIA,38.0,K. Martin,PHI,Martin Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0985,2,06:51,PHI,,MIA,,K. Martin,PHI,MISS Martin Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0985,2,06:05,PHI,,MIA,,K. Martin,PHI,MISS Martin 8' Floating Jump Shot,Missed Shot,Floating Jump shot,-1,82,8,1,2.0,0.0,h
+S2324-G0985,2,04:54,PHI,,MIA,,K. Martin,PHI,Martin OFF.Foul (P2) (S.Wright),Foul,Offensive,0,0,0,0,,,h
+S2324-G0985,2,04:54,PHI,,MIA,,K. Martin,PHI,Martin Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0985,2,03:13,PHI,,MIA,,K. Martin,PHI,SUB: Bamba FOR Martin,Substitution,,0,0,0,0,,,h
+S2324-G1140,1,03:00,SAS,17.0,PHI,26.0,K. Martin,PHI,Martin 7' Floating Jump Shot (2 PTS) (Oubre Jr. 2 AST),Made Shot,Floating Jump shot,-69,10,7,1,2.0,2.0,v
+S2324-G1140,1,01:27,SAS,,PHI,,K. Martin,PHI,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1140,1,00:01.600000,SAS,,PHI,,K. Martin,PHI,SUB: Batum FOR Martin,Substitution,,0,0,0,0,,,v
+S2324-G1140,2,07:33,SAS,,PHI,,K. Martin,PHI,SUB: Payne FOR Martin,Substitution,,0,0,0,0,,,v
+S2324-G1140,2,02:07,SAS,,PHI,,K. Martin,PHI,MISS Martin 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-28,16,3,1,2.0,0.0,v
+S2324-G1140,2,00:52.700000,SAS,,PHI,,K. Martin,PHI,Martin S.FOUL (P1.PN) (J.Schroeder),Foul,Shooting,0,0,0,0,,,v
+S2324-G1140,3,00:29.300000,SAS,,PHI,,K. Martin,PHI,SUB: Oubre Jr. FOR Martin,Substitution,,0,0,0,0,,,v
+S2324-G1140,4,00:02.700000,SAS,,PHI,,K. Martin,PHI,SUB: Hield FOR Martin,Substitution,,0,0,0,0,,,v
+S2324-G1140,5,02:11,SAS,115.0,PHI,117.0,K. Martin,PHI,Martin 7' Hook Shot (4 PTS) (Oubre Jr. 3 AST),Made Shot,Hook Shot,53,47,7,1,2.0,2.0,v
+S2324-G1140,5,00:24.400000,SAS,121.0,PHI,121.0,K. Martin,PHI,Martin 1' Cutting Dunk Shot (6 PTS) (Council IV 2 AST),Made Shot,Cutting Dunk Shot,-7,12,1,1,2.0,2.0,v
+S2324-G1140,5,00:00.800000,SAS,,PHI,,K. Martin,PHI,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1140,6,01:11,SAS,,PHI,,K. Martin,PHI,Martin STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G1140,6,01:09,SAS,126.0,PHI,133.0,K. Martin,PHI,Martin 3' Running Alley Oop Dunk Shot (8 PTS) (Oubre Jr. 5 AST),Made Shot,Running Alley Oop Dunk Shot,17,27,3,1,2.0,2.0,v
+S2324-G0585,4,01:42,ORL,100.0,PHI,115.0,K. Martin,PHI,Martin 2' Alley Oop Dunk (2 PTS) (Oubre Jr. 1 AST),Made Shot,Alley Oop Dunk Shot,1,22,2,1,2.0,2.0,v
+S2324-G0585,4,00:55.100000,ORL,,PHI,,K. Martin,PHI,Martin P.FOUL (P1.PN) (T.Washington),Foul,Personal,0,0,0,0,,,v
+S2324-G0896,1,06:25,PHI,,MEM,,K. Martin,PHI,Martin REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0896,1,06:25,PHI,13.0,MEM,16.0,K. Martin,PHI,Martin Tip Dunk Shot (2 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,h
+S2324-G0896,1,06:07,PHI,16.0,MEM,18.0,K. Martin,PHI,Martin 25' 3PT Jump Shot (5 PTS) (Payne 1 AST),Made Shot,Jump Shot,4,254,25,1,3.0,3.0,h
+S2324-G0896,1,03:39,PHI,,MEM,,K. Martin,PHI,Martin OFF.Foul (P1) (J.Goble),Foul,Offensive,0,0,0,0,,,h
+S2324-G0896,1,03:39,PHI,,MEM,,K. Martin,PHI,Martin Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0896,1,02:04,PHI,,MEM,,K. Martin,PHI,Martin BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0896,1,02:00,PHI,,MEM,,K. Martin,PHI,Jump Ball Martin vs. Jackson Jr.: Tip to LaRavia,Jump Ball,,0,0,0,0,,,h
+S2324-G0896,2,04:19,PHI,,MEM,,K. Martin,PHI,Martin P.FOUL (P2.T1) (S.Foster),Foul,Personal,0,0,0,0,,,h
+S2324-G0896,2,02:07,PHI,,MEM,,K. Martin,PHI,Martin REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0896,2,00:33,PHI,,MEM,,K. Martin,PHI,Martin S.FOUL (P3.PN) (S.Foster),Foul,Shooting,0,0,0,0,,,h
+S2324-G0896,3,06:06,PHI,,MEM,,K. Martin,PHI,Martin REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0896,3,05:40,PHI,,MEM,,K. Martin,PHI,Martin S.FOUL (P4.T4) (S.Foster),Foul,Shooting,0,0,0,0,,,h
+S2324-G0896,3,05:38,PHI,,MEM,,K. Martin,PHI,Martin REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0896,3,02:35,PHI,88.0,MEM,76.0,K. Martin,PHI,Martin Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0896,3,02:35,PHI,89.0,MEM,76.0,K. Martin,PHI,Martin Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0896,3,01:50,PHI,,MEM,,K. Martin,PHI,Martin P.FOUL (P5.PN) (M.Boland),Foul,Personal,0,0,0,0,,,h
+S2324-G0896,3,01:50,PHI,,MEM,,K. Martin,PHI,SUB: Reed FOR Martin,Substitution,,0,0,0,0,,,h
+S2324-G0896,4,01:36,PHI,,MEM,,K. Martin,PHI,Martin S.FOUL (P6.PN) (S.Foster),Foul,Shooting,0,0,0,0,,,h
+S2324-G0896,4,01:36,PHI,,MEM,,K. Martin,PHI,SUB: Bamba FOR Martin,Substitution,,0,0,0,0,,,h
+S2324-G1028,1,00:43.900000,LAC,29.0,PHI,38.0,K. Martin,PHI,Martin 2' Layup (2 PTS) (Oubre Jr. 3 AST),Made Shot,Layup Shot,7,23,2,1,2.0,2.0,v
+S2324-G1028,1,00:43.900000,LAC,,PHI,,K. Martin,PHI,MISS Martin Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2324-G1028,2,11:18,LAC,,PHI,,K. Martin,PHI,Martin P.FOUL (P1.T1) (A.Moyer-Gleich),Foul,Personal,0,0,0,0,,,v
+S2324-G1028,2,11:13,LAC,,PHI,,K. Martin,PHI,Martin BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G1028,2,10:37,LAC,,PHI,,K. Martin,PHI,Martin STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G1028,2,10:32,LAC,33.0,PHI,45.0,K. Martin,PHI,Martin 2' Running Dunk (4 PTS) (Maxey 4 AST),Made Shot,Running Dunk Shot,4,17,2,1,2.0,2.0,v
+S2324-G1028,2,09:34,LAC,,PHI,,K. Martin,PHI,Martin P.FOUL (P2.T2) (J.Sterling),Foul,Personal,0,0,0,0,,,v
+S2324-G1028,2,09:18,LAC,,PHI,,K. Martin,PHI,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1028,2,07:35,LAC,38.0,PHI,52.0,K. Martin,PHI,Martin 6' Running Layup (6 PTS) (Harris 2 AST),Made Shot,Running Layup Shot,-49,38,6,1,2.0,2.0,v
+S2324-G1028,2,06:20,LAC,,PHI,,K. Martin,PHI,MISS Martin 27' 3PT Jump Shot,Missed Shot,Jump Shot,140,226,27,1,3.0,0.0,v
+S2324-G1028,2,04:34,LAC,,PHI,,K. Martin,PHI,Martin REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1028,2,03:41,LAC,,PHI,,K. Martin,PHI,SUB: Oubre Jr. FOR Martin,Substitution,,0,0,0,0,,,v
+S2324-G1028,3,00:35.900000,LAC,,PHI,,K. Martin,PHI,MISS Martin 1' Running Layup,Missed Shot,Running Layup Shot,-7,10,1,1,2.0,0.0,v
+S2324-G1028,4,07:17,LAC,,PHI,,K. Martin,PHI,Martin L.B.FOUL (P3.T1) (J.Sterling),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G1028,4,03:18,LAC,,PHI,,K. Martin,PHI,SUB: Dowtin Jr. FOR Martin,Substitution,,0,0,0,0,,,v
+S2324-G1028,4,00:57.800000,LAC,105.0,PHI,121.0,K. Martin,PHI,Martin 1' Driving Dunk (8 PTS) (Payne 3 AST),Made Shot,Driving Dunk Shot,-9,11,1,1,2.0,2.0,v
+S2324-G0208,4,04:07,BKN,,PHI,,K. Martin,PHI,Martin REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0208,4,02:40,BKN,,PHI,,K. Martin,PHI,Martin S.FOUL (P1.T4) (D.Scott),Foul,Shooting,0,0,0,0,,,v
+S2324-G0727,1,03:06,PHI,18.0,GSW,9.0,K. Martin,PHI,Martin 3' Cutting Layup Shot (2 PTS) (Beverley 1 AST),Made Shot,Cutting Layup Shot,-23,15,3,1,2.0,2.0,h
+S2324-G0727,1,01:51,PHI,20.0,GSW,12.0,K. Martin,PHI,Martin 1' Cutting Layup Shot (4 PTS) (Beverley 2 AST),Made Shot,Cutting Layup Shot,6,0,1,1,2.0,2.0,h
+S2324-G0727,2,11:40,PHI,25.0,GSW,15.0,K. Martin,PHI,Martin 25' 3PT Jump Shot (7 PTS) (Reed 1 AST),Made Shot,Jump Shot,245,32,25,1,3.0,3.0,h
+S2324-G0727,2,09:39,PHI,,GSW,,K. Martin,PHI,SUB: Harris FOR Martin,Substitution,,0,0,0,0,,,h
+S2324-G0727,2,02:22,PHI,,GSW,,K. Martin,PHI,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0727,2,01:49,PHI,,GSW,,K. Martin,PHI,MISS Martin 5' Running Layup,Missed Shot,Running Layup Shot,28,37,5,1,2.0,0.0,h
+S2324-G0727,2,00:10.700000,PHI,,GSW,,K. Martin,PHI,MISS Martin 4' Floating Jump Shot,Missed Shot,Floating Jump shot,-26,29,4,1,2.0,0.0,h
+S2324-G0727,3,08:10,PHI,52.0,GSW,61.0,K. Martin,PHI,Martin 1' Running Layup (9 PTS) (Harris 3 AST),Made Shot,Running Layup Shot,-5,10,1,1,2.0,2.0,h
+S2324-G0727,3,05:32,PHI,,GSW,,K. Martin,PHI,MISS Martin 3PT Jump Shot,Missed Shot,Jump Shot,-230,27,0,1,3.0,0.0,h
+S2324-G0727,3,02:54,PHI,60.0,GSW,81.0,K. Martin,PHI,Martin 2' Running Finger Roll Layup (11 PTS) (Beverley 4 AST),Made Shot,Running Finger Roll Layup Shot,-4,16,2,1,2.0,2.0,h
+S2324-G0727,3,02:54,PHI,61.0,GSW,81.0,K. Martin,PHI,Martin Free Throw 1 of 1 (12 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G0727,3,01:36,PHI,64.0,GSW,86.0,K. Martin,PHI,Martin 3PT Jump Shot (15 PTS) (Beverley 5 AST),Made Shot,Jump Shot,-232,-1,0,1,3.0,3.0,h
+S2324-G0727,3,00:50.400000,PHI,,GSW,,K. Martin,PHI,Martin STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0727,4,09:03,PHI,,GSW,,K. Martin,PHI,Martin REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0727,4,06:15,PHI,,GSW,,K. Martin,PHI,MISS Martin 3' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,7,25,3,1,2.0,0.0,h
+S2324-G0727,4,04:24,PHI,,GSW,,K. Martin,PHI,Martin Out of Bounds - Bad Pass Turnover Turnover (P1.T13),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G0727,4,03:21,PHI,,GSW,,K. Martin,PHI,Martin REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0727,4,03:07,PHI,,GSW,,K. Martin,PHI,Martin S.FOUL (P1.T3) (A.Smith),Foul,Shooting,0,0,0,0,,,h
+S2324-G0727,4,01:25,PHI,,GSW,,K. Martin,PHI,Martin REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0727,4,00:31.300000,PHI,,GSW,,K. Martin,PHI,Martin REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0232,4,05:21,MIN,,PHI,,K. Martin,PHI,Martin STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0232,4,03:45,MIN,,PHI,,K. Martin,PHI,Martin P.FOUL (P1.T4) (E.Malloy),Foul,Personal,0,0,0,0,,,v
+S2324-G0232,4,03:00,MIN,109.0,PHI,95.0,K. Martin,PHI,Martin 1' Driving Dunk (2 PTS) (House Jr. 2 AST),Made Shot,Driving Dunk Shot,-6,11,1,1,2.0,2.0,v
+S2324-G0232,4,01:58,MIN,,PHI,,K. Martin,PHI,MISS Martin 2' Layup,Missed Shot,Layup Shot,-9,22,2,1,2.0,0.0,v
+S2324-G0232,4,01:19,MIN,,PHI,,K. Martin,PHI,Martin S.FOUL (P2.PN) (T.Washington),Foul,Shooting,0,0,0,0,,,v
+S2324-G0232,4,00:44.300000,MIN,112.0,PHI,99.0,K. Martin,PHI,Martin Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0232,4,00:44.300000,MIN,,PHI,,K. Martin,PHI,MISS Martin Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0232,4,00:32.100000,MIN,,PHI,,K. Martin,PHI,Martin REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0459,4,05:37,PHI,,CHI,,K. Martin,PHI,MISS Martin 1' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,-4,5,1,1,2.0,0.0,h
+S2324-G0459,4,05:05,PHI,,CHI,,K. Martin,PHI,MISS Martin 3' Driving Layup,Missed Shot,Driving Layup Shot,-13,25,3,1,2.0,0.0,h
+S2324-G0459,4,01:35,PHI,,CHI,,K. Martin,PHI,MISS Martin 1' Running Layup,Missed Shot,Running Layup Shot,1,11,1,1,2.0,0.0,h

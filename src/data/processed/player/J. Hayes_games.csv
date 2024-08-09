@@ -1,0 +1,839 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2324-G0134,1,03:32,ORL,,LAL,,J. Hayes,LAL,Hayes OFF.Foul (P1) (M.Lindsay),Foul,Offensive,0,0,0,0,,,v
+S2324-G0134,1,03:32,ORL,,LAL,,J. Hayes,LAL,Hayes Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0134,1,00:17.300000,ORL,,LAL,,J. Hayes,LAL,Hayes OFF.Foul (P2) (M.Smith),Foul,Offensive,0,0,0,0,,,v
+S2324-G0134,1,00:17.300000,ORL,,LAL,,J. Hayes,LAL,Hayes Offensive Foul Turnover (P2.T7),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0134,2,10:17,ORL,,LAL,,J. Hayes,LAL,Hayes S.FOUL (P3.T1) (M.Lindsay),Foul,Shooting,0,0,0,0,,,v
+S2324-G0134,2,10:17,ORL,,LAL,,J. Hayes,LAL,SUB: Reddish FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0134,3,03:58,ORL,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0134,3,03:58,ORL,,LAL,,J. Hayes,LAL,MISS Hayes Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2324-G0134,3,03:08,ORL,,LAL,,J. Hayes,LAL,MISS Hayes 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-27,8,3,1,2.0,0.0,v
+S2324-G0134,3,02:51,ORL,,LAL,,J. Hayes,LAL,MISS Hayes 2' Running Layup,Missed Shot,Running Layup Shot,5,15,2,1,2.0,0.0,v
+S2324-G0134,3,01:54,ORL,96.0,LAL,74.0,J. Hayes,LAL,Hayes 2' Dunk (2 PTS) (Wood 1 AST),Made Shot,Dunk Shot,-16,4,2,1,2.0,2.0,v
+S2324-G0134,3,00:31.900000,ORL,,LAL,,J. Hayes,LAL,Hayes BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G1230,2,10:23,LAL,,NOP,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1230,2,09:32,LAL,,NOP,,J. Hayes,LAL,Hayes S.FOUL (P1.T1) (S.Foster),Foul,Shooting,0,0,0,0,,,h
+S2324-G1230,2,08:50,LAL,42.0,NOP,35.0,J. Hayes,LAL,Hayes 1' Layup (2 PTS) (Reaves 2 AST),Made Shot,Layup Shot,6,2,1,1,2.0,2.0,h
+S2324-G1230,2,08:50,LAL,,NOP,,J. Hayes,LAL,MISS Hayes Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2324-G1230,2,07:20,LAL,,NOP,,J. Hayes,LAL,Hayes S.FOUL (P2.T3) (S.Foster),Foul,Shooting,0,0,0,0,,,h
+S2324-G1230,2,07:20,LAL,,NOP,,J. Hayes,LAL,SUB: Russell FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G1230,4,11:47,LAL,,NOP,,J. Hayes,LAL,Hayes OFF.Foul (P3) (S.Foster),Foul,Offensive,0,0,0,0,,,h
+S2324-G1230,4,11:47,LAL,,NOP,,J. Hayes,LAL,Hayes Offensive Foul Turnover (P1.T9),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G1230,4,06:49,LAL,121.0,NOP,81.0,J. Hayes,LAL,Hayes 2' Cutting Dunk Shot (4 PTS) (Lewis 1 AST),Made Shot,Cutting Dunk Shot,4,21,2,1,2.0,2.0,h
+S2324-G1230,4,06:11,LAL,,NOP,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1230,4,03:47,LAL,,NOP,,J. Hayes,LAL,Hayes S.FOUL (P4.T4) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,h
+S2324-G1230,4,03:32,LAL,,NOP,,J. Hayes,LAL,MISS Hayes 25' 3PT Jump Shot,Missed Shot,Jump Shot,175,180,25,1,3.0,0.0,h
+S2324-G1230,4,02:47,LAL,,NOP,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1230,4,01:27,LAL,,NOP,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0026,2,10:59,LAL,,MEM,,J. Hayes,LAL,Hayes L.B.FOUL (P1.T1) (B.Taylor),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0026,2,09:12,LAL,,MEM,,J. Hayes,LAL,Hayes STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0026,2,08:42,LAL,45.0,MEM,33.0,J. Hayes,LAL,Hayes Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0026,2,08:42,LAL,46.0,MEM,33.0,J. Hayes,LAL,Hayes Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0026,2,06:30,LAL,51.0,MEM,38.0,J. Hayes,LAL,Hayes Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0026,2,06:30,LAL,,MEM,,J. Hayes,LAL,MISS Hayes Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0026,2,06:26,LAL,,MEM,,J. Hayes,LAL,Hayes REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0026,2,06:24,LAL,53.0,MEM,38.0,J. Hayes,LAL,Hayes 2' Putback Dunk (5 PTS),Made Shot,Putback Dunk Shot,-2,15,2,1,2.0,2.0,h
+S2324-G0026,2,05:20,LAL,,MEM,,J. Hayes,LAL,SUB: Prince FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0026,3,02:23,LAL,105.0,MEM,75.0,J. Hayes,LAL,Hayes 3' Cutting Dunk Shot (7 PTS) (Reaves 4 AST),Made Shot,Cutting Dunk Shot,9,27,3,1,2.0,2.0,h
+S2324-G0026,3,02:15,LAL,,MEM,,J. Hayes,LAL,Hayes BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0026,3,01:41,LAL,107.0,MEM,78.0,J. Hayes,LAL,Hayes 3' Driving Dunk (9 PTS) (Wood 2 AST),Made Shot,Driving Dunk Shot,1,32,3,1,2.0,2.0,h
+S2324-G0026,4,11:07,LAL,,MEM,,J. Hayes,LAL,Hayes BLOCK (2 BLK),,,0,0,0,0,,,h
+S2324-G0026,4,08:03,LAL,,MEM,,J. Hayes,LAL,Hayes BLOCK (3 BLK),,,0,0,0,0,,,h
+S2324-G0026,4,05:01,LAL,122.0,MEM,100.0,J. Hayes,LAL,Hayes 1' Running Alley Oop Dunk Shot (11 PTS) (Reaves 7 AST),Made Shot,Running Alley Oop Dunk Shot,9,10,1,1,2.0,2.0,h
+S2324-G0026,4,00:48.200000,LAL,,MEM,,J. Hayes,LAL,Hayes P.FOUL (P2.T2) (R.Acosta),Foul,Personal,0,0,0,0,,,h
+S2324-G1103,2,11:47,WAS,,LAL,,J. Hayes,LAL,Hayes S.FOUL (P1.T1) (N.Buchert),Foul,Shooting,0,0,0,0,,,v
+S2324-G1103,2,09:50,WAS,,LAL,,J. Hayes,LAL,Hayes Lost Ball Turnover (P1.T6),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G1103,2,09:36,WAS,35.0,LAL,44.0,J. Hayes,LAL,Hayes Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1103,2,09:36,WAS,,LAL,,J. Hayes,LAL,MISS Hayes Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G1103,2,07:07,WAS,42.0,LAL,48.0,J. Hayes,LAL,Hayes 2' Cutting Dunk Shot (3 PTS) (James 3 AST),Made Shot,Cutting Dunk Shot,2,17,2,1,2.0,2.0,v
+S2324-G1103,2,05:59,WAS,,LAL,,J. Hayes,LAL,SUB: Davis FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G1103,4,09:13,WAS,,LAL,,J. Hayes,LAL,SUB: Dinwiddie FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G1103,4,00:17.400000,WAS,,LAL,,J. Hayes,LAL,SUB: James FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0591,4,00:37.900000,LAL,,BKN,,J. Hayes,LAL,MISS Hayes 26' 3PT Jump Shot,Missed Shot,Jump Shot,202,158,26,1,3.0,0.0,h
+S2324-G0856,2,10:38,LAL,,WAS,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0856,2,09:34,LAL,36.0,WAS,39.0,J. Hayes,LAL,Hayes 1' Alley Oop Dunk (2 PTS) (James 2 AST),Made Shot,Alley Oop Dunk Shot,-4,10,1,1,2.0,2.0,h
+S2324-G0856,2,09:19,LAL,,WAS,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0856,2,07:29,LAL,,WAS,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0856,2,06:20,LAL,44.0,WAS,51.0,J. Hayes,LAL,Hayes 3' Alley Oop Layup (4 PTS) (Dinwiddie 1 AST),Made Shot,Alley Oop Layup shot,-16,27,3,1,2.0,2.0,h
+S2324-G0856,2,06:04,LAL,,WAS,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0856,2,05:59,LAL,,WAS,,J. Hayes,LAL,SUB: Davis FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0856,4,10:03,LAL,,WAS,,J. Hayes,LAL,Hayes Violation:Defensive Goaltending (B.Barnaky),Violation,Defensive Goaltending,0,0,0,0,,,h
+S2324-G0856,4,09:45,LAL,,WAS,,J. Hayes,LAL,Hayes REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0856,4,09:44,LAL,106.0,WAS,101.0,J. Hayes,LAL,Hayes Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2324-G0856,4,08:03,LAL,,WAS,,J. Hayes,LAL,MISS Hayes 3' Alley Oop Dunk,Missed Shot,Alley Oop Dunk Shot,-21,21,3,1,2.0,0.0,h
+S2324-G0856,4,07:06,LAL,,WAS,,J. Hayes,LAL,SUB: Davis FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0397,2,05:52,OKC,,LAL,,J. Hayes,LAL,SUB: Reddish FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0380,1,01:52,MIN,,LAL,,J. Hayes,LAL,Hayes S.FOUL (P1.T3) (S.Corbin),Foul,Shooting,0,0,0,0,,,v
+S2324-G0380,1,01:08,MIN,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0380,1,00:32.100000,MIN,33.0,LAL,28.0,J. Hayes,LAL,Hayes 4' Cutting Layup Shot (2 PTS) (Russell 1 AST),Made Shot,Cutting Layup Shot,28,28,4,1,2.0,2.0,v
+S2324-G0380,1,00:32.100000,MIN,33.0,LAL,29.0,J. Hayes,LAL,Hayes Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G0380,2,08:27,MIN,,LAL,,J. Hayes,LAL,SUB: Davis FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0380,4,11:02,MIN,,LAL,,J. Hayes,LAL,Hayes S.FOUL (P2.T1) (S.Corbin),Foul,Shooting,0,0,0,0,,,v
+S2324-G0380,4,09:27,MIN,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0380,4,08:45,MIN,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0380,4,08:43,MIN,,LAL,,J. Hayes,LAL,SUB: Prince FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0380,4,06:23,MIN,,LAL,,J. Hayes,LAL,Hayes Out of Bounds Lost Ball Turnover (P1.T17),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2324-G0380,4,06:23,MIN,,LAL,,J. Hayes,LAL,SUB: Hachimura FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0713,2,11:42,CHA,,LAL,,J. Hayes,LAL,Hayes STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0713,2,08:03,CHA,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0713,2,07:32,CHA,,LAL,,J. Hayes,LAL,Hayes S.FOUL (P1.T1) (T.Brothers),Foul,Shooting,0,0,0,0,,,v
+S2324-G0713,2,07:32,CHA,,LAL,,J. Hayes,LAL,SUB: Hachimura FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0713,4,09:35,CHA,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0713,4,08:56,CHA,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0713,4,08:55,CHA,,LAL,,J. Hayes,LAL,MISS Hayes 4' Putback Layup,Missed Shot,Putback Layup Shot,-18,31,4,1,2.0,0.0,v
+S2324-G0713,4,07:38,CHA,,LAL,,J. Hayes,LAL,SUB: Davis FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G1155,1,12:00,LAL,,GSW,,J. Hayes,LAL,Jump Ball Hayes vs. Jackson-Davis: Tip to James,Jump Ball,,0,0,0,0,,,h
+S2324-G1155,1,11:01,LAL,,GSW,,J. Hayes,LAL,Hayes STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1155,1,09:47,LAL,,GSW,,J. Hayes,LAL,MISS Hayes 2' Reverse Layup,Missed Shot,Reverse Layup Shot,18,15,2,1,2.0,0.0,h
+S2324-G1155,1,09:40,LAL,,GSW,,J. Hayes,LAL,Hayes BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G1155,1,09:37,LAL,,GSW,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1155,1,08:30,LAL,7.0,GSW,8.0,J. Hayes,LAL,Hayes 3' Dunk (2 PTS) (Reaves 1 AST),Made Shot,Dunk Shot,7,26,3,1,2.0,2.0,h
+S2324-G1155,1,06:26,LAL,,GSW,,J. Hayes,LAL,Hayes REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1155,1,06:26,LAL,,GSW,,J. Hayes,LAL,MISS Hayes Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G1155,1,06:26,LAL,13.0,GSW,13.0,J. Hayes,LAL,Hayes Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1155,1,05:17,LAL,,GSW,,J. Hayes,LAL,SUB: Dinwiddie FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G1155,1,01:45,LAL,21.0,GSW,27.0,J. Hayes,LAL,Hayes 9' Floating Jump Shot (5 PTS) (Reddish 1 AST),Made Shot,Floating Jump shot,11,88,9,1,2.0,2.0,h
+S2324-G1155,1,00:52.700000,LAL,23.0,GSW,32.0,J. Hayes,LAL,Hayes 1' Alley Oop Dunk (7 PTS) (Russell 2 AST),Made Shot,Alley Oop Dunk Shot,1,13,1,1,2.0,2.0,h
+S2324-G1155,1,00:05.800000,LAL,,GSW,,J. Hayes,LAL,Hayes S.FOUL (P1.T3) (Z.Zarba),Foul,Shooting,0,0,0,0,,,h
+S2324-G1155,2,10:35,LAL,,GSW,,J. Hayes,LAL,Hayes REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1155,2,08:58,LAL,,GSW,,J. Hayes,LAL,Hayes REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1155,2,07:15,LAL,,GSW,,J. Hayes,LAL,Hayes REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1155,2,06:27,LAL,,GSW,,J. Hayes,LAL,SUB: Reaves FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G1155,2,01:05,LAL,,GSW,,J. Hayes,LAL,Hayes Violation:Defensive Goaltending (Z.Zarba),Violation,Defensive Goaltending,0,0,0,0,,,h
+S2324-G1155,3,09:42,LAL,,GSW,,J. Hayes,LAL,Hayes S.FOUL (P2.T2) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,h
+S2324-G1155,3,08:59,LAL,,GSW,,J. Hayes,LAL,Hayes REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1155,3,08:59,LAL,,GSW,,J. Hayes,LAL,Hayes OFF.Foul (P3) (J.Goldenberg),Foul,Offensive,0,0,0,0,,,h
+S2324-G1155,3,08:59,LAL,,GSW,,J. Hayes,LAL,Hayes Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G1155,3,08:59,LAL,,GSW,,J. Hayes,LAL,Hayes T.FOUL (P3.T2) (J.Goldenberg),Foul,Technical,0,0,0,0,,,h
+S2324-G1155,3,07:58,LAL,,GSW,,J. Hayes,LAL,SUB: Prince FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G1155,3,03:10,LAL,86.0,GSW,91.0,J. Hayes,LAL,Hayes 4' Dunk (9 PTS) (Vincent 1 AST),Made Shot,Dunk Shot,20,30,4,1,2.0,2.0,h
+S2324-G1155,4,11:43,LAL,91.0,GSW,106.0,J. Hayes,LAL,Hayes Cutting Dunk Shot (11 PTS) (James 9 AST),Made Shot,Cutting Dunk Shot,-4,-1,0,1,2.0,2.0,h
+S2324-G1155,4,08:30,LAL,,GSW,,J. Hayes,LAL,Hayes Offensive Charge Foul (P4) (Z.Zarba),Foul,Offensive Charge,0,0,0,0,,,h
+S2324-G1155,4,08:30,LAL,,GSW,,J. Hayes,LAL,Hayes Offensive Foul Turnover (P2.T8),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G1155,4,08:30,LAL,,GSW,,J. Hayes,LAL,SUB: Dinwiddie FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G1143,1,02:16,LAL,,MIN,,J. Hayes,LAL,Hayes STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1143,1,02:06,LAL,,MIN,,J. Hayes,LAL,Hayes REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1143,1,01:16,LAL,31.0,MIN,28.0,J. Hayes,LAL,Hayes Cutting Dunk Shot (2 PTS) (Prince 1 AST),Made Shot,Cutting Dunk Shot,0,-1,0,1,2.0,2.0,h
+S2324-G1143,1,00:03.700000,LAL,37.0,MIN,33.0,J. Hayes,LAL,Hayes 6' Hook Bank Shot (4 PTS) (Russell 4 AST),Made Shot,Hook Bank Shot,-29,55,6,1,2.0,2.0,h
+S2324-G1143,2,10:19,LAL,41.0,MIN,41.0,J. Hayes,LAL,Hayes 5' Layup (6 PTS) (Dinwiddie 1 AST),Made Shot,Layup Shot,12,50,5,1,2.0,2.0,h
+S2324-G1143,2,09:51,LAL,,MIN,,J. Hayes,LAL,Hayes REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1143,2,09:51,LAL,,MIN,,J. Hayes,LAL,MISS Hayes Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2324-G1143,2,08:05,LAL,,MIN,,J. Hayes,LAL,Hayes REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1143,2,05:44,LAL,,MIN,,J. Hayes,LAL,Hayes Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G1143,2,05:07,LAL,,MIN,,J. Hayes,LAL,Hayes STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G1143,2,05:06,LAL,,MIN,,J. Hayes,LAL,SUB: Prince FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G1143,2,02:58,LAL,59.0,MIN,69.0,J. Hayes,LAL,Hayes 1' Layup (8 PTS) (Reaves 2 AST),Made Shot,Layup Shot,4,-6,1,1,2.0,2.0,h
+S2324-G1143,2,02:58,LAL,60.0,MIN,69.0,J. Hayes,LAL,Hayes Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G1143,2,01:23,LAL,,MIN,,J. Hayes,LAL,Hayes BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G1143,2,01:22,LAL,,MIN,,J. Hayes,LAL,Hayes REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1143,2,01:07,LAL,,MIN,,J. Hayes,LAL,Hayes STEAL (3 STL),,,0,0,0,0,,,h
+S2324-G1143,3,09:06,LAL,,MIN,,J. Hayes,LAL,Hayes REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1143,3,08:28,LAL,,MIN,,J. Hayes,LAL,MISS Hayes Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G1143,3,08:28,LAL,70.0,MIN,84.0,J. Hayes,LAL,Hayes Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1143,3,07:48,LAL,72.0,MIN,84.0,J. Hayes,LAL,Hayes 1' Cutting Dunk Shot (12 PTS) (Dinwiddie 4 AST),Made Shot,Cutting Dunk Shot,4,11,1,1,2.0,2.0,h
+S2324-G1143,3,06:24,LAL,77.0,MIN,86.0,J. Hayes,LAL,Hayes 1' Cutting Dunk Shot (14 PTS) (Russell 8 AST),Made Shot,Cutting Dunk Shot,-2,8,1,1,2.0,2.0,h
+S2324-G1143,3,05:22,LAL,,MIN,,J. Hayes,LAL,Hayes REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1143,3,04:59,LAL,79.0,MIN,88.0,J. Hayes,LAL,Hayes 1' Running Dunk (16 PTS) (Russell 9 AST),Made Shot,Running Dunk Shot,-2,13,1,1,2.0,2.0,h
+S2324-G1143,3,04:35,LAL,,MIN,,J. Hayes,LAL,Hayes REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1143,3,04:26,LAL,81.0,MIN,88.0,J. Hayes,LAL,Hayes 1' Cutting Dunk Shot (18 PTS) (Russell 10 AST),Made Shot,Cutting Dunk Shot,7,13,1,1,2.0,2.0,h
+S2324-G1143,3,01:57,LAL,,MIN,,J. Hayes,LAL,Hayes S.FOUL (P1.T3) (P.Ransom),Foul,Shooting,0,0,0,0,,,h
+S2324-G1143,3,01:57,LAL,,MIN,,J. Hayes,LAL,SUB: Reddish FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G1143,4,11:05,LAL,,MIN,,J. Hayes,LAL,Hayes REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1143,4,10:17,LAL,,MIN,,J. Hayes,LAL,Hayes OFF.Foul (P2) (P.Ransom),Foul,Offensive,0,0,0,0,,,h
+S2324-G1143,4,10:17,LAL,,MIN,,J. Hayes,LAL,Hayes Offensive Foul Turnover (P2.T12),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G1143,4,10:17,LAL,,MIN,,J. Hayes,LAL,SUB: Hachimura FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G1143,4,06:18,LAL,,MIN,,J. Hayes,LAL,Hayes STEAL (4 STL),,,0,0,0,0,,,h
+S2324-G1143,4,05:37,LAL,,MIN,,J. Hayes,LAL,Hayes S.FOUL (P3.T1) (E.Malloy),Foul,Shooting,0,0,0,0,,,h
+S2324-G1143,4,05:11,LAL,,MIN,,J. Hayes,LAL,Hayes STEAL (5 STL),,,0,0,0,0,,,h
+S2324-G1143,4,04:44,LAL,,MIN,,J. Hayes,LAL,Hayes REBOUND (Off:2 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1143,4,04:44,LAL,,MIN,,J. Hayes,LAL,Hayes Step Out of Bounds Turnover (P3.T15),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2324-G1143,4,03:21,LAL,,MIN,,J. Hayes,LAL,Hayes REBOUND (Off:2 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1143,4,03:00,LAL,,MIN,,J. Hayes,LAL,MISS Hayes Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G1143,4,03:00,LAL,111.0,MIN,124.0,J. Hayes,LAL,Hayes Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1143,4,02:03,LAL,,MIN,,J. Hayes,LAL,SUB: Christie FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0990,2,11:33,LAL,,ATL,,J. Hayes,LAL,MISS Hayes Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0990,2,11:33,LAL,39.0,ATL,31.0,J. Hayes,LAL,Hayes Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0990,2,09:02,LAL,,ATL,,J. Hayes,LAL,Hayes S.FOUL (P1.T1) (I.Hwang),Foul,Shooting,0,0,0,0,,,h
+S2324-G0990,2,07:13,LAL,,ATL,,J. Hayes,LAL,SUB: Davis FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0990,4,06:51,LAL,126.0,ATL,94.0,J. Hayes,LAL,Hayes 2' Alley Oop Dunk (3 PTS) (Dinwiddie 2 AST),Made Shot,Alley Oop Dunk Shot,-9,20,2,1,2.0,2.0,h
+S2324-G0990,4,06:27,LAL,,ATL,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0990,4,05:46,LAL,,ATL,,J. Hayes,LAL,Hayes BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0990,4,05:44,LAL,,ATL,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0990,4,03:57,LAL,,ATL,,J. Hayes,LAL,Hayes S.FOUL (P2.T4) (E.Malloy),Foul,Shooting,0,0,0,0,,,h
+S2324-G0990,4,03:31,LAL,132.0,ATL,97.0,J. Hayes,LAL,Hayes 1' Running Dunk (5 PTS) (Mays 1 AST),Made Shot,Running Dunk Shot,1,10,1,1,2.0,2.0,h
+S2324-G0990,4,01:32,LAL,,ATL,,J. Hayes,LAL,MISS Hayes 6' Driving Dunk,Missed Shot,Driving Dunk Shot,-16,57,6,1,2.0,0.0,h
+S2324-G0990,4,00:22.100000,LAL,,ATL,,J. Hayes,LAL,Hayes REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0990,4,00:22.100000,LAL,136.0,ATL,105.0,J. Hayes,LAL,Hayes 2' Putback Dunk (7 PTS),Made Shot,Putback Dunk Shot,1,20,2,1,2.0,2.0,h
+S2324-G0932,1,01:59,LAL,,MIN,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0932,1,01:52,LAL,,MIN,,J. Hayes,LAL,Hayes OFF.Foul (P1) (B.Nansel),Foul,Offensive,0,0,0,0,,,h
+S2324-G0932,1,01:52,LAL,,MIN,,J. Hayes,LAL,Hayes Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0932,1,00:02.100000,LAL,,MIN,,J. Hayes,LAL,SUB: Christie FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0932,2,10:56,LAL,36.0,MIN,33.0,J. Hayes,LAL,Hayes 1' Alley Oop Dunk (2 PTS) (Russell 2 AST),Made Shot,Alley Oop Dunk Shot,7,7,1,1,2.0,2.0,h
+S2324-G0932,2,09:52,LAL,39.0,MIN,37.0,J. Hayes,LAL,Hayes 4' Cutting Layup Shot (4 PTS) (Russell 3 AST),Made Shot,Cutting Layup Shot,18,34,4,1,2.0,2.0,h
+S2324-G0932,2,09:52,LAL,40.0,MIN,37.0,J. Hayes,LAL,Hayes Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G0932,2,07:24,LAL,47.0,MIN,45.0,J. Hayes,LAL,Hayes Cutting Dunk Shot (7 PTS) (Russell 4 AST),Made Shot,Cutting Dunk Shot,-1,-3,0,1,2.0,2.0,h
+S2324-G0932,2,04:40,LAL,,MIN,,J. Hayes,LAL,Hayes REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0932,2,04:40,LAL,,MIN,,J. Hayes,LAL,SUB: Dinwiddie FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0932,3,02:47,LAL,,MIN,,J. Hayes,LAL,Hayes REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0932,3,02:42,LAL,,MIN,,J. Hayes,LAL,Hayes REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0932,3,02:36,LAL,86.0,MIN,85.0,J. Hayes,LAL,Hayes Tip Dunk Shot (9 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,h
+S2324-G0932,3,02:07,LAL,,MIN,,J. Hayes,LAL,Hayes Traveling Turnover (P2.T18),Turnover,Traveling,0,0,0,0,,,h
+S2324-G0932,3,01:10,LAL,,MIN,,J. Hayes,LAL,Hayes REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0932,3,00:20.300000,LAL,,MIN,,J. Hayes,LAL,SUB: Reaves FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0932,4,00:33.800000,LAL,,MIN,,J. Hayes,LAL,Hayes L.B.FOUL (P2.PN) (J.Williams),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0359,2,10:00,LAL,31.0,NYK,35.0,J. Hayes,LAL,Hayes 2' Running Dunk (2 PTS) (Reaves 1 AST),Made Shot,Running Dunk Shot,2,19,2,1,2.0,2.0,h
+S2324-G0359,2,06:47,LAL,,NYK,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0359,2,06:27,LAL,,NYK,,J. Hayes,LAL,Hayes P.FOUL (P1.T3) (M.Lindsay),Foul,Personal,0,0,0,0,,,h
+S2324-G0359,2,06:27,LAL,,NYK,,J. Hayes,LAL,SUB: Davis FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0359,4,10:28,LAL,,NYK,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0359,4,09:50,LAL,,NYK,,J. Hayes,LAL,SUB: Vanderbilt FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0973,1,02:23,LAL,,GSW,,J. Hayes,LAL,Hayes REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0973,1,00:53.500000,LAL,36.0,GSW,30.0,J. Hayes,LAL,Hayes 2' Alley Oop Dunk (2 PTS) (Prince 1 AST),Made Shot,Alley Oop Dunk Shot,0,15,2,1,2.0,2.0,h
+S2324-G0973,1,00:53.500000,LAL,,GSW,,J. Hayes,LAL,MISS Hayes Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2324-G0973,1,00:26.200000,LAL,,GSW,,J. Hayes,LAL,Hayes REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0973,1,00:03.100000,LAL,,GSW,,J. Hayes,LAL,SUB: Hachimura FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0973,2,11:04,LAL,,GSW,,J. Hayes,LAL,MISS Hayes 7' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-71,10,7,1,2.0,0.0,h
+S2324-G0973,2,08:04,LAL,,GSW,,J. Hayes,LAL,Hayes REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0973,2,07:34,LAL,,GSW,,J. Hayes,LAL,MISS Hayes Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0973,2,07:34,LAL,48.0,GSW,44.0,J. Hayes,LAL,Hayes Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0973,2,06:59,LAL,,GSW,,J. Hayes,LAL,Hayes 3 Second Violation Turnover (P1.T4),Turnover,3 Second Violation,0,0,0,0,,,h
+S2324-G0973,2,04:19,LAL,,GSW,,J. Hayes,LAL,SUB: Russell FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0973,3,11:45,LAL,,GSW,,J. Hayes,LAL,Hayes REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0973,3,10:43,LAL,,GSW,,J. Hayes,LAL,Hayes S.FOUL (P1.T1) (M.Kogut),Foul,Shooting,0,0,0,0,,,h
+S2324-G0973,3,10:13,LAL,,GSW,,J. Hayes,LAL,Hayes REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0973,3,09:59,LAL,,GSW,,J. Hayes,LAL,Hayes REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0973,3,08:14,LAL,,GSW,,J. Hayes,LAL,Hayes REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0973,3,07:43,LAL,,GSW,,J. Hayes,LAL,Hayes Offensive Charge Foul (P2) (M.Kogut),Foul,Offensive Charge,0,0,0,0,,,h
+S2324-G0973,3,07:43,LAL,,GSW,,J. Hayes,LAL,Hayes Offensive Foul Turnover (P2.T7),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0973,3,06:13,LAL,,GSW,,J. Hayes,LAL,Hayes REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0973,3,04:51,LAL,,GSW,,J. Hayes,LAL,Hayes S.FOUL (P3.T3) (M.Kogut),Foul,Shooting,0,0,0,0,,,h
+S2324-G0973,3,04:51,LAL,,GSW,,J. Hayes,LAL,SUB: Prince FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0973,3,02:15,LAL,87.0,GSW,93.0,J. Hayes,LAL,Hayes 1' Alley Oop Dunk (5 PTS) (Russell 9 AST),Made Shot,Alley Oop Dunk Shot,-2,9,1,1,2.0,2.0,h
+S2324-G0973,3,01:13,LAL,,GSW,,J. Hayes,LAL,Hayes REBOUND (Off:1 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0973,3,01:05,LAL,91.0,GSW,96.0,J. Hayes,LAL,Hayes Driving Dunk (7 PTS) (Russell 10 AST),Made Shot,Driving Dunk Shot,-1,-2,0,1,2.0,2.0,h
+S2324-G0973,4,11:29,LAL,,GSW,,J. Hayes,LAL,Hayes REBOUND (Off:1 Def:9),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0973,4,11:16,LAL,,GSW,,J. Hayes,LAL,Hayes REBOUND (Off:2 Def:9),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0973,4,09:47,LAL,,GSW,,J. Hayes,LAL,MISS Hayes 8' Hook Shot,Missed Shot,Hook Shot,48,62,8,1,2.0,0.0,h
+S2324-G0973,4,07:59,LAL,,GSW,,J. Hayes,LAL,SUB: James FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0973,4,03:06,LAL,,GSW,,J. Hayes,LAL,Hayes REBOUND (Off:2 Def:10),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0973,4,01:48,LAL,,GSW,,J. Hayes,LAL,Jump Ball Hayes vs. Wiggins: Tip to Green,Jump Ball,,0,0,0,0,,,h
+S2324-G0973,4,01:48,LAL,,GSW,,J. Hayes,LAL,SUB: Hachimura FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0915,1,01:05,LAL,24.0,MIL,28.0,J. Hayes,LAL,Hayes 1' Cutting Dunk Shot (2 PTS) (Russell 3 AST),Made Shot,Cutting Dunk Shot,-4,13,1,1,2.0,2.0,h
+S2324-G0915,2,09:51,LAL,,MIL,,J. Hayes,LAL,MISS Hayes Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0915,2,09:51,LAL,,MIL,,J. Hayes,LAL,MISS Hayes Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0915,2,09:03,LAL,37.0,MIL,33.0,J. Hayes,LAL,Hayes 1' Cutting Dunk Shot (4 PTS) (Russell 4 AST),Made Shot,Cutting Dunk Shot,-2,13,1,1,2.0,2.0,h
+S2324-G0915,2,08:57,LAL,,MIL,,J. Hayes,LAL,Hayes S.FOUL (P1.T1) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,h
+S2324-G0915,2,08:48,LAL,38.0,MIL,36.0,J. Hayes,LAL,Hayes Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0915,2,08:48,LAL,39.0,MIL,36.0,J. Hayes,LAL,Hayes Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0915,2,07:56,LAL,,MIL,,J. Hayes,LAL,Hayes S.FOUL (P2.T2) (S.Mitchell),Foul,Shooting,0,0,0,0,,,h
+S2324-G0915,2,07:45,LAL,43.0,MIL,41.0,J. Hayes,LAL,Hayes Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0915,2,07:45,LAL,44.0,MIL,41.0,J. Hayes,LAL,Hayes Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0915,2,07:07,LAL,,MIL,,J. Hayes,LAL,SUB: Davis FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0915,3,05:13,LAL,,MIL,,J. Hayes,LAL,Hayes Lost Ball Turnover (P1.T5),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0915,3,05:08,LAL,,MIL,,J. Hayes,LAL,Hayes S.FOUL (P3.T2) (K.Scott),Foul,Shooting,0,0,0,0,,,h
+S2324-G0915,3,00:23.500000,LAL,,MIL,,J. Hayes,LAL,Hayes Violation:Defensive Goaltending (A.Moyer-Gleich),Violation,Defensive Goaltending,0,0,0,0,,,h
+S2324-G0915,3,00:22.200000,LAL,,MIL,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0915,4,09:53,LAL,,MIL,,J. Hayes,LAL,SUB: Davis FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0915,4,00:23.200000,LAL,,MIL,,J. Hayes,LAL,SUB: Russell FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0446,2,10:06,NOP,,LAL,,J. Hayes,LAL,MISS Hayes 5' Layup,Missed Shot,Layup Shot,-36,31,5,1,2.0,0.0,v
+S2324-G0446,2,09:30,NOP,,LAL,,J. Hayes,LAL,Hayes S.FOUL (P1.T1) (M.Dagher),Foul,Shooting,0,0,0,0,,,v
+S2324-G0446,2,08:53,NOP,,LAL,,J. Hayes,LAL,Hayes S.FOUL (P2.T2) (J.Butler),Foul,Shooting,0,0,0,0,,,v
+S2324-G0446,2,08:09,NOP,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0446,2,08:03,NOP,,LAL,,J. Hayes,LAL,SUB: Vanderbilt FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0446,4,01:12,NOP,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0684,1,11:12,BOS,,LAL,,J. Hayes,LAL,Hayes STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0684,1,11:05,BOS,2.0,LAL,2.0,J. Hayes,LAL,Hayes 9' Jump Shot (2 PTS) (Prince 1 AST),Made Shot,Jump Shot,32,80,9,1,2.0,2.0,v
+S2324-G0684,1,10:15,BOS,,LAL,,J. Hayes,LAL,Hayes STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0684,1,10:08,BOS,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0684,1,08:54,BOS,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0684,1,08:54,BOS,8.0,LAL,6.0,J. Hayes,LAL,Hayes Tip Dunk Shot (4 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,v
+S2324-G0684,1,08:11,BOS,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0684,1,07:48,BOS,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0684,1,07:25,BOS,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0684,1,06:01,BOS,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0684,1,05:48,BOS,10.0,LAL,16.0,J. Hayes,LAL,Hayes 2' Cutting Dunk Shot (6 PTS) (Russell 2 AST),Made Shot,Cutting Dunk Shot,-9,21,2,1,2.0,2.0,v
+S2324-G0684,1,04:28,BOS,,LAL,,J. Hayes,LAL,SUB: Christie FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0684,2,07:21,BOS,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0684,2,05:21,BOS,,LAL,,J. Hayes,LAL,MISS Hayes 6' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-25,50,6,1,2.0,0.0,v
+S2324-G0684,2,02:12,BOS,,LAL,,J. Hayes,LAL,Hayes STEAL (3 STL),,,0,0,0,0,,,v
+S2324-G0684,3,10:54,BOS,50.0,LAL,65.0,J. Hayes,LAL,Hayes 1' Alley Oop Layup (8 PTS) (Russell 6 AST),Made Shot,Alley Oop Layup shot,0,7,1,1,2.0,2.0,v
+S2324-G0684,3,09:06,BOS,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0684,3,09:04,BOS,54.0,LAL,70.0,J. Hayes,LAL,Hayes Putback Layup (10 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,v
+S2324-G0684,3,09:04,BOS,,LAL,,J. Hayes,LAL,MISS Hayes Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2324-G0684,3,07:27,BOS,,LAL,,J. Hayes,LAL,MISS Hayes 1' Reverse Layup,Missed Shot,Reverse Layup Shot,-7,10,1,1,2.0,0.0,v
+S2324-G0684,3,07:01,BOS,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:5 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0684,3,06:05,BOS,,LAL,,J. Hayes,LAL,SUB: Wood FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0684,3,02:51,BOS,71.0,LAL,81.0,J. Hayes,LAL,Hayes Cutting Dunk Shot (12 PTS) (Russell 9 AST),Made Shot,Cutting Dunk Shot,-1,4,0,1,2.0,2.0,v
+S2324-G0684,4,06:33,BOS,90.0,LAL,100.0,J. Hayes,LAL,Hayes Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0684,4,06:33,BOS,90.0,LAL,101.0,J. Hayes,LAL,Hayes Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0684,4,06:05,BOS,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:6 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0684,4,06:05,BOS,92.0,LAL,102.0,J. Hayes,LAL,Hayes Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0684,4,06:05,BOS,92.0,LAL,103.0,J. Hayes,LAL,Hayes Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0684,4,00:46.500000,BOS,,LAL,,J. Hayes,LAL,SUB: Mays FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0954,2,10:44,SAC,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0954,2,10:43,SAC,31.0,LAL,31.0,J. Hayes,LAL,Hayes 2' Tip Dunk Shot (2 PTS),Made Shot,Tip Dunk Shot,-17,10,2,1,2.0,2.0,v
+S2324-G0954,2,09:03,SAC,35.0,LAL,38.0,J. Hayes,LAL,Hayes Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0954,2,09:03,SAC,35.0,LAL,39.0,J. Hayes,LAL,Hayes Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0954,2,08:49,SAC,,LAL,,J. Hayes,LAL,Hayes S.FOUL (P1.T2) (M.Lindsay),Foul,Shooting,0,0,0,0,,,v
+S2324-G0954,2,07:22,SAC,,LAL,,J. Hayes,LAL,Hayes P.FOUL (P2.T4) (M.Lindsay),Foul,Personal,0,0,0,0,,,v
+S2324-G0954,2,07:22,SAC,,LAL,,J. Hayes,LAL,SUB: Davis FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0954,4,11:39,SAC,,LAL,,J. Hayes,LAL,Hayes S.FOUL (P3.T1) (T.Ford),Foul,Shooting,0,0,0,0,,,v
+S2324-G0954,4,10:53,SAC,,LAL,,J. Hayes,LAL,Hayes Bad Pass Turnover (P1.T12),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0954,4,10:43,SAC,,LAL,,J. Hayes,LAL,SUB: Reaves FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0036,2,11:47,POR,,LAL,,J. Hayes,LAL,Lakers T.Foul (Def. 3 Sec Hayes ) (J.Sterling),Foul,Defense 3 Second,0,0,0,0,,,v
+S2324-G0036,2,08:24,POR,,LAL,,J. Hayes,LAL,Hayes STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0036,2,08:24,POR,,LAL,,J. Hayes,LAL,MISS Hayes Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2324-G0036,2,07:42,POR,,LAL,,J. Hayes,LAL,SUB: Davis FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0036,4,00:46.900000,POR,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0061,1,00:40.600000,DEN,,LAL,,J. Hayes,LAL,Hayes S.FOUL (P1.T3) (K.Cutler),Foul,Shooting,0,0,0,0,,,v
+S2324-G0061,2,10:57,DEN,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0061,2,09:11,DEN,,LAL,,J. Hayes,LAL,SUB: Davis FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0076,1,02:37,LAL,,PHX,,J. Hayes,LAL,Hayes OFF.Foul (P1) (J.Van Duyne),Foul,Offensive,0,0,0,0,,,h
+S2324-G0076,1,02:37,LAL,,PHX,,J. Hayes,LAL,Hayes Offensive Foul Turnover (P1.T3),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0076,2,10:52,LAL,,PHX,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0076,2,10:35,LAL,,PHX,,J. Hayes,LAL,Hayes S.FOUL (P2.T1) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,h
+S2324-G0076,2,10:32,LAL,,PHX,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0076,2,09:37,LAL,,PHX,,J. Hayes,LAL,Hayes S.FOUL (P3.T2) (Z.Zarba),Foul,Shooting,0,0,0,0,,,h
+S2324-G0076,2,09:16,LAL,,PHX,,J. Hayes,LAL,Hayes Out of Bounds - Bad Pass Turnover Turnover (P2.T7),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G0076,2,08:51,LAL,,PHX,,J. Hayes,LAL,Hayes STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0076,2,08:49,LAL,,PHX,,J. Hayes,LAL,SUB: Davis FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G1094,1,01:33,TOR,,LAL,,J. Hayes,LAL,MISS Hayes 3' Dunk,Missed Shot,Dunk Shot,-23,21,3,1,2.0,0.0,v
+S2324-G1094,1,00:34.300000,TOR,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1094,1,00:06.100000,TOR,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1094,1,00:02.900000,TOR,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1094,1,00:02.900000,TOR,25.0,LAL,33.0,J. Hayes,LAL,Hayes Tip Dunk Shot (2 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,v
+S2324-G1094,1,00:02.900000,TOR,25.0,LAL,34.0,J. Hayes,LAL,Hayes Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G1094,2,09:01,TOR,,LAL,,J. Hayes,LAL,Hayes S.FOUL (P1.T2) (C.Blair),Foul,Shooting,0,0,0,0,,,v
+S2324-G1094,2,08:10,TOR,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1094,2,07:50,TOR,,LAL,,J. Hayes,LAL,Hayes P.FOUL (P2.T3) (C.Blair),Foul,Personal,0,0,0,0,,,v
+S2324-G1094,2,07:13,TOR,,LAL,,J. Hayes,LAL,SUB: Dinwiddie FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G1094,4,10:43,TOR,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1094,4,09:29,TOR,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1094,4,09:22,TOR,82.0,LAL,109.0,J. Hayes,LAL,Hayes 5' Driving Hook Shot (5 PTS) (Christie 2 AST),Made Shot,Driving Hook Shot,-2,54,5,1,2.0,2.0,v
+S2324-G1094,4,07:52,TOR,,LAL,,J. Hayes,LAL,Hayes S.FOUL (P3.T3) (S.Mehta),Foul,Shooting,0,0,0,0,,,v
+S2324-G1094,4,06:30,TOR,,LAL,,J. Hayes,LAL,Hayes S.FOUL (P4.T4) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,v
+S2324-G1094,4,06:09,TOR,,LAL,,J. Hayes,LAL,Hayes Lost Ball Turnover (P1.T13),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G1094,4,05:16,TOR,90.0,LAL,123.0,J. Hayes,LAL,Hayes 1' Running Dunk (7 PTS) (Prince 4 AST),Made Shot,Running Dunk Shot,7,7,1,1,2.0,2.0,v
+S2324-G1094,4,02:55,TOR,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1094,4,00:51.400000,TOR,,LAL,,J. Hayes,LAL,MISS Hayes 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-33,75,8,1,2.0,0.0,v
+S2324-G0884,2,11:33,LAL,,OKC,,J. Hayes,LAL,Hayes REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0884,2,11:32,LAL,,OKC,,J. Hayes,LAL,Hayes Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0884,2,10:04,LAL,29.0,OKC,27.0,J. Hayes,LAL,Hayes 1' Running Alley Oop Layup Shot (2 PTS) (James 4 AST),Made Shot,Running Alley Oop Layup Shot,1,7,1,1,2.0,2.0,h
+S2324-G0884,2,08:40,LAL,,OKC,,J. Hayes,LAL,Hayes REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0884,2,08:08,LAL,,OKC,,J. Hayes,LAL,Hayes BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0884,2,07:12,LAL,,OKC,,J. Hayes,LAL,Hayes STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0884,2,06:51,LAL,,OKC,,J. Hayes,LAL,Hayes REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0884,2,06:13,LAL,,OKC,,J. Hayes,LAL,SUB: Davis FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0884,4,10:53,LAL,,OKC,,J. Hayes,LAL,Hayes REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0884,4,05:18,LAL,112.0,OKC,88.0,J. Hayes,LAL,Hayes 2' Cutting Dunk Shot (4 PTS) (Reaves 6 AST),Made Shot,Cutting Dunk Shot,7,17,2,1,2.0,2.0,h
+S2324-G0884,4,04:17,LAL,,OKC,,J. Hayes,LAL,Hayes REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0884,4,02:36,LAL,,OKC,,J. Hayes,LAL,Hayes REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0884,4,01:40,LAL,,OKC,,J. Hayes,LAL,MISS Hayes 25' 3PT Jump Shot,Missed Shot,Jump Shot,-162,185,25,1,3.0,0.0,h
+S2324-G0187,2,11:08,LAL,,POR,,J. Hayes,LAL,MISS Hayes 2' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,-6,21,2,1,2.0,0.0,h
+S2324-G0187,2,10:46,LAL,,POR,,J. Hayes,LAL,Hayes P.FOUL (P1.T1) (M.Dagher),Foul,Personal,0,0,0,0,,,h
+S2324-G0187,2,10:19,LAL,,POR,,J. Hayes,LAL,MISS Hayes Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0187,2,10:19,LAL,,POR,,J. Hayes,LAL,MISS Hayes Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0187,2,09:35,LAL,,POR,,J. Hayes,LAL,MISS Hayes 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,28,26,4,1,2.0,0.0,h
+S2324-G0187,2,09:35,LAL,,POR,,J. Hayes,LAL,Hayes L.B.FOUL (P2.T2) (M.Dagher),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0187,2,09:17,LAL,,POR,,J. Hayes,LAL,Hayes OFF.Foul (P3) (M.Dagher),Foul,Offensive,0,0,0,0,,,h
+S2324-G0187,2,09:17,LAL,,POR,,J. Hayes,LAL,Hayes Offensive Foul Turnover (P1.T3),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0187,2,09:17,LAL,,POR,,J. Hayes,LAL,SUB: Davis FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0187,4,11:46,LAL,93.0,POR,80.0,J. Hayes,LAL,Hayes 2' Cutting Dunk Shot (2 PTS) (Russell 10 AST),Made Shot,Cutting Dunk Shot,-1,16,2,1,2.0,2.0,h
+S2324-G0187,4,10:07,LAL,,POR,,J. Hayes,LAL,MISS Hayes 2' Layup,Missed Shot,Layup Shot,13,13,2,1,2.0,0.0,h
+S2324-G0187,4,09:15,LAL,,POR,,J. Hayes,LAL,SUB: Hachimura FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0216,1,01:31,LAL,,HOU,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0216,1,01:11,LAL,,HOU,,J. Hayes,LAL,Hayes S.FOUL (P1.T2) (M.Smith),Foul,Shooting,0,0,0,0,,,h
+S2324-G0216,1,00:05.900000,LAL,,HOU,,J. Hayes,LAL,SUB: Reaves FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0216,4,05:49,LAL,,HOU,,J. Hayes,LAL,Hayes REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0216,4,04:10,LAL,,HOU,,J. Hayes,LAL,SUB: Reaves FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0901,1,01:18,LAL,,SAC,,J. Hayes,LAL,Hayes OFF.Foul (P1) (D.Collins),Foul,Offensive,0,0,0,0,,,h
+S2324-G0901,1,01:18,LAL,,SAC,,J. Hayes,LAL,Hayes Offensive Foul Turnover (P1.T3),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0901,1,00:34.400000,LAL,,SAC,,J. Hayes,LAL,Hayes S.FOUL (P2.PN) (S.Twardoski),Foul,Shooting,0,0,0,0,,,h
+S2324-G0901,1,00:13.500000,LAL,,SAC,,J. Hayes,LAL,Hayes REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0901,1,00:13.500000,LAL,,SAC,,J. Hayes,LAL,MISS Hayes Tip Dunk Shot,Missed Shot,Tip Dunk Shot,0,0,0,1,2.0,0.0,h
+S2324-G0901,2,11:43,LAL,38.0,SAC,28.0,J. Hayes,LAL,Hayes Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0901,2,11:43,LAL,,SAC,,J. Hayes,LAL,MISS Hayes Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0901,2,10:53,LAL,,SAC,,J. Hayes,LAL,Hayes REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0901,2,08:20,LAL,,SAC,,J. Hayes,LAL,SUB: Davis FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0901,3,06:37,LAL,,SAC,,J. Hayes,LAL,Hayes BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0901,3,06:34,LAL,,SAC,,J. Hayes,LAL,Hayes REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0901,3,05:16,LAL,,SAC,,J. Hayes,LAL,Hayes S.FOUL (P3.T4) (S.Twardoski),Foul,Shooting,0,0,0,0,,,h
+S2324-G0901,3,03:47,LAL,,SAC,,J. Hayes,LAL,Hayes REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0901,3,01:56,LAL,,SAC,,J. Hayes,LAL,Hayes OFF.Foul (P4) (S.Twardoski),Foul,Offensive,0,0,0,0,,,h
+S2324-G0901,3,01:56,LAL,,SAC,,J. Hayes,LAL,Hayes Offensive Foul Turnover (P2.T8),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0901,3,01:33,LAL,,SAC,,J. Hayes,LAL,Hayes REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0813,1,01:34,LAL,,SAS,,J. Hayes,LAL,Hayes STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0813,2,11:11,LAL,34.0,SAS,28.0,J. Hayes,LAL,Hayes 1' Reverse Dunk (2 PTS) (Russell 2 AST),Made Shot,Reverse Dunk Shot,-12,8,1,1,2.0,2.0,h
+S2324-G0813,2,10:22,LAL,,SAS,,J. Hayes,LAL,Hayes REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0813,2,09:40,LAL,,SAS,,J. Hayes,LAL,Hayes S.FOUL (P1.T4) (M.Kallio),Foul,Shooting,0,0,0,0,,,h
+S2324-G0813,2,08:42,LAL,,SAS,,J. Hayes,LAL,Hayes REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0813,2,08:10,LAL,,SAS,,J. Hayes,LAL,Hayes REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0813,2,07:02,LAL,,SAS,,J. Hayes,LAL,Hayes S.FOUL (P2.PN) (M.Lindsay),Foul,Shooting,0,0,0,0,,,h
+S2324-G0813,2,07:02,LAL,,SAS,,J. Hayes,LAL,SUB: Reaves FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0813,4,10:07,LAL,105.0,SAS,95.0,J. Hayes,LAL,Hayes 1' Running Dunk (4 PTS) (Prince 3 AST),Made Shot,Running Dunk Shot,-1,13,1,1,2.0,2.0,h
+S2324-G0813,4,09:43,LAL,,SAS,,J. Hayes,LAL,Hayes S.FOUL (P3.T1) (M.Lindsay),Foul,Shooting,0,0,0,0,,,h
+S2324-G0813,4,07:30,LAL,112.0,SAS,98.0,J. Hayes,LAL,Hayes 1' Cutting Dunk Shot (6 PTS) (Russell 6 AST),Made Shot,Cutting Dunk Shot,0,13,1,1,2.0,2.0,h
+S2324-G0813,4,04:49,LAL,,SAS,,J. Hayes,LAL,Hayes S.FOUL (P4.T2) (M.Lindsay),Foul,Shooting,0,0,0,0,,,h
+S2324-G0813,4,04:32,LAL,,SAS,,J. Hayes,LAL,Hayes REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0813,4,04:12,LAL,,SAS,,J. Hayes,LAL,Hayes Violation:Kicked Ball (J.Orr),Violation,Kicked Ball,0,0,0,0,,,h
+S2324-G0813,4,00:41.700000,LAL,123.0,SAS,114.0,J. Hayes,LAL,Hayes 1' Cutting Dunk Shot (8 PTS) (Reaves 9 AST),Made Shot,Cutting Dunk Shot,-2,9,1,1,2.0,2.0,h
+S2324-G0813,4,00:13,LAL,,SAS,,J. Hayes,LAL,MISS Hayes 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,228,106,25,1,3.0,0.0,h
+S2324-G0669,1,11:01,ATL,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0669,1,09:13,ATL,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0669,1,08:51,ATL,,LAL,,J. Hayes,LAL,Hayes STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0669,1,08:31,ATL,,LAL,,J. Hayes,LAL,Hayes STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0669,1,07:51,ATL,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0669,1,05:41,ATL,14.0,LAL,16.0,J. Hayes,LAL,Hayes 1' Alley Oop Layup (2 PTS) (James 2 AST),Made Shot,Alley Oop Layup shot,5,11,1,1,2.0,2.0,v
+S2324-G0669,1,04:27,ATL,,LAL,,J. Hayes,LAL,SUB: Hachimura FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0669,2,04:11,ATL,53.0,LAL,45.0,J. Hayes,LAL,Hayes 1' Cutting Dunk Shot (4 PTS) (James 5 AST),Made Shot,Cutting Dunk Shot,6,5,1,1,2.0,2.0,v
+S2324-G0669,2,03:55,ATL,,LAL,,J. Hayes,LAL,Hayes STEAL (3 STL),,,0,0,0,0,,,v
+S2324-G0669,2,03:04,ATL,,LAL,,J. Hayes,LAL,Hayes Offensive Charge Foul (P1) (M.Davis),Foul,Offensive Charge,0,0,0,0,,,v
+S2324-G0669,2,03:04,ATL,,LAL,,J. Hayes,LAL,Hayes Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0669,2,01:07,ATL,,LAL,,J. Hayes,LAL,Hayes P.FOUL (P2.T3) (C.Washington),Foul,Personal,0,0,0,0,,,v
+S2324-G0669,2,00:41.400000,ATL,,LAL,,J. Hayes,LAL,Hayes OFF.Foul (P3) (R.Acosta),Foul,Offensive,0,0,0,0,,,v
+S2324-G0669,2,00:41.400000,ATL,,LAL,,J. Hayes,LAL,Hayes Offensive Foul Turnover (P2.T7),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0669,3,11:36,ATL,,LAL,,J. Hayes,LAL,Hayes STEAL (4 STL),,,0,0,0,0,,,v
+S2324-G0669,3,10:36,ATL,,LAL,,J. Hayes,LAL,MISS Hayes 3' Layup,Missed Shot,Layup Shot,5,27,3,1,2.0,0.0,v
+S2324-G0669,3,10:06,ATL,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0669,3,08:58,ATL,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0669,3,06:28,ATL,,LAL,,J. Hayes,LAL,Hayes BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0669,3,05:54,ATL,,LAL,,J. Hayes,LAL,SUB: Christie FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0669,4,04:46,ATL,,LAL,,J. Hayes,LAL,Hayes S.FOUL (P4.T2) (C.Washington),Foul,Shooting,0,0,0,0,,,v
+S2324-G0669,4,04:46,ATL,,LAL,,J. Hayes,LAL,SUB: Vanderbilt FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0669,4,01:45,ATL,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0669,4,01:24,ATL,133.0,LAL,120.0,J. Hayes,LAL,Hayes 2' Cutting Layup Shot (6 PTS) (Windler 1 AST),Made Shot,Cutting Layup Shot,1,23,2,1,2.0,2.0,v
+S2324-G0242,2,11:24,CLE,,LAL,,J. Hayes,LAL,Hayes BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0242,2,10:48,CLE,42.0,LAL,39.0,J. Hayes,LAL,Hayes 1' Cutting Layup Shot (2 PTS) (Christie 1 AST),Made Shot,Cutting Layup Shot,0,14,1,1,2.0,2.0,v
+S2324-G0242,2,09:12,CLE,,LAL,,J. Hayes,LAL,Hayes S.FOUL (P1.T1) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,v
+S2324-G0242,2,07:38,CLE,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0242,2,04:37,CLE,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0242,2,04:35,CLE,,LAL,,J. Hayes,LAL,Hayes Out of Bounds - Bad Pass Turnover Turnover (P1.T8),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0242,2,03:07,CLE,61.0,LAL,59.0,J. Hayes,LAL,Hayes 6' Turnaround Hook Shot (4 PTS) (Russell 3 AST),Made Shot,Turnaround Hook Shot,59,22,6,1,2.0,2.0,v
+S2324-G0242,2,02:53,CLE,,LAL,,J. Hayes,LAL,Hayes S.FOUL (P2.T3) (N.Buchert),Foul,Shooting,0,0,0,0,,,v
+S2324-G0242,2,02:14,CLE,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0242,2,01:58,CLE,63.0,LAL,61.0,J. Hayes,LAL,Hayes 2' Alley Oop Dunk (6 PTS) (Reaves 6 AST),Made Shot,Alley Oop Dunk Shot,7,15,2,1,2.0,2.0,v
+S2324-G0242,2,01:30,CLE,65.0,LAL,63.0,J. Hayes,LAL,Hayes 1' Alley Oop Layup (8 PTS) (Prince 2 AST),Made Shot,Alley Oop Layup shot,0,11,1,1,2.0,2.0,v
+S2324-G0242,2,00:51.400000,CLE,68.0,LAL,68.0,J. Hayes,LAL,Hayes 2' Alley Oop Dunk (10 PTS) (Reaves 7 AST),Made Shot,Alley Oop Dunk Shot,1,19,2,1,2.0,2.0,v
+S2324-G0242,2,00:38.500000,CLE,,LAL,,J. Hayes,LAL,Hayes S.FOUL (P3.T4) (N.Buchert),Foul,Shooting,0,0,0,0,,,v
+S2324-G0242,2,00:38.500000,CLE,,LAL,,J. Hayes,LAL,SUB: James FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0242,4,07:48,CLE,,LAL,,J. Hayes,LAL,SUB: Christie FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0242,4,05:04,CLE,,LAL,,J. Hayes,LAL,SUB: James FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0848,2,11:09,LAC,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0848,2,08:57,LAC,,LAL,,J. Hayes,LAL,Hayes S.FOUL (P1.T3) (T.Brothers),Foul,Shooting,0,0,0,0,,,v
+S2324-G0848,2,06:30,LAC,,LAL,,J. Hayes,LAL,SUB: Davis FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0848,4,08:53,LAC,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0848,4,06:53,LAC,,LAL,,J. Hayes,LAL,SUB: Reaves FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0370,4,00:39,CHI,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0370,4,00:31.800000,CHI,124.0,LAL,108.0,J. Hayes,LAL,Hayes 1' Driving Layup (2 PTS) (Hachimura 1 AST),Made Shot,Driving Layup Shot,-6,-5,1,1,2.0,2.0,v
+S2324-G1127,2,09:55,LAL,,CLE,,J. Hayes,LAL,Hayes BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G1127,2,09:53,LAL,,CLE,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1127,2,07:37,LAL,,CLE,,J. Hayes,LAL,Hayes STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1127,2,06:49,LAL,,CLE,,J. Hayes,LAL,SUB: Davis FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G1127,4,11:46,LAL,92.0,CLE,78.0,J. Hayes,LAL,Hayes 4' Alley Oop Dunk (2 PTS) (James 11 AST),Made Shot,Alley Oop Dunk Shot,-21,31,4,1,2.0,2.0,h
+S2324-G1127,4,10:41,LAL,,CLE,,J. Hayes,LAL,Hayes S.FOUL (P1.T2) (J.Tiven),Foul,Shooting,0,0,0,0,,,h
+S2324-G1127,4,10:04,LAL,,CLE,,J. Hayes,LAL,Hayes REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1127,4,10:04,LAL,96.0,CLE,84.0,J. Hayes,LAL,Hayes 3' Tip Dunk Shot (4 PTS),Made Shot,Tip Dunk Shot,4,27,3,1,2.0,2.0,h
+S2324-G1127,4,09:45,LAL,,CLE,,J. Hayes,LAL,Hayes REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1127,4,09:18,LAL,,CLE,,J. Hayes,LAL,Hayes BLOCK (2 BLK),,,0,0,0,0,,,h
+S2324-G1127,4,07:03,LAL,,CLE,,J. Hayes,LAL,Hayes OFF.Foul (P2) (J.Tiven),Foul,Offensive,0,0,0,0,,,h
+S2324-G1127,4,07:03,LAL,,CLE,,J. Hayes,LAL,Hayes Offensive Foul Turnover (P1.T17),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G1127,4,07:03,LAL,,CLE,,J. Hayes,LAL,SUB: Davis FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0331,1,09:53,SAS,,LAL,,J. Hayes,LAL,Lakers T.Foul (Def. 3 Sec Hayes ) (D.Guthrie),Foul,Defense 3 Second,0,0,0,0,,,v
+S2324-G0331,1,08:40,SAS,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0331,1,08:40,SAS,,LAL,,J. Hayes,LAL,MISS Hayes Putback Dunk,Missed Shot,Putback Dunk Shot,0,0,0,1,2.0,0.0,v
+S2324-G0331,1,07:59,SAS,,LAL,,J. Hayes,LAL,Hayes S.FOUL (P1.T1) (M.Boland),Foul,Shooting,0,0,0,0,,,v
+S2324-G0331,1,07:39,SAS,,LAL,,J. Hayes,LAL,Hayes P.FOUL (P2.T2) (J.DeRosa),Foul,Personal,0,0,0,0,,,v
+S2324-G0331,1,07:39,SAS,,LAL,,J. Hayes,LAL,SUB: Vanderbilt FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0331,2,09:22,SAS,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0331,2,07:29,SAS,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0331,2,07:18,SAS,51.0,LAL,32.0,J. Hayes,LAL,Hayes 1' Cutting Layup Shot (2 PTS) (James 3 AST),Made Shot,Cutting Layup Shot,7,5,1,1,2.0,2.0,v
+S2324-G0331,2,07:18,SAS,51.0,LAL,33.0,J. Hayes,LAL,Hayes Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G0331,2,06:12,SAS,51.0,LAL,37.0,J. Hayes,LAL,Hayes Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0331,2,06:12,SAS,,LAL,,J. Hayes,LAL,MISS Hayes Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0331,2,05:13,SAS,,LAL,,J. Hayes,LAL,Hayes S.FOUL (P3.T2) (D.Guthrie),Foul,Shooting,0,0,0,0,,,v
+S2324-G0331,2,05:13,SAS,,LAL,,J. Hayes,LAL,SUB: Wood FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0331,3,11:37,SAS,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0331,3,11:37,SAS,69.0,LAL,64.0,J. Hayes,LAL,Hayes Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2324-G0331,3,11:33,SAS,,LAL,,J. Hayes,LAL,Hayes P.FOUL (P4.T1) (J.DeRosa),Foul,Personal,0,0,0,0,,,v
+S2324-G0331,3,10:36,SAS,,LAL,,J. Hayes,LAL,Hayes S.FOUL (P5.T3) (J.DeRosa),Foul,Shooting,0,0,0,0,,,v
+S2324-G0331,3,09:17,SAS,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0331,3,08:53,SAS,,LAL,,J. Hayes,LAL,SUB: Hachimura FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0331,4,11:06,SAS,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0331,4,10:07,SAS,,LAL,,J. Hayes,LAL,SUB: Wood FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0331,4,04:03,SAS,,LAL,,J. Hayes,LAL,Hayes BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0331,4,02:29,SAS,,LAL,,J. Hayes,LAL,Hayes STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0331,4,00:58.200000,SAS,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0331,4,00:31.900000,SAS,129.0,LAL,115.0,J. Hayes,LAL,Hayes 2' Layup (8 PTS) (Hodge 3 AST),Made Shot,Layup Shot,-6,17,2,1,2.0,2.0,v
+S2324-G0258,1,01:39,DET,,LAL,,J. Hayes,LAL,Hayes BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0258,1,00:54.700000,DET,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0258,2,10:14,DET,,LAL,,J. Hayes,LAL,Hayes Violation:Kicked Ball (R.Mott),Violation,Kicked Ball,0,0,0,0,,,v
+S2324-G0258,2,07:28,DET,,LAL,,J. Hayes,LAL,SUB: Prince FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G1018,2,11:01,LAL,,PHI,,J. Hayes,LAL,Hayes REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1018,2,11:01,LAL,27.0,PHI,23.0,J. Hayes,LAL,Hayes Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1018,2,11:01,LAL,,PHI,,J. Hayes,LAL,MISS Hayes Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G1018,2,10:35,LAL,,PHI,,J. Hayes,LAL,Hayes REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1018,2,09:12,LAL,31.0,PHI,26.0,J. Hayes,LAL,Hayes 1' Alley Oop Dunk (3 PTS) (James 3 AST),Made Shot,Alley Oop Dunk Shot,4,9,1,1,2.0,2.0,h
+S2324-G1018,2,07:13,LAL,,PHI,,J. Hayes,LAL,Hayes REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1018,2,06:11,LAL,38.0,PHI,35.0,J. Hayes,LAL,Hayes Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1018,2,06:11,LAL,39.0,PHI,35.0,J. Hayes,LAL,Hayes Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1018,2,05:58,LAL,,PHI,,J. Hayes,LAL,SUB: Davis FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G1018,4,09:24,LAL,,PHI,,J. Hayes,LAL,Hayes REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1018,4,08:08,LAL,,PHI,,J. Hayes,LAL,Hayes REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1018,4,07:25,LAL,,PHI,,J. Hayes,LAL,SUB: Reaves FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0577,4,04:03,LAL,,DAL,,J. Hayes,LAL,Hayes STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0577,4,03:56,LAL,,DAL,,J. Hayes,LAL,Hayes L.B.FOUL (P1.T2) (N.Green),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0577,4,02:30,LAL,,DAL,,J. Hayes,LAL,MISS Hayes 6' Driving Hook Shot,Missed Shot,Driving Hook Shot,-28,55,6,1,2.0,0.0,h
+S2324-G0127,2,04:20,LAL,,LAC,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0127,2,03:27,LAL,,LAC,,J. Hayes,LAL,Hayes S.FOUL (P1.PN) (A.Nagy),Foul,Shooting,0,0,0,0,,,h
+S2324-G0127,2,01:40,LAL,,LAC,,J. Hayes,LAL,SUB: Christie FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0127,3,04:04,LAL,,LAC,,J. Hayes,LAL,Hayes REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0127,3,03:20,LAL,,LAC,,J. Hayes,LAL,Hayes BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0127,4,11:48,LAL,,LAC,,J. Hayes,LAL,MISS Hayes Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0127,4,11:48,LAL,88.0,LAC,85.0,J. Hayes,LAL,Hayes Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0127,4,10:08,LAL,92.0,LAC,91.0,J. Hayes,LAL,Hayes 3' Running Dunk (3 PTS) (James 4 AST),Made Shot,Running Dunk Shot,4,32,3,1,2.0,2.0,h
+S2324-G0127,4,10:07,LAL,,LAC,,J. Hayes,LAL,Hayes HANGING.TECH.FOUL (P1.T0) (M.Ervin),Foul,Hanging Technical,0,0,0,0,,,h
+S2324-G0127,4,10:07,LAL,,LAC,,J. Hayes,LAL,SUB: Davis FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G1063,1,01:32,IND,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1063,1,01:02,IND,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1063,1,00:29.500000,IND,,LAL,,J. Hayes,LAL,Hayes L.B.FOUL (P1.T2) (T.Ford),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G1063,2,11:42,IND,27.0,LAL,26.0,J. Hayes,LAL,Hayes 2' Running Dunk (2 PTS) (Russell 2 AST),Made Shot,Running Dunk Shot,0,17,2,1,2.0,2.0,v
+S2324-G1063,2,08:09,IND,,LAL,,J. Hayes,LAL,SUB: Davis FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G1063,4,08:27,IND,,LAL,,J. Hayes,LAL,Hayes Violation:Defensive Goaltending (T.Ford),Violation,Defensive Goaltending,0,0,0,0,,,v
+S2324-G1063,4,07:18,IND,,LAL,,J. Hayes,LAL,SUB: Davis FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0776,2,09:12,LAL,,DET,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0776,2,08:48,LAL,,DET,,J. Hayes,LAL,Hayes STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0776,2,08:28,LAL,,DET,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0776,2,08:14,LAL,,DET,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0776,2,07:47,LAL,,DET,,J. Hayes,LAL,SUB: Hachimura FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0776,3,02:53,LAL,,DET,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0776,3,01:11,LAL,,DET,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0776,4,11:42,LAL,,DET,,J. Hayes,LAL,Hayes Bad Pass Turnover (P1.T12),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0776,4,11:42,LAL,,DET,,J. Hayes,LAL,Hayes L.B.FOUL (P1.T1) (C.Flores),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0776,4,09:41,LAL,,DET,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0776,4,07:58,LAL,109.0,DET,90.0,J. Hayes,LAL,Hayes Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0776,4,07:58,LAL,110.0,DET,90.0,J. Hayes,LAL,Hayes Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0776,4,07:20,LAL,,DET,,J. Hayes,LAL,Hayes BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0776,4,07:12,LAL,,DET,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0776,4,05:59,LAL,,DET,,J. Hayes,LAL,SUB: Wood FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G1055,1,11:39,MEM,,LAL,,J. Hayes,LAL,Hayes Violation:Kicked Ball (M.Smith),Violation,Kicked Ball,0,0,0,0,,,v
+S2324-G1055,1,10:25,MEM,3.0,LAL,2.0,J. Hayes,LAL,Hayes 1' Alley Oop Dunk (2 PTS) (Reaves 1 AST),Made Shot,Alley Oop Dunk Shot,-5,7,1,1,2.0,2.0,v
+S2324-G1055,1,09:42,MEM,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1055,1,09:34,MEM,5.0,LAL,6.0,J. Hayes,LAL,Hayes 1' Cutting Dunk Shot (4 PTS) (Russell 1 AST),Made Shot,Cutting Dunk Shot,-2,6,1,1,2.0,2.0,v
+S2324-G1055,1,09:20,MEM,,LAL,,J. Hayes,LAL,Hayes S.FOUL (P1.T1) (J.Butler),Foul,Shooting,0,0,0,0,,,v
+S2324-G1055,1,07:16,MEM,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1055,1,04:24,MEM,,LAL,,J. Hayes,LAL,Hayes STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G1055,1,04:02,MEM,18.0,LAL,27.0,J. Hayes,LAL,Hayes 1' Alley Oop Dunk (6 PTS) (Reaves 4 AST),Made Shot,Alley Oop Dunk Shot,2,11,1,1,2.0,2.0,v
+S2324-G1055,1,02:34,MEM,23.0,LAL,31.0,J. Hayes,LAL,Hayes Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1055,1,02:34,MEM,23.0,LAL,32.0,J. Hayes,LAL,Hayes Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1055,1,01:56,MEM,,LAL,,J. Hayes,LAL,Hayes Violation:Defensive Goaltending (J.Butler),Violation,Defensive Goaltending,0,0,0,0,,,v
+S2324-G1055,1,01:15,MEM,,LAL,,J. Hayes,LAL,SUB: Giles III FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G1055,2,04:37,MEM,52.0,LAL,58.0,J. Hayes,LAL,Hayes 1' Alley Oop Dunk (10 PTS) (James 5 AST),Made Shot,Alley Oop Dunk Shot,0,8,1,1,2.0,2.0,v
+S2324-G1055,2,02:28,MEM,,LAL,,J. Hayes,LAL,Hayes S.FOUL (P2.T3) (J.Butler),Foul,Shooting,0,0,0,0,,,v
+S2324-G1055,2,01:26,MEM,,LAL,,J. Hayes,LAL,Hayes BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G1055,2,01:21,MEM,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1055,3,11:42,MEM,,LAL,,J. Hayes,LAL,Hayes OFF.Foul (P3) (S.Foster),Foul,Offensive,0,0,0,0,,,v
+S2324-G1055,3,11:42,MEM,,LAL,,J. Hayes,LAL,Hayes Offensive Foul Turnover (P1.T8),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G1055,3,08:28,MEM,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1055,3,07:26,MEM,,LAL,,J. Hayes,LAL,SUB: Prince FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G1055,3,02:01,MEM,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1055,3,00:39.600000,MEM,,LAL,,J. Hayes,LAL,Hayes P.FOUL (P4.PN) (M.Smith),Foul,Personal,0,0,0,0,,,v
+S2324-G1055,3,00:01.600000,MEM,,LAL,,J. Hayes,LAL,MISS Hayes 23' Jump Shot,Missed Shot,Jump Shot,-58,222,23,1,2.0,0.0,v
+S2324-G1055,4,05:48,MEM,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1055,4,05:35,MEM,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1055,4,05:35,MEM,108.0,LAL,124.0,J. Hayes,LAL,Hayes 2' Putback Dunk (12 PTS),Made Shot,Putback Dunk Shot,17,17,2,1,2.0,2.0,v
+S2324-G1055,4,03:26,MEM,113.0,LAL,129.0,J. Hayes,LAL,Hayes 1' Cutting Dunk Shot (14 PTS) (Russell 4 AST),Made Shot,Cutting Dunk Shot,0,8,1,1,2.0,2.0,v
+S2324-G1055,4,02:42,MEM,,LAL,,J. Hayes,LAL,Hayes S.FOUL (P5.PN) (S.Foster),Foul,Shooting,0,0,0,0,,,v
+S2324-G1055,4,01:19,MEM,,LAL,,J. Hayes,LAL,SUB: Christie FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0701,2,10:43,NYK,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0701,2,10:03,NYK,30.0,LAL,31.0,J. Hayes,LAL,Hayes Dunk (2 PTS) (James 1 AST),Made Shot,Dunk Shot,2,-1,0,1,2.0,2.0,v
+S2324-G0701,2,08:24,NYK,35.0,LAL,38.0,J. Hayes,LAL,Hayes 1' Cutting Layup Shot (4 PTS) (Christie 1 AST),Made Shot,Cutting Layup Shot,-9,11,1,1,2.0,2.0,v
+S2324-G0701,2,08:24,NYK,35.0,LAL,39.0,J. Hayes,LAL,Hayes Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G0701,2,06:16,NYK,,LAL,,J. Hayes,LAL,SUB: Davis FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0701,3,02:40,NYK,,LAL,,J. Hayes,LAL,MISS Hayes Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0701,3,02:40,NYK,78.0,LAL,76.0,J. Hayes,LAL,Hayes Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0701,3,02:07,NYK,81.0,LAL,78.0,J. Hayes,LAL,Hayes 1' Cutting Dunk Shot (8 PTS) (Prince 2 AST),Made Shot,Cutting Dunk Shot,5,12,1,1,2.0,2.0,v
+S2324-G0701,3,00:50.600000,NYK,86.0,LAL,79.0,J. Hayes,LAL,Hayes Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0701,3,00:50.600000,NYK,86.0,LAL,80.0,J. Hayes,LAL,Hayes Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0701,4,11:24,NYK,,LAL,,J. Hayes,LAL,Hayes STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0701,4,08:49,NYK,,LAL,,J. Hayes,LAL,SUB: Davis FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0428,4,06:30,LAL,118.0,CHA,93.0,J. Hayes,LAL,Hayes 2' Reverse Dunk (2 PTS) (Vanderbilt 3 AST),Made Shot,Reverse Dunk Shot,10,20,2,1,2.0,2.0,h
+S2324-G0428,4,04:03,LAL,,CHA,,J. Hayes,LAL,MISS Hayes 4' Running Reverse Layup,Missed Shot,Running Reverse Layup Shot,18,34,4,1,2.0,0.0,h
+S2324-G0428,4,03:50,LAL,,CHA,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0428,4,03:37,LAL,,CHA,,J. Hayes,LAL,Hayes REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0428,4,03:37,LAL,127.0,CHA,99.0,J. Hayes,LAL,Hayes Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2324-G0428,4,03:09,LAL,129.0,CHA,102.0,J. Hayes,LAL,Hayes 6' Driving Hook Shot (6 PTS) (Christie 3 AST),Made Shot,Driving Hook Shot,1,61,6,1,2.0,2.0,h
+S2324-G0428,4,02:42,LAL,,CHA,,J. Hayes,LAL,MISS Hayes 3' Layup,Missed Shot,Layup Shot,-27,12,3,1,2.0,0.0,h
+S2324-G0428,4,02:38,LAL,131.0,CHA,104.0,J. Hayes,LAL,Hayes 20' Jump Shot (8 PTS) (Hood-Schifino 1 AST),Made Shot,Jump Shot,-89,178,20,1,2.0,2.0,h
+S2324-G0428,4,00:55.100000,LAL,133.0,CHA,109.0,J. Hayes,LAL,Hayes Cutting Dunk Shot (10 PTS) (Wood 4 AST),Made Shot,Cutting Dunk Shot,-3,2,0,1,2.0,2.0,h
+S2324-G0306,1,06:06,DAL,,LAL,,J. Hayes,LAL,Hayes S.FOUL (P1.T4) (B.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2324-G0306,1,04:46,DAL,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0306,1,04:44,DAL,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0306,1,04:41,DAL,,LAL,,J. Hayes,LAL,MISS Hayes 2' Tip Layup Shot,Missed Shot,Tip Layup Shot,13,13,2,1,2.0,0.0,v
+S2324-G0306,1,04:30,DAL,,LAL,,J. Hayes,LAL,Hayes S.FOUL (P2.PN) (C.Washington),Foul,Shooting,0,0,0,0,,,v
+S2324-G0306,1,02:42,DAL,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0306,3,02:35,DAL,,LAL,,J. Hayes,LAL,Hayes S.FOUL (P3.PN) (B.Barnaky),Foul,Shooting,0,0,0,0,,,v
+S2324-G0306,3,01:30,DAL,,LAL,,J. Hayes,LAL,Hayes S.FOUL (P4.PN) (C.Washington),Foul,Shooting,0,0,0,0,,,v
+S2324-G0306,3,00:59.300000,DAL,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0306,4,08:49,DAL,,LAL,,J. Hayes,LAL,SUB: Davis FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0869,2,09:32,LAL,,DEN,,J. Hayes,LAL,Hayes STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0869,2,09:04,LAL,42.0,DEN,34.0,J. Hayes,LAL,Hayes 3' Alley Oop Layup (2 PTS) (James 5 AST),Made Shot,Alley Oop Layup shot,-1,30,3,1,2.0,2.0,h
+S2324-G0869,2,07:37,LAL,,DEN,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0869,2,07:26,LAL,,DEN,,J. Hayes,LAL,SUB: Reaves FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0869,4,10:53,LAL,,DEN,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0869,4,09:46,LAL,,DEN,,J. Hayes,LAL,Hayes BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0869,4,09:46,LAL,,DEN,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0869,4,09:06,LAL,94.0,DEN,96.0,J. Hayes,LAL,Hayes 2' Cutting Dunk Shot (4 PTS) (Russell 3 AST),Made Shot,Cutting Dunk Shot,10,20,2,1,2.0,2.0,h
+S2324-G0869,4,07:51,LAL,,DEN,,J. Hayes,LAL,MISS Hayes 3' Hook Shot,Missed Shot,Hook Shot,13,32,3,1,2.0,0.0,h
+S2324-G0869,4,07:47,LAL,,DEN,,J. Hayes,LAL,Hayes REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0869,4,07:47,LAL,,DEN,,J. Hayes,LAL,SUB: Reaves FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0255,1,01:23,PHI,,LAL,,J. Hayes,LAL,Hayes P.FOUL (P1.T3) (T.Ford),Foul,Personal,0,0,0,0,,,v
+S2324-G0255,1,00:25.300000,PHI,,LAL,,J. Hayes,LAL,MISS Hayes 24' 3PT Jump Shot,Missed Shot,Jump Shot,241,-14,24,1,3.0,0.0,v
+S2324-G0255,2,11:35,PHI,,LAL,,J. Hayes,LAL,Hayes P.FOUL (P2.T1) (S.Corbin),Foul,Personal,0,0,0,0,,,v
+S2324-G0255,2,08:36,PHI,,LAL,,J. Hayes,LAL,SUB: Davis FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0255,4,10:33,PHI,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0255,4,10:33,PHI,104.0,LAL,84.0,J. Hayes,LAL,Hayes Tip Dunk Shot (2 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,v
+S2324-G0255,4,08:27,PHI,,LAL,,J. Hayes,LAL,Hayes Bad Pass Turnover (P1.T11),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0255,4,07:51,PHI,111.0,LAL,86.0,J. Hayes,LAL,Hayes 10' Floating Jump Shot (4 PTS) (Hodge 1 AST),Made Shot,Floating Jump shot,-2,95,10,1,2.0,2.0,v
+S2324-G0255,4,06:54,PHI,,LAL,,J. Hayes,LAL,MISS Hayes 27' 3PT Jump Shot,Missed Shot,Jump Shot,143,231,27,1,3.0,0.0,v
+S2324-G0255,4,05:20,PHI,,LAL,,J. Hayes,LAL,MISS Hayes 9' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-11,90,9,1,2.0,0.0,v
+S2324-G0255,4,05:05,PHI,,LAL,,J. Hayes,LAL,Hayes BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0255,4,05:01,PHI,117.0,LAL,88.0,J. Hayes,LAL,Hayes 2' Running Layup (6 PTS) (Wood 1 AST),Made Shot,Running Layup Shot,18,6,2,1,2.0,2.0,v
+S2324-G0255,4,05:01,PHI,117.0,LAL,89.0,J. Hayes,LAL,Hayes Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G0255,4,02:53,PHI,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0255,4,01:41,PHI,,LAL,,J. Hayes,LAL,Hayes OFF.Foul (P3) (B.Barnaky),Foul,Offensive,0,0,0,0,,,v
+S2324-G0255,4,01:41,PHI,,LAL,,J. Hayes,LAL,Hayes Offensive Foul Turnover (P2.T15),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0605,4,03:49,LAL,124.0,POR,99.0,J. Hayes,LAL,Hayes 6' Turnaround Hook Shot (2 PTS) (Christie 2 AST),Made Shot,Turnaround Hook Shot,-5,62,6,1,2.0,2.0,h
+S2324-G0605,4,02:27,LAL,,POR,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0605,4,01:03,LAL,,POR,,J. Hayes,LAL,Hayes S.FOUL (P1.PN) (J.DeRosa),Foul,Shooting,0,0,0,0,,,h
+S2324-G0605,4,00:46.800000,LAL,,POR,,J. Hayes,LAL,Hayes S.FOUL (P2.PN) (M.Davis),Foul,Shooting,0,0,0,0,,,h
+S2324-G0605,4,00:32.500000,LAL,134.0,POR,108.0,J. Hayes,LAL,Hayes 10' Driving Floating Jump Shot (4 PTS) (Hood-Schifino 1 AST),Made Shot,Driving Floating Jump Shot,-4,99,10,1,2.0,2.0,h
+S2324-G0740,2,11:26,LAL,,DEN,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0740,2,10:23,LAL,,DEN,,J. Hayes,LAL,Hayes BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0740,2,10:06,LAL,28.0,DEN,29.0,J. Hayes,LAL,Hayes 2' Driving Layup (2 PTS) (James 3 AST),Made Shot,Driving Layup Shot,-9,16,2,1,2.0,2.0,h
+S2324-G0740,2,09:36,LAL,,DEN,,J. Hayes,LAL,MISS Hayes 6' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,24,57,6,1,2.0,0.0,h
+S2324-G0740,2,09:36,LAL,,DEN,,J. Hayes,LAL,Jump Ball Hayes vs. Braun: Tip to James,Jump Ball,,0,0,0,0,,,h
+S2324-G0740,2,05:58,LAL,,DEN,,J. Hayes,LAL,SUB: Davis FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0740,3,00:02.300000,LAL,,DEN,,J. Hayes,LAL,Hayes STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0740,3,00:00.200000,LAL,,DEN,,J. Hayes,LAL,MISS Hayes 67' 3PT Jump Shot,Missed Shot,Jump Shot,5,673,67,1,3.0,0.0,h
+S2324-G0740,4,10:32,LAL,,DEN,,J. Hayes,LAL,Hayes REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0740,4,10:22,LAL,,DEN,,J. Hayes,LAL,Hayes REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0740,4,09:36,LAL,,DEN,,J. Hayes,LAL,Hayes REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0740,4,09:35,LAL,85.0,DEN,88.0,J. Hayes,LAL,Hayes 3' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,-2,25,3,1,2.0,2.0,h
+S2324-G0740,4,08:31,LAL,,DEN,,J. Hayes,LAL,Hayes REBOUND (Off:4 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0740,4,08:31,LAL,89.0,DEN,90.0,J. Hayes,LAL,Hayes Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2324-G0740,4,08:07,LAL,,DEN,,J. Hayes,LAL,Hayes S.FOUL (P1.T2) (J.Goble),Foul,Shooting,0,0,0,0,,,h
+S2324-G0740,4,07:58,LAL,91.0,DEN,92.0,J. Hayes,LAL,Hayes 3' Cutting Dunk Shot (8 PTS) (Mays 1 AST),Made Shot,Cutting Dunk Shot,-2,28,3,1,2.0,2.0,h
+S2324-G0740,4,07:30,LAL,92.0,DEN,94.0,J. Hayes,LAL,Hayes Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0740,4,07:30,LAL,,DEN,,J. Hayes,LAL,MISS Hayes Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0740,4,05:52,LAL,,DEN,,J. Hayes,LAL,Hayes REBOUND (Off:5 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0740,4,02:28,LAL,,DEN,,J. Hayes,LAL,Hayes BLOCK (2 BLK),,,0,0,0,0,,,h
+S2324-G0740,4,01:05,LAL,,DEN,,J. Hayes,LAL,SUB: Mays FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0015,2,10:59,PHX,37.0,LAL,27.0,J. Hayes,LAL,Hayes Cutting Dunk Shot (2 PTS) (Reaves 1 AST),Made Shot,Cutting Dunk Shot,0,3,0,1,2.0,2.0,v
+S2324-G0015,2,08:35,PHX,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0015,2,08:22,PHX,,LAL,,J. Hayes,LAL,Hayes Offensive Charge Foul (P1) (J.Goble),Foul,Offensive Charge,0,0,0,0,,,v
+S2324-G0015,2,08:22,PHX,,LAL,,J. Hayes,LAL,Hayes Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0015,2,07:14,PHX,,LAL,,J. Hayes,LAL,SUB: Davis FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G1203,2,11:00,LAL,,PHX,,J. Hayes,LAL,Hayes S.FOUL (P1.T1) (T.Washington),Foul,Shooting,0,0,0,0,,,h
+S2324-G1203,2,10:36,LAL,,PHX,,J. Hayes,LAL,MISS Hayes 8' Floating Jump Shot,Missed Shot,Floating Jump shot,82,-12,8,1,2.0,0.0,h
+S2324-G1203,2,10:31,LAL,,PHX,,J. Hayes,LAL,Hayes REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1203,2,10:31,LAL,,PHX,,J. Hayes,LAL,MISS Hayes Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2324-G1203,2,10:31,LAL,,PHX,,J. Hayes,LAL,Hayes P.FOUL (P2.T2) (J.Tiven),Foul,Personal,0,0,0,0,,,h
+S2324-G1203,2,07:53,LAL,,PHX,,J. Hayes,LAL,Hayes STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1203,2,07:08,LAL,,PHX,,J. Hayes,LAL,SUB: Davis FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G1203,4,09:15,LAL,,PHX,,J. Hayes,LAL,Hayes REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1203,4,07:36,LAL,,PHX,,J. Hayes,LAL,SUB: Davis FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0042,2,11:08,LAL,,UTA,,J. Hayes,LAL,Hayes S.FOUL (P1.T1) (K.Cutler),Foul,Shooting,0,0,0,0,,,h
+S2324-G0042,2,09:39,LAL,36.0,UTA,22.0,J. Hayes,LAL,Hayes 1' Cutting Dunk Shot (2 PTS) (James 4 AST),Made Shot,Cutting Dunk Shot,-6,1,1,1,2.0,2.0,h
+S2324-G0042,2,08:52,LAL,38.0,UTA,24.0,J. Hayes,LAL,Hayes Running Dunk (4 PTS) (James 5 AST),Made Shot,Running Dunk Shot,-2,2,0,1,2.0,2.0,h
+S2324-G0042,2,08:15,LAL,,UTA,,J. Hayes,LAL,Hayes Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0042,2,06:56,LAL,,UTA,,J. Hayes,LAL,SUB: Hachimura FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0042,3,00:28.200000,LAL,101.0,UTA,73.0,J. Hayes,LAL,Hayes 3' Layup (6 PTS) (Wood 1 AST),Made Shot,Layup Shot,20,16,3,1,2.0,2.0,h
+S2324-G0042,3,00:28.200000,LAL,102.0,UTA,73.0,J. Hayes,LAL,Hayes Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G0042,4,09:07,LAL,,UTA,,J. Hayes,LAL,Hayes BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0042,4,08:03,LAL,,UTA,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0042,4,07:20,LAL,,UTA,,J. Hayes,LAL,Hayes Traveling Turnover (P2.T12),Turnover,Traveling,0,0,0,0,,,h
+S2324-G0042,4,05:10,LAL,124.0,UTA,86.0,J. Hayes,LAL,Hayes 1' Alley Oop Dunk (9 PTS) (Russell 8 AST),Made Shot,Alley Oop Dunk Shot,-6,10,1,1,2.0,2.0,h
+S2324-G0042,4,03:25,LAL,,UTA,,J. Hayes,LAL,MISS Hayes Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0042,4,03:25,LAL,127.0,UTA,90.0,J. Hayes,LAL,Hayes Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0042,4,00:57.800000,LAL,,UTA,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0238,1,00:37.300000,LAL,25.0,DAL,26.0,J. Hayes,LAL,Hayes 3' Reverse Layup (2 PTS) (Hachimura 1 AST),Made Shot,Reverse Layup Shot,-10,24,3,1,2.0,2.0,h
+S2324-G0238,1,00:06,LAL,,DAL,,J. Hayes,LAL,SUB: James FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0238,4,11:23,LAL,,DAL,,J. Hayes,LAL,Hayes S.FOUL (P1.T1) (M.Kogut),Foul,Shooting,0,0,0,0,,,h
+S2324-G0238,4,09:54,LAL,,DAL,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0238,4,07:37,LAL,,DAL,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0238,4,06:52,LAL,,DAL,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0238,4,04:37,LAL,,DAL,,J. Hayes,LAL,Hayes REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0238,4,04:37,LAL,,DAL,,J. Hayes,LAL,MISS Hayes Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0238,4,04:37,LAL,,DAL,,J. Hayes,LAL,MISS Hayes Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0238,4,03:13,LAL,,DAL,,J. Hayes,LAL,SUB: Russell FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0238,4,00:02.800000,LAL,,DAL,,J. Hayes,LAL,SUB: Reaves FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0111,1,00:31.800000,LAL,,ORL,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0111,2,08:24,LAL,,ORL,,J. Hayes,LAL,SUB: Reaves FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0111,4,11:43,LAL,,ORL,,J. Hayes,LAL,Hayes Violation:Kicked Ball (J.Capers),Violation,Kicked Ball,0,0,0,0,,,h
+S2324-G0111,4,10:27,LAL,,ORL,,J. Hayes,LAL,Hayes S.FOUL (P1.T2) (J.Butler),Foul,Shooting,0,0,0,0,,,h
+S2324-G0111,4,09:53,LAL,,ORL,,J. Hayes,LAL,Hayes S.FOUL (P2.T3) (J.Capers),Foul,Shooting,0,0,0,0,,,h
+S2324-G0111,4,09:53,LAL,,ORL,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0111,4,09:26,LAL,,ORL,,J. Hayes,LAL,SUB: Reaves FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0788,2,11:40,UTA,,LAL,,J. Hayes,LAL,Hayes STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0788,2,06:51,UTA,,LAL,,J. Hayes,LAL,Hayes STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0788,2,06:48,UTA,,LAL,,J. Hayes,LAL,SUB: Davis FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0788,4,10:20,UTA,96.0,LAL,113.0,J. Hayes,LAL,Hayes 4' Layup (2 PTS) (Dinwiddie 4 AST),Made Shot,Layup Shot,-27,31,4,1,2.0,2.0,v
+S2324-G0788,4,09:39,UTA,,LAL,,J. Hayes,LAL,Hayes S.FOUL (P1.T2) (C.Blair),Foul,Shooting,0,0,0,0,,,v
+S2324-G0788,4,08:57,UTA,102.0,LAL,117.0,J. Hayes,LAL,Hayes 3' Cutting Dunk Shot (4 PTS) (Russell 13 AST),Made Shot,Cutting Dunk Shot,-26,12,3,1,2.0,2.0,v
+S2324-G0788,4,07:17,UTA,,LAL,,J. Hayes,LAL,SUB: Hachimura FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0198,1,01:01,LAL,,SAC,,J. Hayes,LAL,Hayes S.FOUL (P1.T4) (R.Mott),Foul,Shooting,0,0,0,0,,,h
+S2324-G0198,1,00:33.600000,LAL,21.0,SAC,38.0,J. Hayes,LAL,Hayes Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0198,1,00:33.600000,LAL,22.0,SAC,38.0,J. Hayes,LAL,Hayes Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0198,1,00:21.700000,LAL,,SAC,,J. Hayes,LAL,Hayes STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0198,2,09:28,LAL,,SAC,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0198,2,09:27,LAL,,SAC,,J. Hayes,LAL,Hayes Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0198,2,07:36,LAL,,SAC,,J. Hayes,LAL,Hayes S.FOUL (P2.T1) (M.Davis),Foul,Shooting,0,0,0,0,,,h
+S2324-G0198,2,07:36,LAL,,SAC,,J. Hayes,LAL,SUB: Russell FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0198,3,01:54,LAL,,SAC,,J. Hayes,LAL,Hayes Violation:Defensive Goaltending (A.Moyer-Gleich),Violation,Defensive Goaltending,0,0,0,0,,,h
+S2324-G0198,3,01:42,LAL,,SAC,,J. Hayes,LAL,Hayes OFF.Foul (P3) (A.Moyer-Gleich),Foul,Offensive,0,0,0,0,,,h
+S2324-G0198,3,01:42,LAL,,SAC,,J. Hayes,LAL,Hayes Offensive Foul Turnover (P2.T15),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0198,3,01:26,LAL,77.0,SAC,98.0,J. Hayes,LAL,Hayes Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0198,3,01:26,LAL,,SAC,,J. Hayes,LAL,MISS Hayes Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0198,3,00:30.500000,LAL,,SAC,,J. Hayes,LAL,Hayes S.FOUL (P4.PN) (M.Davis),Foul,Shooting,0,0,0,0,,,h
+S2324-G0531,2,11:25,LAL,,PHX,,J. Hayes,LAL,Hayes OFF.Foul (P1) (G.Petraitis),Foul,Offensive,0,0,0,0,,,h
+S2324-G0531,2,11:25,LAL,,PHX,,J. Hayes,LAL,Hayes Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0531,2,11:08,LAL,,PHX,,J. Hayes,LAL,Hayes BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0531,2,10:53,LAL,27.0,PHX,38.0,J. Hayes,LAL,Hayes 4' Alley Oop Layup (2 PTS) (James 5 AST),Made Shot,Alley Oop Layup shot,-23,31,4,1,2.0,2.0,h
+S2324-G0531,2,10:35,LAL,29.0,PHX,38.0,J. Hayes,LAL,Hayes 1' Running Alley Oop Dunk Shot (4 PTS) (Reaves 3 AST),Made Shot,Running Alley Oop Dunk Shot,-1,10,1,1,2.0,2.0,h
+S2324-G0531,2,09:40,LAL,,PHX,,J. Hayes,LAL,Hayes REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0531,2,08:34,LAL,,PHX,,J. Hayes,LAL,Hayes S.FOUL (P2.T1) (G.Petraitis),Foul,Shooting,0,0,0,0,,,h
+S2324-G0531,2,08:02,LAL,36.0,PHX,47.0,J. Hayes,LAL,Hayes 2' Cutting Dunk Shot (6 PTS) (James 6 AST),Made Shot,Cutting Dunk Shot,0,15,2,1,2.0,2.0,h
+S2324-G0531,2,07:44,LAL,,PHX,,J. Hayes,LAL,Hayes S.FOUL (P3.T2) (T.Brothers),Foul,Shooting,0,0,0,0,,,h
+S2324-G0531,2,07:40,LAL,,PHX,,J. Hayes,LAL,Hayes OFF.Foul (P4) (G.Petraitis),Foul,Offensive,0,0,0,0,,,h
+S2324-G0531,2,07:40,LAL,,PHX,,J. Hayes,LAL,Hayes Offensive Foul Turnover (P2.T9),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0531,2,07:40,LAL,,PHX,,J. Hayes,LAL,SUB: Davis FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0531,4,08:00,LAL,,PHX,,J. Hayes,LAL,Hayes REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0531,4,07:10,LAL,,PHX,,J. Hayes,LAL,Hayes S.FOUL (P5.T1) (T.Brothers),Foul,Shooting,0,0,0,0,,,h
+S2324-G0531,4,05:22,LAL,,PHX,,J. Hayes,LAL,Hayes BLOCK (2 BLK),,,0,0,0,0,,,h
+S2324-G0531,4,03:19,LAL,,PHX,,J. Hayes,LAL,Hayes S.FOUL (P6.T4) (A.Nagy),Foul,Shooting,0,0,0,0,,,h
+S2324-G0531,4,03:19,LAL,,PHX,,J. Hayes,LAL,SUB: Vanderbilt FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0403,2,11:44,LAL,,BOS,,J. Hayes,LAL,MISS Hayes Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0403,2,11:44,LAL,,BOS,,J. Hayes,LAL,MISS Hayes Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0403,2,06:52,LAL,,BOS,,J. Hayes,LAL,SUB: Reaves FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0403,4,10:25,LAL,,BOS,,J. Hayes,LAL,MISS Hayes 4' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,15,32,4,1,2.0,0.0,h
+S2324-G0403,4,08:52,LAL,,BOS,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0403,4,07:58,LAL,,BOS,,J. Hayes,LAL,SUB: Davis FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0100,1,00:41.800000,SAC,37.0,LAL,28.0,J. Hayes,LAL,Hayes 1' Alley Oop Dunk (2 PTS) (Russell 3 AST),Made Shot,Alley Oop Dunk Shot,7,4,1,1,2.0,2.0,v
+S2324-G0100,3,01:37,SAC,85.0,LAL,80.0,J. Hayes,LAL,Hayes Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0100,3,01:37,SAC,85.0,LAL,81.0,J. Hayes,LAL,Hayes Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0100,3,00:02.200000,SAC,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0100,4,11:01,SAC,,LAL,,J. Hayes,LAL,Hayes S.FOUL (P1.T1) (D.Richardson),Foul,Shooting,0,0,0,0,,,v
+S2324-G0100,4,10:09,SAC,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0100,4,08:31,SAC,,LAL,,J. Hayes,LAL,SUB: Davis FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0291,4,10:31,LAL,93.0,HOU,74.0,J. Hayes,LAL,Hayes 1' Running Alley Oop Dunk Shot (2 PTS) (James 4 AST),Made Shot,Running Alley Oop Dunk Shot,-4,14,1,1,2.0,2.0,h
+S2324-G0291,4,08:59,LAL,,HOU,,J. Hayes,LAL,Hayes P.FOUL (P1.T2) (T.Maddox),Foul,Personal,0,0,0,0,,,h
+S2324-G0291,4,08:59,LAL,,HOU,,J. Hayes,LAL,SUB: Russell FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0291,4,02:54,LAL,,HOU,,J. Hayes,LAL,Hayes S.FOUL (P2.PN) (D.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2324-G0291,4,01:50,LAL,,HOU,,J. Hayes,LAL,Hayes S.FOUL (P3.PN) (J.Orr),Foul,Shooting,0,0,0,0,,,h
+S2324-G0291,4,01:28,LAL,,HOU,,J. Hayes,LAL,MISS Hayes 28' 3PT Jump Shot,Missed Shot,Jump Shot,207,184,28,1,3.0,0.0,h
+S2324-G1195,2,10:59,NOP,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1195,2,09:25,NOP,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1195,2,08:21,NOP,,LAL,,J. Hayes,LAL,Hayes P.FOUL (P1.T2) (J.Goble),Foul,Personal,0,0,0,0,,,v
+S2324-G1195,2,07:23,NOP,,LAL,,J. Hayes,LAL,SUB: Davis FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G1195,3,02:05,NOP,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1195,4,03:17,NOP,,LAL,,J. Hayes,LAL,SUB: Dinwiddie FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0747,2,11:34,LAL,,NOP,,J. Hayes,LAL,Hayes REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0747,2,11:34,LAL,38.0,NOP,39.0,J. Hayes,LAL,Hayes Turnaround Hook Shot (2 PTS),Made Shot,Turnaround Hook Shot,0,0,0,1,2.0,2.0,h
+S2324-G0747,2,10:44,LAL,,NOP,,J. Hayes,LAL,Hayes REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0747,2,09:32,LAL,,NOP,,J. Hayes,LAL,Hayes STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0747,2,08:17,LAL,,NOP,,J. Hayes,LAL,Hayes S.FOUL (P1.T1) (S.Wright),Foul,Shooting,0,0,0,0,,,h
+S2324-G0747,2,07:47,LAL,,NOP,,J. Hayes,LAL,Hayes BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0747,2,06:42,LAL,,NOP,,J. Hayes,LAL,Jump Ball Hayes vs. Nance Jr.: Tip to James,Jump Ball,,0,0,0,0,,,h
+S2324-G0747,2,06:26,LAL,,NOP,,J. Hayes,LAL,SUB: Davis FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0747,3,03:41,LAL,105.0,NOP,96.0,J. Hayes,LAL,Hayes 2' Cutting Layup Shot (4 PTS) (James 11 AST),Made Shot,Cutting Layup Shot,21,13,2,1,2.0,2.0,h
+S2324-G0747,3,02:52,LAL,,NOP,,J. Hayes,LAL,Hayes REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0747,3,01:11,LAL,109.0,NOP,102.0,J. Hayes,LAL,Hayes 2' Cutting Layup Shot (6 PTS) (Hachimura 1 AST),Made Shot,Cutting Layup Shot,20,13,2,1,2.0,2.0,h
+S2324-G0747,3,01:01,LAL,,NOP,,J. Hayes,LAL,Hayes REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0747,3,00:03.600000,LAL,,NOP,,J. Hayes,LAL,Hayes REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0747,4,10:46,LAL,,NOP,,J. Hayes,LAL,Hayes REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0747,4,10:44,LAL,,NOP,,J. Hayes,LAL,MISS Hayes 4' Jump Shot,Missed Shot,Jump Shot,9,38,4,1,2.0,0.0,h
+S2324-G0747,4,10:21,LAL,,NOP,,J. Hayes,LAL,Hayes REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0747,4,08:29,LAL,,NOP,,J. Hayes,LAL,SUB: Reaves FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0747,4,02:05,LAL,,NOP,,J. Hayes,LAL,Hayes STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0747,4,00:56.900000,LAL,,NOP,,J. Hayes,LAL,Hayes REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0316,2,11:45,SAS,26.0,LAL,36.0,J. Hayes,LAL,Hayes 9' Floating Jump Shot (2 PTS) (Reaves 2 AST),Made Shot,Floating Jump shot,74,47,9,1,2.0,2.0,v
+S2324-G0316,2,09:37,SAS,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0316,2,08:36,SAS,,LAL,,J. Hayes,LAL,Hayes OFF.Foul (P1) (E.Malloy),Foul,Offensive,0,0,0,0,,,v
+S2324-G0316,2,08:36,SAS,,LAL,,J. Hayes,LAL,Hayes Offensive Foul Turnover (P1.T7),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0316,2,06:20,SAS,,LAL,,J. Hayes,LAL,SUB: Davis FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0316,4,11:26,SAS,74.0,LAL,94.0,J. Hayes,LAL,Hayes 1' Cutting Layup Shot (4 PTS) (Reaves 6 AST),Made Shot,Cutting Layup Shot,9,11,1,1,2.0,2.0,v
+S2324-G0316,4,10:26,SAS,,LAL,,J. Hayes,LAL,MISS Hayes 4' Driving Layup,Missed Shot,Driving Layup Shot,-36,13,4,1,2.0,0.0,v
+S2324-G0316,4,10:19,SAS,,LAL,,J. Hayes,LAL,SUB: Prince FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0316,4,00:21.900000,SAS,,LAL,,J. Hayes,LAL,SUB: Russell FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G1045,1,04:36,MIL,,LAL,,J. Hayes,LAL,Hayes Out of Bounds - Bad Pass Turnover Turnover (P1.T2),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G1045,1,03:48,MIL,,LAL,,J. Hayes,LAL,Hayes S.FOUL (P1.T4) (C.Washington),Foul,Shooting,0,0,0,0,,,v
+S2324-G1045,1,01:07,MIL,29.0,LAL,14.0,J. Hayes,LAL,Hayes 2' Cutting Layup Shot (2 PTS) (Davis 1 AST),Made Shot,Cutting Layup Shot,15,10,2,1,2.0,2.0,v
+S2324-G1045,1,01:07,MIL,,LAL,,J. Hayes,LAL,MISS Hayes Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2324-G1045,1,00:48,MIL,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1045,2,10:37,MIL,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1045,2,08:44,MIL,,LAL,,J. Hayes,LAL,Hayes S.FOUL (P2.T1) (C.Washington),Foul,Shooting,0,0,0,0,,,v
+S2324-G1045,2,08:39,MIL,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1045,2,08:00,MIL,,LAL,,J. Hayes,LAL,Hayes P.FOUL (P3.T2) (T.Brothers),Foul,Personal,0,0,0,0,,,v
+S2324-G1045,2,08:00,MIL,,LAL,,J. Hayes,LAL,SUB: Davis FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G1045,3,02:10,MIL,,LAL,,J. Hayes,LAL,Hayes Bad Pass Turnover (P2.T10),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G1045,4,10:02,MIL,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1045,4,10:00,MIL,,LAL,,J. Hayes,LAL,Hayes Lost Ball Turnover (P3.T12),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G1045,4,09:52,MIL,,LAL,,J. Hayes,LAL,SUB: Davis FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G1045,4,00:00.800000,MIL,,LAL,,J. Hayes,LAL,SUB: Russell FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G1045,6,00:22.300000,MIL,,LAL,,J. Hayes,LAL,SUB: Dinwiddie FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0802,1,01:08,GSW,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0802,1,00:32.400000,GSW,,LAL,,J. Hayes,LAL,SUB: Hachimura FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0802,2,11:07,GSW,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0802,2,11:04,GSW,,LAL,,J. Hayes,LAL,MISS Hayes Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2324-G0802,2,11:04,GSW,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0802,2,11:03,GSW,31.0,LAL,32.0,J. Hayes,LAL,Hayes 6' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,53,22,6,1,2.0,2.0,v
+S2324-G0802,2,10:06,GSW,,LAL,,J. Hayes,LAL,Hayes S.FOUL (P1.T2) (M.Kogut),Foul,Shooting,0,0,0,0,,,v
+S2324-G0802,2,09:52,GSW,34.0,LAL,37.0,J. Hayes,LAL,Hayes 4' Cutting Dunk Shot (4 PTS) (Russell 2 AST),Made Shot,Cutting Dunk Shot,27,32,4,1,2.0,2.0,v
+S2324-G0802,2,08:30,GSW,,LAL,,J. Hayes,LAL,MISS Hayes Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0802,2,08:30,GSW,38.0,LAL,42.0,J. Hayes,LAL,Hayes Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0802,2,07:17,GSW,,LAL,,J. Hayes,LAL,SUB: Reaves FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0802,3,00:35.800000,GSW,,LAL,,J. Hayes,LAL,MISS Hayes 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-31,26,4,1,2.0,0.0,v
+S2324-G0802,3,00:27.100000,GSW,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0802,3,00:21.100000,GSW,,LAL,,J. Hayes,LAL,SUB: Reaves FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0802,4,11:11,GSW,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:4 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0802,4,11:11,GSW,,LAL,,J. Hayes,LAL,MISS Hayes Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0802,4,11:11,GSW,,LAL,,J. Hayes,LAL,MISS Hayes Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0802,4,08:42,GSW,,LAL,,J. Hayes,LAL,SUB: Davis FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G0802,4,05:40,GSW,113.0,LAL,98.0,J. Hayes,LAL,Hayes 4' Dunk (7 PTS) (Windler 1 AST),Made Shot,Dunk Shot,-29,29,4,1,2.0,2.0,v
+S2324-G0802,4,04:05,GSW,,LAL,,J. Hayes,LAL,Hayes BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0802,4,04:00,GSW,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0802,4,03:54,GSW,,LAL,,J. Hayes,LAL,MISS Hayes 9' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-38,81,9,1,2.0,0.0,v
+S2324-G0802,4,03:40,GSW,,LAL,,J. Hayes,LAL,Hayes S.FOUL (P2.PN) (M.Kogut),Foul,Shooting,0,0,0,0,,,v
+S2324-G0802,4,02:26,GSW,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1177,2,10:25,MEM,,LAL,,J. Hayes,LAL,MISS Hayes 6' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-4,64,6,1,2.0,0.0,v
+S2324-G1177,2,10:18,MEM,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1177,2,09:19,MEM,32.0,LAL,41.0,J. Hayes,LAL,Hayes 2' Running Layup (2 PTS) (James 3 AST),Made Shot,Running Layup Shot,10,13,2,1,2.0,2.0,v
+S2324-G1177,2,09:05,MEM,,LAL,,J. Hayes,LAL,Hayes BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G1177,2,07:26,MEM,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1177,2,06:49,MEM,,LAL,,J. Hayes,LAL,SUB: Dinwiddie FOR Hayes,Substitution,,0,0,0,0,,,v
+S2324-G1032,2,11:40,LAL,,IND,,J. Hayes,LAL,Hayes REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1032,2,11:40,LAL,32.0,IND,36.0,J. Hayes,LAL,Hayes Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2324-G1032,2,08:04,LAL,44.0,IND,51.0,J. Hayes,LAL,Hayes Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1032,2,08:04,LAL,45.0,IND,51.0,J. Hayes,LAL,Hayes Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1032,2,07:44,LAL,,IND,,J. Hayes,LAL,SUB: Davis FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G1032,2,00:16,LAL,,IND,,J. Hayes,LAL,Hayes REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1032,2,00:16,LAL,,IND,,J. Hayes,LAL,MISS Hayes Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2324-G1032,2,00:15.500000,LAL,,IND,,J. Hayes,LAL,Hayes REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1032,2,00:15.500000,LAL,,IND,,J. Hayes,LAL,MISS Hayes 3' Putback Layup,Missed Shot,Putback Layup Shot,22,26,3,1,2.0,0.0,h
+S2324-G1032,4,10:45,LAL,,IND,,J. Hayes,LAL,Hayes REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1032,4,09:49,LAL,,IND,,J. Hayes,LAL,SUB: James FOR Hayes,Substitution,,0,0,0,0,,,h
+S2324-G0818,1,03:49,PHX,,LAL,,J. Hayes,LAL,MISS Hayes 2' Layup,Missed Shot,Layup Shot,20,-7,2,1,2.0,0.0,v
+S2324-G0818,1,02:55,PHX,,LAL,,J. Hayes,LAL,Hayes S.FOUL (P1.PN) (J.Tiven),Foul,Shooting,0,0,0,0,,,v
+S2324-G0818,4,00:10.700000,PHX,123.0,LAL,113.0,J. Hayes,LAL,Hayes 2' Alley Oop Layup (2 PTS) (Windler 1 AST),Made Shot,Alley Oop Layup shot,10,18,2,1,2.0,2.0,v
+S2324-G0662,4,10:33,HOU,108.0,LAL,89.0,J. Hayes,LAL,Hayes 2' Cutting Dunk Shot (2 PTS) (James 8 AST),Made Shot,Cutting Dunk Shot,6,22,2,1,2.0,2.0,v
+S2324-G0662,4,08:55,HOU,,LAL,,J. Hayes,LAL,Hayes BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0662,4,08:01,HOU,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0662,4,07:58,HOU,116.0,LAL,96.0,J. Hayes,LAL,Hayes 2' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,-11,16,2,1,2.0,2.0,v
+S2324-G0662,4,06:25,HOU,119.0,LAL,103.0,J. Hayes,LAL,Hayes 2' Running Layup (6 PTS) (James 9 AST),Made Shot,Running Layup Shot,-7,16,2,1,2.0,2.0,v
+S2324-G0662,4,06:08,HOU,,LAL,,J. Hayes,LAL,Hayes STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0662,4,05:11,HOU,,LAL,,J. Hayes,LAL,Hayes OFF.Foul (P1) (E.Dalen),Foul,Offensive,0,0,0,0,,,v
+S2324-G0662,4,05:11,HOU,,LAL,,J. Hayes,LAL,Hayes Offensive Foul Turnover (P1.T12),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0662,4,04:14,HOU,,LAL,,J. Hayes,LAL,Hayes P.FOUL (P2.T1) (C.Blair),Foul,Personal,0,0,0,0,,,v
+S2324-G0662,4,03:31,HOU,,LAL,,J. Hayes,LAL,Hayes REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0662,4,01:54,HOU,129.0,LAL,113.0,J. Hayes,LAL,Hayes 2' Cutting Dunk Shot (8 PTS) (Christie 1 AST),Made Shot,Cutting Dunk Shot,-10,18,2,1,2.0,2.0,v
+S2324-G0662,4,01:54,HOU,129.0,LAL,114.0,J. Hayes,LAL,Hayes Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v

@@ -1,0 +1,499 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2324-G0904,1,01:36,DAL,26.0,MIA,36.0,T. Bryant,MIA,Bryant Cutting Dunk Shot (2 PTS) (D. Robinson 1 AST),Made Shot,Cutting Dunk Shot,2,-4,0,1,2.0,2.0,v
+S2324-G0904,1,01:17,DAL,,MIA,,T. Bryant,MIA,Bryant REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0904,1,00:42.700000,DAL,,MIA,,T. Bryant,MIA,Bryant BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0904,2,11:37,DAL,,MIA,,T. Bryant,MIA,Bryant S.FOUL (P1.T1) (A.Nagy),Foul,Shooting,0,0,0,0,,,v
+S2324-G0904,2,10:12,DAL,,MIA,,T. Bryant,MIA,MISS Bryant 3PT Jump Shot,Missed Shot,Jump Shot,232,25,0,1,3.0,0.0,v
+S2324-G0904,2,07:47,DAL,,MIA,,T. Bryant,MIA,MISS Bryant 3PT Jump Shot,Missed Shot,Jump Shot,233,11,0,1,3.0,0.0,v
+S2324-G0904,2,07:01,DAL,,MIA,,T. Bryant,MIA,Bryant S.FOUL (P2.T3) (Z.Zarba),Foul,Shooting,0,0,0,0,,,v
+S2324-G0904,2,07:01,DAL,,MIA,,T. Bryant,MIA,SUB: Rozier FOR Bryant,Substitution,,0,0,0,0,,,v
+S2324-G0904,4,08:56,DAL,,MIA,,T. Bryant,MIA,SUB: Adebayo FOR Bryant,Substitution,,0,0,0,0,,,v
+S2324-G0292,2,06:03,CHA,,MIA,,T. Bryant,MIA,Bryant REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0292,2,05:06,CHA,,MIA,,T. Bryant,MIA,Bryant REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0292,2,03:59,CHA,,MIA,,T. Bryant,MIA,SUB: Love FOR Bryant,Substitution,,0,0,0,0,,,v
+S2324-G0093,1,01:24,MIN,,MIA,,T. Bryant,MIA,Bryant REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0093,1,01:23,MIN,,MIA,,T. Bryant,MIA,MISS Bryant Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2324-G0093,1,01:22,MIN,,MIA,,T. Bryant,MIA,Bryant REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0093,1,01:22,MIN,24.0,MIA,25.0,T. Bryant,MIA,Bryant Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2324-G0093,2,11:13,MIN,,MIA,,T. Bryant,MIA,Bryant REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0093,2,11:04,MIN,,MIA,,T. Bryant,MIA,MISS Bryant 5' Floating Jump Shot,Missed Shot,Floating Jump shot,-38,32,5,1,2.0,0.0,v
+S2324-G0093,2,10:58,MIN,,MIA,,T. Bryant,MIA,Bryant P.FOUL (P1.T1) (C.Kirkland),Foul,Personal,0,0,0,0,,,v
+S2324-G0093,2,10:45,MIN,,MIA,,T. Bryant,MIA,Bryant REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0093,2,07:06,MIN,,MIA,,T. Bryant,MIA,SUB: Adebayo FOR Bryant,Substitution,,0,0,0,0,,,v
+S2324-G0093,3,02:48,MIN,,MIA,,T. Bryant,MIA,Bryant REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0093,3,02:47,MIN,72.0,MIA,72.0,T. Bryant,MIA,Bryant Tip Dunk Shot (4 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,v
+S2324-G0093,3,01:47,MIN,,MIA,,T. Bryant,MIA,MISS Bryant Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0093,3,01:47,MIN,74.0,MIA,73.0,T. Bryant,MIA,Bryant Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0093,3,00:20,MIN,,MIA,,T. Bryant,MIA,Bryant Traveling Turnover (P1.T13),Turnover,Traveling,0,0,0,0,,,v
+S2324-G0093,3,00:20,MIN,,MIA,,T. Bryant,MIA,SUB: Adebayo FOR Bryant,Substitution,,0,0,0,0,,,v
+S2324-G0267,3,11:41,MIA,,IND,,T. Bryant,MIA,Bryant REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0267,3,09:53,MIA,,IND,,T. Bryant,MIA,Bryant REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0267,3,08:52,MIA,,IND,,T. Bryant,MIA,Bryant REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0267,3,08:52,MIA,74.0,IND,80.0,T. Bryant,MIA,Bryant Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2324-G0267,3,08:16,MIA,,IND,,T. Bryant,MIA,Bryant REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0267,3,07:00,MIA,,IND,,T. Bryant,MIA,Bryant S.FOUL (P1.PN) (B.Schwab),Foul,Shooting,0,0,0,0,,,h
+S2324-G0267,3,06:19,MIA,,IND,,T. Bryant,MIA,SUB: Jaquez Jr. FOR Bryant,Substitution,,0,0,0,0,,,h
+S2324-G0119,1,01:49,MIA,28.0,BKN,25.0,T. Bryant,MIA,Bryant 15' Jump Shot (2 PTS) (D. Robinson 1 AST),Made Shot,Jump Shot,-9,152,15,1,2.0,2.0,h
+S2324-G0119,2,11:49,MIA,,BKN,,T. Bryant,MIA,Bryant P.FOUL (P1.T1) (T.Ricks),Foul,Personal,0,0,0,0,,,h
+S2324-G0119,2,11:23,MIA,34.0,BKN,29.0,T. Bryant,MIA,Bryant 1' Alley Oop Dunk (4 PTS) (D. Robinson 2 AST),Made Shot,Alley Oop Dunk Shot,9,7,1,1,2.0,2.0,h
+S2324-G0119,2,11:07,MIA,,BKN,,T. Bryant,MIA,Bryant REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0119,2,11:03,MIA,,BKN,,T. Bryant,MIA,Bryant OFF.Foul (P2) (J.Goble),Foul,Offensive,0,0,0,0,,,h
+S2324-G0119,2,11:03,MIA,,BKN,,T. Bryant,MIA,Bryant Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0119,2,09:55,MIA,,BKN,,T. Bryant,MIA,Bryant STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0119,2,09:20,MIA,,BKN,,T. Bryant,MIA,Bryant REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0119,2,08:33,MIA,,BKN,,T. Bryant,MIA,MISS Bryant 17' Jump Shot,Missed Shot,Jump Shot,-163,26,17,1,2.0,0.0,h
+S2324-G0119,2,07:09,MIA,,BKN,,T. Bryant,MIA,Bryant REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0119,2,07:07,MIA,42.0,BKN,34.0,T. Bryant,MIA,Bryant Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0119,2,07:07,MIA,43.0,BKN,34.0,T. Bryant,MIA,Bryant Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0119,2,06:08,MIA,,BKN,,T. Bryant,MIA,Bryant REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0119,2,05:49,MIA,45.0,BKN,36.0,T. Bryant,MIA,Bryant 6' Driving Bank Hook Shot (8 PTS),Made Shot,Driving Bank Hook Shot,60,8,6,1,2.0,2.0,h
+S2324-G0119,2,05:41,MIA,,BKN,,T. Bryant,MIA,Bryant L.B.FOUL (P3.T3) (N.Buchert),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0119,2,05:41,MIA,,BKN,,T. Bryant,MIA,SUB: Lowry FOR Bryant,Substitution,,0,0,0,0,,,h
+S2324-G0119,3,02:59,MIA,,BKN,,T. Bryant,MIA,Bryant OFF.Foul (P4) (T.Ricks),Foul,Offensive,0,0,0,0,,,h
+S2324-G0119,3,02:59,MIA,,BKN,,T. Bryant,MIA,Bryant Offensive Foul Turnover (P2.T14),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0119,4,10:54,MIA,,BKN,,T. Bryant,MIA,Bryant REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0119,4,09:57,MIA,,BKN,,T. Bryant,MIA,SUB: Adebayo FOR Bryant,Substitution,,0,0,0,0,,,h
+S2324-G0949,2,11:30,MIA,21.0,DEN,26.0,T. Bryant,MIA,Bryant 3' Layup (2 PTS) (Mills 2 AST),Made Shot,Layup Shot,-10,32,3,1,2.0,2.0,h
+S2324-G0949,2,11:14,MIA,,DEN,,T. Bryant,MIA,Bryant REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0949,2,10:44,MIA,,DEN,,T. Bryant,MIA,Bryant REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0949,2,09:02,MIA,,DEN,,T. Bryant,MIA,MISS Bryant Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0949,2,09:02,MIA,24.0,DEN,30.0,T. Bryant,MIA,Bryant Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0949,2,08:05,MIA,27.0,DEN,33.0,T. Bryant,MIA,Bryant Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0949,2,08:05,MIA,28.0,DEN,33.0,T. Bryant,MIA,Bryant Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0949,2,07:15,MIA,,DEN,,T. Bryant,MIA,Bryant REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0949,2,07:08,MIA,,DEN,,T. Bryant,MIA,SUB: Adebayo FOR Bryant,Substitution,,0,0,0,0,,,h
+S2324-G0949,3,01:18,MIA,71.0,DEN,67.0,T. Bryant,MIA,Bryant 6' Floating Jump Shot (7 PTS) (D. Robinson 3 AST),Made Shot,Floating Jump shot,21,59,6,1,2.0,2.0,h
+S2324-G0949,4,10:22,MIA,,DEN,,T. Bryant,MIA,Bryant REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0949,4,10:03,MIA,,DEN,,T. Bryant,MIA,Bryant REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0949,4,10:02,MIA,,DEN,,T. Bryant,MIA,MISS Bryant 4' Tip Layup Shot,Missed Shot,Tip Layup Shot,-20,29,4,1,2.0,0.0,h
+S2324-G0949,4,10:01,MIA,,DEN,,T. Bryant,MIA,Bryant REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0949,4,10:00,MIA,73.0,DEN,75.0,T. Bryant,MIA,Bryant Putback Layup (9 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,h
+S2324-G0949,4,08:41,MIA,,DEN,,T. Bryant,MIA,Bryant L.B.FOUL (P1.T1) (S.Wright),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0949,4,07:58,MIA,,DEN,,T. Bryant,MIA,SUB: Adebayo FOR Bryant,Substitution,,0,0,0,0,,,h
+S2324-G0621,2,06:36,MIA,,MEM,,T. Bryant,MIA,Bryant P.FOUL (P1.T1) (S.Mitchell),Foul,Personal,0,0,0,0,,,h
+S2324-G0621,2,03:24,MIA,,MEM,,T. Bryant,MIA,SUB: Adebayo FOR Bryant,Substitution,,0,0,0,0,,,h
+S2324-G0621,3,02:45,MIA,,MEM,,T. Bryant,MIA,SUB: Adebayo FOR Bryant,Substitution,,0,0,0,0,,,h
+S2324-G0240,1,10:16,BKN,,MIA,,T. Bryant,MIA,MISS Bryant 6' Hook Shot,Missed Shot,Hook Shot,-49,-26,6,1,2.0,0.0,v
+S2324-G0240,1,09:35,BKN,,MIA,,T. Bryant,MIA,Bryant STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0240,1,08:52,BKN,,MIA,,T. Bryant,MIA,Bryant REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0240,1,08:51,BKN,,MIA,,T. Bryant,MIA,Bryant Out of Bounds - Bad Pass Turnover Turnover (P1.T2),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0240,1,08:27,BKN,7.0,MIA,5.0,T. Bryant,MIA,Bryant 4' Driving Hook Shot (2 PTS),Made Shot,Driving Hook Shot,6,35,4,1,2.0,2.0,v
+S2324-G0240,1,07:55,BKN,,MIA,,T. Bryant,MIA,Bryant OFF.Foul (P1) (A.Smith),Foul,Offensive,0,0,0,0,,,v
+S2324-G0240,1,07:55,BKN,,MIA,,T. Bryant,MIA,Bryant Offensive Foul Turnover (P2.T3),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0240,1,07:24,BKN,,MIA,,T. Bryant,MIA,MISS Bryant 5' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,48,13,5,1,2.0,0.0,v
+S2324-G0240,1,07:01,BKN,,MIA,,T. Bryant,MIA,MISS Bryant 25' 3PT Jump Shot,Missed Shot,Jump Shot,6,252,25,1,3.0,0.0,v
+S2324-G0240,1,06:25,BKN,,MIA,,T. Bryant,MIA,MISS Bryant 3' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-29,19,3,1,2.0,0.0,v
+S2324-G0240,1,05:22,BKN,,MIA,,T. Bryant,MIA,SUB: Love FOR Bryant,Substitution,,0,0,0,0,,,v
+S2324-G0240,3,09:35,BKN,,MIA,,T. Bryant,MIA,SUB: Love FOR Bryant,Substitution,,0,0,0,0,,,v
+S2324-G0562,2,02:07,BKN,,MIA,,T. Bryant,MIA,SUB: Adebayo FOR Bryant,Substitution,,0,0,0,0,,,v
+S2324-G0489,4,01:10,PHX,,MIA,,T. Bryant,MIA,Bryant REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0489,4,00:41,PHX,,MIA,,T. Bryant,MIA,Bryant REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0574,2,06:52,TOR,59.0,MIA,26.0,T. Bryant,MIA,Bryant 7' Hook Shot (2 PTS) (Butler 2 AST),Made Shot,Hook Shot,33,57,7,1,2.0,2.0,v
+S2324-G0574,2,03:07,TOR,,MIA,,T. Bryant,MIA,Bryant S.FOUL (P1.T2) (T.Washington),Foul,Shooting,0,0,0,0,,,v
+S2324-G0574,2,03:07,TOR,,MIA,,T. Bryant,MIA,SUB: Adebayo FOR Bryant,Substitution,,0,0,0,0,,,v
+S2324-G0962,1,02:24,DET,,MIA,,T. Bryant,MIA,Heat T.Foul (Def. 3 Sec Bryant ) (K.Lane),Foul,Defense 3 Second,0,0,0,0,,,v
+S2324-G0962,1,01:11,DET,,MIA,,T. Bryant,MIA,Bryant REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0962,4,10:16,DET,77.0,MIA,90.0,T. Bryant,MIA,Bryant 1' Reverse Layup (2 PTS) (Martin 4 AST),Made Shot,Reverse Layup Shot,0,-6,1,1,2.0,2.0,v
+S2324-G0962,4,09:31,DET,,MIA,,T. Bryant,MIA,MISS Bryant 3PT Jump Shot,Missed Shot,Jump Shot,-228,42,0,1,3.0,0.0,v
+S2324-G0962,4,08:34,DET,,MIA,,T. Bryant,MIA,Bryant REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0962,4,08:33,DET,,MIA,,T. Bryant,MIA,MISS Bryant 4' Putback Layup,Missed Shot,Putback Layup Shot,23,38,4,1,2.0,0.0,v
+S2324-G0962,4,08:16,DET,79.0,MIA,94.0,T. Bryant,MIA,Bryant 3' Running Dunk (4 PTS) (Jaquez Jr. 3 AST),Made Shot,Running Dunk Shot,6,28,3,1,2.0,2.0,v
+S2324-G0962,4,07:22,DET,81.0,MIA,96.0,T. Bryant,MIA,Bryant 3' Layup (6 PTS) (Martin 5 AST),Made Shot,Layup Shot,-21,26,3,1,2.0,2.0,v
+S2324-G0962,4,07:22,DET,81.0,MIA,97.0,T. Bryant,MIA,Bryant Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G0962,4,07:02,DET,,MIA,,T. Bryant,MIA,Bryant BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0962,4,05:47,DET,,MIA,,T. Bryant,MIA,Bryant REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0962,4,05:16,DET,,MIA,,T. Bryant,MIA,Bryant REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0962,4,05:02,DET,83.0,MIA,104.0,T. Bryant,MIA,Bryant 9' Floating Jump Shot (9 PTS) (Martin 6 AST),Made Shot,Floating Jump shot,10,89,9,1,2.0,2.0,v
+S2324-G0962,4,03:39,DET,,MIA,,T. Bryant,MIA,MISS Bryant 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,11,264,26,1,3.0,0.0,v
+S2324-G0962,4,03:11,DET,89.0,MIA,108.0,T. Bryant,MIA,Bryant 3' Cutting Layup Shot (11 PTS) (Rozier 1 AST),Made Shot,Cutting Layup Shot,-11,23,3,1,2.0,2.0,v
+S2324-G0962,4,00:54.600000,DET,,MIA,,T. Bryant,MIA,Bryant REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0630,1,03:23,MIA,,BOS,,T. Bryant,MIA,MISS Bryant 24' 3PT Jump Shot,Missed Shot,Jump Shot,243,24,24,1,3.0,0.0,h
+S2324-G0630,1,01:42,MIA,,BOS,,T. Bryant,MIA,Bryant REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0630,1,00:46.200000,MIA,,BOS,,T. Bryant,MIA,SUB: Adebayo FOR Bryant,Substitution,,0,0,0,0,,,h
+S2324-G0630,2,06:18,MIA,,BOS,,T. Bryant,MIA,MISS Bryant Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0630,2,06:18,MIA,44.0,BOS,55.0,T. Bryant,MIA,Bryant Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0630,2,04:31,MIA,51.0,BOS,60.0,T. Bryant,MIA,Bryant 12' Jump Shot (3 PTS) (Herro 4 AST),Made Shot,Jump Shot,-124,15,12,1,2.0,2.0,h
+S2324-G0630,2,03:59,MIA,,BOS,,T. Bryant,MIA,Bryant REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0630,2,03:59,MIA,53.0,BOS,60.0,T. Bryant,MIA,Bryant Tip Dunk Shot (5 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,h
+S2324-G0630,2,03:18,MIA,55.0,BOS,63.0,T. Bryant,MIA,Bryant 2' Cutting Layup Shot (7 PTS) (Richardson 1 AST),Made Shot,Cutting Layup Shot,-16,13,2,1,2.0,2.0,h
+S2324-G0630,2,03:02,MIA,,BOS,,T. Bryant,MIA,Bryant REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0630,2,01:40,MIA,,BOS,,T. Bryant,MIA,Bryant S.FOUL (P1.T2) (B.Kennedy),Foul,Shooting,0,0,0,0,,,h
+S2324-G0630,2,01:40,MIA,,BOS,,T. Bryant,MIA,SUB: Rozier FOR Bryant,Substitution,,0,0,0,0,,,h
+S2324-G0630,3,03:13,MIA,,BOS,,T. Bryant,MIA,Bryant REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0630,3,02:48,MIA,,BOS,,T. Bryant,MIA,Bryant REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0630,3,00:33,MIA,,BOS,,T. Bryant,MIA,SUB: Adebayo FOR Bryant,Substitution,,0,0,0,0,,,h
+S2324-G0164,1,04:16,MEM,,MIA,,T. Bryant,MIA,Bryant REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0164,1,03:41,MEM,,MIA,,T. Bryant,MIA,Bryant Traveling Turnover (P1.T2),Turnover,Traveling,0,0,0,0,,,v
+S2324-G0164,1,02:27,MEM,,MIA,,T. Bryant,MIA,Bryant REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0164,1,00:40.500000,MEM,,MIA,,T. Bryant,MIA,Bryant REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0164,1,00:30.600000,MEM,24.0,MIA,33.0,T. Bryant,MIA,Bryant 2' Cutting Dunk Shot (2 PTS) (Jaquez Jr. 1 AST),Made Shot,Cutting Dunk Shot,15,15,2,1,2.0,2.0,v
+S2324-G0164,2,04:25,MEM,,MIA,,T. Bryant,MIA,Bryant REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0164,2,04:06,MEM,,MIA,,T. Bryant,MIA,Bryant REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0164,2,04:06,MEM,,MIA,,T. Bryant,MIA,MISS Bryant Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2324-G0164,2,03:08,MEM,,MIA,,T. Bryant,MIA,SUB: Adebayo FOR Bryant,Substitution,,0,0,0,0,,,v
+S2324-G0164,3,03:28,MEM,,MIA,,T. Bryant,MIA,MISS Bryant 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,32,31,4,1,2.0,0.0,v
+S2324-G0164,3,01:53,MEM,,MIA,,T. Bryant,MIA,Bryant REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0164,3,00:52.900000,MEM,,MIA,,T. Bryant,MIA,SUB: Adebayo FOR Bryant,Substitution,,0,0,0,0,,,v
+S2324-G0164,3,00:05.700000,MEM,,MIA,,T. Bryant,MIA,Bryant S.FOUL (P1.PN) (T.Mirkovich),Foul,Shooting,0,0,0,0,,,v
+S2324-G0888,4,09:12,MIA,,DET,,T. Bryant,MIA,MISS Bryant 26' 3PT Jump Shot,Missed Shot,Jump Shot,50,260,26,1,3.0,0.0,h
+S2324-G0888,4,07:18,MIA,,DET,,T. Bryant,MIA,Bryant BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0888,4,07:11,MIA,,DET,,T. Bryant,MIA,Bryant BLOCK (2 BLK),,,0,0,0,0,,,h
+S2324-G0888,4,06:44,MIA,,DET,,T. Bryant,MIA,SUB: Adebayo FOR Bryant,Substitution,,0,0,0,0,,,h
+S2324-G0810,4,11:19,NOP,,MIA,,T. Bryant,MIA,Bryant Ejection:Other,Ejection,Other,0,0,0,0,,,v
+S2324-G0017,2,04:56,CHA,,MIA,,T. Bryant,MIA,Bryant REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0017,2,04:56,CHA,,MIA,,T. Bryant,MIA,MISS Bryant Putback Layup,Missed Shot,Putback Layup Shot,0,0,0,1,2.0,0.0,v
+S2324-G0017,2,03:57,CHA,,MIA,,T. Bryant,MIA,MISS Bryant 15' Jump Shot,Missed Shot,Jump Shot,146,-2,15,1,2.0,0.0,v
+S2324-G0017,2,02:18,CHA,46.0,MIA,49.0,T. Bryant,MIA,Bryant 2' Layup (2 PTS) (Butler 4 AST),Made Shot,Layup Shot,-18,8,2,1,2.0,2.0,v
+S2324-G0017,2,02:03,CHA,,MIA,,T. Bryant,MIA,SUB: Adebayo FOR Bryant,Substitution,,0,0,0,0,,,v
+S2324-G0312,2,11:42,MIA,,CHA,,T. Bryant,MIA,Bryant REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0312,2,11:42,MIA,24.0,CHA,23.0,T. Bryant,MIA,Bryant Putback Layup (2 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,h
+S2324-G0312,2,10:08,MIA,,CHA,,T. Bryant,MIA,Bryant S.FOUL (P1.T1) (T.Maddox),Foul,Shooting,0,0,0,0,,,h
+S2324-G0312,2,10:03,MIA,,CHA,,T. Bryant,MIA,Bryant REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0312,2,09:45,MIA,,CHA,,T. Bryant,MIA,Bryant REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0312,2,09:44,MIA,31.0,CHA,27.0,T. Bryant,MIA,Bryant 1' Putback Dunk (4 PTS),Made Shot,Putback Dunk Shot,-5,4,1,1,2.0,2.0,h
+S2324-G0312,2,07:55,MIA,,CHA,,T. Bryant,MIA,Bryant REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0312,2,05:15,MIA,,CHA,,T. Bryant,MIA,Bryant REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0312,2,05:14,MIA,39.0,CHA,39.0,T. Bryant,MIA,Bryant 1' Putback Layup (6 PTS),Made Shot,Putback Layup Shot,12,8,1,1,2.0,2.0,h
+S2324-G0312,2,05:14,MIA,40.0,CHA,39.0,T. Bryant,MIA,Bryant Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G0312,2,04:33,MIA,,CHA,,T. Bryant,MIA,SUB: Love FOR Bryant,Substitution,,0,0,0,0,,,h
+S2324-G0312,4,06:53,MIA,,CHA,,T. Bryant,MIA,Bryant REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0312,4,05:18,MIA,103.0,CHA,88.0,T. Bryant,MIA,Bryant Cutting Dunk Shot (9 PTS) (Jaquez Jr. 6 AST),Made Shot,Cutting Dunk Shot,1,-2,0,1,2.0,2.0,h
+S2324-G0312,4,03:38,MIA,108.0,CHA,91.0,T. Bryant,MIA,Bryant 1' Cutting Dunk Shot (11 PTS) (Martin 4 AST),Made Shot,Cutting Dunk Shot,1,6,1,1,2.0,2.0,h
+S2324-G0312,4,03:07,MIA,,CHA,,T. Bryant,MIA,Bryant OFF.Foul (P2) (T.Maddox),Foul,Offensive,0,0,0,0,,,h
+S2324-G0312,4,03:07,MIA,,CHA,,T. Bryant,MIA,Bryant Offensive Foul Turnover (P1.T22),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0312,4,02:27,MIA,,CHA,,T. Bryant,MIA,Bryant REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0312,4,00:53.200000,MIA,,CHA,,T. Bryant,MIA,Bryant REBOUND (Off:5 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0312,4,00:53.100000,MIA,,CHA,,T. Bryant,MIA,MISS Bryant 2' Tip Dunk Shot,Missed Shot,Tip Dunk Shot,-6,20,2,1,2.0,0.0,h
+S2324-G0312,4,00:52.900000,MIA,,CHA,,T. Bryant,MIA,Bryant REBOUND (Off:6 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0312,4,00:51.200000,MIA,,CHA,,T. Bryant,MIA,MISS Bryant Putback Layup,Missed Shot,Putback Layup Shot,0,0,0,1,2.0,0.0,h
+S2324-G0996,1,10:49,CLE,,MIA,,T. Bryant,MIA,Bryant REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0996,1,10:08,CLE,,MIA,,T. Bryant,MIA,Bryant REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0996,1,07:39,CLE,,MIA,,T. Bryant,MIA,Bryant P.FOUL (P1.T2) (J.Capers),Foul,Personal,0,0,0,0,,,v
+S2324-G0996,1,07:23,CLE,9.0,MIA,15.0,T. Bryant,MIA,Bryant 8' Running Layup (2 PTS) (Butler 2 AST),Made Shot,Running Layup Shot,80,11,8,1,2.0,2.0,v
+S2324-G0996,1,07:03,CLE,,MIA,,T. Bryant,MIA,Bryant REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0996,1,06:41,CLE,,MIA,,T. Bryant,MIA,Bryant S.FOUL (P2.T4) (J.Butler),Foul,Shooting,0,0,0,0,,,v
+S2324-G0996,1,06:41,CLE,,MIA,,T. Bryant,MIA,SUB: Robinson FOR Bryant,Substitution,,0,0,0,0,,,v
+S2324-G0996,2,02:44,CLE,,MIA,,T. Bryant,MIA,Bryant REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0996,2,02:44,CLE,,MIA,,T. Bryant,MIA,SUB: Jovic FOR Bryant,Substitution,,0,0,0,0,,,v
+S2324-G0996,3,11:45,CLE,,MIA,,T. Bryant,MIA,MISS Bryant 24' 3PT Jump Shot,Missed Shot,Jump Shot,229,81,24,1,3.0,0.0,v
+S2324-G0996,3,10:22,CLE,,MIA,,T. Bryant,MIA,Bryant REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0996,3,09:10,CLE,,MIA,,T. Bryant,MIA,Bryant REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0996,3,09:10,CLE,62.0,MIA,65.0,T. Bryant,MIA,Bryant Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0996,3,09:10,CLE,62.0,MIA,66.0,T. Bryant,MIA,Bryant Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0996,3,08:14,CLE,,MIA,,T. Bryant,MIA,Bryant REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0996,3,07:59,CLE,64.0,MIA,68.0,T. Bryant,MIA,Bryant Cutting Dunk Shot (6 PTS) (Butler 4 AST),Made Shot,Cutting Dunk Shot,0,2,0,1,2.0,2.0,v
+S2324-G0996,3,07:34,CLE,,MIA,,T. Bryant,MIA,Bryant BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0996,3,07:28,CLE,,MIA,,T. Bryant,MIA,Bryant REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0996,3,06:54,CLE,,MIA,,T. Bryant,MIA,Bryant REBOUND (Off:1 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0996,3,05:16,CLE,,MIA,,T. Bryant,MIA,MISS Bryant 26' 3PT Jump Shot,Missed Shot,Jump Shot,-108,236,26,1,3.0,0.0,v
+S2324-G0996,3,05:01,CLE,,MIA,,T. Bryant,MIA,Bryant S.FOUL (P3.T2) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,v
+S2324-G0996,3,04:56,CLE,,MIA,,T. Bryant,MIA,Bryant REBOUND (Off:1 Def:9),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0996,3,04:16,CLE,,MIA,,T. Bryant,MIA,MISS Bryant 1' Layup,Missed Shot,Layup Shot,6,8,1,1,2.0,0.0,v
+S2324-G0996,3,04:14,CLE,,MIA,,T. Bryant,MIA,Bryant L.B.FOUL (P4.T4) (J.Goldenberg),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0996,3,04:14,CLE,,MIA,,T. Bryant,MIA,SUB: Robinson FOR Bryant,Substitution,,0,0,0,0,,,v
+S2324-G1081,1,00:48.400000,WAS,,MIA,,T. Bryant,MIA,Bryant REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1081,2,11:02,WAS,31.0,MIA,31.0,T. Bryant,MIA,Bryant 3' Running Alley Oop Dunk Shot (2 PTS) (Jaquez Jr. 2 AST),Made Shot,Running Alley Oop Dunk Shot,-1,25,3,1,2.0,2.0,v
+S2324-G1081,2,10:03,WAS,,MIA,,T. Bryant,MIA,Bryant OFF.Foul (P1) (M.Myers),Foul,Offensive,0,0,0,0,,,v
+S2324-G1081,2,10:03,WAS,,MIA,,T. Bryant,MIA,Bryant Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G1081,2,08:12,WAS,,MIA,,T. Bryant,MIA,Bryant REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1081,2,07:50,WAS,,MIA,,T. Bryant,MIA,Bryant BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G1081,2,07:44,WAS,,MIA,,T. Bryant,MIA,Bryant REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1081,2,07:16,WAS,,MIA,,T. Bryant,MIA,SUB: Adebayo FOR Bryant,Substitution,,0,0,0,0,,,v
+S2324-G1081,3,02:32,WAS,,MIA,,T. Bryant,MIA,Bryant OFF.Foul (P2) (M.Myers),Foul,Offensive,0,0,0,0,,,v
+S2324-G1081,3,02:32,WAS,,MIA,,T. Bryant,MIA,Bryant Offensive Foul Turnover (P2.T10),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G1081,3,02:16,WAS,,MIA,,T. Bryant,MIA,Bryant S.FOUL (P3.T3) (R.Acosta),Foul,Shooting,0,0,0,0,,,v
+S2324-G1081,3,02:03,WAS,76.0,MIA,93.0,T. Bryant,MIA,Bryant 3' Cutting Layup Shot (4 PTS) (Butler 4 AST),Made Shot,Cutting Layup Shot,-34,-3,3,1,2.0,2.0,v
+S2324-G1081,3,01:34,WAS,,MIA,,T. Bryant,MIA,MISS Bryant 2' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-4,21,2,1,2.0,0.0,v
+S2324-G1081,3,01:12,WAS,,MIA,,T. Bryant,MIA,SUB: Rozier FOR Bryant,Substitution,,0,0,0,0,,,v
+S2324-G0080,1,01:11,BOS,,MIA,,T. Bryant,MIA,Bryant REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0080,1,01:11,BOS,,MIA,,T. Bryant,MIA,MISS Bryant Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2324-G0080,2,11:35,BOS,25.0,MIA,30.0,T. Bryant,MIA,Bryant 4' Driving Dunk (2 PTS) (Smith 1 AST),Made Shot,Driving Dunk Shot,-10,40,4,1,2.0,2.0,v
+S2324-G0080,2,11:15,BOS,,MIA,,T. Bryant,MIA,Bryant REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0080,2,09:45,BOS,,MIA,,T. Bryant,MIA,MISS Bryant 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-108,253,28,1,3.0,0.0,v
+S2324-G0080,2,08:11,BOS,,MIA,,T. Bryant,MIA,SUB: Adebayo FOR Bryant,Substitution,,0,0,0,0,,,v
+S2324-G0080,3,02:43,BOS,,MIA,,T. Bryant,MIA,MISS Bryant 19' Jump Shot,Missed Shot,Jump Shot,60,185,19,1,2.0,0.0,v
+S2324-G0080,4,11:43,BOS,,MIA,,T. Bryant,MIA,Bryant BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0080,4,11:32,BOS,,MIA,,T. Bryant,MIA,MISS Bryant 15' Jump Shot,Missed Shot,Jump Shot,29,146,15,1,2.0,0.0,v
+S2324-G0080,4,11:15,BOS,,MIA,,T. Bryant,MIA,Bryant REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0080,4,10:10,BOS,,MIA,,T. Bryant,MIA,Bryant REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0080,4,10:05,BOS,,MIA,,T. Bryant,MIA,Bryant OFF.Foul (P1) (K.Scott),Foul,Offensive,0,0,0,0,,,v
+S2324-G0080,4,10:05,BOS,,MIA,,T. Bryant,MIA,Bryant Offensive Foul Turnover (P1.T12),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0080,4,09:27,BOS,,MIA,,T. Bryant,MIA,SUB: Adebayo FOR Bryant,Substitution,,0,0,0,0,,,v
+S2324-G0184,2,02:42,SAS,47.0,MIA,44.0,T. Bryant,MIA,Bryant 1' Reverse Layup (2 PTS) (Butler 2 AST),Made Shot,Reverse Layup Shot,-12,0,1,1,2.0,2.0,v
+S2324-G0184,2,01:37,SAS,,MIA,,T. Bryant,MIA,SUB: Adebayo FOR Bryant,Substitution,,0,0,0,0,,,v
+S2324-G1189,2,11:33,MIA,,TOR,,T. Bryant,MIA,Bryant REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1189,2,09:03,MIA,,TOR,,T. Bryant,MIA,Bryant S.FOUL (P1.T1) (J.Sterling),Foul,Shooting,0,0,0,0,,,h
+S2324-G1189,2,08:22,MIA,,TOR,,T. Bryant,MIA,Bryant REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1189,2,08:09,MIA,31.0,TOR,31.0,T. Bryant,MIA,Bryant 2' Hook Shot (2 PTS) (Wright 2 AST),Made Shot,Hook Shot,-5,21,2,1,2.0,2.0,h
+S2324-G1189,2,06:30,MIA,,TOR,,T. Bryant,MIA,Bryant BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G1189,2,06:00,MIA,,TOR,,T. Bryant,MIA,Bryant REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1189,2,05:50,MIA,,TOR,,T. Bryant,MIA,SUB: Martin FOR Bryant,Substitution,,0,0,0,0,,,h
+S2324-G1189,3,05:13,MIA,,TOR,,T. Bryant,MIA,Bryant Out of Bounds Lost Ball Turnover (P1.T14),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2324-G1189,3,03:48,MIA,,TOR,,T. Bryant,MIA,Bryant REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1189,3,03:44,MIA,81.0,TOR,66.0,T. Bryant,MIA,Bryant 2' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,5,17,2,1,2.0,2.0,h
+S2324-G1189,3,03:34,MIA,,TOR,,T. Bryant,MIA,Jump Ball Bryant vs. Agbaji: Tip to Jaquez Jr.,Jump Ball,,0,0,0,0,,,h
+S2324-G1189,3,02:36,MIA,,TOR,,T. Bryant,MIA,MISS Bryant 2' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-11,19,2,1,2.0,0.0,h
+S2324-G1189,3,02:35,MIA,,TOR,,T. Bryant,MIA,Bryant REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1189,3,02:34,MIA,85.0,TOR,66.0,T. Bryant,MIA,Bryant 2' Putback Layup (6 PTS),Made Shot,Putback Layup Shot,1,20,2,1,2.0,2.0,h
+S2324-G1189,3,02:34,MIA,86.0,TOR,66.0,T. Bryant,MIA,Bryant Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G1189,3,02:01,MIA,,TOR,,T. Bryant,MIA,Bryant REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1189,3,01:53,MIA,90.0,TOR,66.0,T. Bryant,MIA,Bryant 2' Cutting Layup Shot (9 PTS) (Herro 6 AST),Made Shot,Cutting Layup Shot,21,11,2,1,2.0,2.0,h
+S2324-G1189,3,01:53,MIA,91.0,TOR,66.0,T. Bryant,MIA,Bryant Free Throw 1 of 1 (10 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G1189,3,00:51.700000,MIA,,TOR,,T. Bryant,MIA,Bryant REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1189,3,00:14.700000,MIA,,TOR,,T. Bryant,MIA,Bryant Violation:Kicked Ball (M.Lindsay),Violation,Kicked Ball,0,0,0,0,,,h
+S2324-G1189,4,11:43,MIA,,TOR,,T. Bryant,MIA,Bryant Offensive Goaltending Turnover (P2.T15),Turnover,Offensive Goaltending,0,0,0,0,,,h
+S2324-G1189,4,09:56,MIA,99.0,TOR,71.0,T. Bryant,MIA,Bryant 1' Driving Dunk (12 PTS),Made Shot,Driving Dunk Shot,12,-4,1,1,2.0,2.0,h
+S2324-G1189,4,09:22,MIA,,TOR,,T. Bryant,MIA,Bryant REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1189,4,09:12,MIA,,TOR,,T. Bryant,MIA,MISS Bryant 26' 3PT Jump Shot,Missed Shot,Jump Shot,31,256,26,1,3.0,0.0,h
+S2324-G1189,4,04:17,MIA,110.0,TOR,88.0,T. Bryant,MIA,Bryant 1' Driving Layup (14 PTS),Made Shot,Driving Layup Shot,2,14,1,1,2.0,2.0,h
+S2324-G1189,4,03:14,MIA,114.0,TOR,91.0,T. Bryant,MIA,Bryant 1' Running Alley Oop Dunk Shot (16 PTS) (Highsmith 1 AST),Made Shot,Running Alley Oop Dunk Shot,-2,11,1,1,2.0,2.0,h
+S2324-G1189,4,02:14,MIA,,TOR,,T. Bryant,MIA,Bryant REBOUND (Off:2 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1189,4,02:01,MIA,,TOR,,T. Bryant,MIA,Bryant REBOUND (Off:3 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1189,4,02:01,MIA,116.0,TOR,93.0,T. Bryant,MIA,Bryant 2' Putback Dunk (18 PTS),Made Shot,Putback Dunk Shot,13,14,2,1,2.0,2.0,h
+S2324-G1189,4,01:53,MIA,,TOR,,T. Bryant,MIA,SUB: Cain FOR Bryant,Substitution,,0,0,0,0,,,h
+S2324-G0366,1,05:27,ORL,12.0,MIA,15.0,T. Bryant,MIA,Bryant 2' Dunk (2 PTS) (Herro 2 AST),Made Shot,Dunk Shot,5,18,2,1,2.0,2.0,v
+S2324-G0366,1,04:42,ORL,,MIA,,T. Bryant,MIA,Bryant REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0366,1,04:41,ORL,14.0,MIA,17.0,T. Bryant,MIA,Bryant 2' Tip Dunk Shot (4 PTS),Made Shot,Tip Dunk Shot,15,9,2,1,2.0,2.0,v
+S2324-G0366,1,04:00,ORL,,MIA,,T. Bryant,MIA,MISS Bryant 16' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,61,153,16,1,2.0,0.0,v
+S2324-G0366,1,02:19,ORL,,MIA,,T. Bryant,MIA,SUB: Adebayo FOR Bryant,Substitution,,0,0,0,0,,,v
+S2324-G0366,2,06:43,ORL,,MIA,,T. Bryant,MIA,Bryant REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0366,2,06:43,ORL,,MIA,,T. Bryant,MIA,Bryant Offensive Goaltending Turnover (P1.T3),Turnover,Offensive Goaltending,0,0,0,0,,,v
+S2324-G0366,2,06:28,ORL,36.0,MIA,38.0,T. Bryant,MIA,Bryant 2' Running Dunk (6 PTS) (Highsmith 1 AST),Made Shot,Running Dunk Shot,12,10,2,1,2.0,2.0,v
+S2324-G0366,2,03:16,ORL,,MIA,,T. Bryant,MIA,Bryant REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0366,2,02:28,ORL,,MIA,,T. Bryant,MIA,Bryant Bad Pass Turnover (P2.T4),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0366,2,01:37,ORL,42.0,MIA,60.0,T. Bryant,MIA,Bryant 6' Hook Shot (8 PTS) (Richardson 3 AST),Made Shot,Hook Shot,37,41,6,1,2.0,2.0,v
+S2324-G0366,3,02:54,ORL,,MIA,,T. Bryant,MIA,Bryant REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0366,3,02:54,ORL,,MIA,,T. Bryant,MIA,MISS Bryant 2' Putback Layup,Missed Shot,Putback Layup Shot,-12,14,2,1,2.0,0.0,v
+S2324-G0366,3,01:37,ORL,69.0,MIA,87.0,T. Bryant,MIA,Bryant 1' Cutting Dunk Shot (10 PTS) (D. Robinson 5 AST),Made Shot,Cutting Dunk Shot,-6,10,1,1,2.0,2.0,v
+S2324-G0366,4,06:16,ORL,,MIA,,T. Bryant,MIA,Bryant REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0366,4,05:14,ORL,85.0,MIA,107.0,T. Bryant,MIA,Bryant Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0366,4,05:14,ORL,85.0,MIA,108.0,T. Bryant,MIA,Bryant Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0366,4,04:30,ORL,,MIA,,T. Bryant,MIA,Bryant P.FOUL (P1.T4) (B.Nansel),Foul,Personal,0,0,0,0,,,v
+S2324-G0366,4,04:30,ORL,,MIA,,T. Bryant,MIA,SUB: Adebayo FOR Bryant,Substitution,,0,0,0,0,,,v
+S2324-G0977,1,03:15,DET,,MIA,,T. Bryant,MIA,MISS Bryant 17' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-31,164,17,1,2.0,0.0,v
+S2324-G0977,1,00:31.300000,DET,,MIA,,T. Bryant,MIA,Bryant REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0977,2,05:56,DET,,MIA,,T. Bryant,MIA,Bryant REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0977,2,05:32,DET,,MIA,,T. Bryant,MIA,Bryant REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0977,2,04:14,DET,38.0,MIA,41.0,T. Bryant,MIA,Bryant Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0977,2,04:14,DET,38.0,MIA,42.0,T. Bryant,MIA,Bryant Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0977,2,02:13,DET,,MIA,,T. Bryant,MIA,SUB: Adebayo FOR Bryant,Substitution,,0,0,0,0,,,v
+S2324-G0977,3,00:42.300000,DET,,MIA,,T. Bryant,MIA,Bryant S.FOUL (P1.T2) (N.Buchert),Foul,Shooting,0,0,0,0,,,v
+S2324-G0977,3,00:01.100000,DET,,MIA,,T. Bryant,MIA,Bryant REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0150,2,10:49,MIA,,LAL,,T. Bryant,MIA,Bryant REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0150,2,10:27,MIA,,LAL,,T. Bryant,MIA,Bryant REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0150,2,10:02,MIA,40.0,LAL,35.0,T. Bryant,MIA,Bryant Dunk (2 PTS) (D. Robinson 1 AST),Made Shot,Dunk Shot,-1,1,0,1,2.0,2.0,h
+S2324-G0150,2,09:49,MIA,,LAL,,T. Bryant,MIA,Bryant S.FOUL (P1.T1) (N.Sago),Foul,Shooting,0,0,0,0,,,h
+S2324-G0150,2,09:21,MIA,,LAL,,T. Bryant,MIA,Bryant REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0150,2,08:00,MIA,,LAL,,T. Bryant,MIA,Bryant BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0150,2,07:57,MIA,,LAL,,T. Bryant,MIA,Bryant REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0150,2,07:49,MIA,,LAL,,T. Bryant,MIA,SUB: Adebayo FOR Bryant,Substitution,,0,0,0,0,,,h
+S2324-G0150,4,11:38,MIA,,LAL,,T. Bryant,MIA,Bryant 3 Second Violation Turnover (P1.T10),Turnover,3 Second Violation,0,0,0,0,,,h
+S2324-G0150,4,10:09,MIA,,LAL,,T. Bryant,MIA,SUB: Adebayo FOR Bryant,Substitution,,0,0,0,0,,,h
+S2324-G0107,1,11:08,MIL,0.0,MIA,2.0,T. Bryant,MIA,Bryant 4' Cutting Dunk Shot (2 PTS) (Herro 1 AST),Made Shot,Cutting Dunk Shot,13,39,4,1,2.0,2.0,v
+S2324-G0107,1,09:46,MIL,5.0,MIA,7.0,T. Bryant,MIA,Bryant 4' Cutting Layup Shot (4 PTS) (Love 1 AST),Made Shot,Cutting Layup Shot,6,41,4,1,2.0,2.0,v
+S2324-G0107,1,09:17,MIL,,MIA,,T. Bryant,MIA,MISS Bryant 28' 3PT Jump Shot,Missed Shot,Jump Shot,66,269,28,1,3.0,0.0,v
+S2324-G0107,1,08:46,MIL,,MIA,,T. Bryant,MIA,MISS Bryant 10' Floating Jump Shot,Missed Shot,Floating Jump shot,7,101,10,1,2.0,0.0,v
+S2324-G0107,1,08:28,MIL,7.0,MIA,9.0,T. Bryant,MIA,Bryant 3' Layup (6 PTS) (Love 2 AST),Made Shot,Layup Shot,6,34,3,1,2.0,2.0,v
+S2324-G0107,1,06:02,MIL,15.0,MIA,14.0,T. Bryant,MIA,Bryant Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0107,1,06:02,MIL,15.0,MIA,15.0,T. Bryant,MIA,Bryant Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0107,1,03:36,MIL,,MIA,,T. Bryant,MIA,SUB: O. Robinson FOR Bryant,Substitution,,0,0,0,0,,,v
+S2324-G0107,2,05:34,MIL,,MIA,,T. Bryant,MIA,Bryant REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0107,2,02:52,MIL,,MIA,,T. Bryant,MIA,Bryant STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0107,2,00:35.600000,MIL,,MIA,,T. Bryant,MIA,Bryant REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0107,3,10:01,MIL,67.0,MIA,56.0,T. Bryant,MIA,Bryant 12' Jump Shot (10 PTS) (Lowry 2 AST),Made Shot,Jump Shot,-5,117,12,1,2.0,2.0,v
+S2324-G0107,3,09:24,MIL,,MIA,,T. Bryant,MIA,MISS Bryant 8' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,38,73,8,1,2.0,0.0,v
+S2324-G0107,3,09:19,MIL,,MIA,,T. Bryant,MIA,Bryant STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0107,3,08:11,MIL,,MIA,,T. Bryant,MIA,Bryant Lost Ball Turnover (P1.T10),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0107,3,06:57,MIL,,MIA,,T. Bryant,MIA,SUB: Jaquez Jr. FOR Bryant,Substitution,,0,0,0,0,,,v
+S2324-G0003,1,02:09,MIA,,WAS,,T. Bryant,MIA,MISS Bryant 8' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-5,76,8,1,2.0,0.0,h
+S2324-G0003,1,01:35,MIA,,WAS,,T. Bryant,MIA,Bryant REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0003,1,01:31,MIA,32.0,WAS,28.0,T. Bryant,MIA,Bryant 2' Putback Dunk (2 PTS),Made Shot,Putback Dunk Shot,10,15,2,1,2.0,2.0,h
+S2324-G0003,2,11:23,MIA,36.0,WAS,34.0,T. Bryant,MIA,Bryant 1' Dunk (4 PTS) (Herro 3 AST),Made Shot,Dunk Shot,-2,8,1,1,2.0,2.0,h
+S2324-G0003,2,11:06,MIA,,WAS,,T. Bryant,MIA,Bryant REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0003,2,10:04,MIA,,WAS,,T. Bryant,MIA,Bryant BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0003,2,08:45,MIA,,WAS,,T. Bryant,MIA,SUB: Adebayo FOR Bryant,Substitution,,0,0,0,0,,,h
+S2324-G0003,3,00:03.600000,MIA,,WAS,,T. Bryant,MIA,Bryant REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0003,3,00:03.500000,MIA,101.0,WAS,81.0,T. Bryant,MIA,Bryant Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0003,3,00:03.500000,MIA,,WAS,,T. Bryant,MIA,MISS Bryant Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0003,4,11:34,MIA,103.0,WAS,81.0,T. Bryant,MIA,Bryant 1' Driving Dunk (7 PTS) (Jaquez Jr. 3 AST),Made Shot,Driving Dunk Shot,0,6,1,1,2.0,2.0,h
+S2324-G0003,4,09:43,MIA,107.0,WAS,83.0,T. Bryant,MIA,Bryant 4' Turnaround Bank Hook Shot (9 PTS) (Richardson 4 AST),Made Shot,Turnaround Bank Hook Shot,23,31,4,1,2.0,2.0,h
+S2324-G0003,4,08:58,MIA,109.0,WAS,85.0,T. Bryant,MIA,Bryant 3' Hook Shot (11 PTS) (D. Robinson 6 AST),Made Shot,Hook Shot,17,21,3,1,2.0,2.0,h
+S2324-G0003,4,08:48,MIA,,WAS,,T. Bryant,MIA,Bryant S.FOUL (P1.T1) (Z.Zarba),Foul,Shooting,0,0,0,0,,,h
+S2324-G0003,4,08:38,MIA,,WAS,,T. Bryant,MIA,Bryant OFF.Foul (P2) (J.Conley),Foul,Offensive,0,0,0,0,,,h
+S2324-G0003,4,08:38,MIA,,WAS,,T. Bryant,MIA,Bryant Offensive Foul Turnover (P1.T13),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0003,4,08:28,MIA,,WAS,,T. Bryant,MIA,Bryant REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0003,4,06:15,MIA,,WAS,,T. Bryant,MIA,Bryant OFF.Foul (P3) (Z.Zarba),Foul,Offensive,0,0,0,0,,,h
+S2324-G0003,4,06:15,MIA,,WAS,,T. Bryant,MIA,Bryant Offensive Foul Turnover (P2.T14),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0003,4,06:08,MIA,,WAS,,T. Bryant,MIA,Bryant S.FOUL (P4.T3) (Z.Zarba),Foul,Shooting,0,0,0,0,,,h
+S2324-G0003,4,05:53,MIA,,WAS,,T. Bryant,MIA,MISS Bryant 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-39,15,4,1,2.0,0.0,h
+S2324-G0003,4,05:00,MIA,,WAS,,T. Bryant,MIA,SUB: Adebayo FOR Bryant,Substitution,,0,0,0,0,,,h
+S2324-G0458,2,02:57,LAC,,MIA,,T. Bryant,MIA,SUB: Adebayo FOR Bryant,Substitution,,0,0,0,0,,,v
+S2324-G0337,2,09:34,MIA,,CHI,,T. Bryant,MIA,MISS Bryant 20' Jump Shot,Missed Shot,Jump Shot,-24,197,20,1,2.0,0.0,h
+S2324-G0337,2,08:14,MIA,,CHI,,T. Bryant,MIA,Bryant BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0337,2,06:28,MIA,,CHI,,T. Bryant,MIA,Bryant S.FOUL (P1.T1) (P.Fraher),Foul,Shooting,0,0,0,0,,,h
+S2324-G0337,2,04:46,MIA,,CHI,,T. Bryant,MIA,Bryant REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0337,2,04:23,MIA,,CHI,,T. Bryant,MIA,Bryant REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0337,2,04:11,MIA,49.0,CHI,43.0,T. Bryant,MIA,Bryant 8' Jump Shot (2 PTS) (Lowry 6 AST),Made Shot,Jump Shot,-9,84,8,1,2.0,2.0,h
+S2324-G0337,2,03:51,MIA,,CHI,,T. Bryant,MIA,Bryant S.FOUL (P2.T3) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,h
+S2324-G0337,2,03:51,MIA,,CHI,,T. Bryant,MIA,SUB: Jaquez Jr. FOR Bryant,Substitution,,0,0,0,0,,,h
+S2324-G1029,2,10:27,MIA,,CLE,,T. Bryant,MIA,Bryant REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1029,2,08:41,MIA,,CLE,,T. Bryant,MIA,Bryant REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1029,2,08:31,MIA,,CLE,,T. Bryant,MIA,MISS Bryant 25' 3PT Jump Shot,Missed Shot,Jump Shot,-12,250,25,1,3.0,0.0,h
+S2324-G1029,2,07:50,MIA,45.0,CLE,28.0,T. Bryant,MIA,Bryant Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1029,2,07:50,MIA,46.0,CLE,28.0,T. Bryant,MIA,Bryant Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1029,2,07:31,MIA,,CLE,,T. Bryant,MIA,Bryant S.FOUL (P1.T2) (D.Collins),Foul,Shooting,0,0,0,0,,,h
+S2324-G1029,2,06:43,MIA,,CLE,,T. Bryant,MIA,SUB: Adebayo FOR Bryant,Substitution,,0,0,0,0,,,h
+S2324-G1029,3,00:29.900000,MIA,90.0,CLE,55.0,T. Bryant,MIA,Bryant 20' Jump Shot (4 PTS),Made Shot,Jump Shot,-196,6,20,1,2.0,2.0,h
+S2324-G1029,4,11:48,MIA,92.0,CLE,57.0,T. Bryant,MIA,Bryant 3' Cutting Layup Shot (6 PTS) (Martin 1 AST),Made Shot,Cutting Layup Shot,-29,18,3,1,2.0,2.0,h
+S2324-G1029,4,10:32,MIA,,CLE,,T. Bryant,MIA,Bryant S.FOUL (P2.T1) (J.DeRosa),Foul,Shooting,0,0,0,0,,,h
+S2324-G1029,4,09:20,MIA,,CLE,,T. Bryant,MIA,Bryant S.FOUL (P3.T2) (D.Collins),Foul,Shooting,0,0,0,0,,,h
+S2324-G1029,4,08:05,MIA,104.0,CLE,66.0,T. Bryant,MIA,Bryant 2' Layup (8 PTS) (Cain 1 AST),Made Shot,Layup Shot,-10,22,2,1,2.0,2.0,h
+S2324-G1029,4,07:17,MIA,,CLE,,T. Bryant,MIA,Bryant REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1029,4,07:17,MIA,105.0,CLE,69.0,T. Bryant,MIA,Bryant Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1029,4,07:17,MIA,106.0,CLE,69.0,T. Bryant,MIA,Bryant Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1029,4,07:02,MIA,,CLE,,T. Bryant,MIA,HEAT T.Foul (Def. 3 Sec Bryant ) (C.Blair),Foul,Defense 3 Second,0,0,0,0,,,h
+S2324-G1029,4,06:42,MIA,107.0,CLE,70.0,T. Bryant,MIA,Bryant Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1029,4,06:42,MIA,108.0,CLE,70.0,T. Bryant,MIA,Bryant Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1029,4,06:03,MIA,110.0,CLE,72.0,T. Bryant,MIA,Bryant 3' Driving Reverse Layup (14 PTS),Made Shot,Driving Reverse Layup Shot,21,17,3,1,2.0,2.0,h
+S2324-G1029,4,05:48,MIA,,CLE,,T. Bryant,MIA,Bryant STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1029,4,05:25,MIA,,CLE,,T. Bryant,MIA,Bryant S.FOUL (P4.T4) (J.DeRosa),Foul,Shooting,0,0,0,0,,,h
+S2324-G1029,4,04:55,MIA,,CLE,,T. Bryant,MIA,Bryant REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1029,4,04:46,MIA,,CLE,,T. Bryant,MIA,Bryant Offensive Charge Foul (P5) (J.DeRosa),Foul,Offensive Charge,0,0,0,0,,,h
+S2324-G1029,4,04:46,MIA,,CLE,,T. Bryant,MIA,Bryant Offensive Foul Turnover (P1.T8),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G1029,4,02:39,MIA,,CLE,,T. Bryant,MIA,MISS Bryant 25' 3PT Jump Shot,Missed Shot,Jump Shot,123,222,25,1,3.0,0.0,h
+S2324-G1029,4,00:23.300000,MIA,,CLE,,T. Bryant,MIA,Bryant REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1068,1,01:32,MIA,,POR,,T. Bryant,MIA,Bryant BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G1068,1,00:02.600000,MIA,,POR,,T. Bryant,MIA,Bryant REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1068,2,11:13,MIA,,POR,,T. Bryant,MIA,MISS Bryant 26' 3PT Jump Shot,Missed Shot,Jump Shot,81,247,26,1,3.0,0.0,h
+S2324-G1068,2,09:25,MIA,37.0,POR,19.0,T. Bryant,MIA,Bryant 14' Jump Shot (2 PTS) (Martin 1 AST),Made Shot,Jump Shot,136,17,14,1,2.0,2.0,h
+S2324-G1068,2,08:53,MIA,,POR,,T. Bryant,MIA,Bryant BLOCK (2 BLK),,,0,0,0,0,,,h
+S2324-G1068,2,08:46,MIA,42.0,POR,19.0,T. Bryant,MIA,Bryant 7' Running Layup (4 PTS) (Butler 5 AST),Made Shot,Running Layup Shot,31,66,7,1,2.0,2.0,h
+S2324-G1068,2,08:17,MIA,44.0,POR,22.0,T. Bryant,MIA,Bryant 4' Layup (6 PTS) (Martin 2 AST),Made Shot,Layup Shot,-16,41,4,1,2.0,2.0,h
+S2324-G1068,2,06:57,MIA,,POR,,T. Bryant,MIA,Bryant REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1068,2,06:51,MIA,,POR,,T. Bryant,MIA,MISS Bryant 6' Driving Dunk,Missed Shot,Driving Dunk Shot,13,63,6,1,2.0,0.0,h
+S2324-G1068,2,06:41,MIA,52.0,POR,25.0,T. Bryant,MIA,Bryant 1' Running Dunk (8 PTS) (Martin 3 AST),Made Shot,Running Dunk Shot,-2,6,1,1,2.0,2.0,h
+S2324-G1068,2,06:07,MIA,54.0,POR,28.0,T. Bryant,MIA,Bryant 3' Dunk (10 PTS) (Jaquez Jr. 2 AST),Made Shot,Dunk Shot,10,29,3,1,2.0,2.0,h
+S2324-G1068,2,05:37,MIA,,POR,,T. Bryant,MIA,SUB: Adebayo FOR Bryant,Substitution,,0,0,0,0,,,h
+S2324-G1068,4,10:13,MIA,,POR,,T. Bryant,MIA,Bryant REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1068,4,09:11,MIA,,POR,,T. Bryant,MIA,Bryant REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1068,4,09:11,MIA,110.0,POR,67.0,T. Bryant,MIA,Bryant Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1068,4,09:11,MIA,111.0,POR,67.0,T. Bryant,MIA,Bryant Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1068,4,09:00,MIA,,POR,,T. Bryant,MIA,Bryant REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1068,4,08:39,MIA,114.0,POR,67.0,T. Bryant,MIA,Bryant 26' 3PT Jump Shot (15 PTS) (Cain 1 AST),Made Shot,Jump Shot,62,253,26,1,3.0,3.0,h
+S2324-G1068,4,08:35,MIA,,POR,,T. Bryant,MIA,Bryant STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1068,4,08:17,MIA,116.0,POR,67.0,T. Bryant,MIA,Bryant 4' Driving Reverse Layup (17 PTS),Made Shot,Driving Reverse Layup Shot,13,34,4,1,2.0,2.0,h
+S2324-G1068,4,07:29,MIA,,POR,,T. Bryant,MIA,Bryant REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1068,4,07:22,MIA,,POR,,T. Bryant,MIA,MISS Bryant 13' Jump Shot,Missed Shot,Jump Shot,104,70,13,1,2.0,0.0,h
+S2324-G1068,4,07:05,MIA,,POR,,T. Bryant,MIA,Bryant REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1068,4,06:47,MIA,,POR,,T. Bryant,MIA,Bryant REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1068,4,06:46,MIA,,POR,,T. Bryant,MIA,MISS Bryant 4' Putback Layup,Missed Shot,Putback Layup Shot,25,33,4,1,2.0,0.0,h
+S2324-G1068,4,06:45,MIA,,POR,,T. Bryant,MIA,Bryant REBOUND (Off:4 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1068,4,06:43,MIA,,POR,,T. Bryant,MIA,MISS Bryant 4' Tip Layup Shot,Missed Shot,Tip Layup Shot,-17,32,4,1,2.0,0.0,h
+S2324-G1068,4,06:42,MIA,,POR,,T. Bryant,MIA,Bryant REBOUND (Off:5 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1068,4,06:41,MIA,118.0,POR,71.0,T. Bryant,MIA,Bryant 4' Tip Layup Shot (19 PTS),Made Shot,Tip Layup Shot,16,33,4,1,2.0,2.0,h
+S2324-G1068,4,03:26,MIA,,POR,,T. Bryant,MIA,Bryant REBOUND (Off:6 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1068,4,03:26,MIA,130.0,POR,76.0,T. Bryant,MIA,Bryant Tip Dunk Shot (21 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,h
+S2324-G1068,4,03:04,MIA,,POR,,T. Bryant,MIA,MISS Bryant Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G1068,4,03:04,MIA,131.0,POR,78.0,T. Bryant,MIA,Bryant Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1068,4,02:47,MIA,,POR,,T. Bryant,MIA,Bryant REBOUND (Off:6 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1068,4,02:29,MIA,,POR,,T. Bryant,MIA,Bryant STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G1068,4,02:21,MIA,135.0,POR,78.0,T. Bryant,MIA,Bryant 3' Dunk (24 PTS) (Cain 2 AST),Made Shot,Dunk Shot,-26,23,3,1,2.0,2.0,h
+S2324-G1068,4,02:00,MIA,137.0,POR,78.0,T. Bryant,MIA,Bryant 3' Running Alley Oop Dunk Shot (26 PTS) (Cain 3 AST),Made Shot,Running Alley Oop Dunk Shot,5,32,3,1,2.0,2.0,h
+S2324-G1068,4,01:31,MIA,,POR,,T. Bryant,MIA,MISS Bryant 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-80,254,27,1,3.0,0.0,h
+S2324-G0229,1,11:39,CLE,,MIA,,T. Bryant,MIA,Bryant REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0229,1,10:32,CLE,,MIA,,T. Bryant,MIA,Bryant REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0229,1,09:31,CLE,2.0,MIA,11.0,T. Bryant,MIA,Bryant 1' Cutting Dunk Shot (2 PTS) (Butler 2 AST),Made Shot,Cutting Dunk Shot,4,9,1,1,2.0,2.0,v
+S2324-G0229,1,08:49,CLE,2.0,MIA,12.0,T. Bryant,MIA,Bryant Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0229,1,08:49,CLE,2.0,MIA,13.0,T. Bryant,MIA,Bryant Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0229,1,08:22,CLE,,MIA,,T. Bryant,MIA,Bryant REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0229,1,07:16,CLE,,MIA,,T. Bryant,MIA,Bryant STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0229,1,06:26,CLE,,MIA,,T. Bryant,MIA,Bryant BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0229,1,05:47,CLE,,MIA,,T. Bryant,MIA,Bryant S.FOUL (P1.T4) (J.DeRosa),Foul,Shooting,0,0,0,0,,,v
+S2324-G0229,1,05:17,CLE,,MIA,,T. Bryant,MIA,SUB: O. Robinson FOR Bryant,Substitution,,0,0,0,0,,,v
+S2324-G0229,2,03:40,CLE,,MIA,,T. Bryant,MIA,Bryant P.FOUL (P2.T4) (B.Adair),Foul,Personal,0,0,0,0,,,v
+S2324-G0229,2,03:15,CLE,46.0,MIA,62.0,T. Bryant,MIA,Bryant 5' Hook Shot (6 PTS),Made Shot,Hook Shot,26,40,5,1,2.0,2.0,v
+S2324-G0229,2,01:17,CLE,,MIA,,T. Bryant,MIA,MISS Bryant 2' Dunk,Missed Shot,Dunk Shot,1,15,2,1,2.0,0.0,v
+S2324-G0229,2,01:16,CLE,,MIA,,T. Bryant,MIA,Bryant REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0229,2,01:15,CLE,50.0,MIA,69.0,T. Bryant,MIA,Bryant Putback Layup (8 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,v
+S2324-G0229,2,00:36.300000,CLE,,MIA,,T. Bryant,MIA,MISS Bryant 7' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-72,19,7,1,2.0,0.0,v
+S2324-G0229,3,11:27,CLE,,MIA,,T. Bryant,MIA,Bryant REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0229,3,10:41,CLE,,MIA,,T. Bryant,MIA,Bryant REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0229,3,09:11,CLE,,MIA,,T. Bryant,MIA,MISS Bryant 13' Jump Shot,Missed Shot,Jump Shot,10,125,13,1,2.0,0.0,v
+S2324-G0229,3,08:33,CLE,59.0,MIA,77.0,T. Bryant,MIA,Bryant 7' Hook Shot (10 PTS) (D. Robinson 2 AST),Made Shot,Hook Shot,6,69,7,1,2.0,2.0,v
+S2324-G0229,3,06:38,CLE,,MIA,,T. Bryant,MIA,Bryant P.FOUL (P3.T1) (G.Petraitis),Foul,Personal,0,0,0,0,,,v
+S2324-G0229,3,06:25,CLE,,MIA,,T. Bryant,MIA,Bryant REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0229,3,05:01,CLE,,MIA,,T. Bryant,MIA,MISS Bryant 7' Hook Shot,Missed Shot,Hook Shot,23,62,7,1,2.0,0.0,v
+S2324-G0229,3,03:38,CLE,,MIA,,T. Bryant,MIA,SUB: O. Robinson FOR Bryant,Substitution,,0,0,0,0,,,v
+S2324-G0985,1,02:11,PHI,,MIA,,T. Bryant,MIA,MISS Bryant 5' Layup,Missed Shot,Layup Shot,-36,31,5,1,2.0,0.0,v
+S2324-G0985,2,11:24,PHI,,MIA,,T. Bryant,MIA,Bryant STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0985,2,10:16,PHI,31.0,MIA,30.0,T. Bryant,MIA,Bryant 1' Alley Oop Dunk (2 PTS) (Jaquez Jr. 2 AST),Made Shot,Alley Oop Dunk Shot,6,7,1,1,2.0,2.0,v
+S2324-G0985,2,09:59,PHI,,MIA,,T. Bryant,MIA,Bryant BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0985,2,09:43,PHI,,MIA,,T. Bryant,MIA,MISS Bryant 3' Driving Hook Shot,Missed Shot,Driving Hook Shot,-13,27,3,1,2.0,0.0,v
+S2324-G0985,2,09:28,PHI,,MIA,,T. Bryant,MIA,Bryant REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0985,2,09:22,PHI,,MIA,,T. Bryant,MIA,MISS Bryant 5' Driving Layup,Missed Shot,Driving Layup Shot,50,21,5,1,2.0,0.0,v
+S2324-G0985,2,08:25,PHI,33.0,MIA,32.0,T. Bryant,MIA,Bryant Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0985,2,08:25,PHI,33.0,MIA,33.0,T. Bryant,MIA,Bryant Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0985,2,06:51,PHI,,MIA,,T. Bryant,MIA,SUB: Adebayo FOR Bryant,Substitution,,0,0,0,0,,,v
+S2324-G0985,3,00:44.300000,PHI,,MIA,,T. Bryant,MIA,Bryant S.FOUL (P1.T4) (S.Wright),Foul,Shooting,0,0,0,0,,,v
+S2324-G0985,3,00:31.200000,PHI,,MIA,,T. Bryant,MIA,Bryant REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0985,3,00:30.100000,PHI,,MIA,,T. Bryant,MIA,MISS Bryant 1' Layup,Missed Shot,Layup Shot,-5,1,1,1,2.0,0.0,v
+S2324-G0985,3,00:22,PHI,79.0,MIA,65.0,T. Bryant,MIA,Bryant Running Dunk (6 PTS) (Martin 1 AST),Made Shot,Running Dunk Shot,-2,-2,0,1,2.0,2.0,v
+S2324-G0985,4,11:15,PHI,79.0,MIA,68.0,T. Bryant,MIA,Bryant 27' 3PT Jump Shot (9 PTS) (Mills 2 AST),Made Shot,Jump Shot,-152,222,27,1,3.0,3.0,v
+S2324-G0985,4,08:44,PHI,81.0,MIA,74.0,T. Bryant,MIA,Bryant 7' Floating Jump Shot (11 PTS) (Mills 3 AST),Made Shot,Floating Jump shot,7,71,7,1,2.0,2.0,v
+S2324-G0985,4,05:55,PHI,,MIA,,T. Bryant,MIA,MISS Bryant Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,4,-1,0,1,2.0,0.0,v
+S2324-G0985,4,05:39,PHI,,MIA,,T. Bryant,MIA,SUB: Adebayo FOR Bryant,Substitution,,0,0,0,0,,,v
+S2324-G1044,2,11:22,MIA,,GSW,,T. Bryant,MIA,MISS Bryant 26' 3PT Jump Shot,Missed Shot,Jump Shot,-33,253,26,1,3.0,0.0,h
+S2324-G1044,2,11:10,MIA,,GSW,,T. Bryant,MIA,Bryant REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1044,2,07:22,MIA,,GSW,,T. Bryant,MIA,Bryant REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1044,2,06:53,MIA,,GSW,,T. Bryant,MIA,Bryant REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1044,2,06:43,MIA,,GSW,,T. Bryant,MIA,Bryant 3 Second Violation Turnover (P1.T3),Turnover,3 Second Violation,0,0,0,0,,,h
+S2324-G1044,2,06:43,MIA,,GSW,,T. Bryant,MIA,SUB: Rozier FOR Bryant,Substitution,,0,0,0,0,,,h
+S2324-G1044,3,03:10,MIA,,GSW,,T. Bryant,MIA,Bryant S.FOUL (P1.T3) (A.Nagy),Foul,Shooting,0,0,0,0,,,h
+S2324-G1044,3,02:46,MIA,,GSW,,T. Bryant,MIA,MISS Bryant 25' 3PT Jump Shot,Missed Shot,Jump Shot,-218,132,25,1,3.0,0.0,h
+S2324-G1044,3,02:27,MIA,,GSW,,T. Bryant,MIA,MISS Bryant 3' Layup,Missed Shot,Layup Shot,27,17,3,1,2.0,0.0,h
+S2324-G1044,3,01:25,MIA,,GSW,,T. Bryant,MIA,SUB: Adebayo FOR Bryant,Substitution,,0,0,0,0,,,h
+S2324-G1013,2,06:47,MIA,,NOP,,T. Bryant,MIA,Bryant REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1013,2,06:32,MIA,,NOP,,T. Bryant,MIA,Bryant S.FOUL (P1.T1) (S.Foster),Foul,Shooting,0,0,0,0,,,h
+S2324-G1013,2,03:58,MIA,,NOP,,T. Bryant,MIA,SUB: Rozier FOR Bryant,Substitution,,0,0,0,0,,,h
+S2324-G1013,3,05:16,MIA,,NOP,,T. Bryant,MIA,Bryant REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1013,3,03:06,MIA,58.0,NOP,66.0,T. Bryant,MIA,Bryant 25' 3PT Jump Shot (3 PTS) (Butler 2 AST),Made Shot,Jump Shot,239,62,25,1,3.0,3.0,h
+S2324-G1013,3,01:42,MIA,61.0,NOP,71.0,T. Bryant,MIA,Bryant 3PT Jump Shot (6 PTS) (Butler 3 AST),Made Shot,Jump Shot,-229,37,0,1,3.0,3.0,h
+S2324-G1013,3,01:15,MIA,,NOP,,T. Bryant,MIA,Bryant BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G1013,3,01:10,MIA,,NOP,,T. Bryant,MIA,Bryant REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1013,3,00:26.300000,MIA,65.0,NOP,73.0,T. Bryant,MIA,Bryant Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1013,3,00:26.300000,MIA,66.0,NOP,73.0,T. Bryant,MIA,Bryant Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1013,4,11:07,MIA,,NOP,,T. Bryant,MIA,SUB: Adebayo FOR Bryant,Substitution,,0,0,0,0,,,h
+S2324-G0068,1,01:44,MIA,,DET,,T. Bryant,MIA,MISS Bryant 3' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-22,13,3,1,2.0,0.0,h
+S2324-G0068,1,00:58.100000,MIA,,DET,,T. Bryant,MIA,MISS Bryant 16' Jump Shot,Missed Shot,Jump Shot,-6,163,16,1,2.0,0.0,h
+S2324-G0068,2,09:39,MIA,,DET,,T. Bryant,MIA,Bryant REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0068,2,09:39,MIA,,DET,,T. Bryant,MIA,MISS Bryant Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0068,2,09:39,MIA,34.0,DET,30.0,T. Bryant,MIA,Bryant Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0068,2,09:12,MIA,,DET,,T. Bryant,MIA,Bryant REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0068,2,08:35,MIA,38.0,DET,30.0,T. Bryant,MIA,Bryant 9' Fadeaway Jumper (3 PTS) (Jaquez Jr. 1 AST),Made Shot,Fadeaway Jump Shot,-71,50,9,1,2.0,2.0,h
+S2324-G0068,2,08:35,MIA,39.0,DET,30.0,T. Bryant,MIA,Bryant Free Throw 1 of 1 (4 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G0068,2,08:02,MIA,,DET,,T. Bryant,MIA,Bryant 3 Second Violation Turnover (P1.T2),Turnover,3 Second Violation,0,0,0,0,,,h
+S2324-G0068,2,06:36,MIA,,DET,,T. Bryant,MIA,SUB: Adebayo FOR Bryant,Substitution,,0,0,0,0,,,h
+S2324-G0068,2,00:06.700000,MIA,,DET,,T. Bryant,MIA,SUB: D. Robinson FOR Bryant,Substitution,,0,0,0,0,,,h
+S2324-G0068,3,00:31.900000,MIA,,DET,,T. Bryant,MIA,Bryant REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0068,3,00:31.900000,MIA,82.0,DET,75.0,T. Bryant,MIA,Bryant Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0068,3,00:31.900000,MIA,83.0,DET,75.0,T. Bryant,MIA,Bryant Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0068,4,11:42,MIA,,DET,,T. Bryant,MIA,Bryant REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0068,4,11:07,MIA,,DET,,T. Bryant,MIA,Bryant REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0068,4,10:53,MIA,,DET,,T. Bryant,MIA,MISS Bryant 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,21,26,3,1,2.0,0.0,h
+S2324-G0068,4,09:51,MIA,,DET,,T. Bryant,MIA,Bryant REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0068,4,09:40,MIA,92.0,DET,75.0,T. Bryant,MIA,Bryant 1' Cutting Dunk Shot (8 PTS) (D. Robinson 1 AST),Made Shot,Cutting Dunk Shot,7,5,1,1,2.0,2.0,h
+S2324-G0068,4,09:31,MIA,,DET,,T. Bryant,MIA,Bryant STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0068,4,08:12,MIA,,DET,,T. Bryant,MIA,SUB: Butler FOR Bryant,Substitution,,0,0,0,0,,,h
+S2324-G0678,1,08:41,MIA,,SAC,,T. Bryant,MIA,Bryant REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0678,1,06:03,MIA,,SAC,,T. Bryant,MIA,SUB: Jaquez Jr. FOR Bryant,Substitution,,0,0,0,0,,,h
+S2324-G0320,1,01:05,MIA,,CHI,,T. Bryant,MIA,Bryant REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0320,1,00:49.600000,MIA,,CHI,,T. Bryant,MIA,Jump Ball Bryant vs. Dosunmu: Tip to D. Robinson,Jump Ball,,0,0,0,0,,,h
+S2324-G0320,1,00:22.400000,MIA,22.0,CHI,36.0,T. Bryant,MIA,Bryant 1' Cutting Dunk Shot (2 PTS) (D. Robinson 2 AST),Made Shot,Cutting Dunk Shot,-4,13,1,1,2.0,2.0,h
+S2324-G0320,1,00:00.400000,MIA,,CHI,,T. Bryant,MIA,Bryant REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0320,2,10:04,MIA,,CHI,,T. Bryant,MIA,SUB: O. Robinson FOR Bryant,Substitution,,0,0,0,0,,,h
+S2324-G0320,4,08:18,MIA,97.0,CHI,101.0,T. Bryant,MIA,Bryant 3' Turnaround Hook Shot (4 PTS),Made Shot,Turnaround Hook Shot,28,6,3,1,2.0,2.0,h
+S2324-G0320,4,07:36,MIA,98.0,CHI,103.0,T. Bryant,MIA,Bryant Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0320,4,07:36,MIA,99.0,CHI,103.0,T. Bryant,MIA,Bryant Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0320,4,06:59,MIA,,CHI,,T. Bryant,MIA,HEAT T.Foul (Def. 3 Sec Bryant ) (D.Mosher),Foul,Defense 3 Second,0,0,0,0,,,h
+S2324-G0320,4,06:02,MIA,,CHI,,T. Bryant,MIA,Bryant S.FOUL (P1.T3) (D.Mosher),Foul,Shooting,0,0,0,0,,,h
+S2324-G0320,4,06:02,MIA,,CHI,,T. Bryant,MIA,SUB: Love FOR Bryant,Substitution,,0,0,0,0,,,h

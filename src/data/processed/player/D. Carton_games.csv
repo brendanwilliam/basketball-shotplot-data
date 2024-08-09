@@ -1,0 +1,27 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2324-G0860,3,02:33,TOR,78.0,GSW,86.0,D. Carton,TOR,Carton Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0860,3,02:33,TOR,79.0,GSW,86.0,D. Carton,TOR,Carton Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0860,4,11:19,TOR,89.0,GSW,94.0,D. Carton,TOR,Carton 3PT Jump Shot (5 PTS) (Poeltl 2 AST),Made Shot,Jump Shot,224,39,0,1,3.0,3.0,h
+S2324-G0860,4,09:58,TOR,,GSW,,D. Carton,TOR,MISS Carton 26' 3PT Jump Shot,Missed Shot,Jump Shot,157,211,26,1,3.0,0.0,h
+S2324-G0860,4,09:21,TOR,,GSW,,D. Carton,TOR,SUB: Barrett FOR Carton,Substitution,,0,0,0,0,,,h
+S2324-G0890,2,11:27,TOR,,NOP,,D. Carton,TOR,MISS Carton 3' Cutting Finger Roll Layup Shot,Missed Shot,Cutting Finger Roll Layup Shot,27,-2,3,1,2.0,0.0,h
+S2324-G0890,2,10:55,TOR,,NOP,,D. Carton,TOR,Carton STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0890,2,09:28,TOR,,NOP,,D. Carton,TOR,SUB: Trent Jr. FOR Carton,Substitution,,0,0,0,0,,,h
+S2324-G0890,4,04:43,TOR,,NOP,,D. Carton,TOR,MISS Carton 3PT Jump Shot,Missed Shot,Jump Shot,225,-8,0,1,3.0,0.0,h
+S2324-G0890,4,03:23,TOR,,NOP,,D. Carton,TOR,MISS Carton Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0890,4,03:23,TOR,89.0,NOP,127.0,D. Carton,TOR,Carton Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0890,4,01:46,TOR,,NOP,,D. Carton,TOR,Carton REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0890,4,00:57,TOR,,NOP,,D. Carton,TOR,Carton REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0795,4,02:41,TOR,,BKN,,D. Carton,TOR,Carton P.FOUL (P1.PN) (K.Cutler),Foul,Personal,0,0,0,0,,,h
+S2324-G0795,4,02:32,TOR,118.0,BKN,85.0,D. Carton,TOR,Carton 10' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,-54,79,10,1,2.0,2.0,h
+S2324-G0795,4,02:32,TOR,119.0,BKN,85.0,D. Carton,TOR,Carton Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G0795,4,00:50.900000,TOR,,BKN,,D. Carton,TOR,Carton REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0795,4,00:35,TOR,,BKN,,D. Carton,TOR,Carton P.FOUL (P2.PN) (S.Twardoski),Foul,Personal,0,0,0,0,,,h
+S2324-G0875,1,00:24,TOR,,CHA,,D. Carton,TOR,Carton Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0875,1,00:03.500000,TOR,,CHA,,D. Carton,TOR,MISS Carton 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-62,-1,6,1,2.0,0.0,h
+S2324-G0875,2,11:25,TOR,,CHA,,D. Carton,TOR,MISS Carton 24' 3PT Jump Shot,Missed Shot,Jump Shot,243,-6,24,1,3.0,0.0,h
+S2324-G0875,2,09:33,TOR,33.0,CHA,34.0,D. Carton,TOR,Carton 1' Layup (2 PTS) (Olynyk 1 AST),Made Shot,Layup Shot,-6,9,1,1,2.0,2.0,h
+S2324-G0875,2,08:32,TOR,,CHA,,D. Carton,TOR,SUB: Trent Jr. FOR Carton,Substitution,,0,0,0,0,,,h
+S2324-G0875,4,09:13,TOR,,CHA,,D. Carton,TOR,Carton REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0875,4,08:17,TOR,,CHA,,D. Carton,TOR,Carton P.FOUL (P1.T1) (M.Lindsay),Foul,Personal,0,0,0,0,,,h
+S2324-G0875,4,08:17,TOR,,CHA,,D. Carton,TOR,SUB: Quickley FOR Carton,Substitution,,0,0,0,0,,,h

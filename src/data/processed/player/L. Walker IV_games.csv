@@ -1,0 +1,978 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2324-G1066,1,02:29,BKN,,CHI,,L. Walker IV,BKN,Walker IV P.FOUL (P1.PN) (M.Boland),Foul,Personal,0,0,0,0,,,h
+S2324-G1066,1,00:06.500000,BKN,,CHI,,L. Walker IV,BKN,MISS Walker IV 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-64,243,25,1,3.0,0.0,h
+S2324-G1066,2,09:42,BKN,,CHI,,L. Walker IV,BKN,SUB: Bridges FOR Walker IV,Substitution,,0,0,0,0,,,h
+S2324-G1066,4,00:44.400000,BKN,125.0,CHI,108.0,L. Walker IV,BKN,Walker IV 26' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,80,243,26,1,3.0,3.0,h
+S2324-G0677,1,05:48,BKN,17.0,PHX,14.0,L. Walker IV,BKN,Walker IV 13' Pullup Jump Shot (2 PTS) (Watford 1 AST),Made Shot,Pullup Jump shot,126,21,13,1,2.0,2.0,h
+S2324-G0677,1,04:51,BKN,,PHX,,L. Walker IV,BKN,MISS Walker IV 26' 3PT Jump Shot,Missed Shot,Jump Shot,-167,196,26,1,3.0,0.0,h
+S2324-G0677,1,04:41,BKN,,PHX,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0677,1,03:31,BKN,,PHX,,L. Walker IV,BKN,Walker IV REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0677,1,02:24,BKN,,PHX,,L. Walker IV,BKN,Walker IV STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0677,1,01:42,BKN,,PHX,,L. Walker IV,BKN,MISS Walker IV 17' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-7,174,17,1,2.0,0.0,h
+S2324-G0677,2,11:44,BKN,,PHX,,L. Walker IV,BKN,MISS Walker IV 3' Driving Layup,Missed Shot,Driving Layup Shot,-27,18,3,1,2.0,0.0,h
+S2324-G0677,2,10:21,BKN,,PHX,,L. Walker IV,BKN,MISS Walker IV 2' Driving Layup,Missed Shot,Driving Layup Shot,23,2,2,1,2.0,0.0,h
+S2324-G0677,2,06:24,BKN,43.0,PHX,47.0,L. Walker IV,BKN,Walker IV 26' 3PT Running Jump Shot (5 PTS) (Claxton 2 AST),Made Shot,Running Jump Shot,-157,201,26,1,3.0,3.0,h
+S2324-G0677,2,05:50,BKN,,PHX,,L. Walker IV,BKN,SUB: Thomas FOR Walker IV,Substitution,,0,0,0,0,,,h
+S2324-G0677,3,04:49,BKN,,PHX,,L. Walker IV,BKN,MISS Walker IV 3' Driving Layup,Missed Shot,Driving Layup Shot,31,16,3,1,2.0,0.0,h
+S2324-G0677,3,03:24,BKN,,PHX,,L. Walker IV,BKN,MISS Walker IV 25' 3PT Jump Shot,Missed Shot,Jump Shot,118,221,25,1,3.0,0.0,h
+S2324-G0677,3,03:09,BKN,,PHX,,L. Walker IV,BKN,Walker IV Out of Bounds - Bad Pass Turnover Turnover (P1.T7),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G0677,3,01:26,BKN,,PHX,,L. Walker IV,BKN,Walker IV S.FOUL (P1.PN) (B.Barnaky),Foul,Shooting,0,0,0,0,,,h
+S2324-G0677,4,09:58,BKN,,PHX,,L. Walker IV,BKN,MISS Walker IV 25' 3PT Jump Shot,Missed Shot,Jump Shot,153,197,25,1,3.0,0.0,h
+S2324-G0677,4,09:53,BKN,90.0,PHX,108.0,L. Walker IV,BKN,Walker IV 25' 3PT Pullup Jump Shot (8 PTS) (Bridges 1 AST),Made Shot,Pullup Jump shot,135,216,25,1,3.0,3.0,h
+S2324-G0677,4,08:32,BKN,,PHX,,L. Walker IV,BKN,Walker IV STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0677,4,07:55,BKN,,PHX,,L. Walker IV,BKN,MISS Walker IV 26' 3PT Jump Shot,Missed Shot,Jump Shot,134,222,26,1,3.0,0.0,h
+S2324-G0677,4,07:22,BKN,,PHX,,L. Walker IV,BKN,Walker IV REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0677,4,07:18,BKN,99.0,PHX,113.0,L. Walker IV,BKN,Walker IV Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0677,4,07:18,BKN,100.0,PHX,113.0,L. Walker IV,BKN,Walker IV Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0677,4,07:03,BKN,,PHX,,L. Walker IV,BKN,Walker IV P.FOUL (P2.T2) (B.Barnaky),Foul,Personal,0,0,0,0,,,h
+S2324-G0677,4,06:59,BKN,,PHX,,L. Walker IV,BKN,Walker IV S.FOUL (P3.T3) (B.Barnaky),Foul,Shooting,0,0,0,0,,,h
+S2324-G0677,4,06:30,BKN,,PHX,,L. Walker IV,BKN,Walker IV STEAL (3 STL),,,0,0,0,0,,,h
+S2324-G0677,4,06:25,BKN,103.0,PHX,115.0,L. Walker IV,BKN,Walker IV 25' 3PT Running Pull-Up Jump Shot (13 PTS),Made Shot,Running Pull-Up Jump Shot,96,234,25,1,3.0,3.0,h
+S2324-G0677,4,06:05,BKN,,PHX,,L. Walker IV,BKN,Walker IV Out of Bounds - Bad Pass Turnover Turnover (P2.T11),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G0677,4,06:03,BKN,,PHX,,L. Walker IV,BKN,Walker IV P.FOUL (P4.T4) (K.Lane),Foul,Personal,0,0,0,0,,,h
+S2324-G0677,4,03:56,BKN,111.0,PHX,122.0,L. Walker IV,BKN,Walker IV 4' Driving Layup (15 PTS),Made Shot,Driving Layup Shot,40,17,4,1,2.0,2.0,h
+S2324-G0677,4,03:05,BKN,115.0,PHX,126.0,L. Walker IV,BKN,Walker IV 3' Driving Layup (17 PTS),Made Shot,Driving Layup Shot,23,10,3,1,2.0,2.0,h
+S2324-G0677,4,02:03,BKN,,PHX,,L. Walker IV,BKN,Walker IV STEAL (4 STL),,,0,0,0,0,,,h
+S2324-G0677,4,01:02,BKN,,PHX,,L. Walker IV,BKN,MISS Walker IV 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-18,251,25,1,3.0,0.0,h
+S2324-G0677,4,00:27.800000,BKN,120.0,PHX,136.0,L. Walker IV,BKN,Walker IV 2' Driving Finger Roll Layup (19 PTS),Made Shot,Driving Finger Roll Layup Shot,-17,11,2,1,2.0,2.0,h
+S2324-G0227,1,03:52,ATL,,BKN,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0227,1,03:44,ATL,,BKN,,L. Walker IV,BKN,MISS Walker IV 3' Driving Layup,Missed Shot,Driving Layup Shot,17,26,3,1,2.0,0.0,v
+S2324-G0227,1,03:11,ATL,,BKN,,L. Walker IV,BKN,Walker IV Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0227,1,03:07,ATL,,BKN,,L. Walker IV,BKN,Walker IV S.FOUL (P1.T4) (P.Ransom),Foul,Shooting,0,0,0,0,,,v
+S2324-G0227,1,02:19,ATL,,BKN,,L. Walker IV,BKN,MISS Walker IV 3PT Jump Shot,Missed Shot,Jump Shot,-234,-15,0,1,3.0,0.0,v
+S2324-G0227,1,01:35,ATL,36.0,BKN,27.0,L. Walker IV,BKN,Walker IV 1' Driving Layup (2 PTS) (Claxton 2 AST),Made Shot,Driving Layup Shot,1,13,1,1,2.0,2.0,v
+S2324-G0227,1,01:35,ATL,,BKN,,L. Walker IV,BKN,MISS Walker IV Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2324-G0227,2,11:11,ATL,48.0,BKN,36.0,L. Walker IV,BKN,Walker IV 3PT Jump Shot (5 PTS) (Dinwiddie 3 AST),Made Shot,Jump Shot,225,-17,0,1,3.0,3.0,v
+S2324-G0227,2,09:57,ATL,,BKN,,L. Walker IV,BKN,MISS Walker IV 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,129,226,26,1,3.0,0.0,v
+S2324-G0227,2,09:03,ATL,52.0,BKN,43.0,L. Walker IV,BKN,Walker IV 3PT Jump Shot (8 PTS) (Dinwiddie 4 AST),Made Shot,Jump Shot,-229,-4,0,1,3.0,3.0,v
+S2324-G0227,2,07:44,ATL,,BKN,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0227,2,06:48,ATL,,BKN,,L. Walker IV,BKN,SUB: Finney-Smith FOR Walker IV,Substitution,,0,0,0,0,,,v
+S2324-G0227,4,10:06,ATL,,BKN,,L. Walker IV,BKN,MISS Walker IV 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,96,122,16,1,2.0,0.0,v
+S2324-G0227,4,06:21,ATL,,BKN,,L. Walker IV,BKN,Walker IV BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0227,4,06:20,ATL,,BKN,,L. Walker IV,BKN,SUB: Claxton FOR Walker IV,Substitution,,0,0,0,0,,,v
+S2324-G0227,4,00:03.300000,ATL,,BKN,,L. Walker IV,BKN,SUB: Claxton FOR Walker IV,Substitution,,0,0,0,0,,,v
+S2324-G0227,5,00:03.900000,ATL,,BKN,,L. Walker IV,BKN,SUB: Claxton FOR Walker IV,Substitution,,0,0,0,0,,,v
+S2324-G0698,1,05:48,PHI,8.0,BKN,19.0,L. Walker IV,BKN,Walker IV 1' Running Layup (2 PTS) (Johnson 2 AST),Made Shot,Running Layup Shot,13,-5,1,1,2.0,2.0,v
+S2324-G0698,1,03:07,PHI,16.0,BKN,27.0,L. Walker IV,BKN,Walker IV 3PT Jump Shot (5 PTS) (Bridges 1 AST),Made Shot,Jump Shot,229,16,0,1,3.0,3.0,v
+S2324-G0698,1,02:42,PHI,16.0,BKN,29.0,L. Walker IV,BKN,Walker IV 1' Alley Oop Layup (7 PTS) (Simmons 3 AST),Made Shot,Alley Oop Layup shot,-7,5,1,1,2.0,2.0,v
+S2324-G0698,1,01:40,PHI,,BKN,,L. Walker IV,BKN,MISS Walker IV 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,47,269,27,1,3.0,0.0,v
+S2324-G0698,1,01:29,PHI,,BKN,,L. Walker IV,BKN,SUB: Claxton FOR Walker IV,Substitution,,0,0,0,0,,,v
+S2324-G0698,2,09:45,PHI,24.0,BKN,45.0,L. Walker IV,BKN,Walker IV Driving Finger Roll Layup (9 PTS) (Thomas 2 AST),Made Shot,Driving Finger Roll Layup Shot,-1,-1,0,1,2.0,2.0,v
+S2324-G0698,2,09:45,PHI,24.0,BKN,46.0,L. Walker IV,BKN,Walker IV Free Throw 1 of 1 (10 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G0698,2,07:34,PHI,,BKN,,L. Walker IV,BKN,MISS Walker IV 25' 3PT Jump Shot,Missed Shot,Jump Shot,-60,247,25,1,3.0,0.0,v
+S2324-G0698,2,06:47,PHI,,BKN,,L. Walker IV,BKN,MISS Walker IV 12' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-115,-2,12,1,2.0,0.0,v
+S2324-G0698,2,06:22,PHI,,BKN,,L. Walker IV,BKN,MISS Walker IV 2' Driving Layup,Missed Shot,Driving Layup Shot,-13,8,2,1,2.0,0.0,v
+S2324-G0698,2,04:39,PHI,,BKN,,L. Walker IV,BKN,SUB: Thomas FOR Walker IV,Substitution,,0,0,0,0,,,v
+S2324-G0698,2,01:57,PHI,,BKN,,L. Walker IV,BKN,Walker IV S.FOUL (P1.PN) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,v
+S2324-G0698,2,01:12,PHI,45.0,BKN,67.0,L. Walker IV,BKN,Walker IV 26' 3PT Jump Shot (13 PTS) (Dinwiddie 4 AST),Made Shot,Jump Shot,140,221,26,1,3.0,3.0,v
+S2324-G0698,3,06:20,PHI,,BKN,,L. Walker IV,BKN,MISS Walker IV 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,161,223,28,1,3.0,0.0,v
+S2324-G0698,3,06:01,PHI,,BKN,,L. Walker IV,BKN,MISS Walker IV 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,156,222,27,1,3.0,0.0,v
+S2324-G0698,3,05:35,PHI,,BKN,,L. Walker IV,BKN,Walker IV REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0698,3,05:34,PHI,65.0,BKN,87.0,L. Walker IV,BKN,Walker IV Tip Layup Shot (15 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2324-G0698,3,03:58,PHI,,BKN,,L. Walker IV,BKN,MISS Walker IV 2' Running Alley Oop Dunk Shot,Missed Shot,Running Alley Oop Dunk Shot,5,15,2,1,2.0,0.0,v
+S2324-G0698,3,02:59,PHI,,BKN,,L. Walker IV,BKN,Walker IV S.FOUL (P2.T3) (E.Scott),Foul,Shooting,0,0,0,0,,,v
+S2324-G0698,3,00:56.100000,PHI,76.0,BKN,102.0,L. Walker IV,BKN,Walker IV 21' Pullup Jump Shot (17 PTS) (Claxton 3 AST),Made Shot,Pullup Jump shot,-102,183,21,1,2.0,2.0,v
+S2324-G0698,4,10:55,PHI,84.0,BKN,108.0,L. Walker IV,BKN,Walker IV 24' 3PT Jump Shot (20 PTS) (Dinwiddie 6 AST),Made Shot,Jump Shot,-232,68,24,1,3.0,3.0,v
+S2324-G0698,4,10:33,PHI,,BKN,,L. Walker IV,BKN,Walker IV REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0698,4,05:18,PHI,,BKN,,L. Walker IV,BKN,MISS Walker IV 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-29,265,27,1,3.0,0.0,v
+S2324-G0698,4,05:13,PHI,,BKN,,L. Walker IV,BKN,Walker IV S.FOUL (P3.T3) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,v
+S2324-G0698,4,03:29,PHI,,BKN,,L. Walker IV,BKN,SUB: Johnson FOR Walker IV,Substitution,,0,0,0,0,,,v
+S2324-G1089,1,05:00,IND,,BKN,,L. Walker IV,BKN,MISS Walker IV 27' 3PT Jump Shot,Missed Shot,Jump Shot,89,253,27,1,3.0,0.0,v
+S2324-G1089,1,04:18,IND,,BKN,,L. Walker IV,BKN,Walker IV BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G1089,1,02:45,IND,,BKN,,L. Walker IV,BKN,MISS Walker IV 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,16,263,26,1,3.0,0.0,v
+S2324-G1089,1,01:30,IND,,BKN,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1089,1,01:22,IND,,BKN,,L. Walker IV,BKN,MISS Walker IV 1' Driving Layup,Missed Shot,Driving Layup Shot,-13,6,1,1,2.0,0.0,v
+S2324-G1089,1,01:19,IND,,BKN,,L. Walker IV,BKN,Walker IV REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1089,1,01:19,IND,,BKN,,L. Walker IV,BKN,MISS Walker IV Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2324-G1089,1,00:28.100000,IND,,BKN,,L. Walker IV,BKN,SUB: Schroder FOR Walker IV,Substitution,,0,0,0,0,,,v
+S2324-G1089,2,01:16,IND,,BKN,,L. Walker IV,BKN,Walker IV REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1089,4,10:57,IND,,BKN,,L. Walker IV,BKN,MISS Walker IV Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G1089,4,10:57,IND,113.0,BKN,81.0,L. Walker IV,BKN,Walker IV Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1089,4,09:08,IND,,BKN,,L. Walker IV,BKN,Walker IV REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1089,4,09:01,IND,115.0,BKN,85.0,L. Walker IV,BKN,Walker IV 26' 3PT Step Back Jump Shot (4 PTS),Made Shot,Step Back Jump shot,-217,148,26,1,3.0,3.0,v
+S2324-G1089,4,08:30,IND,117.0,BKN,88.0,L. Walker IV,BKN,Walker IV 26' 3PT Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,145,220,26,1,3.0,3.0,v
+S2324-G1089,4,07:52,IND,,BKN,,L. Walker IV,BKN,MISS Walker IV 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,67,115,13,1,2.0,0.0,v
+S2324-G1089,4,07:26,IND,,BKN,,L. Walker IV,BKN,MISS Walker IV 4' Driving Layup,Missed Shot,Driving Layup Shot,34,13,4,1,2.0,0.0,v
+S2324-G1089,4,05:51,IND,125.0,BKN,94.0,L. Walker IV,BKN,Walker IV 3' Driving Finger Roll Layup (9 PTS),Made Shot,Driving Finger Roll Layup Shot,25,1,3,1,2.0,2.0,v
+S2324-G1089,4,05:33,IND,,BKN,,L. Walker IV,BKN,Walker IV REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1089,4,04:57,IND,,BKN,,L. Walker IV,BKN,MISS Walker IV 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,99,113,15,1,2.0,0.0,v
+S2324-G1089,4,02:48,IND,,BKN,,L. Walker IV,BKN,MISS Walker IV 25' 3PT Jump Shot,Missed Shot,Jump Shot,119,220,25,1,3.0,0.0,v
+S2324-G1089,4,01:18,IND,,BKN,,L. Walker IV,BKN,Walker IV REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1089,4,01:11,IND,133.0,BKN,109.0,L. Walker IV,BKN,Walker IV 27' 3PT Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,-65,265,27,1,3.0,3.0,v
+S2324-G1089,4,00:55.300000,IND,,BKN,,L. Walker IV,BKN,Walker IV REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1089,4,00:46.800000,IND,133.0,BKN,111.0,L. Walker IV,BKN,Walker IV 4' Driving Layup (14 PTS),Made Shot,Driving Layup Shot,29,33,4,1,2.0,2.0,v
+S2324-G0266,2,09:52,BKN,42.0,CHA,40.0,L. Walker IV,BKN,Walker IV Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0266,2,09:52,BKN,,CHA,,L. Walker IV,BKN,MISS Walker IV Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0266,2,07:50,BKN,,CHA,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0266,2,07:03,BKN,55.0,CHA,49.0,L. Walker IV,BKN,Walker IV 26' 3PT Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,-1,255,26,1,3.0,3.0,h
+S2324-G0266,2,06:41,BKN,,CHA,,L. Walker IV,BKN,MISS Walker IV 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,69,184,20,1,2.0,0.0,h
+S2324-G0266,2,06:20,BKN,,CHA,,L. Walker IV,BKN,Walker IV Traveling Turnover (P1.T3),Turnover,Traveling,0,0,0,0,,,h
+S2324-G0266,2,05:42,BKN,,CHA,,L. Walker IV,BKN,Walker IV P.FOUL (P1.T3) (J.Sterling),Foul,Personal,0,0,0,0,,,h
+S2324-G0266,2,04:14,BKN,,CHA,,L. Walker IV,BKN,SUB: Thomas FOR Walker IV,Substitution,,0,0,0,0,,,h
+S2324-G0266,3,04:15,BKN,,CHA,,L. Walker IV,BKN,Walker IV REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0266,3,04:09,BKN,95.0,CHA,90.0,L. Walker IV,BKN,Walker IV 29' 3PT Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,-165,233,29,1,3.0,3.0,h
+S2324-G0266,3,03:40,BKN,,CHA,,L. Walker IV,BKN,MISS Walker IV 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,154,227,27,1,3.0,0.0,h
+S2324-G0266,3,01:13,BKN,,CHA,,L. Walker IV,BKN,MISS Walker IV 24' 3PT Jump Shot,Missed Shot,Jump Shot,-238,15,24,1,3.0,0.0,h
+S2324-G0266,3,01:11,BKN,,CHA,,L. Walker IV,BKN,SUB: Finney-Smith FOR Walker IV,Substitution,,0,0,0,0,,,h
+S2324-G1007,1,03:01,MIL,,BKN,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1007,1,02:52,MIL,,BKN,,L. Walker IV,BKN,Walker IV REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1007,1,02:45,MIL,,BKN,,L. Walker IV,BKN,MISS Walker IV 3PT Running Jump Shot,Missed Shot,Running Jump Shot,229,-10,0,1,3.0,0.0,v
+S2324-G1007,1,02:09,MIL,,BKN,,L. Walker IV,BKN,MISS Walker IV 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,6,174,17,1,2.0,0.0,v
+S2324-G1007,2,11:12,MIL,26.0,BKN,21.0,L. Walker IV,BKN,Walker IV 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,-22,17,3,1,2.0,2.0,v
+S2324-G1007,2,09:19,MIL,,BKN,,L. Walker IV,BKN,SUB: Wilson FOR Walker IV,Substitution,,0,0,0,0,,,v
+S2324-G1007,3,04:50,MIL,,BKN,,L. Walker IV,BKN,Walker IV S.FOUL (P1.T4) (M.Lindsay),Foul,Shooting,0,0,0,0,,,v
+S2324-G1007,3,03:45,MIL,,BKN,,L. Walker IV,BKN,MISS Walker IV 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-135,234,27,1,3.0,0.0,v
+S2324-G1007,3,03:37,MIL,,BKN,,L. Walker IV,BKN,MISS Walker IV 26' 3PT Jump Shot,Missed Shot,Jump Shot,-125,230,26,1,3.0,0.0,v
+S2324-G1007,3,03:17,MIL,,BKN,,L. Walker IV,BKN,Walker IV REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1007,3,02:55,MIL,,BKN,,L. Walker IV,BKN,Walker IV BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G1007,3,01:09,MIL,,BKN,,L. Walker IV,BKN,MISS Walker IV 31' 3PT Jump Shot,Missed Shot,Jump Shot,181,253,31,1,3.0,0.0,v
+S2324-G1007,3,01:00,MIL,,BKN,,L. Walker IV,BKN,MISS Walker IV 25' 3PT Jump Shot,Missed Shot,Jump Shot,239,62,25,1,3.0,0.0,v
+S2324-G1007,3,00:35.900000,MIL,,BKN,,L. Walker IV,BKN,SUB: Wilson FOR Walker IV,Substitution,,0,0,0,0,,,v
+S2324-G0250,1,04:47,BKN,,CHI,,L. Walker IV,BKN,Walker IV Step Out of Bounds Turnover (P1.T2),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2324-G0250,1,04:19,BKN,,CHI,,L. Walker IV,BKN,MISS Walker IV 7' Pullup Jump Shot,Missed Shot,Pullup Jump shot,11,69,7,1,2.0,0.0,h
+S2324-G0250,1,02:27,BKN,,CHI,,L. Walker IV,BKN,Walker IV OFF.Foul (P1) (C.Kirkland),Foul,Offensive,0,0,0,0,,,h
+S2324-G0250,1,02:27,BKN,,CHI,,L. Walker IV,BKN,Walker IV Offensive Foul Turnover (P2.T3),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0250,1,02:00,BKN,,CHI,,L. Walker IV,BKN,MISS Walker IV 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,152,205,26,1,3.0,0.0,h
+S2324-G0250,1,01:30,BKN,,CHI,,L. Walker IV,BKN,MISS Walker IV 25' 3PT Jump Shot,Missed Shot,Jump Shot,-186,164,25,1,3.0,0.0,h
+S2324-G0250,2,11:08,BKN,22.0,CHI,36.0,L. Walker IV,BKN,Walker IV 3PT Jump Shot (3 PTS) (Dinwiddie 1 AST),Made Shot,Jump Shot,-227,-16,0,1,3.0,3.0,h
+S2324-G0250,2,10:52,BKN,,CHI,,L. Walker IV,BKN,Walker IV STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0250,2,10:48,BKN,,CHI,,L. Walker IV,BKN,MISS Walker IV 4' Running Layup,Missed Shot,Running Layup Shot,9,42,4,1,2.0,0.0,h
+S2324-G0250,2,10:11,BKN,,CHI,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0250,2,07:58,BKN,,CHI,,L. Walker IV,BKN,MISS Walker IV 24' 3PT Jump Shot,Missed Shot,Jump Shot,-164,177,24,1,3.0,0.0,h
+S2324-G0250,2,07:46,BKN,38.0,CHI,41.0,L. Walker IV,BKN,Walker IV 26' 3PT Jump Shot (6 PTS) (Johnson 5 AST),Made Shot,Jump Shot,-195,167,26,1,3.0,3.0,h
+S2324-G0250,2,07:24,BKN,,CHI,,L. Walker IV,BKN,MISS Walker IV 4' Running Alley Oop Dunk Shot,Missed Shot,Running Alley Oop Dunk Shot,20,35,4,1,2.0,0.0,h
+S2324-G0250,2,06:04,BKN,,CHI,,L. Walker IV,BKN,SUB: Finney-Smith FOR Walker IV,Substitution,,0,0,0,0,,,h
+S2324-G0250,2,02:55,BKN,50.0,CHI,46.0,L. Walker IV,BKN,Walker IV Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0250,2,02:55,BKN,51.0,CHI,46.0,L. Walker IV,BKN,Walker IV Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0250,2,02:01,BKN,57.0,CHI,51.0,L. Walker IV,BKN,Walker IV 3PT Jump Shot (11 PTS) (Bridges 3 AST),Made Shot,Jump Shot,228,22,0,1,3.0,3.0,h
+S2324-G0250,2,01:25,BKN,60.0,CHI,53.0,L. Walker IV,BKN,Walker IV 3PT Jump Shot (14 PTS) (Bridges 4 AST),Made Shot,Jump Shot,-232,-6,0,1,3.0,3.0,h
+S2324-G0250,3,03:33,BKN,86.0,CHI,74.0,L. Walker IV,BKN,Walker IV 24' 3PT Jump Shot (17 PTS) (Sharpe 3 AST),Made Shot,Jump Shot,233,68,24,1,3.0,3.0,h
+S2324-G0250,3,00:40.500000,BKN,94.0,CHI,83.0,L. Walker IV,BKN,Walker IV 3PT Jump Shot (20 PTS) (Dinwiddie 6 AST),Made Shot,Jump Shot,221,37,0,1,3.0,3.0,h
+S2324-G0250,4,11:31,BKN,,CHI,,L. Walker IV,BKN,Walker IV STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0250,4,11:28,BKN,,CHI,,L. Walker IV,BKN,MISS Walker IV 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-164,197,26,1,3.0,0.0,h
+S2324-G0250,4,07:31,BKN,,CHI,,L. Walker IV,BKN,SUB: Bridges FOR Walker IV,Substitution,,0,0,0,0,,,h
+S2324-G0600,2,10:26,LAC,,BKN,,L. Walker IV,BKN,Walker IV STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0600,2,10:21,LAC,27.0,BKN,32.0,L. Walker IV,BKN,Walker IV 1' Running Layup (2 PTS),Made Shot,Running Layup Shot,-11,10,1,1,2.0,2.0,v
+S2324-G0600,2,09:55,LAC,,BKN,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0600,2,09:50,LAC,27.0,BKN,35.0,L. Walker IV,BKN,Walker IV 25' 3PT Running Jump Shot (5 PTS),Made Shot,Running Jump Shot,162,194,25,1,3.0,3.0,v
+S2324-G0600,2,09:34,LAC,,BKN,,L. Walker IV,BKN,Walker IV STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0600,2,07:48,LAC,,BKN,,L. Walker IV,BKN,Walker IV P.FOUL (P1.T3) (D.Richardson),Foul,Personal,0,0,0,0,,,v
+S2324-G0600,2,07:10,LAC,31.0,BKN,45.0,L. Walker IV,BKN,Walker IV 28' 3PT Jump Shot (8 PTS) (Thomas 3 AST),Made Shot,Jump Shot,168,221,28,1,3.0,3.0,v
+S2324-G0600,2,06:37,LAC,,BKN,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0600,2,05:57,LAC,,BKN,,L. Walker IV,BKN,SUB: Bridges FOR Walker IV,Substitution,,0,0,0,0,,,v
+S2324-G0600,4,10:31,LAC,,BKN,,L. Walker IV,BKN,MISS Walker IV 4' Driving Layup,Missed Shot,Driving Layup Shot,21,33,4,1,2.0,0.0,v
+S2324-G0600,4,09:16,LAC,,BKN,,L. Walker IV,BKN,Walker IV S.FOUL (P2.T3) (S.Foster),Foul,Shooting,0,0,0,0,,,v
+S2324-G0600,4,08:07,LAC,,BKN,,L. Walker IV,BKN,Walker IV S.FOUL (P3.T4) (S.Foster),Foul,Shooting,0,0,0,0,,,v
+S2324-G0600,4,07:58,LAC,,BKN,,L. Walker IV,BKN,SUB: Bridges FOR Walker IV,Substitution,,0,0,0,0,,,v
+S2324-G0084,1,04:09,DAL,,BKN,,L. Walker IV,BKN,MISS Walker IV 3PT Jump Shot,Missed Shot,Jump Shot,228,-10,0,1,3.0,0.0,v
+S2324-G0084,1,02:59,DAL,,BKN,,L. Walker IV,BKN,Walker IV Offensive Charge Foul (P1) (T.Ford),Foul,Offensive Charge,0,0,0,0,,,v
+S2324-G0084,1,02:59,DAL,,BKN,,L. Walker IV,BKN,Walker IV Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0084,1,01:51,DAL,22.0,BKN,24.0,L. Walker IV,BKN,Walker IV 26' 3PT Running Jump Shot (3 PTS),Made Shot,Running Jump Shot,-17,264,26,1,3.0,3.0,v
+S2324-G0084,2,10:59,DAL,28.0,BKN,31.0,L. Walker IV,BKN,Walker IV 25' 3PT Step Back Jump Shot (6 PTS) (O'Neale 1 AST),Made Shot,Step Back Jump shot,159,199,25,1,3.0,3.0,v
+S2324-G0084,2,09:50,DAL,,BKN,,L. Walker IV,BKN,SUB: Thomas FOR Walker IV,Substitution,,0,0,0,0,,,v
+S2324-G0084,2,01:13,DAL,,BKN,,L. Walker IV,BKN,Walker IV Offensive Charge Foul (P2) (D.Scott),Foul,Offensive Charge,0,0,0,0,,,v
+S2324-G0084,2,01:13,DAL,,BKN,,L. Walker IV,BKN,Walker IV Offensive Foul Turnover (P2.T9),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0084,2,00:17.600000,DAL,,BKN,,L. Walker IV,BKN,SUB: Smith Jr. FOR Walker IV,Substitution,,0,0,0,0,,,v
+S2324-G0084,3,01:19,DAL,80.0,BKN,83.0,L. Walker IV,BKN,Walker IV 3' Cutting Layup Shot (8 PTS) (Dinwiddie 3 AST),Made Shot,Cutting Layup Shot,18,26,3,1,2.0,2.0,v
+S2324-G0084,3,01:00,DAL,82.0,BKN,86.0,L. Walker IV,BKN,Walker IV 28' 3PT Jump Shot (11 PTS) (Dinwiddie 4 AST),Made Shot,Jump Shot,148,241,28,1,3.0,3.0,v
+S2324-G0084,3,00:17.500000,DAL,,BKN,,L. Walker IV,BKN,Walker IV P.FOUL (P3.PN) (T.Ford),Foul,Personal,0,0,0,0,,,v
+S2324-G0084,4,11:28,DAL,,BKN,,L. Walker IV,BKN,MISS Walker IV 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-195,163,25,1,3.0,0.0,v
+S2324-G0084,4,10:10,DAL,,BKN,,L. Walker IV,BKN,MISS Walker IV 2' Driving Layup,Missed Shot,Driving Layup Shot,21,13,2,1,2.0,0.0,v
+S2324-G0084,4,09:54,DAL,,BKN,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0084,4,08:34,DAL,97.0,BKN,104.0,L. Walker IV,BKN,Walker IV 25' 3PT Jump Shot (14 PTS) (Simmons 8 AST),Made Shot,Jump Shot,112,226,25,1,3.0,3.0,v
+S2324-G0084,4,08:19,DAL,,BKN,,L. Walker IV,BKN,Walker IV BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0084,4,06:55,DAL,,BKN,,L. Walker IV,BKN,MISS Walker IV 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,48,188,19,1,2.0,0.0,v
+S2324-G0084,4,06:17,DAL,,BKN,,L. Walker IV,BKN,SUB: Finney-Smith FOR Walker IV,Substitution,,0,0,0,0,,,v
+S2324-G0591,2,11:12,LAL,39.0,BKN,32.0,L. Walker IV,BKN,Walker IV 2' Cutting Layup Shot (2 PTS) (Smith Jr. 1 AST),Made Shot,Cutting Layup Shot,-17,15,2,1,2.0,2.0,v
+S2324-G0591,2,09:43,LAL,44.0,BKN,37.0,L. Walker IV,BKN,Walker IV 25' 3PT Pullup Jump Shot (5 PTS) (O'Neale 2 AST),Made Shot,Pullup Jump shot,183,176,25,1,3.0,3.0,v
+S2324-G0591,2,09:13,LAL,47.0,BKN,39.0,L. Walker IV,BKN,Walker IV 4' Driving Floating Bank Jump Shot (7 PTS),Made Shot,Driving Floating Bank Jump Shot,12,37,4,1,2.0,2.0,v
+S2324-G0591,2,07:55,LAL,49.0,BKN,44.0,L. Walker IV,BKN,Walker IV 27' 3PT Step Back Jump Shot (10 PTS) (Thomas 4 AST),Made Shot,Step Back Jump shot,142,231,27,1,3.0,3.0,v
+S2324-G0591,2,07:43,LAL,,BKN,,L. Walker IV,BKN,Walker IV S.FOUL (P1.T1) (C.Kirkland),Foul,Shooting,0,0,0,0,,,v
+S2324-G0591,2,06:37,LAL,,BKN,,L. Walker IV,BKN,MISS Walker IV 3PT Jump Shot,Missed Shot,Jump Shot,-228,27,0,1,3.0,0.0,v
+S2324-G0591,2,06:10,LAL,,BKN,,L. Walker IV,BKN,Walker IV Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0591,2,06:07,LAL,,BKN,,L. Walker IV,BKN,SUB: Johnson FOR Walker IV,Substitution,,0,0,0,0,,,v
+S2324-G0591,4,11:34,LAL,90.0,BKN,102.0,L. Walker IV,BKN,Walker IV 3' Running Finger Roll Layup (12 PTS),Made Shot,Running Finger Roll Layup Shot,7,25,3,1,2.0,2.0,v
+S2324-G0591,4,08:53,LAL,95.0,BKN,113.0,L. Walker IV,BKN,Walker IV 27' 3PT Pullup Jump Shot (15 PTS) (Smith Jr. 4 AST),Made Shot,Pullup Jump shot,-161,220,27,1,3.0,3.0,v
+S2324-G0591,4,08:15,LAL,,BKN,,L. Walker IV,BKN,Walker IV L.B.FOUL (P2.T2) (J.Sterling),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0591,4,07:53,LAL,,BKN,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0591,4,05:29,LAL,,BKN,,L. Walker IV,BKN,SUB: Johnson FOR Walker IV,Substitution,,0,0,0,0,,,v
+S2324-G0968,1,02:43,IND,,BKN,,L. Walker IV,BKN,MISS Walker IV 12' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,110,55,12,1,2.0,0.0,v
+S2324-G0968,1,01:27,IND,,BKN,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0968,1,00:03.100000,IND,25.0,BKN,30.0,L. Walker IV,BKN,Walker IV 1' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,-11,8,1,1,2.0,2.0,v
+S2324-G0968,2,09:18,IND,,BKN,,L. Walker IV,BKN,MISS Walker IV 8' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,77,29,8,1,2.0,0.0,v
+S2324-G0968,2,09:09,IND,,BKN,,L. Walker IV,BKN,SUB: Finney-Smith FOR Walker IV,Substitution,,0,0,0,0,,,v
+S2324-G0968,4,11:12,IND,,BKN,,L. Walker IV,BKN,MISS Walker IV 18' Step Back Jump Shot,Missed Shot,Step Back Jump shot,27,181,18,1,2.0,0.0,v
+S2324-G0968,4,09:12,IND,,BKN,,L. Walker IV,BKN,SUB: Bridges FOR Walker IV,Substitution,,0,0,0,0,,,v
+S2324-G0010,1,03:51,BOS,,BKN,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0010,1,03:04,BOS,,BKN,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0010,1,02:58,BOS,27.0,BKN,27.0,L. Walker IV,BKN,Walker IV 8' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,-42,70,8,1,2.0,2.0,v
+S2324-G0010,1,01:58,BOS,30.0,BKN,30.0,L. Walker IV,BKN,Walker IV 27' 3PT Jump Shot (5 PTS) (Smith Jr. 2 AST),Made Shot,Jump Shot,-129,235,27,1,3.0,3.0,v
+S2324-G0010,1,01:05,BOS,,BKN,,L. Walker IV,BKN,MISS Walker IV 22' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-51,217,22,1,2.0,0.0,v
+S2324-G0010,1,00:32.100000,BOS,38.0,BKN,33.0,L. Walker IV,BKN,Walker IV 28' 3PT Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,-112,257,28,1,3.0,3.0,v
+S2324-G0010,2,03:59,BOS,55.0,BKN,46.0,L. Walker IV,BKN,Walker IV 3' Layup (10 PTS) (Smith Jr. 3 AST),Made Shot,Layup Shot,-31,10,3,1,2.0,2.0,v
+S2324-G0010,2,02:33,BOS,,BKN,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0010,2,01:40,BOS,,BKN,,L. Walker IV,BKN,MISS Walker IV 8' Driving Layup,Missed Shot,Driving Layup Shot,76,2,8,1,2.0,0.0,v
+S2324-G0010,2,00:54.600000,BOS,,BKN,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0010,2,00:51.200000,BOS,66.0,BKN,54.0,L. Walker IV,BKN,Walker IV 25' 3PT Running Pull-Up Jump Shot (13 PTS),Made Shot,Running Pull-Up Jump Shot,-127,214,25,1,3.0,3.0,v
+S2324-G0010,2,00:32.600000,BOS,,BKN,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0010,2,00:16.400000,BOS,,BKN,,L. Walker IV,BKN,MISS Walker IV 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,103,242,26,1,3.0,0.0,v
+S2324-G0010,3,05:34,BOS,,BKN,,L. Walker IV,BKN,MISS Walker IV 4' Driving Layup,Missed Shot,Driving Layup Shot,-10,43,4,1,2.0,0.0,v
+S2324-G0010,3,05:07,BOS,,BKN,,L. Walker IV,BKN,Walker IV BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0010,3,04:05,BOS,83.0,BKN,68.0,L. Walker IV,BKN,Walker IV 6' Driving Layup (15 PTS),Made Shot,Driving Layup Shot,-5,61,6,1,2.0,2.0,v
+S2324-G0010,3,04:05,BOS,83.0,BKN,69.0,L. Walker IV,BKN,Walker IV Free Throw 1 of 1 (16 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G0010,3,03:31,BOS,,BKN,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0010,3,02:03,BOS,86.0,BKN,77.0,L. Walker IV,BKN,Walker IV 18' Pullup Jump Shot (18 PTS),Made Shot,Pullup Jump shot,112,146,18,1,2.0,2.0,v
+S2324-G0010,3,00:26.500000,BOS,,BKN,,L. Walker IV,BKN,SUB: Finney-Smith FOR Walker IV,Substitution,,0,0,0,0,,,v
+S2324-G0010,4,07:53,BOS,,BKN,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0010,4,06:06,BOS,111.0,BKN,92.0,L. Walker IV,BKN,Walker IV 2' Driving Layup (20 PTS),Made Shot,Driving Layup Shot,18,17,2,1,2.0,2.0,v
+S2324-G0010,4,05:51,BOS,,BKN,,L. Walker IV,BKN,SUB: Giles III FOR Walker IV,Substitution,,0,0,0,0,,,v
+S2324-G0178,1,04:44,BKN,,WAS,,L. Walker IV,BKN,MISS Walker IV 25' 3PT Jump Shot,Missed Shot,Jump Shot,137,213,25,1,3.0,0.0,h
+S2324-G0178,1,02:35,BKN,,WAS,,L. Walker IV,BKN,MISS Walker IV 11' Running Layup,Missed Shot,Running Layup Shot,92,63,11,1,2.0,0.0,h
+S2324-G0178,1,02:29,BKN,,WAS,,L. Walker IV,BKN,MISS Walker IV 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,121,158,20,1,2.0,0.0,h
+S2324-G0178,1,01:35,BKN,,WAS,,L. Walker IV,BKN,Walker IV S.FOUL (P1.T3) (J.Williams),Foul,Shooting,0,0,0,0,,,h
+S2324-G0178,1,00:13.400000,BKN,,WAS,,L. Walker IV,BKN,MISS Walker IV 3' Driving Layup,Missed Shot,Driving Layup Shot,-21,20,3,1,2.0,0.0,h
+S2324-G0178,3,04:44,BKN,,WAS,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0178,3,04:40,BKN,,WAS,,L. Walker IV,BKN,Walker IV Lost Ball Turnover (P1.T12),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0178,3,03:02,BKN,68.0,WAS,64.0,L. Walker IV,BKN,Walker IV 12' Pullup Jump Shot (2 PTS) (Sharpe 1 AST),Made Shot,Pullup Jump shot,-1,123,12,1,2.0,2.0,h
+S2324-G0178,3,02:03,BKN,,WAS,,L. Walker IV,BKN,MISS Walker IV 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-99,184,21,1,2.0,0.0,h
+S2324-G0178,3,01:40,BKN,,WAS,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0178,3,00:38.800000,BKN,78.0,WAS,69.0,L. Walker IV,BKN,Walker IV 26' 3PT Running Jump Shot (5 PTS) (Smith Jr. 6 AST),Made Shot,Running Jump Shot,-159,201,26,1,3.0,3.0,h
+S2324-G0178,3,00:02.900000,BKN,,WAS,,L. Walker IV,BKN,MISS Walker IV 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-150,212,26,1,3.0,0.0,h
+S2324-G0178,4,09:43,BKN,,WAS,,L. Walker IV,BKN,SUB: Bridges FOR Walker IV,Substitution,,0,0,0,0,,,h
+S2324-G0660,1,06:25,BKN,,UTA,,L. Walker IV,BKN,Walker IV STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0660,1,05:19,BKN,,UTA,,L. Walker IV,BKN,MISS Walker IV 3PT Jump Shot,Missed Shot,Jump Shot,232,13,0,1,3.0,0.0,h
+S2324-G0660,1,04:13,BKN,24.0,UTA,20.0,L. Walker IV,BKN,Walker IV 20' Pullup Jump Shot (2 PTS) (Bridges 1 AST),Made Shot,Pullup Jump shot,147,134,20,1,2.0,2.0,h
+S2324-G0660,1,03:07,BKN,30.0,UTA,20.0,L. Walker IV,BKN,Walker IV 3PT Running Jump Shot (5 PTS) (Simmons 4 AST),Made Shot,Running Jump Shot,-227,-39,0,1,3.0,3.0,h
+S2324-G0660,1,00:42.100000,BKN,,UTA,,L. Walker IV,BKN,Walker IV P.FOUL (P1.PN) (M.Smith),Foul,Personal,0,0,0,0,,,h
+S2324-G0660,1,00:17,BKN,41.0,UTA,25.0,L. Walker IV,BKN,Walker IV 25' 3PT Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,44,247,25,1,3.0,3.0,h
+S2324-G0660,2,11:35,BKN,,UTA,,L. Walker IV,BKN,Walker IV S.FOUL (P2.T1) (J.DeRosa),Foul,Shooting,0,0,0,0,,,h
+S2324-G0660,2,10:15,BKN,,UTA,,L. Walker IV,BKN,Walker IV BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0660,2,10:12,BKN,,UTA,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0660,2,08:37,BKN,50.0,UTA,38.0,L. Walker IV,BKN,Walker IV 3PT Jump Shot (11 PTS) (Dinwiddie 4 AST),Made Shot,Jump Shot,-225,-31,0,1,3.0,3.0,h
+S2324-G0660,2,08:25,BKN,,UTA,,L. Walker IV,BKN,SUB: Johnson FOR Walker IV,Substitution,,0,0,0,0,,,h
+S2324-G0660,2,00:01.300000,BKN,,UTA,,L. Walker IV,BKN,MISS Walker IV 3PT Jump Shot,Missed Shot,Jump Shot,-233,-27,0,1,3.0,0.0,h
+S2324-G0660,3,04:17,BKN,,UTA,,L. Walker IV,BKN,MISS Walker IV 3' Driving Layup,Missed Shot,Driving Layup Shot,27,0,3,1,2.0,0.0,h
+S2324-G0660,3,04:14,BKN,,UTA,,L. Walker IV,BKN,Walker IV REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0660,3,04:14,BKN,,UTA,,L. Walker IV,BKN,MISS Walker IV Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2324-G0660,3,03:54,BKN,,UTA,,L. Walker IV,BKN,MISS Walker IV 26' 3PT Jump Shot,Missed Shot,Jump Shot,116,230,26,1,3.0,0.0,h
+S2324-G0660,3,03:42,BKN,,UTA,,L. Walker IV,BKN,MISS Walker IV Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0660,3,03:42,BKN,90.0,UTA,77.0,L. Walker IV,BKN,Walker IV Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0660,3,01:38,BKN,,UTA,,L. Walker IV,BKN,MISS Walker IV 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,233,53,24,1,3.0,0.0,h
+S2324-G0660,3,00:00,BKN,104.0,UTA,87.0,L. Walker IV,BKN,Walker IV 26' 3PT Pullup Jump Shot (15 PTS),Made Shot,Pullup Jump shot,20,259,26,1,3.0,3.0,h
+S2324-G0660,4,09:35,BKN,116.0,UTA,90.0,L. Walker IV,BKN,Walker IV 2' Running Reverse Layup (17 PTS) (Smith Jr. 4 AST),Made Shot,Running Reverse Layup Shot,20,-1,2,1,2.0,2.0,h
+S2324-G0660,4,08:41,BKN,,UTA,,L. Walker IV,BKN,MISS Walker IV 26' 3PT Jump Shot,Missed Shot,Jump Shot,-27,257,26,1,3.0,0.0,h
+S2324-G0660,4,07:44,BKN,,UTA,,L. Walker IV,BKN,SUB: Johnson FOR Walker IV,Substitution,,0,0,0,0,,,h
+S2324-G0660,4,02:24,BKN,140.0,UTA,108.0,L. Walker IV,BKN,Walker IV 12' Pullup Jump Shot (19 PTS),Made Shot,Pullup Jump shot,-39,116,12,1,2.0,2.0,h
+S2324-G0119,1,05:41,MIA,14.0,BKN,10.0,L. Walker IV,BKN,Walker IV 2' Running Layup (2 PTS) (Simmons 2 AST),Made Shot,Running Layup Shot,21,4,2,1,2.0,2.0,v
+S2324-G0119,1,05:18,MIA,16.0,BKN,12.0,L. Walker IV,BKN,Walker IV 21' Step Back Jump Shot (4 PTS),Made Shot,Step Back Jump shot,-18,209,21,1,2.0,2.0,v
+S2324-G0119,1,04:36,MIA,,BKN,,L. Walker IV,BKN,Walker IV S.FOUL (P1.PN) (N.Buchert),Foul,Shooting,0,0,0,0,,,v
+S2324-G0119,1,03:34,MIA,,BKN,,L. Walker IV,BKN,MISS Walker IV 26' 3PT Jump Shot,Missed Shot,Jump Shot,-190,171,26,1,3.0,0.0,v
+S2324-G0119,1,02:04,MIA,,BKN,,L. Walker IV,BKN,Walker IV STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0119,1,02:02,MIA,26.0,BKN,24.0,L. Walker IV,BKN,Walker IV Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0119,1,02:02,MIA,26.0,BKN,25.0,L. Walker IV,BKN,Walker IV Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0119,1,01:37,MIA,,BKN,,L. Walker IV,BKN,MISS Walker IV 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-39,195,20,1,2.0,0.0,v
+S2324-G0119,1,00:49,MIA,,BKN,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0119,1,00:05.500000,MIA,,BKN,,L. Walker IV,BKN,MISS Walker IV Free Throw 1 of 3,Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,0.0,v
+S2324-G0119,1,00:05.500000,MIA,31.0,BKN,28.0,L. Walker IV,BKN,Walker IV Free Throw 2 of 3 (7 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,v
+S2324-G0119,1,00:05.500000,MIA,31.0,BKN,29.0,L. Walker IV,BKN,Walker IV Free Throw 3 of 3 (8 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,v
+S2324-G0119,2,06:11,MIA,,BKN,,L. Walker IV,BKN,MISS Walker IV 3PT Jump Shot,Missed Shot,Jump Shot,-230,-16,0,1,3.0,0.0,v
+S2324-G0119,2,05:28,MIA,,BKN,,L. Walker IV,BKN,Walker IV Discontinue Dribble Turnover (P1.T7),Turnover,Discontinue Dribble,0,0,0,0,,,v
+S2324-G0119,2,04:06,MIA,48.0,BKN,38.0,L. Walker IV,BKN,Walker IV 3' Running Reverse Layup (10 PTS) (O'Neale 2 AST),Made Shot,Running Reverse Layup Shot,33,8,3,1,2.0,2.0,v
+S2324-G0119,2,02:24,MIA,,BKN,,L. Walker IV,BKN,Walker IV Lost Ball Turnover (P2.T9),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0119,2,01:38,MIA,,BKN,,L. Walker IV,BKN,Walker IV STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0119,2,01:34,MIA,,BKN,,L. Walker IV,BKN,Walker IV REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0119,2,01:32,MIA,53.0,BKN,39.0,L. Walker IV,BKN,Walker IV Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0119,2,01:32,MIA,53.0,BKN,40.0,L. Walker IV,BKN,Walker IV Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0119,3,10:58,MIA,,BKN,,L. Walker IV,BKN,MISS Walker IV 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-22,252,25,1,3.0,0.0,v
+S2324-G0119,3,10:33,MIA,61.0,BKN,47.0,L. Walker IV,BKN,Walker IV Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0119,3,10:33,MIA,,BKN,,L. Walker IV,BKN,MISS Walker IV Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0119,3,09:37,MIA,,BKN,,L. Walker IV,BKN,MISS Walker IV 4' Driving Layup,Missed Shot,Driving Layup Shot,36,7,4,1,2.0,0.0,v
+S2324-G0119,3,08:36,MIA,,BKN,,L. Walker IV,BKN,Walker IV Out of Bounds Lost Ball Turnover (P3.T11),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2324-G0119,3,08:36,MIA,,BKN,,L. Walker IV,BKN,SUB: Bridges FOR Walker IV,Substitution,,0,0,0,0,,,v
+S2324-G0119,4,09:23,MIA,86.0,BKN,86.0,L. Walker IV,BKN,Walker IV 3PT Jump Shot (16 PTS) (Simmons 4 AST),Made Shot,Jump Shot,-224,-13,0,1,3.0,3.0,v
+S2324-G0119,4,08:41,MIA,,BKN,,L. Walker IV,BKN,Walker IV REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0119,4,06:35,MIA,,BKN,,L. Walker IV,BKN,Walker IV STEAL (3 STL),,,0,0,0,0,,,v
+S2324-G0119,4,05:03,MIA,92.0,BKN,98.0,L. Walker IV,BKN,Walker IV Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0119,4,05:03,MIA,,BKN,,L. Walker IV,BKN,MISS Walker IV Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0119,4,04:54,MIA,,BKN,,L. Walker IV,BKN,SUB: Thomas FOR Walker IV,Substitution,,0,0,0,0,,,v
+S2324-G0119,4,00:11.100000,MIA,,BKN,,L. Walker IV,BKN,SUB: Simmons FOR Walker IV,Substitution,,0,0,0,0,,,v
+S2324-G1175,1,04:36,NYK,5.0,BKN,14.0,L. Walker IV,BKN,Walker IV 20' Step Back Jump Shot (2 PTS),Made Shot,Step Back Jump shot,-37,194,20,1,2.0,2.0,v
+S2324-G1175,1,02:58,NYK,5.0,BKN,21.0,L. Walker IV,BKN,Walker IV 15' Turnaround Jump Shot (4 PTS) (Clowney 1 AST),Made Shot,Turnaround Jump Shot,94,113,15,1,2.0,2.0,v
+S2324-G1175,2,10:25,NYK,20.0,BKN,36.0,L. Walker IV,BKN,Walker IV 25' 3PT Jump Shot (7 PTS) (Clowney 2 AST),Made Shot,Jump Shot,70,240,25,1,3.0,3.0,v
+S2324-G1175,2,09:57,NYK,,BKN,,L. Walker IV,BKN,MISS Walker IV 24' 3PT Jump Shot,Missed Shot,Jump Shot,224,82,24,1,3.0,0.0,v
+S2324-G1175,2,09:21,NYK,24.0,BKN,39.0,L. Walker IV,BKN,Walker IV 27' 3PT Jump Shot (10 PTS) (Bridges 2 AST),Made Shot,Jump Shot,39,271,27,1,3.0,3.0,v
+S2324-G1175,2,07:33,NYK,28.0,BKN,45.0,L. Walker IV,BKN,Walker IV 25' 3PT Jump Shot (13 PTS) (Bridges 3 AST),Made Shot,Jump Shot,-228,92,25,1,3.0,3.0,v
+S2324-G1175,2,05:25,NYK,,BKN,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1175,2,05:10,NYK,,BKN,,L. Walker IV,BKN,MISS Walker IV 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-11,247,25,1,3.0,0.0,v
+S2324-G1175,2,04:26,NYK,,BKN,,L. Walker IV,BKN,SUB: Thomas FOR Walker IV,Substitution,,0,0,0,0,,,v
+S2324-G1175,2,02:48,NYK,,BKN,,L. Walker IV,BKN,Walker IV Personal Take Foul (P1.PN) (B.Adair),Foul,Personal Take,0,0,0,0,,,v
+S2324-G1175,2,02:26,NYK,,BKN,,L. Walker IV,BKN,MISS Walker IV 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,165,242,29,1,3.0,0.0,v
+S2324-G1175,2,01:51,NYK,,BKN,,L. Walker IV,BKN,Walker IV REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1175,2,00:07.500000,NYK,,BKN,,L. Walker IV,BKN,Walker IV STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G1175,2,00:03.200000,NYK,51.0,BKN,63.0,L. Walker IV,BKN,Walker IV 1' Running Layup (15 PTS),Made Shot,Running Layup Shot,-12,-2,1,1,2.0,2.0,v
+S2324-G1175,3,00:44.200000,NYK,,BKN,,L. Walker IV,BKN,MISS Walker IV 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,28,183,19,1,2.0,0.0,v
+S2324-G1175,4,11:18,NYK,,BKN,,L. Walker IV,BKN,Walker IV BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G1175,4,10:32,NYK,,BKN,,L. Walker IV,BKN,MISS Walker IV 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-233,-3,0,1,3.0,0.0,v
+S2324-G1175,4,10:27,NYK,,BKN,,L. Walker IV,BKN,Walker IV REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1175,4,10:25,NYK,,BKN,,L. Walker IV,BKN,MISS Walker IV Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,-1,0,1,2.0,0.0,v
+S2324-G1175,4,09:32,NYK,,BKN,,L. Walker IV,BKN,Walker IV S.FOUL (P2.T1) (B.Adair),Foul,Shooting,0,0,0,0,,,v
+S2324-G1175,4,07:28,NYK,,BKN,,L. Walker IV,BKN,Walker IV REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1175,4,03:19,NYK,,BKN,,L. Walker IV,BKN,MISS Walker IV 26' 3PT Jump Shot,Missed Shot,Jump Shot,-176,194,26,1,3.0,0.0,v
+S2324-G1175,4,02:21,NYK,,BKN,,L. Walker IV,BKN,Walker IV Personal Take Foul (P3.PN) (B.Forte),Foul,Personal Take,0,0,0,0,,,v
+S2324-G0498,2,11:04,BKN,,POR,,L. Walker IV,BKN,Walker IV P.FOUL (P1.T1) (J.Conley),Foul,Personal,0,0,0,0,,,h
+S2324-G0498,2,11:01,BKN,,POR,,L. Walker IV,BKN,Walker IV S.FOUL (P2.T2) (A.Nagy),Foul,Shooting,0,0,0,0,,,h
+S2324-G0498,2,10:48,BKN,,POR,,L. Walker IV,BKN,MISS Walker IV 3PT Jump Shot,Missed Shot,Jump Shot,230,8,0,1,3.0,0.0,h
+S2324-G0498,2,07:39,BKN,,POR,,L. Walker IV,BKN,MISS Walker IV 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-40,158,16,1,2.0,0.0,h
+S2324-G0498,2,06:38,BKN,,POR,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0498,2,06:34,BKN,,POR,,L. Walker IV,BKN,MISS Walker IV 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,6,259,26,1,3.0,0.0,h
+S2324-G0498,2,06:15,BKN,,POR,,L. Walker IV,BKN,SUB: Bridges FOR Walker IV,Substitution,,0,0,0,0,,,h
+S2324-G0240,1,03:20,BKN,,MIA,,L. Walker IV,BKN,Walker IV Traveling Turnover (P1.T3),Turnover,Traveling,0,0,0,0,,,h
+S2324-G0240,1,01:29,BKN,26.0,MIA,20.0,L. Walker IV,BKN,Walker IV 28' 3PT Running Jump Shot (3 PTS) (O'Neale 1 AST),Made Shot,Running Jump Shot,-180,210,28,1,3.0,3.0,h
+S2324-G0240,1,00:52.100000,BKN,,MIA,,L. Walker IV,BKN,MISS Walker IV 26' 3PT Jump Shot,Missed Shot,Jump Shot,88,247,26,1,3.0,0.0,h
+S2324-G0240,1,00:02.700000,BKN,,MIA,,L. Walker IV,BKN,MISS Walker IV 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,135,94,16,1,2.0,0.0,h
+S2324-G0240,2,10:01,BKN,,MIA,,L. Walker IV,BKN,Walker IV S.FOUL (P1.T1) (A.Nagy),Foul,Shooting,0,0,0,0,,,h
+S2324-G0240,2,09:06,BKN,38.0,MIA,33.0,L. Walker IV,BKN,Walker IV Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0240,2,09:06,BKN,39.0,MIA,33.0,L. Walker IV,BKN,Walker IV Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0240,2,07:34,BKN,46.0,MIA,39.0,L. Walker IV,BKN,Walker IV 26' 3PT Jump Shot (8 PTS) (Dinwiddie 5 AST),Made Shot,Jump Shot,175,197,26,1,3.0,3.0,h
+S2324-G0240,2,06:39,BKN,,MIA,,L. Walker IV,BKN,MISS Walker IV 29' 3PT Jump Shot,Missed Shot,Jump Shot,-185,221,29,1,3.0,0.0,h
+S2324-G0240,2,06:15,BKN,,MIA,,L. Walker IV,BKN,MISS Walker IV 3PT Jump Shot,Missed Shot,Jump Shot,-232,8,0,1,3.0,0.0,h
+S2324-G0240,2,06:03,BKN,,MIA,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0240,2,05:57,BKN,,MIA,,L. Walker IV,BKN,SUB: O'Neale FOR Walker IV,Substitution,,0,0,0,0,,,h
+S2324-G0240,3,01:51,BKN,,MIA,,L. Walker IV,BKN,Walker IV Lost Ball Turnover (P2.T9),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0240,3,00:19.700000,BKN,,MIA,,L. Walker IV,BKN,SUB: Finney-Smith FOR Walker IV,Substitution,,0,0,0,0,,,h
+S2324-G0578,2,10:47,POR,,BKN,,L. Walker IV,BKN,Walker IV STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0578,2,09:02,POR,,BKN,,L. Walker IV,BKN,MISS Walker IV 3' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,33,-10,3,1,2.0,0.0,v
+S2324-G0578,2,08:37,POR,,BKN,,L. Walker IV,BKN,MISS Walker IV 26' 3PT Jump Shot,Missed Shot,Jump Shot,-23,257,26,1,3.0,0.0,v
+S2324-G0578,2,08:33,POR,34.0,BKN,33.0,L. Walker IV,BKN,Walker IV 27' 3PT Jump Shot (3 PTS) (O'Neale 1 AST),Made Shot,Jump Shot,-123,237,27,1,3.0,3.0,v
+S2324-G0578,2,07:03,POR,37.0,BKN,36.0,L. Walker IV,BKN,Walker IV 24' 3PT Jump Shot (6 PTS) (O'Neale 2 AST),Made Shot,Jump Shot,-239,16,24,1,3.0,3.0,v
+S2324-G0578,2,06:36,POR,40.0,BKN,38.0,L. Walker IV,BKN,Walker IV 2' Driving Floating Bank Jump Shot (8 PTS),Made Shot,Driving Floating Bank Jump Shot,17,17,2,1,2.0,2.0,v
+S2324-G0578,2,05:07,POR,,BKN,,L. Walker IV,BKN,MISS Walker IV 26' 3PT Jump Shot,Missed Shot,Jump Shot,-230,116,26,1,3.0,0.0,v
+S2324-G0578,2,03:35,POR,,BKN,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0578,2,03:24,POR,45.0,BKN,44.0,L. Walker IV,BKN,Walker IV 27' 3PT Jump Shot (11 PTS) (Johnson 2 AST),Made Shot,Jump Shot,-189,190,27,1,3.0,3.0,v
+S2324-G0578,2,00:59.100000,POR,49.0,BKN,52.0,L. Walker IV,BKN,Walker IV 5' Driving Floating Bank Jump Shot (13 PTS) (Dinwiddie 5 AST),Made Shot,Driving Floating Bank Jump Shot,34,32,5,1,2.0,2.0,v
+S2324-G0578,2,00:27.900000,POR,,BKN,,L. Walker IV,BKN,MISS Walker IV 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-105,235,26,1,3.0,0.0,v
+S2324-G0578,2,00:06.900000,POR,,BKN,,L. Walker IV,BKN,SUB: Smith Jr. FOR Walker IV,Substitution,,0,0,0,0,,,v
+S2324-G0578,3,01:06,POR,,BKN,,L. Walker IV,BKN,Walker IV Step Out of Bounds Turnover (P1.T8),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2324-G0578,4,11:49,POR,,BKN,,L. Walker IV,BKN,MISS Walker IV 26' 3PT Jump Shot,Missed Shot,Jump Shot,-10,258,26,1,3.0,0.0,v
+S2324-G0578,4,09:10,POR,,BKN,,L. Walker IV,BKN,SUB: Bridges FOR Walker IV,Substitution,,0,0,0,0,,,v
+S2324-G0981,2,11:20,SAS,,BKN,,L. Walker IV,BKN,MISS Walker IV 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,141,213,26,1,3.0,0.0,v
+S2324-G0981,2,10:42,SAS,,BKN,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0981,2,09:06,SAS,,BKN,,L. Walker IV,BKN,SUB: Schroder FOR Walker IV,Substitution,,0,0,0,0,,,v
+S2324-G0981,3,02:37,SAS,,BKN,,L. Walker IV,BKN,Walker IV S.FOUL (P1.T2) (G.Petraitis),Foul,Shooting,0,0,0,0,,,v
+S2324-G0981,3,01:21,SAS,,BKN,,L. Walker IV,BKN,Walker IV BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0981,3,01:19,SAS,,BKN,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0981,4,10:15,SAS,,BKN,,L. Walker IV,BKN,MISS Walker IV 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-9,260,26,1,3.0,0.0,v
+S2324-G0981,4,10:05,SAS,,BKN,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0981,4,08:44,SAS,,BKN,,L. Walker IV,BKN,SUB: Schroder FOR Walker IV,Substitution,,0,0,0,0,,,v
+S2324-G0780,1,04:18,BOS,,BKN,,L. Walker IV,BKN,MISS Walker IV 24' 3PT Jump Shot,Missed Shot,Jump Shot,228,62,24,1,3.0,0.0,v
+S2324-G0780,1,03:43,BOS,,BKN,,L. Walker IV,BKN,MISS Walker IV 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-65,185,20,1,2.0,0.0,v
+S2324-G0780,1,03:35,BOS,,BKN,,L. Walker IV,BKN,Walker IV P.FOUL (P1.T4) (D.Taylor),Foul,Personal,0,0,0,0,,,v
+S2324-G0780,1,03:06,BOS,26.0,BKN,10.0,L. Walker IV,BKN,Walker IV 18' Step Back Jump Shot (2 PTS),Made Shot,Step Back Jump shot,97,153,18,1,2.0,2.0,v
+S2324-G0780,1,02:42,BOS,,BKN,,L. Walker IV,BKN,MISS Walker IV 7' Driving Layup,Missed Shot,Driving Layup Shot,67,28,7,1,2.0,0.0,v
+S2324-G0780,1,02:39,BOS,,BKN,,L. Walker IV,BKN,Walker IV REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0780,1,01:56,BOS,26.0,BKN,12.0,L. Walker IV,BKN,Walker IV 2' Driving Finger Roll Layup (4 PTS) (Sharpe 1 AST),Made Shot,Driving Finger Roll Layup Shot,-13,18,2,1,2.0,2.0,v
+S2324-G0780,1,00:50.500000,BOS,,BKN,,L. Walker IV,BKN,MISS Walker IV 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,140,106,18,1,2.0,0.0,v
+S2324-G0780,2,10:23,BOS,,BKN,,L. Walker IV,BKN,Walker IV Traveling Turnover (P1.T3),Turnover,Traveling,0,0,0,0,,,v
+S2324-G0780,2,09:13,BOS,,BKN,,L. Walker IV,BKN,MISS Walker IV 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,148,204,25,1,3.0,0.0,v
+S2324-G0780,2,08:58,BOS,,BKN,,L. Walker IV,BKN,Walker IV REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0780,2,07:18,BOS,,BKN,,L. Walker IV,BKN,SUB: Wilson FOR Walker IV,Substitution,,0,0,0,0,,,v
+S2324-G0562,2,09:52,BKN,,MIA,,L. Walker IV,BKN,Walker IV BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0562,2,09:23,BKN,,MIA,,L. Walker IV,BKN,Walker IV L.B.FOUL (P1.T1) (S.Wright),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0562,2,07:51,BKN,,MIA,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0562,2,07:50,BKN,,MIA,,L. Walker IV,BKN,Walker IV Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0562,2,07:42,BKN,,MIA,,L. Walker IV,BKN,MISS Walker IV 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,157,212,26,1,3.0,0.0,h
+S2324-G0562,2,07:32,BKN,,MIA,,L. Walker IV,BKN,MISS Walker IV 14' Step Back Jump Shot,Missed Shot,Step Back Jump shot,135,-1,14,1,2.0,0.0,h
+S2324-G0562,2,07:16,BKN,,MIA,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0562,2,05:57,BKN,,MIA,,L. Walker IV,BKN,SUB: Bridges FOR Walker IV,Substitution,,0,0,0,0,,,h
+S2324-G0562,4,10:19,BKN,,MIA,,L. Walker IV,BKN,MISS Walker IV 25' 3PT Jump Shot,Missed Shot,Jump Shot,-64,237,25,1,3.0,0.0,h
+S2324-G0562,4,08:54,BKN,,MIA,,L. Walker IV,BKN,SUB: Bridges FOR Walker IV,Substitution,,0,0,0,0,,,h
+S2324-G0866,1,06:35,BKN,,ATL,,L. Walker IV,BKN,MISS Walker IV 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,5,24,1,3.0,0.0,h
+S2324-G0866,1,05:46,BKN,,ATL,,L. Walker IV,BKN,MISS Walker IV 4' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,31,17,4,1,2.0,0.0,h
+S2324-G0866,1,04:56,BKN,,ATL,,L. Walker IV,BKN,MISS Walker IV 17' Step Back Jump Shot,Missed Shot,Step Back Jump shot,80,149,17,1,2.0,0.0,h
+S2324-G0866,1,04:43,BKN,,ATL,,L. Walker IV,BKN,MISS Walker IV 4' Driving Hook Shot,Missed Shot,Driving Hook Shot,37,20,4,1,2.0,0.0,h
+S2324-G0866,1,03:24,BKN,,ATL,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0866,1,03:05,BKN,,ATL,,L. Walker IV,BKN,MISS Walker IV 26' 3PT Jump Shot,Missed Shot,Jump Shot,138,223,26,1,3.0,0.0,h
+S2324-G0866,1,02:00,BKN,,ATL,,L. Walker IV,BKN,MISS Walker IV 3PT Jump Shot,Missed Shot,Jump Shot,-230,17,0,1,3.0,0.0,h
+S2324-G0866,1,01:06,BKN,,ATL,,L. Walker IV,BKN,SUB: Johnson FOR Walker IV,Substitution,,0,0,0,0,,,h
+S2324-G0866,2,07:40,BKN,,ATL,,L. Walker IV,BKN,Walker IV Traveling Turnover (P1.T5),Turnover,Traveling,0,0,0,0,,,h
+S2324-G0866,2,07:40,BKN,,ATL,,L. Walker IV,BKN,SUB: Bridges FOR Walker IV,Substitution,,0,0,0,0,,,h
+S2324-G0866,3,01:32,BKN,,ATL,,L. Walker IV,BKN,NETS T.Foul (Def. 3 Sec Walker IV ) (N.Green),Foul,Defense 3 Second,0,0,0,0,,,h
+S2324-G0866,3,00:46,BKN,88.0,ATL,78.0,L. Walker IV,BKN,Walker IV 20' Jump Shot (2 PTS) (Smith Jr. 6 AST),Made Shot,Jump Shot,-201,9,20,1,2.0,2.0,h
+S2324-G0866,3,00:12.600000,BKN,,ATL,,L. Walker IV,BKN,Walker IV P.FOUL (P1.PN) (N.Green),Foul,Personal,0,0,0,0,,,h
+S2324-G0020,1,04:56,BKN,,ORL,,L. Walker IV,BKN,MISS Walker IV 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,77,257,27,1,3.0,0.0,h
+S2324-G0020,1,04:30,BKN,22.0,ORL,13.0,L. Walker IV,BKN,Walker IV 3PT Jump Shot (3 PTS) (Bridges 1 AST),Made Shot,Jump Shot,232,12,0,1,3.0,3.0,h
+S2324-G0020,1,03:15,BKN,,ORL,,L. Walker IV,BKN,Walker IV STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0020,1,01:59,BKN,,ORL,,L. Walker IV,BKN,Walker IV STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0020,1,01:07,BKN,,ORL,,L. Walker IV,BKN,MISS Walker IV 14' Step Back Jump Shot,Missed Shot,Step Back Jump shot,140,26,14,1,2.0,0.0,h
+S2324-G0020,2,10:33,BKN,,ORL,,L. Walker IV,BKN,MISS Walker IV 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,67,260,27,1,3.0,0.0,h
+S2324-G0020,2,09:21,BKN,,ORL,,L. Walker IV,BKN,SUB: Dinwiddie FOR Walker IV,Substitution,,0,0,0,0,,,h
+S2324-G0020,2,04:32,BKN,43.0,ORL,47.0,L. Walker IV,BKN,Walker IV 24' 3PT Jump Shot (6 PTS) (Dinwiddie 2 AST),Made Shot,Jump Shot,232,58,24,1,3.0,3.0,h
+S2324-G0020,2,04:04,BKN,45.0,ORL,47.0,L. Walker IV,BKN,Walker IV 1' Running Alley Oop Dunk Shot (8 PTS) (O'Neale 1 AST),Made Shot,Running Alley Oop Dunk Shot,10,7,1,1,2.0,2.0,h
+S2324-G0020,2,03:10,BKN,,ORL,,L. Walker IV,BKN,Walker IV Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0020,2,00:45.600000,BKN,,ORL,,L. Walker IV,BKN,Walker IV Lost Ball Turnover (P2.T8),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0020,3,00:26,BKN,,ORL,,L. Walker IV,BKN,MISS Walker IV 1' Running Layup,Missed Shot,Running Layup Shot,-4,-7,1,1,2.0,0.0,h
+S2324-G0020,3,00:00,BKN,,ORL,,L. Walker IV,BKN,MISS Walker IV 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-69,273,28,1,3.0,0.0,h
+S2324-G0020,4,09:26,BKN,,ORL,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0020,4,09:23,BKN,97.0,ORL,89.0,L. Walker IV,BKN,Walker IV 25' 3PT Running Pull-Up Jump Shot (11 PTS),Made Shot,Running Pull-Up Jump Shot,-11,253,25,1,3.0,3.0,h
+S2324-G0020,4,09:00,BKN,,ORL,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0020,4,07:53,BKN,,ORL,,L. Walker IV,BKN,SUB: Johnson FOR Walker IV,Substitution,,0,0,0,0,,,h
+S2324-G0149,1,04:05,BKN,23.0,MIL,17.0,L. Walker IV,BKN,Walker IV 3PT Jump Shot (3 PTS) (Dinwiddie 2 AST),Made Shot,Jump Shot,-232,-25,0,1,3.0,3.0,h
+S2324-G0149,1,02:43,BKN,,MIL,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0149,1,02:38,BKN,25.0,MIL,22.0,L. Walker IV,BKN,Walker IV 1' Layup (5 PTS),Made Shot,Layup Shot,2,-6,1,1,2.0,2.0,h
+S2324-G0149,1,00:00,BKN,,MIL,,L. Walker IV,BKN,MISS Walker IV 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-91,230,25,1,3.0,0.0,h
+S2324-G0149,2,10:39,BKN,,MIL,,L. Walker IV,BKN,MISS Walker IV 1' Driving Layup,Missed Shot,Driving Layup Shot,-7,9,1,1,2.0,0.0,h
+S2324-G0149,2,10:13,BKN,37.0,MIL,37.0,L. Walker IV,BKN,Walker IV 16' Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,93,132,16,1,2.0,2.0,h
+S2324-G0149,2,09:45,BKN,,MIL,,L. Walker IV,BKN,MISS Walker IV 25' 3PT Jump Shot,Missed Shot,Jump Shot,107,227,25,1,3.0,0.0,h
+S2324-G0149,2,08:08,BKN,42.0,MIL,42.0,L. Walker IV,BKN,Walker IV 25' 3PT Jump Shot (10 PTS) (Finney-Smith 1 AST),Made Shot,Jump Shot,124,221,25,1,3.0,3.0,h
+S2324-G0149,2,07:03,BKN,,MIL,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0149,2,06:22,BKN,48.0,MIL,50.0,L. Walker IV,BKN,Walker IV 11' Driving Floating Bank Jump Shot (12 PTS),Made Shot,Driving Floating Bank Jump Shot,98,46,11,1,2.0,2.0,h
+S2324-G0149,2,05:45,BKN,,MIL,,L. Walker IV,BKN,Walker IV Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0149,2,04:16,BKN,55.0,MIL,58.0,L. Walker IV,BKN,Walker IV 14' Pullup Jump Shot (14 PTS),Made Shot,Pullup Jump shot,70,119,14,1,2.0,2.0,h
+S2324-G0149,2,03:58,BKN,,MIL,,L. Walker IV,BKN,SUB: Bridges FOR Walker IV,Substitution,,0,0,0,0,,,h
+S2324-G0149,3,03:03,BKN,,MIL,,L. Walker IV,BKN,MISS Walker IV 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-109,167,20,1,2.0,0.0,h
+S2324-G0149,3,02:22,BKN,,MIL,,L. Walker IV,BKN,MISS Walker IV 26' 3PT Jump Shot,Missed Shot,Jump Shot,165,204,26,1,3.0,0.0,h
+S2324-G0149,3,01:39,BKN,,MIL,,L. Walker IV,BKN,Walker IV Lost Ball Turnover (P2.T5),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0149,3,01:00,BKN,,MIL,,L. Walker IV,BKN,Walker IV Step Out of Bounds Turnover (P3.T6),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2324-G0149,3,00:27.900000,BKN,,MIL,,L. Walker IV,BKN,SUB: Smith Jr. FOR Walker IV,Substitution,,0,0,0,0,,,h
+S2324-G0149,4,08:48,BKN,,MIL,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0149,4,08:14,BKN,,MIL,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0149,4,07:29,BKN,107.0,MIL,108.0,L. Walker IV,BKN,Walker IV 26' 3PT Jump Shot (17 PTS) (Bridges 4 AST),Made Shot,Jump Shot,-142,218,26,1,3.0,3.0,h
+S2324-G0149,4,05:33,BKN,113.0,MIL,110.0,L. Walker IV,BKN,Walker IV 15' Pullup Jump Shot (19 PTS),Made Shot,Pullup Jump shot,125,84,15,1,2.0,2.0,h
+S2324-G0149,4,04:38,BKN,,MIL,,L. Walker IV,BKN,MISS Walker IV 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-44,263,27,1,3.0,0.0,h
+S2324-G0149,4,03:21,BKN,,MIL,,L. Walker IV,BKN,Walker IV S.FOUL (P1.T4) (M.Smith),Foul,Shooting,0,0,0,0,,,h
+S2324-G0149,4,03:02,BKN,,MIL,,L. Walker IV,BKN,SUB: Simmons FOR Walker IV,Substitution,,0,0,0,0,,,h
+S2324-G0149,4,00:08.400000,BKN,,MIL,,L. Walker IV,BKN,SUB: Simmons FOR Walker IV,Substitution,,0,0,0,0,,,h
+S2324-G1036,1,06:01,TOR,,BKN,,L. Walker IV,BKN,MISS Walker IV 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-43,37,6,1,2.0,0.0,v
+S2324-G1036,1,03:47,TOR,,BKN,,L. Walker IV,BKN,MISS Walker IV 24' 3PT Jump Shot,Missed Shot,Jump Shot,-222,92,24,1,3.0,0.0,v
+S2324-G1036,1,03:45,TOR,,BKN,,L. Walker IV,BKN,Walker IV P.FOUL (P1.T2) (M.Smith),Foul,Personal,0,0,0,0,,,v
+S2324-G1036,1,00:45.500000,TOR,,BKN,,L. Walker IV,BKN,MISS Walker IV 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,21,146,15,1,2.0,0.0,v
+S2324-G1036,1,00:08.300000,TOR,,BKN,,L. Walker IV,BKN,MISS Walker IV 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,55,263,27,1,3.0,0.0,v
+S2324-G1036,3,00:34.500000,TOR,,BKN,,L. Walker IV,BKN,MISS Walker IV 26' 3PT Jump Shot,Missed Shot,Jump Shot,-212,151,26,1,3.0,0.0,v
+S2324-G1036,3,00:05,TOR,,BKN,,L. Walker IV,BKN,MISS Walker IV 28' 3PT Jump Shot,Missed Shot,Jump Shot,-169,222,28,1,3.0,0.0,v
+S2324-G0830,1,02:21,MEM,12.0,BKN,24.0,L. Walker IV,BKN,Walker IV 25' 3PT Running Jump Shot (3 PTS) (Thomas 2 AST),Made Shot,Running Jump Shot,125,220,25,1,3.0,3.0,v
+S2324-G0830,1,00:30,MEM,,BKN,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0830,2,10:23,MEM,,BKN,,L. Walker IV,BKN,MISS Walker IV 2' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,11,17,2,1,2.0,0.0,v
+S2324-G0830,2,09:53,MEM,,BKN,,L. Walker IV,BKN,MISS Walker IV 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-135,213,25,1,3.0,0.0,v
+S2324-G0830,2,09:40,MEM,,BKN,,L. Walker IV,BKN,SUB: Smith Jr. FOR Walker IV,Substitution,,0,0,0,0,,,v
+S2324-G0830,2,05:02,MEM,,BKN,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0830,2,04:59,MEM,31.0,BKN,51.0,L. Walker IV,BKN,Walker IV 25' 3PT Running Pull-Up Jump Shot (6 PTS),Made Shot,Running Pull-Up Jump Shot,86,240,25,1,3.0,3.0,v
+S2324-G0830,2,04:02,MEM,,BKN,,L. Walker IV,BKN,SUB: Johnson FOR Walker IV,Substitution,,0,0,0,0,,,v
+S2324-G0830,2,00:41.300000,MEM,40.0,BKN,66.0,L. Walker IV,BKN,Walker IV 26' 3PT Jump Shot (9 PTS),Made Shot,Jump Shot,74,252,26,1,3.0,3.0,v
+S2324-G0830,3,06:52,MEM,,BKN,,L. Walker IV,BKN,MISS Walker IV 25' 3PT Jump Shot,Missed Shot,Jump Shot,-148,204,25,1,3.0,0.0,v
+S2324-G0830,3,06:30,MEM,,BKN,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0830,3,06:00,MEM,,BKN,,L. Walker IV,BKN,MISS Walker IV 3PT Jump Shot,Missed Shot,Jump Shot,225,63,0,1,3.0,0.0,v
+S2324-G0830,3,05:44,MEM,,BKN,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0830,3,05:40,MEM,56.0,BKN,75.0,L. Walker IV,BKN,Walker IV 1' Running Layup (11 PTS),Made Shot,Running Layup Shot,9,1,1,1,2.0,2.0,v
+S2324-G0830,3,03:09,MEM,60.0,BKN,80.0,L. Walker IV,BKN,Walker IV Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0830,3,03:09,MEM,60.0,BKN,81.0,L. Walker IV,BKN,Walker IV Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0830,3,02:57,MEM,,BKN,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0830,3,01:11,MEM,,BKN,,L. Walker IV,BKN,MISS Walker IV 27' 3PT Jump Shot,Missed Shot,Jump Shot,-135,235,27,1,3.0,0.0,v
+S2324-G0830,3,00:59.800000,MEM,,BKN,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0830,3,00:03.400000,MEM,,BKN,,L. Walker IV,BKN,MISS Walker IV 3PT Jump Shot,Missed Shot,Jump Shot,-233,13,0,1,3.0,0.0,v
+S2324-G0830,4,11:39,MEM,,BKN,,L. Walker IV,BKN,MISS Walker IV 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-40,193,20,1,2.0,0.0,v
+S2324-G0830,4,10:02,MEM,,BKN,,L. Walker IV,BKN,SUB: Johnson FOR Walker IV,Substitution,,0,0,0,0,,,v
+S2324-G0902,1,07:33,DET,11.0,BKN,3.0,L. Walker IV,BKN,Walker IV 27' 3PT Jump Shot (3 PTS) (Bridges 1 AST),Made Shot,Jump Shot,-168,210,27,1,3.0,3.0,v
+S2324-G0902,1,07:03,DET,,BKN,,L. Walker IV,BKN,MISS Walker IV 26' 3PT Jump Shot,Missed Shot,Jump Shot,154,209,26,1,3.0,0.0,v
+S2324-G0902,1,05:07,DET,,BKN,,L. Walker IV,BKN,SUB: Watford FOR Walker IV,Substitution,,0,0,0,0,,,v
+S2324-G0902,1,00:00.700000,DET,,BKN,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0902,1,00:00.200000,DET,,BKN,,L. Walker IV,BKN,MISS Walker IV 54' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-16,542,54,1,3.0,0.0,v
+S2324-G0902,2,08:56,DET,,BKN,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0902,2,08:48,DET,34.0,BKN,29.0,L. Walker IV,BKN,Walker IV 4' Driving Reverse Layup (5 PTS),Made Shot,Driving Reverse Layup Shot,-37,-3,4,1,2.0,2.0,v
+S2324-G0902,2,06:40,DET,40.0,BKN,35.0,L. Walker IV,BKN,Walker IV 24' 3PT Running Jump Shot (8 PTS) (Schroder 3 AST),Made Shot,Running Jump Shot,-235,4,24,1,3.0,3.0,v
+S2324-G0902,2,05:24,DET,45.0,BKN,40.0,L. Walker IV,BKN,Walker IV 18' Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,56,173,18,1,2.0,2.0,v
+S2324-G0902,2,05:03,DET,,BKN,,L. Walker IV,BKN,Walker IV P.FOUL (P1.T2) (E.Malloy),Foul,Personal,0,0,0,0,,,v
+S2324-G0902,2,04:34,DET,45.0,BKN,43.0,L. Walker IV,BKN,Walker IV 27' 3PT Jump Shot (13 PTS) (Clowney 2 AST),Made Shot,Jump Shot,224,147,27,1,3.0,3.0,v
+S2324-G0902,2,03:55,DET,,BKN,,L. Walker IV,BKN,MISS Walker IV 24' 3PT Jump Shot,Missed Shot,Jump Shot,-239,10,24,1,3.0,0.0,v
+S2324-G0902,2,02:55,DET,,BKN,,L. Walker IV,BKN,SUB: Watford FOR Walker IV,Substitution,,0,0,0,0,,,v
+S2324-G0902,3,09:37,DET,,BKN,,L. Walker IV,BKN,MISS Walker IV 24' 3PT Jump Shot,Missed Shot,Jump Shot,240,24,24,1,3.0,0.0,v
+S2324-G0902,3,09:26,DET,,BKN,,L. Walker IV,BKN,Walker IV P.FOUL (P2.T1) (E.Malloy),Foul,Personal,0,0,0,0,,,v
+S2324-G0902,3,08:07,DET,,BKN,,L. Walker IV,BKN,Walker IV Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0902,3,07:55,DET,,BKN,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0902,3,07:33,DET,,BKN,,L. Walker IV,BKN,Walker IV S.FOUL (P3.T2) (B.Barnaky),Foul,Shooting,0,0,0,0,,,v
+S2324-G0902,3,07:33,DET,,BKN,,L. Walker IV,BKN,SUB: Clowney FOR Walker IV,Substitution,,0,0,0,0,,,v
+S2324-G0902,3,00:18.400000,DET,85.0,BKN,81.0,L. Walker IV,BKN,Walker IV 26' 3PT Pullup Jump Shot (16 PTS) (Schroder 6 AST),Made Shot,Pullup Jump shot,147,220,26,1,3.0,3.0,v
+S2324-G0902,4,11:04,DET,,BKN,,L. Walker IV,BKN,MISS Walker IV 3PT Jump Shot,Missed Shot,Jump Shot,-229,-7,0,1,3.0,0.0,v
+S2324-G0902,4,08:53,DET,,BKN,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0902,4,08:12,DET,,BKN,,L. Walker IV,BKN,Walker IV Traveling Turnover (P2.T12),Turnover,Traveling,0,0,0,0,,,v
+S2324-G0902,4,07:33,DET,,BKN,,L. Walker IV,BKN,SUB: Watford FOR Walker IV,Substitution,,0,0,0,0,,,v
+S2324-G0902,4,05:16,DET,,BKN,,L. Walker IV,BKN,MISS Walker IV 25' 3PT Jump Shot,Missed Shot,Jump Shot,237,94,25,1,3.0,0.0,v
+S2324-G0902,4,04:13,DET,107.0,BKN,101.0,L. Walker IV,BKN,Walker IV 24' 3PT Jump Shot (19 PTS) (Schroder 7 AST),Made Shot,Jump Shot,-233,51,24,1,3.0,3.0,v
+S2324-G0902,4,03:44,DET,,BKN,,L. Walker IV,BKN,MISS Walker IV 4' Driving Layup,Missed Shot,Driving Layup Shot,-3,40,4,1,2.0,0.0,v
+S2324-G0902,4,02:03,DET,111.0,BKN,106.0,L. Walker IV,BKN,Walker IV 2' Driving Layup (21 PTS) (Schroder 8 AST),Made Shot,Driving Layup Shot,-21,0,2,1,2.0,2.0,v
+S2324-G0902,4,01:35,DET,,BKN,,L. Walker IV,BKN,MISS Walker IV 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-167,211,27,1,3.0,0.0,v
+S2324-G0902,4,00:42.700000,DET,,BKN,,L. Walker IV,BKN,MISS Walker IV 26' 3PT Jump Shot,Missed Shot,Jump Shot,-210,148,26,1,3.0,0.0,v
+S2324-G0902,4,00:10.200000,DET,,BKN,,L. Walker IV,BKN,MISS Walker IV 29' 3PT Jump Shot,Missed Shot,Jump Shot,-183,229,29,1,3.0,0.0,v
+S2324-G1128,1,00:07.700000,BKN,23.0,DET,35.0,L. Walker IV,BKN,Walker IV 27' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,-70,256,27,1,3.0,3.0,h
+S2324-G1128,2,11:06,BKN,,DET,,L. Walker IV,BKN,Walker IV Out of Bounds - Bad Pass Turnover Turnover (P1.T9),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G1128,2,10:00,BKN,,DET,,L. Walker IV,BKN,MISS Walker IV 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,54,119,13,1,2.0,0.0,h
+S2324-G1128,2,08:44,BKN,,DET,,L. Walker IV,BKN,MISS Walker IV 3PT Jump Shot,Missed Shot,Jump Shot,228,9,0,1,3.0,0.0,h
+S2324-G1128,2,08:09,BKN,,DET,,L. Walker IV,BKN,SUB: Bridges FOR Walker IV,Substitution,,0,0,0,0,,,h
+S2324-G1128,4,10:00,BKN,,DET,,L. Walker IV,BKN,SUB: Wilson FOR Walker IV,Substitution,,0,0,0,0,,,h
+S2324-G1128,4,00:19.900000,BKN,,DET,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0851,1,05:09,BKN,,ATL,,L. Walker IV,BKN,Walker IV S.FOUL (P1.T2) (E.Dalen),Foul,Shooting,0,0,0,0,,,h
+S2324-G0851,1,04:02,BKN,,ATL,,L. Walker IV,BKN,Walker IV Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0851,1,03:58,BKN,,ATL,,L. Walker IV,BKN,SUB: Johnson FOR Walker IV,Substitution,,0,0,0,0,,,h
+S2324-G0851,2,11:05,BKN,,ATL,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0851,2,10:50,BKN,,ATL,,L. Walker IV,BKN,Walker IV STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0851,2,10:43,BKN,37.0,ATL,18.0,L. Walker IV,BKN,Walker IV 24' 3PT Running Pull-Up Jump Shot (3 PTS),Made Shot,Running Pull-Up Jump Shot,-241,12,24,1,3.0,3.0,h
+S2324-G0851,2,08:32,BKN,,ATL,,L. Walker IV,BKN,MISS Walker IV 5' Driving Layup,Missed Shot,Driving Layup Shot,40,28,5,1,2.0,0.0,h
+S2324-G0851,2,07:40,BKN,,ATL,,L. Walker IV,BKN,Walker IV S.FOUL (P2.T3) (Z.Zarba),Foul,Shooting,0,0,0,0,,,h
+S2324-G0851,2,07:18,BKN,,ATL,,L. Walker IV,BKN,MISS Walker IV 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-102,273,29,1,3.0,0.0,h
+S2324-G0851,2,06:25,BKN,,ATL,,L. Walker IV,BKN,Walker IV S.FOUL (P3.T4) (M.Kallio),Foul,Shooting,0,0,0,0,,,h
+S2324-G0851,2,06:25,BKN,,ATL,,L. Walker IV,BKN,SUB: Johnson FOR Walker IV,Substitution,,0,0,0,0,,,h
+S2324-G0851,3,01:55,BKN,89.0,ATL,69.0,L. Walker IV,BKN,Walker IV 1' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,4,-4,1,1,2.0,2.0,h
+S2324-G0851,3,00:50.900000,BKN,92.0,ATL,73.0,L. Walker IV,BKN,Walker IV 25' 3PT Jump Shot (8 PTS) (Bridges 4 AST),Made Shot,Jump Shot,212,138,25,1,3.0,3.0,h
+S2324-G0851,3,00:30,BKN,,ATL,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0851,3,00:02.700000,BKN,,ATL,,L. Walker IV,BKN,MISS Walker IV 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,157,184,24,1,3.0,0.0,h
+S2324-G0851,4,11:41,BKN,,ATL,,L. Walker IV,BKN,MISS Walker IV 24' 3PT Jump Shot,Missed Shot,Jump Shot,223,90,24,1,3.0,0.0,h
+S2324-G0851,4,11:26,BKN,,ATL,,L. Walker IV,BKN,MISS Walker IV 6' Driving Layup,Missed Shot,Driving Layup Shot,56,-16,6,1,2.0,0.0,h
+S2324-G0851,4,10:34,BKN,,ATL,,L. Walker IV,BKN,Walker IV P.FOUL (P4.T1) (E.Dalen),Foul,Personal,0,0,0,0,,,h
+S2324-G0851,4,09:13,BKN,102.0,ATL,78.0,L. Walker IV,BKN,Walker IV 3PT Jump Shot (11 PTS) (Bridges 5 AST),Made Shot,Jump Shot,227,19,0,1,3.0,3.0,h
+S2324-G0851,4,08:45,BKN,,ATL,,L. Walker IV,BKN,Walker IV S.FOUL (P5.T2) (M.Kallio),Foul,Shooting,0,0,0,0,,,h
+S2324-G0851,4,08:45,BKN,,ATL,,L. Walker IV,BKN,SUB: Johnson FOR Walker IV,Substitution,,0,0,0,0,,,h
+S2324-G0200,1,02:32,MIA,20.0,BKN,25.0,L. Walker IV,BKN,Walker IV 2' Running Layup (2 PTS) (O'Neale 2 AST),Made Shot,Running Layup Shot,17,1,2,1,2.0,2.0,v
+S2324-G0200,1,00:30.400000,MIA,,BKN,,L. Walker IV,BKN,MISS Walker IV 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-189,62,20,1,2.0,0.0,v
+S2324-G0200,2,11:20,MIA,32.0,BKN,30.0,L. Walker IV,BKN,Walker IV 27' 3PT Jump Shot (5 PTS) (Johnson 1 AST),Made Shot,Jump Shot,163,215,27,1,3.0,3.0,v
+S2324-G0200,2,10:49,MIA,34.0,BKN,33.0,L. Walker IV,BKN,Walker IV 25' 3PT Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,72,243,25,1,3.0,3.0,v
+S2324-G0200,2,10:30,MIA,,BKN,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0200,2,10:22,MIA,,BKN,,L. Walker IV,BKN,MISS Walker IV 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,69,258,27,1,3.0,0.0,v
+S2324-G0200,2,09:10,MIA,,BKN,,L. Walker IV,BKN,MISS Walker IV 25' 3PT Jump Shot,Missed Shot,Jump Shot,-180,167,25,1,3.0,0.0,v
+S2324-G0200,2,08:13,MIA,,BKN,,L. Walker IV,BKN,MISS Walker IV 3' Floating Jump Shot,Missed Shot,Floating Jump shot,-33,-4,3,1,2.0,0.0,v
+S2324-G0200,2,07:49,MIA,,BKN,,L. Walker IV,BKN,SUB: Finney-Smith FOR Walker IV,Substitution,,0,0,0,0,,,v
+S2324-G0200,3,08:46,MIA,64.0,BKN,61.0,L. Walker IV,BKN,Walker IV 15' Pullup Jump Shot (10 PTS) (Claxton 2 AST),Made Shot,Pullup Jump shot,-13,146,15,1,2.0,2.0,v
+S2324-G0200,3,08:32,MIA,,BKN,,L. Walker IV,BKN,Walker IV S.FOUL (P1.T3) (J.DeRosa),Foul,Shooting,0,0,0,0,,,v
+S2324-G0200,3,06:51,MIA,,BKN,,L. Walker IV,BKN,MISS Walker IV Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0200,3,06:51,MIA,69.0,BKN,64.0,L. Walker IV,BKN,Walker IV Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0200,3,05:58,MIA,,BKN,,L. Walker IV,BKN,MISS Walker IV 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-10,258,26,1,3.0,0.0,v
+S2324-G0200,3,05:46,MIA,73.0,BKN,66.0,L. Walker IV,BKN,Walker IV 2' Driving Layup (13 PTS),Made Shot,Driving Layup Shot,-22,2,2,1,2.0,2.0,v
+S2324-G0200,3,05:22,MIA,75.0,BKN,68.0,L. Walker IV,BKN,Walker IV 5' Driving Layup (15 PTS) (Dinwiddie 4 AST),Made Shot,Driving Layup Shot,47,23,5,1,2.0,2.0,v
+S2324-G0200,3,04:14,MIA,,BKN,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0200,3,03:57,MIA,,BKN,,L. Walker IV,BKN,MISS Walker IV 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,223,95,24,1,3.0,0.0,v
+S2324-G0200,3,03:47,MIA,,BKN,,L. Walker IV,BKN,Walker IV STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0200,3,03:42,MIA,,BKN,,L. Walker IV,BKN,MISS Walker IV 2' Running Layup,Missed Shot,Running Layup Shot,2,18,2,1,2.0,0.0,v
+S2324-G0200,3,03:42,MIA,,BKN,,L. Walker IV,BKN,Walker IV REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0200,3,03:42,MIA,77.0,BKN,72.0,L. Walker IV,BKN,Walker IV Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0200,3,03:42,MIA,77.0,BKN,73.0,L. Walker IV,BKN,Walker IV Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0200,3,00:29.400000,MIA,92.0,BKN,81.0,L. Walker IV,BKN,Walker IV 4' Driving Floating Jump Shot (19 PTS) (O'Neale 4 AST),Made Shot,Driving Floating Jump Shot,-5,42,4,1,2.0,2.0,v
+S2324-G0200,3,00:00.100000,MIA,95.0,BKN,83.0,L. Walker IV,BKN,Walker IV 1' Running Layup (21 PTS),Made Shot,Running Layup Shot,5,8,1,1,2.0,2.0,v
+S2324-G0200,4,10:36,MIA,,BKN,,L. Walker IV,BKN,Walker IV Out of Bounds Lost Ball Turnover (P1.T11),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2324-G0200,4,09:55,MIA,,BKN,,L. Walker IV,BKN,SUB: Bridges FOR Walker IV,Substitution,,0,0,0,0,,,v
+S2324-G0200,4,06:06,MIA,,BKN,,L. Walker IV,BKN,Walker IV Lost Ball Turnover (P2.T14),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0200,4,04:29,MIA,,BKN,,L. Walker IV,BKN,MISS Walker IV 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-239,70,25,1,3.0,0.0,v
+S2324-G0200,4,03:20,MIA,115.0,BKN,106.0,L. Walker IV,BKN,Walker IV 2' Driving Layup (23 PTS) (Bridges 4 AST),Made Shot,Driving Layup Shot,17,7,2,1,2.0,2.0,v
+S2324-G0200,4,02:02,MIA,,BKN,,L. Walker IV,BKN,MISS Walker IV 21' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-54,206,21,1,2.0,0.0,v
+S2324-G0200,4,01:37,MIA,,BKN,,L. Walker IV,BKN,Walker IV L.B.FOUL (P2.T1) (M.Ervin),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G1078,4,02:35,BKN,99.0,LAL,114.0,L. Walker IV,BKN,Walker IV Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1078,4,02:35,BKN,,LAL,,L. Walker IV,BKN,MISS Walker IV Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G1078,4,02:05,BKN,,LAL,,L. Walker IV,BKN,MISS Walker IV 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,161,195,25,1,3.0,0.0,h
+S2324-G1078,4,00:32.300000,BKN,,LAL,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1078,4,00:27.800000,BKN,,LAL,,L. Walker IV,BKN,Walker IV Bad Pass Turnover (P1.T13),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0887,1,04:43,BKN,20.0,PHI,19.0,L. Walker IV,BKN,Walker IV 25' 3PT Jump Shot (3 PTS) (Finney-Smith 1 AST),Made Shot,Jump Shot,116,227,25,1,3.0,3.0,h
+S2324-G0887,1,03:58,BKN,,PHI,,L. Walker IV,BKN,SUB: Watford FOR Walker IV,Substitution,,0,0,0,0,,,h
+S2324-G0887,1,02:07,BKN,,PHI,,L. Walker IV,BKN,Walker IV S.FOUL (P1.T2) (C.Blair),Foul,Shooting,0,0,0,0,,,h
+S2324-G0887,1,01:49,BKN,,PHI,,L. Walker IV,BKN,MISS Walker IV 26' 3PT Jump Shot,Missed Shot,Jump Shot,-125,227,26,1,3.0,0.0,h
+S2324-G0887,1,01:24,BKN,,PHI,,L. Walker IV,BKN,Walker IV L.B.FOUL (P2.T3) (J.DeRosa),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0887,1,01:09,BKN,,PHI,,L. Walker IV,BKN,SUB: Bridges FOR Walker IV,Substitution,,0,0,0,0,,,h
+S2324-G0887,2,08:53,BKN,,PHI,,L. Walker IV,BKN,MISS Walker IV 13' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,31,123,13,1,2.0,0.0,h
+S2324-G0887,2,08:31,BKN,,PHI,,L. Walker IV,BKN,Walker IV STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0887,2,08:17,BKN,29.0,PHI,38.0,L. Walker IV,BKN,Walker IV 26' 3PT Jump Shot (6 PTS) (Smith Jr. 4 AST),Made Shot,Jump Shot,118,230,26,1,3.0,3.0,h
+S2324-G0887,2,06:08,BKN,,PHI,,L. Walker IV,BKN,MISS Walker IV 21' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-5,207,21,1,2.0,0.0,h
+S2324-G0887,2,04:49,BKN,40.0,PHI,43.0,L. Walker IV,BKN,Walker IV 10' Fadeaway Jumper (8 PTS),Made Shot,Fadeaway Jump Shot,12,96,10,1,2.0,2.0,h
+S2324-G0887,2,03:53,BKN,43.0,PHI,46.0,L. Walker IV,BKN,Walker IV 3PT Running Pull-Up Jump Shot (11 PTS) (Smith Jr. 5 AST),Made Shot,Running Pull-Up Jump Shot,229,-21,0,1,3.0,3.0,h
+S2324-G0887,2,02:16,BKN,,PHI,,L. Walker IV,BKN,MISS Walker IV 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,32,4,3,1,2.0,0.0,h
+S2324-G0887,2,01:46,BKN,,PHI,,L. Walker IV,BKN,SUB: Wilson FOR Walker IV,Substitution,,0,0,0,0,,,h
+S2324-G0887,2,00:43.300000,BKN,,PHI,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0887,2,00:22,BKN,,PHI,,L. Walker IV,BKN,SUB: Claxton FOR Walker IV,Substitution,,0,0,0,0,,,h
+S2324-G0887,3,11:18,BKN,58.0,PHI,57.0,L. Walker IV,BKN,Walker IV 7' Driving Layup (13 PTS),Made Shot,Driving Layup Shot,48,48,7,1,2.0,2.0,h
+S2324-G0887,3,09:26,BKN,,PHI,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0887,3,09:23,BKN,,PHI,,L. Walker IV,BKN,MISS Walker IV 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-206,134,25,1,3.0,0.0,h
+S2324-G0887,3,09:12,BKN,,PHI,,L. Walker IV,BKN,Walker IV P.FOUL (P3.T2) (J.DeRosa),Foul,Personal,0,0,0,0,,,h
+S2324-G0887,3,07:33,BKN,,PHI,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0887,3,07:21,BKN,,PHI,,L. Walker IV,BKN,MISS Walker IV 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-21,67,7,1,2.0,0.0,h
+S2324-G0887,3,06:54,BKN,,PHI,,L. Walker IV,BKN,MISS Walker IV 2' Driving Layup,Missed Shot,Driving Layup Shot,22,5,2,1,2.0,0.0,h
+S2324-G0887,3,06:36,BKN,,PHI,,L. Walker IV,BKN,Walker IV S.FOUL (P4.T3) (J.Sterling),Foul,Shooting,0,0,0,0,,,h
+S2324-G0887,3,06:36,BKN,,PHI,,L. Walker IV,BKN,SUB: Wilson FOR Walker IV,Substitution,,0,0,0,0,,,h
+S2324-G0887,3,01:03,BKN,77.0,PHI,79.0,L. Walker IV,BKN,Walker IV Driving Layup (15 PTS) (Schroder 6 AST),Made Shot,Driving Layup Shot,-4,0,0,1,2.0,2.0,h
+S2324-G0887,3,00:00,BKN,80.0,PHI,83.0,L. Walker IV,BKN,Walker IV 28' 3PT Pullup Jump Shot (18 PTS),Made Shot,Pullup Jump shot,92,266,28,1,3.0,3.0,h
+S2324-G0887,4,11:03,BKN,,PHI,,L. Walker IV,BKN,Walker IV Traveling Turnover (P1.T11),Turnover,Traveling,0,0,0,0,,,h
+S2324-G0887,4,06:46,BKN,,PHI,,L. Walker IV,BKN,SUB: Schroder FOR Walker IV,Substitution,,0,0,0,0,,,h
+S2324-G0887,4,01:50,BKN,,PHI,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0887,4,00:23.100000,BKN,,PHI,,L. Walker IV,BKN,SUB: Smith Jr. FOR Walker IV,Substitution,,0,0,0,0,,,h
+S2324-G0887,4,00:02.500000,BKN,,PHI,,L. Walker IV,BKN,MISS Walker IV Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0887,4,00:02.500000,BKN,112.0,PHI,107.0,L. Walker IV,BKN,Walker IV Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0645,1,01:11,BKN,,HOU,,L. Walker IV,BKN,MISS Walker IV 26' 3PT Jump Shot,Missed Shot,Jump Shot,200,166,26,1,3.0,0.0,h
+S2324-G0645,1,00:32.400000,BKN,,HOU,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0645,1,00:08.700000,BKN,,HOU,,L. Walker IV,BKN,Walker IV S.FOUL (P1.T4) (B.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2324-G0645,2,09:26,BKN,,HOU,,L. Walker IV,BKN,MISS Walker IV 19' Step Back Jump Shot,Missed Shot,Step Back Jump shot,12,189,19,1,2.0,0.0,h
+S2324-G0645,2,08:56,BKN,,HOU,,L. Walker IV,BKN,Walker IV STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0645,2,06:02,BKN,,HOU,,L. Walker IV,BKN,SUB: Claxton FOR Walker IV,Substitution,,0,0,0,0,,,h
+S2324-G0645,3,01:35,BKN,,HOU,,L. Walker IV,BKN,MISS Walker IV 24' 3PT Jump Shot,Missed Shot,Jump Shot,232,53,24,1,3.0,0.0,h
+S2324-G0645,4,10:40,BKN,,HOU,,L. Walker IV,BKN,MISS Walker IV 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-123,256,28,1,3.0,0.0,h
+S2324-G0645,4,10:33,BKN,,HOU,,L. Walker IV,BKN,SUB: Thomas FOR Walker IV,Substitution,,0,0,0,0,,,h
+S2324-G1019,1,03:56,NYK,20.0,BKN,19.0,L. Walker IV,BKN,Walker IV 3' Driving Reverse Layup (2 PTS) (Bridges 3 AST),Made Shot,Driving Reverse Layup Shot,-16,20,3,1,2.0,2.0,v
+S2324-G1019,1,03:26,NYK,,BKN,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1019,1,00:38.400000,NYK,25.0,BKN,30.0,L. Walker IV,BKN,Walker IV 30' 3PT Jump Shot (5 PTS) (Thomas 2 AST),Made Shot,Jump Shot,178,237,30,1,3.0,3.0,v
+S2324-G1019,2,11:04,NYK,28.0,BKN,32.0,L. Walker IV,BKN,Walker IV 1' Cutting Layup Shot (7 PTS) (Sharpe 1 AST),Made Shot,Cutting Layup Shot,-4,9,1,1,2.0,2.0,v
+S2324-G1019,2,10:27,NYK,,BKN,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1019,2,10:16,NYK,28.0,BKN,34.0,L. Walker IV,BKN,Walker IV 21' Step Back Jump Shot (9 PTS),Made Shot,Step Back Jump shot,55,199,21,1,2.0,2.0,v
+S2324-G1019,2,09:04,NYK,,BKN,,L. Walker IV,BKN,Walker IV Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G1019,2,08:53,NYK,,BKN,,L. Walker IV,BKN,SUB: Bridges FOR Walker IV,Substitution,,0,0,0,0,,,v
+S2324-G1019,3,01:36,NYK,,BKN,,L. Walker IV,BKN,MISS Walker IV 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,138,246,28,1,3.0,0.0,v
+S2324-G1019,4,10:35,NYK,,BKN,,L. Walker IV,BKN,MISS Walker IV 3PT Jump Shot,Missed Shot,Jump Shot,-229,42,0,1,3.0,0.0,v
+S2324-G1019,4,10:20,NYK,,BKN,,L. Walker IV,BKN,SUB: Bridges FOR Walker IV,Substitution,,0,0,0,0,,,v
+S2324-G0833,1,04:45,ORL,,BKN,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0833,1,04:39,ORL,,BKN,,L. Walker IV,BKN,MISS Walker IV 2' Running Layup,Missed Shot,Running Layup Shot,-11,15,2,1,2.0,0.0,v
+S2324-G0833,1,02:51,ORL,,BKN,,L. Walker IV,BKN,MISS Walker IV 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,26,253,25,1,3.0,0.0,v
+S2324-G0833,1,02:33,ORL,,BKN,,L. Walker IV,BKN,SUB: Watford FOR Walker IV,Substitution,,0,0,0,0,,,v
+S2324-G0833,2,09:17,ORL,,BKN,,L. Walker IV,BKN,MISS Walker IV 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,197,20,1,2.0,0.0,v
+S2324-G0833,2,08:26,ORL,,BKN,,L. Walker IV,BKN,Walker IV P.FOUL (P1.T1) (D.Taylor),Foul,Personal,0,0,0,0,,,v
+S2324-G0833,2,07:26,ORL,,BKN,,L. Walker IV,BKN,MISS Walker IV 7' Driving Layup,Missed Shot,Driving Layup Shot,11,66,7,1,2.0,0.0,v
+S2324-G0833,2,07:14,ORL,,BKN,,L. Walker IV,BKN,Walker IV STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0833,2,04:56,ORL,,BKN,,L. Walker IV,BKN,MISS Walker IV 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-2,262,26,1,3.0,0.0,v
+S2324-G0833,2,04:08,ORL,,BKN,,L. Walker IV,BKN,SUB: Bridges FOR Walker IV,Substitution,,0,0,0,0,,,v
+S2324-G0833,3,04:11,ORL,,BKN,,L. Walker IV,BKN,MISS Walker IV 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,6,212,21,1,2.0,0.0,v
+S2324-G0833,3,02:25,ORL,,BKN,,L. Walker IV,BKN,Walker IV S.FOUL (P2.T2) (M.Smith),Foul,Shooting,0,0,0,0,,,v
+S2324-G0833,3,02:04,ORL,,BKN,,L. Walker IV,BKN,SUB: Schroder FOR Walker IV,Substitution,,0,0,0,0,,,v
+S2324-G0833,4,10:03,ORL,91.0,BKN,60.0,L. Walker IV,BKN,Walker IV Free Throw Technical (1 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,v
+S2324-G0833,4,07:44,ORL,95.0,BKN,67.0,L. Walker IV,BKN,Walker IV 26' 3PT Jump Shot (4 PTS) (Smith Jr. 5 AST),Made Shot,Jump Shot,98,246,26,1,3.0,3.0,v
+S2324-G0833,4,06:55,ORL,,BKN,,L. Walker IV,BKN,Walker IV S.FOUL (P3.T4) (M.Ervin),Foul,Shooting,0,0,0,0,,,v
+S2324-G0833,4,06:31,ORL,,BKN,,L. Walker IV,BKN,MISS Walker IV 3' Running Reverse Layup,Missed Shot,Running Reverse Layup Shot,6,31,3,1,2.0,0.0,v
+S2324-G0833,4,04:11,ORL,,BKN,,L. Walker IV,BKN,MISS Walker IV 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,32,253,26,1,3.0,0.0,v
+S2324-G0833,4,03:49,ORL,,BKN,,L. Walker IV,BKN,SUB: K. Johnson FOR Walker IV,Substitution,,0,0,0,0,,,v
+S2324-G0717,1,05:04,BKN,15.0,GSW,10.0,L. Walker IV,BKN,Walker IV 24' 3PT Jump Shot (3 PTS) (Johnson 1 AST),Made Shot,Jump Shot,-196,140,24,1,3.0,3.0,h
+S2324-G0717,1,02:25,BKN,,GSW,,L. Walker IV,BKN,MISS Walker IV 3PT Jump Shot,Missed Shot,Jump Shot,-225,8,0,1,3.0,0.0,h
+S2324-G0717,1,01:20,BKN,,GSW,,L. Walker IV,BKN,SUB: Johnson FOR Walker IV,Substitution,,0,0,0,0,,,h
+S2324-G1192,1,03:51,PHI,,BKN,,L. Walker IV,BKN,Walker IV BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G1192,1,02:09,PHI,22.0,BKN,18.0,L. Walker IV,BKN,Walker IV 11' Pullup Jump Shot (2 PTS) (Clowney 1 AST),Made Shot,Pullup Jump shot,80,80,11,1,2.0,2.0,v
+S2324-G1192,1,01:00,PHI,,BKN,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1192,1,00:41.500000,PHI,,BKN,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1192,1,00:28.900000,PHI,,BKN,,L. Walker IV,BKN,MISS Walker IV 4' Driving Layup,Missed Shot,Driving Layup Shot,38,8,4,1,2.0,0.0,v
+S2324-G1192,2,11:15,PHI,22.0,BKN,25.0,L. Walker IV,BKN,Walker IV 3' Driving Reverse Layup (4 PTS),Made Shot,Driving Reverse Layup Shot,1,32,3,1,2.0,2.0,v
+S2324-G1192,2,10:31,PHI,,BKN,,L. Walker IV,BKN,MISS Walker IV 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-162,214,27,1,3.0,0.0,v
+S2324-G1192,2,09:04,PHI,,BKN,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1192,2,07:42,PHI,36.0,BKN,32.0,L. Walker IV,BKN,Walker IV 18' Pullup Jump Shot (6 PTS) (Clowney 2 AST),Made Shot,Pullup Jump shot,-140,105,18,1,2.0,2.0,v
+S2324-G1192,2,07:09,PHI,,BKN,,L. Walker IV,BKN,MISS Walker IV 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-163,217,27,1,3.0,0.0,v
+S2324-G1192,2,06:40,PHI,,BKN,,L. Walker IV,BKN,Walker IV Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G1192,2,06:24,PHI,39.0,BKN,34.0,L. Walker IV,BKN,Walker IV 4' Running Finger Roll Layup (8 PTS) (Watford 2 AST),Made Shot,Running Finger Roll Layup Shot,42,12,4,1,2.0,2.0,v
+S2324-G1192,2,05:59,PHI,,BKN,,L. Walker IV,BKN,Walker IV BLOCK (2 BLK),,,0,0,0,0,,,v
+S2324-G1192,2,04:53,PHI,,BKN,,L. Walker IV,BKN,MISS Walker IV 28' 3PT Jump Shot,Missed Shot,Jump Shot,-86,264,28,1,3.0,0.0,v
+S2324-G1192,2,03:45,PHI,,BKN,,L. Walker IV,BKN,MISS Walker IV 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,39,158,16,1,2.0,0.0,v
+S2324-G1192,2,03:31,PHI,,BKN,,L. Walker IV,BKN,Walker IV STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G1192,2,01:21,PHI,,BKN,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1192,2,01:17,PHI,50.0,BKN,42.0,L. Walker IV,BKN,Walker IV 1' Running Finger Roll Layup (10 PTS) (Bridges 1 AST),Made Shot,Running Finger Roll Layup Shot,-4,13,1,1,2.0,2.0,v
+S2324-G1192,2,00:41.100000,PHI,,BKN,,L. Walker IV,BKN,MISS Walker IV 27' 3PT Jump Shot,Missed Shot,Jump Shot,185,193,27,1,3.0,0.0,v
+S2324-G1192,3,03:33,PHI,,BKN,,L. Walker IV,BKN,MISS Walker IV 3PT Jump Shot,Missed Shot,Jump Shot,230,5,0,1,3.0,0.0,v
+S2324-G1192,3,00:07,PHI,78.0,BKN,64.0,L. Walker IV,BKN,Walker IV 17' Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,-94,141,17,1,2.0,2.0,v
+S2324-G1192,4,11:45,PHI,,BKN,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1192,4,11:38,PHI,,BKN,,L. Walker IV,BKN,MISS Walker IV 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-44,27,5,1,2.0,0.0,v
+S2324-G1192,4,08:10,PHI,,BKN,,L. Walker IV,BKN,Walker IV Bad Pass Turnover (P2.T10),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G1192,4,06:47,PHI,,BKN,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1192,4,05:57,PHI,,BKN,,L. Walker IV,BKN,MISS Walker IV 26' 3PT Jump Shot,Missed Shot,Jump Shot,-163,197,26,1,3.0,0.0,v
+S2324-G1192,4,05:47,PHI,,BKN,,L. Walker IV,BKN,SUB: Clowney FOR Walker IV,Substitution,,0,0,0,0,,,v
+S2324-G0629,1,00:54.200000,BKN,,MIN,,L. Walker IV,BKN,Walker IV S.FOUL (P1.T3) (S.Mehta),Foul,Shooting,0,0,0,0,,,h
+S2324-G0629,1,00:35.700000,BKN,29.0,MIN,24.0,L. Walker IV,BKN,Walker IV 2' Driving Layup (2 PTS) (Claxton 1 AST),Made Shot,Driving Layup Shot,21,6,2,1,2.0,2.0,h
+S2324-G0629,2,10:29,BKN,,MIN,,L. Walker IV,BKN,Walker IV Traveling Turnover (P1.T4),Turnover,Traveling,0,0,0,0,,,h
+S2324-G0629,2,07:31,BKN,,MIN,,L. Walker IV,BKN,MISS Walker IV 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-36,263,27,1,3.0,0.0,h
+S2324-G0629,2,07:14,BKN,,MIN,,L. Walker IV,BKN,SUB: Bridges FOR Walker IV,Substitution,,0,0,0,0,,,h
+S2324-G0629,2,05:04,BKN,,MIN,,L. Walker IV,BKN,MISS Walker IV 25' 3PT Jump Shot,Missed Shot,Jump Shot,-183,176,25,1,3.0,0.0,h
+S2324-G0629,2,04:38,BKN,,MIN,,L. Walker IV,BKN,MISS Walker IV 2' Driving Layup,Missed Shot,Driving Layup Shot,15,10,2,1,2.0,0.0,h
+S2324-G0629,2,04:13,BKN,,MIN,,L. Walker IV,BKN,Walker IV S.FOUL (P2.T3) (D.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2324-G0629,2,04:13,BKN,,MIN,,L. Walker IV,BKN,SUB: Claxton FOR Walker IV,Substitution,,0,0,0,0,,,h
+S2324-G0629,4,11:08,BKN,,MIN,,L. Walker IV,BKN,MISS Walker IV 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,102,239,26,1,3.0,0.0,h
+S2324-G0629,4,10:46,BKN,,MIN,,L. Walker IV,BKN,Walker IV Traveling Turnover (P2.T14),Turnover,Traveling,0,0,0,0,,,h
+S2324-G0629,4,10:35,BKN,,MIN,,L. Walker IV,BKN,Walker IV STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0629,4,08:36,BKN,,MIN,,L. Walker IV,BKN,SUB: C. Johnson FOR Walker IV,Substitution,,0,0,0,0,,,h
+S2324-G0054,1,03:22,BKN,,TOR,,L. Walker IV,BKN,MISS Walker IV 25' 3PT Jump Shot,Missed Shot,Jump Shot,-212,134,25,1,3.0,0.0,h
+S2324-G0054,1,03:08,BKN,,TOR,,L. Walker IV,BKN,Walker IV BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0054,1,01:27,BKN,,TOR,,L. Walker IV,BKN,MISS Walker IV 25' 3PT Jump Shot,Missed Shot,Jump Shot,176,183,25,1,3.0,0.0,h
+S2324-G0054,1,00:34.700000,BKN,,TOR,,L. Walker IV,BKN,MISS Walker IV 18' Jump Shot,Missed Shot,Jump Shot,23,177,18,1,2.0,0.0,h
+S2324-G0054,2,10:52,BKN,26.0,TOR,21.0,L. Walker IV,BKN,Walker IV 2' Driving Reverse Layup (2 PTS) (Johnson 3 AST),Made Shot,Driving Reverse Layup Shot,-18,-7,2,1,2.0,2.0,h
+S2324-G0054,2,10:29,BKN,,TOR,,L. Walker IV,BKN,Walker IV Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0054,2,08:31,BKN,,TOR,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0054,2,08:20,BKN,,TOR,,L. Walker IV,BKN,MISS Walker IV 25' 3PT Jump Shot,Missed Shot,Jump Shot,-162,194,25,1,3.0,0.0,h
+S2324-G0054,2,07:50,BKN,35.0,TOR,30.0,L. Walker IV,BKN,Walker IV 25' 3PT Jump Shot (5 PTS) (Sharpe 2 AST),Made Shot,Jump Shot,93,237,25,1,3.0,3.0,h
+S2324-G0054,2,06:29,BKN,,TOR,,L. Walker IV,BKN,Walker IV Bad Pass Turnover (P2.T3),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0054,2,06:09,BKN,,TOR,,L. Walker IV,BKN,SUB: Bridges FOR Walker IV,Substitution,,0,0,0,0,,,h
+S2324-G0054,3,03:57,BKN,66.0,TOR,66.0,L. Walker IV,BKN,Walker IV Free Throw 1 of 3 (6 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,h
+S2324-G0054,3,03:57,BKN,,TOR,,L. Walker IV,BKN,MISS Walker IV Free Throw 2 of 3,Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,0.0,h
+S2324-G0054,3,03:57,BKN,67.0,TOR,66.0,L. Walker IV,BKN,Walker IV Free Throw 3 of 3 (7 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,h
+S2324-G0054,3,01:24,BKN,,TOR,,L. Walker IV,BKN,Walker IV Bad Pass Turnover (P3.T12),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0054,4,07:45,BKN,,TOR,,L. Walker IV,BKN,SUB: Dinwiddie FOR Walker IV,Substitution,,0,0,0,0,,,h
+S2324-G0795,1,06:12,TOR,,BKN,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0795,1,05:34,TOR,,BKN,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0795,1,04:25,TOR,22.0,BKN,12.0,L. Walker IV,BKN,Walker IV 6' Driving Bank Hook Shot (2 PTS) (Sharpe 1 AST),Made Shot,Driving Bank Hook Shot,44,43,6,1,2.0,2.0,v
+S2324-G0795,1,02:17,TOR,,BKN,,L. Walker IV,BKN,MISS Walker IV 28' 3PT Jump Shot,Missed Shot,Jump Shot,170,218,28,1,3.0,0.0,v
+S2324-G0795,1,01:04,TOR,,BKN,,L. Walker IV,BKN,MISS Walker IV 14' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,141,10,14,1,2.0,0.0,v
+S2324-G0795,1,00:45.100000,TOR,30.0,BKN,19.0,L. Walker IV,BKN,Walker IV 27' 3PT Jump Shot (5 PTS) (Johnson 1 AST),Made Shot,Jump Shot,93,251,27,1,3.0,3.0,v
+S2324-G0795,1,00:31.200000,TOR,,BKN,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0795,1,00:03.100000,TOR,,BKN,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0795,1,00:00,TOR,,BKN,,L. Walker IV,BKN,MISS Walker IV 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,129,13,13,1,2.0,0.0,v
+S2324-G0795,2,03:31,TOR,49.0,BKN,44.0,L. Walker IV,BKN,Walker IV 26' 3PT Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,-134,226,26,1,3.0,3.0,v
+S2324-G0795,2,02:59,TOR,,BKN,,L. Walker IV,BKN,MISS Walker IV 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,39,39,6,1,2.0,0.0,v
+S2324-G0795,2,02:49,TOR,,BKN,,L. Walker IV,BKN,SUB: Finney-Smith FOR Walker IV,Substitution,,0,0,0,0,,,v
+S2324-G0795,3,04:10,TOR,,BKN,,L. Walker IV,BKN,MISS Walker IV 26' 3PT Jump Shot,Missed Shot,Jump Shot,192,173,26,1,3.0,0.0,v
+S2324-G0795,3,02:30,TOR,,BKN,,L. Walker IV,BKN,SUB: Thomas FOR Walker IV,Substitution,,0,0,0,0,,,v
+S2324-G0795,4,08:14,TOR,,BKN,,L. Walker IV,BKN,Walker IV S.FOUL (P1.T2) (S.Wall),Foul,Shooting,0,0,0,0,,,v
+S2324-G0795,4,06:17,TOR,,BKN,,L. Walker IV,BKN,MISS Walker IV 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-99,231,25,1,3.0,0.0,v
+S2324-G0795,4,06:09,TOR,,BKN,,L. Walker IV,BKN,Walker IV S.FOUL (P2.T3) (K.Cutler),Foul,Shooting,0,0,0,0,,,v
+S2324-G0795,4,06:09,TOR,,BKN,,L. Walker IV,BKN,SUB: Smith Jr. FOR Walker IV,Substitution,,0,0,0,0,,,v
+S2324-G0795,4,03:56,TOR,,BKN,,L. Walker IV,BKN,MISS Walker IV 2' Driving Hook Shot,Missed Shot,Driving Hook Shot,-23,6,2,1,2.0,0.0,v
+S2324-G0795,4,03:18,TOR,,BKN,,L. Walker IV,BKN,Walker IV S.FOUL (P3.PN) (S.Wall),Foul,Shooting,0,0,0,0,,,v
+S2324-G0795,4,01:42,TOR,119.0,BKN,90.0,L. Walker IV,BKN,Walker IV 27' 3PT Jump Shot (11 PTS) (Wilson 1 AST),Made Shot,Jump Shot,-56,263,27,1,3.0,3.0,v
+S2324-G0795,4,00:53.200000,TOR,,BKN,,L. Walker IV,BKN,MISS Walker IV 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-5,63,6,1,2.0,0.0,v
+S2324-G0795,4,00:01.700000,TOR,,BKN,,L. Walker IV,BKN,MISS Walker IV 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,239,72,25,1,3.0,0.0,v
+S2324-G0771,1,03:58,BKN,,BOS,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0771,1,03:50,BKN,20.0,BOS,21.0,L. Walker IV,BKN,Walker IV 27' 3PT Jump Shot (3 PTS) (Smith Jr. 1 AST),Made Shot,Jump Shot,-10,267,27,1,3.0,3.0,h
+S2324-G0771,1,03:11,BKN,23.0,BOS,23.0,L. Walker IV,BKN,Walker IV 26' 3PT Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,-100,238,26,1,3.0,3.0,h
+S2324-G0771,1,01:49,BKN,25.0,BOS,26.0,L. Walker IV,BKN,Walker IV 5' Driving Floating Bank Jump Shot (8 PTS) (Smith Jr. 2 AST),Made Shot,Driving Floating Bank Jump Shot,-36,32,5,1,2.0,2.0,h
+S2324-G0771,1,00:44.300000,BKN,27.0,BOS,32.0,L. Walker IV,BKN,Walker IV 4' Driving Floating Bank Jump Shot (10 PTS),Made Shot,Driving Floating Bank Jump Shot,38,6,4,1,2.0,2.0,h
+S2324-G0771,2,11:02,BKN,,BOS,,L. Walker IV,BKN,Walker IV STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0771,2,10:28,BKN,36.0,BOS,40.0,L. Walker IV,BKN,Walker IV 27' 3PT Jump Shot (13 PTS) (Schroder 1 AST),Made Shot,Jump Shot,13,265,27,1,3.0,3.0,h
+S2324-G0771,2,08:24,BKN,,BOS,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0771,2,08:17,BKN,,BOS,,L. Walker IV,BKN,SUB: Thomas FOR Walker IV,Substitution,,0,0,0,0,,,h
+S2324-G0771,2,03:56,BKN,,BOS,,L. Walker IV,BKN,MISS Walker IV 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,56,253,26,1,3.0,0.0,h
+S2324-G0771,2,01:03,BKN,,BOS,,L. Walker IV,BKN,MISS Walker IV 2' Alley Oop Dunk,Missed Shot,Alley Oop Dunk Shot,2,21,2,1,2.0,0.0,h
+S2324-G0771,2,00:03.400000,BKN,,BOS,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0771,3,01:58,BKN,77.0,BOS,97.0,L. Walker IV,BKN,Walker IV Free Throw 1 of 3 (14 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,h
+S2324-G0771,3,01:58,BKN,,BOS,,L. Walker IV,BKN,MISS Walker IV Free Throw 2 of 3,Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,0.0,h
+S2324-G0771,3,01:58,BKN,78.0,BOS,97.0,L. Walker IV,BKN,Walker IV Free Throw 3 of 3 (15 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,h
+S2324-G0771,3,00:31.600000,BKN,,BOS,,L. Walker IV,BKN,Walker IV STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0771,3,00:08.400000,BKN,,BOS,,L. Walker IV,BKN,MISS Walker IV 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,108,232,26,1,3.0,0.0,h
+S2324-G0527,2,11:47,CLE,,BKN,,L. Walker IV,BKN,Walker IV P.FOUL (P1.T1) (J.Butler),Foul,Personal,0,0,0,0,,,v
+S2324-G0527,2,11:07,CLE,,BKN,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0527,2,10:33,CLE,,BKN,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0527,2,10:24,CLE,29.0,BKN,21.0,L. Walker IV,BKN,Walker IV 24' 3PT Jump Shot (3 PTS) (Giles III 1 AST),Made Shot,Jump Shot,227,64,24,1,3.0,3.0,v
+S2324-G0527,2,10:02,CLE,,BKN,,L. Walker IV,BKN,Walker IV Offensive Charge Foul (P2) (E.Dalen),Foul,Offensive Charge,0,0,0,0,,,v
+S2324-G0527,2,10:02,CLE,,BKN,,L. Walker IV,BKN,Walker IV Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0527,2,07:13,CLE,,BKN,,L. Walker IV,BKN,Walker IV REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0527,2,07:13,CLE,38.0,BKN,23.0,L. Walker IV,BKN,Walker IV Tip Layup Shot (5 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2324-G0527,2,06:52,CLE,40.0,BKN,26.0,L. Walker IV,BKN,Walker IV 3PT Step Back Jump Shot (8 PTS),Made Shot,Step Back Jump shot,228,29,0,1,3.0,3.0,v
+S2324-G0527,2,06:10,CLE,,BKN,,L. Walker IV,BKN,MISS Walker IV 1' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-4,-3,1,1,2.0,0.0,v
+S2324-G0527,2,05:29,CLE,,BKN,,L. Walker IV,BKN,SUB: Bridges FOR Walker IV,Substitution,,0,0,0,0,,,v
+S2324-G0527,2,01:30,CLE,,BKN,,L. Walker IV,BKN,MISS Walker IV 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,130,220,26,1,3.0,0.0,v
+S2324-G0527,2,01:01,CLE,,BKN,,L. Walker IV,BKN,MISS Walker IV 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,15,12,2,1,2.0,0.0,v
+S2324-G0527,2,00:52.700000,CLE,,BKN,,L. Walker IV,BKN,Walker IV BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0527,3,01:57,CLE,,BKN,,L. Walker IV,BKN,Walker IV STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0527,3,01:51,CLE,74.0,BKN,56.0,L. Walker IV,BKN,Walker IV 1' Running Dunk (10 PTS) (Thomas 1 AST),Made Shot,Running Dunk Shot,7,3,1,1,2.0,2.0,v
+S2324-G0527,3,00:03,CLE,,BKN,,L. Walker IV,BKN,MISS Walker IV 5' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,44,11,5,1,2.0,0.0,v
+S2324-G0527,4,10:55,CLE,80.0,BKN,65.0,L. Walker IV,BKN,Walker IV 25' 3PT Jump Shot (13 PTS) (Smith Jr. 3 AST),Made Shot,Jump Shot,16,247,25,1,3.0,3.0,v
+S2324-G0527,4,06:17,CLE,88.0,BKN,77.0,L. Walker IV,BKN,Walker IV 1' Driving Layup (15 PTS) (Smith Jr. 4 AST),Made Shot,Driving Layup Shot,9,4,1,1,2.0,2.0,v
+S2324-G0527,4,04:14,CLE,94.0,BKN,87.0,L. Walker IV,BKN,Walker IV 27' 3PT Pullup Jump Shot (18 PTS),Made Shot,Pullup Jump shot,150,224,27,1,3.0,3.0,v
+S2324-G0527,4,00:56.200000,CLE,,BKN,,L. Walker IV,BKN,Walker IV Personal Take Foul (P3.PN) (J.Butler),Foul,Personal Take,0,0,0,0,,,v
+S2324-G0527,4,00:35.200000,CLE,109.0,BKN,100.0,L. Walker IV,BKN,Walker IV 1' Driving Layup (20 PTS),Made Shot,Driving Layup Shot,-5,14,1,1,2.0,2.0,v
+S2324-G0136,1,04:07,BKN,18.0,BOS,24.0,L. Walker IV,BKN,Walker IV 26' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,-18,256,26,1,3.0,3.0,h
+S2324-G0136,1,03:32,BKN,20.0,BOS,26.0,L. Walker IV,BKN,Walker IV 3' Driving Layup (5 PTS) (Watford 1 AST),Made Shot,Driving Layup Shot,28,4,3,1,2.0,2.0,h
+S2324-G0136,1,03:15,BKN,,BOS,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0136,1,03:10,BKN,21.0,BOS,26.0,L. Walker IV,BKN,Walker IV Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0136,1,03:10,BKN,22.0,BOS,26.0,L. Walker IV,BKN,Walker IV Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0136,1,02:41,BKN,24.0,BOS,26.0,L. Walker IV,BKN,Walker IV 21' Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,-55,202,21,1,2.0,2.0,h
+S2324-G0136,1,01:09,BKN,,BOS,,L. Walker IV,BKN,MISS Walker IV 2' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,15,10,2,1,2.0,0.0,h
+S2324-G0136,1,00:03.100000,BKN,,BOS,,L. Walker IV,BKN,SUB: O'Neale FOR Walker IV,Substitution,,0,0,0,0,,,h
+S2324-G0136,2,02:04,BKN,,BOS,,L. Walker IV,BKN,MISS Walker IV 3PT Jump Shot,Missed Shot,Jump Shot,-233,-13,0,1,3.0,0.0,h
+S2324-G0136,2,00:38.200000,BKN,,BOS,,L. Walker IV,BKN,SUB: Bridges FOR Walker IV,Substitution,,0,0,0,0,,,h
+S2324-G0136,3,00:49.600000,BKN,,BOS,,L. Walker IV,BKN,MISS Walker IV 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,108,111,15,1,2.0,0.0,h
+S2324-G0136,4,10:18,BKN,,BOS,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0136,4,10:11,BKN,90.0,BOS,93.0,L. Walker IV,BKN,Walker IV 20' Pullup Jump Shot (11 PTS),Made Shot,Pullup Jump shot,49,190,20,1,2.0,2.0,h
+S2324-G0136,4,09:22,BKN,,BOS,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0136,4,08:24,BKN,92.0,BOS,96.0,L. Walker IV,BKN,Walker IV 1' Driving Reverse Layup (13 PTS) (O'Neale 2 AST),Made Shot,Driving Reverse Layup Shot,-12,-8,1,1,2.0,2.0,h
+S2324-G0136,4,06:41,BKN,,BOS,,L. Walker IV,BKN,Walker IV Step Out of Bounds Turnover (P1.T5),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2324-G0136,4,06:10,BKN,,BOS,,L. Walker IV,BKN,SUB: Bridges FOR Walker IV,Substitution,,0,0,0,0,,,h
+S2324-G0004,1,03:33,CHI,,BKN,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0004,1,00:13.600000,CHI,,BKN,,L. Walker IV,BKN,Walker IV S.FOUL (P1.T1) (R.Acosta),Foul,Shooting,0,0,0,0,,,v
+S2324-G0004,2,11:06,CHI,,BKN,,L. Walker IV,BKN,MISS Walker IV 21' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,21,206,21,1,2.0,0.0,v
+S2324-G0004,2,08:51,CHI,33.0,BKN,43.0,L. Walker IV,BKN,Walker IV 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,16,11,2,1,2.0,2.0,v
+S2324-G0004,2,08:03,CHI,,BKN,,L. Walker IV,BKN,Walker IV BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0004,2,07:52,CHI,35.0,BKN,45.0,L. Walker IV,BKN,Walker IV Running Dunk (4 PTS) (O'Neale 2 AST),Made Shot,Running Dunk Shot,-4,0,0,1,2.0,2.0,v
+S2324-G0004,2,06:58,CHI,,BKN,,L. Walker IV,BKN,MISS Walker IV 25' 3PT Jump Shot,Missed Shot,Jump Shot,-60,240,25,1,3.0,0.0,v
+S2324-G0004,2,06:57,CHI,,BKN,,L. Walker IV,BKN,SUB: Simmons FOR Walker IV,Substitution,,0,0,0,0,,,v
+S2324-G0004,3,02:19,CHI,,BKN,,L. Walker IV,BKN,MISS Walker IV 26' 3PT Jump Shot,Missed Shot,Jump Shot,-161,204,26,1,3.0,0.0,v
+S2324-G0004,3,02:03,CHI,,BKN,,L. Walker IV,BKN,MISS Walker IV 1' Driving Layup,Missed Shot,Driving Layup Shot,2,11,1,1,2.0,0.0,v
+S2324-G0004,3,01:51,CHI,76.0,BKN,74.0,L. Walker IV,BKN,Walker IV 27' 3PT Step Back Bank Jump Shot (7 PTS),Made Shot,Step Back Bank Jump Shot,123,243,27,1,3.0,3.0,v
+S2324-G0004,3,00:24.500000,CHI,80.0,BKN,78.0,L. Walker IV,BKN,Walker IV 1' Running Finger Roll Layup (9 PTS),Made Shot,Running Finger Roll Layup Shot,11,2,1,1,2.0,2.0,v
+S2324-G0004,4,11:42,CHI,,BKN,,L. Walker IV,BKN,MISS Walker IV 26' 3PT Jump Shot,Missed Shot,Jump Shot,173,188,26,1,3.0,0.0,v
+S2324-G0004,4,10:24,CHI,,BKN,,L. Walker IV,BKN,Walker IV S.FOUL (P2.T2) (J.Orr),Foul,Shooting,0,0,0,0,,,v
+S2324-G0004,4,08:21,CHI,86.0,BKN,90.0,L. Walker IV,BKN,Walker IV 8' Driving Floating Jump Shot (11 PTS) (Smith Jr. 1 AST),Made Shot,Driving Floating Jump Shot,47,67,8,1,2.0,2.0,v
+S2324-G0004,4,07:55,CHI,,BKN,,L. Walker IV,BKN,SUB: Bridges FOR Walker IV,Substitution,,0,0,0,0,,,v
+S2324-G0815,1,02:16,MIN,,BKN,,L. Walker IV,BKN,MISS Walker IV 24' 3PT Jump Shot,Missed Shot,Jump Shot,230,67,24,1,3.0,0.0,v
+S2324-G0815,2,11:45,MIN,,BKN,,L. Walker IV,BKN,Walker IV Traveling Turnover (P1.T1),Turnover,Traveling,0,0,0,0,,,v
+S2324-G0815,2,10:29,MIN,,BKN,,L. Walker IV,BKN,MISS Walker IV 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-208,127,24,1,3.0,0.0,v
+S2324-G0815,2,09:55,MIN,29.0,BKN,27.0,L. Walker IV,BKN,Walker IV 25' 3PT Jump Shot (3 PTS) (Smith Jr. 1 AST),Made Shot,Jump Shot,-82,237,25,1,3.0,3.0,v
+S2324-G0815,2,09:11,MIN,,BKN,,L. Walker IV,BKN,MISS Walker IV 4' Driving Layup,Missed Shot,Driving Layup Shot,-16,36,4,1,2.0,0.0,v
+S2324-G0815,2,08:16,MIN,,BKN,,L. Walker IV,BKN,Walker IV STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0815,2,07:48,MIN,,BKN,,L. Walker IV,BKN,SUB: Claxton FOR Walker IV,Substitution,,0,0,0,0,,,v
+S2324-G0815,3,05:16,MIN,,BKN,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0815,3,05:04,MIN,,BKN,,L. Walker IV,BKN,Walker IV Bad Pass Turnover (P2.T9),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0815,3,03:41,MIN,,BKN,,L. Walker IV,BKN,SUB: Sharpe FOR Walker IV,Substitution,,0,0,0,0,,,v
+S2324-G0815,4,09:12,MIN,,BKN,,L. Walker IV,BKN,SUB: Johnson FOR Walker IV,Substitution,,0,0,0,0,,,v
+S2324-G0481,2,08:54,BKN,,OKC,,L. Walker IV,BKN,MISS Walker IV 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,191,174,26,1,3.0,0.0,h
+S2324-G0481,2,08:29,BKN,,OKC,,L. Walker IV,BKN,Walker IV STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0481,2,07:10,BKN,,OKC,,L. Walker IV,BKN,MISS Walker IV 23' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-13,230,23,1,2.0,0.0,h
+S2324-G0481,2,06:20,BKN,,OKC,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0481,2,06:05,BKN,,OKC,,L. Walker IV,BKN,SUB: Johnson FOR Walker IV,Substitution,,0,0,0,0,,,h
+S2324-G0993,1,01:54,BKN,,NOP,,L. Walker IV,BKN,MISS Walker IV 25' 3PT Jump Shot,Missed Shot,Jump Shot,-87,236,25,1,3.0,0.0,h
+S2324-G0993,2,10:05,BKN,,NOP,,L. Walker IV,BKN,SUB: Finney-Smith FOR Walker IV,Substitution,,0,0,0,0,,,h
+S2324-G0993,3,00:54.100000,BKN,,NOP,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0993,3,00:04.100000,BKN,,NOP,,L. Walker IV,BKN,MISS Walker IV 26' 3PT Jump Shot,Missed Shot,Jump Shot,-137,225,26,1,3.0,0.0,h
+S2324-G0993,4,09:31,BKN,,NOP,,L. Walker IV,BKN,MISS Walker IV 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,190,14,19,1,2.0,0.0,h
+S2324-G0993,4,07:10,BKN,,NOP,,L. Walker IV,BKN,SUB: Schroder FOR Walker IV,Substitution,,0,0,0,0,,,h
+S2324-G0993,4,03:45,BKN,85.0,NOP,98.0,L. Walker IV,BKN,Walker IV 26' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,48,252,26,1,3.0,3.0,h
+S2324-G0993,4,03:15,BKN,,NOP,,L. Walker IV,BKN,MISS Walker IV 25' 3PT Jump Shot,Missed Shot,Jump Shot,190,164,25,1,3.0,0.0,h
+S2324-G0993,4,00:01.100000,BKN,,NOP,,L. Walker IV,BKN,MISS Walker IV 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-25,262,26,1,3.0,0.0,h
+S2324-G0615,2,11:16,BKN,,NYK,,L. Walker IV,BKN,MISS Walker IV 25' 3PT Jump Shot,Missed Shot,Jump Shot,233,102,25,1,3.0,0.0,h
+S2324-G0615,2,10:48,BKN,,NYK,,L. Walker IV,BKN,MISS Walker IV 3' Driving Layup,Missed Shot,Driving Layup Shot,25,16,3,1,2.0,0.0,h
+S2324-G0615,2,07:17,BKN,,NYK,,L. Walker IV,BKN,Walker IV REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0615,2,07:11,BKN,,NYK,,L. Walker IV,BKN,MISS Walker IV 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,120,236,26,1,3.0,0.0,h
+S2324-G0615,2,06:35,BKN,,NYK,,L. Walker IV,BKN,SUB: Johnson FOR Walker IV,Substitution,,0,0,0,0,,,h
+S2324-G0615,4,10:49,BKN,,NYK,,L. Walker IV,BKN,MISS Walker IV 26' 3PT Jump Shot,Missed Shot,Jump Shot,229,131,26,1,3.0,0.0,h
+S2324-G0615,4,08:45,BKN,90.0,NYK,83.0,L. Walker IV,BKN,Walker IV 26' 3PT Pullup Jump Shot (3 PTS) (Dinwiddie 4 AST),Made Shot,Pullup Jump shot,5,256,26,1,3.0,3.0,h
+S2324-G0615,4,08:03,BKN,,NYK,,L. Walker IV,BKN,MISS Walker IV 13' Driving Layup,Missed Shot,Driving Layup Shot,97,79,13,1,2.0,0.0,h
+S2324-G0615,4,07:12,BKN,95.0,NYK,87.0,L. Walker IV,BKN,Walker IV 16' Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,-6,158,16,1,2.0,2.0,h
+S2324-G0615,4,06:42,BKN,,NYK,,L. Walker IV,BKN,MISS Walker IV 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,23,250,25,1,3.0,0.0,h
+S2324-G0615,4,05:13,BKN,,NYK,,L. Walker IV,BKN,SUB: Claxton FOR Walker IV,Substitution,,0,0,0,0,,,h
+S2324-G1141,1,02:56,BKN,,SAC,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1141,1,02:51,BKN,,SAC,,L. Walker IV,BKN,MISS Walker IV 20' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,163,117,20,1,2.0,0.0,h
+S2324-G1141,2,11:02,BKN,,SAC,,L. Walker IV,BKN,SUB: Bridges FOR Walker IV,Substitution,,0,0,0,0,,,h
+S2324-G1141,2,03:20,BKN,,SAC,,L. Walker IV,BKN,MISS Walker IV 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,26,102,11,1,2.0,0.0,h
+S2324-G1141,3,03:49,BKN,55.0,SAC,74.0,L. Walker IV,BKN,Walker IV 18' Pullup Jump Shot (2 PTS) (Bridges 2 AST),Made Shot,Pullup Jump shot,125,135,18,1,2.0,2.0,h
+S2324-G1141,3,03:03,BKN,,SAC,,L. Walker IV,BKN,Walker IV S.FOUL (P1.T2) (S.Wright),Foul,Shooting,0,0,0,0,,,h
+S2324-G1141,3,01:56,BKN,,SAC,,L. Walker IV,BKN,Walker IV BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G1141,3,00:59.300000,BKN,,SAC,,L. Walker IV,BKN,MISS Walker IV 3PT Jump Shot,Missed Shot,Jump Shot,-229,6,0,1,3.0,0.0,h
+S2324-G1141,3,00:40.200000,BKN,62.0,SAC,78.0,L. Walker IV,BKN,Walker IV 1' Running Layup (4 PTS) (Schroder 6 AST),Made Shot,Running Layup Shot,-10,-2,1,1,2.0,2.0,h
+S2324-G1141,3,00:26.500000,BKN,,SAC,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1141,3,00:08.400000,BKN,63.0,SAC,78.0,L. Walker IV,BKN,Walker IV Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1141,3,00:08.400000,BKN,64.0,SAC,78.0,L. Walker IV,BKN,Walker IV Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1141,4,11:25,BKN,,SAC,,L. Walker IV,BKN,MISS Walker IV 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,72,253,26,1,3.0,0.0,h
+S2324-G1141,4,08:27,BKN,,SAC,,L. Walker IV,BKN,Walker IV Bad Pass Turnover (P1.T13),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G1141,4,07:08,BKN,,SAC,,L. Walker IV,BKN,MISS Walker IV 5' Driving Layup,Missed Shot,Driving Layup Shot,-49,3,5,1,2.0,0.0,h
+S2324-G1141,4,05:02,BKN,,SAC,,L. Walker IV,BKN,MISS Walker IV 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,183,159,24,1,3.0,0.0,h
+S2324-G1141,4,02:33,BKN,,SAC,,L. Walker IV,BKN,MISS Walker IV 10' Floating Jump Shot,Missed Shot,Floating Jump shot,51,89,10,1,2.0,0.0,h
+S2324-G1141,4,01:21,BKN,,SAC,,L. Walker IV,BKN,Walker IV STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1141,4,00:46.800000,BKN,,SAC,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1141,4,00:30.800000,BKN,,SAC,,L. Walker IV,BKN,MISS Walker IV 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,80,251,26,1,3.0,0.0,h
+S2324-G0750,3,07:35,BKN,,SAS,,L. Walker IV,BKN,Walker IV Lost Ball Turnover (P1.T9),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0750,3,05:54,BKN,,SAS,,L. Walker IV,BKN,MISS Walker IV 26' 3PT Jump Shot,Missed Shot,Jump Shot,47,258,26,1,3.0,0.0,h
+S2324-G0750,3,04:30,BKN,,SAS,,L. Walker IV,BKN,SUB: Thomas FOR Walker IV,Substitution,,0,0,0,0,,,h
+S2324-G0879,1,06:12,BKN,,MEM,,L. Walker IV,BKN,MISS Walker IV 26' 3PT Jump Shot,Missed Shot,Jump Shot,109,240,26,1,3.0,0.0,h
+S2324-G0879,1,04:47,BKN,,MEM,,L. Walker IV,BKN,MISS Walker IV 1' Running Dunk,Missed Shot,Running Dunk Shot,1,14,1,1,2.0,0.0,h
+S2324-G0879,1,02:47,BKN,,MEM,,L. Walker IV,BKN,MISS Walker IV 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,38,185,19,1,2.0,0.0,h
+S2324-G0879,1,02:08,BKN,,MEM,,L. Walker IV,BKN,Walker IV S.FOUL (P1.T1) (C.Washington),Foul,Shooting,0,0,0,0,,,h
+S2324-G0879,1,02:08,BKN,,MEM,,L. Walker IV,BKN,SUB: Finney-Smith FOR Walker IV,Substitution,,0,0,0,0,,,h
+S2324-G0879,2,06:01,BKN,,MEM,,L. Walker IV,BKN,Walker IV BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0879,2,06:01,BKN,,MEM,,L. Walker IV,BKN,Walker IV FLAGRANT.FOUL.TYPE1 (P2.T3) (J.Williams),Foul,Flagrant Type 1,0,0,0,0,,,h
+S2324-G0879,2,05:10,BKN,40.0,MEM,44.0,L. Walker IV,BKN,Walker IV 3PT Jump Shot (3 PTS) (Schroder 5 AST),Made Shot,Jump Shot,-224,-29,0,1,3.0,3.0,h
+S2324-G0879,2,04:17,BKN,,MEM,,L. Walker IV,BKN,Walker IV STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0879,2,04:14,BKN,42.0,MEM,46.0,L. Walker IV,BKN,Walker IV 1' Running Dunk (5 PTS),Made Shot,Running Dunk Shot,7,6,1,1,2.0,2.0,h
+S2324-G0879,2,03:56,BKN,,MEM,,L. Walker IV,BKN,Walker IV P.FOUL (P3.PN) (C.Washington),Foul,Personal,0,0,0,0,,,h
+S2324-G0879,2,03:34,BKN,,MEM,,L. Walker IV,BKN,SUB: Finney-Smith FOR Walker IV,Substitution,,0,0,0,0,,,h
+S2324-G0879,3,03:26,BKN,,MEM,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0879,3,03:17,BKN,72.0,MEM,75.0,L. Walker IV,BKN,Walker IV 3' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,25,16,3,1,2.0,2.0,h
+S2324-G0879,3,02:41,BKN,75.0,MEM,75.0,L. Walker IV,BKN,Walker IV 26' 3PT Jump Shot (10 PTS) (Bridges 2 AST),Made Shot,Jump Shot,-194,172,26,1,3.0,3.0,h
+S2324-G0879,3,02:27,BKN,,MEM,,L. Walker IV,BKN,Walker IV BLOCK (2 BLK),,,0,0,0,0,,,h
+S2324-G0879,3,00:59.500000,BKN,,MEM,,L. Walker IV,BKN,MISS Walker IV 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,45,259,26,1,3.0,0.0,h
+S2324-G0879,4,11:46,BKN,80.0,MEM,80.0,L. Walker IV,BKN,Walker IV 25' 3PT Jump Shot (13 PTS) (Bridges 3 AST),Made Shot,Jump Shot,143,211,25,1,3.0,3.0,h
+S2324-G0879,4,10:36,BKN,,MEM,,L. Walker IV,BKN,MISS Walker IV 25' 3PT Jump Shot,Missed Shot,Jump Shot,115,223,25,1,3.0,0.0,h
+S2324-G0879,4,10:20,BKN,,MEM,,L. Walker IV,BKN,SUB: Johnson FOR Walker IV,Substitution,,0,0,0,0,,,h
+S2324-G0879,4,00:30,BKN,,MEM,,L. Walker IV,BKN,SUB: Claxton FOR Walker IV,Substitution,,0,0,0,0,,,h
+S2324-G0879,4,00:20.900000,BKN,,MEM,,L. Walker IV,BKN,SUB: Claxton FOR Walker IV,Substitution,,0,0,0,0,,,h
+S2324-G0101,1,05:37,CHA,,BKN,,L. Walker IV,BKN,MISS Walker IV 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-114,243,27,1,3.0,0.0,v
+S2324-G0101,1,03:57,CHA,,BKN,,L. Walker IV,BKN,MISS Walker IV 27' 3PT Jump Shot,Missed Shot,Jump Shot,173,205,27,1,3.0,0.0,v
+S2324-G0101,1,03:49,CHA,,BKN,,L. Walker IV,BKN,Walker IV P.FOUL (P1.T3) (C.Washington),Foul,Personal,0,0,0,0,,,v
+S2324-G0101,1,03:24,CHA,,BKN,,L. Walker IV,BKN,MISS Walker IV 7' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-64,32,7,1,2.0,0.0,v
+S2324-G0101,1,01:58,CHA,,BKN,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0101,1,01:46,CHA,,BKN,,L. Walker IV,BKN,MISS Walker IV 4' Driving Layup,Missed Shot,Driving Layup Shot,29,20,4,1,2.0,0.0,v
+S2324-G0101,1,01:15,CHA,18.0,BKN,34.0,L. Walker IV,BKN,Walker IV 26' 3PT Jump Shot (3 PTS) (Sharpe 1 AST),Made Shot,Jump Shot,-147,216,26,1,3.0,3.0,v
+S2324-G0101,1,00:38.500000,CHA,,BKN,,L. Walker IV,BKN,SUB: Finney-Smith FOR Walker IV,Substitution,,0,0,0,0,,,v
+S2324-G0101,2,09:52,CHA,27.0,BKN,46.0,L. Walker IV,BKN,Walker IV 3PT Jump Shot (6 PTS) (Dinwiddie 3 AST),Made Shot,Jump Shot,-225,52,0,1,3.0,3.0,v
+S2324-G0101,2,07:28,CHA,,BKN,,L. Walker IV,BKN,SUB: Thomas FOR Walker IV,Substitution,,0,0,0,0,,,v
+S2324-G0101,3,10:30,CHA,,BKN,,L. Walker IV,BKN,MISS Walker IV 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,7,71,7,1,2.0,0.0,v
+S2324-G0101,3,09:58,CHA,,BKN,,L. Walker IV,BKN,MISS Walker IV Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0101,3,09:58,CHA,59.0,BKN,71.0,L. Walker IV,BKN,Walker IV Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0101,3,08:44,CHA,,BKN,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0101,3,06:32,CHA,,BKN,,L. Walker IV,BKN,Walker IV STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0101,3,06:26,CHA,70.0,BKN,81.0,L. Walker IV,BKN,Walker IV 1' Running Layup (9 PTS),Made Shot,Running Layup Shot,9,8,1,1,2.0,2.0,v
+S2324-G0101,3,05:17,CHA,,BKN,,L. Walker IV,BKN,Walker IV BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0101,3,05:13,CHA,,BKN,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0101,3,05:00,CHA,75.0,BKN,87.0,L. Walker IV,BKN,Walker IV 2' Driving Reverse Layup (11 PTS),Made Shot,Driving Reverse Layup Shot,20,4,2,1,2.0,2.0,v
+S2324-G0101,3,04:38,CHA,,BKN,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0101,3,04:34,CHA,,BKN,,L. Walker IV,BKN,MISS Walker IV 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,119,227,26,1,3.0,0.0,v
+S2324-G0101,3,03:32,CHA,77.0,BKN,93.0,L. Walker IV,BKN,Walker IV 1' Cutting Layup Shot (13 PTS) (Simmons 7 AST),Made Shot,Cutting Layup Shot,11,4,1,1,2.0,2.0,v
+S2324-G0101,3,02:08,CHA,,BKN,,L. Walker IV,BKN,SUB: Thomas FOR Walker IV,Substitution,,0,0,0,0,,,v
+S2324-G0101,4,04:51,CHA,,BKN,,L. Walker IV,BKN,MISS Walker IV 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,120,251,28,1,3.0,0.0,v
+S2324-G0101,4,04:38,CHA,,BKN,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0101,4,01:55,CHA,115.0,BKN,130.0,L. Walker IV,BKN,Walker IV 3PT Jump Shot (16 PTS) (Thomas 2 AST),Made Shot,Jump Shot,-227,15,0,1,3.0,3.0,v
+S2324-G0101,4,01:04,CHA,117.0,BKN,131.0,L. Walker IV,BKN,Walker IV Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0101,4,01:04,CHA,117.0,BKN,132.0,L. Walker IV,BKN,Walker IV Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0101,4,00:39.900000,CHA,121.0,BKN,133.0,L. Walker IV,BKN,Walker IV Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0101,4,00:39.900000,CHA,,BKN,,L. Walker IV,BKN,MISS Walker IV Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0947,2,07:12,ORL,47.0,BKN,34.0,L. Walker IV,BKN,Walker IV 2' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,11,21,2,1,2.0,2.0,v
+S2324-G0947,2,05:45,ORL,,BKN,,L. Walker IV,BKN,SUB: Thomas FOR Walker IV,Substitution,,0,0,0,0,,,v
+S2324-G0947,3,00:32.100000,ORL,,BKN,,L. Walker IV,BKN,Walker IV Step Out of Bounds Turnover (P1.T11),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2324-G0160,1,02:52,BKN,,LAC,,L. Walker IV,BKN,MISS Walker IV 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-197,158,25,1,3.0,0.0,h
+S2324-G0160,2,10:59,BKN,,LAC,,L. Walker IV,BKN,Walker IV STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0160,2,10:51,BKN,18.0,LAC,23.0,L. Walker IV,BKN,Walker IV 6' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,45,45,6,1,2.0,2.0,h
+S2324-G0160,2,10:51,BKN,19.0,LAC,23.0,L. Walker IV,BKN,Walker IV Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G0160,2,10:22,BKN,,LAC,,L. Walker IV,BKN,Walker IV BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0160,2,10:14,BKN,,LAC,,L. Walker IV,BKN,MISS Walker IV 25' 3PT Jump Shot,Missed Shot,Jump Shot,-168,179,25,1,3.0,0.0,h
+S2324-G0160,2,09:27,BKN,21.0,LAC,23.0,L. Walker IV,BKN,Walker IV 19' Pullup Jump Shot (5 PTS) (Smith Jr. 1 AST),Made Shot,Pullup Jump shot,-120,145,19,1,2.0,2.0,h
+S2324-G0160,2,08:53,BKN,23.0,LAC,26.0,L. Walker IV,BKN,Walker IV 1' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,10,9,1,1,2.0,2.0,h
+S2324-G0160,2,08:53,BKN,24.0,LAC,26.0,L. Walker IV,BKN,Walker IV Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G0160,2,06:49,BKN,,LAC,,L. Walker IV,BKN,SUB: Watford FOR Walker IV,Substitution,,0,0,0,0,,,h
+S2324-G0160,3,08:19,BKN,54.0,LAC,50.0,L. Walker IV,BKN,Walker IV 25' 3PT Jump Shot (11 PTS) (O'Neale 2 AST),Made Shot,Jump Shot,212,126,25,1,3.0,3.0,h
+S2324-G0160,3,07:08,BKN,57.0,LAC,52.0,L. Walker IV,BKN,Walker IV 26' 3PT Jump Shot (14 PTS) (Dinwiddie 4 AST),Made Shot,Jump Shot,-174,189,26,1,3.0,3.0,h
+S2324-G0160,3,06:10,BKN,60.0,LAC,55.0,L. Walker IV,BKN,Walker IV 28' 3PT Jump Shot (17 PTS),Made Shot,Jump Shot,-43,272,28,1,3.0,3.0,h
+S2324-G0160,3,05:20,BKN,,LAC,,L. Walker IV,BKN,MISS Walker IV 8' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,64,53,8,1,2.0,0.0,h
+S2324-G0160,3,02:45,BKN,,LAC,,L. Walker IV,BKN,MISS Walker IV 3PT Jump Shot,Missed Shot,Jump Shot,-229,-8,0,1,3.0,0.0,h
+S2324-G0160,3,01:05,BKN,,LAC,,L. Walker IV,BKN,MISS Walker IV 5' Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,54,5,1,2.0,0.0,h
+S2324-G0160,3,00:00.600000,BKN,,LAC,,L. Walker IV,BKN,MISS Walker IV 3' Driving Layup,Missed Shot,Driving Layup Shot,26,15,3,1,2.0,0.0,h
+S2324-G0160,4,08:56,BKN,82.0,LAC,77.0,L. Walker IV,BKN,Walker IV 11' Pullup Jump Shot (19 PTS),Made Shot,Pullup Jump shot,7,107,11,1,2.0,2.0,h
+S2324-G0160,4,07:18,BKN,87.0,LAC,79.0,L. Walker IV,BKN,Walker IV 3' Driving Layup (21 PTS),Made Shot,Driving Layup Shot,23,25,3,1,2.0,2.0,h
+S2324-G0160,4,06:15,BKN,,LAC,,L. Walker IV,BKN,SUB: Bridges FOR Walker IV,Substitution,,0,0,0,0,,,h
+S2324-G0160,4,02:35,BKN,,LAC,,L. Walker IV,BKN,MISS Walker IV 26' 3PT Jump Shot,Missed Shot,Jump Shot,44,258,26,1,3.0,0.0,h
+S2324-G0160,4,01:39,BKN,,LAC,,L. Walker IV,BKN,MISS Walker IV 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,10,172,17,1,2.0,0.0,h
+S2324-G0160,4,01:27,BKN,,LAC,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0930,1,04:01,CLE,18.0,BKN,22.0,L. Walker IV,BKN,Walker IV 2' Driving Floating Bank Jump Shot (2 PTS),Made Shot,Driving Floating Bank Jump Shot,-4,15,2,1,2.0,2.0,v
+S2324-G0930,1,02:17,CLE,,BKN,,L. Walker IV,BKN,MISS Walker IV 26' 3PT Jump Shot,Missed Shot,Jump Shot,-181,193,26,1,3.0,0.0,v
+S2324-G0930,1,02:01,CLE,24.0,BKN,26.0,L. Walker IV,BKN,Walker IV Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0930,1,02:01,CLE,24.0,BKN,27.0,L. Walker IV,BKN,Walker IV Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0930,1,01:06,CLE,,BKN,,L. Walker IV,BKN,MISS Walker IV 10' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,93,36,10,1,2.0,0.0,v
+S2324-G0930,1,00:28.200000,CLE,,BKN,,L. Walker IV,BKN,MISS Walker IV 5' Driving Layup,Missed Shot,Driving Layup Shot,34,34,5,1,2.0,0.0,v
+S2324-G0930,2,05:01,CLE,,BKN,,L. Walker IV,BKN,MISS Walker IV 25' 3PT Jump Shot,Missed Shot,Jump Shot,173,179,25,1,3.0,0.0,v
+S2324-G0930,2,04:54,CLE,,BKN,,L. Walker IV,BKN,Walker IV Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0930,2,03:53,CLE,,BKN,,L. Walker IV,BKN,Walker IV S.FOUL (P1.T3) (C.Kirkland),Foul,Shooting,0,0,0,0,,,v
+S2324-G0930,2,02:10,CLE,,BKN,,L. Walker IV,BKN,MISS Walker IV 15' Jump Shot,Missed Shot,Jump Shot,1,153,15,1,2.0,0.0,v
+S2324-G0930,2,01:51,CLE,,BKN,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0930,2,01:37,CLE,,BKN,,L. Walker IV,BKN,Walker IV Step Out of Bounds Turnover (P2.T8),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2324-G0930,2,01:37,CLE,,BKN,,L. Walker IV,BKN,SUB: Smith Jr. FOR Walker IV,Substitution,,0,0,0,0,,,v
+S2324-G0930,3,08:24,CLE,,BKN,,L. Walker IV,BKN,SUB: Bridges FOR Walker IV,Substitution,,0,0,0,0,,,v
+S2324-G0930,4,01:04,CLE,,BKN,,L. Walker IV,BKN,Walker IV BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0208,1,03:05,BKN,,PHI,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0208,1,02:32,BKN,20.0,PHI,21.0,L. Walker IV,BKN,Walker IV 1' Running Dunk (2 PTS),Made Shot,Running Dunk Shot,12,5,1,1,2.0,2.0,h
+S2324-G0208,1,01:35,BKN,,PHI,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0208,1,00:41.600000,BKN,,PHI,,L. Walker IV,BKN,MISS Walker IV 3PT Jump Shot,Missed Shot,Jump Shot,-230,12,0,1,3.0,0.0,h
+S2324-G0208,1,00:06.500000,BKN,,PHI,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0208,1,00:01.200000,BKN,,PHI,,L. Walker IV,BKN,MISS Walker IV 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-20,258,26,1,3.0,0.0,h
+S2324-G0208,2,08:13,BKN,32.0,PHI,33.0,L. Walker IV,BKN,Walker IV 26' 3PT Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,50,259,26,1,3.0,3.0,h
+S2324-G0208,2,06:55,BKN,,PHI,,L. Walker IV,BKN,SUB: Claxton FOR Walker IV,Substitution,,0,0,0,0,,,h
+S2324-G0208,2,05:12,BKN,40.0,PHI,38.0,L. Walker IV,BKN,Walker IV 3PT Jump Shot (8 PTS) (Finney-Smith 1 AST),Made Shot,Jump Shot,223,-13,0,1,3.0,3.0,h
+S2324-G0208,2,02:51,BKN,,PHI,,L. Walker IV,BKN,MISS Walker IV 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,0,91,9,1,2.0,0.0,h
+S2324-G0208,2,02:34,BKN,,PHI,,L. Walker IV,BKN,Walker IV S.FOUL (P1.T2) (K.Scott),Foul,Shooting,0,0,0,0,,,h
+S2324-G0208,2,01:54,BKN,,PHI,,L. Walker IV,BKN,MISS Walker IV 26' 3PT Jump Shot,Missed Shot,Jump Shot,-150,207,26,1,3.0,0.0,h
+S2324-G0208,2,01:43,BKN,,PHI,,L. Walker IV,BKN,MISS Walker IV 26' 3PT Jump Shot,Missed Shot,Jump Shot,-152,205,26,1,3.0,0.0,h
+S2324-G0208,2,00:12.100000,BKN,49.0,PHI,58.0,L. Walker IV,BKN,Walker IV 26' 3PT Jump Shot (11 PTS) (Bridges 2 AST),Made Shot,Jump Shot,189,173,26,1,3.0,3.0,h
+S2324-G0208,3,06:36,BKN,,PHI,,L. Walker IV,BKN,Walker IV Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0208,3,06:08,BKN,61.0,PHI,79.0,L. Walker IV,BKN,Walker IV 25' 3PT Jump Shot (14 PTS) (Dinwiddie 4 AST),Made Shot,Jump Shot,-132,210,25,1,3.0,3.0,h
+S2324-G0208,3,04:57,BKN,65.0,PHI,79.0,L. Walker IV,BKN,Walker IV 16' Turnaround Jump Shot (16 PTS) (Dinwiddie 5 AST),Made Shot,Turnaround Jump Shot,99,122,16,1,2.0,2.0,h
+S2324-G0208,3,02:49,BKN,,PHI,,L. Walker IV,BKN,Jump Ball Walker IV vs. Covington: Tip to Embiid,Jump Ball,,0,0,0,0,,,h
+S2324-G0208,3,02:49,BKN,,PHI,,L. Walker IV,BKN,Walker IV Lost Ball Turnover (P2.T10),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0208,3,02:21,BKN,,PHI,,L. Walker IV,BKN,MISS Walker IV 11' Floating Jump Shot,Missed Shot,Floating Jump shot,25,110,11,1,2.0,0.0,h
+S2324-G0208,3,01:46,BKN,,PHI,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0208,4,11:24,BKN,,PHI,,L. Walker IV,BKN,Walker IV Violation:Kicked Ball (J.Orr),Violation,Kicked Ball,0,0,0,0,,,h
+S2324-G0208,4,10:54,BKN,74.0,PHI,94.0,L. Walker IV,BKN,Walker IV 3PT Running Jump Shot (19 PTS) (Watford 3 AST),Made Shot,Running Jump Shot,-232,-34,0,1,3.0,3.0,h
+S2324-G0208,4,09:54,BKN,75.0,PHI,96.0,L. Walker IV,BKN,Walker IV Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0208,4,09:54,BKN,76.0,PHI,96.0,L. Walker IV,BKN,Walker IV Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0208,4,09:02,BKN,79.0,PHI,99.0,L. Walker IV,BKN,Walker IV 25' 3PT Pullup Jump Shot (24 PTS),Made Shot,Pullup Jump shot,119,225,25,1,3.0,3.0,h
+S2324-G0208,4,08:07,BKN,,PHI,,L. Walker IV,BKN,MISS Walker IV 1' Running Layup,Missed Shot,Running Layup Shot,6,5,1,1,2.0,0.0,h
+S2324-G0208,4,05:08,BKN,88.0,PHI,108.0,L. Walker IV,BKN,Walker IV 20' Pullup Jump Shot (26 PTS) (Johnson 2 AST),Made Shot,Pullup Jump shot,44,194,20,1,2.0,2.0,h
+S2324-G0208,4,04:01,BKN,,PHI,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0208,4,03:24,BKN,,PHI,,L. Walker IV,BKN,MISS Walker IV 24' 3PT Jump Shot,Missed Shot,Jump Shot,235,51,24,1,3.0,0.0,h
+S2324-G0208,4,03:07,BKN,,PHI,,L. Walker IV,BKN,Walker IV REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h

@@ -1,0 +1,117 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2324-G1001,4,05:21,GSW,,MEM,,M. Pereira,MEM,MISS Pereira 27' 3PT Jump Shot,Missed Shot,Jump Shot,219,153,27,1,3.0,0.0,v
+S2324-G1001,4,05:13,GSW,,MEM,,M. Pereira,MEM,Pereira P.FOUL (P1.T3) (D.Collins),Foul,Personal,0,0,0,0,,,v
+S2324-G1001,4,04:14,GSW,129.0,MEM,109.0,M. Pereira,MEM,Pereira 4' Alley Oop Dunk (2 PTS) (Jarreau 3 AST),Made Shot,Alley Oop Dunk Shot,31,22,4,1,2.0,2.0,v
+S2324-G1040,4,05:33,DEN,,MEM,,M. Pereira,MEM,Pereira STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G1040,4,04:51,DEN,116.0,MEM,91.0,M. Pereira,MEM,Pereira 25' 3PT Jump Shot (3 PTS) (Jarreau 3 AST),Made Shot,Jump Shot,-222,104,25,1,3.0,3.0,v
+S2324-G1040,4,04:03,DEN,,MEM,,M. Pereira,MEM,Pereira REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1040,4,04:01,DEN,118.0,MEM,93.0,M. Pereira,MEM,Pereira 5' Turnaround Hook Shot (5 PTS),Made Shot,Turnaround Hook Shot,-34,42,5,1,2.0,2.0,v
+S2324-G1040,4,04:01,DEN,,MEM,,M. Pereira,MEM,MISS Pereira Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2324-G1040,4,03:27,DEN,,MEM,,M. Pereira,MEM,Pereira REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1040,4,03:15,DEN,,MEM,,M. Pereira,MEM,Pereira REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1040,4,02:15,DEN,,MEM,,M. Pereira,MEM,Pereira REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1040,4,01:29,DEN,,MEM,,M. Pereira,MEM,MISS Pereira 24' 3PT Jump Shot,Missed Shot,Jump Shot,-213,111,24,1,3.0,0.0,v
+S2324-G1040,4,01:07,DEN,,MEM,,M. Pereira,MEM,MISS Pereira 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,4,88,9,1,2.0,0.0,v
+S2324-G1040,4,00:47.900000,DEN,,MEM,,M. Pereira,MEM,Pereira REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1129,1,11:41,MEM,,PHI,,M. Pereira,MEM,Pereira REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1129,1,08:25,MEM,,PHI,,M. Pereira,MEM,MISS Pereira Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G1129,1,08:25,MEM,5.0,PHI,12.0,M. Pereira,MEM,Pereira Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1129,1,07:25,MEM,,PHI,,M. Pereira,MEM,Pereira REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1129,1,06:49,MEM,,PHI,,M. Pereira,MEM,MISS Pereira 25' 3PT Jump Shot,Missed Shot,Jump Shot,223,109,25,1,3.0,0.0,h
+S2324-G1129,1,06:39,MEM,,PHI,,M. Pereira,MEM,Pereira REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1129,1,05:42,MEM,,PHI,,M. Pereira,MEM,Pereira REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1129,1,03:45,MEM,14.0,PHI,19.0,M. Pereira,MEM,Pereira 1' Layup (3 PTS) (Goodwin 1 AST),Made Shot,Layup Shot,-11,1,1,1,2.0,2.0,h
+S2324-G1129,1,03:06,MEM,,PHI,,M. Pereira,MEM,SUB: Allen FOR Pereira,Substitution,,0,0,0,0,,,h
+S2324-G1129,2,10:02,MEM,,PHI,,M. Pereira,MEM,Pereira S.FOUL (P1.T1) (C.Kirkland),Foul,Shooting,0,0,0,0,,,h
+S2324-G1129,2,09:00,MEM,,PHI,,M. Pereira,MEM,Pereira REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1129,2,08:48,MEM,,PHI,,M. Pereira,MEM,MISS Pereira 1' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-9,-4,1,1,2.0,0.0,h
+S2324-G1129,2,07:15,MEM,,PHI,,M. Pereira,MEM,Pereira REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1129,2,07:00,MEM,,PHI,,M. Pereira,MEM,Pereira P.FOUL (P2.T2) (C.Kirkland),Foul,Personal,0,0,0,0,,,h
+S2324-G1129,2,06:10,MEM,,PHI,,M. Pereira,MEM,SUB: Jackson FOR Pereira,Substitution,,0,0,0,0,,,h
+S2324-G1129,2,02:58,MEM,38.0,PHI,48.0,M. Pereira,MEM,Pereira 1' Alley Oop Dunk (5 PTS) (Goodwin 2 AST),Made Shot,Alley Oop Dunk Shot,5,9,1,1,2.0,2.0,h
+S2324-G1129,3,10:30,MEM,,PHI,,M. Pereira,MEM,MISS Pereira Driving Dunk,Missed Shot,Driving Dunk Shot,-2,2,0,1,2.0,0.0,h
+S2324-G1129,3,08:08,MEM,,PHI,,M. Pereira,MEM,Pereira S.FOUL (P3.T3) (I.Hwang),Foul,Shooting,0,0,0,0,,,h
+S2324-G1129,3,05:28,MEM,,PHI,,M. Pereira,MEM,Pereira STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1129,3,05:25,MEM,,PHI,,M. Pereira,MEM,Pereira Lost Ball Turnover (P1.T9),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G1129,3,04:51,MEM,,PHI,,M. Pereira,MEM,Pereira REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1129,3,04:43,MEM,68.0,PHI,79.0,M. Pereira,MEM,Pereira 3PT Jump Shot (8 PTS) (Pippen Jr. 4 AST),Made Shot,Jump Shot,227,21,0,1,3.0,3.0,h
+S2324-G1129,3,04:16,MEM,,PHI,,M. Pereira,MEM,Pereira REBOUND (Off:0 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1129,3,03:27,MEM,,PHI,,M. Pereira,MEM,Pereira Lost Ball Turnover (P2.T12),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G1129,3,03:03,MEM,,PHI,,M. Pereira,MEM,MISS Pereira 24' 3PT Jump Shot,Missed Shot,Jump Shot,-230,55,24,1,3.0,0.0,h
+S2324-G1129,3,02:20,MEM,,PHI,,M. Pereira,MEM,SUB: Goodwin FOR Pereira,Substitution,,0,0,0,0,,,h
+S2324-G1129,4,09:38,MEM,,PHI,,M. Pereira,MEM,SUB: Clarke FOR Pereira,Substitution,,0,0,0,0,,,h
+S2324-G1129,4,05:05,MEM,82.0,PHI,106.0,M. Pereira,MEM,Pereira 2' Running Dunk (10 PTS) (Simpson 3 AST),Made Shot,Running Dunk Shot,10,16,2,1,2.0,2.0,h
+S2324-G1129,4,04:43,MEM,,PHI,,M. Pereira,MEM,Pereira REBOUND (Off:0 Def:9),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1129,4,04:14,MEM,87.0,PHI,109.0,M. Pereira,MEM,Pereira 25' 3PT Jump Shot (13 PTS) (Simpson 4 AST),Made Shot,Jump Shot,-217,133,25,1,3.0,3.0,h
+S2324-G1129,4,01:29,MEM,,PHI,,M. Pereira,MEM,Pereira REBOUND (Off:0 Def:10),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1129,4,00:48.800000,MEM,,PHI,,M. Pereira,MEM,Pereira REBOUND (Off:0 Def:11),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1129,4,00:28.900000,MEM,,PHI,,M. Pereira,MEM,Pereira Lost Ball Turnover (P3.T18),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G1015,1,02:02,SAS,,MEM,,M. Pereira,MEM,MISS Pereira 4' Hook Bank Shot,Missed Shot,Hook Bank Shot,-39,12,4,1,2.0,0.0,v
+S2324-G1015,1,01:30,SAS,,MEM,,M. Pereira,MEM,Pereira REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1015,1,01:16,SAS,,MEM,,M. Pereira,MEM,MISS Pereira 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-18,15,2,1,2.0,0.0,v
+S2324-G1015,2,11:41,SAS,,MEM,,M. Pereira,MEM,Pereira REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1015,2,10:54,SAS,,MEM,,M. Pereira,MEM,MISS Pereira 26' 3PT Jump Shot,Missed Shot,Jump Shot,-180,194,26,1,3.0,0.0,v
+S2324-G1015,2,07:56,SAS,,MEM,,M. Pereira,MEM,Pereira STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G1015,2,07:42,SAS,,MEM,,M. Pereira,MEM,SUB: Konchar FOR Pereira,Substitution,,0,0,0,0,,,v
+S2324-G1015,3,00:34,SAS,,MEM,,M. Pereira,MEM,Pereira Out of Bounds Lost Ball Turnover (P1.T13),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2324-G1015,4,10:39,SAS,,MEM,,M. Pereira,MEM,Pereira S.FOUL (P1.T2) (J.DeRosa),Foul,Shooting,0,0,0,0,,,v
+S2324-G1015,4,09:20,SAS,,MEM,,M. Pereira,MEM,Pereira REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1015,4,07:33,SAS,,MEM,,M. Pereira,MEM,SUB: Jackson FOR Pereira,Substitution,,0,0,0,0,,,v
+S2324-G1075,1,02:54,ORL,,MEM,,M. Pereira,MEM,Pereira BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G1075,1,02:37,ORL,,MEM,,M. Pereira,MEM,Pereira REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1075,1,02:37,ORL,24.0,MEM,11.0,M. Pereira,MEM,Pereira Tip Dunk Shot (2 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,v
+S2324-G1075,1,00:38.800000,ORL,,MEM,,M. Pereira,MEM,Pereira S.FOUL (P1.PN) (S.Mitchell),Foul,Shooting,0,0,0,0,,,v
+S2324-G1075,1,00:01.400000,ORL,,MEM,,M. Pereira,MEM,Pereira BLOCK (2 BLK),,,0,0,0,0,,,v
+S2324-G1075,2,08:37,ORL,,MEM,,M. Pereira,MEM,SUB: Kennard FOR Pereira,Substitution,,0,0,0,0,,,v
+S2324-G1075,2,05:02,ORL,,MEM,,M. Pereira,MEM,Pereira REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1075,2,03:58,ORL,,MEM,,M. Pereira,MEM,MISS Pereira 3PT Jump Shot,Missed Shot,Jump Shot,229,31,0,1,3.0,0.0,v
+S2324-G1075,2,02:41,ORL,,MEM,,M. Pereira,MEM,Pereira REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1075,2,02:32,ORL,,MEM,,M. Pereira,MEM,Pereira BLOCK (3 BLK),,,0,0,0,0,,,v
+S2324-G1075,2,02:12,ORL,,MEM,,M. Pereira,MEM,Pereira STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G1075,2,02:10,ORL,53.0,MEM,28.0,M. Pereira,MEM,Pereira Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1075,2,02:10,ORL,53.0,MEM,29.0,M. Pereira,MEM,Pereira Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1075,2,01:46,ORL,,MEM,,M. Pereira,MEM,MISS Pereira 5' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-47,27,5,1,2.0,0.0,v
+S2324-G1075,2,01:28,ORL,,MEM,,M. Pereira,MEM,SUB: LaRavia FOR Pereira,Substitution,,0,0,0,0,,,v
+S2324-G1075,3,02:25,ORL,87.0,MEM,49.0,M. Pereira,MEM,Pereira 1' Running Alley Oop Dunk Shot (6 PTS) (Jackson 3 AST),Made Shot,Running Alley Oop Dunk Shot,2,6,1,1,2.0,2.0,v
+S2324-G1075,3,00:58.100000,ORL,,MEM,,M. Pereira,MEM,Pereira REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1075,3,00:04.600000,ORL,,MEM,,M. Pereira,MEM,Pereira P.FOUL (P2.T3) (E.Malloy),Foul,Personal,0,0,0,0,,,v
+S2324-G1075,3,00:00.400000,ORL,,MEM,,M. Pereira,MEM,Pereira STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G1075,4,10:42,ORL,,MEM,,M. Pereira,MEM,Pereira REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1075,4,10:40,ORL,,MEM,,M. Pereira,MEM,Pereira Bad Pass Turnover (P1.T18),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G1075,4,08:17,ORL,,MEM,,M. Pereira,MEM,Pereira REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1075,4,08:17,ORL,104.0,MEM,63.0,M. Pereira,MEM,Pereira Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1075,4,08:17,ORL,,MEM,,M. Pereira,MEM,MISS Pereira Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G1075,4,08:11,ORL,,MEM,,M. Pereira,MEM,MISS Pereira 3' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,7,34,3,1,2.0,0.0,v
+S2324-G1075,4,06:50,ORL,,MEM,,M. Pereira,MEM,Pereira REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1075,4,05:24,ORL,,MEM,,M. Pereira,MEM,Pereira REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1075,4,01:40,ORL,,MEM,,M. Pereira,MEM,Pereira S.FOUL (P3.T3) (S.Mitchell),Foul,Shooting,0,0,0,0,,,v
+S2324-G1075,4,01:15,ORL,,MEM,,M. Pereira,MEM,Pereira S.FOUL (P4.PN) (E.Malloy),Foul,Shooting,0,0,0,0,,,v
+S2324-G1055,4,00:51.600000,MEM,122.0,LAL,134.0,M. Pereira,MEM,Pereira Dunk (2 PTS) (Stevens 2 AST),Made Shot,Dunk Shot,4,2,0,1,2.0,2.0,h
+S2324-G1055,4,00:24.800000,MEM,,LAL,,M. Pereira,MEM,Pereira REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1055,4,00:24.800000,MEM,124.0,LAL,136.0,M. Pereira,MEM,Pereira Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2324-G1121,1,01:18,MEM,,DET,,M. Pereira,MEM,Pereira REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1121,2,09:02,MEM,,DET,,M. Pereira,MEM,MISS Pereira 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-9,29,3,1,2.0,0.0,h
+S2324-G1121,2,09:00,MEM,,DET,,M. Pereira,MEM,Pereira REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1121,2,09:00,MEM,35.0,DET,28.0,M. Pereira,MEM,Pereira Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1121,2,09:00,MEM,36.0,DET,28.0,M. Pereira,MEM,Pereira Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1121,2,07:45,MEM,41.0,DET,31.0,M. Pereira,MEM,Pereira 2' Running Alley Oop Dunk Shot (4 PTS) (Goodwin 2 AST),Made Shot,Running Alley Oop Dunk Shot,-5,23,2,1,2.0,2.0,h
+S2324-G1121,2,06:42,MEM,,DET,,M. Pereira,MEM,Pereira REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1121,2,05:20,MEM,,DET,,M. Pereira,MEM,Pereira REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1121,2,04:48,MEM,,DET,,M. Pereira,MEM,Pereira REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1121,2,04:38,MEM,51.0,DET,33.0,M. Pereira,MEM,Pereira 24' 3PT Jump Shot (7 PTS) (Goodwin 3 AST),Made Shot,Jump Shot,-237,22,24,1,3.0,3.0,h
+S2324-G1121,2,04:17,MEM,53.0,DET,33.0,M. Pereira,MEM,Pereira 1' Running Dunk (9 PTS) (Jackson 2 AST),Made Shot,Running Dunk Shot,-1,6,1,1,2.0,2.0,h
+S2324-G1121,2,01:01,MEM,,DET,,M. Pereira,MEM,Pereira S.FOUL (P1.T4) (B.Schwab),Foul,Shooting,0,0,0,0,,,h
+S2324-G1121,2,00:32.500000,MEM,,DET,,M. Pereira,MEM,Pereira STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1121,2,00:00.300000,MEM,,DET,,M. Pereira,MEM,MISS Pereira 65' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-9,653,65,1,3.0,0.0,h
+S2324-G1121,3,03:28,MEM,,DET,,M. Pereira,MEM,Pereira REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1121,3,01:35,MEM,,DET,,M. Pereira,MEM,MISS Pereira 3' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,21,19,3,1,2.0,0.0,h
+S2324-G1121,3,01:10,MEM,88.0,DET,70.0,M. Pereira,MEM,Pereira 3' Layup (11 PTS),Made Shot,Layup Shot,9,29,3,1,2.0,2.0,h
+S2324-G1121,3,01:10,MEM,89.0,DET,70.0,M. Pereira,MEM,Pereira Free Throw 1 of 1 (12 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G1121,4,10:56,MEM,93.0,DET,72.0,M. Pereira,MEM,Pereira 1' Dunk (14 PTS) (Pippen Jr. 6 AST),Made Shot,Dunk Shot,7,3,1,1,2.0,2.0,h
+S2324-G1121,4,10:17,MEM,96.0,DET,74.0,M. Pereira,MEM,Pereira 3PT Jump Shot (17 PTS) (Pippen Jr. 7 AST),Made Shot,Jump Shot,-227,17,0,1,3.0,3.0,h
+S2324-G1121,4,09:05,MEM,,DET,,M. Pereira,MEM,Pereira BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G1121,4,06:40,MEM,,DET,,M. Pereira,MEM,SUB: Jemison FOR Pereira,Substitution,,0,0,0,0,,,h
+S2324-G1121,4,04:24,MEM,,DET,,M. Pereira,MEM,Pereira REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1121,4,04:05,MEM,,DET,,M. Pereira,MEM,Pereira REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1121,4,02:22,MEM,,DET,,M. Pereira,MEM,MISS Pereira 3PT Jump Shot,Missed Shot,Jump Shot,-229,17,0,1,3.0,0.0,h
+S2324-G1121,4,00:26.600000,MEM,,DET,,M. Pereira,MEM,Pereira REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,h
