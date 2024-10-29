@@ -1,0 +1,654 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2324-G0460,2,06:34,MEM,,SAS,,B. Wesley,SAS,Wesley Out of Bounds - Bad Pass Turnover Turnover (P1.T8),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0460,2,05:34,MEM,35.0,SAS,33.0,B. Wesley,SAS,Wesley 10' Driving Floating Jump Shot (2 PTS) (Barlow 2 AST),Made Shot,Driving Floating Jump Shot,15,98,10,1,2.0,2.0,v
+S2324-G0460,2,02:44,MEM,37.0,SAS,37.0,B. Wesley,SAS,Wesley 1' Cutting Dunk Shot (4 PTS) (Johnson 4 AST),Made Shot,Cutting Dunk Shot,9,9,1,1,2.0,2.0,v
+S2324-G0460,2,01:03,MEM,,SAS,,B. Wesley,SAS,Wesley FLAGRANT.FOUL.TYPE1 (P1.PN) (M.Ervin),Foul,Flagrant Type 1,0,0,0,0,,,v
+S2324-G0460,3,04:04,MEM,,SAS,,B. Wesley,SAS,MISS Wesley 3PT Jump Shot,Missed Shot,Jump Shot,222,15,0,1,3.0,0.0,v
+S2324-G0460,3,00:35.600000,MEM,,SAS,,B. Wesley,SAS,Wesley S.FOUL (P2.PN) (P.Ransom),Foul,Shooting,0,0,0,0,,,v
+S2324-G0460,3,00:27,MEM,77.0,SAS,66.0,B. Wesley,SAS,Wesley 1' Driving Dunk (6 PTS),Made Shot,Driving Dunk Shot,5,2,1,1,2.0,2.0,v
+S2324-G0460,3,00:11.900000,MEM,,SAS,,B. Wesley,SAS,Wesley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0460,3,00:05.200000,MEM,78.0,SAS,68.0,B. Wesley,SAS,Wesley 11' Driving Floating Jump Shot (8 PTS),Made Shot,Driving Floating Jump Shot,29,104,11,1,2.0,2.0,v
+S2324-G0460,3,00:00.800000,MEM,,SAS,,B. Wesley,SAS,MISS Wesley 48' 3PT Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,132,466,48,1,3.0,0.0,v
+S2324-G0460,4,10:57,MEM,,SAS,,B. Wesley,SAS,Wesley STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0460,4,10:54,MEM,,SAS,,B. Wesley,SAS,MISS Wesley Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0460,4,10:54,MEM,,SAS,,B. Wesley,SAS,MISS Wesley Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0460,4,09:57,MEM,,SAS,,B. Wesley,SAS,SUB: Jones FOR Wesley,Substitution,,0,0,0,0,,,v
+S2324-G0460,4,04:01,MEM,,SAS,,B. Wesley,SAS,Wesley S.FOUL (P3.T2) (P.Ransom),Foul,Shooting,0,0,0,0,,,v
+S2324-G0460,4,03:40,MEM,,SAS,,B. Wesley,SAS,MISS Wesley 22' Jump Shot,Missed Shot,Jump Shot,-216,11,22,1,2.0,0.0,v
+S2324-G0460,4,02:17,MEM,,SAS,,B. Wesley,SAS,Wesley STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0460,4,01:46,MEM,,SAS,,B. Wesley,SAS,SUB: Wembanyama FOR Wesley,Substitution,,0,0,0,0,,,v
+S2324-G0460,4,00:20.200000,MEM,,SAS,,B. Wesley,SAS,Wesley S.FOUL (P4.T4) (M.Ervin),Foul,Shooting,0,0,0,0,,,v
+S2324-G0460,4,00:05.200000,MEM,106.0,SAS,98.0,B. Wesley,SAS,Wesley 2' Driving Dunk (10 PTS),Made Shot,Driving Dunk Shot,1,22,2,1,2.0,2.0,v
+S2324-G1123,1,00:01.300000,NOP,,SAS,,B. Wesley,SAS,MISS Wesley 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-135,216,25,1,3.0,0.0,v
+S2324-G1123,2,03:01,NOP,,SAS,,B. Wesley,SAS,Wesley Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G1123,2,02:50,NOP,,SAS,,B. Wesley,SAS,Wesley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1123,2,02:49,NOP,,SAS,,B. Wesley,SAS,Wesley Traveling Turnover (P2.T8),Turnover,Traveling,0,0,0,0,,,v
+S2324-G1123,2,02:08,NOP,,SAS,,B. Wesley,SAS,SUB: Wembanyama FOR Wesley,Substitution,,0,0,0,0,,,v
+S2324-G1123,3,02:18,NOP,,SAS,,B. Wesley,SAS,Wesley Bad Pass Turnover (P3.T12),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G1123,3,00:39.600000,NOP,,SAS,,B. Wesley,SAS,MISS Wesley 26' 3PT Jump Shot,Missed Shot,Jump Shot,136,216,26,1,3.0,0.0,v
+S2324-G1123,4,10:35,NOP,,SAS,,B. Wesley,SAS,MISS Wesley 3PT Jump Shot,Missed Shot,Jump Shot,230,5,0,1,3.0,0.0,v
+S2324-G1123,4,09:20,NOP,,SAS,,B. Wesley,SAS,Wesley Bad Pass Turnover (P4.T15),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G1123,4,09:08,NOP,90.0,SAS,91.0,B. Wesley,SAS,Wesley Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1123,4,09:08,NOP,,SAS,,B. Wesley,SAS,MISS Wesley Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G1123,4,07:15,NOP,,SAS,,B. Wesley,SAS,SUB: Branham FOR Wesley,Substitution,,0,0,0,0,,,v
+S2324-G0548,1,02:40,SAS,,CHI,,B. Wesley,SAS,MISS Wesley 24' 3PT Jump Shot,Missed Shot,Jump Shot,239,50,24,1,3.0,0.0,h
+S2324-G0548,2,09:56,SAS,,CHI,,B. Wesley,SAS,SUB: Champagnie FOR Wesley,Substitution,,0,0,0,0,,,h
+S2324-G0548,3,02:00,SAS,88.0,CHI,90.0,B. Wesley,SAS,Wesley 1' Cutting Dunk Shot (2 PTS) (Branham 1 AST),Made Shot,Cutting Dunk Shot,5,7,1,1,2.0,2.0,h
+S2324-G0548,3,01:44,SAS,,CHI,,B. Wesley,SAS,Wesley P.FOUL (P1.T4) (S.Corbin),Foul,Personal,0,0,0,0,,,h
+S2324-G0548,3,01:26,SAS,,CHI,,B. Wesley,SAS,MISS Wesley 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,141,209,25,1,3.0,0.0,h
+S2324-G0548,3,00:54.200000,SAS,,CHI,,B. Wesley,SAS,Wesley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0548,3,00:33.300000,SAS,,CHI,,B. Wesley,SAS,Wesley P.FOUL (P2.PN) (L.Wood),Foul,Personal,0,0,0,0,,,h
+S2324-G0548,4,10:05,SAS,,CHI,,B. Wesley,SAS,SUB: Barlow FOR Wesley,Substitution,,0,0,0,0,,,h
+S2324-G1070,1,03:43,SAS,,NYK,,B. Wesley,SAS,Wesley S.FOUL (P1.T1) (J.Conley),Foul,Shooting,0,0,0,0,,,h
+S2324-G1070,1,02:59,SAS,26.0,NYK,23.0,B. Wesley,SAS,Wesley Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1070,1,02:59,SAS,27.0,NYK,23.0,B. Wesley,SAS,Wesley Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1070,1,02:08,SAS,,NYK,,B. Wesley,SAS,Wesley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1070,1,01:10,SAS,36.0,NYK,23.0,B. Wesley,SAS,Wesley 1' Running Finger Roll Layup (4 PTS) (Osman 1 AST),Made Shot,Running Finger Roll Layup Shot,0,5,1,1,2.0,2.0,h
+S2324-G1070,3,04:21,SAS,,NYK,,B. Wesley,SAS,Wesley REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1070,3,03:04,SAS,,NYK,,B. Wesley,SAS,Wesley REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1070,3,03:00,SAS,,NYK,,B. Wesley,SAS,Wesley Lost Ball Turnover (P1.T6),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G1070,3,02:36,SAS,,NYK,,B. Wesley,SAS,Wesley P.FOUL (P2.T1) (N.Buchert),Foul,Personal,0,0,0,0,,,h
+S2324-G1070,3,02:17,SAS,,NYK,,B. Wesley,SAS,Wesley REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1070,3,00:03.200000,SAS,,NYK,,B. Wesley,SAS,Wesley P.FOUL (P3.T2) (N.Buchert),Foul,Personal,0,0,0,0,,,h
+S2324-G1070,4,07:55,SAS,,NYK,,B. Wesley,SAS,Wesley REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1070,4,07:37,SAS,,NYK,,B. Wesley,SAS,Wesley P.FOUL (P4.T2) (S.Wright),Foul,Personal,0,0,0,0,,,h
+S2324-G1070,4,06:41,SAS,,NYK,,B. Wesley,SAS,SUB: Jones FOR Wesley,Substitution,,0,0,0,0,,,h
+S2324-G0641,1,06:06,SAS,,POR,,B. Wesley,SAS,Wesley S.FOUL (P1.T1) (G.Petraitis),Foul,Shooting,0,0,0,0,,,h
+S2324-G0641,1,02:29,SAS,,POR,,B. Wesley,SAS,Wesley Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0641,1,02:23,SAS,,POR,,B. Wesley,SAS,Wesley STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0641,1,02:05,SAS,,POR,,B. Wesley,SAS,MISS Wesley 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,32,20,4,1,2.0,0.0,h
+S2324-G0641,1,01:58,SAS,,POR,,B. Wesley,SAS,Wesley STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0641,1,01:42,SAS,,POR,,B. Wesley,SAS,MISS Wesley 4' Running Dunk,Missed Shot,Running Dunk Shot,4,39,4,1,2.0,0.0,h
+S2324-G0641,1,01:20,SAS,,POR,,B. Wesley,SAS,MISS Wesley 2' Reverse Layup,Missed Shot,Reverse Layup Shot,16,12,2,1,2.0,0.0,h
+S2324-G0641,1,00:00,SAS,,POR,,B. Wesley,SAS,MISS Wesley 49' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,17,491,49,1,3.0,0.0,h
+S2324-G0641,2,02:43,SAS,,POR,,B. Wesley,SAS,MISS Wesley 4' Running Dunk,Missed Shot,Running Dunk Shot,-13,36,4,1,2.0,0.0,h
+S2324-G0641,3,01:02,SAS,,POR,,B. Wesley,SAS,Wesley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0641,4,05:34,SAS,,POR,,B. Wesley,SAS,Wesley REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0641,4,02:34,SAS,,POR,,B. Wesley,SAS,SUB: Wembanyama FOR Wesley,Substitution,,0,0,0,0,,,h
+S2324-G0641,4,00:39,SAS,,POR,,B. Wesley,SAS,MISS Wesley Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0641,4,00:39,SAS,116.0,POR,100.0,B. Wesley,SAS,Wesley Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1197,1,09:27,SAS,,DET,,B. Wesley,SAS,Wesley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1197,1,08:14,SAS,,DET,,B. Wesley,SAS,Wesley S.FOUL (P1.T4) (B.Kennedy),Foul,Shooting,0,0,0,0,,,h
+S2324-G1197,1,06:59,SAS,,DET,,B. Wesley,SAS,Wesley STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1197,1,06:34,SAS,13.0,DET,12.0,B. Wesley,SAS,Wesley 2' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,-9,16,2,1,2.0,2.0,h
+S2324-G1197,1,04:28,SAS,,DET,,B. Wesley,SAS,Wesley REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1197,1,04:08,SAS,20.0,DET,17.0,B. Wesley,SAS,Wesley 1' Running Dunk (4 PTS) (Mamukelashvili 1 AST),Made Shot,Running Dunk Shot,-2,9,1,1,2.0,2.0,h
+S2324-G1197,1,03:52,SAS,,DET,,B. Wesley,SAS,SUB: Duke Jr. FOR Wesley,Substitution,,0,0,0,0,,,h
+S2324-G1197,2,07:08,SAS,,DET,,B. Wesley,SAS,Wesley REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1197,2,04:33,SAS,,DET,,B. Wesley,SAS,Wesley REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1197,2,03:49,SAS,,DET,,B. Wesley,SAS,Wesley STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G1197,2,03:01,SAS,,DET,,B. Wesley,SAS,Wesley Lost Ball Turnover (P1.T7),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G1197,2,02:44,SAS,,DET,,B. Wesley,SAS,SUB: Graham FOR Wesley,Substitution,,0,0,0,0,,,h
+S2324-G1197,3,10:00,SAS,,DET,,B. Wesley,SAS,MISS Wesley 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,18,2,2,1,2.0,0.0,h
+S2324-G1197,3,08:24,SAS,,DET,,B. Wesley,SAS,Wesley REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1197,3,08:04,SAS,,DET,,B. Wesley,SAS,Wesley STEAL (3 STL),,,0,0,0,0,,,h
+S2324-G1197,3,07:59,SAS,72.0,DET,44.0,B. Wesley,SAS,Wesley 3' Alley Oop Layup (6 PTS) (Cissoko 2 AST),Made Shot,Alley Oop Layup shot,-6,29,3,1,2.0,2.0,h
+S2324-G1197,3,06:33,SAS,75.0,DET,46.0,B. Wesley,SAS,Wesley Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1197,3,06:33,SAS,,DET,,B. Wesley,SAS,MISS Wesley Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G1197,3,05:34,SAS,,DET,,B. Wesley,SAS,MISS Wesley 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,38,25,5,1,2.0,0.0,h
+S2324-G1197,3,05:25,SAS,,DET,,B. Wesley,SAS,Wesley REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1197,3,04:09,SAS,84.0,DET,54.0,B. Wesley,SAS,Wesley 1' Driving Finger Roll Layup (9 PTS) (Gray 2 AST),Made Shot,Driving Finger Roll Layup Shot,13,0,1,1,2.0,2.0,h
+S2324-G1197,3,03:57,SAS,,DET,,B. Wesley,SAS,SUB: Duke Jr. FOR Wesley,Substitution,,0,0,0,0,,,h
+S2324-G1197,4,05:13,SAS,112.0,DET,80.0,B. Wesley,SAS,Wesley 3PT Jump Shot (12 PTS) (Cissoko 4 AST),Made Shot,Jump Shot,228,-20,0,1,3.0,3.0,h
+S2324-G1197,4,04:07,SAS,114.0,DET,86.0,B. Wesley,SAS,Wesley 2' Driving Finger Roll Layup (14 PTS),Made Shot,Driving Finger Roll Layup Shot,16,16,2,1,2.0,2.0,h
+S2324-G1197,4,04:07,SAS,115.0,DET,86.0,B. Wesley,SAS,Wesley Free Throw 1 of 1 (15 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G1197,4,03:05,SAS,,DET,,B. Wesley,SAS,Wesley REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1197,4,03:01,SAS,122.0,DET,88.0,B. Wesley,SAS,Wesley 3' Running Layup (17 PTS),Made Shot,Running Layup Shot,-27,4,3,1,2.0,2.0,h
+S2324-G1197,4,01:27,SAS,,DET,,B. Wesley,SAS,Wesley S.FOUL (P2.PN) (C.Washington),Foul,Shooting,0,0,0,0,,,h
+S2324-G1085,1,01:30,SAS,,GSW,,B. Wesley,SAS,Wesley REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1085,1,01:28,SAS,32.0,GSW,19.0,B. Wesley,SAS,Wesley Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1085,1,01:28,SAS,,GSW,,B. Wesley,SAS,MISS Wesley Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G1085,2,11:05,SAS,,GSW,,B. Wesley,SAS,MISS Wesley 3PT Jump Shot,Missed Shot,Jump Shot,-222,6,0,1,3.0,0.0,h
+S2324-G1085,2,10:35,SAS,,GSW,,B. Wesley,SAS,SUB: Jones FOR Wesley,Substitution,,0,0,0,0,,,h
+S2324-G1085,3,00:01.600000,SAS,,GSW,,B. Wesley,SAS,Wesley Personal Take Foul (P1.T4) (M.Davis),Foul,Personal Take,0,0,0,0,,,h
+S2324-G1180,1,09:07,SAS,9.0,DEN,6.0,B. Wesley,SAS,Wesley 1' Driving Dunk (2 PTS) (Jones 1 AST),Made Shot,Driving Dunk Shot,1,7,1,1,2.0,2.0,h
+S2324-G1180,1,06:59,SAS,,DEN,,B. Wesley,SAS,Wesley L.B.FOUL (P1.T1) (J.Goble),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G1180,1,04:11,SAS,,DEN,,B. Wesley,SAS,Wesley Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G1180,1,03:57,SAS,,DEN,,B. Wesley,SAS,Wesley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1180,1,02:22,SAS,,DEN,,B. Wesley,SAS,SUB: Wembanyama FOR Wesley,Substitution,,0,0,0,0,,,h
+S2324-G1180,2,00:07.200000,SAS,,DEN,,B. Wesley,SAS,MISS Wesley 13' Jump Shot,Missed Shot,Jump Shot,127,0,13,1,2.0,0.0,h
+S2324-G1180,3,10:45,SAS,,DEN,,B. Wesley,SAS,SUB: Cissoko FOR Wesley,Substitution,,0,0,0,0,,,h
+S2324-G1180,3,01:31,SAS,,DEN,,B. Wesley,SAS,Wesley P.FOUL (P2.T2) (J.Goble),Foul,Personal,0,0,0,0,,,h
+S2324-G1180,3,01:10,SAS,,DEN,,B. Wesley,SAS,Wesley Non-Unsportsmanlike Tech Foul - Flopping (P2.T2) (J.Sterling),Foul                                    ,Flopping,0,0,0,0,,,h
+S2324-G1163,1,02:51,OKC,,SAS,,B. Wesley,SAS,Wesley Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G1163,1,02:37,OKC,,SAS,,B. Wesley,SAS,MISS Wesley 25' 3PT Jump Shot,Missed Shot,Jump Shot,89,237,25,1,3.0,0.0,v
+S2324-G1163,1,01:27,OKC,,SAS,,B. Wesley,SAS,Wesley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1163,1,01:04,OKC,,SAS,,B. Wesley,SAS,MISS Wesley 4' Running Layup,Missed Shot,Running Layup Shot,34,19,4,1,2.0,0.0,v
+S2324-G1163,1,00:39.200000,OKC,,SAS,,B. Wesley,SAS,MISS Wesley 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,28,57,6,1,2.0,0.0,v
+S2324-G1163,2,11:28,OKC,,SAS,,B. Wesley,SAS,MISS Wesley 3' Driving Layup,Missed Shot,Driving Layup Shot,28,4,3,1,2.0,0.0,v
+S2324-G1163,2,09:35,OKC,,SAS,,B. Wesley,SAS,SUB: Champagnie FOR Wesley,Substitution,,0,0,0,0,,,v
+S2324-G1163,2,01:39,OKC,,SAS,,B. Wesley,SAS,MISS Wesley 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,23,8,2,1,2.0,0.0,v
+S2324-G1163,2,01:30,OKC,,SAS,,B. Wesley,SAS,Wesley REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1163,2,00:32.200000,OKC,,SAS,,B. Wesley,SAS,Wesley Lost Ball Turnover (P2.T10),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G1163,3,09:19,OKC,,SAS,,B. Wesley,SAS,MISS Wesley 26' 3PT Jump Shot,Missed Shot,Jump Shot,142,216,26,1,3.0,0.0,v
+S2324-G1163,3,06:09,OKC,,SAS,,B. Wesley,SAS,MISS Wesley 3' Driving Layup,Missed Shot,Driving Layup Shot,25,17,3,1,2.0,0.0,v
+S2324-G1163,3,04:02,OKC,88.0,SAS,55.0,B. Wesley,SAS,Wesley 3PT Jump Shot (3 PTS) (Duke Jr. 1 AST),Made Shot,Jump Shot,233,-1,0,1,3.0,3.0,v
+S2324-G1163,3,03:24,OKC,,SAS,,B. Wesley,SAS,Wesley S.FOUL (P1.T3) (D.Richardson),Foul,Shooting,0,0,0,0,,,v
+S2324-G1163,3,03:24,OKC,,SAS,,B. Wesley,SAS,SUB: Jones FOR Wesley,Substitution,,0,0,0,0,,,v
+S2324-G1163,4,07:19,OKC,,SAS,,B. Wesley,SAS,MISS Wesley 4' Driving Layup,Missed Shot,Driving Layup Shot,-37,18,4,1,2.0,0.0,v
+S2324-G1163,4,06:28,OKC,,SAS,,B. Wesley,SAS,MISS Wesley 25' 3PT Jump Shot,Missed Shot,Jump Shot,195,154,25,1,3.0,0.0,v
+S2324-G1163,4,04:07,OKC,112.0,SAS,77.0,B. Wesley,SAS,Wesley Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1163,4,04:07,OKC,112.0,SAS,78.0,B. Wesley,SAS,Wesley Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1163,4,02:00,OKC,122.0,SAS,83.0,B. Wesley,SAS,Wesley Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1163,4,02:00,OKC,122.0,SAS,84.0,B. Wesley,SAS,Wesley Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1163,4,00:09.300000,OKC,,SAS,,B. Wesley,SAS,MISS Wesley 3' Driving Layup,Missed Shot,Driving Layup Shot,-25,23,3,1,2.0,0.0,v
+S2324-G0908,2,09:50,SAC,,SAS,,B. Wesley,SAS,Wesley Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0908,2,08:53,SAC,41.0,SAS,33.0,B. Wesley,SAS,Wesley 8' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,7,75,8,1,2.0,2.0,v
+S2324-G0908,2,08:06,SAC,,SAS,,B. Wesley,SAS,Wesley BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0908,2,07:34,SAC,,SAS,,B. Wesley,SAS,Wesley S.FOUL (P1.T3) (J.Williams),Foul,Shooting,0,0,0,0,,,v
+S2324-G0908,2,07:11,SAC,,SAS,,B. Wesley,SAS,MISS Wesley 14' Floating Jump Shot,Missed Shot,Floating Jump shot,4,136,14,1,2.0,0.0,v
+S2324-G0908,2,06:46,SAC,,SAS,,B. Wesley,SAS,SUB: Vassell FOR Wesley,Substitution,,0,0,0,0,,,v
+S2324-G0908,3,02:51,SAC,93.0,SAS,88.0,B. Wesley,SAS,Wesley 4' Cutting Dunk Shot (4 PTS) (Johnson 2 AST),Made Shot,Cutting Dunk Shot,-13,41,4,1,2.0,2.0,v
+S2324-G0908,4,10:46,SAC,103.0,SAS,103.0,B. Wesley,SAS,Wesley 25' 3PT Jump Shot (7 PTS) (Vassell 8 AST),Made Shot,Jump Shot,241,53,25,1,3.0,3.0,v
+S2324-G0908,4,09:18,SAC,,SAS,,B. Wesley,SAS,Wesley P.FOUL (P2.T2) (K.Lane),Foul,Personal,0,0,0,0,,,v
+S2324-G0908,4,09:13,SAC,,SAS,,B. Wesley,SAS,Wesley P.FOUL (P3.T3) (J.Williams),Foul,Personal,0,0,0,0,,,v
+S2324-G0908,4,08:08,SAC,,SAS,,B. Wesley,SAS,Wesley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0908,4,07:59,SAC,106.0,SAS,114.0,B. Wesley,SAS,Wesley 5' Reverse Layup (9 PTS) (Collins 4 AST),Made Shot,Reverse Layup Shot,-2,46,5,1,2.0,2.0,v
+S2324-G0908,4,06:52,SAC,,SAS,,B. Wesley,SAS,Wesley STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0908,4,06:48,SAC,110.0,SAS,118.0,B. Wesley,SAS,Wesley 5' Running Dunk (11 PTS),Made Shot,Running Dunk Shot,-16,44,5,1,2.0,2.0,v
+S2324-G0908,4,06:11,SAC,,SAS,,B. Wesley,SAS,SUB: Jones FOR Wesley,Substitution,,0,0,0,0,,,v
+S2324-G0764,1,03:56,TOR,,SAS,,B. Wesley,SAS,Wesley Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0764,1,00:57.600000,TOR,26.0,SAS,30.0,B. Wesley,SAS,Wesley Running Layup (2 PTS) (Johnson 2 AST),Made Shot,Running Layup Shot,4,1,0,1,2.0,2.0,v
+S2324-G0764,1,00:08.700000,TOR,28.0,SAS,34.0,B. Wesley,SAS,Wesley Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0764,1,00:08.700000,TOR,,SAS,,B. Wesley,SAS,MISS Wesley Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0764,2,11:27,TOR,28.0,SAS,36.0,B. Wesley,SAS,Wesley 1' Cutting Layup Shot (5 PTS) (Wembanyama 3 AST),Made Shot,Cutting Layup Shot,1,7,1,1,2.0,2.0,v
+S2324-G0764,2,10:29,TOR,,SAS,,B. Wesley,SAS,MISS Wesley 2' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,7,23,2,1,2.0,0.0,v
+S2324-G0764,2,09:06,TOR,,SAS,,B. Wesley,SAS,SUB: Jones FOR Wesley,Substitution,,0,0,0,0,,,v
+S2324-G0764,3,04:34,TOR,,SAS,,B. Wesley,SAS,Wesley STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0764,3,03:48,TOR,63.0,SAS,92.0,B. Wesley,SAS,Wesley 3PT Jump Shot (8 PTS) (Vassell 5 AST),Made Shot,Jump Shot,-229,13,0,1,3.0,3.0,v
+S2324-G0764,3,02:48,TOR,,SAS,,B. Wesley,SAS,Wesley Out of Bounds - Bad Pass Turnover Turnover (P2.T14),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0764,4,06:28,TOR,,SAS,,B. Wesley,SAS,Wesley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0764,4,04:32,TOR,,SAS,,B. Wesley,SAS,Wesley Out of Bounds - Bad Pass Turnover Turnover (P3.T17),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0764,4,04:12,TOR,,SAS,,B. Wesley,SAS,Wesley REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0764,4,03:27,TOR,92.0,SAS,117.0,B. Wesley,SAS,Wesley Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0764,4,03:27,TOR,92.0,SAS,118.0,B. Wesley,SAS,Wesley Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0764,4,02:25,TOR,,SAS,,B. Wesley,SAS,Wesley P.FOUL (P1.PN) (J.Sterling),Foul,Personal,0,0,0,0,,,v
+S2324-G0764,4,02:09,TOR,,SAS,,B. Wesley,SAS,Wesley Bad Pass Turnover (P4.T18),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0764,4,00:35.700000,TOR,,SAS,,B. Wesley,SAS,MISS Wesley 2' Driving Layup,Missed Shot,Driving Layup Shot,-13,13,2,1,2.0,0.0,v
+S2324-G0965,1,01:57,SAS,,DEN,,B. Wesley,SAS,MISS Wesley 9' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-89,31,9,1,2.0,0.0,h
+S2324-G0965,1,00:36.300000,SAS,17.0,DEN,35.0,B. Wesley,SAS,Wesley Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0965,1,00:36.300000,SAS,18.0,DEN,35.0,B. Wesley,SAS,Wesley Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0965,2,01:42,SAS,46.0,DEN,56.0,B. Wesley,SAS,Wesley Running Dunk (4 PTS),Made Shot,Running Dunk Shot,-2,2,0,1,2.0,2.0,h
+S2324-G0965,2,00:36.800000,SAS,49.0,DEN,58.0,B. Wesley,SAS,Wesley Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0965,2,00:36.800000,SAS,,DEN,,B. Wesley,SAS,MISS Wesley Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0965,4,11:39,SAS,,DEN,,B. Wesley,SAS,Wesley S.FOUL (P1.T1) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,h
+S2324-G0965,4,10:08,SAS,,DEN,,B. Wesley,SAS,MISS Wesley 1' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,12,0,1,1,2.0,0.0,h
+S2324-G0965,4,10:04,SAS,,DEN,,B. Wesley,SAS,Wesley REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0965,4,10:04,SAS,,DEN,,B. Wesley,SAS,MISS Wesley Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2324-G0965,4,09:55,SAS,,DEN,,B. Wesley,SAS,SUB: Johnson FOR Wesley,Substitution,,0,0,0,0,,,h
+S2324-G0877,1,03:18,SAS,21.0,IND,11.0,B. Wesley,SAS,Wesley 1' Running Dunk (2 PTS),Made Shot,Running Dunk Shot,-1,6,1,1,2.0,2.0,h
+S2324-G0877,1,02:29,SAS,25.0,IND,13.0,B. Wesley,SAS,Wesley 2' Driving Finger Roll Layup (4 PTS) (Collins 1 AST),Made Shot,Driving Finger Roll Layup Shot,23,-2,2,1,2.0,2.0,h
+S2324-G0877,1,01:22,SAS,,IND,,B. Wesley,SAS,Wesley S.FOUL (P1.T1) (B.Adair),Foul,Shooting,0,0,0,0,,,h
+S2324-G0877,1,01:00,SAS,,IND,,B. Wesley,SAS,Wesley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0877,2,09:28,SAS,31.0,IND,22.0,B. Wesley,SAS,Wesley Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0877,2,09:28,SAS,,IND,,B. Wesley,SAS,MISS Wesley Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0877,2,08:42,SAS,,IND,,B. Wesley,SAS,Wesley STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0877,2,08:38,SAS,,IND,,B. Wesley,SAS,SUB: Johnson FOR Wesley,Substitution,,0,0,0,0,,,h
+S2324-G0877,3,02:13,SAS,,IND,,B. Wesley,SAS,Wesley P.FOUL (P2.PN) (B.Adair),Foul,Personal,0,0,0,0,,,h
+S2324-G0877,3,01:20,SAS,83.0,IND,75.0,B. Wesley,SAS,Wesley Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0877,3,01:20,SAS,84.0,IND,75.0,B. Wesley,SAS,Wesley Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0877,3,00:24.700000,SAS,,IND,,B. Wesley,SAS,Wesley Bad Pass Turnover (P1.T11),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0877,4,11:56,SAS,,IND,,B. Wesley,SAS,Wesley S.FOUL (P3.T1) (B.Adair),Foul,Shooting,0,0,0,0,,,h
+S2324-G0877,4,09:40,SAS,95.0,IND,82.0,B. Wesley,SAS,Wesley 2' Driving Layup (9 PTS) (Osman 2 AST),Made Shot,Driving Layup Shot,-16,12,2,1,2.0,2.0,h
+S2324-G0877,4,06:26,SAS,,IND,,B. Wesley,SAS,SUB: Jones FOR Wesley,Substitution,,0,0,0,0,,,h
+S2324-G0477,1,03:14,SAS,,MIL,,B. Wesley,SAS,Wesley P.FOUL (P1.T3) (J.Williams),Foul,Personal,0,0,0,0,,,h
+S2324-G0477,1,01:19,SAS,,MIL,,B. Wesley,SAS,Wesley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0477,1,00:55.100000,SAS,,MIL,,B. Wesley,SAS,Wesley P.FOUL (P2.PN) (J.Butler),Foul,Personal,0,0,0,0,,,h
+S2324-G0477,2,07:59,SAS,,MIL,,B. Wesley,SAS,MISS Wesley 1' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,-1,5,1,1,2.0,0.0,h
+S2324-G0477,2,07:53,SAS,,MIL,,B. Wesley,SAS,SUB: Jones FOR Wesley,Substitution,,0,0,0,0,,,h
+S2324-G0477,4,10:21,SAS,,MIL,,B. Wesley,SAS,Wesley S.FOUL (P3.T2) (J.Butler),Foul,Shooting,0,0,0,0,,,h
+S2324-G0477,4,10:21,SAS,,MIL,,B. Wesley,SAS,SUB: Jones FOR Wesley,Substitution,,0,0,0,0,,,h
+S2324-G0477,4,05:51,SAS,,MIL,,B. Wesley,SAS,SUB: Johnson FOR Wesley,Substitution,,0,0,0,0,,,h
+S2324-G0981,1,01:58,SAS,22.0,BKN,29.0,B. Wesley,SAS,Wesley Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,0,-3,0,1,2.0,2.0,h
+S2324-G0981,1,00:00,SAS,,BKN,,B. Wesley,SAS,MISS Wesley 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-7,25,3,1,2.0,0.0,h
+S2324-G0981,2,10:35,SAS,,BKN,,B. Wesley,SAS,Wesley S.FOUL (P1.T1) (G.Petraitis),Foul,Shooting,0,0,0,0,,,h
+S2324-G0981,2,08:44,SAS,,BKN,,B. Wesley,SAS,MISS Wesley 26' 3PT Jump Shot,Missed Shot,Jump Shot,191,173,26,1,3.0,0.0,h
+S2324-G0981,2,08:33,SAS,,BKN,,B. Wesley,SAS,SUB: Jones FOR Wesley,Substitution,,0,0,0,0,,,h
+S2324-G0981,4,10:13,SAS,,BKN,,B. Wesley,SAS,Wesley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0981,4,10:05,SAS,,BKN,,B. Wesley,SAS,MISS Wesley 2' Driving Layup,Missed Shot,Driving Layup Shot,-20,5,2,1,2.0,0.0,h
+S2324-G0981,4,09:29,SAS,,BKN,,B. Wesley,SAS,Wesley S.FOUL (P2.T2) (G.Petraitis),Foul,Shooting,0,0,0,0,,,h
+S2324-G0981,4,08:46,SAS,,BKN,,B. Wesley,SAS,Wesley Bad Pass Turnover (P1.T14),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0981,4,08:44,SAS,,BKN,,B. Wesley,SAS,SUB: Jones FOR Wesley,Substitution,,0,0,0,0,,,h
+S2324-G0942,1,02:30,SAS,26.0,HOU,22.0,B. Wesley,SAS,Wesley 1' Driving Dunk (2 PTS) (Branham 1 AST),Made Shot,Driving Dunk Shot,2,8,1,1,2.0,2.0,h
+S2324-G0942,1,01:36,SAS,29.0,HOU,24.0,B. Wesley,SAS,Wesley Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0942,1,01:36,SAS,30.0,HOU,24.0,B. Wesley,SAS,Wesley Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0942,1,01:19,SAS,,HOU,,B. Wesley,SAS,Wesley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0942,2,09:19,SAS,,HOU,,B. Wesley,SAS,SUB: Jones FOR Wesley,Substitution,,0,0,0,0,,,h
+S2324-G0942,3,03:10,SAS,,HOU,,B. Wesley,SAS,MISS Wesley 26' 3PT Jump Shot,Missed Shot,Jump Shot,206,163,26,1,3.0,0.0,h
+S2324-G0942,3,02:58,SAS,,HOU,,B. Wesley,SAS,Wesley REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0942,3,02:14,SAS,67.0,HOU,72.0,B. Wesley,SAS,Wesley 2' Driving Finger Roll Layup (6 PTS),Made Shot,Driving Finger Roll Layup Shot,-17,15,2,1,2.0,2.0,h
+S2324-G0942,3,01:50,SAS,,HOU,,B. Wesley,SAS,Wesley REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0942,3,00:02.200000,SAS,,HOU,,B. Wesley,SAS,MISS Wesley 12' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,0,120,12,1,2.0,0.0,h
+S2324-G0942,4,11:10,SAS,,HOU,,B. Wesley,SAS,MISS Wesley 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,11,16,2,1,2.0,0.0,h
+S2324-G0942,4,11:05,SAS,76.0,HOU,79.0,B. Wesley,SAS,Wesley 2' Layup (8 PTS) (Mamukelashvili 2 AST),Made Shot,Layup Shot,13,12,2,1,2.0,2.0,h
+S2324-G0942,4,08:58,SAS,85.0,HOU,82.0,B. Wesley,SAS,Wesley 5' Running Reverse Layup (10 PTS) (Wembanyama 6 AST),Made Shot,Running Reverse Layup Shot,-45,15,5,1,2.0,2.0,h
+S2324-G0942,4,08:38,SAS,,HOU,,B. Wesley,SAS,Wesley S.FOUL (P1.T1) (Z.Zarba),Foul,Shooting,0,0,0,0,,,h
+S2324-G0942,4,07:47,SAS,,HOU,,B. Wesley,SAS,SUB: Jones FOR Wesley,Substitution,,0,0,0,0,,,h
+S2324-G0734,1,05:37,ORL,,SAS,,B. Wesley,SAS,Wesley REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0734,1,05:15,ORL,14.0,SAS,10.0,B. Wesley,SAS,Wesley 14' Driving Floating Jump Shot (2 PTS) (Collins 2 AST),Made Shot,Driving Floating Jump Shot,-66,121,14,1,2.0,2.0,v
+S2324-G0734,1,03:51,ORL,,SAS,,B. Wesley,SAS,Wesley L.B.FOUL (P1.T3) (J.Goldenberg),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0734,1,03:27,ORL,,SAS,,B. Wesley,SAS,Wesley REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0734,1,02:01,ORL,19.0,SAS,15.0,B. Wesley,SAS,Wesley 25' 3PT Jump Shot (5 PTS) (Johnson 1 AST),Made Shot,Jump Shot,164,189,25,1,3.0,3.0,v
+S2324-G0734,2,06:22,ORL,,SAS,,B. Wesley,SAS,Wesley Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0734,2,06:15,ORL,,SAS,,B. Wesley,SAS,Wesley S.FOUL (P2.T2) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,v
+S2324-G0734,2,05:43,ORL,,SAS,,B. Wesley,SAS,Wesley STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0734,2,05:41,ORL,38.0,SAS,33.0,B. Wesley,SAS,Wesley 4' Running Layup (7 PTS),Made Shot,Running Layup Shot,-11,40,4,1,2.0,2.0,v
+S2324-G0734,2,05:41,ORL,38.0,SAS,34.0,B. Wesley,SAS,Wesley Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G0734,2,05:26,ORL,,SAS,,B. Wesley,SAS,Wesley S.FOUL (P3.T3) (S.Foster),Foul,Shooting,0,0,0,0,,,v
+S2324-G0734,2,04:00,ORL,,SAS,,B. Wesley,SAS,MISS Wesley 25' 3PT Jump Shot,Missed Shot,Jump Shot,-169,189,25,1,3.0,0.0,v
+S2324-G0734,3,02:41,ORL,,SAS,,B. Wesley,SAS,Wesley P.FOUL (P4.T3) (J.Goldenberg),Foul,Personal,0,0,0,0,,,v
+S2324-G0734,3,01:13,ORL,93.0,SAS,83.0,B. Wesley,SAS,Wesley 3' Running Layup (10 PTS) (Vassell 2 AST),Made Shot,Running Layup Shot,2,32,3,1,2.0,2.0,v
+S2324-G0734,4,10:14,ORL,,SAS,,B. Wesley,SAS,SUB: Vassell FOR Wesley,Substitution,,0,0,0,0,,,v
+S2324-G1099,1,01:41,DEN,,SAS,,B. Wesley,SAS,Wesley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1099,1,00:08.700000,DEN,,SAS,,B. Wesley,SAS,MISS Wesley 22' Jump Shot,Missed Shot,Jump Shot,211,62,22,1,2.0,0.0,v
+S2324-G1099,2,11:11,DEN,,SAS,,B. Wesley,SAS,MISS Wesley Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G1099,2,11:11,DEN,,SAS,,B. Wesley,SAS,MISS Wesley Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G1099,2,10:01,DEN,,SAS,,B. Wesley,SAS,MISS Wesley 1' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,-5,1,1,1,2.0,0.0,v
+S2324-G1099,2,08:32,DEN,,SAS,,B. Wesley,SAS,MISS Wesley 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-13,-6,1,1,2.0,0.0,v
+S2324-G1099,2,06:46,DEN,,SAS,,B. Wesley,SAS,Wesley Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G1099,2,06:46,DEN,,SAS,,B. Wesley,SAS,SUB: Champagnie FOR Wesley,Substitution,,0,0,0,0,,,v
+S2324-G1099,3,03:42,DEN,,SAS,,B. Wesley,SAS,Wesley OFF.Foul (P1) (M.Lindsay),Foul,Offensive,0,0,0,0,,,v
+S2324-G1099,3,03:42,DEN,,SAS,,B. Wesley,SAS,Wesley Offensive Foul Turnover (P2.T7),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G1099,3,01:15,DEN,83.0,SAS,80.0,B. Wesley,SAS,Wesley 4' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,29,27,4,1,2.0,2.0,v
+S2324-G1099,3,01:05,DEN,,SAS,,B. Wesley,SAS,Wesley S.FOUL (P2.PN) (A.Nagy),Foul,Shooting,0,0,0,0,,,v
+S2324-G1099,4,09:48,DEN,,SAS,,B. Wesley,SAS,MISS Wesley 24' 3PT Jump Shot,Missed Shot,Jump Shot,244,9,24,1,3.0,0.0,v
+S2324-G1099,4,08:37,DEN,,SAS,,B. Wesley,SAS,SUB: Jones FOR Wesley,Substitution,,0,0,0,0,,,v
+S2324-G0519,3,02:54,DET,68.0,SAS,87.0,B. Wesley,SAS,Wesley 2' Running Layup (2 PTS) (Osman 2 AST),Made Shot,Running Layup Shot,21,-2,2,1,2.0,2.0,v
+S2324-G0519,3,02:37,DET,,SAS,,B. Wesley,SAS,Wesley S.FOUL (P1.T3) (J.Ralls),Foul,Shooting,0,0,0,0,,,v
+S2324-G0519,3,00:40,DET,75.0,SAS,95.0,B. Wesley,SAS,Wesley 2' Running Finger Roll Layup (4 PTS),Made Shot,Running Finger Roll Layup Shot,-21,6,2,1,2.0,2.0,v
+S2324-G0519,4,01:34,DET,105.0,SAS,126.0,B. Wesley,SAS,Wesley 2' Cutting Layup Shot (6 PTS) (Jones 5 AST),Made Shot,Cutting Layup Shot,-22,-4,2,1,2.0,2.0,v
+S2324-G0519,4,01:30,DET,,SAS,,B. Wesley,SAS,Wesley Personal Take Foul (P2.T3) (J.Ralls),Foul,Personal Take,0,0,0,0,,,v
+S2324-G0519,4,00:32.300000,DET,108.0,SAS,129.0,B. Wesley,SAS,Wesley 5' Driving Floating Jump Shot (8 PTS),Made Shot,Driving Floating Jump Shot,-43,31,5,1,2.0,2.0,v
+S2324-G0519,4,00:32.300000,DET,108.0,SAS,130.0,B. Wesley,SAS,Wesley Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G0519,4,00:18.400000,DET,,SAS,,B. Wesley,SAS,Wesley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0559,2,00:01.700000,ATL,,SAS,,B. Wesley,SAS,MISS Wesley 37' 3PT Floating Jump Shot,Missed Shot,Floating Jump shot,27,373,37,1,3.0,0.0,v
+S2324-G0559,3,11:46,ATL,69.0,SAS,36.0,B. Wesley,SAS,Wesley 2' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,4,22,2,1,2.0,2.0,v
+S2324-G0559,3,10:33,ATL,,SAS,,B. Wesley,SAS,MISS Wesley 25' 3PT Jump Shot,Missed Shot,Jump Shot,-179,179,25,1,3.0,0.0,v
+S2324-G0559,3,10:22,ATL,,SAS,,B. Wesley,SAS,Wesley REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0559,3,10:02,ATL,,SAS,,B. Wesley,SAS,Wesley Out of Bounds - Bad Pass Turnover Turnover (P1.T12),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0559,3,09:51,ATL,,SAS,,B. Wesley,SAS,Wesley REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0559,3,06:45,ATL,,SAS,,B. Wesley,SAS,MISS Wesley Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0559,3,06:45,ATL,73.0,SAS,48.0,B. Wesley,SAS,Wesley Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0559,3,06:03,ATL,,SAS,,B. Wesley,SAS,SUB: Johnson FOR Wesley,Substitution,,0,0,0,0,,,v
+S2324-G0559,4,08:13,ATL,,SAS,,B. Wesley,SAS,MISS Wesley 2' Driving Layup,Missed Shot,Driving Layup Shot,-13,10,2,1,2.0,0.0,v
+S2324-G0559,4,06:32,ATL,,SAS,,B. Wesley,SAS,SUB: Jones FOR Wesley,Substitution,,0,0,0,0,,,v
+S2324-G0099,4,06:28,LAC,,SAS,,B. Wesley,SAS,Wesley BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0099,4,04:56,LAC,,SAS,,B. Wesley,SAS,Wesley Bad Pass Turnover (P1.T23),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0099,4,01:25,LAC,,SAS,,B. Wesley,SAS,MISS Wesley 27' 3PT Jump Shot,Missed Shot,Jump Shot,-186,189,27,1,3.0,0.0,v
+S2324-G0099,4,00:19.400000,LAC,123.0,SAS,83.0,B. Wesley,SAS,Wesley Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0099,4,00:19.400000,LAC,,SAS,,B. Wesley,SAS,MISS Wesley Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0703,1,05:36,SAS,,CLE,,B. Wesley,SAS,Wesley OFF.Foul (P1) (D.Taylor),Foul,Offensive,0,0,0,0,,,h
+S2324-G0703,1,05:36,SAS,,CLE,,B. Wesley,SAS,Wesley Offensive Foul Turnover (P1.T1),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0703,1,01:35,SAS,,CLE,,B. Wesley,SAS,SUB: Jones FOR Wesley,Substitution,,0,0,0,0,,,h
+S2324-G0703,2,05:09,SAS,,CLE,,B. Wesley,SAS,MISS Wesley 27' 3PT Jump Shot,Missed Shot,Jump Shot,-161,212,27,1,3.0,0.0,h
+S2324-G0703,2,04:34,SAS,,CLE,,B. Wesley,SAS,MISS Wesley 3' Driving Layup,Missed Shot,Driving Layup Shot,18,21,3,1,2.0,0.0,h
+S2324-G0703,2,04:10,SAS,,CLE,,B. Wesley,SAS,MISS Wesley 16' Jump Shot,Missed Shot,Jump Shot,71,143,16,1,2.0,0.0,h
+S2324-G0703,2,03:54,SAS,,CLE,,B. Wesley,SAS,SUB: Johnson FOR Wesley,Substitution,,0,0,0,0,,,h
+S2324-G0813,1,01:34,LAL,,SAS,,B. Wesley,SAS,Wesley Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0813,2,10:47,LAL,34.0,SAS,31.0,B. Wesley,SAS,Wesley 20' Jump Shot (2 PTS) (Wembanyama 3 AST),Made Shot,Jump Shot,195,46,20,1,2.0,2.0,v
+S2324-G0813,2,09:14,LAL,39.0,SAS,35.0,B. Wesley,SAS,Wesley 9' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,-4,85,9,1,2.0,2.0,v
+S2324-G0813,2,08:18,LAL,,SAS,,B. Wesley,SAS,Wesley REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0813,2,07:48,LAL,,SAS,,B. Wesley,SAS,Wesley REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0813,2,07:40,LAL,,SAS,,B. Wesley,SAS,MISS Wesley 24' 3PT Jump Shot,Missed Shot,Jump Shot,227,89,24,1,3.0,0.0,v
+S2324-G0813,2,07:02,LAL,,SAS,,B. Wesley,SAS,SUB: Jones FOR Wesley,Substitution,,0,0,0,0,,,v
+S2324-G0813,3,01:34,LAL,,SAS,,B. Wesley,SAS,Wesley REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0813,3,00:01,LAL,,SAS,,B. Wesley,SAS,Wesley S.FOUL (P1.T4) (M.Kallio),Foul,Shooting,0,0,0,0,,,v
+S2324-G1039,1,04:04,SAS,,PHX,,B. Wesley,SAS,MISS Wesley 9' Jump Shot,Missed Shot,Jump Shot,-4,88,9,1,2.0,0.0,h
+S2324-G1039,1,01:16,SAS,,PHX,,B. Wesley,SAS,MISS Wesley 1' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,-5,5,1,1,2.0,0.0,h
+S2324-G1039,2,09:51,SAS,34.0,PHX,27.0,B. Wesley,SAS,Wesley 25' 3PT Jump Shot (3 PTS) (Johnson 2 AST),Made Shot,Jump Shot,234,79,25,1,3.0,3.0,h
+S2324-G1039,2,07:12,SAS,,PHX,,B. Wesley,SAS,MISS Wesley 11' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-39,99,11,1,2.0,0.0,h
+S2324-G1039,2,07:09,SAS,,PHX,,B. Wesley,SAS,SUB: Jones FOR Wesley,Substitution,,0,0,0,0,,,h
+S2324-G1039,3,02:52,SAS,,PHX,,B. Wesley,SAS,Wesley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1039,3,01:49,SAS,,PHX,,B. Wesley,SAS,Wesley STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1039,3,01:44,SAS,69.0,PHX,74.0,B. Wesley,SAS,Wesley Running Dunk (5 PTS),Made Shot,Running Dunk Shot,0,1,0,1,2.0,2.0,h
+S2324-G1039,3,01:22,SAS,,PHX,,B. Wesley,SAS,MISS Wesley 3' Driving Layup,Missed Shot,Driving Layup Shot,17,22,3,1,2.0,0.0,h
+S2324-G1039,3,00:29.700000,SAS,,PHX,,B. Wesley,SAS,Wesley REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1039,4,09:33,SAS,,PHX,,B. Wesley,SAS,Wesley Double Dribble Turnover (P1.T5),Turnover,Double Dribble,0,0,0,0,,,h
+S2324-G1039,4,09:04,SAS,,PHX,,B. Wesley,SAS,MISS Wesley 25' 3PT Jump Shot,Missed Shot,Jump Shot,-186,166,25,1,3.0,0.0,h
+S2324-G1039,4,06:32,SAS,,PHX,,B. Wesley,SAS,SUB: Barlow FOR Wesley,Substitution,,0,0,0,0,,,h
+S2324-G0891,1,00:02.600000,HOU,,SAS,,B. Wesley,SAS,Wesley P.FOUL (P1.T2) (E.Dalen),Foul,Personal,0,0,0,0,,,v
+S2324-G0891,2,08:42,HOU,,SAS,,B. Wesley,SAS,MISS Wesley 26' 3PT Jump Shot,Missed Shot,Jump Shot,-212,153,26,1,3.0,0.0,v
+S2324-G0891,2,07:05,HOU,,SAS,,B. Wesley,SAS,MISS Wesley 28' 3PT Jump Shot,Missed Shot,Jump Shot,28,274,28,1,3.0,0.0,v
+S2324-G0891,2,05:11,HOU,,SAS,,B. Wesley,SAS,SUB: Jones FOR Wesley,Substitution,,0,0,0,0,,,v
+S2324-G0891,4,09:24,HOU,,SAS,,B. Wesley,SAS,SUB: Vassell FOR Wesley,Substitution,,0,0,0,0,,,v
+S2324-G1015,1,01:22,SAS,,MEM,,B. Wesley,SAS,Jump Ball Wesley vs. Jackson: Tip to Pereira,Jump Ball,,0,0,0,0,,,h
+S2324-G1015,2,09:58,SAS,,MEM,,B. Wesley,SAS,MISS Wesley 1' Driving Layup,Missed Shot,Driving Layup Shot,0,8,1,1,2.0,0.0,h
+S2324-G1015,2,09:55,SAS,,MEM,,B. Wesley,SAS,Wesley REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1015,2,09:55,SAS,,MEM,,B. Wesley,SAS,MISS Wesley Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2324-G1015,2,09:20,SAS,,MEM,,B. Wesley,SAS,SUB: Jones FOR Wesley,Substitution,,0,0,0,0,,,h
+S2324-G1015,4,09:22,SAS,,MEM,,B. Wesley,SAS,MISS Wesley 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-21,10,2,1,2.0,0.0,h
+S2324-G1015,4,08:14,SAS,,MEM,,B. Wesley,SAS,MISS Wesley 3PT Jump Shot,Missed Shot,Jump Shot,229,6,0,1,3.0,0.0,h
+S2324-G1015,4,07:40,SAS,,MEM,,B. Wesley,SAS,Wesley Bad Pass Turnover (P1.T14),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G1015,4,07:33,SAS,,MEM,,B. Wesley,SAS,SUB: Jones FOR Wesley,Substitution,,0,0,0,0,,,h
+S2324-G0665,1,01:44,SAS,,WAS,,B. Wesley,SAS,Wesley STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0665,1,01:39,SAS,29.0,WAS,20.0,B. Wesley,SAS,Wesley 3PT Jump Shot (3 PTS) (Johnson 1 AST),Made Shot,Jump Shot,230,16,0,1,3.0,3.0,h
+S2324-G0665,1,00:46.400000,SAS,,WAS,,B. Wesley,SAS,Wesley STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0665,1,00:43.600000,SAS,33.0,WAS,22.0,B. Wesley,SAS,Wesley 1' Running Dunk (5 PTS) (Barlow 1 AST),Made Shot,Running Dunk Shot,-2,13,1,1,2.0,2.0,h
+S2324-G0665,1,00:02,SAS,,WAS,,B. Wesley,SAS,Wesley BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0665,1,00:01.400000,SAS,,WAS,,B. Wesley,SAS,Wesley S.FOUL (P1.PN) (D.Mosher),Foul,Shooting,0,0,0,0,,,h
+S2324-G0665,2,09:29,SAS,,WAS,,B. Wesley,SAS,MISS Wesley 2' Driving Layup,Missed Shot,Driving Layup Shot,16,13,2,1,2.0,0.0,h
+S2324-G0665,2,09:13,SAS,,WAS,,B. Wesley,SAS,SUB: Wembanyama FOR Wesley,Substitution,,0,0,0,0,,,h
+S2324-G0665,2,04:48,SAS,,WAS,,B. Wesley,SAS,Wesley S.FOUL (P2.T4) (D.Mosher),Foul,Shooting,0,0,0,0,,,h
+S2324-G0665,2,03:53,SAS,,WAS,,B. Wesley,SAS,Wesley Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0665,2,03:43,SAS,,WAS,,B. Wesley,SAS,Wesley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0665,2,03:30,SAS,,WAS,,B. Wesley,SAS,SUB: Sochan FOR Wesley,Substitution,,0,0,0,0,,,h
+S2324-G0665,3,03:09,SAS,,WAS,,B. Wesley,SAS,Wesley STEAL (3 STL),,,0,0,0,0,,,h
+S2324-G0665,3,01:53,SAS,,WAS,,B. Wesley,SAS,Wesley S.FOUL (P3.PN) (T.Ford),Foul,Shooting,0,0,0,0,,,h
+S2324-G0665,3,01:08,SAS,,WAS,,B. Wesley,SAS,MISS Wesley 2' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-15,4,2,1,2.0,0.0,h
+S2324-G0665,3,00:04.600000,SAS,92.0,WAS,87.0,B. Wesley,SAS,Wesley Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0665,3,00:04.600000,SAS,93.0,WAS,87.0,B. Wesley,SAS,Wesley Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0665,4,04:53,SAS,,WAS,,B. Wesley,SAS,SUB: Jones FOR Wesley,Substitution,,0,0,0,0,,,h
+S2324-G0448,2,08:30,SAS,,BOS,,B. Wesley,SAS,Wesley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0448,2,08:08,SAS,,BOS,,B. Wesley,SAS,SUB: Champagnie FOR Wesley,Substitution,,0,0,0,0,,,h
+S2324-G0448,4,05:17,SAS,,BOS,,B. Wesley,SAS,Wesley S.FOUL (P1.T3) (B.Forte),Foul,Shooting,0,0,0,0,,,h
+S2324-G0448,4,04:53,SAS,,BOS,,B. Wesley,SAS,Wesley S.FOUL (P2.T4) (R.Acosta),Foul,Shooting,0,0,0,0,,,h
+S2324-G0448,4,02:35,SAS,98.0,BOS,128.0,B. Wesley,SAS,Wesley Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0448,4,02:35,SAS,,BOS,,B. Wesley,SAS,MISS Wesley Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0448,4,02:06,SAS,,BOS,,B. Wesley,SAS,Wesley Bad Pass Turnover (P1.T16),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0448,4,01:55,SAS,,BOS,,B. Wesley,SAS,MISS Wesley 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,216,113,24,1,3.0,0.0,h
+S2324-G0448,4,01:33,SAS,,BOS,,B. Wesley,SAS,Wesley REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0448,4,01:31,SAS,,BOS,,B. Wesley,SAS,MISS Wesley 25' 3PT Jump Shot,Missed Shot,Jump Shot,99,225,25,1,3.0,0.0,h
+S2324-G0448,4,00:49.800000,SAS,,BOS,,B. Wesley,SAS,MISS Wesley 1' Driving Layup,Missed Shot,Driving Layup Shot,-1,11,1,1,2.0,0.0,h
+S2324-G0825,1,02:41,UTA,,SAS,,B. Wesley,SAS,Wesley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0825,1,02:33,UTA,,SAS,,B. Wesley,SAS,MISS Wesley 5' Driving Layup,Missed Shot,Driving Layup Shot,-17,44,5,1,2.0,0.0,v
+S2324-G0825,1,01:11,UTA,,SAS,,B. Wesley,SAS,MISS Wesley 14' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-7,137,14,1,2.0,0.0,v
+S2324-G0825,2,02:40,UTA,,SAS,,B. Wesley,SAS,SUB: Jones FOR Wesley,Substitution,,0,0,0,0,,,v
+S2324-G0825,3,05:41,UTA,,SAS,,B. Wesley,SAS,Wesley REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0608,1,02:32,PHI,,SAS,,B. Wesley,SAS,MISS Wesley 3PT Jump Shot,Missed Shot,Jump Shot,-228,-10,0,1,3.0,0.0,v
+S2324-G0608,2,09:36,PHI,,SAS,,B. Wesley,SAS,SUB: Jones FOR Wesley,Substitution,,0,0,0,0,,,v
+S2324-G0608,2,03:14,PHI,57.0,SAS,53.0,B. Wesley,SAS,Wesley 2' Running Layup (2 PTS) (Wembanyama 1 AST),Made Shot,Running Layup Shot,18,-13,2,1,2.0,2.0,v
+S2324-G0608,2,01:35,PHI,58.0,SAS,56.0,B. Wesley,SAS,Wesley 2' Running Dunk (4 PTS) (Jones 2 AST),Made Shot,Running Dunk Shot,-5,17,2,1,2.0,2.0,v
+S2324-G0608,2,00:00.100000,PHI,,SAS,,B. Wesley,SAS,MISS Wesley 26' 3PT Jump Shot,Missed Shot,Jump Shot,129,229,26,1,3.0,0.0,v
+S2324-G0608,3,02:47,PHI,,SAS,,B. Wesley,SAS,Wesley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0608,3,02:32,PHI,,SAS,,B. Wesley,SAS,MISS Wesley 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-2,116,12,1,2.0,0.0,v
+S2324-G0608,3,02:29,PHI,,SAS,,B. Wesley,SAS,Wesley REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0608,3,00:31.900000,PHI,,SAS,,B. Wesley,SAS,Wesley STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0608,4,03:24,PHI,,SAS,,B. Wesley,SAS,Wesley FLAGRANT.FOUL.TYPE1 (P1.PN) (S.Wright),Foul,Flagrant Type 1,0,0,0,0,,,v
+S2324-G0608,4,00:07,PHI,133.0,SAS,123.0,B. Wesley,SAS,Wesley 2' Running Finger Roll Layup (6 PTS) (Sochan 4 AST),Made Shot,Running Finger Roll Layup Shot,5,15,2,1,2.0,2.0,v
+S2324-G0921,1,04:40,GSW,,SAS,,B. Wesley,SAS,Wesley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0921,1,02:57,GSW,,SAS,,B. Wesley,SAS,Wesley BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0921,1,02:43,GSW,,SAS,,B. Wesley,SAS,MISS Wesley 23' Jump Shot,Missed Shot,Jump Shot,-145,174,23,1,2.0,0.0,v
+S2324-G0921,1,02:01,GSW,,SAS,,B. Wesley,SAS,Wesley BLOCK (2 BLK),,,0,0,0,0,,,v
+S2324-G0921,1,01:31,GSW,,SAS,,B. Wesley,SAS,Wesley REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0921,2,02:12,GSW,,SAS,,B. Wesley,SAS,MISS Wesley 4' Running Layup,Missed Shot,Running Layup Shot,34,12,4,1,2.0,0.0,v
+S2324-G0921,2,01:23,GSW,,SAS,,B. Wesley,SAS,Wesley REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0921,2,00:26.800000,GSW,,SAS,,B. Wesley,SAS,Wesley REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0921,3,06:33,GSW,,SAS,,B. Wesley,SAS,Wesley S.FOUL (P1.T4) (S.Wright),Foul,Shooting,0,0,0,0,,,v
+S2324-G0921,3,05:50,GSW,62.0,SAS,78.0,B. Wesley,SAS,Wesley 4' Running Layup (2 PTS) (Jones 6 AST),Made Shot,Running Layup Shot,31,19,4,1,2.0,2.0,v
+S2324-G0921,3,05:18,GSW,65.0,SAS,79.0,B. Wesley,SAS,Wesley Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0921,3,05:18,GSW,65.0,SAS,80.0,B. Wesley,SAS,Wesley Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0921,3,05:05,GSW,,SAS,,B. Wesley,SAS,Wesley S.FOUL (P2.PN) (R.Hussey),Foul,Shooting,0,0,0,0,,,v
+S2324-G0921,3,03:23,GSW,,SAS,,B. Wesley,SAS,Wesley STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0921,3,01:13,GSW,,SAS,,B. Wesley,SAS,Wesley REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0921,3,00:41.800000,GSW,,SAS,,B. Wesley,SAS,Wesley S.FOUL (P3.PN) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,v
+S2324-G0921,4,10:51,GSW,,SAS,,B. Wesley,SAS,Wesley Traveling Turnover (P1.T11),Turnover,Traveling,0,0,0,0,,,v
+S2324-G0921,4,10:25,GSW,,SAS,,B. Wesley,SAS,SUB: Jones FOR Wesley,Substitution,,0,0,0,0,,,v
+S2324-G1058,1,04:52,UTA,,SAS,,B. Wesley,SAS,Wesley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1058,1,00:42,UTA,,SAS,,B. Wesley,SAS,MISS Wesley Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G1058,1,00:42,UTA,15.0,SAS,27.0,B. Wesley,SAS,Wesley Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1058,1,00:29.300000,UTA,,SAS,,B. Wesley,SAS,Wesley REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1058,3,02:25,UTA,,SAS,,B. Wesley,SAS,Wesley Lost Ball Turnover (P1.T19),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0649,1,06:34,SAS,20.0,MIN,17.0,B. Wesley,SAS,Wesley 3' Cutting Finger Roll Layup Shot (2 PTS) (Sochan 1 AST),Made Shot,Cutting Finger Roll Layup Shot,12,32,3,1,2.0,2.0,h
+S2324-G0649,1,03:18,SAS,,MIN,,B. Wesley,SAS,Wesley Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0649,1,02:11,SAS,,MIN,,B. Wesley,SAS,Wesley S.FOUL (P1.PN) (J.Schroeder),Foul,Shooting,0,0,0,0,,,h
+S2324-G0649,1,01:51,SAS,,MIN,,B. Wesley,SAS,MISS Wesley 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,11,21,2,1,2.0,0.0,h
+S2324-G0649,2,02:44,SAS,,MIN,,B. Wesley,SAS,SUB: Jones FOR Wesley,Substitution,,0,0,0,0,,,h
+S2324-G0649,3,00:30.700000,SAS,,MIN,,B. Wesley,SAS,Wesley BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0649,4,04:55,SAS,,MIN,,B. Wesley,SAS,SUB: Jones FOR Wesley,Substitution,,0,0,0,0,,,h
+S2324-G0936,1,02:54,SAS,,GSW,,B. Wesley,SAS,Wesley REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0936,1,02:54,SAS,29.0,GSW,21.0,B. Wesley,SAS,Wesley Putback Layup (2 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,h
+S2324-G0936,2,11:09,SAS,,GSW,,B. Wesley,SAS,MISS Wesley 25' 3PT Jump Shot,Missed Shot,Jump Shot,33,246,25,1,3.0,0.0,h
+S2324-G0936,2,08:39,SAS,,GSW,,B. Wesley,SAS,SUB: Jones FOR Wesley,Substitution,,0,0,0,0,,,h
+S2324-G0936,3,00:45.300000,SAS,76.0,GSW,90.0,B. Wesley,SAS,Wesley 7' Floating Jump Shot (4 PTS),Made Shot,Floating Jump shot,18,63,7,1,2.0,2.0,h
+S2324-G0994,1,04:53,SAS,,DAL,,B. Wesley,SAS,Wesley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0994,3,02:08,SAS,82.0,DAL,81.0,B. Wesley,SAS,Wesley Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0994,3,02:08,SAS,,DAL,,B. Wesley,SAS,MISS Wesley Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0994,3,01:55,SAS,,DAL,,B. Wesley,SAS,Wesley STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0994,3,01:54,SAS,,DAL,,B. Wesley,SAS,Wesley Out of Bounds - Bad Pass Turnover Turnover (P1.T12),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G0994,3,00:33.200000,SAS,,DAL,,B. Wesley,SAS,Wesley BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0994,3,00:00,SAS,,DAL,,B. Wesley,SAS,MISS Wesley 30' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-55,290,30,1,3.0,0.0,h
+S2324-G0994,4,11:34,SAS,,DAL,,B. Wesley,SAS,Wesley S.FOUL (P1.T1) (T.Brothers),Foul,Shooting,0,0,0,0,,,h
+S2324-G0994,4,09:29,SAS,,DAL,,B. Wesley,SAS,Wesley REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0994,4,09:20,SAS,,DAL,,B. Wesley,SAS,MISS Wesley 2' Running Layup,Missed Shot,Running Layup Shot,-16,10,2,1,2.0,0.0,h
+S2324-G0994,4,09:11,SAS,,DAL,,B. Wesley,SAS,Wesley REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0994,4,08:41,SAS,,DAL,,B. Wesley,SAS,Wesley REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0994,4,08:38,SAS,,DAL,,B. Wesley,SAS,SUB: Barlow FOR Wesley,Substitution,,0,0,0,0,,,h
+S2324-G1151,2,11:01,MEM,27.0,SAS,21.0,B. Wesley,SAS,Wesley 25' 3PT Jump Shot (3 PTS) (Cissoko 1 AST),Made Shot,Jump Shot,-74,240,25,1,3.0,3.0,v
+S2324-G1151,2,10:27,MEM,27.0,SAS,23.0,B. Wesley,SAS,Wesley 1' Alley Oop Layup (5 PTS) (Wembanyama 2 AST),Made Shot,Alley Oop Layup shot,4,3,1,1,2.0,2.0,v
+S2324-G1151,2,07:52,MEM,,SAS,,B. Wesley,SAS,Wesley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1151,2,07:03,MEM,,SAS,,B. Wesley,SAS,Wesley Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G1151,2,06:45,MEM,37.0,SAS,34.0,B. Wesley,SAS,Wesley 6' Driving Floating Jump Shot (7 PTS) (Mamukelashvili 1 AST),Made Shot,Driving Floating Jump Shot,20,53,6,1,2.0,2.0,v
+S2324-G1151,2,06:45,MEM,37.0,SAS,35.0,B. Wesley,SAS,Wesley Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G1151,2,05:52,MEM,,SAS,,B. Wesley,SAS,Wesley Bad Pass Turnover (P2.T9),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G1151,2,03:42,MEM,,SAS,,B. Wesley,SAS,SUB: Jones FOR Wesley,Substitution,,0,0,0,0,,,v
+S2324-G1151,3,01:10,MEM,61.0,SAS,77.0,B. Wesley,SAS,Wesley 1' Driving Dunk (10 PTS) (Graham 2 AST),Made Shot,Driving Dunk Shot,1,6,1,1,2.0,2.0,v
+S2324-G1151,3,00:43.300000,MEM,,SAS,,B. Wesley,SAS,Wesley REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1151,3,00:42.200000,MEM,,SAS,,B. Wesley,SAS,Wesley Lost Ball Turnover (P3.T11),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G1151,3,00:03.900000,MEM,,SAS,,B. Wesley,SAS,MISS Wesley 3PT Jump Shot,Missed Shot,Jump Shot,-232,13,0,1,3.0,0.0,v
+S2324-G1151,4,09:48,MEM,,SAS,,B. Wesley,SAS,Wesley Bad Pass Turnover (P4.T14),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G1151,4,08:44,MEM,69.0,SAS,85.0,B. Wesley,SAS,Wesley 25' 3PT Jump Shot (13 PTS) (Graham 3 AST),Made Shot,Jump Shot,124,220,25,1,3.0,3.0,v
+S2324-G1151,4,08:34,MEM,,SAS,,B. Wesley,SAS,SUB: Mamukelashvili FOR Wesley,Substitution,,0,0,0,0,,,v
+S2324-G1151,4,03:54,MEM,,SAS,,B. Wesley,SAS,Wesley OFF.Foul (P1) (R.Hussey),Foul,Offensive,0,0,0,0,,,v
+S2324-G1151,4,03:54,MEM,,SAS,,B. Wesley,SAS,Wesley Offensive Foul Turnover (P5.T15),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G1151,4,03:13,MEM,,SAS,,B. Wesley,SAS,Wesley S.FOUL (P2.T1) (C.Blair),Foul,Shooting,0,0,0,0,,,v
+S2324-G1151,4,01:36,MEM,,SAS,,B. Wesley,SAS,MISS Wesley 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-17,17,2,1,2.0,0.0,v
+S2324-G0594,1,01:57,WAS,,SAS,,B. Wesley,SAS,Wesley Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0594,1,00:37.900000,WAS,,SAS,,B. Wesley,SAS,Wesley STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0594,2,04:56,WAS,57.0,SAS,53.0,B. Wesley,SAS,Wesley 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,17,2,2,1,2.0,2.0,v
+S2324-G0594,2,04:49,WAS,,SAS,,B. Wesley,SAS,Wesley P.FOUL (P1.T2) (S.Corbin),Foul,Personal,0,0,0,0,,,v
+S2324-G0594,2,01:22,WAS,61.0,SAS,67.0,B. Wesley,SAS,Wesley 3' Cutting Layup Shot (4 PTS),Made Shot,Cutting Layup Shot,22,18,3,1,2.0,2.0,v
+S2324-G0594,2,00:26.600000,WAS,,SAS,,B. Wesley,SAS,MISS Wesley 7' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-11,68,7,1,2.0,0.0,v
+S2324-G0594,2,00:25.100000,WAS,,SAS,,B. Wesley,SAS,Wesley REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0594,4,10:36,WAS,102.0,SAS,104.0,B. Wesley,SAS,Wesley 2' Driving Reverse Layup (6 PTS),Made Shot,Driving Reverse Layup Shot,15,8,2,1,2.0,2.0,v
+S2324-G0594,4,08:57,WAS,,SAS,,B. Wesley,SAS,SUB: Vassell FOR Wesley,Substitution,,0,0,0,0,,,v
+S2324-G0853,1,03:49,SAS,,OKC,,B. Wesley,SAS,Wesley Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0853,1,02:36,SAS,,OKC,,B. Wesley,SAS,Wesley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0853,1,00:19.800000,SAS,,OKC,,B. Wesley,SAS,Wesley REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0853,1,00:08.600000,SAS,,OKC,,B. Wesley,SAS,Wesley Lost Ball Turnover (P2.T5),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0412,3,03:53,SAS,,UTA,,B. Wesley,SAS,Wesley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0412,3,03:48,SAS,,UTA,,B. Wesley,SAS,MISS Wesley 1' Running Layup,Missed Shot,Running Layup Shot,-10,7,1,1,2.0,0.0,h
+S2324-G0412,3,03:42,SAS,81.0,UTA,83.0,B. Wesley,SAS,Wesley 2' Reverse Layup (2 PTS) (Osman 2 AST),Made Shot,Reverse Layup Shot,17,4,2,1,2.0,2.0,h
+S2324-G0412,4,10:44,SAS,,UTA,,B. Wesley,SAS,Wesley P.FOUL (P1.T1) (B.Kennedy),Foul,Personal,0,0,0,0,,,h
+S2324-G0412,4,10:08,SAS,,UTA,,B. Wesley,SAS,MISS Wesley Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0412,4,10:08,SAS,94.0,UTA,100.0,B. Wesley,SAS,Wesley Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0412,4,08:03,SAS,,UTA,,B. Wesley,SAS,Wesley S.FOUL (P2.T2) (C.Washington),Foul,Shooting,0,0,0,0,,,h
+S2324-G0412,4,08:03,SAS,,UTA,,B. Wesley,SAS,SUB: Johnson FOR Wesley,Substitution,,0,0,0,0,,,h
+S2324-G0412,4,00:01.400000,SAS,,UTA,,B. Wesley,SAS,MISS Wesley 2' Driving Layup,Missed Shot,Driving Layup Shot,17,-6,2,1,2.0,0.0,h
+S2324-G0412,4,00:01.400000,SAS,,UTA,,B. Wesley,SAS,Wesley REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0412,4,00:00,SAS,,UTA,,B. Wesley,SAS,MISS Wesley Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2324-G0541,1,02:04,SAS,,CHA,,B. Wesley,SAS,Wesley P.FOUL (P1.T4) (J.Goble),Foul,Personal,0,0,0,0,,,h
+S2324-G0541,1,00:41.900000,SAS,,CHA,,B. Wesley,SAS,Wesley P.FOUL (P2.PN) (M.Dagher),Foul,Personal,0,0,0,0,,,h
+S2324-G0541,4,09:38,SAS,,CHA,,B. Wesley,SAS,Wesley S.FOUL (P3.T2) (J.Goble),Foul,Shooting,0,0,0,0,,,h
+S2324-G0541,4,08:58,SAS,,CHA,,B. Wesley,SAS,MISS Wesley 6' Floating Jump Shot,Missed Shot,Floating Jump shot,3,62,6,1,2.0,0.0,h
+S2324-G0541,4,06:12,SAS,,CHA,,B. Wesley,SAS,Wesley STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0541,4,06:08,SAS,117.0,CHA,90.0,B. Wesley,SAS,Wesley 2' Running Dunk (2 PTS),Made Shot,Running Dunk Shot,1,16,2,1,2.0,2.0,h
+S2324-G0541,4,04:57,SAS,,CHA,,B. Wesley,SAS,Wesley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0541,4,02:17,SAS,,CHA,,B. Wesley,SAS,Wesley REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0541,4,01:02,SAS,135.0,CHA,97.0,B. Wesley,SAS,Wesley 3' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,-12,29,3,1,2.0,2.0,h
+S2324-G0146,4,05:56,IND,,SAS,,B. Wesley,SAS,MISS Wesley 21' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-87,188,21,1,2.0,0.0,v
+S2324-G0146,4,04:12,IND,,SAS,,B. Wesley,SAS,MISS Wesley 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,125,10,13,1,2.0,0.0,v
+S2324-G0146,4,02:23,IND,,SAS,,B. Wesley,SAS,Wesley S.FOUL (P1.T3) (M.Davis),Foul,Shooting,0,0,0,0,,,v
+S2324-G0146,4,01:29,IND,148.0,SAS,108.0,B. Wesley,SAS,Wesley 2' Driving Reverse Layup (2 PTS) (Graham 1 AST),Made Shot,Driving Reverse Layup Shot,20,7,2,1,2.0,2.0,v
+S2324-G0146,4,01:13,IND,,SAS,,B. Wesley,SAS,MISS Wesley 3' Driving Layup,Missed Shot,Driving Layup Shot,-11,28,3,1,2.0,0.0,v
+S2324-G0146,4,01:06,IND,,SAS,,B. Wesley,SAS,Wesley S.FOUL (P2.T4) (M.Davis),Foul,Shooting,0,0,0,0,,,v
+S2324-G1025,2,09:45,SAS,20.0,PHX,35.0,B. Wesley,SAS,Wesley Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1025,2,09:45,SAS,21.0,PHX,35.0,B. Wesley,SAS,Wesley Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1025,2,09:31,SAS,,PHX,,B. Wesley,SAS,Wesley S.FOUL (P1.T2) (D.Mosher),Foul,Shooting,0,0,0,0,,,h
+S2324-G1025,2,07:42,SAS,,PHX,,B. Wesley,SAS,MISS Wesley 4' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,1,38,4,1,2.0,0.0,h
+S2324-G1025,2,07:08,SAS,29.0,PHX,43.0,B. Wesley,SAS,Wesley 3PT Jump Shot (5 PTS) (Wembanyama 1 AST),Made Shot,Jump Shot,228,-13,0,1,3.0,3.0,h
+S2324-G1025,2,06:30,SAS,,PHX,,B. Wesley,SAS,Wesley P.FOUL (P2.T3) (D.Mosher),Foul,Personal,0,0,0,0,,,h
+S2324-G1025,2,06:30,SAS,,PHX,,B. Wesley,SAS,SUB: Jones FOR Wesley,Substitution,,0,0,0,0,,,h
+S2324-G1025,4,10:53,SAS,77.0,PHX,105.0,B. Wesley,SAS,Wesley 3PT Jump Shot (8 PTS) (Branham 2 AST),Made Shot,Jump Shot,232,22,0,1,3.0,3.0,h
+S2324-G1025,4,08:29,SAS,,PHX,,B. Wesley,SAS,Wesley STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1025,4,07:13,SAS,86.0,PHX,115.0,B. Wesley,SAS,Wesley 14' Jump Shot (10 PTS) (Graham 2 AST),Made Shot,Jump Shot,138,-1,14,1,2.0,2.0,h
+S2324-G1025,4,05:43,SAS,,PHX,,B. Wesley,SAS,SUB: Branham FOR Wesley,Substitution,,0,0,0,0,,,h
+S2324-G1025,4,04:10,SAS,,PHX,,B. Wesley,SAS,Wesley STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G1025,4,02:08,SAS,,PHX,,B. Wesley,SAS,Wesley BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G1025,4,00:12.700000,SAS,,PHX,,B. Wesley,SAS,Wesley REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1025,4,00:12.700000,SAS,106.0,PHX,131.0,B. Wesley,SAS,Wesley Tip Dunk Shot (12 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,h
+S2324-G0376,4,01:33,CHI,114.0,SAS,94.0,B. Wesley,SAS,Wesley 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,-10,6,1,1,2.0,2.0,v
+S2324-G0376,4,00:55.800000,CHI,,SAS,,B. Wesley,SAS,MISS Wesley Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0376,4,00:55.800000,CHI,114.0,SAS,95.0,B. Wesley,SAS,Wesley Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0730,1,01:50,MIA,,SAS,,B. Wesley,SAS,Wesley Double Dribble Turnover (P1.T3),Turnover,Double Dribble,0,0,0,0,,,v
+S2324-G0730,1,00:33.700000,MIA,30.0,SAS,28.0,B. Wesley,SAS,Wesley 2' Driving Reverse Layup (2 PTS) (Champagnie 3 AST),Made Shot,Driving Reverse Layup Shot,23,0,2,1,2.0,2.0,v
+S2324-G0730,2,09:14,MIA,,SAS,,B. Wesley,SAS,Wesley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0730,2,08:57,MIA,,SAS,,B. Wesley,SAS,SUB: Jones FOR Wesley,Substitution,,0,0,0,0,,,v
+S2324-G0730,2,01:41,MIA,,SAS,,B. Wesley,SAS,SUB: Jones FOR Wesley,Substitution,,0,0,0,0,,,v
+S2324-G0730,3,02:06,MIA,,SAS,,B. Wesley,SAS,Wesley S.FOUL (P1.T4) (B.Forte),Foul,Shooting,0,0,0,0,,,v
+S2324-G0730,3,02:06,MIA,,SAS,,B. Wesley,SAS,SUB: Branham FOR Wesley,Substitution,,0,0,0,0,,,v
+S2324-G0730,4,02:26,MIA,,SAS,,B. Wesley,SAS,Wesley AWAY.FROM.PLAY.FOUL (P2.PN) (S.Wall),Foul,Away From Play,0,0,0,0,,,v
+S2324-G0730,4,02:04,MIA,,SAS,,B. Wesley,SAS,Wesley STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0730,4,01:20,MIA,110.0,SAS,100.0,B. Wesley,SAS,Wesley 5' Running Finger Roll Layup (4 PTS) (Mamukelashvili 1 AST),Made Shot,Running Finger Roll Layup Shot,-32,41,5,1,2.0,2.0,v
+S2324-G0730,4,00:39.900000,MIA,,SAS,,B. Wesley,SAS,MISS Wesley Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0730,4,00:39.900000,MIA,,SAS,,B. Wesley,SAS,MISS Wesley Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0730,4,00:25.100000,MIA,,SAS,,B. Wesley,SAS,Wesley P.FOUL (P3.PN) (B.Forte),Foul,Personal,0,0,0,0,,,v
+S2324-G0730,4,00:16.600000,MIA,,SAS,,B. Wesley,SAS,MISS Wesley Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0730,4,00:16.600000,MIA,116.0,SAS,104.0,B. Wesley,SAS,Wesley Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0622,1,09:18,SAS,5.0,OKC,7.0,B. Wesley,SAS,Wesley 1' Cutting Finger Roll Layup Shot (2 PTS) (Sochan 1 AST),Made Shot,Cutting Finger Roll Layup Shot,7,0,1,1,2.0,2.0,h
+S2324-G0622,1,07:59,SAS,10.0,OKC,10.0,B. Wesley,SAS,Wesley 24' 3PT Jump Shot (5 PTS) (Vassell 1 AST),Made Shot,Jump Shot,223,94,24,1,3.0,3.0,h
+S2324-G0622,1,05:45,SAS,,OKC,,B. Wesley,SAS,Wesley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0622,1,05:42,SAS,,OKC,,B. Wesley,SAS,Wesley Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0622,1,04:07,SAS,,OKC,,B. Wesley,SAS,Wesley REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0622,1,04:04,SAS,,OKC,,B. Wesley,SAS,SUB: Branham FOR Wesley,Substitution,,0,0,0,0,,,h
+S2324-G0622,1,00:08.400000,SAS,,OKC,,B. Wesley,SAS,Wesley Personal Take Foul (P1.T3) (C.Kirkland),Foul,Personal Take,0,0,0,0,,,h
+S2324-G0622,2,07:00,SAS,,OKC,,B. Wesley,SAS,SUB: Sochan FOR Wesley,Substitution,,0,0,0,0,,,h
+S2324-G0622,3,09:20,SAS,,OKC,,B. Wesley,SAS,Wesley Bad Pass Turnover (P2.T11),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0622,3,09:18,SAS,,OKC,,B. Wesley,SAS,Wesley S.FOUL (P2.T2) (M.Ervin),Foul,Shooting,0,0,0,0,,,h
+S2324-G0622,3,09:01,SAS,60.0,OKC,76.0,B. Wesley,SAS,Wesley 1' Cutting Layup Shot (7 PTS) (Sochan 3 AST),Made Shot,Cutting Layup Shot,9,0,1,1,2.0,2.0,h
+S2324-G0622,3,08:33,SAS,62.0,OKC,78.0,B. Wesley,SAS,Wesley 8' Step Back Jump Shot (9 PTS) (Wembanyama 3 AST),Made Shot,Step Back Jump shot,4,78,8,1,2.0,2.0,h
+S2324-G0622,3,08:09,SAS,,OKC,,B. Wesley,SAS,Wesley BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0622,3,06:41,SAS,,OKC,,B. Wesley,SAS,MISS Wesley Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0622,3,06:41,SAS,,OKC,,B. Wesley,SAS,MISS Wesley Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0622,3,04:39,SAS,,OKC,,B. Wesley,SAS,Wesley REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0622,3,04:30,SAS,,OKC,,B. Wesley,SAS,SUB: Branham FOR Wesley,Substitution,,0,0,0,0,,,h
+S2324-G0622,3,01:28,SAS,,OKC,,B. Wesley,SAS,Wesley REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0622,3,01:23,SAS,,OKC,,B. Wesley,SAS,Wesley Bad Pass Turnover (P3.T15),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0622,3,01:22,SAS,,OKC,,B. Wesley,SAS,Wesley P.FOUL (P3.PN) (C.Kirkland),Foul,Personal,0,0,0,0,,,h
+S2324-G0622,4,03:30,SAS,,OKC,,B. Wesley,SAS,Wesley Lost Ball Turnover (P4.T19),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0622,4,02:33,SAS,103.0,OKC,133.0,B. Wesley,SAS,Wesley 9' Pullup Jump Shot (11 PTS),Made Shot,Pullup Jump shot,6,87,9,1,2.0,2.0,h
+S2324-G0622,4,02:33,SAS,104.0,OKC,133.0,B. Wesley,SAS,Wesley Free Throw 1 of 1 (12 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G0622,4,02:24,SAS,,OKC,,B. Wesley,SAS,Wesley S.FOUL (P4.T1) (M.Ervin),Foul,Shooting,0,0,0,0,,,h
+S2324-G0032,2,11:41,SAS,,SAC,,B. Wesley,SAS,Wesley P.FOUL (P1.T1) (B.Nansel),Foul,Personal,0,0,0,0,,,h
+S2324-G0032,2,10:40,SAS,,SAC,,B. Wesley,SAS,SUB: Champagnie FOR Wesley,Substitution,,0,0,0,0,,,h
+S2324-G0161,4,02:46,NYK,120.0,SAS,101.0,B. Wesley,SAS,Wesley 13' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,9,130,13,1,2.0,2.0,v
+S2324-G0161,4,00:50.300000,NYK,,SAS,,B. Wesley,SAS,Wesley REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0161,4,00:48.900000,NYK,126.0,SAS,105.0,B. Wesley,SAS,Wesley 5' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,-50,22,5,1,2.0,2.0,v
+S2324-G0161,4,00:26.600000,NYK,,SAS,,B. Wesley,SAS,Wesley REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0161,4,00:21.200000,NYK,,SAS,,B. Wesley,SAS,MISS Wesley 2' Driving Layup,Missed Shot,Driving Layup Shot,13,17,2,1,2.0,0.0,v
+S2324-G0803,2,11:33,SAC,,SAS,,B. Wesley,SAS,Wesley S.FOUL (P1.T1) (B.Nansel),Foul,Shooting,0,0,0,0,,,v
+S2324-G0803,2,07:02,SAC,,SAS,,B. Wesley,SAS,MISS Wesley 26' 3PT Jump Shot,Missed Shot,Jump Shot,-183,187,26,1,3.0,0.0,v
+S2324-G0803,2,06:39,SAC,,SAS,,B. Wesley,SAS,SUB: Jones FOR Wesley,Substitution,,0,0,0,0,,,v
+S2324-G0803,3,04:08,SAC,,SAS,,B. Wesley,SAS,Wesley Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0803,3,03:41,SAC,,SAS,,B. Wesley,SAS,MISS Wesley 9' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-94,-1,9,1,2.0,0.0,v
+S2324-G0803,3,03:19,SAC,87.0,SAS,79.0,B. Wesley,SAS,Wesley Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0803,3,03:19,SAC,87.0,SAS,80.0,B. Wesley,SAS,Wesley Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0803,3,01:18,SAC,,SAS,,B. Wesley,SAS,Wesley REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0803,3,01:18,SAC,93.0,SAS,84.0,B. Wesley,SAS,Wesley 2' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,1,16,2,1,2.0,2.0,v
+S2324-G0803,4,11:03,SAC,,SAS,,B. Wesley,SAS,MISS Wesley 25' 3PT Jump Shot,Missed Shot,Jump Shot,196,159,25,1,3.0,0.0,v
+S2324-G0803,4,10:18,SAC,,SAS,,B. Wesley,SAS,Wesley S.FOUL (P2.T2) (J.Butler),Foul,Shooting,0,0,0,0,,,v
+S2324-G0803,4,06:24,SAC,,SAS,,B. Wesley,SAS,SUB: Sochan FOR Wesley,Substitution,,0,0,0,0,,,v
+S2324-G0696,1,05:03,SAS,19.0,NOP,17.0,B. Wesley,SAS,Wesley 4' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,17,34,4,1,2.0,2.0,h
+S2324-G0696,1,04:41,SAS,,NOP,,B. Wesley,SAS,Wesley S.FOUL (P1.T2) (C.Blair),Foul,Shooting,0,0,0,0,,,h
+S2324-G0696,1,00:34.600000,SAS,33.0,NOP,24.0,B. Wesley,SAS,Wesley 1' Running Dunk (4 PTS) (Vassell 1 AST),Made Shot,Running Dunk Shot,1,9,1,1,2.0,2.0,h
+S2324-G0696,1,00:11.200000,SAS,,NOP,,B. Wesley,SAS,Wesley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0696,2,01:38,SAS,,NOP,,B. Wesley,SAS,Wesley REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0696,2,01:32,SAS,,NOP,,B. Wesley,SAS,MISS Wesley 25' 3PT Jump Shot,Missed Shot,Jump Shot,119,222,25,1,3.0,0.0,h
+S2324-G0696,2,01:22,SAS,,NOP,,B. Wesley,SAS,SUB: Jones FOR Wesley,Substitution,,0,0,0,0,,,h
+S2324-G0696,3,04:22,SAS,,NOP,,B. Wesley,SAS,MISS Wesley 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,110,115,16,1,2.0,0.0,h
+S2324-G0696,3,03:35,SAS,,NOP,,B. Wesley,SAS,Wesley REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0696,3,02:02,SAS,,NOP,,B. Wesley,SAS,Wesley S.FOUL (P2.T4) (J.Conley),Foul,Shooting,0,0,0,0,,,h
+S2324-G0696,3,02:02,SAS,,NOP,,B. Wesley,SAS,SUB: Branham FOR Wesley,Substitution,,0,0,0,0,,,h
+S2324-G0497,1,00:59.300000,CLE,,SAS,,B. Wesley,SAS,Wesley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0497,1,00:00,CLE,,SAS,,B. Wesley,SAS,Wesley Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0497,2,10:09,CLE,,SAS,,B. Wesley,SAS,Wesley REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0497,2,10:04,CLE,30.0,SAS,38.0,B. Wesley,SAS,Wesley Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0497,2,10:04,CLE,,SAS,,B. Wesley,SAS,MISS Wesley Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0497,2,09:32,CLE,,SAS,,B. Wesley,SAS,SUB: Branham FOR Wesley,Substitution,,0,0,0,0,,,v
+S2324-G0497,2,05:02,CLE,,SAS,,B. Wesley,SAS,MISS Wesley 25' 3PT Jump Shot,Missed Shot,Jump Shot,141,205,25,1,3.0,0.0,v
+S2324-G0497,2,03:44,CLE,,SAS,,B. Wesley,SAS,Wesley S.FOUL (P1.T4) (T.Washington),Foul,Shooting,0,0,0,0,,,v
+S2324-G0497,2,01:04,CLE,60.0,SAS,56.0,B. Wesley,SAS,Wesley Running Dunk (3 PTS) (Sochan 2 AST),Made Shot,Running Dunk Shot,-1,-3,0,1,2.0,2.0,v
+S2324-G0497,3,01:05,CLE,,SAS,,B. Wesley,SAS,Wesley Lost Ball Turnover (P2.T8),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0497,3,01:02,CLE,,SAS,,B. Wesley,SAS,SUB: Vassell FOR Wesley,Substitution,,0,0,0,0,,,v
+S2324-G1140,1,03:21,SAS,,PHI,,B. Wesley,SAS,Wesley REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1140,1,03:20,SAS,17.0,PHI,24.0,B. Wesley,SAS,Wesley Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2324-G1140,1,00:01.600000,SAS,,PHI,,B. Wesley,SAS,Wesley P.FOUL (P1.T2) (J.Schroeder),Foul,Personal,0,0,0,0,,,h
+S2324-G1140,2,10:23,SAS,,PHI,,B. Wesley,SAS,SUB: Jones FOR Wesley,Substitution,,0,0,0,0,,,h
+S2324-G1140,3,06:29,SAS,,PHI,,B. Wesley,SAS,Wesley REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1140,3,03:41,SAS,,PHI,,B. Wesley,SAS,Wesley REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1140,3,03:39,SAS,78.0,PHI,71.0,B. Wesley,SAS,Wesley 1' Running Finger Roll Layup (4 PTS),Made Shot,Running Finger Roll Layup Shot,7,4,1,1,2.0,2.0,h
+S2324-G1140,3,01:24,SAS,,PHI,,B. Wesley,SAS,MISS Wesley 26' 3PT Jump Shot,Missed Shot,Jump Shot,211,145,26,1,3.0,0.0,h
+S2324-G1140,4,07:16,SAS,,PHI,,B. Wesley,SAS,Wesley P.FOUL (P2.T3) (J.Schroeder),Foul,Personal,0,0,0,0,,,h
+S2324-G1140,4,06:37,SAS,,PHI,,B. Wesley,SAS,Wesley REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1140,4,06:31,SAS,93.0,PHI,87.0,B. Wesley,SAS,Wesley 7' Driving Floating Bank Jump Shot (6 PTS) (Mamukelashvili 3 AST),Made Shot,Driving Floating Bank Jump Shot,-56,41,7,1,2.0,2.0,h
+S2324-G1140,4,04:07,SAS,,PHI,,B. Wesley,SAS,SUB: Jones FOR Wesley,Substitution,,0,0,0,0,,,h
+S2324-G0584,1,01:19,CHA,,SAS,,B. Wesley,SAS,Wesley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0584,1,00:29.400000,CHA,32.0,SAS,32.0,B. Wesley,SAS,Wesley 2' Running Layup (2 PTS) (Osman 1 AST),Made Shot,Running Layup Shot,2,16,2,1,2.0,2.0,v
+S2324-G0584,2,10:40,CHA,,SAS,,B. Wesley,SAS,Wesley S.FOUL (P1.T1) (B.Nansel),Foul,Shooting,0,0,0,0,,,v
+S2324-G0584,2,10:18,CHA,,SAS,,B. Wesley,SAS,MISS Wesley 3' Driving Layup,Missed Shot,Driving Layup Shot,4,31,3,1,2.0,0.0,v
+S2324-G0584,2,09:35,CHA,,SAS,,B. Wesley,SAS,SUB: Champagnie FOR Wesley,Substitution,,0,0,0,0,,,v
+S2324-G0584,2,04:14,CHA,55.0,SAS,49.0,B. Wesley,SAS,Wesley 6' Driving Floating Jump Shot (4 PTS) (Johnson 2 AST),Made Shot,Driving Floating Jump Shot,-16,59,6,1,2.0,2.0,v
+S2324-G0584,2,03:49,CHA,,SAS,,B. Wesley,SAS,MISS Wesley 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-227,16,0,1,3.0,0.0,v
+S2324-G0584,2,02:57,CHA,,SAS,,B. Wesley,SAS,Wesley S.FOUL (P2.T3) (B.Nansel),Foul,Shooting,0,0,0,0,,,v
+S2324-G0584,2,01:51,CHA,61.0,SAS,57.0,B. Wesley,SAS,Wesley 7' Driving Floating Jump Shot (6 PTS) (Vassell 3 AST),Made Shot,Driving Floating Jump Shot,-13,73,7,1,2.0,2.0,v
+S2324-G0584,3,01:24,CHA,91.0,SAS,84.0,B. Wesley,SAS,Wesley 7' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,9,72,7,1,2.0,2.0,v
+S2324-G0584,3,01:24,CHA,91.0,SAS,85.0,B. Wesley,SAS,Wesley Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G0584,3,01:15,CHA,,SAS,,B. Wesley,SAS,Wesley P.FOUL (P3.T3) (B.Nansel),Foul,Personal,0,0,0,0,,,v
+S2324-G0838,1,00:59.700000,MIN,,SAS,,B. Wesley,SAS,MISS Wesley 2' Driving Layup,Missed Shot,Driving Layup Shot,-10,17,2,1,2.0,0.0,v
+S2324-G0838,2,11:43,MIN,,SAS,,B. Wesley,SAS,MISS Wesley 25' 3PT Jump Shot,Missed Shot,Jump Shot,140,204,25,1,3.0,0.0,v
+S2324-G0838,2,08:08,MIN,,SAS,,B. Wesley,SAS,MISS Wesley 1' Running Reverse Layup,Missed Shot,Running Reverse Layup Shot,-13,4,1,1,2.0,0.0,v
+S2324-G0838,2,07:53,MIN,,SAS,,B. Wesley,SAS,SUB: Jones FOR Wesley,Substitution,,0,0,0,0,,,v
+S2324-G0838,3,01:03,MIN,85.0,SAS,66.0,B. Wesley,SAS,Wesley Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0838,3,01:03,MIN,85.0,SAS,67.0,B. Wesley,SAS,Wesley Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0838,3,00:40.100000,MIN,,SAS,,B. Wesley,SAS,Wesley P.FOUL (P1.T3) (S.Wall),Foul,Personal,0,0,0,0,,,v
+S2324-G0838,4,09:40,MIN,,SAS,,B. Wesley,SAS,SUB: Vassell FOR Wesley,Substitution,,0,0,0,0,,,v
+S2324-G0750,1,00:17.800000,BKN,33.0,SAS,27.0,B. Wesley,SAS,Wesley Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0750,1,00:17.800000,BKN,33.0,SAS,28.0,B. Wesley,SAS,Wesley Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0750,1,00:06.500000,BKN,,SAS,,B. Wesley,SAS,Wesley P.FOUL (P1.T3) (N.Sago),Foul,Personal,0,0,0,0,,,v
+S2324-G0750,1,00:05,BKN,,SAS,,B. Wesley,SAS,Wesley STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0750,1,00:03.800000,BKN,33.0,SAS,30.0,B. Wesley,SAS,Wesley 2' Running Dunk (4 PTS),Made Shot,Running Dunk Shot,1,20,2,1,2.0,2.0,v
+S2324-G0750,2,02:05,BKN,,SAS,,B. Wesley,SAS,SUB: Jones FOR Wesley,Substitution,,0,0,0,0,,,v
+S2324-G0750,4,09:13,BKN,,SAS,,B. Wesley,SAS,MISS Wesley 25' 3PT Jump Shot,Missed Shot,Jump Shot,107,221,25,1,3.0,0.0,v
+S2324-G0750,4,08:23,BKN,,SAS,,B. Wesley,SAS,Wesley STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0750,4,08:18,BKN,102.0,SAS,79.0,B. Wesley,SAS,Wesley 1' Running Reverse Layup (6 PTS),Made Shot,Running Reverse Layup Shot,9,1,1,1,2.0,2.0,v
+S2324-G0750,4,07:23,BKN,,SAS,,B. Wesley,SAS,SUB: Johnson FOR Wesley,Substitution,,0,0,0,0,,,v
+S2324-G0750,4,00:53.500000,BKN,,SAS,,B. Wesley,SAS,Wesley S.FOUL (P2.T3) (M.Dagher),Foul,Shooting,0,0,0,0,,,v
+S2324-G0785,2,10:46,DAL,,SAS,,B. Wesley,SAS,MISS Wesley 26' 3PT Jump Shot,Missed Shot,Jump Shot,-141,217,26,1,3.0,0.0,v
+S2324-G0785,2,09:28,DAL,31.0,SAS,40.0,B. Wesley,SAS,Wesley 2' Running Dunk (2 PTS) (Champagnie 1 AST),Made Shot,Running Dunk Shot,-13,16,2,1,2.0,2.0,v
+S2324-G0785,2,06:35,DAL,37.0,SAS,47.0,B. Wesley,SAS,Wesley Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0785,2,06:35,DAL,37.0,SAS,48.0,B. Wesley,SAS,Wesley Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0785,2,05:44,DAL,41.0,SAS,50.0,B. Wesley,SAS,Wesley 3' Turnaround Hook Shot (6 PTS) (Wembanyama 3 AST),Made Shot,Turnaround Hook Shot,16,31,3,1,2.0,2.0,v
+S2324-G0785,2,05:17,DAL,,SAS,,B. Wesley,SAS,SUB: Sochan FOR Wesley,Substitution,,0,0,0,0,,,v
+S2324-G0785,3,04:15,DAL,,SAS,,B. Wesley,SAS,MISS Wesley 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,5,20,2,1,2.0,0.0,v
+S2324-G0785,3,04:07,DAL,,SAS,,B. Wesley,SAS,Wesley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0785,3,01:57,DAL,,SAS,,B. Wesley,SAS,Wesley Step Out of Bounds Turnover (P1.T8),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2324-G0785,4,10:28,DAL,,SAS,,B. Wesley,SAS,Wesley Bad Pass Turnover (P2.T10),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0785,4,07:49,DAL,,SAS,,B. Wesley,SAS,MISS Wesley Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0785,4,07:49,DAL,105.0,SAS,77.0,B. Wesley,SAS,Wesley Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0785,4,07:13,DAL,105.0,SAS,79.0,B. Wesley,SAS,Wesley 5' Jump Shot (9 PTS) (Osman 3 AST),Made Shot,Jump Shot,-7,53,5,1,2.0,2.0,v
+S2324-G0785,4,01:34,DAL,,SAS,,B. Wesley,SAS,MISS Wesley 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,237,55,24,1,3.0,0.0,v
+S2324-G0785,4,00:34.800000,DAL,,SAS,,B. Wesley,SAS,Wesley Out of Bounds Lost Ball Turnover (P3.T12),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2324-G0681,1,03:22,SAS,,ORL,,B. Wesley,SAS,MISS Wesley 26' 3PT Jump Shot,Missed Shot,Jump Shot,165,202,26,1,3.0,0.0,h
+S2324-G0681,1,02:01,SAS,,ORL,,B. Wesley,SAS,Wesley Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G0681,2,10:44,SAS,,ORL,,B. Wesley,SAS,Wesley S.FOUL (P1.T1) (E.Dalen),Foul,Shooting,0,0,0,0,,,h
+S2324-G0681,2,10:11,SAS,,ORL,,B. Wesley,SAS,SUB: Jones FOR Wesley,Substitution,,0,0,0,0,,,h
+S2324-G0681,3,05:22,SAS,,ORL,,B. Wesley,SAS,Wesley Out of Bounds - Bad Pass Turnover Turnover (P2.T11),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G0681,3,03:50,SAS,,ORL,,B. Wesley,SAS,MISS Wesley 5' Floating Jump Shot,Missed Shot,Floating Jump shot,-51,20,5,1,2.0,0.0,h
+S2324-G0681,3,01:18,SAS,,ORL,,B. Wesley,SAS,Wesley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0681,3,01:18,SAS,70.0,ORL,91.0,B. Wesley,SAS,Wesley 2' Running Finger Roll Layup (2 PTS),Made Shot,Running Finger Roll Layup Shot,-9,17,2,1,2.0,2.0,h
+S2324-G0681,3,00:39.100000,SAS,,ORL,,B. Wesley,SAS,Wesley STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0681,3,00:36.400000,SAS,72.0,ORL,91.0,B. Wesley,SAS,Wesley 1' Running Dunk (4 PTS),Made Shot,Running Dunk Shot,-11,6,1,1,2.0,2.0,h
+S2324-G0571,1,02:22,BOS,,SAS,,B. Wesley,SAS,MISS Wesley 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-1,117,12,1,2.0,0.0,v
+S2324-G0571,1,00:03.300000,BOS,,SAS,,B. Wesley,SAS,Wesley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0571,1,00:00,BOS,,SAS,,B. Wesley,SAS,MISS Wesley 13' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-81,105,13,1,2.0,0.0,v
+S2324-G0571,4,02:46,BOS,,SAS,,B. Wesley,SAS,Wesley S.FOUL (P1.T4) (M.Davis),Foul,Shooting,0,0,0,0,,,v
+S2324-G0571,4,01:24,BOS,,SAS,,B. Wesley,SAS,Wesley Bad Pass Turnover (P1.T10),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0398,4,07:04,DAL,133.0,SAS,94.0,B. Wesley,SAS,Wesley 1' Driving Layup (2 PTS) (Mamukelashvili 1 AST),Made Shot,Driving Layup Shot,-7,6,1,1,2.0,2.0,v
+S2324-G0398,4,05:43,DAL,,SAS,,B. Wesley,SAS,Wesley S.FOUL (P1.T1) (R.Hussey),Foul,Shooting,0,0,0,0,,,v
+S2324-G0398,4,05:12,DAL,,SAS,,B. Wesley,SAS,Wesley STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0398,4,05:09,DAL,134.0,SAS,100.0,B. Wesley,SAS,Wesley 1' Running Layup (4 PTS) (Mamukelashvili 3 AST),Made Shot,Running Layup Shot,9,7,1,1,2.0,2.0,v
+S2324-G0398,4,04:42,DAL,,SAS,,B. Wesley,SAS,Wesley STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0398,4,04:21,DAL,,SAS,,B. Wesley,SAS,Wesley STEAL (3 STL),,,0,0,0,0,,,v
+S2324-G0398,4,04:19,DAL,134.0,SAS,105.0,B. Wesley,SAS,Wesley Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0398,4,04:19,DAL,,SAS,,B. Wesley,SAS,MISS Wesley Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0398,4,03:47,DAL,,SAS,,B. Wesley,SAS,Wesley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0398,4,01:14,DAL,,SAS,,B. Wesley,SAS,MISS Wesley 3' Driving Layup,Missed Shot,Driving Layup Shot,4,31,3,1,2.0,0.0,v

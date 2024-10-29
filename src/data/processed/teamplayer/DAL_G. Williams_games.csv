@@ -1,0 +1,933 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2324-G0084,1,11:10,DAL,,BKN,,G. Williams,DAL,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0084,1,09:17,DAL,,BKN,,G. Williams,DAL,Williams REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0084,1,09:02,DAL,,BKN,,G. Williams,DAL,MISS Williams 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,22,24,1,3.0,0.0,h
+S2324-G0084,1,07:43,DAL,9.0,BKN,4.0,G. Williams,DAL,Williams 12' Pullup Jump Shot (2 PTS) (Jones Jr. 1 AST),Made Shot,Pullup Jump shot,34,116,12,1,2.0,2.0,h
+S2324-G0084,1,05:14,DAL,,BKN,,G. Williams,DAL,Williams P.FOUL (P1.T1) (J.Tiven),Foul,Personal,0,0,0,0,,,h
+S2324-G0084,1,04:24,DAL,,BKN,,G. Williams,DAL,Williams REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0084,1,04:02,DAL,,BKN,,G. Williams,DAL,SUB: Exum FOR Williams,Substitution,,0,0,0,0,,,h
+S2324-G0084,2,05:21,DAL,,BKN,,G. Williams,DAL,Williams Out of Bounds Lost Ball Turnover (P1.T4),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2324-G0084,2,03:36,DAL,48.0,BKN,44.0,G. Williams,DAL,Williams 27' 3PT Jump Shot (5 PTS) (Curry 1 AST),Made Shot,Jump Shot,121,241,27,1,3.0,3.0,h
+S2324-G0084,2,03:08,DAL,,BKN,,G. Williams,DAL,Williams OFF.Foul (P2) (T.Ford),Foul,Offensive,0,0,0,0,,,h
+S2324-G0084,2,03:08,DAL,,BKN,,G. Williams,DAL,Williams Offensive Foul Turnover (P2.T6),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0084,2,00:17.600000,DAL,,BKN,,G. Williams,DAL,Williams S.FOUL (P3.T1) (D.Scott),Foul,Shooting,0,0,0,0,,,h
+S2324-G0084,3,09:18,DAL,,BKN,,G. Williams,DAL,MISS Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,99,227,25,1,3.0,0.0,h
+S2324-G0084,3,08:43,DAL,,BKN,,G. Williams,DAL,SUB: Hardaway Jr. FOR Williams,Substitution,,0,0,0,0,,,h
+S2324-G0084,3,04:59,DAL,,BKN,,G. Williams,DAL,Williams REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0084,3,04:41,DAL,,BKN,,G. Williams,DAL,MISS Williams 3' Driving Layup,Missed Shot,Driving Layup Shot,-26,17,3,1,2.0,0.0,h
+S2324-G0084,3,03:24,DAL,,BKN,,G. Williams,DAL,Williams REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0084,4,11:24,DAL,,BKN,,G. Williams,DAL,Williams REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0084,4,09:29,DAL,,BKN,,G. Williams,DAL,SUB: Kleber FOR Williams,Substitution,,0,0,0,0,,,h
+S2324-G0084,4,04:35,DAL,,BKN,,G. Williams,DAL,MISS Williams 24' 3PT Jump Shot,Missed Shot,Jump Shot,-239,7,24,1,3.0,0.0,h
+S2324-G0084,4,04:26,DAL,,BKN,,G. Williams,DAL,Williams P.FOUL (P4.T3) (J.Tiven),Foul,Personal,0,0,0,0,,,h
+S2324-G0084,4,03:30,DAL,,BKN,,G. Williams,DAL,SUB: Hardaway Jr. FOR Williams,Substitution,,0,0,0,0,,,h
+S2324-G0084,4,00:19.500000,DAL,,BKN,,G. Williams,DAL,Williams Personal Take Foul (P5.T4) (J.Tiven),Foul,Personal Take,0,0,0,0,,,h
+S2324-G0006,1,11:12,DEN,,DAL,,G. Williams,DAL,Williams STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0006,1,09:22,DEN,,DAL,,G. Williams,DAL,MISS Williams 3PT Jump Shot,Missed Shot,Jump Shot,-228,4,0,1,3.0,0.0,v
+S2324-G0006,1,08:22,DEN,,DAL,,G. Williams,DAL,Williams Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0006,1,08:04,DEN,13.0,DAL,11.0,G. Williams,DAL,Williams 3PT Jump Shot (3 PTS) (Doncic 2 AST),Made Shot,Jump Shot,-234,-12,0,1,3.0,3.0,v
+S2324-G0006,1,06:44,DEN,,DAL,,G. Williams,DAL,Williams S.FOUL (P1.T2) (E.Malloy),Foul,Shooting,0,0,0,0,,,v
+S2324-G0006,1,03:36,DEN,,DAL,,G. Williams,DAL,SUB: Hardy FOR Williams,Substitution,,0,0,0,0,,,v
+S2324-G0006,2,06:31,DEN,,DAL,,G. Williams,DAL,MISS Williams 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-64,40,8,1,2.0,0.0,v
+S2324-G0006,2,06:29,DEN,,DAL,,G. Williams,DAL,Williams REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0006,2,05:13,DEN,,DAL,,G. Williams,DAL,Williams S.FOUL (P2.T4) (E.Malloy),Foul,Shooting,0,0,0,0,,,v
+S2324-G0006,2,05:13,DEN,,DAL,,G. Williams,DAL,Williams T.FOUL (P2.T4) (E.Malloy),Foul,Technical,0,0,0,0,,,v
+S2324-G0006,2,03:05,DEN,56.0,DAL,49.0,G. Williams,DAL,Williams 25' 3PT Jump Shot (6 PTS) (Doncic 5 AST),Made Shot,Jump Shot,-58,246,25,1,3.0,3.0,v
+S2324-G0006,2,02:53,DEN,,DAL,,G. Williams,DAL,Williams BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0006,3,11:21,DEN,,DAL,,G. Williams,DAL,MISS Williams 3PT Jump Shot,Missed Shot,Jump Shot,-230,25,0,1,3.0,0.0,v
+S2324-G0006,3,11:07,DEN,,DAL,,G. Williams,DAL,Williams REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0006,3,09:08,DEN,,DAL,,G. Williams,DAL,Williams REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0006,3,08:55,DEN,76.0,DAL,61.0,G. Williams,DAL,Williams Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0006,3,08:55,DEN,76.0,DAL,62.0,G. Williams,DAL,Williams Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0006,3,08:42,DEN,,DAL,,G. Williams,DAL,Williams P.FOUL (P3.T1) (G.Petraitis),Foul,Personal,0,0,0,0,,,v
+S2324-G0006,3,08:25,DEN,,DAL,,G. Williams,DAL,MISS Williams 20' Floating Jump Shot,Missed Shot,Floating Jump shot,-11,199,20,1,2.0,0.0,v
+S2324-G0006,3,07:07,DEN,,DAL,,G. Williams,DAL,MISS Williams 26' 3PT Jump Shot,Missed Shot,Jump Shot,-175,197,26,1,3.0,0.0,v
+S2324-G0006,3,06:17,DEN,,DAL,,G. Williams,DAL,MISS Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,58,247,25,1,3.0,0.0,v
+S2324-G0006,3,06:08,DEN,85.0,DAL,68.0,G. Williams,DAL,Williams 3' Layup (10 PTS) (Hardaway Jr. 2 AST),Made Shot,Layup Shot,-27,10,3,1,2.0,2.0,v
+S2324-G0006,3,04:45,DEN,90.0,DAL,73.0,G. Williams,DAL,Williams 26' 3PT Jump Shot (13 PTS) (Doncic 6 AST),Made Shot,Jump Shot,153,204,26,1,3.0,3.0,v
+S2324-G0006,3,04:05,DEN,,DAL,,G. Williams,DAL,Williams REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0006,3,03:37,DEN,,DAL,,G. Williams,DAL,SUB: Hardy FOR Williams,Substitution,,0,0,0,0,,,v
+S2324-G0006,4,09:14,DEN,,DAL,,G. Williams,DAL,Williams BLOCK (2 BLK),,,0,0,0,0,,,v
+S2324-G0006,4,07:01,DEN,,DAL,,G. Williams,DAL,SUB: Green FOR Williams,Substitution,,0,0,0,0,,,v
+S2324-G0006,4,03:56,DEN,,DAL,,G. Williams,DAL,Williams REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0006,4,02:01,DEN,,DAL,,G. Williams,DAL,Williams P.FOUL (P4.T4) (S.Wall),Foul,Personal,0,0,0,0,,,v
+S2324-G0006,4,01:11,DEN,,DAL,,G. Williams,DAL,SUB: Exum FOR Williams,Substitution,,0,0,0,0,,,v
+S2324-G0143,1,10:07,DAL,8.0,CHA,6.0,G. Williams,DAL,Williams 26' 3PT Pullup Jump Shot (3 PTS) (Doncic 1 AST),Made Shot,Pullup Jump shot,-147,211,26,1,3.0,3.0,h
+S2324-G0143,1,09:32,DAL,,CHA,,G. Williams,DAL,Williams S.FOUL (P1.T1) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,h
+S2324-G0143,1,08:45,DAL,,CHA,,G. Williams,DAL,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0143,1,07:47,DAL,15.0,CHA,10.0,G. Williams,DAL,Williams 7' Driving Layup (5 PTS) (Irving 2 AST),Made Shot,Driving Layup Shot,-55,36,7,1,2.0,2.0,h
+S2324-G0143,1,04:03,DAL,,CHA,,G. Williams,DAL,MISS Williams 26' 3PT Jump Shot,Missed Shot,Jump Shot,188,178,26,1,3.0,0.0,h
+S2324-G0143,1,03:51,DAL,,CHA,,G. Williams,DAL,Williams REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0143,1,03:17,DAL,,CHA,,G. Williams,DAL,SUB: Exum FOR Williams,Substitution,,0,0,0,0,,,h
+S2324-G0143,2,03:30,DAL,44.0,CHA,52.0,G. Williams,DAL,Williams 8' Turnaround Jump Shot (7 PTS) (Irving 3 AST),Made Shot,Turnaround Jump Shot,43,73,8,1,2.0,2.0,h
+S2324-G0143,2,01:04,DAL,,CHA,,G. Williams,DAL,Williams S.FOUL (P2.T4) (J.Orr),Foul,Shooting,0,0,0,0,,,h
+S2324-G0143,3,07:48,DAL,,CHA,,G. Williams,DAL,MISS Williams 2' Running Layup,Missed Shot,Running Layup Shot,2,15,2,1,2.0,0.0,h
+S2324-G0143,3,07:35,DAL,60.0,CHA,69.0,G. Williams,DAL,Williams 9' Driving Floating Jump Shot (9 PTS) (Irving 4 AST),Made Shot,Driving Floating Jump Shot,88,28,9,1,2.0,2.0,h
+S2324-G0143,3,07:12,DAL,,CHA,,G. Williams,DAL,Williams REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0143,3,03:18,DAL,,CHA,,G. Williams,DAL,SUB: Hardy FOR Williams,Substitution,,0,0,0,0,,,h
+S2324-G0143,4,05:33,DAL,105.0,CHA,102.0,G. Williams,DAL,Williams 3PT Jump Shot (12 PTS) (Doncic 8 AST),Made Shot,Jump Shot,234,10,0,1,3.0,3.0,h
+S2324-G0143,4,05:33,DAL,,CHA,,G. Williams,DAL,MISS Williams Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2324-G0143,4,04:24,DAL,,CHA,,G. Williams,DAL,Williams BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0143,4,03:38,DAL,,CHA,,G. Williams,DAL,Williams REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0143,4,03:30,DAL,110.0,CHA,106.0,G. Williams,DAL,Williams 25' 3PT Jump Shot (15 PTS) (Doncic 9 AST),Made Shot,Jump Shot,10,252,25,1,3.0,3.0,h
+S2324-G0143,4,02:45,DAL,,CHA,,G. Williams,DAL,Williams S.FOUL (P3.T4) (J.Orr),Foul,Shooting,0,0,0,0,,,h
+S2324-G0143,4,02:29,DAL,115.0,CHA,109.0,G. Williams,DAL,Williams 3PT Jump Shot (18 PTS) (Irving 10 AST),Made Shot,Jump Shot,-233,13,0,1,3.0,3.0,h
+S2324-G0457,1,03:26,UTA,,DAL,,G. Williams,DAL,MISS G. Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,-180,177,25,1,3.0,0.0,v
+S2324-G0457,1,03:20,UTA,26.0,DAL,22.0,G. Williams,DAL,G. Williams 2' Cutting Layup Shot (2 PTS) (Powell 1 AST),Made Shot,Cutting Layup Shot,-23,5,2,1,2.0,2.0,v
+S2324-G0457,1,01:27,UTA,,DAL,,G. Williams,DAL,MISS G. Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,135,214,25,1,3.0,0.0,v
+S2324-G0457,1,00:32,UTA,35.0,DAL,26.0,G. Williams,DAL,G. Williams 2' Reverse Layup (4 PTS) (Irving 2 AST),Made Shot,Reverse Layup Shot,20,1,2,1,2.0,2.0,v
+S2324-G0457,1,00:32,UTA,,DAL,,G. Williams,DAL,MISS G. Williams Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2324-G0457,2,09:35,UTA,,DAL,,G. Williams,DAL,G. Williams STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0457,2,08:28,UTA,,DAL,,G. Williams,DAL,SUB: Doncic FOR G. Williams,Substitution,,0,0,0,0,,,v
+S2324-G0457,2,04:46,UTA,,DAL,,G. Williams,DAL,G. Williams S.FOUL (P1.T4) (D.Collins),Foul,Shooting,0,0,0,0,,,v
+S2324-G0457,2,04:35,UTA,,DAL,,G. Williams,DAL,G. Williams Traveling Turnover (P1.T4),Turnover,Traveling,0,0,0,0,,,v
+S2324-G0457,2,03:29,UTA,,DAL,,G. Williams,DAL,G. Williams BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0457,2,01:34,UTA,,DAL,,G. Williams,DAL,SUB: Lively II FOR G. Williams,Substitution,,0,0,0,0,,,v
+S2324-G0457,3,01:15,UTA,,DAL,,G. Williams,DAL,MISS G. Williams 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-4,90,9,1,2.0,0.0,v
+S2324-G0457,3,01:09,UTA,,DAL,,G. Williams,DAL,G. Williams Out of Bounds - Bad Pass Turnover Turnover (P2.T10),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0457,3,00:42.700000,UTA,,DAL,,G. Williams,DAL,MISS G. Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,-240,59,25,1,3.0,0.0,v
+S2324-G0457,4,09:14,UTA,,DAL,,G. Williams,DAL,G. Williams BLOCK (2 BLK),,,0,0,0,0,,,v
+S2324-G0457,4,07:35,UTA,,DAL,,G. Williams,DAL,MISS G. Williams 3PT Jump Shot,Missed Shot,Jump Shot,-234,-1,0,1,3.0,0.0,v
+S2324-G0457,4,06:42,UTA,,DAL,,G. Williams,DAL,G. Williams OFF.Foul (P2) (S.Corbin),Foul,Offensive,0,0,0,0,,,v
+S2324-G0457,4,06:42,UTA,,DAL,,G. Williams,DAL,G. Williams Offensive Foul Turnover (P3.T14),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0457,4,06:42,UTA,,DAL,,G. Williams,DAL,G. Williams T.FOUL (P2.T1) (S.Corbin),Foul,Technical,0,0,0,0,,,v
+S2324-G0457,4,06:42,UTA,,DAL,,G. Williams,DAL,SUB: B. Williams FOR G. Williams,Substitution,,0,0,0,0,,,v
+S2324-G0420,1,06:26,DAL,,CLE,,G. Williams,DAL,Williams REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0420,1,06:02,DAL,,CLE,,G. Williams,DAL,Williams STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0420,1,04:06,DAL,,CLE,,G. Williams,DAL,Williams REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0420,1,03:46,DAL,24.0,CLE,18.0,G. Williams,DAL,Williams 6' Jump Shot (2 PTS) (Green 1 AST),Made Shot,Jump Shot,-1,64,6,1,2.0,2.0,h
+S2324-G0420,1,03:13,DAL,,CLE,,G. Williams,DAL,Williams S.FOUL (P1.T4) (C.Kirkland),Foul,Shooting,0,0,0,0,,,h
+S2324-G0420,1,01:55,DAL,,CLE,,G. Williams,DAL,MISS Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,110,230,25,1,3.0,0.0,h
+S2324-G0420,2,07:43,DAL,,CLE,,G. Williams,DAL,Williams P.FOUL (P2.T2) (C.Kirkland),Foul,Personal,0,0,0,0,,,h
+S2324-G0420,2,02:25,DAL,,CLE,,G. Williams,DAL,Williams REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0420,2,01:55,DAL,,CLE,,G. Williams,DAL,MISS Williams 3PT Jump Shot,Missed Shot,Jump Shot,228,-6,0,1,3.0,0.0,h
+S2324-G0420,2,01:32,DAL,,CLE,,G. Williams,DAL,Williams STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0420,2,00:42.200000,DAL,69.0,CLE,52.0,G. Williams,DAL,Williams 1' Cutting Layup Shot (4 PTS) (Exum 4 AST),Made Shot,Cutting Layup Shot,-2,13,1,1,2.0,2.0,h
+S2324-G0420,3,06:48,DAL,,CLE,,G. Williams,DAL,Williams REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0420,3,06:32,DAL,,CLE,,G. Williams,DAL,MISS Williams 26' 3PT Jump Shot,Missed Shot,Jump Shot,-181,182,26,1,3.0,0.0,h
+S2324-G0420,3,05:53,DAL,,CLE,,G. Williams,DAL,MISS Williams 12' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,70,92,12,1,2.0,0.0,h
+S2324-G0420,3,05:01,DAL,,CLE,,G. Williams,DAL,Williams S.FOUL (P3.T2) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,h
+S2324-G0420,3,02:18,DAL,,CLE,,G. Williams,DAL,Williams REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0420,3,00:12.900000,DAL,,CLE,,G. Williams,DAL,MISS Williams 24' 3PT Jump Shot,Missed Shot,Jump Shot,230,53,24,1,3.0,0.0,h
+S2324-G0420,4,04:12,DAL,,CLE,,G. Williams,DAL,Williams REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0420,4,02:30,DAL,,CLE,,G. Williams,DAL,Williams S.FOUL (P4.PN) (L.Wood),Foul,Shooting,0,0,0,0,,,h
+S2324-G0420,4,01:39,DAL,,CLE,,G. Williams,DAL,Williams P.FOUL (P5.PN) (C.Kirkland),Foul,Personal,0,0,0,0,,,h
+S2324-G0420,4,01:39,DAL,,CLE,,G. Williams,DAL,SUB: Lively II FOR Williams,Substitution,,0,0,0,0,,,h
+S2324-G0702,1,10:18,DAL,,MIL,,G. Williams,DAL,G. Williams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0702,1,07:52,DAL,,MIL,,G. Williams,DAL,MISS G. Williams 3' Driving Layup,Missed Shot,Driving Layup Shot,-31,10,3,1,2.0,0.0,h
+S2324-G0702,1,07:50,DAL,,MIL,,G. Williams,DAL,SUB: Hardaway Jr. FOR G. Williams,Substitution,,0,0,0,0,,,h
+S2324-G0702,1,03:35,DAL,,MIL,,G. Williams,DAL,G. Williams P.FOUL (P1.T2) (C.Washington),Foul,Personal,0,0,0,0,,,h
+S2324-G0702,1,01:15,DAL,,MIL,,G. Williams,DAL,G. Williams REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0702,1,00:09.800000,DAL,,MIL,,G. Williams,DAL,G. Williams REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0702,2,10:52,DAL,,MIL,,G. Williams,DAL,MISS G. Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,-184,176,25,1,3.0,0.0,h
+S2324-G0702,2,10:12,DAL,,MIL,,G. Williams,DAL,SUB: Kleber FOR G. Williams,Substitution,,0,0,0,0,,,h
+S2324-G0702,2,04:34,DAL,,MIL,,G. Williams,DAL,SUB: Doncic FOR G. Williams,Substitution,,0,0,0,0,,,h
+S2324-G0702,3,10:59,DAL,,MIL,,G. Williams,DAL,MISS G. Williams 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,0,22,2,1,2.0,0.0,h
+S2324-G0702,3,10:57,DAL,,MIL,,G. Williams,DAL,G. Williams REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0702,3,10:57,DAL,,MIL,,G. Williams,DAL,MISS G. Williams 2' Tip Layup Shot,Missed Shot,Tip Layup Shot,-5,15,2,1,2.0,0.0,h
+S2324-G0702,3,08:26,DAL,,MIL,,G. Williams,DAL,G. Williams Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0702,3,08:00,DAL,,MIL,,G. Williams,DAL,G. Williams REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0702,3,08:00,DAL,,MIL,,G. Williams,DAL,G. Williams Step Out of Bounds Turnover (P2.T10),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2324-G0702,3,08:00,DAL,,MIL,,G. Williams,DAL,SUB: Hardaway Jr. FOR G. Williams,Substitution,,0,0,0,0,,,h
+S2324-G0702,3,03:03,DAL,81.0,MIL,85.0,G. Williams,DAL,G. Williams 3' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,1,34,3,1,2.0,2.0,h
+S2324-G0702,3,02:14,DAL,,MIL,,G. Williams,DAL,G. Williams STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0702,3,01:26,DAL,,MIL,,G. Williams,DAL,G. Williams Lost Ball Turnover (P3.T15),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0702,3,01:22,DAL,,MIL,,G. Williams,DAL,SUB: Green FOR G. Williams,Substitution,,0,0,0,0,,,h
+S2324-G0702,4,09:04,DAL,,MIL,,G. Williams,DAL,MISS G. Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,-206,148,25,1,3.0,0.0,h
+S2324-G0702,4,07:29,DAL,,MIL,,G. Williams,DAL,G. Williams S.FOUL (P2.T2) (B.Forte),Foul,Shooting,0,0,0,0,,,h
+S2324-G0702,4,07:08,DAL,,MIL,,G. Williams,DAL,G. Williams Traveling Turnover (P4.T18),Turnover,Traveling,0,0,0,0,,,h
+S2324-G0702,4,07:08,DAL,,MIL,,G. Williams,DAL,SUB: Jones Jr. FOR G. Williams,Substitution,,0,0,0,0,,,h
+S2324-G0651,1,11:23,DAL,3.0,,0.0,G. Williams,DAL,G. Williams 24' 3PT Running Jump Shot (3 PTS) (Hardy 1 AST),Made Shot,Running Jump Shot,238,5,24,1,3.0,3.0,h
+S2324-G0651,1,09:07,DAL,13.0,,8.0,G. Williams,DAL,G. Williams 3PT Jump Shot (6 PTS) (Doncic 1 AST),Made Shot,Jump Shot,228,16,0,1,3.0,3.0,h
+S2324-G0651,1,07:33,DAL,,,,G. Williams,DAL,G. Williams STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0651,1,07:15,DAL,,,,G. Williams,DAL,G. Williams BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0651,1,06:33,DAL,,,,G. Williams,DAL,MISS G. Williams 9' Jump Shot,Missed Shot,Jump Shot,-5,85,9,1,2.0,0.0,h
+S2324-G0651,1,05:28,DAL,,,,G. Williams,DAL,SUB: Kleber FOR G. Williams,Substitution,,0,0,0,0,,,h
+S2324-G0651,2,11:40,DAL,,,,G. Williams,DAL,G. Williams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0651,2,09:39,DAL,30.0,,33.0,G. Williams,DAL,G. Williams 25' 3PT Running Jump Shot (9 PTS) (Doncic 4 AST),Made Shot,Running Jump Shot,200,148,25,1,3.0,3.0,h
+S2324-G0651,2,09:00,DAL,,,,G. Williams,DAL,G. Williams S.FOUL (P1.T2) (I.Hwang),Foul,Shooting,0,0,0,0,,,h
+S2324-G0651,2,08:33,DAL,,,,G. Williams,DAL,G. Williams STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0651,2,08:25,DAL,,,,G. Williams,DAL,MISS G. Williams 24' 3PT Jump Shot,Missed Shot,Jump Shot,240,16,24,1,3.0,0.0,h
+S2324-G0651,2,06:59,DAL,,,,G. Williams,DAL,MISS G. Williams 6' Floating Jump Shot,Missed Shot,Floating Jump shot,-5,64,6,1,2.0,0.0,h
+S2324-G0651,2,06:56,DAL,,,,G. Williams,DAL,G. Williams REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0651,2,03:57,DAL,,,,G. Williams,DAL,MISS G. Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,89,231,25,1,3.0,0.0,h
+S2324-G0651,2,03:22,DAL,,,,G. Williams,DAL,G. Williams REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0651,2,03:16,DAL,,,,G. Williams,DAL,SUB: Lawson FOR G. Williams,Substitution,,0,0,0,0,,,h
+S2324-G0651,2,00:46.600000,DAL,,,,G. Williams,DAL,MISS G. Williams 6' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-1,62,6,1,2.0,0.0,h
+S2324-G0651,2,00:11.700000,DAL,,,,G. Williams,DAL,G. Williams REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0651,3,10:01,DAL,51.0,,71.0,G. Williams,DAL,G. Williams 16' Pullup Jump Shot (11 PTS) (Doncic 9 AST),Made Shot,Pullup Jump shot,-44,159,16,1,2.0,2.0,h
+S2324-G0651,3,09:26,DAL,,,,G. Williams,DAL,G. Williams REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0651,3,08:34,DAL,57.0,,71.0,G. Williams,DAL,G. Williams 3' Driving Finger Roll Layup (13 PTS) (Green 3 AST),Made Shot,Driving Finger Roll Layup Shot,-5,32,3,1,2.0,2.0,h
+S2324-G0651,3,08:19,DAL,,,,G. Williams,DAL,G. Williams S.FOUL (P2.T2) (T.Brothers),Foul,Shooting,0,0,0,0,,,h
+S2324-G0651,3,08:06,DAL,60.0,,72.0,G. Williams,DAL,G. Williams 26' 3PT Jump Shot (16 PTS) (Doncic 11 AST),Made Shot,Jump Shot,-2,256,26,1,3.0,3.0,h
+S2324-G0651,3,05:14,DAL,,,,G. Williams,DAL,G. Williams L.B.FOUL (P3.T3) (A.Moyer-Gleich),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0651,3,04:26,DAL,,,,G. Williams,DAL,SUB: Holmes FOR G. Williams,Substitution,,0,0,0,0,,,h
+S2324-G0651,3,01:38,DAL,,,,G. Williams,DAL,MISS G. Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,153,203,25,1,3.0,0.0,h
+S2324-G0651,3,01:31,DAL,,,,G. Williams,DAL,G. Williams STEAL (3 STL),,,0,0,0,0,,,h
+S2324-G0651,3,01:29,DAL,72.0,,90.0,G. Williams,DAL,G. Williams Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0651,3,01:29,DAL,73.0,,90.0,G. Williams,DAL,G. Williams Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0651,4,08:21,DAL,86.0,,103.0,G. Williams,DAL,G. Williams 28' 3PT Pullup Jump Shot (21 PTS) (Hardaway Jr. 1 AST),Made Shot,Pullup Jump shot,-44,279,28,1,3.0,3.0,h
+S2324-G0651,4,07:29,DAL,,,,G. Williams,DAL,G. Williams REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0651,4,07:17,DAL,91.0,,104.0,G. Williams,DAL,G. Williams 25' 3PT Jump Shot (24 PTS) (Doncic 13 AST),Made Shot,Jump Shot,-208,142,25,1,3.0,3.0,h
+S2324-G0651,4,05:46,DAL,,,,G. Williams,DAL,G. Williams P.FOUL (P4.T2) (T.Brothers),Foul,Personal,0,0,0,0,,,h
+S2324-G0651,4,05:25,DAL,,,,G. Williams,DAL,MISS G. Williams 2' Driving Layup,Missed Shot,Driving Layup Shot,-17,16,2,1,2.0,0.0,h
+S2324-G0651,4,05:24,DAL,,,,G. Williams,DAL,G. Williams REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0651,4,04:22,DAL,,,,G. Williams,DAL,G. Williams REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0651,4,02:40,DAL,106.0,,114.0,G. Williams,DAL,G. Williams 3PT Jump Shot (27 PTS) (Green 5 AST),Made Shot,Jump Shot,-229,-1,0,1,3.0,3.0,h
+S2324-G0651,4,00:10.900000,DAL,,,,G. Williams,DAL,G. Williams Personal Take Foul (P5.PN) (I.Hwang),Foul,Personal Take,0,0,0,0,,,h
+S2324-G0515,1,01:57,DAL,,MEM,,G. Williams,DAL,MISS G. Williams 2' Driving Layup,Missed Shot,Driving Layup Shot,-22,11,2,1,2.0,0.0,h
+S2324-G0515,1,01:52,DAL,,MEM,,G. Williams,DAL,SUB: Irving FOR G. Williams,Substitution,,0,0,0,0,,,h
+S2324-G0515,2,06:01,DAL,,MEM,,G. Williams,DAL,G. Williams S.FOUL (P1.T2) (J.Sterling),Foul,Shooting,0,0,0,0,,,h
+S2324-G0515,2,05:43,DAL,,MEM,,G. Williams,DAL,G. Williams Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0515,2,05:05,DAL,,MEM,,G. Williams,DAL,MISS G. Williams 18' Jump Shot,Missed Shot,Jump Shot,180,-2,18,1,2.0,0.0,h
+S2324-G0515,2,04:36,DAL,,MEM,,G. Williams,DAL,SUB: Green FOR G. Williams,Substitution,,0,0,0,0,,,h
+S2324-G0124,1,11:12,DAL,,,,G. Williams,DAL,MISS Williams 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,37,129,13,1,2.0,0.0,h
+S2324-G0124,1,09:43,DAL,5.0,,3.0,G. Williams,DAL,Williams 26' 3PT Jump Shot (3 PTS) (Doncic 1 AST),Made Shot,Jump Shot,-147,214,26,1,3.0,3.0,h
+S2324-G0124,1,07:56,DAL,10.0,,7.0,G. Williams,DAL,Williams 27' 3PT Jump Shot (6 PTS) (Lively II 1 AST),Made Shot,Jump Shot,99,247,27,1,3.0,3.0,h
+S2324-G0124,1,06:38,DAL,13.0,,10.0,G. Williams,DAL,Williams 25' 3PT Jump Shot (9 PTS) (Hardaway Jr. 1 AST),Made Shot,Jump Shot,179,179,25,1,3.0,3.0,h
+S2324-G0124,1,04:31,DAL,,,,G. Williams,DAL,MISS Williams Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0124,1,04:31,DAL,17.0,,11.0,G. Williams,DAL,Williams Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0124,1,02:48,DAL,,,,G. Williams,DAL,SUB: Hardy FOR Williams,Substitution,,0,0,0,0,,,h
+S2324-G0124,2,03:24,DAL,45.0,,48.0,G. Williams,DAL,Williams 24' 3PT Jump Shot (13 PTS) (Doncic 5 AST),Made Shot,Jump Shot,-238,26,24,1,3.0,3.0,h
+S2324-G0124,3,09:51,DAL,,,,G. Williams,DAL,MISS Williams 26' 3PT Jump Shot,Missed Shot,Jump Shot,-13,260,26,1,3.0,0.0,h
+S2324-G0124,3,09:19,DAL,61.0,,59.0,G. Williams,DAL,Williams 25' 3PT Jump Shot (16 PTS) (Doncic 7 AST),Made Shot,Jump Shot,195,160,25,1,3.0,3.0,h
+S2324-G0124,3,06:22,DAL,,,,G. Williams,DAL,MISS Williams 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-189,162,25,1,3.0,0.0,h
+S2324-G0124,3,03:30,DAL,,,,G. Williams,DAL,Williams L.B.FOUL (P1.T3) (B.Haskill),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0124,3,03:30,DAL,,,,G. Williams,DAL,SUB: Green FOR Williams,Substitution,,0,0,0,0,,,h
+S2324-G0124,4,05:38,DAL,97.0,,96.0,G. Williams,DAL,Williams 3PT Step Back Jump Shot (19 PTS) (Green 1 AST),Made Shot,Step Back Jump shot,229,52,0,1,3.0,3.0,h
+S2324-G0124,4,05:22,DAL,,,,G. Williams,DAL,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0124,4,03:31,DAL,,,,G. Williams,DAL,Williams STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0124,4,03:22,DAL,,,,G. Williams,DAL,Williams REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0124,4,03:22,DAL,100.0,,98.0,G. Williams,DAL,Williams Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0124,4,03:22,DAL,101.0,,98.0,G. Williams,DAL,Williams Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0124,4,03:04,DAL,,,,G. Williams,DAL,Williams REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0124,4,01:12,DAL,,,,G. Williams,DAL,Williams REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0124,4,00:27.500000,DAL,112.0,,102.0,G. Williams,DAL,Williams 3PT Jump Shot (24 PTS) (Jones Jr. 1 AST),Made Shot,Jump Shot,234,7,0,1,3.0,3.0,h
+S2324-G0124,4,00:20.500000,DAL,113.0,,105.0,G. Williams,DAL,Williams Free Throw 1 of 2 (25 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0124,4,00:20.500000,DAL,,,,G. Williams,DAL,MISS Williams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0124,4,00:02.200000,DAL,,,,G. Williams,DAL,Williams REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0372,1,08:37,DAL,9.0,LAC,8.0,G. Williams,DAL,Williams 24' 3PT Jump Shot (3 PTS) (Doncic 3 AST),Made Shot,Jump Shot,-238,5,24,1,3.0,3.0,h
+S2324-G0372,1,08:07,DAL,,LAC,,G. Williams,DAL,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0372,1,06:54,DAL,,LAC,,G. Williams,DAL,Williams REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0372,1,05:41,DAL,,LAC,,G. Williams,DAL,Williams S.FOUL (P1.T2) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,h
+S2324-G0372,1,04:46,DAL,,LAC,,G. Williams,DAL,SUB: Prosper FOR Williams,Substitution,,0,0,0,0,,,h
+S2324-G0372,2,10:32,DAL,,LAC,,G. Williams,DAL,Williams S.FOUL (P2.T1) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,h
+S2324-G0372,2,08:54,DAL,,LAC,,G. Williams,DAL,SUB: Jones Jr. FOR Williams,Substitution,,0,0,0,0,,,h
+S2324-G0372,2,00:36,DAL,,LAC,,G. Williams,DAL,Williams REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0372,2,00:31.600000,DAL,,LAC,,G. Williams,DAL,Williams REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0372,3,11:20,DAL,,LAC,,G. Williams,DAL,Williams REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0372,3,11:20,DAL,60.0,LAC,67.0,G. Williams,DAL,Williams Tip Layup Shot (5 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2324-G0372,3,10:53,DAL,,LAC,,G. Williams,DAL,MISS Williams 26' 3PT Jump Shot,Missed Shot,Jump Shot,-201,157,26,1,3.0,0.0,h
+S2324-G0372,3,10:43,DAL,,LAC,,G. Williams,DAL,Williams REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0372,3,08:55,DAL,,LAC,,G. Williams,DAL,Williams P.FOUL (P3.T1) (M.Kallio),Foul,Personal,0,0,0,0,,,h
+S2324-G0372,3,05:07,DAL,,LAC,,G. Williams,DAL,Williams REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0372,3,05:06,DAL,,LAC,,G. Williams,DAL,SUB: Exum FOR Williams,Substitution,,0,0,0,0,,,h
+S2324-G0372,3,01:11,DAL,,LAC,,G. Williams,DAL,Williams BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0372,3,00:52.200000,DAL,79.0,LAC,85.0,G. Williams,DAL,Williams 2' Layup (7 PTS) (Hardaway Jr. 2 AST),Made Shot,Layup Shot,0,15,2,1,2.0,2.0,h
+S2324-G0372,3,00:01.600000,DAL,,LAC,,G. Williams,DAL,Williams REBOUND (Off:5 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0372,3,00:01,DAL,83.0,LAC,85.0,G. Williams,DAL,Williams 16' Jump Shot (9 PTS),Made Shot,Jump Shot,-163,2,16,1,2.0,2.0,h
+S2324-G0372,4,11:24,DAL,,LAC,,G. Williams,DAL,MISS Williams 26' 3PT Jump Shot,Missed Shot,Jump Shot,-124,226,26,1,3.0,0.0,h
+S2324-G0372,4,11:16,DAL,,LAC,,G. Williams,DAL,Williams S.FOUL (P4.T1) (M.Kallio),Foul,Shooting,0,0,0,0,,,h
+S2324-G0372,4,10:38,DAL,,LAC,,G. Williams,DAL,SUB: Jones Jr. FOR Williams,Substitution,,0,0,0,0,,,h
+S2324-G0372,4,04:36,DAL,,LAC,,G. Williams,DAL,Williams REBOUND (Off:5 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0372,4,04:09,DAL,,LAC,,G. Williams,DAL,Williams P.FOUL (P5.T3) (J.Tiven),Foul,Personal,0,0,0,0,,,h
+S2324-G0372,4,03:10,DAL,,LAC,,G. Williams,DAL,MISS Williams 24' 3PT Jump Shot,Missed Shot,Jump Shot,234,63,24,1,3.0,0.0,h
+S2324-G0372,4,00:52.100000,DAL,,LAC,,G. Williams,DAL,Williams P.FOUL (P6.PN) (M.Kallio),Foul,Personal,0,0,0,0,,,h
+S2324-G0372,4,00:52.100000,DAL,,LAC,,G. Williams,DAL,SUB: Hardy FOR Williams,Substitution,,0,0,0,0,,,h
+S2324-G0666,1,09:53,DAL,,ORL,,G. Williams,DAL,G. Williams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0666,1,08:52,DAL,,ORL,,G. Williams,DAL,G. Williams S.FOUL (P1.T2) (N.Buchert),Foul,Shooting,0,0,0,0,,,h
+S2324-G0666,1,07:02,DAL,,ORL,,G. Williams,DAL,G. Williams L.B.FOUL (P2.T4) (J.Sterling),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0666,1,07:02,DAL,,ORL,,G. Williams,DAL,SUB: Kleber FOR G. Williams,Substitution,,0,0,0,0,,,h
+S2324-G0666,2,05:31,DAL,,ORL,,G. Williams,DAL,SUB: Kleber FOR G. Williams,Substitution,,0,0,0,0,,,h
+S2324-G0666,3,08:35,DAL,,ORL,,G. Williams,DAL,G. Williams REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0666,3,07:31,DAL,,ORL,,G. Williams,DAL,G. Williams Bad Pass Turnover (P1.T11),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0666,3,06:18,DAL,74.0,ORL,81.0,G. Williams,DAL,G. Williams 3PT Jump Shot (3 PTS) (Doncic 8 AST),Made Shot,Jump Shot,230,45,0,1,3.0,3.0,h
+S2324-G0666,3,05:10,DAL,,ORL,,G. Williams,DAL,MISS G. Williams 26' 3PT Jump Shot,Missed Shot,Jump Shot,181,190,26,1,3.0,0.0,h
+S2324-G0666,3,04:41,DAL,,ORL,,G. Williams,DAL,SUB: Hardy FOR G. Williams,Substitution,,0,0,0,0,,,h
+S2324-G0666,4,10:22,DAL,,ORL,,G. Williams,DAL,G. Williams Lost Ball Turnover (P2.T14),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0666,4,10:14,DAL,,ORL,,G. Williams,DAL,G. Williams S.FOUL (P3.T2) (K.Scott),Foul,Shooting,0,0,0,0,,,h
+S2324-G0666,4,06:46,DAL,,ORL,,G. Williams,DAL,SUB: Kleber FOR G. Williams,Substitution,,0,0,0,0,,,h
+S2324-G0277,1,11:00,DAL,,MEM,,G. Williams,DAL,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0277,1,10:55,DAL,,MEM,,G. Williams,DAL,MISS Williams 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,44,267,27,1,3.0,0.0,h
+S2324-G0277,1,10:22,DAL,,MEM,,G. Williams,DAL,MISS Williams 3PT Jump Shot,Missed Shot,Jump Shot,223,5,0,1,3.0,0.0,h
+S2324-G0277,1,10:07,DAL,,MEM,,G. Williams,DAL,Williams REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0277,1,07:09,DAL,,MEM,,G. Williams,DAL,Williams STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0277,1,03:14,DAL,,MEM,,G. Williams,DAL,SUB: Prosper FOR Williams,Substitution,,0,0,0,0,,,h
+S2324-G0277,2,06:19,DAL,30.0,MEM,38.0,G. Williams,DAL,Williams Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0277,2,06:19,DAL,31.0,MEM,38.0,G. Williams,DAL,Williams Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0277,2,04:32,DAL,,MEM,,G. Williams,DAL,MISS Williams 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,135,215,25,1,3.0,0.0,h
+S2324-G0277,2,03:45,DAL,,MEM,,G. Williams,DAL,Williams Traveling Turnover (P1.T8),Turnover,Traveling,0,0,0,0,,,h
+S2324-G0277,2,02:28,DAL,,MEM,,G. Williams,DAL,MISS Williams 6' Driving Layup,Missed Shot,Driving Layup Shot,50,27,6,1,2.0,0.0,h
+S2324-G0277,2,01:06,DAL,,MEM,,G. Williams,DAL,Williams REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0277,2,00:32.500000,DAL,41.0,MEM,56.0,G. Williams,DAL,Williams 3PT Jump Shot (5 PTS) (Irving 2 AST),Made Shot,Jump Shot,224,22,0,1,3.0,3.0,h
+S2324-G0277,2,00:00.300000,DAL,44.0,MEM,59.0,G. Williams,DAL,Williams 26' 3PT Jump Shot (8 PTS) (Irving 3 AST),Made Shot,Jump Shot,-127,224,26,1,3.0,3.0,h
+S2324-G0277,3,11:44,DAL,,MEM,,G. Williams,DAL,MISS Williams 3PT Jump Shot,Missed Shot,Jump Shot,-232,21,0,1,3.0,0.0,h
+S2324-G0277,3,11:40,DAL,,MEM,,G. Williams,DAL,Williams REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0277,3,11:38,DAL,,MEM,,G. Williams,DAL,MISS Williams 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-37,70,8,1,2.0,0.0,h
+S2324-G0277,3,11:21,DAL,,MEM,,G. Williams,DAL,Williams REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0277,3,09:59,DAL,,MEM,,G. Williams,DAL,Williams REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0277,3,09:56,DAL,49.0,MEM,59.0,G. Williams,DAL,Williams Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0277,3,09:56,DAL,,MEM,,G. Williams,DAL,MISS Williams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0277,3,09:27,DAL,52.0,MEM,61.0,G. Williams,DAL,Williams 24' 3PT Jump Shot (12 PTS) (Green 3 AST),Made Shot,Jump Shot,-235,19,24,1,3.0,3.0,h
+S2324-G0277,3,08:56,DAL,,MEM,,G. Williams,DAL,Williams BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0277,3,08:45,DAL,,MEM,,G. Williams,DAL,Jump Ball Williams vs. Aldama: Tip to Rose,Jump Ball,,0,0,0,0,,,h
+S2324-G0277,3,08:08,DAL,,MEM,,G. Williams,DAL,MISS Williams 3PT Jump Shot,Missed Shot,Jump Shot,229,1,0,1,3.0,0.0,h
+S2324-G0277,3,07:46,DAL,,MEM,,G. Williams,DAL,Williams REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0277,3,04:51,DAL,65.0,MEM,72.0,G. Williams,DAL,Williams Running Layup (14 PTS) (Curry 2 AST),Made Shot,Running Layup Shot,-2,0,0,1,2.0,2.0,h
+S2324-G0277,3,02:15,DAL,,MEM,,G. Williams,DAL,SUB: Irving FOR Williams,Substitution,,0,0,0,0,,,h
+S2324-G0277,4,09:30,DAL,,MEM,,G. Williams,DAL,MISS Williams 3PT Jump Shot,Missed Shot,Jump Shot,-233,10,0,1,3.0,0.0,h
+S2324-G0277,4,09:12,DAL,,MEM,,G. Williams,DAL,Williams S.FOUL (P1.T1) (R.Acosta),Foul,Shooting,0,0,0,0,,,h
+S2324-G0277,4,07:20,DAL,,MEM,,G. Williams,DAL,Williams P.FOUL (P2.T2) (M.Myers),Foul,Personal,0,0,0,0,,,h
+S2324-G0277,4,06:26,DAL,,MEM,,G. Williams,DAL,Williams REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0277,4,06:26,DAL,81.0,MEM,95.0,G. Williams,DAL,Williams Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0277,4,06:26,DAL,82.0,MEM,95.0,G. Williams,DAL,Williams Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0277,4,04:26,DAL,,MEM,,G. Williams,DAL,Williams P.FOUL (P3.T3) (M.Myers),Foul,Personal,0,0,0,0,,,h
+S2324-G0277,4,04:18,DAL,,MEM,,G. Williams,DAL,SUB: Lawson FOR Williams,Substitution,,0,0,0,0,,,h
+S2324-G0715,1,03:07,PHI,,DAL,,G. Williams,DAL,G. Williams S.FOUL (P1.T3) (S.Mehta),Foul,Shooting,0,0,0,0,,,v
+S2324-G0715,1,03:05,PHI,,DAL,,G. Williams,DAL,G. Williams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0715,1,02:57,PHI,,DAL,,G. Williams,DAL,MISS G. Williams 29' 3PT Jump Shot,Missed Shot,Jump Shot,-154,247,29,1,3.0,0.0,v
+S2324-G0715,2,03:23,PHI,,DAL,,G. Williams,DAL,G. Williams BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0715,2,02:02,PHI,53.0,DAL,46.0,G. Williams,DAL,G. Williams Free Throw Flagrant 1 of 3 (1 PTS),Free Throw,Free Throw Flagrant 1 of 3,0,0,0,0,1.0,1.0,v
+S2324-G0715,2,02:02,PHI,53.0,DAL,47.0,G. Williams,DAL,G. Williams Free Throw Flagrant 2 of 3 (2 PTS),Free Throw,Free Throw Flagrant 2 of 3,0,0,0,0,1.0,1.0,v
+S2324-G0715,2,02:02,PHI,53.0,DAL,48.0,G. Williams,DAL,G. Williams Free Throw Flagrant 3 of 3 (3 PTS),Free Throw,Free Throw Flagrant 3 of 3,0,0,0,0,1.0,1.0,v
+S2324-G0715,2,01:01,PHI,,DAL,,G. Williams,DAL,G. Williams REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0715,2,00:52.300000,PHI,,DAL,,G. Williams,DAL,G. Williams Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0715,3,03:17,PHI,,DAL,,G. Williams,DAL,G. Williams REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0715,3,03:15,PHI,,DAL,,G. Williams,DAL,MISS G. Williams Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0715,3,03:15,PHI,70.0,DAL,73.0,G. Williams,DAL,G. Williams Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0715,3,02:21,PHI,,DAL,,G. Williams,DAL,MISS G. Williams 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,65,32,7,1,2.0,0.0,v
+S2324-G0715,3,02:06,PHI,,DAL,,G. Williams,DAL,G. Williams P.FOUL (P2.T2) (D.Guthrie),Foul,Personal,0,0,0,0,,,v
+S2324-G0715,4,11:16,PHI,,DAL,,G. Williams,DAL,G. Williams REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0715,4,10:38,PHI,,DAL,,G. Williams,DAL,G. Williams REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0715,4,09:40,PHI,,DAL,,G. Williams,DAL,G. Williams REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0715,4,08:57,PHI,77.0,DAL,89.0,G. Williams,DAL,G. Williams 27' 3PT Jump Shot (7 PTS) (Kleber 3 AST),Made Shot,Jump Shot,141,227,27,1,3.0,3.0,v
+S2324-G0715,4,06:56,PHI,82.0,DAL,96.0,G. Williams,DAL,G. Williams Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0715,4,06:56,PHI,82.0,DAL,97.0,G. Williams,DAL,G. Williams Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0715,4,06:30,PHI,85.0,DAL,99.0,G. Williams,DAL,G. Williams 15' Pullup Jump Shot (11 PTS) (Green 4 AST),Made Shot,Pullup Jump shot,-148,-15,15,1,2.0,2.0,v
+S2324-G0715,4,06:11,PHI,85.0,DAL,102.0,G. Williams,DAL,G. Williams 26' 3PT Running Jump Shot (14 PTS) (Irving 7 AST),Made Shot,Running Jump Shot,164,203,26,1,3.0,3.0,v
+S2324-G0715,4,04:26,PHI,,DAL,,G. Williams,DAL,G. Williams REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0715,4,03:11,PHI,,DAL,,G. Williams,DAL,G. Williams P.FOUL (P3.PN) (D.Guthrie),Foul,Personal,0,0,0,0,,,v
+S2324-G0715,4,03:11,PHI,,DAL,,G. Williams,DAL,SUB: Prosper FOR G. Williams,Substitution,,0,0,0,0,,,v
+S2324-G0168,1,08:41,DAL,,TOR,,G. Williams,DAL,MISS Williams 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-103,56,12,1,2.0,0.0,h
+S2324-G0168,1,07:20,DAL,,TOR,,G. Williams,DAL,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0168,1,07:09,DAL,,TOR,,G. Williams,DAL,Williams P.FOUL (P1.T1) (B.Taylor),Foul,Personal,0,0,0,0,,,h
+S2324-G0168,1,05:48,DAL,,TOR,,G. Williams,DAL,Williams P.FOUL (P2.T2) (J.Reneau),Foul,Personal,0,0,0,0,,,h
+S2324-G0168,1,04:53,DAL,,TOR,,G. Williams,DAL,SUB: Kleber FOR Williams,Substitution,,0,0,0,0,,,h
+S2324-G0168,2,04:38,DAL,,TOR,,G. Williams,DAL,MISS Williams 10' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-81,56,10,1,2.0,0.0,h
+S2324-G0168,2,02:56,DAL,,TOR,,G. Williams,DAL,MISS Williams 3PT Jump Shot,Missed Shot,Jump Shot,229,51,0,1,3.0,0.0,h
+S2324-G0168,2,02:54,DAL,,TOR,,G. Williams,DAL,SUB: Irving FOR Williams,Substitution,,0,0,0,0,,,h
+S2324-G0168,3,12:00,DAL,,TOR,,G. Williams,DAL,Williams T.FOUL (P2.T0) (B.Taylor),Foul,Technical,0,0,0,0,,,h
+S2324-G0168,3,10:51,DAL,63.0,TOR,64.0,G. Williams,DAL,Williams 25' 3PT Jump Shot (3 PTS) (Doncic 5 AST),Made Shot,Jump Shot,152,201,25,1,3.0,3.0,h
+S2324-G0168,3,09:04,DAL,71.0,TOR,71.0,G. Williams,DAL,Williams 26' 3PT Jump Shot (6 PTS) (Jones Jr. 1 AST),Made Shot,Jump Shot,-127,227,26,1,3.0,3.0,h
+S2324-G0168,3,08:29,DAL,,TOR,,G. Williams,DAL,MISS Williams 26' 3PT Jump Shot,Missed Shot,Jump Shot,181,181,26,1,3.0,0.0,h
+S2324-G0168,3,04:23,DAL,,TOR,,G. Williams,DAL,SUB: Irving FOR Williams,Substitution,,0,0,0,0,,,h
+S2324-G0168,4,08:24,DAL,,TOR,,G. Williams,DAL,Williams REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0168,4,05:31,DAL,,TOR,,G. Williams,DAL,Williams P.FOUL (P3.PN) (J.Reneau),Foul,Personal,0,0,0,0,,,h
+S2324-G0168,4,01:57,DAL,,TOR,,G. Williams,DAL,Williams P.FOUL (P4.PN) (S.Wright),Foul,Personal,0,0,0,0,,,h
+S2324-G0168,4,01:00,DAL,,TOR,,G. Williams,DAL,MISS Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,213,127,25,1,3.0,0.0,h
+S2324-G0611,1,01:25,DAL,,BOS,,G. Williams,DAL,MISS G. Williams 26' 3PT Jump Shot,Missed Shot,Jump Shot,-140,217,26,1,3.0,0.0,h
+S2324-G0611,2,10:33,DAL,,BOS,,G. Williams,DAL,MISS G. Williams 26' 3PT Jump Shot,Missed Shot,Jump Shot,152,206,26,1,3.0,0.0,h
+S2324-G0611,2,08:47,DAL,,BOS,,G. Williams,DAL,SUB: Kleber FOR G. Williams,Substitution,,0,0,0,0,,,h
+S2324-G0611,2,01:38,DAL,,BOS,,G. Williams,DAL,G. Williams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0611,2,00:01.800000,DAL,,BOS,,G. Williams,DAL,G. Williams REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0611,2,00:00.500000,DAL,,BOS,,G. Williams,DAL,MISS G. Williams 45' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-99,443,45,1,3.0,0.0,h
+S2324-G0611,3,07:12,DAL,66.0,BOS,79.0,G. Williams,DAL,G. Williams 2' Layup (2 PTS) (Doncic 7 AST),Made Shot,Layup Shot,-17,16,2,1,2.0,2.0,h
+S2324-G0611,3,03:02,DAL,,BOS,,G. Williams,DAL,G. Williams REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0611,3,02:13,DAL,,BOS,,G. Williams,DAL,G. Williams S.FOUL (P1.T4) (M.Smith),Foul,Shooting,0,0,0,0,,,h
+S2324-G0611,3,01:17,DAL,,BOS,,G. Williams,DAL,MISS G. Williams 26' 3PT Jump Shot,Missed Shot,Jump Shot,131,220,26,1,3.0,0.0,h
+S2324-G0147,1,11:47,ORL,0.0,DAL,3.0,G. Williams,DAL,Williams 26' 3PT Jump Shot (3 PTS) (Doncic 1 AST),Made Shot,Jump Shot,208,162,26,1,3.0,3.0,v
+S2324-G0147,1,09:48,ORL,,DAL,,G. Williams,DAL,Williams P.FOUL (P1.T1) (S.Foster),Foul,Personal,0,0,0,0,,,v
+S2324-G0147,1,07:40,ORL,6.0,DAL,11.0,G. Williams,DAL,Williams 1' Running Layup (5 PTS),Made Shot,Running Layup Shot,2,12,1,1,2.0,2.0,v
+S2324-G0147,1,07:10,ORL,,DAL,,G. Williams,DAL,MISS Williams 27' 3PT Jump Shot,Missed Shot,Jump Shot,-1,267,27,1,3.0,0.0,v
+S2324-G0147,1,05:47,ORL,14.0,DAL,14.0,G. Williams,DAL,Williams 24' 3PT Jump Shot (8 PTS) (Doncic 2 AST),Made Shot,Jump Shot,222,84,24,1,3.0,3.0,v
+S2324-G0147,1,03:59,ORL,,DAL,,G. Williams,DAL,SUB: Jones Jr. FOR Williams,Substitution,,0,0,0,0,,,v
+S2324-G0147,2,04:10,ORL,53.0,DAL,47.0,G. Williams,DAL,Williams 2' Cutting Layup Shot (10 PTS) (Irving 3 AST),Made Shot,Cutting Layup Shot,6,20,2,1,2.0,2.0,v
+S2324-G0147,2,02:03,ORL,,DAL,,G. Williams,DAL,MISS Williams 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,36,24,1,3.0,0.0,v
+S2324-G0147,3,10:12,ORL,,DAL,,G. Williams,DAL,Williams REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0147,3,06:10,ORL,,DAL,,G. Williams,DAL,MISS Williams 3' Driving Layup,Missed Shot,Driving Layup Shot,-1,25,3,1,2.0,0.0,v
+S2324-G0147,3,03:40,ORL,,DAL,,G. Williams,DAL,SUB: Jones Jr. FOR Williams,Substitution,,0,0,0,0,,,v
+S2324-G0147,4,11:23,ORL,84.0,DAL,88.0,G. Williams,DAL,Williams 20' Layup (12 PTS) (Doncic 4 AST),Made Shot,Layup Shot,72,184,20,1,2.0,2.0,v
+S2324-G0147,4,11:23,ORL,,DAL,,G. Williams,DAL,MISS Williams Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2324-G0147,4,09:26,ORL,,DAL,,G. Williams,DAL,Williams L.B.FOUL (P2.T3) (N.Buchert),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0147,4,08:36,ORL,,DAL,,G. Williams,DAL,SUB: Powell FOR Williams,Substitution,,0,0,0,0,,,v
+S2324-G0147,4,05:44,ORL,95.0,DAL,99.0,G. Williams,DAL,Williams Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0147,4,05:44,ORL,,DAL,,G. Williams,DAL,MISS Williams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0147,4,01:22,ORL,,DAL,,G. Williams,DAL,MISS Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,-246,38,25,1,3.0,0.0,v
+S2324-G0147,4,00:44.800000,ORL,,DAL,,G. Williams,DAL,Williams BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0147,4,00:41.300000,ORL,,DAL,,G. Williams,DAL,Williams REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0405,1,06:57,PHX,,DAL,,G. Williams,DAL,MISS Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,-175,178,25,1,3.0,0.0,v
+S2324-G0405,1,06:01,PHX,,DAL,,G. Williams,DAL,Williams Out of Bounds - Bad Pass Turnover Turnover (P1.T2),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0405,1,05:45,PHX,,DAL,,G. Williams,DAL,Williams BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0405,1,05:19,PHX,,DAL,,G. Williams,DAL,Williams P.FOUL (P1.T2) (J.Capers),Foul,Personal,0,0,0,0,,,v
+S2324-G0405,2,08:28,PHX,,DAL,,G. Williams,DAL,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0405,2,08:00,PHX,,DAL,,G. Williams,DAL,SUB: Lively II FOR Williams,Substitution,,0,0,0,0,,,v
+S2324-G0405,2,07:04,PHX,,DAL,,G. Williams,DAL,Williams L.B.FOUL (P2.T3) (J.Capers),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0405,2,05:32,PHX,,DAL,,G. Williams,DAL,SUB: Hardaway Jr. FOR Williams,Substitution,,0,0,0,0,,,v
+S2324-G0405,3,06:23,PHX,,DAL,,G. Williams,DAL,Williams BLOCK (2 BLK),,,0,0,0,0,,,v
+S2324-G0405,3,06:22,PHX,,DAL,,G. Williams,DAL,Williams REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0405,3,05:57,PHX,,DAL,,G. Williams,DAL,Williams REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0405,3,03:05,PHX,,DAL,,G. Williams,DAL,MISS Williams 27' 3PT Jump Shot,Missed Shot,Jump Shot,-61,259,27,1,3.0,0.0,v
+S2324-G0405,3,01:58,PHX,,DAL,,G. Williams,DAL,Williams BLOCK (3 BLK),,,0,0,0,0,,,v
+S2324-G0405,3,01:37,PHX,89.0,DAL,85.0,G. Williams,DAL,Williams Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0405,3,01:37,PHX,,DAL,,G. Williams,DAL,MISS Williams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0405,3,01:25,PHX,,DAL,,G. Williams,DAL,Williams P.FOUL (P3.PN) (K.Cutler),Foul,Personal,0,0,0,0,,,v
+S2324-G0405,3,01:25,PHX,,DAL,,G. Williams,DAL,"Double Technical - Williams, Booker (J.Capers)",Foul,Double Technical,0,0,0,0,,,
+S2324-G0405,3,01:10,PHX,,DAL,,G. Williams,DAL,Williams OFF.Foul (P4) (K.Cutler),Foul,Offensive,0,0,0,0,,,v
+S2324-G0405,3,01:10,PHX,,DAL,,G. Williams,DAL,Williams Offensive Foul Turnover (P2.T8),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0405,4,09:38,PHX,100.0,DAL,98.0,G. Williams,DAL,Williams 11' Fadeaway Jumper (3 PTS) (Doncic 11 AST),Made Shot,Fadeaway Jump Shot,-12,113,11,1,2.0,2.0,v
+S2324-G0405,4,09:24,PHX,,DAL,,G. Williams,DAL,SUB: Jones Jr. FOR Williams,Substitution,,0,0,0,0,,,v
+S2324-G0556,1,03:37,DAL,21.0,NOP,7.0,G. Williams,DAL,G. Williams Driving Dunk (2 PTS) (Irving 1 AST),Made Shot,Driving Dunk Shot,-2,3,0,1,2.0,2.0,h
+S2324-G0556,1,02:29,DAL,,NOP,,G. Williams,DAL,G. Williams P.FOUL (P1.PN) (S.Wall),Foul,Personal,0,0,0,0,,,h
+S2324-G0556,1,00:42.500000,DAL,,NOP,,G. Williams,DAL,G. Williams STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0556,1,00:36.100000,DAL,,NOP,,G. Williams,DAL,Jump Ball G. Williams vs. Daniels: Tip to Hardaway Jr.,Jump Ball,,0,0,0,0,,,h
+S2324-G0556,1,00:15.900000,DAL,,NOP,,G. Williams,DAL,G. Williams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0556,2,07:14,DAL,,NOP,,G. Williams,DAL,MISS G. Williams 3' Driving Layup,Missed Shot,Driving Layup Shot,-27,14,3,1,2.0,0.0,h
+S2324-G0556,2,06:14,DAL,,NOP,,G. Williams,DAL,G. Williams S.FOUL (P2.T4) (K.Lane),Foul,Shooting,0,0,0,0,,,h
+S2324-G0556,2,05:10,DAL,,NOP,,G. Williams,DAL,MISS G. Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,141,209,25,1,3.0,0.0,h
+S2324-G0556,2,03:24,DAL,,NOP,,G. Williams,DAL,G. Williams P.FOUL (P3.PN) (G.Petraitis),Foul,Personal,0,0,0,0,,,h
+S2324-G0556,2,03:24,DAL,,NOP,,G. Williams,DAL,SUB: Hardy FOR G. Williams,Substitution,,0,0,0,0,,,h
+S2324-G0556,3,02:43,DAL,86.0,NOP,91.0,G. Williams,DAL,G. Williams 2' Driving Layup (4 PTS) (Irving 5 AST),Made Shot,Driving Layup Shot,-12,18,2,1,2.0,2.0,h
+S2324-G0556,3,02:07,DAL,,NOP,,G. Williams,DAL,G. Williams STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0556,4,11:38,DAL,,NOP,,G. Williams,DAL,Jump Ball G. Williams vs. Williamson: Tip to Green,Jump Ball,,0,0,0,0,,,h
+S2324-G0556,4,09:31,DAL,,NOP,,G. Williams,DAL,G. Williams S.FOUL (P4.T1) (S.Wall),Foul,Shooting,0,0,0,0,,,h
+S2324-G0556,4,07:02,DAL,,NOP,,G. Williams,DAL,MISS G. Williams 26' 3PT Jump Shot,Missed Shot,Jump Shot,-168,200,26,1,3.0,0.0,h
+S2324-G0556,4,06:48,DAL,,NOP,,G. Williams,DAL,G. Williams REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0556,4,06:32,DAL,,NOP,,G. Williams,DAL,SUB: Lively II FOR G. Williams,Substitution,,0,0,0,0,,,h
+S2324-G0556,4,05:25,DAL,,NOP,,G. Williams,DAL,G. Williams REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0556,4,04:35,DAL,,NOP,,G. Williams,DAL,G. Williams STEAL (3 STL),,,0,0,0,0,,,h
+S2324-G0556,4,03:29,DAL,115.0,NOP,111.0,G. Williams,DAL,G. Williams 27' 3PT Jump Shot (7 PTS) (Hardaway Jr. 2 AST),Made Shot,Jump Shot,75,264,27,1,3.0,3.0,h
+S2324-G0556,4,01:22,DAL,,NOP,,G. Williams,DAL,G. Williams S.FOUL (P5.T3) (G.Petraitis),Foul,Shooting,0,0,0,0,,,h
+S2324-G0556,4,00:20.600000,DAL,,NOP,,G. Williams,DAL,MISS G. Williams 26' 3PT Jump Shot,Missed Shot,Jump Shot,-114,232,26,1,3.0,0.0,h
+S2324-G0556,4,00:17.700000,DAL,,NOP,,G. Williams,DAL,SUB: Lively II FOR G. Williams,Substitution,,0,0,0,0,,,h
+S2324-G0106,1,11:34,MEM,,DAL,,G. Williams,DAL,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0106,1,10:09,MEM,1.0,DAL,3.0,G. Williams,DAL,Williams 26' 3PT Jump Shot (3 PTS) (Doncic 1 AST),Made Shot,Jump Shot,-78,243,26,1,3.0,3.0,v
+S2324-G0106,1,09:21,MEM,6.0,DAL,8.0,G. Williams,DAL,Williams 3PT Pullup Jump Shot (6 PTS) (Green 1 AST),Made Shot,Pullup Jump shot,225,59,0,1,3.0,3.0,v
+S2324-G0106,1,08:55,MEM,,DAL,,G. Williams,DAL,MISS Williams 26' 3PT Jump Shot,Missed Shot,Jump Shot,-81,244,26,1,3.0,0.0,v
+S2324-G0106,1,08:48,MEM,6.0,DAL,11.0,G. Williams,DAL,Williams 26' 3PT Jump Shot (9 PTS) (Doncic 2 AST),Made Shot,Jump Shot,-145,221,26,1,3.0,3.0,v
+S2324-G0106,1,04:30,MEM,,DAL,,G. Williams,DAL,SUB: Green FOR Williams,Substitution,,0,0,0,0,,,v
+S2324-G0106,2,06:20,MEM,,DAL,,G. Williams,DAL,Williams REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0106,2,05:59,MEM,42.0,DAL,48.0,G. Williams,DAL,Williams 25' 3PT Jump Shot (12 PTS) (Curry 2 AST),Made Shot,Jump Shot,-143,209,25,1,3.0,3.0,v
+S2324-G0106,2,04:36,MEM,,DAL,,G. Williams,DAL,Williams Lost Ball Turnover (P1.T7),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0106,3,10:02,MEM,,DAL,,G. Williams,DAL,Williams REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0106,3,09:31,MEM,,DAL,,G. Williams,DAL,Williams S.FOUL (P1.T2) (E.Dalen),Foul,Shooting,0,0,0,0,,,v
+S2324-G0106,3,07:26,MEM,,DAL,,G. Williams,DAL,MISS Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,53,248,25,1,3.0,0.0,v
+S2324-G0106,3,06:34,MEM,,DAL,,G. Williams,DAL,MISS Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,-119,222,25,1,3.0,0.0,v
+S2324-G0106,3,03:28,MEM,,DAL,,G. Williams,DAL,MISS Williams 26' 3PT Jump Shot,Missed Shot,Jump Shot,146,211,26,1,3.0,0.0,v
+S2324-G0106,3,01:45,MEM,84.0,DAL,92.0,G. Williams,DAL,Williams Free Throw Flagrant 1 of 2 (13 PTS),Free Throw,Free Throw Flagrant 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0106,3,01:45,MEM,84.0,DAL,93.0,G. Williams,DAL,Williams Free Throw Flagrant 2 of 2 (14 PTS),Free Throw,Free Throw Flagrant 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0106,3,01:45,MEM,,DAL,,G. Williams,DAL,SUB: Green FOR Williams,Substitution,,0,0,0,0,,,v
+S2324-G0106,4,01:23,MEM,,DAL,,G. Williams,DAL,MISS Williams Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0106,4,01:23,MEM,110.0,DAL,121.0,G. Williams,DAL,Williams Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0385,1,10:30,HOU,,DAL,,G. Williams,DAL,MISS Williams 28' 3PT Jump Shot,Missed Shot,Jump Shot,185,204,28,1,3.0,0.0,v
+S2324-G0385,1,08:21,HOU,,DAL,,G. Williams,DAL,Williams S.FOUL (P1.T1) (K.Lane),Foul,Shooting,0,0,0,0,,,v
+S2324-G0385,1,07:43,HOU,,DAL,,G. Williams,DAL,SUB: Powell FOR Williams,Substitution,,0,0,0,0,,,v
+S2324-G0385,2,09:19,HOU,,DAL,,G. Williams,DAL,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0385,2,09:17,HOU,,DAL,,G. Williams,DAL,MISS Williams 9' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,15,84,9,1,2.0,0.0,v
+S2324-G0385,2,07:36,HOU,,DAL,,G. Williams,DAL,Williams REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0385,2,07:16,HOU,,DAL,,G. Williams,DAL,Williams STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0385,2,05:39,HOU,,DAL,,G. Williams,DAL,SUB: Hardy FOR Williams,Substitution,,0,0,0,0,,,v
+S2324-G0385,3,03:36,HOU,,DAL,,G. Williams,DAL,Williams BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0385,3,02:56,HOU,,DAL,,G. Williams,DAL,MISS Williams 3PT Jump Shot,Missed Shot,Jump Shot,224,0,0,1,3.0,0.0,v
+S2324-G0385,3,01:56,HOU,,DAL,,G. Williams,DAL,Williams REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0385,3,01:16,HOU,,DAL,,G. Williams,DAL,MISS Williams 27' 3PT Jump Shot,Missed Shot,Jump Shot,42,263,27,1,3.0,0.0,v
+S2324-G0385,3,00:06.300000,HOU,,DAL,,G. Williams,DAL,Williams STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0385,4,11:36,HOU,,DAL,,G. Williams,DAL,MISS Williams 5' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-28,39,5,1,2.0,0.0,v
+S2324-G0385,4,10:41,HOU,,DAL,,G. Williams,DAL,Williams S.FOUL (P2.T1) (K.Lane),Foul,Shooting,0,0,0,0,,,v
+S2324-G0385,4,10:41,HOU,,DAL,,G. Williams,DAL,Williams REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0385,4,08:55,HOU,,DAL,,G. Williams,DAL,SUB: Brown III FOR Williams,Substitution,,0,0,0,0,,,v
+S2324-G0501,1,02:17,DAL,,MIN,,G. Williams,DAL,G. Williams OFF.Foul (P1) (S.Twardoski),Foul,Offensive,0,0,0,0,,,h
+S2324-G0501,1,02:17,DAL,,MIN,,G. Williams,DAL,G. Williams Offensive Foul Turnover (P1.T1),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0501,1,01:21,DAL,29.0,MIN,28.0,G. Williams,DAL,G. Williams Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0501,1,01:21,DAL,30.0,MIN,28.0,G. Williams,DAL,G. Williams Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0501,1,01:04,DAL,,MIN,,G. Williams,DAL,SUB: Powell FOR G. Williams,Substitution,,0,0,0,0,,,h
+S2324-G0501,2,06:27,DAL,,MIN,,G. Williams,DAL,G. Williams BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0501,2,05:52,DAL,,MIN,,G. Williams,DAL,G. Williams Out of Bounds - Bad Pass Turnover Turnover (P2.T4),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G0501,2,04:49,DAL,50.0,MIN,46.0,G. Williams,DAL,G. Williams 25' 3PT Jump Shot (5 PTS) (Doncic 2 AST),Made Shot,Jump Shot,82,237,25,1,3.0,3.0,h
+S2324-G0501,2,03:08,DAL,,MIN,,G. Williams,DAL,G. Williams BLOCK (2 BLK),,,0,0,0,0,,,h
+S2324-G0501,2,02:59,DAL,,MIN,,G. Williams,DAL,G. Williams S.FOUL (P2.PN) (S.Twardoski),Foul,Shooting,0,0,0,0,,,h
+S2324-G0501,2,00:02.700000,DAL,60.0,MIN,56.0,G. Williams,DAL,G. Williams 1' Layup (7 PTS) (Doncic 3 AST),Made Shot,Layup Shot,-5,11,1,1,2.0,2.0,h
+S2324-G0501,3,04:09,DAL,,MIN,,G. Williams,DAL,MISS G. Williams 26' 3PT Jump Shot,Missed Shot,Jump Shot,-191,172,26,1,3.0,0.0,h
+S2324-G0501,3,02:43,DAL,,MIN,,G. Williams,DAL,G. Williams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0501,3,02:01,DAL,,MIN,,G. Williams,DAL,G. Williams Out of Bounds - Bad Pass Turnover Turnover (P3.T8),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G0501,3,01:13,DAL,,MIN,,G. Williams,DAL,G. Williams REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0501,4,06:33,DAL,100.0,MIN,95.0,G. Williams,DAL,G. Williams 2' Driving Layup (9 PTS) (Irving 5 AST),Made Shot,Driving Layup Shot,-9,14,2,1,2.0,2.0,h
+S2324-G0501,4,06:03,DAL,,MIN,,G. Williams,DAL,MISS G. Williams 3PT Jump Shot,Missed Shot,Jump Shot,223,22,0,1,3.0,0.0,h
+S2324-G0501,4,04:55,DAL,,MIN,,G. Williams,DAL,G. Williams S.FOUL (P3.T2) (S.Twardoski),Foul,Shooting,0,0,0,0,,,h
+S2324-G0501,4,04:37,DAL,,MIN,,G. Williams,DAL,SUB: Powell FOR G. Williams,Substitution,,0,0,0,0,,,h
+S2324-G0501,4,03:12,DAL,,MIN,,G. Williams,DAL,SUB: Doncic FOR G. Williams,Substitution,,0,0,0,0,,,h
+S2324-G0014,1,11:05,DAL,,LAC,,G. Williams,DAL,MISS Williams 24' 3PT Jump Shot,Missed Shot,Jump Shot,-237,15,24,1,3.0,0.0,h
+S2324-G0014,1,09:28,DAL,,LAC,,G. Williams,DAL,Williams Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0014,1,09:18,DAL,,LAC,,G. Williams,DAL,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0014,1,09:02,DAL,,LAC,,G. Williams,DAL,Williams S.FOUL (P1.T4) (M.Lindsay),Foul,Shooting,0,0,0,0,,,h
+S2324-G0014,1,04:23,DAL,,LAC,,G. Williams,DAL,Williams S.FOUL (P2.PN) (T.Maddox),Foul,Shooting,0,0,0,0,,,h
+S2324-G0014,1,04:23,DAL,,LAC,,G. Williams,DAL,SUB: Prosper FOR Williams,Substitution,,0,0,0,0,,,h
+S2324-G0014,2,05:24,DAL,56.0,LAC,37.0,G. Williams,DAL,Williams 10' Jump Shot (2 PTS),Made Shot,Jump Shot,-60,82,10,1,2.0,2.0,h
+S2324-G0014,2,02:23,DAL,,LAC,,G. Williams,DAL,SUB: Jones Jr. FOR Williams,Substitution,,0,0,0,0,,,h
+S2324-G0014,3,09:18,DAL,,LAC,,G. Williams,DAL,Williams REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0014,3,08:34,DAL,,LAC,,G. Williams,DAL,Williams S.FOUL (P3.T1) (M.Lindsay),Foul,Shooting,0,0,0,0,,,h
+S2324-G0014,3,07:23,DAL,,LAC,,G. Williams,DAL,Williams S.FOUL (P4.T2) (M.Lindsay),Foul,Shooting,0,0,0,0,,,h
+S2324-G0014,3,07:23,DAL,,LAC,,G. Williams,DAL,SUB: Hardaway Jr. FOR Williams,Substitution,,0,0,0,0,,,h
+S2324-G0444,1,01:47,GSW,,DAL,,G. Williams,DAL,G. Williams REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0444,1,01:46,GSW,22.0,DAL,34.0,G. Williams,DAL,G. Williams 5' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,48,8,5,1,2.0,2.0,v
+S2324-G0444,2,09:48,GSW,,DAL,,G. Williams,DAL,G. Williams REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0444,2,09:23,GSW,33.0,DAL,39.0,G. Williams,DAL,G. Williams 3PT Running Jump Shot (5 PTS) (Hardaway Jr. 1 AST),Made Shot,Running Jump Shot,-230,14,0,1,3.0,3.0,v
+S2324-G0444,2,08:25,GSW,33.0,DAL,45.0,G. Williams,DAL,G. Williams 25' 3PT Running Jump Shot (8 PTS) (Exum 4 AST),Made Shot,Running Jump Shot,176,184,25,1,3.0,3.0,v
+S2324-G0444,2,07:27,GSW,,DAL,,G. Williams,DAL,G. Williams REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0444,2,06:52,GSW,,DAL,,G. Williams,DAL,G. Williams REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0444,2,06:36,GSW,,DAL,,G. Williams,DAL,G. Williams STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0444,2,05:20,GSW,,DAL,,G. Williams,DAL,G. Williams REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0444,2,05:03,GSW,,DAL,,G. Williams,DAL,SUB: Green FOR G. Williams,Substitution,,0,0,0,0,,,v
+S2324-G0444,3,02:07,GSW,,DAL,,G. Williams,DAL,G. Williams S.FOUL (P1.PN) (S.Wall),Foul,Shooting,0,0,0,0,,,v
+S2324-G0444,3,01:44,GSW,83.0,DAL,98.0,G. Williams,DAL,G. Williams Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0444,3,01:44,GSW,83.0,DAL,99.0,G. Williams,DAL,G. Williams Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0444,4,10:19,GSW,,DAL,,G. Williams,DAL,G. Williams REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0444,4,08:28,GSW,,DAL,,G. Williams,DAL,SUB: Doncic FOR G. Williams,Substitution,,0,0,0,0,,,v
+S2324-G0192,1,10:30,WAS,,DAL,,G. Williams,DAL,MISS Williams 3PT Jump Shot,Missed Shot,Jump Shot,221,-6,0,1,3.0,0.0,v
+S2324-G0192,1,10:28,WAS,,DAL,,G. Williams,DAL,Williams REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0192,1,10:27,WAS,4.0,DAL,5.0,G. Williams,DAL,Williams 2' Dunk (2 PTS),Made Shot,Dunk Shot,15,8,2,1,2.0,2.0,v
+S2324-G0192,1,02:35,WAS,,DAL,,G. Williams,DAL,SUB: Jones Jr. FOR Williams,Substitution,,0,0,0,0,,,v
+S2324-G0192,2,11:21,WAS,,DAL,,G. Williams,DAL,MISS Williams 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,170,199,26,1,3.0,0.0,v
+S2324-G0192,2,10:54,WAS,,DAL,,G. Williams,DAL,Williams STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0192,2,09:29,WAS,,DAL,,G. Williams,DAL,Williams S.FOUL (P1.T1) (B.Kennedy),Foul,Shooting,0,0,0,0,,,v
+S2324-G0192,2,08:17,WAS,,DAL,,G. Williams,DAL,Williams Out of Bounds Lost Ball Turnover (P1.T3),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2324-G0192,2,07:45,WAS,32.0,DAL,50.0,G. Williams,DAL,Williams 26' 3PT Jump Shot (5 PTS) (Doncic 4 AST),Made Shot,Jump Shot,-216,138,26,1,3.0,3.0,v
+S2324-G0192,2,07:18,WAS,,DAL,,G. Williams,DAL,Williams REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0192,2,05:27,WAS,,DAL,,G. Williams,DAL,SUB: Green FOR Williams,Substitution,,0,0,0,0,,,v
+S2324-G0192,3,11:42,WAS,51.0,DAL,74.0,G. Williams,DAL,Williams 27' 3PT Jump Shot (8 PTS) (Jones Jr. 1 AST),Made Shot,Jump Shot,240,125,27,1,3.0,3.0,v
+S2324-G0192,3,11:02,WAS,,DAL,,G. Williams,DAL,MISS Williams 7' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,6,70,7,1,2.0,0.0,v
+S2324-G0192,3,10:27,WAS,,DAL,,G. Williams,DAL,MISS Williams 8' Jump Shot,Missed Shot,Jump Shot,55,52,8,1,2.0,0.0,v
+S2324-G0192,3,10:02,WAS,,DAL,,G. Williams,DAL,MISS Williams 3PT Jump Shot,Missed Shot,Jump Shot,-230,-19,0,1,3.0,0.0,v
+S2324-G0192,3,07:36,WAS,,DAL,,G. Williams,DAL,MISS Williams 28' 3PT Jump Shot,Missed Shot,Jump Shot,-15,278,28,1,3.0,0.0,v
+S2324-G0192,3,06:50,WAS,,DAL,,G. Williams,DAL,Williams REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0192,3,05:00,WAS,,DAL,,G. Williams,DAL,MISS Williams 6' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-32,49,6,1,2.0,0.0,v
+S2324-G0192,3,02:34,WAS,,DAL,,G. Williams,DAL,SUB: Exum FOR Williams,Substitution,,0,0,0,0,,,v
+S2324-G0192,4,08:29,WAS,92.0,DAL,116.0,G. Williams,DAL,Williams 3' Layup (10 PTS) (Exum 3 AST),Made Shot,Layup Shot,20,20,3,1,2.0,2.0,v
+S2324-G0192,4,04:29,WAS,,DAL,,G. Williams,DAL,MISS Williams 3' Alley Oop Dunk,Missed Shot,Alley Oop Dunk Shot,-25,4,3,1,2.0,0.0,v
+S2324-G0192,4,01:53,WAS,,DAL,,G. Williams,DAL,MISS Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,-228,97,25,1,3.0,0.0,v
+S2324-G0192,4,01:47,WAS,,DAL,,G. Williams,DAL,SUB: Green FOR Williams,Substitution,,0,0,0,0,,,v
+S2324-G0720,1,02:50,BKN,,DAL,,G. Williams,DAL,MISS G. Williams 3PT Jump Shot,Missed Shot,Jump Shot,-228,-28,0,1,3.0,0.0,v
+S2324-G0720,1,00:47.900000,BKN,24.0,DAL,31.0,G. Williams,DAL,G. Williams 6' Driving Floating Jump Shot (2 PTS) (Doncic 4 AST),Made Shot,Driving Floating Jump Shot,23,58,6,1,2.0,2.0,v
+S2324-G0720,2,03:30,BKN,,DAL,,G. Williams,DAL,G. Williams BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0720,2,03:27,BKN,,DAL,,G. Williams,DAL,G. Williams STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0720,2,02:04,BKN,,DAL,,G. Williams,DAL,G. Williams Out of Bounds - Bad Pass Turnover Turnover (P1.T5),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0720,2,00:47.800000,BKN,,DAL,,G. Williams,DAL,G. Williams Step Out of Bounds Turnover (P2.T6),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2324-G0720,3,03:42,BKN,,DAL,,G. Williams,DAL,G. Williams REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0720,3,03:41,BKN,,DAL,,G. Williams,DAL,MISS G. Williams 3' Putback Layup,Missed Shot,Putback Layup Shot,11,26,3,1,2.0,0.0,v
+S2324-G0720,3,01:51,BKN,,DAL,,G. Williams,DAL,MISS G. Williams 3PT Jump Shot,Missed Shot,Jump Shot,-229,5,0,1,3.0,0.0,v
+S2324-G0720,3,01:07,BKN,75.0,DAL,89.0,G. Williams,DAL,G. Williams 3PT Jump Shot (5 PTS) (Kleber 2 AST),Made Shot,Jump Shot,230,-6,0,1,3.0,3.0,v
+S2324-G0720,4,05:22,BKN,,DAL,,G. Williams,DAL,G. Williams S.FOUL (P1.T2) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,v
+S2324-G0720,4,01:35,BKN,,DAL,,G. Williams,DAL,G. Williams Bad Pass Turnover (P3.T10),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0720,4,00:56,BKN,,DAL,,G. Williams,DAL,G. Williams REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0720,4,00:33.500000,BKN,,DAL,,G. Williams,DAL,G. Williams REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0059,1,11:04,DAL,,HOU,,G. Williams,DAL,Williams P.FOUL (P1.T1) (S.Foster),Foul,Personal,0,0,0,0,,,h
+S2324-G0059,1,08:25,DAL,,HOU,,G. Williams,DAL,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0059,1,07:40,DAL,,HOU,,G. Williams,DAL,MISS Williams 3' Driving Dunk,Missed Shot,Driving Dunk Shot,11,25,3,1,2.0,0.0,h
+S2324-G0059,1,07:02,DAL,,HOU,,G. Williams,DAL,MISS Williams 26' 3PT Jump Shot,Missed Shot,Jump Shot,113,230,26,1,3.0,0.0,h
+S2324-G0059,1,07:00,DAL,,HOU,,G. Williams,DAL,SUB: Hardaway Jr. FOR Williams,Substitution,,0,0,0,0,,,h
+S2324-G0059,2,10:58,DAL,,HOU,,G. Williams,DAL,Williams REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0059,2,08:16,DAL,,HOU,,G. Williams,DAL,Williams OFF.Foul (P2) (S.Foster),Foul,Offensive,0,0,0,0,,,h
+S2324-G0059,2,08:16,DAL,,HOU,,G. Williams,DAL,Williams Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0059,2,07:10,DAL,,HOU,,G. Williams,DAL,Williams REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0059,2,06:40,DAL,,HOU,,G. Williams,DAL,Williams OFF.Foul (P3) (N.Sago),Foul,Offensive,0,0,0,0,,,h
+S2324-G0059,2,06:40,DAL,,HOU,,G. Williams,DAL,Williams Offensive Foul Turnover (P2.T3),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0059,2,06:40,DAL,,HOU,,G. Williams,DAL,SUB: Exum FOR Williams,Substitution,,0,0,0,0,,,h
+S2324-G0059,3,10:26,DAL,,HOU,,G. Williams,DAL,MISS Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,-28,252,25,1,3.0,0.0,h
+S2324-G0059,3,09:08,DAL,,HOU,,G. Williams,DAL,SUB: Jones Jr. FOR Williams,Substitution,,0,0,0,0,,,h
+S2324-G0059,4,11:44,DAL,,HOU,,G. Williams,DAL,MISS Williams 3' Driving Layup,Missed Shot,Driving Layup Shot,25,17,3,1,2.0,0.0,h
+S2324-G0059,4,10:39,DAL,,HOU,,G. Williams,DAL,Williams REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0059,4,10:03,DAL,,HOU,,G. Williams,DAL,MISS Williams 26' 3PT Jump Shot,Missed Shot,Jump Shot,181,185,26,1,3.0,0.0,h
+S2324-G0059,4,09:06,DAL,,HOU,,G. Williams,DAL,Williams S.FOUL (P4.T4) (S.Foster),Foul,Shooting,0,0,0,0,,,h
+S2324-G0059,4,09:06,DAL,,HOU,,G. Williams,DAL,SUB: Lively II FOR Williams,Substitution,,0,0,0,0,,,h
+S2324-G0472,2,11:24,DAL,,POR,,G. Williams,DAL,G. Williams OFF.Foul (P1) (R.Acosta),Foul,Offensive,0,0,0,0,,,h
+S2324-G0472,2,11:24,DAL,,POR,,G. Williams,DAL,G. Williams Offensive Foul Turnover (P1.T3),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0472,2,09:56,DAL,,POR,,G. Williams,DAL,G. Williams REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0472,2,09:56,DAL,42.0,POR,29.0,G. Williams,DAL,G. Williams Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2324-G0472,2,08:07,DAL,,POR,,G. Williams,DAL,G. Williams S.FOUL (P2.T1) (R.Mott),Foul,Shooting,0,0,0,0,,,h
+S2324-G0472,2,07:46,DAL,,POR,,G. Williams,DAL,MISS G. Williams 6' Driving Layup,Missed Shot,Driving Layup Shot,55,10,6,1,2.0,0.0,h
+S2324-G0472,2,07:46,DAL,,POR,,G. Williams,DAL,SUB: Doncic FOR G. Williams,Substitution,,0,0,0,0,,,h
+S2324-G0472,2,05:57,DAL,,POR,,G. Williams,DAL,G. Williams T.FOUL (P2.T1) (R.Mott),Foul,Technical,0,0,0,0,,,h
+S2324-G0472,3,03:04,DAL,,POR,,G. Williams,DAL,G. Williams Lost Ball Turnover (P2.T8),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0472,3,02:10,DAL,,POR,,G. Williams,DAL,G. Williams REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0472,3,01:48,DAL,,POR,,G. Williams,DAL,G. Williams Lost Ball Turnover (P3.T9),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0472,4,10:52,DAL,,POR,,G. Williams,DAL,SUB: Hardy FOR G. Williams,Substitution,,0,0,0,0,,,h
+S2324-G0022,1,08:03,NOP,,,,G. Williams,DAL,Williams BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0022,1,07:26,NOP,,,,G. Williams,DAL,Williams Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0022,1,06:13,NOP,12.0,,10.0,G. Williams,DAL,Williams 26' 3PT Jump Shot (3 PTS) (Jones Jr. 1 AST),Made Shot,Jump Shot,-172,197,26,1,3.0,3.0,v
+S2324-G0022,1,05:32,NOP,,,,G. Williams,DAL,SUB: Green FOR Williams,Substitution,,0,0,0,0,,,v
+S2324-G0022,2,11:38,NOP,,,,G. Williams,DAL,Williams Bad Pass Turnover (P2.T8),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0022,2,10:21,NOP,37.0,,34.0,G. Williams,DAL,Williams 26' 3PT Jump Shot (6 PTS) (Green 2 AST),Made Shot,Jump Shot,-156,203,26,1,3.0,3.0,v
+S2324-G0022,2,09:38,NOP,,,,G. Williams,DAL,MISS Williams 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,163,216,27,1,3.0,0.0,v
+S2324-G0022,2,09:08,NOP,,,,G. Williams,DAL,MISS Williams 12' Fadeaway Bank Shot,Missed Shot,Fadeaway Bank shot,26,121,12,1,2.0,0.0,v
+S2324-G0022,2,08:05,NOP,,,,G. Williams,DAL,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0022,2,07:51,NOP,,,,G. Williams,DAL,SUB: Hardaway Jr. FOR Williams,Substitution,,0,0,0,0,,,v
+S2324-G0022,2,02:02,NOP,,,,G. Williams,DAL,MISS Williams Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0022,2,02:02,NOP,64.0,,47.0,G. Williams,DAL,Williams Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0022,3,05:45,NOP,,,,G. Williams,DAL,MISS Williams 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-48,101,11,1,2.0,0.0,v
+S2324-G0022,3,05:06,NOP,95.0,,75.0,G. Williams,DAL,Williams 25' 3PT Jump Shot (10 PTS) (Irving 5 AST),Made Shot,Jump Shot,-55,246,25,1,3.0,3.0,v
+S2324-G0022,3,02:11,NOP,,,,G. Williams,DAL,SUB: Exum FOR Williams,Substitution,,0,0,0,0,,,v
+S2324-G0577,1,03:05,LAL,,DAL,,G. Williams,DAL,G. Williams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0577,1,02:27,LAL,,DAL,,G. Williams,DAL,G. Williams L.B.FOUL (P1.T4) (S.Foster),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0577,2,11:40,LAL,,DAL,,G. Williams,DAL,MISS G. Williams 3PT Jump Shot,Missed Shot,Jump Shot,225,8,0,1,3.0,0.0,v
+S2324-G0577,2,11:23,LAL,,DAL,,G. Williams,DAL,MISS G. Williams 3PT Jump Shot,Missed Shot,Jump Shot,-230,26,0,1,3.0,0.0,v
+S2324-G0577,2,06:29,LAL,,DAL,,G. Williams,DAL,SUB: Kleber FOR G. Williams,Substitution,,0,0,0,0,,,v
+S2324-G0577,2,02:06,LAL,,DAL,,G. Williams,DAL,G. Williams S.FOUL (P2.T2) (N.Green),Foul,Shooting,0,0,0,0,,,v
+S2324-G0577,2,00:58.600000,LAL,55.0,DAL,50.0,G. Williams,DAL,G. Williams Free Throw Flagrant 1 of 2 (1 PTS),Free Throw,Free Throw Flagrant 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0577,2,00:58.600000,LAL,55.0,DAL,51.0,G. Williams,DAL,G. Williams Free Throw Flagrant 2 of 2 (2 PTS),Free Throw,Free Throw Flagrant 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0577,3,00:00,LAL,97.0,DAL,80.0,G. Williams,DAL,G. Williams 29' 3PT Jump Bank Shot (5 PTS) (Irving 5 AST),Made Shot,Jump Bank Shot,33,290,29,1,3.0,3.0,v
+S2324-G0577,4,10:50,LAL,,DAL,,G. Williams,DAL,G. Williams S.FOUL (P3.T2) (S.Foster),Foul,Shooting,0,0,0,0,,,v
+S2324-G0577,4,10:32,LAL,,DAL,,G. Williams,DAL,MISS G. Williams 27' 3PT Jump Shot,Missed Shot,Jump Shot,-148,224,27,1,3.0,0.0,v
+S2324-G0577,4,10:25,LAL,,DAL,,G. Williams,DAL,SUB: Doncic FOR G. Williams,Substitution,,0,0,0,0,,,v
+S2324-G0577,4,02:28,LAL,,DAL,,G. Williams,DAL,G. Williams REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0577,4,02:21,LAL,123.0,DAL,105.0,G. Williams,DAL,G. Williams 27' 3PT Running Jump Shot (8 PTS) (B. Williams 1 AST),Made Shot,Running Jump Shot,-69,256,27,1,3.0,3.0,v
+S2324-G0577,4,00:46.700000,LAL,,DAL,,G. Williams,DAL,G. Williams REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0577,4,00:37.700000,LAL,,DAL,,G. Williams,DAL,MISS G. Williams 29' 3PT Jump Shot,Missed Shot,Jump Shot,65,282,29,1,3.0,0.0,v
+S2324-G0625,1,11:33,DAL,3.0,PHX,0.0,G. Williams,DAL,G. Williams 26' 3PT Jump Shot (3 PTS) (Green 1 AST),Made Shot,Jump Shot,-94,241,26,1,3.0,3.0,h
+S2324-G0625,1,10:23,DAL,6.0,PHX,2.0,G. Williams,DAL,G. Williams 3PT Jump Shot (6 PTS) (Jones Jr. 1 AST),Made Shot,Jump Shot,-229,-8,0,1,3.0,3.0,h
+S2324-G0625,1,10:03,DAL,,PHX,,G. Williams,DAL,MISS G. Williams 26' 3PT Jump Shot,Missed Shot,Jump Shot,-169,191,26,1,3.0,0.0,h
+S2324-G0625,1,09:19,DAL,10.0,PHX,5.0,G. Williams,DAL,G. Williams 5' Driving Floating Jump Shot (8 PTS) (Doncic 1 AST),Made Shot,Driving Floating Jump Shot,34,33,5,1,2.0,2.0,h
+S2324-G0625,1,08:36,DAL,,PHX,,G. Williams,DAL,G. Williams P.FOUL (P1.T2) (S.Corbin),Foul,Personal,0,0,0,0,,,h
+S2324-G0625,1,08:02,DAL,,PHX,,G. Williams,DAL,G. Williams P.FOUL (P2.T3) (S.Corbin),Foul,Personal,0,0,0,0,,,h
+S2324-G0625,1,08:02,DAL,,PHX,,G. Williams,DAL,SUB: Green FOR G. Williams,Substitution,,0,0,0,0,,,h
+S2324-G0625,2,09:36,DAL,,PHX,,G. Williams,DAL,G. Williams 3 Second Violation Turnover (P1.T5),Turnover,3 Second Violation,0,0,0,0,,,h
+S2324-G0625,2,09:02,DAL,,PHX,,G. Williams,DAL,MISS G. Williams 4' Layup,Missed Shot,Layup Shot,33,28,4,1,2.0,0.0,h
+S2324-G0625,2,07:47,DAL,,PHX,,G. Williams,DAL,G. Williams OFF.Foul (P3) (S.Corbin),Foul,Offensive,0,0,0,0,,,h
+S2324-G0625,2,07:47,DAL,,PHX,,G. Williams,DAL,G. Williams Offensive Foul Turnover (P2.T6),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0625,2,07:47,DAL,,PHX,,G. Williams,DAL,SUB: Jones Jr. FOR G. Williams,Substitution,,0,0,0,0,,,h
+S2324-G0625,3,11:20,DAL,,PHX,,G. Williams,DAL,MISS G. Williams 3PT Jump Shot,Missed Shot,Jump Shot,-232,17,0,1,3.0,0.0,h
+S2324-G0625,3,10:41,DAL,,PHX,,G. Williams,DAL,G. Williams Lost Ball Turnover (P3.T10),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0625,3,10:36,DAL,,PHX,,G. Williams,DAL,G. Williams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0625,3,08:46,DAL,,PHX,,G. Williams,DAL,G. Williams T.FOUL (P3.T1) (S.Corbin),Foul,Technical,0,0,0,0,,,h
+S2324-G0625,3,08:46,DAL,,PHX,,G. Williams,DAL,G. Williams Ejection:Other,Ejection,Other,0,0,0,0,,,h
+S2324-G0625,3,08:46,DAL,,PHX,,G. Williams,DAL,SUB: Hardaway Jr. FOR G. Williams,Substitution,,0,0,0,0,,,h
+S2324-G0306,1,10:10,DAL,6.0,LAL,4.0,G. Williams,DAL,Williams 8' Turnaround Fadeaway (2 PTS),Made Shot,Turnaround Fadeaway shot,-34,75,8,1,2.0,2.0,h
+S2324-G0306,1,08:42,DAL,10.0,LAL,8.0,G. Williams,DAL,Williams 25' 3PT Jump Shot (5 PTS) (Doncic 2 AST),Made Shot,Jump Shot,143,202,25,1,3.0,3.0,h
+S2324-G0306,1,04:30,DAL,,LAL,,G. Williams,DAL,SUB: Exum FOR Williams,Substitution,,0,0,0,0,,,h
+S2324-G0306,2,10:11,DAL,,LAL,,G. Williams,DAL,Williams S.FOUL (P1.T2) (B.Barnaky),Foul,Shooting,0,0,0,0,,,h
+S2324-G0306,2,09:09,DAL,,LAL,,G. Williams,DAL,Williams Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0306,2,07:18,DAL,,LAL,,G. Williams,DAL,Williams STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0306,2,06:13,DAL,49.0,LAL,41.0,G. Williams,DAL,Williams 3PT Jump Shot (8 PTS) (Doncic 6 AST),Made Shot,Jump Shot,-233,15,0,1,3.0,3.0,h
+S2324-G0306,2,05:19,DAL,,LAL,,G. Williams,DAL,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0306,2,03:39,DAL,58.0,LAL,48.0,G. Williams,DAL,Williams 5' Driving Layup (10 PTS) (Doncic 7 AST),Made Shot,Driving Layup Shot,4,47,5,1,2.0,2.0,h
+S2324-G0306,2,03:04,DAL,,LAL,,G. Williams,DAL,Williams S.FOUL (P2.PN) (C.Washington),Foul,Shooting,0,0,0,0,,,h
+S2324-G0306,2,00:53.600000,DAL,71.0,LAL,59.0,G. Williams,DAL,Williams 24' 3PT Jump Shot (13 PTS) (Holmes 2 AST),Made Shot,Jump Shot,-237,-5,24,1,3.0,3.0,h
+S2324-G0306,3,11:52,DAL,74.0,LAL,61.0,G. Williams,DAL,Williams 25' 3PT Jump Shot (16 PTS) (Exum 2 AST),Made Shot,Jump Shot,-170,189,25,1,3.0,3.0,h
+S2324-G0306,3,04:36,DAL,,LAL,,G. Williams,DAL,Williams REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0306,3,03:53,DAL,,LAL,,G. Williams,DAL,MISS Williams 3PT Jump Shot,Missed Shot,Jump Shot,-230,-2,0,1,3.0,0.0,h
+S2324-G0306,3,03:23,DAL,,LAL,,G. Williams,DAL,SUB: Morris FOR Williams,Substitution,,0,0,0,0,,,h
+S2324-G0306,4,11:04,DAL,96.0,LAL,97.0,G. Williams,DAL,Williams 3PT Jump Shot (19 PTS),Made Shot,Jump Shot,233,24,0,1,3.0,3.0,h
+S2324-G0306,4,05:37,DAL,,LAL,,G. Williams,DAL,Williams P.FOUL (P3.T2) (B.Barnaky),Foul,Personal,0,0,0,0,,,h
+S2324-G0306,4,04:22,DAL,,LAL,,G. Williams,DAL,Williams S.FOUL (P4.T3) (B.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2324-G0306,4,01:37,DAL,,LAL,,G. Williams,DAL,MISS Williams 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,37,24,1,3.0,0.0,h
+S2324-G0306,4,01:32,DAL,,LAL,,G. Williams,DAL,Williams REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0306,4,00:02.400000,DAL,,LAL,,G. Williams,DAL,SUB: Morris FOR Williams,Substitution,,0,0,0,0,,,h
+S2324-G0238,1,11:53,LAL,,DAL,,G. Williams,DAL,Williams P.FOUL (P1.T1) (D.Richardson),Foul,Personal,0,0,0,0,,,v
+S2324-G0238,1,08:22,LAL,,DAL,,G. Williams,DAL,MISS Williams 24' 3PT Jump Shot,Missed Shot,Jump Shot,235,34,24,1,3.0,0.0,v
+S2324-G0238,1,08:04,LAL,5.0,DAL,7.0,G. Williams,DAL,Williams 3PT Jump Shot (3 PTS) (Lively II 1 AST),Made Shot,Jump Shot,-230,43,0,1,3.0,3.0,v
+S2324-G0238,1,04:41,LAL,,DAL,,G. Williams,DAL,SUB: Exum FOR Williams,Substitution,,0,0,0,0,,,v
+S2324-G0238,2,04:34,LAL,,DAL,,G. Williams,DAL,MISS Williams 3PT Jump Shot,Missed Shot,Jump Shot,-227,44,0,1,3.0,0.0,v
+S2324-G0238,2,04:01,LAL,,DAL,,G. Williams,DAL,Williams BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0238,2,03:55,LAL,,DAL,,G. Williams,DAL,MISS Williams 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-183,176,25,1,3.0,0.0,v
+S2324-G0238,2,03:25,LAL,,DAL,,G. Williams,DAL,MISS Williams 3PT Jump Shot,Missed Shot,Jump Shot,-227,41,0,1,3.0,0.0,v
+S2324-G0238,2,01:27,LAL,,DAL,,G. Williams,DAL,Williams P.FOUL (P2.PN) (D.Richardson),Foul,Personal,0,0,0,0,,,v
+S2324-G0238,3,07:59,LAL,,DAL,,G. Williams,DAL,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0238,3,07:42,LAL,,DAL,,G. Williams,DAL,Williams REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0238,3,05:49,LAL,63.0,DAL,79.0,G. Williams,DAL,Williams 24' 3PT Jump Shot (6 PTS) (Hardaway Jr. 3 AST),Made Shot,Jump Shot,227,84,24,1,3.0,3.0,v
+S2324-G0238,3,04:52,LAL,,DAL,,G. Williams,DAL,Williams REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0238,3,03:46,LAL,,DAL,,G. Williams,DAL,SUB: Exum FOR Williams,Substitution,,0,0,0,0,,,v
+S2324-G0238,4,09:32,LAL,,DAL,,G. Williams,DAL,MISS Williams 24' 3PT Jump Shot,Missed Shot,Jump Shot,-237,62,24,1,3.0,0.0,v
+S2324-G0238,4,09:26,LAL,,DAL,,G. Williams,DAL,Williams P.FOUL (P3.T2) (M.Kogut),Foul,Personal,0,0,0,0,,,v
+S2324-G0238,4,08:59,LAL,,DAL,,G. Williams,DAL,MISS Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,-170,184,25,1,3.0,0.0,v
+S2324-G0238,4,03:46,LAL,,DAL,,G. Williams,DAL,Williams S.FOUL (P4.PN) (M.Kogut),Foul,Shooting,0,0,0,0,,,v
+S2324-G0238,4,01:32,LAL,,DAL,,G. Williams,DAL,MISS Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,227,101,25,1,3.0,0.0,v
+S2324-G0321,1,11:11,DAL,,MIN,,G. Williams,DAL,Williams STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0321,1,10:50,DAL,3.0,MIN,0.0,G. Williams,DAL,Williams 25' 3PT Jump Shot (3 PTS) (Doncic 1 AST),Made Shot,Jump Shot,96,232,25,1,3.0,3.0,h
+S2324-G0321,1,07:18,DAL,,MIN,,G. Williams,DAL,MISS Williams 3PT Jump Shot,Missed Shot,Jump Shot,-234,17,0,1,3.0,0.0,h
+S2324-G0321,1,06:13,DAL,,MIN,,G. Williams,DAL,MISS Williams 3PT Jump Shot,Missed Shot,Jump Shot,-232,-15,0,1,3.0,0.0,h
+S2324-G0321,1,05:40,DAL,,MIN,,G. Williams,DAL,MISS Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,-92,235,25,1,3.0,0.0,h
+S2324-G0321,1,05:28,DAL,,MIN,,G. Williams,DAL,Williams S.FOUL (P1.T2) (J.Goble),Foul,Shooting,0,0,0,0,,,h
+S2324-G0321,1,04:08,DAL,,MIN,,G. Williams,DAL,MISS Williams 28' 3PT Jump Shot,Missed Shot,Jump Shot,-40,273,28,1,3.0,0.0,h
+S2324-G0321,1,03:47,DAL,,MIN,,G. Williams,DAL,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0321,1,03:38,DAL,,MIN,,G. Williams,DAL,SUB: Morris FOR Williams,Substitution,,0,0,0,0,,,h
+S2324-G0321,2,11:13,DAL,,MIN,,G. Williams,DAL,Williams REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0321,2,07:22,DAL,,MIN,,G. Williams,DAL,MISS Williams 3PT Jump Shot,Missed Shot,Jump Shot,227,-9,0,1,3.0,0.0,h
+S2324-G0321,2,04:43,DAL,,MIN,,G. Williams,DAL,MISS Williams 5' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-9,47,5,1,2.0,0.0,h
+S2324-G0321,2,03:50,DAL,,MIN,,G. Williams,DAL,Williams P.FOUL (P2.T4) (B.Schwab),Foul,Personal,0,0,0,0,,,h
+S2324-G0321,3,09:20,DAL,66.0,MIN,64.0,G. Williams,DAL,Williams 2' Layup (5 PTS) (Exum 4 AST),Made Shot,Layup Shot,12,14,2,1,2.0,2.0,h
+S2324-G0321,3,07:57,DAL,,MIN,,G. Williams,DAL,MISS Williams 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,37,150,15,1,2.0,0.0,h
+S2324-G0321,3,07:12,DAL,,MIN,,G. Williams,DAL,SUB: Morris FOR Williams,Substitution,,0,0,0,0,,,h
+S2324-G0321,3,01:52,DAL,,MIN,,G. Williams,DAL,MISS Williams 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,85,188,21,1,2.0,0.0,h
+S2324-G0321,3,00:18.800000,DAL,,MIN,,G. Williams,DAL,MISS Williams 26' 3PT Jump Shot,Missed Shot,Jump Shot,85,242,26,1,3.0,0.0,h
+S2324-G0321,4,09:29,DAL,,MIN,,G. Williams,DAL,SUB: Morris FOR Williams,Substitution,,0,0,0,0,,,h
+S2324-G0321,4,05:47,DAL,,MIN,,G. Williams,DAL,Williams S.FOUL (P3.T2) (C.Blair),Foul,Shooting,0,0,0,0,,,h
+S2324-G0321,4,03:32,DAL,,MIN,,G. Williams,DAL,Williams REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0321,4,03:32,DAL,,MIN,,G. Williams,DAL,Williams Out of Bounds Lost Ball Turnover (P1.T16),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2324-G0321,4,01:46,DAL,,MIN,,G. Williams,DAL,SUB: Lawson FOR Williams,Substitution,,0,0,0,0,,,h
+S2324-G0634,1,07:08,ATL,,DAL,,G. Williams,DAL,SUB: Exum FOR G. Williams,Substitution,,0,0,0,0,,,v
+S2324-G0634,1,06:32,ATL,,DAL,,G. Williams,DAL,G. Williams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0634,1,06:20,ATL,12.0,DAL,18.0,G. Williams,DAL,G. Williams 1' Driving Layup (2 PTS) (Exum 1 AST),Made Shot,Driving Layup Shot,-1,10,1,1,2.0,2.0,v
+S2324-G0634,1,02:06,ATL,,DAL,,G. Williams,DAL,MISS G. Williams 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,12,85,9,1,2.0,0.0,v
+S2324-G0634,1,01:57,ATL,,DAL,,G. Williams,DAL,G. Williams S.FOUL (P1.T4) (T.Ford),Foul,Shooting,0,0,0,0,,,v
+S2324-G0634,2,04:28,ATL,,DAL,,G. Williams,DAL,G. Williams REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0634,2,03:32,ATL,,DAL,,G. Williams,DAL,G. Williams S.FOUL (P2.T3) (P.Ransom),Foul,Shooting,0,0,0,0,,,v
+S2324-G0634,2,02:15,ATL,,DAL,,G. Williams,DAL,MISS G. Williams 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,27,24,1,3.0,0.0,v
+S2324-G0634,3,10:47,ATL,70.0,DAL,71.0,G. Williams,DAL,G. Williams 10' Driving Floating Jump Shot (4 PTS) (Doncic 5 AST),Made Shot,Driving Floating Jump Shot,-21,101,10,1,2.0,2.0,v
+S2324-G0634,3,08:59,ATL,72.0,DAL,75.0,G. Williams,DAL,G. Williams Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0634,3,08:59,ATL,72.0,DAL,76.0,G. Williams,DAL,G. Williams Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0634,3,08:42,ATL,,DAL,,G. Williams,DAL,G. Williams REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0634,3,07:22,ATL,,DAL,,G. Williams,DAL,G. Williams REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0634,3,06:19,ATL,,DAL,,G. Williams,DAL,G. Williams REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0634,3,06:09,ATL,,DAL,,G. Williams,DAL,MISS G. Williams 26' 3PT Jump Shot,Missed Shot,Jump Shot,-126,226,26,1,3.0,0.0,v
+S2324-G0634,3,05:25,ATL,,DAL,,G. Williams,DAL,SUB: Green FOR G. Williams,Substitution,,0,0,0,0,,,v
+S2324-G0634,4,11:47,ATL,,DAL,,G. Williams,DAL,G. Williams S.FOUL (P3.T1) (M.Kallio),Foul,Shooting,0,0,0,0,,,v
+S2324-G0634,4,08:53,ATL,109.0,DAL,120.0,G. Williams,DAL,G. Williams 24' 3PT Jump Shot (9 PTS) (Exum 3 AST),Made Shot,Jump Shot,-237,-1,24,1,3.0,3.0,v
+S2324-G0634,4,08:21,ATL,,DAL,,G. Williams,DAL,G. Williams Offensive Charge Foul (P4) (M.Kallio),Foul,Offensive Charge,0,0,0,0,,,v
+S2324-G0634,4,08:21,ATL,,DAL,,G. Williams,DAL,G. Williams Offensive Foul Turnover (P1.T11),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0634,4,06:45,ATL,,DAL,,G. Williams,DAL,SUB: Exum FOR G. Williams,Substitution,,0,0,0,0,,,v
+S2324-G0073,1,10:22,SAS,,DAL,,G. Williams,DAL,MISS Williams 26' 3PT Jump Shot,Missed Shot,Jump Shot,-163,203,26,1,3.0,0.0,v
+S2324-G0073,1,08:12,SAS,,DAL,,G. Williams,DAL,Williams Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0073,1,06:54,SAS,,DAL,,G. Williams,DAL,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0073,1,04:04,SAS,,DAL,,G. Williams,DAL,SUB: Exum FOR Williams,Substitution,,0,0,0,0,,,v
+S2324-G0073,2,08:45,SAS,,DAL,,G. Williams,DAL,Williams S.FOUL (P1.T3) (D.Collins),Foul,Shooting,0,0,0,0,,,v
+S2324-G0073,2,08:27,SAS,,DAL,,G. Williams,DAL,MISS Williams 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,119,22,12,1,2.0,0.0,v
+S2324-G0073,2,07:54,SAS,,DAL,,G. Williams,DAL,Williams REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0073,2,06:42,SAS,,DAL,,G. Williams,DAL,Williams REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0073,2,06:09,SAS,52.0,DAL,52.0,G. Williams,DAL,Williams 3PT Jump Shot (3 PTS) (Irving 3 AST),Made Shot,Jump Shot,-229,-10,0,1,3.0,3.0,v
+S2324-G0073,2,05:19,SAS,,DAL,,G. Williams,DAL,Williams Bad Pass Turnover (P2.T6),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0073,2,02:31,SAS,,DAL,,G. Williams,DAL,Williams Traveling Turnover (P3.T8),Turnover,Traveling,0,0,0,0,,,v
+S2324-G0073,2,01:54,SAS,,DAL,,G. Williams,DAL,MISS Williams 24' 3PT Jump Shot,Missed Shot,Jump Shot,240,4,24,1,3.0,0.0,v
+S2324-G0073,2,00:40.200000,SAS,68.0,DAL,60.0,G. Williams,DAL,Williams 3' Running Layup (5 PTS) (Doncic 6 AST),Made Shot,Running Layup Shot,27,-4,3,1,2.0,2.0,v
+S2324-G0073,2,00:40.200000,SAS,68.0,DAL,61.0,G. Williams,DAL,Williams Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G0073,2,00:21.300000,SAS,68.0,DAL,64.0,G. Williams,DAL,Williams 3PT Jump Shot (9 PTS) (Hardaway Jr. 2 AST),Made Shot,Jump Shot,-224,29,0,1,3.0,3.0,v
+S2324-G0073,3,11:11,SAS,,DAL,,G. Williams,DAL,MISS Williams 24' 3PT Jump Shot,Missed Shot,Jump Shot,229,68,24,1,3.0,0.0,v
+S2324-G0073,3,10:37,SAS,,DAL,,G. Williams,DAL,Williams REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0073,3,06:43,SAS,,DAL,,G. Williams,DAL,MISS Williams 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,-1,24,1,3.0,0.0,v
+S2324-G0073,3,05:27,SAS,,DAL,,G. Williams,DAL,Williams L.B.FOUL (P2.T1) (T.Maddox),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0073,3,04:00,SAS,,DAL,,G. Williams,DAL,SUB: Kleber FOR Williams,Substitution,,0,0,0,0,,,v
+S2324-G0073,4,09:27,SAS,,DAL,,G. Williams,DAL,Williams S.FOUL (P3.T2) (T.Maddox),Foul,Shooting,0,0,0,0,,,v
+S2324-G0073,4,08:21,SAS,,DAL,,G. Williams,DAL,Williams REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0073,4,07:55,SAS,,DAL,,G. Williams,DAL,Williams P.FOUL (P4.T4) (D.Collins),Foul,Personal,0,0,0,0,,,v
+S2324-G0073,4,07:37,SAS,,DAL,,G. Williams,DAL,Williams REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0073,4,07:30,SAS,103.0,DAL,105.0,G. Williams,DAL,Williams 2' Layup (11 PTS) (Hardaway Jr. 3 AST),Made Shot,Layup Shot,-21,5,2,1,2.0,2.0,v
+S2324-G0073,4,07:14,SAS,103.0,DAL,108.0,G. Williams,DAL,Williams 27' 3PT Running Jump Shot (14 PTS) (Hardaway Jr. 4 AST),Made Shot,Running Jump Shot,-94,254,27,1,3.0,3.0,v
+S2324-G0073,4,04:12,SAS,113.0,DAL,115.0,G. Williams,DAL,Williams 24' 3PT Jump Shot (17 PTS) (Kleber 2 AST),Made Shot,Jump Shot,-235,-26,24,1,3.0,3.0,v
+S2324-G0073,4,00:17.300000,SAS,,DAL,,G. Williams,DAL,Williams BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0423,1,11:21,MIN,0.0,DAL,3.0,G. Williams,DAL,G. Williams 26' 3PT Jump Shot (3 PTS) (Exum 1 AST),Made Shot,Jump Shot,-138,215,26,1,3.0,3.0,v
+S2324-G0423,1,10:49,MIN,,DAL,,G. Williams,DAL,MISS G. Williams 26' 3PT Jump Shot,Missed Shot,Jump Shot,12,257,26,1,3.0,0.0,v
+S2324-G0423,1,07:14,MIN,,DAL,,G. Williams,DAL,MISS G. Williams 9' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-62,62,9,1,2.0,0.0,v
+S2324-G0423,1,05:43,MIN,,DAL,,G. Williams,DAL,G. Williams P.FOUL (P1.T3) (G.Petraitis),Foul,Personal,0,0,0,0,,,v
+S2324-G0423,1,03:26,MIN,,DAL,,G. Williams,DAL,SUB: Green FOR G. Williams,Substitution,,0,0,0,0,,,v
+S2324-G0423,2,10:58,MIN,37.0,DAL,28.0,G. Williams,DAL,G. Williams 2' Layup (5 PTS) (Exum 3 AST),Made Shot,Layup Shot,10,18,2,1,2.0,2.0,v
+S2324-G0423,2,05:50,MIN,,DAL,,G. Williams,DAL,G. Williams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0423,2,05:46,MIN,,DAL,,G. Williams,DAL,G. Williams Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0423,2,04:47,MIN,,DAL,,G. Williams,DAL,MISS G. Williams 7' Driving Hook Shot,Missed Shot,Driving Hook Shot,31,67,7,1,2.0,0.0,v
+S2324-G0423,2,04:38,MIN,,DAL,,G. Williams,DAL,SUB: Exum FOR G. Williams,Substitution,,0,0,0,0,,,v
+S2324-G0423,3,11:43,MIN,61.0,DAL,59.0,G. Williams,DAL,G. Williams 27' 3PT Jump Shot (8 PTS) (Exum 4 AST),Made Shot,Jump Shot,87,256,27,1,3.0,3.0,v
+S2324-G0423,3,10:07,MIN,,DAL,,G. Williams,DAL,MISS G. Williams 26' 3PT Jump Shot,Missed Shot,Jump Shot,142,220,26,1,3.0,0.0,v
+S2324-G0423,3,09:56,MIN,,DAL,,G. Williams,DAL,G. Williams S.FOUL (P2.PN) (J.Tiven),Foul,Shooting,0,0,0,0,,,v
+S2324-G0423,3,07:47,MIN,,DAL,,G. Williams,DAL,MISS G. Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,-192,163,25,1,3.0,0.0,v
+S2324-G0423,3,07:34,MIN,,DAL,,G. Williams,DAL,G. Williams REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0423,3,06:11,MIN,,DAL,,G. Williams,DAL,G. Williams STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0423,3,03:38,MIN,,DAL,,G. Williams,DAL,G. Williams S.FOUL (P3.PN) (G.Petraitis),Foul,Shooting,0,0,0,0,,,v
+S2324-G0423,3,03:23,MIN,,DAL,,G. Williams,DAL,G. Williams S.FOUL (P4.PN) (E.Scott),Foul,Shooting,0,0,0,0,,,v
+S2324-G0423,3,03:23,MIN,,DAL,,G. Williams,DAL,SUB: Jones Jr. FOR G. Williams,Substitution,,0,0,0,0,,,v
+S2324-G0423,4,08:22,MIN,,DAL,,G. Williams,DAL,G. Williams REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0423,4,05:21,MIN,,DAL,,G. Williams,DAL,G. Williams Lost Ball Turnover (P2.T16),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0423,4,04:53,MIN,,DAL,,G. Williams,DAL,MISS G. Williams 2' Driving Layup,Missed Shot,Driving Layup Shot,-13,14,2,1,2.0,0.0,v
+S2324-G0423,4,04:27,MIN,,DAL,,G. Williams,DAL,SUB: Jones Jr. FOR G. Williams,Substitution,,0,0,0,0,,,v
+S2324-G0287,1,11:14,DAL,,OKC,,G. Williams,DAL,Williams P.FOUL (P1.T2) (M.Ervin),Foul,Personal,0,0,0,0,,,h
+S2324-G0287,1,09:17,DAL,,OKC,,G. Williams,DAL,MISS Williams 3PT Jump Shot,Missed Shot,Jump Shot,-228,43,0,1,3.0,0.0,h
+S2324-G0287,1,06:56,DAL,,OKC,,G. Williams,DAL,Williams P.FOUL (P2.T4) (D.Richardson),Foul,Personal,0,0,0,0,,,h
+S2324-G0287,1,06:56,DAL,,OKC,,G. Williams,DAL,SUB: Prosper FOR Williams,Substitution,,0,0,0,0,,,h
+S2324-G0287,2,05:46,DAL,,OKC,,G. Williams,DAL,MISS Williams 26' 3PT Jump Shot,Missed Shot,Jump Shot,222,128,26,1,3.0,0.0,h
+S2324-G0287,2,02:12,DAL,48.0,OKC,67.0,G. Williams,DAL,Williams 2' Driving Layup (2 PTS) (Curry 2 AST),Made Shot,Driving Layup Shot,-16,13,2,1,2.0,2.0,h
+S2324-G0287,2,01:41,DAL,49.0,OKC,67.0,G. Williams,DAL,Williams Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0287,2,01:41,DAL,,OKC,,G. Williams,DAL,MISS Williams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0287,2,00:06.100000,DAL,,OKC,,G. Williams,DAL,MISS Williams 3PT Jump Shot,Missed Shot,Jump Shot,-228,29,0,1,3.0,0.0,h
+S2324-G0287,3,09:51,DAL,,OKC,,G. Williams,DAL,MISS Williams 3PT Jump Shot,Missed Shot,Jump Shot,-230,27,0,1,3.0,0.0,h
+S2324-G0287,3,08:40,DAL,,OKC,,G. Williams,DAL,MISS Williams 3' Running Layup,Missed Shot,Running Layup Shot,-1,31,3,1,2.0,0.0,h
+S2324-G0287,3,06:00,DAL,,OKC,,G. Williams,DAL,Williams REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0287,3,05:20,DAL,70.0,OKC,87.0,G. Williams,DAL,Williams Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0287,3,05:20,DAL,71.0,OKC,87.0,G. Williams,DAL,Williams Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0287,3,03:36,DAL,,OKC,,G. Williams,DAL,Williams P.FOUL (P3.T1) (P.Fraher),Foul,Personal,0,0,0,0,,,h
+S2324-G0680,1,10:54,MIN,,DAL,,G. Williams,DAL,MISS G. Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,168,185,25,1,3.0,0.0,v
+S2324-G0680,1,10:02,MIN,,DAL,,G. Williams,DAL,MISS G. Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,-190,165,25,1,3.0,0.0,v
+S2324-G0680,1,08:10,MIN,,DAL,,G. Williams,DAL,G. Williams S.FOUL (P1.T2) (T.Ford),Foul,Shooting,0,0,0,0,,,v
+S2324-G0680,1,07:37,MIN,,DAL,,G. Williams,DAL,MISS G. Williams 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,224,120,25,1,3.0,0.0,v
+S2324-G0680,1,05:00,MIN,,DAL,,G. Williams,DAL,SUB: Kleber FOR G. Williams,Substitution,,0,0,0,0,,,v
+S2324-G0680,2,11:40,MIN,,DAL,,G. Williams,DAL,G. Williams REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0680,2,11:39,MIN,,DAL,,G. Williams,DAL,MISS G. Williams 2' Putback Layup,Missed Shot,Putback Layup Shot,13,12,2,1,2.0,0.0,v
+S2324-G0680,2,04:34,MIN,,DAL,,G. Williams,DAL,SUB: Holmes FOR G. Williams,Substitution,,0,0,0,0,,,v
+S2324-G0680,2,00:59.500000,MIN,,DAL,,G. Williams,DAL,G. Williams S.FOUL (P2.PN) (M.Ervin),Foul,Shooting,0,0,0,0,,,v
+S2324-G0680,2,00:13.700000,MIN,49.0,DAL,48.0,G. Williams,DAL,G. Williams 7' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,-2,65,7,1,2.0,2.0,v
+S2324-G0680,3,10:24,MIN,,DAL,,G. Williams,DAL,G. Williams OFF.Foul (P3) (M.Ervin),Foul,Offensive,0,0,0,0,,,v
+S2324-G0680,3,10:24,MIN,,DAL,,G. Williams,DAL,G. Williams Offensive Foul Turnover (P1.T10),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0680,3,09:19,MIN,,DAL,,G. Williams,DAL,MISS G. Williams 3' Driving Layup,Missed Shot,Driving Layup Shot,-25,16,3,1,2.0,0.0,v
+S2324-G0680,3,07:31,MIN,,DAL,,G. Williams,DAL,SUB: Powell FOR G. Williams,Substitution,,0,0,0,0,,,v
+S2324-G0680,4,11:25,MIN,,DAL,,G. Williams,DAL,MISS G. Williams 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-98,116,15,1,2.0,0.0,v
+S2324-G0680,4,09:17,MIN,,DAL,,G. Williams,DAL,G. Williams STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0680,4,08:16,MIN,,DAL,,G. Williams,DAL,SUB: Lawson FOR G. Williams,Substitution,,0,0,0,0,,,v
+S2324-G0205,1,10:20,MIL,,DAL,,G. Williams,DAL,Williams BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0205,1,09:17,MIL,,DAL,,G. Williams,DAL,Williams REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0205,1,09:17,MIL,4.0,DAL,9.0,G. Williams,DAL,Williams Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2324-G0205,1,07:05,MIL,,DAL,,G. Williams,DAL,SUB: Green FOR Williams,Substitution,,0,0,0,0,,,v
+S2324-G0205,1,03:55,MIL,,DAL,,G. Williams,DAL,MISS Williams 3PT Jump Shot,Missed Shot,Jump Shot,-234,-8,0,1,3.0,0.0,v
+S2324-G0205,1,03:39,MIL,,DAL,,G. Williams,DAL,Williams REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0205,1,03:26,MIL,,DAL,,G. Williams,DAL,Williams REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0205,1,03:24,MIL,21.0,DAL,24.0,G. Williams,DAL,Williams 26' 3PT Jump Shot (5 PTS) (Green 1 AST),Made Shot,Jump Shot,-23,257,26,1,3.0,3.0,v
+S2324-G0205,1,00:35.400000,MIL,,DAL,,G. Williams,DAL,Williams REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0205,2,11:04,MIL,33.0,DAL,37.0,G. Williams,DAL,Williams 3PT Jump Shot (8 PTS) (Doncic 3 AST),Made Shot,Jump Shot,225,-10,0,1,3.0,3.0,v
+S2324-G0205,2,08:48,MIL,,DAL,,G. Williams,DAL,Williams Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0205,2,07:48,MIL,,DAL,,G. Williams,DAL,SUB: Jones Jr. FOR Williams,Substitution,,0,0,0,0,,,v
+S2324-G0205,2,04:35,MIL,,DAL,,G. Williams,DAL,Williams REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0205,2,02:42,MIL,,DAL,,G. Williams,DAL,MISS Williams 3PT Jump Shot,Missed Shot,Jump Shot,227,-24,0,1,3.0,0.0,v
+S2324-G0205,2,00:10.700000,MIL,60.0,DAL,58.0,G. Williams,DAL,Williams 3PT Jump Shot (11 PTS) (Doncic 5 AST),Made Shot,Jump Shot,228,-17,0,1,3.0,3.0,v
+S2324-G0205,3,09:09,MIL,,DAL,,G. Williams,DAL,Williams REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0205,3,06:52,MIL,,DAL,,G. Williams,DAL,SUB: Green FOR Williams,Substitution,,0,0,0,0,,,v
+S2324-G0205,3,00:50.700000,MIL,85.0,DAL,95.0,G. Williams,DAL,Williams 24' 3PT Jump Shot (14 PTS) (Powell 1 AST),Made Shot,Jump Shot,239,3,24,1,3.0,3.0,v
+S2324-G0205,4,09:04,MIL,,DAL,,G. Williams,DAL,SUB: Jones Jr. FOR Williams,Substitution,,0,0,0,0,,,v
+S2324-G0205,4,07:11,MIL,,DAL,,G. Williams,DAL,MISS Williams 26' 3PT Jump Shot,Missed Shot,Jump Shot,150,209,26,1,3.0,0.0,v
+S2324-G0205,4,06:46,MIL,,DAL,,G. Williams,DAL,MISS Williams 3PT Jump Shot,Missed Shot,Jump Shot,-229,26,0,1,3.0,0.0,v
+S2324-G0205,4,06:18,MIL,,DAL,,G. Williams,DAL,Williams P.FOUL (P1.T4) (S.Mehta),Foul,Personal,0,0,0,0,,,v
+S2324-G0205,4,05:23,MIL,,DAL,,G. Williams,DAL,MISS Williams 24' 3PT Jump Shot,Missed Shot,Jump Shot,-230,56,24,1,3.0,0.0,v
+S2324-G0205,4,03:12,MIL,,DAL,,G. Williams,DAL,Williams REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0205,4,00:47.300000,MIL,,DAL,,G. Williams,DAL,MISS Williams 27' 3PT Jump Shot,Missed Shot,Jump Shot,50,261,27,1,3.0,0.0,v
+S2324-G0244,1,10:12,LAC,,DAL,,G. Williams,DAL,Williams S.FOUL (P1.T1) (T.Brothers),Foul,Shooting,0,0,0,0,,,v
+S2324-G0244,1,05:23,LAC,,DAL,,G. Williams,DAL,Williams REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0244,1,02:44,LAC,,DAL,,G. Williams,DAL,SUB: Exum FOR Williams,Substitution,,0,0,0,0,,,v
+S2324-G0244,2,04:45,LAC,,DAL,,G. Williams,DAL,Williams REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0244,2,03:25,LAC,,DAL,,G. Williams,DAL,Williams P.FOUL (P2.PN) (T.Brothers),Foul,Personal,0,0,0,0,,,v
+S2324-G0244,3,08:26,LAC,,DAL,,G. Williams,DAL,MISS Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,229,94,25,1,3.0,0.0,v
+S2324-G0244,3,06:50,LAC,,DAL,,G. Williams,DAL,SUB: Green FOR Williams,Substitution,,0,0,0,0,,,v
+S2324-G0244,3,04:00,LAC,,DAL,,G. Williams,DAL,Williams REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0244,3,03:54,LAC,74.0,DAL,53.0,G. Williams,DAL,Williams 3PT Jump Shot (3 PTS) (Doncic 3 AST),Made Shot,Jump Shot,229,31,0,1,3.0,3.0,v
+S2324-G0244,3,02:27,LAC,,DAL,,G. Williams,DAL,Williams P.FOUL (P3.T4) (T.Brothers),Foul,Personal,0,0,0,0,,,v
+S2324-G0244,3,00:41.200000,LAC,,DAL,,G. Williams,DAL,Williams Offensive Charge Foul (P4) (M.Dagher),Foul,Offensive Charge,0,0,0,0,,,v
+S2324-G0244,3,00:41.200000,LAC,,DAL,,G. Williams,DAL,Williams Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0244,4,07:09,LAC,,DAL,,G. Williams,DAL,Williams REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0244,4,07:09,LAC,89.0,DAL,76.0,G. Williams,DAL,Williams Tip Layup Shot (5 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2324-G0244,4,04:45,LAC,,DAL,,G. Williams,DAL,SUB: Hardy FOR Williams,Substitution,,0,0,0,0,,,v
+S2324-G0356,1,11:14,DEN,,DAL,,G. Williams,DAL,MISS Williams 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,189,21,19,1,2.0,0.0,v
+S2324-G0356,1,09:59,DEN,,DAL,,G. Williams,DAL,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0356,1,08:38,DEN,,DAL,,G. Williams,DAL,Williams P.FOUL (P1.T2) (N.Buchert),Foul,Personal,0,0,0,0,,,v
+S2324-G0356,1,06:14,DEN,15.0,DAL,13.0,G. Williams,DAL,Williams 1' Running Layup (2 PTS) (Doncic 4 AST),Made Shot,Running Layup Shot,10,1,1,1,2.0,2.0,v
+S2324-G0356,1,03:22,DEN,,DAL,,G. Williams,DAL,SUB: Prosper FOR Williams,Substitution,,0,0,0,0,,,v
+S2324-G0356,2,10:09,DEN,30.0,DAL,29.0,G. Williams,DAL,Williams 25' 3PT Pullup Jump Shot (5 PTS) (Prosper 1 AST),Made Shot,Pullup Jump shot,234,78,25,1,3.0,3.0,v
+S2324-G0356,2,09:24,DEN,,DAL,,G. Williams,DAL,MISS Williams 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,20,46,5,1,2.0,0.0,v
+S2324-G0356,2,08:05,DEN,,DAL,,G. Williams,DAL,Williams P.FOUL (P2.T4) (J.Williams),Foul,Personal,0,0,0,0,,,v
+S2324-G0356,2,07:13,DEN,,DAL,,G. Williams,DAL,SUB: Doncic FOR Williams,Substitution,,0,0,0,0,,,v
+S2324-G0356,3,09:50,DEN,,DAL,,G. Williams,DAL,MISS Williams 26' 3PT Jump Shot,Missed Shot,Jump Shot,-37,258,26,1,3.0,0.0,v
+S2324-G0356,3,08:49,DEN,,DAL,,G. Williams,DAL,Williams REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0356,3,08:02,DEN,,DAL,,G. Williams,DAL,MISS Williams 3' Layup,Missed Shot,Layup Shot,-15,22,3,1,2.0,0.0,v
+S2324-G0356,3,06:48,DEN,77.0,DAL,70.0,G. Williams,DAL,Williams Running Layup (7 PTS) (Doncic 8 AST),Made Shot,Running Layup Shot,-1,-3,0,1,2.0,2.0,v
+S2324-G0356,3,06:30,DEN,,DAL,,G. Williams,DAL,Williams REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0356,3,06:26,DEN,,DAL,,G. Williams,DAL,MISS Williams Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2324-G0356,3,03:06,DEN,,DAL,,G. Williams,DAL,SUB: Prosper FOR Williams,Substitution,,0,0,0,0,,,v
+S2324-G0212,1,11:23,DAL,,SAC,,G. Williams,DAL,MISS Williams 24' 3PT Jump Shot,Missed Shot,Jump Shot,-175,169,24,1,3.0,0.0,h
+S2324-G0212,1,09:39,DAL,,SAC,,G. Williams,DAL,Williams REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0212,1,09:38,DAL,,SAC,,G. Williams,DAL,Williams Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0212,1,08:49,DAL,,SAC,,G. Williams,DAL,Williams S.FOUL (P1.T2) (C.Washington),Foul,Shooting,0,0,0,0,,,h
+S2324-G0212,1,07:05,DAL,12.0,SAC,16.0,G. Williams,DAL,Williams 15' Pullup Jump Shot (2 PTS) (Doncic 1 AST),Made Shot,Pullup Jump shot,-143,31,15,1,2.0,2.0,h
+S2324-G0212,1,05:56,DAL,17.0,SAC,21.0,G. Williams,DAL,Williams 24' 3PT Pullup Jump Shot (5 PTS) (Doncic 3 AST),Made Shot,Pullup Jump shot,235,64,24,1,3.0,3.0,h
+S2324-G0212,1,04:35,DAL,,SAC,,G. Williams,DAL,SUB: Exum FOR Williams,Substitution,,0,0,0,0,,,h
+S2324-G0212,2,05:04,DAL,,SAC,,G. Williams,DAL,SUB: Powell FOR Williams,Substitution,,0,0,0,0,,,h
+S2324-G0212,3,10:41,DAL,,SAC,,G. Williams,DAL,Williams REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0212,3,08:05,DAL,,SAC,,G. Williams,DAL,Williams REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0212,3,07:23,DAL,,SAC,,G. Williams,DAL,MISS Williams Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0212,3,07:23,DAL,,SAC,,G. Williams,DAL,MISS Williams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0212,3,06:05,DAL,84.0,SAC,86.0,G. Williams,DAL,Williams 2' Layup (7 PTS) (Green 4 AST),Made Shot,Layup Shot,15,13,2,1,2.0,2.0,h
+S2324-G0212,3,04:38,DAL,,SAC,,G. Williams,DAL,SUB: Powell FOR Williams,Substitution,,0,0,0,0,,,h
+S2324-G0212,4,06:41,DAL,,SAC,,G. Williams,DAL,MISS Williams 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-179,187,26,1,3.0,0.0,h
+S2324-G0212,4,06:07,DAL,,SAC,,G. Williams,DAL,MISS Williams 3PT Jump Shot,Missed Shot,Jump Shot,-233,4,0,1,3.0,0.0,h
+S2324-G0212,4,05:28,DAL,,SAC,,G. Williams,DAL,SUB: Hardy FOR Williams,Substitution,,0,0,0,0,,,h
+S2324-G0183,1,10:46,NOP,,DAL,,G. Williams,DAL,Williams BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0183,1,09:32,NOP,,DAL,,G. Williams,DAL,Williams S.FOUL (P1.T1) (N.Buchert),Foul,Shooting,0,0,0,0,,,v
+S2324-G0183,1,05:05,NOP,,DAL,,G. Williams,DAL,SUB: Green FOR Williams,Substitution,,0,0,0,0,,,v
+S2324-G0183,2,07:43,NOP,,DAL,,G. Williams,DAL,MISS Williams 24' 3PT Jump Shot,Missed Shot,Jump Shot,-229,73,24,1,3.0,0.0,v
+S2324-G0183,2,07:43,NOP,,DAL,,G. Williams,DAL,Williams REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0183,2,07:10,NOP,,DAL,,G. Williams,DAL,Williams STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0183,2,04:38,NOP,,DAL,,G. Williams,DAL,Williams REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0183,2,04:29,NOP,,DAL,,G. Williams,DAL,MISS Williams 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,-18,24,1,3.0,0.0,v
+S2324-G0183,2,02:49,NOP,,DAL,,G. Williams,DAL,MISS Williams 8' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-11,78,8,1,2.0,0.0,v
+S2324-G0183,2,02:36,NOP,,DAL,,G. Williams,DAL,SUB: Doncic FOR Williams,Substitution,,0,0,0,0,,,v
+S2324-G0183,3,11:23,NOP,,DAL,,G. Williams,DAL,MISS Williams 15' Jump Shot,Missed Shot,Jump Shot,49,147,15,1,2.0,0.0,v
+S2324-G0183,3,05:19,NOP,,DAL,,G. Williams,DAL,Williams BLOCK (2 BLK),,,0,0,0,0,,,v
+S2324-G0183,3,05:15,NOP,,DAL,,G. Williams,DAL,SUB: Green FOR Williams,Substitution,,0,0,0,0,,,v
+S2324-G0341,1,07:45,POR,,DAL,,G. Williams,DAL,Williams S.FOUL (P1.T1) (J.Orr),Foul,Shooting,0,0,0,0,,,v
+S2324-G0341,1,06:03,POR,,DAL,,G. Williams,DAL,MISS Williams 3PT Jump Shot,Missed Shot,Jump Shot,-225,-6,0,1,3.0,0.0,v
+S2324-G0341,1,03:59,POR,,DAL,,G. Williams,DAL,SUB: Curry FOR Williams,Substitution,,0,0,0,0,,,v
+S2324-G0341,2,11:02,POR,,DAL,,G. Williams,DAL,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0341,2,09:17,POR,41.0,DAL,48.0,G. Williams,DAL,Williams 1' Driving Layup (2 PTS) (Exum 2 AST),Made Shot,Driving Layup Shot,-13,6,1,1,2.0,2.0,v
+S2324-G0341,2,09:17,POR,41.0,DAL,49.0,G. Williams,DAL,Williams Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G0341,2,05:41,POR,,DAL,,G. Williams,DAL,SUB: Jones Jr. FOR Williams,Substitution,,0,0,0,0,,,v
+S2324-G0341,2,02:44,POR,,DAL,,G. Williams,DAL,Williams STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0341,2,01:24,POR,,DAL,,G. Williams,DAL,Williams P.FOUL (P2.T3) (T.Brothers),Foul,Personal,0,0,0,0,,,v
+S2324-G0341,2,01:00,POR,,DAL,,G. Williams,DAL,MISS Williams 3PT Jump Shot,Missed Shot,Jump Shot,-234,20,0,1,3.0,0.0,v
+S2324-G0341,3,11:29,POR,,DAL,,G. Williams,DAL,Williams Lost Ball Turnover (P1.T8),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0341,3,10:24,POR,,DAL,,G. Williams,DAL,MISS Williams 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,25,24,1,3.0,0.0,v
+S2324-G0341,3,10:11,POR,,DAL,,G. Williams,DAL,Williams REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0341,3,10:03,POR,,DAL,,G. Williams,DAL,Williams REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0341,3,07:50,POR,,DAL,,G. Williams,DAL,Williams S.FOUL (P3.T3) (J.Orr),Foul,Shooting,0,0,0,0,,,v
+S2324-G0341,3,06:10,POR,,DAL,,G. Williams,DAL,Williams BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0341,3,04:54,POR,,DAL,,G. Williams,DAL,Williams S.FOUL (P4.T4) (J.Orr),Foul,Shooting,0,0,0,0,,,v
+S2324-G0341,3,04:54,POR,,DAL,,G. Williams,DAL,SUB: Exum FOR Williams,Substitution,,0,0,0,0,,,v
+S2324-G0341,4,04:18,POR,,DAL,,G. Williams,DAL,Williams REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0341,4,00:38,POR,,DAL,,G. Williams,DAL,SUB: Hardy FOR Williams,Substitution,,0,0,0,0,,,v
+S2324-G0547,1,04:09,DAL,,NOP,,G. Williams,DAL,G. Williams S.FOUL (P1.T3) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,h
+S2324-G0547,1,03:51,DAL,,NOP,,G. Williams,DAL,MISS G. Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,214,120,25,1,3.0,0.0,h
+S2324-G0547,1,02:16,DAL,,NOP,,G. Williams,DAL,G. Williams L.B.FOUL (P2.T4) (C.Blair),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0547,1,02:16,DAL,,NOP,,G. Williams,DAL,SUB: Powell FOR G. Williams,Substitution,,0,0,0,0,,,h
+S2324-G0547,2,05:42,DAL,,NOP,,G. Williams,DAL,G. Williams Violation:Kicked Ball (M.Dagher),Violation,Kicked Ball,0,0,0,0,,,h
+S2324-G0547,2,05:35,DAL,,NOP,,G. Williams,DAL,G. Williams S.FOUL (P3.T4) (M.Dagher),Foul,Shooting,0,0,0,0,,,h
+S2324-G0547,2,05:35,DAL,,NOP,,G. Williams,DAL,SUB: Powell FOR G. Williams,Substitution,,0,0,0,0,,,h
+S2324-G0547,3,05:06,DAL,,NOP,,G. Williams,DAL,G. Williams S.FOUL (P4.T3) (C.Blair),Foul,Shooting,0,0,0,0,,,h
+S2324-G0547,3,04:54,DAL,,NOP,,G. Williams,DAL,G. Williams Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0547,3,03:32,DAL,,NOP,,G. Williams,DAL,G. Williams REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0547,3,03:30,DAL,,NOP,,G. Williams,DAL,MISS G. Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,194,154,25,1,3.0,0.0,h
+S2324-G0547,3,00:30.600000,DAL,,NOP,,G. Williams,DAL,G. Williams BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0547,4,07:15,DAL,,NOP,,G. Williams,DAL,G. Williams S.FOUL (P5.T3) (C.Blair),Foul,Shooting,0,0,0,0,,,h
+S2324-G0547,4,05:52,DAL,,NOP,,G. Williams,DAL,G. Williams Step Out of Bounds Turnover (P2.T11),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2324-G0547,4,05:52,DAL,,NOP,,G. Williams,DAL,SUB: Powell FOR G. Williams,Substitution,,0,0,0,0,,,h
+S2324-G0530,1,04:23,DAL,,NYK,,G. Williams,DAL,G. Williams S.FOUL (P1.T2) (D.Scott),Foul,Shooting,0,0,0,0,,,h
+S2324-G0530,1,02:19,DAL,,NYK,,G. Williams,DAL,G. Williams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0530,1,02:13,DAL,36.0,NYK,18.0,G. Williams,DAL,G. Williams 26' 3PT Running Jump Shot (3 PTS) (Hardy 1 AST),Made Shot,Running Jump Shot,-91,248,26,1,3.0,3.0,h
+S2324-G0530,1,01:34,DAL,,NYK,,G. Williams,DAL,G. Williams REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0530,1,00:40.600000,DAL,,NYK,,G. Williams,DAL,G. Williams REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0530,2,10:14,DAL,,NYK,,G. Williams,DAL,G. Williams REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0530,2,08:43,DAL,,NYK,,G. Williams,DAL,SUB: Irving FOR G. Williams,Substitution,,0,0,0,0,,,h
+S2324-G0530,2,05:07,DAL,,NYK,,G. Williams,DAL,MISS G. Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,121,221,25,1,3.0,0.0,h
+S2324-G0530,2,04:18,DAL,,NYK,,G. Williams,DAL,SUB: Powell FOR G. Williams,Substitution,,0,0,0,0,,,h
+S2324-G0530,2,00:02.300000,DAL,73.0,NYK,55.0,G. Williams,DAL,G. Williams 5' Driving Floating Bank Jump Shot (5 PTS) (Irving 7 AST),Made Shot,Driving Floating Bank Jump Shot,-22,49,5,1,2.0,2.0,h
+S2324-G0530,2,00:02.300000,DAL,74.0,NYK,55.0,G. Williams,DAL,G. Williams Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G0530,2,00:00.100000,DAL,,NYK,,G. Williams,DAL,MISS G. Williams 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,137,215,25,1,3.0,0.0,h
+S2324-G0530,3,06:25,DAL,,NYK,,G. Williams,DAL,G. Williams S.FOUL (P2.T2) (S.Wright),Foul,Shooting,0,0,0,0,,,h
+S2324-G0530,3,06:12,DAL,,NYK,,G. Williams,DAL,MISS G. Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,-153,193,25,1,3.0,0.0,h
+S2324-G0530,3,02:54,DAL,,NYK,,G. Williams,DAL,G. Williams BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0530,3,01:59,DAL,,NYK,,G. Williams,DAL,G. Williams P.FOUL (P3.T4) (B.Kennedy),Foul,Personal,0,0,0,0,,,h
+S2324-G0530,3,01:24,DAL,,NYK,,G. Williams,DAL,MISS G. Williams 26' 3PT Jump Shot,Missed Shot,Jump Shot,-158,204,26,1,3.0,0.0,h
+S2324-G0530,4,09:40,DAL,105.0,NYK,91.0,G. Williams,DAL,G. Williams Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0530,4,09:40,DAL,106.0,NYK,91.0,G. Williams,DAL,G. Williams Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0530,4,08:43,DAL,111.0,NYK,93.0,G. Williams,DAL,G. Williams 25' 3PT Jump Shot (11 PTS) (Hardaway Jr. 4 AST),Made Shot,Jump Shot,-124,213,25,1,3.0,3.0,h
+S2324-G0530,4,03:37,DAL,,NYK,,G. Williams,DAL,G. Williams REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0530,4,03:31,DAL,,NYK,,G. Williams,DAL,G. Williams REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0530,4,03:27,DAL,,NYK,,G. Williams,DAL,Jump Ball G. Williams vs. Hartenstein: Tip to Brunson,Jump Ball,,0,0,0,0,,,h
+S2324-G0530,4,03:27,DAL,,NYK,,G. Williams,DAL,G. Williams Lost Ball Turnover (P1.T9),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0530,4,03:20,DAL,,NYK,,G. Williams,DAL,SUB: Powell FOR G. Williams,Substitution,,0,0,0,0,,,h
+S2324-G0398,1,07:19,DAL,,SAS,,G. Williams,DAL,MISS Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,185,170,25,1,3.0,0.0,h
+S2324-G0398,1,05:32,DAL,,SAS,,G. Williams,DAL,SUB: Powell FOR Williams,Substitution,,0,0,0,0,,,h
+S2324-G0398,2,10:01,DAL,,SAS,,G. Williams,DAL,Williams S.FOUL (P1.T1) (S.Wright),Foul,Shooting,0,0,0,0,,,h
+S2324-G0398,2,09:18,DAL,50.0,SAS,38.0,G. Williams,DAL,Williams 5' Turnaround Bank Shot (2 PTS),Made Shot,Turnaround Bank shot,48,13,5,1,2.0,2.0,h
+S2324-G0398,2,08:46,DAL,,SAS,,G. Williams,DAL,Williams OFF.Foul (P2) (S.Wright),Foul,Offensive,0,0,0,0,,,h
+S2324-G0398,2,08:46,DAL,,SAS,,G. Williams,DAL,Williams Offensive Foul Turnover (P1.T1),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0398,2,08:34,DAL,,SAS,,G. Williams,DAL,Williams BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0398,2,07:18,DAL,,SAS,,G. Williams,DAL,SUB: Powell FOR Williams,Substitution,,0,0,0,0,,,h
+S2324-G0398,2,00:43.500000,DAL,72.0,SAS,64.0,G. Williams,DAL,Williams 25' 3PT Jump Shot (5 PTS) (Lawson 1 AST),Made Shot,Jump Shot,-180,178,25,1,3.0,3.0,h
+S2324-G0398,2,00:00,DAL,,SAS,,G. Williams,DAL,MISS Williams 13' Floating Jump Shot,Missed Shot,Floating Jump shot,-66,110,13,1,2.0,0.0,h
+S2324-G0398,3,09:59,DAL,79.0,SAS,68.0,G. Williams,DAL,Williams 25' 3PT Jump Shot (8 PTS) (Doncic 8 AST),Made Shot,Jump Shot,-32,245,25,1,3.0,3.0,h
+S2324-G0398,3,09:28,DAL,82.0,SAS,68.0,G. Williams,DAL,Williams 24' 3PT Jump Shot (11 PTS) (Hardaway Jr. 2 AST),Made Shot,Jump Shot,227,78,24,1,3.0,3.0,h
+S2324-G0398,3,08:41,DAL,,SAS,,G. Williams,DAL,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0398,3,08:18,DAL,,SAS,,G. Williams,DAL,Williams P.FOUL (P3.T1) (S.Wright),Foul,Personal,0,0,0,0,,,h
+S2324-G0398,3,07:37,DAL,,SAS,,G. Williams,DAL,SUB: Powell FOR Williams,Substitution,,0,0,0,0,,,h
+S2324-G0398,4,11:45,DAL,,SAS,,G. Williams,DAL,MISS Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,-191,158,25,1,3.0,0.0,h
+S2324-G0398,4,10:24,DAL,125.0,SAS,89.0,G. Williams,DAL,Williams 25' 3PT Jump Shot (14 PTS) (Exum 3 AST),Made Shot,Jump Shot,-120,222,25,1,3.0,3.0,h
+S2324-G0398,4,08:25,DAL,,SAS,,G. Williams,DAL,Williams REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0398,4,08:19,DAL,,SAS,,G. Williams,DAL,SUB: Brown III FOR Williams,Substitution,,0,0,0,0,,,h

@@ -1,0 +1,400 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2324-G1103,1,03:27,WAS,,LAL,,S. Dinwiddie,LAL,MISS Dinwiddie 26' 3PT Jump Shot,Missed Shot,Jump Shot,196,174,26,1,3.0,0.0,v
+S2324-G1103,1,01:59,WAS,24.0,LAL,31.0,S. Dinwiddie,LAL,Dinwiddie Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1103,1,01:59,WAS,24.0,LAL,32.0,S. Dinwiddie,LAL,Dinwiddie Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1103,1,01:14,WAS,,LAL,,S. Dinwiddie,LAL,Dinwiddie Out of Bounds - Bad Pass Turnover Turnover (P1.T2),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G1103,2,02:44,WAS,,LAL,,S. Dinwiddie,LAL,MISS Dinwiddie 26' 3PT Jump Shot,Missed Shot,Jump Shot,-202,159,26,1,3.0,0.0,v
+S2324-G1103,2,01:18,WAS,,LAL,,S. Dinwiddie,LAL,Dinwiddie REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1103,3,02:45,WAS,78.0,LAL,94.0,S. Dinwiddie,LAL,Dinwiddie 17' Driving Floating Jump Shot (4 PTS) (Prince 1 AST),Made Shot,Driving Floating Jump Shot,-141,100,17,1,2.0,2.0,v
+S2324-G1103,3,02:23,WAS,,LAL,,S. Dinwiddie,LAL,MISS Dinwiddie 27' 3PT Jump Shot,Missed Shot,Jump Shot,-234,125,27,1,3.0,0.0,v
+S2324-G1103,3,02:13,WAS,,LAL,,S. Dinwiddie,LAL,Dinwiddie REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1103,4,08:43,WAS,,LAL,,S. Dinwiddie,LAL,Dinwiddie S.FOUL (P1.T2) (N.Buchert),Foul,Shooting,0,0,0,0,,,v
+S2324-G1103,4,06:12,WAS,,LAL,,S. Dinwiddie,LAL,SUB: Hachimura FOR Dinwiddie,Substitution,,0,0,0,0,,,v
+S2324-G0856,1,03:49,LAL,,WAS,,S. Dinwiddie,LAL,Dinwiddie Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0856,1,03:06,LAL,21.0,WAS,27.0,S. Dinwiddie,LAL,Dinwiddie 6' Driving Floating Jump Shot (2 PTS) (Prince 1 AST),Made Shot,Driving Floating Jump Shot,-43,36,6,1,2.0,2.0,h
+S2324-G0856,1,02:53,LAL,,WAS,,S. Dinwiddie,LAL,Dinwiddie P.FOUL (P1.T3) (B.Barnaky),Foul,Personal,0,0,0,0,,,h
+S2324-G0856,2,01:40,LAL,65.0,WAS,65.0,S. Dinwiddie,LAL,Dinwiddie 3PT Jump Shot (5 PTS) (Russell 3 AST),Made Shot,Jump Shot,-227,19,0,1,3.0,3.0,h
+S2324-G0856,2,01:09,LAL,,WAS,,S. Dinwiddie,LAL,MISS Dinwiddie 26' 3PT Jump Shot,Missed Shot,Jump Shot,-202,166,26,1,3.0,0.0,h
+S2324-G0856,2,00:30.800000,LAL,70.0,WAS,67.0,S. Dinwiddie,LAL,Dinwiddie 27' 3PT Step Back Jump Shot (8 PTS),Made Shot,Step Back Jump shot,134,231,27,1,3.0,3.0,h
+S2324-G0856,2,00:30.800000,LAL,,WAS,,S. Dinwiddie,LAL,MISS Dinwiddie Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2324-G0856,3,05:55,LAL,81.0,WAS,83.0,S. Dinwiddie,LAL,Dinwiddie Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0856,3,05:55,LAL,82.0,WAS,83.0,S. Dinwiddie,LAL,Dinwiddie Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0856,3,01:23,LAL,,WAS,,S. Dinwiddie,LAL,MISS Dinwiddie 8' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,34,68,8,1,2.0,0.0,h
+S2324-G0856,4,10:46,LAL,,WAS,,S. Dinwiddie,LAL,Dinwiddie P.FOUL (P2.T2) (B.Barnaky),Foul,Personal,0,0,0,0,,,h
+S2324-G0856,4,07:51,LAL,,WAS,,S. Dinwiddie,LAL,SUB: Reaves FOR Dinwiddie,Substitution,,0,0,0,0,,,h
+S2324-G0856,4,01:11,LAL,,WAS,,S. Dinwiddie,LAL,SUB: James FOR Dinwiddie,Substitution,,0,0,0,0,,,h
+S2324-G1155,1,02:29,LAL,,GSW,,S. Dinwiddie,LAL,Dinwiddie REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1155,1,01:09,LAL,,GSW,,S. Dinwiddie,LAL,MISS Dinwiddie 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,142,222,26,1,3.0,0.0,h
+S2324-G1155,1,00:25.100000,LAL,26.0,GSW,35.0,S. Dinwiddie,LAL,Dinwiddie 26' 3PT Jump Shot (3 PTS) (Russell 3 AST),Made Shot,Jump Shot,-168,197,26,1,3.0,3.0,h
+S2324-G1155,2,03:19,LAL,,GSW,,S. Dinwiddie,LAL,Dinwiddie REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1155,2,01:20,LAL,54.0,GSW,66.0,S. Dinwiddie,LAL,Dinwiddie 3PT Jump Shot (6 PTS) (Russell 4 AST),Made Shot,Jump Shot,225,28,0,1,3.0,3.0,h
+S2324-G1155,3,05:51,LAL,80.0,GSW,85.0,S. Dinwiddie,LAL,Dinwiddie 3PT Running Jump Shot (9 PTS) (Hachimura 2 AST),Made Shot,Running Jump Shot,225,-8,0,1,3.0,3.0,h
+S2324-G1155,3,03:30,LAL,,GSW,,S. Dinwiddie,LAL,Dinwiddie P.FOUL (P1.PN) (J.Van Duyne),Foul,Personal,0,0,0,0,,,h
+S2324-G1155,3,01:55,LAL,88.0,GSW,96.0,S. Dinwiddie,LAL,Dinwiddie 19' Pullup Jump Shot (11 PTS),Made Shot,Pullup Jump shot,107,159,19,1,2.0,2.0,h
+S2324-G1155,3,01:55,LAL,89.0,GSW,96.0,S. Dinwiddie,LAL,Dinwiddie Free Throw 1 of 1 (12 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G1155,3,01:12,LAL,,GSW,,S. Dinwiddie,LAL,MISS Dinwiddie 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,53,41,7,1,2.0,0.0,h
+S2324-G1155,4,05:45,LAL,,GSW,,S. Dinwiddie,LAL,MISS Dinwiddie 27' 3PT Jump Shot,Missed Shot,Jump Shot,40,268,27,1,3.0,0.0,h
+S2324-G1155,4,04:54,LAL,,GSW,,S. Dinwiddie,LAL,Dinwiddie REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1155,4,02:51,LAL,,GSW,,S. Dinwiddie,LAL,Dinwiddie REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1155,4,01:47,LAL,,GSW,,S. Dinwiddie,LAL,SUB: Lewis FOR Dinwiddie,Substitution,,0,0,0,0,,,h
+S2324-G1143,1,09:26,LAL,7.0,MIN,8.0,S. Dinwiddie,LAL,Dinwiddie Free Throw 1 of 3 (1 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,h
+S2324-G1143,1,09:26,LAL,8.0,MIN,8.0,S. Dinwiddie,LAL,Dinwiddie Free Throw 2 of 3 (2 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,h
+S2324-G1143,1,09:26,LAL,9.0,MIN,8.0,S. Dinwiddie,LAL,Dinwiddie Free Throw 3 of 3 (3 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,h
+S2324-G1143,1,07:47,LAL,20.0,MIN,13.0,S. Dinwiddie,LAL,Dinwiddie 27' 3PT Running Jump Shot (6 PTS) (Reaves 1 AST),Made Shot,Running Jump Shot,-195,181,27,1,3.0,3.0,h
+S2324-G1143,1,07:34,LAL,,MIN,,S. Dinwiddie,LAL,Dinwiddie REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1143,1,04:42,LAL,29.0,MIN,22.0,S. Dinwiddie,LAL,Dinwiddie 24' 3PT Jump Shot (9 PTS) (Davis 3 AST),Made Shot,Jump Shot,234,55,24,1,3.0,3.0,h
+S2324-G1143,1,04:30,LAL,,MIN,,S. Dinwiddie,LAL,Dinwiddie P.FOUL (P1.T2) (P.Ransom),Foul,Personal,0,0,0,0,,,h
+S2324-G1143,1,04:30,LAL,,MIN,,S. Dinwiddie,LAL,SUB: Prince FOR Dinwiddie,Substitution,,0,0,0,0,,,h
+S2324-G1143,2,10:41,LAL,,MIN,,S. Dinwiddie,LAL,Dinwiddie Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G1143,2,09:48,LAL,44.0,MIN,43.0,S. Dinwiddie,LAL,Dinwiddie 25' 3PT Jump Shot (12 PTS) (Christie 1 AST),Made Shot,Jump Shot,201,147,25,1,3.0,3.0,h
+S2324-G1143,2,09:45,LAL,,MIN,,S. Dinwiddie,LAL,Dinwiddie T.FOUL (P1.T0) (R.Acosta),Foul,Technical,0,0,0,0,,,h
+S2324-G1143,2,09:10,LAL,,MIN,,S. Dinwiddie,LAL,Dinwiddie P.FOUL (P2.T1) (P.Ransom),Foul,Personal,0,0,0,0,,,h
+S2324-G1143,2,08:25,LAL,48.0,MIN,49.0,S. Dinwiddie,LAL,Dinwiddie 13' Pullup Jump Shot (14 PTS),Made Shot,Pullup Jump shot,-1,125,13,1,2.0,2.0,h
+S2324-G1143,2,06:54,LAL,51.0,MIN,52.0,S. Dinwiddie,LAL,Dinwiddie Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1143,2,06:54,LAL,52.0,MIN,52.0,S. Dinwiddie,LAL,Dinwiddie Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1143,2,03:55,LAL,,MIN,,S. Dinwiddie,LAL,SUB: Hayes FOR Dinwiddie,Substitution,,0,0,0,0,,,h
+S2324-G1143,3,09:51,LAL,,MIN,,S. Dinwiddie,LAL,MISS Dinwiddie 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,159,227,28,1,3.0,0.0,h
+S2324-G1143,3,08:56,LAL,68.0,MIN,84.0,S. Dinwiddie,LAL,Dinwiddie Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1143,3,08:56,LAL,69.0,MIN,84.0,S. Dinwiddie,LAL,Dinwiddie Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1143,3,08:43,LAL,,MIN,,S. Dinwiddie,LAL,Dinwiddie REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1143,3,08:41,LAL,,MIN,,S. Dinwiddie,LAL,Dinwiddie Bad Pass Turnover (P2.T8),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G1143,3,07:16,LAL,,MIN,,S. Dinwiddie,LAL,Dinwiddie REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1143,3,03:31,LAL,,MIN,,S. Dinwiddie,LAL,Dinwiddie REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1143,3,01:57,LAL,,MIN,,S. Dinwiddie,LAL,SUB: Reaves FOR Dinwiddie,Substitution,,0,0,0,0,,,h
+S2324-G1143,4,11:20,LAL,,MIN,,S. Dinwiddie,LAL,MISS Dinwiddie 5' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-11,48,5,1,2.0,0.0,h
+S2324-G1143,4,10:53,LAL,,MIN,,S. Dinwiddie,LAL,MISS Dinwiddie 3PT Jump Shot,Missed Shot,Jump Shot,230,46,0,1,3.0,0.0,h
+S2324-G1143,4,10:37,LAL,,MIN,,S. Dinwiddie,LAL,Dinwiddie REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1143,4,02:03,LAL,,MIN,,S. Dinwiddie,LAL,SUB: Reddish FOR Dinwiddie,Substitution,,0,0,0,0,,,h
+S2324-G0990,2,01:40,LAL,73.0,ATL,55.0,S. Dinwiddie,LAL,Dinwiddie 3PT Jump Shot (3 PTS) (Hachimura 1 AST),Made Shot,Jump Shot,-230,13,0,1,3.0,3.0,h
+S2324-G0990,2,00:59.200000,LAL,,ATL,,S. Dinwiddie,LAL,MISS Dinwiddie 3PT Jump Shot,Missed Shot,Jump Shot,232,14,0,1,3.0,0.0,h
+S2324-G0990,2,00:35.100000,LAL,,ATL,,S. Dinwiddie,LAL,Dinwiddie Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0990,3,01:59,LAL,,ATL,,S. Dinwiddie,LAL,MISS Dinwiddie 17' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-39,168,17,1,2.0,0.0,h
+S2324-G0990,4,08:14,LAL,,ATL,,S. Dinwiddie,LAL,MISS Dinwiddie 3' Driving Layup,Missed Shot,Driving Layup Shot,-11,32,3,1,2.0,0.0,h
+S2324-G0990,4,07:01,LAL,,ATL,,S. Dinwiddie,LAL,Dinwiddie REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0990,4,05:05,LAL,,ATL,,S. Dinwiddie,LAL,SUB: Giles III FOR Dinwiddie,Substitution,,0,0,0,0,,,h
+S2324-G0932,2,03:21,LAL,,MIN,,S. Dinwiddie,LAL,MISS Dinwiddie 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-200,180,27,1,3.0,0.0,h
+S2324-G0932,3,06:13,LAL,,MIN,,S. Dinwiddie,LAL,MISS Dinwiddie 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,26,108,11,1,2.0,0.0,h
+S2324-G0932,3,05:28,LAL,,MIN,,S. Dinwiddie,LAL,Dinwiddie S.FOUL (P1.T2) (J.Williams),Foul,Shooting,0,0,0,0,,,h
+S2324-G0932,3,04:18,LAL,,MIN,,S. Dinwiddie,LAL,Dinwiddie REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0932,3,03:39,LAL,,MIN,,S. Dinwiddie,LAL,Dinwiddie Lost Ball Turnover (P1.T17),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0932,3,03:09,LAL,,MIN,,S. Dinwiddie,LAL,MISS Dinwiddie 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-34,68,8,1,2.0,0.0,h
+S2324-G0932,3,03:05,LAL,,MIN,,S. Dinwiddie,LAL,Dinwiddie Transition Take Foul (P2.T3) (J.Williams),Foul                                    ,Transition Take,0,0,0,0,,,h
+S2324-G0932,3,03:05,LAL,,MIN,,S. Dinwiddie,LAL,Dinwiddie T.FOUL (P2.T3) (J.Williams),Foul,Technical,0,0,0,0,,,h
+S2324-G0932,3,00:34.300000,LAL,,MIN,,S. Dinwiddie,LAL,Dinwiddie P.FOUL (P3.T4) (K.Lane),Foul,Personal,0,0,0,0,,,h
+S2324-G0973,1,02:05,LAL,,GSW,,S. Dinwiddie,LAL,Dinwiddie REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0973,2,06:52,LAL,,GSW,,S. Dinwiddie,LAL,Dinwiddie P.FOUL (P1.T3) (M.Ervin),Foul,Personal,0,0,0,0,,,h
+S2324-G0973,2,06:21,LAL,51.0,GSW,47.0,S. Dinwiddie,LAL,Dinwiddie 26' 3PT Jump Shot (3 PTS) (James 7 AST),Made Shot,Jump Shot,195,172,26,1,3.0,3.0,h
+S2324-G0973,2,05:59,LAL,,GSW,,S. Dinwiddie,LAL,Dinwiddie P.FOUL (P2.PN) (M.Ervin),Foul,Personal,0,0,0,0,,,h
+S2324-G0973,2,03:27,LAL,59.0,GSW,55.0,S. Dinwiddie,LAL,Dinwiddie 1' Driving Dunk (5 PTS) (Russell 6 AST),Made Shot,Driving Dunk Shot,12,5,1,1,2.0,2.0,h
+S2324-G0973,2,03:14,LAL,,GSW,,S. Dinwiddie,LAL,SUB: James FOR Dinwiddie,Substitution,,0,0,0,0,,,h
+S2324-G0973,3,01:31,LAL,88.0,GSW,96.0,S. Dinwiddie,LAL,Dinwiddie Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0973,3,01:31,LAL,89.0,GSW,96.0,S. Dinwiddie,LAL,Dinwiddie Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0973,4,09:27,LAL,,GSW,,S. Dinwiddie,LAL,Dinwiddie REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0973,4,07:31,LAL,,GSW,,S. Dinwiddie,LAL,SUB: Reaves FOR Dinwiddie,Substitution,,0,0,0,0,,,h
+S2324-G0915,1,10:55,LAL,,MIL,,S. Dinwiddie,LAL,MISS Dinwiddie 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-99,150,18,1,2.0,0.0,h
+S2324-G0915,1,06:45,LAL,14.0,MIL,14.0,S. Dinwiddie,LAL,Dinwiddie 24' 3PT Running Jump Shot (3 PTS) (Reaves 1 AST),Made Shot,Running Jump Shot,229,71,24,1,3.0,3.0,h
+S2324-G0915,1,04:40,LAL,,MIL,,S. Dinwiddie,LAL,Dinwiddie BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0915,1,03:29,LAL,,MIL,,S. Dinwiddie,LAL,SUB: Reddish FOR Dinwiddie,Substitution,,0,0,0,0,,,h
+S2324-G0915,2,05:49,LAL,52.0,MIL,45.0,S. Dinwiddie,LAL,Dinwiddie Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0915,2,05:49,LAL,53.0,MIL,45.0,S. Dinwiddie,LAL,Dinwiddie Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0915,2,03:20,LAL,,MIL,,S. Dinwiddie,LAL,Dinwiddie REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0915,2,00:54.500000,LAL,,MIL,,S. Dinwiddie,LAL,Dinwiddie L.B.FOUL (P1.T4) (K.Scott),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0915,2,00:49,LAL,,MIL,,S. Dinwiddie,LAL,Dinwiddie STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0915,3,08:22,LAL,,MIL,,S. Dinwiddie,LAL,MISS Dinwiddie 27' 3PT Jump Shot,Missed Shot,Jump Shot,-214,159,27,1,3.0,0.0,h
+S2324-G0915,3,06:25,LAL,,MIL,,S. Dinwiddie,LAL,Dinwiddie S.FOUL (P2.T1) (K.Scott),Foul,Shooting,0,0,0,0,,,h
+S2324-G0915,3,05:23,LAL,,MIL,,S. Dinwiddie,LAL,SUB: Hayes FOR Dinwiddie,Substitution,,0,0,0,0,,,h
+S2324-G0915,4,09:44,LAL,,MIL,,S. Dinwiddie,LAL,Dinwiddie REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0915,4,04:54,LAL,,MIL,,S. Dinwiddie,LAL,Dinwiddie S.FOUL (P3.T4) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,h
+S2324-G0915,4,00:02.800000,LAL,,MIL,,S. Dinwiddie,LAL,Dinwiddie BLOCK (2 BLK),,,0,0,0,0,,,h
+S2324-G0954,1,03:01,SAC,,LAL,,S. Dinwiddie,LAL,Dinwiddie REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0954,1,00:03.900000,SAC,,LAL,,S. Dinwiddie,LAL,Dinwiddie P.FOUL (P1.T1) (T.Ford),Foul,Personal,0,0,0,0,,,v
+S2324-G0954,2,04:34,SAC,,LAL,,S. Dinwiddie,LAL,MISS Dinwiddie 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,9,27,3,1,2.0,0.0,v
+S2324-G0954,3,03:43,SAC,,LAL,,S. Dinwiddie,LAL,Dinwiddie STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0954,3,02:09,SAC,,LAL,,S. Dinwiddie,LAL,MISS Dinwiddie 26' 3PT Jump Shot,Missed Shot,Jump Shot,143,214,26,1,3.0,0.0,v
+S2324-G1094,1,04:40,TOR,,LAL,,S. Dinwiddie,LAL,MISS Dinwiddie 29' 3PT Jump Shot,Missed Shot,Jump Shot,158,240,29,1,3.0,0.0,v
+S2324-G1094,1,03:23,TOR,,LAL,,S. Dinwiddie,LAL,MISS Dinwiddie 26' 3PT Jump Shot,Missed Shot,Jump Shot,216,137,26,1,3.0,0.0,v
+S2324-G1094,1,00:32.400000,TOR,25.0,LAL,31.0,S. Dinwiddie,LAL,Dinwiddie 26' 3PT Jump Shot (3 PTS) (Hayes 1 AST),Made Shot,Jump Shot,197,168,26,1,3.0,3.0,v
+S2324-G1094,2,04:20,TOR,,LAL,,S. Dinwiddie,LAL,Dinwiddie P.FOUL (P1.PN) (J.Van Duyne),Foul,Personal,0,0,0,0,,,v
+S2324-G1094,2,02:31,TOR,49.0,LAL,61.0,S. Dinwiddie,LAL,Dinwiddie 3PT Jump Shot (6 PTS) (Hachimura 1 AST),Made Shot,Jump Shot,-228,10,0,1,3.0,3.0,v
+S2324-G1094,2,00:39.500000,TOR,56.0,LAL,64.0,S. Dinwiddie,LAL,Dinwiddie 24' 3PT Jump Shot (9 PTS) (Hachimura 2 AST),Made Shot,Jump Shot,237,1,24,1,3.0,3.0,v
+S2324-G1094,3,01:53,TOR,,LAL,,S. Dinwiddie,LAL,Dinwiddie BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G1094,3,01:05,TOR,,LAL,,S. Dinwiddie,LAL,Dinwiddie BLOCK (2 BLK),,,0,0,0,0,,,v
+S2324-G1094,3,00:26.400000,TOR,,LAL,,S. Dinwiddie,LAL,Dinwiddie S.FOUL (P2.T3) (S.Mehta),Foul,Shooting,0,0,0,0,,,v
+S2324-G1094,3,00:23.700000,TOR,,LAL,,S. Dinwiddie,LAL,Dinwiddie REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1094,4,10:46,TOR,,LAL,,S. Dinwiddie,LAL,MISS Dinwiddie 3PT Jump Shot,Missed Shot,Jump Shot,-234,-3,0,1,3.0,0.0,v
+S2324-G1094,4,09:51,TOR,,LAL,,S. Dinwiddie,LAL,Dinwiddie P.FOUL (P3.T2) (J.Van Duyne),Foul,Personal,0,0,0,0,,,v
+S2324-G1094,4,06:59,TOR,,LAL,,S. Dinwiddie,LAL,Dinwiddie STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G1094,4,06:06,TOR,,LAL,,S. Dinwiddie,LAL,Dinwiddie BLOCK (3 BLK),,,0,0,0,0,,,v
+S2324-G1094,4,06:06,TOR,,LAL,,S. Dinwiddie,LAL,SUB: Lewis FOR Dinwiddie,Substitution,,0,0,0,0,,,v
+S2324-G0884,1,01:40,LAL,,OKC,,S. Dinwiddie,LAL,Dinwiddie BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0884,1,01:32,LAL,22.0,OKC,22.0,S. Dinwiddie,LAL,Dinwiddie 3' Running Layup (2 PTS),Made Shot,Running Layup Shot,25,13,3,1,2.0,2.0,h
+S2324-G0884,2,10:20,LAL,,OKC,,S. Dinwiddie,LAL,MISS Dinwiddie 3' Driving Layup,Missed Shot,Driving Layup Shot,23,12,3,1,2.0,0.0,h
+S2324-G0884,2,05:47,LAL,,OKC,,S. Dinwiddie,LAL,Dinwiddie REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0884,2,05:05,LAL,,OKC,,S. Dinwiddie,LAL,MISS Dinwiddie 25' 3PT Jump Shot,Missed Shot,Jump Shot,158,200,25,1,3.0,0.0,h
+S2324-G0884,2,04:44,LAL,,OKC,,S. Dinwiddie,LAL,Dinwiddie REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0884,2,04:31,LAL,,OKC,,S. Dinwiddie,LAL,Dinwiddie Bad Pass Turnover (P1.T12),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0884,2,04:24,LAL,,OKC,,S. Dinwiddie,LAL,SUB: Russell FOR Dinwiddie,Substitution,,0,0,0,0,,,h
+S2324-G0884,3,01:43,LAL,,OKC,,S. Dinwiddie,LAL,MISS Dinwiddie 25' 3PT Jump Shot,Missed Shot,Jump Shot,-210,131,25,1,3.0,0.0,h
+S2324-G0884,4,06:04,LAL,,OKC,,S. Dinwiddie,LAL,SUB: Reaves FOR Dinwiddie,Substitution,,0,0,0,0,,,h
+S2324-G0901,1,05:08,LAL,,SAC,,S. Dinwiddie,LAL,MISS Dinwiddie 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-164,200,26,1,3.0,0.0,h
+S2324-G0901,1,05:00,LAL,25.0,SAC,13.0,S. Dinwiddie,LAL,Dinwiddie 28' 3PT Jump Shot (3 PTS) (James 4 AST),Made Shot,Jump Shot,167,221,28,1,3.0,3.0,h
+S2324-G0901,1,02:55,LAL,,SAC,,S. Dinwiddie,LAL,Dinwiddie REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0901,1,02:41,LAL,31.0,SAC,18.0,S. Dinwiddie,LAL,Dinwiddie Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0901,1,02:41,LAL,32.0,SAC,18.0,S. Dinwiddie,LAL,Dinwiddie Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0901,2,03:34,LAL,,SAC,,S. Dinwiddie,LAL,MISS Dinwiddie Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0901,2,03:34,LAL,,SAC,,S. Dinwiddie,LAL,MISS Dinwiddie Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0901,2,02:11,LAL,,SAC,,S. Dinwiddie,LAL,Dinwiddie P.FOUL (P1.T2) (K.Cutler),Foul,Personal,0,0,0,0,,,h
+S2324-G0901,3,04:14,LAL,,SAC,,S. Dinwiddie,LAL,Dinwiddie OFF.Foul (P2) (K.Cutler),Foul,Offensive,0,0,0,0,,,h
+S2324-G0901,3,04:14,LAL,,SAC,,S. Dinwiddie,LAL,Dinwiddie Offensive Foul Turnover (P1.T7),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0901,3,03:39,LAL,80.0,SAC,99.0,S. Dinwiddie,LAL,Dinwiddie 25' 3PT Jump Shot (8 PTS) (James 10 AST),Made Shot,Jump Shot,-228,91,25,1,3.0,3.0,h
+S2324-G0901,3,00:39.200000,LAL,,SAC,,S. Dinwiddie,LAL,Dinwiddie REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0901,4,08:50,LAL,,SAC,,S. Dinwiddie,LAL,SUB: James FOR Dinwiddie,Substitution,,0,0,0,0,,,h
+S2324-G0901,4,00:50,LAL,,SAC,,S. Dinwiddie,LAL,Dinwiddie P.FOUL (P3.T1) (S.Twardoski),Foul,Personal,0,0,0,0,,,h
+S2324-G0901,4,00:50,LAL,,SAC,,S. Dinwiddie,LAL,SUB: Lewis FOR Dinwiddie,Substitution,,0,0,0,0,,,h
+S2324-G0813,1,00:46.400000,LAL,,SAS,,S. Dinwiddie,LAL,MISS Dinwiddie 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,42,38,6,1,2.0,0.0,h
+S2324-G0813,2,10:55,LAL,,SAS,,S. Dinwiddie,LAL,Dinwiddie P.FOUL (P1.T2) (M.Lindsay),Foul,Personal,0,0,0,0,,,h
+S2324-G0813,2,10:28,LAL,,SAS,,S. Dinwiddie,LAL,MISS Dinwiddie 3PT Jump Shot,Missed Shot,Jump Shot,232,0,0,1,3.0,0.0,h
+S2324-G0813,2,08:03,LAL,,SAS,,S. Dinwiddie,LAL,SUB: Christie FOR Dinwiddie,Substitution,,0,0,0,0,,,h
+S2324-G0813,2,01:55,LAL,,SAS,,S. Dinwiddie,LAL,MISS Dinwiddie 3PT Jump Shot,Missed Shot,Jump Shot,-233,21,0,1,3.0,0.0,h
+S2324-G0813,3,01:36,LAL,,SAS,,S. Dinwiddie,LAL,MISS Dinwiddie 6' Driving Layup,Missed Shot,Driving Layup Shot,4,58,6,1,2.0,0.0,h
+S2324-G0813,3,01:20,LAL,,SAS,,S. Dinwiddie,LAL,MISS Dinwiddie 5' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,31,37,5,1,2.0,0.0,h
+S2324-G0813,3,00:21.300000,LAL,,SAS,,S. Dinwiddie,LAL,Dinwiddie REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0813,4,08:05,LAL,,SAS,,S. Dinwiddie,LAL,MISS Dinwiddie 3PT Jump Shot,Missed Shot,Jump Shot,230,9,0,1,3.0,0.0,h
+S2324-G0813,4,06:17,LAL,,SAS,,S. Dinwiddie,LAL,SUB: Reaves FOR Dinwiddie,Substitution,,0,0,0,0,,,h
+S2324-G1078,1,04:00,BKN,,LAL,,S. Dinwiddie,LAL,Dinwiddie REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1078,1,02:57,BKN,,LAL,,S. Dinwiddie,LAL,MISS Dinwiddie 26' 3PT Jump Shot,Missed Shot,Jump Shot,-164,197,26,1,3.0,0.0,v
+S2324-G1078,1,02:49,BKN,,LAL,,S. Dinwiddie,LAL,Dinwiddie P.FOUL (P1.T1) (K.Scott),Foul,Personal,0,0,0,0,,,v
+S2324-G1078,1,02:35,BKN,,LAL,,S. Dinwiddie,LAL,Dinwiddie REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1078,2,09:45,BKN,,LAL,,S. Dinwiddie,LAL,Dinwiddie Out of Bounds - Bad Pass Turnover Turnover (P1.T2),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G1078,2,08:33,BKN,,LAL,,S. Dinwiddie,LAL,SUB: Reaves FOR Dinwiddie,Substitution,,0,0,0,0,,,v
+S2324-G1078,3,04:09,BKN,,LAL,,S. Dinwiddie,LAL,Dinwiddie Traveling Turnover (P2.T13),Turnover,Traveling,0,0,0,0,,,v
+S2324-G1078,3,02:56,BKN,,LAL,,S. Dinwiddie,LAL,Dinwiddie BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G1078,3,02:22,BKN,,LAL,,S. Dinwiddie,LAL,Dinwiddie Bad Pass Turnover (P3.T14),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G1078,3,01:08,BKN,,LAL,,S. Dinwiddie,LAL,MISS Dinwiddie 28' 3PT Jump Shot,Missed Shot,Jump Shot,-94,265,28,1,3.0,0.0,v
+S2324-G1078,4,08:16,BKN,,LAL,,S. Dinwiddie,LAL,SUB: Russell FOR Dinwiddie,Substitution,,0,0,0,0,,,v
+S2324-G0848,1,01:32,LAC,,LAL,,S. Dinwiddie,LAL,Dinwiddie REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0848,2,05:14,LAC,,LAL,,S. Dinwiddie,LAL,Dinwiddie Out of Bounds Lost Ball Turnover (P1.T8),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2324-G0848,2,03:09,LAC,58.0,LAL,48.0,S. Dinwiddie,LAL,Dinwiddie 4' Running Layup (2 PTS),Made Shot,Running Layup Shot,11,34,4,1,2.0,2.0,v
+S2324-G0848,2,02:45,LAC,,LAL,,S. Dinwiddie,LAL,MISS Dinwiddie 28' 3PT Jump Shot,Missed Shot,Jump Shot,-157,228,28,1,3.0,0.0,v
+S2324-G0848,2,00:00.500000,LAC,,LAL,,S. Dinwiddie,LAL,Dinwiddie REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0848,3,06:02,LAC,81.0,LAL,66.0,S. Dinwiddie,LAL,Dinwiddie 24' 3PT Jump Shot (5 PTS) (Reaves 5 AST),Made Shot,Jump Shot,-235,-5,24,1,3.0,3.0,v
+S2324-G0848,3,02:58,LAC,,LAL,,S. Dinwiddie,LAL,MISS Dinwiddie 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,191,198,28,1,3.0,0.0,v
+S2324-G0848,3,02:36,LAC,87.0,LAL,75.0,S. Dinwiddie,LAL,Dinwiddie 3' Running Jump Shot (7 PTS),Made Shot,Running Jump Shot,-11,27,3,1,2.0,2.0,v
+S2324-G0848,3,01:51,LAC,,LAL,,S. Dinwiddie,LAL,Dinwiddie Bad Pass Turnover (P2.T13),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0848,3,00:32.500000,LAC,,LAL,,S. Dinwiddie,LAL,MISS Dinwiddie 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-135,225,26,1,3.0,0.0,v
+S2324-G1127,1,04:25,LAL,,CLE,,S. Dinwiddie,LAL,MISS Dinwiddie 26' 3PT Jump Shot,Missed Shot,Jump Shot,190,179,26,1,3.0,0.0,h
+S2324-G1127,1,02:44,LAL,,CLE,,S. Dinwiddie,LAL,MISS Dinwiddie 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,96,-10,10,1,2.0,0.0,h
+S2324-G1127,1,01:19,LAL,,CLE,,S. Dinwiddie,LAL,Dinwiddie STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1127,2,03:25,LAL,,CLE,,S. Dinwiddie,LAL,MISS Dinwiddie 25' 3PT Jump Shot,Missed Shot,Jump Shot,-199,155,25,1,3.0,0.0,h
+S2324-G1127,2,01:22,LAL,,CLE,,S. Dinwiddie,LAL,SUB: Russell FOR Dinwiddie,Substitution,,0,0,0,0,,,h
+S2324-G1127,3,04:46,LAL,,CLE,,S. Dinwiddie,LAL,Dinwiddie STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G1127,3,02:42,LAL,,CLE,,S. Dinwiddie,LAL,Dinwiddie REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1127,3,02:18,LAL,,CLE,,S. Dinwiddie,LAL,Dinwiddie STEAL (3 STL),,,0,0,0,0,,,h
+S2324-G1127,4,07:32,LAL,,CLE,,S. Dinwiddie,LAL,Dinwiddie REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1127,4,03:47,LAL,112.0,CLE,95.0,S. Dinwiddie,LAL,Dinwiddie 3PT Jump Shot (3 PTS) (James 12 AST),Made Shot,Jump Shot,231,23,0,1,3.0,3.0,h
+S2324-G1127,4,01:18,LAL,116.0,CLE,97.0,S. Dinwiddie,LAL,Dinwiddie 30' 3PT Jump Bank Shot (6 PTS) (Christie 1 AST),Made Shot,Jump Bank Shot,-195,232,30,1,3.0,3.0,h
+S2324-G1127,4,01:07,LAL,,CLE,,S. Dinwiddie,LAL,SUB: Castleton FOR Dinwiddie,Substitution,,0,0,0,0,,,h
+S2324-G1018,1,03:15,LAL,,PHI,,S. Dinwiddie,LAL,Dinwiddie BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G1018,1,02:48,LAL,,PHI,,S. Dinwiddie,LAL,MISS Dinwiddie 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-20,63,7,1,2.0,0.0,h
+S2324-G1018,2,11:04,LAL,,PHI,,S. Dinwiddie,LAL,MISS Dinwiddie 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-188,183,26,1,3.0,0.0,h
+S2324-G1018,2,08:00,LAL,37.0,PHI,31.0,S. Dinwiddie,LAL,Dinwiddie 3PT Running Jump Shot (3 PTS) (James 4 AST),Made Shot,Running Jump Shot,-227,30,0,1,3.0,3.0,h
+S2324-G1018,2,07:30,LAL,,PHI,,S. Dinwiddie,LAL,MISS Dinwiddie 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,2,263,26,1,3.0,0.0,h
+S2324-G1018,2,05:20,LAL,,PHI,,S. Dinwiddie,LAL,SUB: Reddish FOR Dinwiddie,Substitution,,0,0,0,0,,,h
+S2324-G1018,3,05:37,LAL,62.0,PHI,66.0,S. Dinwiddie,LAL,Dinwiddie 3PT Jump Shot (6 PTS) (James 5 AST),Made Shot,Jump Shot,232,8,0,1,3.0,3.0,h
+S2324-G1018,3,01:57,LAL,71.0,PHI,70.0,S. Dinwiddie,LAL,Dinwiddie 3PT Jump Shot (9 PTS) (Davis 4 AST),Made Shot,Jump Shot,-229,23,0,1,3.0,3.0,h
+S2324-G1018,3,01:27,LAL,,PHI,,S. Dinwiddie,LAL,MISS Dinwiddie 5' Driving Layup,Missed Shot,Driving Layup Shot,-36,39,5,1,2.0,0.0,h
+S2324-G1018,3,00:42.800000,LAL,72.0,PHI,74.0,S. Dinwiddie,LAL,Dinwiddie Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1018,3,00:42.800000,LAL,73.0,PHI,74.0,S. Dinwiddie,LAL,Dinwiddie Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1018,4,09:10,LAL,,PHI,,S. Dinwiddie,LAL,Dinwiddie S.FOUL (P1.T1) (Z.Zarba),Foul,Shooting,0,0,0,0,,,h
+S2324-G1018,4,07:54,LAL,,PHI,,S. Dinwiddie,LAL,MISS Dinwiddie 25' 3PT Jump Shot,Missed Shot,Jump Shot,-216,125,25,1,3.0,0.0,h
+S2324-G1018,4,06:36,LAL,,PHI,,S. Dinwiddie,LAL,SUB: Reddish FOR Dinwiddie,Substitution,,0,0,0,0,,,h
+S2324-G1063,1,02:26,IND,,LAL,,S. Dinwiddie,LAL,MISS Dinwiddie 12' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-116,27,12,1,2.0,0.0,v
+S2324-G1063,1,01:58,IND,,LAL,,S. Dinwiddie,LAL,Dinwiddie Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G1063,1,01:24,IND,,LAL,,S. Dinwiddie,LAL,MISS Dinwiddie Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G1063,1,01:24,IND,23.0,LAL,20.0,S. Dinwiddie,LAL,Dinwiddie Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1063,1,01:05,IND,,LAL,,S. Dinwiddie,LAL,MISS Dinwiddie 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-103,243,26,1,3.0,0.0,v
+S2324-G1063,1,00:02.100000,IND,,LAL,,S. Dinwiddie,LAL,MISS Dinwiddie 26' 3PT Jump Shot,Missed Shot,Jump Shot,-229,117,26,1,3.0,0.0,v
+S2324-G1063,2,10:59,IND,,LAL,,S. Dinwiddie,LAL,Dinwiddie STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G1063,2,08:09,IND,,LAL,,S. Dinwiddie,LAL,Dinwiddie OFF.Foul (P1) (T.Ford),Foul,Offensive,0,0,0,0,,,v
+S2324-G1063,2,08:09,IND,,LAL,,S. Dinwiddie,LAL,Dinwiddie Offensive Foul Turnover (P2.T8),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G1063,2,07:22,IND,,LAL,,S. Dinwiddie,LAL,Dinwiddie REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1063,2,05:23,IND,,LAL,,S. Dinwiddie,LAL,SUB: Reddish FOR Dinwiddie,Substitution,,0,0,0,0,,,v
+S2324-G1063,3,05:43,IND,,LAL,,S. Dinwiddie,LAL,Dinwiddie S.FOUL (P2.T2) (J.Williams),Foul,Shooting,0,0,0,0,,,v
+S2324-G1063,3,03:43,IND,,LAL,,S. Dinwiddie,LAL,MISS Dinwiddie 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-200,180,27,1,3.0,0.0,v
+S2324-G1063,3,03:36,IND,,LAL,,S. Dinwiddie,LAL,Dinwiddie P.FOUL (P3.T4) (J.Williams),Foul,Personal,0,0,0,0,,,v
+S2324-G1063,3,02:28,IND,,LAL,,S. Dinwiddie,LAL,MISS Dinwiddie 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,45,277,28,1,3.0,0.0,v
+S2324-G1063,3,01:47,IND,83.0,LAL,70.0,S. Dinwiddie,LAL,Dinwiddie 3PT Jump Shot (4 PTS) (Davis 2 AST),Made Shot,Jump Shot,-229,11,0,1,3.0,3.0,v
+S2324-G1063,4,10:10,IND,90.0,LAL,79.0,S. Dinwiddie,LAL,Dinwiddie Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1063,4,10:10,IND,,LAL,,S. Dinwiddie,LAL,MISS Dinwiddie Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G1063,4,09:56,IND,,LAL,,S. Dinwiddie,LAL,Dinwiddie P.FOUL (P4.T1) (J.Williams),Foul,Personal,0,0,0,0,,,v
+S2324-G1063,4,07:18,IND,,LAL,,S. Dinwiddie,LAL,SUB: Russell FOR Dinwiddie,Substitution,,0,0,0,0,,,v
+S2324-G0776,1,01:04,LAL,,DET,,S. Dinwiddie,LAL,Dinwiddie REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0776,1,01:02,LAL,,DET,,S. Dinwiddie,LAL,Dinwiddie Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0776,1,00:31.200000,LAL,,DET,,S. Dinwiddie,LAL,MISS Dinwiddie 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,145,247,29,1,3.0,0.0,h
+S2324-G0776,2,08:22,LAL,,DET,,S. Dinwiddie,LAL,Dinwiddie Bad Pass Turnover (P2.T7),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0776,2,07:47,LAL,,DET,,S. Dinwiddie,LAL,SUB: Davis FOR Dinwiddie,Substitution,,0,0,0,0,,,h
+S2324-G0776,2,03:16,LAL,,DET,,S. Dinwiddie,LAL,Dinwiddie L.B.FOUL (P1.T4) (C.Flores),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0776,3,02:47,LAL,91.0,DET,75.0,S. Dinwiddie,LAL,Dinwiddie 5' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,-1,47,5,1,2.0,2.0,h
+S2324-G0776,3,02:47,LAL,92.0,DET,75.0,S. Dinwiddie,LAL,Dinwiddie Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G0776,3,02:18,LAL,,DET,,S. Dinwiddie,LAL,Dinwiddie Bad Pass Turnover (P3.T11),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0776,3,01:24,LAL,97.0,DET,79.0,S. Dinwiddie,LAL,Dinwiddie 26' 3PT Step Back Jump Shot (6 PTS) (Prince 1 AST),Made Shot,Step Back Jump shot,-176,197,26,1,3.0,3.0,h
+S2324-G0776,3,00:59.300000,LAL,,DET,,S. Dinwiddie,LAL,MISS Dinwiddie 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,223,41,0,1,3.0,0.0,h
+S2324-G0776,3,00:36.600000,LAL,,DET,,S. Dinwiddie,LAL,Dinwiddie STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0776,4,11:11,LAL,,DET,,S. Dinwiddie,LAL,MISS Dinwiddie 3PT Jump Shot,Missed Shot,Jump Shot,228,42,0,1,3.0,0.0,h
+S2324-G0776,4,09:39,LAL,,DET,,S. Dinwiddie,LAL,Dinwiddie OFF.Foul (P2) (B.Nansel),Foul,Offensive,0,0,0,0,,,h
+S2324-G0776,4,09:39,LAL,,DET,,S. Dinwiddie,LAL,Dinwiddie Offensive Foul Turnover (P4.T13),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0776,4,06:49,LAL,,DET,,S. Dinwiddie,LAL,SUB: Prince FOR Dinwiddie,Substitution,,0,0,0,0,,,h
+S2324-G0776,4,04:26,LAL,,DET,,S. Dinwiddie,LAL,Dinwiddie STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0776,4,04:03,LAL,,DET,,S. Dinwiddie,LAL,MISS Dinwiddie 28' 3PT Jump Bank Shot,Missed Shot,Jump Bank Shot,-164,221,28,1,3.0,0.0,h
+S2324-G0776,4,01:25,LAL,,DET,,S. Dinwiddie,LAL,Dinwiddie REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1055,1,05:11,MEM,,LAL,,S. Dinwiddie,LAL,Dinwiddie BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G1055,1,05:09,MEM,,LAL,,S. Dinwiddie,LAL,Dinwiddie REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1055,1,04:43,MEM,,LAL,,S. Dinwiddie,LAL,Dinwiddie REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1055,1,03:37,MEM,20.0,LAL,30.0,S. Dinwiddie,LAL,Dinwiddie 3PT Jump Shot (3 PTS) (Reaves 5 AST),Made Shot,Jump Shot,227,-4,0,1,3.0,3.0,v
+S2324-G1055,1,02:39,MEM,,LAL,,S. Dinwiddie,LAL,Dinwiddie REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1055,1,02:35,MEM,,LAL,,S. Dinwiddie,LAL,MISS Dinwiddie 5' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,-28,38,5,1,2.0,0.0,v
+S2324-G1055,1,01:37,MEM,28.0,LAL,34.0,S. Dinwiddie,LAL,Dinwiddie 10' Driving Floating Jump Shot (5 PTS),Made Shot,Driving Floating Jump Shot,93,39,10,1,2.0,2.0,v
+S2324-G1055,1,01:15,MEM,30.0,LAL,35.0,S. Dinwiddie,LAL,Dinwiddie Free Throw 1 of 3 (6 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,v
+S2324-G1055,1,01:15,MEM,30.0,LAL,36.0,S. Dinwiddie,LAL,Dinwiddie Free Throw 2 of 3 (7 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,v
+S2324-G1055,1,01:15,MEM,30.0,LAL,37.0,S. Dinwiddie,LAL,Dinwiddie Free Throw 3 of 3 (8 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,v
+S2324-G1055,2,00:56.400000,MEM,,LAL,,S. Dinwiddie,LAL,Dinwiddie REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1055,2,00:30.600000,MEM,,LAL,,S. Dinwiddie,LAL,MISS Dinwiddie 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,10,280,28,1,3.0,0.0,v
+S2324-G1055,3,06:27,MEM,,LAL,,S. Dinwiddie,LAL,Dinwiddie REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1055,3,05:39,MEM,,LAL,,S. Dinwiddie,LAL,MISS Dinwiddie 3' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,25,19,3,1,2.0,0.0,v
+S2324-G1055,3,04:27,MEM,71.0,LAL,96.0,S. Dinwiddie,LAL,Dinwiddie 25' 3PT Jump Shot (11 PTS) (James 10 AST),Made Shot,Jump Shot,-148,200,25,1,3.0,3.0,v
+S2324-G1055,3,04:11,MEM,,LAL,,S. Dinwiddie,LAL,Dinwiddie P.FOUL (P1.T4) (S.Foster),Foul,Personal,0,0,0,0,,,v
+S2324-G1055,3,03:42,MEM,,LAL,,S. Dinwiddie,LAL,Dinwiddie Lost Ball Turnover (P1.T10),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G1055,3,00:43.200000,MEM,,LAL,,S. Dinwiddie,LAL,Dinwiddie Bad Pass Turnover (P2.T13),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G1055,4,11:13,MEM,,LAL,,S. Dinwiddie,LAL,Dinwiddie REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1055,4,10:38,MEM,,LAL,,S. Dinwiddie,LAL,Dinwiddie T.FOUL (P1.T1) (M.Smith),Foul,Technical,0,0,0,0,,,v
+S2324-G1055,4,07:03,MEM,,LAL,,S. Dinwiddie,LAL,Dinwiddie REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1055,4,06:55,MEM,,LAL,,S. Dinwiddie,LAL,Dinwiddie P.FOUL (P2.T3) (S.Foster),Foul,Personal,0,0,0,0,,,v
+S2324-G1055,4,06:55,MEM,,LAL,,S. Dinwiddie,LAL,SUB: Russell FOR Dinwiddie,Substitution,,0,0,0,0,,,v
+S2324-G1055,4,02:30,MEM,116.0,LAL,132.0,S. Dinwiddie,LAL,Dinwiddie 24' 3PT Jump Shot (14 PTS) (Reaves 11 AST),Made Shot,Jump Shot,233,57,24,1,3.0,3.0,v
+S2324-G1055,4,02:10,MEM,,LAL,,S. Dinwiddie,LAL,Dinwiddie STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G1055,4,01:19,MEM,,LAL,,S. Dinwiddie,LAL,SUB: Giles III FOR Dinwiddie,Substitution,,0,0,0,0,,,v
+S2324-G0869,2,02:02,LAL,,DEN,,S. Dinwiddie,LAL,MISS Dinwiddie 25' 3PT Jump Shot,Missed Shot,Jump Shot,191,158,25,1,3.0,0.0,h
+S2324-G0869,3,00:00.300000,LAL,,DEN,,S. Dinwiddie,LAL,MISS Dinwiddie 3' Running Layup,Missed Shot,Running Layup Shot,9,33,3,1,2.0,0.0,h
+S2324-G0869,4,10:37,LAL,92.0,DEN,91.0,S. Dinwiddie,LAL,Dinwiddie 3PT Jump Shot (3 PTS) (James 9 AST),Made Shot,Jump Shot,230,17,0,1,3.0,3.0,h
+S2324-G0869,4,10:01,LAL,,DEN,,S. Dinwiddie,LAL,MISS Dinwiddie 28' 3PT Jump Shot,Missed Shot,Jump Shot,-178,210,28,1,3.0,0.0,h
+S2324-G0869,4,09:37,LAL,,DEN,,S. Dinwiddie,LAL,Dinwiddie REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0869,4,09:36,LAL,,DEN,,S. Dinwiddie,LAL,Dinwiddie Lost Ball Turnover (P1.T6),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0869,4,05:30,LAL,,DEN,,S. Dinwiddie,LAL,SUB: Hachimura FOR Dinwiddie,Substitution,,0,0,0,0,,,h
+S2324-G0788,1,03:49,UTA,,LAL,,S. Dinwiddie,LAL,MISS Dinwiddie 25' 3PT Jump Shot,Missed Shot,Jump Shot,-205,143,25,1,3.0,0.0,v
+S2324-G0788,1,02:42,UTA,,LAL,,S. Dinwiddie,LAL,Dinwiddie STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0788,1,02:39,UTA,,LAL,,S. Dinwiddie,LAL,Dinwiddie Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0788,2,10:44,UTA,32.0,LAL,39.0,S. Dinwiddie,LAL,Dinwiddie 5' Driving Floating Bank Jump Shot (2 PTS),Made Shot,Driving Floating Bank Jump Shot,13,47,5,1,2.0,2.0,v
+S2324-G0788,2,09:04,UTA,36.0,LAL,50.0,S. Dinwiddie,LAL,Dinwiddie 24' 3PT Jump Shot (5 PTS) (Russell 7 AST),Made Shot,Jump Shot,237,19,24,1,3.0,3.0,v
+S2324-G0788,2,06:13,UTA,,LAL,,S. Dinwiddie,LAL,MISS Dinwiddie 26' 3PT Jump Shot,Missed Shot,Jump Shot,1,263,26,1,3.0,0.0,v
+S2324-G0788,2,06:05,UTA,,LAL,,S. Dinwiddie,LAL,Dinwiddie S.FOUL (P1.T1) (N.Sago),Foul,Shooting,0,0,0,0,,,v
+S2324-G0788,2,04:29,UTA,,LAL,,S. Dinwiddie,LAL,Dinwiddie STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0788,2,03:50,UTA,,LAL,,S. Dinwiddie,LAL,SUB: Russell FOR Dinwiddie,Substitution,,0,0,0,0,,,v
+S2324-G0788,2,00:42.600000,UTA,,LAL,,S. Dinwiddie,LAL,Dinwiddie P.FOUL (P2.T2) (C.Washington),Foul,Personal,0,0,0,0,,,v
+S2324-G0788,3,03:37,UTA,86.0,LAL,93.0,S. Dinwiddie,LAL,Dinwiddie 3' Driving Reverse Layup (7 PTS),Made Shot,Driving Reverse Layup Shot,23,12,3,1,2.0,2.0,v
+S2324-G0788,4,11:41,UTA,92.0,LAL,111.0,S. Dinwiddie,LAL,Dinwiddie 30' 3PT Jump Shot (10 PTS),Made Shot,Jump Shot,-38,301,30,1,3.0,3.0,v
+S2324-G0788,4,07:17,UTA,,LAL,,S. Dinwiddie,LAL,SUB: Reaves FOR Dinwiddie,Substitution,,0,0,0,0,,,v
+S2324-G1195,3,04:33,NOP,,LAL,,S. Dinwiddie,LAL,Dinwiddie Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G1195,3,02:49,NOP,72.0,LAL,96.0,S. Dinwiddie,LAL,Dinwiddie 5' Driving Floating Bank Jump Shot (2 PTS),Made Shot,Driving Floating Bank Jump Shot,44,18,5,1,2.0,2.0,v
+S2324-G1195,3,02:19,NOP,74.0,LAL,99.0,S. Dinwiddie,LAL,Dinwiddie 26' 3PT Jump Shot (5 PTS) (Russell 4 AST),Made Shot,Jump Shot,189,181,26,1,3.0,3.0,v
+S2324-G1195,3,01:28,NOP,,LAL,,S. Dinwiddie,LAL,MISS Dinwiddie 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-181,193,26,1,3.0,0.0,v
+S2324-G1195,3,00:27.100000,NOP,,LAL,,S. Dinwiddie,LAL,Dinwiddie REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1195,3,00:23.200000,NOP,,LAL,,S. Dinwiddie,LAL,MISS Dinwiddie 3' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,-6,25,3,1,2.0,0.0,v
+S2324-G1195,4,02:04,NOP,103.0,LAL,123.0,S. Dinwiddie,LAL,Dinwiddie Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1195,4,02:04,NOP,103.0,LAL,124.0,S. Dinwiddie,LAL,Dinwiddie Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1195,4,01:47,NOP,,LAL,,S. Dinwiddie,LAL,SUB: Mays FOR Dinwiddie,Substitution,,0,0,0,0,,,v
+S2324-G1045,1,10:07,MIL,,LAL,,S. Dinwiddie,LAL,MISS Dinwiddie 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,168,225,28,1,3.0,0.0,v
+S2324-G1045,1,09:02,MIL,,LAL,,S. Dinwiddie,LAL,Dinwiddie S.FOUL (P1.T1) (T.Brothers),Foul,Shooting,0,0,0,0,,,v
+S2324-G1045,1,07:16,MIL,,LAL,,S. Dinwiddie,LAL,MISS Dinwiddie 14' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,69,117,14,1,2.0,0.0,v
+S2324-G1045,1,05:24,MIL,,LAL,,S. Dinwiddie,LAL,Dinwiddie S.FOUL (P2.T3) (A.Smith),Foul,Shooting,0,0,0,0,,,v
+S2324-G1045,1,05:24,MIL,,LAL,,S. Dinwiddie,LAL,SUB: Hayes FOR Dinwiddie,Substitution,,0,0,0,0,,,v
+S2324-G1045,2,06:20,MIL,,LAL,,S. Dinwiddie,LAL,Dinwiddie BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G1045,2,02:21,MIL,,LAL,,S. Dinwiddie,LAL,Dinwiddie REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1045,2,01:23,MIL,,LAL,,S. Dinwiddie,LAL,MISS Dinwiddie 25' 3PT Jump Shot,Missed Shot,Jump Shot,-240,50,25,1,3.0,0.0,v
+S2324-G1045,3,10:55,MIL,58.0,LAL,46.0,S. Dinwiddie,LAL,Dinwiddie Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1045,3,10:55,MIL,58.0,LAL,47.0,S. Dinwiddie,LAL,Dinwiddie Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1045,3,10:12,MIL,,LAL,,S. Dinwiddie,LAL,MISS Dinwiddie 20' Jump Shot,Missed Shot,Jump Shot,40,201,20,1,2.0,0.0,v
+S2324-G1045,3,07:20,MIL,,LAL,,S. Dinwiddie,LAL,Dinwiddie REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1045,3,03:07,MIL,,LAL,,S. Dinwiddie,LAL,SUB: Reddish FOR Dinwiddie,Substitution,,0,0,0,0,,,v
+S2324-G1045,4,02:44,MIL,,LAL,,S. Dinwiddie,LAL,MISS Dinwiddie 26' 3PT Jump Shot,Missed Shot,Jump Shot,-169,194,26,1,3.0,0.0,v
+S2324-G1045,4,00:02.600000,MIL,,LAL,,S. Dinwiddie,LAL,Dinwiddie P.FOUL (P3.T1) (C.Washington),Foul,Personal,0,0,0,0,,,v
+S2324-G1045,5,02:19,MIL,108.0,LAL,111.0,S. Dinwiddie,LAL,Dinwiddie 27' 3PT Running Pull-Up Jump Shot (5 PTS) (Russell 11 AST),Made Shot,Running Pull-Up Jump Shot,-110,246,27,1,3.0,3.0,v
+S2324-G1045,5,00:03.100000,MIL,,LAL,,S. Dinwiddie,LAL,SUB: Hayes FOR Dinwiddie,Substitution,,0,0,0,0,,,v
+S2324-G1045,6,03:59,MIL,,LAL,,S. Dinwiddie,LAL,Dinwiddie Bad Pass Turnover (P1.T16),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G1045,6,03:33,MIL,,LAL,,S. Dinwiddie,LAL,MISS Dinwiddie 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,0,279,28,1,3.0,0.0,v
+S2324-G1045,6,03:21,MIL,,LAL,,S. Dinwiddie,LAL,MISS Dinwiddie 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,10,24,3,1,2.0,0.0,v
+S2324-G1045,6,01:17,MIL,121.0,LAL,120.0,S. Dinwiddie,LAL,Dinwiddie Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1045,6,01:17,MIL,121.0,LAL,121.0,S. Dinwiddie,LAL,Dinwiddie Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1045,6,00:30.500000,MIL,,LAL,,S. Dinwiddie,LAL,Dinwiddie P.FOUL (P4.T2) (C.Washington),Foul,Personal,0,0,0,0,,,v
+S2324-G1045,6,00:24.200000,MIL,,LAL,,S. Dinwiddie,LAL,SUB: Hayes FOR Dinwiddie,Substitution,,0,0,0,0,,,v
+S2324-G0802,1,05:12,GSW,,LAL,,S. Dinwiddie,LAL,MISS Dinwiddie 3PT Jump Shot,Missed Shot,Jump Shot,-223,40,0,1,3.0,0.0,v
+S2324-G0802,1,04:59,GSW,,LAL,,S. Dinwiddie,LAL,Dinwiddie L.B.FOUL (P1.T2) (G.Petraitis),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0802,2,10:50,GSW,,LAL,,S. Dinwiddie,LAL,Dinwiddie P.FOUL (P2.T1) (Z.Zarba),Foul,Personal,0,0,0,0,,,v
+S2324-G0802,2,10:07,GSW,,LAL,,S. Dinwiddie,LAL,Dinwiddie BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0802,2,10:06,GSW,,LAL,,S. Dinwiddie,LAL,SUB: Hachimura FOR Dinwiddie,Substitution,,0,0,0,0,,,v
+S2324-G0802,2,04:34,GSW,,LAL,,S. Dinwiddie,LAL,Dinwiddie S.FOUL (P3.T4) (M.Kogut),Foul,Shooting,0,0,0,0,,,v
+S2324-G0802,2,04:34,GSW,,LAL,,S. Dinwiddie,LAL,SUB: Christie FOR Dinwiddie,Substitution,,0,0,0,0,,,v
+S2324-G0802,3,05:33,GSW,,LAL,,S. Dinwiddie,LAL,MISS Dinwiddie 11' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,88,68,11,1,2.0,0.0,v
+S2324-G0802,3,03:47,GSW,86.0,LAL,73.0,S. Dinwiddie,LAL,Dinwiddie 10' Floating Jump Shot (2 PTS),Made Shot,Floating Jump shot,-38,94,10,1,2.0,2.0,v
+S2324-G0802,3,02:37,GSW,,LAL,,S. Dinwiddie,LAL,MISS Dinwiddie 11' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,102,27,11,1,2.0,0.0,v
+S2324-G0802,3,01:36,GSW,,LAL,,S. Dinwiddie,LAL,Dinwiddie S.FOUL (P4.T2) (G.Petraitis),Foul,Shooting,0,0,0,0,,,v
+S2324-G0802,3,01:36,GSW,,LAL,,S. Dinwiddie,LAL,SUB: Hachimura FOR Dinwiddie,Substitution,,0,0,0,0,,,v
+S2324-G0802,4,10:03,GSW,,LAL,,S. Dinwiddie,LAL,MISS Dinwiddie 10' Driving Layup,Missed Shot,Driving Layup Shot,93,43,10,1,2.0,0.0,v
+S2324-G0802,4,08:53,GSW,107.0,LAL,93.0,S. Dinwiddie,LAL,Dinwiddie 5' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,39,36,5,1,2.0,2.0,v
+S2324-G0802,4,08:53,GSW,107.0,LAL,94.0,S. Dinwiddie,LAL,Dinwiddie Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G0802,4,08:42,GSW,,LAL,,S. Dinwiddie,LAL,Dinwiddie P.FOUL (P5.T3) (M.Kogut),Foul,Personal,0,0,0,0,,,v
+S2324-G0802,4,08:42,GSW,,LAL,,S. Dinwiddie,LAL,SUB: Prince FOR Dinwiddie,Substitution,,0,0,0,0,,,v
+S2324-G1177,1,01:04,MEM,,LAL,,S. Dinwiddie,LAL,Dinwiddie REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1177,2,06:09,MEM,,LAL,,S. Dinwiddie,LAL,MISS Dinwiddie 3PT Jump Shot,Missed Shot,Jump Shot,232,10,0,1,3.0,0.0,v
+S2324-G1177,2,04:45,MEM,,LAL,,S. Dinwiddie,LAL,Dinwiddie P.FOUL (P1.T3) (S.Twardoski),Foul,Personal,0,0,0,0,,,v
+S2324-G1177,2,03:13,MEM,55.0,LAL,61.0,S. Dinwiddie,LAL,Dinwiddie Free Throw 1 of 3 (1 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,v
+S2324-G1177,2,03:13,MEM,55.0,LAL,62.0,S. Dinwiddie,LAL,Dinwiddie Free Throw 2 of 3 (2 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,v
+S2324-G1177,2,03:13,MEM,55.0,LAL,63.0,S. Dinwiddie,LAL,Dinwiddie Free Throw 3 of 3 (3 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,v
+S2324-G1177,2,02:16,MEM,,LAL,,S. Dinwiddie,LAL,SUB: James FOR Dinwiddie,Substitution,,0,0,0,0,,,v
+S2324-G1177,3,05:09,MEM,,LAL,,S. Dinwiddie,LAL,Dinwiddie S.FOUL (P2.T3) (S.Twardoski),Foul,Shooting,0,0,0,0,,,v
+S2324-G1177,3,03:25,MEM,,LAL,,S. Dinwiddie,LAL,Dinwiddie Lost Ball Turnover (P1.T14),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G1177,3,00:37.800000,MEM,,LAL,,S. Dinwiddie,LAL,Dinwiddie P.FOUL (P3.T4) (S.Wall),Foul,Personal,0,0,0,0,,,v
+S2324-G1032,1,10:57,LAL,2.0,IND,3.0,S. Dinwiddie,LAL,Dinwiddie 3' Driving Dunk (2 PTS),Made Shot,Driving Dunk Shot,1,26,3,1,2.0,2.0,h
+S2324-G1032,1,08:06,LAL,12.0,IND,10.0,S. Dinwiddie,LAL,Dinwiddie 6' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,-12,54,6,1,2.0,2.0,h
+S2324-G1032,1,08:06,LAL,13.0,IND,10.0,S. Dinwiddie,LAL,Dinwiddie Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G1032,1,07:28,LAL,,IND,,S. Dinwiddie,LAL,Dinwiddie BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G1032,1,06:16,LAL,,IND,,S. Dinwiddie,LAL,Dinwiddie Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G1032,1,06:00,LAL,,IND,,S. Dinwiddie,LAL,SUB: Reddish FOR Dinwiddie,Substitution,,0,0,0,0,,,h
+S2324-G1032,1,02:56,LAL,23.0,IND,28.0,S. Dinwiddie,LAL,Dinwiddie 2' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,7,19,2,1,2.0,2.0,h
+S2324-G1032,1,02:50,LAL,,IND,,S. Dinwiddie,LAL,Dinwiddie S.FOUL (P1.T3) (M.Davis),Foul,Shooting,0,0,0,0,,,h
+S2324-G1032,1,02:08,LAL,,IND,,S. Dinwiddie,LAL,MISS Dinwiddie 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,167,205,26,1,3.0,0.0,h
+S2324-G1032,1,00:35.500000,LAL,,IND,,S. Dinwiddie,LAL,Dinwiddie REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1032,1,00:31.400000,LAL,28.0,IND,34.0,S. Dinwiddie,LAL,Dinwiddie Free Throw 1 of 3 (8 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,h
+S2324-G1032,1,00:31.400000,LAL,29.0,IND,34.0,S. Dinwiddie,LAL,Dinwiddie Free Throw 2 of 3 (9 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,h
+S2324-G1032,1,00:31.400000,LAL,30.0,IND,34.0,S. Dinwiddie,LAL,Dinwiddie Free Throw 3 of 3 (10 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,h
+S2324-G1032,2,11:15,LAL,34.0,IND,36.0,S. Dinwiddie,LAL,Dinwiddie 3' Running Layup (12 PTS),Made Shot,Running Layup Shot,12,22,3,1,2.0,2.0,h
+S2324-G1032,2,10:41,LAL,,IND,,S. Dinwiddie,LAL,Dinwiddie S.FOUL (P2.T1) (M.Myers),Foul,Shooting,0,0,0,0,,,h
+S2324-G1032,2,09:22,LAL,,IND,,S. Dinwiddie,LAL,Dinwiddie Bad Pass Turnover (P2.T7),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G1032,2,08:04,LAL,,IND,,S. Dinwiddie,LAL,SUB: Reaves FOR Dinwiddie,Substitution,,0,0,0,0,,,h
+S2324-G1032,2,02:08,LAL,,IND,,S. Dinwiddie,LAL,Dinwiddie BLOCK (2 BLK),,,0,0,0,0,,,h
+S2324-G1032,2,02:05,LAL,,IND,,S. Dinwiddie,LAL,Dinwiddie REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1032,2,00:20.100000,LAL,,IND,,S. Dinwiddie,LAL,MISS Dinwiddie 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,20,36,4,1,2.0,0.0,h
+S2324-G1032,3,11:36,LAL,75.0,IND,68.0,S. Dinwiddie,LAL,Dinwiddie 27' 3PT Jump Shot (15 PTS) (James 5 AST),Made Shot,Jump Shot,136,233,27,1,3.0,3.0,h
+S2324-G1032,3,11:03,LAL,78.0,IND,68.0,S. Dinwiddie,LAL,Dinwiddie 3PT Jump Shot (18 PTS) (James 6 AST),Made Shot,Jump Shot,-233,17,0,1,3.0,3.0,h
+S2324-G1032,3,06:57,LAL,,IND,,S. Dinwiddie,LAL,Dinwiddie S.FOUL (P3.T1) (M.Davis),Foul,Shooting,0,0,0,0,,,h
+S2324-G1032,3,06:06,LAL,94.0,IND,83.0,S. Dinwiddie,LAL,Dinwiddie Free Throw 1 of 3 (19 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,h
+S2324-G1032,3,06:06,LAL,95.0,IND,83.0,S. Dinwiddie,LAL,Dinwiddie Free Throw 2 of 3 (20 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,h
+S2324-G1032,3,06:06,LAL,96.0,IND,83.0,S. Dinwiddie,LAL,Dinwiddie Free Throw 3 of 3 (21 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,h
+S2324-G1032,3,05:17,LAL,,IND,,S. Dinwiddie,LAL,SUB: Reddish FOR Dinwiddie,Substitution,,0,0,0,0,,,h
+S2324-G1032,3,00:58.300000,LAL,,IND,,S. Dinwiddie,LAL,Dinwiddie Traveling Turnover (P3.T10),Turnover,Traveling,0,0,0,0,,,h
+S2324-G1032,4,11:20,LAL,118.0,IND,102.0,S. Dinwiddie,LAL,Dinwiddie 9' Turnaround Fadeaway Bank Jump Shot (23 PTS),Made Shot,Turnaround Fadeaway Bank Jump Shot,56,67,9,1,2.0,2.0,h
+S2324-G1032,4,11:12,LAL,,IND,,S. Dinwiddie,LAL,Dinwiddie S.FOUL (P4.T1) (M.Myers),Foul,Shooting,0,0,0,0,,,h
+S2324-G1032,4,10:55,LAL,,IND,,S. Dinwiddie,LAL,MISS Dinwiddie 10' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-89,52,10,1,2.0,0.0,h
+S2324-G1032,4,09:49,LAL,,IND,,S. Dinwiddie,LAL,SUB: Davis FOR Dinwiddie,Substitution,,0,0,0,0,,,h
+S2324-G1032,4,05:20,LAL,129.0,IND,123.0,S. Dinwiddie,LAL,Dinwiddie 4' Driving Dunk (25 PTS),Made Shot,Driving Dunk Shot,1,36,4,1,2.0,2.0,h
+S2324-G1032,4,01:11,LAL,,IND,,S. Dinwiddie,LAL,Dinwiddie STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1032,4,00:20.200000,LAL,,IND,,S. Dinwiddie,LAL,MISS Dinwiddie Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G1032,4,00:20.200000,LAL,149.0,IND,145.0,S. Dinwiddie,LAL,Dinwiddie Free Throw 2 of 2 (26 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0818,1,03:06,PHX,,LAL,,S. Dinwiddie,LAL,Dinwiddie P.FOUL (P1.T4) (T.Ford),Foul,Personal,0,0,0,0,,,v
+S2324-G0818,2,09:08,PHX,,LAL,,S. Dinwiddie,LAL,MISS Dinwiddie 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-165,189,25,1,3.0,0.0,v
+S2324-G0818,2,08:32,PHX,,LAL,,S. Dinwiddie,LAL,Dinwiddie S.FOUL (P2.T1) (J.Tiven),Foul,Shooting,0,0,0,0,,,v
+S2324-G0818,2,07:46,PHX,,LAL,,S. Dinwiddie,LAL,SUB: Hachimura FOR Dinwiddie,Substitution,,0,0,0,0,,,v
+S2324-G0818,2,02:50,PHX,66.0,LAL,53.0,S. Dinwiddie,LAL,Dinwiddie 3PT Jump Shot (3 PTS) (Russell 3 AST),Made Shot,Jump Shot,-222,51,0,1,3.0,3.0,v
+S2324-G0818,3,02:39,PHX,,LAL,,S. Dinwiddie,LAL,MISS Dinwiddie 6' Driving Layup,Missed Shot,Driving Layup Shot,-47,38,6,1,2.0,0.0,v
+S2324-G0818,4,09:18,PHX,,LAL,,S. Dinwiddie,LAL,MISS Dinwiddie 3PT Jump Shot,Missed Shot,Jump Shot,224,18,0,1,3.0,0.0,v
+S2324-G0818,4,07:52,PHX,,LAL,,S. Dinwiddie,LAL,MISS Dinwiddie 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-230,18,0,1,3.0,0.0,v
+S2324-G0818,4,07:12,PHX,,LAL,,S. Dinwiddie,LAL,SUB: Hachimura FOR Dinwiddie,Substitution,,0,0,0,0,,,v

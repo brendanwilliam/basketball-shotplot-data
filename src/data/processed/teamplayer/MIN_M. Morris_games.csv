@@ -1,0 +1,253 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2324-G1031,1,06:12,MIN,9.0,GSW,11.0,M. Morris,MIN,Morris 3PT Jump Shot (3 PTS) (Edwards 2 AST),Made Shot,Jump Shot,-232,-8,0,1,3.0,3.0,h
+S2324-G1031,1,05:00,MIN,,GSW,,M. Morris,MIN,Morris STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1031,1,04:56,MIN,14.0,GSW,11.0,M. Morris,MIN,Morris 2' Running Finger Roll Layup (5 PTS),Made Shot,Running Finger Roll Layup Shot,21,0,2,1,2.0,2.0,h
+S2324-G1031,1,02:15,MIN,,GSW,,M. Morris,MIN,Morris REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1031,1,01:48,MIN,,GSW,,M. Morris,MIN,MISS Morris 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-116,235,26,1,3.0,0.0,h
+S2324-G1031,1,01:17,MIN,,GSW,,M. Morris,MIN,MISS Morris 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-114,22,12,1,2.0,0.0,h
+S2324-G1031,1,00:31.900000,MIN,,GSW,,M. Morris,MIN,MISS Morris 25' 3PT Jump Shot,Missed Shot,Jump Shot,18,253,25,1,3.0,0.0,h
+S2324-G1031,2,04:19,MIN,,GSW,,M. Morris,MIN,Morris REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1031,2,01:36,MIN,,GSW,,M. Morris,MIN,Morris S.FOUL (P1.T4) (M.Boland),Foul,Shooting,0,0,0,0,,,h
+S2324-G1031,2,01:25,MIN,,GSW,,M. Morris,MIN,SUB: Conley FOR Morris,Substitution,,0,0,0,0,,,h
+S2324-G1031,4,11:20,MIN,,GSW,,M. Morris,MIN,Morris STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G1031,4,11:13,MIN,84.0,GSW,81.0,M. Morris,MIN,Morris 26' 3PT Running Jump Shot (8 PTS) (Conley 6 AST),Made Shot,Running Jump Shot,130,225,26,1,3.0,3.0,h
+S2324-G1031,4,07:25,MIN,,GSW,,M. Morris,MIN,Morris BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G1031,4,05:20,MIN,,GSW,,M. Morris,MIN,SUB: Conley FOR Morris,Substitution,,0,0,0,0,,,h
+S2324-G0987,1,04:16,UTA,23.0,MIN,17.0,M. Morris,MIN,Morris 18' Running Pull-Up Jump Shot (2 PTS),Made Shot,Running Pull-Up Jump Shot,-96,158,18,1,2.0,2.0,v
+S2324-G0987,1,01:44,UTA,,MIN,,M. Morris,MIN,Morris REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0987,1,01:43,UTA,,MIN,,M. Morris,MIN,MISS Morris 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,0,102,10,1,2.0,0.0,v
+S2324-G0987,2,01:10,UTA,55.0,MIN,51.0,M. Morris,MIN,Morris 30' 3PT Jump Shot (5 PTS) (Edwards 2 AST),Made Shot,Jump Shot,-212,210,30,1,3.0,3.0,v
+S2324-G0987,3,03:51,UTA,69.0,MIN,73.0,M. Morris,MIN,Morris 24' 3PT Jump Shot (8 PTS) (Edwards 4 AST),Made Shot,Jump Shot,-232,38,24,1,3.0,3.0,v
+S2324-G0987,3,00:00.700000,UTA,,MIN,,M. Morris,MIN,MISS Morris 25' 3PT Jump Shot,Missed Shot,Jump Shot,-121,222,25,1,3.0,0.0,v
+S2324-G1178,1,05:19,MIN,,ATL,,M. Morris,MIN,Morris REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1178,1,04:56,MIN,,ATL,,M. Morris,MIN,Morris REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1178,1,00:41.300000,MIN,,ATL,,M. Morris,MIN,MISS Morris 25' 3PT Jump Shot,Missed Shot,Jump Shot,130,218,25,1,3.0,0.0,h
+S2324-G0791,2,10:09,POR,21.0,MIN,46.0,M. Morris,MIN,Morris 13' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,-58,111,13,1,2.0,2.0,v
+S2324-G0791,2,08:37,POR,,MIN,,M. Morris,MIN,Morris REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0791,2,07:09,POR,,MIN,,M. Morris,MIN,MISS Morris 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-202,162,26,1,3.0,0.0,v
+S2324-G0791,2,04:17,POR,,MIN,,M. Morris,MIN,SUB: Towns FOR Morris,Substitution,,0,0,0,0,,,v
+S2324-G0791,4,06:34,POR,81.0,MIN,112.0,M. Morris,MIN,Morris 19' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,-51,179,19,1,2.0,2.0,v
+S2324-G0791,4,05:41,POR,,MIN,,M. Morris,MIN,Morris STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0791,4,05:18,POR,,MIN,,M. Morris,MIN,MISS Morris 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-125,232,26,1,3.0,0.0,v
+S2324-G0791,4,03:54,POR,,MIN,,M. Morris,MIN,Morris Bad Pass Turnover (P1.T14),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0791,4,03:25,POR,88.0,MIN,120.0,M. Morris,MIN,Morris 15' Step Back Jump Shot (6 PTS) (Miller 2 AST),Made Shot,Step Back Jump shot,150,29,15,1,2.0,2.0,v
+S2324-G0791,4,02:55,POR,88.0,MIN,123.0,M. Morris,MIN,Morris 24' 3PT Jump Shot (9 PTS) (McLaughlin 1 AST),Made Shot,Jump Shot,192,150,24,1,3.0,3.0,v
+S2324-G0791,4,02:19,POR,88.0,MIN,125.0,M. Morris,MIN,Morris 3' Driving Layup (11 PTS),Made Shot,Driving Layup Shot,7,24,3,1,2.0,2.0,v
+S2324-G0791,4,02:19,POR,88.0,MIN,126.0,M. Morris,MIN,Morris Free Throw 1 of 1 (12 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G0791,4,01:15,POR,,MIN,,M. Morris,MIN,MISS Morris 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,129,222,26,1,3.0,0.0,v
+S2324-G1084,1,05:48,MIN,,CHI,,M. Morris,MIN,Morris REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1084,1,02:38,MIN,17.0,CHI,24.0,M. Morris,MIN,Morris 16' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,-164,11,16,1,2.0,2.0,h
+S2324-G1084,1,00:18,MIN,21.0,CHI,31.0,M. Morris,MIN,Morris Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1084,1,00:18,MIN,22.0,CHI,31.0,M. Morris,MIN,Morris Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1084,2,04:23,MIN,,CHI,,M. Morris,MIN,Morris REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1084,2,00:32.700000,MIN,54.0,CHI,64.0,M. Morris,MIN,Morris 3PT Jump Shot (7 PTS) (Edwards 4 AST),Made Shot,Jump Shot,-227,15,0,1,3.0,3.0,h
+S2324-G1084,2,00:00.600000,MIN,,CHI,,M. Morris,MIN,MISS Morris 3PT Jump Shot,Missed Shot,Jump Shot,-224,49,0,1,3.0,0.0,h
+S2324-G1084,3,04:23,MIN,,CHI,,M. Morris,MIN,Morris STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1084,3,01:10,MIN,,CHI,,M. Morris,MIN,Morris STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G1084,3,01:07,MIN,78.0,CHI,84.0,M. Morris,MIN,Morris Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1084,3,01:07,MIN,79.0,CHI,84.0,M. Morris,MIN,Morris Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1084,3,00:00.400000,MIN,,CHI,,M. Morris,MIN,MISS Morris 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-11,262,26,1,3.0,0.0,h
+S2324-G1143,1,03:27,LAL,,MIN,,M. Morris,MIN,Morris Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G1143,1,03:04,LAL,,MIN,,M. Morris,MIN,Morris REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1143,1,02:56,LAL,29.0,MIN,26.0,M. Morris,MIN,Morris 12' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,60,108,12,1,2.0,2.0,v
+S2324-G1143,1,02:27,LAL,,MIN,,M. Morris,MIN,Morris STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G1143,2,10:36,LAL,39.0,MIN,41.0,M. Morris,MIN,Morris 26' 3PT Running Jump Shot (5 PTS) (Alexander-Walker 1 AST),Made Shot,Running Jump Shot,-217,135,26,1,3.0,3.0,v
+S2324-G1143,2,09:20,LAL,,MIN,,M. Morris,MIN,Morris L.B.FOUL (P1.T2) (R.Acosta),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G1143,2,09:10,LAL,,MIN,,M. Morris,MIN,SUB: Conley FOR Morris,Substitution,,0,0,0,0,,,v
+S2324-G1143,3,05:41,LAL,,MIN,,M. Morris,MIN,Morris REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1143,3,05:05,LAL,,MIN,,M. Morris,MIN,MISS Morris 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-44,58,7,1,2.0,0.0,v
+S2324-G1143,3,03:06,LAL,,MIN,,M. Morris,MIN,MISS Morris 26' 3PT Jump Shot,Missed Shot,Jump Shot,186,176,26,1,3.0,0.0,v
+S2324-G1071,1,04:51,DEN,,MIN,,M. Morris,MIN,MISS Morris 3PT Jump Shot,Missed Shot,Jump Shot,-224,44,0,1,3.0,0.0,v
+S2324-G1071,1,02:19,DEN,,MIN,,M. Morris,MIN,Morris REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1071,3,01:32,DEN,,MIN,,M. Morris,MIN,Morris REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1071,3,01:30,DEN,63.0,MIN,83.0,M. Morris,MIN,Morris 14' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,-136,9,14,1,2.0,2.0,v
+S2324-G1056,1,04:10,MIN,,DET,,M. Morris,MIN,Morris REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1056,1,03:22,MIN,,DET,,M. Morris,MIN,Morris STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1056,1,03:19,MIN,26.0,DET,19.0,M. Morris,MIN,Morris Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1056,1,03:19,MIN,,DET,,M. Morris,MIN,MISS Morris Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G1056,1,00:51.600000,MIN,,DET,,M. Morris,MIN,MISS Morris 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-85,70,11,1,2.0,0.0,h
+S2324-G1056,3,06:06,MIN,,DET,,M. Morris,MIN,MISS Morris 26' 3PT Jump Shot,Missed Shot,Jump Shot,121,226,26,1,3.0,0.0,h
+S2324-G1056,3,04:47,MIN,,DET,,M. Morris,MIN,Morris S.FOUL (P1.PN) (N.Sago),Foul,Shooting,0,0,0,0,,,h
+S2324-G1056,3,04:21,MIN,,DET,,M. Morris,MIN,Morris REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1056,3,03:51,MIN,,DET,,M. Morris,MIN,Morris S.FOUL (P2.PN) (S.Mehta),Foul,Shooting,0,0,0,0,,,h
+S2324-G1056,4,11:28,MIN,,DET,,M. Morris,MIN,Morris Bad Pass Turnover (P1.T11),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G1056,4,10:40,MIN,,DET,,M. Morris,MIN,SUB: McLaughlin FOR Morris,Substitution,,0,0,0,0,,,h
+S2324-G1152,1,03:58,MIN,,WAS,,M. Morris,MIN,MISS Morris 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-5,36,4,1,2.0,0.0,h
+S2324-G1152,1,00:10.100000,MIN,,WAS,,M. Morris,MIN,Morris REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1152,3,06:19,MIN,,WAS,,M. Morris,MIN,Morris REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1152,3,05:35,MIN,,WAS,,M. Morris,MIN,MISS Morris 13' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-2,126,13,1,2.0,0.0,h
+S2324-G1152,3,03:07,MIN,,WAS,,M. Morris,MIN,Morris REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1152,3,02:54,MIN,,WAS,,M. Morris,MIN,MISS Morris 25' 3PT Jump Shot,Missed Shot,Jump Shot,-118,221,25,1,3.0,0.0,h
+S2324-G1152,3,02:15,MIN,,WAS,,M. Morris,MIN,Morris REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1152,3,02:02,MIN,,WAS,,M. Morris,MIN,SUB: Gobert FOR Morris,Substitution,,0,0,0,0,,,h
+S2324-G1152,4,01:12,MIN,130.0,WAS,115.0,M. Morris,MIN,Morris 3PT Jump Shot (3 PTS) (McLaughlin 7 AST),Made Shot,Jump Shot,-224,68,0,1,3.0,3.0,h
+S2324-G1152,4,01:11,MIN,,WAS,,M. Morris,MIN,SUB: Miller FOR Morris,Substitution,,0,0,0,0,,,h
+S2324-G0903,1,04:30,IND,,,,M. Morris,MIN,Morris REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0903,1,01:55,IND,15.0,,29.0,M. Morris,MIN,Morris 3' Running Layup (2 PTS),Made Shot,Running Layup Shot,-20,21,3,1,2.0,2.0,v
+S2324-G0974,3,02:45,UTA,,MIN,,M. Morris,MIN,Morris Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0974,3,02:17,UTA,68.0,MIN,72.0,M. Morris,MIN,Morris 12' Driving Floating Jump Shot (2 PTS) (Edwards 5 AST),Made Shot,Driving Floating Jump Shot,-67,103,12,1,2.0,2.0,v
+S2324-G1125,1,00:35.500000,PHX,32.0,MIN,20.0,M. Morris,MIN,Morris 24' 3PT Jump Shot (3 PTS) (Anderson 3 AST),Made Shot,Jump Shot,-235,2,24,1,3.0,3.0,v
+S2324-G1125,2,06:52,PHX,,MIN,,M. Morris,MIN,Morris BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G1125,2,01:25,PHX,,MIN,,M. Morris,MIN,Morris REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1125,2,01:24,PHX,,MIN,,M. Morris,MIN,MISS Morris Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G1125,2,01:24,PHX,50.0,MIN,36.0,M. Morris,MIN,Morris Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1125,2,00:00.600000,PHX,57.0,MIN,41.0,M. Morris,MIN,Morris 31' 3PT Pullup Jump Shot (7 PTS) (McDaniels 1 AST),Made Shot,Pullup Jump shot,-234,197,31,1,3.0,3.0,v
+S2324-G1125,3,03:39,PHX,,MIN,,M. Morris,MIN,MISS Morris 26' 3PT Jump Shot,Missed Shot,Jump Shot,-158,210,26,1,3.0,0.0,v
+S2324-G1125,3,00:01.400000,PHX,77.0,MIN,61.0,M. Morris,MIN,Morris 1' Running Layup (9 PTS) (Alexander-Walker 2 AST),Made Shot,Running Layup Shot,-1,-8,1,1,2.0,2.0,v
+S2324-G1125,4,10:50,PHX,,MIN,,M. Morris,MIN,Morris REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1125,4,10:41,PHX,,MIN,,M. Morris,MIN,Morris REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1125,4,09:14,PHX,,MIN,,M. Morris,MIN,MISS Morris 17' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,116,129,17,1,2.0,0.0,v
+S2324-G1125,4,08:23,PHX,,MIN,,M. Morris,MIN,Morris REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1125,4,08:13,PHX,,MIN,,M. Morris,MIN,SUB: McLaughlin FOR Morris,Substitution,,0,0,0,0,,,v
+S2324-G1164,1,04:44,DEN,18.0,MIN,17.0,M. Morris,MIN,Morris 24' 3PT Pullup Jump Shot (3 PTS) (Edwards 2 AST),Made Shot,Pullup Jump shot,36,242,24,1,3.0,3.0,v
+S2324-G1164,1,01:03,DEN,24.0,MIN,26.0,M. Morris,MIN,Morris 3PT Jump Shot (6 PTS) (Anderson 2 AST),Made Shot,Jump Shot,-228,10,0,1,3.0,3.0,v
+S2324-G1164,1,00:44.200000,DEN,,MIN,,M. Morris,MIN,Morris S.FOUL (P1.T3) (T.Brothers),Foul,Shooting,0,0,0,0,,,v
+S2324-G1164,2,04:15,DEN,,MIN,,M. Morris,MIN,MISS Morris 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-43,138,14,1,2.0,0.0,v
+S2324-G1164,2,02:43,DEN,,MIN,,M. Morris,MIN,SUB: Conley FOR Morris,Substitution,,0,0,0,0,,,v
+S2324-G1164,3,05:38,DEN,,MIN,,M. Morris,MIN,Morris BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G1164,3,03:50,DEN,,MIN,,M. Morris,MIN,Morris REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1164,3,01:56,DEN,,MIN,,M. Morris,MIN,MISS Morris 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,58,166,18,1,2.0,0.0,v
+S2324-G0775,1,00:39.400000,POR,,MIN,,M. Morris,MIN,Morris STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0775,2,10:54,POR,,MIN,,M. Morris,MIN,MISS Morris 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-69,89,11,1,2.0,0.0,v
+S2324-G0775,2,08:31,POR,,MIN,,M. Morris,MIN,MISS Morris 15' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-39,143,15,1,2.0,0.0,v
+S2324-G0775,2,08:21,POR,,MIN,,M. Morris,MIN,Morris S.FOUL (P1.T2) (S.Mitchell),Foul,Shooting,0,0,0,0,,,v
+S2324-G0775,2,08:21,POR,,MIN,,M. Morris,MIN,SUB: Conley FOR Morris,Substitution,,0,0,0,0,,,v
+S2324-G0775,3,02:49,POR,,MIN,,M. Morris,MIN,Morris REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0775,3,00:04.100000,POR,,MIN,,M. Morris,MIN,MISS Morris 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,89,253,27,1,3.0,0.0,v
+S2324-G1098,1,03:38,MIN,,HOU,,M. Morris,MIN,Morris P.FOUL (P1.T2) (N.Green),Foul,Personal,0,0,0,0,,,h
+S2324-G1098,1,02:27,MIN,16.0,HOU,17.0,M. Morris,MIN,Morris 17' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,-58,159,17,1,2.0,2.0,h
+S2324-G1098,1,00:58.900000,MIN,,HOU,,M. Morris,MIN,MISS Morris 26' 3PT Jump Shot,Missed Shot,Jump Shot,-181,181,26,1,3.0,0.0,h
+S2324-G1098,1,00:46.300000,MIN,,HOU,,M. Morris,MIN,Morris REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1098,1,00:11.700000,MIN,,HOU,,M. Morris,MIN,Morris S.FOUL (P2.T4) (D.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2324-G1098,3,02:59,MIN,,HOU,,M. Morris,MIN,Morris STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1098,3,01:11,MIN,,HOU,,M. Morris,MIN,MISS Morris 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-119,145,19,1,2.0,0.0,h
+S2324-G1108,1,04:30,MIN,,TOR,,M. Morris,MIN,Morris REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1108,1,02:32,MIN,16.0,TOR,16.0,M. Morris,MIN,Morris 14' Jump Shot (2 PTS) (Anderson 2 AST),Made Shot,Jump Shot,-142,20,14,1,2.0,2.0,h
+S2324-G1108,1,02:03,MIN,19.0,TOR,16.0,M. Morris,MIN,Morris 25' 3PT Jump Shot (5 PTS) (Anderson 3 AST),Made Shot,Jump Shot,-159,196,25,1,3.0,3.0,h
+S2324-G1108,1,00:20.300000,MIN,,TOR,,M. Morris,MIN,MISS Morris 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-229,85,24,1,3.0,0.0,h
+S2324-G1108,2,09:43,MIN,,TOR,,M. Morris,MIN,SUB: Reid FOR Morris,Substitution,,0,0,0,0,,,h
+S2324-G1108,2,03:14,MIN,,TOR,,M. Morris,MIN,Morris REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1108,2,02:05,MIN,,TOR,,M. Morris,MIN,Morris BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G1108,2,00:18,MIN,,TOR,,M. Morris,MIN,MISS Morris 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-130,216,25,1,3.0,0.0,h
+S2324-G1108,3,05:51,MIN,,TOR,,M. Morris,MIN,MISS Morris 5' Driving Layup,Missed Shot,Driving Layup Shot,45,16,5,1,2.0,0.0,h
+S2324-G1108,3,01:42,MIN,83.0,TOR,60.0,M. Morris,MIN,Morris 19' Pullup Jump Shot (7 PTS) (Anderson 5 AST),Made Shot,Pullup Jump shot,6,194,19,1,2.0,2.0,h
+S2324-G1108,3,00:33.200000,MIN,,TOR,,M. Morris,MIN,Morris REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1108,3,00:00.200000,MIN,91.0,TOR,60.0,M. Morris,MIN,Morris 25' 3PT Running Jump Shot (10 PTS) (Edwards 6 AST),Made Shot,Running Jump Shot,228,108,25,1,3.0,3.0,h
+S2324-G1108,4,10:21,MIN,,TOR,,M. Morris,MIN,Morris BLOCK (2 BLK),,,0,0,0,0,,,h
+S2324-G1108,4,09:16,MIN,,TOR,,M. Morris,MIN,Morris REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1108,4,08:16,MIN,,TOR,,M. Morris,MIN,Morris STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1108,4,07:04,MIN,110.0,TOR,69.0,M. Morris,MIN,Morris 25' 3PT Jump Shot (13 PTS) (Garza 1 AST),Made Shot,Jump Shot,37,243,25,1,3.0,3.0,h
+S2324-G1108,4,06:46,MIN,,TOR,,M. Morris,MIN,Morris P.FOUL (P1.T3) (D.Guthrie),Foul,Personal,0,0,0,0,,,h
+S2324-G1108,4,06:46,MIN,,TOR,,M. Morris,MIN,SUB: Minott FOR Morris,Substitution,,0,0,0,0,,,h
+S2324-G0995,1,05:22,MIN,,DEN,,M. Morris,MIN,MISS Morris 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,21,52,6,1,2.0,0.0,h
+S2324-G0995,1,03:42,MIN,,DEN,,M. Morris,MIN,Morris STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0995,1,03:29,MIN,,DEN,,M. Morris,MIN,Morris STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0995,1,02:24,MIN,,DEN,,M. Morris,MIN,MISS Morris 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,2,37,4,1,2.0,0.0,h
+S2324-G0995,2,07:25,MIN,,DEN,,M. Morris,MIN,Morris STEAL (3 STL),,,0,0,0,0,,,h
+S2324-G0995,2,05:35,MIN,43.0,DEN,50.0,M. Morris,MIN,Morris 15' Floating Jump Shot (2 PTS) (Anderson 1 AST),Made Shot,Floating Jump shot,-29,145,15,1,2.0,2.0,h
+S2324-G0995,2,03:27,MIN,45.0,DEN,58.0,M. Morris,MIN,Morris 1' Driving Reverse Layup (4 PTS) (Alexander-Walker 2 AST),Made Shot,Driving Reverse Layup Shot,-12,0,1,1,2.0,2.0,h
+S2324-G0995,3,04:45,MIN,77.0,DEN,82.0,M. Morris,MIN,Morris 3PT Jump Shot (7 PTS) (McLaughlin 2 AST),Made Shot,Jump Shot,-229,50,0,1,3.0,3.0,h
+S2324-G0995,3,02:50,MIN,,DEN,,M. Morris,MIN,Morris REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0995,4,04:43,MIN,,DEN,,M. Morris,MIN,MISS Morris 25' 3PT Jump Shot,Missed Shot,Jump Shot,197,148,25,1,3.0,0.0,h
+S2324-G0995,4,02:42,MIN,,DEN,,M. Morris,MIN,MISS Morris Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0995,4,02:42,MIN,99.0,DEN,104.0,M. Morris,MIN,Morris Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0995,4,01:45,MIN,,DEN,,M. Morris,MIN,SUB: McDaniels FOR Morris,Substitution,,0,0,0,0,,,h
+S2324-G0873,1,04:11,MIN,,LAC,,M. Morris,MIN,Morris REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0873,4,09:00,MIN,73.0,LAC,69.0,M. Morris,MIN,Morris 24' 3PT Jump Shot (3 PTS) (Alexander-Walker 1 AST),Made Shot,Jump Shot,227,87,24,1,3.0,3.0,h
+S2324-G0873,4,07:38,MIN,76.0,LAC,74.0,M. Morris,MIN,Morris 3PT Jump Shot (6 PTS) (Towns 6 AST),Made Shot,Jump Shot,-233,-15,0,1,3.0,3.0,h
+S2324-G0873,4,07:04,MIN,,LAC,,M. Morris,MIN,MISS Morris 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,136,97,17,1,2.0,0.0,h
+S2324-G0873,4,05:06,MIN,,LAC,,M. Morris,MIN,MISS Morris 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,59,84,10,1,2.0,0.0,h
+S2324-G0873,4,04:43,MIN,,LAC,,M. Morris,MIN,SUB: Conley FOR Morris,Substitution,,0,0,0,0,,,h
+S2324-G0808,2,10:57,MIN,,MIL,,M. Morris,MIN,MISS Morris 25' 3PT Jump Shot,Missed Shot,Jump Shot,-222,121,25,1,3.0,0.0,h
+S2324-G0808,2,09:28,MIN,,MIL,,M. Morris,MIN,MISS Morris 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-23,204,21,1,2.0,0.0,h
+S2324-G0808,2,06:54,MIN,,MIL,,M. Morris,MIN,SUB: Edwards FOR Morris,Substitution,,0,0,0,0,,,h
+S2324-G0808,4,11:03,MIN,72.0,MIL,87.0,M. Morris,MIN,Morris 2' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,0,18,2,1,2.0,2.0,h
+S2324-G0808,4,08:38,MIN,79.0,MIL,93.0,M. Morris,MIN,Morris 24' 3PT Jump Shot (5 PTS) (Anderson 4 AST),Made Shot,Jump Shot,-229,60,24,1,3.0,3.0,h
+S2324-G0808,4,08:02,MIN,,MIL,,M. Morris,MIN,MISS Morris 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-75,168,18,1,2.0,0.0,h
+S2324-G0808,4,06:57,MIN,,MIL,,M. Morris,MIN,SUB: Edwards FOR Morris,Substitution,,0,0,0,0,,,h
+S2324-G1014,1,02:40,,,CLE,,M. Morris,MIN,MISS Morris 12' Driving Layup,Missed Shot,Driving Layup Shot,10,119,12,1,2.0,0.0,h
+S2324-G1014,2,10:23,,,CLE,,M. Morris,MIN,MISS Morris 24' 3PT Jump Shot,Missed Shot,Jump Shot,170,172,24,1,3.0,0.0,h
+S2324-G1014,2,09:48,,33.0,CLE,27.0,M. Morris,MIN,Morris 25' 3PT Jump Shot (3 PTS) (Anderson 2 AST),Made Shot,Jump Shot,176,181,25,1,3.0,3.0,h
+S2324-G1014,2,08:41,,,CLE,,M. Morris,MIN,MISS Morris 12' Floating Jump Shot,Missed Shot,Floating Jump shot,17,119,12,1,2.0,0.0,h
+S2324-G1014,2,05:48,,,CLE,,M. Morris,MIN,MISS Morris 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,96,119,15,1,2.0,0.0,h
+S2324-G1014,2,04:06,,,CLE,,M. Morris,MIN,SUB: Edwards FOR Morris,Substitution,,0,0,0,0,,,h
+S2324-G0845,1,04:33,MIN,,MEM,,M. Morris,MIN,MISS Morris 1' Running Reverse Layup,Missed Shot,Running Reverse Layup Shot,4,6,1,1,2.0,0.0,h
+S2324-G0845,1,04:20,MIN,,MEM,,M. Morris,MIN,Morris REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0845,2,11:23,MIN,,MEM,,M. Morris,MIN,MISS Morris 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,116,84,14,1,2.0,0.0,h
+S2324-G0845,2,11:05,MIN,,MEM,,M. Morris,MIN,MISS Morris 3PT Jump Shot,Missed Shot,Jump Shot,-223,60,0,1,3.0,0.0,h
+S2324-G0845,2,10:29,MIN,,MEM,,M. Morris,MIN,SUB: McLaughlin FOR Morris,Substitution,,0,0,0,0,,,h
+S2324-G0845,2,06:02,MIN,,MEM,,M. Morris,MIN,Morris REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0845,2,04:26,MIN,44.0,MEM,44.0,M. Morris,MIN,Morris 12' Floating Jump Shot (2 PTS) (Edwards 3 AST),Made Shot,Floating Jump shot,-120,14,12,1,2.0,2.0,h
+S2324-G0845,2,04:26,MIN,,MEM,,M. Morris,MIN,MISS Morris Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2324-G0845,2,02:51,MIN,,MEM,,M. Morris,MIN,SUB: Conley FOR Morris,Substitution,,0,0,0,0,,,h
+S2324-G0845,4,11:30,MIN,,MEM,,M. Morris,MIN,Morris REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0845,4,10:36,MIN,,MEM,,M. Morris,MIN,MISS Morris 2' Running Layup,Missed Shot,Running Layup Shot,12,13,2,1,2.0,0.0,h
+S2324-G0845,4,10:10,MIN,91.0,MEM,87.0,M. Morris,MIN,Morris 24' 3PT Jump Shot (5 PTS) (Alexander-Walker 5 AST),Made Shot,Jump Shot,227,92,24,1,3.0,3.0,h
+S2324-G0845,4,08:59,MIN,,MEM,,M. Morris,MIN,Morris P.FOUL (P1.T2) (G.Petraitis),Foul,Personal,0,0,0,0,,,h
+S2324-G0845,4,06:49,MIN,,MEM,,M. Morris,MIN,Morris REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0845,4,02:18,MIN,,MEM,,M. Morris,MIN,MISS Morris 24' 3PT Jump Shot,Missed Shot,Jump Shot,-225,71,24,1,3.0,0.0,h
+S2324-G0845,4,02:14,MIN,,MEM,,M. Morris,MIN,SUB: Conley FOR Morris,Substitution,,0,0,0,0,,,h
+S2324-G0862,1,00:46.800000,MIN,19.0,SAC,30.0,M. Morris,MIN,Morris 3PT Jump Shot (3 PTS) (Reid 1 AST),Made Shot,Jump Shot,-228,4,0,1,3.0,3.0,h
+S2324-G0862,1,00:04.900000,MIN,,SAC,,M. Morris,MIN,Morris Personal Take Foul (P1.T3) (M.Lindsay),Foul,Personal Take,0,0,0,0,,,h
+S2324-G0862,3,03:46,MIN,,SAC,,M. Morris,MIN,MISS Morris 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,56,43,7,1,2.0,0.0,h
+S2324-G0862,3,02:51,MIN,,SAC,,M. Morris,MIN,MISS Morris 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,118,232,26,1,3.0,0.0,h
+S2324-G0862,3,00:24.900000,MIN,82.0,SAC,89.0,M. Morris,MIN,Morris 20' Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,114,159,20,1,2.0,2.0,h
+S2324-G0815,1,01:25,MIN,,BKN,,M. Morris,MIN,Morris BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0815,1,01:07,MIN,19.0,BKN,22.0,M. Morris,MIN,Morris 2' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,5,15,2,1,2.0,2.0,h
+S2324-G0815,2,09:23,MIN,,BKN,,M. Morris,MIN,Morris STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0815,2,07:01,MIN,,BKN,,M. Morris,MIN,MISS Morris 3PT Jump Shot,Missed Shot,Jump Shot,-227,-3,0,1,3.0,0.0,h
+S2324-G0815,2,06:56,MIN,,BKN,,M. Morris,MIN,SUB: Edwards FOR Morris,Substitution,,0,0,0,0,,,h
+S2324-G0815,3,02:28,MIN,,BKN,,M. Morris,MIN,Morris REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0815,3,02:07,MIN,65.0,BKN,61.0,M. Morris,MIN,Morris 25' 3PT Jump Shot (5 PTS) (Edwards 2 AST),Made Shot,Jump Shot,-189,162,25,1,3.0,3.0,h
+S2324-G0815,3,01:43,MIN,,BKN,,M. Morris,MIN,MISS Morris 26' 3PT Jump Shot,Missed Shot,Jump Shot,172,192,26,1,3.0,0.0,h
+S2324-G0815,4,06:55,MIN,,BKN,,M. Morris,MIN,Morris REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0815,4,06:17,MIN,,BKN,,M. Morris,MIN,SUB: Anderson FOR Morris,Substitution,,0,0,0,0,,,h
+S2324-G0881,1,02:03,,,POR,,M. Morris,MIN,Morris Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0881,2,11:29,,,POR,,M. Morris,MIN,MISS Morris 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-173,17,17,1,2.0,0.0,h
+S2324-G0881,2,10:27,,29.0,POR,32.0,M. Morris,MIN,Morris Free Throw Technical (1 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,h
+S2324-G0881,2,08:46,,,POR,,M. Morris,MIN,MISS Morris 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,126,14,13,1,2.0,0.0,h
+S2324-G0881,2,08:39,,,POR,,M. Morris,MIN,MISS Morris 25' 3PT Jump Shot,Missed Shot,Jump Shot,120,215,25,1,3.0,0.0,h
+S2324-G0881,2,07:39,,39.0,POR,37.0,M. Morris,MIN,Morris 11' Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,-54,93,11,1,2.0,2.0,h
+S2324-G0881,2,06:59,,,POR,,M. Morris,MIN,SUB: McDaniels FOR Morris,Substitution,,0,0,0,0,,,h
+S2324-G0881,3,04:01,,,POR,,M. Morris,MIN,MISS Morris 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-225,43,0,1,3.0,0.0,h
+S2324-G0881,3,01:16,,,POR,,M. Morris,MIN,Morris STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0881,3,00:35.400000,,,POR,,M. Morris,MIN,MISS Morris 6' Driving Layup,Missed Shot,Driving Layup Shot,-51,32,6,1,2.0,0.0,h
+S2324-G0881,4,08:29,,,POR,,M. Morris,MIN,MISS Morris 11' Floating Jump Shot,Missed Shot,Floating Jump shot,50,97,11,1,2.0,0.0,h
+S2324-G0881,4,08:25,,,POR,,M. Morris,MIN,Morris REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0881,4,08:25,,97.0,POR,82.0,M. Morris,MIN,Morris Tip Layup Shot (5 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2324-G0881,4,07:02,,,POR,,M. Morris,MIN,SUB: Towns FOR Morris,Substitution,,0,0,0,0,,,h
+S2324-G0838,1,04:03,MIN,,SAS,,M. Morris,MIN,MISS Morris 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,151,28,15,1,2.0,0.0,h
+S2324-G0838,1,03:38,MIN,,SAS,,M. Morris,MIN,Morris STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0838,1,03:17,MIN,,SAS,,M. Morris,MIN,Morris REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0838,1,01:20,MIN,25.0,SAS,18.0,M. Morris,MIN,Morris 25' 3PT Running Jump Shot (3 PTS) (Alexander-Walker 2 AST),Made Shot,Running Jump Shot,-230,88,25,1,3.0,3.0,h
+S2324-G0838,1,00:00.900000,MIN,,SAS,,M. Morris,MIN,MISS Morris 24' 3PT Jump Shot,Missed Shot,Jump Shot,-230,73,24,1,3.0,0.0,h
+S2324-G0838,2,09:39,MIN,,SAS,,M. Morris,MIN,SUB: McLaughlin FOR Morris,Substitution,,0,0,0,0,,,h
+S2324-G0838,2,02:09,MIN,,SAS,,M. Morris,MIN,Morris REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0838,2,00:27.400000,MIN,,SAS,,M. Morris,MIN,MISS Morris 7' Layup,Missed Shot,Layup Shot,66,27,7,1,2.0,0.0,h
+S2324-G0838,2,00:25.300000,MIN,,SAS,,M. Morris,MIN,Morris REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0838,2,00:24.700000,MIN,,SAS,,M. Morris,MIN,MISS Morris 3' Putback Layup,Missed Shot,Putback Layup Shot,-21,21,3,1,2.0,0.0,h
+S2324-G0838,3,04:15,MIN,,SAS,,M. Morris,MIN,Morris STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0838,3,00:42,MIN,,SAS,,M. Morris,MIN,MISS Morris 3' Driving Layup,Missed Shot,Driving Layup Shot,-21,15,3,1,2.0,0.0,h
+S2324-G0838,4,03:03,MIN,108.0,SAS,94.0,M. Morris,MIN,Morris 17' Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,-54,156,17,1,2.0,2.0,h
+S2324-G0838,4,02:55,MIN,,SAS,,M. Morris,MIN,Morris P.FOUL (P1.T4) (D.Guthrie),Foul,Personal,0,0,0,0,,,h
+S2324-G0838,4,02:16,MIN,,SAS,,M. Morris,MIN,Morris REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0838,4,01:20,MIN,,SAS,,M. Morris,MIN,MISS Morris 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-55,106,12,1,2.0,0.0,h
+S2324-G0838,4,00:29.400000,MIN,112.0,SAS,105.0,M. Morris,MIN,Morris Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0838,4,00:29.400000,MIN,113.0,SAS,105.0,M. Morris,MIN,Morris Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0838,4,00:19.500000,MIN,,SAS,,M. Morris,MIN,MISS Morris Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0838,4,00:19.500000,MIN,114.0,SAS,105.0,M. Morris,MIN,Morris Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1194,4,03:48,MIN,,PHX,,M. Morris,MIN,MISS Morris 9' Floating Jump Shot,Missed Shot,Floating Jump shot,-15,91,9,1,2.0,0.0,h
+S2324-G1194,4,02:42,MIN,,PHX,,M. Morris,MIN,Morris BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G1194,4,01:38,MIN,,PHX,,M. Morris,MIN,MISS Morris 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-172,185,25,1,3.0,0.0,h
+S2324-G1194,4,01:29,MIN,,PHX,,M. Morris,MIN,MISS Morris 25' 3PT Jump Shot,Missed Shot,Jump Shot,-225,100,25,1,3.0,0.0,h
+S2324-G0770,2,06:57,LAC,33.0,,43.0,M. Morris,MIN,Morris 29' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,-97,271,29,1,3.0,3.0,v
+S2324-G0770,2,04:25,LAC,,,,M. Morris,MIN,MISS Morris 24' 3PT Jump Shot,Missed Shot,Jump Shot,230,66,24,1,3.0,0.0,v
+S2324-G0770,2,04:05,LAC,,,,M. Morris,MIN,Morris BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0770,2,03:17,LAC,,,,M. Morris,MIN,SUB: Towns FOR Morris,Substitution,,0,0,0,0,,,v
+S2324-G0770,3,02:01,LAC,,,,M. Morris,MIN,MISS Morris 28' 3PT Jump Shot,Missed Shot,Jump Shot,-153,232,28,1,3.0,0.0,v
+S2324-G0770,3,01:46,LAC,,,,M. Morris,MIN,Morris REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0770,4,03:13,LAC,,,,M. Morris,MIN,Morris S.FOUL (P1.PN) (M.Davis),Foul,Shooting,0,0,0,0,,,v
+S2324-G0770,4,02:35,LAC,,,,M. Morris,MIN,Morris REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0770,4,02:27,LAC,94.0,,113.0,M. Morris,MIN,Morris 20' Step Back Jump Shot (5 PTS),Made Shot,Step Back Jump shot,-103,174,20,1,2.0,2.0,v
+S2324-G0770,4,01:53,LAC,,,,M. Morris,MIN,MISS Morris 26' 3PT Jump Shot,Missed Shot,Jump Shot,-157,204,26,1,3.0,0.0,v
+S2324-G0770,4,00:38.900000,LAC,,,,M. Morris,MIN,Morris STEAL (1 STL),,,0,0,0,0,,,v

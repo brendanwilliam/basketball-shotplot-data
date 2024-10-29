@@ -1,0 +1,89 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2324-G0732,1,04:02,SAC,,DET,,D. Gallinari,DET,Gallinari REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0732,1,03:34,SAC,,DET,,D. Gallinari,DET,Gallinari REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0732,2,11:45,SAC,36.0,DET,33.0,D. Gallinari,DET,Gallinari 12' Pullup Jump Shot (2 PTS) (Ivey 2 AST),Made Shot,Pullup Jump shot,34,117,12,1,2.0,2.0,v
+S2324-G0732,2,10:13,SAC,,DET,,D. Gallinari,DET,Gallinari REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0732,2,09:06,SAC,,DET,,D. Gallinari,DET,SUB: Duren FOR Gallinari,Substitution,,0,0,0,0,,,v
+S2324-G0732,4,11:49,SAC,,DET,,D. Gallinari,DET,Gallinari BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0732,4,10:20,SAC,,DET,,D. Gallinari,DET,Gallinari REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0732,4,08:38,SAC,,DET,,D. Gallinari,DET,Gallinari P.FOUL (P1.T1) (S.Wright),Foul,Personal,0,0,0,0,,,v
+S2324-G0732,4,08:38,SAC,,DET,,D. Gallinari,DET,SUB: Duren FOR Gallinari,Substitution,,0,0,0,0,,,v
+S2324-G0704,1,01:59,DET,,ORL,,D. Gallinari,DET,Gallinari REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0704,1,01:10,DET,,ORL,,D. Gallinari,DET,MISS Gallinari 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,233,54,24,1,3.0,0.0,h
+S2324-G0704,2,11:41,DET,,ORL,,D. Gallinari,DET,Gallinari S.FOUL (P1.T1) (P.Ransom),Foul,Shooting,0,0,0,0,,,h
+S2324-G0704,2,10:59,DET,,ORL,,D. Gallinari,DET,MISS Gallinari 19' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-114,146,19,1,2.0,0.0,h
+S2324-G0704,2,10:33,DET,,ORL,,D. Gallinari,DET,Gallinari STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0704,2,07:53,DET,,ORL,,D. Gallinari,DET,MISS Gallinari 27' 3PT Jump Shot,Missed Shot,Jump Shot,-77,254,27,1,3.0,0.0,h
+S2324-G0704,2,07:40,DET,,ORL,,D. Gallinari,DET,SUB: Bogdanovic FOR Gallinari,Substitution,,0,0,0,0,,,h
+S2324-G0704,3,09:18,DET,,ORL,,D. Gallinari,DET,MISS Gallinari 26' 3PT Jump Shot,Missed Shot,Jump Shot,146,220,26,1,3.0,0.0,h
+S2324-G0704,3,08:00,DET,56.0,ORL,59.0,D. Gallinari,DET,Gallinari Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0704,3,08:00,DET,57.0,ORL,59.0,D. Gallinari,DET,Gallinari Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0704,3,07:13,DET,,ORL,,D. Gallinari,DET,Gallinari Lost Ball Turnover (P1.T12),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0704,3,06:42,DET,,ORL,,D. Gallinari,DET,MISS Gallinari 30' 3PT Jump Shot,Missed Shot,Jump Shot,110,279,30,1,3.0,0.0,h
+S2324-G0704,3,05:26,DET,,ORL,,D. Gallinari,DET,Gallinari S.FOUL (P2.T3) (C.Flores),Foul,Shooting,0,0,0,0,,,h
+S2324-G0704,3,01:42,DET,,ORL,,D. Gallinari,DET,Gallinari REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0704,3,00:38.600000,DET,,ORL,,D. Gallinari,DET,SUB: Wiseman FOR Gallinari,Substitution,,0,0,0,0,,,h
+S2324-G0606,1,05:14,DET,,MIL,,D. Gallinari,DET,Gallinari REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0606,1,04:37,DET,,MIL,,D. Gallinari,DET,Gallinari P.FOUL (P1.T4) (J.Goble),Foul,Personal,0,0,0,0,,,h
+S2324-G0606,1,04:31,DET,,MIL,,D. Gallinari,DET,Gallinari S.FOUL (P2.PN) (A.Nagy),Foul,Shooting,0,0,0,0,,,h
+S2324-G0606,1,04:20,DET,17.0,MIL,21.0,D. Gallinari,DET,Gallinari 4' Cutting Layup Shot (2 PTS) (Ivey 2 AST),Made Shot,Cutting Layup Shot,2,36,4,1,2.0,2.0,h
+S2324-G0606,1,04:20,DET,,MIL,,D. Gallinari,DET,MISS Gallinari Free Throw Technical,Free Throw,Free Throw Technical,0,0,0,0,1.0,0.0,h
+S2324-G0606,1,04:20,DET,18.0,MIL,21.0,D. Gallinari,DET,Gallinari Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G0606,1,02:43,DET,22.0,MIL,25.0,D. Gallinari,DET,Gallinari 26' 3PT Jump Shot (6 PTS) (Ivey 3 AST),Made Shot,Jump Shot,78,245,26,1,3.0,3.0,h
+S2324-G0606,1,01:59,DET,24.0,MIL,28.0,D. Gallinari,DET,Gallinari 2' Driving Layup (8 PTS) (Burks 1 AST),Made Shot,Driving Layup Shot,-18,10,2,1,2.0,2.0,h
+S2324-G0606,1,00:32.400000,DET,,MIL,,D. Gallinari,DET,Gallinari REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0606,1,00:16.600000,DET,,MIL,,D. Gallinari,DET,SUB: Hayes FOR Gallinari,Substitution,,0,0,0,0,,,h
+S2324-G0606,3,04:08,DET,,MIL,,D. Gallinari,DET,Gallinari REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0606,3,03:55,DET,,MIL,,D. Gallinari,DET,MISS Gallinari 12' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,115,32,12,1,2.0,0.0,h
+S2324-G0606,3,00:09.500000,DET,83.0,MIL,89.0,D. Gallinari,DET,Gallinari Free Throw Technical (9 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,h
+S2324-G0606,3,00:09.500000,DET,,MIL,,D. Gallinari,DET,SUB: Duren FOR Gallinari,Substitution,,0,0,0,0,,,h
+S2324-G0688,1,02:39,DET,27.0,LAC,19.0,D. Gallinari,DET,Gallinari Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0688,1,02:39,DET,28.0,LAC,19.0,D. Gallinari,DET,Gallinari Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0688,1,01:08,DET,31.0,LAC,25.0,D. Gallinari,DET,Gallinari 3PT Jump Shot (5 PTS) (Burks 1 AST),Made Shot,Jump Shot,228,55,0,1,3.0,3.0,h
+S2324-G0688,1,00:00.300000,DET,32.0,LAC,27.0,D. Gallinari,DET,Gallinari Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0688,1,00:00.300000,DET,33.0,LAC,27.0,D. Gallinari,DET,Gallinari Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0688,2,10:53,DET,,LAC,,D. Gallinari,DET,Gallinari BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0688,2,09:46,DET,,LAC,,D. Gallinari,DET,Gallinari P.FOUL (P1.T1) (J.Sterling),Foul,Personal,0,0,0,0,,,h
+S2324-G0688,2,09:23,DET,,LAC,,D. Gallinari,DET,Gallinari REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0688,2,09:23,DET,,LAC,,D. Gallinari,DET,MISS Gallinari 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,10,-4,1,1,2.0,0.0,h
+S2324-G0688,2,07:59,DET,,LAC,,D. Gallinari,DET,Gallinari S.FOUL (P2.T2) (J.Sterling),Foul,Shooting,0,0,0,0,,,h
+S2324-G0688,2,07:32,DET,,LAC,,D. Gallinari,DET,SUB: Duren FOR Gallinari,Substitution,,0,0,0,0,,,h
+S2324-G0688,3,02:18,DET,,LAC,,D. Gallinari,DET,MISS Gallinari 3PT Jump Shot,Missed Shot,Jump Shot,-232,26,0,1,3.0,0.0,h
+S2324-G0688,3,00:50.700000,DET,90.0,LAC,96.0,D. Gallinari,DET,Gallinari Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0688,3,00:50.700000,DET,,LAC,,D. Gallinari,DET,MISS Gallinari Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0688,4,09:30,DET,,LAC,,D. Gallinari,DET,Gallinari S.FOUL (P3.T2) (E.Dalen),Foul,Shooting,0,0,0,0,,,h
+S2324-G0688,4,08:49,DET,100.0,LAC,114.0,D. Gallinari,DET,Gallinari Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0688,4,08:49,DET,101.0,LAC,114.0,D. Gallinari,DET,Gallinari Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0688,4,08:36,DET,102.0,LAC,116.0,D. Gallinari,DET,Gallinari Free Throw Technical (11 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,h
+S2324-G0688,4,07:59,DET,,LAC,,D. Gallinari,DET,SUB: Cunningham FOR Gallinari,Substitution,,0,0,0,0,,,h
+S2324-G0675,1,02:07,CLE,23.0,DET,21.0,D. Gallinari,DET,Gallinari 1' Cutting Finger Roll Layup Shot (2 PTS) (Morris 1 AST),Made Shot,Cutting Finger Roll Layup Shot,-9,0,1,1,2.0,2.0,v
+S2324-G0675,1,00:59,CLE,,DET,,D. Gallinari,DET,MISS Gallinari 13' Turnaround Bank Shot,Missed Shot,Turnaround Bank shot,44,118,13,1,2.0,0.0,v
+S2324-G0675,1,00:38.300000,CLE,,DET,,D. Gallinari,DET,Gallinari REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0675,2,11:44,CLE,30.0,DET,26.0,D. Gallinari,DET,Gallinari 26' 3PT Jump Shot (5 PTS) (Burks 2 AST),Made Shot,Jump Shot,-219,136,26,1,3.0,3.0,v
+S2324-G0675,2,11:15,CLE,,DET,,D. Gallinari,DET,Gallinari STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0675,2,08:08,CLE,39.0,DET,37.0,D. Gallinari,DET,Gallinari 27' 3PT Jump Shot (8 PTS) (Sasser 3 AST),Made Shot,Jump Shot,112,246,27,1,3.0,3.0,v
+S2324-G0675,2,07:50,CLE,,DET,,D. Gallinari,DET,Gallinari REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0675,2,07:04,CLE,41.0,DET,43.0,D. Gallinari,DET,Gallinari 31' 3PT Jump Shot (11 PTS) (Morris 2 AST),Made Shot,Jump Shot,76,302,31,1,3.0,3.0,v
+S2324-G0675,2,05:54,CLE,,DET,,D. Gallinari,DET,SUB: Bogdanovic FOR Gallinari,Substitution,,0,0,0,0,,,v
+S2324-G0675,3,11:31,CLE,64.0,DET,60.0,D. Gallinari,DET,Gallinari 3PT Fadeaway Jumper (14 PTS),Made Shot,Fadeaway Jump Shot,-228,-6,0,1,3.0,3.0,v
+S2324-G0675,3,07:00,CLE,,DET,,D. Gallinari,DET,SUB: Knox II FOR Gallinari,Substitution,,0,0,0,0,,,v
+S2324-G0675,3,02:38,CLE,,DET,,D. Gallinari,DET,MISS Gallinari 1' Driving Dunk,Missed Shot,Driving Dunk Shot,-5,0,1,1,2.0,0.0,v
+S2324-G0675,3,01:52,CLE,94.0,DET,86.0,D. Gallinari,DET,Gallinari Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0675,3,01:52,CLE,94.0,DET,87.0,D. Gallinari,DET,Gallinari Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0675,4,11:24,CLE,96.0,DET,93.0,D. Gallinari,DET,Gallinari 1' Driving Layup (18 PTS),Made Shot,Driving Layup Shot,-1,8,1,1,2.0,2.0,v
+S2324-G0675,4,11:24,CLE,,DET,,D. Gallinari,DET,MISS Gallinari Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2324-G0675,4,09:20,CLE,98.0,DET,99.0,D. Gallinari,DET,Gallinari Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0675,4,09:20,CLE,98.0,DET,100.0,D. Gallinari,DET,Gallinari Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0675,4,07:52,CLE,,DET,,D. Gallinari,DET,Gallinari REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0675,4,07:30,CLE,,DET,,D. Gallinari,DET,Gallinari P.FOUL (P1.T1) (G.Petraitis),Foul,Personal,0,0,0,0,,,v
+S2324-G0675,4,07:30,CLE,,DET,,D. Gallinari,DET,SUB: Bogdanovic FOR Gallinari,Substitution,,0,0,0,0,,,v
+S2324-G0592,1,02:18,DET,26.0,MIL,24.0,D. Gallinari,DET,Gallinari Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0592,1,02:18,DET,27.0,MIL,24.0,D. Gallinari,DET,Gallinari Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0592,1,00:03.300000,DET,,MIL,,D. Gallinari,DET,Gallinari Violation:Kicked Ball (P.Ransom),Violation,Kicked Ball,0,0,0,0,,,h
+S2324-G0592,2,09:40,DET,,MIL,,D. Gallinari,DET,SUB: Wiseman FOR Gallinari,Substitution,,0,0,0,0,,,h
+S2324-G0592,3,01:54,DET,91.0,MIL,95.0,D. Gallinari,DET,Gallinari 3PT Jump Shot (5 PTS) (Sasser 4 AST),Made Shot,Jump Shot,230,22,0,1,3.0,3.0,h
+S2324-G0592,3,01:26,DET,92.0,MIL,98.0,D. Gallinari,DET,Gallinari Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0592,3,01:26,DET,93.0,MIL,98.0,D. Gallinari,DET,Gallinari Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0592,4,11:10,DET,,MIL,,D. Gallinari,DET,Gallinari REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0592,4,08:06,DET,115.0,MIL,115.0,D. Gallinari,DET,Gallinari Free Throw Technical (8 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,h
+S2324-G0592,4,06:49,DET,,MIL,,D. Gallinari,DET,SUB: Bogdanovic FOR Gallinari,Substitution,,0,0,0,0,,,h

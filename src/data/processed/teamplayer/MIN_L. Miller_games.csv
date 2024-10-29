@@ -1,0 +1,53 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2324-G0944,4,02:17,LAC,,MIN,,L. Miller,MIN,Miller P.FOUL (P1.T3) (K.Scott),Foul,Personal,0,0,0,0,,,v
+S2324-G0944,4,02:09,LAC,,MIN,,L. Miller,MIN,Miller REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0944,4,02:00,LAC,,MIN,,L. Miller,MIN,Miller REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0791,4,01:44,POR,,MIN,,L. Miller,MIN,MISS Miller 10' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-89,50,10,1,2.0,0.0,v
+S2324-G1143,4,01:19,LAL,,MIN,,L. Miller,MIN,Miller REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1143,4,01:17,LAL,,MIN,,L. Miller,MIN,MISS Miller 3' Putback Layup,Missed Shot,Putback Layup Shot,-10,28,3,1,2.0,0.0,v
+S2324-G0093,4,01:14,MIN,,MIA,,L. Miller,MIN,Miller REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0093,4,00:36.400000,MIN,,MIA,,L. Miller,MIN,MISS Miller 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-16,4,2,1,2.0,0.0,h
+S2324-G1056,4,00:29.100000,MIN,,DET,,L. Miller,MIN,Miller Violation:Kicked Ball (S.Mehta),Violation,Kicked Ball,0,0,0,0,,,h
+S2324-G0738,4,00:49.500000,MIL,,MIN,,L. Miller,MIN,Miller REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0738,4,00:48.500000,MIL,105.0,MIN,129.0,L. Miller,MIN,Miller Putback Layup (2 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,v
+S2324-G0411,4,04:20,OKC,121.0,MIN,101.0,L. Miller,MIN,Miller 1' Alley Oop Layup (2 PTS) (Milton 1 AST),Made Shot,Alley Oop Layup shot,-13,-1,1,1,2.0,2.0,v
+S2324-G0411,4,02:11,OKC,126.0,MIN,104.0,L. Miller,MIN,Miller 26' 3PT Jump Shot (5 PTS) (Minott 1 AST),Made Shot,Jump Shot,185,185,26,1,3.0,3.0,v
+S2324-G0411,4,01:33,OKC,129.0,MIN,106.0,L. Miller,MIN,Miller 2' Layup (7 PTS) (Minott 2 AST),Made Shot,Layup Shot,16,-5,2,1,2.0,2.0,v
+S2324-G0411,4,00:57.300000,OKC,,MIN,,L. Miller,MIN,Miller REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1125,4,03:11,PHX,94.0,MIN,74.0,L. Miller,MIN,Miller 3' Layup (2 PTS) (Minott 1 AST),Made Shot,Layup Shot,25,22,3,1,2.0,2.0,v
+S2324-G1125,4,02:18,PHX,,MIN,,L. Miller,MIN,Miller REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1125,4,00:36.800000,PHX,97.0,MIN,83.0,L. Miller,MIN,Miller 21' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,-146,150,21,1,2.0,2.0,v
+S2324-G1164,4,02:23,DEN,110.0,MIN,96.0,L. Miller,MIN,Miller 14' Turnaround Jump Shot (2 PTS),Made Shot,Turnaround Jump Shot,81,113,14,1,2.0,2.0,v
+S2324-G1164,4,00:45.500000,DEN,,MIN,,L. Miller,MIN,Miller REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1164,4,00:17.400000,DEN,,MIN,,L. Miller,MIN,Miller Personal Take Foul (P1.PN) (C.Washington),Foul,Personal Take,0,0,0,0,,,v
+S2324-G1164,4,00:15.300000,DEN,,MIN,,L. Miller,MIN,Miller REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1164,4,00:09.600000,DEN,116.0,MIN,107.0,L. Miller,MIN,Miller Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1164,4,00:09.600000,DEN,,MIN,,L. Miller,MIN,MISS Miller Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G1108,4,04:47,MIN,116.0,TOR,72.0,L. Miller,MIN,Miller 3PT Running Jump Shot (3 PTS) (Nix 2 AST),Made Shot,Running Jump Shot,-221,11,0,1,3.0,3.0,h
+S2324-G1108,4,04:34,MIN,,TOR,,L. Miller,MIN,Miller STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1108,4,02:36,MIN,122.0,TOR,77.0,L. Miller,MIN,Miller 2' Running Reverse Layup (5 PTS) (Moore Jr. 2 AST),Made Shot,Running Reverse Layup Shot,-20,10,2,1,2.0,2.0,h
+S2324-G1108,4,01:21,MIN,,TOR,,L. Miller,MIN,Miller REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0538,4,07:28,MIN,,POR,,L. Miller,MIN,Miller S.FOUL (P1.PN) (N.Buchert),Foul,Shooting,0,0,0,0,,,h
+S2324-G0538,4,06:23,MIN,,POR,,L. Miller,MIN,Miller P.FOUL (P2.PN) (N.Buchert),Foul,Personal,0,0,0,0,,,h
+S2324-G0538,4,05:53,MIN,,POR,,L. Miller,MIN,Miller BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0538,4,05:40,MIN,107.0,POR,73.0,L. Miller,MIN,Miller 2' Layup (2 PTS) (Milton 1 AST),Made Shot,Layup Shot,5,21,2,1,2.0,2.0,h
+S2324-G0538,4,03:23,MIN,,POR,,L. Miller,MIN,MISS Miller 26' 3PT Jump Shot,Missed Shot,Jump Shot,-154,210,26,1,3.0,0.0,h
+S2324-G0538,4,02:30,MIN,,POR,,L. Miller,MIN,Miller STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0538,4,02:18,MIN,,POR,,L. Miller,MIN,Miller REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0538,4,01:21,MIN,,POR,,L. Miller,MIN,Miller REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0538,4,01:16,MIN,116.0,POR,89.0,L. Miller,MIN,Miller 21' Step Back Jump Shot (4 PTS) (Brown Jr. 3 AST),Made Shot,Step Back Jump shot,-209,27,21,1,2.0,2.0,h
+S2324-G0538,4,00:18.200000,MIN,,POR,,L. Miller,MIN,MISS Miller 25' 3PT Jump Shot,Missed Shot,Jump Shot,205,144,25,1,3.0,0.0,h
+S2324-G0538,4,00:11.800000,MIN,,POR,,L. Miller,MIN,Miller Lost Ball Turnover (P1.T16),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G1194,4,02:22,MIN,,PHX,,L. Miller,MIN,MISS Miller 3PT Jump Shot,Missed Shot,Jump Shot,234,-1,0,1,3.0,0.0,h
+S2324-G1194,4,01:59,MIN,,PHX,,L. Miller,MIN,Miller REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1194,4,01:34,MIN,,PHX,,L. Miller,MIN,Miller REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1194,4,01:07,MIN,,PHX,,L. Miller,MIN,MISS Miller 3' Driving Layup,Missed Shot,Driving Layup Shot,18,20,3,1,2.0,0.0,h
+S2324-G1194,4,01:05,MIN,,PHX,,L. Miller,MIN,Miller REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1194,4,01:05,MIN,102.0,PHX,120.0,L. Miller,MIN,Miller 2' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,5,15,2,1,2.0,2.0,h
+S2324-G0249,4,01:39,MEM,,MIN,,L. Miller,MIN,Miller REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0249,4,01:28,MEM,93.0,MIN,114.0,L. Miller,MIN,Miller 1' Reverse Layup (2 PTS) (Milton 3 AST),Made Shot,Reverse Layup Shot,4,4,1,1,2.0,2.0,v
+S2324-G0249,4,01:12,MEM,,MIN,,L. Miller,MIN,Miller REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0232,4,01:28,MIN,,PHI,,L. Miller,MIN,Miller REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0232,4,00:54.400000,MIN,,PHI,,L. Miller,MIN,Miller REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0232,4,00:44.300000,MIN,,PHI,,L. Miller,MIN,Miller S.FOUL (P1.PN) (E.Malloy),Foul,Shooting,0,0,0,0,,,h
+S2324-G0232,4,00:24.200000,MIN,,PHI,,L. Miller,MIN,Miller REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h

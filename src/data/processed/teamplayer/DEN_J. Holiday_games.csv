@@ -1,0 +1,487 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2324-G1154,1,00:56.300000,UTA,,DEN,,J. Holiday,DEN,MISS Holiday 2' Layup,Missed Shot,Layup Shot,-23,0,2,1,2.0,0.0,v
+S2324-G1154,2,11:13,UTA,,DEN,,J. Holiday,DEN,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1154,2,09:09,UTA,,DEN,,J. Holiday,DEN,Holiday S.FOUL (P1.T1) (N.Sago),Foul,Shooting,0,0,0,0,,,v
+S2324-G1154,2,07:58,UTA,31.0,DEN,43.0,J. Holiday,DEN,Holiday 25' 3PT Jump Shot (3 PTS) (Jackson 2 AST),Made Shot,Jump Shot,53,245,25,1,3.0,3.0,v
+S2324-G1154,2,05:57,UTA,,DEN,,J. Holiday,DEN,SUB: Braun FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G1154,4,07:56,UTA,,DEN,,J. Holiday,DEN,MISS Holiday 26' 3PT Jump Shot,Missed Shot,Jump Shot,-129,222,26,1,3.0,0.0,v
+S2324-G1154,4,06:57,UTA,,DEN,,J. Holiday,DEN,SUB: Jokic FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G1154,4,01:10,UTA,92.0,DEN,111.0,J. Holiday,DEN,Holiday 25' 3PT Jump Shot (6 PTS) (Pickett 1 AST),Made Shot,Jump Shot,-230,102,25,1,3.0,3.0,v
+S2324-G1154,4,00:53.600000,UTA,,DEN,,J. Holiday,DEN,MISS Holiday 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,109,237,26,1,3.0,0.0,v
+S2324-G0786,1,10:27,DEN,,SAC,,J. Holiday,DEN,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0786,1,08:45,DEN,10.0,SAC,5.0,J. Holiday,DEN,Holiday 3PT Jump Shot (3 PTS) (Gordon 1 AST),Made Shot,Jump Shot,-232,15,0,1,3.0,3.0,h
+S2324-G0786,1,01:53,DEN,,SAC,,J. Holiday,DEN,SUB: Porter Jr. FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0786,2,07:13,DEN,,SAC,,J. Holiday,DEN,Holiday REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0786,2,07:13,DEN,,SAC,,J. Holiday,DEN,MISS Holiday Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2324-G0786,2,06:52,DEN,38.0,SAC,30.0,J. Holiday,DEN,Holiday 24' 3PT Jump Shot (6 PTS) (Braun 1 AST),Made Shot,Jump Shot,-227,68,24,1,3.0,3.0,h
+S2324-G0786,2,05:38,DEN,,SAC,,J. Holiday,DEN,Holiday STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0786,2,05:09,DEN,,SAC,,J. Holiday,DEN,Holiday REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0786,2,04:55,DEN,,SAC,,J. Holiday,DEN,MISS Holiday 26' 3PT Jump Shot,Missed Shot,Jump Shot,114,239,26,1,3.0,0.0,h
+S2324-G0786,2,02:16,DEN,,SAC,,J. Holiday,DEN,Holiday S.FOUL (P1.T4) (R.Acosta),Foul,Shooting,0,0,0,0,,,h
+S2324-G0786,2,01:25,DEN,,SAC,,J. Holiday,DEN,Holiday REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0786,3,11:07,DEN,,SAC,,J. Holiday,DEN,Holiday S.FOUL (P2.T1) (D.Guthrie),Foul,Shooting,0,0,0,0,,,h
+S2324-G0786,3,09:31,DEN,,SAC,,J. Holiday,DEN,MISS Holiday 3PT Jump Shot,Missed Shot,Jump Shot,-223,-21,0,1,3.0,0.0,h
+S2324-G0786,3,05:38,DEN,,SAC,,J. Holiday,DEN,Holiday Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0786,3,03:47,DEN,68.0,SAC,60.0,J. Holiday,DEN,Holiday Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0786,3,03:47,DEN,69.0,SAC,60.0,J. Holiday,DEN,Holiday Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0786,3,02:47,DEN,,SAC,,J. Holiday,DEN,Holiday S.FOUL (P3.T4) (D.Guthrie),Foul,Shooting,0,0,0,0,,,h
+S2324-G0786,3,01:13,DEN,,SAC,,J. Holiday,DEN,SUB: Jackson FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0786,4,05:08,DEN,,SAC,,J. Holiday,DEN,MISS Holiday 3PT Jump Shot,Missed Shot,Jump Shot,-227,-12,0,1,3.0,0.0,h
+S2324-G0786,4,01:41,DEN,,SAC,,J. Holiday,DEN,MISS Holiday 19' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,119,145,19,1,2.0,0.0,h
+S2324-G0786,4,01:14,DEN,,SAC,,J. Holiday,DEN,MISS Holiday 2' Running Layup,Missed Shot,Running Layup Shot,15,8,2,1,2.0,0.0,h
+S2324-G0682,1,01:18,OKC,16.0,DEN,28.0,J. Holiday,DEN,Holiday 24' 3PT Step Back Jump Shot (3 PTS) (Jackson 2 AST),Made Shot,Step Back Jump shot,-237,-22,24,1,3.0,3.0,v
+S2324-G0682,1,00:28.600000,OKC,,DEN,,J. Holiday,DEN,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0682,1,00:01.500000,OKC,,DEN,,J. Holiday,DEN,Holiday BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0682,2,09:03,OKC,,DEN,,J. Holiday,DEN,MISS Holiday 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,140,218,26,1,3.0,0.0,v
+S2324-G0682,2,08:01,OKC,,DEN,,J. Holiday,DEN,Holiday P.FOUL (P1.T2) (N.Buchert),Foul,Personal,0,0,0,0,,,v
+S2324-G0682,2,05:57,OKC,,DEN,,J. Holiday,DEN,Holiday S.FOUL (P2.T4) (C.Blair),Foul,Shooting,0,0,0,0,,,v
+S2324-G0682,2,05:57,OKC,,DEN,,J. Holiday,DEN,SUB: Caldwell-Pope FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0682,3,02:12,OKC,,DEN,,J. Holiday,DEN,Holiday STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0682,3,01:50,OKC,,DEN,,J. Holiday,DEN,Holiday S.FOUL (P3.PN) (N.Buchert),Foul,Shooting,0,0,0,0,,,v
+S2324-G0682,3,00:28.900000,OKC,70.0,DEN,72.0,J. Holiday,DEN,Holiday 16' Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,143,80,16,1,2.0,2.0,v
+S2324-G1180,1,01:11,SAS,,DEN,,J. Holiday,DEN,MISS Holiday 3PT Jump Shot,Missed Shot,Jump Shot,-232,0,0,1,3.0,0.0,v
+S2324-G1180,1,00:05.300000,SAS,,DEN,,J. Holiday,DEN,Holiday L.B.FOUL (P1.T3) (J.Sterling),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G1180,2,11:16,SAS,34.0,DEN,34.0,J. Holiday,DEN,Holiday 3PT Jump Shot (3 PTS) (Jackson 2 AST),Made Shot,Jump Shot,232,17,0,1,3.0,3.0,v
+S2324-G1180,2,11:00,SAS,,DEN,,J. Holiday,DEN,MISS Holiday 25' 3PT Jump Shot,Missed Shot,Jump Shot,13,247,25,1,3.0,0.0,v
+S2324-G1180,2,10:45,SAS,,DEN,,J. Holiday,DEN,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1180,2,07:33,SAS,,DEN,,J. Holiday,DEN,MISS Holiday 3PT Jump Shot,Missed Shot,Jump Shot,-228,10,0,1,3.0,0.0,v
+S2324-G1180,2,07:07,SAS,,DEN,,J. Holiday,DEN,MISS Holiday 24' 3PT Jump Shot,Missed Shot,Jump Shot,239,-6,24,1,3.0,0.0,v
+S2324-G1180,2,06:36,SAS,,DEN,,J. Holiday,DEN,SUB: Murray FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G1180,3,02:13,SAS,83.0,DEN,94.0,J. Holiday,DEN,Holiday 25' 3PT Jump Shot (6 PTS) (Jokic 9 AST),Made Shot,Jump Shot,-165,194,25,1,3.0,3.0,v
+S2324-G1180,3,00:39,SAS,87.0,DEN,97.0,J. Holiday,DEN,Holiday 1' Driving Reverse Layup (8 PTS) (Jokic 10 AST),Made Shot,Driving Reverse Layup Shot,0,5,1,1,2.0,2.0,v
+S2324-G1180,4,11:06,SAS,,DEN,,J. Holiday,DEN,Holiday STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G1180,4,07:57,SAS,,DEN,,J. Holiday,DEN,SUB: Jokic FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0800,3,00:54.500000,DEN,,WAS,,J. Holiday,DEN,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0800,3,00:49.500000,DEN,,WAS,,J. Holiday,DEN,Holiday BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0800,4,11:33,DEN,,WAS,,J. Holiday,DEN,Holiday STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0800,4,11:26,DEN,103.0,WAS,83.0,J. Holiday,DEN,Holiday 12' Running Dunk (2 PTS) (Jackson 3 AST),Made Shot,Running Dunk Shot,43,113,12,1,2.0,2.0,h
+S2324-G0800,4,10:25,DEN,,WAS,,J. Holiday,DEN,Holiday STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0800,4,09:59,DEN,109.0,WAS,83.0,J. Holiday,DEN,Holiday 27' 3PT Running Jump Shot (5 PTS) (Murray 8 AST),Made Shot,Running Jump Shot,48,267,27,1,3.0,3.0,h
+S2324-G0800,4,08:00,DEN,112.0,WAS,92.0,J. Holiday,DEN,Holiday 28' 3PT Jump Shot (8 PTS) (Jokic 14 AST),Made Shot,Jump Shot,130,243,28,1,3.0,3.0,h
+S2324-G0800,4,05:26,DEN,,WAS,,J. Holiday,DEN,SUB: Braun FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0800,4,03:47,DEN,,WAS,,J. Holiday,DEN,MISS Holiday 3PT Jump Shot,Missed Shot,Jump Shot,-228,25,0,1,3.0,0.0,h
+S2324-G0800,4,03:22,DEN,,WAS,,J. Holiday,DEN,MISS Holiday 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,121,151,19,1,2.0,0.0,h
+S2324-G1114,1,02:23,LAC,,DEN,,J. Holiday,DEN,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1114,1,01:39,LAC,,DEN,,J. Holiday,DEN,Holiday Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G1114,1,00:17.600000,LAC,,DEN,,J. Holiday,DEN,MISS Holiday 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,141,233,27,1,3.0,0.0,v
+S2324-G1114,2,10:16,LAC,,DEN,,J. Holiday,DEN,SUB: Caldwell-Pope FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G1114,3,02:32,LAC,,DEN,,J. Holiday,DEN,Holiday REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0210,1,00:27.200000,CLE,,DEN,,J. Holiday,DEN,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0210,1,00:05.400000,CLE,,DEN,,J. Holiday,DEN,MISS Holiday 24' 3PT Jump Shot,Missed Shot,Jump Shot,-238,-5,24,1,3.0,0.0,v
+S2324-G0210,2,09:25,CLE,,DEN,,J. Holiday,DEN,SUB: Caldwell-Pope FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0210,3,01:42,CLE,,DEN,,J. Holiday,DEN,Holiday P.FOUL (P1.T3) (L.Holtkamp),Foul,Personal,0,0,0,0,,,v
+S2324-G0210,4,08:24,CLE,,DEN,,J. Holiday,DEN,SUB: Porter Jr. FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0210,4,04:58,CLE,,DEN,,J. Holiday,DEN,Holiday S.FOUL (P2.T2) (B.Nansel),Foul,Shooting,0,0,0,0,,,v
+S2324-G0210,4,01:45,CLE,118.0,DEN,100.0,J. Holiday,DEN,Holiday 24' 3PT Running Jump Shot (3 PTS) (Gillespie 1 AST),Made Shot,Running Jump Shot,-235,-3,24,1,3.0,3.0,v
+S2324-G0210,4,00:42.300000,CLE,121.0,DEN,106.0,J. Holiday,DEN,Holiday 28' 3PT Jump Shot (6 PTS) (Pickett 3 AST),Made Shot,Jump Shot,98,259,28,1,3.0,3.0,v
+S2324-G1026,1,02:51,POR,,DEN,,J. Holiday,DEN,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1026,2,05:07,POR,35.0,DEN,49.0,J. Holiday,DEN,Holiday 1' Running Dunk (2 PTS) (Gordon 2 AST),Made Shot,Running Dunk Shot,10,9,1,1,2.0,2.0,v
+S2324-G1026,2,03:45,POR,,DEN,,J. Holiday,DEN,SUB: Braun FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G1026,3,02:31,POR,,DEN,,J. Holiday,DEN,MISS Holiday 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,102,136,17,1,2.0,0.0,v
+S2324-G0322,1,10:09,DEN,,BKN,,J. Holiday,DEN,MISS Holiday 24' 3PT Jump Shot,Missed Shot,Jump Shot,235,36,24,1,3.0,0.0,h
+S2324-G0322,1,09:13,DEN,,BKN,,J. Holiday,DEN,MISS Holiday 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,170,194,26,1,3.0,0.0,h
+S2324-G0322,1,06:28,DEN,,BKN,,J. Holiday,DEN,Holiday Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0322,1,06:17,DEN,,BKN,,J. Holiday,DEN,Holiday STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0322,1,05:29,DEN,,BKN,,J. Holiday,DEN,Holiday STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0322,1,05:25,DEN,17.0,BKN,14.0,J. Holiday,DEN,Holiday 1' Running Dunk (2 PTS) (Jokic 4 AST),Made Shot,Running Dunk Shot,10,-2,1,1,2.0,2.0,h
+S2324-G0322,1,04:07,DEN,,BKN,,J. Holiday,DEN,SUB: Braun FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0322,2,05:21,DEN,,BKN,,J. Holiday,DEN,Holiday STEAL (3 STL),,,0,0,0,0,,,h
+S2324-G0322,2,04:25,DEN,,BKN,,J. Holiday,DEN,MISS Holiday 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-225,79,24,1,3.0,0.0,h
+S2324-G0322,2,01:35,DEN,,BKN,,J. Holiday,DEN,Holiday STEAL (4 STL),,,0,0,0,0,,,h
+S2324-G0322,2,00:18.100000,DEN,,BKN,,J. Holiday,DEN,Holiday S.FOUL (P1.T4) (Z.Zarba),Foul,Shooting,0,0,0,0,,,h
+S2324-G0322,3,07:55,DEN,,BKN,,J. Holiday,DEN,Holiday S.FOUL (P2.T2) (B.Barnaky),Foul,Shooting,0,0,0,0,,,h
+S2324-G0322,3,04:53,DEN,,BKN,,J. Holiday,DEN,MISS Holiday 3PT Jump Shot,Missed Shot,Jump Shot,221,7,0,1,3.0,0.0,h
+S2324-G0322,3,04:36,DEN,,BKN,,J. Holiday,DEN,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0322,3,03:12,DEN,,BKN,,J. Holiday,DEN,SUB: Braun FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0322,4,03:55,DEN,,BKN,,J. Holiday,DEN,MISS Holiday 3PT Jump Shot,Missed Shot,Jump Shot,234,13,0,1,3.0,0.0,h
+S2324-G0322,4,01:25,DEN,,BKN,,J. Holiday,DEN,SUB: Tyson FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G1071,1,00:08.100000,DEN,,MIN,,J. Holiday,DEN,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1071,2,02:11,DEN,,MIN,,J. Holiday,DEN,Holiday S.FOUL (P1.T4) (K.Lane),Foul,Shooting,0,0,0,0,,,h
+S2324-G1071,2,01:06,DEN,,MIN,,J. Holiday,DEN,MISS Holiday 25' 3PT Jump Shot,Missed Shot,Jump Shot,49,246,25,1,3.0,0.0,h
+S2324-G1071,3,02:18,DEN,63.0,MIN,81.0,J. Holiday,DEN,Holiday 25' 3PT Jump Shot (3 PTS) (Jackson 3 AST),Made Shot,Jump Shot,-147,204,25,1,3.0,3.0,h
+S2324-G1071,3,01:44,DEN,,MIN,,J. Holiday,DEN,Holiday P.FOUL (P2.T4) (J.Goble),Foul,Personal,0,0,0,0,,,h
+S2324-G1071,4,11:21,DEN,68.0,MIN,87.0,J. Holiday,DEN,Holiday 2' Cutting Layup Shot (5 PTS) (Jackson 5 AST),Made Shot,Cutting Layup Shot,-9,16,2,1,2.0,2.0,h
+S2324-G1071,4,09:55,DEN,,MIN,,J. Holiday,DEN,Holiday STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1071,4,09:10,DEN,,MIN,,J. Holiday,DEN,MISS Holiday 3PT Running Jump Shot,Missed Shot,Running Jump Shot,222,17,0,1,3.0,0.0,h
+S2324-G1071,4,07:04,DEN,,MIN,,J. Holiday,DEN,SUB: Jokic FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G1071,4,01:16,DEN,,MIN,,J. Holiday,DEN,MISS Holiday 24' 3PT Jump Shot,Missed Shot,Jump Shot,-232,38,24,1,3.0,0.0,h
+S2324-G1071,4,00:46,DEN,,MIN,,J. Holiday,DEN,SUB: Huff FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0226,2,00:01.400000,ORL,,DEN,,J. Holiday,DEN,SUB: Porter Jr. FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0949,1,01:01,MIA,,DEN,,J. Holiday,DEN,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0949,2,11:44,MIA,,DEN,,J. Holiday,DEN,MISS Holiday 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,185,162,25,1,3.0,0.0,v
+S2324-G0949,2,11:17,MIA,,DEN,,J. Holiday,DEN,MISS Holiday 23' Pullup Jump Shot,Missed Shot,Pullup Jump shot,137,179,23,1,2.0,0.0,v
+S2324-G0949,2,11:00,MIA,,DEN,,J. Holiday,DEN,Holiday S.FOUL (P1.T1) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,v
+S2324-G0949,2,10:48,MIA,,DEN,,J. Holiday,DEN,MISS Holiday 25' 3PT Jump Shot,Missed Shot,Jump Shot,227,107,25,1,3.0,0.0,v
+S2324-G0949,2,10:00,MIA,,DEN,,J. Holiday,DEN,Holiday REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0949,2,09:47,MIA,,DEN,,J. Holiday,DEN,MISS Holiday 26' 3PT Jump Shot,Missed Shot,Jump Shot,135,222,26,1,3.0,0.0,v
+S2324-G0949,2,08:10,MIA,,DEN,,J. Holiday,DEN,Holiday BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0949,2,08:05,MIA,,DEN,,J. Holiday,DEN,Holiday S.FOUL (P2.T3) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,v
+S2324-G0949,2,08:05,MIA,,DEN,,J. Holiday,DEN,SUB: Gordon FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0949,4,07:42,MIA,,DEN,,J. Holiday,DEN,Holiday REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0949,4,07:05,MIA,77.0,DEN,83.0,J. Holiday,DEN,Holiday 19' Step Back Jump Shot (2 PTS) (Gordon 3 AST),Made Shot,Step Back Jump shot,188,10,19,1,2.0,2.0,v
+S2324-G0949,4,06:29,MIA,,DEN,,J. Holiday,DEN,SUB: Jokic FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0123,4,05:15,MIN,,DEN,,J. Holiday,DEN,MISS Holiday 24' 3PT Jump Shot,Missed Shot,Jump Shot,229,56,24,1,3.0,0.0,v
+S2324-G0123,4,04:34,MIN,,DEN,,J. Holiday,DEN,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0123,4,03:11,MIN,99.0,DEN,83.0,J. Holiday,DEN,Holiday 3PT Jump Shot (3 PTS) (Key 2 AST),Made Shot,Jump Shot,-225,11,0,1,3.0,3.0,v
+S2324-G0965,2,11:24,SAS,20.0,DEN,39.0,J. Holiday,DEN,Holiday 1' Driving Reverse Layup (2 PTS) (Watson 1 AST),Made Shot,Driving Reverse Layup Shot,-11,5,1,1,2.0,2.0,v
+S2324-G0965,2,09:47,SAS,,DEN,,J. Holiday,DEN,MISS Holiday 24' 3PT Jump Shot,Missed Shot,Jump Shot,135,204,24,1,3.0,0.0,v
+S2324-G0965,2,09:32,SAS,,DEN,,J. Holiday,DEN,Holiday P.FOUL (P1.T3) (D.Richardson),Foul,Personal,0,0,0,0,,,v
+S2324-G0965,2,08:46,SAS,,DEN,,J. Holiday,DEN,MISS Holiday 1' Running Dunk,Missed Shot,Running Dunk Shot,6,0,1,1,2.0,0.0,v
+S2324-G0965,2,08:41,SAS,,DEN,,J. Holiday,DEN,Holiday STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0965,2,05:40,SAS,33.0,DEN,50.0,J. Holiday,DEN,Holiday 24' 3PT Jump Shot (5 PTS) (Braun 2 AST),Made Shot,Jump Shot,203,137,24,1,3.0,3.0,v
+S2324-G0965,2,04:49,SAS,,DEN,,J. Holiday,DEN,SUB: Caldwell-Pope FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0965,3,01:04,SAS,,DEN,,J. Holiday,DEN,MISS Holiday 26' 3PT Jump Shot,Missed Shot,Jump Shot,135,218,26,1,3.0,0.0,v
+S2324-G0965,3,00:00,SAS,79.0,DEN,86.0,J. Holiday,DEN,Holiday 25' 3PT Jump Shot (8 PTS) (Murray 5 AST),Made Shot,Jump Shot,-238,75,25,1,3.0,3.0,v
+S2324-G0965,4,09:57,SAS,,DEN,,J. Holiday,DEN,MISS Holiday 3PT Jump Shot,Missed Shot,Jump Shot,227,4,0,1,3.0,0.0,v
+S2324-G0965,4,08:36,SAS,83.0,DEN,95.0,J. Holiday,DEN,Holiday 3PT Jump Shot (11 PTS) (Braun 3 AST),Made Shot,Jump Shot,225,-17,0,1,3.0,3.0,v
+S2324-G0965,4,06:26,SAS,,DEN,,J. Holiday,DEN,Holiday S.FOUL (P2.T3) (D.Richardson),Foul,Shooting,0,0,0,0,,,v
+S2324-G0965,4,06:01,SAS,,DEN,,J. Holiday,DEN,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0965,4,02:52,SAS,,DEN,,J. Holiday,DEN,Holiday STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0965,4,01:04,SAS,100.0,DEN,117.0,J. Holiday,DEN,Holiday 1' Running Layup (13 PTS) (Watson 2 AST),Made Shot,Running Layup Shot,1,10,1,1,2.0,2.0,v
+S2324-G0524,2,07:28,UTA,,DEN,,J. Holiday,DEN,SUB: Porter Jr. FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0524,4,07:28,UTA,,DEN,,J. Holiday,DEN,Holiday L.B.FOUL (P1.T3) (Z.Zarba),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0524,4,07:24,UTA,,DEN,,J. Holiday,DEN,Holiday P.FOUL (P2.T4) (N.Sago),Foul,Personal,0,0,0,0,,,v
+S2324-G0524,4,06:40,UTA,,DEN,,J. Holiday,DEN,SUB: Caldwell-Pope FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0524,4,05:34,UTA,,DEN,,J. Holiday,DEN,MISS Holiday 26' 3PT Jump Shot,Missed Shot,Jump Shot,-33,256,26,1,3.0,0.0,v
+S2324-G0524,4,05:06,UTA,116.0,DEN,97.0,J. Holiday,DEN,Holiday 25' 3PT Running Jump Shot (3 PTS) (Key 1 AST),Made Shot,Running Jump Shot,221,112,25,1,3.0,3.0,v
+S2324-G0524,4,03:44,UTA,,DEN,,J. Holiday,DEN,MISS Holiday 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-94,247,26,1,3.0,0.0,v
+S2324-G0524,4,03:31,UTA,,DEN,,J. Holiday,DEN,Holiday STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0978,2,11:08,DAL,,DEN,,J. Holiday,DEN,Holiday S.FOUL (P1.T1) (N.Sago),Foul,Shooting,0,0,0,0,,,v
+S2324-G0978,2,10:56,DAL,,DEN,,J. Holiday,DEN,MISS Holiday 3' Driving Layup,Missed Shot,Driving Layup Shot,29,13,3,1,2.0,0.0,v
+S2324-G0978,2,06:30,DAL,,DEN,,J. Holiday,DEN,SUB: Gordon FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0978,4,10:03,DAL,,DEN,,J. Holiday,DEN,SUB: Gordon FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0169,4,09:57,DEN,,GSW,,J. Holiday,DEN,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0169,4,08:29,DEN,,GSW,,J. Holiday,DEN,Holiday REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0169,4,07:05,DEN,,GSW,,J. Holiday,DEN,Holiday S.FOUL (P1.T2) (B.Nansel),Foul,Shooting,0,0,0,0,,,h
+S2324-G0169,4,06:43,DEN,,GSW,,J. Holiday,DEN,MISS Holiday 24' 3PT Jump Shot,Missed Shot,Jump Shot,175,168,24,1,3.0,0.0,h
+S2324-G0169,4,06:13,DEN,95.0,GSW,93.0,J. Holiday,DEN,Holiday 3PT Jump Shot (3 PTS) (Caldwell-Pope 3 AST),Made Shot,Jump Shot,225,-8,0,1,3.0,3.0,h
+S2324-G0169,4,05:41,DEN,,GSW,,J. Holiday,DEN,Holiday REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0169,4,04:34,DEN,,GSW,,J. Holiday,DEN,SUB: Gordon FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0539,4,01:26,DEN,,NOP,,J. Holiday,DEN,Holiday Lost Ball Turnover (P1.T16),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G1040,1,01:28,DEN,37.0,MEM,24.0,J. Holiday,DEN,Holiday 3PT Jump Shot (3 PTS) (Jokic 3 AST),Made Shot,Jump Shot,-227,6,0,1,3.0,3.0,h
+S2324-G1040,2,11:39,DEN,,MEM,,J. Holiday,DEN,Holiday L.B.FOUL (P1.T1) (S.Wall),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G1040,2,10:41,DEN,,MEM,,J. Holiday,DEN,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1040,2,07:49,DEN,,MEM,,J. Holiday,DEN,SUB: Porter Jr. FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G1040,3,04:48,DEN,86.0,MEM,68.0,J. Holiday,DEN,Holiday 25' 3PT Jump Shot (6 PTS) (Gillespie 1 AST),Made Shot,Jump Shot,244,52,25,1,3.0,3.0,h
+S2324-G1040,3,02:56,DEN,,MEM,,J. Holiday,DEN,Holiday STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1040,3,01:49,DEN,,MEM,,J. Holiday,DEN,MISS Holiday 3' Driving Layup,Missed Shot,Driving Layup Shot,22,13,3,1,2.0,0.0,h
+S2324-G1040,3,01:48,DEN,,MEM,,J. Holiday,DEN,Holiday STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G1040,3,00:54.600000,DEN,,MEM,,J. Holiday,DEN,Holiday REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1040,4,11:12,DEN,101.0,MEM,76.0,J. Holiday,DEN,Holiday 18' Jump Shot (8 PTS) (Jordan 1 AST),Made Shot,Jump Shot,-18,175,18,1,2.0,2.0,h
+S2324-G1040,4,08:42,DEN,107.0,MEM,83.0,J. Holiday,DEN,Holiday 25' 3PT Jump Shot (11 PTS) (Jackson 7 AST),Made Shot,Jump Shot,218,113,25,1,3.0,3.0,h
+S2324-G1040,4,07:57,DEN,,MEM,,J. Holiday,DEN,MISS Holiday 3PT Jump Shot,Missed Shot,Jump Shot,229,13,0,1,3.0,0.0,h
+S2324-G1040,4,06:12,DEN,,MEM,,J. Holiday,DEN,Holiday REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1040,4,04:16,DEN,,MEM,,J. Holiday,DEN,SUB: Pickett FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G1099,1,00:52.200000,DEN,,SAS,,J. Holiday,DEN,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1099,2,10:08,DEN,,SAS,,J. Holiday,DEN,MISS Holiday 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,140,124,19,1,2.0,0.0,h
+S2324-G1099,2,09:12,DEN,,SAS,,J. Holiday,DEN,MISS Holiday 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,29,26,4,1,2.0,0.0,h
+S2324-G1099,2,08:32,DEN,,SAS,,J. Holiday,DEN,Holiday BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G1099,2,06:27,DEN,,SAS,,J. Holiday,DEN,SUB: Caldwell-Pope FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G1099,3,05:07,DEN,73.0,SAS,74.0,J. Holiday,DEN,Holiday 24' 3PT Jump Shot (3 PTS) (Jokic 5 AST),Made Shot,Jump Shot,-232,50,24,1,3.0,3.0,h
+S2324-G1099,3,03:48,DEN,,SAS,,J. Holiday,DEN,Holiday Violation:Kicked Ball (J.DeRosa),Violation,Kicked Ball,0,0,0,0,,,h
+S2324-G1099,3,02:58,DEN,,SAS,,J. Holiday,DEN,Holiday REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1099,4,11:46,DEN,,SAS,,J. Holiday,DEN,MISS Holiday 2' Driving Layup,Missed Shot,Driving Layup Shot,21,6,2,1,2.0,0.0,h
+S2324-G1099,4,11:44,DEN,,SAS,,J. Holiday,DEN,Holiday REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1099,4,10:11,DEN,91.0,SAS,85.0,J. Holiday,DEN,Holiday 14' Pullup Jump Shot (5 PTS) (Watson 1 AST),Made Shot,Pullup Jump shot,121,68,14,1,2.0,2.0,h
+S2324-G1099,4,06:20,DEN,,SAS,,J. Holiday,DEN,MISS Holiday 26' 3PT Jump Shot,Missed Shot,Jump Shot,-27,256,26,1,3.0,0.0,h
+S2324-G1099,4,06:05,DEN,,SAS,,J. Holiday,DEN,Holiday STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1099,4,05:40,DEN,,SAS,,J. Holiday,DEN,Holiday BLOCK (2 BLK),,,0,0,0,0,,,h
+S2324-G1099,4,04:46,DEN,,SAS,,J. Holiday,DEN,SUB: Caldwell-Pope FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G1164,2,10:47,DEN,,MIN,,J. Holiday,DEN,Holiday STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1164,2,10:39,DEN,29.0,MIN,28.0,J. Holiday,DEN,Holiday 3PT Jump Shot (3 PTS) (Jackson 1 AST),Made Shot,Jump Shot,-232,15,0,1,3.0,3.0,h
+S2324-G1164,2,10:01,DEN,,MIN,,J. Holiday,DEN,Holiday P.FOUL (P1.T2) (C.Washington),Foul,Personal,0,0,0,0,,,h
+S2324-G1164,2,07:29,DEN,,MIN,,J. Holiday,DEN,SUB: Jokic FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G1164,3,01:14,DEN,,MIN,,J. Holiday,DEN,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0631,4,09:40,NYK,,DEN,,J. Holiday,DEN,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0631,4,09:31,NYK,,DEN,,J. Holiday,DEN,MISS Holiday 25' 3PT Jump Shot,Missed Shot,Jump Shot,28,251,25,1,3.0,0.0,v
+S2324-G0631,4,08:08,NYK,,DEN,,J. Holiday,DEN,Holiday STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0631,4,07:12,NYK,,DEN,,J. Holiday,DEN,Holiday S.FOUL (P1.T1) (M.Kogut),Foul,Shooting,0,0,0,0,,,v
+S2324-G0631,4,06:51,NYK,110.0,DEN,75.0,J. Holiday,DEN,Holiday 21' Fadeaway Jumper (2 PTS),Made Shot,Fadeaway Jump Shot,37,205,21,1,2.0,2.0,v
+S2324-G0631,4,05:21,NYK,,DEN,,J. Holiday,DEN,Holiday P.FOUL (P2.T3) (S.Foster),Foul,Personal,0,0,0,0,,,v
+S2324-G0631,4,05:02,NYK,115.0,DEN,79.0,J. Holiday,DEN,Holiday 19' Step Back Jump Shot (4 PTS) (Pickett 1 AST),Made Shot,Step Back Jump shot,-105,164,19,1,2.0,2.0,v
+S2324-G0631,4,03:30,NYK,,DEN,,J. Holiday,DEN,MISS Holiday 3PT Jump Shot,Missed Shot,Jump Shot,221,1,0,1,3.0,0.0,v
+S2324-G1077,1,01:06,DEN,,CLE,,J. Holiday,DEN,MISS Holiday 2' Layup,Missed Shot,Layup Shot,11,15,2,1,2.0,0.0,h
+S2324-G1077,1,01:03,DEN,,CLE,,J. Holiday,DEN,Holiday REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1077,1,01:03,DEN,29.0,CLE,23.0,J. Holiday,DEN,Holiday Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2324-G1077,2,08:49,DEN,,CLE,,J. Holiday,DEN,MISS Holiday 24' 3PT Jump Shot,Missed Shot,Jump Shot,211,122,24,1,3.0,0.0,h
+S2324-G1077,2,08:14,DEN,,CLE,,J. Holiday,DEN,SUB: Caldwell-Pope FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G1077,2,03:45,DEN,50.0,CLE,47.0,J. Holiday,DEN,Holiday 19' Pullup Jump Shot (4 PTS) (Jokic 5 AST),Made Shot,Pullup Jump shot,124,139,19,1,2.0,2.0,h
+S2324-G1077,2,01:08,DEN,,CLE,,J. Holiday,DEN,Holiday STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1077,2,01:05,DEN,,CLE,,J. Holiday,DEN,Holiday Bad Pass Turnover (P1.T11),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G1077,2,00:49.600000,DEN,,CLE,,J. Holiday,DEN,MISS Holiday 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,18,184,18,1,2.0,0.0,h
+S2324-G1077,3,01:35,DEN,99.0,CLE,72.0,J. Holiday,DEN,Holiday 24' 3PT Jump Shot (7 PTS) (Jokic 12 AST),Made Shot,Jump Shot,-235,-23,24,1,3.0,3.0,h
+S2324-G1077,4,10:14,DEN,,CLE,,J. Holiday,DEN,Holiday S.FOUL (P1.T3) (S.Foster),Foul,Shooting,0,0,0,0,,,h
+S2324-G1077,4,06:19,DEN,,CLE,,J. Holiday,DEN,MISS Holiday 25' 3PT Jump Shot,Missed Shot,Jump Shot,67,236,25,1,3.0,0.0,h
+S2324-G1077,4,06:08,DEN,,CLE,,J. Holiday,DEN,Holiday BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G1077,4,05:49,DEN,,CLE,,J. Holiday,DEN,SUB: Porter Jr. FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0488,2,10:40,DEN,,ORL,,J. Holiday,DEN,Holiday P.FOUL (P1.T1) (M.Myers),Foul,Personal,0,0,0,0,,,h
+S2324-G0488,2,07:29,DEN,,ORL,,J. Holiday,DEN,SUB: Murray FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0488,4,08:36,DEN,,ORL,,J. Holiday,DEN,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0488,4,08:28,DEN,,ORL,,J. Holiday,DEN,MISS Holiday 26' 3PT Jump Shot,Missed Shot,Jump Shot,-2,256,26,1,3.0,0.0,h
+S2324-G0488,4,07:46,DEN,,ORL,,J. Holiday,DEN,SUB: Murray FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0922,1,02:45,DEN,34.0,UTA,16.0,J. Holiday,DEN,Holiday 25' 3PT Jump Shot (3 PTS) (Jokic 2 AST),Made Shot,Jump Shot,7,251,25,1,3.0,3.0,h
+S2324-G0922,2,05:46,DEN,,UTA,,J. Holiday,DEN,SUB: Gordon FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0922,3,01:15,DEN,,UTA,,J. Holiday,DEN,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0922,4,08:03,DEN,,UTA,,J. Holiday,DEN,Holiday P.FOUL (P1.T3) (M.Lindsay),Foul,Personal,0,0,0,0,,,h
+S2324-G0922,4,07:56,DEN,,UTA,,J. Holiday,DEN,Holiday BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0922,4,04:21,DEN,,UTA,,J. Holiday,DEN,Holiday REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0847,2,10:51,DEN,,SAC,,J. Holiday,DEN,MISS Holiday 29' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-137,251,29,1,3.0,0.0,h
+S2324-G0847,2,08:25,DEN,,SAC,,J. Holiday,DEN,SUB: Caldwell-Pope FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0847,4,04:08,DEN,,SAC,,J. Holiday,DEN,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0847,4,04:01,DEN,111.0,SAC,87.0,J. Holiday,DEN,Holiday 17' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,118,127,17,1,2.0,2.0,h
+S2324-G0847,4,02:11,DEN,,SAC,,J. Holiday,DEN,Holiday Bad Pass Turnover (P1.T16),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0847,4,02:08,DEN,,SAC,,J. Holiday,DEN,Holiday STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0257,1,04:32,LAC,,DEN,,J. Holiday,DEN,MISS Holiday 28' 3PT Jump Shot,Missed Shot,Jump Shot,105,256,28,1,3.0,0.0,v
+S2324-G0257,1,04:08,LAC,,DEN,,J. Holiday,DEN,Holiday STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0257,1,04:05,LAC,19.0,DEN,19.0,J. Holiday,DEN,Holiday 3' Running Dunk (2 PTS) (Caldwell-Pope 2 AST),Made Shot,Running Dunk Shot,7,29,3,1,2.0,2.0,v
+S2324-G0257,1,03:18,LAC,,DEN,,J. Holiday,DEN,Holiday Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0257,1,02:30,LAC,22.0,DEN,23.0,J. Holiday,DEN,Holiday 19' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,130,134,19,1,2.0,2.0,v
+S2324-G0257,1,00:59.900000,LAC,,DEN,,J. Holiday,DEN,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0257,1,00:57.800000,LAC,,DEN,,J. Holiday,DEN,Holiday Bad Pass Turnover (P2.T5),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0257,2,05:11,LAC,,DEN,,J. Holiday,DEN,Holiday REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0257,2,04:15,LAC,,DEN,,J. Holiday,DEN,MISS Holiday 25' 3PT Jump Shot,Missed Shot,Jump Shot,-206,144,25,1,3.0,0.0,v
+S2324-G0257,2,04:12,LAC,,DEN,,J. Holiday,DEN,Holiday REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0257,2,00:59,LAC,,DEN,,J. Holiday,DEN,MISS Holiday 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-107,125,16,1,2.0,0.0,v
+S2324-G0257,2,00:57.300000,LAC,54.0,DEN,57.0,J. Holiday,DEN,Holiday 24' 3PT Jump Shot (7 PTS) (Jordan 3 AST),Made Shot,Jump Shot,-239,53,24,1,3.0,3.0,v
+S2324-G0257,3,10:04,LAC,61.0,DEN,61.0,J. Holiday,DEN,Holiday 3PT Jump Shot (10 PTS) (Jackson 7 AST),Made Shot,Jump Shot,-228,-7,0,1,3.0,3.0,v
+S2324-G0257,3,07:06,LAC,68.0,DEN,68.0,J. Holiday,DEN,Holiday 2' Cutting Layup Shot (12 PTS) (Jordan 4 AST),Made Shot,Cutting Layup Shot,-21,13,2,1,2.0,2.0,v
+S2324-G0257,3,06:15,LAC,,DEN,,J. Holiday,DEN,Holiday REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0257,3,05:37,LAC,,DEN,,J. Holiday,DEN,Holiday Out of Bounds - Bad Pass Turnover Turnover (P3.T9),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0257,3,04:14,LAC,,DEN,,J. Holiday,DEN,Holiday S.FOUL (P1.T3) (J.Williams),Foul,Shooting,0,0,0,0,,,v
+S2324-G0257,3,04:14,LAC,,DEN,,J. Holiday,DEN,SUB: Braun FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0257,4,07:09,LAC,,DEN,,J. Holiday,DEN,Holiday REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0257,4,04:52,LAC,,DEN,,J. Holiday,DEN,Holiday REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0257,4,04:34,LAC,,DEN,,J. Holiday,DEN,Holiday S.FOUL (P2.T4) (S.Mehta),Foul,Shooting,0,0,0,0,,,v
+S2324-G1193,1,01:15,MEM,22.0,DEN,27.0,J. Holiday,DEN,Holiday 3PT Jump Shot (3 PTS) (Braun 1 AST),Made Shot,Jump Shot,224,38,0,1,3.0,3.0,v
+S2324-G1193,2,11:30,MEM,,DEN,,J. Holiday,DEN,Holiday OFF.Foul (P1) (M.Smith),Foul,Offensive,0,0,0,0,,,v
+S2324-G1193,2,11:30,MEM,,DEN,,J. Holiday,DEN,Holiday Offensive Foul Turnover (P1.T7),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G1193,2,10:18,MEM,,DEN,,J. Holiday,DEN,MISS Holiday 25' 3PT Jump Shot,Missed Shot,Jump Shot,71,243,25,1,3.0,0.0,v
+S2324-G1193,2,08:04,MEM,,DEN,,J. Holiday,DEN,SUB: Murray FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G1193,3,01:51,MEM,,DEN,,J. Holiday,DEN,Holiday STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G1193,3,00:10.100000,MEM,,DEN,,J. Holiday,DEN,MISS Holiday 25' 3PT Jump Shot,Missed Shot,Jump Shot,-146,201,25,1,3.0,0.0,v
+S2324-G1193,4,11:47,MEM,,DEN,,J. Holiday,DEN,MISS Holiday 24' 3PT Jump Shot,Missed Shot,Jump Shot,-81,230,24,1,3.0,0.0,v
+S2324-G1193,4,11:19,MEM,,DEN,,J. Holiday,DEN,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1193,4,04:29,MEM,,DEN,,J. Holiday,DEN,MISS Holiday 24' 3PT Jump Shot,Missed Shot,Jump Shot,-88,227,24,1,3.0,0.0,v
+S2324-G1193,4,01:23,MEM,,DEN,,J. Holiday,DEN,SUB: Key FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0307,1,04:50,CHI,15.0,DEN,17.0,J. Holiday,DEN,Holiday 3PT Jump Shot (3 PTS) (Jokic 4 AST),Made Shot,Jump Shot,227,-11,0,1,3.0,3.0,v
+S2324-G0307,2,10:51,CHI,,DEN,,J. Holiday,DEN,Holiday P.FOUL (P1.T1) (M.Smith),Foul,Personal,0,0,0,0,,,v
+S2324-G0307,2,08:39,CHI,,DEN,,J. Holiday,DEN,SUB: Porter Jr. FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0307,3,01:10,CHI,78.0,DEN,87.0,J. Holiday,DEN,Holiday 24' 3PT Running Jump Shot (6 PTS) (Jackson 3 AST),Made Shot,Running Jump Shot,234,36,24,1,3.0,3.0,v
+S2324-G0307,4,08:15,CHI,,DEN,,J. Holiday,DEN,Holiday S.FOUL (P2.T3) (M.Lindsay),Foul,Shooting,0,0,0,0,,,v
+S2324-G0307,4,05:26,CHI,89.0,DEN,102.0,J. Holiday,DEN,Holiday Cutting Dunk Shot (8 PTS) (Gordon 6 AST),Made Shot,Cutting Dunk Shot,4,1,0,1,2.0,2.0,v
+S2324-G0307,4,02:44,CHI,,DEN,,J. Holiday,DEN,Holiday REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0307,4,01:16,CHI,,DEN,,J. Holiday,DEN,Holiday S.FOUL (P3.PN) (M.Smith),Foul,Shooting,0,0,0,0,,,v
+S2324-G0307,4,00:55.900000,CHI,,DEN,,J. Holiday,DEN,MISS Holiday 3PT Jump Shot,Missed Shot,Jump Shot,-227,-5,0,1,3.0,0.0,v
+S2324-G0995,2,10:38,MIN,,DEN,,J. Holiday,DEN,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0995,2,08:14,MIN,,DEN,,J. Holiday,DEN,Holiday P.FOUL (P1.T1) (J.Tiven),Foul,Personal,0,0,0,0,,,v
+S2324-G0995,2,07:09,MIN,37.0,DEN,48.0,J. Holiday,DEN,Holiday 24' 3PT Jump Shot (3 PTS) (Gordon 2 AST),Made Shot,Jump Shot,-202,138,24,1,3.0,3.0,v
+S2324-G0995,2,05:06,MIN,,DEN,,J. Holiday,DEN,Holiday REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0995,2,04:11,MIN,43.0,DEN,58.0,J. Holiday,DEN,Holiday 24' 3PT Running Jump Shot (6 PTS) (Jackson 4 AST),Made Shot,Running Jump Shot,-229,70,24,1,3.0,3.0,v
+S2324-G0995,2,03:35,MIN,,DEN,,J. Holiday,DEN,Holiday Violation:Kicked Ball (R.Acosta),Violation,Kicked Ball,0,0,0,0,,,v
+S2324-G0995,2,03:35,MIN,,DEN,,J. Holiday,DEN,SUB: Gordon FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0995,4,07:30,MIN,,DEN,,J. Holiday,DEN,MISS Holiday 25' 3PT Jump Shot,Missed Shot,Jump Shot,186,164,25,1,3.0,0.0,v
+S2324-G0995,4,03:21,MIN,,DEN,,J. Holiday,DEN,Holiday S.FOUL (P2.T3) (R.Acosta),Foul,Shooting,0,0,0,0,,,v
+S2324-G0995,4,02:42,MIN,,DEN,,J. Holiday,DEN,Holiday S.FOUL (P3.T4) (J.Tiven),Foul,Shooting,0,0,0,0,,,v
+S2324-G0995,4,02:42,MIN,,DEN,,J. Holiday,DEN,SUB: Murray FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0937,2,10:51,DEN,,TOR,,J. Holiday,DEN,Holiday Lost Ball Turnover (P1.T7),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0937,2,07:10,DEN,,TOR,,J. Holiday,DEN,SUB: Caldwell-Pope FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0425,1,03:30,DEN,,MEM,,J. Holiday,DEN,Holiday STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0425,1,00:54.300000,DEN,,MEM,,J. Holiday,DEN,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0425,1,00:36.700000,DEN,,MEM,,J. Holiday,DEN,Holiday STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0425,1,00:33.600000,DEN,30.0,MEM,27.0,J. Holiday,DEN,Holiday 1' Running Dunk (2 PTS),Made Shot,Running Dunk Shot,11,0,1,1,2.0,2.0,h
+S2324-G0425,2,11:41,DEN,36.0,MEM,27.0,J. Holiday,DEN,Holiday 3PT Jump Shot (5 PTS) (Jordan 1 AST),Made Shot,Jump Shot,-230,-25,0,1,3.0,3.0,h
+S2324-G0425,2,07:43,DEN,,MEM,,J. Holiday,DEN,MISS Holiday 25' 3PT Jump Shot,Missed Shot,Jump Shot,-192,157,25,1,3.0,0.0,h
+S2324-G0425,2,07:04,DEN,,MEM,,J. Holiday,DEN,SUB: Porter Jr. FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0425,3,05:16,DEN,,MEM,,J. Holiday,DEN,Holiday S.FOUL (P1.PN) (M.Davis),Foul,Shooting,0,0,0,0,,,h
+S2324-G0425,3,04:34,DEN,95.0,MEM,63.0,J. Holiday,DEN,Holiday 3PT Jump Shot (8 PTS) (Caldwell-Pope 3 AST),Made Shot,Jump Shot,221,22,0,1,3.0,3.0,h
+S2324-G0425,3,00:51.700000,DEN,,MEM,,J. Holiday,DEN,Holiday S.FOUL (P2.PN) (D.Mosher),Foul,Shooting,0,0,0,0,,,h
+S2324-G0425,3,00:51.700000,DEN,,MEM,,J. Holiday,DEN,SUB: Watson FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0425,4,07:13,DEN,,MEM,,J. Holiday,DEN,MISS Holiday 2' Running Reverse Layup,Missed Shot,Running Reverse Layup Shot,4,16,2,1,2.0,0.0,h
+S2324-G0425,4,07:04,DEN,,MEM,,J. Holiday,DEN,Holiday REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0425,4,07:01,DEN,,MEM,,J. Holiday,DEN,SUB: Key FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G1059,2,09:33,DEN,,PHX,,J. Holiday,DEN,Holiday STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1059,2,08:32,DEN,,PHX,,J. Holiday,DEN,MISS Holiday 3PT Jump Shot,Missed Shot,Jump Shot,-232,31,0,1,3.0,0.0,h
+S2324-G1059,2,07:30,DEN,,PHX,,J. Holiday,DEN,SUB: Caldwell-Pope FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G1059,3,00:59.500000,DEN,,PHX,,J. Holiday,DEN,MISS Holiday 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,237,-1,24,1,3.0,0.0,h
+S2324-G0824,4,01:07,GSW,,DEN,,J. Holiday,DEN,MISS Holiday 31' 3PT Jump Shot,Missed Shot,Jump Shot,18,312,31,1,3.0,0.0,v
+S2324-G1130,1,02:08,DEN,,ATL,,J. Holiday,DEN,Holiday Out of Bounds Lost Ball Turnover (P1.T5),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2324-G1130,1,00:47.100000,DEN,31.0,ATL,21.0,J. Holiday,DEN,Holiday 2' Running Layup (2 PTS) (Jokic 3 AST),Made Shot,Running Layup Shot,9,21,2,1,2.0,2.0,h
+S2324-G1130,2,11:29,DEN,,ATL,,J. Holiday,DEN,Holiday STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1130,2,10:11,DEN,38.0,ATL,26.0,J. Holiday,DEN,Holiday 27' 3PT Jump Shot (5 PTS) (Strawther 1 AST),Made Shot,Jump Shot,65,257,27,1,3.0,3.0,h
+S2324-G1130,2,08:03,DEN,,ATL,,J. Holiday,DEN,Holiday S.FOUL (P1.T4) (P.Fraher),Foul,Shooting,0,0,0,0,,,h
+S2324-G1130,2,06:40,DEN,,ATL,,J. Holiday,DEN,SUB: Caldwell-Pope FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G1130,4,08:41,DEN,,ATL,,J. Holiday,DEN,Holiday S.FOUL (P2.T1) (P.Fraher),Foul,Shooting,0,0,0,0,,,h
+S2324-G1130,4,06:44,DEN,122.0,ATL,98.0,J. Holiday,DEN,Holiday 3PT Turnaround Fadeaway (8 PTS),Made Shot,Turnaround Fadeaway shot,223,24,0,1,3.0,3.0,h
+S2324-G0263,1,10:48,DEN,,HOU,,J. Holiday,DEN,MISS Holiday 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,34,8,3,1,2.0,0.0,h
+S2324-G0263,1,10:18,DEN,,HOU,,J. Holiday,DEN,Holiday STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0263,1,07:52,DEN,,HOU,,J. Holiday,DEN,MISS Holiday 24' 3PT Jump Shot,Missed Shot,Jump Shot,233,34,24,1,3.0,0.0,h
+S2324-G0263,1,07:44,DEN,17.0,HOU,5.0,J. Holiday,DEN,Holiday 24' 3PT Jump Shot (3 PTS) (Jokic 3 AST),Made Shot,Jump Shot,243,20,24,1,3.0,3.0,h
+S2324-G0263,1,05:23,DEN,,HOU,,J. Holiday,DEN,Holiday STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0263,1,05:00,DEN,,HOU,,J. Holiday,DEN,SUB: Nnaji FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0263,2,08:39,DEN,,HOU,,J. Holiday,DEN,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0263,2,07:41,DEN,,HOU,,J. Holiday,DEN,Holiday P.FOUL (P1.T1) (D.Collins),Foul,Personal,0,0,0,0,,,h
+S2324-G0263,2,05:32,DEN,,HOU,,J. Holiday,DEN,Holiday REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0263,2,01:20,DEN,72.0,HOU,56.0,J. Holiday,DEN,Holiday 1' Cutting Layup Shot (5 PTS) (Jokic 12 AST),Made Shot,Cutting Layup Shot,9,-4,1,1,2.0,2.0,h
+S2324-G0263,2,01:04,DEN,,HOU,,J. Holiday,DEN,Holiday S.FOUL (P2.PN) (S.Wright),Foul,Shooting,0,0,0,0,,,h
+S2324-G0263,2,00:49.600000,DEN,,HOU,,J. Holiday,DEN,SUB: Braun FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0263,3,10:41,DEN,,HOU,,J. Holiday,DEN,MISS Holiday 25' 3PT Jump Shot,Missed Shot,Jump Shot,-232,85,25,1,3.0,0.0,h
+S2324-G0263,3,07:09,DEN,90.0,HOU,72.0,J. Holiday,DEN,Holiday 26' 3PT Jump Shot (8 PTS) (Jokic 13 AST),Made Shot,Jump Shot,-159,200,26,1,3.0,3.0,h
+S2324-G0263,3,05:09,DEN,95.0,HOU,79.0,J. Holiday,DEN,Holiday 3PT Jump Shot (11 PTS) (Caldwell-Pope 2 AST),Made Shot,Jump Shot,223,20,0,1,3.0,3.0,h
+S2324-G0263,3,03:51,DEN,,HOU,,J. Holiday,DEN,Holiday REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0263,3,03:38,DEN,,HOU,,J. Holiday,DEN,SUB: Braun FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0263,3,00:09.400000,DEN,,HOU,,J. Holiday,DEN,SUB: Porter Jr. FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0263,4,03:08,DEN,,HOU,,J. Holiday,DEN,SUB: Pickett FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0869,1,00:24,LAL,31.0,DEN,27.0,J. Holiday,DEN,Holiday 25' 3PT Jump Shot (3 PTS) (Braun 1 AST),Made Shot,Jump Shot,136,212,25,1,3.0,3.0,v
+S2324-G0869,2,08:22,LAL,44.0,DEN,39.0,J. Holiday,DEN,Holiday 25' 3PT Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,92,232,25,1,3.0,3.0,v
+S2324-G0869,2,04:42,LAL,52.0,DEN,47.0,J. Holiday,DEN,Holiday 2' Cutting Dunk Shot (8 PTS) (Jokic 3 AST),Made Shot,Cutting Dunk Shot,9,21,2,1,2.0,2.0,v
+S2324-G0869,2,03:27,LAL,,DEN,,J. Holiday,DEN,SUB: Murray FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0869,4,11:38,LAL,,DEN,,J. Holiday,DEN,MISS Holiday 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,241,48,25,1,3.0,0.0,v
+S2324-G0869,4,09:58,LAL,,DEN,,J. Holiday,DEN,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0869,4,09:48,LAL,,DEN,,J. Holiday,DEN,MISS Holiday 3PT Jump Shot,Missed Shot,Jump Shot,-229,17,0,1,3.0,0.0,v
+S2324-G0869,4,09:36,LAL,,DEN,,J. Holiday,DEN,Holiday STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0869,4,04:29,LAL,108.0,DEN,108.0,J. Holiday,DEN,Holiday 3PT Jump Shot (11 PTS) (Jokic 6 AST),Made Shot,Jump Shot,-228,19,0,1,3.0,3.0,v
+S2324-G0869,4,02:03,LAL,110.0,DEN,117.0,J. Holiday,DEN,Holiday 4' Running Layup (13 PTS) (Gordon 5 AST),Made Shot,Running Layup Shot,10,38,4,1,2.0,2.0,v
+S2324-G0869,4,00:15.500000,LAL,,DEN,,J. Holiday,DEN,Holiday REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0740,1,10:23,LAL,2.0,DEN,4.0,J. Holiday,DEN,Holiday 2' Cutting Layup Shot (2 PTS) (Jokic 1 AST),Made Shot,Cutting Layup Shot,-6,20,2,1,2.0,2.0,v
+S2324-G0740,1,04:10,LAL,,DEN,,J. Holiday,DEN,SUB: Braun FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0740,2,04:13,LAL,,DEN,,J. Holiday,DEN,Holiday S.FOUL (P1.T2) (P.Fraher),Foul,Shooting,0,0,0,0,,,v
+S2324-G0740,3,11:21,LAL,,DEN,,J. Holiday,DEN,Holiday REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0740,3,11:03,LAL,,DEN,,J. Holiday,DEN,Holiday P.FOUL (P2.T1) (J.Goble),Foul,Personal,0,0,0,0,,,v
+S2324-G0740,3,10:26,LAL,,DEN,,J. Holiday,DEN,Holiday P.FOUL (P3.T2) (J.Goble),Foul,Personal,0,0,0,0,,,v
+S2324-G0740,3,04:50,LAL,,DEN,,J. Holiday,DEN,Holiday S.FOUL (P4.T4) (P.Fraher),Foul,Shooting,0,0,0,0,,,v
+S2324-G0740,3,04:15,LAL,,DEN,,J. Holiday,DEN,Holiday S.FOUL (P5.PN) (E.Scott),Foul,Shooting,0,0,0,0,,,v
+S2324-G0740,3,04:15,LAL,,DEN,,J. Holiday,DEN,SUB: Watson FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0740,4,07:30,LAL,,DEN,,J. Holiday,DEN,Holiday S.FOUL (P6.T4) (P.Fraher),Foul,Shooting,0,0,0,0,,,v
+S2324-G0740,4,07:30,LAL,,DEN,,J. Holiday,DEN,SUB: Watson FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0279,1,11:46,PHX,0.0,DEN,3.0,J. Holiday,DEN,Holiday 3PT Jump Shot (3 PTS) (Caldwell-Pope 1 AST),Made Shot,Jump Shot,233,25,0,1,3.0,3.0,v
+S2324-G0279,1,11:02,PHX,2.0,DEN,5.0,J. Holiday,DEN,Holiday 15' Pullup Jump Shot (5 PTS) (Jokic 1 AST),Made Shot,Pullup Jump shot,110,108,15,1,2.0,2.0,v
+S2324-G0279,1,10:15,PHX,,DEN,,J. Holiday,DEN,Holiday S.FOUL (P1.T1) (D.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2324-G0279,1,08:57,PHX,,DEN,,J. Holiday,DEN,Holiday REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0279,1,06:12,PHX,,DEN,,J. Holiday,DEN,Holiday Violation:Kicked Ball (D.Taylor),Violation,Kicked Ball,0,0,0,0,,,v
+S2324-G0279,1,06:12,PHX,,DEN,,J. Holiday,DEN,SUB: Watson FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0279,2,09:39,PHX,,DEN,,J. Holiday,DEN,MISS Holiday 27' 3PT Jump Shot,Missed Shot,Jump Shot,141,236,27,1,3.0,0.0,v
+S2324-G0279,2,09:12,PHX,37.0,DEN,49.0,J. Holiday,DEN,Holiday 3PT Jump Shot (8 PTS) (Jackson 2 AST),Made Shot,Jump Shot,229,21,0,1,3.0,3.0,v
+S2324-G0279,2,07:31,PHX,,DEN,,J. Holiday,DEN,SUB: Jokic FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0279,3,11:31,PHX,65.0,DEN,72.0,J. Holiday,DEN,Holiday 2' Cutting Dunk Shot (10 PTS) (Jokic 11 AST),Made Shot,Cutting Dunk Shot,-9,13,2,1,2.0,2.0,v
+S2324-G0279,3,10:59,PHX,,DEN,,J. Holiday,DEN,MISS Holiday 3PT Jump Shot,Missed Shot,Jump Shot,230,8,0,1,3.0,0.0,v
+S2324-G0279,3,10:34,PHX,,DEN,,J. Holiday,DEN,Holiday STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0279,3,07:57,PHX,70.0,DEN,82.0,J. Holiday,DEN,Holiday 27' 3PT Running Jump Shot (13 PTS) (Porter Jr. 3 AST),Made Shot,Running Jump Shot,125,238,27,1,3.0,3.0,v
+S2324-G0279,3,06:19,PHX,,DEN,,J. Holiday,DEN,Holiday S.FOUL (P2.T2) (K.Lane),Foul,Shooting,0,0,0,0,,,v
+S2324-G0279,3,05:53,PHX,,DEN,,J. Holiday,DEN,SUB: Watson FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0279,4,07:43,PHX,98.0,DEN,100.0,J. Holiday,DEN,Holiday 19' Pullup Jump Shot (15 PTS) (Porter Jr. 4 AST),Made Shot,Pullup Jump shot,100,165,19,1,2.0,2.0,v
+S2324-G0279,4,04:42,PHX,,DEN,,J. Holiday,DEN,Holiday REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0279,4,03:28,PHX,,DEN,,J. Holiday,DEN,SUB: Jackson FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0812,2,11:38,POR,,DEN,,J. Holiday,DEN,MISS Holiday 25' 3PT Jump Shot,Missed Shot,Jump Shot,-189,159,25,1,3.0,0.0,v
+S2324-G0812,2,10:42,POR,,DEN,,J. Holiday,DEN,Holiday P.FOUL (P1.T1) (M.Kogut),Foul,Personal,0,0,0,0,,,v
+S2324-G0812,2,07:31,POR,,DEN,,J. Holiday,DEN,SUB: Porter Jr. FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0767,2,05:57,MIL,,DEN,,J. Holiday,DEN,Holiday S.FOUL (P1.T3) (G.Petraitis),Foul,Shooting,0,0,0,0,,,v
+S2324-G0767,2,05:04,MIL,,DEN,,J. Holiday,DEN,MISS Holiday 3PT Jump Shot,Missed Shot,Jump Shot,-233,1,0,1,3.0,0.0,v
+S2324-G0767,2,00:12.800000,MIL,60.0,DEN,44.0,J. Holiday,DEN,Holiday 26' 3PT Jump Shot (3 PTS) (Jokic 4 AST),Made Shot,Jump Shot,158,205,26,1,3.0,3.0,v
+S2324-G0767,3,09:54,MIL,,DEN,,J. Holiday,DEN,MISS Holiday 27' 3PT Jump Shot,Missed Shot,Jump Shot,93,257,27,1,3.0,0.0,v
+S2324-G0767,3,06:52,MIL,,DEN,,J. Holiday,DEN,MISS Holiday 24' 3PT Jump Shot,Missed Shot,Jump Shot,234,27,24,1,3.0,0.0,v
+S2324-G0767,3,05:35,MIL,,DEN,,J. Holiday,DEN,Holiday S.FOUL (P2.T4) (G.Petraitis),Foul,Shooting,0,0,0,0,,,v
+S2324-G0767,3,05:08,MIL,,DEN,,J. Holiday,DEN,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0767,3,04:43,MIL,,DEN,,J. Holiday,DEN,Holiday REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0767,3,02:43,MIL,84.0,DEN,63.0,J. Holiday,DEN,Holiday 18' Pullup Jump Shot (5 PTS) (Jokic 8 AST),Made Shot,Pullup Jump shot,50,178,18,1,2.0,2.0,v
+S2324-G0767,3,02:06,MIL,,DEN,,J. Holiday,DEN,MISS Holiday 25' 3PT Jump Shot,Missed Shot,Jump Shot,-234,84,25,1,3.0,0.0,v
+S2324-G0767,3,00:49.300000,MIL,,DEN,,J. Holiday,DEN,SUB: Porter Jr. FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0435,1,03:16,DEN,,OKC,,J. Holiday,DEN,MISS Holiday 24' 3PT Jump Shot,Missed Shot,Jump Shot,238,4,24,1,3.0,0.0,h
+S2324-G0435,1,00:14.200000,DEN,,OKC,,J. Holiday,DEN,MISS Holiday 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,237,34,24,1,3.0,0.0,h
+S2324-G0435,2,09:53,DEN,,OKC,,J. Holiday,DEN,SUB: Watson FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0435,3,03:06,DEN,,OKC,,J. Holiday,DEN,Holiday S.FOUL (P1.T2) (K.Lane),Foul,Shooting,0,0,0,0,,,h
+S2324-G0435,4,01:52,DEN,,OKC,,J. Holiday,DEN,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0435,4,00:21.100000,DEN,,OKC,,J. Holiday,DEN,MISS Holiday 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,125,121,17,1,2.0,0.0,h
+S2324-G1224,3,02:54,DEN,,HOU,,J. Holiday,DEN,Holiday STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1224,3,01:19,DEN,74.0,HOU,85.0,J. Holiday,DEN,Holiday 1' Running Dunk (2 PTS) (Braun 1 AST),Made Shot,Running Dunk Shot,9,8,1,1,2.0,2.0,h
+S2324-G1224,4,00:48.500000,DEN,,HOU,,J. Holiday,DEN,SUB: Porter Jr. FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G1224,4,00:41.600000,DEN,,HOU,,J. Holiday,DEN,Holiday P.FOUL (P1.PN) (J.Orr),Foul,Personal,0,0,0,0,,,h
+S2324-G1224,4,00:41.600000,DEN,,HOU,,J. Holiday,DEN,SUB: Porter Jr. FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G1009,2,09:37,DEN,,NYK,,J. Holiday,DEN,Holiday S.FOUL (P1.T2) (M.Ervin),Foul,Shooting,0,0,0,0,,,h
+S2324-G1009,2,08:16,DEN,,NYK,,J. Holiday,DEN,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1009,2,07:21,DEN,,NYK,,J. Holiday,DEN,Holiday S.FOUL (P2.T3) (M.Ervin),Foul,Shooting,0,0,0,0,,,h
+S2324-G1009,2,07:08,DEN,,NYK,,J. Holiday,DEN,MISS Holiday 26' 3PT Jump Shot,Missed Shot,Jump Shot,165,195,26,1,3.0,0.0,h
+S2324-G1009,2,07:05,DEN,,NYK,,J. Holiday,DEN,SUB: Jokic FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G1009,4,10:33,DEN,,NYK,,J. Holiday,DEN,MISS Holiday 26' 3PT Floating Jump Shot,Missed Shot,Floating Jump shot,192,172,26,1,3.0,0.0,h
+S2324-G1009,4,09:52,DEN,,NYK,,J. Holiday,DEN,SUB: Porter Jr. FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0024,4,10:13,DEN,,LAC,,J. Holiday,DEN,SUB: Caldwell-Pope FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0340,1,10:55,DEN,,OKC,,J. Holiday,DEN,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0340,1,07:47,DEN,,OKC,,J. Holiday,DEN,MISS Holiday 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-200,143,25,1,3.0,0.0,h
+S2324-G0340,1,05:34,DEN,20.0,OKC,17.0,J. Holiday,DEN,Holiday 3PT Jump Shot (3 PTS) (Gordon 2 AST),Made Shot,Jump Shot,227,24,0,1,3.0,3.0,h
+S2324-G0340,1,04:08,DEN,,OKC,,J. Holiday,DEN,SUB: Strawther FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0340,2,05:28,DEN,,OKC,,J. Holiday,DEN,MISS Holiday 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-134,143,20,1,2.0,0.0,h
+S2324-G0340,3,10:40,DEN,61.0,OKC,56.0,J. Holiday,DEN,Holiday 27' 3PT Jump Shot (6 PTS) (Murray 5 AST),Made Shot,Jump Shot,186,195,27,1,3.0,3.0,h
+S2324-G0340,3,05:26,DEN,,OKC,,J. Holiday,DEN,SUB: Watson FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0340,4,03:14,DEN,,OKC,,J. Holiday,DEN,Holiday Out of Bounds - Bad Pass Turnover Turnover (P1.T8),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G0340,4,03:05,DEN,,OKC,,J. Holiday,DEN,SUB: Porter Jr. FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0252,1,11:11,DEN,,SAS,,J. Holiday,DEN,Holiday L.B.FOUL (P1.T1) (S.Foster),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0252,1,08:39,DEN,10.0,SAS,7.0,J. Holiday,DEN,Holiday 24' 3PT Pullup Jump Shot (3 PTS) (Jokic 1 AST),Made Shot,Pullup Jump shot,22,243,24,1,3.0,3.0,h
+S2324-G0252,1,08:24,DEN,,SAS,,J. Holiday,DEN,Holiday STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0252,1,08:22,DEN,12.0,SAS,7.0,J. Holiday,DEN,Holiday 3' Running Dunk (5 PTS),Made Shot,Running Dunk Shot,-1,27,3,1,2.0,2.0,h
+S2324-G0252,1,03:25,DEN,,SAS,,J. Holiday,DEN,SUB: Jackson FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0252,2,02:12,DEN,,SAS,,J. Holiday,DEN,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0252,2,01:10,DEN,,SAS,,J. Holiday,DEN,MISS Holiday 25' 3PT Jump Shot,Missed Shot,Jump Shot,107,227,25,1,3.0,0.0,h
+S2324-G0252,3,10:34,DEN,,SAS,,J. Holiday,DEN,Holiday S.FOUL (P2.T1) (J.Schroeder),Foul,Shooting,0,0,0,0,,,h
+S2324-G0252,3,10:19,DEN,,SAS,,J. Holiday,DEN,MISS Holiday 3PT Jump Shot,Missed Shot,Jump Shot,-227,-20,0,1,3.0,0.0,h
+S2324-G0252,3,05:25,DEN,,SAS,,J. Holiday,DEN,MISS Holiday 26' 3PT Jump Shot,Missed Shot,Jump Shot,-177,188,26,1,3.0,0.0,h
+S2324-G0252,3,05:01,DEN,,SAS,,J. Holiday,DEN,SUB: Strawther FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0252,4,04:45,DEN,,SAS,,J. Holiday,DEN,Jump Ball Holiday vs. Bassey: Tip to Branham,Jump Ball,,0,0,0,0,,,h
+S2324-G0252,4,02:02,DEN,,SAS,,J. Holiday,DEN,Holiday REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0252,4,01:31,DEN,,SAS,,J. Holiday,DEN,SUB: Key FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0356,4,04:40,DEN,,DAL,,J. Holiday,DEN,Holiday BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0356,4,04:12,DEN,,DAL,,J. Holiday,DEN,MISS Holiday 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-72,158,17,1,2.0,0.0,h
+S2324-G0356,4,02:43,DEN,,DAL,,J. Holiday,DEN,Holiday S.FOUL (P1.PN) (N.Buchert),Foul,Shooting,0,0,0,0,,,h
+S2324-G0356,4,01:45,DEN,,DAL,,J. Holiday,DEN,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0356,4,01:11,DEN,,DAL,,J. Holiday,DEN,MISS Holiday 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,143,140,20,1,2.0,0.0,h
+S2324-G0746,1,07:13,SAC,12.0,DEN,13.0,J. Holiday,DEN,Holiday 3PT Jump Shot (3 PTS) (Gordon 2 AST),Made Shot,Jump Shot,232,31,0,1,3.0,3.0,v
+S2324-G0746,1,06:01,SAC,,DEN,,J. Holiday,DEN,MISS Holiday 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,82,80,11,1,2.0,0.0,v
+S2324-G0746,1,04:01,SAC,18.0,DEN,21.0,J. Holiday,DEN,Holiday 25' 3PT Jump Shot (6 PTS) (Braun 1 AST),Made Shot,Jump Shot,232,86,25,1,3.0,3.0,v
+S2324-G0746,1,03:08,SAC,,DEN,,J. Holiday,DEN,SUB: Strawther FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0746,2,02:37,SAC,,DEN,,J. Holiday,DEN,Holiday Bad Pass Turnover (P1.T10),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0746,2,01:22,SAC,,DEN,,J. Holiday,DEN,MISS Holiday 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-233,16,0,1,3.0,0.0,v
+S2324-G0746,2,00:54.400000,SAC,,DEN,,J. Holiday,DEN,MISS Holiday 26' 3PT Jump Shot,Missed Shot,Jump Shot,-169,193,26,1,3.0,0.0,v
+S2324-G0746,2,00:31.500000,SAC,,DEN,,J. Holiday,DEN,Holiday STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0746,3,10:40,SAC,,DEN,,J. Holiday,DEN,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0746,3,07:15,SAC,,DEN,,J. Holiday,DEN,Holiday S.FOUL (P1.T1) (J.Orr),Foul,Shooting,0,0,0,0,,,v
+S2324-G0746,3,06:58,SAC,83.0,DEN,69.0,J. Holiday,DEN,Holiday 25' 3PT Jump Shot (9 PTS) (Jokic 6 AST),Made Shot,Jump Shot,147,206,25,1,3.0,3.0,v
+S2324-G0746,3,06:18,SAC,,DEN,,J. Holiday,DEN,MISS Holiday 24' 3PT Jump Shot,Missed Shot,Jump Shot,237,21,24,1,3.0,0.0,v
+S2324-G0746,3,04:24,SAC,,DEN,,J. Holiday,DEN,Holiday STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0746,3,03:41,SAC,,DEN,,J. Holiday,DEN,SUB: Strawther FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0746,4,09:30,SAC,,DEN,,J. Holiday,DEN,MISS Holiday Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0746,4,09:30,SAC,114.0,DEN,87.0,J. Holiday,DEN,Holiday Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0746,4,08:51,SAC,,DEN,,J. Holiday,DEN,Holiday REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0746,4,08:34,SAC,,DEN,,J. Holiday,DEN,MISS Holiday 26' 3PT Jump Shot,Missed Shot,Jump Shot,194,176,26,1,3.0,0.0,v
+S2324-G0746,4,07:27,SAC,,DEN,,J. Holiday,DEN,MISS Holiday 3PT Jump Shot,Missed Shot,Jump Shot,-225,-2,0,1,3.0,0.0,v
+S2324-G0746,4,01:48,SAC,,DEN,,J. Holiday,DEN,Holiday REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0746,4,00:43.900000,SAC,,DEN,,J. Holiday,DEN,MISS Holiday 25' 3PT Jump Shot,Missed Shot,Jump Shot,-206,135,25,1,3.0,0.0,v
+S2324-G0290,1,01:33,SAC,,,,J. Holiday,DEN,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0290,1,00:27.200000,SAC,,,,J. Holiday,DEN,MISS Holiday 9' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-78,47,9,1,2.0,0.0,v
+S2324-G0290,2,10:25,SAC,,,,J. Holiday,DEN,Holiday P.FOUL (P1.T1) (K.Scott),Foul,Personal,0,0,0,0,,,v
+S2324-G0290,2,09:52,SAC,,,,J. Holiday,DEN,Holiday S.FOUL (P2.T2) (M.Dagher),Foul,Shooting,0,0,0,0,,,v
+S2324-G0290,2,09:34,SAC,,,,J. Holiday,DEN,SUB: Porter Jr. FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0290,3,02:54,SAC,,,,J. Holiday,DEN,Holiday REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0290,3,01:03,SAC,,,,J. Holiday,DEN,Holiday REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0290,4,09:00,SAC,,,,J. Holiday,DEN,SUB: Gordon FOR Holiday,Substitution,,0,0,0,0,,,v
+S2324-G0855,3,03:11,DEN,,MIA,,J. Holiday,DEN,Holiday REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0855,3,01:36,DEN,,MIA,,J. Holiday,DEN,MISS Holiday 25' 3PT Jump Shot,Missed Shot,Jump Shot,118,219,25,1,3.0,0.0,h
+S2324-G0855,3,01:22,DEN,,MIA,,J. Holiday,DEN,MISS Holiday 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,170,197,26,1,3.0,0.0,h
+S2324-G0855,3,00:49.100000,DEN,81.0,MIA,68.0,J. Holiday,DEN,Holiday 24' 3PT Jump Shot (3 PTS) (Jokic 7 AST),Made Shot,Jump Shot,241,27,24,1,3.0,3.0,h
+S2324-G0855,4,11:39,DEN,86.0,MIA,70.0,J. Holiday,DEN,Holiday 24' 3PT Jump Shot (6 PTS) (Gordon 3 AST),Made Shot,Jump Shot,238,26,24,1,3.0,3.0,h
+S2324-G0855,4,10:58,DEN,,MIA,,J. Holiday,DEN,Holiday S.FOUL (P1.T1) (K.Cutler),Foul,Shooting,0,0,0,0,,,h
+S2324-G0855,4,09:40,DEN,,MIA,,J. Holiday,DEN,Holiday REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0855,4,07:36,DEN,,MIA,,J. Holiday,DEN,SUB: Caldwell-Pope FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0697,3,02:29,DEN,,POR,,J. Holiday,DEN,MISS Holiday 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-143,150,21,1,2.0,0.0,h
+S2324-G0697,4,11:02,DEN,,POR,,J. Holiday,DEN,MISS Holiday 24' 3PT Jump Shot,Missed Shot,Jump Shot,244,14,24,1,3.0,0.0,h
+S2324-G0697,4,08:10,DEN,,POR,,J. Holiday,DEN,Holiday STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0697,4,07:46,DEN,,POR,,J. Holiday,DEN,SUB: Caldwell-Pope FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0906,1,02:42,DEN,22.0,BOS,23.0,J. Holiday,DEN,Holiday 2' Running Layup (2 PTS) (Watson 1 AST),Made Shot,Running Layup Shot,4,23,2,1,2.0,2.0,h
+S2324-G0906,2,06:54,DEN,,BOS,,J. Holiday,DEN,SUB: Porter Jr. FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0906,2,00:11.500000,DEN,,BOS,,J. Holiday,DEN,Holiday BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0906,4,10:57,DEN,,BOS,,J. Holiday,DEN,Holiday S.FOUL (P1.T2) (M.Kogut),Foul,Shooting,0,0,0,0,,,h
+S2324-G0906,4,09:14,DEN,,BOS,,J. Holiday,DEN,MISS Holiday 25' 3PT Jump Shot,Missed Shot,Jump Shot,-60,246,25,1,3.0,0.0,h
+S2324-G0906,4,08:04,DEN,,BOS,,J. Holiday,DEN,SUB: Caldwell-Pope FOR Holiday,Substitution,,0,0,0,0,,,h
+S2324-G0048,2,00:46.800000,HOU,,DEN,,J. Holiday,DEN,MISS Holiday 3PT Jump Shot,Missed Shot,Jump Shot,233,25,0,1,3.0,0.0,v
+S2324-G0048,2,00:40.700000,HOU,,DEN,,J. Holiday,DEN,Holiday P.FOUL (P1.PN) (D.Mosher),Foul,Personal,0,0,0,0,,,v
+S2324-G0048,3,00:02,HOU,,DEN,,J. Holiday,DEN,Holiday P.FOUL (P2.T3) (D.Mosher),Foul,Personal,0,0,0,0,,,v
+S2324-G0048,4,09:11,HOU,,DEN,,J. Holiday,DEN,Holiday STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0048,4,09:00,HOU,84.0,DEN,75.0,J. Holiday,DEN,Holiday 24' 3PT Jump Shot (3 PTS) (Gordon 2 AST),Made Shot,Jump Shot,-230,52,24,1,3.0,3.0,v
+S2324-G0048,4,06:52,HOU,,DEN,,J. Holiday,DEN,SUB: Porter Jr. FOR Holiday,Substitution,,0,0,0,0,,,v

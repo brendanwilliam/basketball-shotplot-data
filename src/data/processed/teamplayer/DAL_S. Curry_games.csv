@@ -1,0 +1,353 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2324-G1226,1,06:55,POR,,DAL,,S. Curry,DAL,Curry REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1226,1,05:21,POR,,DAL,,S. Curry,DAL,Curry REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1226,1,05:15,POR,8.0,DAL,18.0,S. Curry,DAL,Curry 25' 3PT Step Back Jump Shot (3 PTS),Made Shot,Step Back Jump shot,-212,132,25,1,3.0,3.0,v
+S2324-G1226,1,02:10,POR,,DAL,,S. Curry,DAL,Curry Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G1226,1,01:16,POR,,DAL,,S. Curry,DAL,SUB: Exum FOR Curry,Substitution,,0,0,0,0,,,v
+S2324-G1226,2,05:10,POR,,DAL,,S. Curry,DAL,MISS Curry 26' 3PT Jump Shot,Missed Shot,Jump Shot,-98,240,26,1,3.0,0.0,v
+S2324-G1226,2,05:06,POR,,DAL,,S. Curry,DAL,SUB: Irving FOR Curry,Substitution,,0,0,0,0,,,v
+S2324-G1226,3,11:04,POR,,DAL,,S. Curry,DAL,Curry P.FOUL (P1.T1) (S.Mehta),Foul,Personal,0,0,0,0,,,v
+S2324-G1226,3,10:22,POR,,DAL,,S. Curry,DAL,MISS Curry 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,141,15,14,1,2.0,0.0,v
+S2324-G1226,3,07:39,POR,,DAL,,S. Curry,DAL,SUB: Hardaway Jr. FOR Curry,Substitution,,0,0,0,0,,,v
+S2324-G1226,4,06:10,POR,100.0,DAL,112.0,S. Curry,DAL,Curry 28' 3PT Jump Shot (6 PTS) (Doncic 8 AST),Made Shot,Jump Shot,-148,232,28,1,3.0,3.0,v
+S2324-G1226,4,06:10,POR,100.0,DAL,113.0,S. Curry,DAL,Curry Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G1226,4,04:52,POR,,DAL,,S. Curry,DAL,MISS Curry 28' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-179,217,28,1,3.0,0.0,v
+S2324-G1226,4,03:47,POR,,DAL,,S. Curry,DAL,SUB: Exum FOR Curry,Substitution,,0,0,0,0,,,v
+S2324-G0084,2,07:23,DAL,41.0,BKN,40.0,S. Curry,DAL,Curry 18' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,-112,135,18,1,2.0,2.0,h
+S2324-G0084,2,07:00,DAL,,BKN,,S. Curry,DAL,Curry OFF.Foul (P1) (T.Ford),Foul,Offensive,0,0,0,0,,,h
+S2324-G0084,2,07:00,DAL,,BKN,,S. Curry,DAL,Curry Offensive Foul Turnover (P1.T3),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0084,2,03:08,DAL,,BKN,,S. Curry,DAL,SUB: Doncic FOR Curry,Substitution,,0,0,0,0,,,h
+S2324-G0006,2,11:32,DEN,,DAL,,S. Curry,DAL,Curry REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0006,2,10:06,DEN,,DAL,,S. Curry,DAL,Curry STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0006,2,08:36,DEN,,DAL,,S. Curry,DAL,Curry P.FOUL (P1.T3) (S.Wall),Foul,Personal,0,0,0,0,,,v
+S2324-G0006,2,07:54,DEN,,DAL,,S. Curry,DAL,MISS Curry 25' 3PT Jump Shot,Missed Shot,Jump Shot,-216,120,25,1,3.0,0.0,v
+S2324-G0006,2,06:42,DEN,,DAL,,S. Curry,DAL,SUB: Irving FOR Curry,Substitution,,0,0,0,0,,,v
+S2324-G0420,1,03:29,DAL,,CLE,,S. Curry,DAL,Curry REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0420,1,03:24,DAL,25.0,CLE,18.0,S. Curry,DAL,Curry Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0420,1,03:24,DAL,26.0,CLE,18.0,S. Curry,DAL,Curry Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0420,1,01:54,DAL,,CLE,,S. Curry,DAL,Curry REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0420,1,01:52,DAL,34.0,CLE,21.0,S. Curry,DAL,Curry 3PT Fadeaway Jumper (5 PTS),Made Shot,Fadeaway Jump Shot,-233,-3,0,1,3.0,3.0,h
+S2324-G0420,1,01:33,DAL,,CLE,,S. Curry,DAL,Curry STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0420,1,01:27,DAL,37.0,CLE,21.0,S. Curry,DAL,Curry 3PT Jump Shot (8 PTS) (Doncic 2 AST),Made Shot,Jump Shot,-233,-10,0,1,3.0,3.0,h
+S2324-G0420,1,00:41.700000,DAL,,CLE,,S. Curry,DAL,Curry REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0420,1,00:33.300000,DAL,39.0,CLE,24.0,S. Curry,DAL,Curry 2' Cutting Finger Roll Layup Shot (10 PTS) (Green 2 AST),Made Shot,Cutting Finger Roll Layup Shot,15,2,2,1,2.0,2.0,h
+S2324-G0420,2,11:00,DAL,45.0,CLE,30.0,S. Curry,DAL,Curry 3PT Jump Shot (13 PTS) (Exum 3 AST),Made Shot,Jump Shot,-232,20,0,1,3.0,3.0,h
+S2324-G0420,2,09:18,DAL,,CLE,,S. Curry,DAL,MISS Curry 26' 3PT Jump Shot,Missed Shot,Jump Shot,116,232,26,1,3.0,0.0,h
+S2324-G0420,2,06:10,DAL,,CLE,,S. Curry,DAL,SUB: Jones Jr. FOR Curry,Substitution,,0,0,0,0,,,h
+S2324-G0420,3,03:56,DAL,,CLE,,S. Curry,DAL,Curry REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0420,3,02:37,DAL,83.0,CLE,74.0,S. Curry,DAL,Curry 3PT Jump Shot (16 PTS) (Green 3 AST),Made Shot,Jump Shot,-232,24,0,1,3.0,3.0,h
+S2324-G0420,3,02:00,DAL,86.0,CLE,74.0,S. Curry,DAL,Curry 26' 3PT Jump Shot (19 PTS) (Doncic 6 AST),Made Shot,Jump Shot,-151,208,26,1,3.0,3.0,h
+S2324-G0420,4,11:00,DAL,,CLE,,S. Curry,DAL,MISS Curry 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,112,159,19,1,2.0,0.0,h
+S2324-G0420,4,08:10,DAL,,CLE,,S. Curry,DAL,Curry S.FOUL (P1.T4) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,h
+S2324-G0420,4,04:17,DAL,,CLE,,S. Curry,DAL,MISS Curry 24' 3PT Jump Shot,Missed Shot,Jump Shot,-224,79,24,1,3.0,0.0,h
+S2324-G0420,4,02:57,DAL,,CLE,,S. Curry,DAL,Curry STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0420,4,02:40,DAL,,CLE,,S. Curry,DAL,MISS Curry 3PT Jump Shot,Missed Shot,Jump Shot,225,21,0,1,3.0,0.0,h
+S2324-G0420,4,02:30,DAL,,CLE,,S. Curry,DAL,SUB: Green FOR Curry,Substitution,,0,0,0,0,,,h
+S2324-G0420,4,00:17.100000,DAL,,CLE,,S. Curry,DAL,SUB: Jones Jr. FOR Curry,Substitution,,0,0,0,0,,,h
+S2324-G0420,4,00:00,DAL,,CLE,,S. Curry,DAL,MISS Curry 26' 3PT Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,212,155,26,1,3.0,0.0,h
+S2324-G0651,1,03:04,DAL,,,,S. Curry,DAL,Curry S.FOUL (P1.T3) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,h
+S2324-G0651,1,01:02,DAL,,,,S. Curry,DAL,Curry REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0651,2,11:25,DAL,27.0,,29.0,S. Curry,DAL,Curry 3' Driving Finger Roll Layup (2 PTS) (Green 1 AST),Made Shot,Driving Finger Roll Layup Shot,21,16,3,1,2.0,2.0,h
+S2324-G0651,2,10:23,DAL,,,,S. Curry,DAL,MISS Curry 25' 3PT Jump Shot,Missed Shot,Jump Shot,-172,185,25,1,3.0,0.0,h
+S2324-G0651,2,09:29,DAL,,,,S. Curry,DAL,SUB: Hardaway Jr. FOR Curry,Substitution,,0,0,0,0,,,h
+S2324-G0651,4,05:23,DAL,,,,S. Curry,DAL,MISS Curry 3PT Jump Shot,Missed Shot,Jump Shot,-232,-12,0,1,3.0,0.0,h
+S2324-G0651,4,04:07,DAL,100.0,,110.0,S. Curry,DAL,Curry 3PT Jump Shot (5 PTS) (Doncic 16 AST),Made Shot,Jump Shot,-234,-13,0,1,3.0,3.0,h
+S2324-G0651,4,03:27,DAL,,,,S. Curry,DAL,Curry REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0651,4,03:26,DAL,102.0,,113.0,S. Curry,DAL,Curry 1' Reverse Layup (7 PTS),Made Shot,Reverse Layup Shot,-9,3,1,1,2.0,2.0,h
+S2324-G0651,4,03:25,DAL,,,,S. Curry,DAL,SUB: Green FOR Curry,Substitution,,0,0,0,0,,,h
+S2324-G0651,4,00:07.200000,DAL,,,,S. Curry,DAL,SUB: Green FOR Curry,Substitution,,0,0,0,0,,,h
+S2324-G0515,1,01:23,DAL,22.0,MEM,27.0,S. Curry,DAL,Curry 4' Driving Layup (2 PTS) (Irving 1 AST),Made Shot,Driving Layup Shot,40,15,4,1,2.0,2.0,h
+S2324-G0515,3,04:34,DAL,,MEM,,S. Curry,DAL,Curry S.FOUL (P1.T4) (J.Sterling),Foul,Shooting,0,0,0,0,,,h
+S2324-G0515,3,03:07,DAL,,MEM,,S. Curry,DAL,Curry Lost Ball Turnover (P1.T9),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0515,3,03:07,DAL,,MEM,,S. Curry,DAL,SUB: Doncic FOR Curry,Substitution,,0,0,0,0,,,h
+S2324-G0515,4,00:43.200000,DAL,,MEM,,S. Curry,DAL,MISS Curry 3PT Running Jump Shot,Missed Shot,Running Jump Shot,232,-5,0,1,3.0,0.0,h
+S2324-G0124,2,11:25,DAL,28.0,,25.0,S. Curry,DAL,Curry 17' Pullup Jump Shot (2 PTS) (Doncic 3 AST),Made Shot,Pullup Jump shot,-64,155,17,1,2.0,2.0,h
+S2324-G0124,2,07:13,DAL,,,,S. Curry,DAL,Curry REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0124,2,07:11,DAL,38.0,,34.0,S. Curry,DAL,Curry 21' Jump Shot (4 PTS),Made Shot,Jump Shot,-29,206,21,1,2.0,2.0,h
+S2324-G0124,2,06:01,DAL,,,,S. Curry,DAL,MISS Curry 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,150,90,17,1,2.0,0.0,h
+S2324-G0124,2,04:22,DAL,,,,S. Curry,DAL,MISS Curry 8' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-23,72,8,1,2.0,0.0,h
+S2324-G0124,2,04:20,DAL,,,,S. Curry,DAL,Curry REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0124,2,04:20,DAL,,,,S. Curry,DAL,SUB: Jones Jr. FOR Curry,Substitution,,0,0,0,0,,,h
+S2324-G0124,4,11:22,DAL,,,,S. Curry,DAL,Curry REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0124,4,08:15,DAL,,,,S. Curry,DAL,Curry Bad Pass Turnover (P1.T14),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0124,4,07:15,DAL,,,,S. Curry,DAL,MISS Curry 24' 3PT Jump Shot,Missed Shot,Jump Shot,228,83,24,1,3.0,0.0,h
+S2324-G0124,4,07:11,DAL,,,,S. Curry,DAL,SUB: Williams FOR Curry,Substitution,,0,0,0,0,,,h
+S2324-G0299,1,10:00,MEM,,DAL,,S. Curry,DAL,MISS Curry 26' 3PT Jump Shot,Missed Shot,Jump Shot,134,228,26,1,3.0,0.0,v
+S2324-G0299,1,05:58,MEM,,DAL,,S. Curry,DAL,SUB: Lawson FOR Curry,Substitution,,0,0,0,0,,,v
+S2324-G0299,2,07:53,MEM,,DAL,,S. Curry,DAL,Curry S.FOUL (P1.T3) (L.Holtkamp),Foul,Shooting,0,0,0,0,,,v
+S2324-G0299,2,07:53,MEM,,DAL,,S. Curry,DAL,SUB: Doncic FOR Curry,Substitution,,0,0,0,0,,,v
+S2324-G0299,2,04:35,MEM,,DAL,,S. Curry,DAL,Curry REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0299,2,04:23,MEM,37.0,DAL,54.0,S. Curry,DAL,Curry 4' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,18,39,4,1,2.0,2.0,v
+S2324-G0299,2,03:30,MEM,,DAL,,S. Curry,DAL,MISS Curry 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,21,11,2,1,2.0,0.0,v
+S2324-G0299,2,03:18,MEM,,DAL,,S. Curry,DAL,Curry STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0299,2,02:25,MEM,,DAL,,S. Curry,DAL,SUB: Hardy FOR Curry,Substitution,,0,0,0,0,,,v
+S2324-G0299,3,09:34,MEM,60.0,DAL,77.0,S. Curry,DAL,Curry 3PT Jump Shot (5 PTS) (Prosper 2 AST),Made Shot,Jump Shot,-228,-4,0,1,3.0,3.0,v
+S2324-G0299,3,09:34,MEM,60.0,DAL,78.0,S. Curry,DAL,Curry Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G0299,3,09:25,MEM,,DAL,,S. Curry,DAL,Curry REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0299,3,08:28,MEM,,DAL,,S. Curry,DAL,Curry REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0299,3,07:53,MEM,,DAL,,S. Curry,DAL,MISS Curry 25' 3PT Jump Shot,Missed Shot,Jump Shot,-100,229,25,1,3.0,0.0,v
+S2324-G0299,3,06:52,MEM,,DAL,,S. Curry,DAL,SUB: Lawson FOR Curry,Substitution,,0,0,0,0,,,v
+S2324-G0299,4,07:48,MEM,,DAL,,S. Curry,DAL,SUB: Exum FOR Curry,Substitution,,0,0,0,0,,,v
+S2324-G0666,2,08:53,DAL,,ORL,,S. Curry,DAL,SUB: Doncic FOR Curry,Substitution,,0,0,0,0,,,h
+S2324-G0666,4,00:10.300000,DAL,,ORL,,S. Curry,DAL,SUB: Green FOR Curry,Substitution,,0,0,0,0,,,h
+S2324-G0666,4,00:06.400000,DAL,,ORL,,S. Curry,DAL,SUB: Green FOR Curry,Substitution,,0,0,0,0,,,h
+S2324-G0277,2,10:51,DAL,25.0,MEM,28.0,S. Curry,DAL,Curry 19' Pullup Jump Shot (2 PTS) (Lively II 1 AST),Made Shot,Pullup Jump shot,109,158,19,1,2.0,2.0,h
+S2324-G0277,2,10:11,DAL,,MEM,,S. Curry,DAL,MISS Curry 7' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,65,32,7,1,2.0,0.0,h
+S2324-G0277,2,06:43,DAL,,MEM,,S. Curry,DAL,SUB: Irving FOR Curry,Substitution,,0,0,0,0,,,h
+S2324-G0277,3,06:42,DAL,,MEM,,S. Curry,DAL,Curry S.FOUL (P1.T2) (R.Acosta),Foul,Shooting,0,0,0,0,,,h
+S2324-G0277,3,05:18,DAL,,MEM,,S. Curry,DAL,Curry REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0277,3,05:11,DAL,63.0,MEM,72.0,S. Curry,DAL,Curry 25' 3PT Jump Shot (5 PTS) (Irving 5 AST),Made Shot,Jump Shot,-232,84,25,1,3.0,3.0,h
+S2324-G0277,3,04:57,DAL,,MEM,,S. Curry,DAL,Curry STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0277,3,04:23,DAL,,MEM,,S. Curry,DAL,MISS Curry 26' 3PT Jump Shot,Missed Shot,Jump Shot,-167,200,26,1,3.0,0.0,h
+S2324-G0277,3,03:20,DAL,,MEM,,S. Curry,DAL,MISS Curry 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-10,88,9,1,2.0,0.0,h
+S2324-G0277,3,02:59,DAL,,MEM,,S. Curry,DAL,Curry REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0277,3,02:53,DAL,68.0,MEM,74.0,S. Curry,DAL,Curry 26' 3PT Running Jump Shot (8 PTS) (Holmes 1 AST),Made Shot,Running Jump Shot,98,237,26,1,3.0,3.0,h
+S2324-G0277,3,01:47,DAL,70.0,MEM,77.0,S. Curry,DAL,Curry 7' Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,69,13,7,1,2.0,2.0,h
+S2324-G0277,3,01:36,DAL,,MEM,,S. Curry,DAL,MISS Curry 25' 3PT Jump Shot,Missed Shot,Jump Shot,121,221,25,1,3.0,0.0,h
+S2324-G0277,3,01:18,DAL,,MEM,,S. Curry,DAL,Curry Violation:Kicked Ball (R.Acosta),Violation,Kicked Ball,0,0,0,0,,,h
+S2324-G0277,3,00:45.800000,DAL,,MEM,,S. Curry,DAL,Curry L.B.FOUL (P2.T4) (R.Acosta),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0277,3,00:02,DAL,72.0,MEM,79.0,S. Curry,DAL,Curry 18' Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,152,95,18,1,2.0,2.0,h
+S2324-G0277,4,08:29,DAL,,MEM,,S. Curry,DAL,MISS Curry 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-102,136,17,1,2.0,0.0,h
+S2324-G0277,4,08:03,DAL,,MEM,,S. Curry,DAL,SUB: Hardy FOR Curry,Substitution,,0,0,0,0,,,h
+S2324-G0405,3,03:01,PHX,,DAL,,S. Curry,DAL,Curry REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0405,4,03:56,PHX,,DAL,,S. Curry,DAL,SUB: Exum FOR Curry,Substitution,,0,0,0,0,,,v
+S2324-G0556,1,01:47,DAL,,NOP,,S. Curry,DAL,Curry P.FOUL (P1.PN) (K.Lane),Foul,Personal,0,0,0,0,,,h
+S2324-G0556,2,10:10,DAL,,NOP,,S. Curry,DAL,SUB: Irving FOR Curry,Substitution,,0,0,0,0,,,h
+S2324-G0556,4,11:36,DAL,,NOP,,S. Curry,DAL,MISS Curry 3PT Jump Shot,Missed Shot,Jump Shot,229,7,0,1,3.0,0.0,h
+S2324-G0556,4,09:47,DAL,,NOP,,S. Curry,DAL,MISS Curry 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,158,0,16,1,2.0,0.0,h
+S2324-G0556,4,09:31,DAL,,NOP,,S. Curry,DAL,SUB: Irving FOR Curry,Substitution,,0,0,0,0,,,h
+S2324-G0106,2,10:29,MEM,,DAL,,S. Curry,DAL,Curry REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0106,2,07:51,MEM,,DAL,,S. Curry,DAL,MISS Curry 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,131,165,21,1,2.0,0.0,v
+S2324-G0106,2,07:01,MEM,41.0,DAL,43.0,S. Curry,DAL,Curry 26' 3PT Jump Shot (3 PTS) (Williams 2 AST),Made Shot,Jump Shot,-137,216,26,1,3.0,3.0,v
+S2324-G0106,2,06:11,MEM,,DAL,,S. Curry,DAL,MISS Curry 25' 3PT Jump Shot,Missed Shot,Jump Shot,-180,178,25,1,3.0,0.0,v
+S2324-G0106,2,05:34,MEM,,DAL,,S. Curry,DAL,MISS Curry 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-17,164,16,1,2.0,0.0,v
+S2324-G0106,2,05:16,MEM,,DAL,,S. Curry,DAL,Curry BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0106,2,05:15,MEM,,DAL,,S. Curry,DAL,Curry REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0106,2,05:15,MEM,,DAL,,S. Curry,DAL,Curry Palming Turnover (P1.T6),Turnover,Palming Turnover,0,0,0,0,,,v
+S2324-G0106,2,03:28,MEM,,DAL,,S. Curry,DAL,SUB: Hardaway Jr. FOR Curry,Substitution,,0,0,0,0,,,v
+S2324-G0106,3,00:59.400000,MEM,,DAL,,S. Curry,DAL,Curry STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0106,3,00:37.800000,MEM,,DAL,,S. Curry,DAL,Curry P.FOUL (P1.T3) (E.Dalen),Foul,Personal,0,0,0,0,,,v
+S2324-G0106,4,10:59,MEM,,DAL,,S. Curry,DAL,Curry P.FOUL (P2.T1) (M.Ervin),Foul,Personal,0,0,0,0,,,v
+S2324-G0106,4,10:02,MEM,,DAL,,S. Curry,DAL,MISS Curry 25' 3PT Jump Shot,Missed Shot,Jump Shot,108,224,25,1,3.0,0.0,v
+S2324-G0106,4,07:37,MEM,,DAL,,S. Curry,DAL,SUB: Jones Jr. FOR Curry,Substitution,,0,0,0,0,,,v
+S2324-G0385,1,07:17,HOU,,DAL,,S. Curry,DAL,MISS Curry 22' Pullup Jump Shot,Missed Shot,Pullup Jump shot,189,103,22,1,2.0,0.0,v
+S2324-G0385,1,06:37,HOU,,DAL,,S. Curry,DAL,Curry REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0385,1,05:16,HOU,,DAL,,S. Curry,DAL,Curry Backcourt Turnover (P1.T1),Turnover,Backcourt Turnover,0,0,0,0,,,v
+S2324-G0385,1,04:23,HOU,,DAL,,S. Curry,DAL,MISS Curry 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,114,159,20,1,2.0,0.0,v
+S2324-G0385,1,02:11,HOU,,DAL,,S. Curry,DAL,MISS Curry 24' 3PT Jump Shot,Missed Shot,Jump Shot,243,27,24,1,3.0,0.0,v
+S2324-G0385,1,01:29,HOU,,DAL,,S. Curry,DAL,Curry STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0385,2,07:53,HOU,,DAL,,S. Curry,DAL,MISS Curry 11' Step Back Jump Shot,Missed Shot,Step Back Jump shot,10,109,11,1,2.0,0.0,v
+S2324-G0385,2,06:17,HOU,,DAL,,S. Curry,DAL,MISS Curry 14' Step Back Jump Shot,Missed Shot,Step Back Jump shot,105,98,14,1,2.0,0.0,v
+S2324-G0385,2,06:00,HOU,,DAL,,S. Curry,DAL,Curry STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0385,2,05:48,HOU,,DAL,,S. Curry,DAL,MISS Curry 27' 3PT Jump Shot,Missed Shot,Jump Shot,130,235,27,1,3.0,0.0,v
+S2324-G0385,2,05:39,HOU,,DAL,,S. Curry,DAL,SUB: Prosper FOR Curry,Substitution,,0,0,0,0,,,v
+S2324-G0385,3,10:59,HOU,,DAL,,S. Curry,DAL,Curry REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0385,3,09:56,HOU,,DAL,,S. Curry,DAL,MISS Curry 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,114,158,19,1,2.0,0.0,v
+S2324-G0385,3,09:48,HOU,,DAL,,S. Curry,DAL,Curry P.FOUL (P1.T1) (T.Washington),Foul,Personal,0,0,0,0,,,v
+S2324-G0385,3,05:15,HOU,,DAL,,S. Curry,DAL,Curry Bad Pass Turnover (P2.T8),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0385,3,05:13,HOU,,DAL,,S. Curry,DAL,SUB: Dennis FOR Curry,Substitution,,0,0,0,0,,,v
+S2324-G0501,1,01:59,DAL,,MIN,,S. Curry,DAL,Curry REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0501,1,01:32,DAL,,MIN,,S. Curry,DAL,MISS Curry 25' 3PT Jump Shot,Missed Shot,Jump Shot,175,176,25,1,3.0,0.0,h
+S2324-G0501,1,01:02,DAL,,MIN,,S. Curry,DAL,Curry REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0501,1,00:52.700000,DAL,,MIN,,S. Curry,DAL,MISS Curry 3PT Jump Shot,Missed Shot,Jump Shot,227,44,0,1,3.0,0.0,h
+S2324-G0501,1,00:00,DAL,,MIN,,S. Curry,DAL,Curry STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0501,3,00:58.200000,DAL,,MIN,,S. Curry,DAL,SUB: Irving FOR Curry,Substitution,,0,0,0,0,,,h
+S2324-G0501,4,10:09,DAL,,MIN,,S. Curry,DAL,Curry REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0501,4,10:06,DAL,,MIN,,S. Curry,DAL,Curry OFF.Foul (P1) (J.Capers),Foul,Offensive,0,0,0,0,,,h
+S2324-G0501,4,10:06,DAL,,MIN,,S. Curry,DAL,Curry Offensive Foul Turnover (P1.T9),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0501,4,09:31,DAL,,MIN,,S. Curry,DAL,MISS Curry 6' Pullup Jump Shot,Missed Shot,Pullup Jump shot,45,37,6,1,2.0,0.0,h
+S2324-G0501,4,08:32,DAL,,MIN,,S. Curry,DAL,SUB: Jones Jr. FOR Curry,Substitution,,0,0,0,0,,,h
+S2324-G0014,4,05:18,DAL,129.0,LAC,112.0,S. Curry,DAL,Curry 3PT Jump Shot (3 PTS) (Jones Jr. 3 AST),Made Shot,Jump Shot,-232,31,0,1,3.0,3.0,h
+S2324-G0014,4,03:03,DAL,,LAC,,S. Curry,DAL,MISS Curry Free Throw 1 of 3,Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,0.0,h
+S2324-G0014,4,03:03,DAL,134.0,LAC,114.0,S. Curry,DAL,Curry Free Throw 2 of 3 (4 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,h
+S2324-G0014,4,03:03,DAL,135.0,LAC,114.0,S. Curry,DAL,Curry Free Throw 3 of 3 (5 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,h
+S2324-G0014,4,01:36,DAL,,LAC,,S. Curry,DAL,MISS Curry 24' 3PT Jump Shot,Missed Shot,Jump Shot,237,16,24,1,3.0,0.0,h
+S2324-G0192,2,07:07,WAS,35.0,DAL,52.0,S. Curry,DAL,Curry 21' Step Back Jump Shot (2 PTS) (Prosper 1 AST),Made Shot,Step Back Jump shot,192,90,21,1,2.0,2.0,v
+S2324-G0192,2,06:44,WAS,35.0,DAL,54.0,S. Curry,DAL,Curry 18' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,-17,178,18,1,2.0,2.0,v
+S2324-G0192,2,06:21,WAS,,DAL,,S. Curry,DAL,SUB: Lively II FOR Curry,Substitution,,0,0,0,0,,,v
+S2324-G0192,3,00:48.100000,WAS,81.0,DAL,102.0,S. Curry,DAL,Curry 1' Cutting Layup Shot (6 PTS) (Powell 2 AST),Made Shot,Cutting Layup Shot,7,11,1,1,2.0,2.0,v
+S2324-G0192,4,10:27,WAS,,DAL,,S. Curry,DAL,Curry REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0192,4,09:28,WAS,90.0,DAL,113.0,S. Curry,DAL,Curry 3PT Jump Shot (9 PTS) (Williams 6 AST),Made Shot,Jump Shot,233,-1,0,1,3.0,3.0,v
+S2324-G0192,4,09:28,WAS,90.0,DAL,114.0,S. Curry,DAL,Curry Free Throw 1 of 1 (10 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G0192,4,08:05,WAS,,DAL,,S. Curry,DAL,Curry REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0192,4,07:56,WAS,92.0,DAL,119.0,S. Curry,DAL,Curry 28' 3PT Pullup Jump Shot (13 PTS),Made Shot,Pullup Jump shot,-152,235,28,1,3.0,3.0,v
+S2324-G0192,4,06:43,WAS,97.0,DAL,123.0,S. Curry,DAL,Curry 19' Pullup Jump Shot (15 PTS),Made Shot,Pullup Jump shot,42,181,19,1,2.0,2.0,v
+S2324-G0192,4,05:39,WAS,,DAL,,S. Curry,DAL,Curry STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0192,4,04:43,WAS,,DAL,,S. Curry,DAL,Curry S.FOUL (P1.T3) (B.Kennedy),Foul,Shooting,0,0,0,0,,,v
+S2324-G0487,1,05:14,DAL,,POR,,S. Curry,DAL,MISS Curry 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-212,134,25,1,3.0,0.0,h
+S2324-G0487,1,03:49,DAL,28.0,POR,20.0,S. Curry,DAL,Curry 3PT Jump Shot (3 PTS) (Hardaway Jr. 1 AST),Made Shot,Jump Shot,228,10,0,1,3.0,3.0,h
+S2324-G0487,1,03:28,DAL,,POR,,S. Curry,DAL,MISS Curry 25' 3PT Jump Shot,Missed Shot,Jump Shot,147,205,25,1,3.0,0.0,h
+S2324-G0487,1,01:28,DAL,35.0,POR,24.0,S. Curry,DAL,Curry 3' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,26,15,3,1,2.0,2.0,h
+S2324-G0487,2,09:04,DAL,,POR,,S. Curry,DAL,MISS Curry 3PT Jump Shot,Missed Shot,Jump Shot,-229,25,0,1,3.0,0.0,h
+S2324-G0487,2,06:57,DAL,,POR,,S. Curry,DAL,Curry L.B.FOUL (P1.T1) (M.Smith),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0487,2,05:04,DAL,,POR,,S. Curry,DAL,Curry REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0487,2,04:36,DAL,52.0,POR,41.0,S. Curry,DAL,Curry 2' Running Layup (7 PTS) (Hardy 3 AST),Made Shot,Running Layup Shot,23,1,2,1,2.0,2.0,h
+S2324-G0487,2,02:37,DAL,,POR,,S. Curry,DAL,MISS Curry 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,123,9,12,1,2.0,0.0,h
+S2324-G0487,2,02:22,DAL,,POR,,S. Curry,DAL,SUB: Prosper FOR Curry,Substitution,,0,0,0,0,,,h
+S2324-G0487,3,04:32,DAL,89.0,POR,60.0,S. Curry,DAL,Curry 17' Jump Shot (9 PTS) (Hardaway Jr. 3 AST),Made Shot,Jump Shot,-103,134,17,1,2.0,2.0,h
+S2324-G0487,3,02:08,DAL,,POR,,S. Curry,DAL,MISS Curry 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,143,104,18,1,2.0,0.0,h
+S2324-G0487,4,10:24,DAL,,POR,,S. Curry,DAL,Curry REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0487,4,09:16,DAL,,POR,,S. Curry,DAL,Curry P.FOUL (P2.T1) (M.Smith),Foul,Personal,0,0,0,0,,,h
+S2324-G0487,4,09:16,DAL,,POR,,S. Curry,DAL,SUB: Brown III FOR Curry,Substitution,,0,0,0,0,,,h
+S2324-G0059,4,00:11.400000,DAL,,HOU,,S. Curry,DAL,SUB: Jones Jr. FOR Curry,Substitution,,0,0,0,0,,,h
+S2324-G0472,2,03:57,DAL,,POR,,S. Curry,DAL,SUB: Irving FOR Curry,Substitution,,0,0,0,0,,,h
+S2324-G0472,4,07:30,DAL,,POR,,S. Curry,DAL,MISS Curry 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,123,146,19,1,2.0,0.0,h
+S2324-G0472,4,06:25,DAL,,POR,,S. Curry,DAL,Curry REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0472,4,05:56,DAL,,POR,,S. Curry,DAL,SUB: B. Williams FOR Curry,Substitution,,0,0,0,0,,,h
+S2324-G0022,3,02:11,NOP,,,,S. Curry,DAL,SUB: Irving FOR Curry,Substitution,,0,0,0,0,,,v
+S2324-G0022,3,00:58.900000,NOP,,,,S. Curry,DAL,Curry STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0022,3,00:25.200000,NOP,111.0,,84.0,S. Curry,DAL,Curry Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0022,3,00:25.200000,NOP,111.0,,85.0,S. Curry,DAL,Curry Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0022,4,11:23,NOP,117.0,,86.0,S. Curry,DAL,Curry Free Throw Technical (3 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,v
+S2324-G0022,4,11:13,NOP,,,,S. Curry,DAL,MISS Curry 3PT Jump Shot,Missed Shot,Jump Shot,229,32,0,1,3.0,0.0,v
+S2324-G0022,4,11:05,NOP,,,,S. Curry,DAL,Curry S.FOUL (P1.T1) (K.Scott),Foul,Shooting,0,0,0,0,,,v
+S2324-G0022,4,10:46,NOP,,,,S. Curry,DAL,Curry REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0022,4,09:13,NOP,,,,S. Curry,DAL,Curry STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0022,4,09:08,NOP,,,,S. Curry,DAL,Curry Lost Ball Turnover (P1.T19),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0022,4,04:58,NOP,,,,S. Curry,DAL,Curry STEAL (3 STL),,,0,0,0,0,,,v
+S2324-G0022,4,03:47,NOP,,,,S. Curry,DAL,MISS Curry 25' 3PT Jump Shot,Missed Shot,Jump Shot,214,131,25,1,3.0,0.0,v
+S2324-G0022,4,00:57.100000,NOP,,,,S. Curry,DAL,MISS Curry 26' 3PT Jump Shot,Missed Shot,Jump Shot,172,194,26,1,3.0,0.0,v
+S2324-G0022,4,00:40,NOP,,,,S. Curry,DAL,Curry REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0022,4,00:00.200000,NOP,,,,S. Curry,DAL,Curry REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0022,4,00:00,NOP,,,,S. Curry,DAL,MISS Curry 38' 3PT Jump Shot,Missed Shot,Jump Shot,1,383,38,1,3.0,0.0,v
+S2324-G0577,1,02:53,LAL,,DAL,,S. Curry,DAL,MISS Curry 26' 3PT Jump Shot,Missed Shot,Jump Shot,-214,142,26,1,3.0,0.0,v
+S2324-G0577,1,01:22,LAL,,DAL,,S. Curry,DAL,MISS Curry 18' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-143,106,18,1,2.0,0.0,v
+S2324-G0306,1,11:01,DAL,,LAL,,S. Curry,DAL,MISS Curry 3PT Jump Shot,Missed Shot,Jump Shot,230,31,0,1,3.0,0.0,h
+S2324-G0306,1,08:23,DAL,,LAL,,S. Curry,DAL,Curry BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0306,1,08:20,DAL,,LAL,,S. Curry,DAL,Curry REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0306,1,06:11,DAL,,LAL,,S. Curry,DAL,SUB: Hardy FOR Curry,Substitution,,0,0,0,0,,,h
+S2324-G0306,2,08:22,DAL,,LAL,,S. Curry,DAL,Curry REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0306,2,05:16,DAL,54.0,LAL,41.0,S. Curry,DAL,Curry 24' 3PT Running Jump Shot (3 PTS) (Hardy 1 AST),Made Shot,Running Jump Shot,229,79,24,1,3.0,3.0,h
+S2324-G0306,2,04:02,DAL,,LAL,,S. Curry,DAL,SUB: Hardaway Jr. FOR Curry,Substitution,,0,0,0,0,,,h
+S2324-G0238,4,00:02.800000,LAL,,DAL,,S. Curry,DAL,SUB: Exum FOR Curry,Substitution,,0,0,0,0,,,v
+S2324-G0423,1,02:19,MIN,,DAL,,S. Curry,DAL,Curry Step Out of Bounds Turnover (P1.T2),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2324-G0423,1,00:24.900000,MIN,,DAL,,S. Curry,DAL,Curry REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0423,1,00:04.700000,MIN,,DAL,,S. Curry,DAL,Curry P.FOUL (P1.T4) (J.Tiven),Foul,Personal,0,0,0,0,,,v
+S2324-G0423,1,00:04.700000,MIN,,DAL,,S. Curry,DAL,SUB: G. Williams FOR Curry,Substitution,,0,0,0,0,,,v
+S2324-G0423,2,05:15,MIN,,DAL,,S. Curry,DAL,Curry P.FOUL (P2.T4) (G.Petraitis),Foul,Personal,0,0,0,0,,,v
+S2324-G0423,2,04:23,MIN,53.0,DAL,41.0,S. Curry,DAL,Curry 24' 3PT Jump Shot (3 PTS) (Powell 2 AST),Made Shot,Jump Shot,217,112,24,1,3.0,3.0,v
+S2324-G0423,2,03:24,MIN,,DAL,,S. Curry,DAL,MISS Curry Free Throw Technical,Free Throw,Free Throw Technical,0,0,0,0,1.0,0.0,v
+S2324-G0423,2,02:47,MIN,54.0,DAL,44.0,S. Curry,DAL,Curry Free Throw 1 of 3 (4 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,v
+S2324-G0423,2,02:47,MIN,54.0,DAL,45.0,S. Curry,DAL,Curry Free Throw 2 of 3 (5 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,v
+S2324-G0423,2,02:47,MIN,54.0,DAL,46.0,S. Curry,DAL,Curry Free Throw 3 of 3 (6 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,v
+S2324-G0423,2,02:18,MIN,,DAL,,S. Curry,DAL,MISS Curry 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,124,92,15,1,2.0,0.0,v
+S2324-G0423,2,02:00,MIN,,DAL,,S. Curry,DAL,Curry REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0423,2,00:48.300000,MIN,,DAL,,S. Curry,DAL,Curry Bad Pass Turnover (P2.T11),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0423,3,04:51,MIN,79.0,DAL,77.0,S. Curry,DAL,Curry 25' 3PT Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,206,140,25,1,3.0,3.0,v
+S2324-G0423,3,04:13,MIN,,DAL,,S. Curry,DAL,Curry Bad Pass Turnover (P3.T13),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0423,3,01:37,MIN,,DAL,,S. Curry,DAL,MISS Curry 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,71,41,8,1,2.0,0.0,v
+S2324-G0423,3,01:25,MIN,,DAL,,S. Curry,DAL,SUB: Hardy FOR Curry,Substitution,,0,0,0,0,,,v
+S2324-G0423,4,08:17,MIN,,DAL,,S. Curry,DAL,MISS Curry 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,216,110,24,1,3.0,0.0,v
+S2324-G0423,4,07:25,MIN,,DAL,,S. Curry,DAL,MISS Curry 13' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,97,93,13,1,2.0,0.0,v
+S2324-G0423,4,07:02,MIN,,DAL,,S. Curry,DAL,MISS Curry 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,199,150,25,1,3.0,0.0,v
+S2324-G0423,4,06:59,MIN,,DAL,,S. Curry,DAL,SUB: Exum FOR Curry,Substitution,,0,0,0,0,,,v
+S2324-G0423,4,01:33,MIN,115.0,DAL,108.0,S. Curry,DAL,Curry 10' Driving Floating Jump Shot (11 PTS) (Exum 6 AST),Made Shot,Driving Floating Jump Shot,-10,95,10,1,2.0,2.0,v
+S2324-G0287,1,11:49,DAL,,OKC,,S. Curry,DAL,Curry P.FOUL (P1.T1) (P.Fraher),Foul,Personal,0,0,0,0,,,h
+S2324-G0287,1,10:00,DAL,,OKC,,S. Curry,DAL,MISS Curry 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,125,151,20,1,2.0,0.0,h
+S2324-G0287,1,09:44,DAL,5.0,OKC,0.0,S. Curry,DAL,Curry 24' 3PT Jump Shot (3 PTS) (Doncic 1 AST),Made Shot,Jump Shot,234,43,24,1,3.0,3.0,h
+S2324-G0287,1,07:30,DAL,,OKC,,S. Curry,DAL,SUB: Hardy FOR Curry,Substitution,,0,0,0,0,,,h
+S2324-G0287,2,11:06,DAL,,OKC,,S. Curry,DAL,Curry STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0287,2,10:37,DAL,,OKC,,S. Curry,DAL,Curry S.FOUL (P2.T2) (D.Richardson),Foul,Shooting,0,0,0,0,,,h
+S2324-G0287,2,06:04,DAL,,OKC,,S. Curry,DAL,MISS Curry 25' 3PT Jump Shot,Missed Shot,Jump Shot,-115,224,25,1,3.0,0.0,h
+S2324-G0287,2,05:41,DAL,,OKC,,S. Curry,DAL,Curry REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0287,2,03:30,DAL,,OKC,,S. Curry,DAL,MISS Curry 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,98,60,11,1,2.0,0.0,h
+S2324-G0287,3,11:45,DAL,,OKC,,S. Curry,DAL,MISS Curry 26' 3PT Jump Shot,Missed Shot,Jump Shot,-221,132,26,1,3.0,0.0,h
+S2324-G0287,3,10:29,DAL,,OKC,,S. Curry,DAL,MISS Curry 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,55,108,12,1,2.0,0.0,h
+S2324-G0287,3,10:26,DAL,,OKC,,S. Curry,DAL,Curry REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0287,3,09:08,DAL,,OKC,,S. Curry,DAL,Curry REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0287,3,07:19,DAL,,OKC,,S. Curry,DAL,MISS Curry 14' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,91,104,14,1,2.0,0.0,h
+S2324-G0287,3,04:58,DAL,,OKC,,S. Curry,DAL,Curry BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0287,3,04:12,DAL,,OKC,,S. Curry,DAL,SUB: Hardy FOR Curry,Substitution,,0,0,0,0,,,h
+S2324-G0287,4,10:56,DAL,,OKC,,S. Curry,DAL,MISS Curry 3PT Jump Shot,Missed Shot,Jump Shot,225,32,0,1,3.0,0.0,h
+S2324-G0287,4,10:02,DAL,93.0,OKC,111.0,S. Curry,DAL,Curry 3PT Jump Shot (6 PTS) (Lawson 1 AST),Made Shot,Jump Shot,-229,9,0,1,3.0,3.0,h
+S2324-G0287,4,07:17,DAL,103.0,OKC,111.0,S. Curry,DAL,Curry 26' 3PT Jump Shot (9 PTS) (Doncic 14 AST),Made Shot,Jump Shot,-148,208,26,1,3.0,3.0,h
+S2324-G0287,4,06:49,DAL,106.0,OKC,111.0,S. Curry,DAL,Curry 25' 3PT Jump Shot (12 PTS) (Doncic 15 AST),Made Shot,Jump Shot,27,253,25,1,3.0,3.0,h
+S2324-G0287,4,04:41,DAL,,OKC,,S. Curry,DAL,MISS Curry 26' 3PT Jump Shot,Missed Shot,Jump Shot,-164,203,26,1,3.0,0.0,h
+S2324-G0287,4,03:32,DAL,,OKC,,S. Curry,DAL,MISS Curry 3' Driving Layup,Missed Shot,Driving Layup Shot,-27,21,3,1,2.0,0.0,h
+S2324-G0287,4,02:02,DAL,,OKC,,S. Curry,DAL,Curry REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0287,4,00:52,DAL,,OKC,,S. Curry,DAL,MISS Curry 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-109,177,21,1,2.0,0.0,h
+S2324-G0287,4,00:17.900000,DAL,,OKC,,S. Curry,DAL,Curry REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0287,4,00:16.400000,DAL,,OKC,,S. Curry,DAL,MISS Curry 3PT Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-225,8,0,1,3.0,0.0,h
+S2324-G0680,1,07:10,MIN,10.0,DAL,6.0,S. Curry,DAL,Curry 5' Driving Floating Jump Shot (2 PTS) (G. Williams 1 AST),Made Shot,Driving Floating Jump Shot,40,25,5,1,2.0,2.0,v
+S2324-G0680,1,07:10,MIN,10.0,DAL,7.0,S. Curry,DAL,Curry Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G0680,1,06:33,MIN,12.0,DAL,9.0,S. Curry,DAL,Curry 16' Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,163,4,16,1,2.0,2.0,v
+S2324-G0680,1,05:47,MIN,,DAL,,S. Curry,DAL,Curry REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0680,1,04:33,MIN,,DAL,,S. Curry,DAL,MISS Curry 3PT Jump Shot,Missed Shot,Jump Shot,-229,-1,0,1,3.0,0.0,v
+S2324-G0680,1,03:04,MIN,,DAL,,S. Curry,DAL,MISS Curry 25' 3PT Jump Shot,Missed Shot,Jump Shot,-40,251,25,1,3.0,0.0,v
+S2324-G0680,1,02:54,MIN,,DAL,,S. Curry,DAL,Curry REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0680,1,02:49,MIN,,DAL,,S. Curry,DAL,MISS Curry 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-156,146,21,1,2.0,0.0,v
+S2324-G0680,1,01:09,MIN,,DAL,,S. Curry,DAL,SUB: Lawson FOR Curry,Substitution,,0,0,0,0,,,v
+S2324-G0680,2,05:10,MIN,,DAL,,S. Curry,DAL,Curry REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0680,2,05:05,MIN,,DAL,,S. Curry,DAL,MISS Curry 1' Running Layup,Missed Shot,Running Layup Shot,-6,8,1,1,2.0,0.0,v
+S2324-G0680,2,01:42,MIN,,DAL,,S. Curry,DAL,Curry Traveling Turnover (P1.T9),Turnover,Traveling,0,0,0,0,,,v
+S2324-G0680,3,05:15,MIN,69.0,DAL,60.0,S. Curry,DAL,Curry Free Throw Technical (6 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,v
+S2324-G0680,3,03:54,MIN,72.0,DAL,66.0,S. Curry,DAL,Curry 20' Step Back Jump Shot (8 PTS),Made Shot,Step Back Jump shot,-146,141,20,1,2.0,2.0,v
+S2324-G0680,3,03:54,MIN,72.0,DAL,67.0,S. Curry,DAL,Curry Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G0680,3,02:57,MIN,,DAL,,S. Curry,DAL,MISS Curry 25' 3PT Jump Shot,Missed Shot,Jump Shot,164,188,25,1,3.0,0.0,v
+S2324-G0680,3,02:29,MIN,,DAL,,S. Curry,DAL,Curry Bad Pass Turnover (P2.T13),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0680,3,02:26,MIN,,DAL,,S. Curry,DAL,SUB: Lawson FOR Curry,Substitution,,0,0,0,0,,,v
+S2324-G0205,2,10:33,MIL,,DAL,,S. Curry,DAL,MISS Curry 3PT Jump Shot,Missed Shot,Jump Shot,224,-5,0,1,3.0,0.0,v
+S2324-G0205,2,09:22,MIL,38.0,DAL,42.0,S. Curry,DAL,Curry 19' Jump Shot (2 PTS) (Lively II 2 AST),Made Shot,Jump Shot,-96,164,19,1,2.0,2.0,v
+S2324-G0205,2,06:18,MIL,,DAL,,S. Curry,DAL,SUB: Irving FOR Curry,Substitution,,0,0,0,0,,,v
+S2324-G0205,4,10:26,MIL,,DAL,,S. Curry,DAL,Curry REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0205,4,09:04,MIL,,DAL,,S. Curry,DAL,SUB: Green FOR Curry,Substitution,,0,0,0,0,,,v
+S2324-G0244,2,11:39,LAC,,DAL,,S. Curry,DAL,Curry S.FOUL (P1.T2) (T.Brothers),Foul,Shooting,0,0,0,0,,,v
+S2324-G0244,2,08:52,LAC,,DAL,,S. Curry,DAL,MISS Curry 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,203,153,25,1,3.0,0.0,v
+S2324-G0244,2,08:45,LAC,,DAL,,S. Curry,DAL,MISS Curry 3PT Jump Shot,Missed Shot,Jump Shot,233,23,0,1,3.0,0.0,v
+S2324-G0244,2,08:40,LAC,,DAL,,S. Curry,DAL,Curry P.FOUL (P2.T4) (M.Dagher),Foul,Personal,0,0,0,0,,,v
+S2324-G0244,2,08:20,LAC,,DAL,,S. Curry,DAL,SUB: Williams FOR Curry,Substitution,,0,0,0,0,,,v
+S2324-G0244,4,02:18,LAC,,DAL,,S. Curry,DAL,MISS Curry 21' Step Back Jump Shot,Missed Shot,Step Back Jump shot,158,141,21,1,2.0,0.0,v
+S2324-G0244,4,01:49,LAC,107.0,DAL,88.0,S. Curry,DAL,Curry 25' 3PT Running Jump Shot (3 PTS) (Hardy 1 AST),Made Shot,Running Jump Shot,-224,117,25,1,3.0,3.0,v
+S2324-G0244,4,00:51.100000,LAC,,DAL,,S. Curry,DAL,MISS Curry 25' 3PT Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-64,246,25,1,3.0,0.0,v
+S2324-G0356,2,09:53,DEN,,DAL,,S. Curry,DAL,Curry P.FOUL (P1.T1) (J.Williams),Foul,Personal,0,0,0,0,,,v
+S2324-G0356,2,08:45,DEN,,DAL,,S. Curry,DAL,Curry S.FOUL (P2.T2) (N.Buchert),Foul,Shooting,0,0,0,0,,,v
+S2324-G0356,2,07:13,DEN,,DAL,,S. Curry,DAL,SUB: Hardy FOR Curry,Substitution,,0,0,0,0,,,v
+S2324-G0183,4,04:07,NOP,,DAL,,S. Curry,DAL,MISS Curry 21' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-141,162,21,1,2.0,0.0,v
+S2324-G0183,4,02:51,NOP,,DAL,,S. Curry,DAL,Curry REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0183,4,02:49,NOP,,DAL,,S. Curry,DAL,MISS Curry 26' 3PT Jump Shot,Missed Shot,Jump Shot,-93,244,26,1,3.0,0.0,v
+S2324-G0341,1,02:49,POR,,DAL,,S. Curry,DAL,Curry S.FOUL (P1.T2) (A.Smith),Foul,Shooting,0,0,0,0,,,v
+S2324-G0341,1,02:05,POR,,DAL,,S. Curry,DAL,MISS Curry 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-163,53,17,1,2.0,0.0,v
+S2324-G0341,1,01:51,POR,,DAL,,S. Curry,DAL,Curry S.FOUL (P2.T3) (A.Smith),Foul,Shooting,0,0,0,0,,,v
+S2324-G0341,1,00:32,POR,,DAL,,S. Curry,DAL,SUB: Prosper FOR Curry,Substitution,,0,0,0,0,,,v
+S2324-G0341,2,10:48,POR,,DAL,,S. Curry,DAL,MISS Curry 22' Step Back Jump Shot,Missed Shot,Step Back Jump shot,136,171,22,1,2.0,0.0,v
+S2324-G0341,2,10:37,POR,,DAL,,S. Curry,DAL,Curry REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0341,2,10:28,POR,39.0,DAL,43.0,S. Curry,DAL,Curry Free Throw Technical (1 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,v
+S2324-G0341,2,10:22,POR,39.0,DAL,46.0,S. Curry,DAL,Curry 26' 3PT Jump Shot (4 PTS) (Morris 1 AST),Made Shot,Jump Shot,-203,155,26,1,3.0,3.0,v
+S2324-G0341,2,09:22,POR,,DAL,,S. Curry,DAL,Curry REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0341,2,08:23,POR,,DAL,,S. Curry,DAL,Mavericks T.Foul (Def. 3 Sec Curry ) (T.Brothers),Foul,Defense 3 Second,0,0,0,0,,,v
+S2324-G0341,2,06:44,POR,,DAL,,S. Curry,DAL,Curry Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0341,2,06:44,POR,,DAL,,S. Curry,DAL,SUB: Doncic FOR Curry,Substitution,,0,0,0,0,,,v
+S2324-G0341,4,11:35,POR,,DAL,,S. Curry,DAL,MISS Curry 3PT Jump Shot,Missed Shot,Jump Shot,223,2,0,1,3.0,0.0,v
+S2324-G0341,4,10:06,POR,,DAL,,S. Curry,DAL,MISS Curry 18' Step Back Jump Shot,Missed Shot,Step Back Jump shot,145,105,18,1,2.0,0.0,v
+S2324-G0341,4,08:40,POR,105.0,DAL,115.0,S. Curry,DAL,Curry 29' 3PT Pullup Jump Shot (7 PTS) (Prosper 1 AST),Made Shot,Pullup Jump shot,0,286,29,1,3.0,3.0,v
+S2324-G0341,4,07:15,POR,,DAL,,S. Curry,DAL,Curry L.B.FOUL (P3.T1) (J.Orr),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0341,4,07:15,POR,,DAL,,S. Curry,DAL,SUB: Doncic FOR Curry,Substitution,,0,0,0,0,,,v
+S2324-G0547,1,02:12,DAL,,NOP,,S. Curry,DAL,Curry P.FOUL (P1.PN) (C.Blair),Foul,Personal,0,0,0,0,,,h
+S2324-G0547,2,11:06,DAL,,NOP,,S. Curry,DAL,Curry S.FOUL (P2.T1) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,h
+S2324-G0547,2,09:33,DAL,28.0,NOP,31.0,S. Curry,DAL,Curry 25' 3PT Jump Shot (3 PTS) (Powell 1 AST),Made Shot,Jump Shot,1,248,25,1,3.0,3.0,h
+S2324-G0547,2,06:32,DAL,,NOP,,S. Curry,DAL,Curry STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0547,2,05:19,DAL,,NOP,,S. Curry,DAL,MISS Curry 26' 3PT Jump Shot,Missed Shot,Jump Shot,-202,161,26,1,3.0,0.0,h
+S2324-G0547,2,05:13,DAL,,NOP,,S. Curry,DAL,Curry P.FOUL (P3.PN) (C.Blair),Foul,Personal,0,0,0,0,,,h
+S2324-G0547,2,05:13,DAL,,NOP,,S. Curry,DAL,SUB: Hardaway Jr. FOR Curry,Substitution,,0,0,0,0,,,h
+S2324-G0547,4,10:08,DAL,,NOP,,S. Curry,DAL,MISS Curry 22' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-138,174,22,1,2.0,0.0,h
+S2324-G0547,4,09:27,DAL,,NOP,,S. Curry,DAL,SUB: Irving FOR Curry,Substitution,,0,0,0,0,,,h
+S2324-G1213,1,05:47,DAL,,UTA,,S. Curry,DAL,Curry REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1213,1,05:45,DAL,,UTA,,S. Curry,DAL,MISS Curry 19' Jump Shot,Missed Shot,Jump Shot,192,34,19,1,2.0,0.0,h
+S2324-G1213,1,04:30,DAL,,UTA,,S. Curry,DAL,MISS Curry 26' 3PT Jump Shot,Missed Shot,Jump Shot,188,183,26,1,3.0,0.0,h
+S2324-G1213,1,04:03,DAL,,UTA,,S. Curry,DAL,SUB: Powell FOR Curry,Substitution,,0,0,0,0,,,h
+S2324-G1213,2,04:49,DAL,57.0,UTA,43.0,S. Curry,DAL,Curry 20' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,-47,194,20,1,2.0,2.0,h
+S2324-G1213,2,03:20,DAL,,UTA,,S. Curry,DAL,SUB: Irving FOR Curry,Substitution,,0,0,0,0,,,h
+S2324-G1213,3,04:50,DAL,,UTA,,S. Curry,DAL,Curry STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1213,3,02:29,DAL,99.0,UTA,72.0,S. Curry,DAL,Curry 3PT Jump Shot (5 PTS) (Hardaway Jr. 1 AST),Made Shot,Jump Shot,-229,8,0,1,3.0,3.0,h
+S2324-G1213,3,00:10.500000,DAL,,UTA,,S. Curry,DAL,Curry REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1213,4,09:15,DAL,,UTA,,S. Curry,DAL,MISS Curry 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,93,174,20,1,2.0,0.0,h
+S2324-G1213,4,08:35,DAL,,UTA,,S. Curry,DAL,Curry STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G1213,4,08:32,DAL,119.0,UTA,78.0,S. Curry,DAL,Curry 2' Running Finger Roll Layup (7 PTS),Made Shot,Running Finger Roll Layup Shot,11,22,2,1,2.0,2.0,h
+S2324-G1213,4,07:29,DAL,123.0,UTA,80.0,S. Curry,DAL,Curry 26' 3PT Pullup Jump Shot (10 PTS) (Powell 3 AST),Made Shot,Pullup Jump shot,176,186,26,1,3.0,3.0,h
+S2324-G1213,4,05:38,DAL,,UTA,,S. Curry,DAL,SUB: Morris FOR Curry,Substitution,,0,0,0,0,,,h
+S2324-G0530,2,09:19,DAL,,NYK,,S. Curry,DAL,Curry Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G0530,2,08:43,DAL,,NYK,,S. Curry,DAL,SUB: Jones Jr. FOR Curry,Substitution,,0,0,0,0,,,h
+S2324-G0530,3,00:58.100000,DAL,,NYK,,S. Curry,DAL,Curry REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0530,4,10:56,DAL,,NYK,,S. Curry,DAL,MISS Curry 24' 3PT Jump Shot,Missed Shot,Jump Shot,234,31,24,1,3.0,0.0,h
+S2324-G0530,4,08:42,DAL,,NYK,,S. Curry,DAL,SUB: Jones Jr. FOR Curry,Substitution,,0,0,0,0,,,h
+S2324-G0530,4,00:11.100000,DAL,,NYK,,S. Curry,DAL,SUB: Hardaway Jr. FOR Curry,Substitution,,0,0,0,0,,,h

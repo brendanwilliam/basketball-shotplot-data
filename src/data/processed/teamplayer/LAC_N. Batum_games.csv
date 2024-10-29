@@ -1,0 +1,33 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2324-G0085,1,00:15.700000,UTA,,LAC,,N. Batum,LAC,Batum BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0085,2,10:39,UTA,,LAC,,N. Batum,LAC,Batum BLOCK (2 BLK),,,0,0,0,0,,,v
+S2324-G0085,2,08:27,UTA,,LAC,,N. Batum,LAC,Batum P.FOUL (P1.T2) (J.Goldenberg),Foul,Personal,0,0,0,0,,,v
+S2324-G0085,2,07:25,UTA,,LAC,,N. Batum,LAC,SUB: George FOR Batum,Substitution,,0,0,0,0,,,v
+S2324-G0085,2,05:48,UTA,,LAC,,N. Batum,LAC,Batum P.FOUL (P2.T3) (J.Goldenberg),Foul,Personal,0,0,0,0,,,v
+S2324-G0085,2,05:18,UTA,53.0,LAC,44.0,N. Batum,LAC,Batum 3PT Jump Shot (3 PTS) (Covington 1 AST),Made Shot,Jump Shot,228,10,0,1,3.0,3.0,v
+S2324-G0085,2,02:29,UTA,,LAC,,N. Batum,LAC,Batum REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0085,3,02:46,UTA,,LAC,,N. Batum,LAC,Batum REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0085,3,01:20,UTA,,LAC,,N. Batum,LAC,Batum BLOCK (3 BLK),,,0,0,0,0,,,v
+S2324-G0085,3,00:44,UTA,,LAC,,N. Batum,LAC,Batum P.FOUL (P3.T4) (K.Cutler),Foul,Personal,0,0,0,0,,,v
+S2324-G0085,4,10:43,UTA,,LAC,,N. Batum,LAC,Batum L.B.FOUL (P4.T1) (K.Cutler),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0085,4,08:15,UTA,97.0,LAC,95.0,N. Batum,LAC,Batum 4' Cutting Dunk Shot (5 PTS) (Westbrook 4 AST),Made Shot,Cutting Dunk Shot,29,24,4,1,2.0,2.0,v
+S2324-G0085,4,05:49,UTA,101.0,LAC,104.0,N. Batum,LAC,Batum 24' 3PT Jump Shot (8 PTS) (Leonard 4 AST),Made Shot,Jump Shot,237,-26,24,1,3.0,3.0,v
+S2324-G0085,4,03:00,UTA,,LAC,,N. Batum,LAC,Batum STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0085,4,01:35,UTA,,LAC,,N. Batum,LAC,MISS Batum 25' 3PT Jump Shot,Missed Shot,Jump Shot,-39,246,25,1,3.0,0.0,v
+S2324-G0099,1,01:20,LAC,,SAS,,N. Batum,LAC,Batum REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0099,1,00:00.400000,LAC,,SAS,,N. Batum,LAC,MISS Batum 24' 3PT Jump Shot,Missed Shot,Jump Shot,232,67,24,1,3.0,0.0,h
+S2324-G0099,2,10:56,LAC,,SAS,,N. Batum,LAC,Batum REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0099,2,10:37,LAC,,SAS,,N. Batum,LAC,Batum P.FOUL (P1.T1) (Z.Zarba),Foul,Personal,0,0,0,0,,,h
+S2324-G0099,2,08:33,LAC,,SAS,,N. Batum,LAC,Batum STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0099,2,07:40,LAC,,SAS,,N. Batum,LAC,SUB: George FOR Batum,Substitution,,0,0,0,0,,,h
+S2324-G0099,4,11:30,LAC,,SAS,,N. Batum,LAC,Batum Bad Pass Turnover (P1.T13),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0099,4,10:03,LAC,,SAS,,N. Batum,LAC,MISS Batum 27' 3PT Jump Shot,Missed Shot,Jump Shot,96,254,27,1,3.0,0.0,h
+S2324-G0099,4,09:11,LAC,,SAS,,N. Batum,LAC,MISS Batum 26' 3PT Jump Shot,Missed Shot,Jump Shot,127,230,26,1,3.0,0.0,h
+S2324-G0099,4,06:10,LAC,,SAS,,N. Batum,LAC,MISS Batum 3PT Jump Shot,Missed Shot,Jump Shot,-228,47,0,1,3.0,0.0,h
+S2324-G0099,4,05:30,LAC,,SAS,,N. Batum,LAC,SUB: Coffey FOR Batum,Substitution,,0,0,0,0,,,h
+S2324-G0074,1,00:48.700000,LAC,,POR,,N. Batum,LAC,Batum STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0074,3,01:13,LAC,,POR,,N. Batum,LAC,Batum REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0074,4,11:50,LAC,,POR,,N. Batum,LAC,Batum BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0074,4,11:45,LAC,,POR,,N. Batum,LAC,Batum REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0074,4,10:46,LAC,,POR,,N. Batum,LAC,Batum REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0074,4,10:00,LAC,,POR,,N. Batum,LAC,SUB: Leonard FOR Batum,Substitution,,0,0,0,0,,,h

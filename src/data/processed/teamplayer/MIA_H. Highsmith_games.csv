@@ -1,0 +1,945 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2324-G0708,1,11:41,MIA,,LAC,,H. Highsmith,MIA,MISS Highsmith 26' 3PT Jump Shot,Missed Shot,Jump Shot,157,206,26,1,3.0,0.0,h
+S2324-G0708,1,10:19,MIA,,LAC,,H. Highsmith,MIA,Highsmith P.FOUL (P1.T1) (J.Goble),Foul,Personal,0,0,0,0,,,h
+S2324-G0708,1,06:45,MIA,16.0,LAC,5.0,H. Highsmith,MIA,Highsmith 24' 3PT Jump Shot (3 PTS) (Rozier 1 AST),Made Shot,Jump Shot,-237,-20,24,1,3.0,3.0,h
+S2324-G0708,1,04:20,MIA,,LAC,,H. Highsmith,MIA,MISS Highsmith 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,44,26,5,1,2.0,0.0,h
+S2324-G0708,1,04:16,MIA,,LAC,,H. Highsmith,MIA,SUB: Martin FOR Highsmith,Substitution,,0,0,0,0,,,h
+S2324-G0708,2,11:33,MIA,,LAC,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0708,2,10:20,MIA,,LAC,,H. Highsmith,MIA,MISS Highsmith 25' 3PT Jump Shot,Missed Shot,Jump Shot,154,195,25,1,3.0,0.0,h
+S2324-G0708,2,06:02,MIA,,LAC,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0708,2,05:31,MIA,,LAC,,H. Highsmith,MIA,SUB: Butler FOR Highsmith,Substitution,,0,0,0,0,,,h
+S2324-G0708,3,11:43,MIA,,LAC,,H. Highsmith,MIA,Highsmith S.FOUL (P2.T1) (B.Nansel),Foul,Shooting,0,0,0,0,,,h
+S2324-G0708,3,10:21,MIA,,LAC,,H. Highsmith,MIA,Highsmith P.FOUL (P3.T2) (R.Acosta),Foul,Personal,0,0,0,0,,,h
+S2324-G0708,3,07:58,MIA,,LAC,,H. Highsmith,MIA,Highsmith STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0708,3,04:27,MIA,,LAC,,H. Highsmith,MIA,SUB: Martin FOR Highsmith,Substitution,,0,0,0,0,,,h
+S2324-G0708,4,10:24,MIA,72.0,LAC,71.0,H. Highsmith,MIA,Highsmith 2' Running Finger Roll Layup (5 PTS) (Rozier 4 AST),Made Shot,Running Finger Roll Layup Shot,-9,16,2,1,2.0,2.0,h
+S2324-G0708,4,09:52,MIA,,LAC,,H. Highsmith,MIA,Highsmith S.FOUL (P4.T3) (R.Acosta),Foul,Shooting,0,0,0,0,,,h
+S2324-G0708,4,09:21,MIA,,LAC,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0708,4,09:00,MIA,,LAC,,H. Highsmith,MIA,Highsmith P.FOUL (P5.T4) (B.Nansel),Foul,Personal,0,0,0,0,,,h
+S2324-G0708,4,09:00,MIA,,LAC,,H. Highsmith,MIA,SUB: Richardson FOR Highsmith,Substitution,,0,0,0,0,,,h
+S2324-G0175,1,09:54,ATL,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0175,1,08:35,ATL,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0175,1,06:58,ATL,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0175,1,06:44,ATL,,MIA,,H. Highsmith,MIA,MISS Highsmith 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,105,229,25,1,3.0,0.0,v
+S2324-G0175,1,06:39,ATL,9.0,MIA,15.0,H. Highsmith,MIA,Highsmith Free Throw 1 of 3 (1 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,v
+S2324-G0175,1,06:39,ATL,,MIA,,H. Highsmith,MIA,MISS Highsmith Free Throw 2 of 3,Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,0.0,v
+S2324-G0175,1,06:39,ATL,9.0,MIA,16.0,H. Highsmith,MIA,Highsmith Free Throw 3 of 3 (2 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,v
+S2324-G0175,1,05:51,ATL,,MIA,,H. Highsmith,MIA,Highsmith STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0175,1,05:48,ATL,9.0,MIA,20.0,H. Highsmith,MIA,Highsmith 1' Running Dunk (4 PTS),Made Shot,Running Dunk Shot,9,1,1,1,2.0,2.0,v
+S2324-G0175,1,04:49,ATL,,MIA,,H. Highsmith,MIA,Highsmith S.FOUL (P1.T1) (K.Cutler),Foul,Shooting,0,0,0,0,,,v
+S2324-G0175,1,04:28,ATL,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0175,1,02:47,ATL,,MIA,,H. Highsmith,MIA,SUB: Smith FOR Highsmith,Substitution,,0,0,0,0,,,v
+S2324-G0175,2,06:35,ATL,,MIA,,H. Highsmith,MIA,MISS Highsmith 2' Running Layup,Missed Shot,Running Layup Shot,15,8,2,1,2.0,0.0,v
+S2324-G0175,2,05:42,ATL,,MIA,,H. Highsmith,MIA,Highsmith STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0175,2,05:07,ATL,,MIA,,H. Highsmith,MIA,MISS Highsmith 27' 3PT Jump Shot,Missed Shot,Jump Shot,115,246,27,1,3.0,0.0,v
+S2324-G0175,2,04:02,ATL,,MIA,,H. Highsmith,MIA,Highsmith BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0175,2,03:15,ATL,,MIA,,H. Highsmith,MIA,MISS Highsmith 3PT Jump Shot,Missed Shot,Jump Shot,-223,30,0,1,3.0,0.0,v
+S2324-G0175,2,01:51,ATL,43.0,MIA,60.0,H. Highsmith,MIA,Highsmith 9' Driving Floating Jump Shot (6 PTS),Made Shot,Driving Floating Jump Shot,2,85,9,1,2.0,2.0,v
+S2324-G0175,3,09:50,ATL,,MIA,,H. Highsmith,MIA,Highsmith Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0175,3,09:04,ATL,,MIA,,H. Highsmith,MIA,MISS Highsmith 24' 3PT Jump Shot,Missed Shot,Jump Shot,238,-11,24,1,3.0,0.0,v
+S2324-G0175,3,08:34,ATL,59.0,MIA,69.0,H. Highsmith,MIA,Highsmith 1' Cutting Layup Shot (8 PTS) (Jaquez Jr. 4 AST),Made Shot,Cutting Layup Shot,5,8,1,1,2.0,2.0,v
+S2324-G0175,3,07:52,ATL,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0175,3,05:24,ATL,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0175,3,04:22,ATL,,MIA,,H. Highsmith,MIA,MISS Highsmith 2' Layup,Missed Shot,Layup Shot,-16,8,2,1,2.0,0.0,v
+S2324-G0175,3,02:36,ATL,,MIA,,H. Highsmith,MIA,SUB: Adebayo FOR Highsmith,Substitution,,0,0,0,0,,,v
+S2324-G0175,4,05:39,ATL,,MIA,,H. Highsmith,MIA,MISS Highsmith 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-61,175,19,1,2.0,0.0,v
+S2324-G0175,4,04:22,ATL,,MIA,,H. Highsmith,MIA,MISS Highsmith 27' 3PT Jump Shot,Missed Shot,Jump Shot,-170,204,27,1,3.0,0.0,v
+S2324-G0175,4,03:47,ATL,,MIA,,H. Highsmith,MIA,MISS Highsmith 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,0,85,9,1,2.0,0.0,v
+S2324-G0175,4,03:17,ATL,,MIA,,H. Highsmith,MIA,Highsmith S.FOUL (P2.T3) (B.Kennedy),Foul,Shooting,0,0,0,0,,,v
+S2324-G0175,4,03:15,ATL,98.0,MIA,111.0,H. Highsmith,MIA,Highsmith Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0175,4,03:15,ATL,,MIA,,H. Highsmith,MIA,MISS Highsmith Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0175,4,02:59,ATL,100.0,MIA,112.0,H. Highsmith,MIA,Highsmith Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0175,4,02:59,ATL,100.0,MIA,113.0,H. Highsmith,MIA,Highsmith Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0175,4,02:27,ATL,,MIA,,H. Highsmith,MIA,MISS Highsmith 2' Layup,Missed Shot,Layup Shot,-7,15,2,1,2.0,0.0,v
+S2324-G0509,2,06:30,MIA,48.0,HOU,39.0,H. Highsmith,MIA,Highsmith 26' 3PT Jump Shot (3 PTS) (Jaquez Jr. 2 AST),Made Shot,Jump Shot,157,205,26,1,3.0,3.0,h
+S2324-G0509,2,06:07,MIA,,HOU,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0509,2,04:53,MIA,,HOU,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0509,2,02:57,MIA,,HOU,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0509,3,01:11,MIA,,HOU,,H. Highsmith,MIA,MISS Highsmith 3PT Jump Shot,Missed Shot,Jump Shot,-223,42,0,1,3.0,0.0,h
+S2324-G0661,1,10:42,MIA,,PHX,,H. Highsmith,MIA,MISS Highsmith 3PT Jump Shot,Missed Shot,Jump Shot,-225,57,0,1,3.0,0.0,h
+S2324-G0661,1,08:06,MIA,14.0,PHX,8.0,H. Highsmith,MIA,Highsmith 3' Hook Shot (2 PTS) (Butler 1 AST),Made Shot,Hook Shot,-18,27,3,1,2.0,2.0,h
+S2324-G0661,1,08:06,MIA,15.0,PHX,8.0,H. Highsmith,MIA,Highsmith Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G0661,1,07:31,MIA,,PHX,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0661,1,05:46,MIA,,PHX,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0661,1,04:30,MIA,,PHX,,H. Highsmith,MIA,SUB: Martin FOR Highsmith,Substitution,,0,0,0,0,,,h
+S2324-G0661,3,11:08,MIA,,PHX,,H. Highsmith,MIA,Highsmith S.FOUL (P1.T1) (G.Petraitis),Foul,Shooting,0,0,0,0,,,h
+S2324-G0661,3,10:01,MIA,,PHX,,H. Highsmith,MIA,Highsmith P.FOUL (P2.T2) (P.Fraher),Foul,Personal,0,0,0,0,,,h
+S2324-G0661,3,05:28,MIA,,PHX,,H. Highsmith,MIA,Highsmith S.FOUL (P3.PN) (G.Petraitis),Foul,Shooting,0,0,0,0,,,h
+S2324-G0661,3,04:21,MIA,,PHX,,H. Highsmith,MIA,MISS Highsmith 3PT Jump Shot,Missed Shot,Jump Shot,-230,-4,0,1,3.0,0.0,h
+S2324-G0661,3,04:11,MIA,,PHX,,H. Highsmith,MIA,SUB: Martin FOR Highsmith,Substitution,,0,0,0,0,,,h
+S2324-G0773,1,00:13.400000,MIL,,MIA,,H. Highsmith,MIA,SUB: D. Robinson FOR Highsmith,Substitution,,0,0,0,0,,,v
+S2324-G0773,2,09:52,MIL,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0773,2,08:48,MIL,33.0,MIA,46.0,H. Highsmith,MIA,Highsmith 7' Floating Jump Shot (2 PTS) (Jaquez Jr. 2 AST),Made Shot,Floating Jump shot,-69,4,7,1,2.0,2.0,v
+S2324-G0773,2,08:14,MIL,,MIA,,H. Highsmith,MIA,MISS Highsmith 24' 3PT Jump Shot,Missed Shot,Jump Shot,-244,2,24,1,3.0,0.0,v
+S2324-G0773,2,04:24,MIL,,MIA,,H. Highsmith,MIA,MISS Highsmith 2' Running Reverse Layup,Missed Shot,Running Reverse Layup Shot,13,21,2,1,2.0,0.0,v
+S2324-G0773,2,03:56,MIL,,MIA,,H. Highsmith,MIA,SUB: Martin FOR Highsmith,Substitution,,0,0,0,0,,,v
+S2324-G0773,3,02:02,MIL,,MIA,,H. Highsmith,MIA,Highsmith BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0773,3,01:58,MIL,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0773,4,11:46,MIL,,MIA,,H. Highsmith,MIA,Highsmith P.FOUL (P1.T1) (A.Moyer-Gleich),Foul,Personal,0,0,0,0,,,v
+S2324-G0773,4,10:25,MIL,,MIA,,H. Highsmith,MIA,Highsmith STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0773,4,08:31,MIL,,MIA,,H. Highsmith,MIA,Highsmith STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0773,4,07:50,MIL,,MIA,,H. Highsmith,MIA,MISS Highsmith 27' 3PT Jump Shot,Missed Shot,Jump Shot,-222,147,27,1,3.0,0.0,v
+S2324-G0773,4,07:28,MIL,,MIA,,H. Highsmith,MIA,Highsmith Violation:Kicked Ball (M.Lindsay),Violation,Kicked Ball,0,0,0,0,,,v
+S2324-G0773,4,03:38,MIL,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0773,4,00:21.400000,MIL,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0587,2,10:18,MIA,,ATL,,H. Highsmith,MIA,MISS Highsmith 3' Running Reverse Layup,Missed Shot,Running Reverse Layup Shot,1,25,3,1,2.0,0.0,h
+S2324-G0587,2,06:36,MIA,,ATL,,H. Highsmith,MIA,Highsmith STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0587,2,05:41,MIA,,ATL,,H. Highsmith,MIA,SUB: Herro FOR Highsmith,Substitution,,0,0,0,0,,,h
+S2324-G0587,4,10:27,MIA,,ATL,,H. Highsmith,MIA,MISS Highsmith 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,225,99,25,1,3.0,0.0,h
+S2324-G0587,4,08:46,MIA,,ATL,,H. Highsmith,MIA,SUB: Butler FOR Highsmith,Substitution,,0,0,0,0,,,h
+S2324-G0904,1,00:04.700000,DAL,,MIA,,H. Highsmith,MIA,SUB: D. Robinson FOR Highsmith,Substitution,,0,0,0,0,,,v
+S2324-G0904,2,07:11,DAL,,MIA,,H. Highsmith,MIA,MISS Highsmith 26' 3PT Jump Shot,Missed Shot,Jump Shot,186,177,26,1,3.0,0.0,v
+S2324-G0904,2,06:49,DAL,,MIA,,H. Highsmith,MIA,MISS Highsmith 24' 3PT Jump Shot,Missed Shot,Jump Shot,225,72,24,1,3.0,0.0,v
+S2324-G0904,2,06:36,DAL,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0904,2,06:29,DAL,44.0,MIA,48.0,H. Highsmith,MIA,Highsmith 3' Alley Oop Dunk (2 PTS) (Rozier 4 AST),Made Shot,Alley Oop Dunk Shot,25,-7,3,1,2.0,2.0,v
+S2324-G0904,2,06:01,DAL,,MIA,,H. Highsmith,MIA,MISS Highsmith 7' Hook Shot,Missed Shot,Hook Shot,-61,26,7,1,2.0,0.0,v
+S2324-G0904,2,05:46,DAL,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0904,2,05:35,DAL,,MIA,,H. Highsmith,MIA,SUB: D. Robinson FOR Highsmith,Substitution,,0,0,0,0,,,v
+S2324-G0904,2,00:02,DAL,,MIA,,H. Highsmith,MIA,SUB: D. Robinson FOR Highsmith,Substitution,,0,0,0,0,,,v
+S2324-G0284,1,10:08,MIA,,IND,,H. Highsmith,MIA,MISS Highsmith 27' 3PT Jump Shot,Missed Shot,Jump Shot,-170,207,27,1,3.0,0.0,h
+S2324-G0284,1,09:13,MIA,,IND,,H. Highsmith,MIA,Highsmith Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0284,1,09:13,MIA,,IND,,H. Highsmith,MIA,Highsmith S.FOUL (P1.T2) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,h
+S2324-G0284,1,09:13,MIA,,IND,,H. Highsmith,MIA,SUB: Martin FOR Highsmith,Substitution,,0,0,0,0,,,h
+S2324-G0601,1,05:06,ORL,,MIA,,H. Highsmith,MIA,Highsmith STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0601,1,00:17.700000,ORL,,MIA,,H. Highsmith,MIA,Highsmith P.FOUL (P1.T3) (T.Brothers),Foul,Personal,0,0,0,0,,,v
+S2324-G0601,2,10:53,ORL,,MIA,,H. Highsmith,MIA,MISS Highsmith 3' Driving Hook Shot,Missed Shot,Driving Hook Shot,18,20,3,1,2.0,0.0,v
+S2324-G0601,2,07:38,ORL,,MIA,,H. Highsmith,MIA,MISS Highsmith 3' Running Layup,Missed Shot,Running Layup Shot,20,26,3,1,2.0,0.0,v
+S2324-G0601,2,06:44,ORL,,MIA,,H. Highsmith,MIA,SUB: Butler FOR Highsmith,Substitution,,0,0,0,0,,,v
+S2324-G0601,2,02:35,ORL,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0601,2,01:48,ORL,45.0,MIA,42.0,H. Highsmith,MIA,Highsmith 24' 3PT Jump Shot (3 PTS) (Butler 1 AST),Made Shot,Jump Shot,232,47,24,1,3.0,3.0,v
+S2324-G0601,2,00:31.500000,ORL,,MIA,,H. Highsmith,MIA,MISS Highsmith Free Throw 1 of 3,Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,0.0,v
+S2324-G0601,2,00:31.500000,ORL,48.0,MIA,43.0,H. Highsmith,MIA,Highsmith Free Throw 2 of 3 (4 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,v
+S2324-G0601,2,00:31.500000,ORL,48.0,MIA,44.0,H. Highsmith,MIA,Highsmith Free Throw 3 of 3 (5 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,v
+S2324-G0601,2,00:00.100000,ORL,,MIA,,H. Highsmith,MIA,Highsmith STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0601,3,06:45,ORL,,MIA,,H. Highsmith,MIA,Highsmith P.FOUL (P2.T2) (J.Schroeder),Foul,Personal,0,0,0,0,,,v
+S2324-G0601,3,06:38,ORL,,MIA,,H. Highsmith,MIA,Highsmith L.B.FOUL (P3.T3) (J.Van Duyne),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0601,3,02:20,ORL,,MIA,,H. Highsmith,MIA,Highsmith S.FOUL (P4.PN) (J.Schroeder),Foul,Shooting,0,0,0,0,,,v
+S2324-G0601,3,02:20,ORL,,MIA,,H. Highsmith,MIA,SUB: Adebayo FOR Highsmith,Substitution,,0,0,0,0,,,v
+S2324-G0601,4,03:14,ORL,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0267,1,10:18,MIA,,IND,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0267,1,07:49,MIA,,IND,,H. Highsmith,MIA,MISS Highsmith 3PT Jump Shot,Missed Shot,Jump Shot,-234,8,0,1,3.0,0.0,h
+S2324-G0267,1,07:22,MIA,,IND,,H. Highsmith,MIA,SUB: Richardson FOR Highsmith,Substitution,,0,0,0,0,,,h
+S2324-G0267,2,11:05,MIA,,IND,,H. Highsmith,MIA,Highsmith S.FOUL (P1.T1) (M.Lindsay),Foul,Shooting,0,0,0,0,,,h
+S2324-G0267,2,09:34,MIA,,IND,,H. Highsmith,MIA,SUB: Richardson FOR Highsmith,Substitution,,0,0,0,0,,,h
+S2324-G0267,2,03:06,MIA,,IND,,H. Highsmith,MIA,Highsmith S.FOUL (P2.PN) (B.Schwab),Foul,Shooting,0,0,0,0,,,h
+S2324-G0267,2,01:58,MIA,59.0,IND,65.0,H. Highsmith,MIA,Highsmith 3' Cutting Dunk Shot (2 PTS) (Lowry 2 AST),Made Shot,Cutting Dunk Shot,-18,29,3,1,2.0,2.0,h
+S2324-G0267,2,01:08,MIA,,IND,,H. Highsmith,MIA,SUB: Martin FOR Highsmith,Substitution,,0,0,0,0,,,h
+S2324-G0267,3,11:35,MIA,,IND,,H. Highsmith,MIA,Highsmith Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0267,3,10:46,MIA,,IND,,H. Highsmith,MIA,Highsmith S.FOUL (P3.T1) (B.Schwab),Foul,Shooting,0,0,0,0,,,h
+S2324-G0267,3,08:18,MIA,,IND,,H. Highsmith,MIA,Highsmith S.FOUL (P4.T3) (M.Lindsay),Foul,Shooting,0,0,0,0,,,h
+S2324-G0267,3,08:18,MIA,,IND,,H. Highsmith,MIA,SUB: Martin FOR Highsmith,Substitution,,0,0,0,0,,,h
+S2324-G0119,1,04:22,MIA,,BKN,,H. Highsmith,MIA,Highsmith STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0119,1,03:49,MIA,25.0,BKN,17.0,H. Highsmith,MIA,Highsmith 25' 3PT Jump Shot (3 PTS) (Butler 1 AST),Made Shot,Jump Shot,-197,157,25,1,3.0,3.0,h
+S2324-G0119,1,00:39.800000,MIA,,BKN,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0119,2,10:48,MIA,,BKN,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0119,2,09:00,MIA,,BKN,,H. Highsmith,MIA,Highsmith Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0119,2,08:56,MIA,,BKN,,H. Highsmith,MIA,Highsmith BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0119,2,05:41,MIA,,BKN,,H. Highsmith,MIA,SUB: Adebayo FOR Highsmith,Substitution,,0,0,0,0,,,h
+S2324-G0119,3,05:18,MIA,,BKN,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0119,3,04:37,MIA,75.0,BKN,60.0,H. Highsmith,MIA,Highsmith 28' 3PT Jump Shot (6 PTS) (Richardson 2 AST),Made Shot,Jump Shot,5,276,28,1,3.0,3.0,h
+S2324-G0119,3,02:18,MIA,,BKN,,H. Highsmith,MIA,MISS Highsmith 9' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-93,16,9,1,2.0,0.0,h
+S2324-G0119,4,11:13,MIA,86.0,BKN,78.0,H. Highsmith,MIA,Highsmith 24' 3PT Jump Shot (9 PTS) (Herro 5 AST),Made Shot,Jump Shot,239,11,24,1,3.0,3.0,h
+S2324-G0119,4,10:04,MIA,,BKN,,H. Highsmith,MIA,MISS Highsmith 25' 3PT Jump Shot,Missed Shot,Jump Shot,216,127,25,1,3.0,0.0,h
+S2324-G0119,4,08:55,MIA,,BKN,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0119,4,07:03,MIA,,BKN,,H. Highsmith,MIA,SUB: Butler FOR Highsmith,Substitution,,0,0,0,0,,,h
+S2324-G0119,4,00:06.300000,MIA,,BKN,,H. Highsmith,MIA,SUB: D. Robinson FOR Highsmith,Substitution,,0,0,0,0,,,h
+S2324-G0949,2,03:10,MIA,,DEN,,H. Highsmith,MIA,Highsmith P.FOUL (P1.T2) (J.Goldenberg),Foul,Personal,0,0,0,0,,,h
+S2324-G0621,1,10:24,MIA,,MEM,,H. Highsmith,MIA,Highsmith REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0621,1,10:14,MIA,,MEM,,H. Highsmith,MIA,Highsmith Traveling Turnover (P1.T1),Turnover,Traveling,0,0,0,0,,,h
+S2324-G0621,1,08:54,MIA,6.0,MEM,0.0,H. Highsmith,MIA,Highsmith 3' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,28,20,3,1,2.0,2.0,h
+S2324-G0621,1,07:53,MIA,,MEM,,H. Highsmith,MIA,MISS Highsmith 3PT Running Jump Shot,Missed Shot,Running Jump Shot,228,36,0,1,3.0,0.0,h
+S2324-G0621,1,06:19,MIA,,MEM,,H. Highsmith,MIA,Highsmith STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0621,1,04:59,MIA,16.0,MEM,11.0,H. Highsmith,MIA,Highsmith 25' 3PT Jump Shot (5 PTS) (Butler 1 AST),Made Shot,Jump Shot,-245,10,25,1,3.0,3.0,h
+S2324-G0621,1,03:39,MIA,,MEM,,H. Highsmith,MIA,Highsmith STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0621,1,01:54,MIA,,MEM,,H. Highsmith,MIA,SUB: D. Robinson FOR Highsmith,Substitution,,0,0,0,0,,,h
+S2324-G0621,2,07:47,MIA,,MEM,,H. Highsmith,MIA,SUB: Butler FOR Highsmith,Substitution,,0,0,0,0,,,h
+S2324-G0621,3,11:32,MIA,45.0,MEM,49.0,H. Highsmith,MIA,Highsmith 25' 3PT Jump Shot (8 PTS) (Butler 3 AST),Made Shot,Jump Shot,-212,136,25,1,3.0,3.0,h
+S2324-G0621,3,10:44,MIA,,MEM,,H. Highsmith,MIA,Highsmith BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0621,3,09:12,MIA,,MEM,,H. Highsmith,MIA,MISS Highsmith 25' 3PT Jump Shot,Missed Shot,Jump Shot,250,20,25,1,3.0,0.0,h
+S2324-G0621,3,07:12,MIA,,MEM,,H. Highsmith,MIA,Highsmith REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0621,3,05:25,MIA,,MEM,,H. Highsmith,MIA,Highsmith REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0621,3,04:56,MIA,,MEM,,H. Highsmith,MIA,Highsmith REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0621,3,04:39,MIA,,MEM,,H. Highsmith,MIA,MISS Highsmith 11' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,42,98,11,1,2.0,0.0,h
+S2324-G0621,3,01:12,MIA,,MEM,,H. Highsmith,MIA,Highsmith S.FOUL (P1.T4) (S.Mitchell),Foul,Shooting,0,0,0,0,,,h
+S2324-G0621,3,01:12,MIA,,MEM,,H. Highsmith,MIA,SUB: D. Robinson FOR Highsmith,Substitution,,0,0,0,0,,,h
+S2324-G0240,1,11:13,BKN,,MIA,,H. Highsmith,MIA,Highsmith S.FOUL (P1.T1) (A.Smith),Foul,Shooting,0,0,0,0,,,v
+S2324-G0240,1,10:06,BKN,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0240,1,08:40,BKN,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0240,1,05:58,BKN,16.0,MIA,8.0,H. Highsmith,MIA,Highsmith 30' 3PT Jump Shot (3 PTS) (Richardson 2 AST),Made Shot,Jump Shot,86,283,30,1,3.0,3.0,v
+S2324-G0240,1,05:22,BKN,,MIA,,H. Highsmith,MIA,Highsmith S.FOUL (P2.T3) (K.Cutler),Foul,Shooting,0,0,0,0,,,v
+S2324-G0240,1,05:22,BKN,,MIA,,H. Highsmith,MIA,SUB: Martin FOR Highsmith,Substitution,,0,0,0,0,,,v
+S2324-G0240,2,04:13,BKN,,MIA,,H. Highsmith,MIA,MISS Highsmith 4' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,37,4,4,1,2.0,0.0,v
+S2324-G0240,2,04:11,BKN,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0240,2,03:26,BKN,,MIA,,H. Highsmith,MIA,MISS Highsmith 29' 3PT Jump Shot,Missed Shot,Jump Shot,81,274,29,1,3.0,0.0,v
+S2324-G0240,2,02:53,BKN,,MIA,,H. Highsmith,MIA,Highsmith BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0240,2,01:12,BKN,,MIA,,H. Highsmith,MIA,Highsmith Bad Pass Turnover (P1.T11),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0240,2,01:06,BKN,61.0,MIA,50.0,H. Highsmith,MIA,Highsmith 1' Dunk (5 PTS),Made Shot,Dunk Shot,12,-6,1,1,2.0,2.0,v
+S2324-G0240,2,00:27.400000,BKN,63.0,MIA,53.0,H. Highsmith,MIA,Highsmith 26' 3PT Jump Shot (8 PTS) (Lowry 3 AST),Made Shot,Jump Shot,-5,255,26,1,3.0,3.0,v
+S2324-G0240,3,11:47,BKN,,MIA,,H. Highsmith,MIA,MISS Highsmith 12' Floating Jump Shot,Missed Shot,Floating Jump shot,-116,43,12,1,2.0,0.0,v
+S2324-G0240,3,11:02,BKN,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0240,3,10:21,BKN,,MIA,,H. Highsmith,MIA,MISS Highsmith 3' Layup,Missed Shot,Layup Shot,-27,21,3,1,2.0,0.0,v
+S2324-G0240,3,09:35,BKN,,MIA,,H. Highsmith,MIA,SUB: Cain FOR Highsmith,Substitution,,0,0,0,0,,,v
+S2324-G0240,4,10:55,BKN,,MIA,,H. Highsmith,MIA,SUB: Jovic FOR Highsmith,Substitution,,0,0,0,0,,,v
+S2324-G0779,1,04:23,PHI,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0779,1,03:08,PHI,,MIA,,H. Highsmith,MIA,MISS Highsmith 27' 3PT Jump Shot,Missed Shot,Jump Shot,142,228,27,1,3.0,0.0,v
+S2324-G0779,1,01:28,PHI,29.0,MIA,33.0,H. Highsmith,MIA,Highsmith 24' 3PT Jump Shot (3 PTS) (Cain 1 AST),Made Shot,Jump Shot,237,2,24,1,3.0,3.0,v
+S2324-G0779,1,00:05.400000,PHI,,MIA,,H. Highsmith,MIA,MISS Highsmith 3PT Jump Shot,Missed Shot,Jump Shot,229,-4,0,1,3.0,0.0,v
+S2324-G0779,2,10:00,PHI,,MIA,,H. Highsmith,MIA,MISS Highsmith 2' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-23,0,2,1,2.0,0.0,v
+S2324-G0779,2,09:20,PHI,,MIA,,H. Highsmith,MIA,MISS Highsmith 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-230,-5,0,1,3.0,0.0,v
+S2324-G0779,2,08:15,PHI,,MIA,,H. Highsmith,MIA,MISS Highsmith 26' 3PT Jump Shot,Missed Shot,Jump Shot,16,262,26,1,3.0,0.0,v
+S2324-G0779,2,07:33,PHI,44.0,MIA,44.0,H. Highsmith,MIA,Highsmith 24' 3PT Jump Shot (6 PTS) (Herro 3 AST),Made Shot,Jump Shot,239,-1,24,1,3.0,3.0,v
+S2324-G0779,2,06:42,PHI,46.0,MIA,46.0,H. Highsmith,MIA,Highsmith 1' Cutting Dunk Shot (8 PTS) (Adebayo 2 AST),Made Shot,Cutting Dunk Shot,2,5,1,1,2.0,2.0,v
+S2324-G0779,2,05:40,PHI,48.0,MIA,49.0,H. Highsmith,MIA,Highsmith 3PT Jump Shot (11 PTS) (Jovic 1 AST),Made Shot,Jump Shot,-230,-14,0,1,3.0,3.0,v
+S2324-G0779,2,02:26,PHI,,MIA,,H. Highsmith,MIA,Highsmith OFF.Foul (P1) (S.Foster),Foul,Offensive,0,0,0,0,,,v
+S2324-G0779,2,02:26,PHI,,MIA,,H. Highsmith,MIA,Highsmith Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0779,2,01:56,PHI,,MIA,,H. Highsmith,MIA,Highsmith STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0779,2,00:34,PHI,,MIA,,H. Highsmith,MIA,Highsmith STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0779,3,01:32,PHI,,MIA,,H. Highsmith,MIA,MISS Highsmith 3PT Jump Shot,Missed Shot,Jump Shot,227,0,0,1,3.0,0.0,v
+S2324-G0779,4,11:41,PHI,,MIA,,H. Highsmith,MIA,MISS Highsmith 26' 3PT Jump Shot,Missed Shot,Jump Shot,186,178,26,1,3.0,0.0,v
+S2324-G0779,4,07:13,PHI,91.0,MIA,92.0,H. Highsmith,MIA,Highsmith 24' 3PT Jump Shot (14 PTS) (Herro 5 AST),Made Shot,Jump Shot,-237,17,24,1,3.0,3.0,v
+S2324-G0779,4,05:49,PHI,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0779,4,05:49,PHI,,MIA,,H. Highsmith,MIA,MISS Highsmith 3' Putback Layup,Missed Shot,Putback Layup Shot,9,29,3,1,2.0,0.0,v
+S2324-G0779,4,04:59,PHI,,MIA,,H. Highsmith,MIA,Highsmith BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0779,4,01:13,PHI,97.0,MIA,104.0,H. Highsmith,MIA,Highsmith Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0779,4,01:13,PHI,97.0,MIA,105.0,H. Highsmith,MIA,Highsmith Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0562,1,03:36,BKN,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0562,1,01:59,BKN,,MIA,,H. Highsmith,MIA,MISS Highsmith 3' Layup,Missed Shot,Layup Shot,31,1,3,1,2.0,0.0,v
+S2324-G0562,1,01:56,BKN,,MIA,,H. Highsmith,MIA,Highsmith S.FOUL (P1.T3) (M.Kallio),Foul,Shooting,0,0,0,0,,,v
+S2324-G0562,2,10:44,BKN,,MIA,,H. Highsmith,MIA,Highsmith S.FOUL (P2.T1) (S.Wright),Foul,Shooting,0,0,0,0,,,v
+S2324-G0562,2,07:57,BKN,,MIA,,H. Highsmith,MIA,MISS Highsmith 24' 3PT Jump Shot,Missed Shot,Jump Shot,-233,-37,24,1,3.0,0.0,v
+S2324-G0562,2,07:01,BKN,,MIA,,H. Highsmith,MIA,SUB: Bryant FOR Highsmith,Substitution,,0,0,0,0,,,v
+S2324-G0831,1,05:19,SAC,15.0,MIA,20.0,H. Highsmith,MIA,Highsmith 24' 3PT Jump Shot (3 PTS) (Wright 1 AST),Made Shot,Jump Shot,-241,21,24,1,3.0,3.0,v
+S2324-G0831,1,04:56,SAC,,MIA,,H. Highsmith,MIA,MISS Highsmith 24' 3PT Jump Shot,Missed Shot,Jump Shot,-243,28,24,1,3.0,0.0,v
+S2324-G0831,1,04:29,SAC,19.0,MIA,23.0,H. Highsmith,MIA,Highsmith 28' 3PT Jump Shot (6 PTS) (Adebayo 2 AST),Made Shot,Jump Shot,-232,163,28,1,3.0,3.0,v
+S2324-G0831,2,11:33,SAC,35.0,MIA,34.0,H. Highsmith,MIA,Highsmith 6' Cutting Layup Shot (8 PTS) (Jaquez Jr. 2 AST),Made Shot,Cutting Layup Shot,-22,59,6,1,2.0,2.0,v
+S2324-G0831,2,11:24,SAC,,MIA,,H. Highsmith,MIA,Highsmith STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0831,2,10:19,SAC,,MIA,,H. Highsmith,MIA,Highsmith P.FOUL (P1.T1) (A.Nagy),Foul,Personal,0,0,0,0,,,v
+S2324-G0831,2,09:41,SAC,,MIA,,H. Highsmith,MIA,Highsmith S.FOUL (P2.T2) (T.Brothers),Foul,Shooting,0,0,0,0,,,v
+S2324-G0831,2,09:20,SAC,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0831,2,09:18,SAC,43.0,MIA,36.0,H. Highsmith,MIA,Highsmith 6' Hook Shot (10 PTS),Made Shot,Hook Shot,-5,62,6,1,2.0,2.0,v
+S2324-G0831,2,07:53,SAC,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0831,2,07:53,SAC,,MIA,,H. Highsmith,MIA,MISS Highsmith Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2324-G0831,2,05:39,SAC,55.0,MIA,47.0,H. Highsmith,MIA,Highsmith 14' Turnaround Hook Shot (12 PTS),Made Shot,Turnaround Hook Shot,-26,138,14,1,2.0,2.0,v
+S2324-G0831,2,02:40,SAC,,MIA,,H. Highsmith,MIA,Highsmith BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0831,2,01:36,SAC,61.0,MIA,62.0,H. Highsmith,MIA,Highsmith 24' 3PT Jump Shot (15 PTS) (Wright 3 AST),Made Shot,Jump Shot,239,44,24,1,3.0,3.0,v
+S2324-G0831,2,01:13,SAC,,MIA,,H. Highsmith,MIA,Highsmith S.FOUL (P3.PN) (T.Brothers),Foul,Shooting,0,0,0,0,,,v
+S2324-G0831,2,01:13,SAC,,MIA,,H. Highsmith,MIA,SUB: Jaquez Jr. FOR Highsmith,Substitution,,0,0,0,0,,,v
+S2324-G0831,3,00:21.900000,SAC,,MIA,,H. Highsmith,MIA,Highsmith STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0831,4,10:42,SAC,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0831,4,08:59,SAC,,MIA,,H. Highsmith,MIA,Highsmith STEAL (3 STL),,,0,0,0,0,,,v
+S2324-G0831,4,07:18,SAC,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0831,4,06:12,SAC,,MIA,,H. Highsmith,MIA,MISS Highsmith 28' 3PT Jump Shot,Missed Shot,Jump Shot,-205,192,28,1,3.0,0.0,v
+S2324-G0831,4,05:38,SAC,,MIA,,H. Highsmith,MIA,SUB: Jaquez Jr. FOR Highsmith,Substitution,,0,0,0,0,,,v
+S2324-G0831,4,00:15.200000,SAC,,MIA,,H. Highsmith,MIA,SUB: Robinson FOR Highsmith,Substitution,,0,0,0,0,,,v
+S2324-G0535,1,08:46,MIA,,ORL,,H. Highsmith,MIA,MISS Highsmith 3PT Jump Shot,Missed Shot,Jump Shot,230,22,0,1,3.0,0.0,h
+S2324-G0535,1,07:03,MIA,,ORL,,H. Highsmith,MIA,Highsmith S.FOUL (P1.T1) (M.Lindsay),Foul,Shooting,0,0,0,0,,,h
+S2324-G0535,1,06:07,MIA,,ORL,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0535,1,05:53,MIA,18.0,ORL,14.0,H. Highsmith,MIA,Highsmith 3PT Jump Shot (3 PTS) (D. Robinson 2 AST),Made Shot,Jump Shot,-233,13,0,1,3.0,3.0,h
+S2324-G0535,1,05:21,MIA,,ORL,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0535,1,04:59,MIA,,ORL,,H. Highsmith,MIA,Highsmith REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0535,1,03:48,MIA,,ORL,,H. Highsmith,MIA,Highsmith STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0535,1,01:20,MIA,,ORL,,H. Highsmith,MIA,SUB: Adebayo FOR Highsmith,Substitution,,0,0,0,0,,,h
+S2324-G0535,2,02:03,MIA,,ORL,,H. Highsmith,MIA,Highsmith REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0535,3,10:37,MIA,61.0,ORL,57.0,H. Highsmith,MIA,Highsmith 6' Driving Layup (5 PTS) (Jaquez Jr. 2 AST),Made Shot,Driving Layup Shot,-37,51,6,1,2.0,2.0,h
+S2324-G0535,3,09:59,MIA,,ORL,,H. Highsmith,MIA,Highsmith REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0535,3,09:12,MIA,,ORL,,H. Highsmith,MIA,MISS Highsmith 6' Hook Shot,Missed Shot,Hook Shot,-34,48,6,1,2.0,0.0,h
+S2324-G0535,3,03:28,MIA,,ORL,,H. Highsmith,MIA,Highsmith REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0535,3,03:26,MIA,,ORL,,H. Highsmith,MIA,Highsmith Lost Ball Turnover (P1.T11),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0535,3,01:27,MIA,,ORL,,H. Highsmith,MIA,SUB: Adebayo FOR Highsmith,Substitution,,0,0,0,0,,,h
+S2324-G0535,3,00:02.500000,MIA,,ORL,,H. Highsmith,MIA,SUB: D. Robinson FOR Highsmith,Substitution,,0,0,0,0,,,h
+S2324-G0535,4,04:03,MIA,,ORL,,H. Highsmith,MIA,Highsmith S.FOUL (P2.T3) (A.Smith),Foul,Shooting,0,0,0,0,,,h
+S2324-G0535,4,03:33,MIA,,ORL,,H. Highsmith,MIA,Highsmith REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0535,4,03:01,MIA,,ORL,,H. Highsmith,MIA,MISS Highsmith 26' 3PT Jump Shot,Missed Shot,Jump Shot,-216,149,26,1,3.0,0.0,h
+S2324-G0535,4,01:43,MIA,,ORL,,H. Highsmith,MIA,SUB: Richardson FOR Highsmith,Substitution,,0,0,0,0,,,h
+S2324-G0535,4,00:08.500000,MIA,,ORL,,H. Highsmith,MIA,Highsmith REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0535,4,00:07.800000,MIA,98.0,ORL,96.0,H. Highsmith,MIA,Highsmith Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0535,4,00:07.800000,MIA,99.0,ORL,96.0,H. Highsmith,MIA,Highsmith Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0759,2,10:37,MIA,27.0,BOS,31.0,H. Highsmith,MIA,Highsmith 2' Cutting Layup Shot (2 PTS) (Richardson 2 AST),Made Shot,Cutting Layup Shot,-6,15,2,1,2.0,2.0,h
+S2324-G0759,2,09:10,MIA,,BOS,,H. Highsmith,MIA,MISS Highsmith 3' Running Layup,Missed Shot,Running Layup Shot,23,16,3,1,2.0,0.0,h
+S2324-G0759,2,06:38,MIA,,BOS,,H. Highsmith,MIA,Highsmith REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0759,2,06:29,MIA,,BOS,,H. Highsmith,MIA,Highsmith STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0759,2,06:15,MIA,,BOS,,H. Highsmith,MIA,Highsmith P.FOUL (P1.T3) (J.Tiven),Foul,Personal,0,0,0,0,,,h
+S2324-G0759,2,04:51,MIA,,BOS,,H. Highsmith,MIA,SUB: Martin FOR Highsmith,Substitution,,0,0,0,0,,,h
+S2324-G0759,3,04:39,MIA,,BOS,,H. Highsmith,MIA,Highsmith P.FOUL (P2.T3) (J.Tiven),Foul,Personal,0,0,0,0,,,h
+S2324-G0759,3,00:33.800000,MIA,,BOS,,H. Highsmith,MIA,Highsmith S.FOUL (P3.T4) (J.Tiven),Foul,Shooting,0,0,0,0,,,h
+S2324-G0759,4,08:41,MIA,,BOS,,H. Highsmith,MIA,Highsmith P.FOUL (P4.T1) (J.Tiven),Foul,Personal,0,0,0,0,,,h
+S2324-G0759,4,08:04,MIA,,BOS,,H. Highsmith,MIA,Highsmith REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0759,4,08:03,MIA,,BOS,,H. Highsmith,MIA,MISS Highsmith 4' Layup,Missed Shot,Layup Shot,-4,41,4,1,2.0,0.0,h
+S2324-G0759,4,02:15,MIA,,BOS,,H. Highsmith,MIA,Highsmith STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0759,4,01:59,MIA,,BOS,,H. Highsmith,MIA,Highsmith REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0759,4,01:01,MIA,,BOS,,H. Highsmith,MIA,MISS Highsmith 27' 3PT Jump Shot,Missed Shot,Jump Shot,-151,220,27,1,3.0,0.0,h
+S2324-G0759,4,00:14.600000,MIA,,BOS,,H. Highsmith,MIA,SUB: Love FOR Highsmith,Substitution,,0,0,0,0,,,h
+S2324-G0574,2,10:47,TOR,,MIA,,H. Highsmith,MIA,MISS Highsmith 25' 3PT Jump Shot,Missed Shot,Jump Shot,-208,134,25,1,3.0,0.0,v
+S2324-G0574,2,10:00,TOR,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0574,2,08:29,TOR,,MIA,,H. Highsmith,MIA,SUB: Butler FOR Highsmith,Substitution,,0,0,0,0,,,v
+S2324-G0574,2,02:08,TOR,72.0,MIA,41.0,H. Highsmith,MIA,Highsmith 9' Floating Jump Shot (2 PTS) (Lowry 1 AST),Made Shot,Floating Jump shot,-40,77,9,1,2.0,2.0,v
+S2324-G0574,2,00:52.500000,TOR,,MIA,,H. Highsmith,MIA,Highsmith BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0574,2,00:06.500000,TOR,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0574,4,01:24,TOR,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0962,4,03:23,DET,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1133,1,00:45.900000,IND,,MIA,,H. Highsmith,MIA,Highsmith L.B.FOUL (P1.T3) (S.Foster),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G1133,2,11:41,IND,,MIA,,H. Highsmith,MIA,Highsmith BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G1133,2,11:36,IND,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1133,2,09:37,IND,,MIA,,H. Highsmith,MIA,MISS Highsmith 25' 3PT Jump Shot,Missed Shot,Jump Shot,-192,162,25,1,3.0,0.0,v
+S2324-G1133,2,09:17,IND,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1133,2,05:41,IND,,MIA,,H. Highsmith,MIA,SUB: Martin FOR Highsmith,Substitution,,0,0,0,0,,,v
+S2324-G1133,3,04:18,IND,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1133,3,02:31,IND,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1133,4,08:14,IND,,MIA,,H. Highsmith,MIA,SUB: Butler FOR Highsmith,Substitution,,0,0,0,0,,,v
+S2324-G1133,4,00:17.100000,IND,,MIA,,H. Highsmith,MIA,SUB: Jovic FOR Highsmith,Substitution,,0,0,0,0,,,v
+S2324-G0630,1,10:43,MIA,,BOS,,H. Highsmith,MIA,Highsmith S.FOUL (P1.T1) (T.Ford),Foul,Shooting,0,0,0,0,,,h
+S2324-G0630,1,10:09,MIA,,BOS,,H. Highsmith,MIA,MISS Highsmith 19' Running Jump Shot,Missed Shot,Running Jump Shot,-185,37,19,1,2.0,0.0,h
+S2324-G0630,1,09:37,MIA,,BOS,,H. Highsmith,MIA,Highsmith S.FOUL (P2.T2) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,h
+S2324-G0630,1,08:49,MIA,8.0,BOS,8.0,H. Highsmith,MIA,Highsmith 3PT Jump Shot (3 PTS) (Herro 1 AST),Made Shot,Jump Shot,-230,-6,0,1,3.0,3.0,h
+S2324-G0630,1,06:35,MIA,,BOS,,H. Highsmith,MIA,SUB: Martin FOR Highsmith,Substitution,,0,0,0,0,,,h
+S2324-G0630,2,05:44,MIA,47.0,BOS,58.0,H. Highsmith,MIA,Highsmith 26' 3PT Jump Shot (6 PTS) (Herro 3 AST),Made Shot,Jump Shot,175,187,26,1,3.0,3.0,h
+S2324-G0630,2,05:19,MIA,,BOS,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0630,2,05:08,MIA,,BOS,,H. Highsmith,MIA,MISS Highsmith 2' Layup,Missed Shot,Layup Shot,-9,21,2,1,2.0,0.0,h
+S2324-G0630,2,02:06,MIA,,BOS,,H. Highsmith,MIA,Highsmith Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0630,2,00:40.200000,MIA,,BOS,,H. Highsmith,MIA,Highsmith S.FOUL (P3.PN) (T.Ford),Foul,Shooting,0,0,0,0,,,h
+S2324-G0630,2,00:40.200000,MIA,,BOS,,H. Highsmith,MIA,SUB: Martin FOR Highsmith,Substitution,,0,0,0,0,,,h
+S2324-G0630,3,03:32,MIA,,BOS,,H. Highsmith,MIA,SUB: Martin FOR Highsmith,Substitution,,0,0,0,0,,,h
+S2324-G0630,4,06:16,MIA,96.0,BOS,126.0,H. Highsmith,MIA,Highsmith 3' Running Dunk (8 PTS),Made Shot,Running Dunk Shot,11,29,3,1,2.0,2.0,h
+S2324-G0630,4,05:39,MIA,99.0,BOS,128.0,H. Highsmith,MIA,Highsmith 25' 3PT Pullup Jump Shot (11 PTS) (Richardson 2 AST),Made Shot,Pullup Jump shot,214,132,25,1,3.0,3.0,h
+S2324-G0630,4,05:11,MIA,,BOS,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0630,4,03:56,MIA,104.0,BOS,133.0,H. Highsmith,MIA,Highsmith 30' 3PT Jump Shot (14 PTS) (Richardson 3 AST),Made Shot,Jump Shot,-194,225,30,1,3.0,3.0,h
+S2324-G0630,4,00:27.100000,MIA,,BOS,,H. Highsmith,MIA,Highsmith REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0689,1,11:38,WAS,,MIA,,H. Highsmith,MIA,Highsmith Step Out of Bounds Turnover (P1.T1),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2324-G0689,1,11:26,WAS,,MIA,,H. Highsmith,MIA,Highsmith S.FOUL (P1.T1) (S.Foster),Foul,Shooting,0,0,0,0,,,v
+S2324-G0689,1,10:52,WAS,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0689,1,10:36,WAS,,MIA,,H. Highsmith,MIA,MISS Highsmith 26' 3PT Jump Shot,Missed Shot,Jump Shot,-104,237,26,1,3.0,0.0,v
+S2324-G0689,1,09:15,WAS,,MIA,,H. Highsmith,MIA,MISS Highsmith 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,10,24,1,3.0,0.0,v
+S2324-G0689,1,09:12,WAS,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0689,1,09:11,WAS,7.0,MIA,4.0,H. Highsmith,MIA,Highsmith 6' Hook Shot (2 PTS),Made Shot,Hook Shot,-1,63,6,1,2.0,2.0,v
+S2324-G0689,1,05:33,WAS,,MIA,,H. Highsmith,MIA,Highsmith S.FOUL (P2.T2) (S.Foster),Foul,Shooting,0,0,0,0,,,v
+S2324-G0689,1,05:33,WAS,,MIA,,H. Highsmith,MIA,SUB: Martin FOR Highsmith,Substitution,,0,0,0,0,,,v
+S2324-G0689,3,11:27,WAS,59.0,MIA,58.0,H. Highsmith,MIA,Highsmith 9' Floating Jump Shot (4 PTS) (Rozier 3 AST),Made Shot,Floating Jump shot,-87,7,9,1,2.0,2.0,v
+S2324-G0689,3,08:12,WAS,,MIA,,H. Highsmith,MIA,MISS Highsmith 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,12,24,1,3.0,0.0,v
+S2324-G0689,3,03:30,WAS,,MIA,,H. Highsmith,MIA,MISS Highsmith 26' 3PT Jump Shot,Missed Shot,Jump Shot,-222,134,26,1,3.0,0.0,v
+S2324-G0689,3,03:22,WAS,,MIA,,H. Highsmith,MIA,SUB: Martin FOR Highsmith,Substitution,,0,0,0,0,,,v
+S2324-G0220,1,11:14,CHI,2.0,MIA,4.0,H. Highsmith,MIA,Highsmith 1' Layup (2 PTS) (Lowry 2 AST),Made Shot,Layup Shot,7,10,1,1,2.0,2.0,v
+S2324-G0220,1,10:25,CHI,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0220,1,09:55,CHI,,MIA,,H. Highsmith,MIA,Highsmith STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0220,1,05:34,CHI,,MIA,,H. Highsmith,MIA,Highsmith S.FOUL (P1.T1) (M.Davis),Foul,Shooting,0,0,0,0,,,v
+S2324-G0220,1,02:09,CHI,,MIA,,H. Highsmith,MIA,SUB: Richardson FOR Highsmith,Substitution,,0,0,0,0,,,v
+S2324-G0220,3,10:02,CHI,,MIA,,H. Highsmith,MIA,Highsmith P.FOUL (P2.T1) (M.Davis),Foul,Personal,0,0,0,0,,,v
+S2324-G0220,3,05:43,CHI,74.0,MIA,82.0,H. Highsmith,MIA,Highsmith 2' Layup (4 PTS) (Adebayo 4 AST),Made Shot,Layup Shot,-20,0,2,1,2.0,2.0,v
+S2324-G0220,3,04:56,CHI,,MIA,,H. Highsmith,MIA,Highsmith OFF.Foul (P3) (P.Ransom),Foul,Offensive,0,0,0,0,,,v
+S2324-G0220,3,04:56,CHI,,MIA,,H. Highsmith,MIA,Highsmith Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0220,3,04:26,CHI,76.0,MIA,85.0,H. Highsmith,MIA,Highsmith 25' 3PT Jump Shot (7 PTS) (Butler 4 AST),Made Shot,Jump Shot,150,204,25,1,3.0,3.0,v
+S2324-G0220,3,03:36,CHI,,MIA,,H. Highsmith,MIA,SUB: Richardson FOR Highsmith,Substitution,,0,0,0,0,,,v
+S2324-G0220,4,00:29.400000,CHI,,MIA,,H. Highsmith,MIA,MISS Highsmith 8' Jump Shot,Missed Shot,Jump Shot,-69,45,8,1,2.0,0.0,v
+S2324-G0220,4,00:29.200000,CHI,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0522,1,11:09,MIA,3.0,OKC,0.0,H. Highsmith,MIA,Highsmith 3PT Jump Shot (3 PTS) (Herro 1 AST),Made Shot,Jump Shot,-227,15,0,1,3.0,3.0,h
+S2324-G0522,1,08:35,MIA,15.0,OKC,6.0,H. Highsmith,MIA,Highsmith 7' Driving Finger Roll Layup (5 PTS) (Adebayo 2 AST),Made Shot,Driving Finger Roll Layup Shot,37,62,7,1,2.0,2.0,h
+S2324-G0522,1,08:10,MIA,,OKC,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0522,1,08:03,MIA,,OKC,,H. Highsmith,MIA,MISS Highsmith 27' 3PT Jump Shot,Missed Shot,Jump Shot,-109,242,27,1,3.0,0.0,h
+S2324-G0522,1,07:09,MIA,,OKC,,H. Highsmith,MIA,MISS Highsmith 9' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,25,82,9,1,2.0,0.0,h
+S2324-G0522,1,06:18,MIA,21.0,OKC,13.0,H. Highsmith,MIA,Highsmith 25' 3PT Jump Shot (8 PTS) (Jovic 1 AST),Made Shot,Jump Shot,-213,137,25,1,3.0,3.0,h
+S2324-G0522,1,01:08,MIA,,OKC,,H. Highsmith,MIA,Highsmith STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0522,1,01:04,MIA,,OKC,,H. Highsmith,MIA,SUB: Adebayo FOR Highsmith,Substitution,,0,0,0,0,,,h
+S2324-G0522,2,05:45,MIA,55.0,OKC,50.0,H. Highsmith,MIA,Highsmith 5' Cutting Dunk Shot (10 PTS) (Adebayo 3 AST),Made Shot,Cutting Dunk Shot,-20,42,5,1,2.0,2.0,h
+S2324-G0522,2,05:12,MIA,,OKC,,H. Highsmith,MIA,MISS Highsmith 5' Reverse Layup,Missed Shot,Reverse Layup Shot,-32,34,5,1,2.0,0.0,h
+S2324-G0522,2,05:10,MIA,,OKC,,H. Highsmith,MIA,Highsmith REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0522,2,00:42.900000,MIA,67.0,OKC,65.0,H. Highsmith,MIA,Highsmith 26' 3PT Jump Shot (13 PTS) (Jaquez Jr. 2 AST),Made Shot,Jump Shot,233,124,26,1,3.0,3.0,h
+S2324-G0522,2,00:09,MIA,,OKC,,H. Highsmith,MIA,Highsmith P.FOUL (P1.T3) (N.Buchert),Foul,Personal,0,0,0,0,,,h
+S2324-G0522,3,08:41,MIA,72.0,OKC,78.0,H. Highsmith,MIA,Highsmith 27' 3PT Jump Shot (16 PTS) (Herro 3 AST),Made Shot,Jump Shot,-206,178,27,1,3.0,3.0,h
+S2324-G0522,3,07:46,MIA,,OKC,,H. Highsmith,MIA,MISS Highsmith 3PT Jump Shot,Missed Shot,Jump Shot,224,49,0,1,3.0,0.0,h
+S2324-G0522,3,07:37,MIA,,OKC,,H. Highsmith,MIA,Highsmith REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0522,3,05:24,MIA,,OKC,,H. Highsmith,MIA,Highsmith REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0522,3,05:23,MIA,,OKC,,H. Highsmith,MIA,MISS Highsmith 4' Layup,Missed Shot,Layup Shot,18,33,4,1,2.0,0.0,h
+S2324-G0522,3,02:09,MIA,,OKC,,H. Highsmith,MIA,Highsmith REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0522,3,01:09,MIA,94.0,OKC,92.0,H. Highsmith,MIA,Highsmith 28' 3PT Jump Shot (19 PTS) (Love 2 AST),Made Shot,Jump Shot,-212,178,28,1,3.0,3.0,h
+S2324-G0522,4,01:13,MIA,,OKC,,H. Highsmith,MIA,MISS Highsmith 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-40,39,6,1,2.0,0.0,h
+S2324-G0522,4,01:01,MIA,,OKC,,H. Highsmith,MIA,Highsmith P.FOUL (P2.T4) (N.Buchert),Foul,Personal,0,0,0,0,,,h
+S2324-G0522,4,00:29.300000,MIA,,OKC,,H. Highsmith,MIA,MISS Highsmith 18' Step Back Jump Shot,Missed Shot,Step Back Jump shot,184,12,18,1,2.0,0.0,h
+S2324-G0867,1,02:26,MIA,,UTA,,H. Highsmith,MIA,MISS Highsmith 26' 3PT Jump Shot,Missed Shot,Jump Shot,-118,230,26,1,3.0,0.0,h
+S2324-G0867,2,06:55,MIA,,UTA,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0867,2,04:41,MIA,,UTA,,H. Highsmith,MIA,SUB: Martin FOR Highsmith,Substitution,,0,0,0,0,,,h
+S2324-G0867,3,00:09,MIA,,UTA,,H. Highsmith,MIA,Highsmith S.FOUL (P1.PN) (C.Blair),Foul,Shooting,0,0,0,0,,,h
+S2324-G0867,4,10:40,MIA,96.0,UTA,93.0,H. Highsmith,MIA,Highsmith 1' Running Dunk (2 PTS) (Martin 4 AST),Made Shot,Running Dunk Shot,6,6,1,1,2.0,2.0,h
+S2324-G0867,4,08:57,MIA,,UTA,,H. Highsmith,MIA,MISS Highsmith 27' 3PT Jump Shot,Missed Shot,Jump Shot,175,199,27,1,3.0,0.0,h
+S2324-G0867,4,05:46,MIA,,UTA,,H. Highsmith,MIA,MISS Highsmith 27' 3PT Jump Shot,Missed Shot,Jump Shot,-61,260,27,1,3.0,0.0,h
+S2324-G0867,4,05:37,MIA,,UTA,,H. Highsmith,MIA,Highsmith BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0867,4,05:30,MIA,,UTA,,H. Highsmith,MIA,MISS Highsmith 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-223,29,0,1,3.0,0.0,h
+S2324-G0867,4,04:56,MIA,,UTA,,H. Highsmith,MIA,SUB: Martin FOR Highsmith,Substitution,,0,0,0,0,,,h
+S2324-G0164,1,07:49,MEM,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0164,1,07:42,MEM,8.0,MIA,15.0,H. Highsmith,MIA,Highsmith 27' 3PT Jump Shot (3 PTS) (Herro 2 AST),Made Shot,Jump Shot,191,185,27,1,3.0,3.0,v
+S2324-G0164,1,04:14,MEM,19.0,MIA,28.0,H. Highsmith,MIA,Highsmith 2' Running Dunk (5 PTS) (Lowry 3 AST),Made Shot,Running Dunk Shot,15,15,2,1,2.0,2.0,v
+S2324-G0164,1,03:27,MEM,,MIA,,H. Highsmith,MIA,Highsmith BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0164,1,02:41,MEM,,MIA,,H. Highsmith,MIA,Highsmith BLOCK (2 BLK),,,0,0,0,0,,,v
+S2324-G0164,1,02:31,MEM,,MIA,,H. Highsmith,MIA,Highsmith BLOCK (3 BLK),,,0,0,0,0,,,v
+S2324-G0164,1,01:36,MEM,,MIA,,H. Highsmith,MIA,Highsmith STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0164,1,01:18,MEM,,MIA,,H. Highsmith,MIA,SUB: Jaquez Jr. FOR Highsmith,Substitution,,0,0,0,0,,,v
+S2324-G0164,2,03:08,MEM,41.0,MIA,44.0,H. Highsmith,MIA,Highsmith Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0164,2,03:08,MEM,41.0,MIA,45.0,H. Highsmith,MIA,Highsmith Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0164,2,02:22,MEM,,MIA,,H. Highsmith,MIA,Highsmith S.FOUL (P1.T3) (M.Lindsay),Foul,Shooting,0,0,0,0,,,v
+S2324-G0164,3,09:24,MEM,,MIA,,H. Highsmith,MIA,Highsmith S.FOUL (P2.T2) (T.Mirkovich),Foul,Shooting,0,0,0,0,,,v
+S2324-G0164,3,09:24,MEM,,MIA,,H. Highsmith,MIA,Highsmith T.FOUL (P2.T2) (J.Van Duyne),Foul,Technical,0,0,0,0,,,v
+S2324-G0164,3,06:51,MEM,64.0,MIA,71.0,H. Highsmith,MIA,Highsmith 3PT Jump Shot (10 PTS) (Lowry 7 AST),Made Shot,Jump Shot,-234,-5,0,1,3.0,3.0,v
+S2324-G0164,3,05:32,MEM,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0164,3,05:28,MEM,64.0,MIA,73.0,H. Highsmith,MIA,Highsmith 4' Driving Floating Jump Shot (12 PTS),Made Shot,Driving Floating Jump Shot,-7,42,4,1,2.0,2.0,v
+S2324-G0164,3,04:42,MEM,,MIA,,H. Highsmith,MIA,MISS Highsmith 27' 3PT Jump Shot,Missed Shot,Jump Shot,186,201,27,1,3.0,0.0,v
+S2324-G0164,3,02:12,MEM,71.0,MIA,77.0,H. Highsmith,MIA,Highsmith 9' Driving Floating Jump Shot (14 PTS),Made Shot,Driving Floating Jump Shot,-70,52,9,1,2.0,2.0,v
+S2324-G0164,3,01:09,MEM,,MIA,,H. Highsmith,MIA,MISS Highsmith 25' 3PT Jump Shot,Missed Shot,Jump Shot,-164,184,25,1,3.0,0.0,v
+S2324-G0164,3,00:52.900000,MEM,,MIA,,H. Highsmith,MIA,SUB: Jaquez Jr. FOR Highsmith,Substitution,,0,0,0,0,,,v
+S2324-G0888,1,01:06,MIA,32.0,DET,24.0,H. Highsmith,MIA,Highsmith 25' 3PT Jump Shot (3 PTS) (Jovic 2 AST),Made Shot,Jump Shot,175,179,25,1,3.0,3.0,h
+S2324-G0888,2,11:41,MIA,,DET,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0888,2,09:00,MIA,,DET,,H. Highsmith,MIA,SUB: D. Robinson FOR Highsmith,Substitution,,0,0,0,0,,,h
+S2324-G0888,2,03:23,MIA,,DET,,H. Highsmith,MIA,Highsmith S.FOUL (P1.PN) (C.Kirkland),Foul,Shooting,0,0,0,0,,,h
+S2324-G0888,2,02:09,MIA,,DET,,H. Highsmith,MIA,MISS Highsmith 3PT Jump Shot,Missed Shot,Jump Shot,-233,0,0,1,3.0,0.0,h
+S2324-G0888,2,02:09,MIA,,DET,,H. Highsmith,MIA,SUB: Butler FOR Highsmith,Substitution,,0,0,0,0,,,h
+S2324-G0888,3,02:43,MIA,,DET,,H. Highsmith,MIA,Highsmith REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0888,3,00:56.600000,MIA,,DET,,H. Highsmith,MIA,Highsmith REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0888,4,10:48,MIA,,DET,,H. Highsmith,MIA,Highsmith BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0888,4,10:46,MIA,,DET,,H. Highsmith,MIA,SUB: D. Robinson FOR Highsmith,Substitution,,0,0,0,0,,,h
+S2324-G0426,1,11:00,GSW,,MIA,,H. Highsmith,MIA,Highsmith STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0426,1,10:53,GSW,,MIA,,H. Highsmith,MIA,MISS Highsmith 6' Running Layup,Missed Shot,Running Layup Shot,21,61,6,1,2.0,0.0,v
+S2324-G0426,1,03:22,GSW,,MIA,,H. Highsmith,MIA,SUB: Jaquez Jr. FOR Highsmith,Substitution,,0,0,0,0,,,v
+S2324-G0426,2,03:31,GSW,40.0,MIA,51.0,H. Highsmith,MIA,Highsmith 27' 3PT Jump Shot (3 PTS) (Love 2 AST),Made Shot,Jump Shot,178,201,27,1,3.0,3.0,v
+S2324-G0426,2,03:00,GSW,,MIA,,H. Highsmith,MIA,Highsmith P.FOUL (P1.PN) (J.DeRosa),Foul,Personal,0,0,0,0,,,v
+S2324-G0426,2,01:57,GSW,,MIA,,H. Highsmith,MIA,Highsmith S.FOUL (P2.PN) (J.DeRosa),Foul,Shooting,0,0,0,0,,,v
+S2324-G0426,2,01:40,GSW,,MIA,,H. Highsmith,MIA,SUB: Hampton FOR Highsmith,Substitution,,0,0,0,0,,,v
+S2324-G0426,3,11:46,GSW,,MIA,,H. Highsmith,MIA,Highsmith S.FOUL (P3.T1) (J.Williams),Foul,Shooting,0,0,0,0,,,v
+S2324-G0426,3,10:58,GSW,,MIA,,H. Highsmith,MIA,MISS Highsmith 3PT Jump Shot,Missed Shot,Jump Shot,227,15,0,1,3.0,0.0,v
+S2324-G0426,3,07:31,GSW,,MIA,,H. Highsmith,MIA,Highsmith S.FOUL (P4.T4) (J.DeRosa),Foul,Shooting,0,0,0,0,,,v
+S2324-G0426,3,07:31,GSW,,MIA,,H. Highsmith,MIA,SUB: Cain FOR Highsmith,Substitution,,0,0,0,0,,,v
+S2324-G0810,1,03:26,NOP,,MIA,,H. Highsmith,MIA,Highsmith S.FOUL (P1.T4) (M.Boland),Foul,Shooting,0,0,0,0,,,v
+S2324-G0810,1,00:28.500000,NOP,,MIA,,H. Highsmith,MIA,Highsmith BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0810,2,08:48,NOP,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0810,2,04:58,NOP,,MIA,,H. Highsmith,MIA,SUB: Martin FOR Highsmith,Substitution,,0,0,0,0,,,v
+S2324-G0810,3,01:27,NOP,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0810,3,01:27,NOP,78.0,MIA,81.0,H. Highsmith,MIA,Highsmith 3' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,2,27,3,1,2.0,2.0,v
+S2324-G0810,3,00:01.300000,NOP,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0810,4,08:13,NOP,91.0,MIA,92.0,H. Highsmith,MIA,Highsmith 3PT Jump Shot (5 PTS) (Love 1 AST),Made Shot,Jump Shot,-230,-19,0,1,3.0,3.0,v
+S2324-G0810,4,07:56,NOP,,MIA,,H. Highsmith,MIA,SUB: Herro FOR Highsmith,Substitution,,0,0,0,0,,,v
+S2324-G0810,4,00:06,NOP,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0914,2,00:31.600000,OKC,,MIA,,H. Highsmith,MIA,Highsmith S.FOUL (P1.T4) (T.Washington),Foul,Shooting,0,0,0,0,,,v
+S2324-G0914,4,06:17,OKC,,MIA,,H. Highsmith,MIA,SUB: Adebayo FOR Highsmith,Substitution,,0,0,0,0,,,v
+S2324-G0017,1,09:46,CHA,,MIA,,H. Highsmith,MIA,MISS Highsmith 26' 3PT Jump Shot,Missed Shot,Jump Shot,64,253,26,1,3.0,0.0,v
+S2324-G0017,1,05:43,CHA,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0017,1,03:52,CHA,,MIA,,H. Highsmith,MIA,Highsmith STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0017,1,01:59,CHA,,MIA,,H. Highsmith,MIA,Highsmith BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0017,1,01:29,CHA,,MIA,,H. Highsmith,MIA,SUB: Adebayo FOR Highsmith,Substitution,,0,0,0,0,,,v
+S2324-G0017,2,08:30,CHA,,MIA,,H. Highsmith,MIA,MISS Highsmith 3PT Jump Shot,Missed Shot,Jump Shot,-225,0,0,1,3.0,0.0,v
+S2324-G0017,2,07:10,CHA,,MIA,,H. Highsmith,MIA,Highsmith BLOCK (2 BLK),,,0,0,0,0,,,v
+S2324-G0017,2,06:59,CHA,36.0,MIA,33.0,H. Highsmith,MIA,Highsmith 2' Dunk (2 PTS) (Adebayo 1 AST),Made Shot,Dunk Shot,-15,9,2,1,2.0,2.0,v
+S2324-G0017,2,06:47,CHA,,MIA,,H. Highsmith,MIA,Highsmith STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0017,2,03:16,CHA,,MIA,,H. Highsmith,MIA,Highsmith STEAL (3 STL),,,0,0,0,0,,,v
+S2324-G0017,2,03:10,CHA,44.0,MIA,44.0,H. Highsmith,MIA,Highsmith 1' Running Layup (4 PTS) (Jaquez Jr. 1 AST),Made Shot,Running Layup Shot,11,0,1,1,2.0,2.0,v
+S2324-G0017,2,02:52,CHA,44.0,MIA,47.0,H. Highsmith,MIA,Highsmith 3PT Jump Shot (7 PTS) (Butler 3 AST),Made Shot,Jump Shot,230,25,0,1,3.0,3.0,v
+S2324-G0017,2,00:57.500000,CHA,46.0,MIA,51.0,H. Highsmith,MIA,Highsmith 3' Running Layup (9 PTS) (Adebayo 3 AST),Made Shot,Running Layup Shot,13,22,3,1,2.0,2.0,v
+S2324-G0017,2,00:35,CHA,,MIA,,H. Highsmith,MIA,Highsmith STEAL (4 STL),,,0,0,0,0,,,v
+S2324-G0017,2,00:23.600000,CHA,46.0,MIA,54.0,H. Highsmith,MIA,Highsmith 27' 3PT Jump Shot (12 PTS) (Richardson 5 AST),Made Shot,Jump Shot,-116,241,27,1,3.0,3.0,v
+S2324-G0017,3,09:26,CHA,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0017,3,08:53,CHA,,MIA,,H. Highsmith,MIA,Highsmith S.FOUL (P1.T1) (D.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2324-G0017,3,03:59,CHA,,MIA,,H. Highsmith,MIA,SUB: Richardson FOR Highsmith,Substitution,,0,0,0,0,,,v
+S2324-G0017,4,10:33,CHA,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0017,4,09:41,CHA,,MIA,,H. Highsmith,MIA,Highsmith STEAL (5 STL),,,0,0,0,0,,,v
+S2324-G0017,4,09:12,CHA,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0017,4,07:36,CHA,,MIA,,H. Highsmith,MIA,MISS Highsmith 24' 3PT Jump Shot,Missed Shot,Jump Shot,234,31,24,1,3.0,0.0,v
+S2324-G0017,4,06:38,CHA,,MIA,,H. Highsmith,MIA,SUB: Butler FOR Highsmith,Substitution,,0,0,0,0,,,v
+S2324-G0200,1,09:41,MIA,,BKN,,H. Highsmith,MIA,Highsmith S.FOUL (P1.T1) (M.Ervin),Foul,Shooting,0,0,0,0,,,h
+S2324-G0200,1,07:57,MIA,,BKN,,H. Highsmith,MIA,MISS Highsmith 24' 3PT Jump Shot,Missed Shot,Jump Shot,223,88,24,1,3.0,0.0,h
+S2324-G0200,1,07:46,MIA,,BKN,,H. Highsmith,MIA,Highsmith S.FOUL (P2.T2) (J.DeRosa),Foul,Shooting,0,0,0,0,,,h
+S2324-G0200,1,05:32,MIA,,BKN,,H. Highsmith,MIA,MISS Highsmith 27' 3PT Jump Shot,Missed Shot,Jump Shot,72,256,27,1,3.0,0.0,h
+S2324-G0200,1,04:05,MIA,,BKN,,H. Highsmith,MIA,SUB: Richardson FOR Highsmith,Substitution,,0,0,0,0,,,h
+S2324-G0200,2,02:14,MIA,,BKN,,H. Highsmith,MIA,MISS Highsmith 26' 3PT Jump Shot,Missed Shot,Jump Shot,-234,116,26,1,3.0,0.0,h
+S2324-G0200,2,00:45.500000,MIA,55.0,BKN,52.0,H. Highsmith,MIA,Highsmith 1' Running Layup (2 PTS) (Jaquez Jr. 2 AST),Made Shot,Running Layup Shot,6,13,1,1,2.0,2.0,h
+S2324-G0200,2,00:04.100000,MIA,60.0,BKN,52.0,H. Highsmith,MIA,Highsmith 3' Running Layup (4 PTS) (Butler 1 AST),Made Shot,Running Layup Shot,-23,10,3,1,2.0,2.0,h
+S2324-G0200,3,09:07,MIA,63.0,BKN,59.0,H. Highsmith,MIA,Highsmith Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0200,3,09:07,MIA,64.0,BKN,59.0,H. Highsmith,MIA,Highsmith Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0200,3,07:20,MIA,,BKN,,H. Highsmith,MIA,Highsmith S.FOUL (P3.T1) (J.DeRosa),Foul,Shooting,0,0,0,0,,,h
+S2324-G0200,3,06:24,MIA,,BKN,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0200,3,03:47,MIA,,BKN,,H. Highsmith,MIA,Highsmith Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0200,3,03:42,MIA,,BKN,,H. Highsmith,MIA,SUB: Richardson FOR Highsmith,Substitution,,0,0,0,0,,,h
+S2324-G0996,2,07:36,CLE,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0996,2,06:25,CLE,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0996,2,06:25,CLE,39.0,MIA,48.0,H. Highsmith,MIA,Highsmith Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2324-G0996,2,04:37,CLE,,MIA,,H. Highsmith,MIA,SUB: Mills FOR Highsmith,Substitution,,0,0,0,0,,,v
+S2324-G0996,4,05:53,CLE,,MIA,,H. Highsmith,MIA,SUB: Butler FOR Highsmith,Substitution,,0,0,0,0,,,v
+S2324-G0996,4,00:03.700000,CLE,,MIA,,H. Highsmith,MIA,SUB: Jovic FOR Highsmith,Substitution,,0,0,0,0,,,v
+S2324-G0353,2,11:59,MIA,,MIN,,H. Highsmith,MIA,Highsmith P.FOUL (P1.T1) (E.Dalen),Foul,Personal,0,0,0,0,,,h
+S2324-G0353,2,09:04,MIA,,MIN,,H. Highsmith,MIA,Highsmith STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0353,2,08:15,MIA,,MIN,,H. Highsmith,MIA,Highsmith BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0353,2,08:15,MIA,,MIN,,H. Highsmith,MIA,Highsmith S.FOUL (P2.PN) (J.Sterling),Foul,Shooting,0,0,0,0,,,h
+S2324-G0353,2,05:56,MIA,,MIN,,H. Highsmith,MIA,SUB: Herro FOR Highsmith,Substitution,,0,0,0,0,,,h
+S2324-G0353,4,10:25,MIA,,MIN,,H. Highsmith,MIA,Highsmith REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0353,4,10:24,MIA,,MIN,,H. Highsmith,MIA,Highsmith Bad Pass Turnover (P1.T13),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0353,4,06:44,MIA,,MIN,,H. Highsmith,MIA,SUB: Herro FOR Highsmith,Substitution,,0,0,0,0,,,h
+S2324-G1081,1,04:51,WAS,,MIA,,H. Highsmith,MIA,MISS Highsmith 26' 3PT Jump Shot,Missed Shot,Jump Shot,218,143,26,1,3.0,0.0,v
+S2324-G1081,1,04:11,WAS,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1081,1,03:42,WAS,17.0,MIA,22.0,H. Highsmith,MIA,Highsmith 27' 3PT Running Jump Shot (3 PTS) (Adebayo 1 AST),Made Shot,Running Jump Shot,216,156,27,1,3.0,3.0,v
+S2324-G1081,1,03:11,WAS,,MIA,,H. Highsmith,MIA,MISS Highsmith 5' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-53,0,5,1,2.0,0.0,v
+S2324-G1081,1,01:06,WAS,24.0,MIA,27.0,H. Highsmith,MIA,Highsmith 12' Driving Floating Jump Shot (5 PTS) (Butler 1 AST),Made Shot,Driving Floating Jump Shot,11,116,12,1,2.0,2.0,v
+S2324-G1081,1,00:31.800000,WAS,,MIA,,H. Highsmith,MIA,Highsmith S.FOUL (P1.T2) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,v
+S2324-G1081,2,11:28,WAS,,MIA,,H. Highsmith,MIA,MISS Highsmith 24' 3PT Jump Shot,Missed Shot,Jump Shot,-240,-13,24,1,3.0,0.0,v
+S2324-G1081,2,09:18,WAS,,MIA,,H. Highsmith,MIA,MISS Highsmith 7' Floating Jump Shot,Missed Shot,Floating Jump shot,64,24,7,1,2.0,0.0,v
+S2324-G1081,2,08:49,WAS,,MIA,,H. Highsmith,MIA,Highsmith Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G1081,2,08:21,WAS,,MIA,,H. Highsmith,MIA,Highsmith P.FOUL (P2.T2) (M.Myers),Foul,Personal,0,0,0,0,,,v
+S2324-G1081,2,05:15,WAS,,MIA,,H. Highsmith,MIA,MISS Highsmith 26' 3PT Jump Shot,Missed Shot,Jump Shot,-213,148,26,1,3.0,0.0,v
+S2324-G1081,2,03:52,WAS,,MIA,,H. Highsmith,MIA,Highsmith S.FOUL (P3.PN) (M.Myers),Foul,Shooting,0,0,0,0,,,v
+S2324-G1081,2,03:52,WAS,,MIA,,H. Highsmith,MIA,SUB: Wright FOR Highsmith,Substitution,,0,0,0,0,,,v
+S2324-G1081,3,04:27,WAS,72.0,MIA,85.0,H. Highsmith,MIA,Highsmith 25' 3PT Jump Shot (8 PTS) (Wright 4 AST),Made Shot,Jump Shot,229,111,25,1,3.0,3.0,v
+S2324-G1081,3,03:14,WAS,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1081,3,00:48,WAS,,MIA,,H. Highsmith,MIA,MISS Highsmith 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,227,120,26,1,3.0,0.0,v
+S2324-G1081,4,11:40,WAS,,MIA,,H. Highsmith,MIA,MISS Highsmith 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,21,50,5,1,2.0,0.0,v
+S2324-G1081,4,11:39,WAS,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1081,4,11:37,WAS,80.0,MIA,97.0,H. Highsmith,MIA,Highsmith 1' Putback Layup (10 PTS),Made Shot,Putback Layup Shot,11,-5,1,1,2.0,2.0,v
+S2324-G1081,4,10:50,WAS,,MIA,,H. Highsmith,MIA,Highsmith P.FOUL (P4.T1) (M.Myers),Foul,Personal,0,0,0,0,,,v
+S2324-G1081,4,09:18,WAS,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1081,4,07:04,WAS,,MIA,,H. Highsmith,MIA,MISS Highsmith 3' Running Alley Oop Layup Shot,Missed Shot,Running Alley Oop Layup Shot,27,0,3,1,2.0,0.0,v
+S2324-G1081,4,03:47,WAS,,MIA,,H. Highsmith,MIA,Highsmith BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G1081,4,00:32.900000,WAS,,MIA,,H. Highsmith,MIA,SUB: Swider FOR Highsmith,Substitution,,0,0,0,0,,,v
+S2324-G0184,1,07:03,SAS,,MIA,,H. Highsmith,MIA,Highsmith S.FOUL (P1.T2) (N.Sago),Foul,Shooting,0,0,0,0,,,v
+S2324-G0184,1,02:56,SAS,,MIA,,H. Highsmith,MIA,SUB: Adebayo FOR Highsmith,Substitution,,0,0,0,0,,,v
+S2324-G0184,2,10:40,SAS,,MIA,,H. Highsmith,MIA,MISS Highsmith 25' 3PT Jump Shot,Missed Shot,Jump Shot,-50,242,25,1,3.0,0.0,v
+S2324-G0184,2,07:29,SAS,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0184,2,06:51,SAS,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0184,2,06:46,SAS,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0184,2,03:28,SAS,,MIA,,H. Highsmith,MIA,MISS Highsmith 26' 3PT Jump Shot,Missed Shot,Jump Shot,-176,193,26,1,3.0,0.0,v
+S2324-G0184,2,03:18,SAS,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0184,2,03:17,SAS,,MIA,,H. Highsmith,MIA,SUB: Richardson FOR Highsmith,Substitution,,0,0,0,0,,,v
+S2324-G0184,3,11:09,SAS,,MIA,,H. Highsmith,MIA,Highsmith P.FOUL (P2.T1) (D.Mosher),Foul,Personal,0,0,0,0,,,v
+S2324-G0184,3,10:07,SAS,,MIA,,H. Highsmith,MIA,MISS Highsmith 26' 3PT Jump Shot,Missed Shot,Jump Shot,-191,174,26,1,3.0,0.0,v
+S2324-G0184,3,06:09,SAS,,MIA,,H. Highsmith,MIA,SUB: Love FOR Highsmith,Substitution,,0,0,0,0,,,v
+S2324-G0184,3,00:30.500000,SAS,,MIA,,H. Highsmith,MIA,Highsmith S.FOUL (P3.PN) (D.Mosher),Foul,Shooting,0,0,0,0,,,v
+S2324-G0184,4,10:17,SAS,,MIA,,H. Highsmith,MIA,MISS Highsmith 22' Jump Shot,Missed Shot,Jump Shot,-211,47,22,1,2.0,0.0,v
+S2324-G0184,4,10:08,SAS,,MIA,,H. Highsmith,MIA,SUB: Smith FOR Highsmith,Substitution,,0,0,0,0,,,v
+S2324-G1111,1,01:38,MIA,,PHI,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1111,1,00:49,MIA,,PHI,,H. Highsmith,MIA,Highsmith BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G1111,1,00:38.200000,MIA,,PHI,,H. Highsmith,MIA,Highsmith STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1111,2,11:32,MIA,32.0,PHI,39.0,H. Highsmith,MIA,Highsmith 24' 3PT Jump Shot (3 PTS) (Martin 2 AST),Made Shot,Jump Shot,244,14,24,1,3.0,3.0,h
+S2324-G1111,2,11:16,MIA,,PHI,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1111,2,10:15,MIA,35.0,PHI,41.0,H. Highsmith,MIA,Highsmith 26' 3PT Jump Bank Shot (6 PTS) (Jaquez Jr. 1 AST),Made Shot,Jump Bank Shot,-82,246,26,1,3.0,3.0,h
+S2324-G1111,2,07:54,MIA,,PHI,,H. Highsmith,MIA,MISS Highsmith 26' 3PT Jump Shot,Missed Shot,Jump Shot,197,164,26,1,3.0,0.0,h
+S2324-G1111,2,07:12,MIA,41.0,PHI,43.0,H. Highsmith,MIA,Highsmith 4' Driving Reverse Layup (8 PTS) (Butler 3 AST),Made Shot,Driving Reverse Layup Shot,-25,33,4,1,2.0,2.0,h
+S2324-G1111,2,06:47,MIA,43.0,PHI,43.0,H. Highsmith,MIA,Highsmith 1' Cutting Dunk Shot (10 PTS) (Love 1 AST),Made Shot,Cutting Dunk Shot,-10,11,1,1,2.0,2.0,h
+S2324-G1111,2,05:52,MIA,,PHI,,H. Highsmith,MIA,Highsmith STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G1111,2,03:00,MIA,,PHI,,H. Highsmith,MIA,SUB: Butler FOR Highsmith,Substitution,,0,0,0,0,,,h
+S2324-G1111,2,01:58,MIA,,PHI,,H. Highsmith,MIA,MISS Highsmith 26' 3PT Jump Shot,Missed Shot,Jump Shot,159,202,26,1,3.0,0.0,h
+S2324-G1111,2,00:19.400000,MIA,,PHI,,H. Highsmith,MIA,Highsmith REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1111,2,00:17.100000,MIA,52.0,PHI,63.0,H. Highsmith,MIA,Highsmith 9' Putback Layup (12 PTS),Made Shot,Putback Layup Shot,-12,94,9,1,2.0,2.0,h
+S2324-G1111,3,03:38,MIA,,PHI,,H. Highsmith,MIA,SUB: Jaquez Jr. FOR Highsmith,Substitution,,0,0,0,0,,,h
+S2324-G1111,4,11:24,MIA,,PHI,,H. Highsmith,MIA,Highsmith STEAL (3 STL),,,0,0,0,0,,,h
+S2324-G1111,4,11:17,MIA,,PHI,,H. Highsmith,MIA,Highsmith REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1111,4,10:53,MIA,,PHI,,H. Highsmith,MIA,Highsmith REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1111,4,10:20,MIA,,PHI,,H. Highsmith,MIA,Highsmith STEAL (4 STL),,,0,0,0,0,,,h
+S2324-G1111,4,08:50,MIA,,PHI,,H. Highsmith,MIA,Highsmith Violation:Kicked Ball (J.Goble),Violation,Kicked Ball,0,0,0,0,,,h
+S2324-G1111,4,07:46,MIA,,PHI,,H. Highsmith,MIA,Highsmith REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1111,4,00:54.200000,MIA,,PHI,,H. Highsmith,MIA,Highsmith REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1111,4,00:24.400000,MIA,,PHI,,H. Highsmith,MIA,Highsmith REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1111,4,00:05.300000,MIA,,PHI,,H. Highsmith,MIA,Highsmith REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1111,4,00:02.200000,MIA,,PHI,,H. Highsmith,MIA,Highsmith Lost Ball Turnover (P1.T17),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G1111,4,00:00.500000,MIA,,PHI,,H. Highsmith,MIA,Highsmith Personal Take Foul (P1.PN) (M.Davis),Foul,Personal Take,0,0,0,0,,,h
+S2324-G1111,4,00:00.500000,MIA,,PHI,,H. Highsmith,MIA,SUB: Love FOR Highsmith,Substitution,,0,0,0,0,,,h
+S2324-G1189,1,03:36,MIA,,TOR,,H. Highsmith,MIA,Highsmith P.FOUL (P1.PN) (B.Taylor),Foul,Personal,0,0,0,0,,,h
+S2324-G1189,1,02:15,MIA,,TOR,,H. Highsmith,MIA,Highsmith Traveling Turnover (P1.T5),Turnover,Traveling,0,0,0,0,,,h
+S2324-G1189,1,01:47,MIA,,TOR,,H. Highsmith,MIA,Highsmith Offensive Charge Foul (P2) (B.Taylor),Foul,Offensive Charge,0,0,0,0,,,h
+S2324-G1189,1,01:47,MIA,,TOR,,H. Highsmith,MIA,Highsmith Offensive Foul Turnover (P2.T6),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G1189,2,10:09,MIA,,TOR,,H. Highsmith,MIA,MISS Highsmith 25' 3PT Jump Shot,Missed Shot,Jump Shot,-246,13,25,1,3.0,0.0,h
+S2324-G1189,2,09:25,MIA,,TOR,,H. Highsmith,MIA,Highsmith STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1189,2,06:20,MIA,,TOR,,H. Highsmith,MIA,MISS Highsmith 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,183,179,26,1,3.0,0.0,h
+S2324-G1189,2,05:50,MIA,,TOR,,H. Highsmith,MIA,SUB: Herro FOR Highsmith,Substitution,,0,0,0,0,,,h
+S2324-G1189,3,00:36.300000,MIA,94.0,TOR,68.0,H. Highsmith,MIA,Highsmith 27' 3PT Jump Shot (3 PTS) (Wright 4 AST),Made Shot,Jump Shot,176,209,27,1,3.0,3.0,h
+S2324-G1189,3,00:22.100000,MIA,,TOR,,H. Highsmith,MIA,HEAT T.Foul (Def. 3 Sec Highsmith ) (J.Sterling),Foul,Defense 3 Second,0,0,0,0,,,h
+S2324-G1189,4,10:06,MIA,,TOR,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1189,4,08:17,MIA,,TOR,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1189,4,08:06,MIA,,TOR,,H. Highsmith,MIA,MISS Highsmith 25' 3PT Jump Shot,Missed Shot,Jump Shot,243,35,25,1,3.0,0.0,h
+S2324-G1189,4,05:17,MIA,108.0,TOR,83.0,H. Highsmith,MIA,Highsmith 13' Floating Jump Shot (5 PTS) (Mills 1 AST),Made Shot,Floating Jump shot,118,42,13,1,2.0,2.0,h
+S2324-G1189,4,02:39,MIA,,TOR,,H. Highsmith,MIA,Highsmith REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1189,4,01:53,MIA,,TOR,,H. Highsmith,MIA,Highsmith Personal Take Foul (P3.T1) (M.Lindsay),Foul,Personal Take,0,0,0,0,,,h
+S2324-G1189,4,01:53,MIA,,TOR,,H. Highsmith,MIA,SUB: Williams FOR Highsmith,Substitution,,0,0,0,0,,,h
+S2324-G0366,1,01:51,ORL,,MIA,,H. Highsmith,MIA,MISS Highsmith 4' Layup,Missed Shot,Layup Shot,-21,32,4,1,2.0,0.0,v
+S2324-G0366,1,01:46,ORL,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0366,1,01:33,ORL,,MIA,,H. Highsmith,MIA,Highsmith STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0366,1,01:26,ORL,,MIA,,H. Highsmith,MIA,Highsmith Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0366,2,11:16,ORL,,MIA,,H. Highsmith,MIA,MISS Highsmith 26' 3PT Jump Shot,Missed Shot,Jump Shot,218,148,26,1,3.0,0.0,v
+S2324-G0366,2,09:51,ORL,30.0,MIA,28.0,H. Highsmith,MIA,Highsmith 26' 3PT Jump Shot (3 PTS) (Adebayo 1 AST),Made Shot,Jump Shot,-172,199,26,1,3.0,3.0,v
+S2324-G0366,2,09:25,ORL,,MIA,,H. Highsmith,MIA,MISS Highsmith 3PT Jump Shot,Missed Shot,Jump Shot,-233,23,0,1,3.0,0.0,v
+S2324-G0366,2,09:03,ORL,30.0,MIA,31.0,H. Highsmith,MIA,Highsmith 27' 3PT Jump Shot (6 PTS) (Adebayo 2 AST),Made Shot,Jump Shot,-191,186,27,1,3.0,3.0,v
+S2324-G0366,2,08:23,ORL,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0366,2,07:04,ORL,,MIA,,H. Highsmith,MIA,MISS Highsmith 24' 3PT Jump Shot,Missed Shot,Jump Shot,232,54,24,1,3.0,0.0,v
+S2324-G0366,2,03:02,ORL,40.0,MIA,52.0,H. Highsmith,MIA,Highsmith 3PT Jump Shot (9 PTS) (Herro 4 AST),Made Shot,Jump Shot,229,32,0,1,3.0,3.0,v
+S2324-G0366,2,02:43,ORL,40.0,MIA,55.0,H. Highsmith,MIA,Highsmith 24' 3PT Running Jump Shot (12 PTS) (Richardson 2 AST),Made Shot,Running Jump Shot,-233,36,24,1,3.0,3.0,v
+S2324-G0366,2,02:29,ORL,,MIA,,H. Highsmith,MIA,Highsmith STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0366,3,02:54,ORL,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0366,3,02:32,ORL,,MIA,,H. Highsmith,MIA,Highsmith S.FOUL (P1.T3) (B.Nansel),Foul,Shooting,0,0,0,0,,,v
+S2324-G0366,4,11:42,ORL,,MIA,,H. Highsmith,MIA,MISS Highsmith 9' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-45,73,9,1,2.0,0.0,v
+S2324-G0366,4,10:26,ORL,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0366,4,08:58,ORL,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0366,4,07:13,ORL,,MIA,,H. Highsmith,MIA,MISS Highsmith 3PT Jump Shot,Missed Shot,Jump Shot,-233,19,0,1,3.0,0.0,v
+S2324-G0366,4,06:40,ORL,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0366,4,06:33,ORL,80.0,MIA,100.0,H. Highsmith,MIA,Highsmith 3' Floating Jump Shot (14 PTS) (Richardson 4 AST),Made Shot,Floating Jump shot,-25,10,3,1,2.0,2.0,v
+S2324-G0366,4,04:39,ORL,,MIA,,H. Highsmith,MIA,MISS Highsmith 26' 3PT Jump Shot,Missed Shot,Jump Shot,-197,168,26,1,3.0,0.0,v
+S2324-G0366,4,03:43,ORL,,MIA,,H. Highsmith,MIA,Highsmith S.FOUL (P2.PN) (D.Scott),Foul,Shooting,0,0,0,0,,,v
+S2324-G0366,4,01:51,ORL,,MIA,,H. Highsmith,MIA,Highsmith S.FOUL (P3.PN) (C.Kirkland),Foul,Shooting,0,0,0,0,,,v
+S2324-G0366,4,00:31.800000,ORL,101.0,MIA,111.0,H. Highsmith,MIA,Highsmith Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0366,4,00:31.800000,ORL,,MIA,,H. Highsmith,MIA,MISS Highsmith Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0977,1,07:37,DET,,MIA,,H. Highsmith,MIA,Highsmith S.FOUL (P1.T1) (J.Conley),Foul,Shooting,0,0,0,0,,,v
+S2324-G0977,1,05:27,DET,,MIA,,H. Highsmith,MIA,MISS Highsmith 30' 3PT Jump Shot,Missed Shot,Jump Shot,147,263,30,1,3.0,0.0,v
+S2324-G0977,1,04:13,DET,,MIA,,H. Highsmith,MIA,MISS Highsmith 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,234,27,24,1,3.0,0.0,v
+S2324-G0977,1,03:03,DET,,MIA,,H. Highsmith,MIA,SUB: Jaquez Jr. FOR Highsmith,Substitution,,0,0,0,0,,,v
+S2324-G0977,2,05:46,DET,,MIA,,H. Highsmith,MIA,MISS Highsmith 25' 3PT Jump Shot,Missed Shot,Jump Shot,-223,116,25,1,3.0,0.0,v
+S2324-G0977,2,05:02,DET,,MIA,,H. Highsmith,MIA,Highsmith P.FOUL (P2.T2) (J.DeRosa),Foul,Personal,0,0,0,0,,,v
+S2324-G0977,2,01:24,DET,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0977,2,01:23,DET,,MIA,,H. Highsmith,MIA,MISS Highsmith 8' Floating Jump Shot,Missed Shot,Floating Jump shot,51,64,8,1,2.0,0.0,v
+S2324-G0977,2,01:00,DET,,MIA,,H. Highsmith,MIA,SUB: Martin FOR Highsmith,Substitution,,0,0,0,0,,,v
+S2324-G0977,3,07:29,DET,56.0,MIA,71.0,H. Highsmith,MIA,Highsmith Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0977,3,07:29,DET,,MIA,,H. Highsmith,MIA,MISS Highsmith Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0977,3,06:40,DET,56.0,MIA,73.0,H. Highsmith,MIA,Highsmith 5' Turnaround Hook Shot (3 PTS) (Adebayo 3 AST),Made Shot,Turnaround Hook Shot,43,20,5,1,2.0,2.0,v
+S2324-G0977,3,05:32,DET,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0977,3,02:44,DET,,MIA,,H. Highsmith,MIA,Highsmith S.FOUL (P3.T1) (J.DeRosa),Foul,Shooting,0,0,0,0,,,v
+S2324-G0977,3,00:58.300000,DET,,MIA,,H. Highsmith,MIA,MISS Highsmith 4' Driving Layup,Missed Shot,Driving Layup Shot,33,25,4,1,2.0,0.0,v
+S2324-G0977,3,00:42.300000,DET,,MIA,,H. Highsmith,MIA,SUB: Rozier FOR Highsmith,Substitution,,0,0,0,0,,,v
+S2324-G1147,2,11:12,ATL,,MIA,,H. Highsmith,MIA,MISS Highsmith 3PT Jump Shot,Missed Shot,Jump Shot,230,21,0,1,3.0,0.0,v
+S2324-G1147,2,10:58,ATL,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1147,2,09:34,ATL,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1147,2,09:26,ATL,29.0,MIA,37.0,H. Highsmith,MIA,Highsmith 25' 3PT Jump Shot (3 PTS) (Wright 1 AST),Made Shot,Jump Shot,-143,200,25,1,3.0,3.0,v
+S2324-G1147,2,08:59,ATL,,MIA,,H. Highsmith,MIA,Highsmith L.B.FOUL (P1.T1) (S.Wright),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G1147,2,08:48,ATL,,MIA,,H. Highsmith,MIA,Highsmith S.FOUL (P2.T2) (K.Lane),Foul,Shooting,0,0,0,0,,,v
+S2324-G1147,2,08:46,ATL,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1147,2,08:36,ATL,,MIA,,H. Highsmith,MIA,MISS Highsmith 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,6,32,3,1,2.0,0.0,v
+S2324-G1147,2,07:49,ATL,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1147,2,06:25,ATL,,MIA,,H. Highsmith,MIA,MISS Highsmith 3PT Jump Shot,Missed Shot,Jump Shot,-221,9,0,1,3.0,0.0,v
+S2324-G1147,2,03:46,ATL,,MIA,,H. Highsmith,MIA,SUB: Herro FOR Highsmith,Substitution,,0,0,0,0,,,v
+S2324-G1147,3,05:08,ATL,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1147,3,03:01,ATL,,MIA,,H. Highsmith,MIA,MISS Highsmith 26' 3PT Jump Shot,Missed Shot,Jump Shot,-156,205,26,1,3.0,0.0,v
+S2324-G1147,3,02:56,ATL,,MIA,,H. Highsmith,MIA,MISS Highsmith 26' 3PT Jump Shot,Missed Shot,Jump Shot,-137,217,26,1,3.0,0.0,v
+S2324-G1147,4,09:05,ATL,86.0,MIA,88.0,H. Highsmith,MIA,Highsmith 25' 3PT Jump Shot (6 PTS) (Herro 3 AST),Made Shot,Jump Shot,-195,164,25,1,3.0,3.0,v
+S2324-G1147,4,07:54,ATL,,MIA,,H. Highsmith,MIA,Highsmith Out of Bounds - Bad Pass Turnover Turnover (P1.T14),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G1147,4,07:18,ATL,,MIA,,H. Highsmith,MIA,Highsmith S.FOUL (P3.T4) (S.Wright),Foul,Shooting,0,0,0,0,,,v
+S2324-G1147,4,05:25,ATL,,MIA,,H. Highsmith,MIA,SUB: Martin FOR Highsmith,Substitution,,0,0,0,0,,,v
+S2324-G1147,4,01:43,ATL,,MIA,,H. Highsmith,MIA,MISS Highsmith Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G1147,4,01:43,ATL,,MIA,,H. Highsmith,MIA,MISS Highsmith Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G1147,4,01:11,ATL,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1147,4,00:17.100000,ATL,,MIA,,H. Highsmith,MIA,SUB: Herro FOR Highsmith,Substitution,,0,0,0,0,,,v
+S2324-G1147,5,00:46.800000,ATL,107.0,MIA,107.0,H. Highsmith,MIA,Highsmith 25' 3PT Jump Shot (9 PTS) (Jovic 1 AST),Made Shot,Jump Shot,-229,106,25,1,3.0,3.0,v
+S2324-G1147,5,00:28.500000,ATL,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1147,6,01:35,ATL,107.0,MIA,113.0,H. Highsmith,MIA,Highsmith 5' Driving Floating Jump Shot (11 PTS) (Herro 4 AST),Made Shot,Driving Floating Jump Shot,-43,20,5,1,2.0,2.0,v
+S2324-G1147,6,00:15.800000,ATL,109.0,MIA,117.0,H. Highsmith,MIA,Highsmith 1' Dunk (13 PTS) (Adebayo 7 AST),Made Shot,Dunk Shot,-6,1,1,1,2.0,2.0,v
+S2324-G0150,1,06:42,MIA,,LAL,,H. Highsmith,MIA,Highsmith BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0150,1,06:39,MIA,,LAL,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0150,1,06:34,MIA,,LAL,,H. Highsmith,MIA,MISS Highsmith 28' 3PT Jump Shot,Missed Shot,Jump Shot,197,197,28,1,3.0,0.0,h
+S2324-G0150,1,06:27,MIA,,LAL,,H. Highsmith,MIA,Highsmith S.FOUL (P1.T2) (J.Williams),Foul,Shooting,0,0,0,0,,,h
+S2324-G0150,1,03:24,MIA,,LAL,,H. Highsmith,MIA,SUB: Jaquez Jr. FOR Highsmith,Substitution,,0,0,0,0,,,h
+S2324-G0150,2,02:23,MIA,,LAL,,H. Highsmith,MIA,MISS Highsmith 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-217,110,24,1,3.0,0.0,h
+S2324-G0150,2,01:41,MIA,57.0,LAL,55.0,H. Highsmith,MIA,Highsmith 24' 3PT Jump Shot (3 PTS) (Butler 3 AST),Made Shot,Jump Shot,-234,42,24,1,3.0,3.0,h
+S2324-G0150,3,10:28,MIA,,LAL,,H. Highsmith,MIA,MISS Highsmith 24' 3PT Jump Shot,Missed Shot,Jump Shot,-233,75,24,1,3.0,0.0,h
+S2324-G0150,3,08:44,MIA,,LAL,,H. Highsmith,MIA,MISS Highsmith 27' 3PT Jump Shot,Missed Shot,Jump Shot,-172,210,27,1,3.0,0.0,h
+S2324-G0150,3,07:32,MIA,,LAL,,H. Highsmith,MIA,Highsmith P.FOUL (P2.T1) (J.Williams),Foul,Personal,0,0,0,0,,,h
+S2324-G0150,3,03:24,MIA,,LAL,,H. Highsmith,MIA,Highsmith STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0150,3,03:11,MIA,87.0,LAL,75.0,H. Highsmith,MIA,Highsmith 21' Jump Shot (5 PTS) (Lowry 4 AST),Made Shot,Jump Shot,-162,126,21,1,2.0,2.0,h
+S2324-G0150,3,01:41,MIA,,LAL,,H. Highsmith,MIA,SUB: Jaquez Jr. FOR Highsmith,Substitution,,0,0,0,0,,,h
+S2324-G0384,1,02:53,MIA,,ATL,,H. Highsmith,MIA,MISS Highsmith 26' 3PT Jump Shot,Missed Shot,Jump Shot,-53,251,26,1,3.0,0.0,h
+S2324-G0384,1,02:18,MIA,,ATL,,H. Highsmith,MIA,Highsmith P.FOUL (P1.T3) (S.Mehta),Foul,Personal,0,0,0,0,,,h
+S2324-G0384,1,01:12,MIA,,ATL,,H. Highsmith,MIA,MISS Highsmith 3' Running Layup,Missed Shot,Running Layup Shot,-15,30,3,1,2.0,0.0,h
+S2324-G0384,1,01:11,MIA,,ATL,,H. Highsmith,MIA,Highsmith REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0384,1,01:10,MIA,,ATL,,H. Highsmith,MIA,MISS Highsmith 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,-7,-1,1,1,2.0,0.0,h
+S2324-G0384,1,01:08,MIA,,ATL,,H. Highsmith,MIA,Highsmith REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0384,1,00:26.900000,MIA,,ATL,,H. Highsmith,MIA,Highsmith REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0384,2,11:20,MIA,,ATL,,H. Highsmith,MIA,Highsmith P.FOUL (P2.T1) (S.Mehta),Foul,Personal,0,0,0,0,,,h
+S2324-G0384,2,10:09,MIA,,ATL,,H. Highsmith,MIA,MISS Highsmith 24' 3PT Jump Shot,Missed Shot,Jump Shot,238,26,24,1,3.0,0.0,h
+S2324-G0384,2,09:42,MIA,40.0,ATL,35.0,H. Highsmith,MIA,Highsmith 5' Cutting Layup Shot (2 PTS) (Richardson 1 AST),Made Shot,Cutting Layup Shot,26,38,5,1,2.0,2.0,h
+S2324-G0384,2,09:09,MIA,,ATL,,H. Highsmith,MIA,Highsmith REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0384,2,08:31,MIA,,ATL,,H. Highsmith,MIA,Highsmith REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0384,2,08:15,MIA,,ATL,,H. Highsmith,MIA,SUB: Martin FOR Highsmith,Substitution,,0,0,0,0,,,h
+S2324-G0384,2,02:52,MIA,56.0,ATL,51.0,H. Highsmith,MIA,Highsmith 25' 3PT Jump Shot (5 PTS) (Lowry 1 AST),Made Shot,Jump Shot,244,48,25,1,3.0,3.0,h
+S2324-G0384,2,02:23,MIA,,ATL,,H. Highsmith,MIA,SUB: Jaquez Jr. FOR Highsmith,Substitution,,0,0,0,0,,,h
+S2324-G1096,2,10:34,MIA,,NYK,,H. Highsmith,MIA,Highsmith P.FOUL (P1.T2) (G.Petraitis),Foul,Personal,0,0,0,0,,,h
+S2324-G1096,2,10:03,MIA,,NYK,,H. Highsmith,MIA,Highsmith REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1096,2,10:02,MIA,,NYK,,H. Highsmith,MIA,MISS Highsmith Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2324-G1096,2,09:23,MIA,39.0,NYK,31.0,H. Highsmith,MIA,Highsmith 24' 3PT Jump Shot (3 PTS) (Butler 4 AST),Made Shot,Jump Shot,-244,22,24,1,3.0,3.0,h
+S2324-G1096,2,08:27,MIA,,NYK,,H. Highsmith,MIA,Highsmith REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1096,2,05:43,MIA,,NYK,,H. Highsmith,MIA,MISS Highsmith 3PT Jump Shot,Missed Shot,Jump Shot,-223,0,0,1,3.0,0.0,h
+S2324-G1096,2,04:56,MIA,,NYK,,H. Highsmith,MIA,Highsmith STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1096,2,04:29,MIA,,NYK,,H. Highsmith,MIA,Highsmith P.FOUL (P2.T3) (N.Sago),Foul,Personal,0,0,0,0,,,h
+S2324-G1096,2,04:16,MIA,,NYK,,H. Highsmith,MIA,Highsmith REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1096,2,00:04.200000,MIA,,NYK,,H. Highsmith,MIA,Highsmith REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1096,2,00:03.500000,MIA,,NYK,,H. Highsmith,MIA,MISS Highsmith 3' Tip Layup Shot,Missed Shot,Tip Layup Shot,23,11,3,1,2.0,0.0,h
+S2324-G1096,2,00:03.500000,MIA,,NYK,,H. Highsmith,MIA,Highsmith REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1096,2,00:01.700000,MIA,58.0,NYK,43.0,H. Highsmith,MIA,Highsmith Tip Layup Shot (5 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2324-G1096,3,02:25,MIA,79.0,NYK,68.0,H. Highsmith,MIA,Highsmith 1' Cutting Layup Shot (7 PTS) (Love 2 AST),Made Shot,Cutting Layup Shot,13,2,1,1,2.0,2.0,h
+S2324-G1096,4,09:52,MIA,,NYK,,H. Highsmith,MIA,Highsmith REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1096,4,09:50,MIA,90.0,NYK,80.0,H. Highsmith,MIA,Highsmith 2' Turnaround Jump Shot (9 PTS),Made Shot,Turnaround Jump Shot,21,-3,2,1,2.0,2.0,h
+S2324-G1096,4,09:28,MIA,,NYK,,H. Highsmith,MIA,MISS Highsmith 3' Layup,Missed Shot,Layup Shot,-26,11,3,1,2.0,0.0,h
+S2324-G1096,4,08:20,MIA,,NYK,,H. Highsmith,MIA,MISS Highsmith 25' 3PT Jump Shot,Missed Shot,Jump Shot,-232,86,25,1,3.0,0.0,h
+S2324-G1096,4,07:59,MIA,,NYK,,H. Highsmith,MIA,Highsmith REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1096,4,03:48,MIA,95.0,NYK,92.0,H. Highsmith,MIA,Highsmith 26' 3PT Jump Shot (12 PTS) (Rozier 1 AST),Made Shot,Jump Shot,-194,178,26,1,3.0,3.0,h
+S2324-G1096,4,02:45,MIA,,NYK,,H. Highsmith,MIA,Highsmith REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1096,4,00:17.100000,MIA,109.0,NYK,99.0,H. Highsmith,MIA,Highsmith 1' Cutting Dunk Shot (14 PTS) (Martin 3 AST),Made Shot,Cutting Dunk Shot,0,8,1,1,2.0,2.0,h
+S2324-G0003,1,09:02,MIA,8.0,WAS,6.0,H. Highsmith,MIA,Highsmith 2' Driving Reverse Layup (2 PTS) (Lowry 2 AST),Made Shot,Driving Reverse Layup Shot,-21,4,2,1,2.0,2.0,h
+S2324-G0003,1,04:22,MIA,23.0,WAS,26.0,H. Highsmith,MIA,Highsmith 24' 3PT Jump Shot (5 PTS) (D. Robinson 1 AST),Made Shot,Jump Shot,218,110,24,1,3.0,3.0,h
+S2324-G0003,1,03:20,MIA,,WAS,,H. Highsmith,MIA,SUB: Jaquez Jr. FOR Highsmith,Substitution,,0,0,0,0,,,h
+S2324-G0003,2,03:56,MIA,,WAS,,H. Highsmith,MIA,Highsmith OFF.Foul (P1) (Z.Zarba),Foul,Offensive,0,0,0,0,,,h
+S2324-G0003,2,03:56,MIA,,WAS,,H. Highsmith,MIA,Highsmith Offensive Foul Turnover (P1.T7),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0003,2,02:38,MIA,,WAS,,H. Highsmith,MIA,Highsmith S.FOUL (P2.T2) (J.Conley),Foul,Shooting,0,0,0,0,,,h
+S2324-G0003,2,00:34.700000,MIA,,WAS,,H. Highsmith,MIA,Highsmith S.FOUL (P3.T3) (Z.Zarba),Foul,Shooting,0,0,0,0,,,h
+S2324-G0003,2,00:34.700000,MIA,,WAS,,H. Highsmith,MIA,SUB: Richardson FOR Highsmith,Substitution,,0,0,0,0,,,h
+S2324-G0003,3,10:52,MIA,,WAS,,H. Highsmith,MIA,MISS Highsmith 24' 3PT Jump Shot,Missed Shot,Jump Shot,239,-2,24,1,3.0,0.0,h
+S2324-G0003,3,04:24,MIA,86.0,WAS,67.0,H. Highsmith,MIA,Highsmith 3PT Jump Shot (8 PTS) (D. Robinson 5 AST),Made Shot,Jump Shot,-233,-7,0,1,3.0,3.0,h
+S2324-G0003,3,02:29,MIA,,WAS,,H. Highsmith,MIA,Highsmith Bad Pass Turnover (P2.T12),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0003,3,02:27,MIA,,WAS,,H. Highsmith,MIA,SUB: Jaquez Jr. FOR Highsmith,Substitution,,0,0,0,0,,,h
+S2324-G0337,1,00:32.900000,MIA,,CHI,,H. Highsmith,MIA,Highsmith S.FOUL (P1.PN) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,h
+S2324-G0337,2,07:43,MIA,,CHI,,H. Highsmith,MIA,Highsmith REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0337,2,06:41,MIA,,CHI,,H. Highsmith,MIA,MISS Highsmith 26' 3PT Jump Shot,Missed Shot,Jump Shot,-197,164,26,1,3.0,0.0,h
+S2324-G0337,2,06:28,MIA,,CHI,,H. Highsmith,MIA,SUB: Lowry FOR Highsmith,Substitution,,0,0,0,0,,,h
+S2324-G0337,4,10:47,MIA,,CHI,,H. Highsmith,MIA,Highsmith S.FOUL (P2.T1) (P.Fraher),Foul,Shooting,0,0,0,0,,,h
+S2324-G0337,4,07:35,MIA,102.0,CHI,99.0,H. Highsmith,MIA,Highsmith 11' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,114,-5,11,1,2.0,2.0,h
+S2324-G0337,4,07:35,MIA,,CHI,,H. Highsmith,MIA,MISS Highsmith Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2324-G0337,4,07:03,MIA,,CHI,,H. Highsmith,MIA,SUB: Richardson FOR Highsmith,Substitution,,0,0,0,0,,,h
+S2324-G1176,1,00:35.900000,MIA,31.0,TOR,19.0,H. Highsmith,MIA,Highsmith 5' Pullup Jump Shot (2 PTS) (Butler 2 AST),Made Shot,Pullup Jump shot,16,52,5,1,2.0,2.0,h
+S2324-G1176,2,11:21,MIA,,TOR,,H. Highsmith,MIA,Highsmith S.FOUL (P1.T1) (J.Tiven),Foul,Shooting,0,0,0,0,,,h
+S2324-G1176,2,08:11,MIA,43.0,TOR,34.0,H. Highsmith,MIA,Highsmith 26' 3PT Step Back Jump Shot (5 PTS) (Wright 1 AST),Made Shot,Step Back Jump shot,-142,218,26,1,3.0,3.0,h
+S2324-G1176,2,07:10,MIA,,TOR,,H. Highsmith,MIA,MISS Highsmith 3PT Jump Shot,Missed Shot,Jump Shot,225,37,0,1,3.0,0.0,h
+S2324-G1176,2,06:06,MIA,,TOR,,H. Highsmith,MIA,Highsmith S.FOUL (P2.T2) (J.Tiven),Foul,Shooting,0,0,0,0,,,h
+S2324-G1176,2,03:40,MIA,,TOR,,H. Highsmith,MIA,SUB: Jovic FOR Highsmith,Substitution,,0,0,0,0,,,h
+S2324-G1176,3,02:12,MIA,85.0,TOR,73.0,H. Highsmith,MIA,Highsmith 1' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,4,14,1,1,2.0,2.0,h
+S2324-G1176,3,02:12,MIA,,TOR,,H. Highsmith,MIA,MISS Highsmith Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2324-G1176,3,00:30.700000,MIA,,TOR,,H. Highsmith,MIA,Highsmith BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G1176,4,08:34,MIA,105.0,TOR,84.0,H. Highsmith,MIA,Highsmith 1' Turnaround Hook Shot (9 PTS) (Jaquez Jr. 8 AST),Made Shot,Turnaround Hook Shot,-2,11,1,1,2.0,2.0,h
+S2324-G1176,4,06:27,MIA,,TOR,,H. Highsmith,MIA,Highsmith Traveling Turnover (P1.T5),Turnover,Traveling,0,0,0,0,,,h
+S2324-G1176,4,03:57,MIA,,TOR,,H. Highsmith,MIA,Highsmith REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1176,4,01:04,MIA,,TOR,,H. Highsmith,MIA,SUB: Swider FOR Highsmith,Substitution,,0,0,0,0,,,h
+S2324-G0842,2,04:28,POR,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0842,2,02:59,POR,,MIA,,H. Highsmith,MIA,Highsmith L.B.FOUL (P1.T3) (J.Van Duyne),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0842,2,02:47,POR,,MIA,,H. Highsmith,MIA,Highsmith BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0842,2,02:25,POR,50.0,MIA,40.0,H. Highsmith,MIA,Highsmith 9' Cutting Layup Shot (2 PTS) (Butler 6 AST),Made Shot,Cutting Layup Shot,-6,85,9,1,2.0,2.0,v
+S2324-G0842,2,02:11,POR,,MIA,,H. Highsmith,MIA,Highsmith S.FOUL (P2.T4) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,v
+S2324-G0842,2,02:08,POR,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0842,2,01:54,POR,,MIA,,H. Highsmith,MIA,Highsmith Bad Pass Turnover (P1.T11),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0842,2,00:53.100000,POR,,MIA,,H. Highsmith,MIA,MISS Highsmith 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-180,179,25,1,3.0,0.0,v
+S2324-G1029,1,02:05,MIA,24.0,CLE,14.0,H. Highsmith,MIA,Highsmith 26' 3PT Jump Shot (3 PTS) (Adebayo 1 AST),Made Shot,Jump Shot,138,221,26,1,3.0,3.0,h
+S2324-G1029,1,00:36.900000,MIA,30.0,CLE,22.0,H. Highsmith,MIA,Highsmith 3' Alley Oop Layup (5 PTS) (Rozier 4 AST),Made Shot,Alley Oop Layup shot,23,13,3,1,2.0,2.0,h
+S2324-G1029,2,11:39,MIA,,CLE,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1029,2,11:25,MIA,35.0,CLE,22.0,H. Highsmith,MIA,Highsmith 3PT Jump Shot (8 PTS) (Butler 1 AST),Made Shot,Jump Shot,-225,-4,0,1,3.0,3.0,h
+S2324-G1029,2,11:13,MIA,,CLE,,H. Highsmith,MIA,Highsmith S.FOUL (P1.T1) (C.Blair),Foul,Shooting,0,0,0,0,,,h
+S2324-G1029,2,08:17,MIA,,CLE,,H. Highsmith,MIA,Highsmith REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1029,2,08:17,MIA,44.0,CLE,26.0,H. Highsmith,MIA,Highsmith 2' Putback Layup (10 PTS),Made Shot,Putback Layup Shot,-17,9,2,1,2.0,2.0,h
+S2324-G1029,2,07:11,MIA,49.0,CLE,30.0,H. Highsmith,MIA,Highsmith 25' 3PT Jump Shot (13 PTS) (Butler 3 AST),Made Shot,Jump Shot,-100,225,25,1,3.0,3.0,h
+S2324-G1029,2,05:53,MIA,,CLE,,H. Highsmith,MIA,Highsmith REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1029,2,03:36,MIA,,CLE,,H. Highsmith,MIA,MISS Highsmith 2' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,4,19,2,1,2.0,0.0,h
+S2324-G1029,2,02:49,MIA,,CLE,,H. Highsmith,MIA,SUB: Butler FOR Highsmith,Substitution,,0,0,0,0,,,h
+S2324-G1029,2,01:59,MIA,,CLE,,H. Highsmith,MIA,Highsmith REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1029,2,00:03.400000,MIA,,CLE,,H. Highsmith,MIA,Highsmith STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1029,3,02:20,MIA,,CLE,,H. Highsmith,MIA,MISS Highsmith 12' Floating Jump Shot,Missed Shot,Floating Jump shot,-86,82,12,1,2.0,0.0,h
+S2324-G1029,3,01:03,MIA,88.0,CLE,52.0,H. Highsmith,MIA,Highsmith 8' Floating Jump Shot (15 PTS) (Rozier 5 AST),Made Shot,Floating Jump shot,-60,48,8,1,2.0,2.0,h
+S2324-G1029,4,10:44,MIA,98.0,CLE,59.0,H. Highsmith,MIA,Highsmith 3PT Running Jump Shot (18 PTS) (Martin 2 AST),Made Shot,Running Jump Shot,227,-15,0,1,3.0,3.0,h
+S2324-G1029,4,07:19,MIA,,CLE,,H. Highsmith,MIA,MISS Highsmith 9' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,89,29,9,1,2.0,0.0,h
+S2324-G1029,4,06:49,MIA,,CLE,,H. Highsmith,MIA,Highsmith REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1029,4,05:25,MIA,,CLE,,H. Highsmith,MIA,SUB: Robinson FOR Highsmith,Substitution,,0,0,0,0,,,h
+S2324-G0045,1,10:08,NYK,,MIA,,H. Highsmith,MIA,MISS Highsmith 25' 3PT Jump Shot,Missed Shot,Jump Shot,-100,234,25,1,3.0,0.0,v
+S2324-G0045,1,09:53,NYK,,MIA,,H. Highsmith,MIA,Highsmith S.FOUL (P1.T1) (T.Washington),Foul,Shooting,0,0,0,0,,,v
+S2324-G0045,1,07:42,NYK,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0045,1,04:13,NYK,,MIA,,H. Highsmith,MIA,Highsmith STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0045,1,02:34,NYK,,MIA,,H. Highsmith,MIA,MISS Highsmith 25' 3PT Jump Shot,Missed Shot,Jump Shot,-102,229,25,1,3.0,0.0,v
+S2324-G0045,1,02:21,NYK,,MIA,,H. Highsmith,MIA,SUB: Adebayo FOR Highsmith,Substitution,,0,0,0,0,,,v
+S2324-G0045,2,00:25.600000,NYK,,MIA,,H. Highsmith,MIA,MISS Highsmith 25' 3PT Jump Shot,Missed Shot,Jump Shot,-176,182,25,1,3.0,0.0,v
+S2324-G0045,3,11:04,NYK,51.0,MIA,53.0,H. Highsmith,MIA,Highsmith Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0045,3,11:04,NYK,51.0,MIA,54.0,H. Highsmith,MIA,Highsmith Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0045,3,09:54,NYK,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0045,3,09:37,NYK,,MIA,,H. Highsmith,MIA,MISS Highsmith 26' 3PT Jump Shot,Missed Shot,Jump Shot,-167,196,26,1,3.0,0.0,v
+S2324-G0045,3,08:25,NYK,51.0,MIA,65.0,H. Highsmith,MIA,Highsmith 24' 3PT Jump Shot (5 PTS) (Lowry 1 AST),Made Shot,Jump Shot,-235,68,24,1,3.0,3.0,v
+S2324-G0045,3,08:02,NYK,,MIA,,H. Highsmith,MIA,Highsmith STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0045,3,07:02,NYK,,MIA,,H. Highsmith,MIA,Highsmith Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0045,3,03:27,NYK,,MIA,,H. Highsmith,MIA,MISS Highsmith 2' Running Dunk,Missed Shot,Running Dunk Shot,-20,-10,2,1,2.0,0.0,v
+S2324-G0045,3,01:26,NYK,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0045,3,01:24,NYK,,MIA,,H. Highsmith,MIA,Highsmith Out of Bounds - Bad Pass Turnover Turnover (P2.T9),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0045,4,08:12,NYK,,MIA,,H. Highsmith,MIA,SUB: Butler FOR Highsmith,Substitution,,0,0,0,0,,,v
+S2324-G1068,1,00:40.600000,MIA,,POR,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1068,2,11:40,MIA,,POR,,H. Highsmith,MIA,MISS Highsmith 25' 3PT Jump Shot,Missed Shot,Jump Shot,237,79,25,1,3.0,0.0,h
+S2324-G1068,2,10:25,MIA,,POR,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1068,2,10:19,MIA,34.0,POR,19.0,H. Highsmith,MIA,Highsmith 24' 3PT Running Jump Shot (3 PTS) (Jaquez Jr. 1 AST),Made Shot,Running Jump Shot,239,24,24,1,3.0,3.0,h
+S2324-G1068,2,09:59,MIA,35.0,POR,19.0,H. Highsmith,MIA,Highsmith Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1068,2,09:59,MIA,,POR,,H. Highsmith,MIA,MISS Highsmith Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G1068,2,07:55,MIA,47.0,POR,23.0,H. Highsmith,MIA,Highsmith 3PT Jump Shot (7 PTS) (Butler 6 AST),Made Shot,Jump Shot,-225,40,0,1,3.0,3.0,h
+S2324-G1068,2,07:34,MIA,50.0,POR,23.0,H. Highsmith,MIA,Highsmith 26' 3PT Running Pull-Up Jump Shot (10 PTS) (Butler 7 AST),Made Shot,Running Pull-Up Jump Shot,-184,184,26,1,3.0,3.0,h
+S2324-G1068,2,05:22,MIA,57.0,POR,30.0,H. Highsmith,MIA,Highsmith 9' Driving Floating Jump Shot (12 PTS) (Jaquez Jr. 3 AST),Made Shot,Driving Floating Jump Shot,-33,84,9,1,2.0,2.0,h
+S2324-G1068,2,05:12,MIA,,POR,,H. Highsmith,MIA,Highsmith P.FOUL (P1.T4) (Z.Zarba),Foul,Personal,0,0,0,0,,,h
+S2324-G1068,2,01:05,MIA,,POR,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1068,3,01:17,MIA,,POR,,H. Highsmith,MIA,MISS Highsmith 5' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,26,42,5,1,2.0,0.0,h
+S2324-G1068,3,00:28.400000,MIA,107.0,POR,63.0,H. Highsmith,MIA,Highsmith 3PT Jump Shot (15 PTS) (Jaquez Jr. 5 AST),Made Shot,Jump Shot,224,39,0,1,3.0,3.0,h
+S2324-G1068,4,10:56,MIA,,POR,,H. Highsmith,MIA,Highsmith Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G1068,4,06:31,MIA,,POR,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1068,4,06:28,MIA,120.0,POR,71.0,H. Highsmith,MIA,Highsmith 3' Running Layup (17 PTS),Made Shot,Running Layup Shot,-27,7,3,1,2.0,2.0,h
+S2324-G1068,4,06:28,MIA,,POR,,H. Highsmith,MIA,MISS Highsmith Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2324-G1068,4,05:50,MIA,123.0,POR,71.0,H. Highsmith,MIA,Highsmith 25' 3PT Step Back Jump Shot (20 PTS),Made Shot,Step Back Jump shot,-225,112,25,1,3.0,3.0,h
+S2324-G1068,4,05:34,MIA,,POR,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1068,4,01:40,MIA,,POR,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1068,4,00:16,MIA,,POR,,H. Highsmith,MIA,Highsmith STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0229,1,11:10,CLE,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0229,1,08:34,CLE,,MIA,,H. Highsmith,MIA,Highsmith P.FOUL (P1.T1) (B.Adair),Foul,Personal,0,0,0,0,,,v
+S2324-G0229,1,07:43,CLE,,MIA,,H. Highsmith,MIA,MISS Highsmith 3' Hook Shot,Missed Shot,Hook Shot,-26,8,3,1,2.0,0.0,v
+S2324-G0229,1,05:53,CLE,,MIA,,H. Highsmith,MIA,Highsmith BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0229,1,04:09,CLE,,MIA,,H. Highsmith,MIA,Highsmith S.FOUL (P2.PN) (B.Adair),Foul,Shooting,0,0,0,0,,,v
+S2324-G0229,1,04:09,CLE,,MIA,,H. Highsmith,MIA,SUB: Martin FOR Highsmith,Substitution,,0,0,0,0,,,v
+S2324-G0229,3,11:29,CLE,,MIA,,H. Highsmith,MIA,Highsmith BLOCK (2 BLK),,,0,0,0,0,,,v
+S2324-G0229,3,10:55,CLE,,MIA,,H. Highsmith,MIA,MISS Highsmith 27' 3PT Jump Shot,Missed Shot,Jump Shot,-227,147,27,1,3.0,0.0,v
+S2324-G0229,3,09:39,CLE,59.0,MIA,75.0,H. Highsmith,MIA,Highsmith 3PT Jump Shot (3 PTS) (Butler 7 AST),Made Shot,Jump Shot,-233,28,0,1,3.0,3.0,v
+S2324-G0229,3,08:49,CLE,,MIA,,H. Highsmith,MIA,Highsmith STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0229,3,05:15,CLE,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0229,3,04:47,CLE,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0229,3,03:38,CLE,,MIA,,H. Highsmith,MIA,Highsmith L.B.FOUL (P3.T3) (J.DeRosa),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0229,3,01:10,CLE,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0229,3,01:07,CLE,73.0,MIA,98.0,H. Highsmith,MIA,Highsmith 1' Putback Layup (5 PTS),Made Shot,Putback Layup Shot,1,11,1,1,2.0,2.0,v
+S2324-G0229,3,01:07,CLE,,MIA,,H. Highsmith,MIA,SUB: Richardson FOR Highsmith,Substitution,,0,0,0,0,,,v
+S2324-G0229,4,04:39,CLE,89.0,MIA,120.0,H. Highsmith,MIA,Highsmith 11' Driving Floating Jump Shot (7 PTS),Made Shot,Driving Floating Jump Shot,0,113,11,1,2.0,2.0,v
+S2324-G0229,4,03:58,CLE,,MIA,,H. Highsmith,MIA,Highsmith L.B.FOUL (P4.T2) (G.Petraitis),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0229,4,02:57,CLE,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0229,4,02:24,CLE,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0229,4,00:42.700000,CLE,96.0,MIA,129.0,H. Highsmith,MIA,Highsmith 27' 3PT Jump Shot (10 PTS) (Martin 1 AST),Made Shot,Jump Shot,150,225,27,1,3.0,3.0,v
+S2324-G0439,1,02:59,UTA,,MIA,,H. Highsmith,MIA,Highsmith BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0439,1,02:54,UTA,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0439,1,02:19,UTA,,MIA,,H. Highsmith,MIA,MISS Highsmith 24' 3PT Jump Shot,Missed Shot,Jump Shot,-124,211,24,1,3.0,0.0,v
+S2324-G0439,1,01:41,UTA,,MIA,,H. Highsmith,MIA,Highsmith S.FOUL (P1.PN) (P.Ransom),Foul,Shooting,0,0,0,0,,,v
+S2324-G0439,1,00:52.100000,UTA,,MIA,,H. Highsmith,MIA,SUB: Herro FOR Highsmith,Substitution,,0,0,0,0,,,v
+S2324-G0439,2,08:52,UTA,,MIA,,H. Highsmith,MIA,Highsmith OFF.Foul (P2) (B.Nansel),Foul,Offensive,0,0,0,0,,,v
+S2324-G0439,2,08:52,UTA,,MIA,,H. Highsmith,MIA,Highsmith Offensive Foul Turnover (P1.T7),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0439,2,08:38,UTA,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0439,2,07:15,UTA,,MIA,,H. Highsmith,MIA,Highsmith STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0439,2,06:48,UTA,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0439,2,06:10,UTA,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0439,2,06:04,UTA,,MIA,,H. Highsmith,MIA,Highsmith Lost Ball Turnover (P2.T8),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0439,2,02:54,UTA,,MIA,,H. Highsmith,MIA,MISS Highsmith 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-224,16,0,1,3.0,0.0,v
+S2324-G0439,2,02:07,UTA,,MIA,,H. Highsmith,MIA,MISS Highsmith 26' 3PT Jump Shot,Missed Shot,Jump Shot,-183,187,26,1,3.0,0.0,v
+S2324-G0439,2,01:18,UTA,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0439,3,06:23,UTA,,MIA,,H. Highsmith,MIA,MISS Highsmith 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-208,154,26,1,3.0,0.0,v
+S2324-G0439,3,03:09,UTA,,MIA,,H. Highsmith,MIA,Highsmith STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0439,3,03:06,UTA,79.0,MIA,80.0,H. Highsmith,MIA,Highsmith 3' Running Dunk (2 PTS),Made Shot,Running Dunk Shot,21,18,3,1,2.0,2.0,v
+S2324-G0439,3,02:35,UTA,,MIA,,H. Highsmith,MIA,SUB: Herro FOR Highsmith,Substitution,,0,0,0,0,,,v
+S2324-G0439,4,02:41,UTA,108.0,MIA,105.0,H. Highsmith,MIA,Highsmith Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0439,4,02:41,UTA,108.0,MIA,106.0,H. Highsmith,MIA,Highsmith Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0439,4,01:14,UTA,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0439,4,00:37.800000,UTA,,MIA,,H. Highsmith,MIA,SUB: Cain FOR Highsmith,Substitution,,0,0,0,0,,,v
+S2324-G0985,1,08:57,PHI,5.0,MIA,7.0,H. Highsmith,MIA,Highsmith 28' 3PT Jump Shot (3 PTS) (Adebayo 3 AST),Made Shot,Jump Shot,-161,225,28,1,3.0,3.0,v
+S2324-G0985,1,06:01,PHI,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0985,1,02:49,PHI,,MIA,,H. Highsmith,MIA,SUB: Jaquez Jr. FOR Highsmith,Substitution,,0,0,0,0,,,v
+S2324-G0985,2,04:39,PHI,39.0,MIA,42.0,H. Highsmith,MIA,Highsmith 2' Layup (5 PTS),Made Shot,Layup Shot,-9,15,2,1,2.0,2.0,v
+S2324-G0985,2,03:21,PHI,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0985,2,02:52,PHI,,MIA,,H. Highsmith,MIA,MISS Highsmith 27' 3PT Jump Shot,Missed Shot,Jump Shot,-130,242,27,1,3.0,0.0,v
+S2324-G0985,2,00:47.400000,PHI,48.0,MIA,49.0,H. Highsmith,MIA,Highsmith 24' 3PT Running Jump Shot (8 PTS) (Jaquez Jr. 3 AST),Made Shot,Running Jump Shot,238,-5,24,1,3.0,3.0,v
+S2324-G0985,2,00:23.900000,PHI,,MIA,,H. Highsmith,MIA,MISS Highsmith Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0985,2,00:23.900000,PHI,,MIA,,H. Highsmith,MIA,MISS Highsmith Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0985,3,10:38,PHI,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0985,3,10:06,PHI,,MIA,,H. Highsmith,MIA,Highsmith Violation:Defensive Goaltending (M.Myers),Violation,Defensive Goaltending,0,0,0,0,,,v
+S2324-G0985,3,07:48,PHI,,MIA,,H. Highsmith,MIA,MISS Highsmith 25' 3PT Jump Shot,Missed Shot,Jump Shot,180,178,25,1,3.0,0.0,v
+S2324-G0985,3,07:17,PHI,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0985,3,07:17,PHI,,MIA,,H. Highsmith,MIA,Highsmith Bad Pass Turnover (P1.T11),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0985,3,05:43,PHI,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0985,3,04:05,PHI,,MIA,,H. Highsmith,MIA,MISS Highsmith 24' 3PT Jump Shot,Missed Shot,Jump Shot,235,19,24,1,3.0,0.0,v
+S2324-G0985,3,01:49,PHI,74.0,MIA,63.0,H. Highsmith,MIA,Highsmith 24' 3PT Jump Shot (11 PTS) (Wright 4 AST),Made Shot,Jump Shot,-238,38,24,1,3.0,3.0,v
+S2324-G0985,3,01:48,PHI,,MIA,,H. Highsmith,MIA,SUB: Bryant FOR Highsmith,Substitution,,0,0,0,0,,,v
+S2324-G0985,4,00:12.200000,PHI,,MIA,,H. Highsmith,MIA,SUB: Mills FOR Highsmith,Substitution,,0,0,0,0,,,v
+S2324-G1044,1,01:55,MIA,23.0,GSW,22.0,H. Highsmith,MIA,Highsmith 26' 3PT Jump Shot (3 PTS) (Martin 3 AST),Made Shot,Jump Shot,208,155,26,1,3.0,3.0,h
+S2324-G1044,2,10:37,MIA,,GSW,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1044,2,08:34,MIA,34.0,GSW,36.0,H. Highsmith,MIA,Highsmith 24' 3PT Jump Shot (6 PTS) (Jaquez Jr. 1 AST),Made Shot,Jump Shot,-237,-3,24,1,3.0,3.0,h
+S2324-G1044,2,05:26,MIA,,GSW,,H. Highsmith,MIA,Highsmith REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1044,2,05:02,MIA,43.0,GSW,41.0,H. Highsmith,MIA,Highsmith 27' 3PT Jump Shot (9 PTS) (Rozier 2 AST),Made Shot,Jump Shot,-26,264,27,1,3.0,3.0,h
+S2324-G1044,2,02:20,MIA,,GSW,,H. Highsmith,MIA,Highsmith REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1044,2,02:20,MIA,49.0,GSW,46.0,H. Highsmith,MIA,Highsmith 1' Running Finger Roll Layup (11 PTS),Made Shot,Running Finger Roll Layup Shot,10,11,1,1,2.0,2.0,h
+S2324-G1044,2,00:41.400000,MIA,,GSW,,H. Highsmith,MIA,Highsmith STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1044,2,00:40.300000,MIA,53.0,GSW,48.0,H. Highsmith,MIA,Highsmith 1' Layup (13 PTS),Made Shot,Layup Shot,-12,7,1,1,2.0,2.0,h
+S2324-G1044,3,00:00.900000,MIA,,GSW,,H. Highsmith,MIA,MISS Highsmith 18' Jump Shot,Missed Shot,Jump Shot,-4,178,18,1,2.0,0.0,h
+S2324-G1044,4,10:31,MIA,,GSW,,H. Highsmith,MIA,Highsmith REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1044,4,10:09,MIA,,GSW,,H. Highsmith,MIA,Highsmith STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G1044,4,09:25,MIA,81.0,GSW,87.0,H. Highsmith,MIA,Highsmith 2' Running Finger Roll Layup (15 PTS) (Wright 3 AST),Made Shot,Running Finger Roll Layup Shot,11,11,2,1,2.0,2.0,h
+S2324-G1044,4,07:32,MIA,,GSW,,H. Highsmith,MIA,Highsmith REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1044,4,07:08,MIA,,GSW,,H. Highsmith,MIA,Highsmith P.FOUL (P1.T2) (A.Nagy),Foul,Personal,0,0,0,0,,,h
+S2324-G1044,4,01:44,MIA,,GSW,,H. Highsmith,MIA,Highsmith REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1044,4,01:34,MIA,,GSW,,H. Highsmith,MIA,SUB: Williams FOR Highsmith,Substitution,,0,0,0,0,,,h
+S2324-G1013,2,09:32,MIA,,NOP,,H. Highsmith,MIA,Highsmith REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1013,2,09:32,MIA,,NOP,,H. Highsmith,MIA,MISS Highsmith Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2324-G1013,2,06:20,MIA,,NOP,,H. Highsmith,MIA,MISS Highsmith 25' 3PT Jump Shot,Missed Shot,Jump Shot,127,215,25,1,3.0,0.0,h
+S2324-G1013,2,01:40,MIA,,NOP,,H. Highsmith,MIA,Highsmith REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1013,2,01:03,MIA,,NOP,,H. Highsmith,MIA,Highsmith P.FOUL (P1.T2) (S.Foster),Foul,Personal,0,0,0,0,,,h
+S2324-G1013,4,07:54,MIA,,NOP,,H. Highsmith,MIA,MISS Highsmith 27' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,190,197,27,1,3.0,0.0,h
+S2324-G1013,4,00:40.900000,MIA,,NOP,,H. Highsmith,MIA,Highsmith REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0643,1,11:40,NYK,,MIA,,H. Highsmith,MIA,MISS Highsmith 3PT Jump Shot,Missed Shot,Jump Shot,-224,69,0,1,3.0,0.0,v
+S2324-G0643,1,06:05,NYK,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0643,1,04:38,NYK,,MIA,,H. Highsmith,MIA,SUB: Jaquez Jr. FOR Highsmith,Substitution,,0,0,0,0,,,v
+S2324-G0643,2,03:42,NYK,49.0,MIA,47.0,H. Highsmith,MIA,Highsmith 24' 3PT Jump Shot (3 PTS) (Butler 1 AST),Made Shot,Jump Shot,-233,-36,24,1,3.0,3.0,v
+S2324-G0643,3,11:18,NYK,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0643,3,10:52,NYK,,MIA,,H. Highsmith,MIA,Highsmith BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0643,3,10:00,NYK,,MIA,,H. Highsmith,MIA,Highsmith S.FOUL (P1.T1) (A.Smith),Foul,Shooting,0,0,0,0,,,v
+S2324-G0643,3,07:58,NYK,70.0,MIA,60.0,H. Highsmith,MIA,Highsmith 25' 3PT Jump Shot (6 PTS) (Butler 2 AST),Made Shot,Jump Shot,-229,109,25,1,3.0,3.0,v
+S2324-G0643,3,07:28,NYK,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0643,3,05:21,NYK,,MIA,,H. Highsmith,MIA,MISS Highsmith 26' 3PT Jump Shot,Missed Shot,Jump Shot,151,214,26,1,3.0,0.0,v
+S2324-G0643,3,03:33,NYK,,MIA,,H. Highsmith,MIA,Highsmith BLOCK (2 BLK),,,0,0,0,0,,,v
+S2324-G0643,3,03:30,NYK,,MIA,,H. Highsmith,MIA,Highsmith S.FOUL (P2.T4) (A.Smith),Foul,Shooting,0,0,0,0,,,v
+S2324-G0643,3,03:30,NYK,,MIA,,H. Highsmith,MIA,SUB: Martin FOR Highsmith,Substitution,,0,0,0,0,,,v
+S2324-G0643,4,00:06.200000,NYK,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0643,4,00:03.700000,NYK,125.0,MIA,109.0,H. Highsmith,MIA,Highsmith 3' Putback Layup (8 PTS),Made Shot,Putback Layup Shot,-27,6,3,1,2.0,2.0,v
+S2324-G0204,1,11:04,CHI,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0204,1,10:57,CHI,,MIA,,H. Highsmith,MIA,Highsmith Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0204,1,10:47,CHI,,MIA,,H. Highsmith,MIA,Highsmith STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0204,1,05:08,CHI,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0204,1,02:39,CHI,,MIA,,H. Highsmith,MIA,MISS Highsmith 26' 3PT Jump Shot,Missed Shot,Jump Shot,-169,200,26,1,3.0,0.0,v
+S2324-G0204,1,02:16,CHI,,MIA,,H. Highsmith,MIA,SUB: Martin FOR Highsmith,Substitution,,0,0,0,0,,,v
+S2324-G0204,2,05:37,CHI,,MIA,,H. Highsmith,MIA,Highsmith Bad Pass Turnover (P2.T7),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0204,2,05:15,CHI,,MIA,,H. Highsmith,MIA,MISS Highsmith 24' 3PT Jump Shot,Missed Shot,Jump Shot,233,69,24,1,3.0,0.0,v
+S2324-G0204,2,03:36,CHI,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0204,2,03:36,CHI,,MIA,,H. Highsmith,MIA,MISS Highsmith Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2324-G0204,2,02:17,CHI,,MIA,,H. Highsmith,MIA,Highsmith P.FOUL (P1.PN) (C.Blair),Foul,Personal,0,0,0,0,,,v
+S2324-G0204,2,01:54,CHI,,MIA,,H. Highsmith,MIA,MISS Highsmith 3PT Jump Shot,Missed Shot,Jump Shot,-234,-11,0,1,3.0,0.0,v
+S2324-G0204,2,00:34.400000,CHI,,MIA,,H. Highsmith,MIA,Highsmith STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0204,3,08:45,CHI,,MIA,,H. Highsmith,MIA,Highsmith STEAL (3 STL),,,0,0,0,0,,,v
+S2324-G0204,3,06:56,CHI,,MIA,,H. Highsmith,MIA,Highsmith Out of Bounds Lost Ball Turnover (P3.T8),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2324-G0204,3,06:21,CHI,,MIA,,H. Highsmith,MIA,Highsmith Double Dribble Turnover (P4.T9),Turnover,Double Dribble,0,0,0,0,,,v
+S2324-G0204,3,03:51,CHI,,MIA,,H. Highsmith,MIA,SUB: Richardson FOR Highsmith,Substitution,,0,0,0,0,,,v
+S2324-G0678,1,10:57,MIA,,SAC,,H. Highsmith,MIA,Highsmith REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0678,1,08:20,MIA,7.0,SAC,4.0,H. Highsmith,MIA,Highsmith 14' Floating Jump Shot (2 PTS) (Rozier 1 AST),Made Shot,Floating Jump shot,-91,101,14,1,2.0,2.0,h
+S2324-G0678,1,07:59,MIA,,SAC,,H. Highsmith,MIA,MISS Highsmith 7' Turnaround Bank Shot,Missed Shot,Turnaround Bank shot,32,63,7,1,2.0,0.0,h
+S2324-G0678,1,06:09,MIA,,SAC,,H. Highsmith,MIA,Highsmith Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0678,1,03:29,MIA,,SAC,,H. Highsmith,MIA,Highsmith REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0678,1,03:22,MIA,,SAC,,H. Highsmith,MIA,SUB: Martin FOR Highsmith,Substitution,,0,0,0,0,,,h
+S2324-G0678,3,11:31,MIA,,SAC,,H. Highsmith,MIA,MISS Highsmith 3PT Jump Shot,Missed Shot,Jump Shot,224,21,0,1,3.0,0.0,h
+S2324-G0678,3,04:25,MIA,82.0,SAC,75.0,H. Highsmith,MIA,Highsmith 4' Running Finger Roll Layup (4 PTS) (Rozier 7 AST),Made Shot,Running Finger Roll Layup Shot,22,36,4,1,2.0,2.0,h
+S2324-G0678,3,04:18,MIA,,SAC,,H. Highsmith,MIA,Highsmith P.FOUL (P1.T3) (E.Malloy),Foul,Personal,0,0,0,0,,,h
+S2324-G0678,3,04:18,MIA,,SAC,,H. Highsmith,MIA,SUB: Martin FOR Highsmith,Substitution,,0,0,0,0,,,h
+S2324-G0551,2,05:31,MIA,,CHA,,H. Highsmith,MIA,Highsmith STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0551,2,04:40,MIA,,CHA,,H. Highsmith,MIA,Highsmith BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0551,2,04:02,MIA,,CHA,,H. Highsmith,MIA,SUB: Jaquez Jr. FOR Highsmith,Substitution,,0,0,0,0,,,h
+S2324-G0551,3,09:58,MIA,56.0,CHA,40.0,H. Highsmith,MIA,Highsmith 2' Running Dunk (2 PTS) (Lowry 1 AST),Made Shot,Running Dunk Shot,18,1,2,1,2.0,2.0,h
+S2324-G0551,3,09:05,MIA,,CHA,,H. Highsmith,MIA,Highsmith STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0551,3,05:31,MIA,69.0,CHA,52.0,H. Highsmith,MIA,Highsmith 6' Driving Hook Shot (4 PTS) (Lowry 2 AST),Made Shot,Driving Hook Shot,-31,51,6,1,2.0,2.0,h
+S2324-G0551,3,01:40,MIA,,CHA,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0551,3,01:33,MIA,,CHA,,H. Highsmith,MIA,MISS Highsmith 2' Layup,Missed Shot,Layup Shot,20,11,2,1,2.0,0.0,h
+S2324-G0551,4,03:00,MIA,102.0,CHA,84.0,H. Highsmith,MIA,Highsmith 25' 3PT Jump Shot (7 PTS) (Martin 2 AST),Made Shot,Jump Shot,250,43,25,1,3.0,3.0,h
+S2324-G0551,4,02:35,MIA,,CHA,,H. Highsmith,MIA,MISS Highsmith 3' Driving Layup,Missed Shot,Driving Layup Shot,-25,17,3,1,2.0,0.0,h
+S2324-G0551,4,00:18.700000,MIA,,CHA,,H. Highsmith,MIA,Highsmith REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0926,2,01:55,MIA,52.0,WAS,44.0,H. Highsmith,MIA,Highsmith 3PT Jump Shot (3 PTS) (Jaquez Jr. 2 AST),Made Shot,Jump Shot,-228,8,0,1,3.0,3.0,h
+S2324-G1120,1,01:53,HOU,,MIA,,H. Highsmith,MIA,Highsmith STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G1120,2,07:32,HOU,,MIA,,H. Highsmith,MIA,Highsmith S.FOUL (P1.T2) (E.Scott),Foul,Shooting,0,0,0,0,,,v
+S2324-G1120,2,06:11,HOU,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1120,2,04:44,HOU,,MIA,,H. Highsmith,MIA,MISS Highsmith 3PT Jump Shot,Missed Shot,Jump Shot,233,-8,0,1,3.0,0.0,v
+S2324-G1120,2,04:05,HOU,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1120,2,03:44,HOU,,MIA,,H. Highsmith,MIA,MISS Highsmith 3PT Jump Shot,Missed Shot,Jump Shot,234,-1,0,1,3.0,0.0,v
+S2324-G1120,2,02:41,HOU,,MIA,,H. Highsmith,MIA,MISS Highsmith 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-134,206,25,1,3.0,0.0,v
+S2324-G1120,2,02:18,HOU,,MIA,,H. Highsmith,MIA,SUB: Adebayo FOR Highsmith,Substitution,,0,0,0,0,,,v
+S2324-G1120,2,00:34.600000,HOU,,MIA,,H. Highsmith,MIA,SUB: Herro FOR Highsmith,Substitution,,0,0,0,0,,,v
+S2324-G1120,3,01:18,HOU,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1120,3,00:59.600000,HOU,81.0,MIA,93.0,H. Highsmith,MIA,Highsmith 3' Running Reverse Layup (2 PTS) (Herro 5 AST),Made Shot,Running Reverse Layup Shot,-29,16,3,1,2.0,2.0,v
+S2324-G1120,4,11:16,HOU,,MIA,,H. Highsmith,MIA,Highsmith P.FOUL (P2.T1) (E.Scott),Foul,Personal,0,0,0,0,,,v
+S2324-G1120,4,09:53,HOU,91.0,MIA,97.0,H. Highsmith,MIA,Highsmith 3' Cutting Dunk Shot (4 PTS) (Adebayo 4 AST),Made Shot,Cutting Dunk Shot,-10,28,3,1,2.0,2.0,v
+S2324-G1120,4,07:20,HOU,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1120,4,04:41,HOU,,MIA,,H. Highsmith,MIA,Highsmith REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1120,4,02:05,HOU,,MIA,,H. Highsmith,MIA,Highsmith BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G1161,2,10:17,MIA,,DAL,,H. Highsmith,MIA,Highsmith P.FOUL (P1.T1) (P.Fraher),Foul,Personal,0,0,0,0,,,h
+S2324-G1161,2,10:17,MIA,,DAL,,H. Highsmith,MIA,SUB: Martin FOR Highsmith,Substitution,,0,0,0,0,,,h
+S2324-G1161,2,03:31,MIA,,DAL,,H. Highsmith,MIA,Highsmith REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1161,2,03:30,MIA,40.0,DAL,60.0,H. Highsmith,MIA,Highsmith 3' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,28,11,3,1,2.0,2.0,h
+S2324-G1161,2,02:53,MIA,,DAL,,H. Highsmith,MIA,Highsmith REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1161,2,02:49,MIA,,DAL,,H. Highsmith,MIA,SUB: Butler FOR Highsmith,Substitution,,0,0,0,0,,,h
+S2324-G1161,3,02:06,MIA,,DAL,,H. Highsmith,MIA,MISS Highsmith 6' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,-50,33,6,1,2.0,0.0,h
+S2324-G1161,3,01:16,MIA,,DAL,,H. Highsmith,MIA,Highsmith P.FOUL (P2.T3) (P.Fraher),Foul,Personal,0,0,0,0,,,h
+S2324-G1161,3,00:52,MIA,,DAL,,H. Highsmith,MIA,MISS Highsmith 26' 3PT Jump Shot,Missed Shot,Jump Shot,178,189,26,1,3.0,0.0,h
+S2324-G1161,3,00:01.400000,MIA,,DAL,,H. Highsmith,MIA,Highsmith REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1161,4,11:37,MIA,,DAL,,H. Highsmith,MIA,Highsmith REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1161,4,09:03,MIA,,DAL,,H. Highsmith,MIA,Highsmith REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1161,4,08:47,MIA,,DAL,,H. Highsmith,MIA,Highsmith REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1161,4,07:32,MIA,,DAL,,H. Highsmith,MIA,Highsmith REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1161,4,06:15,MIA,,DAL,,H. Highsmith,MIA,Highsmith REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1161,4,04:59,MIA,,DAL,,H. Highsmith,MIA,Highsmith REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1161,4,04:30,MIA,,DAL,,H. Highsmith,MIA,Highsmith REBOUND (Off:4 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1161,4,03:04,MIA,,DAL,,H. Highsmith,MIA,SUB: Love FOR Highsmith,Substitution,,0,0,0,0,,,h
+S2324-G1161,4,01:08,MIA,,DAL,,H. Highsmith,MIA,SUB: Williams FOR Highsmith,Substitution,,0,0,0,0,,,h

@@ -1,0 +1,256 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2324-G0944,4,01:01,LAC,,MIN,,K. Brown,LAC,Brown REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0114,1,01:13,LAC,,ORL,,K. Brown,LAC,Brown REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0114,1,00:55.800000,LAC,,ORL,,K. Brown,LAC,Brown S.FOUL (P1.T3) (R.Mott),Foul,Shooting,0,0,0,0,,,h
+S2324-G0114,1,00:19.600000,LAC,,ORL,,K. Brown,LAC,Brown P.FOUL (P2.PN) (R.Mott),Foul,Personal,0,0,0,0,,,h
+S2324-G0114,2,10:32,LAC,,ORL,,K. Brown,LAC,Brown BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0114,2,09:16,LAC,,ORL,,K. Brown,LAC,SUB: Leonard FOR Brown,Substitution,,0,0,0,0,,,h
+S2324-G0114,2,00:54.400000,LAC,43.0,ORL,46.0,K. Brown,LAC,Brown 3' Running Finger Roll Layup (2 PTS) (Westbrook 3 AST),Made Shot,Running Finger Roll Layup Shot,-25,10,3,1,2.0,2.0,h
+S2324-G0114,2,00:01.100000,LAC,,ORL,,K. Brown,LAC,Brown REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0114,2,00:01.100000,LAC,47.0,ORL,50.0,K. Brown,LAC,Brown Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2324-G0114,3,00:48.200000,LAC,,ORL,,K. Brown,LAC,Brown P.FOUL (P3.PN) (S.Twardoski),Foul,Personal,0,0,0,0,,,h
+S2324-G0114,4,10:48,LAC,,ORL,,K. Brown,LAC,MISS Brown 24' 3PT Jump Shot,Missed Shot,Jump Shot,233,52,24,1,3.0,0.0,h
+S2324-G0114,4,10:33,LAC,,ORL,,K. Brown,LAC,Brown REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0114,4,08:38,LAC,,ORL,,K. Brown,LAC,Brown P.FOUL (P4.T2) (S.Twardoski),Foul,Personal,0,0,0,0,,,h
+S2324-G0114,4,08:38,LAC,,ORL,,K. Brown,LAC,SUB: Westbrook FOR Brown,Substitution,,0,0,0,0,,,h
+S2324-G0114,4,01:21,LAC,116.0,ORL,98.0,K. Brown,LAC,Brown 26' 3PT Jump Shot (7 PTS) (Diabate 2 AST),Made Shot,Jump Shot,191,174,26,1,3.0,3.0,h
+S2324-G0379,4,08:42,OKC,,LAC,,K. Brown,LAC,Brown S.FOUL (P1.T1) (M.Smith),Foul,Shooting,0,0,0,0,,,v
+S2324-G0379,4,07:43,OKC,117.0,LAC,102.0,K. Brown,LAC,Brown 2' Layup (2 PTS) (Westbrook 4 AST),Made Shot,Layup Shot,1,18,2,1,2.0,2.0,v
+S2324-G0379,4,07:06,OKC,,LAC,,K. Brown,LAC,MISS Brown 24' 3PT Jump Shot,Missed Shot,Jump Shot,-212,122,24,1,3.0,0.0,v
+S2324-G0379,4,02:19,OKC,,LAC,,K. Brown,LAC,MISS Brown 25' 3PT Jump Shot,Missed Shot,Jump Shot,202,153,25,1,3.0,0.0,v
+S2324-G0343,4,02:55,LAC,141.0,NYK,109.0,K. Brown,LAC,Brown 25' 3PT Jump Shot (3 PTS) (Moon 1 AST),Made Shot,Jump Shot,75,238,25,1,3.0,3.0,h
+S2324-G0343,4,02:11,LAC,,NYK,,K. Brown,LAC,MISS Brown 27' 3PT Jump Shot,Missed Shot,Jump Shot,-85,257,27,1,3.0,0.0,h
+S2324-G0343,4,00:59.200000,LAC,144.0,NYK,120.0,K. Brown,LAC,Brown 27' 3PT Jump Shot (6 PTS) (Boston Jr. 2 AST),Made Shot,Jump Shot,138,228,27,1,3.0,3.0,h
+S2324-G0676,4,06:03,WAS,,LAC,,K. Brown,LAC,Brown REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0676,4,05:17,WAS,,LAC,,K. Brown,LAC,Brown S.FOUL (P1.T4) (J.Orr),Foul,Shooting,0,0,0,0,,,v
+S2324-G0676,4,04:04,WAS,,LAC,,K. Brown,LAC,MISS Brown 7' Driving Layup,Missed Shot,Driving Layup Shot,62,36,7,1,2.0,0.0,v
+S2324-G0676,4,03:49,WAS,,LAC,,K. Brown,LAC,Brown REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0676,4,00:27.200000,WAS,,LAC,,K. Brown,LAC,Brown REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0309,1,02:55,LAC,,SAC,,K. Brown,LAC,MISS Brown 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,232,50,24,1,3.0,0.0,h
+S2324-G0309,1,02:47,LAC,,SAC,,K. Brown,LAC,Brown BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0309,2,09:34,LAC,44.0,SAC,30.0,K. Brown,LAC,Brown 3PT Jump Shot (3 PTS) (Powell 1 AST),Made Shot,Jump Shot,230,9,0,1,3.0,3.0,h
+S2324-G0309,2,09:05,LAC,,SAC,,K. Brown,LAC,Brown REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0309,2,08:09,LAC,,SAC,,K. Brown,LAC,Brown S.FOUL (P1.T2) (J.DeRosa),Foul,Shooting,0,0,0,0,,,h
+S2324-G0309,2,07:16,LAC,,SAC,,K. Brown,LAC,SUB: Zubac FOR Brown,Substitution,,0,0,0,0,,,h
+S2324-G0309,3,02:13,LAC,,SAC,,K. Brown,LAC,Brown P.FOUL (P2.T4) (J.Orr),Foul,Personal,0,0,0,0,,,h
+S2324-G0309,3,00:00.200000,LAC,,SAC,,K. Brown,LAC,Brown REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0309,4,11:33,LAC,,SAC,,K. Brown,LAC,Brown REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0309,4,09:47,LAC,,SAC,,K. Brown,LAC,MISS Brown 28' 3PT Jump Shot,Missed Shot,Jump Shot,83,270,28,1,3.0,0.0,h
+S2324-G0309,4,08:58,LAC,,SAC,,K. Brown,LAC,Brown REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0309,4,08:37,LAC,,SAC,,K. Brown,LAC,Brown OFF.Foul (P3) (R.Mott),Foul,Offensive,0,0,0,0,,,h
+S2324-G0309,4,08:37,LAC,,SAC,,K. Brown,LAC,Brown Offensive Foul Turnover (P1.T13),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0309,4,06:40,LAC,110.0,SAC,77.0,K. Brown,LAC,Brown 3' Cutting Dunk Shot (5 PTS) (Hyland 1 AST),Made Shot,Cutting Dunk Shot,-15,25,3,1,2.0,2.0,h
+S2324-G0309,4,06:34,LAC,,SAC,,K. Brown,LAC,Brown S.FOUL (P4.T2) (R.Mott),Foul,Shooting,0,0,0,0,,,h
+S2324-G0309,4,06:07,LAC,,SAC,,K. Brown,LAC,Brown P.FOUL (P5.T3) (R.Mott),Foul,Personal,0,0,0,0,,,h
+S2324-G0309,4,05:22,LAC,,SAC,,K. Brown,LAC,Brown REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0309,4,05:02,LAC,,SAC,,K. Brown,LAC,Brown REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0309,4,05:01,LAC,112.0,SAC,82.0,K. Brown,LAC,Brown 3' Putback Layup (7 PTS),Made Shot,Putback Layup Shot,-4,26,3,1,2.0,2.0,h
+S2324-G0688,4,01:12,DET,,LAC,,K. Brown,LAC,MISS Brown 11' Hook Shot,Missed Shot,Hook Shot,-28,111,11,1,2.0,0.0,v
+S2324-G0325,1,02:14,LAC,,GSW,,K. Brown,LAC,Brown P.FOUL (P1.T3) (T.Brothers),Foul,Personal,0,0,0,0,,,h
+S2324-G0325,1,00:27,LAC,,GSW,,K. Brown,LAC,Brown STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0325,2,10:51,LAC,34.0,GSW,30.0,K. Brown,LAC,Brown 1' Cutting Dunk Shot (2 PTS) (Harden 6 AST),Made Shot,Cutting Dunk Shot,-1,13,1,1,2.0,2.0,h
+S2324-G0325,2,10:16,LAC,,GSW,,K. Brown,LAC,Brown S.FOUL (P2.T1) (P.Ransom),Foul,Shooting,0,0,0,0,,,h
+S2324-G0325,2,07:32,LAC,,GSW,,K. Brown,LAC,SUB: Leonard FOR Brown,Substitution,,0,0,0,0,,,h
+S2324-G1165,1,03:34,LAC,,PHX,,K. Brown,LAC,Brown S.FOUL (P1.PN) (N.Buchert),Foul,Shooting,0,0,0,0,,,h
+S2324-G1165,1,01:33,LAC,25.0,PHX,23.0,K. Brown,LAC,Brown 2' Cutting Dunk Shot (2 PTS) (Hyland 3 AST),Made Shot,Cutting Dunk Shot,-2,22,2,1,2.0,2.0,h
+S2324-G1165,1,00:51.800000,LAC,,PHX,,K. Brown,LAC,Brown S.FOUL (P2.PN) (S.Twardoski),Foul,Shooting,0,0,0,0,,,h
+S2324-G1165,2,11:11,LAC,29.0,PHX,31.0,K. Brown,LAC,Brown 2' Driving Layup (4 PTS) (Moon 1 AST),Made Shot,Driving Layup Shot,13,16,2,1,2.0,2.0,h
+S2324-G1165,2,07:31,LAC,,PHX,,K. Brown,LAC,Brown REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1165,2,07:20,LAC,,PHX,,K. Brown,LAC,MISS Brown 26' 3PT Jump Shot,Missed Shot,Jump Shot,158,208,26,1,3.0,0.0,h
+S2324-G1165,2,06:59,LAC,,PHX,,K. Brown,LAC,MISS Brown 24' 3PT Jump Shot,Missed Shot,Jump Shot,236,3,24,1,3.0,0.0,h
+S2324-G1165,2,04:02,LAC,,PHX,,K. Brown,LAC,SUB: Tucker FOR Brown,Substitution,,0,0,0,0,,,h
+S2324-G1165,3,00:25.700000,LAC,,PHX,,K. Brown,LAC,Brown BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G1165,4,05:35,LAC,,PHX,,K. Brown,LAC,Brown REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1165,4,04:31,LAC,,PHX,,K. Brown,LAC,Brown L.B.FOUL (P3.T4) (N.Buchert),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G1165,4,04:06,LAC,,PHX,,K. Brown,LAC,Brown STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1165,4,03:23,LAC,,PHX,,K. Brown,LAC,MISS Brown 26' 3PT Jump Shot,Missed Shot,Jump Shot,16,264,26,1,3.0,0.0,h
+S2324-G0099,4,04:01,LAC,,SAS,,K. Brown,LAC,Brown REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0099,4,03:14,LAC,,SAS,,K. Brown,LAC,Brown STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0099,4,02:49,LAC,,SAS,,K. Brown,LAC,Brown REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0099,4,02:43,LAC,118.0,SAS,82.0,K. Brown,LAC,Brown 26' 3PT Jump Shot (3 PTS) (Coffey 1 AST),Made Shot,Jump Shot,93,238,26,1,3.0,3.0,h
+S2324-G0099,4,01:51,LAC,,SAS,,K. Brown,LAC,Brown REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0099,4,00:53.300000,LAC,,SAS,,K. Brown,LAC,Brown REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0099,4,00:32.500000,LAC,,SAS,,K. Brown,LAC,MISS Brown 27' 3PT Jump Shot,Missed Shot,Jump Shot,216,159,27,1,3.0,0.0,h
+S2324-G0099,4,00:19.400000,LAC,,SAS,,K. Brown,LAC,Brown S.FOUL (P1.T1) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,h
+S2324-G0304,2,11:45,LAC,,POR,,K. Brown,LAC,Brown FLAGRANT.FOUL.TYPE1 (P1.T1) (Z.Zarba),Foul,Flagrant Type 1,0,0,0,0,,,h
+S2324-G0304,2,08:47,LAC,,POR,,K. Brown,LAC,MISS Brown 25' 3PT Jump Shot,Missed Shot,Jump Shot,238,66,25,1,3.0,0.0,h
+S2324-G0304,2,08:30,LAC,,POR,,K. Brown,LAC,SUB: Mann FOR Brown,Substitution,,0,0,0,0,,,h
+S2324-G0646,4,07:10,BOS,,LAC,,K. Brown,LAC,MISS Brown 29' 3PT Jump Shot,Missed Shot,Jump Shot,-189,224,29,1,3.0,0.0,v
+S2324-G0646,4,06:41,BOS,,LAC,,K. Brown,LAC,Brown REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0646,4,05:07,BOS,,LAC,,K. Brown,LAC,MISS Brown 28' 3PT Jump Shot,Missed Shot,Jump Shot,154,230,28,1,3.0,0.0,v
+S2324-G0646,4,05:05,BOS,,LAC,,K. Brown,LAC,Brown REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0646,4,04:59,BOS,,LAC,,K. Brown,LAC,Brown REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0646,4,01:39,BOS,,LAC,,K. Brown,LAC,Brown OFF.Foul (P1) (S.Corbin),Foul,Offensive,0,0,0,0,,,v
+S2324-G0646,4,01:39,BOS,,LAC,,K. Brown,LAC,Brown Offensive Foul Turnover (P1.T8),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0646,4,00:05,BOS,,LAC,,K. Brown,LAC,Brown S.FOUL (P2.PN) (B.Forte),Foul,Shooting,0,0,0,0,,,v
+S2324-G0151,4,00:55.600000,NYK,,LAC,,K. Brown,LAC,MISS Brown 24' 3PT Jump Shot,Missed Shot,Jump Shot,235,48,24,1,3.0,0.0,v
+S2324-G0014,3,00:05.300000,DAL,115.0,LAC,89.0,K. Brown,LAC,Brown 20' Pullup Jump Shot (2 PTS) (Hyland 2 AST),Made Shot,Pullup Jump shot,-126,152,20,1,2.0,2.0,v
+S2324-G0014,4,11:15,DAL,,LAC,,K. Brown,LAC,Brown REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0014,4,11:11,DAL,,LAC,,K. Brown,LAC,Brown Lost Ball Turnover (P1.T12),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0014,4,09:12,DAL,119.0,LAC,97.0,K. Brown,LAC,Brown 2' Running Reverse Layup (4 PTS) (Hyland 5 AST),Made Shot,Running Reverse Layup Shot,13,14,2,1,2.0,2.0,v
+S2324-G0014,4,07:23,DAL,124.0,LAC,104.0,K. Brown,LAC,Brown 25' 3PT Running Jump Shot (7 PTS) (Hyland 6 AST),Made Shot,Running Jump Shot,126,218,25,1,3.0,3.0,v
+S2324-G0014,4,05:31,DAL,,LAC,,K. Brown,LAC,MISS Brown 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,27,109,11,1,2.0,0.0,v
+S2324-G0014,4,03:03,DAL,,LAC,,K. Brown,LAC,Brown S.FOUL (P1.PN) (M.Lindsay),Foul,Shooting,0,0,0,0,,,v
+S2324-G0014,4,01:33,DAL,,LAC,,K. Brown,LAC,Brown S.FOUL (P2.PN) (M.Smith),Foul,Shooting,0,0,0,0,,,v
+S2324-G0350,4,03:30,IND,,LAC,,K. Brown,LAC,Brown REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0350,4,03:29,IND,,LAC,,K. Brown,LAC,Brown Bad Pass Turnover (P1.T10),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0350,4,01:50,IND,,LAC,,K. Brown,LAC,MISS Brown 3' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,26,8,3,1,2.0,0.0,v
+S2324-G0350,4,00:54.700000,IND,,LAC,,K. Brown,LAC,MISS Brown 24' 3PT Jump Shot,Missed Shot,Jump Shot,235,11,24,1,3.0,0.0,v
+S2324-G0350,4,00:39.700000,IND,,LAC,,K. Brown,LAC,Brown S.FOUL (P1.T4) (S.Foster),Foul,Shooting,0,0,0,0,,,v
+S2324-G0389,1,02:26,LAC,17.0,BOS,21.0,K. Brown,LAC,Brown 25' 3PT Jump Shot (3 PTS) (Westbrook 1 AST),Made Shot,Jump Shot,202,144,25,1,3.0,3.0,h
+S2324-G0389,2,09:05,LAC,,BOS,,K. Brown,LAC,Brown REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0389,2,07:40,LAC,34.0,BOS,41.0,K. Brown,LAC,Brown 27' 3PT Jump Shot (6 PTS) (Harden 4 AST),Made Shot,Jump Shot,132,233,27,1,3.0,3.0,h
+S2324-G0389,2,07:34,LAC,,BOS,,K. Brown,LAC,Brown P.FOUL (P1.T3) (K.Cutler),Foul,Personal,0,0,0,0,,,h
+S2324-G0389,2,04:19,LAC,,BOS,,K. Brown,LAC,Brown FLAGRANT.FOUL.TYPE1 (P2.PN) (J.Van Duyne),Foul,Flagrant Type 1,0,0,0,0,,,h
+S2324-G0389,2,04:19,LAC,,BOS,,K. Brown,LAC,SUB: Powell FOR Brown,Substitution,,0,0,0,0,,,h
+S2324-G0389,3,00:39,LAC,,BOS,,K. Brown,LAC,Brown REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0389,3,00:07.500000,LAC,,BOS,,K. Brown,LAC,Brown STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0389,4,08:25,LAC,,BOS,,K. Brown,LAC,Brown S.FOUL (P3.PN) (M.Dagher),Foul,Shooting,0,0,0,0,,,h
+S2324-G0537,4,00:34.200000,MEM,,LAC,,K. Brown,LAC,MISS Brown 3' Driving Layup,Missed Shot,Driving Layup Shot,18,18,3,1,2.0,0.0,v
+S2324-G0074,4,03:56,LAC,,POR,,K. Brown,LAC,Brown S.FOUL (P1.T3) (C.Washington),Foul,Shooting,0,0,0,0,,,h
+S2324-G0074,4,01:32,LAC,,POR,,K. Brown,LAC,MISS Brown 24' 3PT Jump Shot,Missed Shot,Jump Shot,-237,27,24,1,3.0,0.0,h
+S2324-G0074,4,01:01,LAC,,POR,,K. Brown,LAC,MISS Brown 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-5,117,12,1,2.0,0.0,h
+S2324-G0865,4,04:35,LAC,131.0,WAS,105.0,K. Brown,LAC,Brown 2' Running Alley Oop Dunk Shot (2 PTS) (Hyland 5 AST),Made Shot,Running Alley Oop Dunk Shot,6,16,2,1,2.0,2.0,h
+S2324-G0865,4,02:14,LAC,,WAS,,K. Brown,LAC,Brown REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0865,4,01:33,LAC,,WAS,,K. Brown,LAC,Brown S.FOUL (P1.T4) (J.Goble),Foul,Shooting,0,0,0,0,,,h
+S2324-G0127,2,07:09,LAL,,LAC,,K. Brown,LAC,MISS Brown 27' 3PT Jump Shot,Missed Shot,Jump Shot,-127,243,27,1,3.0,0.0,v
+S2324-G0127,2,07:08,LAL,,LAC,,K. Brown,LAC,SUB: George FOR Brown,Substitution,,0,0,0,0,,,v
+S2324-G1126,4,06:31,LAC,118.0,UTA,89.0,K. Brown,LAC,Brown 3' Driving Reverse Layup (2 PTS) (Hyland 1 AST),Made Shot,Driving Reverse Layup Shot,-7,34,3,1,2.0,2.0,h
+S2324-G1126,4,02:04,LAC,,UTA,,K. Brown,LAC, ,Jump Ball,,0,0,0,0,,,h
+S2324-G1126,4,01:49,LAC,,UTA,,K. Brown,LAC,Brown REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1126,4,01:49,LAC,129.0,UTA,100.0,K. Brown,LAC,Brown 2' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,2,19,2,1,2.0,2.0,h
+S2324-G1126,4,01:29,LAC,,UTA,,K. Brown,LAC,Brown REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1126,4,01:13,LAC,,UTA,,K. Brown,LAC,Brown REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0486,4,04:48,NOP,,LAC,,K. Brown,LAC,MISS Brown 25' 3PT Jump Shot,Missed Shot,Jump Shot,77,243,25,1,3.0,0.0,v
+S2324-G1215,1,02:13,LAC,,DEN,,K. Brown,LAC,Brown REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1215,2,10:57,LAC,,DEN,,K. Brown,LAC,Brown S.FOUL (P1.T1) (S.Wright),Foul,Shooting,0,0,0,0,,,h
+S2324-G1215,2,06:25,LAC,46.0,DEN,46.0,K. Brown,LAC,Brown 26' 3PT Jump Shot (3 PTS) (Harden 7 AST),Made Shot,Jump Shot,168,201,26,1,3.0,3.0,h
+S2324-G1215,2,05:44,LAC,,DEN,,K. Brown,LAC,SUB: Leonard FOR Brown,Substitution,,0,0,0,0,,,h
+S2324-G1215,3,03:05,LAC,,DEN,,K. Brown,LAC,Brown P.FOUL (P2.T1) (D.Richardson),Foul,Personal,0,0,0,0,,,h
+S2324-G1215,3,02:50,LAC,,DEN,,K. Brown,LAC,MISS Brown 3PT Jump Shot,Missed Shot,Jump Shot,233,22,0,1,3.0,0.0,h
+S2324-G1215,3,01:20,LAC,,DEN,,K. Brown,LAC,Brown P.FOUL (P3.T3) (S.Wright),Foul,Personal,0,0,0,0,,,h
+S2324-G1215,3,00:29.300000,LAC,,DEN,,K. Brown,LAC,MISS Brown 4' Driving Layup,Missed Shot,Driving Layup Shot,-9,42,4,1,2.0,0.0,h
+S2324-G1215,3,00:07.300000,LAC,,DEN,,K. Brown,LAC,Brown S.FOUL (P4.PN) (S.Wright),Foul,Shooting,0,0,0,0,,,h
+S2324-G1215,4,11:08,LAC,,DEN,,K. Brown,LAC,Brown REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1215,4,10:20,LAC,,DEN,,K. Brown,LAC,Brown REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1215,4,08:38,LAC,,DEN,,K. Brown,LAC,Brown REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1215,4,08:23,LAC,,DEN,,K. Brown,LAC,MISS Brown 26' 3PT Jump Shot,Missed Shot,Jump Shot,176,189,26,1,3.0,0.0,h
+S2324-G1215,4,07:57,LAC,,DEN,,K. Brown,LAC,SUB: Leonard FOR Brown,Substitution,,0,0,0,0,,,h
+S2324-G0280,1,05:27,LAC,,GSW,,K. Brown,LAC,Brown REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0280,1,02:57,LAC,,GSW,,K. Brown,LAC,MISS Brown 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,235,20,24,1,3.0,0.0,h
+S2324-G0280,1,02:09,LAC,,GSW,,K. Brown,LAC,SUB: Powell FOR Brown,Substitution,,0,0,0,0,,,h
+S2324-G0280,2,11:43,LAC,,GSW,,K. Brown,LAC,Brown S.FOUL (P1.T1) (K.Cutler),Foul,Shooting,0,0,0,0,,,h
+S2324-G0280,2,08:51,LAC,,GSW,,K. Brown,LAC,MISS Brown 26' 3PT Jump Shot,Missed Shot,Jump Shot,-194,180,26,1,3.0,0.0,h
+S2324-G0280,2,07:59,LAC,,GSW,,K. Brown,LAC,SUB: George FOR Brown,Substitution,,0,0,0,0,,,h
+S2324-G0280,4,10:33,LAC,,GSW,,K. Brown,LAC,MISS Brown 25' 3PT Jump Shot,Missed Shot,Jump Shot,-146,204,25,1,3.0,0.0,h
+S2324-G0280,4,09:22,LAC,,GSW,,K. Brown,LAC,SUB: Harden FOR Brown,Substitution,,0,0,0,0,,,h
+S2324-G1184,3,04:58,LAC,,UTA,,K. Brown,LAC,Brown STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1184,3,04:55,LAC,72.0,UTA,81.0,K. Brown,LAC,Brown 1' Running Reverse Dunk Shot (2 PTS),Made Shot,Running Reverse Dunk Shot,-4,11,1,1,2.0,2.0,h
+S2324-G1184,3,03:25,LAC,,UTA,,K. Brown,LAC,Brown REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1184,3,03:24,LAC,74.0,UTA,81.0,K. Brown,LAC,Brown Putback Layup (4 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,h
+S2324-G1184,3,01:58,LAC,,UTA,,K. Brown,LAC,MISS Brown 4' Driving Layup,Missed Shot,Driving Layup Shot,34,29,4,1,2.0,0.0,h
+S2324-G1184,3,01:05,LAC,81.0,UTA,84.0,K. Brown,LAC,Brown 3PT Jump Shot (7 PTS) (Moon 1 AST),Made Shot,Jump Shot,233,29,0,1,3.0,3.0,h
+S2324-G1184,4,11:32,LAC,,UTA,,K. Brown,LAC,MISS Brown 27' 3PT Jump Shot,Missed Shot,Jump Shot,-98,250,27,1,3.0,0.0,h
+S2324-G1184,4,10:16,LAC,,UTA,,K. Brown,LAC,Brown REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1184,4,10:16,LAC,,UTA,,K. Brown,LAC,MISS Brown Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2324-G1184,4,10:15,LAC,,UTA,,K. Brown,LAC,Brown REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1184,4,08:18,LAC,,UTA,,K. Brown,LAC,Brown STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G1184,4,08:04,LAC,,UTA,,K. Brown,LAC,Brown STEAL (3 STL),,,0,0,0,0,,,h
+S2324-G1184,4,07:32,LAC,,UTA,,K. Brown,LAC,MISS Brown 5' Running Layup,Missed Shot,Running Layup Shot,21,48,5,1,2.0,0.0,h
+S2324-G1184,4,06:43,LAC,,UTA,,K. Brown,LAC,Brown REBOUND (Off:4 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1184,4,06:41,LAC,,UTA,,K. Brown,LAC,Brown Bad Pass Turnover (P1.T11),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G1184,4,01:58,LAC,,UTA,,K. Brown,LAC,MISS Brown 27' 3PT Jump Shot,Missed Shot,Jump Shot,100,255,27,1,3.0,0.0,h
+S2324-G1184,4,01:54,LAC,,UTA,,K. Brown,LAC,Brown S.FOUL (P1.T4) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,h
+S2324-G0264,1,01:16,SAC,,LAC,,K. Brown,LAC,Brown REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0264,1,00:09.600000,SAC,,LAC,,K. Brown,LAC,Brown S.FOUL (P1.PN) (D.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2324-G0264,2,09:23,SAC,,LAC,,K. Brown,LAC,SUB: Leonard FOR Brown,Substitution,,0,0,0,0,,,v
+S2324-G0264,4,11:21,SAC,83.0,LAC,105.0,K. Brown,LAC,Brown 24' 3PT Jump Shot (3 PTS) (Westbrook 7 AST),Made Shot,Jump Shot,-235,1,24,1,3.0,3.0,v
+S2324-G0264,4,11:07,SAC,,LAC,,K. Brown,LAC,Brown S.FOUL (P2.T1) (D.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2324-G0264,4,08:55,SAC,,LAC,,K. Brown,LAC,Brown S.FOUL (P3.T2) (D.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2324-G0264,4,08:12,SAC,,LAC,,K. Brown,LAC,MISS Brown 26' 3PT Jump Shot,Missed Shot,Jump Shot,-221,133,26,1,3.0,0.0,v
+S2324-G0264,4,07:05,SAC,,LAC,,K. Brown,LAC,SUB: Mann FOR Brown,Substitution,,0,0,0,0,,,v
+S2324-G0264,4,00:59.300000,SAC,,LAC,,K. Brown,LAC,Brown REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0458,4,01:39,LAC,,MIA,,K. Brown,LAC,Brown Traveling Turnover (P1.T16),Turnover,Traveling,0,0,0,0,,,h
+S2324-G1199,1,03:30,LAC,,HOU,,K. Brown,LAC,MISS Brown 2' Running Layup,Missed Shot,Running Layup Shot,15,18,2,1,2.0,0.0,h
+S2324-G1199,1,02:57,LAC,,HOU,,K. Brown,LAC,Brown REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1199,1,01:32,LAC,,HOU,,K. Brown,LAC,Brown REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1199,1,01:12,LAC,,HOU,,K. Brown,LAC,MISS Brown 15' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-6,153,15,1,2.0,0.0,h
+S2324-G1199,1,00:05.400000,LAC,,HOU,,K. Brown,LAC,Brown STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1199,1,00:01.100000,LAC,21.0,HOU,24.0,K. Brown,LAC,Brown 1' Cutting Dunk Shot (2 PTS) (Boston Jr. 1 AST),Made Shot,Cutting Dunk Shot,-9,8,1,1,2.0,2.0,h
+S2324-G1199,2,08:29,LAC,,HOU,,K. Brown,LAC,Brown S.FOUL (P1.T2) (M.Ervin),Foul,Shooting,0,0,0,0,,,h
+S2324-G1199,2,02:36,LAC,,HOU,,K. Brown,LAC,Brown STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G1199,2,02:10,LAC,,HOU,,K. Brown,LAC,Brown BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G1199,3,09:44,LAC,,HOU,,K. Brown,LAC,Brown L.B.FOUL (P2.T2) (M.Ervin),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G1199,3,09:35,LAC,,HOU,,K. Brown,LAC,Brown P.FOUL (P3.T3) (M.Ervin),Foul,Personal,0,0,0,0,,,h
+S2324-G1199,3,09:06,LAC,,HOU,,K. Brown,LAC,Brown REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1199,3,09:03,LAC,,HOU,,K. Brown,LAC,MISS Brown Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2324-G1199,3,06:51,LAC,62.0,HOU,67.0,K. Brown,LAC,Brown 4' Driving Layup (4 PTS) (Plumlee 3 AST),Made Shot,Driving Layup Shot,-36,24,4,1,2.0,2.0,h
+S2324-G1199,3,03:48,LAC,,HOU,,K. Brown,LAC,SUB: Coffey FOR Brown,Substitution,,0,0,0,0,,,h
+S2324-G1199,3,00:41.200000,LAC,,HOU,,K. Brown,LAC,Brown REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1199,3,00:41.200000,LAC,83.0,HOU,81.0,K. Brown,LAC,Brown 1' Putback Layup (6 PTS),Made Shot,Putback Layup Shot,10,5,1,1,2.0,2.0,h
+S2324-G1199,3,00:10.700000,LAC,,HOU,,K. Brown,LAC,Brown REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1199,4,08:46,LAC,,HOU,,K. Brown,LAC,Brown REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1199,4,08:43,LAC,,HOU,,K. Brown,LAC,MISS Brown 5' Putback Layup,Missed Shot,Putback Layup Shot,-12,52,5,1,2.0,0.0,h
+S2324-G1199,4,07:44,LAC,,HOU,,K. Brown,LAC,MISS Brown 26' 3PT Jump Shot,Missed Shot,Jump Shot,-192,179,26,1,3.0,0.0,h
+S2324-G1199,4,06:29,LAC,,HOU,,K. Brown,LAC,Brown BLOCK (2 BLK),,,0,0,0,0,,,h
+S2324-G1199,4,05:48,LAC,95.0,HOU,101.0,K. Brown,LAC,Brown 27' 3PT Jump Shot (9 PTS) (Moon 6 AST),Made Shot,Jump Shot,130,232,27,1,3.0,3.0,h
+S2324-G1199,4,02:29,LAC,,HOU,,K. Brown,LAC,MISS Brown 26' 3PT Jump Shot,Missed Shot,Jump Shot,229,129,26,1,3.0,0.0,h
+S2324-G0511,4,03:09,LAC,,PHX,,K. Brown,LAC,Brown STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0511,4,01:32,LAC,,PHX,,K. Brown,LAC,Brown S.FOUL (P1.T4) (M.Kallio),Foul,Shooting,0,0,0,0,,,h
+S2324-G1156,4,00:35.300000,PHX,,LAC,,K. Brown,LAC,Brown Bad Pass Turnover (P1.T20),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0244,4,04:07,LAC,,DAL,,K. Brown,LAC,MISS Brown 27' 3PT Jump Shot,Missed Shot,Jump Shot,51,262,27,1,3.0,0.0,h
+S2324-G0244,4,03:29,LAC,,DAL,,K. Brown,LAC,MISS Brown 2' Driving Layup,Missed Shot,Driving Layup Shot,22,0,2,1,2.0,0.0,h
+S2324-G0244,4,01:20,LAC,,DAL,,K. Brown,LAC,Brown REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0244,4,00:47.300000,LAC,,DAL,,K. Brown,LAC,Brown REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0244,4,00:09.500000,LAC,,DAL,,K. Brown,LAC,Brown REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0438,1,02:05,LAC,29.0,MEM,23.0,K. Brown,LAC,Brown 26' 3PT Jump Shot (3 PTS) (Westbrook 1 AST),Made Shot,Jump Shot,169,197,26,1,3.0,3.0,h
+S2324-G0438,1,00:28,LAC,,MEM,,K. Brown,LAC,Brown REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0438,1,00:00,LAC,33.0,MEM,25.0,K. Brown,LAC,Brown 4' Driving Floating Jump Shot (5 PTS) (Harden 4 AST),Made Shot,Driving Floating Jump Shot,9,41,4,1,2.0,2.0,h
+S2324-G0438,2,11:32,LAC,,MEM,,K. Brown,LAC,Brown REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0438,2,11:23,LAC,,MEM,,K. Brown,LAC,Brown L.B.FOUL (P1.T1) (S.Twardoski),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0438,2,10:57,LAC,,MEM,,K. Brown,LAC,MISS Brown 27' 3PT Jump Shot,Missed Shot,Jump Shot,140,226,27,1,3.0,0.0,h
+S2324-G0438,2,10:10,LAC,,MEM,,K. Brown,LAC,Brown REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0438,2,07:42,LAC,47.0,MEM,36.0,K. Brown,LAC,Brown 2' Cutting Dunk Shot (7 PTS) (Westbrook 2 AST),Made Shot,Cutting Dunk Shot,11,13,2,1,2.0,2.0,h
+S2324-G0438,2,07:19,LAC,,MEM,,K. Brown,LAC,SUB: Mann FOR Brown,Substitution,,0,0,0,0,,,h
+S2324-G0438,3,02:08,LAC,,MEM,,K. Brown,LAC,MISS Brown 24' 3PT Jump Shot,Missed Shot,Jump Shot,235,52,24,1,3.0,0.0,h
+S2324-G0438,3,00:01.100000,LAC,,MEM,,K. Brown,LAC,SUB: George FOR Brown,Substitution,,0,0,0,0,,,h
+S2324-G0438,4,11:06,LAC,,MEM,,K. Brown,LAC,Brown REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0438,4,09:36,LAC,,MEM,,K. Brown,LAC,Brown AWAY.FROM.PLAY.FOUL (P2.T2) (J.Sterling),Foul,Away From Play,0,0,0,0,,,h
+S2324-G0438,4,08:41,LAC,,MEM,,K. Brown,LAC,SUB: Harden FOR Brown,Substitution,,0,0,0,0,,,h
+S2324-G0414,2,10:07,LAC,,CHA,,K. Brown,LAC,MISS Brown 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,93,253,27,1,3.0,0.0,h
+S2324-G0414,2,05:45,LAC,,CHA,,K. Brown,LAC,Brown STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0414,2,05:42,LAC,41.0,CHA,33.0,K. Brown,LAC,Brown 3' Running Layup (2 PTS),Made Shot,Running Layup Shot,9,33,3,1,2.0,2.0,h
+S2324-G0414,2,03:41,LAC,,CHA,,K. Brown,LAC,Brown STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0414,2,03:35,LAC,,CHA,,K. Brown,LAC,MISS Brown 2' Running Layup,Missed Shot,Running Layup Shot,21,13,2,1,2.0,0.0,h
+S2324-G0414,2,03:12,LAC,,CHA,,K. Brown,LAC,SUB: Coffey FOR Brown,Substitution,,0,0,0,0,,,h
+S2324-G0414,3,00:46.900000,LAC,,CHA,,K. Brown,LAC,MISS Brown 3PT Jump Shot,Missed Shot,Jump Shot,223,58,0,1,3.0,0.0,h
+S2324-G0414,4,08:13,LAC,,CHA,,K. Brown,LAC,SUB: Harden FOR Brown,Substitution,,0,0,0,0,,,h
+S2324-G1028,4,02:48,LAC,101.0,PHI,115.0,K. Brown,LAC,Brown 13' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,-39,121,13,1,2.0,2.0,h
+S2324-G1028,4,02:15,LAC,103.0,PHI,115.0,K. Brown,LAC,Brown 3' Driving Layup (4 PTS) (Moon 1 AST),Made Shot,Driving Layup Shot,18,18,3,1,2.0,2.0,h
+S2324-G1028,4,01:31,LAC,,PHI,,K. Brown,LAC,Brown S.FOUL (P1.T3) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,h
+S2324-G1028,4,00:16.900000,LAC,,PHI,,K. Brown,LAC,Brown REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1225,1,05:06,UTA,,LAC,,K. Brown,LAC,MISS Brown Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G1225,1,05:06,UTA,11.0,LAC,19.0,K. Brown,LAC,Brown Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1225,1,02:53,UTA,,LAC,,K. Brown,LAC,Brown REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1225,1,02:41,UTA,,LAC,,K. Brown,LAC,Brown BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G1225,1,01:04,UTA,,LAC,,K. Brown,LAC,Brown REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1225,2,11:44,UTA,,LAC,,K. Brown,LAC,Brown P.FOUL (P1.T1) (S.Twardoski),Foul,Personal,0,0,0,0,,,v
+S2324-G1225,2,10:40,UTA,,LAC,,K. Brown,LAC,Brown S.FOUL (P2.T2) (C.Flores),Foul,Shooting,0,0,0,0,,,v
+S2324-G1225,2,10:40,UTA,,LAC,,K. Brown,LAC,SUB: Mann FOR Brown,Substitution,,0,0,0,0,,,v
+S2324-G1225,3,01:53,UTA,,LAC,,K. Brown,LAC,MISS Brown 2' Layup,Missed Shot,Layup Shot,17,16,2,1,2.0,0.0,v
+S2324-G1225,3,01:50,UTA,,LAC,,K. Brown,LAC,Brown REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1225,3,01:49,UTA,,LAC,,K. Brown,LAC,MISS Brown 4' Putback Layup,Missed Shot,Putback Layup Shot,16,40,4,1,2.0,0.0,v
+S2324-G1225,3,00:05.200000,UTA,,LAC,,K. Brown,LAC,Brown S.FOUL (P3.PN) (C.Flores),Foul,Shooting,0,0,0,0,,,v
+S2324-G1225,4,08:18,UTA,,LAC,,K. Brown,LAC,SUB: Leonard FOR Brown,Substitution,,0,0,0,0,,,v
+S2324-G0273,1,00:31.200000,GSW,,LAC,,K. Brown,LAC,Brown REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0273,1,00:07.800000,GSW,,LAC,,K. Brown,LAC,Brown S.FOUL (P1.T2) (D.Scott),Foul,Shooting,0,0,0,0,,,v
+S2324-G0273,2,10:08,GSW,,LAC,,K. Brown,LAC,Brown P.FOUL (P2.T2) (K.Scott),Foul,Personal,0,0,0,0,,,v
+S2324-G0273,2,07:47,GSW,,LAC,,K. Brown,LAC,SUB: Mann FOR Brown,Substitution,,0,0,0,0,,,v
+S2324-G0273,4,00:08.400000,GSW,,LAC,,K. Brown,LAC,MISS Brown 28' 3PT Jump Shot,Missed Shot,Jump Shot,-119,248,28,1,3.0,0.0,v
+S2324-G0731,4,02:40,LAC,,NOP,,K. Brown,LAC,Brown REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0731,4,01:02,LAC,106.0,NOP,117.0,K. Brown,LAC,Brown 3PT Jump Shot (3 PTS) (Coffey 3 AST),Made Shot,Jump Shot,-221,10,0,1,3.0,3.0,h
+S2324-G0770,4,02:39,LAC,,,,K. Brown,LAC,Brown REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0770,4,02:38,LAC,,,,K. Brown,LAC,MISS Brown 2' Putback Layup,Missed Shot,Putback Layup Shot,-16,17,2,1,2.0,0.0,h
+S2324-G0770,4,01:48,LAC,,,,K. Brown,LAC,Brown REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0770,4,01:46,LAC,,,,K. Brown,LAC,Brown Lost Ball Turnover (P1.T12),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0770,4,00:38.900000,LAC,,,,K. Brown,LAC,Brown Lost Ball Turnover (P2.T13),Turnover,Lost Ball,0,0,0,0,,,h

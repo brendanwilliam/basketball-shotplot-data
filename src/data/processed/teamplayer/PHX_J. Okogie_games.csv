@@ -1,0 +1,776 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2324-G0677,1,03:28,BKN,,PHX,,J. Okogie,PHX,Okogie S.FOUL (P1.T2) (B.Barnaky),Foul,Shooting,0,0,0,0,,,v
+S2324-G0677,1,02:36,BKN,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0677,1,01:39,BKN,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0677,2,11:41,BKN,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0677,2,11:20,BKN,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0677,2,11:20,BKN,30.0,PHX,32.0,J. Okogie,PHX,Okogie Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2324-G0677,2,11:20,BKN,30.0,PHX,33.0,J. Okogie,PHX,Okogie Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G0677,2,10:32,BKN,,PHX,,J. Okogie,PHX,Suns T.Foul (Def. 3 Sec Okogie ) (K.Lane),Foul,Defense 3 Second,0,0,0,0,,,v
+S2324-G0677,2,09:16,BKN,33.0,PHX,39.0,J. Okogie,PHX,Okogie 3' Cutting Finger Roll Layup Shot (5 PTS) (Beal 3 AST),Made Shot,Cutting Finger Roll Layup Shot,29,14,3,1,2.0,2.0,v
+S2324-G0677,2,07:38,BKN,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0677,2,07:33,BKN,35.0,PHX,45.0,J. Okogie,PHX,Okogie 11' Driving Floating Jump Shot (7 PTS),Made Shot,Driving Floating Jump Shot,23,103,11,1,2.0,2.0,v
+S2324-G0677,2,06:00,BKN,,PHX,,J. Okogie,PHX,MISS Okogie 3PT Jump Shot,Missed Shot,Jump Shot,-227,-32,0,1,3.0,0.0,v
+S2324-G0677,2,05:50,BKN,,PHX,,J. Okogie,PHX,SUB: Nurkic FOR Okogie,Substitution,,0,0,0,0,,,v
+S2324-G0677,2,00:45.800000,BKN,,PHX,,J. Okogie,PHX,SUB: Booker FOR Okogie,Substitution,,0,0,0,0,,,v
+S2324-G0677,2,00:12,BKN,,PHX,,J. Okogie,PHX,SUB: Booker FOR Okogie,Substitution,,0,0,0,0,,,v
+S2324-G0677,3,05:10,BKN,80.0,PHX,87.0,J. Okogie,PHX,Okogie 3PT Jump Shot (10 PTS) (Nurkic 3 AST),Made Shot,Jump Shot,-232,4,0,1,3.0,3.0,v
+S2324-G0677,3,04:38,BKN,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0677,3,00:44.700000,BKN,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0677,3,00:33.700000,BKN,,PHX,,J. Okogie,PHX,SUB: Booker FOR Okogie,Substitution,,0,0,0,0,,,v
+S2324-G0677,3,00:08.100000,BKN,,PHX,,J. Okogie,PHX,Okogie STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0677,3,00:07.700000,BKN,,PHX,,J. Okogie,PHX,MISS Okogie Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0677,3,00:07.700000,BKN,87.0,PHX,106.0,J. Okogie,PHX,Okogie Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0677,4,11:39,BKN,,PHX,,J. Okogie,PHX,MISS Okogie 26' 3PT Jump Shot,Missed Shot,Jump Shot,-157,202,26,1,3.0,0.0,v
+S2324-G0677,4,07:18,BKN,,PHX,,J. Okogie,PHX,SUB: Nurkic FOR Okogie,Substitution,,0,0,0,0,,,v
+S2324-G0661,2,10:05,MIA,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0661,2,08:09,MIA,29.0,PHX,41.0,J. Okogie,PHX,Okogie 3' Running Layup (2 PTS) (Beal 4 AST),Made Shot,Running Layup Shot,-28,18,3,1,2.0,2.0,v
+S2324-G0661,2,08:09,MIA,,PHX,,J. Okogie,PHX,MISS Okogie Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2324-G0661,2,05:39,MIA,39.0,PHX,49.0,J. Okogie,PHX,Okogie 24' 3PT Jump Shot (5 PTS) (Booker 1 AST),Made Shot,Jump Shot,-235,8,24,1,3.0,3.0,v
+S2324-G0661,2,04:32,MIA,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0661,2,03:19,MIA,,PHX,,J. Okogie,PHX,Okogie S.FOUL (P1.T2) (J.Orr),Foul,Shooting,0,0,0,0,,,v
+S2324-G0661,2,03:19,MIA,,PHX,,J. Okogie,PHX,SUB: Durant FOR Okogie,Substitution,,0,0,0,0,,,v
+S2324-G0661,3,03:51,MIA,65.0,PHX,87.0,J. Okogie,PHX,Okogie 27' 3PT Jump Bank Shot (8 PTS) (Booker 4 AST),Made Shot,Jump Bank Shot,210,172,27,1,3.0,3.0,v
+S2324-G0661,3,02:02,MIA,70.0,PHX,94.0,J. Okogie,PHX,Okogie Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0661,3,02:02,MIA,,PHX,,J. Okogie,PHX,MISS Okogie Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0661,3,01:24,MIA,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0661,3,01:22,MIA,,PHX,,J. Okogie,PHX,MISS Okogie 5' Running Layup,Missed Shot,Running Layup Shot,-38,29,5,1,2.0,0.0,v
+S2324-G0661,3,01:00,MIA,,PHX,,J. Okogie,PHX,Okogie BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0661,3,00:30.200000,MIA,,PHX,,J. Okogie,PHX,Okogie STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0661,4,10:39,MIA,,PHX,,J. Okogie,PHX,Okogie Violation:Kicked Ball (P.Fraher),Violation,Kicked Ball,0,0,0,0,,,v
+S2324-G0661,4,09:56,MIA,,PHX,,J. Okogie,PHX,SUB: Booker FOR Okogie,Substitution,,0,0,0,0,,,v
+S2324-G0661,4,06:43,MIA,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0661,4,06:24,MIA,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0661,4,06:24,MIA,91.0,PHX,107.0,J. Okogie,PHX,Okogie Tip Dunk Shot (11 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,v
+S2324-G0661,4,06:15,MIA,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0661,4,04:21,MIA,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0661,4,04:01,MIA,,PHX,,J. Okogie,PHX,SUB: Gordon FOR Okogie,Substitution,,0,0,0,0,,,v
+S2324-G0636,2,08:55,IND,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0636,2,08:33,IND,,PHX,,J. Okogie,PHX,Okogie P.FOUL (P1.T2) (B.Adair),Foul,Personal,0,0,0,0,,,v
+S2324-G0636,2,05:07,IND,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0636,2,03:48,IND,,PHX,,J. Okogie,PHX,MISS Okogie 1' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,9,-4,1,1,2.0,0.0,v
+S2324-G0636,2,03:13,IND,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0636,2,02:59,IND,,PHX,,J. Okogie,PHX,Okogie STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0636,2,02:52,IND,,PHX,,J. Okogie,PHX,SUB: Durant FOR Okogie,Substitution,,0,0,0,0,,,v
+S2324-G0636,4,08:07,IND,,PHX,,J. Okogie,PHX,SUB: Booker FOR Okogie,Substitution,,0,0,0,0,,,v
+S2324-G0456,2,11:35,PHX,,POR,,J. Okogie,PHX,Okogie BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0456,2,06:43,PHX,36.0,POR,33.0,J. Okogie,PHX,Okogie 1' Running Layup (2 PTS) (Bol 1 AST),Made Shot,Running Layup Shot,-6,-3,1,1,2.0,2.0,h
+S2324-G0456,2,05:31,PHX,,POR,,J. Okogie,PHX,Okogie P.FOUL (P1.T3) (S.Wall),Foul,Personal,0,0,0,0,,,h
+S2324-G0456,2,04:06,PHX,,POR,,J. Okogie,PHX,SUB: Nurkic FOR Okogie,Substitution,,0,0,0,0,,,h
+S2324-G0456,4,07:55,PHX,,POR,,J. Okogie,PHX,MISS Okogie 2' Driving Layup,Missed Shot,Driving Layup Shot,7,14,2,1,2.0,0.0,h
+S2324-G0456,4,07:02,PHX,,POR,,J. Okogie,PHX,SUB: Booker FOR Okogie,Substitution,,0,0,0,0,,,h
+S2324-G0456,4,04:37,PHX,,POR,,J. Okogie,PHX,Okogie Out of Bounds - Bad Pass Turnover Turnover (P1.T14),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G0456,4,02:53,PHX,,POR,,J. Okogie,PHX,MISS Okogie Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0456,4,02:53,PHX,102.0,POR,81.0,J. Okogie,PHX,Okogie Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0456,4,02:32,PHX,,POR,,J. Okogie,PHX,Okogie REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0456,4,01:59,PHX,,POR,,J. Okogie,PHX,Okogie REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0787,1,03:13,PHX,,DET,,J. Okogie,PHX,MISS Okogie 3PT Jump Shot,Missed Shot,Jump Shot,-228,-15,0,1,3.0,0.0,h
+S2324-G0787,1,02:39,PHX,,DET,,J. Okogie,PHX,Okogie REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0787,1,00:33.400000,PHX,,DET,,J. Okogie,PHX,MISS Okogie 26' 3PT Jump Shot,Missed Shot,Jump Shot,197,173,26,1,3.0,0.0,h
+S2324-G0787,1,00:01.100000,PHX,,DET,,J. Okogie,PHX,Okogie REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0787,1,00:01.100000,PHX,36.0,DET,25.0,J. Okogie,PHX,Okogie Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0787,1,00:01.100000,PHX,37.0,DET,25.0,J. Okogie,PHX,Okogie Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0787,2,07:42,PHX,,DET,,J. Okogie,PHX,MISS Okogie 5' Driving Layup,Missed Shot,Driving Layup Shot,-48,1,5,1,2.0,0.0,h
+S2324-G0787,2,05:37,PHX,,DET,,J. Okogie,PHX,Okogie P.FOUL (P1.T1) (K.Lane),Foul,Personal,0,0,0,0,,,h
+S2324-G0787,2,03:03,PHX,,DET,,J. Okogie,PHX,Okogie STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0787,2,01:34,PHX,,DET,,J. Okogie,PHX,SUB: Allen FOR Okogie,Substitution,,0,0,0,0,,,h
+S2324-G0787,3,03:54,PHX,,DET,,J. Okogie,PHX,Okogie BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0787,4,09:48,PHX,,DET,,J. Okogie,PHX,SUB: Maledon FOR Okogie,Substitution,,0,0,0,0,,,h
+S2324-G0197,1,06:05,PHX,17.0,MIN,14.0,J. Okogie,PHX,Okogie 3PT Jump Shot (3 PTS) (Nurkic 2 AST),Made Shot,Jump Shot,-233,28,0,1,3.0,3.0,h
+S2324-G0197,1,05:29,PHX,20.0,MIN,16.0,J. Okogie,PHX,Okogie 3PT Jump Shot (6 PTS) (Gordon 1 AST),Made Shot,Jump Shot,227,18,0,1,3.0,3.0,h
+S2324-G0197,1,01:19,PHX,,MIN,,J. Okogie,PHX,MISS Okogie Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0197,1,01:19,PHX,33.0,MIN,24.0,J. Okogie,PHX,Okogie Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0197,2,03:40,PHX,66.0,MIN,48.0,J. Okogie,PHX,Okogie 25' 3PT Jump Shot (10 PTS) (Booker 3 AST),Made Shot,Jump Shot,-159,196,25,1,3.0,3.0,h
+S2324-G0197,3,03:16,PHX,97.0,MIN,76.0,J. Okogie,PHX,Okogie 1' Driving Reverse Layup (12 PTS) (Eubanks 2 AST),Made Shot,Driving Reverse Layup Shot,-10,6,1,1,2.0,2.0,h
+S2324-G0197,4,11:03,PHX,,MIN,,J. Okogie,PHX,Okogie S.FOUL (P1.T1) (T.Maddox),Foul,Shooting,0,0,0,0,,,h
+S2324-G0197,4,09:48,PHX,,MIN,,J. Okogie,PHX,MISS Okogie 5' Driving Layup,Missed Shot,Driving Layup Shot,-2,51,5,1,2.0,0.0,h
+S2324-G0197,4,09:42,PHX,,MIN,,J. Okogie,PHX,SUB: Goodwin FOR Okogie,Substitution,,0,0,0,0,,,h
+S2324-G0247,1,11:36,NYK,,PHX,,J. Okogie,PHX,Okogie STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0247,1,11:10,NYK,,PHX,,J. Okogie,PHX,Okogie P.FOUL (P1.T1) (G.Petraitis),Foul,Personal,0,0,0,0,,,v
+S2324-G0247,1,11:02,NYK,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0247,1,09:42,NYK,,PHX,,J. Okogie,PHX,MISS Okogie 3PT Jump Shot,Missed Shot,Jump Shot,-234,-11,0,1,3.0,0.0,v
+S2324-G0247,1,06:21,NYK,12.0,PHX,18.0,J. Okogie,PHX,Okogie Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0247,1,06:21,NYK,12.0,PHX,19.0,J. Okogie,PHX,Okogie Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0247,1,06:14,NYK,,PHX,,J. Okogie,PHX,Okogie S.FOUL (P2.T2) (M.Lindsay),Foul,Shooting,0,0,0,0,,,v
+S2324-G0247,1,06:14,NYK,,PHX,,J. Okogie,PHX,SUB: Goodwin FOR Okogie,Substitution,,0,0,0,0,,,v
+S2324-G0247,2,06:57,NYK,,PHX,,J. Okogie,PHX,MISS Okogie 2' Driving Layup,Missed Shot,Driving Layup Shot,18,1,2,1,2.0,0.0,v
+S2324-G0247,2,05:07,NYK,42.0,PHX,53.0,J. Okogie,PHX,Okogie Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0247,2,05:07,NYK,,PHX,,J. Okogie,PHX,MISS Okogie Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0247,2,03:41,NYK,,PHX,,J. Okogie,PHX,MISS Okogie 3PT Jump Shot,Missed Shot,Jump Shot,230,17,0,1,3.0,0.0,v
+S2324-G0247,2,03:20,NYK,,PHX,,J. Okogie,PHX,MISS Okogie 1' Finger Roll Layup,Missed Shot,Finger Roll Layup Shot,6,5,1,1,2.0,0.0,v
+S2324-G0247,2,03:17,NYK,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0247,2,03:16,NYK,,PHX,,J. Okogie,PHX,Okogie Lost Ball Turnover (P1.T6),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0247,2,02:54,NYK,,PHX,,J. Okogie,PHX,SUB: Goodwin FOR Okogie,Substitution,,0,0,0,0,,,v
+S2324-G0247,3,11:31,NYK,,PHX,,J. Okogie,PHX,MISS Okogie 24' 3PT Jump Shot,Missed Shot,Jump Shot,-239,20,24,1,3.0,0.0,v
+S2324-G0247,3,10:18,NYK,,PHX,,J. Okogie,PHX,Okogie Bad Pass Turnover (P2.T7),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0247,3,09:33,NYK,,PHX,,J. Okogie,PHX,Okogie P.FOUL (P3.T1) (M.Lindsay),Foul,Personal,0,0,0,0,,,v
+S2324-G0247,3,08:48,NYK,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0247,3,07:09,NYK,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0247,3,05:39,NYK,,PHX,,J. Okogie,PHX,SUB: Goodwin FOR Okogie,Substitution,,0,0,0,0,,,v
+S2324-G0705,1,00:34.900000,WAS,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0705,2,11:33,WAS,,PHX,,J. Okogie,PHX,Okogie Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0705,2,07:31,WAS,,PHX,,J. Okogie,PHX,Okogie STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0705,2,05:45,WAS,50.0,PHX,63.0,J. Okogie,PHX,Okogie 10' Pullup Jump Shot (2 PTS) (Allen 1 AST),Made Shot,Pullup Jump shot,99,34,10,1,2.0,2.0,v
+S2324-G0705,2,03:55,WAS,,PHX,,J. Okogie,PHX,SUB: Booker FOR Okogie,Substitution,,0,0,0,0,,,v
+S2324-G0705,2,03:31,WAS,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0705,2,03:30,WAS,52.0,PHX,70.0,J. Okogie,PHX,Okogie 2' Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,-17,16,2,1,2.0,2.0,v
+S2324-G0705,2,01:24,WAS,,PHX,,J. Okogie,PHX,SUB: Beal FOR Okogie,Substitution,,0,0,0,0,,,v
+S2324-G0705,4,07:41,WAS,,PHX,,J. Okogie,PHX,SUB: Bates-Diop FOR Okogie,Substitution,,0,0,0,0,,,v
+S2324-G0288,1,09:26,PHX,,MEM,,J. Okogie,PHX,Okogie STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0288,1,08:57,PHX,6.0,MEM,7.0,J. Okogie,PHX,Okogie 1' Driving Layup (2 PTS) (Booker 2 AST),Made Shot,Driving Layup Shot,0,6,1,1,2.0,2.0,h
+S2324-G0288,1,08:02,PHX,,MEM,,J. Okogie,PHX,Okogie Violation:Kicked Ball (J.Butler),Violation,Kicked Ball,0,0,0,0,,,h
+S2324-G0288,1,07:27,PHX,,MEM,,J. Okogie,PHX,Okogie REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0288,1,05:00,PHX,,MEM,,J. Okogie,PHX,MISS Okogie Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0288,1,05:00,PHX,,MEM,,J. Okogie,PHX,MISS Okogie Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0288,1,02:51,PHX,,MEM,,J. Okogie,PHX,SUB: Booker FOR Okogie,Substitution,,0,0,0,0,,,h
+S2324-G0288,2,06:09,PHX,,MEM,,J. Okogie,PHX,Okogie Offensive Charge Foul (P1) (R.Mott),Foul,Offensive Charge,0,0,0,0,,,h
+S2324-G0288,2,06:09,PHX,,MEM,,J. Okogie,PHX,Okogie Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0288,2,05:16,PHX,38.0,MEM,41.0,J. Okogie,PHX,Okogie Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0288,2,05:16,PHX,,MEM,,J. Okogie,PHX,MISS Okogie Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0288,2,05:11,PHX,,MEM,,J. Okogie,PHX,Okogie STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0288,2,03:51,PHX,,MEM,,J. Okogie,PHX,Okogie REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0288,2,03:51,PHX,,MEM,,J. Okogie,PHX,MISS Okogie Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0288,2,03:51,PHX,,MEM,,J. Okogie,PHX,MISS Okogie Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0288,2,03:46,PHX,,MEM,,J. Okogie,PHX,Okogie REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0288,2,03:26,PHX,,MEM,,J. Okogie,PHX,Okogie S.FOUL (P2.T3) (J.Butler),Foul,Shooting,0,0,0,0,,,h
+S2324-G0288,2,03:26,PHX,,MEM,,J. Okogie,PHX,Okogie T.FOUL (P2.T3) (J.Butler),Foul,Technical,0,0,0,0,,,h
+S2324-G0288,2,03:26,PHX,,MEM,,J. Okogie,PHX,SUB: Watanabe FOR Okogie,Substitution,,0,0,0,0,,,h
+S2324-G0288,3,11:04,PHX,,MEM,,J. Okogie,PHX,Okogie REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0288,3,08:02,PHX,,MEM,,J. Okogie,PHX,Okogie REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0288,3,06:36,PHX,,MEM,,J. Okogie,PHX,Okogie BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0288,3,06:13,PHX,,MEM,,J. Okogie,PHX,Okogie REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0288,3,04:28,PHX,,MEM,,J. Okogie,PHX,Okogie STEAL (3 STL),,,0,0,0,0,,,h
+S2324-G0288,3,03:43,PHX,,MEM,,J. Okogie,PHX,Okogie REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0288,3,03:39,PHX,,MEM,,J. Okogie,PHX,MISS Okogie 26' 3PT Jump Shot,Missed Shot,Jump Shot,-39,262,26,1,3.0,0.0,h
+S2324-G0288,3,03:39,PHX,,MEM,,J. Okogie,PHX,SUB: Little FOR Okogie,Substitution,,0,0,0,0,,,h
+S2324-G0288,4,04:51,PHX,,MEM,,J. Okogie,PHX,SUB: Booker FOR Okogie,Substitution,,0,0,0,0,,,h
+S2324-G0288,4,00:08.400000,PHX,,MEM,,J. Okogie,PHX,SUB: Watanabe FOR Okogie,Substitution,,0,0,0,0,,,h
+S2324-G0725,2,04:56,PHX,,MIL,,J. Okogie,PHX,SUB: Gordon FOR Okogie,Substitution,,0,0,0,0,,,h
+S2324-G0162,1,05:11,CHI,,PHX,,J. Okogie,PHX,MISS Okogie 3PT Jump Shot,Missed Shot,Jump Shot,229,-4,0,1,3.0,0.0,v
+S2324-G0162,1,04:40,CHI,14.0,PHX,27.0,J. Okogie,PHX,Okogie 1' Cutting Layup Shot (2 PTS) (Durant 3 AST),Made Shot,Cutting Layup Shot,5,8,1,1,2.0,2.0,v
+S2324-G0162,1,02:51,CHI,,PHX,,J. Okogie,PHX,MISS Okogie Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0162,1,02:51,CHI,20.0,PHX,31.0,J. Okogie,PHX,Okogie Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0162,2,11:50,CHI,,PHX,,J. Okogie,PHX,Okogie S.FOUL (P1.T1) (K.Cutler),Foul,Shooting,0,0,0,0,,,v
+S2324-G0162,2,10:17,CHI,,PHX,,J. Okogie,PHX,MISS Okogie 25' 3PT Jump Shot,Missed Shot,Jump Shot,142,204,25,1,3.0,0.0,v
+S2324-G0162,2,07:56,CHI,,PHX,,J. Okogie,PHX,Okogie S.FOUL (P2.T3) (S.Mitchell),Foul,Shooting,0,0,0,0,,,v
+S2324-G0162,2,06:07,CHI,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0162,2,06:07,CHI,36.0,PHX,42.0,J. Okogie,PHX,Okogie Tip Layup Shot (5 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2324-G0162,2,05:44,CHI,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0162,2,05:44,CHI,38.0,PHX,44.0,J. Okogie,PHX,Okogie Tip Layup Shot (7 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2324-G0162,2,05:21,CHI,,PHX,,J. Okogie,PHX,SUB: Gordon FOR Okogie,Substitution,,0,0,0,0,,,v
+S2324-G0162,3,02:39,CHI,,PHX,,J. Okogie,PHX,Okogie STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0162,4,04:54,CHI,,PHX,,J. Okogie,PHX,MISS Okogie 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-23,106,11,1,2.0,0.0,v
+S2324-G0162,4,03:58,CHI,,PHX,,J. Okogie,PHX,SUB: Bates-Diop FOR Okogie,Substitution,,0,0,0,0,,,v
+S2324-G0162,4,00:15.700000,CHI,,PHX,,J. Okogie,PHX,SUB: Beal FOR Okogie,Substitution,,0,0,0,0,,,v
+S2324-G0094,1,11:40,PHX,,UTA,,J. Okogie,PHX,Okogie REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0094,1,08:56,PHX,9.0,UTA,4.0,J. Okogie,PHX,Okogie Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0094,1,08:56,PHX,10.0,UTA,4.0,J. Okogie,PHX,Okogie Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0094,1,06:22,PHX,,UTA,,J. Okogie,PHX,Okogie P.FOUL (P1.T1) (S.Twardoski),Foul,Personal,0,0,0,0,,,h
+S2324-G0094,1,03:44,PHX,,UTA,,J. Okogie,PHX,SUB: Watanabe FOR Okogie,Substitution,,0,0,0,0,,,h
+S2324-G0094,2,00:25.100000,PHX,63.0,UTA,50.0,J. Okogie,PHX,Okogie 1' Running Layup (4 PTS) (Durant 5 AST),Made Shot,Running Layup Shot,13,3,1,1,2.0,2.0,h
+S2324-G0094,2,00:25.100000,PHX,64.0,UTA,50.0,J. Okogie,PHX,Okogie Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G0094,2,00:06.800000,PHX,,UTA,,J. Okogie,PHX,SUB: Goodwin FOR Okogie,Substitution,,0,0,0,0,,,h
+S2324-G0094,3,11:09,PHX,,UTA,,J. Okogie,PHX,Okogie S.FOUL (P2.T1) (J.Capers),Foul,Shooting,0,0,0,0,,,h
+S2324-G0094,3,10:24,PHX,,UTA,,J. Okogie,PHX,MISS Okogie 24' 3PT Jump Shot,Missed Shot,Jump Shot,-240,12,24,1,3.0,0.0,h
+S2324-G0094,3,08:57,PHX,,UTA,,J. Okogie,PHX,MISS Okogie 3PT Jump Shot,Missed Shot,Jump Shot,229,-5,0,1,3.0,0.0,h
+S2324-G0094,3,05:14,PHX,89.0,UTA,61.0,J. Okogie,PHX,Okogie Layup (7 PTS) (Nurkic 5 AST),Made Shot,Layup Shot,-2,-4,0,1,2.0,2.0,h
+S2324-G0094,3,05:01,PHX,,UTA,,J. Okogie,PHX,Okogie S.FOUL (P3.T4) (M.Myers),Foul,Shooting,0,0,0,0,,,h
+S2324-G0094,3,04:42,PHX,,UTA,,J. Okogie,PHX,Okogie Non-Unsportsmanlike Tech Foul - Flopping (P3.T4) (S.Twardoski),Foul                                    ,Flopping,0,0,0,0,,,h
+S2324-G0094,3,03:09,PHX,,UTA,,J. Okogie,PHX,SUB: Goodwin FOR Okogie,Substitution,,0,0,0,0,,,h
+S2324-G0503,1,04:04,PHX,,MEM,,J. Okogie,PHX,Okogie P.FOUL (P1.T2) (C.Blair),Foul,Personal,0,0,0,0,,,h
+S2324-G0503,1,03:47,PHX,,MEM,,J. Okogie,PHX,Okogie S.FOUL (P2.T3) (C.Blair),Foul,Shooting,0,0,0,0,,,h
+S2324-G0503,1,03:34,PHX,,MEM,,J. Okogie,PHX,MISS Okogie 28' 3PT Jump Shot,Missed Shot,Jump Shot,203,187,28,1,3.0,0.0,h
+S2324-G0503,1,01:15,PHX,30.0,MEM,19.0,J. Okogie,PHX,Okogie Cutting Dunk Shot (2 PTS) (Beal 2 AST),Made Shot,Cutting Dunk Shot,-2,1,0,1,2.0,2.0,h
+S2324-G0503,2,10:34,PHX,33.0,MEM,29.0,J. Okogie,PHX,Okogie Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0503,2,10:25,PHX,,MEM,,J. Okogie,PHX,Okogie P.FOUL (P3.T1) (L.Wood),Foul,Personal,0,0,0,0,,,h
+S2324-G0503,2,10:25,PHX,,MEM,,J. Okogie,PHX,SUB: Bates-Diop FOR Okogie,Substitution,,0,0,0,0,,,h
+S2324-G0503,2,05:43,PHX,,MEM,,J. Okogie,PHX,MISS Okogie 3PT Jump Shot,Missed Shot,Jump Shot,233,9,0,1,3.0,0.0,h
+S2324-G0503,2,05:21,PHX,,MEM,,J. Okogie,PHX,Okogie L.B.FOUL (P4.T3) (L.Wood),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0503,2,05:21,PHX,,MEM,,J. Okogie,PHX,SUB: Lee FOR Okogie,Substitution,,0,0,0,0,,,h
+S2324-G0503,3,04:20,PHX,,MEM,,J. Okogie,PHX,Okogie REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0503,3,03:02,PHX,,MEM,,J. Okogie,PHX,Okogie STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0503,3,03:00,PHX,88.0,MEM,83.0,J. Okogie,PHX,Okogie 1' Running Layup (5 PTS),Made Shot,Running Layup Shot,-5,-1,1,1,2.0,2.0,h
+S2324-G0503,3,03:00,PHX,89.0,MEM,83.0,J. Okogie,PHX,Okogie Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G0503,3,02:13,PHX,,MEM,,J. Okogie,PHX,Okogie STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0503,3,02:10,PHX,,MEM,,J. Okogie,PHX,MISS Okogie 2' Running Layup,Missed Shot,Running Layup Shot,8,14,2,1,2.0,0.0,h
+S2324-G0503,3,00:52.400000,PHX,,MEM,,J. Okogie,PHX,Okogie P.FOUL (P5.T4) (C.Blair),Foul,Personal,0,0,0,0,,,h
+S2324-G0503,3,00:52.400000,PHX,,MEM,,J. Okogie,PHX,SUB: Lee FOR Okogie,Substitution,,0,0,0,0,,,h
+S2324-G0503,4,05:39,PHX,,MEM,,J. Okogie,PHX,SUB: Durant FOR Okogie,Substitution,,0,0,0,0,,,h
+S2324-G0041,2,05:13,PHX,43.0,POR,42.0,J. Okogie,PHX,Okogie Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0041,2,05:13,PHX,44.0,POR,42.0,J. Okogie,PHX,Okogie Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0041,2,03:54,PHX,,POR,,J. Okogie,PHX,Okogie REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0041,2,03:18,PHX,,POR,,J. Okogie,PHX,Okogie REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0041,2,02:36,PHX,,POR,,J. Okogie,PHX,SUB: Allen FOR Okogie,Substitution,,0,0,0,0,,,h
+S2324-G0041,3,03:41,PHX,,POR,,J. Okogie,PHX,Okogie STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0041,3,00:33.800000,PHX,,POR,,J. Okogie,PHX,SUB: Booker FOR Okogie,Substitution,,0,0,0,0,,,h
+S2324-G0041,4,00:26.800000,PHX,,POR,,J. Okogie,PHX,Okogie REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0041,4,00:23.300000,PHX,,POR,,J. Okogie,PHX,Okogie Lost Ball Turnover (P1.T15),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0554,4,09:15,POR,,PHX,,J. Okogie,PHX,Okogie S.FOUL (P1.T3) (B.Barnaky),Foul,Shooting,0,0,0,0,,,v
+S2324-G0554,4,09:12,POR,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0554,4,08:29,POR,,PHX,,J. Okogie,PHX,SUB: Booker FOR Okogie,Substitution,,0,0,0,0,,,v
+S2324-G0796,1,04:49,DAL,16.0,PHX,24.0,J. Okogie,PHX,Okogie 26' 3PT Jump Shot (3 PTS) (Booker 2 AST),Made Shot,Jump Shot,-216,152,26,1,3.0,3.0,v
+S2324-G0796,1,04:23,DAL,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0796,1,03:12,DAL,19.0,PHX,29.0,J. Okogie,PHX,Okogie 2' Cutting Dunk Shot (5 PTS) (Booker 3 AST),Made Shot,Cutting Dunk Shot,-4,19,2,1,2.0,2.0,v
+S2324-G0796,2,03:28,DAL,,PHX,,J. Okogie,PHX,Okogie S.FOUL (P1.PN) (A.Smith),Foul,Shooting,0,0,0,0,,,v
+S2324-G0796,2,02:55,DAL,,PHX,,J. Okogie,PHX,SUB: Durant FOR Okogie,Substitution,,0,0,0,0,,,v
+S2324-G0796,3,04:21,DAL,,PHX,,J. Okogie,PHX,MISS Okogie Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0796,3,04:21,DAL,84.0,PHX,81.0,J. Okogie,PHX,Okogie Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0796,3,02:50,DAL,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0796,3,02:50,DAL,90.0,PHX,83.0,J. Okogie,PHX,Okogie Tip Layup Shot (8 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2324-G0796,3,01:48,DAL,,PHX,,J. Okogie,PHX,MISS Okogie 24' 3PT Jump Shot,Missed Shot,Jump Shot,-234,22,24,1,3.0,0.0,v
+S2324-G0796,3,01:19,DAL,,PHX,,J. Okogie,PHX,MISS Okogie 25' 3PT Jump Shot,Missed Shot,Jump Shot,-153,199,25,1,3.0,0.0,v
+S2324-G0796,4,10:50,DAL,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:4 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0796,4,10:50,DAL,,PHX,,J. Okogie,PHX,MISS Okogie Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2324-G0796,4,10:50,DAL,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:4 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0796,4,10:46,DAL,,PHX,,J. Okogie,PHX,Okogie Lost Ball Turnover (P1.T11),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0796,4,09:41,DAL,,PHX,,J. Okogie,PHX,Okogie Bad Pass Turnover (P2.T12),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0796,4,09:35,DAL,,PHX,,J. Okogie,PHX,SUB: Booker FOR Okogie,Substitution,,0,0,0,0,,,v
+S2324-G0796,4,00:20,DAL,123.0,PHX,113.0,J. Okogie,PHX,Okogie 25' 3PT Jump Shot (11 PTS) (Lee 2 AST),Made Shot,Jump Shot,6,248,25,1,3.0,3.0,v
+S2324-G0450,2,11:21,PHX,,ORL,,J. Okogie,PHX,Okogie L.B.FOUL (P1.T1) (J.Sterling),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0450,2,09:59,PHX,,ORL,,J. Okogie,PHX,Okogie P.FOUL (P2.T3) (J.DeRosa),Foul,Personal,0,0,0,0,,,h
+S2324-G0450,2,09:14,PHX,,ORL,,J. Okogie,PHX,Okogie REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0450,2,07:57,PHX,,ORL,,J. Okogie,PHX,MISS Okogie 3PT Jump Shot,Missed Shot,Jump Shot,224,26,0,1,3.0,0.0,h
+S2324-G0450,2,05:36,PHX,,ORL,,J. Okogie,PHX,Okogie REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0450,2,05:36,PHX,,ORL,,J. Okogie,PHX,MISS Okogie Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2324-G0450,2,04:59,PHX,,ORL,,J. Okogie,PHX,SUB: Gordon FOR Okogie,Substitution,,0,0,0,0,,,h
+S2324-G0450,2,00:06.700000,PHX,,ORL,,J. Okogie,PHX,Okogie P.FOUL (P3.PN) (B.Kennedy),Foul,Personal,0,0,0,0,,,h
+S2324-G0450,2,00:06.700000,PHX,,ORL,,J. Okogie,PHX,SUB: Booker FOR Okogie,Substitution,,0,0,0,0,,,h
+S2324-G0132,1,02:41,PHI,,PHX,,J. Okogie,PHX,Okogie STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0132,2,08:27,PHI,,PHX,,J. Okogie,PHX,Okogie BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0132,2,07:47,PHI,,PHX,,J. Okogie,PHX,MISS Okogie 26' 3PT Jump Shot,Missed Shot,Jump Shot,180,194,26,1,3.0,0.0,v
+S2324-G0132,2,06:20,PHI,,PHX,,J. Okogie,PHX,SUB: Bates-Diop FOR Okogie,Substitution,,0,0,0,0,,,v
+S2324-G0132,2,02:32,PHI,43.0,PHX,41.0,J. Okogie,PHX,Okogie 1' Running Dunk (2 PTS) (Bates-Diop 1 AST),Made Shot,Running Dunk Shot,1,7,1,1,2.0,2.0,v
+S2324-G0132,2,01:38,PHI,,PHX,,J. Okogie,PHX,Okogie Traveling Turnover (P1.T6),Turnover,Traveling,0,0,0,0,,,v
+S2324-G0132,2,00:08.200000,PHI,,PHX,,J. Okogie,PHX,SUB: Watanabe FOR Okogie,Substitution,,0,0,0,0,,,v
+S2324-G0132,3,01:44,PHI,,PHX,,J. Okogie,PHX,MISS Okogie 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,7,111,11,1,2.0,0.0,v
+S2324-G0132,3,00:31.500000,PHI,77.0,PHX,75.0,J. Okogie,PHX,Okogie 2' Cutting Dunk Shot (4 PTS) (Nurkic 5 AST),Made Shot,Cutting Dunk Shot,16,15,2,1,2.0,2.0,v
+S2324-G0132,4,10:55,PHI,,PHX,,J. Okogie,PHX,Okogie STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0132,4,10:51,PHI,,PHX,,J. Okogie,PHX,MISS Okogie 1' Running Layup,Missed Shot,Running Layup Shot,0,9,1,1,2.0,0.0,v
+S2324-G0132,4,08:27,PHI,,PHX,,J. Okogie,PHX,SUB: Allen FOR Okogie,Substitution,,0,0,0,0,,,v
+S2324-G0132,4,05:50,PHI,,PHX,,J. Okogie,PHX,MISS Okogie 3PT Jump Shot,Missed Shot,Jump Shot,225,29,0,1,3.0,0.0,v
+S2324-G0132,4,05:12,PHI,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0132,4,05:05,PHI,,PHX,,J. Okogie,PHX,MISS Okogie 1' Layup,Missed Shot,Layup Shot,11,6,1,1,2.0,0.0,v
+S2324-G0132,4,05:03,PHI,,PHX,,J. Okogie,PHX,SUB: Watanabe FOR Okogie,Substitution,,0,0,0,0,,,v
+S2324-G0489,1,01:34,PHX,,MIA,,J. Okogie,PHX,Okogie REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0489,1,01:34,PHX,,MIA,,J. Okogie,PHX,MISS Okogie 2' Tip Layup Shot,Missed Shot,Tip Layup Shot,-7,14,2,1,2.0,0.0,h
+S2324-G0489,1,01:01,PHX,27.0,MIA,27.0,J. Okogie,PHX,Okogie Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0489,1,01:01,PHX,28.0,MIA,27.0,J. Okogie,PHX,Okogie Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0489,2,04:15,PHX,,MIA,,J. Okogie,PHX,MISS Okogie 3PT Jump Shot,Missed Shot,Jump Shot,225,16,0,1,3.0,0.0,h
+S2324-G0489,2,04:05,PHX,,MIA,,J. Okogie,PHX,Okogie P.FOUL (P1.PN) (T.Mirkovich),Foul,Personal,0,0,0,0,,,h
+S2324-G0489,2,03:32,PHX,,MIA,,J. Okogie,PHX,Okogie STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0489,2,02:33,PHX,,MIA,,J. Okogie,PHX,Okogie P.FOUL (P2.PN) (M.Kogut),Foul,Personal,0,0,0,0,,,h
+S2324-G0489,2,00:31.800000,PHX,,MIA,,J. Okogie,PHX,SUB: Allen FOR Okogie,Substitution,,0,0,0,0,,,h
+S2324-G0489,3,02:34,PHX,86.0,MIA,69.0,J. Okogie,PHX,Okogie Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0489,3,02:34,PHX,87.0,MIA,69.0,J. Okogie,PHX,Okogie Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0489,3,01:51,PHX,,MIA,,J. Okogie,PHX,Okogie BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0489,3,01:51,PHX,,MIA,,J. Okogie,PHX,Okogie S.FOUL (P3.T2) (B.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2324-G0489,3,01:23,PHX,,MIA,,J. Okogie,PHX,Okogie S.FOUL (P4.PN) (B.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2324-G0489,3,00:46.900000,PHX,,MIA,,J. Okogie,PHX,Okogie STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0489,3,00:45.500000,PHX,93.0,MIA,75.0,J. Okogie,PHX,Okogie Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0489,3,00:45.500000,PHX,,MIA,,J. Okogie,PHX,MISS Okogie Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0489,3,00:02.600000,PHX,,MIA,,J. Okogie,PHX,Okogie STEAL (3 STL),,,0,0,0,0,,,h
+S2324-G0489,4,11:46,PHX,,MIA,,J. Okogie,PHX,Okogie L.B.FOUL (P5.T1) (T.Mirkovich),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0489,4,07:07,PHX,,MIA,,J. Okogie,PHX,SUB: Beal FOR Okogie,Substitution,,0,0,0,0,,,h
+S2324-G0489,4,03:44,PHX,106.0,MIA,90.0,J. Okogie,PHX,Okogie Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0489,4,03:44,PHX,107.0,MIA,90.0,J. Okogie,PHX,Okogie Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0489,4,02:14,PHX,,MIA,,J. Okogie,PHX,Okogie REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0489,4,01:31,PHX,,MIA,,J. Okogie,PHX,Okogie BLOCK (2 BLK),,,0,0,0,0,,,h
+S2324-G0489,4,01:29,PHX,,MIA,,J. Okogie,PHX,SUB: Bates-Diop FOR Okogie,Substitution,,0,0,0,0,,,h
+S2324-G0870,2,04:15,PHX,39.0,HOU,44.0,J. Okogie,PHX,Okogie Running Layup (2 PTS) (O'Neale 1 AST),Made Shot,Running Layup Shot,-1,1,0,1,2.0,2.0,h
+S2324-G0870,2,04:15,PHX,40.0,HOU,44.0,J. Okogie,PHX,Okogie Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G0870,2,03:28,PHX,,HOU,,J. Okogie,PHX,Okogie REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0870,2,03:07,PHX,,HOU,,J. Okogie,PHX,SUB: O'Neale FOR Okogie,Substitution,,0,0,0,0,,,h
+S2324-G0870,3,00:04.300000,PHX,,HOU,,J. Okogie,PHX,SUB: Allen FOR Okogie,Substitution,,0,0,0,0,,,h
+S2324-G0870,4,11:44,PHX,,HOU,,J. Okogie,PHX,Okogie STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0870,4,06:49,PHX,98.0,HOU,99.0,J. Okogie,PHX,Okogie 2' Running Layup (5 PTS) (Booker 5 AST),Made Shot,Running Layup Shot,-17,-11,2,1,2.0,2.0,h
+S2324-G0870,4,06:00,PHX,99.0,HOU,104.0,J. Okogie,PHX,Okogie Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0870,4,06:00,PHX,100.0,HOU,104.0,J. Okogie,PHX,Okogie Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0870,4,04:46,PHX,,HOU,,J. Okogie,PHX,SUB: O'Neale FOR Okogie,Substitution,,0,0,0,0,,,h
+S2324-G0870,4,02:26,PHX,,HOU,,J. Okogie,PHX,Okogie REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0870,4,02:23,PHX,,HOU,,J. Okogie,PHX,Okogie Step Out of Bounds Turnover (P1.T19),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2324-G0870,4,01:03,PHX,,HOU,,J. Okogie,PHX,Okogie Personal Take Foul (P1.PN) (J.Orr),Foul,Personal Take,0,0,0,0,,,h
+S2324-G0870,4,00:48.200000,PHX,,HOU,,J. Okogie,PHX,Okogie REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0870,4,00:03.200000,PHX,,HOU,,J. Okogie,PHX,MISS Okogie 28' 3PT Jump Shot,Missed Shot,Jump Shot,222,168,28,1,3.0,0.0,h
+S2324-G1125,4,03:40,PHX,,MIN,,J. Okogie,PHX,Okogie REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1125,4,01:14,PHX,,MIN,,J. Okogie,PHX,Okogie Out of Bounds - Bad Pass Turnover Turnover (P1.T18),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G0260,1,11:17,TOR,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0260,1,11:16,TOR,0.0,PHX,2.0,J. Okogie,PHX,Okogie 1' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,-4,6,1,1,2.0,2.0,v
+S2324-G0260,1,09:07,TOR,6.0,PHX,6.0,J. Okogie,PHX,Okogie Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0260,1,09:07,TOR,6.0,PHX,7.0,J. Okogie,PHX,Okogie Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0260,1,07:51,TOR,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0260,1,07:49,TOR,,PHX,,J. Okogie,PHX,MISS Okogie 2' Reverse Layup,Missed Shot,Reverse Layup Shot,-18,5,2,1,2.0,0.0,v
+S2324-G0260,1,06:20,TOR,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0260,1,06:11,TOR,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0260,1,05:45,TOR,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0260,1,05:07,TOR,,PHX,,J. Okogie,PHX,SUB: Watanabe FOR Okogie,Substitution,,0,0,0,0,,,v
+S2324-G0260,2,07:55,TOR,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0260,2,06:59,TOR,,PHX,,J. Okogie,PHX,MISS Okogie 1' Driving Dunk,Missed Shot,Driving Dunk Shot,2,11,1,1,2.0,0.0,v
+S2324-G0260,2,05:56,TOR,40.0,PHX,35.0,J. Okogie,PHX,Okogie Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0260,2,05:56,TOR,40.0,PHX,36.0,J. Okogie,PHX,Okogie Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0260,2,04:11,TOR,,PHX,,J. Okogie,PHX,SUB: Booker FOR Okogie,Substitution,,0,0,0,0,,,v
+S2324-G0260,3,09:26,TOR,,PHX,,J. Okogie,PHX,Okogie S.FOUL (P1.T2) (B.Kennedy),Foul,Shooting,0,0,0,0,,,v
+S2324-G0260,3,06:14,TOR,68.0,PHX,67.0,J. Okogie,PHX,Okogie 1' Running Dunk (8 PTS) (Durant 6 AST),Made Shot,Running Dunk Shot,2,-6,1,1,2.0,2.0,v
+S2324-G0260,3,05:49,TOR,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0260,3,03:59,TOR,,PHX,,J. Okogie,PHX,SUB: Booker FOR Okogie,Substitution,,0,0,0,0,,,v
+S2324-G0260,4,01:25,TOR,108.0,PHX,104.0,J. Okogie,PHX,Okogie Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0260,4,01:25,TOR,108.0,PHX,105.0,J. Okogie,PHX,Okogie Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0260,4,00:24.400000,TOR,,PHX,,J. Okogie,PHX,SUB: Goodwin FOR Okogie,Substitution,,0,0,0,0,,,v
+S2324-G1165,4,00:42.800000,LAC,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1165,4,00:06,LAC,,PHX,,J. Okogie,PHX,Okogie BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0774,1,00:46.600000,PHX,,SAC,,J. Okogie,PHX,Okogie Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0774,2,08:18,PHX,,SAC,,J. Okogie,PHX,Okogie REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0774,2,08:10,PHX,,SAC,,J. Okogie,PHX,SUB: Bol FOR Okogie,Substitution,,0,0,0,0,,,h
+S2324-G0774,2,05:26,PHX,48.0,SAC,58.0,J. Okogie,PHX,Okogie Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0774,2,05:26,PHX,49.0,SAC,58.0,J. Okogie,PHX,Okogie Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0774,2,03:31,PHX,,SAC,,J. Okogie,PHX,Okogie Bad Pass Turnover (P2.T7),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0774,2,03:04,PHX,,SAC,,J. Okogie,PHX,SUB: Durant FOR Okogie,Substitution,,0,0,0,0,,,h
+S2324-G0774,3,04:05,PHX,,SAC,,J. Okogie,PHX,Okogie STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0774,3,04:03,PHX,84.0,SAC,87.0,J. Okogie,PHX,Okogie Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0774,3,04:03,PHX,85.0,SAC,87.0,J. Okogie,PHX,Okogie Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0774,3,03:03,PHX,,SAC,,J. Okogie,PHX,MISS Okogie 2' Driving Layup,Missed Shot,Driving Layup Shot,21,4,2,1,2.0,0.0,h
+S2324-G0774,3,02:12,PHX,,SAC,,J. Okogie,PHX,Okogie REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0774,3,02:12,PHX,,SAC,,J. Okogie,PHX,MISS Okogie 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,0,11,1,1,2.0,0.0,h
+S2324-G0774,3,01:43,PHX,,SAC,,J. Okogie,PHX,MISS Okogie 3' Driving Layup,Missed Shot,Driving Layup Shot,-20,22,3,1,2.0,0.0,h
+S2324-G0774,3,00:54.100000,PHX,92.0,SAC,92.0,J. Okogie,PHX,Okogie 3PT Jump Shot (7 PTS) (O'Neale 3 AST),Made Shot,Jump Shot,232,16,0,1,3.0,3.0,h
+S2324-G0774,4,04:06,PHX,,SAC,,J. Okogie,PHX,SUB: Nurkic FOR Okogie,Substitution,,0,0,0,0,,,h
+S2324-G0774,4,00:18.100000,PHX,,SAC,,J. Okogie,PHX,SUB: Gordon FOR Okogie,Substitution,,0,0,0,0,,,h
+S2324-G0236,1,07:26,PHX,,GSW,,J. Okogie,PHX,Okogie REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0236,1,03:10,PHX,20.0,GSW,25.0,J. Okogie,PHX,Okogie Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0236,1,03:10,PHX,,GSW,,J. Okogie,PHX,MISS Okogie Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0236,1,02:30,PHX,,GSW,,J. Okogie,PHX,SUB: Allen FOR Okogie,Substitution,,0,0,0,0,,,h
+S2324-G0236,1,00:09.700000,PHX,,GSW,,J. Okogie,PHX,SUB: Durant FOR Okogie,Substitution,,0,0,0,0,,,h
+S2324-G0236,1,00:00.100000,PHX,,GSW,,J. Okogie,PHX,Okogie BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0236,2,05:15,PHX,44.0,GSW,42.0,J. Okogie,PHX,Okogie Running Layup (3 PTS) (Durant 2 AST),Made Shot,Running Layup Shot,0,1,0,1,2.0,2.0,h
+S2324-G0236,2,04:06,PHX,,GSW,,J. Okogie,PHX,Okogie STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0236,2,03:48,PHX,47.0,GSW,42.0,J. Okogie,PHX,Okogie Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0236,2,03:48,PHX,48.0,GSW,42.0,J. Okogie,PHX,Okogie Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0236,2,02:02,PHX,,GSW,,J. Okogie,PHX,MISS Okogie 3PT Jump Shot,Missed Shot,Jump Shot,-233,-4,0,1,3.0,0.0,h
+S2324-G0236,2,01:21,PHX,56.0,GSW,45.0,J. Okogie,PHX,Okogie 12' Pullup Jump Shot (7 PTS) (Little 3 AST),Made Shot,Pullup Jump shot,-77,89,12,1,2.0,2.0,h
+S2324-G0236,2,00:50.100000,PHX,58.0,GSW,47.0,J. Okogie,PHX,Okogie 4' Driving Floating Jump Shot (9 PTS),Made Shot,Driving Floating Jump Shot,17,35,4,1,2.0,2.0,h
+S2324-G0236,3,03:02,PHX,,GSW,,J. Okogie,PHX,SUB: Allen FOR Okogie,Substitution,,0,0,0,0,,,h
+S2324-G0236,4,11:38,PHX,,GSW,,J. Okogie,PHX,Okogie Lost Ball Turnover (P1.T8),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0236,4,10:39,PHX,,GSW,,J. Okogie,PHX,SUB: Gordon FOR Okogie,Substitution,,0,0,0,0,,,h
+S2324-G0236,4,07:30,PHX,105.0,GSW,87.0,J. Okogie,PHX,Okogie 24' 3PT Jump Shot (12 PTS) (Allen 2 AST),Made Shot,Jump Shot,229,59,24,1,3.0,3.0,h
+S2324-G0236,4,05:38,PHX,,GSW,,J. Okogie,PHX,Okogie REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0236,4,04:44,PHX,,GSW,,J. Okogie,PHX,Okogie S.FOUL (P1.T3) (K.Cutler),Foul,Shooting,0,0,0,0,,,h
+S2324-G0236,4,01:48,PHX,,GSW,,J. Okogie,PHX,SUB: Booker FOR Okogie,Substitution,,0,0,0,0,,,h
+S2324-G0308,1,10:59,PHX,,GSW,,J. Okogie,PHX,Okogie REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0308,1,10:59,PHX,,GSW,,J. Okogie,PHX,MISS Okogie Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0308,1,10:59,PHX,4.0,GSW,0.0,J. Okogie,PHX,Okogie Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0308,1,10:30,PHX,,GSW,,J. Okogie,PHX,Okogie BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0308,1,09:39,PHX,7.0,GSW,0.0,J. Okogie,PHX,Okogie 27' 3PT Pullup Jump Shot (4 PTS) (Booker 2 AST),Made Shot,Pullup Jump shot,124,240,27,1,3.0,3.0,h
+S2324-G0308,1,06:53,PHX,13.0,GSW,9.0,J. Okogie,PHX,Okogie 3PT Jump Shot (7 PTS) (Booker 3 AST),Made Shot,Jump Shot,-227,22,0,1,3.0,3.0,h
+S2324-G0308,1,06:28,PHX,,GSW,,J. Okogie,PHX,Okogie REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0308,1,06:21,PHX,,GSW,,J. Okogie,PHX,MISS Okogie 27' 3PT Jump Shot,Missed Shot,Jump Shot,164,210,27,1,3.0,0.0,h
+S2324-G0308,1,03:54,PHX,,GSW,,J. Okogie,PHX,SUB: Goodwin FOR Okogie,Substitution,,0,0,0,0,,,h
+S2324-G0308,2,05:59,PHX,,GSW,,J. Okogie,PHX,Okogie S.FOUL (P1.T4) (B.Forte),Foul,Shooting,0,0,0,0,,,h
+S2324-G0308,2,05:13,PHX,37.0,GSW,42.0,J. Okogie,PHX,Okogie 26' 3PT Jump Shot (10 PTS) (Nurkic 2 AST),Made Shot,Jump Shot,-201,169,26,1,3.0,3.0,h
+S2324-G0308,2,04:20,PHX,,GSW,,J. Okogie,PHX,SUB: Goodwin FOR Okogie,Substitution,,0,0,0,0,,,h
+S2324-G0076,1,10:33,LAL,,PHX,,J. Okogie,PHX,Okogie Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0076,1,09:50,LAL,7.0,PHX,3.0,J. Okogie,PHX,Okogie 3PT Jump Shot (3 PTS) (Allen 1 AST),Made Shot,Jump Shot,-228,54,0,1,3.0,3.0,v
+S2324-G0076,1,06:31,LAL,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0076,1,06:31,LAL,13.0,PHX,13.0,J. Okogie,PHX,Okogie Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0076,1,06:31,LAL,13.0,PHX,14.0,J. Okogie,PHX,Okogie Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0076,1,05:11,LAL,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0076,1,02:46,LAL,,PHX,,J. Okogie,PHX,SUB: Watanabe FOR Okogie,Substitution,,0,0,0,0,,,v
+S2324-G0076,2,03:19,LAL,40.0,PHX,45.0,J. Okogie,PHX,Okogie 27' 3PT Jump Shot (8 PTS) (Allen 3 AST),Made Shot,Jump Shot,145,233,27,1,3.0,3.0,v
+S2324-G0076,2,01:37,LAL,,PHX,,J. Okogie,PHX,MISS Okogie 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,25,24,1,3.0,0.0,v
+S2324-G0076,3,07:25,LAL,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0076,3,07:22,LAL,59.0,PHX,65.0,J. Okogie,PHX,Okogie 1' Putback Layup (10 PTS),Made Shot,Putback Layup Shot,5,5,1,1,2.0,2.0,v
+S2324-G0076,3,06:58,LAL,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0076,3,06:46,LAL,,PHX,,J. Okogie,PHX,MISS Okogie 3PT Jump Shot,Missed Shot,Jump Shot,-223,3,0,1,3.0,0.0,v
+S2324-G0076,3,04:43,LAL,,PHX,,J. Okogie,PHX,Okogie L.B.FOUL (P1.T2) (J.Van Duyne),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0076,3,03:58,LAL,,PHX,,J. Okogie,PHX,Okogie BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0076,3,03:27,LAL,,PHX,,J. Okogie,PHX,SUB: Eubanks FOR Okogie,Substitution,,0,0,0,0,,,v
+S2324-G0076,4,06:58,LAL,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0076,4,06:33,LAL,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0076,4,05:15,LAL,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0076,4,04:55,LAL,,PHX,,J. Okogie,PHX,Okogie P.FOUL (P2.T4) (J.Van Duyne),Foul,Personal,0,0,0,0,,,v
+S2324-G0076,4,04:42,LAL,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0076,4,02:19,LAL,,PHX,,J. Okogie,PHX,SUB: Goodwin FOR Okogie,Substitution,,0,0,0,0,,,v
+S2324-G0113,1,10:18,PHX,,SAS,,J. Okogie,PHX,Okogie REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0113,1,10:04,PHX,,SAS,,J. Okogie,PHX,MISS Okogie 1' Reverse Layup,Missed Shot,Reverse Layup Shot,7,12,1,1,2.0,0.0,h
+S2324-G0113,1,07:54,PHX,,SAS,,J. Okogie,PHX,MISS Okogie 3PT Jump Shot,Missed Shot,Jump Shot,222,58,0,1,3.0,0.0,h
+S2324-G0113,1,07:27,PHX,,SAS,,J. Okogie,PHX,MISS Okogie 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,26,16,3,1,2.0,0.0,h
+S2324-G0113,1,06:38,PHX,,SAS,,J. Okogie,PHX,MISS Okogie 25' 3PT Jump Shot,Missed Shot,Jump Shot,153,197,25,1,3.0,0.0,h
+S2324-G0113,1,05:15,PHX,,SAS,,J. Okogie,PHX,Okogie BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0113,1,05:04,PHX,16.0,SAS,7.0,J. Okogie,PHX,Okogie 24' 3PT Jump Shot (3 PTS) (Allen 2 AST),Made Shot,Jump Shot,-234,59,24,1,3.0,3.0,h
+S2324-G0113,1,03:56,PHX,,SAS,,J. Okogie,PHX,Okogie S.FOUL (P1.T3) (D.Guthrie),Foul,Shooting,0,0,0,0,,,h
+S2324-G0113,1,03:56,PHX,,SAS,,J. Okogie,PHX,SUB: Watanabe FOR Okogie,Substitution,,0,0,0,0,,,h
+S2324-G0113,2,03:32,PHX,,SAS,,J. Okogie,PHX,Okogie BLOCK (2 BLK),,,0,0,0,0,,,h
+S2324-G0113,2,02:09,PHX,,SAS,,J. Okogie,PHX,Okogie Out of Bounds - Bad Pass Turnover Turnover (P1.T9),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G0113,2,01:06,PHX,,SAS,,J. Okogie,PHX,MISS Okogie 3' Running Layup,Missed Shot,Running Layup Shot,13,32,3,1,2.0,0.0,h
+S2324-G0113,2,00:00.600000,PHX,,SAS,,J. Okogie,PHX,MISS Okogie Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0113,2,00:00.600000,PHX,63.0,SAS,45.0,J. Okogie,PHX,Okogie Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0113,3,11:46,PHX,64.0,SAS,45.0,J. Okogie,PHX,Okogie Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0113,3,11:46,PHX,65.0,SAS,45.0,J. Okogie,PHX,Okogie Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0113,3,09:16,PHX,69.0,SAS,50.0,J. Okogie,PHX,Okogie 2' Reverse Layup (8 PTS) (Gordon 4 AST),Made Shot,Reverse Layup Shot,-22,3,2,1,2.0,2.0,h
+S2324-G0113,3,09:16,PHX,70.0,SAS,50.0,J. Okogie,PHX,Okogie Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G0113,3,06:55,PHX,78.0,SAS,59.0,J. Okogie,PHX,Okogie 3' Driving Layup (11 PTS) (Allen 3 AST),Made Shot,Driving Layup Shot,-22,16,3,1,2.0,2.0,h
+S2324-G0113,3,06:23,PHX,,SAS,,J. Okogie,PHX,MISS Okogie 24' 3PT Jump Shot,Missed Shot,Jump Shot,234,50,24,1,3.0,0.0,h
+S2324-G0113,3,03:58,PHX,,SAS,,J. Okogie,PHX,SUB: Watanabe FOR Okogie,Substitution,,0,0,0,0,,,h
+S2324-G0113,4,08:42,PHX,,SAS,,J. Okogie,PHX,Okogie Out of Bounds - Bad Pass Turnover Turnover (P2.T17),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G0113,4,03:11,PHX,,SAS,,J. Okogie,PHX,MISS Okogie 3' Layup,Missed Shot,Layup Shot,-25,17,3,1,2.0,0.0,h
+S2324-G0113,4,03:09,PHX,,SAS,,J. Okogie,PHX,Okogie REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0113,4,00:01.200000,PHX,,SAS,,J. Okogie,PHX,SUB: Nurkic FOR Okogie,Substitution,,0,0,0,0,,,h
+S2324-G0806,2,11:28,HOU,,PHX,,J. Okogie,PHX,Okogie Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0806,2,07:18,HOU,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0806,2,07:13,HOU,,PHX,,J. Okogie,PHX,Okogie Out of Bounds - Bad Pass Turnover Turnover (P2.T8),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0806,2,07:00,HOU,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0806,2,06:17,HOU,,PHX,,J. Okogie,PHX,MISS Okogie 24' 3PT Jump Shot,Missed Shot,Jump Shot,240,6,24,1,3.0,0.0,v
+S2324-G0806,2,06:11,HOU,,PHX,,J. Okogie,PHX,SUB: O'Neale FOR Okogie,Substitution,,0,0,0,0,,,v
+S2324-G0806,4,09:58,HOU,,PHX,,J. Okogie,PHX,Okogie STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0806,4,07:17,HOU,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0806,4,07:13,HOU,,PHX,,J. Okogie,PHX,MISS Okogie 3' Layup,Missed Shot,Layup Shot,-4,29,3,1,2.0,0.0,v
+S2324-G0806,4,06:03,HOU,,PHX,,J. Okogie,PHX,SUB: Booker FOR Okogie,Substitution,,0,0,0,0,,,v
+S2324-G0806,4,00:17,HOU,,PHX,,J. Okogie,PHX,SUB: Gordon FOR Okogie,Substitution,,0,0,0,0,,,v
+S2324-G0806,4,00:10.800000,HOU,,PHX,,J. Okogie,PHX,SUB: Bol FOR Okogie,Substitution,,0,0,0,0,,,v
+S2324-G0739,1,01:35,PHX,,UTA,,J. Okogie,PHX,Okogie REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0739,1,01:34,PHX,38.0,UTA,24.0,J. Okogie,PHX,Okogie Putback Layup (2 PTS),Made Shot,Putback Layup Shot,4,-1,0,1,2.0,2.0,h
+S2324-G0739,2,05:00,PHX,,UTA,,J. Okogie,PHX,Okogie REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0739,2,05:00,PHX,,UTA,,J. Okogie,PHX,Okogie Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0739,2,04:46,PHX,62.0,UTA,46.0,J. Okogie,PHX,Okogie 4' Driving Layup (4 PTS) (Allen 7 AST),Made Shot,Driving Layup Shot,26,35,4,1,2.0,2.0,h
+S2324-G0739,2,04:25,PHX,,UTA,,J. Okogie,PHX,Okogie REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0739,2,04:21,PHX,,UTA,,J. Okogie,PHX,MISS Okogie 1' Driving Layup,Missed Shot,Driving Layup Shot,2,13,1,1,2.0,0.0,h
+S2324-G0739,2,02:25,PHX,,UTA,,J. Okogie,PHX,SUB: Beal FOR Okogie,Substitution,,0,0,0,0,,,h
+S2324-G0739,3,00:57.600000,PHX,,UTA,,J. Okogie,PHX,Okogie STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0739,3,00:43.100000,PHX,,UTA,,J. Okogie,PHX,MISS Okogie 24' 3PT Jump Shot,Missed Shot,Jump Shot,-238,22,24,1,3.0,0.0,h
+S2324-G0405,1,06:17,PHX,,DAL,,J. Okogie,PHX,MISS Okogie 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-185,6,19,1,2.0,0.0,h
+S2324-G0405,1,05:39,PHX,,DAL,,J. Okogie,PHX,Okogie STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0405,1,03:09,PHX,,DAL,,J. Okogie,PHX,MISS Okogie 25' 3PT Jump Shot,Missed Shot,Jump Shot,-213,138,25,1,3.0,0.0,h
+S2324-G0405,1,01:41,PHX,,DAL,,J. Okogie,PHX,MISS Okogie Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0405,1,01:41,PHX,20.0,DAL,31.0,J. Okogie,PHX,Okogie Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0405,1,01:25,PHX,,DAL,,J. Okogie,PHX,Okogie REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0405,1,01:08,PHX,,DAL,,J. Okogie,PHX,Okogie P.FOUL (P1.PN) (N.Sago),Foul,Personal,0,0,0,0,,,h
+S2324-G0405,1,00:58.100000,PHX,,DAL,,J. Okogie,PHX,MISS Okogie 24' 3PT Jump Shot,Missed Shot,Jump Shot,-234,25,24,1,3.0,0.0,h
+S2324-G0405,1,00:00,PHX,,DAL,,J. Okogie,PHX,MISS Okogie 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-162,204,26,1,3.0,0.0,h
+S2324-G0405,2,06:01,PHX,,DAL,,J. Okogie,PHX,SUB: Metu FOR Okogie,Substitution,,0,0,0,0,,,h
+S2324-G0405,3,02:59,PHX,,DAL,,J. Okogie,PHX,SUB: Goodwin FOR Okogie,Substitution,,0,0,0,0,,,h
+S2324-G0405,4,08:46,PHX,,DAL,,J. Okogie,PHX,Okogie S.FOUL (P2.T2) (J.Capers),Foul,Shooting,0,0,0,0,,,h
+S2324-G0405,4,07:49,PHX,,DAL,,J. Okogie,PHX,SUB: Allen FOR Okogie,Substitution,,0,0,0,0,,,h
+S2324-G0405,4,00:18,PHX,,DAL,,J. Okogie,PHX,MISS Okogie 4' Driving Layup,Missed Shot,Driving Layup Shot,40,15,4,1,2.0,0.0,h
+S2324-G0405,4,00:16.300000,PHX,,DAL,,J. Okogie,PHX,Okogie REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0690,2,09:19,ATL,,PHX,,J. Okogie,PHX,Okogie BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0690,2,07:20,ATL,45.0,PHX,43.0,J. Okogie,PHX,Okogie 3PT Jump Shot (3 PTS) (Gordon 1 AST),Made Shot,Jump Shot,-227,30,0,1,3.0,3.0,v
+S2324-G0690,2,05:44,ATL,,PHX,,J. Okogie,PHX,MISS Okogie 4' Layup,Missed Shot,Layup Shot,-34,22,4,1,2.0,0.0,v
+S2324-G0690,2,04:59,ATL,,PHX,,J. Okogie,PHX,MISS Okogie 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,22,74,8,1,2.0,0.0,v
+S2324-G0690,2,03:40,ATL,,PHX,,J. Okogie,PHX,SUB: Beal FOR Okogie,Substitution,,0,0,0,0,,,v
+S2324-G0690,4,06:51,ATL,,PHX,,J. Okogie,PHX,SUB: Beal FOR Okogie,Substitution,,0,0,0,0,,,v
+S2324-G0604,1,04:21,PHX,,IND,,J. Okogie,PHX,MISS Okogie 3PT Jump Shot,Missed Shot,Jump Shot,-229,25,0,1,3.0,0.0,h
+S2324-G0604,1,03:30,PHX,,IND,,J. Okogie,PHX,Okogie STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0604,1,02:47,PHX,,IND,,J. Okogie,PHX,SUB: Allen FOR Okogie,Substitution,,0,0,0,0,,,h
+S2324-G0604,2,08:42,PHX,,IND,,J. Okogie,PHX,Okogie REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0604,2,05:02,PHX,,IND,,J. Okogie,PHX,SUB: Bates-Diop FOR Okogie,Substitution,,0,0,0,0,,,h
+S2324-G0604,4,09:02,PHX,,IND,,J. Okogie,PHX,Okogie REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0604,4,06:46,PHX,,IND,,J. Okogie,PHX,SUB: Nurkic FOR Okogie,Substitution,,0,0,0,0,,,h
+S2324-G0612,1,05:19,PHX,,,,J. Okogie,PHX,Okogie P.FOUL (P1.T1) (M.Davis),Foul,Personal,0,0,0,0,,,h
+S2324-G0612,1,04:25,PHX,,,,J. Okogie,PHX,MISS Okogie 3PT Jump Shot,Missed Shot,Jump Shot,-225,26,0,1,3.0,0.0,h
+S2324-G0612,2,04:54,PHX,,,,J. Okogie,PHX,MISS Okogie 3PT Jump Shot,Missed Shot,Jump Shot,-232,4,0,1,3.0,0.0,h
+S2324-G0612,2,04:39,PHX,,,,J. Okogie,PHX,Okogie REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0612,2,04:27,PHX,38.0,,51.0,J. Okogie,PHX,Okogie 2' Cutting Layup Shot (2 PTS) (Durant 4 AST),Made Shot,Cutting Layup Shot,23,3,2,1,2.0,2.0,h
+S2324-G0612,2,03:40,PHX,,,,J. Okogie,PHX,Okogie REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0612,2,03:22,PHX,,,,J. Okogie,PHX,MISS Okogie Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0612,2,03:22,PHX,41.0,,55.0,J. Okogie,PHX,Okogie Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0612,2,02:25,PHX,,,,J. Okogie,PHX,SUB: Allen FOR Okogie,Substitution,,0,0,0,0,,,h
+S2324-G0612,4,11:06,PHX,,,,J. Okogie,PHX,Okogie REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0612,4,11:06,PHX,86.0,,92.0,J. Okogie,PHX,Okogie Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0612,4,11:06,PHX,,,,J. Okogie,PHX,MISS Okogie Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0612,4,08:21,PHX,,,,J. Okogie,PHX,Okogie STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0612,4,07:25,PHX,,,,J. Okogie,PHX,SUB: Booker FOR Okogie,Substitution,,0,0,0,0,,,h
+S2324-G0757,2,06:48,GSW,47.0,PHX,43.0,J. Okogie,PHX,Okogie 3PT Jump Shot (3 PTS) (Booker 2 AST),Made Shot,Jump Shot,-225,15,0,1,3.0,3.0,v
+S2324-G0757,2,06:20,GSW,47.0,PHX,45.0,J. Okogie,PHX,Okogie 6' Fadeaway Bank Shot (5 PTS),Made Shot,Fadeaway Bank shot,58,17,6,1,2.0,2.0,v
+S2324-G0757,2,05:52,GSW,,PHX,,J. Okogie,PHX,Okogie STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0757,2,05:46,GSW,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0757,2,04:01,GSW,47.0,PHX,51.0,J. Okogie,PHX,Okogie 24' 3PT Jump Shot (8 PTS) (Nurkic 3 AST),Made Shot,Jump Shot,243,9,24,1,3.0,3.0,v
+S2324-G0757,2,02:32,GSW,,PHX,,J. Okogie,PHX,Okogie BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0757,2,00:13.600000,GSW,,PHX,,J. Okogie,PHX,SUB: Allen FOR Okogie,Substitution,,0,0,0,0,,,v
+S2324-G0757,4,05:23,GSW,,PHX,,J. Okogie,PHX,SUB: Beal FOR Okogie,Substitution,,0,0,0,0,,,v
+S2324-G0131,1,10:41,PHX,,SAS,,J. Okogie,PHX,Okogie REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0131,1,10:28,PHX,,SAS,,J. Okogie,PHX,Okogie STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0131,1,09:07,PHX,,SAS,,J. Okogie,PHX,MISS Okogie 3PT Jump Shot,Missed Shot,Jump Shot,-234,12,0,1,3.0,0.0,h
+S2324-G0131,1,04:26,PHX,,SAS,,J. Okogie,PHX,Okogie STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0131,1,04:23,PHX,,SAS,,J. Okogie,PHX,MISS Okogie 3' Running Layup,Missed Shot,Running Layup Shot,5,33,3,1,2.0,0.0,h
+S2324-G0131,1,04:23,PHX,,SAS,,J. Okogie,PHX,SUB: Watanabe FOR Okogie,Substitution,,0,0,0,0,,,h
+S2324-G0473,2,08:00,PHX,,LAC,,J. Okogie,PHX,Okogie REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0473,2,04:09,PHX,42.0,LAC,54.0,J. Okogie,PHX,Okogie 3PT Jump Shot (3 PTS) (Allen 1 AST),Made Shot,Jump Shot,232,16,0,1,3.0,3.0,h
+S2324-G0473,2,03:43,PHX,,LAC,,J. Okogie,PHX,Okogie S.FOUL (P1.T3) (D.Guthrie),Foul,Shooting,0,0,0,0,,,h
+S2324-G0473,2,03:43,PHX,,LAC,,J. Okogie,PHX,SUB: Gordon FOR Okogie,Substitution,,0,0,0,0,,,h
+S2324-G0473,4,11:23,PHX,,LAC,,J. Okogie,PHX,MISS Okogie 3PT Jump Shot,Missed Shot,Jump Shot,-232,28,0,1,3.0,0.0,h
+S2324-G0473,4,10:45,PHX,93.0,LAC,109.0,J. Okogie,PHX,Okogie Cutting Dunk Shot (5 PTS) (Bates-Diop 3 AST),Made Shot,Cutting Dunk Shot,-1,0,0,1,2.0,2.0,h
+S2324-G0473,4,08:26,PHX,,LAC,,J. Okogie,PHX,Okogie REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0473,4,07:19,PHX,,LAC,,J. Okogie,PHX,Okogie BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0473,4,05:41,PHX,,LAC,,J. Okogie,PHX,Okogie Offensive Charge Foul (P2) (D.Guthrie),Foul,Offensive Charge,0,0,0,0,,,h
+S2324-G0473,4,05:41,PHX,,LAC,,J. Okogie,PHX,Okogie Offensive Foul Turnover (P1.T14),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0473,4,04:32,PHX,,LAC,,J. Okogie,PHX,SUB: Allen FOR Okogie,Substitution,,0,0,0,0,,,h
+S2324-G0035,1,05:12,UTA,16.0,PHX,29.0,J. Okogie,PHX,Okogie Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0035,1,05:12,UTA,,PHX,,J. Okogie,PHX,MISS Okogie Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0035,1,00:43.700000,UTA,,PHX,,J. Okogie,PHX,MISS Okogie 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,97,15,10,1,2.0,0.0,v
+S2324-G0035,1,00:09.700000,UTA,,PHX,,J. Okogie,PHX,Okogie P.FOUL (P1.PN) (M.Smith),Foul,Personal,0,0,0,0,,,v
+S2324-G0035,1,00:09.700000,UTA,,PHX,,J. Okogie,PHX,SUB: Watanabe FOR Okogie,Substitution,,0,0,0,0,,,v
+S2324-G0035,2,02:54,UTA,,PHX,,J. Okogie,PHX,SUB: Eubanks FOR Okogie,Substitution,,0,0,0,0,,,v
+S2324-G0035,3,04:47,UTA,,PHX,,J. Okogie,PHX,Okogie P.FOUL (P2.T3) (B.Kennedy),Foul,Personal,0,0,0,0,,,v
+S2324-G0035,3,03:19,UTA,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0035,3,03:18,UTA,,PHX,,J. Okogie,PHX,Okogie Step Out of Bounds Turnover (P1.T7),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2324-G0035,3,03:16,UTA,,PHX,,J. Okogie,PHX,SUB: Booker FOR Okogie,Substitution,,0,0,0,0,,,v
+S2324-G0035,4,00:03.200000,UTA,,PHX,,J. Okogie,PHX,SUB: Watanabe FOR Okogie,Substitution,,0,0,0,0,,,v
+S2324-G0062,1,03:07,GSW,,PHX,,J. Okogie,PHX,SUB: Allen FOR Okogie,Substitution,,0,0,0,0,,,v
+S2324-G0062,2,04:40,GSW,38.0,PHX,43.0,J. Okogie,PHX,Okogie 4' Cutting Layup Shot (2 PTS) (Nurkic 2 AST),Made Shot,Cutting Layup Shot,40,9,4,1,2.0,2.0,v
+S2324-G0062,2,02:07,GSW,40.0,PHX,51.0,J. Okogie,PHX,Okogie 4' Cutting Layup Shot (4 PTS) (Booker 3 AST),Made Shot,Cutting Layup Shot,11,40,4,1,2.0,2.0,v
+S2324-G0062,2,02:07,GSW,40.0,PHX,52.0,J. Okogie,PHX,Okogie Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G0062,2,01:32,GSW,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0062,2,01:32,GSW,,PHX,,J. Okogie,PHX,MISS Okogie Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2324-G0062,2,00:44.400000,GSW,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0062,2,00:44,GSW,46.0,PHX,56.0,J. Okogie,PHX,Okogie 6' Putback Layup (7 PTS),Made Shot,Putback Layup Shot,55,31,6,1,2.0,2.0,v
+S2324-G0062,2,00:44,GSW,46.0,PHX,57.0,J. Okogie,PHX,Okogie Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G0062,3,07:54,GSW,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0062,3,07:54,GSW,,PHX,,J. Okogie,PHX,Okogie Lost Ball Turnover (P1.T12),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0062,3,07:21,GSW,,PHX,,J. Okogie,PHX,Okogie STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0062,3,05:46,GSW,,PHX,,J. Okogie,PHX,Okogie S.FOUL (P1.PN) (J.Butler),Foul,Shooting,0,0,0,0,,,v
+S2324-G0062,3,05:03,GSW,,PHX,,J. Okogie,PHX,Okogie P.FOUL (P2.PN) (K.Lane),Foul,Personal,0,0,0,0,,,v
+S2324-G0062,3,04:37,GSW,73.0,PHX,68.0,J. Okogie,PHX,Okogie 4' Layup (10 PTS) (Nurkic 3 AST),Made Shot,Layup Shot,32,29,4,1,2.0,2.0,v
+S2324-G0062,3,02:53,GSW,,PHX,,J. Okogie,PHX,SUB: Little FOR Okogie,Substitution,,0,0,0,0,,,v
+S2324-G0062,3,01:02,GSW,82.0,PHX,78.0,J. Okogie,PHX,Okogie 5' Running Layup (12 PTS),Made Shot,Running Layup Shot,43,34,5,1,2.0,2.0,v
+S2324-G0062,3,00:32.100000,GSW,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:4 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0062,3,00:32.100000,GSW,84.0,PHX,80.0,J. Okogie,PHX,Okogie Tip Dunk Shot (14 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,v
+S2324-G0062,3,00:05.400000,GSW,,PHX,,J. Okogie,PHX,MISS Okogie 7' Driving Layup,Missed Shot,Driving Layup Shot,37,62,7,1,2.0,0.0,v
+S2324-G0062,4,01:45,GSW,,PHX,,J. Okogie,PHX,Okogie Bad Pass Turnover (P2.T19),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0062,4,01:09,GSW,99.0,PHX,103.0,J. Okogie,PHX,Okogie 3PT Jump Shot (17 PTS) (Booker 6 AST),Made Shot,Jump Shot,-230,36,0,1,3.0,3.0,v
+S2324-G0062,4,00:02.900000,GSW,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:4 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0625,1,04:07,DAL,,PHX,,J. Okogie,PHX,Okogie P.FOUL (P1.T2) (D.Guthrie),Foul,Personal,0,0,0,0,,,v
+S2324-G0625,1,03:45,DAL,,PHX,,J. Okogie,PHX,MISS Okogie 24' 3PT Jump Shot,Missed Shot,Jump Shot,180,158,24,1,3.0,0.0,v
+S2324-G0625,1,01:32,DAL,,PHX,,J. Okogie,PHX,MISS Okogie 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,12,5,1,1,2.0,0.0,v
+S2324-G0625,2,05:37,DAL,51.0,PHX,40.0,J. Okogie,PHX,Okogie 3PT Jump Shot (3 PTS) (Booker 3 AST),Made Shot,Jump Shot,229,15,0,1,3.0,3.0,v
+S2324-G0625,2,04:20,DAL,54.0,PHX,44.0,J. Okogie,PHX,Okogie 1' Running Dunk (5 PTS) (Bates-Diop 1 AST),Made Shot,Running Dunk Shot,-6,9,1,1,2.0,2.0,v
+S2324-G0625,2,04:20,DAL,54.0,PHX,45.0,J. Okogie,PHX,Okogie Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G0625,2,03:59,DAL,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0625,2,02:29,DAL,,PHX,,J. Okogie,PHX,MISS Okogie 1' Layup,Missed Shot,Layup Shot,5,13,1,1,2.0,0.0,v
+S2324-G0625,2,02:00,DAL,,PHX,,J. Okogie,PHX,Okogie BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0625,2,00:00.600000,DAL,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0625,2,00:00.300000,DAL,,PHX,,J. Okogie,PHX,Okogie Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0625,3,02:38,DAL,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0625,3,02:28,DAL,,PHX,,J. Okogie,PHX,Okogie Offensive Charge Foul (P2) (D.Guthrie),Foul,Offensive Charge,0,0,0,0,,,v
+S2324-G0625,3,02:28,DAL,,PHX,,J. Okogie,PHX,Okogie Offensive Foul Turnover (P2.T12),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0625,3,00:12.400000,DAL,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0625,3,00:12.400000,DAL,,PHX,,J. Okogie,PHX,MISS Okogie 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,-1,10,1,1,2.0,0.0,v
+S2324-G0625,4,11:17,DAL,,PHX,,J. Okogie,PHX,Okogie STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0625,4,09:59,DAL,,PHX,,J. Okogie,PHX,MISS Okogie 3PT Jump Shot,Missed Shot,Jump Shot,227,-5,0,1,3.0,0.0,v
+S2324-G0625,4,09:48,DAL,,PHX,,J. Okogie,PHX,Okogie STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0625,4,03:57,DAL,,PHX,,J. Okogie,PHX,SUB: Little FOR Okogie,Substitution,,0,0,0,0,,,v
+S2324-G0214,1,05:44,UTA,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0214,1,05:10,UTA,13.0,PHX,24.0,J. Okogie,PHX,Okogie 3PT Jump Shot (3 PTS) (Little 1 AST),Made Shot,Jump Shot,-222,-12,0,1,3.0,3.0,v
+S2324-G0214,1,02:09,UTA,,PHX,,J. Okogie,PHX,MISS Okogie 25' 3PT Jump Shot,Missed Shot,Jump Shot,230,92,25,1,3.0,0.0,v
+S2324-G0214,1,01:18,UTA,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0214,1,01:15,UTA,,PHX,,J. Okogie,PHX,Okogie Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0214,3,05:35,UTA,,PHX,,J. Okogie,PHX,Okogie STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0214,3,05:23,UTA,,PHX,,J. Okogie,PHX,Okogie STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0214,3,03:18,UTA,,PHX,,J. Okogie,PHX,Okogie STEAL (3 STL),,,0,0,0,0,,,v
+S2324-G0214,3,00:57.100000,UTA,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0214,5,00:09.100000,UTA,,PHX,,J. Okogie,PHX,Okogie P.FOUL (P1.PN) (A.Moyer-Gleich),Foul,Personal,0,0,0,0,,,v
+S2324-G0214,5,00:09.100000,UTA,,PHX,,J. Okogie,PHX,SUB: Booker FOR Okogie,Substitution,,0,0,0,0,,,v
+S2324-G0185,1,10:40,PHX,,OKC,,J. Okogie,PHX,Okogie REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0185,1,10:34,PHX,,OKC,,J. Okogie,PHX,MISS Okogie 3PT Jump Shot,Missed Shot,Jump Shot,233,-24,0,1,3.0,0.0,h
+S2324-G0185,1,08:57,PHX,,OKC,,J. Okogie,PHX,Okogie BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0185,1,08:54,PHX,,OKC,,J. Okogie,PHX,Okogie REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0185,1,08:52,PHX,,OKC,,J. Okogie,PHX,Okogie Out of Bounds - Bad Pass Turnover Turnover (P1.T2),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G0185,1,08:45,PHX,,OKC,,J. Okogie,PHX,Okogie P.FOUL (P1.T3) (R.Mott),Foul,Personal,0,0,0,0,,,h
+S2324-G0185,1,06:37,PHX,10.0,OKC,16.0,J. Okogie,PHX,Okogie Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0185,1,06:37,PHX,11.0,OKC,16.0,J. Okogie,PHX,Okogie Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0185,1,06:10,PHX,12.0,OKC,19.0,J. Okogie,PHX,Okogie Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0185,1,06:10,PHX,13.0,OKC,19.0,J. Okogie,PHX,Okogie Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0185,1,03:55,PHX,,OKC,,J. Okogie,PHX,MISS Okogie 3PT Jump Shot,Missed Shot,Jump Shot,225,-3,0,1,3.0,0.0,h
+S2324-G0185,1,03:53,PHX,,OKC,,J. Okogie,PHX,SUB: Bates-Diop FOR Okogie,Substitution,,0,0,0,0,,,h
+S2324-G0185,2,03:58,PHX,48.0,OKC,48.0,J. Okogie,PHX,Okogie Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0185,2,03:58,PHX,49.0,OKC,48.0,J. Okogie,PHX,Okogie Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0185,2,00:04.200000,PHX,58.0,OKC,54.0,J. Okogie,PHX,Okogie Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0185,2,00:04.200000,PHX,59.0,OKC,54.0,J. Okogie,PHX,Okogie Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0185,3,05:12,PHX,,OKC,,J. Okogie,PHX,MISS Okogie 2' Driving Layup,Missed Shot,Driving Layup Shot,5,15,2,1,2.0,0.0,h
+S2324-G0185,3,05:12,PHX,,OKC,,J. Okogie,PHX,SUB: Bates-Diop FOR Okogie,Substitution,,0,0,0,0,,,h
+S2324-G0185,4,03:26,PHX,,OKC,,J. Okogie,PHX,SUB: Bates-Diop FOR Okogie,Substitution,,0,0,0,0,,,h
+S2324-G0279,1,01:34,PHX,,DEN,,J. Okogie,PHX,Okogie REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0279,1,01:23,PHX,30.0,DEN,37.0,J. Okogie,PHX,Okogie 26' 3PT Jump Shot (3 PTS) (Gordon 1 AST),Made Shot,Jump Shot,-137,225,26,1,3.0,3.0,h
+S2324-G0279,1,00:54.600000,PHX,,DEN,,J. Okogie,PHX,MISS Okogie 3PT Jump Shot,Missed Shot,Jump Shot,232,7,0,1,3.0,0.0,h
+S2324-G0279,2,10:58,PHX,,DEN,,J. Okogie,PHX,Okogie REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0279,2,10:58,PHX,34.0,DEN,44.0,J. Okogie,PHX,Okogie Tip Layup Shot (5 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2324-G0279,2,10:15,PHX,,DEN,,J. Okogie,PHX,Okogie STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0279,2,08:45,PHX,,DEN,,J. Okogie,PHX,Okogie Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G0279,2,08:34,PHX,,DEN,,J. Okogie,PHX,Okogie P.FOUL (P1.T1) (M.Davis),Foul,Personal,0,0,0,0,,,h
+S2324-G0279,2,08:12,PHX,39.0,DEN,49.0,J. Okogie,PHX,Okogie 6' Driving Floating Bank Jump Shot (7 PTS) (Eubanks 1 AST),Made Shot,Driving Floating Bank Jump Shot,49,31,6,1,2.0,2.0,h
+S2324-G0279,2,07:31,PHX,,DEN,,J. Okogie,PHX,SUB: Durant FOR Okogie,Substitution,,0,0,0,0,,,h
+S2324-G0279,2,01:35,PHX,,DEN,,J. Okogie,PHX,Okogie Bad Pass Turnover (P2.T5),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0279,3,02:11,PHX,,DEN,,J. Okogie,PHX,Okogie BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0279,3,00:27.300000,PHX,90.0,DEN,93.0,J. Okogie,PHX,Okogie Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0279,3,00:27.300000,PHX,91.0,DEN,93.0,J. Okogie,PHX,Okogie Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0279,3,00:06.900000,PHX,,DEN,,J. Okogie,PHX,Okogie P.FOUL (P2.PN) (M.Davis),Foul,Personal,0,0,0,0,,,h
+S2324-G0279,3,00:06.900000,PHX,,DEN,,J. Okogie,PHX,SUB: Allen FOR Okogie,Substitution,,0,0,0,0,,,h
+S2324-G0279,4,11:42,PHX,,DEN,,J. Okogie,PHX,Okogie BLOCK (2 BLK),,,0,0,0,0,,,h
+S2324-G0279,4,09:01,PHX,,DEN,,J. Okogie,PHX,MISS Okogie 27' 3PT Jump Shot,Missed Shot,Jump Shot,-189,190,27,1,3.0,0.0,h
+S2324-G0279,4,07:59,PHX,,DEN,,J. Okogie,PHX,Okogie REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0279,4,07:59,PHX,98.0,DEN,98.0,J. Okogie,PHX,Okogie Tip Dunk Shot (11 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,h
+S2324-G0279,4,06:51,PHX,100.0,DEN,100.0,J. Okogie,PHX,Okogie 2' Driving Finger Roll Layup (13 PTS) (Durant 10 AST),Made Shot,Driving Finger Roll Layup Shot,-9,21,2,1,2.0,2.0,h
+S2324-G0279,4,06:38,PHX,,DEN,,J. Okogie,PHX,Okogie S.FOUL (P3.T2) (M.Davis),Foul,Shooting,0,0,0,0,,,h
+S2324-G0279,4,00:53,PHX,,DEN,,J. Okogie,PHX,Okogie REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0279,4,00:20.700000,PHX,,DEN,,J. Okogie,PHX,MISS Okogie 24' 3PT Jump Shot,Missed Shot,Jump Shot,234,24,24,1,3.0,0.0,h
+S2324-G0279,4,00:00,PHX,,DEN,,J. Okogie,PHX,MISS Okogie 28' 3PT Jump Shot,Missed Shot,Jump Shot,18,278,28,1,3.0,0.0,h
+S2324-G0015,1,03:27,PHX,,LAL,,J. Okogie,PHX,Okogie REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0015,1,01:53,PHX,,LAL,,J. Okogie,PHX,Okogie REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0015,2,11:44,PHX,,LAL,,J. Okogie,PHX,Okogie REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0015,2,10:39,PHX,,LAL,,J. Okogie,PHX,MISS Okogie 27' 3PT Jump Shot,Missed Shot,Jump Shot,130,238,27,1,3.0,0.0,h
+S2324-G0015,2,08:39,PHX,,LAL,,J. Okogie,PHX,MISS Okogie 27' 3PT Jump Shot,Missed Shot,Jump Shot,-157,220,27,1,3.0,0.0,h
+S2324-G0015,2,07:53,PHX,,LAL,,J. Okogie,PHX,Okogie REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0015,2,06:44,PHX,,LAL,,J. Okogie,PHX,SUB: Durant FOR Okogie,Substitution,,0,0,0,0,,,h
+S2324-G0015,3,03:07,PHX,,LAL,,J. Okogie,PHX,MISS Okogie 26' 3PT Jump Shot,Missed Shot,Jump Shot,213,150,26,1,3.0,0.0,h
+S2324-G0015,3,02:21,PHX,,LAL,,J. Okogie,PHX,Okogie REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0015,3,01:06,PHX,,LAL,,J. Okogie,PHX,MISS Okogie 3PT Jump Shot,Missed Shot,Jump Shot,232,34,0,1,3.0,0.0,h
+S2324-G0015,3,00:36.300000,PHX,,LAL,,J. Okogie,PHX,Okogie REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0015,3,00:36.300000,PHX,93.0,LAL,85.0,J. Okogie,PHX,Okogie Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0015,3,00:36.300000,PHX,94.0,LAL,85.0,J. Okogie,PHX,Okogie Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0015,3,00:28.600000,PHX,,LAL,,J. Okogie,PHX,SUB: Watanabe FOR Okogie,Substitution,,0,0,0,0,,,h
+S2324-G1203,1,03:43,LAL,,PHX,,J. Okogie,PHX,MISS Okogie 3PT Jump Shot,Missed Shot,Jump Shot,222,31,0,1,3.0,0.0,v
+S2324-G1203,1,02:53,LAL,,PHX,,J. Okogie,PHX,Okogie STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G1203,1,02:23,LAL,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1203,4,00:06.600000,LAL,,PHX,,J. Okogie,PHX,SUB: Durant FOR Okogie,Substitution,,0,0,0,0,,,v
+S2324-G1025,4,09:30,SAS,,PHX,,J. Okogie,PHX,Okogie L.B.FOUL (P1.T1) (K.Cutler),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G1025,4,08:29,SAS,,PHX,,J. Okogie,PHX,Okogie Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G1025,4,04:14,SAS,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1025,4,04:14,SAS,,PHX,,J. Okogie,PHX,MISS Okogie Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2324-G1025,4,02:34,SAS,,PHX,,J. Okogie,PHX,MISS Okogie 8' Pullup Jump Shot,Missed Shot,Pullup Jump shot,71,32,8,1,2.0,0.0,v
+S2324-G0531,2,08:34,LAL,34.0,PHX,44.0,J. Okogie,PHX,Okogie 4' Reverse Layup (2 PTS) (Beal 4 AST),Made Shot,Reverse Layup Shot,-32,17,4,1,2.0,2.0,v
+S2324-G0531,2,08:34,LAL,,PHX,,J. Okogie,PHX,MISS Okogie Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2324-G0531,2,07:49,LAL,,PHX,,J. Okogie,PHX,MISS Okogie 3PT Jump Shot,Missed Shot,Jump Shot,228,29,0,1,3.0,0.0,v
+S2324-G0531,2,07:44,LAL,,PHX,,J. Okogie,PHX,Okogie STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0531,2,07:44,LAL,36.0,PHX,49.0,J. Okogie,PHX,Okogie 3' Driving Dunk (4 PTS),Made Shot,Driving Dunk Shot,6,25,3,1,2.0,2.0,v
+S2324-G0531,2,07:44,LAL,36.0,PHX,50.0,J. Okogie,PHX,Okogie Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G0531,2,07:13,LAL,,PHX,,J. Okogie,PHX,Okogie S.FOUL (P1.T2) (T.Brothers),Foul,Shooting,0,0,0,0,,,v
+S2324-G0531,2,06:17,LAL,,PHX,,J. Okogie,PHX,MISS Okogie 29' 3PT Jump Shot,Missed Shot,Jump Shot,-189,216,29,1,3.0,0.0,v
+S2324-G0531,2,05:02,LAL,,PHX,,J. Okogie,PHX,SUB: Gordon FOR Okogie,Substitution,,0,0,0,0,,,v
+S2324-G0531,4,07:24,LAL,,PHX,,J. Okogie,PHX,SUB: Allen FOR Okogie,Substitution,,0,0,0,0,,,v
+S2324-G0511,2,10:52,LAC,,PHX,,J. Okogie,PHX,MISS Okogie 3PT Jump Shot,Missed Shot,Jump Shot,-227,31,0,1,3.0,0.0,v
+S2324-G0511,2,08:54,LAC,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0511,2,08:54,LAC,40.0,PHX,40.0,J. Okogie,PHX,Okogie Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2324-G0511,2,08:19,LAC,,PHX,,J. Okogie,PHX,Okogie STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0511,2,08:05,LAC,,PHX,,J. Okogie,PHX,Okogie P.FOUL (P1.T2) (Z.Zarba),Foul,Personal,0,0,0,0,,,v
+S2324-G0511,2,03:27,LAC,,PHX,,J. Okogie,PHX,Okogie STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0511,2,03:20,LAC,,PHX,,J. Okogie,PHX,SUB: Beal FOR Okogie,Substitution,,0,0,0,0,,,v
+S2324-G0511,3,02:41,LAC,91.0,PHX,79.0,J. Okogie,PHX,Okogie 1' Dunk (4 PTS) (Booker 2 AST),Made Shot,Dunk Shot,-5,10,1,1,2.0,2.0,v
+S2324-G0511,3,00:24.200000,LAC,,PHX,,J. Okogie,PHX,SUB: Durant FOR Okogie,Substitution,,0,0,0,0,,,v
+S2324-G0511,4,09:37,LAC,,PHX,,J. Okogie,PHX,Okogie P.FOUL (P2.T1) (Z.Zarba),Foul,Personal,0,0,0,0,,,v
+S2324-G0511,4,07:03,LAC,,PHX,,J. Okogie,PHX,Okogie STEAL (3 STL),,,0,0,0,0,,,v
+S2324-G0511,4,07:01,LAC,,PHX,,J. Okogie,PHX,SUB: Gordon FOR Okogie,Substitution,,0,0,0,0,,,v
+S2324-G0854,2,09:53,PHX,,HOU,,J. Okogie,PHX,Okogie STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0854,2,08:37,PHX,,HOU,,J. Okogie,PHX,MISS Okogie 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,43,26,5,1,2.0,0.0,h
+S2324-G0854,2,08:36,PHX,,HOU,,J. Okogie,PHX,Okogie REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0854,2,07:49,PHX,45.0,HOU,28.0,J. Okogie,PHX,Okogie 25' 3PT Jump Shot (3 PTS) (O'Neale 3 AST),Made Shot,Jump Shot,-228,92,25,1,3.0,3.0,h
+S2324-G0854,2,07:21,PHX,,HOU,,J. Okogie,PHX,MISS Okogie 24' 3PT Jump Shot,Missed Shot,Jump Shot,-237,-21,24,1,3.0,0.0,h
+S2324-G0854,2,05:34,PHX,,HOU,,J. Okogie,PHX,SUB: Bol FOR Okogie,Substitution,,0,0,0,0,,,h
+S2324-G0854,4,10:35,PHX,,HOU,,J. Okogie,PHX,MISS Okogie 1' Driving Layup,Missed Shot,Driving Layup Shot,-1,11,1,1,2.0,0.0,h
+S2324-G0854,4,08:13,PHX,,HOU,,J. Okogie,PHX,Okogie REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0854,4,08:01,PHX,,HOU,,J. Okogie,PHX,SUB: Booker FOR Okogie,Substitution,,0,0,0,0,,,h
+S2324-G0854,4,02:22,PHX,,HOU,,J. Okogie,PHX,SUB: Bol FOR Okogie,Substitution,,0,0,0,0,,,h
+S2324-G1228,1,10:32,PHX,,SAC,,J. Okogie,PHX,Okogie P.FOUL (P1.T1) (B.Taylor),Foul,Personal,0,0,0,0,,,h
+S2324-G1228,1,08:35,PHX,,SAC,,J. Okogie,PHX,MISS Okogie 8' Driving Layup,Missed Shot,Driving Layup Shot,-20,80,8,1,2.0,0.0,h
+S2324-G1228,1,08:33,PHX,,SAC,,J. Okogie,PHX,Okogie REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1228,1,08:32,PHX,,SAC,,J. Okogie,PHX,Okogie Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G1228,1,03:54,PHX,,SAC,,J. Okogie,PHX,Okogie S.FOUL (P2.T3) (B.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2324-G1228,1,03:54,PHX,,SAC,,J. Okogie,PHX,SUB: Little FOR Okogie,Substitution,,0,0,0,0,,,h
+S2324-G1228,2,07:54,PHX,,SAC,,J. Okogie,PHX,Okogie BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G1228,2,04:42,PHX,,SAC,,J. Okogie,PHX,Okogie STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1228,2,02:08,PHX,,SAC,,J. Okogie,PHX,Okogie REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1228,3,11:40,PHX,,SAC,,J. Okogie,PHX,Okogie BLOCK (2 BLK),,,0,0,0,0,,,h
+S2324-G1228,3,08:17,PHX,,SAC,,J. Okogie,PHX,MISS Okogie 25' 3PT Jump Shot,Missed Shot,Jump Shot,210,137,25,1,3.0,0.0,h
+S2324-G1228,3,06:15,PHX,,SAC,,J. Okogie,PHX,MISS Okogie 3' Running Layup,Missed Shot,Running Layup Shot,15,29,3,1,2.0,0.0,h
+S2324-G1228,3,05:55,PHX,,SAC,,J. Okogie,PHX,MISS Okogie 3PT Jump Shot,Missed Shot,Jump Shot,-234,3,0,1,3.0,0.0,h
+S2324-G1228,3,05:14,PHX,,SAC,,J. Okogie,PHX,SUB: Watanabe FOR Okogie,Substitution,,0,0,0,0,,,h
+S2324-G1228,4,05:06,PHX,,SAC,,J. Okogie,PHX,Okogie P.FOUL (P3.T3) (D.Collins),Foul,Personal,0,0,0,0,,,h
+S2324-G1228,4,04:57,PHX,,SAC,,J. Okogie,PHX,Okogie STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G1228,4,04:00,PHX,,SAC,,J. Okogie,PHX,MISS Okogie 3PT Jump Shot,Missed Shot,Jump Shot,-227,-15,0,1,3.0,0.0,h
+S2324-G1228,4,01:44,PHX,,SAC,,J. Okogie,PHX,SUB: Metu FOR Okogie,Substitution,,0,0,0,0,,,h
+S2324-G0655,2,05:07,ORL,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0655,2,03:19,ORL,,PHX,,J. Okogie,PHX,SUB: Durant FOR Okogie,Substitution,,0,0,0,0,,,v
+S2324-G0655,4,00:37.200000,ORL,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0655,4,00:34.500000,ORL,,PHX,,J. Okogie,PHX,MISS Okogie 1' Driving Layup,Missed Shot,Driving Layup Shot,-11,10,1,1,2.0,0.0,v
+S2324-G1194,4,02:58,MIN,96.0,PHX,117.0,J. Okogie,PHX,Okogie 8' Floating Jump Shot (2 PTS) (Thomas 1 AST),Made Shot,Floating Jump shot,-49,57,8,1,2.0,2.0,v
+S2324-G1194,4,02:46,MIN,,PHX,,J. Okogie,PHX,Okogie STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G1194,4,02:39,MIN,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1194,4,02:35,MIN,96.0,PHX,120.0,J. Okogie,PHX,Okogie 25' 3PT Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,-142,200,25,1,3.0,3.0,v
+S2324-G1194,4,01:16,MIN,,PHX,,J. Okogie,PHX,MISS Okogie 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,131,-5,13,1,2.0,0.0,v
+S2324-G1069,2,06:13,OKC,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1069,2,05:18,OKC,,PHX,,J. Okogie,PHX,SUB: Bol FOR Okogie,Substitution,,0,0,0,0,,,v
+S2324-G1069,3,00:51.400000,OKC,,PHX,,J. Okogie,PHX,Okogie S.FOUL (P1.T4) (S.Foster),Foul,Shooting,0,0,0,0,,,v
+S2324-G1069,3,00:03.500000,OKC,,PHX,,J. Okogie,PHX,MISS Okogie 3PT Jump Shot,Missed Shot,Jump Shot,-228,-7,0,1,3.0,0.0,v
+S2324-G1069,4,07:21,OKC,,PHX,,J. Okogie,PHX,Okogie P.FOUL (P2.T2) (S.Foster),Foul,Personal,0,0,0,0,,,v
+S2324-G1069,4,07:13,OKC,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1069,4,04:57,OKC,115.0,PHX,95.0,J. Okogie,PHX,Okogie 3PT Jump Shot (3 PTS) (Little 1 AST),Made Shot,Jump Shot,-232,-12,0,1,3.0,3.0,v
+S2324-G1069,4,04:21,OKC,,PHX,,J. Okogie,PHX,Okogie Bad Pass Turnover (P1.T14),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G1069,4,00:48.100000,OKC,128.0,PHX,100.0,J. Okogie,PHX,Okogie Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1069,4,00:48.100000,OKC,128.0,PHX,101.0,J. Okogie,PHX,Okogie Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1069,4,00:36.700000,OKC,,PHX,,J. Okogie,PHX,Okogie BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0044,1,05:21,MEM,15.0,PHX,13.0,J. Okogie,PHX,Okogie Driving Dunk (2 PTS) (Gordon 1 AST),Made Shot,Driving Dunk Shot,-2,4,0,1,2.0,2.0,v
+S2324-G0044,1,05:21,MEM,,PHX,,J. Okogie,PHX,MISS Okogie Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2324-G0044,1,02:48,MEM,22.0,PHX,22.0,J. Okogie,PHX,Okogie 25' 3PT Jump Shot (5 PTS) (Booker 1 AST),Made Shot,Jump Shot,112,228,25,1,3.0,3.0,v
+S2324-G0044,1,01:20,MEM,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0044,1,01:13,MEM,,PHX,,J. Okogie,PHX,MISS Okogie 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-13,16,2,1,2.0,0.0,v
+S2324-G0044,1,00:10.500000,MEM,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0044,2,04:08,MEM,,PHX,,J. Okogie,PHX,MISS Okogie 1' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,11,7,1,1,2.0,0.0,v
+S2324-G0044,2,02:52,MEM,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0044,2,02:00,MEM,,PHX,,J. Okogie,PHX,MISS Okogie 3PT Jump Shot,Missed Shot,Jump Shot,228,10,0,1,3.0,0.0,v
+S2324-G0044,2,01:26,MEM,,PHX,,J. Okogie,PHX,Okogie STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0044,2,00:51.100000,MEM,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0044,2,00:06.700000,MEM,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0044,3,01:20,MEM,,PHX,,J. Okogie,PHX,MISS Okogie 3PT Jump Shot,Missed Shot,Jump Shot,-228,-2,0,1,3.0,0.0,v
+S2324-G0044,4,06:40,MEM,,PHX,,J. Okogie,PHX,Okogie P.FOUL (P1.T4) (B.Taylor),Foul,Personal,0,0,0,0,,,v
+S2324-G0044,4,06:05,MEM,,PHX,,J. Okogie,PHX,MISS Okogie 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,32,52,6,1,2.0,0.0,v
+S2324-G0044,4,06:01,MEM,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0044,4,06:01,MEM,,PHX,,J. Okogie,PHX,MISS Okogie Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2324-G0044,4,03:04,MEM,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0044,4,01:39,MEM,,PHX,,J. Okogie,PHX,MISS Okogie 24' 3PT Jump Shot,Missed Shot,Jump Shot,234,24,24,1,3.0,0.0,v
+S2324-G0140,1,01:02,DET,27.0,PHX,28.0,J. Okogie,PHX,Okogie 2' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,-18,-6,2,1,2.0,2.0,v
+S2324-G0140,1,00:27.500000,DET,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0140,2,11:35,DET,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0140,2,11:35,DET,27.0,PHX,29.0,J. Okogie,PHX,Okogie Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0140,2,11:35,DET,27.0,PHX,30.0,J. Okogie,PHX,Okogie Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0140,2,09:42,DET,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0140,2,08:07,DET,34.0,PHX,41.0,J. Okogie,PHX,Okogie 2' Driving Layup (6 PTS) (Nurkic 4 AST),Made Shot,Driving Layup Shot,12,11,2,1,2.0,2.0,v
+S2324-G0140,2,08:07,DET,34.0,PHX,42.0,J. Okogie,PHX,Okogie Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G0140,2,07:46,DET,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0140,2,06:17,DET,,PHX,,J. Okogie,PHX,MISS Okogie 8' Pullup Jump Shot,Missed Shot,Pullup Jump shot,34,77,8,1,2.0,0.0,v
+S2324-G0140,2,05:54,DET,,PHX,,J. Okogie,PHX,Okogie STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0140,2,04:56,DET,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0140,2,03:04,DET,,PHX,,J. Okogie,PHX,SUB: Gordon FOR Okogie,Substitution,,0,0,0,0,,,v
+S2324-G0140,2,00:57.100000,DET,49.0,PHX,56.0,J. Okogie,PHX,Okogie 1' Driving Finger Roll Layup (9 PTS) (Gordon 2 AST),Made Shot,Driving Finger Roll Layup Shot,-10,9,1,1,2.0,2.0,v
+S2324-G0140,2,00:25.500000,DET,,PHX,,J. Okogie,PHX,MISS Okogie 6' Running Layup,Missed Shot,Running Layup Shot,47,29,6,1,2.0,0.0,v
+S2324-G0140,2,00:00.400000,DET,,PHX,,J. Okogie,PHX,MISS Okogie 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,135,211,25,1,3.0,0.0,v
+S2324-G0140,3,03:59,DET,,PHX,,J. Okogie,PHX,SUB: Durant FOR Okogie,Substitution,,0,0,0,0,,,v
+S2324-G0140,4,09:20,DET,,PHX,,J. Okogie,PHX,Okogie Out of Bounds - Bad Pass Turnover Turnover (P1.T12),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0140,4,09:01,DET,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0140,4,09:01,DET,83.0,PHX,100.0,J. Okogie,PHX,Okogie Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0140,4,09:01,DET,,PHX,,J. Okogie,PHX,MISS Okogie Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0140,4,04:40,DET,,PHX,,J. Okogie,PHX,Okogie STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0140,4,02:42,DET,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0140,4,01:15,DET,,PHX,,J. Okogie,PHX,Okogie Out of Bounds Lost Ball Turnover (P2.T18),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2324-G0140,4,01:02,DET,,PHX,,J. Okogie,PHX,Okogie S.FOUL (P1.T4) (P.O'Connell),Foul,Shooting,0,0,0,0,,,v
+S2324-G0588,2,08:33,NOP,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0588,2,07:49,NOP,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0588,2,06:58,NOP,,PHX,,J. Okogie,PHX,SUB: Metu FOR Okogie,Substitution,,0,0,0,0,,,v
+S2324-G0588,4,11:45,NOP,80.0,PHX,103.0,J. Okogie,PHX,Okogie 3PT Jump Shot (3 PTS) (Allen 6 AST),Made Shot,Jump Shot,-225,29,0,1,3.0,3.0,v
+S2324-G0588,4,10:03,NOP,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0588,4,10:03,NOP,,PHX,,J. Okogie,PHX,MISS Okogie Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0588,4,10:03,NOP,,PHX,,J. Okogie,PHX,MISS Okogie Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0588,4,08:51,NOP,,PHX,,J. Okogie,PHX,SUB: Booker FOR Okogie,Substitution,,0,0,0,0,,,v
+S2324-G0567,2,09:32,PHX,,SAC,,J. Okogie,PHX,MISS Okogie 1' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,-6,4,1,1,2.0,0.0,h
+S2324-G0567,2,09:17,PHX,,SAC,,J. Okogie,PHX,Okogie REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0567,2,08:06,PHX,,SAC,,J. Okogie,PHX,Okogie REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0567,2,05:52,PHX,,SAC,,J. Okogie,PHX,MISS Okogie Running Layup,Missed Shot,Running Layup Shot,0,4,0,1,2.0,0.0,h
+S2324-G0567,2,03:27,PHX,,SAC,,J. Okogie,PHX,SUB: Durant FOR Okogie,Substitution,,0,0,0,0,,,h
+S2324-G0567,4,09:29,PHX,,SAC,,J. Okogie,PHX,Okogie S.FOUL (P1.T1) (M.Smith),Foul,Shooting,0,0,0,0,,,h
+S2324-G0567,4,08:09,PHX,89.0,SAC,109.0,J. Okogie,PHX,Okogie Driving Reverse Layup (2 PTS) (Booker 8 AST),Made Shot,Driving Reverse Layup Shot,-1,3,0,1,2.0,2.0,h
+S2324-G0567,4,07:17,PHX,,SAC,,J. Okogie,PHX,Okogie BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0567,4,05:11,PHX,,SAC,,J. Okogie,PHX,SUB: Gordon FOR Okogie,Substitution,,0,0,0,0,,,h
+S2324-G0418,1,00:31.200000,HOU,,PHX,,J. Okogie,PHX,MISS Okogie 27' 3PT Jump Shot,Missed Shot,Jump Shot,165,215,27,1,3.0,0.0,v
+S2324-G0418,1,00:25.500000,HOU,,PHX,,J. Okogie,PHX,Okogie S.FOUL (P1.PN) (B.Schwab),Foul,Shooting,0,0,0,0,,,v
+S2324-G0418,1,00:02,HOU,,PHX,,J. Okogie,PHX,Okogie REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0418,1,00:00,HOU,,PHX,,J. Okogie,PHX,MISS Okogie Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2324-G0418,3,00:27.700000,HOU,,PHX,,J. Okogie,PHX,SUB: Little FOR Okogie,Substitution,,0,0,0,0,,,v
+S2324-G0818,2,11:37,PHX,,LAL,,J. Okogie,PHX,Okogie L.B.FOUL (P1.T2) (J.Tiven),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0818,2,09:28,PHX,,LAL,,J. Okogie,PHX,Okogie REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0818,2,06:57,PHX,,LAL,,J. Okogie,PHX,Okogie Traveling Turnover (P1.T6),Turnover,Traveling,0,0,0,0,,,h
+S2324-G0818,2,06:57,PHX,,LAL,,J. Okogie,PHX,SUB: Booker FOR Okogie,Substitution,,0,0,0,0,,,h

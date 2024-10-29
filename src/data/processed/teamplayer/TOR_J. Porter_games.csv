@@ -1,0 +1,357 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2324-G0504,1,03:06,GSW,,TOR,,J. Porter,TOR,MISS Porter 28' 3PT Jump Shot,Missed Shot,Jump Shot,-96,258,28,1,3.0,0.0,v
+S2324-G0504,1,01:31,GSW,,TOR,,J. Porter,TOR,Porter BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0504,1,00:06.300000,GSW,,TOR,,J. Porter,TOR,SUB: Quickley FOR Porter,Substitution,,0,0,0,0,,,v
+S2324-G0504,4,09:36,GSW,,TOR,,J. Porter,TOR,Porter REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0504,4,09:36,GSW,93.0,TOR,112.0,J. Porter,TOR,Porter Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2324-G0504,4,08:24,GSW,,TOR,,J. Porter,TOR,Porter S.FOUL (P1.T2) (M.Boland),Foul,Shooting,0,0,0,0,,,v
+S2324-G0504,4,08:24,GSW,,TOR,,J. Porter,TOR,SUB: Poeltl FOR Porter,Substitution,,0,0,0,0,,,v
+S2324-G0504,4,03:46,GSW,,TOR,,J. Porter,TOR,MISS Porter 24' 3PT Jump Shot,Missed Shot,Jump Shot,235,27,24,1,3.0,0.0,v
+S2324-G0504,4,03:29,GSW,,TOR,,J. Porter,TOR,Porter REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0504,4,02:27,GSW,,TOR,,J. Porter,TOR,Porter STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0744,1,03:23,TOR,,HOU,,J. Porter,TOR,MISS Porter 25' 3PT Jump Shot,Missed Shot,Jump Shot,-88,237,25,1,3.0,0.0,h
+S2324-G0744,1,01:44,TOR,,HOU,,J. Porter,TOR,Porter REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0744,1,01:23,TOR,,HOU,,J. Porter,TOR,Porter STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0744,2,11:26,TOR,36.0,HOU,22.0,J. Porter,TOR,Porter 4' Cutting Layup Shot (2 PTS) (Barnes 4 AST),Made Shot,Cutting Layup Shot,-36,15,4,1,2.0,2.0,h
+S2324-G0744,2,10:52,TOR,,HOU,,J. Porter,TOR,Porter S.FOUL (P1.T2) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,h
+S2324-G0744,2,09:56,TOR,,HOU,,J. Porter,TOR,SUB: Poeltl FOR Porter,Substitution,,0,0,0,0,,,h
+S2324-G0744,3,02:16,TOR,,HOU,,J. Porter,TOR,Porter REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0744,3,01:01,TOR,85.0,HOU,71.0,J. Porter,TOR,Porter 2' Cutting Dunk Shot (4 PTS) (Barnes 7 AST),Made Shot,Cutting Dunk Shot,0,15,2,1,2.0,2.0,h
+S2324-G0744,3,00:31.600000,TOR,88.0,HOU,71.0,J. Porter,TOR,Porter 3PT Jump Shot (7 PTS) (Barnes 8 AST),Made Shot,Jump Shot,-229,-8,0,1,3.0,3.0,h
+S2324-G0744,4,10:21,TOR,,HOU,,J. Porter,TOR,MISS Porter 7' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-53,50,7,1,2.0,0.0,h
+S2324-G0744,4,09:40,TOR,,HOU,,J. Porter,TOR,Porter REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0744,4,09:40,TOR,,HOU,,J. Porter,TOR,MISS Porter Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2324-G0744,4,09:35,TOR,,HOU,,J. Porter,TOR,SUB: Poeltl FOR Porter,Substitution,,0,0,0,0,,,h
+S2324-G0637,1,03:27,TOR,,LAC,,J. Porter,TOR,Porter REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0637,1,02:15,TOR,,LAC,,J. Porter,TOR,Porter S.FOUL (P1.T4) (J.DeRosa),Foul,Shooting,0,0,0,0,,,h
+S2324-G0637,1,01:48,TOR,,LAC,,J. Porter,TOR,Porter REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0637,1,00:01.200000,TOR,,LAC,,J. Porter,TOR,Porter REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0764,4,04:35,TOR,,SAS,,J. Porter,TOR,Porter P.FOUL (P1.T3) (J.Sterling),Foul,Personal,0,0,0,0,,,h
+S2324-G0764,4,04:15,TOR,,SAS,,J. Porter,TOR,MISS Porter 26' 3PT Jump Shot,Missed Shot,Jump Shot,-1,263,26,1,3.0,0.0,h
+S2324-G0764,4,03:39,TOR,,SAS,,J. Porter,TOR,Porter Out of Bounds Lost Ball Turnover (P1.T18),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2324-G0764,4,03:27,TOR,,SAS,,J. Porter,TOR,Porter S.FOUL (P2.T4) (T.Washington),Foul,Shooting,0,0,0,0,,,h
+S2324-G0764,4,02:55,TOR,,SAS,,J. Porter,TOR,Porter REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0764,4,02:44,TOR,94.0,SAS,120.0,J. Porter,TOR,Porter 2' Cutting Dunk Shot (2 PTS) (McDaniels 1 AST),Made Shot,Cutting Dunk Shot,4,17,2,1,2.0,2.0,h
+S2324-G0764,4,01:33,TOR,,SAS,,J. Porter,TOR,Porter REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0470,1,01:47,MEM,,TOR,,J. Porter,TOR,Porter REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0470,1,00:53.400000,MEM,,TOR,,J. Porter,TOR,Porter P.FOUL (P1.PN) (B.Nansel),Foul,Personal,0,0,0,0,,,v
+S2324-G0470,1,00:06.800000,MEM,,TOR,,J. Porter,TOR,Porter REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0470,2,11:50,MEM,,TOR,,J. Porter,TOR,MISS Porter 25' 3PT Jump Shot,Missed Shot,Jump Shot,-100,234,25,1,3.0,0.0,v
+S2324-G0470,2,08:32,MEM,,TOR,,J. Porter,TOR,MISS Porter 25' 3PT Jump Shot,Missed Shot,Jump Shot,-39,251,25,1,3.0,0.0,v
+S2324-G0470,2,08:06,MEM,,TOR,,J. Porter,TOR,Porter REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0470,2,07:51,MEM,,TOR,,J. Porter,TOR,Porter L.B.FOUL (P2.T1) (J.Capers),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0470,2,06:56,MEM,,TOR,,J. Porter,TOR,SUB: Poeltl FOR Porter,Substitution,,0,0,0,0,,,v
+S2324-G0574,1,11:00,TOR,,MIA,,J. Porter,TOR,MISS Porter 2' Running Layup,Missed Shot,Running Layup Shot,-13,17,2,1,2.0,0.0,h
+S2324-G0574,1,10:58,TOR,,MIA,,J. Porter,TOR,Porter REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0574,1,10:58,TOR,,MIA,,J. Porter,TOR,MISS Porter Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2324-G0574,1,10:57,TOR,,MIA,,J. Porter,TOR,Porter REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0574,1,10:34,TOR,,MIA,,J. Porter,TOR,Porter REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0574,1,09:46,TOR,,MIA,,J. Porter,TOR,Porter BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0574,1,08:37,TOR,,MIA,,J. Porter,TOR,Porter P.FOUL (P1.T1) (T.Washington),Foul,Personal,0,0,0,0,,,h
+S2324-G0574,1,07:46,TOR,,MIA,,J. Porter,TOR,Porter S.FOUL (P2.T2) (R.Hussey),Foul,Shooting,0,0,0,0,,,h
+S2324-G0574,1,07:46,TOR,,MIA,,J. Porter,TOR,SUB: Young FOR Porter,Substitution,,0,0,0,0,,,h
+S2324-G0574,2,08:44,TOR,53.0,MIA,20.0,J. Porter,TOR,Porter 27' 3PT Jump Shot (3 PTS) (Dick 4 AST),Made Shot,Jump Shot,-131,238,27,1,3.0,3.0,h
+S2324-G0574,2,08:16,TOR,56.0,MIA,20.0,J. Porter,TOR,Porter 24' 3PT Jump Shot (6 PTS) (Barrett 3 AST),Made Shot,Jump Shot,225,76,24,1,3.0,3.0,h
+S2324-G0574,2,05:43,TOR,,MIA,,J. Porter,TOR,Porter S.FOUL (P3.T4) (B.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2324-G0574,2,05:27,TOR,,MIA,,J. Porter,TOR,Porter BLOCK (2 BLK),,,0,0,0,0,,,h
+S2324-G0574,2,04:36,TOR,,MIA,,J. Porter,TOR,MISS Porter 15' Jump Shot,Missed Shot,Jump Shot,-11,151,15,1,2.0,0.0,h
+S2324-G0574,2,04:07,TOR,,MIA,,J. Porter,TOR,MISS Porter 26' 3PT Jump Shot,Missed Shot,Jump Shot,-20,263,26,1,3.0,0.0,h
+S2324-G0574,2,03:10,TOR,,MIA,,J. Porter,TOR,Porter REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0574,2,03:07,TOR,,MIA,,J. Porter,TOR,SUB: Young FOR Porter,Substitution,,0,0,0,0,,,h
+S2324-G0574,3,10:29,TOR,,MIA,,J. Porter,TOR,SUB: Young FOR Porter,Substitution,,0,0,0,0,,,h
+S2324-G0574,4,10:13,TOR,,MIA,,J. Porter,TOR,MISS Porter 25' 3PT Jump Shot,Missed Shot,Jump Shot,-118,219,25,1,3.0,0.0,h
+S2324-G0574,4,09:05,TOR,,MIA,,J. Porter,TOR,SUB: Young FOR Porter,Substitution,,0,0,0,0,,,h
+S2324-G0574,4,01:48,TOR,,MIA,,J. Porter,TOR,SUB: McDaniels FOR Porter,Substitution,,0,0,0,0,,,h
+S2324-G0963,1,03:38,TOR,,ORL,,J. Porter,TOR,Porter Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0963,1,00:52.300000,TOR,,ORL,,J. Porter,TOR,MISS Porter 26' 3PT Jump Shot,Missed Shot,Jump Shot,-176,188,26,1,3.0,0.0,h
+S2324-G0963,2,11:09,TOR,,ORL,,J. Porter,TOR,MISS Porter 26' 3PT Jump Shot,Missed Shot,Jump Shot,-147,217,26,1,3.0,0.0,h
+S2324-G0963,2,09:45,TOR,,ORL,,J. Porter,TOR,Porter BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0963,2,07:53,TOR,,ORL,,J. Porter,TOR,MISS Porter 12' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,32,120,12,1,2.0,0.0,h
+S2324-G0963,2,07:04,TOR,,ORL,,J. Porter,TOR,Porter STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0963,2,06:52,TOR,,ORL,,J. Porter,TOR,SUB: Olynyk FOR Porter,Substitution,,0,0,0,0,,,h
+S2324-G0963,2,00:25.800000,TOR,,ORL,,J. Porter,TOR,Porter S.FOUL (P1.PN) (C.Kirkland),Foul,Shooting,0,0,0,0,,,h
+S2324-G0963,3,07:04,TOR,,ORL,,J. Porter,TOR,Porter STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0963,3,04:57,TOR,,ORL,,J. Porter,TOR,Porter BLOCK (2 BLK),,,0,0,0,0,,,h
+S2324-G0963,3,00:14.100000,TOR,,ORL,,J. Porter,TOR,Porter STEAL (3 STL),,,0,0,0,0,,,h
+S2324-G0963,4,09:07,TOR,,ORL,,J. Porter,TOR,Porter REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0963,4,08:19,TOR,,ORL,,J. Porter,TOR,Porter REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0963,4,06:48,TOR,,ORL,,J. Porter,TOR,Porter REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0963,4,06:13,TOR,,ORL,,J. Porter,TOR,SUB: Agbaji FOR Porter,Substitution,,0,0,0,0,,,h
+S2324-G0963,4,00:44.700000,TOR,,ORL,,J. Porter,TOR,Porter REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0963,4,00:38.100000,TOR,,ORL,,J. Porter,TOR,MISS Porter 27' 3PT Jump Shot,Missed Shot,Jump Shot,44,268,27,1,3.0,0.0,h
+S2324-G0563,1,11:40,TOR,,BOS,,J. Porter,TOR,Porter REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0563,1,10:22,TOR,,BOS,,J. Porter,TOR,Porter REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0563,1,10:12,TOR,,BOS,,J. Porter,TOR,MISS Porter 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,20,11,2,1,2.0,0.0,h
+S2324-G0563,1,10:08,TOR,,BOS,,J. Porter,TOR,MISS Porter 4' Driving Layup,Missed Shot,Driving Layup Shot,18,34,4,1,2.0,0.0,h
+S2324-G0563,1,07:38,TOR,,BOS,,J. Porter,TOR,MISS Porter 25' 3PT Jump Shot,Missed Shot,Jump Shot,36,249,25,1,3.0,0.0,h
+S2324-G0563,1,04:41,TOR,,BOS,,J. Porter,TOR,Porter REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0563,1,04:07,TOR,,BOS,,J. Porter,TOR,SUB: McDaniels FOR Porter,Substitution,,0,0,0,0,,,h
+S2324-G0563,2,07:28,TOR,,BOS,,J. Porter,TOR,Porter BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0563,2,06:03,TOR,,BOS,,J. Porter,TOR,MISS Porter 27' 3PT Jump Shot,Missed Shot,Jump Shot,-40,267,27,1,3.0,0.0,h
+S2324-G0563,2,04:25,TOR,42.0,BOS,47.0,J. Porter,TOR,Porter 7' Driving Hook Shot (2 PTS) (Barrett 3 AST),Made Shot,Driving Hook Shot,-22,63,7,1,2.0,2.0,h
+S2324-G0563,2,04:10,TOR,,BOS,,J. Porter,TOR,Porter P.FOUL (P1.T2) (T.Ford),Foul,Personal,0,0,0,0,,,h
+S2324-G0563,2,02:18,TOR,,BOS,,J. Porter,TOR,Porter REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0563,2,02:02,TOR,,BOS,,J. Porter,TOR,Porter S.FOUL (P2.PN) (T.Ford),Foul,Shooting,0,0,0,0,,,h
+S2324-G0563,2,01:40,TOR,,BOS,,J. Porter,TOR,Porter P.FOUL (P3.PN) (B.Nansel),Foul,Personal,0,0,0,0,,,h
+S2324-G0563,2,01:40,TOR,,BOS,,J. Porter,TOR,SUB: Young FOR Porter,Substitution,,0,0,0,0,,,h
+S2324-G0563,3,11:50,TOR,,BOS,,J. Porter,TOR,Porter OFF.Foul (P4) (B.Nansel),Foul,Offensive,0,0,0,0,,,h
+S2324-G0563,3,11:50,TOR,,BOS,,J. Porter,TOR,Porter Offensive Foul Turnover (P1.T3),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0563,3,11:50,TOR,,BOS,,J. Porter,TOR,SUB: Young FOR Porter,Substitution,,0,0,0,0,,,h
+S2324-G0596,1,10:41,NYK,,TOR,,J. Porter,TOR,MISS Porter 2' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,-17,13,2,1,2.0,0.0,v
+S2324-G0596,1,09:56,NYK,,TOR,,J. Porter,TOR,Porter Violation:Kicked Ball (D.Taylor),Violation,Kicked Ball,0,0,0,0,,,v
+S2324-G0596,1,08:19,NYK,,TOR,,J. Porter,TOR,Porter STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0596,1,08:13,NYK,10.0,TOR,11.0,J. Porter,TOR,Porter Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0596,1,08:13,NYK,10.0,TOR,12.0,J. Porter,TOR,Porter Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0596,1,05:12,NYK,,TOR,,J. Porter,TOR,Porter STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0596,1,04:39,NYK,,TOR,,J. Porter,TOR,Porter BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0596,1,04:31,NYK,,TOR,,J. Porter,TOR,SUB: Young FOR Porter,Substitution,,0,0,0,0,,,v
+S2324-G0596,2,10:34,NYK,,TOR,,J. Porter,TOR,MISS Porter 25' 3PT Jump Shot,Missed Shot,Jump Shot,60,246,25,1,3.0,0.0,v
+S2324-G0596,2,09:43,NYK,,TOR,,J. Porter,TOR,SUB: Boucher FOR Porter,Substitution,,0,0,0,0,,,v
+S2324-G0596,2,05:17,NYK,,TOR,,J. Porter,TOR,Porter STEAL (3 STL),,,0,0,0,0,,,v
+S2324-G0596,2,04:43,NYK,,TOR,,J. Porter,TOR,Porter S.FOUL (P1.T4) (E.Malloy),Foul,Shooting,0,0,0,0,,,v
+S2324-G0596,2,04:27,NYK,,TOR,,J. Porter,TOR,Porter Out of Bounds Lost Ball Turnover (P1.T3),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2324-G0596,2,03:52,NYK,,TOR,,J. Porter,TOR,MISS Porter 2' Layup,Missed Shot,Layup Shot,16,4,2,1,2.0,0.0,v
+S2324-G0596,2,02:37,NYK,,TOR,,J. Porter,TOR,SUB: Young FOR Porter,Substitution,,0,0,0,0,,,v
+S2324-G0596,3,11:46,NYK,59.0,TOR,59.0,J. Porter,TOR,Porter 1' Layup (4 PTS) (Quickley 9 AST),Made Shot,Layup Shot,4,6,1,1,2.0,2.0,v
+S2324-G0596,3,08:30,NYK,,TOR,,J. Porter,TOR,MISS Porter 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,37,93,10,1,2.0,0.0,v
+S2324-G0596,3,08:07,NYK,,TOR,,J. Porter,TOR,SUB: Young FOR Porter,Substitution,,0,0,0,0,,,v
+S2324-G0596,4,08:14,NYK,,TOR,,J. Porter,TOR,Porter Out of Bounds - Bad Pass Turnover Turnover (P2.T9),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0596,4,07:04,NYK,,TOR,,J. Porter,TOR,MISS Porter 27' 3PT Jump Shot,Missed Shot,Jump Shot,131,236,27,1,3.0,0.0,v
+S2324-G0596,4,06:28,NYK,,TOR,,J. Porter,TOR,Porter REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0596,4,05:37,NYK,,TOR,,J. Porter,TOR,MISS Porter 1' Layup,Missed Shot,Layup Shot,10,4,1,1,2.0,0.0,v
+S2324-G0596,4,05:35,NYK,,TOR,,J. Porter,TOR,Porter REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0596,4,05:35,NYK,110.0,TOR,88.0,J. Porter,TOR,Porter Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2324-G0596,4,05:00,NYK,,TOR,,J. Porter,TOR,SUB: Dick FOR Porter,Substitution,,0,0,0,0,,,v
+S2324-G0492,1,06:31,SAC,,TOR,,J. Porter,TOR,Porter Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0492,1,04:11,SAC,,TOR,,J. Porter,TOR,MISS Porter 26' 3PT Jump Shot,Missed Shot,Jump Shot,168,197,26,1,3.0,0.0,v
+S2324-G0492,1,03:31,SAC,,TOR,,J. Porter,TOR,Porter S.FOUL (P1.T2) (J.Orr),Foul,Shooting,0,0,0,0,,,v
+S2324-G0492,1,03:23,SAC,23.0,TOR,19.0,J. Porter,TOR,Porter Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0492,1,03:23,SAC,23.0,TOR,20.0,J. Porter,TOR,Porter Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0492,1,00:23.900000,SAC,,TOR,,J. Porter,TOR,SUB: Boucher FOR Porter,Substitution,,0,0,0,0,,,v
+S2324-G0492,3,02:47,SAC,,TOR,,J. Porter,TOR,Porter REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0492,3,02:30,SAC,,TOR,,J. Porter,TOR,Porter REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0492,3,01:08,SAC,107.0,TOR,93.0,J. Porter,TOR,Porter 25' 3PT Jump Shot (5 PTS) (Siakam 8 AST),Made Shot,Jump Shot,-91,238,25,1,3.0,3.0,v
+S2324-G0492,3,00:05.700000,SAC,107.0,TOR,97.0,J. Porter,TOR,Porter 3' Layup (7 PTS) (Schroder 3 AST),Made Shot,Layup Shot,5,27,3,1,2.0,2.0,v
+S2324-G0492,3,00:02.400000,SAC,,TOR,,J. Porter,TOR,SUB: Boucher FOR Porter,Substitution,,0,0,0,0,,,v
+S2324-G0492,4,11:23,SAC,110.0,TOR,100.0,J. Porter,TOR,Porter 26' 3PT Jump Shot (10 PTS) (Quickley 4 AST),Made Shot,Jump Shot,87,244,26,1,3.0,3.0,v
+S2324-G0492,4,10:26,SAC,,TOR,,J. Porter,TOR,Porter REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0492,4,09:06,SAC,,TOR,,J. Porter,TOR,Porter BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0492,4,09:06,SAC,,TOR,,J. Porter,TOR,Porter L.B.FOUL (P2.T2) (C.Blair),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0492,4,08:31,SAC,,TOR,,J. Porter,TOR,SUB: Poeltl FOR Porter,Substitution,,0,0,0,0,,,v
+S2324-G0580,1,11:42,TOR,,CHI,,J. Porter,TOR,MISS Porter 3PT Jump Shot,Missed Shot,Jump Shot,-229,13,0,1,3.0,0.0,h
+S2324-G0580,1,09:36,TOR,,CHI,,J. Porter,TOR,Porter P.FOUL (P1.T1) (B.Barnaky),Foul,Personal,0,0,0,0,,,h
+S2324-G0580,1,08:33,TOR,,CHI,,J. Porter,TOR,Porter L.B.FOUL (P2.T2) (Z.Zarba),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0580,1,08:33,TOR,,CHI,,J. Porter,TOR,SUB: Young FOR Porter,Substitution,,0,0,0,0,,,h
+S2324-G0580,2,11:08,TOR,,CHI,,J. Porter,TOR,Porter BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0580,2,10:16,TOR,34.0,CHI,43.0,J. Porter,TOR,Porter 25' 3PT Jump Shot (3 PTS) (Schroder 2 AST),Made Shot,Jump Shot,-186,162,25,1,3.0,3.0,h
+S2324-G0580,2,09:28,TOR,,CHI,,J. Porter,TOR,Porter STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0580,2,09:00,TOR,37.0,CHI,43.0,J. Porter,TOR,Porter 25' 3PT Jump Shot (6 PTS) (Schroder 3 AST),Made Shot,Jump Shot,158,195,25,1,3.0,3.0,h
+S2324-G0580,2,08:02,TOR,,CHI,,J. Porter,TOR,MISS Porter 26' 3PT Jump Shot,Missed Shot,Jump Shot,-4,263,26,1,3.0,0.0,h
+S2324-G0580,2,07:29,TOR,,CHI,,J. Porter,TOR,Defensive Goaltending,Violation,Defensive Goaltending,0,0,0,0,,,h
+S2324-G0580,2,06:59,TOR,,CHI,,J. Porter,TOR,Porter BLOCK (2 BLK),,,0,0,0,0,,,h
+S2324-G0580,2,06:57,TOR,,CHI,,J. Porter,TOR,Porter REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0580,2,05:07,TOR,48.0,CHI,50.0,J. Porter,TOR,Porter 2' Layup (8 PTS) (Boucher 2 AST),Made Shot,Layup Shot,13,11,2,1,2.0,2.0,h
+S2324-G0580,2,05:01,TOR,,CHI,,J. Porter,TOR,SUB: Young FOR Porter,Substitution,,0,0,0,0,,,h
+S2324-G0580,3,09:20,TOR,,CHI,,J. Porter,TOR,Porter REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0580,3,09:20,TOR,62.0,CHI,67.0,J. Porter,TOR,Porter Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0580,3,09:20,TOR,63.0,CHI,67.0,J. Porter,TOR,Porter Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0580,3,08:31,TOR,,CHI,,J. Porter,TOR,Porter REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0580,3,07:40,TOR,,CHI,,J. Porter,TOR,Porter REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0580,3,07:10,TOR,,CHI,,J. Porter,TOR,Porter Out of Bounds - Bad Pass Turnover Turnover (P1.T9),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G0580,3,06:46,TOR,,CHI,,J. Porter,TOR,SUB: Young FOR Porter,Substitution,,0,0,0,0,,,h
+S2324-G0580,3,02:30,TOR,,CHI,,J. Porter,TOR,SUB: Boucher FOR Porter,Substitution,,0,0,0,0,,,h
+S2324-G0580,4,07:10,TOR,,CHI,,J. Porter,TOR,MISS Porter 26' 3PT Jump Shot,Missed Shot,Jump Shot,-1,257,26,1,3.0,0.0,h
+S2324-G0580,4,05:46,TOR,,CHI,,J. Porter,TOR,SUB: Barnes FOR Porter,Substitution,,0,0,0,0,,,h
+S2324-G0979,2,10:49,ORL,,TOR,,J. Porter,TOR,Porter STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0979,2,06:19,ORL,,TOR,,J. Porter,TOR,SUB: Olynyk FOR Porter,Substitution,,0,0,0,0,,,v
+S2324-G0979,3,04:52,ORL,,TOR,,J. Porter,TOR,MISS Porter 25' 3PT Jump Shot,Missed Shot,Jump Shot,-227,105,25,1,3.0,0.0,v
+S2324-G0979,3,02:59,ORL,,TOR,,J. Porter,TOR,Porter REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0979,3,02:16,ORL,,TOR,,J. Porter,TOR,Porter REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0979,4,09:07,ORL,,TOR,,J. Porter,TOR,Porter REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0979,4,08:12,ORL,,TOR,,J. Porter,TOR,SUB: Olynyk FOR Porter,Substitution,,0,0,0,0,,,v
+S2324-G0979,4,03:57,ORL,,TOR,,J. Porter,TOR,Porter Bad Pass Turnover (P1.T17),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0979,4,02:56,ORL,,TOR,,J. Porter,TOR,MISS Porter 26' 3PT Jump Shot,Missed Shot,Jump Shot,201,158,26,1,3.0,0.0,v
+S2324-G0979,4,01:54,ORL,,TOR,,J. Porter,TOR,Porter REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0979,4,01:21,ORL,,TOR,,J. Porter,TOR,Porter BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0979,4,00:52.900000,ORL,,TOR,,J. Porter,TOR,Porter REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0979,4,00:52.900000,ORL,111.0,TOR,94.0,J. Porter,TOR,Porter Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2324-G0979,4,00:26.200000,ORL,,TOR,,J. Porter,TOR,Porter REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0979,4,00:26.200000,ORL,,TOR,,J. Porter,TOR,MISS Porter Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2324-G0979,4,00:26.200000,ORL,,TOR,,J. Porter,TOR,Porter REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0979,4,00:26.200000,ORL,111.0,TOR,96.0,J. Porter,TOR,Porter Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2324-G0540,1,03:46,UTA,,TOR,,J. Porter,TOR,Porter REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0540,1,02:33,UTA,,TOR,,J. Porter,TOR,Porter S.FOUL (P1.T4) (R.Mott),Foul,Shooting,0,0,0,0,,,v
+S2324-G0540,2,05:23,UTA,49.0,TOR,37.0,J. Porter,TOR,Porter Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0540,2,05:23,UTA,49.0,TOR,38.0,J. Porter,TOR,Porter Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0540,2,04:12,UTA,,TOR,,J. Porter,TOR,Porter BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0540,2,03:58,UTA,,TOR,,J. Porter,TOR,Porter REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0540,2,03:38,UTA,,TOR,,J. Porter,TOR,MISS Porter 26' 3PT Jump Shot,Missed Shot,Jump Shot,-26,256,26,1,3.0,0.0,v
+S2324-G0540,2,02:23,UTA,,TOR,,J. Porter,TOR,Porter REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0540,2,00:34.900000,UTA,62.0,TOR,47.0,J. Porter,TOR,Porter 3' Cutting Layup Shot (4 PTS) (Barnes 2 AST),Made Shot,Cutting Layup Shot,-29,16,3,1,2.0,2.0,v
+S2324-G0540,3,11:45,UTA,,TOR,,J. Porter,TOR,MISS Porter 10' Floating Jump Shot,Missed Shot,Floating Jump shot,100,10,10,1,2.0,0.0,v
+S2324-G0540,3,10:01,UTA,73.0,TOR,53.0,J. Porter,TOR,Porter 26' 3PT Jump Shot (7 PTS) (Barnes 3 AST),Made Shot,Jump Shot,-40,255,26,1,3.0,3.0,v
+S2324-G0540,3,09:30,UTA,,TOR,,J. Porter,TOR,Porter REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0540,3,07:57,UTA,,TOR,,J. Porter,TOR,Porter STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0540,3,06:42,UTA,,TOR,,J. Porter,TOR,MISS Porter 25' 3PT Jump Shot,Missed Shot,Jump Shot,96,226,25,1,3.0,0.0,v
+S2324-G0540,3,06:11,UTA,,TOR,,J. Porter,TOR,Porter BLOCK (2 BLK),,,0,0,0,0,,,v
+S2324-G0540,3,03:44,UTA,,TOR,,J. Porter,TOR,MISS Porter 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,29,34,4,1,2.0,0.0,v
+S2324-G0540,3,03:37,UTA,,TOR,,J. Porter,TOR,Porter REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0540,3,03:37,UTA,93.0,TOR,74.0,J. Porter,TOR,Porter Putback Layup (9 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,v
+S2324-G0540,3,02:26,UTA,,TOR,,J. Porter,TOR,SUB: Dick FOR Porter,Substitution,,0,0,0,0,,,v
+S2324-G0540,4,06:34,UTA,,TOR,,J. Porter,TOR,MISS Porter 25' 3PT Jump Shot,Missed Shot,Jump Shot,143,210,25,1,3.0,0.0,v
+S2324-G0540,4,06:16,UTA,,TOR,,J. Porter,TOR,Porter STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0540,4,04:36,UTA,,TOR,,J. Porter,TOR,Porter REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0653,1,04:44,ATL,,TOR,,J. Porter,TOR,Porter STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0653,1,02:52,ATL,,TOR,,J. Porter,TOR,MISS Porter 26' 3PT Jump Shot,Missed Shot,Jump Shot,-26,254,26,1,3.0,0.0,v
+S2324-G0653,1,01:57,ATL,30.0,TOR,21.0,J. Porter,TOR,Porter 25' 3PT Running Jump Shot (3 PTS) (Schroder 1 AST),Made Shot,Running Jump Shot,0,252,25,1,3.0,3.0,v
+S2324-G0653,1,01:24,ATL,32.0,TOR,24.0,J. Porter,TOR,Porter 26' 3PT Jump Shot (6 PTS) (Dick 2 AST),Made Shot,Jump Shot,158,204,26,1,3.0,3.0,v
+S2324-G0653,1,00:46.500000,ATL,34.0,TOR,25.0,J. Porter,TOR,Porter Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0653,1,00:46.500000,ATL,34.0,TOR,26.0,J. Porter,TOR,Porter Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0653,1,00:01.700000,ATL,,TOR,,J. Porter,TOR,Porter STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0653,2,11:14,ATL,,TOR,,J. Porter,TOR,Porter REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0653,2,09:12,ATL,,TOR,,J. Porter,TOR,Porter REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0653,2,08:47,ATL,,TOR,,J. Porter,TOR,Porter P.FOUL (P1.T1) (P.Fraher),Foul,Personal,0,0,0,0,,,v
+S2324-G0653,2,08:33,ATL,,TOR,,J. Porter,TOR,Porter REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0653,2,08:25,ATL,,TOR,,J. Porter,TOR,Porter REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0653,2,08:25,ATL,,TOR,,J. Porter,TOR,MISS Porter Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2324-G0653,2,08:24,ATL,,TOR,,J. Porter,TOR,Porter REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0653,2,08:24,ATL,,TOR,,J. Porter,TOR,MISS Porter Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0653,2,08:24,ATL,37.0,TOR,41.0,J. Porter,TOR,Porter Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0653,2,08:16,ATL,,TOR,,J. Porter,TOR,SUB: Young FOR Porter,Substitution,,0,0,0,0,,,v
+S2324-G0653,3,02:33,ATL,89.0,TOR,89.0,J. Porter,TOR,Porter 26' 3PT Jump Shot (12 PTS) (Schroder 5 AST),Made Shot,Jump Shot,-112,237,26,1,3.0,3.0,v
+S2324-G0653,3,01:10,ATL,,TOR,,J. Porter,TOR,MISS Porter 12' Floating Jump Shot,Missed Shot,Floating Jump shot,11,115,12,1,2.0,0.0,v
+S2324-G0653,3,00:14.600000,ATL,,TOR,,J. Porter,TOR,Porter S.FOUL (P2.PN) (M.Kogut),Foul,Shooting,0,0,0,0,,,v
+S2324-G0653,3,00:08.800000,ATL,,TOR,,J. Porter,TOR,Porter REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0653,4,09:22,ATL,,TOR,,J. Porter,TOR,Porter REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0653,4,07:08,ATL,,TOR,,J. Porter,TOR,SUB: Young FOR Porter,Substitution,,0,0,0,0,,,v
+S2324-G0937,1,06:32,DEN,,TOR,,J. Porter,TOR,MISS Porter 14' Floating Jump Shot,Missed Shot,Floating Jump shot,-99,92,14,1,2.0,0.0,v
+S2324-G0937,1,06:03,DEN,,TOR,,J. Porter,TOR,Porter Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0937,1,04:50,DEN,23.0,TOR,22.0,J. Porter,TOR,Porter 25' 3PT Jump Shot (3 PTS) (Freeman-Liberty 1 AST),Made Shot,Jump Shot,126,216,25,1,3.0,3.0,v
+S2324-G0937,1,04:30,DEN,,TOR,,J. Porter,TOR,Porter REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0937,1,03:15,DEN,,TOR,,J. Porter,TOR,Porter STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0937,1,01:16,DEN,,TOR,,J. Porter,TOR,MISS Porter 26' 3PT Jump Shot,Missed Shot,Jump Shot,75,252,26,1,3.0,0.0,v
+S2324-G0937,2,11:38,DEN,,TOR,,J. Porter,TOR,Porter REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0937,2,11:38,DEN,32.0,TOR,36.0,J. Porter,TOR,Porter Tip Layup Shot (5 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2324-G0937,2,10:19,DEN,,TOR,,J. Porter,TOR,SUB: Olynyk FOR Porter,Substitution,,0,0,0,0,,,v
+S2324-G0937,2,06:18,DEN,,TOR,,J. Porter,TOR,MISS Porter 25' 3PT Jump Shot,Missed Shot,Jump Shot,-82,241,25,1,3.0,0.0,v
+S2324-G0937,2,04:07,DEN,40.0,TOR,59.0,J. Porter,TOR,Porter 27' 3PT Jump Shot (8 PTS) (Dick 2 AST),Made Shot,Jump Shot,-103,251,27,1,3.0,3.0,v
+S2324-G0937,2,02:59,DEN,,TOR,,J. Porter,TOR,SUB: Barrett FOR Porter,Substitution,,0,0,0,0,,,v
+S2324-G0937,3,04:26,DEN,,TOR,,J. Porter,TOR,Porter Violation:Kicked Ball (S.Corbin),Violation,Kicked Ball,0,0,0,0,,,v
+S2324-G0937,3,04:00,DEN,77.0,TOR,93.0,J. Porter,TOR,Porter 24' 3PT Jump Shot (11 PTS) (Freeman-Liberty 2 AST),Made Shot,Jump Shot,-13,242,24,1,3.0,3.0,v
+S2324-G0937,3,02:02,DEN,,TOR,,J. Porter,TOR,Porter Bad Pass Turnover (P2.T10),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0937,3,01:12,DEN,86.0,TOR,98.0,J. Porter,TOR,Porter 24' 3PT Jump Shot (14 PTS) (Barrett 9 AST),Made Shot,Jump Shot,235,13,24,1,3.0,3.0,v
+S2324-G0937,3,01:02,DEN,,TOR,,J. Porter,TOR,Porter P.FOUL (P1.PN) (T.Ford),Foul,Personal,0,0,0,0,,,v
+S2324-G0937,4,07:04,DEN,,TOR,,J. Porter,TOR,MISS Porter 25' 3PT Jump Shot,Missed Shot,Jump Shot,168,187,25,1,3.0,0.0,v
+S2324-G0937,4,06:57,DEN,,TOR,,J. Porter,TOR,Porter P.FOUL (P2.T3) (S.Corbin),Foul,Personal,0,0,0,0,,,v
+S2324-G0937,4,05:34,DEN,,TOR,,J. Porter,TOR,SUB: Barrett FOR Porter,Substitution,,0,0,0,0,,,v
+S2324-G0999,1,02:23,TOR,,SAC,,J. Porter,TOR,Porter REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0999,1,02:18,TOR,,SAC,,J. Porter,TOR,Porter REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0999,1,02:08,TOR,,SAC,,J. Porter,TOR,MISS Porter 17' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,21,167,17,1,2.0,0.0,h
+S2324-G0609,1,10:50,TOR,,MEM,,J. Porter,TOR,MISS Porter 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,15,55,6,1,2.0,0.0,h
+S2324-G0609,1,09:13,TOR,,MEM,,J. Porter,TOR,Porter S.FOUL (P1.T2) (J.Conley),Foul,Shooting,0,0,0,0,,,h
+S2324-G0609,1,09:13,TOR,,MEM,,J. Porter,TOR,SUB: Brown FOR Porter,Substitution,,0,0,0,0,,,h
+S2324-G0609,2,07:08,TOR,,MEM,,J. Porter,TOR,MISS Porter 2' Dunk,Missed Shot,Dunk Shot,-9,17,2,1,2.0,0.0,h
+S2324-G0609,2,06:32,TOR,,MEM,,J. Porter,TOR,Porter BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0609,2,05:42,TOR,,MEM,,J. Porter,TOR,Porter REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0609,2,04:39,TOR,,MEM,,J. Porter,TOR,Porter REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0609,2,04:20,TOR,,MEM,,J. Porter,TOR,SUB: Trent Jr. FOR Porter,Substitution,,0,0,0,0,,,h
+S2324-G0672,1,02:50,CHI,,TOR,,J. Porter,TOR,Porter REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0672,1,01:19,CHI,,TOR,,J. Porter,TOR,Porter S.FOUL (P1.T1) (S.Wright),Foul,Shooting,0,0,0,0,,,v
+S2324-G0672,1,01:08,CHI,,TOR,,J. Porter,TOR,Porter Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0672,1,00:28.500000,CHI,,TOR,,J. Porter,TOR,Porter REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0672,1,00:00.800000,CHI,,TOR,,J. Porter,TOR,Porter STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0672,2,11:33,CHI,,TOR,,J. Porter,TOR,SUB: Young FOR Porter,Substitution,,0,0,0,0,,,v
+S2324-G0756,4,02:44,TOR,,CLE,,J. Porter,TOR,MISS Porter 25' 3PT Jump Shot,Missed Shot,Jump Shot,-88,237,25,1,3.0,0.0,h
+S2324-G0890,1,02:45,TOR,26.0,NOP,32.0,J. Porter,TOR,Porter 25' 3PT Jump Shot (3 PTS) (Quickley 3 AST),Made Shot,Jump Shot,-21,251,25,1,3.0,3.0,h
+S2324-G0890,1,00:30.200000,TOR,,NOP,,J. Porter,TOR,MISS Porter 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,60,98,11,1,2.0,0.0,h
+S2324-G0890,1,00:03.600000,TOR,,NOP,,J. Porter,TOR,Porter Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0890,1,00:01.600000,TOR,,NOP,,J. Porter,TOR,Porter S.FOUL (P1.T2) (A.Nagy),Foul,Shooting,0,0,0,0,,,h
+S2324-G0890,2,11:05,TOR,,NOP,,J. Porter,TOR,Porter REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0890,2,09:51,TOR,,NOP,,J. Porter,TOR,MISS Porter 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-61,250,26,1,3.0,0.0,h
+S2324-G0890,2,09:28,TOR,,NOP,,J. Porter,TOR,SUB: Olynyk FOR Porter,Substitution,,0,0,0,0,,,h
+S2324-G0890,3,03:21,TOR,,NOP,,J. Porter,TOR,Porter Out of Bounds - Bad Pass Turnover Turnover (P2.T11),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G0890,3,01:21,TOR,74.0,NOP,100.0,J. Porter,TOR,Porter 9' Jump Shot (5 PTS) (Freeman-Liberty 1 AST),Made Shot,Jump Shot,-32,80,9,1,2.0,2.0,h
+S2324-G0890,4,06:42,TOR,,NOP,,J. Porter,TOR,Porter REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0890,4,06:20,TOR,,NOP,,J. Porter,TOR,Porter REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0890,4,05:51,TOR,,NOP,,J. Porter,TOR,Porter Violation:Kicked Ball (S.Wall),Violation,Kicked Ball,0,0,0,0,,,h
+S2324-G0890,4,04:12,TOR,,NOP,,J. Porter,TOR,MISS Porter 25' 3PT Jump Shot,Missed Shot,Jump Shot,173,176,25,1,3.0,0.0,h
+S2324-G0890,4,03:43,TOR,,NOP,,J. Porter,TOR,Porter Bad Pass Turnover (P3.T12),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0890,4,03:38,TOR,,NOP,,J. Porter,TOR,Porter BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0890,4,03:23,TOR,,NOP,,J. Porter,TOR,SUB: Gueye FOR Porter,Substitution,,0,0,0,0,,,h
+S2324-G0516,3,02:44,LAL,,TOR,,J. Porter,TOR,MISS Porter 25' 3PT Jump Shot,Missed Shot,Jump Shot,222,115,25,1,3.0,0.0,v
+S2324-G0516,3,00:48.200000,LAL,,TOR,,J. Porter,TOR,Porter STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0516,3,00:27,LAL,,TOR,,J. Porter,TOR,SUB: Quickley FOR Porter,Substitution,,0,0,0,0,,,v
+S2324-G0516,4,10:47,LAL,,TOR,,J. Porter,TOR,MISS Porter 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,74,238,25,1,3.0,0.0,v
+S2324-G0516,4,10:16,LAL,,TOR,,J. Porter,TOR,SUB: Young FOR Porter,Substitution,,0,0,0,0,,,v
+S2324-G0946,1,02:16,DET,25.0,TOR,24.0,J. Porter,TOR,Porter 5' Driving Hook Shot (2 PTS) (Quickley 2 AST),Made Shot,Driving Hook Shot,17,46,5,1,2.0,2.0,v
+S2324-G0946,2,09:56,DET,,TOR,,J. Porter,TOR,Porter BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0946,2,09:53,DET,,TOR,,J. Porter,TOR,Porter REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0946,2,09:01,DET,32.0,TOR,36.0,J. Porter,TOR,Porter 27' 3PT Running Jump Shot (5 PTS) (Brown 1 AST),Made Shot,Running Jump Shot,-55,262,27,1,3.0,3.0,v
+S2324-G0946,2,08:27,DET,,TOR,,J. Porter,TOR,Porter BLOCK (2 BLK),,,0,0,0,0,,,v
+S2324-G0946,2,08:16,DET,,TOR,,J. Porter,TOR,MISS Porter 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,100,244,26,1,3.0,0.0,v
+S2324-G0946,2,08:05,DET,,TOR,,J. Porter,TOR,Porter S.FOUL (P1.T1) (J.Williams),Foul,Shooting,0,0,0,0,,,v
+S2324-G0946,2,07:00,DET,,TOR,,J. Porter,TOR,SUB: Olynyk FOR Porter,Substitution,,0,0,0,0,,,v
+S2324-G0946,3,03:44,DET,75.0,TOR,74.0,J. Porter,TOR,Porter Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0946,3,03:44,DET,75.0,TOR,75.0,J. Porter,TOR,Porter Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0946,3,02:45,DET,,TOR,,J. Porter,TOR,Porter REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0946,3,01:46,DET,,TOR,,J. Porter,TOR,Porter REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0946,3,01:01,DET,,TOR,,J. Porter,TOR,Porter BLOCK (3 BLK),,,0,0,0,0,,,v
+S2324-G0946,3,00:29.300000,DET,,TOR,,J. Porter,TOR,Porter REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0946,4,11:31,DET,,TOR,,J. Porter,TOR,Porter BLOCK (4 BLK),,,0,0,0,0,,,v
+S2324-G0946,4,11:28,DET,,TOR,,J. Porter,TOR,Porter REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0946,4,10:02,DET,,TOR,,J. Porter,TOR,MISS Porter Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0946,4,10:02,DET,,TOR,,J. Porter,TOR,MISS Porter Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0946,4,09:44,DET,,TOR,,J. Porter,TOR,Porter REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0946,4,08:15,DET,,TOR,,J. Porter,TOR,MISS Porter 27' 3PT Jump Shot,Missed Shot,Jump Shot,-53,266,27,1,3.0,0.0,v
+S2324-G0946,4,08:01,DET,,TOR,,J. Porter,TOR,SUB: Olynyk FOR Porter,Substitution,,0,0,0,0,,,v
+S2324-G0946,4,02:43,DET,105.0,TOR,92.0,J. Porter,TOR,Porter 26' 3PT Jump Shot (10 PTS) (Quickley 7 AST),Made Shot,Jump Shot,75,252,26,1,3.0,3.0,v
+S2324-G0946,4,02:00,DET,,TOR,,J. Porter,TOR,Porter STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0946,4,00:43.900000,DET,,TOR,,J. Porter,TOR,Porter P.FOUL (P2.T4) (J.Williams),Foul,Personal,0,0,0,0,,,v
+S2324-G0946,4,00:17,DET,,TOR,,J. Porter,TOR,MISS Porter 29' 3PT Jump Shot,Missed Shot,Jump Shot,158,243,29,1,3.0,0.0,v
+S2324-G0946,4,00:14.800000,DET,,TOR,,J. Porter,TOR,SUB: Nwora FOR Porter,Substitution,,0,0,0,0,,,v
+S2324-G1012,1,05:42,TOR,,OKC,,J. Porter,TOR,Porter Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G1012,1,04:56,TOR,,OKC,,J. Porter,TOR,Porter BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G1012,1,04:45,TOR,,OKC,,J. Porter,TOR,Porter STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1012,2,11:30,TOR,,OKC,,J. Porter,TOR,Porter Out of Bounds - Bad Pass Turnover Turnover (P2.T4),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G1012,2,11:09,TOR,37.0,OKC,32.0,J. Porter,TOR,Porter 9' Turnaround Hook Shot (2 PTS) (Ramsey 1 AST),Made Shot,Turnaround Hook Shot,-44,83,9,1,2.0,2.0,h
+S2324-G1012,2,10:56,TOR,,OKC,,J. Porter,TOR,Porter REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1012,2,10:42,TOR,,OKC,,J. Porter,TOR,SUB: Olynyk FOR Porter,Substitution,,0,0,0,0,,,h
+S2324-G1012,3,04:17,TOR,,OKC,,J. Porter,TOR,Porter STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G1012,3,03:59,TOR,,OKC,,J. Porter,TOR,Porter REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1012,3,02:19,TOR,,OKC,,J. Porter,TOR,Porter Bad Pass Turnover (P3.T16),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G1012,3,00:20,TOR,77.0,OKC,89.0,J. Porter,TOR,Porter Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1012,3,00:20,TOR,78.0,OKC,89.0,J. Porter,TOR,Porter Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1012,3,00:00.400000,TOR,,OKC,,J. Porter,TOR,Porter REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1012,4,09:15,TOR,88.0,OKC,94.0,J. Porter,TOR,Porter 26' 3PT Jump Bank Shot (7 PTS) (Nwora 2 AST),Made Shot,Jump Bank Shot,23,257,26,1,3.0,3.0,h
+S2324-G1012,4,07:04,TOR,,OKC,,J. Porter,TOR,SUB: Olynyk FOR Porter,Substitution,,0,0,0,0,,,h
+S2324-G1012,4,02:15,TOR,,OKC,,J. Porter,TOR,MISS Porter 26' 3PT Jump Shot,Missed Shot,Jump Shot,-207,150,26,1,3.0,0.0,h
+S2324-G0526,1,06:22,LAC,14.0,TOR,13.0,J. Porter,TOR,Porter 2' Alley Oop Layup (2 PTS) (Barnes 3 AST),Made Shot,Alley Oop Layup shot,-9,16,2,1,2.0,2.0,v
+S2324-G0526,1,05:33,LAC,,TOR,,J. Porter,TOR,Porter S.FOUL (P1.T2) (T.Brothers),Foul,Shooting,0,0,0,0,,,v
+S2324-G0526,1,05:04,LAC,,TOR,,J. Porter,TOR,Porter REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0526,1,03:40,LAC,22.0,TOR,17.0,J. Porter,TOR,Porter 17' Pullup Jump Shot (4 PTS) (Trent Jr. 1 AST),Made Shot,Pullup Jump shot,12,166,17,1,2.0,2.0,v
+S2324-G0526,1,02:44,LAC,,TOR,,J. Porter,TOR,Porter REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0526,1,02:30,LAC,,TOR,,J. Porter,TOR,MISS Porter 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,10,110,11,1,2.0,0.0,v
+S2324-G0526,1,01:16,LAC,,TOR,,J. Porter,TOR,Porter P.FOUL (P2.PN) (G.Petraitis),Foul,Personal,0,0,0,0,,,v
+S2324-G0526,2,11:04,LAC,,TOR,,J. Porter,TOR,Porter REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0526,2,11:04,LAC,28.0,TOR,33.0,J. Porter,TOR,Porter Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2324-G0526,2,10:33,LAC,30.0,TOR,36.0,J. Porter,TOR,Porter 27' 3PT Jump Shot (9 PTS) (Schroder 3 AST),Made Shot,Jump Shot,-114,245,27,1,3.0,3.0,v
+S2324-G0526,2,10:07,LAC,,TOR,,J. Porter,TOR,Porter OFF.Foul (P3) (G.Petraitis),Foul,Offensive,0,0,0,0,,,v
+S2324-G0526,2,10:07,LAC,,TOR,,J. Porter,TOR,Porter Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0526,2,10:07,LAC,,TOR,,J. Porter,TOR,SUB: Boucher FOR Porter,Substitution,,0,0,0,0,,,v
+S2324-G0526,3,06:14,LAC,,TOR,,J. Porter,TOR,MISS Porter 27' 3PT Jump Shot,Missed Shot,Jump Shot,127,235,27,1,3.0,0.0,v
+S2324-G0526,3,02:50,LAC,,TOR,,J. Porter,TOR,Porter REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0526,3,02:50,LAC,,TOR,,J. Porter,TOR,MISS Porter Putback Layup,Missed Shot,Putback Layup Shot,0,0,0,1,2.0,0.0,v
+S2324-G0526,3,02:02,LAC,,TOR,,J. Porter,TOR,Porter OFF.Foul (P4) (T.Brothers),Foul,Offensive,0,0,0,0,,,v
+S2324-G0526,3,02:02,LAC,,TOR,,J. Porter,TOR,Porter Offensive Foul Turnover (P2.T11),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0526,3,01:51,LAC,,TOR,,J. Porter,TOR,Porter REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0526,3,01:01,LAC,,TOR,,J. Porter,TOR,Porter Bad Pass Turnover (P3.T12),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0526,3,00:28.600000,LAC,,TOR,,J. Porter,TOR,SUB: Young FOR Porter,Substitution,,0,0,0,0,,,v
+S2324-G0526,4,10:27,LAC,,TOR,,J. Porter,TOR,Porter REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0526,4,09:54,LAC,,TOR,,J. Porter,TOR,MISS Porter 26' 3PT Jump Shot,Missed Shot,Jump Shot,100,243,26,1,3.0,0.0,v
+S2324-G0526,4,08:11,LAC,,TOR,,J. Porter,TOR,Porter REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0526,4,08:11,LAC,,TOR,,J. Porter,TOR,SUB: Barnes FOR Porter,Substitution,,0,0,0,0,,,v
+S2324-G0875,3,05:15,TOR,,CHA,,J. Porter,TOR,MISS Porter 27' 3PT Jump Shot,Missed Shot,Jump Shot,-45,265,27,1,3.0,0.0,h
+S2324-G0875,3,02:30,TOR,,CHA,,J. Porter,TOR,Porter REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0875,3,01:56,TOR,,CHA,,J. Porter,TOR,Porter L.B.FOUL (P1.T3) (M.Lindsay),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0875,3,00:52.300000,TOR,,CHA,,J. Porter,TOR,Porter Bad Pass Turnover (P1.T13),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0875,4,04:38,TOR,,CHA,,J. Porter,TOR,SUB: Barrett FOR Porter,Substitution,,0,0,0,0,,,h

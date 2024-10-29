@@ -1,0 +1,449 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2324-G0899,4,02:42,GSW,,MIL,,M. Beauchamp,MIL,MISS Beauchamp 4' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,-34,26,4,1,2.0,0.0,v
+S2324-G0899,4,01:47,GSW,,MIL,,M. Beauchamp,MIL,MISS Beauchamp 4' Running Layup,Missed Shot,Running Layup Shot,25,27,4,1,2.0,0.0,v
+S2324-G0899,4,00:52.700000,GSW,,MIL,,M. Beauchamp,MIL,MISS Beauchamp 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-191,172,26,1,3.0,0.0,v
+S2324-G0572,2,08:08,CLE,,MIL,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0572,2,08:08,CLE,,MIL,,M. Beauchamp,MIL,MISS Beauchamp Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2324-G0572,2,07:59,CLE,,MIL,,M. Beauchamp,MIL,SUB: Beasley FOR Beauchamp,Substitution,,0,0,0,0,,,v
+S2324-G0572,3,07:56,CLE,,MIL,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0572,3,05:53,CLE,,MIL,,M. Beauchamp,MIL,Beauchamp Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0572,3,04:21,CLE,,MIL,,M. Beauchamp,MIL,MISS Beauchamp 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-1,105,11,1,2.0,0.0,v
+S2324-G0572,3,02:37,CLE,,MIL,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0572,3,01:17,CLE,,MIL,,M. Beauchamp,MIL,SUB: Green FOR Beauchamp,Substitution,,0,0,0,0,,,v
+S2324-G0572,4,05:20,CLE,,MIL,,M. Beauchamp,MIL,MISS Beauchamp 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-25,157,16,1,2.0,0.0,v
+S2324-G0572,4,01:01,CLE,,MIL,,M. Beauchamp,MIL,Beauchamp L.B.FOUL (P1.T4) (D.Taylor),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0773,4,06:18,MIL,,MIA,,M. Beauchamp,MIL,Beauchamp Traveling Turnover (P1.T16),Turnover,Traveling,0,0,0,0,,,h
+S2324-G0773,4,05:38,MIL,,MIA,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0773,4,05:34,MIL,,MIA,,M. Beauchamp,MIL,MISS Beauchamp Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0773,4,05:34,MIL,88.0,MIA,117.0,M. Beauchamp,MIL,Beauchamp Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0773,4,04:37,MIL,,MIA,,M. Beauchamp,MIL,MISS Beauchamp 25' 3PT Jump Shot,Missed Shot,Jump Shot,-234,86,25,1,3.0,0.0,h
+S2324-G0773,4,04:17,MIL,89.0,MIA,117.0,M. Beauchamp,MIL,Beauchamp Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0773,4,04:17,MIL,90.0,MIA,117.0,M. Beauchamp,MIL,Beauchamp Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0773,4,04:05,MIL,,MIA,,M. Beauchamp,MIL,Beauchamp STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0773,4,04:00,MIL,,MIA,,M. Beauchamp,MIL,MISS Beauchamp 3' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,15,23,3,1,2.0,0.0,h
+S2324-G0773,4,03:28,MIL,,MIA,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0773,4,03:24,MIL,,MIA,,M. Beauchamp,MIL,Beauchamp Lost Ball Turnover (P2.T17),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0773,4,02:01,MIL,95.0,MIA,119.0,M. Beauchamp,MIL,Beauchamp 27' 3PT Step Back Jump Shot (6 PTS) (T. Antetokounmpo 1 AST),Made Shot,Step Back Jump shot,-222,157,27,1,3.0,3.0,h
+S2324-G0773,4,01:41,MIL,,MIA,,M. Beauchamp,MIL,Beauchamp S.FOUL (P1.T3) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,h
+S2324-G0773,4,01:14,MIL,97.0,MIA,121.0,M. Beauchamp,MIL,Beauchamp 1' Running Dunk (8 PTS) (Jackson Jr. 2 AST),Made Shot,Running Dunk Shot,5,4,1,1,2.0,2.0,h
+S2324-G0315,1,05:28,MIL,16.0,IND,22.0,M. Beauchamp,MIL,Beauchamp 17' Step Back Jump Shot (2 PTS),Made Shot,Step Back Jump shot,-12,169,17,1,2.0,2.0,h
+S2324-G0315,1,04:36,MIL,,IND,,M. Beauchamp,MIL,Beauchamp OFF.Foul (P1) (A.Nagy),Foul,Offensive,0,0,0,0,,,h
+S2324-G0315,1,04:36,MIL,,IND,,M. Beauchamp,MIL,Beauchamp Offensive Foul Turnover (P1.T1),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0315,1,03:04,MIL,,IND,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0315,1,03:02,MIL,24.0,IND,26.0,M. Beauchamp,MIL,Beauchamp 1' Running Layup (4 PTS),Made Shot,Running Layup Shot,1,8,1,1,2.0,2.0,h
+S2324-G0315,1,01:51,MIL,,IND,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0315,1,01:50,MIL,,IND,,M. Beauchamp,MIL,Beauchamp Out of Bounds - Bad Pass Turnover Turnover (P2.T2),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G0315,2,11:11,MIL,,IND,,M. Beauchamp,MIL,SUB: Middleton FOR Beauchamp,Substitution,,0,0,0,0,,,h
+S2324-G0315,3,06:09,MIL,,IND,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0315,3,02:41,MIL,,IND,,M. Beauchamp,MIL,Beauchamp Out of Bounds - Bad Pass Turnover Turnover (P3.T10),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G0315,3,01:15,MIL,,IND,,M. Beauchamp,MIL,Beauchamp P.FOUL (P2.PN) (A.Nagy),Foul,Personal,0,0,0,0,,,h
+S2324-G0315,3,00:39.200000,MIL,101.0,IND,92.0,M. Beauchamp,MIL,Beauchamp 2' Cutting Dunk Shot (6 PTS) (Payne 3 AST),Made Shot,Cutting Dunk Shot,-21,10,2,1,2.0,2.0,h
+S2324-G0315,4,02:12,MIL,,IND,,M. Beauchamp,MIL,MISS Beauchamp 2' Driving Layup,Missed Shot,Driving Layup Shot,-6,21,2,1,2.0,0.0,h
+S2324-G0315,4,02:04,MIL,,IND,,M. Beauchamp,MIL,SUB: Lillard FOR Beauchamp,Substitution,,0,0,0,0,,,h
+S2324-G0745,4,07:24,MIL,,CHA,,M. Beauchamp,MIL,Beauchamp S.FOUL (P1.T3) (N.Buchert),Foul,Shooting,0,0,0,0,,,h
+S2324-G0745,4,06:37,MIL,,CHA,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0745,4,06:36,MIL,110.0,CHA,69.0,M. Beauchamp,MIL,Beauchamp Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0745,4,06:36,MIL,111.0,CHA,69.0,M. Beauchamp,MIL,Beauchamp Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0745,4,05:15,MIL,,CHA,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0745,4,05:11,MIL,112.0,CHA,73.0,M. Beauchamp,MIL,Beauchamp Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0745,4,05:11,MIL,113.0,CHA,73.0,M. Beauchamp,MIL,Beauchamp Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0745,4,03:16,MIL,,CHA,,M. Beauchamp,MIL,MISS Beauchamp 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-137,222,26,1,3.0,0.0,h
+S2324-G0745,4,02:27,MIL,,CHA,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0745,4,01:50,MIL,,CHA,,M. Beauchamp,MIL,MISS Beauchamp 9' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,0,94,9,1,2.0,0.0,h
+S2324-G0745,4,00:33.600000,MIL,,CHA,,M. Beauchamp,MIL,Beauchamp P.FOUL (P2.PN) (R.Hussey),Foul,Personal,0,0,0,0,,,h
+S2324-G0417,2,11:42,BKN,,MIL,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0417,2,05:47,BKN,,MIL,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0417,2,05:32,BKN,,MIL,,M. Beauchamp,MIL,MISS Beauchamp 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-47,254,26,1,3.0,0.0,v
+S2324-G0417,2,04:11,BKN,43.0,MIL,53.0,M. Beauchamp,MIL,Beauchamp 20' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,191,47,20,1,2.0,2.0,v
+S2324-G0417,2,03:23,BKN,,MIL,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0417,2,02:19,BKN,,MIL,,M. Beauchamp,MIL,SUB: Beasley FOR Beauchamp,Substitution,,0,0,0,0,,,v
+S2324-G0417,3,04:00,BKN,,MIL,,M. Beauchamp,MIL,Beauchamp STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0417,3,03:52,BKN,,MIL,,M. Beauchamp,MIL,MISS Beauchamp 1' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,6,6,1,1,2.0,0.0,v
+S2324-G0417,3,03:45,BKN,82.0,MIL,86.0,M. Beauchamp,MIL,Beauchamp Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0417,3,03:45,BKN,,MIL,,M. Beauchamp,MIL,MISS Beauchamp Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0417,3,01:26,BKN,90.0,MIL,94.0,M. Beauchamp,MIL,Beauchamp 25' 3PT Pullup Jump Shot (6 PTS) (Portis 3 AST),Made Shot,Pullup Jump shot,112,221,25,1,3.0,3.0,v
+S2324-G0417,4,11:32,BKN,,MIL,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0417,4,10:25,BKN,94.0,MIL,107.0,M. Beauchamp,MIL,Beauchamp 1' Running Dunk (8 PTS) (Payne 5 AST),Made Shot,Running Dunk Shot,4,10,1,1,2.0,2.0,v
+S2324-G0417,4,09:50,BKN,,MIL,,M. Beauchamp,MIL,Beauchamp S.FOUL (P1.T3) (T.Maddox),Foul,Shooting,0,0,0,0,,,v
+S2324-G0417,4,07:31,BKN,103.0,MIL,116.0,M. Beauchamp,MIL,Beauchamp 24' 3PT Jump Shot (11 PTS) (Middleton 7 AST),Made Shot,Jump Shot,233,38,24,1,3.0,3.0,v
+S2324-G0417,4,07:20,BKN,,MIL,,M. Beauchamp,MIL,Beauchamp S.FOUL (P2.PN) (T.Maddox),Foul,Shooting,0,0,0,0,,,v
+S2324-G0417,4,05:09,BKN,,MIL,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0417,4,05:08,BKN,,MIL,,M. Beauchamp,MIL,SUB: Beasley FOR Beauchamp,Substitution,,0,0,0,0,,,v
+S2324-G0378,2,10:13,MIL,,ORL,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0378,2,10:12,MIL,,ORL,,M. Beauchamp,MIL,Beauchamp Traveling Turnover (P1.T4),Turnover,Traveling,0,0,0,0,,,h
+S2324-G0378,2,10:02,MIL,,ORL,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0378,2,09:36,MIL,,ORL,,M. Beauchamp,MIL,MISS Beauchamp 24' 3PT Jump Shot,Missed Shot,Jump Shot,244,-3,24,1,3.0,0.0,h
+S2324-G0378,2,08:35,MIL,35.0,ORL,41.0,M. Beauchamp,MIL,Beauchamp 26' 3PT Jump Shot (3 PTS) (Payne 1 AST),Made Shot,Jump Shot,230,125,26,1,3.0,3.0,h
+S2324-G0378,2,07:19,MIL,39.0,ORL,45.0,M. Beauchamp,MIL,Beauchamp 2' Driving Dunk (5 PTS) (Payne 3 AST),Made Shot,Driving Dunk Shot,0,19,2,1,2.0,2.0,h
+S2324-G0378,2,04:36,MIL,,ORL,,M. Beauchamp,MIL,Beauchamp P.FOUL (P1.T3) (N.Green),Foul,Personal,0,0,0,0,,,h
+S2324-G0378,2,04:36,MIL,,ORL,,M. Beauchamp,MIL,SUB: Lillard FOR Beauchamp,Substitution,,0,0,0,0,,,h
+S2324-G0378,3,04:52,MIL,,ORL,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0378,3,04:37,MIL,,ORL,,M. Beauchamp,MIL,Beauchamp Out of Bounds - Bad Pass Turnover Turnover (P2.T9),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G0378,3,01:02,MIL,,ORL,,M. Beauchamp,MIL,Beauchamp S.FOUL (P2.PN) (N.Green),Foul,Shooting,0,0,0,0,,,h
+S2324-G0401,2,10:11,NYK,,MIL,,M. Beauchamp,MIL,Beauchamp STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0401,2,06:22,NYK,,MIL,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0401,2,06:16,NYK,,MIL,,M. Beauchamp,MIL,SUB: Beasley FOR Beauchamp,Substitution,,0,0,0,0,,,v
+S2324-G0840,4,07:36,MIL,,CHA,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0840,4,06:43,MIL,114.0,CHA,65.0,M. Beauchamp,MIL,Beauchamp 26' 3PT Running Pull-Up Jump Shot (3 PTS) (Connaughton 4 AST),Made Shot,Running Pull-Up Jump Shot,194,171,26,1,3.0,3.0,h
+S2324-G0840,4,05:10,MIL,,CHA,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0840,4,05:05,MIL,116.0,CHA,69.0,M. Beauchamp,MIL,Beauchamp 1' Running Finger Roll Layup (5 PTS),Made Shot,Running Finger Roll Layup Shot,9,8,1,1,2.0,2.0,h
+S2324-G0840,4,02:28,MIL,120.0,CHA,77.0,M. Beauchamp,MIL,Beauchamp 2' Driving Layup (7 PTS) (Livingston 1 AST),Made Shot,Driving Layup Shot,6,14,2,1,2.0,2.0,h
+S2324-G0840,4,00:23.500000,MIL,,CHA,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1179,4,04:43,OKC,114.0,MIL,94.0,M. Beauchamp,MIL,Beauchamp 26' 3PT Jump Shot (3 PTS) (Washington Jr. 1 AST),Made Shot,Jump Shot,114,237,26,1,3.0,3.0,v
+S2324-G1179,4,03:13,OKC,,MIL,,M. Beauchamp,MIL,MISS Beauchamp 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,138,215,26,1,3.0,0.0,v
+S2324-G1179,4,02:24,OKC,123.0,MIL,98.0,M. Beauchamp,MIL,Beauchamp 4' Fadeaway Bank Shot (5 PTS) (Rollins 1 AST),Made Shot,Fadeaway Bank shot,-42,4,4,1,2.0,2.0,v
+S2324-G1179,4,01:00,OKC,,MIL,,M. Beauchamp,MIL,Beauchamp BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G1179,4,00:57,OKC,,MIL,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1179,4,00:35.700000,OKC,,MIL,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1179,4,00:32.400000,OKC,125.0,MIL,107.0,M. Beauchamp,MIL,Beauchamp 11' Running Pull-Up Jump Shot (7 PTS),Made Shot,Running Pull-Up Jump Shot,-21,104,11,1,2.0,2.0,v
+S2324-G0528,4,10:42,MIL,,BOS,,M. Beauchamp,MIL,MISS Beauchamp 24' 3PT Jump Shot,Missed Shot,Jump Shot,186,159,24,1,3.0,0.0,h
+S2324-G0528,4,07:16,MIL,,BOS,,M. Beauchamp,MIL,MISS Beauchamp 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-234,62,24,1,3.0,0.0,h
+S2324-G0528,4,06:35,MIL,,BOS,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0528,4,05:01,MIL,,BOS,,M. Beauchamp,MIL,Beauchamp BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0528,4,03:52,MIL,,BOS,,M. Beauchamp,MIL,Beauchamp Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G1030,4,02:54,MIL,113.0,OKC,87.0,M. Beauchamp,MIL,Beauchamp 14' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,46,128,14,1,2.0,2.0,h
+S2324-G1030,4,02:15,MIL,,OKC,,M. Beauchamp,MIL,MISS Beauchamp 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-88,245,26,1,3.0,0.0,h
+S2324-G1030,4,01:40,MIL,,OKC,,M. Beauchamp,MIL,Beauchamp S.FOUL (P1.PN) (J.Goble),Foul,Shooting,0,0,0,0,,,h
+S2324-G0334,1,11:39,MIL,,DET,,M. Beauchamp,MIL,MISS Beauchamp 3PT Jump Shot,Missed Shot,Jump Shot,229,6,0,1,3.0,0.0,h
+S2324-G0334,1,11:18,MIL,1.0,DET,0.0,M. Beauchamp,MIL,Beauchamp Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0334,1,11:18,MIL,2.0,DET,0.0,M. Beauchamp,MIL,Beauchamp Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0334,1,10:01,MIL,5.0,DET,0.0,M. Beauchamp,MIL,Beauchamp 3PT Jump Shot (5 PTS) (G. Antetokounmpo 1 AST),Made Shot,Jump Shot,224,20,0,1,3.0,3.0,h
+S2324-G0334,1,09:44,MIL,,DET,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0334,1,09:38,MIL,,DET,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0334,1,09:38,MIL,7.0,DET,0.0,M. Beauchamp,MIL,Beauchamp Tip Layup Shot (7 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2324-G0334,1,08:09,MIL,,DET,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0334,1,04:38,MIL,27.0,DET,14.0,M. Beauchamp,MIL,Beauchamp 1' Driving Dunk (9 PTS),Made Shot,Driving Dunk Shot,6,11,1,1,2.0,2.0,h
+S2324-G0334,1,03:52,MIL,,DET,,M. Beauchamp,MIL,Beauchamp Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0334,1,03:07,MIL,,DET,,M. Beauchamp,MIL,SUB: Green FOR Beauchamp,Substitution,,0,0,0,0,,,h
+S2324-G0334,2,06:05,MIL,,DET,,M. Beauchamp,MIL,Beauchamp STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0334,2,06:00,MIL,64.0,DET,34.0,M. Beauchamp,MIL,Beauchamp 1' Running Reverse Layup (11 PTS),Made Shot,Running Reverse Layup Shot,2,5,1,1,2.0,2.0,h
+S2324-G0334,2,02:17,MIL,,DET,,M. Beauchamp,MIL,Beauchamp Bad Pass Turnover (P2.T6),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0334,2,01:28,MIL,,DET,,M. Beauchamp,MIL,Beauchamp STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0334,2,01:23,MIL,,DET,,M. Beauchamp,MIL,Beauchamp Bad Pass Turnover (P3.T7),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0334,2,01:10,MIL,,DET,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0334,3,10:14,MIL,,DET,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0334,3,05:55,MIL,,DET,,M. Beauchamp,MIL,MISS Beauchamp 10' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,43,95,10,1,2.0,0.0,h
+S2324-G0334,3,03:53,MIL,,DET,,M. Beauchamp,MIL,SUB: Green FOR Beauchamp,Substitution,,0,0,0,0,,,h
+S2324-G0334,4,06:47,MIL,,DET,,M. Beauchamp,MIL,MISS Beauchamp 5' Driving Layup,Missed Shot,Driving Layup Shot,-36,37,5,1,2.0,0.0,h
+S2324-G0334,4,06:10,MIL,,DET,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0334,4,05:28,MIL,,DET,,M. Beauchamp,MIL,MISS Beauchamp 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,75,143,16,1,2.0,0.0,h
+S2324-G0334,4,03:04,MIL,,DET,,M. Beauchamp,MIL,SUB: Green FOR Beauchamp,Substitution,,0,0,0,0,,,h
+S2324-G0477,1,03:01,SAS,,MIL,,M. Beauchamp,MIL,MISS Beauchamp 3PT Jump Shot,Missed Shot,Jump Shot,225,15,0,1,3.0,0.0,v
+S2324-G0477,1,01:59,SAS,,MIL,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0477,1,01:59,SAS,,MIL,,M. Beauchamp,MIL,MISS Beauchamp Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2324-G0477,1,01:05,SAS,,MIL,,M. Beauchamp,MIL,MISS Beauchamp 2' Layup,Missed Shot,Layup Shot,-2,17,2,1,2.0,0.0,v
+S2324-G0477,1,00:04.800000,SAS,31.0,MIL,38.0,M. Beauchamp,MIL,Beauchamp 3PT Jump Shot (3 PTS) (G. Antetokounmpo 3 AST),Made Shot,Jump Shot,225,13,0,1,3.0,3.0,v
+S2324-G0477,2,11:39,SAS,,MIL,,M. Beauchamp,MIL,Beauchamp S.FOUL (P1.T1) (J.Butler),Foul,Shooting,0,0,0,0,,,v
+S2324-G0477,2,08:02,SAS,,MIL,,M. Beauchamp,MIL,Beauchamp Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0477,2,07:53,SAS,,MIL,,M. Beauchamp,MIL,SUB: Beasley FOR Beauchamp,Substitution,,0,0,0,0,,,v
+S2324-G0477,3,06:00,SAS,,MIL,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0477,3,04:16,SAS,80.0,MIL,85.0,M. Beauchamp,MIL,Beauchamp 3PT Jump Shot (6 PTS) (G. Antetokounmpo 5 AST),Made Shot,Jump Shot,-222,67,0,1,3.0,3.0,v
+S2324-G0477,3,03:19,SAS,,MIL,,M. Beauchamp,MIL,MISS Beauchamp 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,93,237,25,1,3.0,0.0,v
+S2324-G0477,3,00:43.900000,SAS,91.0,MIL,93.0,M. Beauchamp,MIL,Beauchamp 5' Floating Jump Shot (8 PTS) (G. Antetokounmpo 6 AST),Made Shot,Floating Jump shot,11,50,5,1,2.0,2.0,v
+S2324-G0477,3,00:26,SAS,,MIL,,M. Beauchamp,MIL,MISS Beauchamp 1' Driving Layup,Missed Shot,Driving Layup Shot,7,13,1,1,2.0,0.0,v
+S2324-G0477,4,09:58,SAS,,MIL,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0477,4,09:28,SAS,,MIL,,M. Beauchamp,MIL,SUB: Lillard FOR Beauchamp,Substitution,,0,0,0,0,,,v
+S2324-G0190,1,04:14,MIL,,CHI,,M. Beauchamp,MIL,Beauchamp STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0190,1,04:10,MIL,20.0,CHI,8.0,M. Beauchamp,MIL,Beauchamp 3' Running Dunk (2 PTS),Made Shot,Running Dunk Shot,10,26,3,1,2.0,2.0,h
+S2324-G0190,1,03:40,MIL,,CHI,,M. Beauchamp,MIL,MISS Beauchamp 8' Turnaround Bank Shot,Missed Shot,Turnaround Bank shot,56,52,8,1,2.0,0.0,h
+S2324-G0190,1,02:54,MIL,,CHI,,M. Beauchamp,MIL,Beauchamp BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0190,1,02:38,MIL,,CHI,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0190,2,09:30,MIL,,CHI,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0190,2,09:23,MIL,,CHI,,M. Beauchamp,MIL,MISS Beauchamp 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,8,24,1,3.0,0.0,h
+S2324-G0190,2,09:07,MIL,,CHI,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0190,2,08:12,MIL,,CHI,,M. Beauchamp,MIL,MISS Beauchamp 29' 3PT Jump Shot,Missed Shot,Jump Shot,130,254,29,1,3.0,0.0,h
+S2324-G0190,2,07:39,MIL,,CHI,,M. Beauchamp,MIL,MISS Beauchamp 16' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,4,159,16,1,2.0,0.0,h
+S2324-G0190,2,07:25,MIL,,CHI,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0190,2,05:47,MIL,,CHI,,M. Beauchamp,MIL,SUB: Connaughton FOR Beauchamp,Substitution,,0,0,0,0,,,h
+S2324-G0190,4,08:58,MIL,96.0,CHI,81.0,M. Beauchamp,MIL,Beauchamp 3PT Jump Shot (5 PTS) (Payne 5 AST),Made Shot,Jump Shot,232,10,0,1,3.0,3.0,h
+S2324-G0190,4,07:25,MIL,,CHI,,M. Beauchamp,MIL,Beauchamp P.FOUL (P1.T4) (B.Schwab),Foul,Personal,0,0,0,0,,,h
+S2324-G0190,4,06:26,MIL,,CHI,,M. Beauchamp,MIL,Beauchamp Traveling Turnover (P1.T13),Turnover,Traveling,0,0,0,0,,,h
+S2324-G0190,4,06:13,MIL,,CHI,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0190,4,06:08,MIL,103.0,CHI,87.0,M. Beauchamp,MIL,Beauchamp 25' 3PT Jump Shot (8 PTS) (Connaughton 5 AST),Made Shot,Jump Shot,-245,5,25,1,3.0,3.0,h
+S2324-G0190,4,04:50,MIL,,CHI,,M. Beauchamp,MIL,SUB: Middleton FOR Beauchamp,Substitution,,0,0,0,0,,,h
+S2324-G1191,4,06:22,ORL,101.0,MIL,77.0,M. Beauchamp,MIL,Beauchamp 3' Cutting Layup Shot (2 PTS) (Washington Jr. 1 AST),Made Shot,Cutting Layup Shot,-25,15,3,1,2.0,2.0,v
+S2324-G1191,4,05:45,ORL,103.0,MIL,79.0,M. Beauchamp,MIL,Beauchamp 19' Pullup Jump Shot (4 PTS) (Washington Jr. 2 AST),Made Shot,Pullup Jump shot,74,172,19,1,2.0,2.0,v
+S2324-G1191,4,05:26,ORL,,MIL,,M. Beauchamp,MIL,Beauchamp STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G1191,4,05:05,ORL,,MIL,,M. Beauchamp,MIL,MISS Beauchamp 3' Driving Layup,Missed Shot,Driving Layup Shot,-24,14,3,1,2.0,0.0,v
+S2324-G1191,4,03:44,ORL,,MIL,,M. Beauchamp,MIL,MISS Beauchamp 22' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-167,143,22,1,2.0,0.0,v
+S2324-G1191,4,02:52,ORL,,MIL,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1191,4,01:31,ORL,111.0,MIL,84.0,M. Beauchamp,MIL,Beauchamp 24' 3PT Jump Shot (7 PTS) (Rollins 2 AST),Made Shot,Jump Shot,235,58,24,1,3.0,3.0,v
+S2324-G1191,4,01:00,ORL,,MIL,,M. Beauchamp,MIL,Beauchamp P.FOUL (P1.PN) (R.Acosta),Foul,Personal,0,0,0,0,,,v
+S2324-G0738,4,03:25,MIL,,MIN,,M. Beauchamp,MIL,MISS Beauchamp 25' 3PT Jump Shot,Missed Shot,Jump Shot,-190,160,25,1,3.0,0.0,h
+S2324-G0738,4,01:48,MIL,100.0,MIN,124.0,M. Beauchamp,MIL,Beauchamp 1' Driving Dunk (2 PTS) (Green 2 AST),Made Shot,Driving Dunk Shot,-6,5,1,1,2.0,2.0,h
+S2324-G0738,4,01:06,MIL,,MIN,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0165,1,04:04,MIL,15.0,DET,13.0,M. Beauchamp,MIL,Beauchamp Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0165,1,04:04,MIL,16.0,DET,13.0,M. Beauchamp,MIL,Beauchamp Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0165,1,01:56,MIL,,DET,,M. Beauchamp,MIL,MISS Beauchamp 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-235,27,24,1,3.0,0.0,h
+S2324-G0165,1,01:14,MIL,,DET,,M. Beauchamp,MIL,Beauchamp P.FOUL (P1.T3) (S.Twardoski),Foul,Personal,0,0,0,0,,,h
+S2324-G0165,1,00:43.400000,MIL,,DET,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0165,1,00:18.600000,MIL,,DET,,M. Beauchamp,MIL,Beauchamp P.FOUL (P2.PN) (M.Ervin),Foul,Personal,0,0,0,0,,,h
+S2324-G0165,1,00:06,MIL,24.0,DET,23.0,M. Beauchamp,MIL,Beauchamp 3' Cutting Layup Shot (4 PTS) (Payne 2 AST),Made Shot,Cutting Layup Shot,5,32,3,1,2.0,2.0,h
+S2324-G0165,2,05:54,MIL,49.0,DET,37.0,M. Beauchamp,MIL,Beauchamp 20' Pullup Jump Shot (6 PTS) (G. Antetokounmpo 3 AST),Made Shot,Pullup Jump shot,-16,202,20,1,2.0,2.0,h
+S2324-G0165,2,04:10,MIL,,DET,,M. Beauchamp,MIL,Beauchamp Out of Bounds Lost Ball Turnover (P1.T4),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2324-G0165,3,06:07,MIL,,DET,,M. Beauchamp,MIL,Jump Ball Beauchamp vs. Thompson: Tip to Thompson,Jump Ball,,0,0,0,0,,,h
+S2324-G0165,3,05:48,MIL,,DET,,M. Beauchamp,MIL,MISS Beauchamp 25' 3PT Jump Shot,Missed Shot,Jump Shot,154,199,25,1,3.0,0.0,h
+S2324-G0165,3,03:27,MIL,,DET,,M. Beauchamp,MIL,Beauchamp P.FOUL (P3.T3) (R.Mott),Foul,Personal,0,0,0,0,,,h
+S2324-G0165,3,00:09,MIL,,DET,,M. Beauchamp,MIL,MISS Beauchamp 4' Running Jump Shot,Missed Shot,Running Jump Shot,33,14,4,1,2.0,0.0,h
+S2324-G0165,4,11:28,MIL,,DET,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0165,4,11:13,MIL,92.0,DET,97.0,M. Beauchamp,MIL,Beauchamp 16' Pullup Jump Shot (8 PTS) (Portis 2 AST),Made Shot,Pullup Jump shot,86,140,16,1,2.0,2.0,h
+S2324-G0165,4,10:42,MIL,94.0,DET,99.0,M. Beauchamp,MIL,Beauchamp 12' Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,15,118,12,1,2.0,2.0,h
+S2324-G0165,4,10:14,MIL,,DET,,M. Beauchamp,MIL,MISS Beauchamp 25' 3PT Jump Shot,Missed Shot,Jump Shot,-162,193,25,1,3.0,0.0,h
+S2324-G0165,4,07:14,MIL,,DET,,M. Beauchamp,MIL,Beauchamp S.FOUL (P4.T2) (M.Ervin),Foul,Shooting,0,0,0,0,,,h
+S2324-G0165,4,07:14,MIL,,DET,,M. Beauchamp,MIL,SUB: Beasley FOR Beauchamp,Substitution,,0,0,0,0,,,h
+S2324-G0173,1,02:02,ORL,21.0,MIL,20.0,M. Beauchamp,MIL,Beauchamp 2' Driving Layup (2 PTS) (Connaughton 1 AST),Made Shot,Driving Layup Shot,17,6,2,1,2.0,2.0,v
+S2324-G0173,1,00:35.800000,ORL,,MIL,,M. Beauchamp,MIL,MISS Beauchamp 2' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,13,11,2,1,2.0,0.0,v
+S2324-G0173,1,00:00,ORL,,MIL,,M. Beauchamp,MIL,MISS Beauchamp 3PT Jump Shot,Missed Shot,Jump Shot,229,31,0,1,3.0,0.0,v
+S2324-G0173,2,10:11,ORL,34.0,MIL,30.0,M. Beauchamp,MIL,Beauchamp Free Throw Technical (3 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,v
+S2324-G0173,2,09:42,ORL,,MIL,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0173,2,08:56,ORL,,MIL,,M. Beauchamp,MIL,Beauchamp S.FOUL (P1.T2) (S.Mehta),Foul,Shooting,0,0,0,0,,,v
+S2324-G0173,2,08:09,ORL,,MIL,,M. Beauchamp,MIL,Beauchamp Out of Bounds Lost Ball Turnover (P1.T4),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2324-G0173,2,07:52,ORL,,MIL,,M. Beauchamp,MIL,Beauchamp P.FOUL (P2.T4) (S.Mehta),Foul,Personal,0,0,0,0,,,v
+S2324-G0173,2,07:07,ORL,,MIL,,M. Beauchamp,MIL,SUB: Crowder FOR Beauchamp,Substitution,,0,0,0,0,,,v
+S2324-G0173,2,00:50.600000,ORL,,MIL,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0173,2,00:47.700000,ORL,,MIL,,M. Beauchamp,MIL,MISS Beauchamp Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0173,2,00:47.700000,ORL,,MIL,,M. Beauchamp,MIL,MISS Beauchamp Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0173,3,05:02,ORL,,MIL,,M. Beauchamp,MIL,MISS Beauchamp 25' 3PT Jump Shot,Missed Shot,Jump Shot,170,184,25,1,3.0,0.0,v
+S2324-G0173,3,04:08,ORL,,MIL,,M. Beauchamp,MIL,Beauchamp Bad Pass Turnover (P2.T13),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0173,3,03:31,ORL,84.0,MIL,65.0,M. Beauchamp,MIL,Beauchamp 3' Reverse Dunk (5 PTS) (Green 1 AST),Made Shot,Reverse Dunk Shot,-13,23,3,1,2.0,2.0,v
+S2324-G0173,3,02:30,ORL,,MIL,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0173,3,02:23,ORL,,MIL,,M. Beauchamp,MIL,Beauchamp Lost Ball Turnover (P3.T14),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0173,3,02:07,ORL,,MIL,,M. Beauchamp,MIL,SUB: G. Antetokounmpo FOR Beauchamp,Substitution,,0,0,0,0,,,v
+S2324-G0173,4,02:28,ORL,,MIL,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0173,4,02:24,ORL,,MIL,,M. Beauchamp,MIL,MISS Beauchamp 18' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,80,162,18,1,2.0,0.0,v
+S2324-G0173,4,00:31.800000,ORL,,MIL,,M. Beauchamp,MIL,MISS Beauchamp 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-27,59,6,1,2.0,0.0,v
+S2324-G0466,1,04:01,IND,21.0,MIL,22.0,M. Beauchamp,MIL,Beauchamp 3' Driving Finger Roll Layup (2 PTS) (Lillard 2 AST),Made Shot,Driving Finger Roll Layup Shot,25,21,3,1,2.0,2.0,v
+S2324-G0466,1,03:19,IND,,MIL,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0466,1,03:04,IND,,MIL,,M. Beauchamp,MIL,Beauchamp Traveling Turnover (P1.T3),Turnover,Traveling,0,0,0,0,,,v
+S2324-G0466,1,02:11,IND,26.0,MIL,24.0,M. Beauchamp,MIL,Beauchamp 10' Running Jump Shot (4 PTS) (G. Antetokounmpo 1 AST),Made Shot,Running Jump Shot,-97,7,10,1,2.0,2.0,v
+S2324-G0466,2,09:11,IND,39.0,MIL,38.0,M. Beauchamp,MIL,Beauchamp 3' Layup (6 PTS) (Payne 1 AST),Made Shot,Layup Shot,27,13,3,1,2.0,2.0,v
+S2324-G0466,2,08:11,IND,39.0,MIL,40.0,M. Beauchamp,MIL,Beauchamp 2' Layup (8 PTS) (G. Antetokounmpo 4 AST),Made Shot,Layup Shot,-7,20,2,1,2.0,2.0,v
+S2324-G0466,2,08:03,IND,,MIL,,M. Beauchamp,MIL,SUB: B. Lopez FOR Beauchamp,Substitution,,0,0,0,0,,,v
+S2324-G0466,2,01:32,IND,,MIL,,M. Beauchamp,MIL,Beauchamp P.FOUL (P1.PN) (B.Kennedy),Foul,Personal,0,0,0,0,,,v
+S2324-G0466,3,06:50,IND,,MIL,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0466,3,06:03,IND,,MIL,,M. Beauchamp,MIL,MISS Beauchamp 3PT Jump Shot,Missed Shot,Jump Shot,232,34,0,1,3.0,0.0,v
+S2324-G0466,3,03:57,IND,,MIL,,M. Beauchamp,MIL,MISS Beauchamp 24' 3PT Jump Shot,Missed Shot,Jump Shot,235,20,24,1,3.0,0.0,v
+S2324-G0466,4,01:37,IND,,MIL,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0466,4,01:34,IND,139.0,MIL,124.0,M. Beauchamp,MIL,Beauchamp 3' Driving Dunk (10 PTS),Made Shot,Driving Dunk Shot,5,25,3,1,2.0,2.0,v
+S2324-G0466,4,00:57.700000,IND,139.0,MIL,126.0,M. Beauchamp,MIL,Beauchamp 2' Cutting Dunk Shot (12 PTS) (Jackson Jr. 2 AST),Made Shot,Cutting Dunk Shot,-9,13,2,1,2.0,2.0,v
+S2324-G0466,4,00:11.400000,IND,,MIL,,M. Beauchamp,MIL,MISS Beauchamp 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-146,216,26,1,3.0,0.0,v
+S2324-G0149,2,09:28,BKN,37.0,MIL,40.0,M. Beauchamp,MIL,Beauchamp 24' 3PT Jump Shot (3 PTS) (Connaughton 3 AST),Made Shot,Jump Shot,232,39,24,1,3.0,3.0,v
+S2324-G0149,2,03:58,BKN,,MIL,,M. Beauchamp,MIL,SUB: G. Antetokounmpo FOR Beauchamp,Substitution,,0,0,0,0,,,v
+S2324-G0149,3,01:37,BKN,,MIL,,M. Beauchamp,MIL,Beauchamp Traveling Turnover (P1.T9),Turnover,Traveling,0,0,0,0,,,v
+S2324-G0149,3,00:02.400000,BKN,,MIL,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0149,3,00:02.400000,BKN,,MIL,,M. Beauchamp,MIL,MISS Beauchamp Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2324-G0149,4,08:56,BKN,,MIL,,M. Beauchamp,MIL,Beauchamp STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0149,4,07:38,BKN,,MIL,,M. Beauchamp,MIL,SUB: Connaughton FOR Beauchamp,Substitution,,0,0,0,0,,,v
+S2324-G0056,1,04:05,MIA,,MIL,,M. Beauchamp,MIL,Beauchamp AWAY.FROM.PLAY.FOUL (P1.T2) (D.Guthrie),Foul,Away From Play,0,0,0,0,,,v
+S2324-G0056,1,04:03,MIA,,MIL,,M. Beauchamp,MIL,Beauchamp S.FOUL (P2.T3) (M.Kogut),Foul,Shooting,0,0,0,0,,,v
+S2324-G0056,1,02:36,MIA,,MIL,,M. Beauchamp,MIL,MISS Beauchamp 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-163,51,17,1,2.0,0.0,v
+S2324-G0056,1,00:37.400000,MIA,,MIL,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0056,1,00:07.200000,MIA,,MIL,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0056,1,00:06,MIA,,MIL,,M. Beauchamp,MIL,SUB: Middleton FOR Beauchamp,Substitution,,0,0,0,0,,,v
+S2324-G0056,2,07:24,MIA,,MIL,,M. Beauchamp,MIL,Beauchamp S.FOUL (P3.T2) (D.Guthrie),Foul,Shooting,0,0,0,0,,,v
+S2324-G0056,2,07:21,MIA,,MIL,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0056,2,07:11,MIA,,MIL,,M. Beauchamp,MIL,Beauchamp L.B.FOUL (P4.T3) (J.Goble),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0056,2,07:11,MIA,,MIL,,M. Beauchamp,MIL,SUB: Connaughton FOR Beauchamp,Substitution,,0,0,0,0,,,v
+S2324-G0056,3,05:12,MIA,,MIL,,M. Beauchamp,MIL,MISS Beauchamp 20' Jump Shot,Missed Shot,Jump Shot,-200,20,20,1,2.0,0.0,v
+S2324-G0056,3,04:57,MIA,,MIL,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0056,3,04:56,MIA,,MIL,,M. Beauchamp,MIL,Beauchamp Lost Ball Turnover (P1.T5),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0056,3,02:57,MIA,,MIL,,M. Beauchamp,MIL,SUB: B. Lopez FOR Beauchamp,Substitution,,0,0,0,0,,,v
+S2324-G1201,1,03:24,MIL,23.0,NYK,20.0,M. Beauchamp,MIL,Beauchamp 3PT Jump Shot (3 PTS) (G. Antetokounmpo 1 AST),Made Shot,Jump Shot,-230,31,0,1,3.0,3.0,h
+S2324-G1201,1,02:55,MIL,,NYK,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1201,1,02:06,MIL,,NYK,,M. Beauchamp,MIL,Beauchamp S.FOUL (P1.T4) (K.Lane),Foul,Shooting,0,0,0,0,,,h
+S2324-G1201,2,10:45,MIL,,NYK,,M. Beauchamp,MIL,SUB: Middleton FOR Beauchamp,Substitution,,0,0,0,0,,,h
+S2324-G1201,3,02:33,MIL,106.0,NYK,92.0,M. Beauchamp,MIL,Beauchamp 25' 3PT Step Back Jump Shot (6 PTS) (Lillard 7 AST),Made Shot,Step Back Jump shot,199,157,25,1,3.0,3.0,h
+S2324-G1201,3,00:35.700000,MIL,,NYK,,M. Beauchamp,MIL,Beauchamp STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1201,3,00:29.300000,MIL,,NYK,,M. Beauchamp,MIL,MISS Beauchamp 2' Running Layup,Missed Shot,Running Layup Shot,10,15,2,1,2.0,0.0,h
+S2324-G1201,3,00:02.500000,MIL,,NYK,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0002,2,09:58,MIL,30.0,NYK,29.0,M. Beauchamp,MIL,Beauchamp 3PT Jump Shot (3 PTS) (G. Antetokounmpo 2 AST),Made Shot,Jump Shot,225,-1,0,1,3.0,3.0,h
+S2324-G0002,2,09:30,MIL,33.0,NYK,29.0,M. Beauchamp,MIL,Beauchamp 24' 3PT Jump Shot (6 PTS) (G. Antetokounmpo 3 AST),Made Shot,Jump Shot,235,55,24,1,3.0,3.0,h
+S2324-G0002,2,08:58,MIL,,NYK,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0002,2,08:04,MIL,,NYK,,M. Beauchamp,MIL,MISS Beauchamp 3PT Jump Shot,Missed Shot,Jump Shot,227,11,0,1,3.0,0.0,h
+S2324-G0002,2,07:25,MIL,,NYK,,M. Beauchamp,MIL,MISS Beauchamp 25' 3PT Jump Shot,Missed Shot,Jump Shot,227,96,25,1,3.0,0.0,h
+S2324-G0002,2,06:30,MIL,,NYK,,M. Beauchamp,MIL,SUB: Beasley FOR Beauchamp,Substitution,,0,0,0,0,,,h
+S2324-G0002,3,04:12,MIL,,NYK,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0002,3,03:15,MIL,74.0,NYK,64.0,M. Beauchamp,MIL,Beauchamp 28' 3PT Jump Shot (9 PTS) (Crowder 2 AST),Made Shot,Jump Shot,114,257,28,1,3.0,3.0,h
+S2324-G0002,3,01:27,MIL,80.0,NYK,72.0,M. Beauchamp,MIL,Beauchamp 3' Running Layup (11 PTS) (Connaughton 2 AST),Made Shot,Running Layup Shot,6,27,3,1,2.0,2.0,h
+S2324-G0002,3,01:27,MIL,,NYK,,M. Beauchamp,MIL,MISS Beauchamp Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2324-G0002,3,01:02,MIL,82.0,NYK,72.0,M. Beauchamp,MIL,Beauchamp 5' Layup (13 PTS) (Middleton 1 AST),Made Shot,Layup Shot,22,42,5,1,2.0,2.0,h
+S2324-G0002,4,11:45,MIL,,NYK,,M. Beauchamp,MIL,Beauchamp S.FOUL (P1.T1) (J.Williams),Foul,Shooting,0,0,0,0,,,h
+S2324-G0002,4,09:07,MIL,,NYK,,M. Beauchamp,MIL,Beauchamp S.FOUL (P2.T2) (T.Ford),Foul,Shooting,0,0,0,0,,,h
+S2324-G0002,4,09:07,MIL,,NYK,,M. Beauchamp,MIL,SUB: Connaughton FOR Beauchamp,Substitution,,0,0,0,0,,,h
+S2324-G0346,1,03:58,MIL,,HOU,,M. Beauchamp,MIL,Beauchamp S.FOUL (P1.T3) (B.Kennedy),Foul,Shooting,0,0,0,0,,,h
+S2324-G0346,1,02:52,MIL,,HOU,,M. Beauchamp,MIL,Beauchamp P.FOUL (P2.T4) (M.Kogut),Foul,Personal,0,0,0,0,,,h
+S2324-G0346,1,01:00,MIL,,HOU,,M. Beauchamp,MIL,SUB: Jackson Jr. FOR Beauchamp,Substitution,,0,0,0,0,,,h
+S2324-G0346,2,09:08,MIL,,HOU,,M. Beauchamp,MIL,SUB: Middleton FOR Beauchamp,Substitution,,0,0,0,0,,,h
+S2324-G0346,4,11:08,MIL,,HOU,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0346,4,07:36,MIL,,HOU,,M. Beauchamp,MIL,SUB: Jackson Jr. FOR Beauchamp,Substitution,,0,0,0,0,,,h
+S2324-G0433,1,03:26,CLE,,MIL,,M. Beauchamp,MIL,Beauchamp P.FOUL (P1.T2) (B.Schwab),Foul,Personal,0,0,0,0,,,v
+S2324-G0433,1,02:04,CLE,,MIL,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0433,1,02:00,CLE,28.0,MIL,24.0,M. Beauchamp,MIL,Beauchamp 6' Turnaround Jump Shot (2 PTS),Made Shot,Turnaround Jump Shot,-9,60,6,1,2.0,2.0,v
+S2324-G0433,1,01:28,CLE,,MIL,,M. Beauchamp,MIL,MISS Beauchamp 3PT Jump Shot,Missed Shot,Jump Shot,234,17,0,1,3.0,0.0,v
+S2324-G0433,1,00:30.400000,CLE,34.0,MIL,29.0,M. Beauchamp,MIL,Beauchamp 3PT Jump Shot (5 PTS) (G. Antetokounmpo 3 AST),Made Shot,Jump Shot,-232,26,0,1,3.0,3.0,v
+S2324-G0433,1,00:04.500000,CLE,,MIL,,M. Beauchamp,MIL,SUB: Middleton FOR Beauchamp,Substitution,,0,0,0,0,,,v
+S2324-G0433,4,11:14,CLE,,MIL,,M. Beauchamp,MIL,Beauchamp S.FOUL (P2.T1) (B.Schwab),Foul,Shooting,0,0,0,0,,,v
+S2324-G0433,4,08:48,CLE,,MIL,,M. Beauchamp,MIL,SUB: Beasley FOR Beauchamp,Substitution,,0,0,0,0,,,v
+S2324-G0171,1,03:33,IND,,MIL,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0171,1,01:23,IND,,MIL,,M. Beauchamp,MIL,MISS Beauchamp 3' Driving Dunk,Missed Shot,Driving Dunk Shot,-17,22,3,1,2.0,0.0,v
+S2324-G0171,1,00:28.500000,IND,,MIL,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0171,2,10:03,IND,,MIL,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0171,2,09:56,IND,40.0,MIL,33.0,M. Beauchamp,MIL,Beauchamp 26' 3PT Jump Shot (3 PTS) (G. Antetokounmpo 1 AST),Made Shot,Jump Shot,-157,210,26,1,3.0,3.0,v
+S2324-G0171,2,09:08,IND,,MIL,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0171,2,09:08,IND,40.0,MIL,35.0,M. Beauchamp,MIL,Beauchamp Tip Layup Shot (5 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2324-G0171,2,06:50,IND,,MIL,,M. Beauchamp,MIL,SUB: Crowder FOR Beauchamp,Substitution,,0,0,0,0,,,v
+S2324-G0171,3,01:12,IND,,MIL,,M. Beauchamp,MIL,MISS Beauchamp 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-205,168,27,1,3.0,0.0,v
+S2324-G0864,4,00:18.200000,CHI,,MIL,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0075,2,08:44,MIL,,PHI,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0075,2,05:50,MIL,48.0,PHI,35.0,M. Beauchamp,MIL,Beauchamp 1' Running Layup (2 PTS) (Lillard 3 AST),Made Shot,Running Layup Shot,4,-12,1,1,2.0,2.0,h
+S2324-G0075,2,04:26,MIL,55.0,PHI,37.0,M. Beauchamp,MIL,Beauchamp 2' Running Reverse Layup (4 PTS) (Middleton 4 AST),Made Shot,Running Reverse Layup Shot,-18,-4,2,1,2.0,2.0,h
+S2324-G0075,2,04:16,MIL,,PHI,,M. Beauchamp,MIL,Beauchamp P.FOUL (P1.PN) (M.Lindsay),Foul,Personal,0,0,0,0,,,h
+S2324-G0075,2,04:16,MIL,,PHI,,M. Beauchamp,MIL,SUB: Beasley FOR Beauchamp,Substitution,,0,0,0,0,,,h
+S2324-G0075,3,01:02,MIL,,PHI,,M. Beauchamp,MIL,Beauchamp S.FOUL (P2.T4) (M.Lindsay),Foul,Shooting,0,0,0,0,,,h
+S2324-G0075,4,11:43,MIL,,PHI,,M. Beauchamp,MIL,MISS Beauchamp 28' 3PT Jump Shot,Missed Shot,Jump Shot,161,227,28,1,3.0,0.0,h
+S2324-G0075,4,11:29,MIL,,PHI,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0075,4,08:20,MIL,,PHI,,M. Beauchamp,MIL,Beauchamp S.FOUL (P3.T2) (B.Barnaky),Foul,Shooting,0,0,0,0,,,h
+S2324-G0075,4,08:02,MIL,,PHI,,M. Beauchamp,MIL,SUB: Crowder FOR Beauchamp,Substitution,,0,0,0,0,,,h
+S2324-G0648,4,04:46,MIL,131.0,NOP,102.0,M. Beauchamp,MIL,Beauchamp 14' Pullup Jump Shot (2 PTS) (Beasley 2 AST),Made Shot,Pullup Jump shot,-121,63,14,1,2.0,2.0,h
+S2324-G0648,4,04:09,MIL,136.0,NOP,102.0,M. Beauchamp,MIL,Beauchamp 3' Driving Layup (4 PTS) (R. Lopez 1 AST),Made Shot,Driving Layup Shot,2,25,3,1,2.0,2.0,h
+S2324-G0648,4,00:50.500000,MIL,141.0,NOP,115.0,M. Beauchamp,MIL,Beauchamp 21' Turnaround Jump Shot (6 PTS),Made Shot,Turnaround Jump Shot,23,208,21,1,2.0,2.0,h
+S2324-G0388,4,00:05.300000,NYK,,MIL,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0849,4,03:07,CHA,,MIL,,M. Beauchamp,MIL,Beauchamp P.FOUL (P1.PN) (J.Schroeder),Foul,Personal,0,0,0,0,,,v
+S2324-G0849,4,01:57,CHA,,MIL,,M. Beauchamp,MIL,SUB: Portis FOR Beauchamp,Substitution,,0,0,0,0,,,v
+S2324-G0097,1,02:03,MIL,,ATL,,M. Beauchamp,MIL,Beauchamp P.FOUL (P1.T2) (B.Kennedy),Foul,Personal,0,0,0,0,,,h
+S2324-G0097,1,01:31,MIL,,ATL,,M. Beauchamp,MIL,Beauchamp P.FOUL (P2.T3) (T.Maddox),Foul,Personal,0,0,0,0,,,h
+S2324-G0097,1,00:37.100000,MIL,,ATL,,M. Beauchamp,MIL,MISS Beauchamp 2' Running Dunk,Missed Shot,Running Dunk Shot,2,23,2,1,2.0,0.0,h
+S2324-G0097,1,00:27.800000,MIL,,ATL,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0097,1,00:27.800000,MIL,23.0,ATL,29.0,M. Beauchamp,MIL,Beauchamp Putback Layup (2 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,h
+S2324-G0097,1,00:13.900000,MIL,,ATL,,M. Beauchamp,MIL,Beauchamp P.FOUL (P3.PN) (B.Nansel),Foul,Personal,0,0,0,0,,,h
+S2324-G0097,2,11:14,MIL,,ATL,,M. Beauchamp,MIL,SUB: Beasley FOR Beauchamp,Substitution,,0,0,0,0,,,h
+S2324-G0097,3,01:00,MIL,78.0,ATL,98.0,M. Beauchamp,MIL,Beauchamp 24' 3PT Jump Shot (5 PTS) (G. Antetokounmpo 3 AST),Made Shot,Jump Shot,224,92,24,1,3.0,3.0,h
+S2324-G0097,4,09:37,MIL,,ATL,,M. Beauchamp,MIL,MISS Beauchamp 6' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,15,63,6,1,2.0,0.0,h
+S2324-G0097,4,06:25,MIL,93.0,ATL,118.0,M. Beauchamp,MIL,Beauchamp 28' 3PT Jump Shot (8 PTS) (Lillard 5 AST),Made Shot,Jump Shot,-141,243,28,1,3.0,3.0,h
+S2324-G0097,4,04:14,MIL,,ATL,,M. Beauchamp,MIL,Beauchamp Out of Bounds Lost Ball Turnover (P1.T20),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2324-G0097,4,03:14,MIL,,ATL,,M. Beauchamp,MIL,SUB: Jackson Jr. FOR Beauchamp,Substitution,,0,0,0,0,,,h
+S2324-G0049,1,03:40,MIL,24.0,WAS,23.0,M. Beauchamp,MIL,Beauchamp Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0049,1,03:40,MIL,,WAS,,M. Beauchamp,MIL,MISS Beauchamp Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0049,1,02:56,MIL,,WAS,,M. Beauchamp,MIL,Beauchamp S.FOUL (P1.PN) (E.Dalen),Foul,Shooting,0,0,0,0,,,h
+S2324-G0049,1,01:34,MIL,29.0,WAS,32.0,M. Beauchamp,MIL,Beauchamp Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0049,1,01:34,MIL,30.0,WAS,32.0,M. Beauchamp,MIL,Beauchamp Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0049,1,00:32.700000,MIL,,WAS,,M. Beauchamp,MIL,Beauchamp T.FOUL (P1.PN) (S.Wright),Foul,Technical,0,0,0,0,,,h
+S2324-G0049,3,06:21,MIL,,WAS,,M. Beauchamp,MIL,MISS Beauchamp 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-243,3,24,1,3.0,0.0,h
+S2324-G0049,3,06:09,MIL,,WAS,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0049,3,04:22,MIL,,WAS,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0049,3,03:27,MIL,,WAS,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0049,3,03:20,MIL,,WAS,,M. Beauchamp,MIL,MISS Beauchamp 6' Jump Bank Shot,Missed Shot,Jump Bank Shot,-55,20,6,1,2.0,0.0,h
+S2324-G0049,3,02:04,MIL,,WAS,,M. Beauchamp,MIL,Beauchamp S.FOUL (P2.T4) (S.Wright),Foul,Shooting,0,0,0,0,,,h
+S2324-G0049,3,01:48,MIL,,WAS,,M. Beauchamp,MIL,MISS Beauchamp 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,38,162,17,1,2.0,0.0,h
+S2324-G0049,3,00:00.300000,MIL,,WAS,,M. Beauchamp,MIL,MISS Beauchamp 33' 3PT Floating Jump Shot,Missed Shot,Floating Jump shot,181,277,33,1,3.0,0.0,h
+S2324-G0767,4,02:46,MIL,,DEN,,M. Beauchamp,MIL,Beauchamp S.FOUL (P1.T4) (B.Schwab),Foul,Shooting,0,0,0,0,,,h
+S2324-G0767,4,02:31,MIL,112.0,DEN,87.0,M. Beauchamp,MIL,Beauchamp 26' 3PT Step Back Jump Shot (3 PTS) (T. Antetokounmpo 1 AST),Made Shot,Step Back Jump shot,-222,136,26,1,3.0,3.0,h
+S2324-G0767,4,01:49,MIL,,DEN,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0767,4,01:48,MIL,,DEN,,M. Beauchamp,MIL,Beauchamp Bad Pass Turnover (P1.T11),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0767,4,01:23,MIL,,DEN,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0767,4,01:17,MIL,,DEN,,M. Beauchamp,MIL,MISS Beauchamp 27' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-124,244,27,1,3.0,0.0,h
+S2324-G0116,2,10:36,TOR,,MIL,,M. Beauchamp,MIL,MISS Beauchamp 24' 3PT Jump Shot,Missed Shot,Jump Shot,-237,-5,24,1,3.0,0.0,v
+S2324-G0116,2,09:11,TOR,,MIL,,M. Beauchamp,MIL,MISS Beauchamp 26' 3PT Jump Shot,Missed Shot,Jump Shot,-127,231,26,1,3.0,0.0,v
+S2324-G0116,2,07:32,TOR,,MIL,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0116,2,06:48,TOR,,MIL,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0116,2,06:18,TOR,,MIL,,M. Beauchamp,MIL,SUB: Beasley FOR Beauchamp,Substitution,,0,0,0,0,,,v
+S2324-G0116,4,05:45,TOR,,MIL,,M. Beauchamp,MIL,MISS Beauchamp 3PT Jump Shot,Missed Shot,Jump Shot,-230,-12,0,1,3.0,0.0,v
+S2324-G0116,4,02:22,TOR,126.0,MIL,104.0,M. Beauchamp,MIL,Beauchamp 26' 3PT Jump Shot (3 PTS) (Jackson Jr. 3 AST),Made Shot,Jump Shot,169,203,26,1,3.0,3.0,v
+S2324-G0116,4,01:51,TOR,128.0,MIL,105.0,M. Beauchamp,MIL,Beauchamp Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0116,4,01:51,TOR,128.0,MIL,106.0,M. Beauchamp,MIL,Beauchamp Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0116,4,00:49,TOR,130.0,MIL,111.0,M. Beauchamp,MIL,Beauchamp 25' 3PT Step Back Jump Shot (8 PTS),Made Shot,Step Back Jump shot,-2,248,25,1,3.0,3.0,v
+S2324-G0245,1,03:36,MIL,,POR,,M. Beauchamp,MIL,Beauchamp S.FOUL (P1.T2) (B.Nansel),Foul,Shooting,0,0,0,0,,,h
+S2324-G0245,1,00:04,MIL,,POR,,M. Beauchamp,MIL,Beauchamp Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0245,4,10:11,MIL,,POR,,M. Beauchamp,MIL,Beauchamp P.FOUL (P2.T1) (K.Scott),Foul,Personal,0,0,0,0,,,h
+S2324-G0245,4,08:09,MIL,,POR,,M. Beauchamp,MIL,Beauchamp BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0245,4,08:03,MIL,,POR,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0245,4,07:57,MIL,,POR,,M. Beauchamp,MIL,SUB: Lillard FOR Beauchamp,Substitution,,0,0,0,0,,,h
+S2324-G0300,1,03:05,MIL,30.0,CHI,23.0,M. Beauchamp,MIL,Beauchamp 6' Turnaround Bank Shot (2 PTS),Made Shot,Turnaround Bank shot,43,47,6,1,2.0,2.0,h
+S2324-G0300,1,00:01.400000,MIL,,CHI,,M. Beauchamp,MIL,Beauchamp S.FOUL (P1.PN) (E.Scott),Foul,Shooting,0,0,0,0,,,h
+S2324-G0300,2,09:16,MIL,,CHI,,M. Beauchamp,MIL,SUB: Middleton FOR Beauchamp,Substitution,,0,0,0,0,,,h
+S2324-G0300,3,02:26,MIL,,CHI,,M. Beauchamp,MIL,MISS Beauchamp 26' 3PT Jump Shot,Missed Shot,Jump Shot,-159,205,26,1,3.0,0.0,h
+S2324-G0496,1,03:59,HOU,,MIL,,M. Beauchamp,MIL,Beauchamp Out of Bounds Lost Ball Turnover (P1.T3),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2324-G0496,1,02:24,HOU,,MIL,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0496,1,01:37,HOU,,MIL,,M. Beauchamp,MIL,MISS Beauchamp 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,13,267,27,1,3.0,0.0,v
+S2324-G0496,2,10:51,HOU,,MIL,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0496,2,09:21,HOU,,MIL,,M. Beauchamp,MIL,Beauchamp S.FOUL (P1.T1) (D.Collins),Foul,Shooting,0,0,0,0,,,v
+S2324-G0496,2,07:25,HOU,,MIL,,M. Beauchamp,MIL,SUB: Beasley FOR Beauchamp,Substitution,,0,0,0,0,,,v
+S2324-G0496,4,09:06,HOU,,MIL,,M. Beauchamp,MIL,Beauchamp BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0496,4,08:59,HOU,93.0,MIL,81.0,M. Beauchamp,MIL,Beauchamp 26' 3PT Running Jump Shot (3 PTS) (G. Antetokounmpo 2 AST),Made Shot,Running Jump Shot,174,199,26,1,3.0,3.0,v
+S2324-G0496,4,05:59,HOU,96.0,MIL,87.0,M. Beauchamp,MIL,Beauchamp 3' Driving Dunk (5 PTS),Made Shot,Driving Dunk Shot,22,22,3,1,2.0,2.0,v
+S2324-G0496,4,04:09,HOU,,MIL,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0496,4,01:00,HOU,,MIL,,M. Beauchamp,MIL,MISS Beauchamp 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,224,109,25,1,3.0,0.0,v
+S2324-G0496,4,00:25.800000,HOU,,MIL,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0496,4,00:05.100000,HOU,,MIL,,M. Beauchamp,MIL,SUB: Connaughton FOR Beauchamp,Substitution,,0,0,0,0,,,v
+S2324-G0195,1,01:25,TOR,,MIL,,M. Beauchamp,MIL,Beauchamp STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0195,1,01:21,TOR,18.0,MIL,34.0,M. Beauchamp,MIL,Beauchamp Running Layup (2 PTS),Made Shot,Running Layup Shot,0,2,0,1,2.0,2.0,v
+S2324-G0195,2,10:25,TOR,,MIL,,M. Beauchamp,MIL,Beauchamp L.B.FOUL (P1.T2) (G.Petraitis),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0195,2,09:59,TOR,23.0,MIL,40.0,M. Beauchamp,MIL,Beauchamp 1' Cutting Dunk Shot (4 PTS) (Payne 1 AST),Made Shot,Cutting Dunk Shot,-1,5,1,1,2.0,2.0,v
+S2324-G0195,2,09:17,TOR,,MIL,,M. Beauchamp,MIL,Beauchamp S.FOUL (P2.T3) (R.Hussey),Foul,Shooting,0,0,0,0,,,v
+S2324-G0195,2,08:54,TOR,,MIL,,M. Beauchamp,MIL,MISS Beauchamp 2' Layup,Missed Shot,Layup Shot,-7,22,2,1,2.0,0.0,v
+S2324-G0195,2,06:39,TOR,,MIL,,M. Beauchamp,MIL,SUB: Connaughton FOR Beauchamp,Substitution,,0,0,0,0,,,v
+S2324-G0711,4,00:28.500000,UTA,,MIL,,M. Beauchamp,MIL,MISS Beauchamp 25' 3PT Jump Shot,Missed Shot,Jump Shot,-16,248,25,1,3.0,0.0,v
+S2324-G1229,1,05:37,MIL,,IND,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1229,1,04:18,MIL,,IND,,M. Beauchamp,MIL,MISS Beauchamp 2' Driving Layup,Missed Shot,Driving Layup Shot,-4,19,2,1,2.0,0.0,h
+S2324-G1229,1,03:08,MIL,25.0,IND,23.0,M. Beauchamp,MIL,Beauchamp 3' Cutting Layup Shot (2 PTS) (Lillard 2 AST),Made Shot,Cutting Layup Shot,20,21,3,1,2.0,2.0,h
+S2324-G1229,1,02:32,MIL,,IND,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1229,1,02:28,MIL,27.0,IND,23.0,M. Beauchamp,MIL,Beauchamp 1' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,10,-6,1,1,2.0,2.0,h
+S2324-G1229,2,11:03,MIL,,IND,,M. Beauchamp,MIL,Beauchamp BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G1229,2,10:43,MIL,,IND,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1229,2,08:53,MIL,,IND,,M. Beauchamp,MIL,SUB: Beasley FOR Beauchamp,Substitution,,0,0,0,0,,,h
+S2324-G1229,3,00:51.600000,MIL,,IND,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1229,4,11:04,MIL,,IND,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1229,4,11:04,MIL,,IND,,M. Beauchamp,MIL,MISS Beauchamp Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G1229,4,11:04,MIL,,IND,,M. Beauchamp,MIL,MISS Beauchamp Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G1229,4,10:44,MIL,,IND,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1229,4,10:40,MIL,,IND,,M. Beauchamp,MIL,MISS Beauchamp Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G1229,4,10:40,MIL,95.0,IND,95.0,M. Beauchamp,MIL,Beauchamp Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1229,4,09:59,MIL,,IND,,M. Beauchamp,MIL,SUB: Beasley FOR Beauchamp,Substitution,,0,0,0,0,,,h
+S2324-G0228,2,08:30,BOS,39.0,MIL,29.0,M. Beauchamp,MIL,Beauchamp 25' 3PT Jump Shot (3 PTS) (Beasley 1 AST),Made Shot,Jump Shot,234,78,25,1,3.0,3.0,v
+S2324-G0228,2,08:01,BOS,,MIL,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0228,2,07:59,BOS,42.0,MIL,31.0,M. Beauchamp,MIL,Beauchamp Putback Layup (5 PTS),Made Shot,Putback Layup Shot,-2,-3,0,1,2.0,2.0,v
+S2324-G0228,2,06:41,BOS,,MIL,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0228,2,02:18,BOS,,MIL,,M. Beauchamp,MIL,MISS Beauchamp 25' 3PT Jump Shot,Missed Shot,Jump Shot,205,146,25,1,3.0,0.0,v
+S2324-G0228,2,00:47.600000,BOS,,MIL,,M. Beauchamp,MIL,Beauchamp P.FOUL (P1.T4) (M.Davis),Foul,Personal,0,0,0,0,,,v
+S2324-G0228,3,06:03,BOS,,MIL,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0228,3,03:20,BOS,,MIL,,M. Beauchamp,MIL,Beauchamp STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0228,3,03:15,BOS,,MIL,,M. Beauchamp,MIL,MISS Beauchamp 20' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-130,151,20,1,2.0,0.0,v
+S2324-G0228,3,00:53.700000,BOS,,MIL,,M. Beauchamp,MIL,MISS Beauchamp 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,25,167,17,1,2.0,0.0,v
+S2324-G0286,1,03:25,MIL,,ATL,,M. Beauchamp,MIL,Beauchamp S.FOUL (P1.T4) (C.Kirkland),Foul,Shooting,0,0,0,0,,,h
+S2324-G0286,1,03:08,MIL,31.0,ATL,30.0,M. Beauchamp,MIL,Beauchamp 25' 3PT Jump Shot (3 PTS) (G. Antetokounmpo 4 AST),Made Shot,Jump Shot,-180,173,25,1,3.0,3.0,h
+S2324-G0286,1,02:13,MIL,,ATL,,M. Beauchamp,MIL,BUCKS T.Foul (Def. 3 Sec Beauchamp ) (S.Twardoski),Foul,Defense 3 Second,0,0,0,0,,,h
+S2324-G0286,1,01:31,MIL,,ATL,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0286,1,00:50.900000,MIL,,ATL,,M. Beauchamp,MIL,Beauchamp BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0286,1,00:41.800000,MIL,,ATL,,M. Beauchamp,MIL,MISS Beauchamp 1' Running Layup,Missed Shot,Running Layup Shot,-10,4,1,1,2.0,0.0,h
+S2324-G0286,2,02:39,MIL,,ATL,,M. Beauchamp,MIL,Beauchamp P.FOUL (P2.T2) (S.Twardoski),Foul,Personal,0,0,0,0,,,h
+S2324-G0286,2,02:39,MIL,,ATL,,M. Beauchamp,MIL,SUB: Payne FOR Beauchamp,Substitution,,0,0,0,0,,,h
+S2324-G0286,3,04:25,MIL,,ATL,,M. Beauchamp,MIL,Beauchamp S.FOUL (P3.T3) (B.Barnaky),Foul,Shooting,0,0,0,0,,,h
+S2324-G0286,3,01:28,MIL,,ATL,,M. Beauchamp,MIL,SUB: Payne FOR Beauchamp,Substitution,,0,0,0,0,,,h
+S2324-G0269,1,01:16,CHI,,MIL,,M. Beauchamp,MIL,Beauchamp Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0269,1,00:32.700000,CHI,,MIL,,M. Beauchamp,MIL,MISS Beauchamp 25' 3PT Jump Shot,Missed Shot,Jump Shot,196,150,25,1,3.0,0.0,v
+S2324-G0269,1,00:14.300000,CHI,,MIL,,M. Beauchamp,MIL,Beauchamp S.FOUL (P1.T3) (R.Mott),Foul,Shooting,0,0,0,0,,,v
+S2324-G0269,2,07:48,CHI,,MIL,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0269,2,05:26,CHI,40.0,MIL,36.0,M. Beauchamp,MIL,Beauchamp 12' Driving Floating Jump Shot (2 PTS) (Beasley 2 AST),Made Shot,Driving Floating Jump Shot,120,9,12,1,2.0,2.0,v
+S2324-G0269,2,02:12,CHI,49.0,MIL,51.0,M. Beauchamp,MIL,Beauchamp 3PT Jump Shot (5 PTS) (Portis 1 AST),Made Shot,Jump Shot,228,11,0,1,3.0,3.0,v
+S2324-G0269,2,00:01.300000,CHI,,MIL,,M. Beauchamp,MIL,MISS Beauchamp 24' 3PT Jump Shot,Missed Shot,Jump Shot,-243,-4,24,1,3.0,0.0,v
+S2324-G0269,3,05:58,CHI,64.0,MIL,71.0,M. Beauchamp,MIL,Beauchamp 22' Jump Shot (7 PTS) (Portis 2 AST),Made Shot,Jump Shot,-183,117,22,1,2.0,2.0,v
+S2324-G0269,3,04:51,CHI,,MIL,,M. Beauchamp,MIL,MISS Beauchamp 26' 3PT Jump Shot,Missed Shot,Jump Shot,-218,134,26,1,3.0,0.0,v
+S2324-G0269,3,01:20,CHI,,MIL,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0269,3,01:03,CHI,,MIL,,M. Beauchamp,MIL,SUB: Payne FOR Beauchamp,Substitution,,0,0,0,0,,,v
+S2324-G0269,4,08:26,CHI,,MIL,,M. Beauchamp,MIL,Beauchamp Out of Bounds Lost Ball Turnover (P2.T14),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2324-G0269,4,06:57,CHI,,MIL,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0269,4,06:53,CHI,,MIL,,M. Beauchamp,MIL,MISS Beauchamp 2' Running Layup,Missed Shot,Running Layup Shot,-5,20,2,1,2.0,0.0,v
+S2324-G0269,4,06:33,CHI,,MIL,,M. Beauchamp,MIL,SUB: Middleton FOR Beauchamp,Substitution,,0,0,0,0,,,v
+S2324-G0510,1,05:02,MIL,,UTA,,M. Beauchamp,MIL,Beauchamp STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0510,1,04:56,MIL,,UTA,,M. Beauchamp,MIL,MISS Beauchamp 5' Running Layup,Missed Shot,Running Layup Shot,32,33,5,1,2.0,0.0,h
+S2324-G0510,1,04:20,MIL,,UTA,,M. Beauchamp,MIL,MISS Beauchamp 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,6,24,1,3.0,0.0,h
+S2324-G0510,1,03:34,MIL,,UTA,,M. Beauchamp,MIL,MISS Beauchamp 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-156,216,27,1,3.0,0.0,h
+S2324-G0510,1,03:17,MIL,,UTA,,M. Beauchamp,MIL,Beauchamp P.FOUL (P1.T2) (J.Ralls),Foul,Personal,0,0,0,0,,,h
+S2324-G0510,1,02:34,MIL,,UTA,,M. Beauchamp,MIL,MISS Beauchamp 8' Driving Hook Shot,Missed Shot,Driving Hook Shot,-28,73,8,1,2.0,0.0,h
+S2324-G0510,3,05:18,MIL,,UTA,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0510,3,05:06,MIL,75.0,UTA,90.0,M. Beauchamp,MIL,Beauchamp 25' 3PT Jump Shot (3 PTS) (G. Antetokounmpo 5 AST),Made Shot,Jump Shot,228,95,25,1,3.0,3.0,h
+S2324-G0510,3,01:29,MIL,,UTA,,M. Beauchamp,MIL,Beauchamp STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0510,3,00:23,MIL,,UTA,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0510,4,00:34.200000,MIL,,UTA,,M. Beauchamp,MIL,MISS Beauchamp 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,103,224,25,1,3.0,0.0,h
+S2324-G0361,2,05:56,MIL,,SAS,,M. Beauchamp,MIL,Beauchamp REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0361,2,05:55,MIL,,SAS,,M. Beauchamp,MIL,SUB: Lillard FOR Beauchamp,Substitution,,0,0,0,0,,,h

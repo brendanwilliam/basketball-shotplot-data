@@ -1,0 +1,556 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2324-G0163,1,01:59,HOU,,LAL,,T. Eason,HOU,Eason S.FOUL (P1.PN) (T.Maddox),Foul,Shooting,0,0,0,0,,,h
+S2324-G0163,1,00:32.600000,HOU,31.0,LAL,18.0,T. Eason,HOU,Eason 3PT Jump Shot (3 PTS) (Sengun 2 AST),Made Shot,Jump Shot,234,-3,0,1,3.0,3.0,h
+S2324-G0163,2,11:23,HOU,,LAL,,T. Eason,HOU,Eason REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0163,2,11:23,HOU,,LAL,,T. Eason,HOU,MISS Eason 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,-4,5,1,1,2.0,0.0,h
+S2324-G0163,2,11:23,HOU,,LAL,,T. Eason,HOU,Eason REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0163,2,11:21,HOU,34.0,LAL,21.0,T. Eason,HOU,Eason Putback Layup (5 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,h
+S2324-G0163,2,09:34,HOU,,LAL,,T. Eason,HOU,Eason REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0163,2,09:21,HOU,,LAL,,T. Eason,HOU,MISS Eason 8' Turnaround Bank Shot,Missed Shot,Turnaround Bank shot,-33,76,8,1,2.0,0.0,h
+S2324-G0163,2,09:14,HOU,,LAL,,T. Eason,HOU,SUB: Ja. Green FOR Eason,Substitution,,0,0,0,0,,,h
+S2324-G0163,2,00:01.600000,HOU,,LAL,,T. Eason,HOU,SUB: VanVleet FOR Eason,Substitution,,0,0,0,0,,,h
+S2324-G0163,3,00:57,HOU,,LAL,,T. Eason,HOU,Eason REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0163,3,00:00,HOU,,LAL,,T. Eason,HOU,Eason BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0163,4,11:42,HOU,,LAL,,T. Eason,HOU,MISS Eason 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,145,89,17,1,2.0,0.0,h
+S2324-G0163,4,11:41,HOU,,LAL,,T. Eason,HOU,Eason REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0163,4,10:59,HOU,,LAL,,T. Eason,HOU,MISS Eason 26' 3PT Jump Shot,Missed Shot,Jump Shot,213,148,26,1,3.0,0.0,h
+S2324-G0163,4,10:46,HOU,,LAL,,T. Eason,HOU,Eason REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0163,4,10:40,HOU,,LAL,,T. Eason,HOU,Eason Bad Pass Turnover (P1.T10),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0163,4,09:01,HOU,,LAL,,T. Eason,HOU,Eason REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0163,4,07:57,HOU,,LAL,,T. Eason,HOU,Eason REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0163,4,07:52,HOU,,LAL,,T. Eason,HOU,MISS Eason 3' Driving Layup,Missed Shot,Driving Layup Shot,20,19,3,1,2.0,0.0,h
+S2324-G0163,4,07:25,HOU,,LAL,,T. Eason,HOU,MISS Eason 3' Driving Layup,Missed Shot,Driving Layup Shot,25,14,3,1,2.0,0.0,h
+S2324-G0163,4,07:24,HOU,,LAL,,T. Eason,HOU,Eason REBOUND (Off:4 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0163,4,07:24,HOU,111.0,LAL,80.0,T. Eason,HOU,Eason Tip Layup Shot (7 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2324-G0163,4,06:46,HOU,113.0,LAL,82.0,T. Eason,HOU,Eason 22' Pullup Jump Shot (9 PTS) (Bullock Jr. 1 AST),Made Shot,Pullup Jump shot,153,156,22,1,2.0,2.0,h
+S2324-G0163,4,06:20,HOU,,LAL,,T. Eason,HOU,Eason Bad Pass Turnover (P2.T11),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0163,4,06:17,HOU,,LAL,,T. Eason,HOU,SUB: Marjanovic FOR Eason,Substitution,,0,0,0,0,,,h
+S2324-G0231,1,03:22,HOU,,MEM,,T. Eason,HOU,Eason REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0231,1,02:55,HOU,,MEM,,T. Eason,HOU,Eason REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0231,1,02:43,HOU,,MEM,,T. Eason,HOU,MISS Eason 2' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,12,10,2,1,2.0,0.0,h
+S2324-G0231,1,02:09,HOU,,MEM,,T. Eason,HOU,Eason Traveling Turnover (P1.T3),Turnover,Traveling,0,0,0,0,,,h
+S2324-G0231,1,01:01,HOU,19.0,MEM,27.0,T. Eason,HOU,Eason 26' 3PT Jump Shot (3 PTS) (Ja. Green 1 AST),Made Shot,Jump Shot,138,216,26,1,3.0,3.0,h
+S2324-G0231,1,00:45.600000,HOU,,MEM,,T. Eason,HOU,Eason STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0231,2,10:37,HOU,27.0,MEM,28.0,T. Eason,HOU,Eason 25' 3PT Jump Shot (6 PTS) (Tate 1 AST),Made Shot,Jump Shot,156,193,25,1,3.0,3.0,h
+S2324-G0231,2,10:05,HOU,,MEM,,T. Eason,HOU,Eason L.B.FOUL (P1.T1) (B.Kennedy),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0231,2,09:54,HOU,,MEM,,T. Eason,HOU,Eason S.FOUL (P2.T2) (B.Kennedy),Foul,Shooting,0,0,0,0,,,h
+S2324-G0231,2,09:06,HOU,,MEM,,T. Eason,HOU,Eason REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0231,2,08:36,HOU,,MEM,,T. Eason,HOU,Eason REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0231,2,07:42,HOU,,MEM,,T. Eason,HOU,SUB: Brooks FOR Eason,Substitution,,0,0,0,0,,,h
+S2324-G0231,3,03:12,HOU,,MEM,,T. Eason,HOU,Eason REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0231,3,00:54.900000,HOU,,MEM,,T. Eason,HOU,MISS Eason 25' 3PT Jump Shot,Missed Shot,Jump Shot,185,170,25,1,3.0,0.0,h
+S2324-G0231,4,09:58,HOU,,MEM,,T. Eason,HOU,Eason BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0231,4,07:36,HOU,,MEM,,T. Eason,HOU,SUB: Brooks FOR Eason,Substitution,,0,0,0,0,,,h
+S2324-G0011,1,04:27,HOU,,NOP,,T. Eason,HOU,MISS Eason 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-58,36,7,1,2.0,0.0,h
+S2324-G0011,1,04:09,HOU,,NOP,,T. Eason,HOU,MISS Eason 2' Running Layup,Missed Shot,Running Layup Shot,17,13,2,1,2.0,0.0,h
+S2324-G0011,1,01:19,HOU,,NOP,,T. Eason,HOU,Eason S.FOUL (P1.PN) (M.Boland),Foul,Shooting,0,0,0,0,,,h
+S2324-G0011,2,10:48,HOU,,NOP,,T. Eason,HOU,Eason REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0011,2,10:34,HOU,,NOP,,T. Eason,HOU,Eason BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0011,2,10:12,HOU,28.0,NOP,33.0,T. Eason,HOU,Eason 2' Running Dunk (2 PTS) (Smith Jr. 1 AST),Made Shot,Running Dunk Shot,9,13,2,1,2.0,2.0,h
+S2324-G0011,2,09:47,HOU,,NOP,,T. Eason,HOU,SUB: Je. Green FOR Eason,Substitution,,0,0,0,0,,,h
+S2324-G0011,2,01:30,HOU,,NOP,,T. Eason,HOU,Eason S.FOUL (P2.PN) (N.Sago),Foul,Shooting,0,0,0,0,,,h
+S2324-G0011,2,01:27,HOU,,NOP,,T. Eason,HOU,Eason REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0011,2,01:13,HOU,,NOP,,T. Eason,HOU,MISS Eason 1' Reverse Layup,Missed Shot,Reverse Layup Shot,-11,10,1,1,2.0,0.0,h
+S2324-G0011,3,02:18,HOU,,NOP,,T. Eason,HOU,Eason BLOCK (2 BLK),,,0,0,0,0,,,h
+S2324-G0011,3,02:14,HOU,,NOP,,T. Eason,HOU,Eason REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0011,3,02:09,HOU,,NOP,,T. Eason,HOU,MISS Eason 26' 3PT Jump Shot,Missed Shot,Jump Shot,-119,235,26,1,3.0,0.0,h
+S2324-G0011,3,01:55,HOU,,NOP,,T. Eason,HOU,Eason REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0011,3,01:47,HOU,,NOP,,T. Eason,HOU,Eason REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0011,3,01:47,HOU,,NOP,,T. Eason,HOU,MISS Eason Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2324-G0011,3,01:44,HOU,,NOP,,T. Eason,HOU,SUB: Landale FOR Eason,Substitution,,0,0,0,0,,,h
+S2324-G0011,3,00:11.500000,HOU,,NOP,,T. Eason,HOU,MISS Eason 3PT Jump Shot,Missed Shot,Jump Shot,227,-3,0,1,3.0,0.0,h
+S2324-G0011,3,00:00.100000,HOU,,NOP,,T. Eason,HOU,Eason REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0011,4,10:37,HOU,,NOP,,T. Eason,HOU,Eason REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0011,4,09:55,HOU,,NOP,,T. Eason,HOU,Eason REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0011,4,09:48,HOU,,NOP,,T. Eason,HOU,MISS Eason 5' Driving Layup,Missed Shot,Driving Layup Shot,47,15,5,1,2.0,0.0,h
+S2324-G0011,4,09:10,HOU,,NOP,,T. Eason,HOU,SUB: Smith Jr. FOR Eason,Substitution,,0,0,0,0,,,h
+S2324-G0011,4,00:03.100000,HOU,,NOP,,T. Eason,HOU,Eason L.B.FOUL (P3.PN) (T.Ford),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0011,4,00:03.100000,HOU,,NOP,,T. Eason,HOU,SUB: Ja. Green FOR Eason,Substitution,,0,0,0,0,,,h
+S2324-G0314,1,02:25,HOU,,MEM,,T. Eason,HOU,Eason REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0314,1,01:46,HOU,29.0,MEM,20.0,T. Eason,HOU,Eason 25' 3PT Jump Shot (3 PTS) (Tate 1 AST),Made Shot,Jump Shot,54,248,25,1,3.0,3.0,h
+S2324-G0314,1,01:25,HOU,,MEM,,T. Eason,HOU,Eason REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0314,1,01:18,HOU,,MEM,,T. Eason,HOU,Eason Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0314,2,11:03,HOU,33.0,MEM,25.0,T. Eason,HOU,Eason Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0314,2,11:03,HOU,,MEM,,T. Eason,HOU,MISS Eason Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0314,2,10:14,HOU,,MEM,,T. Eason,HOU,MISS Eason 24' 3PT Jump Shot,Missed Shot,Jump Shot,-107,220,24,1,3.0,0.0,h
+S2324-G0314,2,10:04,HOU,,MEM,,T. Eason,HOU,MISS Eason 6' Layup,Missed Shot,Layup Shot,-33,48,6,1,2.0,0.0,h
+S2324-G0314,2,09:57,HOU,,MEM,,T. Eason,HOU,Eason REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0314,2,09:57,HOU,37.0,MEM,27.0,T. Eason,HOU,Eason 1' Putback Layup (6 PTS),Made Shot,Putback Layup Shot,5,5,1,1,2.0,2.0,h
+S2324-G0314,2,08:48,HOU,,MEM,,T. Eason,HOU,Eason REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0314,2,08:24,HOU,,MEM,,T. Eason,HOU,Eason STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0314,2,08:21,HOU,44.0,MEM,30.0,T. Eason,HOU,Eason 1' Running Dunk (8 PTS),Made Shot,Running Dunk Shot,6,9,1,1,2.0,2.0,h
+S2324-G0314,2,07:48,HOU,46.0,MEM,30.0,T. Eason,HOU,Eason 1' Running Alley Oop Dunk Shot (10 PTS) (Tate 2 AST),Made Shot,Running Alley Oop Dunk Shot,11,5,1,1,2.0,2.0,h
+S2324-G0314,2,05:33,HOU,,MEM,,T. Eason,HOU,SUB: Brooks FOR Eason,Substitution,,0,0,0,0,,,h
+S2324-G0314,3,04:46,HOU,72.0,MEM,68.0,T. Eason,HOU,Eason 25' 3PT Jump Shot (13 PTS) (VanVleet 4 AST),Made Shot,Jump Shot,-168,188,25,1,3.0,3.0,h
+S2324-G0314,3,04:26,HOU,,MEM,,T. Eason,HOU,Eason REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0314,3,04:12,HOU,,MEM,,T. Eason,HOU,Eason REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0314,3,04:11,HOU,,MEM,,T. Eason,HOU,MISS Eason 2' Putback Layup,Missed Shot,Putback Layup Shot,-9,13,2,1,2.0,0.0,h
+S2324-G0314,3,04:10,HOU,,MEM,,T. Eason,HOU,Eason REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0314,3,04:09,HOU,,MEM,,T. Eason,HOU,MISS Eason 2' Putback Layup,Missed Shot,Putback Layup Shot,-21,7,2,1,2.0,0.0,h
+S2324-G0314,3,03:03,HOU,,MEM,,T. Eason,HOU,Eason REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0314,3,02:54,HOU,,MEM,,T. Eason,HOU,Eason Out of Bounds - Bad Pass Turnover Turnover (P2.T13),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G0314,3,02:13,HOU,,MEM,,T. Eason,HOU,Eason REBOUND (Off:4 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0314,3,02:13,HOU,78.0,MEM,74.0,T. Eason,HOU,Eason Tip Layup Shot (15 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2324-G0314,3,01:35,HOU,,MEM,,T. Eason,HOU,MISS Eason 6' Driving Layup,Missed Shot,Driving Layup Shot,58,28,6,1,2.0,0.0,h
+S2324-G0314,3,01:09,HOU,,MEM,,T. Eason,HOU,MISS Eason Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0314,3,01:09,HOU,79.0,MEM,76.0,T. Eason,HOU,Eason Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0314,3,00:29.200000,HOU,,MEM,,T. Eason,HOU,Eason REBOUND (Off:4 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0314,4,10:36,HOU,,MEM,,T. Eason,HOU,Eason REBOUND (Off:4 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0314,4,09:49,HOU,90.0,MEM,83.0,T. Eason,HOU,Eason Running Dunk (18 PTS) (VanVleet 6 AST),Made Shot,Running Dunk Shot,-1,2,0,1,2.0,2.0,h
+S2324-G0314,4,08:04,HOU,,MEM,,T. Eason,HOU,Eason REBOUND (Off:4 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0314,4,06:53,HOU,99.0,MEM,90.0,T. Eason,HOU,Eason 2' Driving Layup (20 PTS) (VanVleet 7 AST),Made Shot,Driving Layup Shot,17,10,2,1,2.0,2.0,h
+S2324-G0314,4,05:26,HOU,,MEM,,T. Eason,HOU,Eason BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0314,4,04:02,HOU,,MEM,,T. Eason,HOU,MISS Eason 13' Jump Shot,Missed Shot,Jump Shot,-39,120,13,1,2.0,0.0,h
+S2324-G0314,4,03:29,HOU,,MEM,,T. Eason,HOU,Eason REBOUND (Off:5 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0314,4,03:14,HOU,,MEM,,T. Eason,HOU,Eason REBOUND (Off:6 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0314,4,03:14,HOU,110.0,MEM,100.0,T. Eason,HOU,Eason 2' Tip Layup Shot (22 PTS),Made Shot,Tip Layup Shot,-4,15,2,1,2.0,2.0,h
+S2324-G0314,4,02:37,HOU,113.0,MEM,100.0,T. Eason,HOU,Eason 26' 3PT Jump Shot (25 PTS) (VanVleet 8 AST),Made Shot,Jump Shot,-178,185,26,1,3.0,3.0,h
+S2324-G0314,4,02:15,HOU,,MEM,,T. Eason,HOU,Eason Out of Bounds - Bad Pass Turnover Turnover (P3.T18),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G0314,4,02:05,HOU,,MEM,,T. Eason,HOU,Eason P.FOUL (P1.T4) (D.Guthrie),Foul,Personal,0,0,0,0,,,h
+S2324-G0314,4,01:59,HOU,,MEM,,T. Eason,HOU,Eason S.FOUL (P2.PN) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,h
+S2324-G0332,1,03:31,MEM,,HOU,,T. Eason,HOU,MISS Eason 16' Jump Shot,Missed Shot,Jump Shot,-143,72,16,1,2.0,0.0,v
+S2324-G0332,1,01:32,MEM,,HOU,,T. Eason,HOU,MISS Eason 10' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-16,99,10,1,2.0,0.0,v
+S2324-G0332,1,01:10,MEM,,HOU,,T. Eason,HOU,Eason REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0332,1,00:00.200000,MEM,29.0,HOU,14.0,T. Eason,HOU,Eason 2' Driving Dunk (2 PTS),Made Shot,Driving Dunk Shot,18,14,2,1,2.0,2.0,v
+S2324-G0332,2,11:48,MEM,,HOU,,T. Eason,HOU,Eason P.FOUL (P1.T1) (J.Ralls),Foul,Personal,0,0,0,0,,,v
+S2324-G0332,2,11:31,MEM,,HOU,,T. Eason,HOU,Eason REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0332,2,11:24,MEM,29.0,HOU,17.0,T. Eason,HOU,Eason 25' 3PT Jump Shot (5 PTS) (Je. Green 1 AST),Made Shot,Jump Shot,-120,220,25,1,3.0,3.0,v
+S2324-G0332,2,10:56,MEM,,HOU,,T. Eason,HOU,Eason REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0332,2,10:51,MEM,,HOU,,T. Eason,HOU,Eason Traveling Turnover (P1.T5),Turnover,Traveling,0,0,0,0,,,v
+S2324-G0332,2,10:40,MEM,,HOU,,T. Eason,HOU,Eason S.FOUL (P2.T2) (K.Scott),Foul,Shooting,0,0,0,0,,,v
+S2324-G0332,2,10:13,MEM,,HOU,,T. Eason,HOU,Eason REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0332,2,10:11,MEM,30.0,HOU,19.0,T. Eason,HOU,Eason Tip Layup Shot (7 PTS),Made Shot,Tip Layup Shot,-4,-1,0,1,2.0,2.0,v
+S2324-G0332,2,08:49,MEM,,HOU,,T. Eason,HOU,Eason REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0332,2,08:12,MEM,35.0,HOU,22.0,T. Eason,HOU,Eason Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0332,2,08:12,MEM,35.0,HOU,23.0,T. Eason,HOU,Eason Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0332,2,06:08,MEM,,HOU,,T. Eason,HOU,SUB: Ja. Green FOR Eason,Substitution,,0,0,0,0,,,v
+S2324-G0332,3,05:11,MEM,,HOU,,T. Eason,HOU,MISS Eason 3' Running Reverse Layup,Missed Shot,Running Reverse Layup Shot,-28,20,3,1,2.0,0.0,v
+S2324-G0332,3,04:23,MEM,,HOU,,T. Eason,HOU,Eason STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0332,3,04:21,MEM,,HOU,,T. Eason,HOU,Eason Out of Bounds Lost Ball Turnover (P2.T9),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2324-G0332,3,00:10,MEM,,HOU,,T. Eason,HOU,Eason BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0332,4,09:12,MEM,,HOU,,T. Eason,HOU,Eason REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0332,4,08:24,MEM,,HOU,,T. Eason,HOU,Eason REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0332,4,07:17,MEM,,HOU,,T. Eason,HOU,Eason STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0332,4,06:51,MEM,,HOU,,T. Eason,HOU,SUB: Ja. Green FOR Eason,Substitution,,0,0,0,0,,,v
+S2324-G0332,4,03:15,MEM,,HOU,,T. Eason,HOU,SUB: Ja. Green FOR Eason,Substitution,,0,0,0,0,,,v
+S2324-G0332,4,00:34.400000,MEM,94.0,HOU,101.0,T. Eason,HOU,Eason 2' Running Dunk (11 PTS) (Brooks 1 AST),Made Shot,Running Dunk Shot,0,16,2,1,2.0,2.0,v
+S2324-G0332,4,00:21.800000,MEM,,HOU,,T. Eason,HOU,MISS Eason 4' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,25,29,4,1,2.0,0.0,v
+S2324-G0332,4,00:01.800000,MEM,,HOU,,T. Eason,HOU,Eason REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0298,1,03:26,HOU,,SAS,,T. Eason,HOU,Eason REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0298,1,02:33,HOU,,SAS,,T. Eason,HOU,Eason REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0298,1,02:27,HOU,,SAS,,T. Eason,HOU,MISS Eason 10' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,55,83,10,1,2.0,0.0,h
+S2324-G0298,1,00:57.800000,HOU,,SAS,,T. Eason,HOU,MISS Eason 3PT Jump Shot,Missed Shot,Jump Shot,230,5,0,1,3.0,0.0,h
+S2324-G0298,1,00:28.100000,HOU,,SAS,,T. Eason,HOU,SUB: Smith Jr. FOR Eason,Substitution,,0,0,0,0,,,h
+S2324-G0298,2,10:35,HOU,26.0,SAS,23.0,T. Eason,HOU,Eason 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,-16,29,3,1,2.0,2.0,h
+S2324-G0298,2,10:35,HOU,,SAS,,T. Eason,HOU,MISS Eason Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2324-G0298,2,10:17,HOU,,SAS,,T. Eason,HOU,Eason STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0298,2,09:36,HOU,30.0,SAS,25.0,T. Eason,HOU,Eason 2' Driving Dunk (4 PTS),Made Shot,Driving Dunk Shot,16,11,2,1,2.0,2.0,h
+S2324-G0298,2,08:38,HOU,,SAS,,T. Eason,HOU,Eason REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0298,2,07:50,HOU,,SAS,,T. Eason,HOU,Eason REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0298,2,07:49,HOU,,SAS,,T. Eason,HOU,MISS Eason 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-49,117,13,1,2.0,0.0,h
+S2324-G0298,2,07:24,HOU,,SAS,,T. Eason,HOU,MISS Eason 2' Layup,Missed Shot,Layup Shot,-18,17,2,1,2.0,0.0,h
+S2324-G0298,2,06:53,HOU,,SAS,,T. Eason,HOU,SUB: Brooks FOR Eason,Substitution,,0,0,0,0,,,h
+S2324-G0298,2,00:38.200000,HOU,,SAS,,T. Eason,HOU,Eason REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0298,2,00:33.800000,HOU,,SAS,,T. Eason,HOU,Eason OFF.Foul (P1) (S.Mehta),Foul,Offensive,0,0,0,0,,,h
+S2324-G0298,2,00:33.800000,HOU,,SAS,,T. Eason,HOU,Eason Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0298,3,03:25,HOU,,SAS,,T. Eason,HOU,MISS Eason 25' 3PT Jump Shot,Missed Shot,Jump Shot,71,239,25,1,3.0,0.0,h
+S2324-G0298,3,03:12,HOU,,SAS,,T. Eason,HOU,Eason REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0298,3,01:52,HOU,,SAS,,T. Eason,HOU,Eason REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0298,3,01:50,HOU,,SAS,,T. Eason,HOU,Eason OFF.Foul (P2) (S.Mehta),Foul,Offensive,0,0,0,0,,,h
+S2324-G0298,3,01:50,HOU,,SAS,,T. Eason,HOU,Eason Offensive Foul Turnover (P2.T12),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0298,3,00:42,HOU,,SAS,,T. Eason,HOU,Eason REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0298,4,10:46,HOU,,SAS,,T. Eason,HOU,MISS Eason 25' 3PT Jump Shot,Missed Shot,Jump Shot,181,174,25,1,3.0,0.0,h
+S2324-G0298,4,10:09,HOU,72.0,SAS,65.0,T. Eason,HOU,Eason 26' 3PT Jump Shot (7 PTS) (Thompson 1 AST),Made Shot,Jump Shot,210,155,26,1,3.0,3.0,h
+S2324-G0298,4,09:49,HOU,,SAS,,T. Eason,HOU,Eason REBOUND (Off:2 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0298,4,08:54,HOU,,SAS,,T. Eason,HOU,Eason STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0298,4,08:50,HOU,74.0,SAS,66.0,T. Eason,HOU,Eason 2' Running Layup (9 PTS),Made Shot,Running Layup Shot,13,10,2,1,2.0,2.0,h
+S2324-G0298,4,08:13,HOU,,SAS,,T. Eason,HOU,Eason REBOUND (Off:3 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0298,4,08:13,HOU,,SAS,,T. Eason,HOU,MISS Eason 2' Tip Layup Shot,Missed Shot,Tip Layup Shot,22,6,2,1,2.0,0.0,h
+S2324-G0298,4,07:38,HOU,77.0,SAS,70.0,T. Eason,HOU,Eason 25' 3PT Jump Shot (12 PTS) (Je. Green 1 AST),Made Shot,Jump Shot,22,245,25,1,3.0,3.0,h
+S2324-G0298,4,05:54,HOU,,SAS,,T. Eason,HOU,Eason REBOUND (Off:4 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0298,4,05:53,HOU,,SAS,,T. Eason,HOU,MISS Eason 1' Putback Layup,Missed Shot,Putback Layup Shot,-7,5,1,1,2.0,0.0,h
+S2324-G0298,4,05:33,HOU,79.0,SAS,73.0,T. Eason,HOU,Eason 16' Step Back Jump Shot (14 PTS),Made Shot,Step Back Jump shot,162,13,16,1,2.0,2.0,h
+S2324-G0298,4,03:12,HOU,86.0,SAS,77.0,T. Eason,HOU,Eason 2' Running Dunk (16 PTS) (Smith Jr. 5 AST),Made Shot,Running Dunk Shot,18,10,2,1,2.0,2.0,h
+S2324-G0298,4,02:39,HOU,,SAS,,T. Eason,HOU,Eason REBOUND (Off:4 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0298,4,02:04,HOU,,SAS,,T. Eason,HOU,Eason REBOUND (Off:4 Def:9),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0298,4,00:36.400000,HOU,,SAS,,T. Eason,HOU,Eason REBOUND (Off:4 Def:10),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0298,4,00:26.800000,HOU,93.0,SAS,82.0,T. Eason,HOU,Eason 2' Cutting Dunk Shot (18 PTS) (Brooks 2 AST),Made Shot,Cutting Dunk Shot,-1,15,2,1,2.0,2.0,h
+S2324-G0349,1,02:49,CLE,,HOU,,T. Eason,HOU,Eason REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0349,1,02:10,CLE,,HOU,,T. Eason,HOU,MISS Eason 2' Running Layup,Missed Shot,Running Layup Shot,17,1,2,1,2.0,0.0,v
+S2324-G0349,2,09:54,CLE,,HOU,,T. Eason,HOU,Eason Traveling Turnover (P1.T4),Turnover,Traveling,0,0,0,0,,,v
+S2324-G0349,2,09:24,CLE,,HOU,,T. Eason,HOU,Eason P.FOUL (P1.T2) (P.Fraher),Foul,Personal,0,0,0,0,,,v
+S2324-G0349,2,07:29,CLE,,HOU,,T. Eason,HOU,MISS Eason Driving Layup,Missed Shot,Driving Layup Shot,-1,4,0,1,2.0,0.0,v
+S2324-G0349,2,06:57,CLE,,HOU,,T. Eason,HOU,Eason REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0349,2,06:55,CLE,46.0,HOU,42.0,T. Eason,HOU,Eason 1' Putback Dunk (2 PTS),Made Shot,Putback Dunk Shot,1,10,1,1,2.0,2.0,v
+S2324-G0349,2,06:40,CLE,,HOU,,T. Eason,HOU,SUB: Ja. Green FOR Eason,Substitution,,0,0,0,0,,,v
+S2324-G0349,3,05:57,CLE,,HOU,,T. Eason,HOU,Eason STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0349,3,05:56,CLE,84.0,HOU,76.0,T. Eason,HOU,Eason Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0349,3,05:56,CLE,84.0,HOU,77.0,T. Eason,HOU,Eason Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0349,3,05:03,CLE,,HOU,,T. Eason,HOU,Eason STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0349,3,04:42,CLE,,HOU,,T. Eason,HOU,Eason REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0349,3,04:42,CLE,89.0,HOU,79.0,T. Eason,HOU,Eason Putback Layup (6 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,v
+S2324-G0349,3,03:47,CLE,,HOU,,T. Eason,HOU,MISS Eason 3' Layup,Missed Shot,Layup Shot,4,25,3,1,2.0,0.0,v
+S2324-G0349,3,03:47,CLE,,HOU,,T. Eason,HOU,Eason REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0349,3,03:47,CLE,89.0,HOU,83.0,T. Eason,HOU,Eason 2' Putback Layup (8 PTS),Made Shot,Putback Layup Shot,-2,19,2,1,2.0,2.0,v
+S2324-G0349,3,03:47,CLE,,HOU,,T. Eason,HOU,MISS Eason Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2324-G0349,3,02:31,CLE,,HOU,,T. Eason,HOU,Eason STEAL (3 STL),,,0,0,0,0,,,v
+S2324-G0349,3,02:26,CLE,91.0,HOU,89.0,T. Eason,HOU,Eason 5' Running Layup (10 PTS),Made Shot,Running Layup Shot,21,48,5,1,2.0,2.0,v
+S2324-G0349,3,01:28,CLE,94.0,HOU,91.0,T. Eason,HOU,Eason 1' Driving Layup (12 PTS) (Je. Green 3 AST),Made Shot,Driving Layup Shot,-4,11,1,1,2.0,2.0,v
+S2324-G0349,3,00:28.200000,CLE,,HOU,,T. Eason,HOU,Eason S.FOUL (P2.PN) (D.Scott),Foul,Shooting,0,0,0,0,,,v
+S2324-G0349,4,06:27,CLE,,HOU,,T. Eason,HOU,Eason Double Dribble Turnover (P2.T12),Turnover,Double Dribble,0,0,0,0,,,v
+S2324-G0349,4,06:05,CLE,,HOU,,T. Eason,HOU,Eason REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0349,4,04:36,CLE,,HOU,,T. Eason,HOU,Eason BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0349,4,03:58,CLE,117.0,HOU,112.0,T. Eason,HOU,Eason Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0349,4,03:58,CLE,117.0,HOU,113.0,T. Eason,HOU,Eason Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0349,4,00:23,CLE,,HOU,,T. Eason,HOU,Eason REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0349,5,04:19,CLE,,HOU,,T. Eason,HOU,MISS Eason 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-16,13,2,1,2.0,0.0,v
+S2324-G0349,5,02:58,CLE,,HOU,,T. Eason,HOU,MISS Eason 3PT Jump Shot,Missed Shot,Jump Shot,227,20,0,1,3.0,0.0,v
+S2324-G0349,5,01:49,CLE,,HOU,,T. Eason,HOU,Eason REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0349,5,01:24,CLE,,HOU,,T. Eason,HOU,MISS Eason 3PT Jump Shot,Missed Shot,Jump Shot,-232,11,0,1,3.0,0.0,v
+S2324-G0349,5,00:21.100000,CLE,,HOU,,T. Eason,HOU,Eason STEAL (4 STL),,,0,0,0,0,,,v
+S2324-G0349,5,00:19.400000,CLE,,HOU,,T. Eason,HOU,MISS Eason 1' Running Layup,Missed Shot,Running Layup Shot,-1,8,1,1,2.0,0.0,v
+S2324-G0349,5,00:14.200000,CLE,,HOU,,T. Eason,HOU,Eason REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0349,5,00:10.500000,CLE,,HOU,,T. Eason,HOU,MISS Eason 2' Putback Layup,Missed Shot,Putback Layup Shot,-10,16,2,1,2.0,0.0,v
+S2324-G0349,5,00:09.700000,CLE,,HOU,,T. Eason,HOU,Eason P.FOUL (P3.T1) (J.Van Duyne),Foul,Personal,0,0,0,0,,,v
+S2324-G0349,5,00:03.400000,CLE,,HOU,,T. Eason,HOU,Eason AWAY.FROM.PLAY.FOUL (P4.PN) (P.Fraher),Foul,Away From Play,0,0,0,0,,,v
+S2324-G0037,1,02:53,LAC,,HOU,,T. Eason,HOU,MISS Eason 18' Jump Shot,Missed Shot,Jump Shot,98,152,18,1,2.0,0.0,v
+S2324-G0037,1,02:37,LAC,,HOU,,T. Eason,HOU,Eason S.FOUL (P1.PN) (C.Kirkland),Foul,Shooting,0,0,0,0,,,v
+S2324-G0037,1,01:58,LAC,24.0,HOU,19.0,T. Eason,HOU,Eason 4' Cutting Layup Shot (2 PTS) (Je. Green 1 AST),Made Shot,Cutting Layup Shot,21,34,4,1,2.0,2.0,v
+S2324-G0037,1,01:58,LAC,,HOU,,T. Eason,HOU,MISS Eason Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2324-G0037,2,11:30,LAC,,HOU,,T. Eason,HOU,Eason REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0037,2,11:01,LAC,,HOU,,T. Eason,HOU,Eason REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0037,2,10:27,LAC,,HOU,,T. Eason,HOU,Eason BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0037,2,10:12,LAC,,HOU,,T. Eason,HOU,Eason P.FOUL (P2.T3) (D.Richardson),Foul,Personal,0,0,0,0,,,v
+S2324-G0037,2,09:45,LAC,29.0,HOU,27.0,T. Eason,HOU,Eason 6' Driving Floating Jump Shot (4 PTS) (VanVleet 2 AST),Made Shot,Driving Floating Jump Shot,44,46,6,1,2.0,2.0,v
+S2324-G0037,2,09:13,LAC,,HOU,,T. Eason,HOU,Eason BLOCK (2 BLK),,,0,0,0,0,,,v
+S2324-G0037,2,08:02,LAC,,HOU,,T. Eason,HOU,Eason S.FOUL (P3.PN) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,v
+S2324-G0037,2,08:02,LAC,,HOU,,T. Eason,HOU,SUB: Ja. Green FOR Eason,Substitution,,0,0,0,0,,,v
+S2324-G0037,2,03:14,LAC,,HOU,,T. Eason,HOU,Eason REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0037,2,02:44,LAC,,HOU,,T. Eason,HOU,MISS Eason 4' Running Layup,Missed Shot,Running Layup Shot,10,37,4,1,2.0,0.0,v
+S2324-G0037,2,02:29,LAC,,HOU,,T. Eason,HOU,MISS Eason 27' 3PT Jump Shot,Missed Shot,Jump Shot,116,247,27,1,3.0,0.0,v
+S2324-G0037,2,00:47.400000,LAC,,HOU,,T. Eason,HOU,Eason REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0037,3,04:42,LAC,,HOU,,T. Eason,HOU,Eason REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0037,3,02:22,LAC,,HOU,,T. Eason,HOU,Eason STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0037,3,02:22,LAC,71.0,HOU,68.0,T. Eason,HOU,Eason 6' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,-21,54,6,1,2.0,2.0,v
+S2324-G0037,3,02:22,LAC,,HOU,,T. Eason,HOU,MISS Eason Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2324-G0037,3,01:01,LAC,,HOU,,T. Eason,HOU,Eason REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0037,3,00:52.900000,LAC,73.0,HOU,73.0,T. Eason,HOU,Eason 1' Cutting Dunk Shot (8 PTS) (Ja. Green 4 AST),Made Shot,Cutting Dunk Shot,-4,8,1,1,2.0,2.0,v
+S2324-G0037,3,00:03.100000,LAC,,HOU,,T. Eason,HOU,Eason Bad Pass Turnover (P1.T11),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0037,4,10:02,LAC,82.0,HOU,83.0,T. Eason,HOU,Eason 18' Jump Shot (10 PTS) (Holiday 1 AST),Made Shot,Jump Shot,-172,39,18,1,2.0,2.0,v
+S2324-G0037,4,09:47,LAC,82.0,HOU,85.0,T. Eason,HOU,Eason Running Dunk (12 PTS) (Holiday 2 AST),Made Shot,Running Dunk Shot,1,0,0,1,2.0,2.0,v
+S2324-G0037,4,09:47,LAC,,HOU,,T. Eason,HOU,SUB: Brooks FOR Eason,Substitution,,0,0,0,0,,,v
+S2324-G0216,1,03:20,LAL,,HOU,,T. Eason,HOU,Eason REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0216,1,00:47.700000,LAL,,HOU,,T. Eason,HOU,Eason REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0216,1,00:13.300000,LAL,,HOU,,T. Eason,HOU,SUB: Sengun FOR Eason,Substitution,,0,0,0,0,,,v
+S2324-G0216,2,09:46,LAL,,HOU,,T. Eason,HOU,Eason BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0216,2,09:45,LAL,,HOU,,T. Eason,HOU,Eason REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0216,2,08:15,LAL,,HOU,,T. Eason,HOU,Eason S.FOUL (P1.T2) (M.Smith),Foul,Shooting,0,0,0,0,,,v
+S2324-G0216,2,08:15,LAL,,HOU,,T. Eason,HOU,SUB: Ja. Green FOR Eason,Substitution,,0,0,0,0,,,v
+S2324-G0216,3,02:59,LAL,,HOU,,T. Eason,HOU,Eason REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0216,4,09:47,LAL,86.0,HOU,81.0,T. Eason,HOU,Eason 8' Jump Shot (2 PTS) (VanVleet 11 AST),Made Shot,Jump Shot,76,4,8,1,2.0,2.0,v
+S2324-G0216,4,08:37,LAL,,HOU,,T. Eason,HOU,MISS Eason 25' 3PT Jump Shot,Missed Shot,Jump Shot,173,179,25,1,3.0,0.0,v
+S2324-G0216,4,08:15,LAL,,HOU,,T. Eason,HOU,Eason REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0216,4,06:19,LAL,,HOU,,T. Eason,HOU,SUB: Brooks FOR Eason,Substitution,,0,0,0,0,,,v
+S2324-G0216,4,00:01.900000,LAL,,HOU,,T. Eason,HOU,Eason S.FOUL (P2.PN) (S.Wright),Foul,Shooting,0,0,0,0,,,v
+S2324-G0216,4,00:01.900000,LAL,,HOU,,T. Eason,HOU,SUB: Ja. Green FOR Eason,Substitution,,0,0,0,0,,,v
+S2324-G0346,1,07:33,MIL,,HOU,,T. Eason,HOU,Eason REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0346,1,06:40,MIL,,HOU,,T. Eason,HOU,Eason STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0346,1,06:36,MIL,10.0,HOU,13.0,T. Eason,HOU,Eason 25' 3PT Running Jump Shot (3 PTS) (Ja. Green 2 AST),Made Shot,Running Jump Shot,140,212,25,1,3.0,3.0,v
+S2324-G0346,1,06:20,MIL,,HOU,,T. Eason,HOU,Eason S.FOUL (P1.T3) (M.Kogut),Foul,Shooting,0,0,0,0,,,v
+S2324-G0346,1,05:38,MIL,15.0,HOU,15.0,T. Eason,HOU,Eason 15' Pullup Jump Shot (5 PTS) (Sengun 1 AST),Made Shot,Pullup Jump shot,-83,120,15,1,2.0,2.0,v
+S2324-G0346,1,04:50,MIL,,HOU,,T. Eason,HOU,Eason REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0346,1,04:34,MIL,,HOU,,T. Eason,HOU,Eason STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0346,1,04:32,MIL,17.0,HOU,19.0,T. Eason,HOU,Eason 2' Running Dunk (7 PTS),Made Shot,Running Dunk Shot,9,13,2,1,2.0,2.0,v
+S2324-G0346,1,04:09,MIL,,HOU,,T. Eason,HOU,Eason REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0346,1,03:07,MIL,,HOU,,T. Eason,HOU,Eason REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0346,1,01:58,MIL,,HOU,,T. Eason,HOU,Eason REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0346,2,10:24,MIL,36.0,HOU,32.0,T. Eason,HOU,Eason 1' Running Layup (9 PTS) (Smith Jr. 1 AST),Made Shot,Running Layup Shot,5,2,1,1,2.0,2.0,v
+S2324-G0346,2,07:55,MIL,,HOU,,T. Eason,HOU,SUB: Brooks FOR Eason,Substitution,,0,0,0,0,,,v
+S2324-G0346,4,11:17,MIL,,HOU,,T. Eason,HOU,Eason REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0346,4,11:10,MIL,,HOU,,T. Eason,HOU,MISS Eason 4' Driving Layup,Missed Shot,Driving Layup Shot,-11,36,4,1,2.0,0.0,v
+S2324-G0346,4,08:50,MIL,104.0,HOU,98.0,T. Eason,HOU,Eason 12' Turnaround Fadeaway (11 PTS) (Holiday 2 AST),Made Shot,Turnaround Fadeaway shot,-29,117,12,1,2.0,2.0,v
+S2324-G0346,4,08:32,MIL,,HOU,,T. Eason,HOU,Eason S.FOUL (P2.T2) (M.Kogut),Foul,Shooting,0,0,0,0,,,v
+S2324-G0346,4,07:52,MIL,,HOU,,T. Eason,HOU,MISS Eason 22' Jump Shot,Missed Shot,Jump Shot,-217,-22,22,1,2.0,0.0,v
+S2324-G0346,4,07:24,MIL,,HOU,,T. Eason,HOU,SUB: Brooks FOR Eason,Substitution,,0,0,0,0,,,v
+S2324-G0346,4,00:12.600000,MIL,,HOU,,T. Eason,HOU,MISS Eason 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,19,264,26,1,3.0,0.0,v
+S2324-G0409,1,01:41,HOU,27.0,IND,29.0,T. Eason,HOU,Eason 15' Turnaround Fadeaway (2 PTS),Made Shot,Turnaround Fadeaway shot,17,151,15,1,2.0,2.0,h
+S2324-G0409,1,00:04.900000,HOU,,IND,,T. Eason,HOU,Eason STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0409,1,00:03.100000,HOU,33.0,IND,33.0,T. Eason,HOU,Eason 1' Driving Dunk (4 PTS),Made Shot,Driving Dunk Shot,-4,5,1,1,2.0,2.0,h
+S2324-G0409,2,11:36,HOU,,IND,,T. Eason,HOU,MISS Eason 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-190,169,25,1,3.0,0.0,h
+S2324-G0409,2,11:13,HOU,,IND,,T. Eason,HOU,Eason S.FOUL (P1.T1) (D.Mosher),Foul,Shooting,0,0,0,0,,,h
+S2324-G0409,2,10:52,HOU,,IND,,T. Eason,HOU,Eason REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0409,2,09:48,HOU,43.0,IND,39.0,T. Eason,HOU,Eason 26' 3PT Jump Shot (7 PTS) (Holiday 1 AST),Made Shot,Jump Shot,78,243,26,1,3.0,3.0,h
+S2324-G0409,2,08:20,HOU,,IND,,T. Eason,HOU,Eason REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0409,2,07:55,HOU,,IND,,T. Eason,HOU,Eason REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0409,2,07:44,HOU,,IND,,T. Eason,HOU,Eason S.FOUL (P2.T2) (S.Wright),Foul,Shooting,0,0,0,0,,,h
+S2324-G0409,2,07:44,HOU,,IND,,T. Eason,HOU,SUB: Sengun FOR Eason,Substitution,,0,0,0,0,,,h
+S2324-G0409,3,03:30,HOU,,IND,,T. Eason,HOU,Eason T.FOUL (P2.T4) (D.Mosher),Foul,Technical,0,0,0,0,,,h
+S2324-G0409,3,03:16,HOU,,IND,,T. Eason,HOU,MISS Eason Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0409,3,03:16,HOU,81.0,IND,88.0,T. Eason,HOU,Eason Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0409,3,01:45,HOU,84.0,IND,93.0,T. Eason,HOU,Eason 12' Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,9,124,12,1,2.0,2.0,h
+S2324-G0409,3,00:13.500000,HOU,,IND,,T. Eason,HOU,MISS Eason 3' Driving Layup,Missed Shot,Driving Layup Shot,25,15,3,1,2.0,0.0,h
+S2324-G0409,3,00:10.600000,HOU,,IND,,T. Eason,HOU,Eason STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0409,3,00:10.100000,HOU,90.0,IND,100.0,T. Eason,HOU,Eason 1' Layup (12 PTS),Made Shot,Layup Shot,9,-8,1,1,2.0,2.0,h
+S2324-G0409,4,10:40,HOU,,IND,,T. Eason,HOU,Eason REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0409,4,09:09,HOU,,IND,,T. Eason,HOU,Eason REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0409,4,08:51,HOU,,IND,,T. Eason,HOU,Eason REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0409,4,08:42,HOU,,IND,,T. Eason,HOU,MISS Eason 2' Driving Layup,Missed Shot,Driving Layup Shot,13,20,2,1,2.0,0.0,h
+S2324-G0409,4,08:31,HOU,,IND,,T. Eason,HOU,Eason REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0409,4,07:14,HOU,105.0,IND,108.0,T. Eason,HOU,Eason 3' Dunk (14 PTS) (Sengun 5 AST),Made Shot,Dunk Shot,1,31,3,1,2.0,2.0,h
+S2324-G0409,4,02:42,HOU,,IND,,T. Eason,HOU,MISS Eason 1' Dunk,Missed Shot,Dunk Shot,6,8,1,1,2.0,0.0,h
+S2324-G0409,4,02:35,HOU,,IND,,T. Eason,HOU,Eason REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0409,4,02:33,HOU,115.0,IND,115.0,T. Eason,HOU,Eason 3' Putback Dunk (16 PTS),Made Shot,Putback Dunk Shot,25,11,3,1,2.0,2.0,h
+S2324-G0409,4,02:10,HOU,,IND,,T. Eason,HOU,MISS Eason 2' Running Layup,Missed Shot,Running Layup Shot,13,17,2,1,2.0,0.0,h
+S2324-G0409,4,01:36,HOU,,IND,,T. Eason,HOU,Eason S.FOUL (P3.T3) (D.Mosher),Foul,Shooting,0,0,0,0,,,h
+S2324-G0409,4,00:22.200000,HOU,,IND,,T. Eason,HOU,MISS Eason 3' Layup,Missed Shot,Layup Shot,22,13,3,1,2.0,0.0,h
+S2324-G0059,1,03:44,DAL,,HOU,,T. Eason,HOU,Eason Traveling Turnover (P1.T4),Turnover,Traveling,0,0,0,0,,,v
+S2324-G0059,1,03:09,DAL,,HOU,,T. Eason,HOU,Eason L.B.FOUL (P1.PN) (N.Sago),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0059,1,03:06,DAL,,HOU,,T. Eason,HOU,Eason REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0059,1,02:10,DAL,,HOU,,T. Eason,HOU,Eason REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0059,1,01:48,DAL,,HOU,,T. Eason,HOU,Eason REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0059,1,01:40,DAL,23.0,HOU,15.0,T. Eason,HOU,Eason 12' Pullup Jump Shot (2 PTS) (Ja. Green 4 AST),Made Shot,Pullup Jump shot,2,116,12,1,2.0,2.0,v
+S2324-G0059,1,01:24,DAL,,HOU,,T. Eason,HOU,Eason REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0059,1,00:00.700000,DAL,,HOU,,T. Eason,HOU,Eason BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0059,2,08:25,DAL,,HOU,,T. Eason,HOU,SUB: Ja. Green FOR Eason,Substitution,,0,0,0,0,,,v
+S2324-G0059,2,05:47,DAL,,HOU,,T. Eason,HOU,Eason P.FOUL (P2.T4) (S.Foster),Foul,Personal,0,0,0,0,,,v
+S2324-G0059,2,05:18,DAL,,HOU,,T. Eason,HOU,MISS Eason 8' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,36,71,8,1,2.0,0.0,v
+S2324-G0059,2,02:57,DAL,50.0,HOU,40.0,T. Eason,HOU,Eason Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0059,2,02:57,DAL,,HOU,,T. Eason,HOU,MISS Eason Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0059,2,01:58,DAL,,HOU,,T. Eason,HOU,Eason BLOCK (2 BLK),,,0,0,0,0,,,v
+S2324-G0059,2,01:50,DAL,50.0,HOU,47.0,T. Eason,HOU,Eason 3' Running Layup (5 PTS) (Smith Jr. 2 AST),Made Shot,Running Layup Shot,17,20,3,1,2.0,2.0,v
+S2324-G0059,3,02:46,DAL,,HOU,,T. Eason,HOU,Eason REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0059,3,01:57,DAL,,HOU,,T. Eason,HOU,MISS Eason 5' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-20,46,5,1,2.0,0.0,v
+S2324-G0059,3,01:53,DAL,,HOU,,T. Eason,HOU,Eason REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0059,3,01:52,DAL,,HOU,,T. Eason,HOU,Eason Bad Pass Turnover (P2.T8),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0059,3,01:25,DAL,75.0,HOU,84.0,T. Eason,HOU,Eason 1' Running Layup (7 PTS) (Holiday 3 AST),Made Shot,Running Layup Shot,1,11,1,1,2.0,2.0,v
+S2324-G0059,3,00:12.200000,DAL,,HOU,,T. Eason,HOU,Eason S.FOUL (P3.PN) (N.Sago),Foul,Shooting,0,0,0,0,,,v
+S2324-G0059,4,11:06,DAL,,HOU,,T. Eason,HOU,Eason S.FOUL (P4.T1) (S.Foster),Foul,Shooting,0,0,0,0,,,v
+S2324-G0059,4,10:39,DAL,,HOU,,T. Eason,HOU,Eason REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0059,4,10:39,DAL,88.0,HOU,90.0,T. Eason,HOU,Eason 4' Putback Layup (9 PTS),Made Shot,Putback Layup Shot,35,17,4,1,2.0,2.0,v
+S2324-G0059,4,10:39,DAL,,HOU,,T. Eason,HOU,MISS Eason Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2324-G0059,4,10:16,DAL,,HOU,,T. Eason,HOU,MISS Eason 15' Jump Shot,Missed Shot,Jump Shot,145,37,15,1,2.0,0.0,v
+S2324-G0059,4,09:59,DAL,,HOU,,T. Eason,HOU,Eason REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0059,4,09:06,DAL,90.0,HOU,91.0,T. Eason,HOU,Eason Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0059,4,09:06,DAL,90.0,HOU,92.0,T. Eason,HOU,Eason Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0059,4,08:53,DAL,,HOU,,T. Eason,HOU,SUB: Brooks FOR Eason,Substitution,,0,0,0,0,,,v
+S2324-G0263,1,00:11.900000,DEN,,HOU,,T. Eason,HOU,Eason REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0263,1,00:11.900000,DEN,41.0,HOU,26.0,T. Eason,HOU,Eason Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2324-G0263,2,11:41,DEN,,HOU,,T. Eason,HOU,MISS Eason 2' Layup,Missed Shot,Layup Shot,15,13,2,1,2.0,0.0,v
+S2324-G0263,2,11:40,DEN,,HOU,,T. Eason,HOU,Eason REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0263,2,11:39,DEN,,HOU,,T. Eason,HOU,MISS Eason 3' Putback Layup,Missed Shot,Putback Layup Shot,27,8,3,1,2.0,0.0,v
+S2324-G0263,2,10:48,DEN,44.0,HOU,28.0,T. Eason,HOU,Eason 17' Jump Shot (4 PTS) (Sengun 2 AST),Made Shot,Jump Shot,131,115,17,1,2.0,2.0,v
+S2324-G0263,2,07:41,DEN,,HOU,,T. Eason,HOU,SUB: Brooks FOR Eason,Substitution,,0,0,0,0,,,v
+S2324-G0263,3,03:05,DEN,,HOU,,T. Eason,HOU,Eason BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0263,3,00:23.500000,DEN,,HOU,,T. Eason,HOU,SUB: Smith Jr. FOR Eason,Substitution,,0,0,0,0,,,v
+S2324-G0263,4,11:00,DEN,,HOU,,T. Eason,HOU,MISS Eason 3PT Jump Shot,Missed Shot,Jump Shot,229,16,0,1,3.0,0.0,v
+S2324-G0263,4,09:17,DEN,,HOU,,T. Eason,HOU,Eason BLOCK (2 BLK),,,0,0,0,0,,,v
+S2324-G0263,4,07:49,DEN,,HOU,,T. Eason,HOU,SUB: Sengun FOR Eason,Substitution,,0,0,0,0,,,v
+S2324-G0392,1,02:05,NOP,,HOU,,T. Eason,HOU,Eason STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0392,1,02:03,NOP,,HOU,,T. Eason,HOU,MISS Eason 2' Driving Layup,Missed Shot,Driving Layup Shot,-20,10,2,1,2.0,0.0,v
+S2324-G0392,1,02:02,NOP,,HOU,,T. Eason,HOU,Eason REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0392,1,01:58,NOP,16.0,HOU,21.0,T. Eason,HOU,Eason Putback Layup (2 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,v
+S2324-G0392,1,01:46,NOP,,HOU,,T. Eason,HOU,Eason S.FOUL (P1.T2) (B.Kennedy),Foul,Shooting,0,0,0,0,,,v
+S2324-G0392,1,00:24.100000,NOP,,HOU,,T. Eason,HOU,MISS Eason 2' Driving Layup,Missed Shot,Driving Layup Shot,21,11,2,1,2.0,0.0,v
+S2324-G0392,2,10:41,NOP,,HOU,,T. Eason,HOU,Eason P.FOUL (P2.T2) (C.Washington),Foul,Personal,0,0,0,0,,,v
+S2324-G0392,2,10:24,NOP,26.0,HOU,32.0,T. Eason,HOU,Eason 3' Cutting Dunk Shot (4 PTS) (Je. Green 1 AST),Made Shot,Cutting Dunk Shot,16,20,3,1,2.0,2.0,v
+S2324-G0392,2,07:49,NOP,,HOU,,T. Eason,HOU,MISS Eason 3PT Jump Shot,Missed Shot,Jump Shot,223,-4,0,1,3.0,0.0,v
+S2324-G0392,2,07:20,NOP,33.0,HOU,35.0,T. Eason,HOU,Eason 11' Pullup Jump Shot (6 PTS) (Ja. Green 2 AST),Made Shot,Pullup Jump shot,-6,106,11,1,2.0,2.0,v
+S2324-G0392,2,06:15,NOP,,HOU,,T. Eason,HOU,MISS Eason 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,21,37,4,1,2.0,0.0,v
+S2324-G0392,2,05:59,NOP,,HOU,,T. Eason,HOU,SUB: Je. Green FOR Eason,Substitution,,0,0,0,0,,,v
+S2324-G0392,3,02:55,NOP,,HOU,,T. Eason,HOU,Eason S.FOUL (P3.PN) (B.Kennedy),Foul,Shooting,0,0,0,0,,,v
+S2324-G0392,3,02:07,NOP,,HOU,,T. Eason,HOU,Eason REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0392,3,02:07,NOP,,HOU,,T. Eason,HOU,MISS Eason 4' Putback Layup,Missed Shot,Putback Layup Shot,-16,37,4,1,2.0,0.0,v
+S2324-G0392,3,01:27,NOP,,HOU,,T. Eason,HOU,MISS Eason 3PT Jump Shot,Missed Shot,Jump Shot,229,10,0,1,3.0,0.0,v
+S2324-G0392,4,11:12,NOP,,HOU,,T. Eason,HOU,Eason REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0392,4,10:42,NOP,,HOU,,T. Eason,HOU,Eason STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0392,4,10:39,NOP,85.0,HOU,85.0,T. Eason,HOU,Eason 5' Running Layup (8 PTS),Made Shot,Running Layup Shot,5,50,5,1,2.0,2.0,v
+S2324-G0392,4,09:31,NOP,,HOU,,T. Eason,HOU,Eason S.FOUL (P4.T2) (C.Washington),Foul,Shooting,0,0,0,0,,,v
+S2324-G0392,4,08:54,NOP,,HOU,,T. Eason,HOU,Eason REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0392,4,07:32,NOP,,HOU,,T. Eason,HOU,Eason P.FOUL (P5.T3) (M.Boland),Foul,Personal,0,0,0,0,,,v
+S2324-G0392,4,07:09,NOP,,HOU,,T. Eason,HOU,MISS Eason 4' Driving Layup,Missed Shot,Driving Layup Shot,22,30,4,1,2.0,0.0,v
+S2324-G0392,4,06:02,NOP,,HOU,,T. Eason,HOU,SUB: Brooks FOR Eason,Substitution,,0,0,0,0,,,v
+S2324-G0453,1,05:30,HOU,,DET,,T. Eason,HOU,Eason S.FOUL (P1.T1) (D.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2324-G0453,1,03:24,HOU,,DET,,T. Eason,HOU,MISS Eason 3' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,4,27,3,1,2.0,0.0,h
+S2324-G0453,1,03:23,HOU,,DET,,T. Eason,HOU,Eason REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0453,1,03:23,HOU,21.0,DET,20.0,T. Eason,HOU,Eason Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2324-G0453,1,01:23,HOU,29.0,DET,24.0,T. Eason,HOU,Eason 26' 3PT Jump Shot (5 PTS) (Holiday 1 AST),Made Shot,Jump Shot,31,263,26,1,3.0,3.0,h
+S2324-G0453,1,01:09,HOU,,DET,,T. Eason,HOU,Eason STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0453,1,01:05,HOU,31.0,DET,24.0,T. Eason,HOU,Eason 2' Running Dunk (7 PTS),Made Shot,Running Dunk Shot,12,11,2,1,2.0,2.0,h
+S2324-G0453,1,00:40.700000,HOU,,DET,,T. Eason,HOU,Eason S.FOUL (P2.T2) (I.Hwang),Foul,Shooting,0,0,0,0,,,h
+S2324-G0453,1,00:33.200000,HOU,,DET,,T. Eason,HOU,MISS Eason 25' 3PT Jump Shot,Missed Shot,Jump Shot,-83,240,25,1,3.0,0.0,h
+S2324-G0453,2,10:28,HOU,,DET,,T. Eason,HOU,Eason REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0453,2,09:35,HOU,39.0,DET,31.0,T. Eason,HOU,Eason 3' Driving Finger Roll Layup (9 PTS),Made Shot,Driving Finger Roll Layup Shot,27,13,3,1,2.0,2.0,h
+S2324-G0453,2,09:20,HOU,,DET,,T. Eason,HOU,Eason STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0453,2,08:18,HOU,,DET,,T. Eason,HOU,MISS Eason 25' 3PT Jump Shot,Missed Shot,Jump Shot,-153,197,25,1,3.0,0.0,h
+S2324-G0453,2,07:34,HOU,,DET,,T. Eason,HOU,MISS Eason 1' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-7,9,1,1,2.0,0.0,h
+S2324-G0453,2,06:41,HOU,,DET,,T. Eason,HOU,SUB: Smith Jr. FOR Eason,Substitution,,0,0,0,0,,,h
+S2324-G0453,3,05:55,HOU,85.0,DET,69.0,T. Eason,HOU,Eason 20' Jump Shot (11 PTS) (Sengun 8 AST),Made Shot,Jump Shot,201,-6,20,1,2.0,2.0,h
+S2324-G0453,3,04:14,HOU,,DET,,T. Eason,HOU,Eason REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0453,3,02:53,HOU,,DET,,T. Eason,HOU,MISS Eason 3PT Jump Shot,Missed Shot,Jump Shot,224,-5,0,1,3.0,0.0,h
+S2324-G0453,3,00:31.600000,HOU,106.0,DET,78.0,T. Eason,HOU,Eason 1' Running Layup (13 PTS) (Holiday 2 AST),Made Shot,Running Layup Shot,-4,12,1,1,2.0,2.0,h
+S2324-G0453,4,11:38,HOU,,DET,,T. Eason,HOU,MISS Eason 4' Running Layup,Missed Shot,Running Layup Shot,-12,42,4,1,2.0,0.0,h
+S2324-G0453,4,11:35,HOU,,DET,,T. Eason,HOU,Eason REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0453,4,11:34,HOU,,DET,,T. Eason,HOU,MISS Eason 3' Putback Layup,Missed Shot,Putback Layup Shot,-1,31,3,1,2.0,0.0,h
+S2324-G0453,4,09:59,HOU,110.0,DET,88.0,T. Eason,HOU,Eason 1' Running Layup (15 PTS) (Holiday 3 AST),Made Shot,Running Layup Shot,0,11,1,1,2.0,2.0,h
+S2324-G0453,4,09:43,HOU,112.0,DET,88.0,T. Eason,HOU,Eason Running Layup (17 PTS) (Thompson 3 AST),Made Shot,Running Layup Shot,-2,4,0,1,2.0,2.0,h
+S2324-G0453,4,09:27,HOU,,DET,,T. Eason,HOU,Eason Violation:Defensive Goaltending (J.Capers),Violation,Defensive Goaltending,0,0,0,0,,,h
+S2324-G0453,4,09:27,HOU,,DET,,T. Eason,HOU,Eason S.FOUL (P3.T2) (J.Capers),Foul,Shooting,0,0,0,0,,,h
+S2324-G0453,4,09:02,HOU,,DET,,T. Eason,HOU,Eason STEAL (3 STL),,,0,0,0,0,,,h
+S2324-G0453,4,06:58,HOU,,DET,,T. Eason,HOU,SUB: Landale FOR Eason,Substitution,,0,0,0,0,,,h
+S2324-G1224,1,02:56,DEN,,HOU,,T. Eason,HOU,Eason REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1224,1,01:06,DEN,,HOU,,T. Eason,HOU,MISS Eason 3PT Jump Shot,Missed Shot,Jump Shot,-229,-15,0,1,3.0,0.0,v
+S2324-G1224,2,10:14,DEN,,HOU,,T. Eason,HOU,Eason REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1224,2,10:06,DEN,,HOU,,T. Eason,HOU,MISS Eason 24' 3PT Jump Shot,Missed Shot,Jump Shot,165,173,24,1,3.0,0.0,v
+S2324-G1224,2,08:32,DEN,,HOU,,T. Eason,HOU,Eason S.FOUL (P1.T3) (J.Orr),Foul,Shooting,0,0,0,0,,,v
+S2324-G1224,2,08:32,DEN,,HOU,,T. Eason,HOU,SUB: Ja. Green FOR Eason,Substitution,,0,0,0,0,,,v
+S2324-G1224,3,04:09,DEN,,HOU,,T. Eason,HOU,Eason REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1224,3,02:43,DEN,,HOU,,T. Eason,HOU,Eason REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1224,3,02:41,DEN,,HOU,,T. Eason,HOU,MISS Eason Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G1224,3,02:41,DEN,69.0,HOU,80.0,T. Eason,HOU,Eason Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1224,3,02:26,DEN,,HOU,,T. Eason,HOU,Eason REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1224,3,00:18.900000,DEN,,HOU,,T. Eason,HOU,Eason REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1224,4,09:49,DEN,,HOU,,T. Eason,HOU,Eason REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1224,4,09:46,DEN,,HOU,,T. Eason,HOU,MISS Eason Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2324-G1224,4,09:21,DEN,78.0,HOU,100.0,T. Eason,HOU,Eason Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1224,4,09:21,DEN,78.0,HOU,101.0,T. Eason,HOU,Eason Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1224,4,09:01,DEN,,HOU,,T. Eason,HOU,Eason REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1224,4,08:50,DEN,,HOU,,T. Eason,HOU,MISS Eason 8' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,20,78,8,1,2.0,0.0,v
+S2324-G1224,4,06:55,DEN,,HOU,,T. Eason,HOU,SUB: Sengun FOR Eason,Substitution,,0,0,0,0,,,v
+S2324-G1224,4,00:48.500000,DEN,,HOU,,T. Eason,HOU,SUB: Ja. Green FOR Eason,Substitution,,0,0,0,0,,,v
+S2324-G1224,4,00:43.900000,DEN,,HOU,,T. Eason,HOU,SUB: Ja. Green FOR Eason,Substitution,,0,0,0,0,,,v
+S2324-G1224,4,00:38.200000,DEN,,HOU,,T. Eason,HOU,SUB: Sengun FOR Eason,Substitution,,0,0,0,0,,,v
+S2324-G1212,1,03:26,HOU,,OKC,,T. Eason,HOU,Eason REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1212,1,02:07,HOU,,OKC,,T. Eason,HOU,Eason REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1212,1,02:06,HOU,25.0,OKC,15.0,T. Eason,HOU,Eason Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1212,1,02:06,HOU,26.0,OKC,15.0,T. Eason,HOU,Eason Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1212,1,01:16,HOU,,OKC,,T. Eason,HOU,MISS Eason 26' 3PT Jump Shot,Missed Shot,Jump Shot,78,243,26,1,3.0,0.0,h
+S2324-G1212,1,00:56.500000,HOU,29.0,OKC,20.0,T. Eason,HOU,Eason 25' 3PT Jump Shot (5 PTS) (Holiday 1 AST),Made Shot,Jump Shot,-180,180,25,1,3.0,3.0,h
+S2324-G1212,1,00:12.600000,HOU,,OKC,,T. Eason,HOU,SUB: VanVleet FOR Eason,Substitution,,0,0,0,0,,,h
+S2324-G1212,2,11:37,HOU,,OKC,,T. Eason,HOU,MISS Eason 2' Layup,Missed Shot,Layup Shot,20,11,2,1,2.0,0.0,h
+S2324-G1212,2,11:04,HOU,,OKC,,T. Eason,HOU,Eason Lost Ball Turnover (P1.T5),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G1212,2,08:49,HOU,,OKC,,T. Eason,HOU,MISS Eason 25' 3PT Jump Shot,Missed Shot,Jump Shot,130,214,25,1,3.0,0.0,h
+S2324-G1212,2,08:07,HOU,,OKC,,T. Eason,HOU,Eason BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G1212,2,08:03,HOU,,OKC,,T. Eason,HOU,SUB: Brooks FOR Eason,Substitution,,0,0,0,0,,,h
+S2324-G1212,2,01:25,HOU,,OKC,,T. Eason,HOU,Eason REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1212,3,03:09,HOU,,OKC,,T. Eason,HOU,Eason REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1212,3,02:32,HOU,,OKC,,T. Eason,HOU,Eason REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1212,3,01:56,HOU,,OKC,,T. Eason,HOU,Eason BLOCK (2 BLK),,,0,0,0,0,,,h
+S2324-G1212,3,01:09,HOU,,OKC,,T. Eason,HOU,MISS Eason 4' Driving Dunk,Missed Shot,Driving Dunk Shot,36,1,4,1,2.0,0.0,h
+S2324-G1212,3,01:00,HOU,,OKC,,T. Eason,HOU,Eason S.FOUL (P1.T2) (K.Scott),Foul,Shooting,0,0,0,0,,,h
+S2324-G1212,3,00:29.800000,HOU,,OKC,,T. Eason,HOU,Eason REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1212,4,09:53,HOU,,OKC,,T. Eason,HOU,Eason S.FOUL (P2.T1) (K.Scott),Foul,Shooting,0,0,0,0,,,h
+S2324-G1212,4,09:35,HOU,89.0,OKC,77.0,T. Eason,HOU,Eason 3PT Jump Shot (8 PTS) (Holiday 3 AST),Made Shot,Jump Shot,-223,2,0,1,3.0,3.0,h
+S2324-G1212,4,07:58,HOU,,OKC,,T. Eason,HOU,Eason REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1212,4,05:41,HOU,,OKC,,T. Eason,HOU,Eason REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1212,4,05:07,HOU,,OKC,,T. Eason,HOU,SUB: Green FOR Eason,Substitution,,0,0,0,0,,,h
+S2324-G1212,4,01:12,HOU,,OKC,,T. Eason,HOU,MISS Eason Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G1212,4,01:12,HOU,110.0,OKC,99.0,T. Eason,HOU,Eason Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0291,1,01:18,LAL,,HOU,,T. Eason,HOU,Eason REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0291,1,00:13.700000,LAL,,HOU,,T. Eason,HOU,SUB: Smith Jr. FOR Eason,Substitution,,0,0,0,0,,,v
+S2324-G0291,2,11:02,LAL,,HOU,,T. Eason,HOU,Eason P.FOUL (P1.T1) (T.Maddox),Foul,Personal,0,0,0,0,,,v
+S2324-G0291,2,10:36,LAL,27.0,HOU,32.0,T. Eason,HOU,Eason 3' Reverse Layup (2 PTS) (VanVleet 3 AST),Made Shot,Reverse Layup Shot,-20,16,3,1,2.0,2.0,v
+S2324-G0291,2,06:45,LAL,,HOU,,T. Eason,HOU,Eason S.FOUL (P2.T4) (D.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2324-G0291,2,06:45,LAL,,HOU,,T. Eason,HOU,SUB: Ja. Green FOR Eason,Substitution,,0,0,0,0,,,v
+S2324-G0291,2,01:44,LAL,,HOU,,T. Eason,HOU,Eason Lost Ball Turnover (P1.T8),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0291,2,00:29.500000,LAL,,HOU,,T. Eason,HOU,Eason REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0291,2,00:00,LAL,,HOU,,T. Eason,HOU,Eason STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0291,3,01:52,LAL,,HOU,,T. Eason,HOU,Eason BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0291,3,01:24,LAL,,HOU,,T. Eason,HOU,Eason REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0291,3,01:15,LAL,,HOU,,T. Eason,HOU,MISS Eason 7' Floating Jump Shot,Missed Shot,Floating Jump shot,-2,68,7,1,2.0,0.0,v
+S2324-G0291,4,10:59,LAL,89.0,HOU,74.0,T. Eason,HOU,Eason 3' Running Dunk (4 PTS) (VanVleet 6 AST),Made Shot,Running Dunk Shot,16,21,3,1,2.0,2.0,v
+S2324-G0291,4,10:19,LAL,,HOU,,T. Eason,HOU,MISS Eason 26' 3PT Jump Shot,Missed Shot,Jump Shot,211,148,26,1,3.0,0.0,v
+S2324-G0291,4,09:17,LAL,,HOU,,T. Eason,HOU,Eason REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0291,4,08:59,LAL,,HOU,,T. Eason,HOU,Eason REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0291,4,08:35,LAL,93.0,HOU,79.0,T. Eason,HOU,Eason Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0291,4,08:35,LAL,93.0,HOU,80.0,T. Eason,HOU,Eason Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0291,4,06:59,LAL,,HOU,,T. Eason,HOU,Eason REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0291,4,06:57,LAL,,HOU,,T. Eason,HOU,MISS Eason 2' Putback Layup,Missed Shot,Putback Layup Shot,-12,21,2,1,2.0,0.0,v
+S2324-G0291,4,06:37,LAL,,HOU,,T. Eason,HOU,Eason REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0291,4,06:20,LAL,,HOU,,T. Eason,HOU,SUB: Smith Jr. FOR Eason,Substitution,,0,0,0,0,,,v
+S2324-G0182,1,00:04.400000,HOU,,DEN,,T. Eason,HOU,Eason REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0182,2,10:52,HOU,,DEN,,T. Eason,HOU,Eason REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0182,2,10:22,HOU,,DEN,,T. Eason,HOU,Eason STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0182,2,09:39,HOU,,DEN,,T. Eason,HOU,SUB: VanVleet FOR Eason,Substitution,,0,0,0,0,,,h
+S2324-G0182,2,04:25,HOU,,DEN,,T. Eason,HOU,MISS Eason 25' 3PT Jump Shot,Missed Shot,Jump Shot,165,193,25,1,3.0,0.0,h
+S2324-G0182,2,03:55,HOU,,DEN,,T. Eason,HOU,SUB: Ja. Green FOR Eason,Substitution,,0,0,0,0,,,h
+S2324-G0182,3,00:24.700000,HOU,,DEN,,T. Eason,HOU,Eason REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0182,3,00:24.700000,HOU,74.0,DEN,74.0,T. Eason,HOU,Eason Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2324-G0182,4,11:21,HOU,79.0,DEN,76.0,T. Eason,HOU,Eason 24' 3PT Jump Shot (5 PTS) (Holiday 1 AST),Made Shot,Jump Shot,243,8,24,1,3.0,3.0,h
+S2324-G0182,4,09:24,HOU,84.0,DEN,80.0,T. Eason,HOU,Eason 3PT Jump Shot (8 PTS) (Holiday 2 AST),Made Shot,Jump Shot,-222,-2,0,1,3.0,3.0,h
+S2324-G0182,4,07:01,HOU,,DEN,,T. Eason,HOU,Eason P.FOUL (P1.T3) (J.Sterling),Foul,Personal,0,0,0,0,,,h
+S2324-G0182,4,07:01,HOU,,DEN,,T. Eason,HOU,SUB: Brooks FOR Eason,Substitution,,0,0,0,0,,,h
+S2324-G0434,1,05:28,HOU,,PHI,,T. Eason,HOU,Eason STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0434,1,04:09,HOU,,PHI,,T. Eason,HOU,MISS Eason 4' Running Layup,Missed Shot,Running Layup Shot,36,25,4,1,2.0,0.0,h
+S2324-G0434,1,03:39,HOU,,PHI,,T. Eason,HOU,MISS Eason 26' 3PT Jump Shot,Missed Shot,Jump Shot,168,202,26,1,3.0,0.0,h
+S2324-G0434,1,03:20,HOU,,PHI,,T. Eason,HOU,Eason REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0434,1,01:44,HOU,,PHI,,T. Eason,HOU,Eason REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0434,1,00:38.600000,HOU,,PHI,,T. Eason,HOU,Eason REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0434,2,11:50,HOU,,PHI,,T. Eason,HOU,Eason STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0434,2,11:47,HOU,34.0,PHI,26.0,T. Eason,HOU,Eason 3' Running Dunk (2 PTS) (Holiday 3 AST),Made Shot,Running Dunk Shot,23,12,3,1,2.0,2.0,h
+S2324-G0434,2,11:25,HOU,,PHI,,T. Eason,HOU,Eason REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0434,2,11:13,HOU,,PHI,,T. Eason,HOU,Eason REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0434,2,09:26,HOU,,PHI,,T. Eason,HOU,Eason Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0434,2,09:16,HOU,,PHI,,T. Eason,HOU,Eason REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0434,2,09:07,HOU,38.0,PHI,33.0,T. Eason,HOU,Eason 2' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,-21,13,2,1,2.0,2.0,h
+S2324-G0434,2,07:58,HOU,,PHI,,T. Eason,HOU,MISS Eason 4' Driving Layup,Missed Shot,Driving Layup Shot,-7,37,4,1,2.0,0.0,h
+S2324-G0434,2,07:54,HOU,,PHI,,T. Eason,HOU,Eason REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0434,2,07:54,HOU,,PHI,,T. Eason,HOU,MISS Eason Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2324-G0434,2,07:54,HOU,,PHI,,T. Eason,HOU,Eason REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0434,2,07:51,HOU,43.0,PHI,37.0,T. Eason,HOU,Eason Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2324-G0434,2,07:15,HOU,,PHI,,T. Eason,HOU,SUB: Tate FOR Eason,Substitution,,0,0,0,0,,,h
+S2324-G0434,2,02:29,HOU,,PHI,,T. Eason,HOU,Eason BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0434,2,01:49,HOU,,PHI,,T. Eason,HOU,Eason S.FOUL (P1.T4) (B.Maru),Foul,Shooting,0,0,0,0,,,h
+S2324-G0434,2,01:02,HOU,,PHI,,T. Eason,HOU,Eason REBOUND (Off:5 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0434,2,01:02,HOU,,PHI,,T. Eason,HOU,MISS Eason Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2324-G0434,2,00:54.600000,HOU,,PHI,,T. Eason,HOU,Eason S.FOUL (P2.PN) (C.Kirkland),Foul,Shooting,0,0,0,0,,,h
+S2324-G0434,3,02:06,HOU,,PHI,,T. Eason,HOU,MISS Eason 12' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-114,24,12,1,2.0,0.0,h
+S2324-G0434,3,01:29,HOU,,PHI,,T. Eason,HOU,Eason REBOUND (Off:5 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0434,3,00:54.100000,HOU,,PHI,,T. Eason,HOU,Eason REBOUND (Off:5 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0434,3,00:52.900000,HOU,97.0,PHI,86.0,T. Eason,HOU,Eason 4' Running Layup (8 PTS),Made Shot,Running Layup Shot,43,8,4,1,2.0,2.0,h
+S2324-G0434,4,09:09,HOU,,PHI,,T. Eason,HOU,MISS Eason 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-38,153,16,1,2.0,0.0,h
+S2324-G0434,4,08:27,HOU,,PHI,,T. Eason,HOU,Eason Traveling Turnover (P2.T15),Turnover,Traveling,0,0,0,0,,,h
+S2324-G0434,4,07:51,HOU,,PHI,,T. Eason,HOU,Eason STEAL (3 STL),,,0,0,0,0,,,h
+S2324-G0434,4,06:48,HOU,,PHI,,T. Eason,HOU,SUB: Tate FOR Eason,Substitution,,0,0,0,0,,,h
+S2324-G0434,4,05:00,HOU,,PHI,,T. Eason,HOU,MISS Eason 26' 3PT Jump Shot,Missed Shot,Jump Shot,197,174,26,1,3.0,0.0,h
+S2324-G0434,4,02:25,HOU,,PHI,,T. Eason,HOU,Eason P.FOUL (P3.PN) (B.Maru),Foul,Personal,0,0,0,0,,,h
+S2324-G0434,4,01:31,HOU,122.0,PHI,121.0,T. Eason,HOU,Eason 3' Driving Finger Roll Layup (10 PTS),Made Shot,Driving Finger Roll Layup Shot,13,27,3,1,2.0,2.0,h
+S2324-G0434,4,00:33.600000,HOU,,PHI,,T. Eason,HOU,Eason BLOCK (2 BLK),,,0,0,0,0,,,h
+S2324-G0434,4,00:11.800000,HOU,,PHI,,T. Eason,HOU,SUB: Holiday FOR Eason,Substitution,,0,0,0,0,,,h
+S2324-G0048,1,03:19,HOU,,DEN,,T. Eason,HOU,Eason REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0048,1,02:13,HOU,,DEN,,T. Eason,HOU,Eason REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0048,1,00:27.100000,HOU,,DEN,,T. Eason,HOU,SUB: VanVleet FOR Eason,Substitution,,0,0,0,0,,,h
+S2324-G0048,2,10:51,HOU,,DEN,,T. Eason,HOU,Eason STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0048,2,10:00,HOU,36.0,DEN,19.0,T. Eason,HOU,Eason 3PT Jump Shot (3 PTS) (VanVleet 3 AST),Made Shot,Jump Shot,229,0,0,1,3.0,3.0,h
+S2324-G0048,2,08:22,HOU,41.0,DEN,21.0,T. Eason,HOU,Eason 5' Driving Layup (5 PTS) (VanVleet 4 AST),Made Shot,Driving Layup Shot,53,12,5,1,2.0,2.0,h
+S2324-G0048,2,07:43,HOU,43.0,DEN,21.0,T. Eason,HOU,Eason 2' Layup (7 PTS),Made Shot,Layup Shot,-16,13,2,1,2.0,2.0,h
+S2324-G0048,2,07:22,HOU,,DEN,,T. Eason,HOU,Eason REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0048,2,07:19,HOU,,DEN,,T. Eason,HOU,MISS Eason 2' Tip Layup Shot,Missed Shot,Tip Layup Shot,-12,18,2,1,2.0,0.0,h
+S2324-G0048,2,07:07,HOU,,DEN,,T. Eason,HOU,SUB: Ja. Green FOR Eason,Substitution,,0,0,0,0,,,h
+S2324-G0048,3,03:29,HOU,,DEN,,T. Eason,HOU,Eason REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0048,3,02:02,HOU,,DEN,,T. Eason,HOU,Eason P.FOUL (P1.PN) (K.Lane),Foul,Personal,0,0,0,0,,,h
+S2324-G0048,3,01:31,HOU,,DEN,,T. Eason,HOU,MISS Eason 24' 3PT Jump Shot,Missed Shot,Jump Shot,237,8,24,1,3.0,0.0,h
+S2324-G0048,3,00:57.700000,HOU,,DEN,,T. Eason,HOU,Jump Ball Eason vs. Caldwell-Pope: Tip to Braun,Jump Ball,,0,0,0,0,,,h
+S2324-G0048,3,00:00,HOU,,DEN,,T. Eason,HOU,MISS Eason 14' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,124,73,14,1,2.0,0.0,h
+S2324-G0048,4,10:05,HOU,,DEN,,T. Eason,HOU,Eason S.FOUL (P2.T3) (J.Goble),Foul,Shooting,0,0,0,0,,,h
+S2324-G0048,4,08:05,HOU,,DEN,,T. Eason,HOU,SUB: Smith Jr. FOR Eason,Substitution,,0,0,0,0,,,h
+S2324-G0418,1,04:55,HOU,,PHX,,T. Eason,HOU,MISS Eason 3PT Jump Shot,Missed Shot,Jump Shot,230,17,0,1,3.0,0.0,h
+S2324-G0418,1,00:46.700000,HOU,,PHX,,T. Eason,HOU,Eason REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0418,2,10:42,HOU,,PHX,,T. Eason,HOU,Eason STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0418,2,10:40,HOU,26.0,PHX,34.0,T. Eason,HOU,Eason 4' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,28,25,4,1,2.0,2.0,h
+S2324-G0418,2,10:24,HOU,,PHX,,T. Eason,HOU,Eason P.FOUL (P1.T2) (M.Smith),Foul,Personal,0,0,0,0,,,h
+S2324-G0418,2,08:57,HOU,,PHX,,T. Eason,HOU,Eason STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0418,2,08:27,HOU,,PHX,,T. Eason,HOU,MISS Eason 27' 3PT Jump Shot,Missed Shot,Jump Shot,181,196,27,1,3.0,0.0,h
+S2324-G0418,2,08:22,HOU,,PHX,,T. Eason,HOU,Eason STEAL (3 STL),,,0,0,0,0,,,h
+S2324-G0418,2,08:19,HOU,,PHX,,T. Eason,HOU,MISS Eason 3' Layup,Missed Shot,Layup Shot,-6,27,3,1,2.0,0.0,h
+S2324-G0418,2,07:55,HOU,,PHX,,T. Eason,HOU,SUB: Smith Jr. FOR Eason,Substitution,,0,0,0,0,,,h
+S2324-G0418,3,05:17,HOU,,PHX,,T. Eason,HOU,Eason P.FOUL (P2.PN) (M.Ervin),Foul,Personal,0,0,0,0,,,h
+S2324-G0418,3,04:21,HOU,,PHX,,T. Eason,HOU,Eason Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0418,3,04:08,HOU,,PHX,,T. Eason,HOU,Eason REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0418,3,00:15.100000,HOU,,PHX,,T. Eason,HOU,Eason STEAL (4 STL),,,0,0,0,0,,,h
+S2324-G0418,3,00:14.300000,HOU,,PHX,,T. Eason,HOU,MISS Eason Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0418,3,00:14.300000,HOU,84.0,PHX,101.0,T. Eason,HOU,Eason Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0418,4,11:35,HOU,87.0,PHX,104.0,T. Eason,HOU,Eason 26' 3PT Jump Shot (6 PTS) (Thompson 1 AST),Made Shot,Jump Shot,-175,187,26,1,3.0,3.0,h
+S2324-G0418,4,10:42,HOU,,PHX,,T. Eason,HOU,MISS Eason 27' 3PT Jump Shot,Missed Shot,Jump Shot,180,200,27,1,3.0,0.0,h
+S2324-G0418,4,10:35,HOU,,PHX,,T. Eason,HOU,Eason STEAL (5 STL),,,0,0,0,0,,,h
+S2324-G0418,4,08:12,HOU,,PHX,,T. Eason,HOU,Eason REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0418,4,06:35,HOU,,PHX,,T. Eason,HOU,SUB: Bullock Jr. FOR Eason,Substitution,,0,0,0,0,,,h

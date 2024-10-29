@@ -1,0 +1,659 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2324-G0401,1,02:44,NYK,27.0,MIL,22.0,I. Quickley,NYK,Quickley 26' 3PT Running Jump Shot (3 PTS) (Hart 2 AST),Made Shot,Running Jump Shot,162,200,26,1,3.0,3.0,h
+S2324-G0401,1,00:47.900000,NYK,36.0,MIL,24.0,I. Quickley,NYK,Quickley 10' Driving Floating Jump Shot (5 PTS) (Hart 3 AST),Made Shot,Driving Floating Jump Shot,54,83,10,1,2.0,2.0,h
+S2324-G0401,2,11:42,NYK,38.0,MIL,27.0,I. Quickley,NYK,Quickley 9' Driving Floating Jump Shot (7 PTS) (Grimes 1 AST),Made Shot,Driving Floating Jump Shot,4,94,9,1,2.0,2.0,h
+S2324-G0401,2,10:45,NYK,,MIL,,I. Quickley,NYK,MISS Quickley 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,25,256,26,1,3.0,0.0,h
+S2324-G0401,2,06:54,NYK,,MIL,,I. Quickley,NYK,MISS Quickley 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,17,8,2,1,2.0,0.0,h
+S2324-G0401,2,06:54,NYK,,MIL,,I. Quickley,NYK,SUB: Brunson FOR Quickley,Substitution,,0,0,0,0,,,h
+S2324-G0401,3,05:03,NYK,,MIL,,I. Quickley,NYK,Quickley Bad Pass Turnover (P1.T10),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0401,3,04:05,NYK,81.0,MIL,75.0,I. Quickley,NYK,Quickley Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0401,3,04:05,NYK,82.0,MIL,75.0,I. Quickley,NYK,Quickley Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0401,3,01:00,NYK,,MIL,,I. Quickley,NYK,Quickley S.FOUL (P1.PN) (J.Williams),Foul,Shooting,0,0,0,0,,,h
+S2324-G0401,3,00:10.400000,NYK,,MIL,,I. Quickley,NYK,Quickley STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0401,3,00:03.800000,NYK,,MIL,,I. Quickley,NYK,MISS Quickley 25' 3PT Jump Shot,Missed Shot,Jump Shot,-212,141,25,1,3.0,0.0,h
+S2324-G0401,4,11:34,NYK,99.0,MIL,90.0,I. Quickley,NYK,Quickley Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0401,4,11:34,NYK,100.0,MIL,90.0,I. Quickley,NYK,Quickley Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0401,4,10:27,NYK,102.0,MIL,92.0,I. Quickley,NYK,Quickley 13' Driving Floating Jump Shot (13 PTS) (Hartenstein 3 AST),Made Shot,Driving Floating Jump Shot,-9,127,13,1,2.0,2.0,h
+S2324-G0401,4,09:00,NYK,108.0,MIL,94.0,I. Quickley,NYK,Quickley 21' Jump Shot (15 PTS) (Randle 2 AST),Made Shot,Jump Shot,-211,-3,21,1,2.0,2.0,h
+S2324-G0401,4,07:38,NYK,111.0,MIL,96.0,I. Quickley,NYK,Quickley 24' 3PT Jump Shot (18 PTS) (Hartenstein 4 AST),Made Shot,Jump Shot,208,122,24,1,3.0,3.0,h
+S2324-G0401,4,07:03,NYK,113.0,MIL,99.0,I. Quickley,NYK,Quickley 1' Driving Layup (20 PTS),Made Shot,Driving Layup Shot,-5,8,1,1,2.0,2.0,h
+S2324-G0401,4,03:28,NYK,,MIL,,I. Quickley,NYK,SUB: Barrett FOR Quickley,Substitution,,0,0,0,0,,,h
+S2324-G0343,1,03:18,LAC,28.0,NYK,22.0,I. Quickley,NYK,Quickley Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0343,1,03:18,LAC,28.0,NYK,23.0,I. Quickley,NYK,Quickley Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0343,1,02:59,LAC,,NYK,,I. Quickley,NYK,Quickley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0343,1,00:04.500000,LAC,,NYK,,I. Quickley,NYK,MISS Quickley 22' Step Back Jump Shot,Missed Shot,Step Back Jump shot,115,189,22,1,2.0,0.0,v
+S2324-G0343,2,10:49,LAC,,NYK,,I. Quickley,NYK,Quickley REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0343,2,10:44,LAC,37.0,NYK,37.0,I. Quickley,NYK,Quickley 2' Running Layup (4 PTS),Made Shot,Running Layup Shot,15,11,2,1,2.0,2.0,v
+S2324-G0343,2,07:03,LAC,52.0,NYK,49.0,I. Quickley,NYK,Quickley Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0343,2,07:03,LAC,,NYK,,I. Quickley,NYK,MISS Quickley Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0343,2,06:14,LAC,,NYK,,I. Quickley,NYK,SUB: DiVincenzo FOR Quickley,Substitution,,0,0,0,0,,,v
+S2324-G0343,3,03:39,LAC,,NYK,,I. Quickley,NYK,MISS Quickley 27' 3PT Jump Shot,Missed Shot,Jump Shot,37,263,27,1,3.0,0.0,v
+S2324-G0343,3,02:25,LAC,,NYK,,I. Quickley,NYK,Quickley REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0343,3,01:59,LAC,,NYK,,I. Quickley,NYK,Quickley REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0343,3,00:00.900000,LAC,,NYK,,I. Quickley,NYK,MISS Quickley 25' 3PT Jump Shot,Missed Shot,Jump Shot,212,129,25,1,3.0,0.0,v
+S2324-G0343,4,10:17,LAC,118.0,NYK,102.0,I. Quickley,NYK,Quickley 3' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,26,14,3,1,2.0,2.0,v
+S2324-G0343,4,09:29,LAC,120.0,NYK,104.0,I. Quickley,NYK,Quickley 3' Running Layup (9 PTS),Made Shot,Running Layup Shot,-28,6,3,1,2.0,2.0,v
+S2324-G0343,4,08:57,LAC,,NYK,,I. Quickley,NYK,MISS Quickley 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,131,121,18,1,2.0,0.0,v
+S2324-G0343,4,08:18,LAC,,NYK,,I. Quickley,NYK,MISS Quickley 27' 3PT Jump Shot,Missed Shot,Jump Shot,-75,258,27,1,3.0,0.0,v
+S2324-G0343,4,07:06,LAC,,NYK,,I. Quickley,NYK,SUB: Randle FOR Quickley,Substitution,,0,0,0,0,,,v
+S2324-G0247,1,00:58,NYK,,PHX,,I. Quickley,NYK,Quickley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0247,1,00:47.700000,NYK,20.0,PHX,32.0,I. Quickley,NYK,Quickley 11' Fadeaway Jumper (2 PTS),Made Shot,Fadeaway Jump Shot,108,4,11,1,2.0,2.0,h
+S2324-G0247,2,11:49,NYK,25.0,PHX,34.0,I. Quickley,NYK,Quickley 26' 3PT Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,61,251,26,1,3.0,3.0,h
+S2324-G0247,2,10:55,NYK,27.0,PHX,39.0,I. Quickley,NYK,Quickley Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0247,2,10:55,NYK,,PHX,,I. Quickley,NYK,MISS Quickley Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0247,2,09:39,NYK,30.0,PHX,41.0,I. Quickley,NYK,Quickley Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0247,2,09:39,NYK,31.0,PHX,41.0,I. Quickley,NYK,Quickley Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0247,2,09:13,NYK,,PHX,,I. Quickley,NYK,Quickley BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0247,2,08:03,NYK,,PHX,,I. Quickley,NYK,MISS Quickley 27' 3PT Jump Shot,Missed Shot,Jump Shot,-173,206,27,1,3.0,0.0,h
+S2324-G0247,2,06:54,NYK,,PHX,,I. Quickley,NYK,Quickley REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0247,2,06:18,NYK,,PHX,,I. Quickley,NYK,MISS Quickley 16' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,91,131,16,1,2.0,0.0,h
+S2324-G0247,2,04:18,NYK,,PHX,,I. Quickley,NYK,SUB: Barrett FOR Quickley,Substitution,,0,0,0,0,,,h
+S2324-G0247,3,05:03,NYK,74.0,PHX,79.0,I. Quickley,NYK,Quickley 26' 3PT Jump Shot (11 PTS) (Brunson 7 AST),Made Shot,Jump Shot,157,210,26,1,3.0,3.0,h
+S2324-G0247,4,11:29,NYK,,PHX,,I. Quickley,NYK,MISS Quickley 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,66,58,9,1,2.0,0.0,h
+S2324-G0247,4,10:24,NYK,95.0,PHX,98.0,I. Quickley,NYK,Quickley 25' 3PT Step Back Jump Shot (14 PTS),Made Shot,Step Back Jump shot,170,178,25,1,3.0,3.0,h
+S2324-G0247,4,09:54,NYK,,PHX,,I. Quickley,NYK,MISS Quickley 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,54,106,12,1,2.0,0.0,h
+S2324-G0247,4,09:13,NYK,,PHX,,I. Quickley,NYK,MISS Quickley 6' Running Layup,Missed Shot,Running Layup Shot,60,3,6,1,2.0,0.0,h
+S2324-G0247,4,07:58,NYK,98.0,PHX,103.0,I. Quickley,NYK,Quickley Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0247,4,07:58,NYK,99.0,PHX,103.0,I. Quickley,NYK,Quickley Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0247,4,04:33,NYK,,PHX,,I. Quickley,NYK,Quickley P.FOUL (P1.T3) (G.Petraitis),Foul,Personal,0,0,0,0,,,h
+S2324-G0247,4,02:02,NYK,,PHX,,I. Quickley,NYK,MISS Quickley 24' 3PT Jump Shot,Missed Shot,Jump Shot,-232,71,24,1,3.0,0.0,h
+S2324-G0247,4,01:45,NYK,,PHX,,I. Quickley,NYK,Quickley STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0247,4,01:05,NYK,110.0,PHX,113.0,I. Quickley,NYK,Quickley Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0247,4,01:05,NYK,111.0,PHX,113.0,I. Quickley,NYK,Quickley Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1227,1,04:39,BOS,,NYK,,I. Quickley,NYK,MISS Quickley 29' 3PT Jump Shot,Missed Shot,Jump Shot,165,240,29,1,3.0,0.0,v
+S2324-G1227,1,03:20,BOS,25.0,NYK,24.0,I. Quickley,NYK,Quickley 27' 3PT Jump Shot (3 PTS) (Randle 1 AST),Made Shot,Jump Shot,-218,159,27,1,3.0,3.0,v
+S2324-G1227,1,00:47.200000,BOS,31.0,NYK,32.0,I. Quickley,NYK,Quickley 10' Driving Floating Jump Shot (5 PTS) (Hart 1 AST),Made Shot,Driving Floating Jump Shot,0,101,10,1,2.0,2.0,v
+S2324-G1227,1,00:05.900000,BOS,,NYK,,I. Quickley,NYK,MISS Quickley 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-192,214,29,1,3.0,0.0,v
+S2324-G1227,2,11:33,BOS,33.0,NYK,33.0,I. Quickley,NYK,Quickley Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1227,2,11:33,BOS,33.0,NYK,34.0,I. Quickley,NYK,Quickley Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1227,2,08:15,BOS,44.0,NYK,44.0,I. Quickley,NYK,Quickley 29' 3PT Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,-51,282,29,1,3.0,3.0,v
+S2324-G1227,2,05:46,BOS,,NYK,,I. Quickley,NYK,Quickley P.FOUL (P1.T4) (M.Lindsay),Foul,Personal,0,0,0,0,,,v
+S2324-G1227,2,05:46,BOS,,NYK,,I. Quickley,NYK,SUB: Randle FOR Quickley,Substitution,,0,0,0,0,,,v
+S2324-G1227,3,03:52,BOS,,NYK,,I. Quickley,NYK,MISS Quickley 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,28,79,8,1,2.0,0.0,v
+S2324-G1227,3,01:40,BOS,106.0,NYK,89.0,I. Quickley,NYK,Quickley 25' 3PT Jump Shot (13 PTS) (Grimes 2 AST),Made Shot,Jump Shot,-211,143,25,1,3.0,3.0,v
+S2324-G1227,4,10:19,BOS,,NYK,,I. Quickley,NYK,MISS Quickley 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,159,206,26,1,3.0,0.0,v
+S2324-G1227,4,09:53,BOS,114.0,NYK,98.0,I. Quickley,NYK,Quickley Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1227,4,09:53,BOS,114.0,NYK,99.0,I. Quickley,NYK,Quickley Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1227,4,07:19,BOS,119.0,NYK,107.0,I. Quickley,NYK,Quickley Free Throw Technical (16 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,v
+S2324-G1227,4,07:19,BOS,119.0,NYK,108.0,I. Quickley,NYK,Quickley Free Throw Technical (17 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,v
+S2324-G1227,4,04:18,BOS,,NYK,,I. Quickley,NYK,MISS Quickley 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-130,257,29,1,3.0,0.0,v
+S2324-G1227,4,04:08,BOS,,NYK,,I. Quickley,NYK,Quickley S.FOUL (P2.T3) (S.Corbin),Foul,Shooting,0,0,0,0,,,v
+S2324-G1227,4,03:20,BOS,,NYK,,I. Quickley,NYK,MISS Quickley 24' 3PT Jump Shot,Missed Shot,Jump Shot,-234,26,24,1,3.0,0.0,v
+S2324-G1227,4,03:13,BOS,,NYK,,I. Quickley,NYK,SUB: DiVincenzo FOR Quickley,Substitution,,0,0,0,0,,,v
+S2324-G0318,1,04:29,UTA,11.0,NYK,16.0,I. Quickley,NYK,Quickley 3PT Jump Shot (3 PTS) (Brunson 1 AST),Made Shot,Jump Shot,230,-17,0,1,3.0,3.0,v
+S2324-G0318,1,03:25,UTA,,NYK,,I. Quickley,NYK,Quickley Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0318,1,02:44,UTA,,NYK,,I. Quickley,NYK,Quickley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0318,1,00:40.900000,UTA,19.0,NYK,28.0,I. Quickley,NYK,Quickley 15' Step Back Jump Shot (5 PTS),Made Shot,Step Back Jump shot,146,6,15,1,2.0,2.0,v
+S2324-G0318,1,00:07.300000,UTA,22.0,NYK,31.0,I. Quickley,NYK,Quickley 25' 3PT Jump Shot (8 PTS) (Brunson 3 AST),Made Shot,Jump Shot,224,105,25,1,3.0,3.0,v
+S2324-G0318,2,10:11,UTA,27.0,NYK,33.0,I. Quickley,NYK,Quickley 12' Jump Shot (10 PTS) (Barrett 2 AST),Made Shot,Jump Shot,-123,0,12,1,2.0,2.0,v
+S2324-G0318,2,09:39,UTA,30.0,NYK,35.0,I. Quickley,NYK,Quickley 12' Driving Floating Bank Jump Shot (12 PTS) (Hart 1 AST),Made Shot,Driving Floating Bank Jump Shot,112,50,12,1,2.0,2.0,v
+S2324-G0318,2,08:50,UTA,,NYK,,I. Quickley,NYK,Quickley STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0318,2,08:07,UTA,,NYK,,I. Quickley,NYK,MISS Quickley 22' Jump Shot,Missed Shot,Jump Shot,-151,163,22,1,2.0,0.0,v
+S2324-G0318,2,07:15,UTA,,NYK,,I. Quickley,NYK,Quickley STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0318,2,06:48,UTA,,NYK,,I. Quickley,NYK,SUB: Brunson FOR Quickley,Substitution,,0,0,0,0,,,v
+S2324-G0318,3,01:46,UTA,,NYK,,I. Quickley,NYK,Quickley S.FOUL (P1.PN) (A.Smith),Foul,Shooting,0,0,0,0,,,v
+S2324-G0318,3,00:36.500000,UTA,83.0,NYK,84.0,I. Quickley,NYK,Quickley 31' 3PT Pullup Jump Shot (15 PTS),Made Shot,Pullup Jump shot,-126,284,31,1,3.0,3.0,v
+S2324-G0318,4,09:04,UTA,,NYK,,I. Quickley,NYK,MISS Quickley 26' 3PT Jump Shot,Missed Shot,Jump Shot,-181,186,26,1,3.0,0.0,v
+S2324-G0318,4,08:14,UTA,,NYK,,I. Quickley,NYK,SUB: Randle FOR Quickley,Substitution,,0,0,0,0,,,v
+S2324-G0318,4,00:23,UTA,,NYK,,I. Quickley,NYK,Quickley REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0318,4,00:20.200000,UTA,,NYK,,I. Quickley,NYK,SUB: Hartenstein FOR Quickley,Substitution,,0,0,0,0,,,v
+S2324-G0359,1,04:40,LAL,14.0,NYK,18.0,I. Quickley,NYK,Quickley 24' 3PT Step Back Jump Shot (3 PTS) (Randle 1 AST),Made Shot,Step Back Jump shot,-230,59,24,1,3.0,3.0,v
+S2324-G0359,1,01:39,LAL,21.0,NYK,26.0,I. Quickley,NYK,Quickley Free Throw Technical (4 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,v
+S2324-G0359,1,01:33,LAL,,NYK,,I. Quickley,NYK,Quickley Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0359,1,01:31,LAL,,NYK,,I. Quickley,NYK,Quickley S.FOUL (P1.T3) (M.Myers),Foul,Shooting,0,0,0,0,,,v
+S2324-G0359,1,01:21,LAL,24.0,NYK,28.0,I. Quickley,NYK,Quickley 7' Driving Floating Jump Shot (6 PTS),Made Shot,Driving Floating Jump Shot,66,11,7,1,2.0,2.0,v
+S2324-G0359,1,00:32.100000,LAL,24.0,NYK,32.0,I. Quickley,NYK,Quickley 2' Running Layup (8 PTS),Made Shot,Running Layup Shot,13,11,2,1,2.0,2.0,v
+S2324-G0359,1,00:01.100000,LAL,27.0,NYK,35.0,I. Quickley,NYK,Quickley 29' 3PT Jump Shot (11 PTS) (Grimes 2 AST),Made Shot,Jump Shot,-112,270,29,1,3.0,3.0,v
+S2324-G0359,1,00:00,LAL,,NYK,,I. Quickley,NYK,Quickley STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0359,2,11:09,LAL,,NYK,,I. Quickley,NYK,MISS Quickley 24' 3PT Jump Shot,Missed Shot,Jump Shot,238,12,24,1,3.0,0.0,v
+S2324-G0359,2,09:07,LAL,31.0,NYK,39.0,I. Quickley,NYK,Quickley 1' Running Dunk (13 PTS) (Hart 1 AST),Made Shot,Running Dunk Shot,1,10,1,1,2.0,2.0,v
+S2324-G0359,2,08:15,LAL,,NYK,,I. Quickley,NYK,MISS Quickley 4' Driving Layup,Missed Shot,Driving Layup Shot,-27,27,4,1,2.0,0.0,v
+S2324-G0359,2,05:55,LAL,,NYK,,I. Quickley,NYK,Quickley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0359,2,03:21,LAL,,NYK,,I. Quickley,NYK,MISS Quickley 3PT Running Jump Shot,Missed Shot,Running Jump Shot,228,18,0,1,3.0,0.0,v
+S2324-G0359,2,02:37,LAL,,NYK,,I. Quickley,NYK,SUB: DiVincenzo FOR Quickley,Substitution,,0,0,0,0,,,v
+S2324-G0359,3,01:40,LAL,,NYK,,I. Quickley,NYK,MISS Quickley 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,21,64,7,1,2.0,0.0,v
+S2324-G0359,3,01:10,LAL,80.0,NYK,84.0,I. Quickley,NYK,Quickley 4' Driving Finger Roll Layup (15 PTS),Made Shot,Driving Finger Roll Layup Shot,34,29,4,1,2.0,2.0,v
+S2324-G0359,3,00:50.400000,LAL,80.0,NYK,87.0,I. Quickley,NYK,Quickley 3PT Jump Shot (18 PTS) (Hartenstein 2 AST),Made Shot,Jump Shot,224,37,0,1,3.0,3.0,v
+S2324-G0359,4,11:22,LAL,83.0,NYK,92.0,I. Quickley,NYK,Quickley 21' Step Back Jump Shot (20 PTS),Made Shot,Step Back Jump shot,92,190,21,1,2.0,2.0,v
+S2324-G0359,4,09:19,LAL,,NYK,,I. Quickley,NYK,Quickley REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0359,4,09:13,LAL,,NYK,,I. Quickley,NYK,MISS Quickley 28' 3PT Jump Shot,Missed Shot,Jump Shot,153,232,28,1,3.0,0.0,v
+S2324-G0359,4,08:21,LAL,,NYK,,I. Quickley,NYK,Quickley S.FOUL (P2.T3) (M.Myers),Foul,Shooting,0,0,0,0,,,v
+S2324-G0359,4,06:48,LAL,,NYK,,I. Quickley,NYK,MISS Quickley 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,93,115,15,1,2.0,0.0,v
+S2324-G0359,4,04:28,LAL,,NYK,,I. Quickley,NYK,MISS Quickley 27' 3PT Jump Shot,Missed Shot,Jump Shot,205,179,27,1,3.0,0.0,v
+S2324-G0359,4,00:36.200000,LAL,,NYK,,I. Quickley,NYK,Quickley REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0368,1,02:49,BKN,,NYK,,I. Quickley,NYK,MISS Quickley 3PT Jump Shot,Missed Shot,Jump Shot,-233,-6,0,1,3.0,0.0,v
+S2324-G0368,1,01:34,BKN,16.0,NYK,29.0,I. Quickley,NYK,Quickley 1' Running Reverse Layup (2 PTS) (Randle 2 AST),Made Shot,Running Reverse Layup Shot,10,0,1,1,2.0,2.0,v
+S2324-G0368,2,11:46,BKN,,NYK,,I. Quickley,NYK,Quickley Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0368,2,10:42,BKN,26.0,NYK,37.0,I. Quickley,NYK,Quickley 26' 3PT Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,-1,263,26,1,3.0,3.0,v
+S2324-G0368,2,10:11,BKN,,NYK,,I. Quickley,NYK,MISS Quickley 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,75,136,16,1,2.0,0.0,v
+S2324-G0368,2,08:47,BKN,32.0,NYK,40.0,I. Quickley,NYK,Quickley Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0368,2,08:47,BKN,,NYK,,I. Quickley,NYK,MISS Quickley Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0368,2,08:10,BKN,,NYK,,I. Quickley,NYK,MISS Quickley 5' Driving Layup,Missed Shot,Driving Layup Shot,36,30,5,1,2.0,0.0,v
+S2324-G0368,2,07:36,BKN,,NYK,,I. Quickley,NYK,Quickley STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0368,2,07:28,BKN,34.0,NYK,42.0,I. Quickley,NYK,Quickley 1' Running Reverse Layup (8 PTS),Made Shot,Running Reverse Layup Shot,-12,-1,1,1,2.0,2.0,v
+S2324-G0368,2,05:32,BKN,,NYK,,I. Quickley,NYK,MISS Quickley 25' 3PT Jump Shot,Missed Shot,Jump Shot,-157,199,25,1,3.0,0.0,v
+S2324-G0368,2,05:18,BKN,,NYK,,I. Quickley,NYK,SUB: Hartenstein FOR Quickley,Substitution,,0,0,0,0,,,v
+S2324-G0368,3,00:02.200000,BKN,77.0,NYK,90.0,I. Quickley,NYK,Quickley 4' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,31,27,4,1,2.0,2.0,v
+S2324-G0368,4,11:25,BKN,77.0,NYK,93.0,I. Quickley,NYK,Quickley 27' 3PT Pullup Jump Shot (13 PTS),Made Shot,Pullup Jump shot,-48,264,27,1,3.0,3.0,v
+S2324-G0368,4,07:07,BKN,,NYK,,I. Quickley,NYK,MISS Quickley 7' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-50,48,7,1,2.0,0.0,v
+S2324-G0368,4,05:11,BKN,88.0,NYK,108.0,I. Quickley,NYK,Quickley 3PT Jump Shot (16 PTS) (Hart 2 AST),Made Shot,Jump Shot,-227,-1,0,1,3.0,3.0,v
+S2324-G0368,4,05:01,BKN,,NYK,,I. Quickley,NYK,Quickley BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0368,4,04:51,BKN,88.0,NYK,111.0,I. Quickley,NYK,Quickley 24' 3PT Step Back Jump Shot (19 PTS) (Brunson 8 AST),Made Shot,Step Back Jump shot,-225,74,24,1,3.0,3.0,v
+S2324-G0368,4,04:49,BKN,,NYK,,I. Quickley,NYK,Quickley Non-Unsportsmanlike Tech Foul - Flopping (P0.PN) (J.DeRosa),Foul                                    ,Flopping,0,0,0,0,,,v
+S2324-G0368,4,02:29,BKN,,NYK,,I. Quickley,NYK,MISS Quickley Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0368,4,02:29,BKN,,NYK,,I. Quickley,NYK,MISS Quickley Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0368,4,02:13,BKN,,NYK,,I. Quickley,NYK,SUB: Arcidiacono FOR Quickley,Substitution,,0,0,0,0,,,v
+S2324-G0057,1,02:41,NYK,,CHA,,I. Quickley,NYK,Quickley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0057,1,02:22,NYK,,CHA,,I. Quickley,NYK,MISS Quickley 25' 3PT Jump Shot,Missed Shot,Jump Shot,-48,242,25,1,3.0,0.0,h
+S2324-G0057,1,01:33,NYK,,CHA,,I. Quickley,NYK,Quickley REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0057,1,01:00,NYK,,CHA,,I. Quickley,NYK,Quickley Out of Bounds Lost Ball Turnover (P1.T4),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2324-G0057,2,10:35,NYK,,CHA,,I. Quickley,NYK,MISS Quickley 26' 3PT Jump Shot,Missed Shot,Jump Shot,-141,215,26,1,3.0,0.0,h
+S2324-G0057,2,09:27,NYK,,CHA,,I. Quickley,NYK,MISS Quickley 2' Driving Layup,Missed Shot,Driving Layup Shot,-13,16,2,1,2.0,0.0,h
+S2324-G0057,2,08:54,NYK,34.0,CHA,24.0,I. Quickley,NYK,Quickley 8' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,-2,80,8,1,2.0,2.0,h
+S2324-G0057,2,06:56,NYK,,CHA,,I. Quickley,NYK,Quickley REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0057,2,06:47,NYK,,CHA,,I. Quickley,NYK,MISS Quickley 18' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-22,182,18,1,2.0,0.0,h
+S2324-G0057,2,06:31,NYK,,CHA,,I. Quickley,NYK,Quickley S.FOUL (P1.T1) (C.Kirkland),Foul,Shooting,0,0,0,0,,,h
+S2324-G0057,2,06:31,NYK,,CHA,,I. Quickley,NYK,SUB: Randle FOR Quickley,Substitution,,0,0,0,0,,,h
+S2324-G0057,3,02:53,NYK,70.0,CHA,63.0,I. Quickley,NYK,Quickley 8' Floating Jump Shot (4 PTS) (Brunson 5 AST),Made Shot,Floating Jump shot,-4,75,8,1,2.0,2.0,h
+S2324-G0057,3,01:24,NYK,76.0,CHA,64.0,I. Quickley,NYK,Quickley 3PT Jump Shot (7 PTS) (Hartenstein 2 AST),Made Shot,Jump Shot,222,-3,0,1,3.0,3.0,h
+S2324-G0057,4,11:22,NYK,,CHA,,I. Quickley,NYK,MISS Quickley 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-53,63,8,1,2.0,0.0,h
+S2324-G0057,4,11:06,NYK,82.0,CHA,68.0,I. Quickley,NYK,Quickley 1' Running Finger Roll Layup (9 PTS),Made Shot,Running Finger Roll Layup Shot,-12,1,1,1,2.0,2.0,h
+S2324-G0057,4,10:43,NYK,,CHA,,I. Quickley,NYK,MISS Quickley 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-147,216,26,1,3.0,0.0,h
+S2324-G0057,4,08:45,NYK,,CHA,,I. Quickley,NYK,MISS Quickley 3' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,22,21,3,1,2.0,0.0,h
+S2324-G0057,4,07:30,NYK,94.0,CHA,74.0,I. Quickley,NYK,Quickley 1' Driving Finger Roll Layup (11 PTS),Made Shot,Driving Finger Roll Layup Shot,-11,1,1,1,2.0,2.0,h
+S2324-G0057,4,06:18,NYK,,CHA,,I. Quickley,NYK,MISS Quickley 9' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-70,64,9,1,2.0,0.0,h
+S2324-G0057,4,05:49,NYK,97.0,CHA,78.0,I. Quickley,NYK,Quickley 25' 3PT Jump Shot (14 PTS) (Brunson 7 AST),Made Shot,Jump Shot,34,252,25,1,3.0,3.0,h
+S2324-G0057,4,04:55,NYK,,CHA,,I. Quickley,NYK,MISS Quickley 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,218,121,25,1,3.0,0.0,h
+S2324-G0057,4,03:21,NYK,104.0,CHA,84.0,I. Quickley,NYK,Quickley 25' 3PT Jump Shot (17 PTS) (Randle 4 AST),Made Shot,Jump Shot,186,170,25,1,3.0,3.0,h
+S2324-G0057,4,02:59,NYK,,CHA,,I. Quickley,NYK,MISS Quickley 30' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-1,299,30,1,3.0,0.0,h
+S2324-G0057,4,02:52,NYK,107.0,CHA,84.0,I. Quickley,NYK,Quickley 25' 3PT Jump Shot (20 PTS) (Randle 5 AST),Made Shot,Jump Shot,-161,197,25,1,3.0,3.0,h
+S2324-G0057,4,02:26,NYK,,CHA,,I. Quickley,NYK,MISS Quickley 28' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-167,226,28,1,3.0,0.0,h
+S2324-G0057,4,02:16,NYK,109.0,CHA,84.0,I. Quickley,NYK,Quickley 5' Driving Floating Jump Shot (22 PTS),Made Shot,Driving Floating Jump Shot,-6,49,5,1,2.0,2.0,h
+S2324-G0057,4,02:16,NYK,110.0,CHA,84.0,I. Quickley,NYK,Quickley Free Throw Technical (23 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,h
+S2324-G0057,4,01:12,NYK,,CHA,,I. Quickley,NYK,SUB: McBride FOR Quickley,Substitution,,0,0,0,0,,,h
+S2324-G0112,1,03:00,CLE,21.0,NYK,22.0,I. Quickley,NYK,Quickley 25' 3PT Pullup Jump Shot (3 PTS) (Hartenstein 1 AST),Made Shot,Pullup Jump shot,-134,213,25,1,3.0,3.0,v
+S2324-G0112,1,00:01.500000,CLE,,NYK,,I. Quickley,NYK,Quickley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0112,1,00:01.500000,CLE,,NYK,,I. Quickley,NYK,Quickley Traveling Turnover (P1.T4),Turnover,Traveling,0,0,0,0,,,v
+S2324-G0112,2,11:28,CLE,,NYK,,I. Quickley,NYK,MISS Quickley 17' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-50,159,17,1,2.0,0.0,v
+S2324-G0112,2,10:24,CLE,,NYK,,I. Quickley,NYK,MISS Quickley 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-56,22,6,1,2.0,0.0,v
+S2324-G0112,2,10:21,CLE,,NYK,,I. Quickley,NYK,MISS Quickley 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,37,24,1,3.0,0.0,v
+S2324-G0112,2,09:05,CLE,,NYK,,I. Quickley,NYK,MISS Quickley 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-51,273,28,1,3.0,0.0,v
+S2324-G0112,2,08:25,CLE,,NYK,,I. Quickley,NYK,Quickley REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0112,2,06:16,CLE,,NYK,,I. Quickley,NYK,SUB: Grimes FOR Quickley,Substitution,,0,0,0,0,,,v
+S2324-G0112,3,03:08,CLE,,NYK,,I. Quickley,NYK,Quickley REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0112,3,01:26,CLE,66.0,NYK,81.0,I. Quickley,NYK,Quickley 16' Step Back Jump Shot (5 PTS),Made Shot,Step Back Jump shot,-145,58,16,1,2.0,2.0,v
+S2324-G0112,3,00:34.700000,CLE,66.0,NYK,83.0,I. Quickley,NYK,Quickley 7' Driving Floating Bank Jump Shot (7 PTS),Made Shot,Driving Floating Bank Jump Shot,54,38,7,1,2.0,2.0,v
+S2324-G0112,4,10:11,CLE,,NYK,,I. Quickley,NYK,Quickley Bad Pass Turnover (P2.T13),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0112,4,08:42,CLE,78.0,NYK,93.0,I. Quickley,NYK,Quickley 29' 3PT Running Jump Shot (10 PTS) (DiVincenzo 3 AST),Made Shot,Running Jump Shot,-145,254,29,1,3.0,3.0,v
+S2324-G0112,4,07:46,CLE,78.0,NYK,96.0,I. Quickley,NYK,Quickley 25' 3PT Pullup Jump Shot (13 PTS) (DiVincenzo 4 AST),Made Shot,Pullup Jump shot,138,211,25,1,3.0,3.0,v
+S2324-G0112,4,07:06,CLE,,NYK,,I. Quickley,NYK,Quickley Step Out of Bounds Turnover (P3.T14),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2324-G0112,4,05:17,CLE,83.0,NYK,102.0,I. Quickley,NYK,Quickley Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0112,4,05:17,CLE,83.0,NYK,103.0,I. Quickley,NYK,Quickley Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0112,4,04:09,CLE,83.0,NYK,105.0,I. Quickley,NYK,Quickley 16' Driving Floating Jump Shot (17 PTS),Made Shot,Driving Floating Jump Shot,108,123,16,1,2.0,2.0,v
+S2324-G0112,4,04:09,CLE,83.0,NYK,106.0,I. Quickley,NYK,Quickley Free Throw 1 of 1 (18 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G0112,4,02:18,CLE,,NYK,,I. Quickley,NYK,MISS Quickley 37' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-151,333,37,1,3.0,0.0,v
+S2324-G0112,4,02:11,CLE,,NYK,,I. Quickley,NYK,SUB: Arcidiacono FOR Quickley,Substitution,,0,0,0,0,,,v
+S2324-G0276,1,00:06.700000,TOR,,NYK,,I. Quickley,NYK,Quickley STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0276,1,00:03.100000,TOR,,NYK,,I. Quickley,NYK,MISS Quickley 3' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,22,24,3,1,2.0,0.0,v
+S2324-G0276,1,00:00.300000,TOR,,NYK,,I. Quickley,NYK,MISS Quickley 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,238,75,25,1,3.0,0.0,v
+S2324-G0276,2,11:28,TOR,26.0,NYK,36.0,I. Quickley,NYK,Quickley 7' Floating Jump Shot (2 PTS),Made Shot,Floating Jump shot,6,66,7,1,2.0,2.0,v
+S2324-G0276,2,06:16,TOR,,NYK,,I. Quickley,NYK,SUB: Randle FOR Quickley,Substitution,,0,0,0,0,,,v
+S2324-G0276,3,00:02.100000,TOR,77.0,NYK,89.0,I. Quickley,NYK,Quickley Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0276,3,00:02.100000,TOR,77.0,NYK,90.0,I. Quickley,NYK,Quickley Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0276,4,11:40,TOR,,NYK,,I. Quickley,NYK,MISS Quickley 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-100,239,26,1,3.0,0.0,v
+S2324-G0276,4,10:17,TOR,,NYK,,I. Quickley,NYK,Quickley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0276,4,09:55,TOR,81.0,NYK,95.0,I. Quickley,NYK,Quickley 11' Step Back Jump Shot (6 PTS),Made Shot,Step Back Jump shot,-43,99,11,1,2.0,2.0,v
+S2324-G0276,4,09:08,TOR,,NYK,,I. Quickley,NYK,MISS Quickley Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0276,4,09:08,TOR,85.0,NYK,96.0,I. Quickley,NYK,Quickley Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0276,4,08:02,TOR,,NYK,,I. Quickley,NYK,Quickley Lost Ball Turnover (P1.T11),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0276,4,06:37,TOR,89.0,NYK,104.0,I. Quickley,NYK,Quickley 3PT Running Jump Shot (10 PTS) (Brunson 7 AST),Made Shot,Running Jump Shot,-223,25,0,1,3.0,3.0,v
+S2324-G0276,4,05:42,TOR,,NYK,,I. Quickley,NYK,SUB: Randle FOR Quickley,Substitution,,0,0,0,0,,,v
+S2324-G0333,1,01:00,PHX,,NYK,,I. Quickley,NYK,MISS Quickley 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,151,245,29,1,3.0,0.0,v
+S2324-G0333,1,00:26.300000,PHX,,NYK,,I. Quickley,NYK,Quickley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0333,2,11:50,PHX,,NYK,,I. Quickley,NYK,Quickley STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0333,2,11:16,PHX,,NYK,,I. Quickley,NYK,MISS Quickley 19' Step Back Jump Shot,Missed Shot,Step Back Jump shot,186,-5,19,1,2.0,0.0,v
+S2324-G0333,2,10:36,PHX,,NYK,,I. Quickley,NYK,Quickley P.FOUL (P1.T1) (S.Twardoski),Foul,Personal,0,0,0,0,,,v
+S2324-G0333,2,10:12,PHX,32.0,NYK,36.0,I. Quickley,NYK,Quickley 13' Driving Floating Bank Jump Shot (2 PTS),Made Shot,Driving Floating Bank Jump Shot,104,73,13,1,2.0,2.0,v
+S2324-G0333,2,10:12,PHX,32.0,NYK,37.0,I. Quickley,NYK,Quickley Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G0333,2,08:43,PHX,,NYK,,I. Quickley,NYK,Quickley Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0333,2,07:50,PHX,,NYK,,I. Quickley,NYK,Quickley S.FOUL (P2.T2) (S.Twardoski),Foul,Shooting,0,0,0,0,,,v
+S2324-G0333,2,07:34,PHX,,NYK,,I. Quickley,NYK,MISS Quickley 29' 3PT Jump Shot,Missed Shot,Jump Shot,156,247,29,1,3.0,0.0,v
+S2324-G0333,2,06:27,PHX,,NYK,,I. Quickley,NYK,MISS Quickley 7' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,39,58,7,1,2.0,0.0,v
+S2324-G0333,2,06:05,PHX,,NYK,,I. Quickley,NYK,SUB: Randle FOR Quickley,Substitution,,0,0,0,0,,,v
+S2324-G0333,3,02:04,PHX,97.0,NYK,93.0,I. Quickley,NYK,Quickley Free Throw 1 of 3 (4 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,v
+S2324-G0333,3,02:04,PHX,,NYK,,I. Quickley,NYK,MISS Quickley Free Throw 2 of 3,Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,0.0,v
+S2324-G0333,3,02:04,PHX,97.0,NYK,94.0,I. Quickley,NYK,Quickley Free Throw 3 of 3 (5 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,v
+S2324-G0333,3,01:04,PHX,,NYK,,I. Quickley,NYK,Quickley REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0333,3,00:12.200000,PHX,99.0,NYK,97.0,I. Quickley,NYK,Quickley 9' Driving Floating Bank Jump Shot (7 PTS),Made Shot,Driving Floating Bank Jump Shot,22,86,9,1,2.0,2.0,v
+S2324-G0333,4,09:44,PHX,103.0,NYK,105.0,I. Quickley,NYK,Quickley 28' 3PT Jump Shot (10 PTS) (Grimes 1 AST),Made Shot,Jump Shot,127,246,28,1,3.0,3.0,v
+S2324-G0333,4,09:28,PHX,,NYK,,I. Quickley,NYK,Quickley STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0333,4,08:48,PHX,,NYK,,I. Quickley,NYK,Quickley REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0333,4,05:17,PHX,,NYK,,I. Quickley,NYK,Quickley REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0333,4,05:06,PHX,,NYK,,I. Quickley,NYK,MISS Quickley 18' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-170,58,18,1,2.0,0.0,v
+S2324-G0333,4,04:48,PHX,,NYK,,I. Quickley,NYK,Quickley REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0333,4,01:22,PHX,,NYK,,I. Quickley,NYK,SUB: Sims FOR Quickley,Substitution,,0,0,0,0,,,v
+S2324-G0221,1,03:55,MIN,,NYK,,I. Quickley,NYK,MISS Quickley 3PT Jump Shot,Missed Shot,Jump Shot,-229,34,0,1,3.0,0.0,v
+S2324-G0221,1,02:43,MIN,,NYK,,I. Quickley,NYK,MISS Quickley 20' Jump Shot,Missed Shot,Jump Shot,-192,37,20,1,2.0,0.0,v
+S2324-G0221,1,02:26,MIN,,NYK,,I. Quickley,NYK,Quickley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0221,1,00:01.100000,MIN,,NYK,,I. Quickley,NYK,Quickley S.FOUL (P1.PN) (R.Acosta),Foul,Shooting,0,0,0,0,,,v
+S2324-G0221,2,11:25,MIN,,NYK,,I. Quickley,NYK,MISS Quickley 24' 3PT Jump Shot,Missed Shot,Jump Shot,235,18,24,1,3.0,0.0,v
+S2324-G0221,2,11:04,MIN,,NYK,,I. Quickley,NYK,MISS Quickley 26' 3PT Jump Shot,Missed Shot,Jump Shot,-196,164,26,1,3.0,0.0,v
+S2324-G0221,2,10:40,MIN,,NYK,,I. Quickley,NYK,MISS Quickley 6' Running Layup,Missed Shot,Running Layup Shot,47,38,6,1,2.0,0.0,v
+S2324-G0221,2,10:19,MIN,38.0,NYK,30.0,I. Quickley,NYK,Quickley Free Throw Technical (1 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,v
+S2324-G0221,2,09:15,MIN,40.0,NYK,36.0,I. Quickley,NYK,Quickley 14' Floating Jump Shot (3 PTS) (Hart 1 AST),Made Shot,Floating Jump shot,82,112,14,1,2.0,2.0,v
+S2324-G0221,2,09:15,MIN,40.0,NYK,37.0,I. Quickley,NYK,Quickley Free Throw 1 of 1 (4 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G0221,2,08:20,MIN,44.0,NYK,39.0,I. Quickley,NYK,Quickley 11' Floating Jump Shot (6 PTS),Made Shot,Floating Jump shot,-77,74,11,1,2.0,2.0,v
+S2324-G0221,2,08:06,MIN,,NYK,,I. Quickley,NYK,Quickley S.FOUL (P2.T3) (P.Fraher),Foul,Shooting,0,0,0,0,,,v
+S2324-G0221,2,07:24,MIN,,NYK,,I. Quickley,NYK,MISS Quickley 25' 3PT Jump Shot,Missed Shot,Jump Shot,-194,163,25,1,3.0,0.0,v
+S2324-G0221,2,07:17,MIN,,NYK,,I. Quickley,NYK,Quickley S.FOUL (P3.T4) (P.Fraher),Foul,Shooting,0,0,0,0,,,v
+S2324-G0221,2,07:17,MIN,,NYK,,I. Quickley,NYK,SUB: Brunson FOR Quickley,Substitution,,0,0,0,0,,,v
+S2324-G0221,3,02:59,MIN,,NYK,,I. Quickley,NYK,MISS Quickley 3PT Jump Shot,Missed Shot,Jump Shot,-225,25,0,1,3.0,0.0,v
+S2324-G0221,3,01:51,MIN,,NYK,,I. Quickley,NYK,MISS Quickley 13' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-129,25,13,1,2.0,0.0,v
+S2324-G0221,3,01:33,MIN,88.0,NYK,69.0,I. Quickley,NYK,Quickley 1' Running Layup (8 PTS) (Brunson 6 AST),Made Shot,Running Layup Shot,-2,-7,1,1,2.0,2.0,v
+S2324-G0221,3,01:01,MIN,90.0,NYK,70.0,I. Quickley,NYK,Quickley Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0221,3,01:01,MIN,90.0,NYK,71.0,I. Quickley,NYK,Quickley Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0221,3,00:29.800000,MIN,93.0,NYK,72.0,I. Quickley,NYK,Quickley Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0221,3,00:29.800000,MIN,93.0,NYK,73.0,I. Quickley,NYK,Quickley Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0221,4,11:50,MIN,93.0,NYK,78.0,I. Quickley,NYK,Quickley 29' 3PT Pullup Jump Shot (15 PTS),Made Shot,Pullup Jump shot,95,273,29,1,3.0,3.0,v
+S2324-G0221,4,10:50,MIN,,NYK,,I. Quickley,NYK,MISS Quickley 16' Step Back Jump Shot,Missed Shot,Step Back Jump shot,116,105,16,1,2.0,0.0,v
+S2324-G0221,4,09:59,MIN,,NYK,,I. Quickley,NYK,MISS Quickley 27' 3PT Jump Shot,Missed Shot,Jump Shot,-186,190,27,1,3.0,0.0,v
+S2324-G0221,4,09:16,MIN,,NYK,,I. Quickley,NYK,SUB: Brunson FOR Quickley,Substitution,,0,0,0,0,,,v
+S2324-G1201,2,10:46,MIL,,NYK,,I. Quickley,NYK,MISS Quickley 27' 3PT Jump Shot,Missed Shot,Jump Shot,164,220,27,1,3.0,0.0,v
+S2324-G1201,2,09:09,MIL,46.0,NYK,44.0,I. Quickley,NYK,Quickley Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1201,2,09:09,MIL,46.0,NYK,45.0,I. Quickley,NYK,Quickley Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1201,2,08:23,MIL,,NYK,,I. Quickley,NYK,Quickley Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G1201,2,08:03,MIL,53.0,NYK,50.0,I. Quickley,NYK,Quickley 26' 3PT Jump Shot (5 PTS) (Brunson 2 AST),Made Shot,Jump Shot,-143,214,26,1,3.0,3.0,v
+S2324-G1201,2,07:25,MIL,53.0,NYK,51.0,I. Quickley,NYK,Quickley Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1201,2,07:25,MIL,53.0,NYK,52.0,I. Quickley,NYK,Quickley Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1201,2,06:42,MIL,,NYK,,I. Quickley,NYK,SUB: Barrett FOR Quickley,Substitution,,0,0,0,0,,,v
+S2324-G1201,3,01:43,MIL,,NYK,,I. Quickley,NYK,MISS Quickley 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,98,252,27,1,3.0,0.0,v
+S2324-G1201,3,00:26.400000,MIL,,NYK,,I. Quickley,NYK,Quickley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1201,3,00:04.800000,MIL,,NYK,,I. Quickley,NYK,MISS Quickley 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,76,80,11,1,2.0,0.0,v
+S2324-G1201,4,09:44,MIL,,NYK,,I. Quickley,NYK,MISS Quickley 14' Floating Jump Shot,Missed Shot,Floating Jump shot,42,132,14,1,2.0,0.0,v
+S2324-G1201,4,08:43,MIL,,NYK,,I. Quickley,NYK,MISS Quickley 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,69,82,11,1,2.0,0.0,v
+S2324-G1201,4,08:16,MIL,,NYK,,I. Quickley,NYK,MISS Quickley 3PT Jump Shot,Missed Shot,Jump Shot,229,50,0,1,3.0,0.0,v
+S2324-G1201,4,07:28,MIL,,NYK,,I. Quickley,NYK,SUB: Brunson FOR Quickley,Substitution,,0,0,0,0,,,v
+S2324-G0002,1,04:08,MIL,,NYK,,I. Quickley,NYK,MISS Quickley 20' Step Back Jump Shot,Missed Shot,Step Back Jump shot,48,196,20,1,2.0,0.0,v
+S2324-G0002,1,03:24,MIL,,NYK,,I. Quickley,NYK,Quickley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0002,1,02:06,MIL,,NYK,,I. Quickley,NYK,MISS Quickley 16' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-9,158,16,1,2.0,0.0,v
+S2324-G0002,2,08:25,MIL,36.0,NYK,32.0,I. Quickley,NYK,Quickley 3PT Jump Shot (3 PTS) (Brunson 1 AST),Made Shot,Jump Shot,-233,15,0,1,3.0,3.0,v
+S2324-G0002,2,07:43,MIL,,NYK,,I. Quickley,NYK,MISS Quickley 28' 3PT Jump Shot,Missed Shot,Jump Shot,37,274,28,1,3.0,0.0,v
+S2324-G0002,2,06:47,MIL,,NYK,,I. Quickley,NYK,MISS Quickley 26' 3PT Jump Shot,Missed Shot,Jump Shot,-188,176,26,1,3.0,0.0,v
+S2324-G0002,2,06:30,MIL,,NYK,,I. Quickley,NYK,SUB: Hart FOR Quickley,Substitution,,0,0,0,0,,,v
+S2324-G0002,3,03:46,MIL,,NYK,,I. Quickley,NYK,Quickley P.FOUL (P1.T1) (J.Williams),Foul,Personal,0,0,0,0,,,v
+S2324-G0002,3,02:58,MIL,74.0,NYK,66.0,I. Quickley,NYK,Quickley 13' Driving Floating Jump Shot (5 PTS) (Hart 4 AST),Made Shot,Driving Floating Jump Shot,26,129,13,1,2.0,2.0,v
+S2324-G0002,3,02:58,MIL,74.0,NYK,67.0,I. Quickley,NYK,Quickley Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G0002,3,02:23,MIL,76.0,NYK,69.0,I. Quickley,NYK,Quickley 9' Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,4,87,9,1,2.0,2.0,v
+S2324-G0002,3,01:32,MIL,,NYK,,I. Quickley,NYK,Quickley Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0002,3,01:27,MIL,,NYK,,I. Quickley,NYK,Quickley REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0002,4,10:40,MIL,88.0,NYK,82.0,I. Quickley,NYK,Quickley 2' Driving Floating Jump Shot (10 PTS),Made Shot,Driving Floating Jump Shot,-7,21,2,1,2.0,2.0,v
+S2324-G0002,4,10:20,MIL,,NYK,,I. Quickley,NYK,Quickley REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0002,4,09:07,MIL,91.0,NYK,85.0,I. Quickley,NYK,Quickley Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0002,4,09:07,MIL,91.0,NYK,86.0,I. Quickley,NYK,Quickley Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0002,4,08:33,MIL,91.0,NYK,88.0,I. Quickley,NYK,Quickley 12' Step Back Jump Shot (14 PTS),Made Shot,Step Back Jump shot,120,-21,12,1,2.0,2.0,v
+S2324-G0002,4,07:51,MIL,,NYK,,I. Quickley,NYK,MISS Quickley 2' Running Layup,Missed Shot,Running Layup Shot,-10,14,2,1,2.0,0.0,v
+S2324-G0002,4,07:11,MIL,,NYK,,I. Quickley,NYK,Knicks T.Foul (Def. 3 Sec Quickley ) (T.Ford),Foul,Defense 3 Second,0,0,0,0,,,v
+S2324-G0002,4,05:28,MIL,,NYK,,I. Quickley,NYK,SUB: Hart FOR Quickley,Substitution,,0,0,0,0,,,v
+S2324-G0151,1,01:40,NYK,,LAC,,I. Quickley,NYK,Quickley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0151,2,10:52,NYK,21.0,LAC,23.0,I. Quickley,NYK,Quickley 2' Running Layup (2 PTS) (Hartenstein 1 AST),Made Shot,Running Layup Shot,0,16,2,1,2.0,2.0,h
+S2324-G0151,2,08:41,NYK,26.0,LAC,25.0,I. Quickley,NYK,Quickley 5' Driving Floating Jump Shot (4 PTS) (Hart 2 AST),Made Shot,Driving Floating Jump Shot,18,45,5,1,2.0,2.0,h
+S2324-G0151,2,03:27,NYK,,LAC,,I. Quickley,NYK,MISS Quickley 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,240,30,24,1,3.0,0.0,h
+S2324-G0151,2,03:26,NYK,,LAC,,I. Quickley,NYK,SUB: Grimes FOR Quickley,Substitution,,0,0,0,0,,,h
+S2324-G0151,3,00:03.700000,NYK,76.0,LAC,76.0,I. Quickley,NYK,Quickley 25' 3PT Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,148,199,25,1,3.0,3.0,h
+S2324-G0151,4,08:47,NYK,,LAC,,I. Quickley,NYK,MISS Quickley 3PT Jump Shot,Missed Shot,Jump Shot,224,15,0,1,3.0,0.0,h
+S2324-G0151,4,06:55,NYK,,LAC,,I. Quickley,NYK,SUB: Brunson FOR Quickley,Substitution,,0,0,0,0,,,h
+S2324-G0429,1,03:02,ORL,,NYK,,I. Quickley,NYK,Quickley S.FOUL (P1.T3) (K.Cutler),Foul,Shooting,0,0,0,0,,,v
+S2324-G0429,1,02:14,ORL,26.0,NYK,22.0,I. Quickley,NYK,Quickley 12' Driving Floating Jump Shot (2 PTS) (Randle 1 AST),Made Shot,Driving Floating Jump Shot,-113,34,12,1,2.0,2.0,v
+S2324-G0429,1,00:40.200000,ORL,26.0,NYK,27.0,I. Quickley,NYK,Quickley 28' 3PT Running Pull-Up Jump Shot (5 PTS),Made Shot,Running Pull-Up Jump Shot,-97,259,28,1,3.0,3.0,v
+S2324-G0429,2,09:18,ORL,,NYK,,I. Quickley,NYK,MISS Quickley 27' 3PT Jump Shot,Missed Shot,Jump Shot,-184,197,27,1,3.0,0.0,v
+S2324-G0429,2,03:22,ORL,,NYK,,I. Quickley,NYK,SUB: DiVincenzo FOR Quickley,Substitution,,0,0,0,0,,,v
+S2324-G0429,3,02:08,ORL,84.0,NYK,69.0,I. Quickley,NYK,Quickley 3PT Jump Shot (8 PTS) (Randle 3 AST),Made Shot,Jump Shot,-226,-7,0,1,3.0,3.0,v
+S2324-G0429,3,00:29.400000,ORL,,NYK,,I. Quickley,NYK,Quickley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0429,4,11:43,ORL,,NYK,,I. Quickley,NYK,MISS Quickley 11' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-108,20,11,1,2.0,0.0,v
+S2324-G0429,4,11:32,ORL,,NYK,,I. Quickley,NYK,Quickley P.FOUL (P2.T1) (M.Kogut),Foul,Personal,0,0,0,0,,,v
+S2324-G0429,4,10:52,ORL,,NYK,,I. Quickley,NYK,MISS Quickley 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,179,209,28,1,3.0,0.0,v
+S2324-G0429,4,10:35,ORL,,NYK,,I. Quickley,NYK,Quickley S.FOUL (P3.T2) (M.Myers),Foul,Shooting,0,0,0,0,,,v
+S2324-G0429,4,09:46,ORL,,NYK,,I. Quickley,NYK,MISS Quickley 27' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-121,243,27,1,3.0,0.0,v
+S2324-G0429,4,07:49,ORL,,NYK,,I. Quickley,NYK,MISS Quickley 4' Running Layup,Missed Shot,Running Layup Shot,16,36,4,1,2.0,0.0,v
+S2324-G0429,4,05:22,ORL,102.0,NYK,91.0,I. Quickley,NYK,Quickley 24' 3PT Jump Shot (11 PTS) (Brunson 6 AST),Made Shot,Jump Shot,228,87,24,1,3.0,3.0,v
+S2324-G0429,4,03:34,ORL,,NYK,,I. Quickley,NYK,Quickley S.FOUL (P4.PN) (M.Kogut),Foul,Shooting,0,0,0,0,,,v
+S2324-G0429,4,03:05,ORL,105.0,NYK,98.0,I. Quickley,NYK,Quickley Free Throw Technical (12 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,v
+S2324-G0429,4,01:41,ORL,,NYK,,I. Quickley,NYK,MISS Quickley 28' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,115,253,28,1,3.0,0.0,v
+S2324-G0429,4,00:07.100000,ORL,,NYK,,I. Quickley,NYK,Quickley Lost Ball Turnover (P1.T16),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0079,1,03:55,ATL,,NYK,,I. Quickley,NYK,Quickley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0079,1,03:40,ATL,,NYK,,I. Quickley,NYK,Quickley S.FOUL (P1.T4) (S.Wall),Foul,Shooting,0,0,0,0,,,v
+S2324-G0079,1,03:30,ATL,,NYK,,I. Quickley,NYK,MISS Quickley 24' 3PT Jump Shot,Missed Shot,Jump Shot,232,63,24,1,3.0,0.0,v
+S2324-G0079,1,01:50,ATL,,NYK,,I. Quickley,NYK,MISS Quickley 3PT Jump Shot,Missed Shot,Jump Shot,-230,-1,0,1,3.0,0.0,v
+S2324-G0079,1,00:47.900000,ATL,,NYK,,I. Quickley,NYK,Quickley REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0079,1,00:43.100000,ATL,,NYK,,I. Quickley,NYK,MISS Quickley 2' Driving Layup,Missed Shot,Driving Layup Shot,-11,11,2,1,2.0,0.0,v
+S2324-G0079,2,10:59,ATL,,NYK,,I. Quickley,NYK,Quickley Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0079,2,10:43,ATL,35.0,NYK,38.0,I. Quickley,NYK,Quickley 3PT Jump Shot (3 PTS) (Barrett 1 AST),Made Shot,Jump Shot,230,27,0,1,3.0,3.0,v
+S2324-G0079,2,08:41,ATL,,NYK,,I. Quickley,NYK,Quickley REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0079,2,08:36,ATL,40.0,NYK,46.0,I. Quickley,NYK,Quickley 11' Driving Floating Jump Shot (5 PTS),Made Shot,Driving Floating Jump Shot,-20,109,11,1,2.0,2.0,v
+S2324-G0079,2,08:15,ATL,40.0,NYK,48.0,I. Quickley,NYK,Quickley 1' Running Layup (7 PTS) (Barrett 3 AST),Made Shot,Running Layup Shot,6,13,1,1,2.0,2.0,v
+S2324-G0079,2,06:22,ATL,,NYK,,I. Quickley,NYK,Quickley Out of Bounds - Bad Pass Turnover Turnover (P2.T5),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0079,2,05:05,ATL,49.0,NYK,55.0,I. Quickley,NYK,Quickley 3' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,25,24,3,1,2.0,2.0,v
+S2324-G0079,2,03:48,ATL,,NYK,,I. Quickley,NYK,MISS Quickley 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,40,251,25,1,3.0,0.0,v
+S2324-G0079,2,03:43,ATL,,NYK,,I. Quickley,NYK,SUB: Barrett FOR Quickley,Substitution,,0,0,0,0,,,v
+S2324-G0079,3,02:02,ATL,,NYK,,I. Quickley,NYK,MISS Quickley 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,165,193,25,1,3.0,0.0,v
+S2324-G0079,3,00:00.800000,ATL,92.0,NYK,99.0,I. Quickley,NYK,Quickley Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0079,3,00:00.800000,ATL,92.0,NYK,100.0,I. Quickley,NYK,Quickley Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0079,4,11:27,ATL,,NYK,,I. Quickley,NYK,Quickley REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0079,4,10:18,ATL,,NYK,,I. Quickley,NYK,MISS Quickley 3PT Jump Shot,Missed Shot,Jump Shot,-225,34,0,1,3.0,0.0,v
+S2324-G0079,4,09:16,ATL,,NYK,,I. Quickley,NYK,MISS Quickley 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-154,212,26,1,3.0,0.0,v
+S2324-G0079,4,09:07,ATL,,NYK,,I. Quickley,NYK,Quickley STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0079,4,09:04,ATL,,NYK,,I. Quickley,NYK,Quickley Lost Ball Turnover (P3.T12),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0079,4,08:26,ATL,,NYK,,I. Quickley,NYK,Quickley Out of Bounds Lost Ball Turnover (P4.T13),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2324-G0079,4,08:03,ATL,,NYK,,I. Quickley,NYK,MISS Quickley 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,213,136,25,1,3.0,0.0,v
+S2324-G0079,4,07:15,ATL,,NYK,,I. Quickley,NYK,Quickley S.FOUL (P2.T3) (S.Wall),Foul,Shooting,0,0,0,0,,,v
+S2324-G0079,4,06:13,ATL,,NYK,,I. Quickley,NYK,MISS Quickley 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,11,113,11,1,2.0,0.0,v
+S2324-G0079,4,05:59,ATL,,NYK,,I. Quickley,NYK,Quickley REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0079,4,05:38,ATL,,NYK,,I. Quickley,NYK,Quickley REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0079,4,05:29,ATL,,NYK,,I. Quickley,NYK,MISS Quickley 25' 3PT Jump Shot,Missed Shot,Jump Shot,-26,252,25,1,3.0,0.0,v
+S2324-G0079,4,04:21,ATL,,NYK,,I. Quickley,NYK,SUB: Barrett FOR Quickley,Substitution,,0,0,0,0,,,v
+S2324-G0188,1,04:28,BOS,,NYK,,I. Quickley,NYK,MISS Quickley 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,138,137,19,1,2.0,0.0,v
+S2324-G0188,1,03:31,BOS,,NYK,,I. Quickley,NYK,MISS Quickley 10' Driving Layup,Missed Shot,Driving Layup Shot,91,48,10,1,2.0,0.0,v
+S2324-G0188,1,03:05,BOS,,NYK,,I. Quickley,NYK,MISS Quickley 25' 3PT Jump Shot,Missed Shot,Jump Shot,205,147,25,1,3.0,0.0,v
+S2324-G0188,1,01:57,BOS,,NYK,,I. Quickley,NYK,MISS Quickley 4' Running Layup,Missed Shot,Running Layup Shot,20,38,4,1,2.0,0.0,v
+S2324-G0188,1,00:39,BOS,,NYK,,I. Quickley,NYK,MISS Quickley 14' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,119,64,14,1,2.0,0.0,v
+S2324-G0188,2,11:25,BOS,,NYK,,I. Quickley,NYK,Quickley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0188,2,10:09,BOS,,NYK,,I. Quickley,NYK,Quickley STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0188,2,08:52,BOS,,NYK,,I. Quickley,NYK,MISS Quickley 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,51,148,16,1,2.0,0.0,v
+S2324-G0188,2,08:11,BOS,,NYK,,I. Quickley,NYK,Quickley REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0188,2,07:34,BOS,,NYK,,I. Quickley,NYK,Quickley REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0188,2,05:30,BOS,32.0,NYK,40.0,I. Quickley,NYK,Quickley 26' 3PT Jump Shot (3 PTS) (Robinson 1 AST),Made Shot,Jump Shot,-134,224,26,1,3.0,3.0,v
+S2324-G0188,2,05:22,BOS,,NYK,,I. Quickley,NYK,Quickley P.FOUL (P1.T2) (G.Petraitis),Foul,Personal,0,0,0,0,,,v
+S2324-G0188,2,04:36,BOS,,NYK,,I. Quickley,NYK,Quickley REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0188,2,04:09,BOS,,NYK,,I. Quickley,NYK,SUB: Grimes FOR Quickley,Substitution,,0,0,0,0,,,v
+S2324-G0188,3,03:13,BOS,,NYK,,I. Quickley,NYK,Quickley REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0188,3,02:49,BOS,,NYK,,I. Quickley,NYK,Quickley S.FOUL (P2.T4) (G.Petraitis),Foul,Shooting,0,0,0,0,,,v
+S2324-G0188,3,01:28,BOS,,NYK,,I. Quickley,NYK,Quickley REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0188,3,00:56.200000,BOS,,NYK,,I. Quickley,NYK,MISS Quickley 3' Driving Layup,Missed Shot,Driving Layup Shot,6,28,3,1,2.0,0.0,v
+S2324-G0188,3,00:01.600000,BOS,84.0,NYK,75.0,I. Quickley,NYK,Quickley Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0188,3,00:01.600000,BOS,84.0,NYK,76.0,I. Quickley,NYK,Quickley Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0188,4,10:07,BOS,,NYK,,I. Quickley,NYK,Quickley L.B.FOUL (P3.T1) (G.Petraitis),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0188,4,07:36,BOS,,NYK,,I. Quickley,NYK,MISS Quickley 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,73,7,1,2.0,0.0,v
+S2324-G0188,4,04:47,BOS,102.0,NYK,91.0,I. Quickley,NYK,Quickley Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0188,4,04:47,BOS,102.0,NYK,92.0,I. Quickley,NYK,Quickley Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0188,4,04:06,BOS,,NYK,,I. Quickley,NYK,MISS Quickley 11' Driving Bank Hook Shot,Missed Shot,Driving Bank Hook Shot,98,50,11,1,2.0,0.0,v
+S2324-G0188,4,03:30,BOS,,NYK,,I. Quickley,NYK,SUB: Grimes FOR Quickley,Substitution,,0,0,0,0,,,v
+S2324-G0388,1,01:35,NYK,,MIL,,I. Quickley,NYK,MISS Quickley 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-105,227,25,1,3.0,0.0,h
+S2324-G0388,2,11:22,NYK,,MIL,,I. Quickley,NYK,MISS Quickley 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-88,227,24,1,3.0,0.0,h
+S2324-G0388,2,09:28,NYK,,MIL,,I. Quickley,NYK,MISS Quickley 8' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,56,63,8,1,2.0,0.0,h
+S2324-G0388,2,08:12,NYK,35.0,MIL,43.0,I. Quickley,NYK,Quickley Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0388,2,08:12,NYK,36.0,MIL,43.0,I. Quickley,NYK,Quickley Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0388,2,07:14,NYK,38.0,MIL,45.0,I. Quickley,NYK,Quickley 10' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,29,96,10,1,2.0,2.0,h
+S2324-G0388,2,06:17,NYK,,MIL,,I. Quickley,NYK,SUB: Barrett FOR Quickley,Substitution,,0,0,0,0,,,h
+S2324-G0388,3,01:50,NYK,82.0,MIL,95.0,I. Quickley,NYK,Quickley 25' 3PT Pullup Jump Shot (7 PTS) (Hartenstein 1 AST),Made Shot,Pullup Jump shot,-200,157,25,1,3.0,3.0,h
+S2324-G0388,3,01:30,NYK,,MIL,,I. Quickley,NYK,MISS Quickley 1' Running Layup,Missed Shot,Running Layup Shot,13,2,1,1,2.0,0.0,h
+S2324-G0388,4,11:34,NYK,,MIL,,I. Quickley,NYK,Quickley Offensive Charge Foul (P1) (Z.Zarba),Foul,Offensive Charge,0,0,0,0,,,h
+S2324-G0388,4,11:34,NYK,,MIL,,I. Quickley,NYK,Quickley Offensive Foul Turnover (P1.T8),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0388,4,09:09,NYK,,MIL,,I. Quickley,NYK,Quickley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0388,4,09:03,NYK,,MIL,,I. Quickley,NYK,MISS Quickley 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,40,251,25,1,3.0,0.0,h
+S2324-G0388,4,07:55,NYK,,MIL,,I. Quickley,NYK,MISS Quickley 25' 3PT Jump Shot,Missed Shot,Jump Shot,136,215,25,1,3.0,0.0,h
+S2324-G0388,4,05:05,NYK,,MIL,,I. Quickley,NYK,Quickley REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0388,4,04:55,NYK,,MIL,,I. Quickley,NYK,SUB: Barrett FOR Quickley,Substitution,,0,0,0,0,,,h
+S2324-G0193,1,02:22,ATL,,NYK,,I. Quickley,NYK,MISS Quickley 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-97,5,10,1,2.0,0.0,v
+S2324-G0193,2,10:37,ATL,26.0,NYK,37.0,I. Quickley,NYK,Quickley 18' Jump Shot (2 PTS) (DiVincenzo 2 AST),Made Shot,Jump Shot,184,0,18,1,2.0,2.0,v
+S2324-G0193,2,09:17,ATL,,NYK,,I. Quickley,NYK,MISS Quickley 24' 3PT Jump Shot,Missed Shot,Jump Shot,234,50,24,1,3.0,0.0,v
+S2324-G0193,2,07:28,ATL,38.0,NYK,47.0,I. Quickley,NYK,Quickley 26' 3PT Running Jump Shot (5 PTS) (DiVincenzo 3 AST),Made Shot,Running Jump Shot,186,178,26,1,3.0,3.0,v
+S2324-G0193,2,04:43,ATL,47.0,NYK,51.0,I. Quickley,NYK,Quickley 11' Turnaround Fadeaway (7 PTS),Made Shot,Turnaround Fadeaway shot,4,114,11,1,2.0,2.0,v
+S2324-G0193,2,03:27,ATL,,NYK,,I. Quickley,NYK,Quickley Lost Ball Turnover (P1.T5),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0193,2,03:07,ATL,,NYK,,I. Quickley,NYK,MISS Quickley 3PT Jump Shot,Missed Shot,Jump Shot,-225,36,0,1,3.0,0.0,v
+S2324-G0193,2,02:40,ATL,,NYK,,I. Quickley,NYK,SUB: DiVincenzo FOR Quickley,Substitution,,0,0,0,0,,,v
+S2324-G0193,3,04:41,ATL,,NYK,,I. Quickley,NYK,Quickley S.FOUL (P1.T2) (S.Foster),Foul,Shooting,0,0,0,0,,,v
+S2324-G0193,3,03:03,ATL,,NYK,,I. Quickley,NYK,Quickley STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0193,3,01:33,ATL,,NYK,,I. Quickley,NYK,Quickley P.FOUL (P2.T4) (J.Orr),Foul,Personal,0,0,0,0,,,v
+S2324-G0193,3,00:07.500000,ATL,81.0,NYK,87.0,I. Quickley,NYK,Quickley 32' 3PT Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,-6,323,32,1,3.0,3.0,v
+S2324-G0193,4,10:50,ATL,,NYK,,I. Quickley,NYK,MISS Quickley 1' Driving Layup,Missed Shot,Driving Layup Shot,-6,1,1,1,2.0,0.0,v
+S2324-G0193,4,08:38,ATL,,NYK,,I. Quickley,NYK,Quickley Discontinue Dribble Turnover (P2.T15),Turnover,Discontinue Dribble,0,0,0,0,,,v
+S2324-G0193,4,08:32,ATL,,NYK,,I. Quickley,NYK,SUB: Robinson FOR Quickley,Substitution,,0,0,0,0,,,v
+S2324-G0193,4,06:00,ATL,,NYK,,I. Quickley,NYK,MISS Quickley 21' Jump Shot,Missed Shot,Jump Shot,-186,88,21,1,2.0,0.0,v
+S2324-G0193,4,05:07,ATL,101.0,NYK,97.0,I. Quickley,NYK,Quickley 26' 3PT Jump Shot (13 PTS) (Randle 6 AST),Made Shot,Jump Shot,4,256,26,1,3.0,3.0,v
+S2324-G0193,4,04:33,ATL,101.0,NYK,99.0,I. Quickley,NYK,Quickley 8' Driving Floating Bank Jump Shot (15 PTS) (Randle 7 AST),Made Shot,Driving Floating Bank Jump Shot,-13,83,8,1,2.0,2.0,v
+S2324-G0193,4,03:17,ATL,,NYK,,I. Quickley,NYK,MISS Quickley Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0193,4,03:17,ATL,103.0,NYK,103.0,I. Quickley,NYK,Quickley Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0193,4,02:38,ATL,105.0,NYK,104.0,I. Quickley,NYK,Quickley Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0193,4,02:38,ATL,105.0,NYK,105.0,I. Quickley,NYK,Quickley Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0193,4,01:13,ATL,,NYK,,I. Quickley,NYK,Quickley S.FOUL (P3.PN) (D.Scott),Foul,Shooting,0,0,0,0,,,v
+S2324-G0193,4,00:08.900000,ATL,113.0,NYK,115.0,I. Quickley,NYK,Quickley Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0193,4,00:08.900000,ATL,113.0,NYK,116.0,I. Quickley,NYK,Quickley Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0202,1,02:04,CHA,,NYK,,I. Quickley,NYK,MISS Quickley 26' 3PT Jump Shot,Missed Shot,Jump Shot,-162,201,26,1,3.0,0.0,v
+S2324-G0202,1,01:16,CHA,,NYK,,I. Quickley,NYK,MISS Quickley 16' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-33,158,16,1,2.0,0.0,v
+S2324-G0202,1,00:50.300000,CHA,19.0,NYK,30.0,I. Quickley,NYK,Quickley Free Throw Technical (1 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,v
+S2324-G0202,2,11:35,CHA,,NYK,,I. Quickley,NYK,MISS Quickley 3PT Jump Shot,Missed Shot,Jump Shot,-222,-8,0,1,3.0,0.0,v
+S2324-G0202,2,10:59,CHA,,NYK,,I. Quickley,NYK,Quickley S.FOUL (P1.T1) (B.Schwab),Foul,Shooting,0,0,0,0,,,v
+S2324-G0202,2,08:46,CHA,23.0,NYK,37.0,I. Quickley,NYK,Quickley 1' Driving Finger Roll Layup (3 PTS),Made Shot,Driving Finger Roll Layup Shot,-10,11,1,1,2.0,2.0,v
+S2324-G0202,2,05:21,CHA,35.0,NYK,49.0,I. Quickley,NYK,Quickley 7' Floating Jump Shot (5 PTS) (Robinson 1 AST),Made Shot,Floating Jump shot,-70,1,7,1,2.0,2.0,v
+S2324-G0202,2,04:13,CHA,,NYK,,I. Quickley,NYK,Quickley S.FOUL (P2.PN) (K.Lane),Foul,Shooting,0,0,0,0,,,v
+S2324-G0202,2,03:53,CHA,,NYK,,I. Quickley,NYK,Quickley Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0202,2,03:41,CHA,,NYK,,I. Quickley,NYK,Quickley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0202,2,03:35,CHA,,NYK,,I. Quickley,NYK,MISS Quickley 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,51,87,10,1,2.0,0.0,v
+S2324-G0202,2,03:21,CHA,,NYK,,I. Quickley,NYK,SUB: Hart FOR Quickley,Substitution,,0,0,0,0,,,v
+S2324-G0202,3,03:04,CHA,,NYK,,I. Quickley,NYK,MISS Quickley 25' 3PT Jump Shot,Missed Shot,Jump Shot,-218,118,25,1,3.0,0.0,v
+S2324-G0202,3,01:27,CHA,,NYK,,I. Quickley,NYK,Quickley REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0202,3,01:14,CHA,77.0,NYK,89.0,I. Quickley,NYK,Quickley 16' Floating Jump Shot (7 PTS) (Hart 2 AST),Made Shot,Floating Jump shot,-107,117,16,1,2.0,2.0,v
+S2324-G0202,3,00:34.100000,CHA,,NYK,,I. Quickley,NYK,MISS Quickley 25' 3PT Jump Shot,Missed Shot,Jump Shot,243,38,25,1,3.0,0.0,v
+S2324-G0202,4,11:14,CHA,,NYK,,I. Quickley,NYK,Quickley REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0202,4,09:25,CHA,88.0,NYK,96.0,I. Quickley,NYK,Quickley 3' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,7,25,3,1,2.0,2.0,v
+S2324-G0202,4,08:46,CHA,,NYK,,I. Quickley,NYK,Quickley P.FOUL (P3.T1) (B.Barnaky),Foul,Personal,0,0,0,0,,,v
+S2324-G0202,4,08:16,CHA,,NYK,,I. Quickley,NYK,Quickley REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0202,4,06:12,CHA,,NYK,,I. Quickley,NYK,MISS Quickley 25' 3PT Jump Shot,Missed Shot,Jump Shot,243,33,25,1,3.0,0.0,v
+S2324-G0202,4,05:46,CHA,,NYK,,I. Quickley,NYK,SUB: DiVincenzo FOR Quickley,Substitution,,0,0,0,0,,,v
+S2324-G0419,1,04:22,OKC,,NYK,,I. Quickley,NYK,MISS Quickley 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,27,49,6,1,2.0,0.0,v
+S2324-G0419,1,03:16,OKC,28.0,NYK,19.0,I. Quickley,NYK,Quickley Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0419,1,03:16,OKC,28.0,NYK,20.0,I. Quickley,NYK,Quickley Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0419,1,02:41,OKC,,NYK,,I. Quickley,NYK,MISS Quickley 26' 3PT Jump Shot,Missed Shot,Jump Shot,141,220,26,1,3.0,0.0,v
+S2324-G0419,2,10:59,OKC,,NYK,,I. Quickley,NYK,MISS Quickley 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,32,11,3,1,2.0,0.0,v
+S2324-G0419,2,09:04,OKC,,NYK,,I. Quickley,NYK,Quickley Lost Ball Turnover (P1.T7),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0419,2,08:20,OKC,46.0,NYK,34.0,I. Quickley,NYK,Quickley 5' Driving Floating Jump Shot (4 PTS) (Hart 2 AST),Made Shot,Driving Floating Jump Shot,32,36,5,1,2.0,2.0,v
+S2324-G0419,2,07:40,OKC,48.0,NYK,37.0,I. Quickley,NYK,Quickley 27' 3PT Jump Shot (7 PTS) (Grimes 1 AST),Made Shot,Jump Shot,-2,273,27,1,3.0,3.0,v
+S2324-G0419,2,05:36,OKC,50.0,NYK,45.0,I. Quickley,NYK,Quickley 26' 3PT Jump Shot (10 PTS) (Hart 3 AST),Made Shot,Jump Shot,-205,152,26,1,3.0,3.0,v
+S2324-G0419,2,04:48,OKC,,NYK,,I. Quickley,NYK,SUB: Randle FOR Quickley,Substitution,,0,0,0,0,,,v
+S2324-G0419,3,01:08,OKC,91.0,NYK,89.0,I. Quickley,NYK,Quickley 27' 3PT Jump Shot (13 PTS) (Brunson 5 AST),Made Shot,Jump Shot,147,224,27,1,3.0,3.0,v
+S2324-G0419,4,11:21,OKC,95.0,NYK,91.0,I. Quickley,NYK,Quickley 6' Driving Floating Jump Shot (15 PTS) (Barrett 4 AST),Made Shot,Driving Floating Jump Shot,-58,8,6,1,2.0,2.0,v
+S2324-G0419,4,08:54,OKC,100.0,NYK,95.0,I. Quickley,NYK,Quickley Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0419,4,08:54,OKC,100.0,NYK,96.0,I. Quickley,NYK,Quickley Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0419,4,06:55,OKC,106.0,NYK,100.0,I. Quickley,NYK,Quickley 26' 3PT Pullup Jump Shot (20 PTS) (Hart 6 AST),Made Shot,Pullup Jump shot,189,182,26,1,3.0,3.0,v
+S2324-G0419,4,05:28,OKC,110.0,NYK,104.0,I. Quickley,NYK,Quickley 17' Driving Floating Jump Shot (22 PTS) (Randle 1 AST),Made Shot,Driving Floating Jump Shot,169,30,17,1,2.0,2.0,v
+S2324-G0419,4,04:00,OKC,,NYK,,I. Quickley,NYK,SUB: Barrett FOR Quickley,Substitution,,0,0,0,0,,,v
+S2324-G0065,1,03:39,NYK,13.0,BOS,19.0,I. Quickley,NYK,Quickley 16' Pullup Jump Shot (2 PTS) (Brunson 3 AST),Made Shot,Pullup Jump shot,-77,139,16,1,2.0,2.0,h
+S2324-G0065,1,01:00,NYK,,BOS,,I. Quickley,NYK,Quickley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0065,2,11:46,NYK,21.0,BOS,30.0,I. Quickley,NYK,Quickley 27' 3PT Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,-67,259,27,1,3.0,3.0,h
+S2324-G0065,2,10:16,NYK,,BOS,,I. Quickley,NYK,Quickley REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0065,2,08:42,NYK,,BOS,,I. Quickley,NYK,MISS Quickley 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-77,263,27,1,3.0,0.0,h
+S2324-G0065,2,08:14,NYK,27.0,BOS,37.0,I. Quickley,NYK,Quickley Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0065,2,08:14,NYK,28.0,BOS,37.0,I. Quickley,NYK,Quickley Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0065,2,07:22,NYK,,BOS,,I. Quickley,NYK,Quickley OFF.Foul (P1) (B.Taylor),Foul,Offensive,0,0,0,0,,,h
+S2324-G0065,2,07:22,NYK,,BOS,,I. Quickley,NYK,Quickley Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0065,2,06:42,NYK,31.0,BOS,40.0,I. Quickley,NYK,Quickley 25' 3PT Jump Shot (10 PTS) (Robinson 1 AST),Made Shot,Jump Shot,114,226,25,1,3.0,3.0,h
+S2324-G0065,2,05:50,NYK,,BOS,,I. Quickley,NYK,Quickley REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0065,2,05:02,NYK,,BOS,,I. Quickley,NYK,SUB: Grimes FOR Quickley,Substitution,,0,0,0,0,,,h
+S2324-G0065,3,02:53,NYK,,BOS,,I. Quickley,NYK,Quickley REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0065,3,02:52,NYK,67.0,BOS,73.0,I. Quickley,NYK,Quickley Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0065,3,02:52,NYK,68.0,BOS,73.0,I. Quickley,NYK,Quickley Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0065,3,02:22,NYK,,BOS,,I. Quickley,NYK,MISS Quickley 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-5,43,4,1,2.0,0.0,h
+S2324-G0065,3,01:37,NYK,,BOS,,I. Quickley,NYK,Quickley Bad Pass Turnover (P2.T10),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0065,3,00:49.100000,NYK,72.0,BOS,78.0,I. Quickley,NYK,Quickley 25' 3PT Pullup Jump Shot (15 PTS),Made Shot,Pullup Jump shot,55,246,25,1,3.0,3.0,h
+S2324-G0065,3,00:12.800000,NYK,,BOS,,I. Quickley,NYK,MISS Quickley Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0065,3,00:12.800000,NYK,73.0,BOS,80.0,I. Quickley,NYK,Quickley Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0065,4,11:06,NYK,,BOS,,I. Quickley,NYK,Quickley REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0065,4,09:51,NYK,83.0,BOS,84.0,I. Quickley,NYK,Quickley 25' 3PT Pullup Jump Shot (19 PTS),Made Shot,Pullup Jump shot,21,248,25,1,3.0,3.0,h
+S2324-G0065,4,06:40,NYK,,BOS,,I. Quickley,NYK,Quickley S.FOUL (P2.T1) (B.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2324-G0065,4,06:19,NYK,,BOS,,I. Quickley,NYK,MISS Quickley 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,118,152,19,1,2.0,0.0,h
+S2324-G0065,4,06:12,NYK,90.0,BOS,88.0,I. Quickley,NYK,Quickley 13' Driving Floating Bank Jump Shot (21 PTS) (Randle 7 AST),Made Shot,Driving Floating Bank Jump Shot,109,64,13,1,2.0,2.0,h
+S2324-G0065,4,05:28,NYK,93.0,BOS,91.0,I. Quickley,NYK,Quickley 25' 3PT Step Back Jump Shot (24 PTS),Made Shot,Step Back Jump shot,115,220,25,1,3.0,3.0,h
+S2324-G0065,4,04:29,NYK,,BOS,,I. Quickley,NYK,Quickley STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0065,4,03:56,NYK,,BOS,,I. Quickley,NYK,Quickley S.FOUL (P3.T4) (B.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2324-G0065,4,00:20.500000,NYK,,BOS,,I. Quickley,NYK,MISS Quickley 3PT Jump Shot,Missed Shot,Jump Shot,228,11,0,1,3.0,0.0,h
+S2324-G0065,4,00:01.500000,NYK,,BOS,,I. Quickley,NYK,Quickley REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0120,1,01:53,NYK,,CLE,,I. Quickley,NYK,Quickley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0120,1,01:43,NYK,,CLE,,I. Quickley,NYK,MISS Quickley Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0120,1,01:43,NYK,15.0,CLE,15.0,I. Quickley,NYK,Quickley Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0120,2,08:38,NYK,,CLE,,I. Quickley,NYK,MISS Quickley 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-40,248,25,1,3.0,0.0,h
+S2324-G0120,2,07:33,NYK,35.0,CLE,33.0,I. Quickley,NYK,Quickley 7' Driving Floating Jump Shot (3 PTS),Made Shot,Driving Floating Jump Shot,53,44,7,1,2.0,2.0,h
+S2324-G0120,2,07:11,NYK,,CLE,,I. Quickley,NYK,Quickley REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0120,2,07:04,NYK,,CLE,,I. Quickley,NYK,MISS Quickley 3' Driving Layup,Missed Shot,Driving Layup Shot,1,33,3,1,2.0,0.0,h
+S2324-G0120,2,06:13,NYK,39.0,CLE,36.0,I. Quickley,NYK,Quickley Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0120,2,06:13,NYK,,CLE,,I. Quickley,NYK,MISS Quickley Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0120,2,05:39,NYK,,CLE,,I. Quickley,NYK,SUB: Grimes FOR Quickley,Substitution,,0,0,0,0,,,h
+S2324-G0120,3,04:51,NYK,,CLE,,I. Quickley,NYK,Quickley STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0120,3,04:50,NYK,,CLE,,I. Quickley,NYK,MISS Quickley 1' Running Layup,Missed Shot,Running Layup Shot,-10,4,1,1,2.0,0.0,h
+S2324-G0120,3,04:09,NYK,57.0,CLE,62.0,I. Quickley,NYK,Quickley 5' Driving Floating Jump Shot (6 PTS) (Randle 4 AST),Made Shot,Driving Floating Jump Shot,-37,32,5,1,2.0,2.0,h
+S2324-G0120,3,03:25,NYK,,CLE,,I. Quickley,NYK,Quickley REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0120,3,03:17,NYK,,CLE,,I. Quickley,NYK,MISS Quickley 12' Step Back Jump Shot,Missed Shot,Step Back Jump shot,121,13,12,1,2.0,0.0,h
+S2324-G0120,3,02:58,NYK,59.0,CLE,62.0,I. Quickley,NYK,Quickley 11' Step Back Jump Shot (8 PTS),Made Shot,Step Back Jump shot,-91,57,11,1,2.0,2.0,h
+S2324-G0120,3,01:19,NYK,61.0,CLE,66.0,I. Quickley,NYK,Quickley 1' Driving Layup (10 PTS) (Hartenstein 2 AST),Made Shot,Driving Layup Shot,9,8,1,1,2.0,2.0,h
+S2324-G0120,3,00:37.600000,NYK,63.0,CLE,69.0,I. Quickley,NYK,Quickley 22' Jump Shot (12 PTS) (Hart 3 AST),Made Shot,Jump Shot,-214,55,22,1,2.0,2.0,h
+S2324-G0120,3,00:04.600000,NYK,,CLE,,I. Quickley,NYK,MISS Quickley 2' Driving Layup,Missed Shot,Driving Layup Shot,16,-1,2,1,2.0,0.0,h
+S2324-G0120,4,10:03,NYK,68.0,CLE,74.0,I. Quickley,NYK,Quickley 5' Jump Bank Shot (14 PTS),Made Shot,Jump Bank Shot,37,40,5,1,2.0,2.0,h
+S2324-G0120,4,07:11,NYK,,CLE,,I. Quickley,NYK,MISS Quickley 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-235,-8,24,1,3.0,0.0,h
+S2324-G0120,4,06:44,NYK,,CLE,,I. Quickley,NYK,Quickley REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0120,4,06:27,NYK,71.0,CLE,79.0,I. Quickley,NYK,Quickley Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0120,4,06:27,NYK,72.0,CLE,79.0,I. Quickley,NYK,Quickley Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0120,4,05:48,NYK,74.0,CLE,79.0,I. Quickley,NYK,Quickley 8' Driving Floating Bank Jump Shot (18 PTS),Made Shot,Driving Floating Bank Jump Shot,47,64,8,1,2.0,2.0,h
+S2324-G0120,4,05:01,NYK,,CLE,,I. Quickley,NYK,Quickley REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0120,4,04:45,NYK,,CLE,,I. Quickley,NYK,MISS Quickley 29' 3PT Jump Shot,Missed Shot,Jump Shot,148,255,29,1,3.0,0.0,h
+S2324-G0120,4,01:48,NYK,,CLE,,I. Quickley,NYK,Quickley REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0120,4,01:45,NYK,,CLE,,I. Quickley,NYK,MISS Quickley 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,22,75,8,1,2.0,0.0,h
+S2324-G0120,4,01:13,NYK,,CLE,,I. Quickley,NYK,MISS Quickley 1' Running Layup,Missed Shot,Running Layup Shot,-10,0,1,1,2.0,0.0,h
+S2324-G0177,1,03:49,NYK,,CHA,,I. Quickley,NYK,Quickley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0177,1,02:25,NYK,,CHA,,I. Quickley,NYK,MISS Quickley 9' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,75,51,9,1,2.0,0.0,h
+S2324-G0177,1,01:04,NYK,27.0,CHA,25.0,I. Quickley,NYK,Quickley 11' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,37,103,11,1,2.0,2.0,h
+S2324-G0177,1,00:00.700000,NYK,32.0,CHA,25.0,I. Quickley,NYK,Quickley 26' 3PT Step Back Jump Shot (5 PTS) (Barrett 2 AST),Made Shot,Step Back Jump shot,-96,239,26,1,3.0,3.0,h
+S2324-G0177,2,11:09,NYK,33.0,CHA,29.0,I. Quickley,NYK,Quickley Free Throw Technical (6 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,h
+S2324-G0177,2,10:04,NYK,,CHA,,I. Quickley,NYK,MISS Quickley 25' 3PT Jump Shot,Missed Shot,Jump Shot,154,201,25,1,3.0,0.0,h
+S2324-G0177,2,07:24,NYK,48.0,CHA,39.0,I. Quickley,NYK,Quickley 26' 3PT Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,48,257,26,1,3.0,3.0,h
+S2324-G0177,2,06:50,NYK,,CHA,,I. Quickley,NYK,Quickley REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0177,2,05:43,NYK,52.0,CHA,41.0,I. Quickley,NYK,Quickley 3PT Running Jump Shot (12 PTS) (Randle 2 AST),Made Shot,Running Jump Shot,-234,17,0,1,3.0,3.0,h
+S2324-G0177,2,04:26,NYK,,CHA,,I. Quickley,NYK,SUB: Barrett FOR Quickley,Substitution,,0,0,0,0,,,h
+S2324-G0177,3,03:40,NYK,,CHA,,I. Quickley,NYK,MISS Quickley 6' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-4,63,6,1,2.0,0.0,h
+S2324-G0177,3,02:17,NYK,,CHA,,I. Quickley,NYK,Quickley REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0177,4,11:47,NYK,,CHA,,I. Quickley,NYK,MISS Quickley 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,48,24,1,3.0,0.0,h
+S2324-G0177,4,08:42,NYK,,CHA,,I. Quickley,NYK,Quickley P.FOUL (P1.T2) (B.Adair),Foul,Personal,0,0,0,0,,,h
+S2324-G0177,4,08:14,NYK,112.0,CHA,86.0,I. Quickley,NYK,Quickley 26' 3PT Pullup Jump Shot (15 PTS),Made Shot,Pullup Jump shot,-167,194,26,1,3.0,3.0,h
+S2324-G0177,4,08:14,NYK,113.0,CHA,86.0,I. Quickley,NYK,Quickley Free Throw 1 of 1 (16 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G0177,4,06:45,NYK,,CHA,,I. Quickley,NYK,Quickley REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0177,4,05:21,NYK,,CHA,,I. Quickley,NYK,Quickley Out of Bounds - Bad Pass Turnover Turnover (P1.T9),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G0177,4,05:21,NYK,117.0,CHA,93.0,I. Quickley,NYK,Quickley Free Throw Technical (17 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,h
+S2324-G0177,4,03:45,NYK,,CHA,,I. Quickley,NYK,Quickley REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0177,4,03:18,NYK,,CHA,,I. Quickley,NYK,SUB: Jeffries FOR Quickley,Substitution,,0,0,0,0,,,h
+S2324-G0161,1,04:33,NYK,,SAS,,I. Quickley,NYK,MISS Quickley 24' 3PT Jump Shot,Missed Shot,Jump Shot,-237,10,24,1,3.0,0.0,h
+S2324-G0161,1,01:20,NYK,31.0,SAS,14.0,I. Quickley,NYK,Quickley 17' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,100,132,17,1,2.0,2.0,h
+S2324-G0161,1,00:48.100000,NYK,,SAS,,I. Quickley,NYK,MISS Quickley 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,225,29,0,1,3.0,0.0,h
+S2324-G0161,2,10:02,NYK,40.0,SAS,21.0,I. Quickley,NYK,Quickley 6' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,-7,57,6,1,2.0,2.0,h
+S2324-G0161,2,08:56,NYK,42.0,SAS,21.0,I. Quickley,NYK,Quickley 1' Driving Layup (6 PTS) (DiVincenzo 1 AST),Made Shot,Driving Layup Shot,2,7,1,1,2.0,2.0,h
+S2324-G0161,2,07:00,NYK,,SAS,,I. Quickley,NYK,MISS Quickley 6' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-62,6,6,1,2.0,0.0,h
+S2324-G0161,2,05:33,NYK,47.0,SAS,31.0,I. Quickley,NYK,Quickley 8' Driving Floating Jump Shot (8 PTS),Made Shot,Driving Floating Jump Shot,-33,69,8,1,2.0,2.0,h
+S2324-G0161,2,05:14,NYK,50.0,SAS,31.0,I. Quickley,NYK,Quickley 3PT Jump Shot (11 PTS) (Brunson 4 AST),Made Shot,Jump Shot,228,18,0,1,3.0,3.0,h
+S2324-G0161,2,04:37,NYK,52.0,SAS,33.0,I. Quickley,NYK,Quickley 2' Driving Layup (13 PTS) (Robinson 1 AST),Made Shot,Driving Layup Shot,-16,4,2,1,2.0,2.0,h
+S2324-G0161,2,04:07,NYK,,SAS,,I. Quickley,NYK,MISS Quickley 1' Driving Layup,Missed Shot,Driving Layup Shot,0,-8,1,1,2.0,0.0,h
+S2324-G0161,2,03:07,NYK,,SAS,,I. Quickley,NYK,SUB: Randle FOR Quickley,Substitution,,0,0,0,0,,,h
+S2324-G0161,3,00:39.800000,NYK,,SAS,,I. Quickley,NYK,Quickley STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0161,3,00:05.200000,NYK,,SAS,,I. Quickley,NYK,MISS Quickley 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,113,68,13,1,2.0,0.0,h
+S2324-G0161,4,09:03,NYK,106.0,SAS,84.0,I. Quickley,NYK,Quickley 25' 3PT Jump Shot (16 PTS) (Barrett 5 AST),Made Shot,Jump Shot,-86,236,25,1,3.0,3.0,h
+S2324-G0161,4,07:17,NYK,,SAS,,I. Quickley,NYK,MISS Quickley 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-150,200,25,1,3.0,0.0,h
+S2324-G0161,4,06:47,NYK,,SAS,,I. Quickley,NYK,MISS Quickley 3PT Jump Shot,Missed Shot,Jump Shot,-225,27,0,1,3.0,0.0,h
+S2324-G0161,4,05:00,NYK,,SAS,,I. Quickley,NYK,Quickley P.FOUL (P1.T4) (J.Schroeder),Foul,Personal,0,0,0,0,,,h
+S2324-G0161,4,03:09,NYK,,SAS,,I. Quickley,NYK,MISS Quickley 3PT Jump Shot,Missed Shot,Jump Shot,225,26,0,1,3.0,0.0,h
+S2324-G0161,4,02:20,NYK,123.0,SAS,101.0,I. Quickley,NYK,Quickley 25' 3PT Step Back Jump Shot (19 PTS),Made Shot,Step Back Jump shot,143,201,25,1,3.0,3.0,h
+S2324-G0161,4,01:55,NYK,,SAS,,I. Quickley,NYK,MISS Quickley 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,186,188,26,1,3.0,0.0,h
+S2324-G0161,4,01:32,NYK,,SAS,,I. Quickley,NYK,SUB: Jeffries FOR Quickley,Substitution,,0,0,0,0,,,h
+S2324-G0268,1,02:58,NYK,,DET,,I. Quickley,NYK,MISS Quickley 3PT Jump Shot,Missed Shot,Jump Shot,-228,41,0,1,3.0,0.0,h
+S2324-G0268,1,00:50.600000,NYK,30.0,DET,17.0,I. Quickley,NYK,Quickley 28' 3PT Jump Shot (3 PTS) (Randle 3 AST),Made Shot,Jump Shot,143,240,28,1,3.0,3.0,h
+S2324-G0268,2,11:24,NYK,,DET,,I. Quickley,NYK,MISS Quickley 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-32,82,9,1,2.0,0.0,h
+S2324-G0268,2,09:38,NYK,,DET,,I. Quickley,NYK,MISS Quickley 2' Driving Layup,Missed Shot,Driving Layup Shot,12,21,2,1,2.0,0.0,h
+S2324-G0268,2,09:15,NYK,,DET,,I. Quickley,NYK,Quickley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0268,2,09:01,NYK,,DET,,I. Quickley,NYK,MISS Quickley 25' 3PT Jump Shot,Missed Shot,Jump Shot,-104,230,25,1,3.0,0.0,h
+S2324-G0268,2,08:33,NYK,,DET,,I. Quickley,NYK,Quickley Out of Bounds Lost Ball Turnover (P1.T6),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2324-G0268,2,06:45,NYK,,DET,,I. Quickley,NYK,SUB: Randle FOR Quickley,Substitution,,0,0,0,0,,,h
+S2324-G0268,3,04:47,NYK,,DET,,I. Quickley,NYK,MISS Quickley 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,22,58,6,1,2.0,0.0,h
+S2324-G0268,3,02:38,NYK,,DET,,I. Quickley,NYK,MISS Quickley 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,-6,24,1,3.0,0.0,h
+S2324-G0268,4,11:43,NYK,87.0,DET,87.0,I. Quickley,NYK,Quickley 5' Driving Floating Jump Shot (5 PTS),Made Shot,Driving Floating Jump Shot,-17,49,5,1,2.0,2.0,h
+S2324-G0268,4,10:30,NYK,,DET,,I. Quickley,NYK,MISS Quickley 11' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-37,102,11,1,2.0,0.0,h
+S2324-G0268,4,10:02,NYK,,DET,,I. Quickley,NYK,MISS Quickley 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,123,211,24,1,3.0,0.0,h
+S2324-G0268,4,08:12,NYK,,DET,,I. Quickley,NYK,SUB: Brunson FOR Quickley,Substitution,,0,0,0,0,,,h
+S2324-G0045,1,03:21,NYK,20.0,MIA,21.0,I. Quickley,NYK,Quickley 6' Floating Jump Shot (2 PTS) (Randle 3 AST),Made Shot,Floating Jump shot,2,63,6,1,2.0,2.0,h
+S2324-G0045,1,00:06.700000,NYK,25.0,MIA,28.0,I. Quickley,NYK,Quickley 14' Turnaround Jump Shot (4 PTS),Made Shot,Turnaround Jump Shot,-75,120,14,1,2.0,2.0,h
+S2324-G0045,2,11:38,NYK,27.0,MIA,28.0,I. Quickley,NYK,Quickley 12' Driving Floating Jump Shot (6 PTS),Made Shot,Driving Floating Jump Shot,1,117,12,1,2.0,2.0,h
+S2324-G0045,2,10:41,NYK,,MIA,,I. Quickley,NYK,MISS Quickley 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-33,84,9,1,2.0,0.0,h
+S2324-G0045,2,10:16,NYK,,MIA,,I. Quickley,NYK,MISS Quickley 25' 3PT Jump Shot,Missed Shot,Jump Shot,114,220,25,1,3.0,0.0,h
+S2324-G0045,2,10:05,NYK,,MIA,,I. Quickley,NYK,Quickley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0045,2,07:56,NYK,,MIA,,I. Quickley,NYK,KNICKS T.Foul (Def. 3 Sec Quickley ) (T.Washington),Foul,Defense 3 Second,0,0,0,0,,,h
+S2324-G0045,2,07:44,NYK,,MIA,,I. Quickley,NYK,Quickley REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0045,2,07:33,NYK,,MIA,,I. Quickley,NYK,MISS Quickley 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-17,62,6,1,2.0,0.0,h
+S2324-G0045,2,07:13,NYK,,MIA,,I. Quickley,NYK,SUB: Randle FOR Quickley,Substitution,,0,0,0,0,,,h
+S2324-G0045,3,03:19,NYK,65.0,MIA,83.0,I. Quickley,NYK,Quickley 26' 3PT Running Pull-Up Jump Shot (9 PTS) (Hart 2 AST),Made Shot,Running Pull-Up Jump Shot,124,229,26,1,3.0,3.0,h
+S2324-G0045,3,02:54,NYK,,MIA,,I. Quickley,NYK,MISS Quickley 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,145,203,25,1,3.0,0.0,h
+S2324-G0045,3,02:47,NYK,,MIA,,I. Quickley,NYK,Quickley P.FOUL (P1.PN) (B.Barnaky),Foul,Personal,0,0,0,0,,,h
+S2324-G0045,3,02:02,NYK,,MIA,,I. Quickley,NYK,Quickley REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0045,3,01:09,NYK,71.0,MIA,85.0,I. Quickley,NYK,Quickley 26' 3PT Step Back Jump Shot (12 PTS) (Randle 7 AST),Made Shot,Step Back Jump shot,71,248,26,1,3.0,3.0,h
+S2324-G0045,3,00:37.100000,NYK,,MIA,,I. Quickley,NYK,MISS Quickley 25' 3PT Jump Shot,Missed Shot,Jump Shot,114,225,25,1,3.0,0.0,h
+S2324-G0045,3,00:00.100000,NYK,,MIA,,I. Quickley,NYK,Quickley Out of Bounds - Bad Pass Turnover Turnover (P1.T15),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G0045,4,10:21,NYK,,MIA,,I. Quickley,NYK,MISS Quickley 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,132,24,13,1,2.0,0.0,h
+S2324-G0045,4,10:02,NYK,74.0,MIA,89.0,I. Quickley,NYK,Quickley 26' 3PT Jump Shot (15 PTS) (DiVincenzo 1 AST),Made Shot,Jump Shot,112,232,26,1,3.0,3.0,h
+S2324-G0045,4,08:43,NYK,79.0,MIA,89.0,I. Quickley,NYK,Quickley 14' Driving Floating Bank Jump Shot (17 PTS),Made Shot,Driving Floating Bank Jump Shot,18,136,14,1,2.0,2.0,h
+S2324-G0045,4,07:37,NYK,,MIA,,I. Quickley,NYK,Quickley BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0045,4,07:23,NYK,,MIA,,I. Quickley,NYK,Quickley Lost Ball Turnover (P2.T19),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0045,4,06:13,NYK,,MIA,,I. Quickley,NYK,MISS Quickley 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,50,95,11,1,2.0,0.0,h
+S2324-G0045,4,05:42,NYK,,MIA,,I. Quickley,NYK,MISS Quickley 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-58,250,26,1,3.0,0.0,h
+S2324-G0045,4,05:12,NYK,87.0,MIA,93.0,I. Quickley,NYK,Quickley 3PT Jump Shot (20 PTS) (Brunson 3 AST),Made Shot,Jump Shot,230,46,0,1,3.0,3.0,h
+S2324-G0045,4,04:01,NYK,,MIA,,I. Quickley,NYK,MISS Quickley 9' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-71,59,9,1,2.0,0.0,h
+S2324-G0045,4,03:02,NYK,,MIA,,I. Quickley,NYK,Quickley REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0045,4,00:15.100000,NYK,,MIA,,I. Quickley,NYK,SUB: Robinson FOR Quickley,Substitution,,0,0,0,0,,,h
+S2324-G0028,1,05:33,WAS,12.0,NYK,23.0,I. Quickley,NYK,Quickley 24' 3PT Jump Shot (3 PTS) (Randle 3 AST),Made Shot,Jump Shot,221,92,24,1,3.0,3.0,v
+S2324-G0028,1,04:34,WAS,,NYK,,I. Quickley,NYK,MISS Quickley 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-237,-7,24,1,3.0,0.0,v
+S2324-G0028,1,04:00,WAS,,NYK,,I. Quickley,NYK,Quickley S.FOUL (P1.T3) (N.Buchert),Foul,Shooting,0,0,0,0,,,v
+S2324-G0028,1,01:59,WAS,,NYK,,I. Quickley,NYK,MISS Quickley 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,143,253,29,1,3.0,0.0,v
+S2324-G0028,1,00:00.100000,WAS,,NYK,,I. Quickley,NYK,Quickley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0028,2,10:13,WAS,,NYK,,I. Quickley,NYK,Quickley STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0028,2,09:26,WAS,,NYK,,I. Quickley,NYK,Quickley REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0028,2,08:33,WAS,29.0,NYK,43.0,I. Quickley,NYK,Quickley 8' Driving Floating Jump Shot (5 PTS),Made Shot,Driving Floating Jump Shot,61,51,8,1,2.0,2.0,v
+S2324-G0028,2,08:11,WAS,,NYK,,I. Quickley,NYK,MISS Quickley 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,69,114,13,1,2.0,0.0,v
+S2324-G0028,2,07:05,WAS,34.0,NYK,46.0,I. Quickley,NYK,Quickley Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0028,2,07:05,WAS,34.0,NYK,47.0,I. Quickley,NYK,Quickley Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0028,2,06:25,WAS,,NYK,,I. Quickley,NYK,Quickley REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0028,2,06:23,WAS,,NYK,,I. Quickley,NYK,MISS Quickley 4' Running Layup,Missed Shot,Running Layup Shot,2,41,4,1,2.0,0.0,v
+S2324-G0028,2,04:35,WAS,37.0,NYK,57.0,I. Quickley,NYK,Quickley 8' Floating Jump Shot (9 PTS) (Brunson 3 AST),Made Shot,Floating Jump shot,7,84,8,1,2.0,2.0,v
+S2324-G0028,2,02:17,WAS,,NYK,,I. Quickley,NYK,Quickley Lost Ball Turnover (P1.T5),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0028,2,00:19.900000,WAS,,NYK,,I. Quickley,NYK,Quickley REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0028,2,00:00.300000,WAS,,NYK,,I. Quickley,NYK,MISS Quickley 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,51,10,5,1,2.0,0.0,v
+S2324-G0028,3,01:48,WAS,,NYK,,I. Quickley,NYK,Quickley P.FOUL (P2.T4) (J.Conley),Foul,Personal,0,0,0,0,,,v
+S2324-G0028,3,01:43,WAS,,NYK,,I. Quickley,NYK,Quickley S.FOUL (P3.PN) (N.Buchert),Foul,Shooting,0,0,0,0,,,v
+S2324-G0028,3,00:43.700000,WAS,,NYK,,I. Quickley,NYK,MISS Quickley 5' Driving Layup,Missed Shot,Driving Layup Shot,48,6,5,1,2.0,0.0,v
+S2324-G0028,3,00:25.400000,WAS,82.0,NYK,89.0,I. Quickley,NYK,Quickley 14' Floating Jump Shot (11 PTS),Made Shot,Floating Jump shot,-56,132,14,1,2.0,2.0,v
+S2324-G0028,4,11:42,WAS,84.0,NYK,91.0,I. Quickley,NYK,Quickley 2' Driving Reverse Layup (13 PTS),Made Shot,Driving Reverse Layup Shot,17,17,2,1,2.0,2.0,v
+S2324-G0028,4,10:53,WAS,,NYK,,I. Quickley,NYK,MISS Quickley Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0028,4,10:53,WAS,86.0,NYK,92.0,I. Quickley,NYK,Quickley Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0028,4,10:25,WAS,86.0,NYK,94.0,I. Quickley,NYK,Quickley 2' Driving Layup (16 PTS) (Fournier 1 AST),Made Shot,Driving Layup Shot,-21,4,2,1,2.0,2.0,v
+S2324-G0028,4,10:25,WAS,86.0,NYK,95.0,I. Quickley,NYK,Quickley Free Throw 1 of 1 (17 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G0028,4,07:57,WAS,,NYK,,I. Quickley,NYK,Quickley REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0028,4,06:59,WAS,,NYK,,I. Quickley,NYK,Quickley REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0028,4,06:50,WAS,,NYK,,I. Quickley,NYK,MISS Quickley 25' 3PT Jump Shot,Missed Shot,Jump Shot,-227,104,25,1,3.0,0.0,v
+S2324-G0028,4,05:56,WAS,,NYK,,I. Quickley,NYK,Quickley S.FOUL (P4.PN) (K.Scott),Foul,Shooting,0,0,0,0,,,v
+S2324-G0028,4,05:20,WAS,,NYK,,I. Quickley,NYK,MISS Quickley 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,237,73,25,1,3.0,0.0,v
+S2324-G0028,4,03:01,WAS,92.0,NYK,110.0,I. Quickley,NYK,Quickley 26' 3PT Jump Shot (20 PTS) (Randle 8 AST),Made Shot,Jump Shot,232,120,26,1,3.0,3.0,v
+S2324-G0028,4,02:33,WAS,92.0,NYK,112.0,I. Quickley,NYK,Quickley 6' Driving Floating Bank Jump Shot (22 PTS) (Brunson 7 AST),Made Shot,Driving Floating Bank Jump Shot,54,20,6,1,2.0,2.0,v
+S2324-G0028,4,02:01,WAS,92.0,NYK,115.0,I. Quickley,NYK,Quickley 26' 3PT Step Back Jump Shot (25 PTS),Made Shot,Step Back Jump shot,72,248,26,1,3.0,3.0,v
+S2324-G0028,4,01:22,WAS,95.0,NYK,117.0,I. Quickley,NYK,Quickley 13' Driving Floating Jump Shot (27 PTS),Made Shot,Driving Floating Jump Shot,127,6,13,1,2.0,2.0,v
+S2324-G0028,4,01:12,WAS,,NYK,,I. Quickley,NYK,Quickley P.FOUL (P5.PN) (K.Scott),Foul,Personal,0,0,0,0,,,v
+S2324-G0028,4,01:12,WAS,,NYK,,I. Quickley,NYK,SUB: Sims FOR Quickley,Substitution,,0,0,0,0,,,v
+S2324-G0090,1,01:09,NOP,,NYK,,I. Quickley,NYK,Quickley Out of Bounds - Bad Pass Turnover Turnover (P1.T6),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0090,1,00:33.300000,NOP,,NYK,,I. Quickley,NYK,MISS Quickley 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-167,225,28,1,3.0,0.0,v
+S2324-G0090,2,10:31,NOP,32.0,NYK,15.0,I. Quickley,NYK,Quickley 7' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,36,56,7,1,2.0,2.0,v
+S2324-G0090,2,08:26,NOP,,NYK,,I. Quickley,NYK,MISS Quickley 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,69,138,15,1,2.0,0.0,v
+S2324-G0090,2,08:02,NOP,,NYK,,I. Quickley,NYK,MISS Quickley 3PT Jump Shot,Missed Shot,Jump Shot,223,2,0,1,3.0,0.0,v
+S2324-G0090,2,07:10,NOP,,NYK,,I. Quickley,NYK,Quickley REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0090,2,06:47,NOP,39.0,NYK,21.0,I. Quickley,NYK,Quickley Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0090,2,06:47,NOP,39.0,NYK,22.0,I. Quickley,NYK,Quickley Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0090,2,05:40,NOP,43.0,NYK,27.0,I. Quickley,NYK,Quickley 2' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,-15,17,2,1,2.0,2.0,v
+S2324-G0090,2,03:58,NOP,,NYK,,I. Quickley,NYK,MISS Quickley 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-47,51,7,1,2.0,0.0,v
+S2324-G0090,2,03:55,NOP,,NYK,,I. Quickley,NYK,SUB: Barrett FOR Quickley,Substitution,,0,0,0,0,,,v
+S2324-G0090,3,01:59,NOP,72.0,NYK,63.0,I. Quickley,NYK,Quickley 10' Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,97,2,10,1,2.0,2.0,v
+S2324-G0090,3,00:10.600000,NOP,74.0,NYK,68.0,I. Quickley,NYK,Quickley 8' Turnaround Fadeaway (10 PTS),Made Shot,Turnaround Fadeaway shot,12,75,8,1,2.0,2.0,v
+S2324-G0090,3,00:07.500000,NOP,,NYK,,I. Quickley,NYK,Quickley P.FOUL (P1.T2) (S.Wright),Foul,Personal,0,0,0,0,,,v
+S2324-G0090,4,11:04,NOP,,NYK,,I. Quickley,NYK,MISS Quickley 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,86,242,26,1,3.0,0.0,v
+S2324-G0090,4,09:26,NOP,,NYK,,I. Quickley,NYK,Quickley P.FOUL (P2.T3) (S.Wright),Foul,Personal,0,0,0,0,,,v
+S2324-G0090,4,09:05,NOP,,NYK,,I. Quickley,NYK,Quickley Offensive Charge Foul (P3) (S.Wright),Foul,Offensive Charge,0,0,0,0,,,v
+S2324-G0090,4,09:05,NOP,,NYK,,I. Quickley,NYK,Quickley Offensive Foul Turnover (P2.T16),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0090,4,09:05,NOP,,NYK,,I. Quickley,NYK,SUB: Brunson FOR Quickley,Substitution,,0,0,0,0,,,v

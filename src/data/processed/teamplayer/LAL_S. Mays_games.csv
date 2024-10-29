@@ -1,0 +1,49 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2324-G1143,4,01:14,LAL,,MIN,,S. Mays,LAL,Mays STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0990,4,04:24,LAL,,ATL,,S. Mays,LAL,Mays S.FOUL (P1.T3) (J.Orr),Foul,Shooting,0,0,0,0,,,h
+S2324-G0990,4,03:35,LAL,,ATL,,S. Mays,LAL,Mays STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0990,4,03:09,LAL,,ATL,,S. Mays,LAL,Mays STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0990,4,03:04,LAL,,ATL,,S. Mays,LAL,Mays Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0990,4,02:47,LAL,134.0,ATL,99.0,S. Mays,LAL,Mays 5' Driving Dunk (2 PTS) (Lewis 2 AST),Made Shot,Driving Dunk Shot,-2,46,5,1,2.0,2.0,h
+S2324-G0990,4,02:06,LAL,,ATL,,S. Mays,LAL,MISS Mays 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-28,118,12,1,2.0,0.0,h
+S2324-G0549,3,02:06,UTA,,LAL,,S. Mays,LAL,MISS Mays 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-23,12,3,1,2.0,0.0,v
+S2324-G0549,3,01:34,UTA,,LAL,,S. Mays,LAL,Mays STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0549,4,11:42,UTA,,LAL,,S. Mays,LAL,Mays AWAY.FROM.PLAY.FOUL (P1.T1) (S.Twardoski),Foul,Away From Play,0,0,0,0,,,v
+S2324-G0549,4,11:26,UTA,,LAL,,S. Mays,LAL,Mays REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0549,4,11:00,UTA,,LAL,,S. Mays,LAL,Mays S.FOUL (P2.T3) (S.Twardoski),Foul,Shooting,0,0,0,0,,,v
+S2324-G0549,4,09:59,UTA,,LAL,,S. Mays,LAL,SUB: Reaves FOR Mays,Substitution,,0,0,0,0,,,v
+S2324-G0549,4,05:22,UTA,,LAL,,S. Mays,LAL,MISS Mays 15' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-16,149,15,1,2.0,0.0,v
+S2324-G0549,4,04:19,UTA,,LAL,,S. Mays,LAL,SUB: Vanderbilt FOR Mays,Substitution,,0,0,0,0,,,v
+S2324-G0932,4,01:08,LAL,,MIN,,S. Mays,LAL,Mays REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0932,4,00:47.100000,LAL,,MIN,,S. Mays,LAL,Mays STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0669,4,03:00,ATL,,LAL,,S. Mays,LAL,Mays S.FOUL (P1.T3) (C.Washington),Foul,Shooting,0,0,0,0,,,v
+S2324-G0669,4,01:07,ATL,,LAL,,S. Mays,LAL,Mays REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0577,4,02:49,LAL,,DAL,,S. Mays,LAL,Mays S.FOUL (P1.T3) (N.Green),Foul,Shooting,0,0,0,0,,,h
+S2324-G0577,4,01:32,LAL,127.0,DAL,108.0,S. Mays,LAL,Mays 19' Pullup Jump Shot (2 PTS) (Hayes 1 AST),Made Shot,Pullup Jump shot,-28,186,19,1,2.0,2.0,h
+S2324-G0577,4,00:50.300000,LAL,,DAL,,S. Mays,LAL,MISS Mays 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,105,120,16,1,2.0,0.0,h
+S2324-G0740,4,09:12,LAL,,DEN,,S. Mays,LAL,Mays STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0740,4,08:35,LAL,,DEN,,S. Mays,LAL,MISS Mays 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-9,54,5,1,2.0,0.0,h
+S2324-G0740,4,07:26,LAL,,DEN,,S. Mays,LAL,Mays Step Out of Bounds Turnover (P1.T7),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2324-G0740,4,06:09,LAL,,DEN,,S. Mays,LAL,SUB: Prince FOR Mays,Substitution,,0,0,0,0,,,h
+S2324-G0531,4,10:40,LAL,80.0,PHX,107.0,S. Mays,LAL,Mays 4' Driving Finger Roll Layup (2 PTS) (Russell 4 AST),Made Shot,Driving Finger Roll Layup Shot,-18,34,4,1,2.0,2.0,h
+S2324-G0531,4,09:45,LAL,83.0,PHX,112.0,S. Mays,LAL,Mays 3PT Jump Shot (5 PTS) (Christie 3 AST),Made Shot,Jump Shot,-232,21,0,1,3.0,3.0,h
+S2324-G0531,4,08:16,LAL,,PHX,,S. Mays,LAL,MISS Mays 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-5,67,7,1,2.0,0.0,h
+S2324-G0531,4,07:24,LAL,90.0,PHX,112.0,S. Mays,LAL,Mays 3' Cutting Layup Shot (7 PTS) (Vanderbilt 1 AST),Made Shot,Cutting Layup Shot,-23,11,3,1,2.0,2.0,h
+S2324-G0531,4,03:09,LAL,104.0,PHX,125.0,S. Mays,LAL,Mays 1' Cutting Dunk Shot (9 PTS) (Vanderbilt 2 AST),Made Shot,Cutting Dunk Shot,1,-6,1,1,2.0,2.0,h
+S2324-G0531,4,01:31,LAL,109.0,PHX,127.0,S. Mays,LAL,Mays 28' 3PT Jump Shot (12 PTS) (Windler 1 AST),Made Shot,Jump Shot,-116,254,28,1,3.0,3.0,h
+S2324-G0531,4,01:09,LAL,,PHX,,S. Mays,LAL,Mays STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0531,4,01:04,LAL,,PHX,,S. Mays,LAL,Mays REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1195,4,00:34.200000,NOP,,LAL,,S. Mays,LAL,MISS Mays 7' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-65,17,7,1,2.0,0.0,v
+S2324-G0747,1,03:57,LAL,,NOP,,S. Mays,LAL,MISS Mays 3PT Jump Shot,Missed Shot,Jump Shot,-225,25,0,1,3.0,0.0,h
+S2324-G0747,1,03:19,LAL,27.0,NOP,28.0,S. Mays,LAL,Mays 4' Driving Finger Roll Layup (2 PTS) (Prince 1 AST),Made Shot,Driving Finger Roll Layup Shot,-38,8,4,1,2.0,2.0,h
+S2324-G0747,1,00:30.500000,LAL,,NOP,,S. Mays,LAL,Mays BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0747,1,00:08.600000,LAL,,NOP,,S. Mays,LAL,MISS Mays 3' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,10,25,3,1,2.0,0.0,h
+S2324-G0747,2,03:16,LAL,,NOP,,S. Mays,LAL,SUB: James FOR Mays,Substitution,,0,0,0,0,,,h
+S2324-G0747,4,10:31,LAL,,NOP,,S. Mays,LAL,Mays REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0747,4,10:24,LAL,,NOP,,S. Mays,LAL,MISS Mays 25' 3PT Jump Shot,Missed Shot,Jump Shot,-109,229,25,1,3.0,0.0,h
+S2324-G0747,4,10:20,LAL,,NOP,,S. Mays,LAL,MISS Mays 25' 3PT Jump Shot,Missed Shot,Jump Shot,-96,232,25,1,3.0,0.0,h
+S2324-G0747,4,10:07,LAL,,NOP,,S. Mays,LAL,SUB: Davis FOR Mays,Substitution,,0,0,0,0,,,h
+S2324-G0802,4,04:27,GSW,115.0,LAL,100.0,S. Mays,LAL,Mays 4' Running Reverse Layup (2 PTS),Made Shot,Running Reverse Layup Shot,43,12,4,1,2.0,2.0,v
+S2324-G0802,4,03:24,GSW,117.0,LAL,102.0,S. Mays,LAL,Mays 5' Driving Finger Roll Layup (4 PTS),Made Shot,Driving Finger Roll Layup Shot,-37,27,5,1,2.0,2.0,v
+S2324-G0802,4,02:38,GSW,,LAL,,S. Mays,LAL,Mays L.B.FOUL (P1.PN) (Z.Zarba),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0818,4,00:23.700000,PHX,,LAL,,S. Mays,LAL,Mays REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v

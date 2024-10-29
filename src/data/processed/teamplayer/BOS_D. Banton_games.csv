@@ -1,0 +1,159 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2324-G0118,4,07:12,BOS,,IND,,D. Banton,BOS,Banton P.FOUL (P1.T2) (T.Ford),Foul,Personal,0,0,0,0,,,h
+S2324-G0118,4,05:59,BOS,,IND,,D. Banton,BOS,Banton REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0118,4,05:59,BOS,131.0,IND,87.0,D. Banton,BOS,Banton 5' Running Layup (2 PTS),Made Shot,Running Layup Shot,31,41,5,1,2.0,2.0,h
+S2324-G0118,4,05:59,BOS,132.0,IND,87.0,D. Banton,BOS,Banton Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G0118,4,05:39,BOS,,IND,,D. Banton,BOS,Banton REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0118,4,05:25,BOS,134.0,IND,87.0,D. Banton,BOS,Banton 8' Turnaround Hook Shot (5 PTS),Made Shot,Turnaround Hook Shot,-42,66,8,1,2.0,2.0,h
+S2324-G0118,4,04:52,BOS,139.0,IND,90.0,D. Banton,BOS,Banton 2' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,6,19,2,1,2.0,2.0,h
+S2324-G0118,4,04:32,BOS,,IND,,D. Banton,BOS,Banton REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0118,4,03:09,BOS,147.0,IND,97.0,D. Banton,BOS,Banton 3' Cutting Layup Shot (9 PTS) (Pritchard 9 AST),Made Shot,Cutting Layup Shot,10,26,3,1,2.0,2.0,h
+S2324-G0118,4,01:21,BOS,152.0,IND,101.0,D. Banton,BOS,Banton Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0118,4,01:21,BOS,153.0,IND,101.0,D. Banton,BOS,Banton Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0118,4,01:12,BOS,,IND,,D. Banton,BOS,Banton S.FOUL (P2.PN) (D.Richardson),Foul,Shooting,0,0,0,0,,,h
+S2324-G0118,4,00:54.200000,BOS,,IND,,D. Banton,BOS,Banton STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0246,1,08:58,BOS,,ATL,,D. Banton,BOS,Banton L.B.FOUL (P1.T1) (E.Malloy),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0246,1,08:06,BOS,,ATL,,D. Banton,BOS,Banton REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0246,1,08:05,BOS,,ATL,,D. Banton,BOS,MISS Banton 3' Putback Layup,Missed Shot,Putback Layup Shot,-15,25,3,1,2.0,0.0,h
+S2324-G0246,1,05:47,BOS,,ATL,,D. Banton,BOS,Banton REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0246,1,05:27,BOS,,ATL,,D. Banton,BOS,Banton S.FOUL (P2.T2) (B.Forte),Foul,Shooting,0,0,0,0,,,h
+S2324-G0246,1,05:27,BOS,,ATL,,D. Banton,BOS,SUB: Pritchard FOR Banton,Substitution,,0,0,0,0,,,h
+S2324-G0246,3,10:07,BOS,73.0,ATL,57.0,D. Banton,BOS,Banton 5' Cutting Dunk Shot (2 PTS),Made Shot,Cutting Dunk Shot,-2,46,5,1,2.0,2.0,h
+S2324-G0246,3,07:46,BOS,,ATL,,D. Banton,BOS,Banton REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0246,3,07:46,BOS,78.0,ATL,58.0,D. Banton,BOS,Banton 4' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,33,20,4,1,2.0,2.0,h
+S2324-G0246,3,07:09,BOS,79.0,ATL,61.0,D. Banton,BOS,Banton Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0246,3,07:09,BOS,80.0,ATL,61.0,D. Banton,BOS,Banton Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0246,3,05:02,BOS,,ATL,,D. Banton,BOS,MISS Banton 27' 3PT Jump Shot,Missed Shot,Jump Shot,218,152,27,1,3.0,0.0,h
+S2324-G0246,3,04:37,BOS,,ATL,,D. Banton,BOS,SUB: Hauser FOR Banton,Substitution,,0,0,0,0,,,h
+S2324-G0246,4,06:56,BOS,105.0,ATL,94.0,D. Banton,BOS,Banton 3' Running Dunk (8 PTS) (Hauser 2 AST),Made Shot,Running Dunk Shot,0,26,3,1,2.0,2.0,h
+S2324-G0246,4,06:10,BOS,,ATL,,D. Banton,BOS,Banton S.FOUL (P3.T2) (B.Haskill),Foul,Shooting,0,0,0,0,,,h
+S2324-G0246,4,05:55,BOS,,ATL,,D. Banton,BOS,Banton OFF.Foul (P4) (B.Forte),Foul,Offensive,0,0,0,0,,,h
+S2324-G0246,4,05:55,BOS,,ATL,,D. Banton,BOS,Banton Offensive Foul Turnover (P1.T11),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0246,4,05:43,BOS,,ATL,,D. Banton,BOS,Banton REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0246,4,05:17,BOS,,ATL,,D. Banton,BOS,Banton REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0246,4,04:48,BOS,,ATL,,D. Banton,BOS,SUB: White FOR Banton,Substitution,,0,0,0,0,,,h
+S2324-G0010,4,02:38,BOS,,BKN,,D. Banton,BOS,Banton REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0010,4,02:38,BOS,,BKN,,D. Banton,BOS,MISS Banton Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2324-G0103,4,09:20,WAS,,BOS,,D. Banton,BOS,Banton REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0103,4,09:18,WAS,,BOS,,D. Banton,BOS,MISS Banton 8' Layup,Missed Shot,Layup Shot,65,44,8,1,2.0,0.0,v
+S2324-G0103,4,09:16,WAS,,BOS,,D. Banton,BOS,Banton REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0103,4,09:15,WAS,80.0,BOS,110.0,D. Banton,BOS,Banton 1' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,11,10,1,1,2.0,2.0,v
+S2324-G0103,4,08:11,WAS,,BOS,,D. Banton,BOS,Banton S.FOUL (P1.T4) (M.Lindsay),Foul,Shooting,0,0,0,0,,,v
+S2324-G0103,4,07:48,WAS,,BOS,,D. Banton,BOS,MISS Banton 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-232,28,0,1,3.0,0.0,v
+S2324-G0103,4,02:23,WAS,,BOS,,D. Banton,BOS,Banton Bad Pass Turnover (P1.T17),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0103,4,02:19,WAS,,BOS,,D. Banton,BOS,SUB: Pritchard FOR Banton,Substitution,,0,0,0,0,,,v
+S2324-G0528,3,05:31,MIL,,BOS,,D. Banton,BOS,Banton S.FOUL (P1.T3) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,v
+S2324-G0528,3,04:34,MIL,,BOS,,D. Banton,BOS,Banton STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0528,3,04:31,MIL,,BOS,,D. Banton,BOS,MISS Banton Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0528,3,04:31,MIL,98.0,BOS,59.0,D. Banton,BOS,Banton Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0528,3,02:17,MIL,,BOS,,D. Banton,BOS,MISS Banton 6' Driving Layup,Missed Shot,Driving Layup Shot,15,57,6,1,2.0,0.0,v
+S2324-G0528,4,11:38,MIL,111.0,BOS,73.0,D. Banton,BOS,Banton 27' 3PT Jump Shot (4 PTS) (Pritchard 4 AST),Made Shot,Jump Shot,-42,265,27,1,3.0,3.0,v
+S2324-G0528,4,06:39,MIL,,BOS,,D. Banton,BOS,MISS Banton 17' Jump Shot,Missed Shot,Jump Shot,-168,26,17,1,2.0,0.0,v
+S2324-G0528,4,05:45,MIL,,BOS,,D. Banton,BOS,Banton BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0528,4,05:29,MIL,,BOS,,D. Banton,BOS,MISS Banton 5' Running Layup,Missed Shot,Running Layup Shot,-11,50,5,1,2.0,0.0,v
+S2324-G0528,4,01:53,MIL,,BOS,,D. Banton,BOS,MISS Banton 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-49,263,27,1,3.0,0.0,v
+S2324-G0528,4,01:44,MIL,,BOS,,D. Banton,BOS,Banton STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0528,4,00:46,MIL,,BOS,,D. Banton,BOS,Banton REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0174,4,00:49.700000,BOS,,TOR,,D. Banton,BOS,MISS Banton 28' 3PT Jump Shot,Missed Shot,Jump Shot,-158,237,28,1,3.0,0.0,h
+S2324-G0344,4,01:14,BOS,114.0,ORL,92.0,D. Banton,BOS,Banton 6' Driving Reverse Layup (2 PTS),Made Shot,Driving Reverse Layup Shot,-54,31,6,1,2.0,2.0,h
+S2324-G0344,4,00:26.200000,BOS,,ORL,,D. Banton,BOS,MISS Banton 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,206,168,27,1,3.0,0.0,h
+S2324-G0684,4,01:17,BOS,101.0,LAL,113.0,D. Banton,BOS,Banton Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0684,4,01:17,BOS,102.0,LAL,113.0,D. Banton,BOS,Banton Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0684,4,00:34.700000,BOS,,LAL,,D. Banton,BOS,Banton REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0630,4,05:19,MIA,,BOS,,D. Banton,BOS,MISS Banton 17' Jump Shot,Missed Shot,Jump Shot,102,135,17,1,2.0,0.0,v
+S2324-G0630,4,05:05,MIA,,BOS,,D. Banton,BOS,Banton P.FOUL (P1.T1) (B.Kennedy),Foul,Personal,0,0,0,0,,,v
+S2324-G0630,4,00:50.300000,MIA,,BOS,,D. Banton,BOS,Banton STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0646,4,09:03,BOS,,LAC,,D. Banton,BOS,MISS Banton 26' 3PT Jump Shot,Missed Shot,Jump Shot,197,169,26,1,3.0,0.0,h
+S2324-G0646,4,02:56,BOS,87.0,LAC,108.0,D. Banton,BOS,Banton 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,9,18,2,1,2.0,2.0,h
+S2324-G0646,4,02:21,BOS,,LAC,,D. Banton,BOS,MISS Banton 3' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-26,22,3,1,2.0,0.0,h
+S2324-G0646,4,01:53,BOS,,LAC,,D. Banton,BOS,Banton Bad Pass Turnover (P1.T11),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0646,4,00:35.100000,BOS,,LAC,,D. Banton,BOS,MISS Banton 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-173,199,26,1,3.0,0.0,h
+S2324-G1202,1,05:42,IND,,BOS,,D. Banton,BOS,Banton REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1202,1,05:37,IND,,BOS,,D. Banton,BOS,MISS Banton 5' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,-32,33,5,1,2.0,0.0,v
+S2324-G1202,1,05:22,IND,,BOS,,D. Banton,BOS,Banton REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1202,1,05:17,IND,,BOS,,D. Banton,BOS,Banton Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G1202,1,02:34,IND,,BOS,,D. Banton,BOS,SUB: Kornet FOR Banton,Substitution,,0,0,0,0,,,v
+S2324-G1202,2,09:50,IND,,BOS,,D. Banton,BOS,Banton OFF.Foul (P1) (M.Davis),Foul,Offensive,0,0,0,0,,,v
+S2324-G1202,2,09:50,IND,,BOS,,D. Banton,BOS,Banton Offensive Foul Turnover (P2.T6),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G1202,2,08:08,IND,,BOS,,D. Banton,BOS,Banton REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1202,2,07:06,IND,,BOS,,D. Banton,BOS,Banton REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1202,2,07:06,IND,,BOS,,D. Banton,BOS,Banton Out of Bounds Lost Ball Turnover (P3.T7),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2324-G1202,2,07:06,IND,,BOS,,D. Banton,BOS,SUB: Hauser FOR Banton,Substitution,,0,0,0,0,,,v
+S2324-G1202,3,03:39,IND,,BOS,,D. Banton,BOS,SUB: Pritchard FOR Banton,Substitution,,0,0,0,0,,,v
+S2324-G0043,4,00:03.700000,ORL,,BOS,,D. Banton,BOS,MISS Banton 1' Driving Layup,Missed Shot,Driving Layup Shot,-1,14,1,1,2.0,0.0,v
+S2324-G0389,4,02:33,LAC,102.0,BOS,137.0,D. Banton,BOS,Banton 2' Running Layup (2 PTS) (Pritchard 3 AST),Made Shot,Running Layup Shot,-4,17,2,1,2.0,2.0,v
+S2324-G0448,4,09:48,SAS,,BOS,,D. Banton,BOS,Banton P.FOUL (P1.T2) (B.Forte),Foul,Personal,0,0,0,0,,,v
+S2324-G0448,4,09:23,SAS,,BOS,,D. Banton,BOS,Banton REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0448,4,08:53,SAS,,BOS,,D. Banton,BOS,Banton S.FOUL (P2.T3) (R.Acosta),Foul,Shooting,0,0,0,0,,,v
+S2324-G0448,4,06:30,SAS,,BOS,,D. Banton,BOS,Banton REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0448,4,05:36,SAS,,BOS,,D. Banton,BOS,Banton REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0448,4,05:34,SAS,,BOS,,D. Banton,BOS,Banton Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0448,4,04:53,SAS,91.0,BOS,122.0,D. Banton,BOS,Banton Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0448,4,04:53,SAS,91.0,BOS,123.0,D. Banton,BOS,Banton Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0448,4,04:35,SAS,,BOS,,D. Banton,BOS,Banton REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0448,4,04:31,SAS,91.0,BOS,124.0,D. Banton,BOS,Banton Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0448,4,04:31,SAS,91.0,BOS,125.0,D. Banton,BOS,Banton Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0448,4,03:53,SAS,,BOS,,D. Banton,BOS,MISS Banton 2' Driving Layup,Missed Shot,Driving Layup Shot,6,22,2,1,2.0,0.0,v
+S2324-G0448,4,02:44,SAS,,BOS,,D. Banton,BOS,Banton Out of Bounds - Bad Pass Turnover Turnover (P2.T9),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0448,4,01:20,SAS,,BOS,,D. Banton,BOS,MISS Banton 3' Driving Layup,Missed Shot,Driving Layup Shot,-5,31,3,1,2.0,0.0,v
+S2324-G0432,1,04:16,BOS,,TOR,,D. Banton,BOS,Banton Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0432,1,03:31,BOS,25.0,TOR,15.0,D. Banton,BOS,Banton 1' Alley Oop Dunk (2 PTS) (Pritchard 2 AST),Made Shot,Alley Oop Dunk Shot,-13,2,1,1,2.0,2.0,h
+S2324-G0432,1,02:34,BOS,,TOR,,D. Banton,BOS,SUB: White FOR Banton,Substitution,,0,0,0,0,,,h
+S2324-G0275,1,03:23,BOS,30.0,PHI,26.0,D. Banton,BOS,Banton 5' Driving Layup (2 PTS) (Hauser 1 AST),Made Shot,Driving Layup Shot,-36,38,5,1,2.0,2.0,h
+S2324-G0275,1,03:23,BOS,,PHI,,D. Banton,BOS,MISS Banton Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2324-G0275,1,02:54,BOS,,PHI,,D. Banton,BOS,Banton REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0275,1,00:13,BOS,,PHI,,D. Banton,BOS,Banton BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0275,3,05:57,BOS,,PHI,,D. Banton,BOS,Banton REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0275,3,05:18,BOS,,PHI,,D. Banton,BOS,Banton S.FOUL (P1.T1) (N.Buchert),Foul,Shooting,0,0,0,0,,,h
+S2324-G0275,3,04:32,BOS,,PHI,,D. Banton,BOS,Banton REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0275,3,04:25,BOS,,PHI,,D. Banton,BOS,MISS Banton 25' 3PT Jump Shot,Missed Shot,Jump Shot,239,72,25,1,3.0,0.0,h
+S2324-G0275,3,03:32,BOS,,PHI,,D. Banton,BOS,Banton REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0275,3,02:05,BOS,,PHI,,D. Banton,BOS,Banton REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0275,3,02:04,BOS,91.0,PHI,89.0,D. Banton,BOS,Banton 4' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,-21,31,4,1,2.0,2.0,h
+S2324-G0275,3,00:28.100000,BOS,,PHI,,D. Banton,BOS,MISS Banton 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-60,104,12,1,2.0,0.0,h
+S2324-G0053,1,04:07,BOS,,CHI,,D. Banton,BOS,Banton BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0053,1,03:11,BOS,,CHI,,D. Banton,BOS,MISS Banton 27' 3PT Jump Shot,Missed Shot,Jump Shot,-140,236,27,1,3.0,0.0,h
+S2324-G0053,1,01:12,BOS,,CHI,,D. Banton,BOS,Banton P.FOUL (P1.T3) (M.Smith),Foul,Personal,0,0,0,0,,,h
+S2324-G0053,2,05:44,BOS,,CHI,,D. Banton,BOS,SUB: Tatum FOR Banton,Substitution,,0,0,0,0,,,h
+S2324-G0053,4,11:08,BOS,100.0,CHI,70.0,D. Banton,BOS,Banton 3PT Jump Shot (3 PTS) (Tatum 3 AST),Made Shot,Jump Shot,234,10,0,1,3.0,3.0,h
+S2324-G0053,4,08:08,BOS,106.0,CHI,77.0,D. Banton,BOS,Banton 2' Cutting Layup Shot (5 PTS) (Tatum 4 AST),Made Shot,Cutting Layup Shot,-16,17,2,1,2.0,2.0,h
+S2324-G0053,4,07:34,BOS,,CHI,,D. Banton,BOS,SUB: Horford FOR Banton,Substitution,,0,0,0,0,,,h
+S2324-G0507,1,05:42,IND,,BOS,,D. Banton,BOS,Banton P.FOUL (P1.T2) (D.Richardson),Foul,Personal,0,0,0,0,,,v
+S2324-G0507,1,05:00,IND,,BOS,,D. Banton,BOS,Banton OFF.Foul (P2) (M.Smith),Foul,Offensive,0,0,0,0,,,v
+S2324-G0507,1,05:00,IND,,BOS,,D. Banton,BOS,Banton Offensive Foul Turnover (P1.T1),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0507,1,03:11,IND,,BOS,,D. Banton,BOS,Banton S.FOUL (P3.T3) (M.Smith),Foul,Shooting,0,0,0,0,,,v
+S2324-G0507,1,02:10,IND,,BOS,,D. Banton,BOS,SUB: Holiday FOR Banton,Substitution,,0,0,0,0,,,v
+S2324-G0194,1,05:27,PHI,,BOS,,D. Banton,BOS,Banton REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0194,1,05:18,PHI,,BOS,,D. Banton,BOS,Banton REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0194,1,05:18,PHI,16.0,BOS,20.0,D. Banton,BOS,Banton Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2324-G0194,1,04:57,PHI,,BOS,,D. Banton,BOS,Banton S.FOUL (P1.T1) (P.Fraher),Foul,Shooting,0,0,0,0,,,v
+S2324-G0194,1,04:42,PHI,,BOS,,D. Banton,BOS,MISS Banton 24' 3PT Jump Shot,Missed Shot,Jump Shot,238,-17,24,1,3.0,0.0,v
+S2324-G0194,1,04:31,PHI,,BOS,,D. Banton,BOS,Banton REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0194,1,03:43,PHI,,BOS,,D. Banton,BOS,Banton REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0194,1,03:26,PHI,,BOS,,D. Banton,BOS,MISS Banton 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,36,4,4,1,2.0,0.0,v
+S2324-G0194,1,03:21,PHI,,BOS,,D. Banton,BOS,Banton STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0194,1,01:56,PHI,,BOS,,D. Banton,BOS,Banton REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0194,1,01:43,PHI,,BOS,,D. Banton,BOS,MISS Banton 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,11,65,7,1,2.0,0.0,v
+S2324-G0194,1,01:33,PHI,,BOS,,D. Banton,BOS,Banton S.FOUL (P2.T2) (E.Malloy),Foul,Shooting,0,0,0,0,,,v
+S2324-G0194,1,01:33,PHI,,BOS,,D. Banton,BOS,SUB: White FOR Banton,Substitution,,0,0,0,0,,,v
+S2324-G0194,3,00:02.800000,PHI,,BOS,,D. Banton,BOS,SUB: Hauser FOR Banton,Substitution,,0,0,0,0,,,v
+S2324-G0194,4,10:09,PHI,,BOS,,D. Banton,BOS,SUB: Tatum FOR Banton,Substitution,,0,0,0,0,,,v
+S2324-G0706,4,05:01,BOS,,MEM,,D. Banton,BOS,MISS Banton 26' 3PT Jump Shot,Missed Shot,Jump Shot,175,186,26,1,3.0,0.0,h
+S2324-G0706,4,04:19,BOS,,MEM,,D. Banton,BOS,Banton REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0706,4,03:39,BOS,,MEM,,D. Banton,BOS,MISS Banton 6' Driving Layup,Missed Shot,Driving Layup Shot,-49,27,6,1,2.0,0.0,h
+S2324-G0706,4,03:02,BOS,,MEM,,D. Banton,BOS,MISS Banton 28' 3PT Jump Shot,Missed Shot,Jump Shot,-94,263,28,1,3.0,0.0,h
+S2324-G0706,4,02:04,BOS,,MEM,,D. Banton,BOS,MISS Banton 2' Running Layup,Missed Shot,Running Layup Shot,-20,11,2,1,2.0,0.0,h
+S2324-G0479,4,04:07,BOS,,UTA,,D. Banton,BOS,Banton REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0479,4,03:10,BOS,121.0,UTA,90.0,D. Banton,BOS,Banton 4' Running Alley Oop Dunk Shot (2 PTS) (Pritchard 4 AST),Made Shot,Running Alley Oop Dunk Shot,-12,43,4,1,2.0,2.0,h
+S2324-G0479,4,02:48,BOS,122.0,UTA,91.0,D. Banton,BOS,Banton Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0479,4,02:48,BOS,,UTA,,D. Banton,BOS,MISS Banton Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0479,4,01:41,BOS,123.0,UTA,95.0,D. Banton,BOS,Banton Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0479,4,01:41,BOS,124.0,UTA,95.0,D. Banton,BOS,Banton Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0479,4,01:16,BOS,,UTA,,D. Banton,BOS,MISS Banton 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,9,265,27,1,3.0,0.0,h
+S2324-G0479,4,00:27.900000,BOS,,UTA,,D. Banton,BOS,Banton S.FOUL (P1.PN) (M.Ervin),Foul,Shooting,0,0,0,0,,,h
+S2324-G0571,4,01:47,BOS,,SAS,,D. Banton,BOS,Banton REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0571,4,01:42,BOS,,SAS,,D. Banton,BOS,MISS Banton 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,12,33,4,1,2.0,0.0,h
+S2324-G0571,4,01:41,BOS,,SAS,,D. Banton,BOS,Banton REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0571,4,01:40,BOS,,SAS,,D. Banton,BOS,MISS Banton Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0571,4,01:40,BOS,117.0,SAS,96.0,D. Banton,BOS,Banton Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0571,4,01:16,BOS,,SAS,,D. Banton,BOS,MISS Banton 3PT Jump Shot,Missed Shot,Jump Shot,-229,11,0,1,3.0,0.0,h

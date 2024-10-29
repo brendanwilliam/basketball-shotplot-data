@@ -1,0 +1,132 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2324-G0319,1,04:08,BOS,,CLE,,L. Stevens,BOS,Stevens REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0319,1,03:53,BOS,,CLE,,L. Stevens,BOS,CELTICS T.Foul (Def. 3 Sec Stevens ) (S.Wright),Foul,Defense 3 Second,0,0,0,0,,,h
+S2324-G0319,1,03:20,BOS,,CLE,,L. Stevens,BOS,Stevens P.FOUL (P1.T3) (N.Sago),Foul,Personal,0,0,0,0,,,h
+S2324-G0319,1,02:10,BOS,,CLE,,L. Stevens,BOS,Stevens P.FOUL (P2.T4) (N.Green),Foul,Personal,0,0,0,0,,,h
+S2324-G0319,1,01:20,BOS,,CLE,,L. Stevens,BOS,Stevens S.FOUL (P3.PN) (N.Sago),Foul,Shooting,0,0,0,0,,,h
+S2324-G0319,1,01:20,BOS,,CLE,,L. Stevens,BOS,SUB: Pritchard FOR Stevens,Substitution,,0,0,0,0,,,h
+S2324-G0319,4,11:16,BOS,,CLE,,L. Stevens,BOS,Stevens STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0319,4,08:36,BOS,,CLE,,L. Stevens,BOS,MISS Stevens 24' 3PT Jump Shot,Missed Shot,Jump Shot,232,73,24,1,3.0,0.0,h
+S2324-G0319,4,08:30,BOS,99.0,CLE,89.0,L. Stevens,BOS,Stevens 1' Cutting Dunk Shot (2 PTS) (Horford 3 AST),Made Shot,Cutting Dunk Shot,13,-3,1,1,2.0,2.0,h
+S2324-G0319,4,07:19,BOS,,CLE,,L. Stevens,BOS,Stevens BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0319,4,07:13,BOS,100.0,CLE,91.0,L. Stevens,BOS,Stevens Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0319,4,07:13,BOS,101.0,CLE,91.0,L. Stevens,BOS,Stevens Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0319,4,06:38,BOS,,CLE,,L. Stevens,BOS,MISS Stevens 3PT Jump Shot,Missed Shot,Jump Shot,-229,38,0,1,3.0,0.0,h
+S2324-G0319,4,06:28,BOS,,CLE,,L. Stevens,BOS,SUB: Brown FOR Stevens,Substitution,,0,0,0,0,,,h
+S2324-G0118,4,04:42,BOS,,IND,,L. Stevens,BOS,Stevens P.FOUL (P1.T4) (D.Richardson),Foul,Personal,0,0,0,0,,,h
+S2324-G0118,4,04:01,BOS,143.0,IND,92.0,L. Stevens,BOS,Stevens 2' Cutting Dunk Shot (2 PTS) (Pritchard 7 AST),Made Shot,Cutting Dunk Shot,-7,17,2,1,2.0,2.0,h
+S2324-G0118,4,03:20,BOS,,IND,,L. Stevens,BOS,Stevens S.FOUL (P2.PN) (D.Richardson),Foul,Shooting,0,0,0,0,,,h
+S2324-G0118,4,02:19,BOS,,IND,,L. Stevens,BOS,Stevens REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0118,4,02:19,BOS,,IND,,L. Stevens,BOS,MISS Stevens Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2324-G0118,4,02:18,BOS,,IND,,L. Stevens,BOS,Stevens REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0118,4,02:17,BOS,149.0,IND,99.0,L. Stevens,BOS,Stevens 3' Putback Dunk (4 PTS),Made Shot,Putback Dunk Shot,-4,26,3,1,2.0,2.0,h
+S2324-G0118,4,02:01,BOS,,IND,,L. Stevens,BOS,MISS Stevens 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,18,30,3,1,2.0,0.0,h
+S2324-G0103,4,04:31,WAS,94.0,BOS,114.0,L. Stevens,BOS,Stevens 18' Turnaround Jump Shot (2 PTS) (Banton 1 AST),Made Shot,Turnaround Jump Shot,-104,151,18,1,2.0,2.0,v
+S2324-G0103,4,03:32,WAS,,BOS,,L. Stevens,BOS,Stevens REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0103,4,03:32,WAS,,BOS,,L. Stevens,BOS,Stevens Out of Bounds - Bad Pass Turnover Turnover (P1.T15),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0103,4,02:52,WAS,,BOS,,L. Stevens,BOS,Stevens REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0103,4,02:51,WAS,,BOS,,L. Stevens,BOS,Stevens Out of Bounds - Bad Pass Turnover Turnover (P2.T16),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0103,4,01:56,WAS,101.0,BOS,120.0,L. Stevens,BOS,Stevens 26' 3PT Jump Shot (5 PTS) (Hauser 1 AST),Made Shot,Jump Shot,224,125,26,1,3.0,3.0,v
+S2324-G0103,4,01:46,WAS,,BOS,,L. Stevens,BOS,Stevens S.FOUL (P1.PN) (B.Barnaky),Foul,Shooting,0,0,0,0,,,v
+S2324-G0103,4,01:36,WAS,,BOS,,L. Stevens,BOS,Stevens Lost Ball Turnover (P3.T18),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0154,1,07:51,MIN,,BOS,,L. Stevens,BOS,Stevens STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0154,1,07:18,MIN,,BOS,,L. Stevens,BOS,Stevens REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0154,1,05:53,MIN,,BOS,,L. Stevens,BOS,MISS Stevens 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,12,23,3,1,2.0,0.0,v
+S2324-G0154,1,03:51,MIN,,BOS,,L. Stevens,BOS,SUB: Tatum FOR Stevens,Substitution,,0,0,0,0,,,v
+S2324-G0528,3,11:12,MIL,,BOS,,L. Stevens,BOS,Stevens P.FOUL (P1.T1) (J.Van Duyne),Foul,Personal,0,0,0,0,,,v
+S2324-G0528,3,10:53,MIL,,BOS,,L. Stevens,BOS,Stevens REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0528,3,10:49,MIL,,BOS,,L. Stevens,BOS,MISS Stevens 14' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,74,117,14,1,2.0,0.0,v
+S2324-G0528,3,08:30,MIL,,BOS,,L. Stevens,BOS,Stevens REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0528,3,07:58,MIL,,BOS,,L. Stevens,BOS,Stevens REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0528,3,05:57,MIL,,BOS,,L. Stevens,BOS,SUB: Queta FOR Stevens,Substitution,,0,0,0,0,,,v
+S2324-G0528,3,00:23.100000,MIL,,BOS,,L. Stevens,BOS,MISS Stevens 17' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-125,110,17,1,2.0,0.0,v
+S2324-G0528,4,08:54,MIL,,BOS,,L. Stevens,BOS,Stevens REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0528,4,08:35,MIL,,BOS,,L. Stevens,BOS,Stevens BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0528,4,07:40,MIL,116.0,BOS,85.0,L. Stevens,BOS,Stevens Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0528,4,07:40,MIL,116.0,BOS,86.0,L. Stevens,BOS,Stevens Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0528,4,05:01,MIL,,BOS,,L. Stevens,BOS,MISS Stevens 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-49,35,6,1,2.0,0.0,v
+S2324-G0528,4,04:41,MIL,,BOS,,L. Stevens,BOS,Stevens S.FOUL (P2.T1) (M.Myers),Foul,Shooting,0,0,0,0,,,v
+S2324-G0528,4,03:04,MIL,,BOS,,L. Stevens,BOS,MISS Stevens 6' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,11,55,6,1,2.0,0.0,v
+S2324-G0528,4,01:41,MIL,133.0,BOS,101.0,L. Stevens,BOS,Stevens 1' Running Dunk (4 PTS) (Banton 3 AST),Made Shot,Running Dunk Shot,0,13,1,1,2.0,2.0,v
+S2324-G0528,4,01:03,MIL,,BOS,,L. Stevens,BOS,MISS Stevens 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,10,129,13,1,2.0,0.0,v
+S2324-G0528,4,00:40.900000,MIL,,BOS,,L. Stevens,BOS,MISS Stevens Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0528,4,00:40.900000,MIL,135.0,BOS,102.0,L. Stevens,BOS,Stevens Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0344,4,01:10,BOS,,ORL,,L. Stevens,BOS,Stevens S.FOUL (P1.PN) (J.Tiven),Foul,Shooting,0,0,0,0,,,h
+S2324-G0542,4,06:44,BOS,,HOU,,L. Stevens,BOS,Stevens Lost Ball Turnover (P1.T10),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0542,4,02:55,BOS,,HOU,,L. Stevens,BOS,MISS Stevens 7' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-26,65,7,1,2.0,0.0,h
+S2324-G0542,4,02:48,BOS,,HOU,,L. Stevens,BOS,MISS Stevens 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,29,8,3,1,2.0,0.0,h
+S2324-G0329,1,12:00,BOS,,ORL,,L. Stevens,BOS,Jump Ball Stevens vs. Bitadze: Tip to Suggs,Jump Ball,,0,0,0,0,,,h
+S2324-G0329,1,10:37,BOS,,ORL,,L. Stevens,BOS,MISS Stevens 24' 3PT Jump Shot,Missed Shot,Jump Shot,-238,38,24,1,3.0,0.0,h
+S2324-G0329,1,09:21,BOS,4.0,ORL,9.0,L. Stevens,BOS,Stevens 4' Layup (2 PTS) (White 2 AST),Made Shot,Layup Shot,17,39,4,1,2.0,2.0,h
+S2324-G0329,1,07:32,BOS,6.0,ORL,11.0,L. Stevens,BOS,Stevens 1' Dunk (4 PTS) (Holiday 1 AST),Made Shot,Dunk Shot,-9,7,1,1,2.0,2.0,h
+S2324-G0329,1,06:54,BOS,,ORL,,L. Stevens,BOS,Stevens REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0329,1,05:46,BOS,,ORL,,L. Stevens,BOS,Stevens L.B.FOUL (P1.T2) (M.Smith),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0329,1,05:46,BOS,,ORL,,L. Stevens,BOS,SUB: Queta FOR Stevens,Substitution,,0,0,0,0,,,h
+S2324-G0329,3,10:40,BOS,,ORL,,L. Stevens,BOS,Stevens REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0329,3,10:40,BOS,,ORL,,L. Stevens,BOS,MISS Stevens Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2324-G0329,3,09:38,BOS,,ORL,,L. Stevens,BOS,Stevens REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0329,3,09:21,BOS,,ORL,,L. Stevens,BOS,Stevens S.FOUL (P2.T1) (L.Wood),Foul,Shooting,0,0,0,0,,,h
+S2324-G0329,3,08:48,BOS,,ORL,,L. Stevens,BOS,Stevens STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0329,3,08:13,BOS,,ORL,,L. Stevens,BOS,Stevens STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0329,3,08:08,BOS,,ORL,,L. Stevens,BOS,Stevens Lost Ball Turnover (P1.T5),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0329,3,07:20,BOS,76.0,ORL,58.0,L. Stevens,BOS,Stevens 24' 3PT Jump Shot (7 PTS) (Tatum 2 AST),Made Shot,Jump Shot,-240,24,24,1,3.0,3.0,h
+S2324-G0329,3,05:54,BOS,,ORL,,L. Stevens,BOS,SUB: Queta FOR Stevens,Substitution,,0,0,0,0,,,h
+S2324-G0329,4,01:22,BOS,128.0,ORL,106.0,L. Stevens,BOS,Stevens Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0329,4,01:22,BOS,,ORL,,L. Stevens,BOS,MISS Stevens Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0329,4,00:50.300000,BOS,,ORL,,L. Stevens,BOS,MISS Stevens 24' 3PT Jump Shot,Missed Shot,Jump Shot,-238,35,24,1,3.0,0.0,h
+S2324-G0329,4,00:36.800000,BOS,,ORL,,L. Stevens,BOS,Stevens BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0329,4,00:18,BOS,,ORL,,L. Stevens,BOS,MISS Stevens 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-33,121,13,1,2.0,0.0,h
+S2324-G0630,4,03:16,MIA,,BOS,,L. Stevens,BOS,Stevens REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0630,4,03:14,MIA,,BOS,,L. Stevens,BOS,Stevens Out of Bounds - Bad Pass Turnover Turnover (P1.T11),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0630,4,01:52,MIA,,BOS,,L. Stevens,BOS,MISS Stevens 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-121,5,12,1,2.0,0.0,v
+S2324-G0630,4,01:30,MIA,,BOS,,L. Stevens,BOS,MISS Stevens 2' Driving Layup,Missed Shot,Driving Layup Shot,-15,14,2,1,2.0,0.0,v
+S2324-G0630,4,01:06,MIA,110.0,BOS,140.0,L. Stevens,BOS,Stevens 21' Jump Shot (2 PTS) (Banton 2 AST),Made Shot,Jump Shot,-202,57,21,1,2.0,2.0,v
+S2324-G0373,4,02:10,SAC,114.0,BOS,141.0,L. Stevens,BOS,Stevens 3' Driving Layup (2 PTS) (Mykhailiuk 3 AST),Made Shot,Driving Layup Shot,-26,16,3,1,2.0,2.0,v
+S2324-G0646,4,06:45,BOS,,LAC,,L. Stevens,BOS,Stevens REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0646,4,06:44,BOS,,LAC,,L. Stevens,BOS,MISS Stevens 3' Putback Layup,Missed Shot,Putback Layup Shot,26,15,3,1,2.0,0.0,h
+S2324-G0646,4,06:23,BOS,,LAC,,L. Stevens,BOS,Stevens REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0646,4,06:22,BOS,74.0,LAC,105.0,L. Stevens,BOS,Stevens 1' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,4,5,1,1,2.0,2.0,h
+S2324-G0646,4,05:35,BOS,,LAC,,L. Stevens,BOS,Stevens REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0646,4,05:30,BOS,78.0,LAC,105.0,L. Stevens,BOS,Stevens 2' Running Layup (4 PTS),Made Shot,Running Layup Shot,16,12,2,1,2.0,2.0,h
+S2324-G0646,4,02:35,BOS,,LAC,,L. Stevens,BOS,Stevens REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0646,4,02:33,BOS,,LAC,,L. Stevens,BOS,Stevens Lost Ball Turnover (P1.T10),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0646,4,00:32.400000,BOS,,LAC,,L. Stevens,BOS,Stevens REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0646,4,00:32.400000,BOS,,LAC,,L. Stevens,BOS,MISS Stevens Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0646,4,00:32.400000,BOS,93.0,LAC,115.0,L. Stevens,BOS,Stevens Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0646,4,00:05,BOS,95.0,LAC,115.0,L. Stevens,BOS,Stevens 2' Running Layup (7 PTS) (Banton 3 AST),Made Shot,Running Layup Shot,-1,16,2,1,2.0,2.0,h
+S2324-G0646,4,00:05,BOS,96.0,LAC,115.0,L. Stevens,BOS,Stevens Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G0389,4,04:00,LAC,,BOS,,L. Stevens,BOS,MISS Stevens 9' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-2,94,9,1,2.0,0.0,v
+S2324-G0389,4,03:00,LAC,,BOS,,L. Stevens,BOS,Stevens REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0389,4,03:00,LAC,102.0,BOS,135.0,L. Stevens,BOS,Stevens Putback Layup (2 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,v
+S2324-G0389,4,02:13,LAC,,BOS,,L. Stevens,BOS,Stevens REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0389,4,00:50.500000,LAC,106.0,BOS,145.0,L. Stevens,BOS,Stevens 1' Cutting Dunk Shot (4 PTS) (Peterson 1 AST),Made Shot,Cutting Dunk Shot,6,4,1,1,2.0,2.0,v
+S2324-G0448,4,01:52,SAS,,BOS,,L. Stevens,BOS,Stevens REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0448,4,01:49,SAS,98.0,BOS,132.0,L. Stevens,BOS,Stevens 1' Running Layup (2 PTS),Made Shot,Running Layup Shot,4,5,1,1,2.0,2.0,v
+S2324-G0448,4,01:31,SAS,,BOS,,L. Stevens,BOS,Stevens REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0053,4,00:01,BOS,,CHI,,L. Stevens,BOS,Stevens BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0053,4,00:00.300000,BOS,,CHI,,L. Stevens,BOS,SUB: Kornet FOR Stevens,Substitution,,0,0,0,0,,,h
+S2324-G0213,4,11:36,MEM,,BOS,,L. Stevens,BOS,Stevens P.FOUL (P1.T1) (J.Williams),Foul,Personal,0,0,0,0,,,v
+S2324-G0213,4,10:37,MEM,,BOS,,L. Stevens,BOS,Stevens REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0213,4,09:19,MEM,,BOS,,L. Stevens,BOS,SUB: Porzingis FOR Stevens,Substitution,,0,0,0,0,,,v
+S2324-G0706,4,06:41,BOS,,MEM,,L. Stevens,BOS,Stevens S.FOUL (P1.T3) (S.Foster),Foul,Shooting,0,0,0,0,,,h
+S2324-G0706,4,06:08,BOS,,MEM,,L. Stevens,BOS,Stevens REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0706,4,06:01,BOS,,MEM,,L. Stevens,BOS,MISS Stevens 4' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,32,18,4,1,2.0,0.0,h
+S2324-G0706,4,05:03,BOS,,MEM,,L. Stevens,BOS,Stevens REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0706,4,02:53,BOS,124.0,MEM,87.0,L. Stevens,BOS,Stevens 24' 3PT Jump Shot (3 PTS) (Walsh 1 AST),Made Shot,Jump Shot,-237,13,24,1,3.0,3.0,h
+S2324-G0706,4,02:26,BOS,,MEM,,L. Stevens,BOS,MISS Stevens 8' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,23,78,8,1,2.0,0.0,h
+S2324-G0706,4,00:35.300000,BOS,131.0,MEM,91.0,L. Stevens,BOS,Stevens 2' Driving Layup (5 PTS) (Mykhailiuk 3 AST),Made Shot,Driving Layup Shot,11,11,2,1,2.0,2.0,h
+S2324-G0479,4,10:34,BOS,,UTA,,L. Stevens,BOS,Stevens REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0479,4,10:24,BOS,,UTA,,L. Stevens,BOS,MISS Stevens 9' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,23,88,9,1,2.0,0.0,h
+S2324-G0479,4,10:19,BOS,,UTA,,L. Stevens,BOS,MISS Stevens 27' 3PT Jump Shot,Missed Shot,Jump Shot,-116,241,27,1,3.0,0.0,h
+S2324-G0479,4,10:17,BOS,,UTA,,L. Stevens,BOS,Stevens REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0479,4,10:15,BOS,109.0,UTA,76.0,L. Stevens,BOS,Stevens 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,-6,16,2,1,2.0,2.0,h
+S2324-G0479,4,09:56,BOS,,UTA,,L. Stevens,BOS,Stevens REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0479,4,06:43,BOS,,UTA,,L. Stevens,BOS,Stevens STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0479,4,06:40,BOS,,UTA,,L. Stevens,BOS,Stevens Lost Ball Turnover (P1.T12),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0479,4,05:25,BOS,,UTA,,L. Stevens,BOS,Stevens REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0479,4,05:03,BOS,,UTA,,L. Stevens,BOS,Stevens P.FOUL (P1.PN) (M.Ervin),Foul,Personal,0,0,0,0,,,h
+S2324-G0479,4,03:15,BOS,,UTA,,L. Stevens,BOS,Stevens BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0479,4,03:15,BOS,,UTA,,L. Stevens,BOS,Stevens REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0479,4,00:36.700000,BOS,126.0,UTA,97.0,L. Stevens,BOS,Stevens 1' Cutting Dunk Shot (4 PTS) (Banton 1 AST),Made Shot,Cutting Dunk Shot,0,12,1,1,2.0,2.0,h
+S2324-G0571,4,02:20,BOS,,SAS,,L. Stevens,BOS,Stevens Out of Bounds Lost Ball Turnover (P1.T13),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2324-G0571,4,01:24,BOS,,SAS,,L. Stevens,BOS,Stevens STEAL (1 STL),,,0,0,0,0,,,h

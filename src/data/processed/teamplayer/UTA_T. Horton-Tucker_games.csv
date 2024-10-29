@@ -1,0 +1,1023 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2324-G0270,1,01:54,MIN,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 25' 3PT Jump Shot,Missed Shot,Jump Shot,-87,232,25,1,3.0,0.0,v
+S2324-G0270,1,00:08.200000,MIN,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,91,68,11,1,2.0,0.0,v
+S2324-G0270,2,08:38,MIN,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker P.FOUL (P1.T2) (E.Dalen),Foul,Personal,0,0,0,0,,,v
+S2324-G0270,2,08:19,MIN,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0270,2,07:47,MIN,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,-9,14,2,1,2.0,0.0,v
+S2324-G0270,2,07:30,MIN,,UTA,,T. Horton-Tucker,UTA,SUB: George FOR Horton-Tucker,Substitution,,0,0,0,0,,,v
+S2324-G0270,3,00:00,MIN,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 48' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,162,447,48,1,3.0,0.0,v
+S2324-G0270,4,10:48,MIN,88.0,UTA,70.0,T. Horton-Tucker,UTA,Horton-Tucker 2' Driving Dunk (2 PTS),Made Shot,Driving Dunk Shot,0,20,2,1,2.0,2.0,v
+S2324-G0270,4,09:38,MIN,88.0,UTA,75.0,T. Horton-Tucker,UTA,Horton-Tucker 4' Driving Finger Roll Layup (4 PTS),Made Shot,Driving Finger Roll Layup Shot,25,29,4,1,2.0,2.0,v
+S2324-G0270,4,07:54,MIN,95.0,UTA,78.0,T. Horton-Tucker,UTA,Horton-Tucker 24' 3PT Jump Shot (7 PTS) (Agbaji 3 AST),Made Shot,Jump Shot,235,7,24,1,3.0,3.0,v
+S2324-G0270,4,04:57,MIN,,UTA,,T. Horton-Tucker,UTA,SUB: Kessler FOR Horton-Tucker,Substitution,,0,0,0,0,,,v
+S2324-G0289,1,03:35,UTA,,POR,,T. Horton-Tucker,UTA,Horton-Tucker STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0289,1,02:45,UTA,,POR,,T. Horton-Tucker,UTA,MISS Horton-Tucker 26' 3PT Jump Shot,Missed Shot,Jump Shot,-218,144,26,1,3.0,0.0,h
+S2324-G0289,1,02:00,UTA,,POR,,T. Horton-Tucker,UTA,Jump Ball Horton-Tucker vs. Brogdon: Tip to Samanic,Jump Ball,,0,0,0,0,,,h
+S2324-G0289,1,02:00,UTA,,POR,,T. Horton-Tucker,UTA,Horton-Tucker STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0289,1,00:21.400000,UTA,,POR,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0289,2,10:14,UTA,,POR,,T. Horton-Tucker,UTA,MISS Horton-Tucker 4' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,-28,27,4,1,2.0,0.0,h
+S2324-G0289,2,08:10,UTA,37.0,POR,34.0,T. Horton-Tucker,UTA,Horton-Tucker 3PT Jump Shot (3 PTS) (Sexton 1 AST),Made Shot,Jump Shot,-232,32,0,1,3.0,3.0,h
+S2324-G0289,2,06:45,UTA,40.0,POR,34.0,T. Horton-Tucker,UTA,Horton-Tucker 27' 3PT Jump Shot (6 PTS) (Yurtseven 3 AST),Made Shot,Jump Shot,-163,209,27,1,3.0,3.0,h
+S2324-G0289,2,05:50,UTA,,POR,,T. Horton-Tucker,UTA,Horton-Tucker P.FOUL (P1.PN) (D.Collins),Foul,Personal,0,0,0,0,,,h
+S2324-G0289,2,05:02,UTA,,POR,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0289,2,04:33,UTA,,POR,,T. Horton-Tucker,UTA,SUB: Sexton FOR Horton-Tucker,Substitution,,0,0,0,0,,,h
+S2324-G0289,3,03:50,UTA,76.0,POR,62.0,T. Horton-Tucker,UTA,Horton-Tucker 26' 3PT Jump Shot (9 PTS) (Fontecchio 4 AST),Made Shot,Jump Shot,-76,248,26,1,3.0,3.0,h
+S2324-G0289,3,01:34,UTA,,POR,,T. Horton-Tucker,UTA,Horton-Tucker S.FOUL (P2.PN) (S.Wright),Foul,Shooting,0,0,0,0,,,h
+S2324-G0289,3,00:38.500000,UTA,,POR,,T. Horton-Tucker,UTA,Horton-Tucker STEAL (3 STL),,,0,0,0,0,,,h
+S2324-G0289,3,00:34.100000,UTA,82.0,POR,72.0,T. Horton-Tucker,UTA,Horton-Tucker 3' Running Layup (11 PTS),Made Shot,Running Layup Shot,-23,16,3,1,2.0,2.0,h
+S2324-G0289,3,00:11.800000,UTA,,POR,,T. Horton-Tucker,UTA,Horton-Tucker S.FOUL (P3.PN) (K.Lane),Foul,Shooting,0,0,0,0,,,h
+S2324-G0289,3,00:11.800000,UTA,,POR,,T. Horton-Tucker,UTA,Horton-Tucker T.FOUL (P3.PN) (S.Wright),Foul,Technical,0,0,0,0,,,h
+S2324-G0289,3,00:03.800000,UTA,84.0,POR,74.0,T. Horton-Tucker,UTA,Horton-Tucker 5' Driving Finger Roll Layup (13 PTS),Made Shot,Driving Finger Roll Layup Shot,6,47,5,1,2.0,2.0,h
+S2324-G0289,4,11:00,UTA,,POR,,T. Horton-Tucker,UTA,MISS Horton-Tucker 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-217,108,24,1,3.0,0.0,h
+S2324-G0289,4,09:23,UTA,,POR,,T. Horton-Tucker,UTA,Horton-Tucker Out of Bounds - Bad Pass Turnover Turnover (P1.T14),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G0289,4,07:41,UTA,,POR,,T. Horton-Tucker,UTA,MISS Horton-Tucker Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0289,4,07:41,UTA,94.0,POR,85.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0289,4,07:17,UTA,,POR,,T. Horton-Tucker,UTA,SUB: George FOR Horton-Tucker,Substitution,,0,0,0,0,,,h
+S2324-G0323,1,10:02,POR,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-129,213,25,1,3.0,0.0,v
+S2324-G0323,1,09:10,POR,7.0,UTA,9.0,T. Horton-Tucker,UTA,Horton-Tucker 4' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,-2,37,4,1,2.0,2.0,v
+S2324-G0323,1,09:10,POR,7.0,UTA,10.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G0323,1,07:44,POR,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0323,1,07:09,POR,13.0,UTA,15.0,T. Horton-Tucker,UTA,Horton-Tucker 1' Driving Dunk (5 PTS) (Kessler 2 AST),Made Shot,Driving Dunk Shot,-9,0,1,1,2.0,2.0,v
+S2324-G0323,1,06:53,POR,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0323,1,05:10,POR,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 26' 3PT Jump Shot,Missed Shot,Jump Shot,134,218,26,1,3.0,0.0,v
+S2324-G0323,1,03:16,POR,,UTA,,T. Horton-Tucker,UTA,SUB: Agbaji FOR Horton-Tucker,Substitution,,0,0,0,0,,,v
+S2324-G0323,2,11:08,POR,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,32,15,4,1,2.0,0.0,v
+S2324-G0323,2,09:18,POR,39.0,UTA,44.0,T. Horton-Tucker,UTA,Horton-Tucker 4' Driving Floating Jump Shot (7 PTS),Made Shot,Driving Floating Jump Shot,33,15,4,1,2.0,2.0,v
+S2324-G0323,2,08:21,POR,41.0,UTA,48.0,T. Horton-Tucker,UTA,Horton-Tucker 12' Fadeaway Jumper (9 PTS),Made Shot,Fadeaway Jump Shot,113,25,12,1,2.0,2.0,v
+S2324-G0323,2,07:25,POR,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 29' 3PT Jump Shot,Missed Shot,Jump Shot,-142,249,29,1,3.0,0.0,v
+S2324-G0323,2,07:13,POR,41.0,UTA,53.0,T. Horton-Tucker,UTA,Horton-Tucker 3' Driving Layup (11 PTS),Made Shot,Driving Layup Shot,-25,21,3,1,2.0,2.0,v
+S2324-G0323,2,06:54,POR,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker S.FOUL (P1.T1) (S.Corbin),Foul,Shooting,0,0,0,0,,,v
+S2324-G0323,2,05:56,POR,42.0,UTA,54.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0323,2,05:56,POR,42.0,UTA,55.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0323,2,05:10,POR,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0323,2,05:05,POR,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker Bad Pass Turnover (P2.T3),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0323,2,04:09,POR,,UTA,,T. Horton-Tucker,UTA,SUB: Hendricks FOR Horton-Tucker,Substitution,,0,0,0,0,,,v
+S2324-G0323,2,02:10,POR,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 24' 3PT Jump Shot,Missed Shot,Jump Shot,243,23,24,1,3.0,0.0,v
+S2324-G0323,3,10:42,POR,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-113,-2,11,1,2.0,0.0,v
+S2324-G0323,3,10:34,POR,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker S.FOUL (P2.T1) (S.Corbin),Foul,Shooting,0,0,0,0,,,v
+S2324-G0323,3,10:17,POR,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 28' 3PT Jump Shot,Missed Shot,Jump Shot,156,236,28,1,3.0,0.0,v
+S2324-G0323,3,07:43,POR,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker Bad Pass Turnover (P3.T5),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0323,3,07:07,POR,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0323,3,07:05,POR,60.0,UTA,81.0,T. Horton-Tucker,UTA,Horton-Tucker 1' Running Finger Roll Layup (15 PTS),Made Shot,Running Finger Roll Layup Shot,-9,6,1,1,2.0,2.0,v
+S2324-G0323,3,07:05,POR,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2324-G0323,3,07:00,POR,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0323,3,06:51,POR,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 3PT Jump Shot,Missed Shot,Jump Shot,-233,5,0,1,3.0,0.0,v
+S2324-G0323,3,06:48,POR,60.0,UTA,82.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0323,3,06:48,POR,60.0,UTA,83.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0323,3,06:32,POR,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker STEAL (3 STL),,,0,0,0,0,,,v
+S2324-G0323,3,06:28,POR,60.0,UTA,85.0,T. Horton-Tucker,UTA,Horton-Tucker 2' Running Layup (19 PTS),Made Shot,Running Layup Shot,4,19,2,1,2.0,2.0,v
+S2324-G0323,3,05:40,POR,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 1' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,11,10,1,1,2.0,0.0,v
+S2324-G0323,3,02:33,POR,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 20' Step Back Jump Shot,Missed Shot,Step Back Jump shot,134,147,20,1,2.0,0.0,v
+S2324-G0323,3,02:07,POR,68.0,UTA,97.0,T. Horton-Tucker,UTA,Horton-Tucker 1' Driving Dunk (21 PTS),Made Shot,Driving Dunk Shot,-7,4,1,1,2.0,2.0,v
+S2324-G0323,3,01:32,POR,70.0,UTA,99.0,T. Horton-Tucker,UTA,Horton-Tucker 1' Driving Finger Roll Layup (23 PTS),Made Shot,Driving Finger Roll Layup Shot,-2,9,1,1,2.0,2.0,v
+S2324-G0323,3,01:21,POR,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker STEAL (4 STL),,,0,0,0,0,,,v
+S2324-G0323,3,01:04,POR,,UTA,,T. Horton-Tucker,UTA,SUB: Sexton FOR Horton-Tucker,Substitution,,0,0,0,0,,,v
+S2324-G0138,1,09:21,MIN,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0138,1,07:52,MIN,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0138,1,07:50,MIN,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 7' Hook Shot,Missed Shot,Hook Shot,60,31,7,1,2.0,0.0,v
+S2324-G0138,1,07:36,MIN,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 16' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-33,155,16,1,2.0,0.0,v
+S2324-G0138,1,07:01,MIN,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 24' 3PT Jump Shot,Missed Shot,Jump Shot,-142,199,24,1,3.0,0.0,v
+S2324-G0138,1,06:58,MIN,,UTA,,T. Horton-Tucker,UTA,SUB: George FOR Horton-Tucker,Substitution,,0,0,0,0,,,v
+S2324-G0138,2,11:49,MIN,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker Out of Bounds - Bad Pass Turnover Turnover (P2.T5),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0138,2,11:15,MIN,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 25' 3PT Jump Shot,Missed Shot,Jump Shot,32,246,25,1,3.0,0.0,v
+S2324-G0138,2,09:15,MIN,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 15' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-151,10,15,1,2.0,0.0,v
+S2324-G0138,2,08:39,MIN,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0138,2,08:26,MIN,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0138,2,08:23,MIN,33.0,UTA,34.0,T. Horton-Tucker,UTA,Horton-Tucker 1' Running Finger Roll Layup (2 PTS),Made Shot,Running Finger Roll Layup Shot,6,3,1,1,2.0,2.0,v
+S2324-G0138,2,06:12,MIN,36.0,UTA,39.0,T. Horton-Tucker,UTA,Horton-Tucker 2' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,22,5,2,1,2.0,2.0,v
+S2324-G0138,2,05:38,MIN,38.0,UTA,42.0,T. Horton-Tucker,UTA,Horton-Tucker 25' 3PT Jump Shot (7 PTS) (Clarkson 2 AST),Made Shot,Jump Shot,-76,236,25,1,3.0,3.0,v
+S2324-G0138,2,05:19,MIN,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0138,2,05:14,MIN,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 3' Driving Layup,Missed Shot,Driving Layup Shot,11,32,3,1,2.0,0.0,v
+S2324-G0138,2,05:10,MIN,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0138,2,04:44,MIN,40.0,UTA,45.0,T. Horton-Tucker,UTA,Horton-Tucker 27' 3PT Jump Shot (10 PTS) (Agbaji 1 AST),Made Shot,Jump Shot,131,234,27,1,3.0,3.0,v
+S2324-G0138,2,04:07,MIN,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 9' Driving Layup,Missed Shot,Driving Layup Shot,75,48,9,1,2.0,0.0,v
+S2324-G0138,2,03:22,MIN,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 4' Driving Layup,Missed Shot,Driving Layup Shot,32,21,4,1,2.0,0.0,v
+S2324-G0138,2,02:51,MIN,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 6' Hook Shot,Missed Shot,Hook Shot,-48,37,6,1,2.0,0.0,v
+S2324-G0138,2,02:40,MIN,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker S.FOUL (P1.T4) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,v
+S2324-G0138,2,02:40,MIN,,UTA,,T. Horton-Tucker,UTA,SUB: George FOR Horton-Tucker,Substitution,,0,0,0,0,,,v
+S2324-G0138,3,10:21,MIN,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 8' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-49,64,8,1,2.0,0.0,v
+S2324-G0138,3,09:54,MIN,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0138,3,09:27,MIN,59.0,UTA,58.0,T. Horton-Tucker,UTA,Horton-Tucker 2' Driving Dunk (12 PTS),Made Shot,Driving Dunk Shot,10,16,2,1,2.0,2.0,v
+S2324-G0138,3,06:02,MIN,72.0,UTA,68.0,T. Horton-Tucker,UTA,Horton-Tucker 12' Pullup Jump Shot (14 PTS),Made Shot,Pullup Jump shot,109,55,12,1,2.0,2.0,v
+S2324-G0138,3,05:20,MIN,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 17' Step Back Jump Shot,Missed Shot,Step Back Jump shot,87,144,17,1,2.0,0.0,v
+S2324-G0138,3,05:14,MIN,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0138,3,04:55,MIN,,UTA,,T. Horton-Tucker,UTA,SUB: Sexton FOR Horton-Tucker,Substitution,,0,0,0,0,,,v
+S2324-G0138,4,08:57,MIN,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 5' Driving Layup,Missed Shot,Driving Layup Shot,43,33,5,1,2.0,0.0,v
+S2324-G0138,4,07:27,MIN,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 27' 3PT Jump Shot,Missed Shot,Jump Shot,-143,227,27,1,3.0,0.0,v
+S2324-G0138,4,06:37,MIN,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 26' 3PT Jump Shot,Missed Shot,Jump Shot,-107,242,26,1,3.0,0.0,v
+S2324-G0138,4,06:35,MIN,,UTA,,T. Horton-Tucker,UTA,SUB: George FOR Horton-Tucker,Substitution,,0,0,0,0,,,v
+S2324-G0616,4,06:05,NOP,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 14' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-13,141,14,1,2.0,0.0,v
+S2324-G0616,4,04:58,NOP,134.0,UTA,108.0,T. Horton-Tucker,UTA,Horton-Tucker 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,20,4,2,1,2.0,2.0,v
+S2324-G0616,4,03:48,NOP,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-227,134,26,1,3.0,0.0,v
+S2324-G0616,4,03:16,NOP,142.0,UTA,112.0,T. Horton-Tucker,UTA,Horton-Tucker 3' Driving Layup (4 PTS) (George 5 AST),Made Shot,Driving Layup Shot,25,5,3,1,2.0,2.0,v
+S2324-G0616,4,02:53,NOP,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0616,4,02:43,NOP,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,60,256,26,1,3.0,0.0,v
+S2324-G0616,4,01:50,NOP,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 4' Driving Layup,Missed Shot,Driving Layup Shot,0,41,4,1,2.0,0.0,v
+S2324-G0616,4,00:57.400000,NOP,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0616,4,00:53.600000,NOP,150.0,UTA,121.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0616,4,00:53.600000,NOP,150.0,UTA,122.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0616,4,00:36.300000,NOP,153.0,UTA,123.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0616,4,00:36.300000,NOP,153.0,UTA,124.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0616,4,00:29.800000,NOP,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0616,4,00:05.100000,NOP,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0616,4,00:01.200000,NOP,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-116,119,17,1,2.0,0.0,v
+S2324-G1154,1,02:43,UTA,,DEN,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1154,1,02:26,UTA,15.0,DEN,29.0,T. Horton-Tucker,UTA,Horton-Tucker 13' Turnaround Jump Shot (2 PTS),Made Shot,Turnaround Jump Shot,91,94,13,1,2.0,2.0,h
+S2324-G1154,1,01:04,UTA,17.0,DEN,34.0,T. Horton-Tucker,UTA,Horton-Tucker 14' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,-64,122,14,1,2.0,2.0,h
+S2324-G1154,1,00:56.300000,UTA,,DEN,,T. Horton-Tucker,UTA,Horton-Tucker BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G1154,1,00:55.500000,UTA,,DEN,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1154,1,00:35.100000,UTA,,DEN,,T. Horton-Tucker,UTA,MISS Horton-Tucker 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,230,46,0,1,3.0,0.0,h
+S2324-G1154,1,00:25.200000,UTA,,DEN,,T. Horton-Tucker,UTA,MISS Horton-Tucker 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-55,106,12,1,2.0,0.0,h
+S2324-G1154,2,11:13,UTA,,DEN,,T. Horton-Tucker,UTA,MISS Horton-Tucker 4' Driving Layup,Missed Shot,Driving Layup Shot,-15,36,4,1,2.0,0.0,h
+S2324-G1154,2,08:09,UTA,31.0,DEN,40.0,T. Horton-Tucker,UTA,Horton-Tucker 3' Driving Reverse Layup (6 PTS),Made Shot,Driving Reverse Layup Shot,23,16,3,1,2.0,2.0,h
+S2324-G1154,2,07:29,UTA,34.0,DEN,43.0,T. Horton-Tucker,UTA,Horton-Tucker 28' 3PT Jump Shot (9 PTS) (Sensabaugh 2 AST),Made Shot,Jump Shot,-179,211,28,1,3.0,3.0,h
+S2324-G1154,2,07:07,UTA,36.0,DEN,43.0,T. Horton-Tucker,UTA,Horton-Tucker 4' Running Layup (11 PTS) (Preston 1 AST),Made Shot,Running Layup Shot,29,31,4,1,2.0,2.0,h
+S2324-G1154,2,05:35,UTA,,DEN,,T. Horton-Tucker,UTA,Horton-Tucker P.FOUL (P1.T2) (J.Tiven),Foul,Personal,0,0,0,0,,,h
+S2324-G1154,2,04:43,UTA,,DEN,,T. Horton-Tucker,UTA,Horton-Tucker Lost Ball Turnover (P1.T7),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G1154,2,04:40,UTA,,DEN,,T. Horton-Tucker,UTA,Horton-Tucker S.FOUL (P2.T3) (M.Dagher),Foul,Shooting,0,0,0,0,,,h
+S2324-G1154,2,04:00,UTA,43.0,DEN,54.0,T. Horton-Tucker,UTA,Horton-Tucker 3' Driving Reverse Layup (13 PTS),Made Shot,Driving Reverse Layup Shot,-25,16,3,1,2.0,2.0,h
+S2324-G1154,2,03:26,UTA,,DEN,,T. Horton-Tucker,UTA,MISS Horton-Tucker 31' 3PT Jump Shot,Missed Shot,Jump Shot,-223,212,31,1,3.0,0.0,h
+S2324-G1154,2,02:37,UTA,48.0,DEN,56.0,T. Horton-Tucker,UTA,Horton-Tucker 4' Driving Layup (15 PTS),Made Shot,Driving Layup Shot,25,25,4,1,2.0,2.0,h
+S2324-G1154,2,02:08,UTA,51.0,DEN,56.0,T. Horton-Tucker,UTA,Horton-Tucker 26' 3PT Pullup Jump Shot (18 PTS) (George 2 AST),Made Shot,Pullup Jump shot,-71,249,26,1,3.0,3.0,h
+S2324-G1154,2,00:33.200000,UTA,,DEN,,T. Horton-Tucker,UTA,Horton-Tucker Lost Ball Turnover (P2.T9),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G1154,2,00:00,UTA,,DEN,,T. Horton-Tucker,UTA,MISS Horton-Tucker 39' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-224,325,39,1,3.0,0.0,h
+S2324-G1154,3,03:29,UTA,,DEN,,T. Horton-Tucker,UTA,MISS Horton-Tucker 2' Driving Layup,Missed Shot,Driving Layup Shot,-18,-1,2,1,2.0,0.0,h
+S2324-G1154,3,02:00,UTA,,DEN,,T. Horton-Tucker,UTA,Horton-Tucker STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1154,3,01:35,UTA,,DEN,,T. Horton-Tucker,UTA,MISS Horton-Tucker 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,22,63,7,1,2.0,0.0,h
+S2324-G1154,3,01:33,UTA,,DEN,,T. Horton-Tucker,UTA,Jump Ball Horton-Tucker vs. Jackson: Tip to Yurtseven,Jump Ball,,0,0,0,0,,,h
+S2324-G1154,3,01:26,UTA,77.0,DEN,80.0,T. Horton-Tucker,UTA,Horton-Tucker 26' 3PT Pullup Jump Shot (21 PTS) (George 4 AST),Made Shot,Pullup Jump shot,147,215,26,1,3.0,3.0,h
+S2324-G1154,3,00:03.800000,UTA,80.0,DEN,87.0,T. Horton-Tucker,UTA,Horton-Tucker 25' 3PT Step Back Jump Shot (24 PTS),Made Shot,Step Back Jump shot,180,179,25,1,3.0,3.0,h
+S2324-G1154,4,11:20,UTA,,DEN,,T. Horton-Tucker,UTA,MISS Horton-Tucker 7' Fadeaway Bank Shot,Missed Shot,Fadeaway Bank shot,-55,36,7,1,2.0,0.0,h
+S2324-G1154,4,10:42,UTA,,DEN,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1154,4,09:48,UTA,,DEN,,T. Horton-Tucker,UTA,Horton-Tucker Bad Pass Turnover (P3.T13),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G1154,4,09:30,UTA,,DEN,,T. Horton-Tucker,UTA,MISS Horton-Tucker 2' Driving Dunk,Missed Shot,Driving Dunk Shot,5,20,2,1,2.0,0.0,h
+S2324-G1154,4,08:43,UTA,,DEN,,T. Horton-Tucker,UTA,MISS Horton-Tucker 7' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,61,40,7,1,2.0,0.0,h
+S2324-G1154,4,08:36,UTA,,DEN,,T. Horton-Tucker,UTA,Horton-Tucker P.FOUL (P3.T3) (J.Tiven),Foul,Personal,0,0,0,0,,,h
+S2324-G1154,4,06:34,UTA,,DEN,,T. Horton-Tucker,UTA,Horton-Tucker S.FOUL (P4.T4) (N.Sago),Foul,Shooting,0,0,0,0,,,h
+S2324-G1154,4,05:44,UTA,,DEN,,T. Horton-Tucker,UTA,MISS Horton-Tucker 4' Driving Layup,Missed Shot,Driving Layup Shot,5,41,4,1,2.0,0.0,h
+S2324-G1154,4,01:59,UTA,,DEN,,T. Horton-Tucker,UTA,MISS Horton-Tucker 25' 3PT Jump Shot,Missed Shot,Jump Shot,23,246,25,1,3.0,0.0,h
+S2324-G1154,4,01:32,UTA,,DEN,,T. Horton-Tucker,UTA,MISS Horton-Tucker 2' Driving Layup,Missed Shot,Driving Layup Shot,20,-4,2,1,2.0,0.0,h
+S2324-G1154,4,00:33.300000,UTA,,DEN,,T. Horton-Tucker,UTA,Horton-Tucker Bad Pass Turnover (P4.T15),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0342,1,05:56,SAC,18.0,UTA,13.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw Technical (1 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,v
+S2324-G0342,1,04:26,SAC,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 3' Layup,Missed Shot,Layup Shot,-27,11,3,1,2.0,0.0,v
+S2324-G0342,1,03:36,SAC,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 24' 3PT Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,240,19,24,1,3.0,0.0,v
+S2324-G0342,1,03:04,SAC,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0342,2,11:36,SAC,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0342,2,11:34,SAC,35.0,UTA,25.0,T. Horton-Tucker,UTA,Horton-Tucker 1' Driving Layup (3 PTS),Made Shot,Driving Layup Shot,5,10,1,1,2.0,2.0,v
+S2324-G0342,2,10:48,SAC,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0342,2,09:57,SAC,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0342,2,09:48,SAC,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 10' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,97,1,10,1,2.0,0.0,v
+S2324-G0342,2,09:33,SAC,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0342,2,09:31,SAC,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 2' Running Reverse Layup,Missed Shot,Running Reverse Layup Shot,15,10,2,1,2.0,0.0,v
+S2324-G0342,2,09:07,SAC,,UTA,,T. Horton-Tucker,UTA,SUB: Sexton FOR Horton-Tucker,Substitution,,0,0,0,0,,,v
+S2324-G0342,2,02:21,SAC,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker Traveling Turnover (P1.T9),Turnover,Traveling,0,0,0,0,,,v
+S2324-G0342,3,03:47,SAC,90.0,UTA,72.0,T. Horton-Tucker,UTA,Horton-Tucker 26' 3PT Step Back Jump Shot (6 PTS),Made Shot,Step Back Jump shot,-154,211,26,1,3.0,3.0,v
+S2324-G0342,3,00:41.800000,SAC,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 3' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,-7,25,3,1,2.0,0.0,v
+S2324-G0342,4,10:03,SAC,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0342,4,10:03,SAC,106.0,UTA,82.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0342,4,09:38,SAC,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 4' Driving Layup,Missed Shot,Driving Layup Shot,25,31,4,1,2.0,0.0,v
+S2324-G0342,4,07:43,SAC,112.0,UTA,90.0,T. Horton-Tucker,UTA,Horton-Tucker 26' 3PT Jump Shot (10 PTS) (Markkanen 3 AST),Made Shot,Jump Shot,48,256,26,1,3.0,3.0,v
+S2324-G0342,4,05:58,SAC,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker STEAL (3 STL),,,0,0,0,0,,,v
+S2324-G0342,4,05:55,SAC,112.0,UTA,97.0,T. Horton-Tucker,UTA,Horton-Tucker Dunk (12 PTS) (Olynyk 13 AST),Made Shot,Dunk Shot,2,4,0,1,2.0,2.0,v
+S2324-G0342,4,04:32,SAC,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,229,91,25,1,3.0,0.0,v
+S2324-G0342,4,04:22,SAC,,UTA,,T. Horton-Tucker,UTA,SUB: Sexton FOR Horton-Tucker,Substitution,,0,0,0,0,,,v
+S2324-G0987,1,05:49,UTA,,MIN,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0987,1,01:59,UTA,,MIN,,T. Horton-Tucker,UTA,Horton-Tucker STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0987,1,01:47,UTA,,MIN,,T. Horton-Tucker,UTA,MISS Horton-Tucker 5' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,49,24,5,1,2.0,0.0,h
+S2324-G0987,1,01:35,UTA,,MIN,,T. Horton-Tucker,UTA,Horton-Tucker STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0987,1,00:04.200000,UTA,,MIN,,T. Horton-Tucker,UTA,Horton-Tucker S.FOUL (P1.T3) (A.Smith),Foul,Shooting,0,0,0,0,,,h
+S2324-G0987,3,04:06,UTA,69.0,MIN,70.0,T. Horton-Tucker,UTA,Horton-Tucker 26' 3PT Jump Shot (3 PTS) (Dunn 3 AST),Made Shot,Jump Shot,76,246,26,1,3.0,3.0,h
+S2324-G0987,3,02:55,UTA,,MIN,,T. Horton-Tucker,UTA,MISS Horton-Tucker 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,121,238,27,1,3.0,0.0,h
+S2324-G0987,3,00:56.200000,UTA,79.0,MIN,83.0,T. Horton-Tucker,UTA,Horton-Tucker 6' Driving Floating Jump Shot (5 PTS),Made Shot,Driving Floating Jump Shot,-23,59,6,1,2.0,2.0,h
+S2324-G0987,3,00:56.200000,UTA,80.0,MIN,83.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G0987,4,11:16,UTA,,MIN,,T. Horton-Tucker,UTA,MISS Horton-Tucker 4' Driving Layup,Missed Shot,Driving Layup Shot,-20,31,4,1,2.0,0.0,h
+S2324-G0987,4,08:13,UTA,,MIN,,T. Horton-Tucker,UTA,MISS Horton-Tucker Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0987,4,08:13,UTA,91.0,MIN,93.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0987,4,07:44,UTA,,MIN,,T. Horton-Tucker,UTA,MISS Horton-Tucker 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,190,160,25,1,3.0,0.0,h
+S2324-G0987,4,06:59,UTA,,MIN,,T. Horton-Tucker,UTA,MISS Horton-Tucker 3' Driving Dunk,Missed Shot,Driving Dunk Shot,-22,27,3,1,2.0,0.0,h
+S2324-G0987,4,05:35,UTA,,MIN,,T. Horton-Tucker,UTA,SUB: Markkanen FOR Horton-Tucker,Substitution,,0,0,0,0,,,h
+S2324-G0769,1,01:52,UTA,19.0,GSW,28.0,T. Horton-Tucker,UTA,Horton-Tucker 2' Running Layup (2 PTS),Made Shot,Running Layup Shot,23,-6,2,1,2.0,2.0,h
+S2324-G0769,1,01:29,UTA,21.0,GSW,28.0,T. Horton-Tucker,UTA,Horton-Tucker 2' Driving Dunk (4 PTS),Made Shot,Driving Dunk Shot,5,19,2,1,2.0,2.0,h
+S2324-G0769,2,11:44,UTA,,GSW,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0769,2,11:37,UTA,,GSW,,T. Horton-Tucker,UTA,MISS Horton-Tucker 4' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,21,38,4,1,2.0,0.0,h
+S2324-G0769,2,10:34,UTA,,GSW,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0769,2,10:10,UTA,30.0,GSW,36.0,T. Horton-Tucker,UTA,Horton-Tucker 9' Pullup Jump Shot (6 PTS) (Clarkson 1 AST),Made Shot,Pullup Jump shot,-62,62,9,1,2.0,2.0,h
+S2324-G0769,2,09:48,UTA,32.0,GSW,37.0,T. Horton-Tucker,UTA,Horton-Tucker 7' Driving Finger Roll Layup (8 PTS),Made Shot,Driving Finger Roll Layup Shot,48,48,7,1,2.0,2.0,h
+S2324-G0769,2,08:24,UTA,,GSW,,T. Horton-Tucker,UTA,Horton-Tucker STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0769,2,07:57,UTA,,GSW,,T. Horton-Tucker,UTA,SUB: Collins FOR Horton-Tucker,Substitution,,0,0,0,0,,,h
+S2324-G0769,3,02:23,UTA,75.0,GSW,86.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0769,3,02:23,UTA,76.0,GSW,86.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0769,3,01:33,UTA,,GSW,,T. Horton-Tucker,UTA,MISS Horton-Tucker 6' Driving Layup,Missed Shot,Driving Layup Shot,-54,34,6,1,2.0,0.0,h
+S2324-G0769,3,01:12,UTA,,GSW,,T. Horton-Tucker,UTA,Horton-Tucker Offensive Charge Foul (P1) (D.Guthrie),Foul,Offensive Charge,0,0,0,0,,,h
+S2324-G0769,3,01:12,UTA,,GSW,,T. Horton-Tucker,UTA,Horton-Tucker Offensive Foul Turnover (P1.T14),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0769,3,01:00,UTA,,GSW,,T. Horton-Tucker,UTA,Horton-Tucker S.FOUL (P2.PN) (D.Mosher),Foul,Shooting,0,0,0,0,,,h
+S2324-G0769,3,00:09.400000,UTA,,GSW,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0769,3,00:03.300000,UTA,,GSW,,T. Horton-Tucker,UTA,Horton-Tucker Bad Pass Turnover (P2.T15),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0769,4,11:19,UTA,83.0,GSW,96.0,T. Horton-Tucker,UTA,Horton-Tucker 26' 3PT Pullup Jump Shot (13 PTS) (Kessler 1 AST),Made Shot,Pullup Jump shot,-195,170,26,1,3.0,3.0,h
+S2324-G0769,4,10:06,UTA,,GSW,,T. Horton-Tucker,UTA,MISS Horton-Tucker 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,60,257,26,1,3.0,0.0,h
+S2324-G0769,4,09:44,UTA,,GSW,,T. Horton-Tucker,UTA,Horton-Tucker STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0769,4,06:46,UTA,,GSW,,T. Horton-Tucker,UTA,MISS Horton-Tucker 3PT Jump Shot,Missed Shot,Jump Shot,-230,17,0,1,3.0,0.0,h
+S2324-G0769,4,06:01,UTA,,GSW,,T. Horton-Tucker,UTA,SUB: Sexton FOR Horton-Tucker,Substitution,,0,0,0,0,,,h
+S2324-G0085,1,11:08,UTA,,LAC,,T. Horton-Tucker,UTA,Horton-Tucker Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0085,1,11:06,UTA,,LAC,,T. Horton-Tucker,UTA,Horton-Tucker Violation:Kicked Ball (D.Guthrie),Violation,Kicked Ball,0,0,0,0,,,h
+S2324-G0085,1,10:54,UTA,,LAC,,T. Horton-Tucker,UTA,Horton-Tucker STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0085,1,10:35,UTA,,LAC,,T. Horton-Tucker,UTA,Horton-Tucker STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0085,1,10:02,UTA,,LAC,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0085,1,09:56,UTA,,LAC,,T. Horton-Tucker,UTA,MISS Horton-Tucker 6' Running Layup,Missed Shot,Running Layup Shot,-54,36,6,1,2.0,0.0,h
+S2324-G0085,1,09:45,UTA,,LAC,,T. Horton-Tucker,UTA,MISS Horton-Tucker 27' 3PT Jump Shot,Missed Shot,Jump Shot,-100,247,27,1,3.0,0.0,h
+S2324-G0085,1,07:01,UTA,,LAC,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0085,1,06:26,UTA,,LAC,,T. Horton-Tucker,UTA,MISS Horton-Tucker 3' Driving Layup,Missed Shot,Driving Layup Shot,21,16,3,1,2.0,0.0,h
+S2324-G0085,1,06:26,UTA,,LAC,,T. Horton-Tucker,UTA,SUB: Sexton FOR Horton-Tucker,Substitution,,0,0,0,0,,,h
+S2324-G0085,2,10:23,UTA,41.0,LAC,34.0,T. Horton-Tucker,UTA,Horton-Tucker 26' 3PT Jump Shot (3 PTS) (Markkanen 1 AST),Made Shot,Jump Shot,100,243,26,1,3.0,3.0,h
+S2324-G0085,2,09:36,UTA,,LAC,,T. Horton-Tucker,UTA,Horton-Tucker BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0085,2,08:18,UTA,,LAC,,T. Horton-Tucker,UTA,MISS Horton-Tucker 3' Reverse Layup,Missed Shot,Reverse Layup Shot,-22,22,3,1,2.0,0.0,h
+S2324-G0085,2,08:13,UTA,50.0,LAC,36.0,T. Horton-Tucker,UTA,Horton-Tucker 3PT Jump Shot (6 PTS) (George 2 AST),Made Shot,Jump Shot,-225,-39,0,1,3.0,3.0,h
+S2324-G0085,2,04:58,UTA,,LAC,,T. Horton-Tucker,UTA,SUB: Sexton FOR Horton-Tucker,Substitution,,0,0,0,0,,,h
+S2324-G0085,3,10:50,UTA,67.0,LAC,56.0,T. Horton-Tucker,UTA,Horton-Tucker 19' Step Back Jump Shot (8 PTS),Made Shot,Step Back Jump shot,-185,16,19,1,2.0,2.0,h
+S2324-G0085,3,10:15,UTA,,LAC,,T. Horton-Tucker,UTA,Horton-Tucker S.FOUL (P1.T1) (K.Cutler),Foul,Shooting,0,0,0,0,,,h
+S2324-G0085,3,09:20,UTA,,LAC,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0085,3,09:16,UTA,,LAC,,T. Horton-Tucker,UTA,Horton-Tucker Bad Pass Turnover (P2.T10),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0085,3,06:16,UTA,,LAC,,T. Horton-Tucker,UTA,Horton-Tucker STEAL (3 STL),,,0,0,0,0,,,h
+S2324-G0085,3,06:10,UTA,,LAC,,T. Horton-Tucker,UTA,MISS Horton-Tucker 3PT Jump Shot,Missed Shot,Jump Shot,229,22,0,1,3.0,0.0,h
+S2324-G0085,3,05:56,UTA,,LAC,,T. Horton-Tucker,UTA,SUB: Sexton FOR Horton-Tucker,Substitution,,0,0,0,0,,,h
+S2324-G0085,4,11:14,UTA,,LAC,,T. Horton-Tucker,UTA,MISS Horton-Tucker 26' 3PT Jump Shot,Missed Shot,Jump Shot,-140,221,26,1,3.0,0.0,h
+S2324-G0085,4,08:35,UTA,,LAC,,T. Horton-Tucker,UTA,MISS Horton-Tucker 3' Dunk,Missed Shot,Dunk Shot,1,34,3,1,2.0,0.0,h
+S2324-G0085,4,05:14,UTA,102.0,LAC,104.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0085,4,05:14,UTA,103.0,LAC,104.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0085,4,04:40,UTA,,LAC,,T. Horton-Tucker,UTA,SUB: Dunn FOR Horton-Tucker,Substitution,,0,0,0,0,,,h
+S2324-G0882,1,03:06,UTA,,WAS,,T. Horton-Tucker,UTA,Horton-Tucker Violation:Kicked Ball (S.Twardoski),Violation,Kicked Ball,0,0,0,0,,,h
+S2324-G0882,1,02:10,UTA,29.0,WAS,33.0,T. Horton-Tucker,UTA,Horton-Tucker 24' 3PT Jump Shot (3 PTS) (Sensabaugh 1 AST),Made Shot,Jump Shot,-233,33,24,1,3.0,3.0,h
+S2324-G0882,1,00:02.900000,UTA,35.0,WAS,41.0,T. Horton-Tucker,UTA,Horton-Tucker 4' Reverse Layup (5 PTS) (Clarkson 2 AST),Made Shot,Reverse Layup Shot,-23,27,4,1,2.0,2.0,h
+S2324-G0882,2,10:20,UTA,,WAS,,T. Horton-Tucker,UTA,MISS Horton-Tucker 6' Driving Layup,Missed Shot,Driving Layup Shot,-31,48,6,1,2.0,0.0,h
+S2324-G0882,2,09:07,UTA,42.0,WAS,53.0,T. Horton-Tucker,UTA,Horton-Tucker 5' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,34,33,5,1,2.0,2.0,h
+S2324-G0882,2,07:47,UTA,49.0,WAS,56.0,T. Horton-Tucker,UTA,Horton-Tucker 3' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,22,20,3,1,2.0,2.0,h
+S2324-G0882,2,07:47,UTA,,WAS,,T. Horton-Tucker,UTA,MISS Horton-Tucker Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2324-G0882,2,07:45,UTA,,WAS,,T. Horton-Tucker,UTA,SUB: Hendricks FOR Horton-Tucker,Substitution,,0,0,0,0,,,h
+S2324-G0882,3,02:22,UTA,,WAS,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0882,4,10:44,UTA,,WAS,,T. Horton-Tucker,UTA,MISS Horton-Tucker 16' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-152,38,16,1,2.0,0.0,h
+S2324-G0882,4,09:39,UTA,,WAS,,T. Horton-Tucker,UTA,MISS Horton-Tucker 25' 3PT Jump Shot,Missed Shot,Jump Shot,-70,235,25,1,3.0,0.0,h
+S2324-G0882,4,09:10,UTA,,WAS,,T. Horton-Tucker,UTA,MISS Horton-Tucker 3' Driving Layup,Missed Shot,Driving Layup Shot,31,15,3,1,2.0,0.0,h
+S2324-G0882,4,08:44,UTA,,WAS,,T. Horton-Tucker,UTA,MISS Horton-Tucker 26' 3PT Jump Shot,Missed Shot,Jump Shot,-115,237,26,1,3.0,0.0,h
+S2324-G0882,4,08:26,UTA,,WAS,,T. Horton-Tucker,UTA,SUB: Dunn FOR Horton-Tucker,Substitution,,0,0,0,0,,,h
+S2324-G0302,1,04:19,OKC,18.0,UTA,15.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0302,1,04:19,OKC,18.0,UTA,16.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0302,1,03:52,OKC,18.0,UTA,18.0,T. Horton-Tucker,UTA,Horton-Tucker 16' Fadeaway Jumper (4 PTS),Made Shot,Fadeaway Jump Shot,-75,138,16,1,2.0,2.0,v
+S2324-G0302,1,02:49,OKC,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker S.FOUL (P1.T4) (T.Brothers),Foul,Shooting,0,0,0,0,,,v
+S2324-G0302,1,01:20,OKC,29.0,UTA,20.0,T. Horton-Tucker,UTA,Horton-Tucker 16' Turnaround Fadeaway (6 PTS),Made Shot,Turnaround Fadeaway shot,-78,136,16,1,2.0,2.0,v
+S2324-G0302,1,00:40.700000,OKC,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0302,2,11:33,OKC,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 25' 3PT Jump Shot,Missed Shot,Jump Shot,-137,208,25,1,3.0,0.0,v
+S2324-G0302,2,10:23,OKC,37.0,UTA,23.0,T. Horton-Tucker,UTA,Horton-Tucker 25' 3PT Jump Shot (9 PTS) (Dunn 1 AST),Made Shot,Jump Shot,-145,206,25,1,3.0,3.0,v
+S2324-G0302,2,08:57,OKC,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0302,2,07:34,OKC,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 9' Floating Jump Shot,Missed Shot,Floating Jump shot,72,53,9,1,2.0,0.0,v
+S2324-G0302,2,06:57,OKC,,UTA,,T. Horton-Tucker,UTA,SUB: George FOR Horton-Tucker,Substitution,,0,0,0,0,,,v
+S2324-G0302,3,04:53,OKC,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker L.B.FOUL (P2.T3) (T.Maddox),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0302,3,04:31,OKC,95.0,UTA,66.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0302,3,04:31,OKC,95.0,UTA,67.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0302,3,04:27,OKC,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker S.FOUL (P3.T4) (T.Maddox),Foul,Shooting,0,0,0,0,,,v
+S2324-G0302,3,04:17,OKC,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 10' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-69,73,10,1,2.0,0.0,v
+S2324-G0302,3,02:53,OKC,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 28' 3PT Jump Shot,Missed Shot,Jump Shot,-72,272,28,1,3.0,0.0,v
+S2324-G0302,3,01:49,OKC,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker Offensive Charge Foul (P4) (T.Brothers),Foul,Offensive Charge,0,0,0,0,,,v
+S2324-G0302,3,01:49,OKC,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker Offensive Foul Turnover (P1.T12),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0302,3,00:25.400000,OKC,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker Offensive Charge Foul (P5) (T.Maddox),Foul,Offensive Charge,0,0,0,0,,,v
+S2324-G0302,3,00:25.400000,OKC,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker Offensive Foul Turnover (P2.T13),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0302,3,00:25.400000,OKC,,UTA,,T. Horton-Tucker,UTA,SUB: George FOR Horton-Tucker,Substitution,,0,0,0,0,,,v
+S2324-G0660,4,05:53,BKN,126.0,UTA,102.0,T. Horton-Tucker,UTA,Horton-Tucker 7' Turnaround Fadeaway (2 PTS),Made Shot,Turnaround Fadeaway shot,-38,62,7,1,2.0,2.0,v
+S2324-G0660,4,03:32,BKN,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 2' Driving Layup,Missed Shot,Driving Layup Shot,7,22,2,1,2.0,0.0,v
+S2324-G0660,4,01:52,BKN,142.0,UTA,111.0,T. Horton-Tucker,UTA,Horton-Tucker 25' 3PT Step Back Jump Shot (5 PTS),Made Shot,Step Back Jump shot,118,220,25,1,3.0,3.0,v
+S2324-G0158,1,05:30,IND,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0158,1,03:13,IND,19.0,UTA,27.0,T. Horton-Tucker,UTA,Horton-Tucker 3' Driving Finger Roll Layup (2 PTS) (Sexton 2 AST),Made Shot,Driving Finger Roll Layup Shot,26,7,3,1,2.0,2.0,v
+S2324-G0158,1,02:18,IND,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-45,43,6,1,2.0,0.0,v
+S2324-G0158,1,00:00,IND,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 53' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-175,503,53,1,3.0,0.0,v
+S2324-G0158,2,11:30,IND,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0158,2,10:38,IND,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 9' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-9,92,9,1,2.0,0.0,v
+S2324-G0158,2,09:04,IND,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker S.FOUL (P1.T1) (B.Adair),Foul,Shooting,0,0,0,0,,,v
+S2324-G0158,2,09:04,IND,,UTA,,T. Horton-Tucker,UTA,SUB: George FOR Horton-Tucker,Substitution,,0,0,0,0,,,v
+S2324-G0158,2,06:29,IND,,UTA,,T. Horton-Tucker,UTA,SUB: Clarkson FOR Horton-Tucker,Substitution,,0,0,0,0,,,v
+S2324-G0158,3,05:29,IND,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 4' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,-34,14,4,1,2.0,0.0,v
+S2324-G0158,3,05:26,IND,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0158,3,05:25,IND,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker Putback Layup,Missed Shot,Putback Layup Shot,2,0,0,1,2.0,0.0,v
+S2324-G0158,3,05:25,IND,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0158,3,04:06,IND,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker Bad Pass Turnover (P2.T13),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0158,3,03:48,IND,89.0,UTA,84.0,T. Horton-Tucker,UTA,Horton-Tucker 2' Driving Layup (4 PTS) (Clarkson 4 AST),Made Shot,Driving Layup Shot,6,22,2,1,2.0,2.0,v
+S2324-G0158,3,01:18,IND,95.0,UTA,95.0,T. Horton-Tucker,UTA,Horton-Tucker 3' Driving Finger Roll Layup (6 PTS) (Fontecchio 1 AST),Made Shot,Driving Finger Roll Layup Shot,9,30,3,1,2.0,2.0,v
+S2324-G0158,3,01:04,IND,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0158,3,00:28.200000,IND,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker Bad Pass Turnover (P3.T15),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0158,3,00:10,IND,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker Out of Bounds Lost Ball Turnover (P4.T16),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2324-G0158,4,11:38,IND,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0158,4,09:14,IND,,UTA,,T. Horton-Tucker,UTA,SUB: Olynyk FOR Horton-Tucker,Substitution,,0,0,0,0,,,v
+S2324-G0318,1,06:46,UTA,,NYK,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0318,1,06:33,UTA,,NYK,,T. Horton-Tucker,UTA,MISS Horton-Tucker 30' 3PT Jump Shot,Missed Shot,Jump Shot,-173,241,30,1,3.0,0.0,h
+S2324-G0318,1,04:45,UTA,,NYK,,T. Horton-Tucker,UTA,MISS Horton-Tucker 15' Floating Jump Shot,Missed Shot,Floating Jump shot,-49,137,15,1,2.0,0.0,h
+S2324-G0318,1,03:11,UTA,,NYK,,T. Horton-Tucker,UTA,MISS Horton-Tucker 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,75,249,26,1,3.0,0.0,h
+S2324-G0318,1,02:00,UTA,,NYK,,T. Horton-Tucker,UTA,MISS Horton-Tucker 7' Reverse Layup,Missed Shot,Reverse Layup Shot,-51,47,7,1,2.0,0.0,h
+S2324-G0318,1,00:01.900000,UTA,,NYK,,T. Horton-Tucker,UTA,MISS Horton-Tucker Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0318,1,00:01.900000,UTA,,NYK,,T. Horton-Tucker,UTA,MISS Horton-Tucker Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0318,3,02:19,UTA,80.0,NYK,73.0,T. Horton-Tucker,UTA,Horton-Tucker 5' Driving Layup (2 PTS) (Kessler 1 AST),Made Shot,Driving Layup Shot,50,21,5,1,2.0,2.0,h
+S2324-G0318,3,01:50,UTA,,NYK,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0318,3,00:02.800000,UTA,,NYK,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0318,4,10:59,UTA,91.0,NYK,84.0,T. Horton-Tucker,UTA,Horton-Tucker 2' Running Layup (4 PTS),Made Shot,Running Layup Shot,16,17,2,1,2.0,2.0,h
+S2324-G0318,4,10:06,UTA,,NYK,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0318,4,10:00,UTA,95.0,NYK,84.0,T. Horton-Tucker,UTA,Horton-Tucker 2' Driving Reverse Layup (6 PTS),Made Shot,Driving Reverse Layup Shot,-16,3,2,1,2.0,2.0,h
+S2324-G0318,4,09:20,UTA,97.0,NYK,84.0,T. Horton-Tucker,UTA,Horton-Tucker 7' Floating Jump Shot (8 PTS),Made Shot,Floating Jump shot,-69,9,7,1,2.0,2.0,h
+S2324-G0318,4,08:43,UTA,,NYK,,T. Horton-Tucker,UTA,Horton-Tucker S.FOUL (P1.T3) (J.Ralls),Foul,Shooting,0,0,0,0,,,h
+S2324-G0318,4,07:52,UTA,102.0,NYK,86.0,T. Horton-Tucker,UTA,Horton-Tucker 25' 3PT Step Back Jump Shot (11 PTS) (Dunn 6 AST),Made Shot,Step Back Jump shot,-125,215,25,1,3.0,3.0,h
+S2324-G0318,4,07:22,UTA,,NYK,,T. Horton-Tucker,UTA,Horton-Tucker Bad Pass Turnover (P1.T11),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0318,4,07:01,UTA,,NYK,,T. Horton-Tucker,UTA,MISS Horton-Tucker 14' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-114,74,14,1,2.0,0.0,h
+S2324-G0318,4,06:22,UTA,106.0,NYK,89.0,T. Horton-Tucker,UTA,Horton-Tucker 6' Turnaround Jump Shot (13 PTS),Made Shot,Turnaround Jump Shot,1,62,6,1,2.0,2.0,h
+S2324-G0318,4,05:56,UTA,,NYK,,T. Horton-Tucker,UTA,MISS Horton-Tucker 3' Driving Layup,Missed Shot,Driving Layup Shot,27,1,3,1,2.0,0.0,h
+S2324-G0318,4,03:52,UTA,110.0,NYK,96.0,T. Horton-Tucker,UTA,Horton-Tucker 8' Driving Floating Jump Shot (15 PTS),Made Shot,Driving Floating Jump Shot,-40,73,8,1,2.0,2.0,h
+S2324-G0318,4,03:44,UTA,,NYK,,T. Horton-Tucker,UTA,Horton-Tucker P.FOUL (P2.PN) (Z.Zarba),Foul,Personal,0,0,0,0,,,h
+S2324-G0318,4,03:32,UTA,,NYK,,T. Horton-Tucker,UTA,MISS Horton-Tucker 5' Driving Layup,Missed Shot,Driving Layup Shot,50,8,5,1,2.0,0.0,h
+S2324-G0318,4,00:12.400000,UTA,,NYK,,T. Horton-Tucker,UTA,Horton-Tucker Lost Ball Turnover (P2.T16),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0898,1,02:44,UTA,,CHI,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0898,1,01:18,UTA,,CHI,,T. Horton-Tucker,UTA,Horton-Tucker P.FOUL (P1.T2) (K.Scott),Foul,Personal,0,0,0,0,,,h
+S2324-G0898,1,00:46.700000,UTA,27.0,CHI,27.0,T. Horton-Tucker,UTA,Horton-Tucker 26' 3PT Pullup Jump Shot (3 PTS) (Yurtseven 1 AST),Made Shot,Pullup Jump shot,129,220,26,1,3.0,3.0,h
+S2324-G0898,2,10:27,UTA,30.0,CHI,40.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0898,2,10:27,UTA,31.0,CHI,40.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0898,2,09:07,UTA,,CHI,,T. Horton-Tucker,UTA,Horton-Tucker BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0898,2,09:01,UTA,,CHI,,T. Horton-Tucker,UTA,MISS Horton-Tucker 3' Running Layup,Missed Shot,Running Layup Shot,-10,25,3,1,2.0,0.0,h
+S2324-G0898,2,08:17,UTA,,CHI,,T. Horton-Tucker,UTA,MISS Horton-Tucker 25' 3PT Jump Shot,Missed Shot,Jump Shot,230,93,25,1,3.0,0.0,h
+S2324-G0898,2,07:54,UTA,,CHI,,T. Horton-Tucker,UTA,SUB: Sensabaugh FOR Horton-Tucker,Substitution,,0,0,0,0,,,h
+S2324-G0898,3,06:25,UTA,,CHI,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0898,3,04:46,UTA,,CHI,,T. Horton-Tucker,UTA,MISS Horton-Tucker 5' Driving Layup,Missed Shot,Driving Layup Shot,28,38,5,1,2.0,0.0,h
+S2324-G0898,3,03:30,UTA,,CHI,,T. Horton-Tucker,UTA,MISS Horton-Tucker 27' 3PT Jump Shot,Missed Shot,Jump Shot,32,272,27,1,3.0,0.0,h
+S2324-G0898,3,01:37,UTA,,CHI,,T. Horton-Tucker,UTA,MISS Horton-Tucker 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,93,247,26,1,3.0,0.0,h
+S2324-G0898,4,10:49,UTA,,CHI,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0898,4,09:45,UTA,,CHI,,T. Horton-Tucker,UTA,Horton-Tucker Lost Ball Turnover (P1.T7),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0898,4,09:41,UTA,,CHI,,T. Horton-Tucker,UTA,Horton-Tucker BLOCK (2 BLK),,,0,0,0,0,,,h
+S2324-G0898,4,08:09,UTA,97.0,CHI,99.0,T. Horton-Tucker,UTA,Horton-Tucker 26' 3PT Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,-112,232,26,1,3.0,3.0,h
+S2324-G0898,4,04:05,UTA,,CHI,,T. Horton-Tucker,UTA,MISS Horton-Tucker 4' Driving Layup,Missed Shot,Driving Layup Shot,-1,38,4,1,2.0,0.0,h
+S2324-G0898,4,03:56,UTA,,CHI,,T. Horton-Tucker,UTA,SUB: Dunn FOR Horton-Tucker,Substitution,,0,0,0,0,,,h
+S2324-G0898,4,00:09.300000,UTA,,CHI,,T. Horton-Tucker,UTA,SUB: Yurtseven FOR Horton-Tucker,Substitution,,0,0,0,0,,,h
+S2324-G0094,1,11:06,PHX,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-116,-20,12,1,2.0,0.0,v
+S2324-G0094,1,08:56,PHX,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker S.FOUL (P1.T2) (M.Myers),Foul,Shooting,0,0,0,0,,,v
+S2324-G0094,1,08:10,PHX,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker Driving Layup,Missed Shot,Driving Layup Shot,0,0,0,1,2.0,0.0,v
+S2324-G0094,1,07:45,PHX,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,174,194,26,1,3.0,0.0,v
+S2324-G0094,1,06:22,PHX,,UTA,,T. Horton-Tucker,UTA,SUB: Agbaji FOR Horton-Tucker,Substitution,,0,0,0,0,,,v
+S2324-G0094,2,08:40,PHX,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 1' Driving Layup,Missed Shot,Driving Layup Shot,-1,10,1,1,2.0,0.0,v
+S2324-G0094,2,06:58,PHX,46.0,UTA,38.0,T. Horton-Tucker,UTA,Horton-Tucker Cutting Layup Shot (2 PTS) (George 2 AST),Made Shot,Cutting Layup Shot,-2,-4,0,1,2.0,2.0,v
+S2324-G0094,2,05:03,PHX,51.0,UTA,42.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0094,2,05:03,PHX,51.0,UTA,43.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0094,2,04:27,PHX,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-165,228,28,1,3.0,0.0,v
+S2324-G0094,2,04:18,PHX,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker P.FOUL (P2.T2) (J.Capers),Foul,Personal,0,0,0,0,,,v
+S2324-G0094,2,04:18,PHX,,UTA,,T. Horton-Tucker,UTA,SUB: Sexton FOR Horton-Tucker,Substitution,,0,0,0,0,,,v
+S2324-G0094,3,11:41,PHX,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker P.FOUL (P3.T2) (J.Capers),Foul,Personal,0,0,0,0,,,v
+S2324-G0094,3,11:31,PHX,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0094,3,11:09,PHX,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0094,3,11:09,PHX,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0094,3,09:10,PHX,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 27' 3PT Jump Shot,Missed Shot,Jump Shot,-212,159,27,1,3.0,0.0,v
+S2324-G0094,3,09:04,PHX,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker FLAGRANT.FOUL.TYPE1 (P4.T4) (M.Myers),Foul,Flagrant Type 1,0,0,0,0,,,v
+S2324-G0094,3,09:04,PHX,,UTA,,T. Horton-Tucker,UTA,SUB: George FOR Horton-Tucker,Substitution,,0,0,0,0,,,v
+S2324-G0256,1,01:15,UTA,,NOP,,T. Horton-Tucker,UTA,MISS Horton-Tucker 5' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,42,28,5,1,2.0,0.0,h
+S2324-G0256,1,00:46.500000,UTA,,NOP,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0256,2,10:50,UTA,,NOP,,T. Horton-Tucker,UTA,MISS Horton-Tucker 24' 3PT Jump Shot,Missed Shot,Jump Shot,-210,125,24,1,3.0,0.0,h
+S2324-G0256,2,09:04,UTA,40.0,NOP,33.0,T. Horton-Tucker,UTA,Horton-Tucker 7' Driving Floating Bank Jump Shot (2 PTS) (Olynyk 4 AST),Made Shot,Driving Floating Bank Jump Shot,72,15,7,1,2.0,2.0,h
+S2324-G0256,2,09:04,UTA,41.0,NOP,33.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G0256,2,08:12,UTA,,NOP,,T. Horton-Tucker,UTA,MISS Horton-Tucker 24' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-123,208,24,1,3.0,0.0,h
+S2324-G0256,2,07:09,UTA,,NOP,,T. Horton-Tucker,UTA,Horton-Tucker P.FOUL (P1.PN) (C.Blair),Foul,Personal,0,0,0,0,,,h
+S2324-G0256,2,07:09,UTA,,NOP,,T. Horton-Tucker,UTA,SUB: Collins FOR Horton-Tucker,Substitution,,0,0,0,0,,,h
+S2324-G0256,3,04:40,UTA,,NOP,,T. Horton-Tucker,UTA,Horton-Tucker P.FOUL (P2.PN) (M.Ervin),Foul,Personal,0,0,0,0,,,h
+S2324-G0256,3,01:38,UTA,,NOP,,T. Horton-Tucker,UTA,MISS Horton-Tucker 26' 3PT Jump Shot,Missed Shot,Jump Shot,108,236,26,1,3.0,0.0,h
+S2324-G0256,3,00:57.100000,UTA,,NOP,,T. Horton-Tucker,UTA,MISS Horton-Tucker 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-51,102,11,1,2.0,0.0,h
+S2324-G0256,4,10:49,UTA,93.0,NOP,91.0,T. Horton-Tucker,UTA,Horton-Tucker 5' Driving Finger Roll Layup (5 PTS),Made Shot,Driving Finger Roll Layup Shot,-32,43,5,1,2.0,2.0,h
+S2324-G0256,4,09:37,UTA,,NOP,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0256,4,07:44,UTA,,NOP,,T. Horton-Tucker,UTA,MISS Horton-Tucker 7' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-47,58,7,1,2.0,0.0,h
+S2324-G0256,4,06:54,UTA,,NOP,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0256,4,06:10,UTA,,NOP,,T. Horton-Tucker,UTA,MISS Horton-Tucker 5' Driving Layup,Missed Shot,Driving Layup Shot,34,34,5,1,2.0,0.0,h
+S2324-G0256,4,05:26,UTA,,NOP,,T. Horton-Tucker,UTA,SUB: Clarkson FOR Horton-Tucker,Substitution,,0,0,0,0,,,h
+S2324-G1168,1,02:52,UTA,,HOU,,T. Horton-Tucker,UTA,Horton-Tucker L.B.FOUL (P1.T3) (A.Nagy),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G1168,1,02:02,UTA,,HOU,,T. Horton-Tucker,UTA,MISS Horton-Tucker 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-15,247,25,1,3.0,0.0,h
+S2324-G1168,1,00:10.600000,UTA,,HOU,,T. Horton-Tucker,UTA,MISS Horton-Tucker 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-55,93,11,1,2.0,0.0,h
+S2324-G1168,2,11:42,UTA,,HOU,,T. Horton-Tucker,UTA,Horton-Tucker Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G1168,2,11:22,UTA,31.0,HOU,40.0,T. Horton-Tucker,UTA,Horton-Tucker 28' 3PT Jump Shot (3 PTS) (Sensabaugh 2 AST),Made Shot,Jump Shot,223,167,28,1,3.0,3.0,h
+S2324-G1168,2,10:00,UTA,,HOU,,T. Horton-Tucker,UTA,MISS Horton-Tucker 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-82,243,26,1,3.0,0.0,h
+S2324-G1168,2,08:19,UTA,,HOU,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1168,2,08:11,UTA,43.0,HOU,49.0,T. Horton-Tucker,UTA,Horton-Tucker 5' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,-44,24,5,1,2.0,2.0,h
+S2324-G1168,2,06:35,UTA,,HOU,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1168,2,06:31,UTA,50.0,HOU,49.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1168,2,06:31,UTA,51.0,HOU,49.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1168,2,04:49,UTA,,HOU,,T. Horton-Tucker,UTA,Horton-Tucker S.FOUL (P2.T1) (A.Nagy),Foul,Shooting,0,0,0,0,,,h
+S2324-G1168,2,03:56,UTA,,HOU,,T. Horton-Tucker,UTA,SUB: Hendricks FOR Horton-Tucker,Substitution,,0,0,0,0,,,h
+S2324-G1168,3,04:04,UTA,,HOU,,T. Horton-Tucker,UTA,MISS Horton-Tucker 21' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-94,193,21,1,2.0,0.0,h
+S2324-G1168,3,03:48,UTA,86.0,HOU,89.0,T. Horton-Tucker,UTA,Horton-Tucker 5' Running Layup (9 PTS) (Lofton Jr. 1 AST),Made Shot,Running Layup Shot,-47,26,5,1,2.0,2.0,h
+S2324-G1168,3,02:46,UTA,,HOU,,T. Horton-Tucker,UTA,MISS Horton-Tucker 21' Step Back Jump Shot,Missed Shot,Step Back Jump shot,55,201,21,1,2.0,0.0,h
+S2324-G1168,3,01:00,UTA,,HOU,,T. Horton-Tucker,UTA,MISS Horton-Tucker 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-71,254,26,1,3.0,0.0,h
+S2324-G1168,4,10:46,UTA,,HOU,,T. Horton-Tucker,UTA,MISS Horton-Tucker 27' 3PT Jump Shot,Missed Shot,Jump Shot,81,253,27,1,3.0,0.0,h
+S2324-G1168,4,10:22,UTA,102.0,HOU,101.0,T. Horton-Tucker,UTA,Horton-Tucker 4' Driving Dunk (11 PTS),Made Shot,Driving Dunk Shot,25,26,4,1,2.0,2.0,h
+S2324-G1168,4,09:16,UTA,,HOU,,T. Horton-Tucker,UTA,Horton-Tucker S.FOUL (P3.T2) (A.Nagy),Foul,Shooting,0,0,0,0,,,h
+S2324-G1168,4,08:29,UTA,,HOU,,T. Horton-Tucker,UTA,Horton-Tucker S.FOUL (P4.T3) (A.Nagy),Foul,Shooting,0,0,0,0,,,h
+S2324-G1168,4,06:19,UTA,,HOU,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1168,4,05:15,UTA,,HOU,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1168,4,04:21,UTA,116.0,HOU,113.0,T. Horton-Tucker,UTA,Horton-Tucker 28' 3PT Jump Shot (14 PTS) (George 5 AST),Made Shot,Jump Shot,-202,200,28,1,3.0,3.0,h
+S2324-G1168,4,03:36,UTA,,HOU,,T. Horton-Tucker,UTA,Horton-Tucker BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G1168,4,03:01,UTA,,HOU,,T. Horton-Tucker,UTA,Horton-Tucker BLOCK (2 BLK),,,0,0,0,0,,,h
+S2324-G1168,4,02:42,UTA,,HOU,,T. Horton-Tucker,UTA,MISS Horton-Tucker 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,39,44,6,1,2.0,0.0,h
+S2324-G1168,4,02:40,UTA,,HOU,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1168,4,02:39,UTA,117.0,HOU,116.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1168,4,02:39,UTA,118.0,HOU,116.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1168,4,02:30,UTA,,HOU,,T. Horton-Tucker,UTA,Horton-Tucker S.FOUL (P5.PN) (A.Nagy),Foul,Shooting,0,0,0,0,,,h
+S2324-G0364,1,09:00,CLE,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 15' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,47,143,15,1,2.0,0.0,v
+S2324-G0364,1,08:43,CLE,,UTA,,T. Horton-Tucker,UTA,SUB: Dunn FOR Horton-Tucker,Substitution,,0,0,0,0,,,v
+S2324-G0364,1,01:23,CLE,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,72,16,7,1,2.0,0.0,v
+S2324-G0364,1,00:03.700000,CLE,33.0,UTA,27.0,T. Horton-Tucker,UTA,Horton-Tucker 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,-15,1,2,1,2.0,2.0,v
+S2324-G0364,2,11:18,CLE,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 2' Driving Layup,Missed Shot,Driving Layup Shot,0,23,2,1,2.0,0.0,v
+S2324-G0364,2,11:01,CLE,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0364,2,10:46,CLE,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-113,13,11,1,2.0,0.0,v
+S2324-G0364,2,07:22,CLE,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 2' Driving Layup,Missed Shot,Driving Layup Shot,6,22,2,1,2.0,0.0,v
+S2324-G0364,2,07:04,CLE,50.0,UTA,43.0,T. Horton-Tucker,UTA,Horton-Tucker 2' Driving Floating Bank Jump Shot (4 PTS),Made Shot,Driving Floating Bank Jump Shot,-6,21,2,1,2.0,2.0,v
+S2324-G0364,2,07:04,CLE,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2324-G0364,2,05:48,CLE,50.0,UTA,45.0,T. Horton-Tucker,UTA,Horton-Tucker Driving Layup (6 PTS),Made Shot,Driving Layup Shot,4,1,0,1,2.0,2.0,v
+S2324-G0364,2,05:38,CLE,,UTA,,T. Horton-Tucker,UTA,SUB: Dunn FOR Horton-Tucker,Substitution,,0,0,0,0,,,v
+S2324-G0364,3,09:34,CLE,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker P.FOUL (P1.T1) (S.Foster),Foul,Personal,0,0,0,0,,,v
+S2324-G0364,3,09:03,CLE,69.0,UTA,66.0,T. Horton-Tucker,UTA,Horton-Tucker 1' Driving Dunk (8 PTS),Made Shot,Driving Dunk Shot,-1,9,1,1,2.0,2.0,v
+S2324-G0364,3,04:24,CLE,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker P.FOUL (P2.T3) (S.Foster),Foul,Personal,0,0,0,0,,,v
+S2324-G0364,3,04:24,CLE,,UTA,,T. Horton-Tucker,UTA,SUB: Collins FOR Horton-Tucker,Substitution,,0,0,0,0,,,v
+S2324-G0364,4,09:39,CLE,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0364,4,09:30,CLE,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 3PT Jump Shot,Missed Shot,Jump Shot,-232,-8,0,1,3.0,0.0,v
+S2324-G0364,4,08:31,CLE,104.0,UTA,95.0,T. Horton-Tucker,UTA,Horton-Tucker 1' Driving Dunk (10 PTS),Made Shot,Driving Dunk Shot,-1,5,1,1,2.0,2.0,v
+S2324-G0364,4,07:06,CLE,109.0,UTA,96.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0364,4,07:06,CLE,109.0,UTA,97.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0364,4,06:46,CLE,109.0,UTA,98.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0364,4,06:46,CLE,109.0,UTA,99.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0364,4,05:59,CLE,112.0,UTA,100.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0364,4,05:59,CLE,112.0,UTA,101.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0364,4,05:21,CLE,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker Driving Layup,Missed Shot,Driving Layup Shot,-1,1,0,1,2.0,0.0,v
+S2324-G0364,4,03:37,CLE,114.0,UTA,105.0,T. Horton-Tucker,UTA,Horton-Tucker 1' Driving Layup (18 PTS),Made Shot,Driving Layup Shot,4,13,1,1,2.0,2.0,v
+S2324-G0364,4,03:37,CLE,114.0,UTA,106.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 1 of 1 (19 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G0364,4,01:35,CLE,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker Lost Ball Turnover (P1.T16),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0364,4,00:47.500000,CLE,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker P.FOUL (P3.PN) (S.Foster),Foul,Personal,0,0,0,0,,,v
+S2324-G0237,1,02:01,POR,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-136,231,27,1,3.0,0.0,v
+S2324-G0237,1,01:30,POR,29.0,UTA,15.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0237,1,01:30,POR,29.0,UTA,16.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0237,1,00:01.500000,POR,32.0,UTA,21.0,T. Horton-Tucker,UTA,Horton-Tucker Driving Finger Roll Layup (4 PTS),Made Shot,Driving Finger Roll Layup Shot,0,4,0,1,2.0,2.0,v
+S2324-G0237,2,11:16,POR,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker S.FOUL (P1.T1) (M.Kallio),Foul,Shooting,0,0,0,0,,,v
+S2324-G0237,2,10:59,POR,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 29' 3PT Jump Shot,Missed Shot,Jump Shot,-9,290,29,1,3.0,0.0,v
+S2324-G0237,2,09:41,POR,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker Bad Pass Turnover (P1.T10),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0237,2,09:17,POR,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker Out of Bounds - Bad Pass Turnover Turnover (P2.T11),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0237,2,08:09,POR,,UTA,,T. Horton-Tucker,UTA,SUB: Markkanen FOR Horton-Tucker,Substitution,,0,0,0,0,,,v
+S2324-G0237,3,01:24,POR,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker OFF.Foul (P2) (J.Butler),Foul,Offensive,0,0,0,0,,,v
+S2324-G0237,3,01:24,POR,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker Offensive Foul Turnover (P3.T20),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0237,4,11:16,POR,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 18' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,77,167,18,1,2.0,0.0,v
+S2324-G0237,4,10:30,POR,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0237,4,10:30,POR,94.0,UTA,74.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0237,4,10:20,POR,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker S.FOUL (P3.T1) (T.Brothers),Foul,Shooting,0,0,0,0,,,v
+S2324-G0237,4,09:40,POR,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker AWAY.FROM.PLAY.FOUL (P4.T2) (J.Butler),Foul,Away From Play,0,0,0,0,,,v
+S2324-G0237,4,09:40,POR,,UTA,,T. Horton-Tucker,UTA,SUB: Markkanen FOR Horton-Tucker,Substitution,,0,0,0,0,,,v
+S2324-G0261,1,03:01,MEM,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker S.FOUL (P1.T2) (M.Davis),Foul,Shooting,0,0,0,0,,,v
+S2324-G0261,1,02:58,MEM,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0261,1,02:09,MEM,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0261,1,01:37,MEM,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 5' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,42,30,5,1,2.0,0.0,v
+S2324-G0261,1,00:06.900000,MEM,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,103,29,11,1,2.0,0.0,v
+S2324-G0261,2,10:31,MEM,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0261,2,10:24,MEM,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1,15,2,1,2.0,0.0,v
+S2324-G0261,2,08:08,MEM,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 26' 3PT Jump Shot,Missed Shot,Jump Shot,172,200,26,1,3.0,0.0,v
+S2324-G0261,2,07:23,MEM,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 4' Driving Dunk,Missed Shot,Driving Dunk Shot,11,34,4,1,2.0,0.0,v
+S2324-G0261,2,07:17,MEM,,UTA,,T. Horton-Tucker,UTA,SUB: Collins FOR Horton-Tucker,Substitution,,0,0,0,0,,,v
+S2324-G0261,3,01:16,MEM,84.0,UTA,65.0,T. Horton-Tucker,UTA,Horton-Tucker 4' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,21,32,4,1,2.0,2.0,v
+S2324-G0261,3,00:56.700000,MEM,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker S.FOUL (P2.T3) (M.Kallio),Foul,Shooting,0,0,0,0,,,v
+S2324-G0261,3,00:13,MEM,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,49,36,6,1,2.0,0.0,v
+S2324-G0261,3,00:11.300000,MEM,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0261,3,00:09.900000,MEM,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 4' Putback Layup,Missed Shot,Putback Layup Shot,18,33,4,1,2.0,0.0,v
+S2324-G0261,4,09:50,MEM,92.0,UTA,74.0,T. Horton-Tucker,UTA,Horton-Tucker 28' 3PT Jump Shot (5 PTS) (Olynyk 1 AST),Made Shot,Jump Shot,-27,278,28,1,3.0,3.0,v
+S2324-G0261,4,09:25,MEM,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,157,212,26,1,3.0,0.0,v
+S2324-G0261,4,07:24,MEM,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker Bad Pass Turnover (P2.T16),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0261,4,06:40,MEM,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0261,4,06:31,MEM,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 26' 3PT Jump Shot,Missed Shot,Jump Shot,-36,258,26,1,3.0,0.0,v
+S2324-G0261,4,03:16,MEM,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 27' 3PT Jump Shot,Missed Shot,Jump Shot,-156,215,27,1,3.0,0.0,v
+S2324-G0261,4,02:40,MEM,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0261,4,01:05,MEM,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0125,1,10:32,UTA,,MEM,,T. Horton-Tucker,UTA,Horton-Tucker Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0125,1,10:32,UTA,,MEM,,T. Horton-Tucker,UTA,Horton-Tucker P.FOUL (P1.T1) (J.Van Duyne),Foul,Personal,0,0,0,0,,,h
+S2324-G0125,1,08:24,UTA,,MEM,,T. Horton-Tucker,UTA,Horton-Tucker Palming Turnover (P2.T2),Turnover,Palming Turnover,0,0,0,0,,,h
+S2324-G0125,1,07:14,UTA,,MEM,,T. Horton-Tucker,UTA,SUB: Sexton FOR Horton-Tucker,Substitution,,0,0,0,0,,,h
+S2324-G0125,2,10:21,UTA,,MEM,,T. Horton-Tucker,UTA,Horton-Tucker P.FOUL (P2.T1) (T.Brothers),Foul,Personal,0,0,0,0,,,h
+S2324-G0125,2,08:03,UTA,51.0,MEM,31.0,T. Horton-Tucker,UTA,Horton-Tucker 8' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,82,14,8,1,2.0,2.0,h
+S2324-G0125,2,07:14,UTA,,MEM,,T. Horton-Tucker,UTA,MISS Horton-Tucker 26' 3PT Jump Shot,Missed Shot,Jump Shot,-124,231,26,1,3.0,0.0,h
+S2324-G0125,2,07:11,UTA,,MEM,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0125,2,07:09,UTA,,MEM,,T. Horton-Tucker,UTA,Horton-Tucker Bad Pass Turnover (P3.T8),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0125,2,06:17,UTA,,MEM,,T. Horton-Tucker,UTA,Horton-Tucker S.FOUL (P3.T3) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,h
+S2324-G0125,2,04:19,UTA,62.0,MEM,39.0,T. Horton-Tucker,UTA,Horton-Tucker 6' Layup (4 PTS),Made Shot,Layup Shot,51,37,6,1,2.0,2.0,h
+S2324-G0125,2,04:19,UTA,63.0,MEM,39.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G0125,2,04:04,UTA,,MEM,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0125,2,03:38,UTA,,MEM,,T. Horton-Tucker,UTA,SUB: Sexton FOR Horton-Tucker,Substitution,,0,0,0,0,,,h
+S2324-G0125,3,09:49,UTA,82.0,MEM,48.0,T. Horton-Tucker,UTA,Horton-Tucker 2' Driving Reverse Layup (7 PTS),Made Shot,Driving Reverse Layup Shot,-11,20,2,1,2.0,2.0,h
+S2324-G0125,3,09:32,UTA,,MEM,,T. Horton-Tucker,UTA,Horton-Tucker Bad Pass Turnover (P4.T14),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0125,3,08:06,UTA,,MEM,,T. Horton-Tucker,UTA,Horton-Tucker Bad Pass Turnover (P5.T15),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0125,3,06:51,UTA,,MEM,,T. Horton-Tucker,UTA,MISS Horton-Tucker 24' 3PT Jump Shot,Missed Shot,Jump Shot,228,78,24,1,3.0,0.0,h
+S2324-G0125,3,06:27,UTA,,MEM,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0125,3,06:23,UTA,86.0,MEM,58.0,T. Horton-Tucker,UTA,Horton-Tucker 8' Driving Floating Bank Jump Shot (9 PTS),Made Shot,Driving Floating Bank Jump Shot,61,54,8,1,2.0,2.0,h
+S2324-G0125,3,06:22,UTA,,MEM,,T. Horton-Tucker,UTA,SUB: Sexton FOR Horton-Tucker,Substitution,,0,0,0,0,,,h
+S2324-G0125,4,10:47,UTA,,MEM,,T. Horton-Tucker,UTA,MISS Horton-Tucker 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,227,31,0,1,3.0,0.0,h
+S2324-G0125,4,09:36,UTA,,MEM,,T. Horton-Tucker,UTA,MISS Horton-Tucker 9' Layup,Missed Shot,Layup Shot,-38,78,9,1,2.0,0.0,h
+S2324-G0125,4,08:39,UTA,,MEM,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0125,4,08:05,UTA,,MEM,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0125,4,07:40,UTA,,MEM,,T. Horton-Tucker,UTA,SUB: Dunn FOR Horton-Tucker,Substitution,,0,0,0,0,,,h
+S2324-G0867,1,02:58,MIA,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0867,1,02:23,MIA,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0867,1,02:21,MIA,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 2' Running Reverse Layup,Missed Shot,Running Reverse Layup Shot,-23,8,2,1,2.0,0.0,v
+S2324-G0867,1,00:26.500000,MIA,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 3' Running Layup,Missed Shot,Running Layup Shot,31,11,3,1,2.0,0.0,v
+S2324-G0867,2,09:39,MIA,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0867,2,09:01,MIA,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0867,2,09:01,MIA,38.0,UTA,39.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0867,2,09:01,MIA,38.0,UTA,40.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0867,2,08:44,MIA,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0867,2,07:58,MIA,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0867,2,07:35,MIA,41.0,UTA,42.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0867,2,07:35,MIA,41.0,UTA,43.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0867,2,06:58,MIA,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 25' 3PT Jump Shot,Missed Shot,Jump Shot,-137,211,25,1,3.0,0.0,v
+S2324-G0867,2,04:42,MIA,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,10,43,4,1,2.0,0.0,v
+S2324-G0867,2,04:40,MIA,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker L.B.FOUL (P1.T2) (M.Ervin),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0867,2,04:40,MIA,,UTA,,T. Horton-Tucker,UTA,SUB: George FOR Horton-Tucker,Substitution,,0,0,0,0,,,v
+S2324-G0867,3,03:11,MIA,82.0,UTA,83.0,T. Horton-Tucker,UTA,Horton-Tucker 26' 3PT Jump Shot (7 PTS) (Markkanen 3 AST),Made Shot,Jump Shot,42,256,26,1,3.0,3.0,v
+S2324-G0867,3,01:48,MIA,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker P.FOUL (P2.PN) (M.Ervin),Foul,Personal,0,0,0,0,,,v
+S2324-G0867,3,01:25,MIA,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 5' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,48,2,5,1,2.0,0.0,v
+S2324-G0867,3,01:11,MIA,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0867,3,00:30.800000,MIA,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0867,4,11:14,MIA,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker S.FOUL (P3.T1) (M.Ervin),Foul,Shooting,0,0,0,0,,,v
+S2324-G0867,4,10:46,MIA,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 2' Driving Layup,Missed Shot,Driving Layup Shot,22,4,2,1,2.0,0.0,v
+S2324-G0867,4,09:36,MIA,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker S.FOUL (P4.T2) (M.Boland),Foul,Shooting,0,0,0,0,,,v
+S2324-G0867,4,08:54,MIA,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0867,4,07:31,MIA,,UTA,,T. Horton-Tucker,UTA,SUB: Sexton FOR Horton-Tucker,Substitution,,0,0,0,0,,,v
+S2324-G0922,1,02:06,DEN,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker P.FOUL (P1.T4) (M.Dagher),Foul,Personal,0,0,0,0,,,v
+S2324-G0922,1,01:43,DEN,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 25' 3PT Jump Shot,Missed Shot,Jump Shot,-213,123,25,1,3.0,0.0,v
+S2324-G0922,2,09:14,DEN,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-213,139,25,1,3.0,0.0,v
+S2324-G0922,2,07:13,DEN,54.0,UTA,29.0,T. Horton-Tucker,UTA,Horton-Tucker 25' 3PT Jump Shot (3 PTS) (Juzang 1 AST),Made Shot,Jump Shot,-179,169,25,1,3.0,3.0,v
+S2324-G0922,2,06:53,DEN,,UTA,,T. Horton-Tucker,UTA,SUB: Sexton FOR Horton-Tucker,Substitution,,0,0,0,0,,,v
+S2324-G0943,1,02:36,UTA,29.0,BOS,36.0,T. Horton-Tucker,UTA,Horton-Tucker 8' Floating Jump Shot (2 PTS),Made Shot,Floating Jump shot,-48,65,8,1,2.0,2.0,h
+S2324-G0943,1,00:00,UTA,,BOS,,T. Horton-Tucker,UTA,Horton-Tucker STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0943,2,11:37,UTA,,BOS,,T. Horton-Tucker,UTA,MISS Horton-Tucker 18' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-170,57,18,1,2.0,0.0,h
+S2324-G0943,2,10:38,UTA,,BOS,,T. Horton-Tucker,UTA,MISS Horton-Tucker 7' Driving Hook Shot,Missed Shot,Driving Hook Shot,9,68,7,1,2.0,0.0,h
+S2324-G0943,2,09:32,UTA,,BOS,,T. Horton-Tucker,UTA,Horton-Tucker STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0943,2,06:48,UTA,47.0,BOS,54.0,T. Horton-Tucker,UTA,Horton-Tucker 25' 3PT Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,12,253,25,1,3.0,3.0,h
+S2324-G0943,2,05:32,UTA,,BOS,,T. Horton-Tucker,UTA,MISS Horton-Tucker 6' Driving Layup,Missed Shot,Driving Layup Shot,48,37,6,1,2.0,0.0,h
+S2324-G0943,2,05:32,UTA,,BOS,,T. Horton-Tucker,UTA,SUB: Sexton FOR Horton-Tucker,Substitution,,0,0,0,0,,,h
+S2324-G0943,4,11:25,UTA,,BOS,,T. Horton-Tucker,UTA,MISS Horton-Tucker 25' 3PT Jump Shot,Missed Shot,Jump Shot,239,61,25,1,3.0,0.0,h
+S2324-G0943,4,08:13,UTA,,BOS,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0943,4,08:04,UTA,,BOS,,T. Horton-Tucker,UTA,MISS Horton-Tucker 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,56,14,6,1,2.0,0.0,h
+S2324-G0943,4,05:11,UTA,,BOS,,T. Horton-Tucker,UTA,SUB: Dunn FOR Horton-Tucker,Substitution,,0,0,0,0,,,h
+S2324-G0943,4,03:50,UTA,,BOS,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0943,4,03:48,UTA,,BOS,,T. Horton-Tucker,UTA,SUB: Sexton FOR Horton-Tucker,Substitution,,0,0,0,0,,,h
+S2324-G0739,2,11:35,PHX,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker S.FOUL (P1.T1) (J.Goble),Foul,Shooting,0,0,0,0,,,v
+S2324-G0739,2,10:50,PHX,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0739,2,10:43,PHX,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,189,165,25,1,3.0,0.0,v
+S2324-G0739,2,10:21,PHX,47.0,UTA,32.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0739,2,10:21,PHX,47.0,UTA,33.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0739,2,09:28,PHX,49.0,UTA,36.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0739,2,09:28,PHX,49.0,UTA,37.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0739,2,08:28,PHX,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 8' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-17,80,8,1,2.0,0.0,v
+S2324-G0739,2,08:20,PHX,,UTA,,T. Horton-Tucker,UTA,SUB: Sexton FOR Horton-Tucker,Substitution,,0,0,0,0,,,v
+S2324-G0739,4,09:35,PHX,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0739,4,09:35,PHX,111.0,UTA,97.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0739,4,09:18,PHX,111.0,UTA,99.0,T. Horton-Tucker,UTA,Horton-Tucker 3' Running Finger Roll Layup (7 PTS),Made Shot,Running Finger Roll Layup Shot,15,27,3,1,2.0,2.0,v
+S2324-G0739,4,09:18,PHX,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2324-G0739,4,09:15,PHX,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0739,4,09:13,PHX,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 2' Driving Layup,Missed Shot,Driving Layup Shot,-1,21,2,1,2.0,0.0,v
+S2324-G0739,4,07:51,PHX,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 26' 3PT Jump Shot,Missed Shot,Jump Shot,21,255,26,1,3.0,0.0,v
+S2324-G0739,4,06:58,PHX,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0739,4,06:56,PHX,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0739,4,06:56,PHX,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0739,4,06:44,PHX,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker P.FOUL (P2.T3) (J.Goble),Foul,Personal,0,0,0,0,,,v
+S2324-G0739,4,06:17,PHX,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0739,4,06:17,PHX,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2324-G0739,4,05:40,PHX,,UTA,,T. Horton-Tucker,UTA,SUB: Sexton FOR Horton-Tucker,Substitution,,0,0,0,0,,,v
+S2324-G0152,1,11:35,CHI,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0152,1,11:26,CHI,0.0,UTA,2.0,T. Horton-Tucker,UTA,Horton-Tucker 1' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,-9,4,1,1,2.0,2.0,v
+S2324-G0152,1,09:09,CHI,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker Out of Bounds - Bad Pass Turnover Turnover (P1.T2),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0152,1,08:49,CHI,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0152,1,08:45,CHI,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker Bad Pass Turnover (P2.T3),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0152,1,07:51,CHI,12.0,UTA,16.0,T. Horton-Tucker,UTA,Horton-Tucker 27' 3PT Jump Shot (5 PTS) (Clarkson 3 AST),Made Shot,Jump Shot,162,214,27,1,3.0,3.0,v
+S2324-G0152,1,06:55,CHI,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0152,1,06:21,CHI,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,88,260,27,1,3.0,0.0,v
+S2324-G0152,1,06:03,CHI,,UTA,,T. Horton-Tucker,UTA,SUB: George FOR Horton-Tucker,Substitution,,0,0,0,0,,,v
+S2324-G0152,2,10:36,CHI,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker Out of Bounds Lost Ball Turnover (P3.T7),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2324-G0152,2,10:09,CHI,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker Bad Pass Turnover (P4.T8),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0152,2,07:44,CHI,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0152,2,07:21,CHI,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0152,2,04:48,CHI,,UTA,,T. Horton-Tucker,UTA,SUB: George FOR Horton-Tucker,Substitution,,0,0,0,0,,,v
+S2324-G0152,3,08:31,CHI,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker Lost Ball Turnover (P5.T18),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0152,3,08:28,CHI,,UTA,,T. Horton-Tucker,UTA,SUB: Sexton FOR Horton-Tucker,Substitution,,0,0,0,0,,,v
+S2324-G0152,4,06:20,CHI,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 1' Driving Layup,Missed Shot,Driving Layup Shot,11,5,1,1,2.0,0.0,v
+S2324-G0152,4,05:22,CHI,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 26' 3PT Jump Shot,Missed Shot,Jump Shot,-135,221,26,1,3.0,0.0,v
+S2324-G0152,4,04:24,CHI,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0152,4,03:58,CHI,,UTA,,T. Horton-Tucker,UTA,SUB: Samanic FOR Horton-Tucker,Substitution,,0,0,0,0,,,v
+S2324-G1000,1,03:53,OKC,22.0,UTA,13.0,T. Horton-Tucker,UTA,Horton-Tucker 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,33,10,3,1,2.0,2.0,v
+S2324-G1000,1,03:53,OKC,22.0,UTA,14.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G1000,1,02:21,OKC,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 8' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-69,42,8,1,2.0,0.0,v
+S2324-G1000,1,02:12,OKC,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1000,1,00:59.600000,OKC,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G1000,2,10:16,OKC,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 29' 3PT Jump Shot,Missed Shot,Jump Shot,168,237,29,1,3.0,0.0,v
+S2324-G1000,2,08:51,OKC,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,39,250,25,1,3.0,0.0,v
+S2324-G1000,2,06:45,OKC,,UTA,,T. Horton-Tucker,UTA,SUB: Dunn FOR Horton-Tucker,Substitution,,0,0,0,0,,,v
+S2324-G1000,3,02:48,OKC,77.0,UTA,74.0,T. Horton-Tucker,UTA,Horton-Tucker 3PT Jump Shot (6 PTS) (Potter 1 AST),Made Shot,Jump Shot,-234,-14,0,1,3.0,3.0,v
+S2324-G1000,3,01:41,OKC,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1000,3,01:35,OKC,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,221,122,25,1,3.0,0.0,v
+S2324-G1000,3,01:11,OKC,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-77,95,12,1,2.0,0.0,v
+S2324-G1000,3,00:58.500000,OKC,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker S.FOUL (P1.PN) (N.Sago),Foul,Shooting,0,0,0,0,,,v
+S2324-G1000,4,09:46,OKC,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-229,-26,0,1,3.0,0.0,v
+S2324-G1000,4,09:18,OKC,91.0,UTA,86.0,T. Horton-Tucker,UTA,Horton-Tucker 3' Driving Reverse Layup (8 PTS),Made Shot,Driving Reverse Layup Shot,-25,7,3,1,2.0,2.0,v
+S2324-G1000,4,09:10,OKC,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker S.FOUL (P2.T2) (K.Lane),Foul,Shooting,0,0,0,0,,,v
+S2324-G1000,4,08:52,OKC,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 2' Driving Layup,Missed Shot,Driving Layup Shot,21,6,2,1,2.0,0.0,v
+S2324-G1000,4,08:44,OKC,,UTA,,T. Horton-Tucker,UTA,SUB: George FOR Horton-Tucker,Substitution,,0,0,0,0,,,v
+S2324-G0110,1,10:43,DEN,2.0,UTA,3.0,T. Horton-Tucker,UTA,Horton-Tucker 3' Cutting Layup Shot (2 PTS) (Clarkson 1 AST),Made Shot,Cutting Layup Shot,29,5,3,1,2.0,2.0,v
+S2324-G0110,1,09:35,DEN,6.0,UTA,5.0,T. Horton-Tucker,UTA,Horton-Tucker 3' Driving Finger Roll Layup (4 PTS) (Markkanen 1 AST),Made Shot,Driving Finger Roll Layup Shot,25,8,3,1,2.0,2.0,v
+S2324-G0110,1,08:56,DEN,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-125,18,13,1,2.0,0.0,v
+S2324-G0110,1,07:13,DEN,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker P.FOUL (P1.T2) (R.Hussey),Foul,Personal,0,0,0,0,,,v
+S2324-G0110,1,06:15,DEN,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker P.FOUL (P2.T3) (R.Hussey),Foul,Personal,0,0,0,0,,,v
+S2324-G0110,1,06:15,DEN,,UTA,,T. Horton-Tucker,UTA,SUB: George FOR Horton-Tucker,Substitution,,0,0,0,0,,,v
+S2324-G0110,2,10:45,DEN,33.0,UTA,24.0,T. Horton-Tucker,UTA,Horton-Tucker 27' 3PT Pullup Jump Shot (7 PTS) (Agbaji 1 AST),Made Shot,Pullup Jump shot,-125,235,27,1,3.0,3.0,v
+S2324-G0110,2,09:14,DEN,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 4' Driving Layup,Missed Shot,Driving Layup Shot,33,22,4,1,2.0,0.0,v
+S2324-G0110,2,08:02,DEN,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0110,2,04:08,DEN,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 3' Driving Layup,Missed Shot,Driving Layup Shot,23,11,3,1,2.0,0.0,v
+S2324-G0110,2,04:06,DEN,,UTA,,T. Horton-Tucker,UTA,SUB: Markkanen FOR Horton-Tucker,Substitution,,0,0,0,0,,,v
+S2324-G0110,3,10:31,DEN,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0110,3,09:29,DEN,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 13' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-103,77,13,1,2.0,0.0,v
+S2324-G0110,3,09:18,DEN,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker S.FOUL (P3.T1) (C.Kirkland),Foul,Shooting,0,0,0,0,,,v
+S2324-G0110,3,03:31,DEN,,UTA,,T. Horton-Tucker,UTA,SUB: Olynyk FOR Horton-Tucker,Substitution,,0,0,0,0,,,v
+S2324-G0110,4,07:05,DEN,93.0,UTA,84.0,T. Horton-Tucker,UTA,Horton-Tucker 5' Driving Finger Roll Layup (9 PTS),Made Shot,Driving Finger Roll Layup Shot,45,24,5,1,2.0,2.0,v
+S2324-G0110,4,05:51,DEN,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0110,4,04:42,DEN,98.0,UTA,88.0,T. Horton-Tucker,UTA,Horton-Tucker 4' Driving Layup (11 PTS),Made Shot,Driving Layup Shot,28,27,4,1,2.0,2.0,v
+S2324-G0110,4,03:44,DEN,100.0,UTA,90.0,T. Horton-Tucker,UTA,Horton-Tucker 2' Running Finger Roll Layup (13 PTS) (Markkanen 5 AST),Made Shot,Running Finger Roll Layup Shot,-18,6,2,1,2.0,2.0,v
+S2324-G0110,4,02:49,DEN,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker Out of Bounds - Bad Pass Turnover Turnover (P1.T13),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0110,4,02:26,DEN,103.0,UTA,96.0,T. Horton-Tucker,UTA,Horton-Tucker 30' 3PT Pullup Jump Shot (16 PTS),Made Shot,Pullup Jump shot,145,264,30,1,3.0,3.0,v
+S2324-G0110,4,01:49,DEN,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 28' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,125,250,28,1,3.0,0.0,v
+S2324-G0110,4,01:25,DEN,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker S.FOUL (P4.PN) (C.Kirkland),Foul,Shooting,0,0,0,0,,,v
+S2324-G0576,2,10:25,UTA,,GSW,,T. Horton-Tucker,UTA,MISS Horton-Tucker 5' Reverse Layup,Missed Shot,Reverse Layup Shot,1,50,5,1,2.0,0.0,h
+S2324-G0576,2,09:53,UTA,,GSW,,T. Horton-Tucker,UTA,Horton-Tucker C.P.FOUL (P1.T1) (R.Acosta),Foul,Clear Path,0,0,0,0,,,h
+S2324-G0576,2,08:58,UTA,,GSW,,T. Horton-Tucker,UTA,Horton-Tucker L.B.FOUL (P2.T2) (R.Acosta),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0576,2,07:55,UTA,49.0,GSW,50.0,T. Horton-Tucker,UTA,Horton-Tucker 24' 3PT Jump Shot (3 PTS) (Dunn 1 AST),Made Shot,Jump Shot,-203,137,24,1,3.0,3.0,h
+S2324-G0576,2,06:32,UTA,,GSW,,T. Horton-Tucker,UTA,SUB: George FOR Horton-Tucker,Substitution,,0,0,0,0,,,h
+S2324-G1058,1,03:10,UTA,,SAS,,T. Horton-Tucker,UTA,MISS Horton-Tucker 26' 3PT Jump Shot,Missed Shot,Jump Shot,-189,184,26,1,3.0,0.0,h
+S2324-G1058,1,00:33.600000,UTA,,SAS,,T. Horton-Tucker,UTA,MISS Horton-Tucker 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-64,236,24,1,3.0,0.0,h
+S2324-G1058,1,00:04,UTA,,SAS,,T. Horton-Tucker,UTA,Horton-Tucker L.B.FOUL (P1.PN) (C.Kirkland),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0130,1,11:00,UTA,,ORL,,T. Horton-Tucker,UTA,Horton-Tucker BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0130,1,10:01,UTA,,ORL,,T. Horton-Tucker,UTA,Horton-Tucker P.FOUL (P1.T1) (G.Petraitis),Foul,Personal,0,0,0,0,,,h
+S2324-G0130,1,08:24,UTA,,ORL,,T. Horton-Tucker,UTA,Horton-Tucker Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0130,1,06:58,UTA,13.0,ORL,8.0,T. Horton-Tucker,UTA,Horton-Tucker 5' Driving Layup (2 PTS) (Olynyk 1 AST),Made Shot,Driving Layup Shot,-28,46,5,1,2.0,2.0,h
+S2324-G0130,1,06:53,UTA,,ORL,,T. Horton-Tucker,UTA,SUB: George FOR Horton-Tucker,Substitution,,0,0,0,0,,,h
+S2324-G0130,2,11:35,UTA,36.0,ORL,33.0,T. Horton-Tucker,UTA,Horton-Tucker 5' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,-40,32,5,1,2.0,2.0,h
+S2324-G0130,2,10:14,UTA,,ORL,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0130,2,09:13,UTA,42.0,ORL,39.0,T. Horton-Tucker,UTA,Horton-Tucker 1' Driving Reverse Layup (6 PTS) (Dunn 1 AST),Made Shot,Driving Reverse Layup Shot,-4,7,1,1,2.0,2.0,h
+S2324-G0130,2,07:33,UTA,,ORL,,T. Horton-Tucker,UTA,Horton-Tucker STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0130,2,06:09,UTA,,ORL,,T. Horton-Tucker,UTA,MISS Horton-Tucker 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-13,74,8,1,2.0,0.0,h
+S2324-G0130,2,06:05,UTA,,ORL,,T. Horton-Tucker,UTA,MISS Horton-Tucker 24' 3PT Jump Shot,Missed Shot,Jump Shot,-234,25,24,1,3.0,0.0,h
+S2324-G0130,2,04:28,UTA,,ORL,,T. Horton-Tucker,UTA,SUB: Sexton FOR Horton-Tucker,Substitution,,0,0,0,0,,,h
+S2324-G0130,3,10:58,UTA,61.0,ORL,68.0,T. Horton-Tucker,UTA,Horton-Tucker 25' 3PT Jump Shot (9 PTS) (Kessler 1 AST),Made Shot,Jump Shot,129,219,25,1,3.0,3.0,h
+S2324-G0130,3,10:08,UTA,,ORL,,T. Horton-Tucker,UTA,Horton-Tucker STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0130,3,09:24,UTA,,ORL,,T. Horton-Tucker,UTA,MISS Horton-Tucker 8' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,12,78,8,1,2.0,0.0,h
+S2324-G0130,3,09:02,UTA,,ORL,,T. Horton-Tucker,UTA,MISS Horton-Tucker 3PT Jump Shot,Missed Shot,Jump Shot,-225,8,0,1,3.0,0.0,h
+S2324-G0130,3,07:00,UTA,,ORL,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0130,3,05:53,UTA,,ORL,,T. Horton-Tucker,UTA,Horton-Tucker P.FOUL (P2.PN) (P.Ransom),Foul,Personal,0,0,0,0,,,h
+S2324-G0130,3,04:00,UTA,,ORL,,T. Horton-Tucker,UTA,SUB: Sexton FOR Horton-Tucker,Substitution,,0,0,0,0,,,h
+S2324-G0130,4,09:24,UTA,90.0,ORL,96.0,T. Horton-Tucker,UTA,Horton-Tucker 2' Driving Dunk (11 PTS),Made Shot,Driving Dunk Shot,-22,8,2,1,2.0,2.0,h
+S2324-G0130,4,08:30,UTA,,ORL,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0130,4,07:30,UTA,94.0,ORL,99.0,T. Horton-Tucker,UTA,Horton-Tucker 1' Running Layup (13 PTS),Made Shot,Running Layup Shot,11,1,1,1,2.0,2.0,h
+S2324-G0130,4,06:39,UTA,,ORL,,T. Horton-Tucker,UTA,Horton-Tucker S.FOUL (P3.T2) (P.Ransom),Foul,Shooting,0,0,0,0,,,h
+S2324-G0130,4,05:13,UTA,,ORL,,T. Horton-Tucker,UTA,MISS Horton-Tucker 3' Driving Layup,Missed Shot,Driving Layup Shot,-23,13,3,1,2.0,0.0,h
+S2324-G0130,4,04:07,UTA,103.0,ORL,108.0,T. Horton-Tucker,UTA,Horton-Tucker 5' Driving Layup (15 PTS),Made Shot,Driving Layup Shot,31,38,5,1,2.0,2.0,h
+S2324-G0130,4,02:49,UTA,,ORL,,T. Horton-Tucker,UTA,Horton-Tucker Offensive Charge Foul (P4) (G.Petraitis),Foul,Offensive Charge,0,0,0,0,,,h
+S2324-G0130,4,02:49,UTA,,ORL,,T. Horton-Tucker,UTA,Horton-Tucker Offensive Foul Turnover (P2.T18),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0130,4,02:32,UTA,,ORL,,T. Horton-Tucker,UTA,Horton-Tucker STEAL (3 STL),,,0,0,0,0,,,h
+S2324-G0130,4,02:03,UTA,,ORL,,T. Horton-Tucker,UTA,MISS Horton-Tucker 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,-18,5,2,1,2.0,0.0,h
+S2324-G0130,4,00:04.300000,UTA,,ORL,,T. Horton-Tucker,UTA,MISS Horton-Tucker 25' 3PT Jump Shot,Missed Shot,Jump Shot,-131,211,25,1,3.0,0.0,h
+S2324-G0130,4,00:01.300000,UTA,,ORL,,T. Horton-Tucker,UTA,SUB: George FOR Horton-Tucker,Substitution,,0,0,0,0,,,h
+S2324-G0424,3,07:24,NOP,65.0,,66.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0424,3,07:24,NOP,65.0,,67.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0424,3,06:13,NOP,,,,T. Horton-Tucker,UTA,MISS Horton-Tucker 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-129,32,13,1,2.0,0.0,v
+S2324-G0424,3,04:09,NOP,,,,T. Horton-Tucker,UTA,MISS Horton-Tucker 3PT Jump Shot,Missed Shot,Jump Shot,-233,0,0,1,3.0,0.0,v
+S2324-G0424,3,03:00,NOP,,,,T. Horton-Tucker,UTA,MISS Horton-Tucker 6' Driving Layup,Missed Shot,Driving Layup Shot,45,36,6,1,2.0,0.0,v
+S2324-G0424,3,03:00,NOP,,,,T. Horton-Tucker,UTA,SUB: Agbaji FOR Horton-Tucker,Substitution,,0,0,0,0,,,v
+S2324-G0023,1,02:36,UTA,,POR,,T. Horton-Tucker,UTA,MISS Horton-Tucker 28' 3PT Jump Shot,Missed Shot,Jump Shot,-148,241,28,1,3.0,0.0,h
+S2324-G0023,1,01:40,UTA,,POR,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0023,1,01:29,UTA,,POR,,T. Horton-Tucker,UTA,Horton-Tucker S.FOUL (P1.T1) (J.Conley),Foul,Shooting,0,0,0,0,,,h
+S2324-G0023,2,11:44,UTA,38.0,POR,28.0,T. Horton-Tucker,UTA,Horton-Tucker 4' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,23,32,4,1,2.0,2.0,h
+S2324-G0023,2,10:14,UTA,,POR,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0023,2,09:25,UTA,,POR,,T. Horton-Tucker,UTA,Horton-Tucker STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0023,2,08:19,UTA,,POR,,T. Horton-Tucker,UTA,MISS Horton-Tucker 4' Layup,Missed Shot,Layup Shot,-39,7,4,1,2.0,0.0,h
+S2324-G0023,2,07:20,UTA,,POR,,T. Horton-Tucker,UTA,MISS Horton-Tucker 4' Driving Layup,Missed Shot,Driving Layup Shot,-5,37,4,1,2.0,0.0,h
+S2324-G0023,2,06:43,UTA,,POR,,T. Horton-Tucker,UTA,SUB: Clarkson FOR Horton-Tucker,Substitution,,0,0,0,0,,,h
+S2324-G0023,3,06:37,UTA,,POR,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0023,3,05:54,UTA,,POR,,T. Horton-Tucker,UTA,Horton-Tucker OFF.Foul (P2) (M.Davis),Foul,Offensive,0,0,0,0,,,h
+S2324-G0023,3,05:54,UTA,,POR,,T. Horton-Tucker,UTA,Horton-Tucker Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0023,3,01:11,UTA,,POR,,T. Horton-Tucker,UTA,Horton-Tucker S.FOUL (P3.T3) (M.Davis),Foul,Shooting,0,0,0,0,,,h
+S2324-G0023,4,11:18,UTA,,POR,,T. Horton-Tucker,UTA,Horton-Tucker Lost Ball Turnover (P2.T8),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0023,4,10:08,UTA,99.0,POR,93.0,T. Horton-Tucker,UTA,Horton-Tucker 9' Driving Floating Bank Jump Shot (4 PTS) (Olynyk 3 AST),Made Shot,Driving Floating Bank Jump Shot,67,63,9,1,2.0,2.0,h
+S2324-G0023,4,07:19,UTA,,POR,,T. Horton-Tucker,UTA,SUB: Collins FOR Horton-Tucker,Substitution,,0,0,0,0,,,h
+S2324-G0035,1,02:24,UTA,,PHX,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0035,1,01:32,UTA,,PHX,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0035,1,01:06,UTA,36.0,PHX,39.0,T. Horton-Tucker,UTA,Horton-Tucker 3' Running Reverse Layup (2 PTS) (Sexton 2 AST),Made Shot,Running Reverse Layup Shot,-29,0,3,1,2.0,2.0,h
+S2324-G0035,1,00:32.800000,UTA,,PHX,,T. Horton-Tucker,UTA,Horton-Tucker Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0035,2,10:28,UTA,,PHX,,T. Horton-Tucker,UTA,Horton-Tucker S.FOUL (P1.T2) (M.Smith),Foul,Shooting,0,0,0,0,,,h
+S2324-G0035,2,10:16,UTA,,PHX,,T. Horton-Tucker,UTA,MISS Horton-Tucker 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-113,246,27,1,3.0,0.0,h
+S2324-G0035,2,09:29,UTA,,PHX,,T. Horton-Tucker,UTA,Horton-Tucker Bad Pass Turnover (P2.T2),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0035,2,08:26,UTA,,PHX,,T. Horton-Tucker,UTA,Horton-Tucker S.FOUL (P2.T3) (P.Ransom),Foul,Shooting,0,0,0,0,,,h
+S2324-G0035,2,08:18,UTA,,PHX,,T. Horton-Tucker,UTA,MISS Horton-Tucker 27' 3PT Jump Shot,Missed Shot,Jump Shot,164,210,27,1,3.0,0.0,h
+S2324-G0035,2,07:23,UTA,46.0,PHX,56.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0035,2,07:23,UTA,47.0,PHX,56.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0035,2,07:07,UTA,,PHX,,T. Horton-Tucker,UTA,SUB: Clarkson FOR Horton-Tucker,Substitution,,0,0,0,0,,,h
+S2324-G0035,3,04:18,UTA,,PHX,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0035,3,04:15,UTA,,PHX,,T. Horton-Tucker,UTA,Horton-Tucker Out of Bounds Lost Ball Turnover (P3.T5),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2324-G0035,3,02:39,UTA,,PHX,,T. Horton-Tucker,UTA,MISS Horton-Tucker 25' 3PT Jump Shot,Missed Shot,Jump Shot,-65,246,25,1,3.0,0.0,h
+S2324-G0035,3,01:33,UTA,,PHX,,T. Horton-Tucker,UTA,Horton-Tucker S.FOUL (P3.PN) (P.Ransom),Foul,Shooting,0,0,0,0,,,h
+S2324-G0035,4,10:35,UTA,,PHX,,T. Horton-Tucker,UTA,Horton-Tucker S.FOUL (P4.T1) (P.Ransom),Foul,Shooting,0,0,0,0,,,h
+S2324-G0035,4,10:19,UTA,,PHX,,T. Horton-Tucker,UTA,Horton-Tucker BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0035,4,09:56,UTA,102.0,PHX,107.0,T. Horton-Tucker,UTA,Horton-Tucker 25' 3PT Pullup Jump Shot (7 PTS) (Sexton 4 AST),Made Shot,Pullup Jump shot,-32,250,25,1,3.0,3.0,h
+S2324-G0035,4,09:22,UTA,103.0,PHX,110.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0035,4,09:22,UTA,104.0,PHX,110.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0035,4,08:38,UTA,,PHX,,T. Horton-Tucker,UTA,SUB: George FOR Horton-Tucker,Substitution,,0,0,0,0,,,h
+S2324-G1126,1,00:23.100000,LAC,41.0,UTA,16.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw Technical (1 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,v
+S2324-G1126,1,00:05.200000,LAC,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 24' 3PT Jump Shot,Missed Shot,Jump Shot,235,45,24,1,3.0,0.0,v
+S2324-G1126,2,10:58,LAC,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker P.FOUL (P1.T1) (M.Lindsay),Foul,Personal,0,0,0,0,,,v
+S2324-G1126,2,10:20,LAC,41.0,UTA,22.0,T. Horton-Tucker,UTA,Horton-Tucker 26' 3PT Running Jump Shot (4 PTS) (Preston 3 AST),Made Shot,Running Jump Shot,168,192,26,1,3.0,3.0,v
+S2324-G1126,2,09:09,LAC,47.0,UTA,25.0,T. Horton-Tucker,UTA,Horton-Tucker 28' 3PT Step Back Jump Shot (7 PTS),Made Shot,Step Back Jump shot,178,222,28,1,3.0,3.0,v
+S2324-G1126,2,07:15,LAC,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 5' Driving Layup,Missed Shot,Driving Layup Shot,40,31,5,1,2.0,0.0,v
+S2324-G1126,2,06:16,LAC,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 5' Driving Layup,Missed Shot,Driving Layup Shot,-10,47,5,1,2.0,0.0,v
+S2324-G1126,2,05:14,LAC,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 28' 3PT Jump Shot,Missed Shot,Jump Shot,-184,211,28,1,3.0,0.0,v
+S2324-G1126,2,05:05,LAC,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G1126,2,05:03,LAC,61.0,UTA,30.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1126,2,05:03,LAC,61.0,UTA,31.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1126,2,02:53,LAC,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,12,95,10,1,2.0,0.0,v
+S2324-G1126,2,02:48,LAC,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker S.FOUL (P2.PN) (J.Schroeder),Foul,Shooting,0,0,0,0,,,v
+S2324-G1126,2,02:02,LAC,72.0,UTA,37.0,T. Horton-Tucker,UTA,Horton-Tucker 11' Fadeaway Jumper (11 PTS),Made Shot,Fadeaway Jump Shot,-31,108,11,1,2.0,2.0,v
+S2324-G1126,2,01:48,LAC,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G1126,2,01:22,LAC,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 8' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-21,74,8,1,2.0,0.0,v
+S2324-G1126,2,00:31.500000,LAC,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1126,3,01:12,LAC,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker Lost Ball Turnover (P1.T9),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G1126,3,00:36.800000,LAC,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1126,3,00:04.800000,LAC,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G1126,3,00:04.800000,LAC,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G1126,4,11:33,LAC,106.0,UTA,80.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1126,4,11:33,LAC,106.0,UTA,81.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1126,4,10:27,LAC,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1126,4,05:51,LAC,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 28' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,150,238,28,1,3.0,0.0,v
+S2324-G1126,4,05:37,LAC,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 5' Driving Layup,Missed Shot,Driving Layup Shot,48,26,5,1,2.0,0.0,v
+S2324-G1126,4,04:44,LAC,120.0,UTA,93.0,T. Horton-Tucker,UTA,Horton-Tucker 8' Turnaround Fadeaway (15 PTS),Made Shot,Turnaround Fadeaway shot,-18,79,8,1,2.0,2.0,v
+S2324-G1126,4,03:13,LAC,125.0,UTA,100.0,T. Horton-Tucker,UTA,Horton-Tucker 2' Driving Dunk (17 PTS),Made Shot,Driving Dunk Shot,-6,15,2,1,2.0,2.0,v
+S2324-G1126,4,01:32,LAC,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 9' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,44,76,9,1,2.0,0.0,v
+S2324-G0214,1,04:10,UTA,,PHX,,T. Horton-Tucker,UTA,Horton-Tucker STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0214,1,02:59,UTA,19.0,PHX,26.0,T. Horton-Tucker,UTA,Horton-Tucker 8' Turnaround Bank Shot (2 PTS),Made Shot,Turnaround Bank shot,62,48,8,1,2.0,2.0,h
+S2324-G0214,1,02:01,UTA,25.0,PHX,28.0,T. Horton-Tucker,UTA,Horton-Tucker 26' 3PT Running Pull-Up Jump Shot (5 PTS),Made Shot,Running Pull-Up Jump Shot,77,244,26,1,3.0,3.0,h
+S2324-G0214,1,01:15,UTA,,PHX,,T. Horton-Tucker,UTA,Horton-Tucker STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0214,1,01:08,UTA,,PHX,,T. Horton-Tucker,UTA,Horton-Tucker Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0214,1,00:43,UTA,28.0,PHX,30.0,T. Horton-Tucker,UTA,Horton-Tucker 3PT Jump Shot (8 PTS) (Sexton 1 AST),Made Shot,Jump Shot,-234,10,0,1,3.0,3.0,h
+S2324-G0214,2,10:41,UTA,,PHX,,T. Horton-Tucker,UTA,MISS Horton-Tucker 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-196,188,27,1,3.0,0.0,h
+S2324-G0214,2,10:04,UTA,,PHX,,T. Horton-Tucker,UTA,Horton-Tucker P.FOUL (P1.T1) (J.Sterling),Foul,Personal,0,0,0,0,,,h
+S2324-G0214,2,09:23,UTA,,PHX,,T. Horton-Tucker,UTA,MISS Horton-Tucker 6' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-43,46,6,1,2.0,0.0,h
+S2324-G0214,2,08:58,UTA,36.0,PHX,40.0,T. Horton-Tucker,UTA,Horton-Tucker 4' Driving Layup (10 PTS) (Olynyk 3 AST),Made Shot,Driving Layup Shot,27,34,4,1,2.0,2.0,h
+S2324-G0214,2,08:58,UTA,37.0,PHX,40.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G0214,2,08:15,UTA,,PHX,,T. Horton-Tucker,UTA,MISS Horton-Tucker 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,77,84,11,1,2.0,0.0,h
+S2324-G0214,2,07:27,UTA,,PHX,,T. Horton-Tucker,UTA,Horton-Tucker Violation:Kicked Ball (J.Sterling),Violation,Kicked Ball,0,0,0,0,,,h
+S2324-G0214,2,06:28,UTA,41.0,PHX,47.0,T. Horton-Tucker,UTA,Horton-Tucker 3' Driving Reverse Layup (13 PTS),Made Shot,Driving Reverse Layup Shot,25,20,3,1,2.0,2.0,h
+S2324-G0214,2,05:48,UTA,43.0,PHX,49.0,T. Horton-Tucker,UTA,Horton-Tucker 5' Driving Finger Roll Layup (15 PTS),Made Shot,Driving Finger Roll Layup Shot,34,41,5,1,2.0,2.0,h
+S2324-G0214,2,05:04,UTA,,PHX,,T. Horton-Tucker,UTA,MISS Horton-Tucker 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,6,253,25,1,3.0,0.0,h
+S2324-G0214,2,04:25,UTA,,PHX,,T. Horton-Tucker,UTA,Horton-Tucker S.FOUL (P2.T4) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,h
+S2324-G0214,2,04:02,UTA,,PHX,,T. Horton-Tucker,UTA,MISS Horton-Tucker 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-207,168,27,1,3.0,0.0,h
+S2324-G0214,2,02:53,UTA,50.0,PHX,58.0,T. Horton-Tucker,UTA,Horton-Tucker 26' 3PT Jump Shot (18 PTS) (Agbaji 1 AST),Made Shot,Jump Shot,126,228,26,1,3.0,3.0,h
+S2324-G0214,2,02:10,UTA,,PHX,,T. Horton-Tucker,UTA,SUB: Markkanen FOR Horton-Tucker,Substitution,,0,0,0,0,,,h
+S2324-G0214,3,04:37,UTA,,PHX,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0214,3,03:49,UTA,,PHX,,T. Horton-Tucker,UTA,Horton-Tucker P.FOUL (P3.PN) (J.Sterling),Foul,Personal,0,0,0,0,,,h
+S2324-G0214,3,03:32,UTA,,PHX,,T. Horton-Tucker,UTA,MISS Horton-Tucker 24' 3PT Jump Shot,Missed Shot,Jump Shot,235,35,24,1,3.0,0.0,h
+S2324-G0214,3,03:30,UTA,,PHX,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0214,3,01:44,UTA,82.0,PHX,77.0,T. Horton-Tucker,UTA,Horton-Tucker 25' 3PT Jump Shot (21 PTS) (Olynyk 5 AST),Made Shot,Jump Shot,-152,201,25,1,3.0,3.0,h
+S2324-G0214,3,01:05,UTA,,PHX,,T. Horton-Tucker,UTA,MISS Horton-Tucker 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-125,230,26,1,3.0,0.0,h
+S2324-G0214,3,00:48.500000,UTA,,PHX,,T. Horton-Tucker,UTA,Horton-Tucker P.FOUL (P4.PN) (J.Sterling),Foul,Personal,0,0,0,0,,,h
+S2324-G0214,4,10:02,UTA,,PHX,,T. Horton-Tucker,UTA,MISS Horton-Tucker 4' Driving Layup,Missed Shot,Driving Layup Shot,33,21,4,1,2.0,0.0,h
+S2324-G0214,4,09:58,UTA,,PHX,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0214,4,09:57,UTA,,PHX,,T. Horton-Tucker,UTA,MISS Horton-Tucker 3PT Jump Shot,Missed Shot,Jump Shot,-230,6,0,1,3.0,0.0,h
+S2324-G0214,4,07:59,UTA,,PHX,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0214,4,06:06,UTA,102.0,PHX,95.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 1 of 2 (22 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0214,4,06:06,UTA,103.0,PHX,95.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 2 of 2 (23 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0214,4,04:55,UTA,105.0,PHX,100.0,T. Horton-Tucker,UTA,Horton-Tucker 7' Driving Finger Roll Layup (25 PTS),Made Shot,Driving Finger Roll Layup Shot,-62,40,7,1,2.0,2.0,h
+S2324-G0214,4,04:15,UTA,,PHX,,T. Horton-Tucker,UTA,SUB: Agbaji FOR Horton-Tucker,Substitution,,0,0,0,0,,,h
+S2324-G0243,1,00:59.100000,UTA,,NOP,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0243,1,00:42.700000,UTA,,NOP,,T. Horton-Tucker,UTA,MISS Horton-Tucker 24' 3PT Jump Shot,Missed Shot,Jump Shot,218,111,24,1,3.0,0.0,h
+S2324-G0243,2,10:36,UTA,,NOP,,T. Horton-Tucker,UTA,MISS Horton-Tucker 26' 3PT Jump Shot,Missed Shot,Jump Shot,-186,176,26,1,3.0,0.0,h
+S2324-G0243,2,09:55,UTA,,NOP,,T. Horton-Tucker,UTA,Horton-Tucker Bad Pass Turnover (P1.T10),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0243,2,09:09,UTA,,NOP,,T. Horton-Tucker,UTA,Horton-Tucker S.FOUL (P1.T1) (L.Holtkamp),Foul,Shooting,0,0,0,0,,,h
+S2324-G0243,2,08:50,UTA,,NOP,,T. Horton-Tucker,UTA,Horton-Tucker Bad Pass Turnover (P2.T11),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0243,2,06:35,UTA,,NOP,,T. Horton-Tucker,UTA,SUB: Fontecchio FOR Horton-Tucker,Substitution,,0,0,0,0,,,h
+S2324-G0243,3,03:11,UTA,,NOP,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0243,3,02:15,UTA,66.0,NOP,72.0,T. Horton-Tucker,UTA,Horton-Tucker 27' 3PT Jump Shot (3 PTS) (Sexton 1 AST),Made Shot,Jump Shot,-2,267,27,1,3.0,3.0,h
+S2324-G0243,3,00:35.100000,UTA,,NOP,,T. Horton-Tucker,UTA,MISS Horton-Tucker 4' Driving Layup,Missed Shot,Driving Layup Shot,29,26,4,1,2.0,0.0,h
+S2324-G0243,4,08:23,UTA,,NOP,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0243,4,06:31,UTA,87.0,NOP,86.0,T. Horton-Tucker,UTA,Horton-Tucker 5' Layup (5 PTS),Made Shot,Layup Shot,-44,27,5,1,2.0,2.0,h
+S2324-G0243,4,03:34,UTA,,NOP,,T. Horton-Tucker,UTA,SUB: Fontecchio FOR Horton-Tucker,Substitution,,0,0,0,0,,,h
+S2324-G0042,1,04:16,LAL,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 4' Driving Layup,Missed Shot,Driving Layup Shot,-23,31,4,1,2.0,0.0,v
+S2324-G0042,1,01:55,LAL,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 4' Driving Layup,Missed Shot,Driving Layup Shot,7,43,4,1,2.0,0.0,v
+S2324-G0042,1,01:06,LAL,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 31' 3PT Jump Shot,Missed Shot,Jump Shot,137,278,31,1,3.0,0.0,v
+S2324-G0042,1,00:19.500000,LAL,30.0,UTA,17.0,T. Horton-Tucker,UTA,Horton-Tucker 1' Running Finger Roll Layup (2 PTS),Made Shot,Running Finger Roll Layup Shot,1,11,1,1,2.0,2.0,v
+S2324-G0042,2,11:17,LAL,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0042,2,11:10,LAL,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0042,2,11:08,LAL,32.0,UTA,21.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0042,2,11:08,LAL,32.0,UTA,22.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0042,2,09:01,LAL,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0042,2,08:55,LAL,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0042,2,08:15,LAL,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0042,2,07:44,LAL,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-228,19,0,1,3.0,0.0,v
+S2324-G0042,2,07:13,LAL,,UTA,,T. Horton-Tucker,UTA,SUB: George FOR Horton-Tucker,Substitution,,0,0,0,0,,,v
+S2324-G0042,3,04:48,LAL,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 28' 3PT Jump Shot,Missed Shot,Jump Shot,-180,216,28,1,3.0,0.0,v
+S2324-G0042,3,04:19,LAL,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 5' Driving Layup,Missed Shot,Driving Layup Shot,6,53,5,1,2.0,0.0,v
+S2324-G0042,4,11:46,LAL,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker P.FOUL (P1.T1) (E.Scott),Foul,Personal,0,0,0,0,,,v
+S2324-G0042,4,11:35,LAL,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0042,4,10:52,LAL,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,110,241,26,1,3.0,0.0,v
+S2324-G0042,4,09:49,LAL,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0042,4,06:21,LAL,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-170,200,26,1,3.0,0.0,v
+S2324-G0042,4,04:58,LAL,124.0,UTA,87.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0042,4,04:58,LAL,124.0,UTA,88.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0042,4,03:55,LAL,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 15' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,151,15,15,1,2.0,0.0,v
+S2324-G0042,4,03:25,LAL,,UTA,,T. Horton-Tucker,UTA,SUB: Sexton FOR Horton-Tucker,Substitution,,0,0,0,0,,,v
+S2324-G1184,1,05:30,LAC,21.0,UTA,14.0,T. Horton-Tucker,UTA,Horton-Tucker 4' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,16,41,4,1,2.0,2.0,v
+S2324-G1184,1,03:19,LAC,27.0,UTA,18.0,T. Horton-Tucker,UTA,Horton-Tucker 2' Driving Layup (4 PTS) (Sensabaugh 1 AST),Made Shot,Driving Layup Shot,-20,9,2,1,2.0,2.0,v
+S2324-G1184,1,02:57,LAC,29.0,UTA,20.0,T. Horton-Tucker,UTA,Horton-Tucker 11' Fadeaway Jumper (6 PTS),Made Shot,Fadeaway Jump Shot,65,89,11,1,2.0,2.0,v
+S2324-G1184,1,02:25,LAC,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-120,219,25,1,3.0,0.0,v
+S2324-G1184,2,10:57,LAC,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 10' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-36,94,10,1,2.0,0.0,v
+S2324-G1184,2,08:36,LAC,,UTA,,T. Horton-Tucker,UTA,SUB: George FOR Horton-Tucker,Substitution,,0,0,0,0,,,v
+S2324-G1184,2,02:45,LAC,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 26' 3PT Jump Shot,Missed Shot,Jump Shot,-225,126,26,1,3.0,0.0,v
+S2324-G1184,2,01:57,LAC,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 26' 3PT Jump Shot,Missed Shot,Jump Shot,-169,193,26,1,3.0,0.0,v
+S2324-G1184,2,00:01.800000,LAC,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-164,218,27,1,3.0,0.0,v
+S2324-G1184,4,11:45,LAC,85.0,UTA,88.0,T. Horton-Tucker,UTA,Horton-Tucker 2' Layup (8 PTS),Made Shot,Layup Shot,20,8,2,1,2.0,2.0,v
+S2324-G1184,4,08:18,LAC,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker Lost Ball Turnover (P1.T13),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G1184,4,07:19,LAC,96.0,UTA,98.0,T. Horton-Tucker,UTA,Horton-Tucker 2' Driving Finger Roll Layup (10 PTS),Made Shot,Driving Finger Roll Layup Shot,-4,15,2,1,2.0,2.0,v
+S2324-G1184,4,06:29,LAC,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 24' 3PT Jump Shot,Missed Shot,Jump Shot,235,37,24,1,3.0,0.0,v
+S2324-G1184,4,05:28,LAC,98.0,UTA,101.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1184,4,05:28,LAC,98.0,UTA,102.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1184,4,03:52,LAC,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker Bad Pass Turnover (P2.T16),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G1184,4,03:16,LAC,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 5' Driving Layup,Missed Shot,Driving Layup Shot,47,23,5,1,2.0,0.0,v
+S2324-G1184,4,02:08,LAC,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker P.FOUL (P1.T1) (J.Van Duyne),Foul,Personal,0,0,0,0,,,v
+S2324-G1184,4,01:56,LAC,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0788,2,11:02,UTA,,LAL,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0788,2,09:56,UTA,36.0,LAL,41.0,T. Horton-Tucker,UTA,Horton-Tucker 5' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,-11,50,5,1,2.0,2.0,h
+S2324-G0788,2,09:31,UTA,,LAL,,T. Horton-Tucker,UTA,MISS Horton-Tucker 27' 3PT Jump Shot,Missed Shot,Jump Shot,-216,165,27,1,3.0,0.0,h
+S2324-G0788,2,07:24,UTA,44.0,LAL,54.0,T. Horton-Tucker,UTA,Horton-Tucker 26' 3PT Jump Shot (5 PTS),Made Shot,Jump Shot,-40,254,26,1,3.0,3.0,h
+S2324-G0788,2,06:51,UTA,,LAL,,T. Horton-Tucker,UTA,Horton-Tucker Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0788,2,06:48,UTA,,LAL,,T. Horton-Tucker,UTA,SUB: Sexton FOR Horton-Tucker,Substitution,,0,0,0,0,,,h
+S2324-G0788,3,00:32.600000,UTA,,LAL,,T. Horton-Tucker,UTA,MISS Horton-Tucker 3PT Jump Shot,Missed Shot,Jump Shot,-227,15,0,1,3.0,0.0,h
+S2324-G0788,4,11:49,UTA,,LAL,,T. Horton-Tucker,UTA,Horton-Tucker P.FOUL (P1.T1) (N.Sago),Foul,Personal,0,0,0,0,,,h
+S2324-G0788,4,11:23,UTA,,LAL,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0788,4,11:23,UTA,93.0,LAL,111.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0788,4,11:23,UTA,94.0,LAL,111.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0788,4,08:42,UTA,,LAL,,T. Horton-Tucker,UTA,MISS Horton-Tucker 3PT Jump Shot,Missed Shot,Jump Shot,-227,0,0,1,3.0,0.0,h
+S2324-G0788,4,07:17,UTA,,LAL,,T. Horton-Tucker,UTA,SUB: Kessler FOR Horton-Tucker,Substitution,,0,0,0,0,,,h
+S2324-G0966,1,00:58.400000,UTA,,ATL,,T. Horton-Tucker,UTA,Horton-Tucker BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0966,1,00:09.500000,UTA,,ATL,,T. Horton-Tucker,UTA,MISS Horton-Tucker 26' 3PT Jump Shot,Missed Shot,Jump Shot,-118,230,26,1,3.0,0.0,h
+S2324-G0966,2,11:07,UTA,39.0,ATL,28.0,T. Horton-Tucker,UTA,Horton-Tucker 28' 3PT Running Jump Shot (3 PTS) (Preston 2 AST),Made Shot,Running Jump Shot,146,241,28,1,3.0,3.0,h
+S2324-G0966,2,10:45,UTA,,ATL,,T. Horton-Tucker,UTA,Horton-Tucker S.FOUL (P1.T1) (J.Butler),Foul,Shooting,0,0,0,0,,,h
+S2324-G0966,2,10:34,UTA,,ATL,,T. Horton-Tucker,UTA,MISS Horton-Tucker 26' 3PT Jump Shot,Missed Shot,Jump Shot,156,214,26,1,3.0,0.0,h
+S2324-G0966,2,08:35,UTA,,ATL,,T. Horton-Tucker,UTA,MISS Horton-Tucker 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-96,268,28,1,3.0,0.0,h
+S2324-G0966,2,06:38,UTA,,ATL,,T. Horton-Tucker,UTA,SUB: Sexton FOR Horton-Tucker,Substitution,,0,0,0,0,,,h
+S2324-G0966,3,01:58,UTA,,ATL,,T. Horton-Tucker,UTA,MISS Horton-Tucker 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,108,25,11,1,2.0,0.0,h
+S2324-G0966,3,00:33.500000,UTA,,ATL,,T. Horton-Tucker,UTA,Horton-Tucker Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0966,4,11:38,UTA,,ATL,,T. Horton-Tucker,UTA,Horton-Tucker STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0966,4,11:14,UTA,101.0,ATL,96.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0966,4,11:14,UTA,102.0,ATL,96.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0966,4,09:31,UTA,,ATL,,T. Horton-Tucker,UTA,MISS Horton-Tucker 9' Driving Layup,Missed Shot,Driving Layup Shot,64,58,9,1,2.0,0.0,h
+S2324-G0966,4,05:46,UTA,,ATL,,T. Horton-Tucker,UTA,SUB: Sensabaugh FOR Horton-Tucker,Substitution,,0,0,0,0,,,h
+S2324-G0835,4,08:36,ATL,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-232,90,25,1,3.0,0.0,v
+S2324-G0835,4,07:25,ATL,104.0,UTA,79.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0835,4,07:25,ATL,104.0,UTA,80.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0835,4,04:56,ATL,113.0,UTA,90.0,T. Horton-Tucker,UTA,Horton-Tucker 3' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,-15,21,3,1,2.0,2.0,v
+S2324-G0835,4,04:34,ATL,113.0,UTA,92.0,T. Horton-Tucker,UTA,Horton-Tucker 1' Driving Layup (6 PTS) (George 6 AST),Made Shot,Driving Layup Shot,2,13,1,1,2.0,2.0,v
+S2324-G0835,4,04:34,ATL,113.0,UTA,93.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G0835,4,04:00,ATL,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0835,4,03:57,ATL,113.0,UTA,94.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0835,4,03:57,ATL,113.0,UTA,95.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0835,4,03:09,ATL,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 27' 3PT Jump Shot,Missed Shot,Jump Shot,-136,229,27,1,3.0,0.0,v
+S2324-G0835,4,02:53,ATL,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0835,4,02:52,ATL,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0835,4,00:47.600000,ATL,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,9,24,3,1,2.0,0.0,v
+S2324-G0835,4,00:43.300000,ATL,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0835,4,00:43.300000,ATL,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker Putback Layup,Missed Shot,Putback Layup Shot,0,0,0,1,2.0,0.0,v
+S2324-G0835,4,00:41.900000,ATL,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0012,1,03:24,MEM,22.0,UTA,25.0,T. Horton-Tucker,UTA,Horton-Tucker 26' 3PT Jump Shot (3 PTS) (Sexton 1 AST),Made Shot,Jump Shot,135,219,26,1,3.0,3.0,v
+S2324-G0012,1,01:23,MEM,29.0,UTA,32.0,T. Horton-Tucker,UTA,Horton-Tucker 3PT Jump Shot (6 PTS) (Olynyk 1 AST),Made Shot,Jump Shot,-228,-4,0,1,3.0,3.0,v
+S2324-G0012,2,11:42,MEM,32.0,UTA,37.0,T. Horton-Tucker,UTA,Horton-Tucker 3PT Step Back Jump Shot (9 PTS),Made Shot,Step Back Jump shot,228,22,0,1,3.0,3.0,v
+S2324-G0012,2,10:12,MEM,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0012,2,08:14,MEM,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,48,261,27,1,3.0,0.0,v
+S2324-G0012,2,07:59,MEM,41.0,UTA,52.0,T. Horton-Tucker,UTA,Horton-Tucker 1' Running Layup (11 PTS) (Sexton 5 AST),Made Shot,Running Layup Shot,11,6,1,1,2.0,2.0,v
+S2324-G0012,2,07:40,MEM,41.0,UTA,53.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0012,2,07:40,MEM,41.0,UTA,54.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0012,2,07:09,MEM,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 27' 3PT Jump Shot,Missed Shot,Jump Shot,131,240,27,1,3.0,0.0,v
+S2324-G0012,2,06:52,MEM,,UTA,,T. Horton-Tucker,UTA,SUB: Agbaji FOR Horton-Tucker,Substitution,,0,0,0,0,,,v
+S2324-G0012,3,04:43,MEM,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0012,3,04:39,MEM,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0012,3,03:17,MEM,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0012,3,03:14,MEM,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 1' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,-4,7,1,1,2.0,0.0,v
+S2324-G0012,3,02:30,MEM,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0012,3,02:26,MEM,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker Kicked Ball Violation Turnover (P1.T11),Turnover,Kicked Ball Violation,0,0,0,0,,,v
+S2324-G0012,3,02:19,MEM,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker P.FOUL (P1.T2) (K.Lane),Foul,Personal,0,0,0,0,,,v
+S2324-G0012,3,00:01.200000,MEM,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker S.FOUL (P2.PN) (J.Butler),Foul,Shooting,0,0,0,0,,,v
+S2324-G0012,4,10:00,MEM,,UTA,,T. Horton-Tucker,UTA,SUB: George FOR Horton-Tucker,Substitution,,0,0,0,0,,,v
+S2324-G0357,1,11:01,UTA,,BKN,,T. Horton-Tucker,UTA,Horton-Tucker S.FOUL (P1.T1) (K.Lane),Foul,Shooting,0,0,0,0,,,h
+S2324-G0357,1,09:19,UTA,6.0,BKN,6.0,T. Horton-Tucker,UTA,Horton-Tucker 27' 3PT Jump Shot (3 PTS) (Sexton 1 AST),Made Shot,Jump Shot,-180,200,27,1,3.0,3.0,h
+S2324-G0357,1,08:29,UTA,8.0,BKN,8.0,T. Horton-Tucker,UTA,Horton-Tucker 8' Driving Floating Jump Shot (5 PTS) (Sexton 2 AST),Made Shot,Driving Floating Jump Shot,-74,19,8,1,2.0,2.0,h
+S2324-G0357,1,06:53,UTA,,BKN,,T. Horton-Tucker,UTA,MISS Horton-Tucker 3' Driving Layup,Missed Shot,Driving Layup Shot,-6,34,3,1,2.0,0.0,h
+S2324-G0357,1,06:21,UTA,,BKN,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0357,1,05:30,UTA,,BKN,,T. Horton-Tucker,UTA,MISS Horton-Tucker 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-121,53,13,1,2.0,0.0,h
+S2324-G0357,1,04:54,UTA,,BKN,,T. Horton-Tucker,UTA,Horton-Tucker Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0357,1,04:54,UTA,,BKN,,T. Horton-Tucker,UTA,Horton-Tucker L.B.FOUL (P2.T2) (K.Lane),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0357,1,04:54,UTA,,BKN,,T. Horton-Tucker,UTA,SUB: Agbaji FOR Horton-Tucker,Substitution,,0,0,0,0,,,h
+S2324-G0357,2,05:38,UTA,,BKN,,T. Horton-Tucker,UTA,Horton-Tucker STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0357,2,03:54,UTA,,BKN,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0357,2,03:44,UTA,,BKN,,T. Horton-Tucker,UTA,MISS Horton-Tucker 6' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,12,56,6,1,2.0,0.0,h
+S2324-G0357,2,03:36,UTA,,BKN,,T. Horton-Tucker,UTA,SUB: Markkanen FOR Horton-Tucker,Substitution,,0,0,0,0,,,h
+S2324-G0357,3,09:44,UTA,60.0,BKN,65.0,T. Horton-Tucker,UTA,Horton-Tucker 16' Step Back Jump Shot (7 PTS),Made Shot,Step Back Jump shot,100,120,16,1,2.0,2.0,h
+S2324-G0357,3,09:26,UTA,,BKN,,T. Horton-Tucker,UTA,MISS Horton-Tucker 3PT Running Jump Shot,Missed Shot,Running Jump Shot,230,0,0,1,3.0,0.0,h
+S2324-G0357,3,09:08,UTA,63.0,BKN,65.0,T. Horton-Tucker,UTA,Horton-Tucker 24' 3PT Running Jump Shot (10 PTS) (Fontecchio 3 AST),Made Shot,Running Jump Shot,-235,5,24,1,3.0,3.0,h
+S2324-G0357,3,08:41,UTA,66.0,BKN,68.0,T. Horton-Tucker,UTA,Horton-Tucker 26' 3PT Jump Shot (13 PTS) (Markkanen 4 AST),Made Shot,Jump Shot,-116,237,26,1,3.0,3.0,h
+S2324-G0357,3,06:24,UTA,,BKN,,T. Horton-Tucker,UTA,MISS Horton-Tucker 19' Jump Shot,Missed Shot,Jump Shot,-154,113,19,1,2.0,0.0,h
+S2324-G0357,3,04:29,UTA,75.0,BKN,78.0,T. Horton-Tucker,UTA,Horton-Tucker 1' Layup (15 PTS) (Olynyk 2 AST),Made Shot,Layup Shot,-9,8,1,1,2.0,2.0,h
+S2324-G0357,3,04:14,UTA,,BKN,,T. Horton-Tucker,UTA,SUB: Collins FOR Horton-Tucker,Substitution,,0,0,0,0,,,h
+S2324-G0357,4,10:37,UTA,92.0,BKN,84.0,T. Horton-Tucker,UTA,Horton-Tucker 18' Step Back Jump Shot (17 PTS),Made Shot,Step Back Jump shot,150,105,18,1,2.0,2.0,h
+S2324-G0357,4,09:48,UTA,,BKN,,T. Horton-Tucker,UTA,Horton-Tucker STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0357,4,09:45,UTA,94.0,BKN,87.0,T. Horton-Tucker,UTA,Horton-Tucker 4' Running Layup (19 PTS),Made Shot,Running Layup Shot,32,25,4,1,2.0,2.0,h
+S2324-G0357,4,07:42,UTA,,BKN,,T. Horton-Tucker,UTA,MISS Horton-Tucker 4' Layup,Missed Shot,Layup Shot,29,33,4,1,2.0,0.0,h
+S2324-G0357,4,06:33,UTA,106.0,BKN,95.0,T. Horton-Tucker,UTA,Horton-Tucker 25' 3PT Jump Shot (22 PTS),Made Shot,Jump Shot,82,239,25,1,3.0,3.0,h
+S2324-G0357,4,05:51,UTA,108.0,BKN,98.0,T. Horton-Tucker,UTA,Horton-Tucker 3' Reverse Layup (24 PTS),Made Shot,Reverse Layup Shot,27,18,3,1,2.0,2.0,h
+S2324-G0357,4,05:10,UTA,,BKN,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0357,4,03:55,UTA,,BKN,,T. Horton-Tucker,UTA,MISS Horton-Tucker 14' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-141,10,14,1,2.0,0.0,h
+S2324-G0357,4,03:01,UTA,118.0,BKN,101.0,T. Horton-Tucker,UTA,Horton-Tucker 26' 3PT Pullup Jump Shot (27 PTS),Made Shot,Pullup Jump shot,-225,122,26,1,3.0,3.0,h
+S2324-G0357,4,02:34,UTA,,BKN,,T. Horton-Tucker,UTA,MISS Horton-Tucker 28' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,141,244,28,1,3.0,0.0,h
+S2324-G0479,4,11:34,BOS,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-96,61,11,1,2.0,0.0,v
+S2324-G0479,4,11:08,BOS,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 24' 3PT Jump Shot,Missed Shot,Jump Shot,-234,61,24,1,3.0,0.0,v
+S2324-G0479,4,10:43,BOS,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0479,4,10:41,BOS,107.0,UTA,76.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0479,4,10:41,BOS,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0479,4,09:38,BOS,109.0,UTA,77.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0479,4,09:38,BOS,109.0,UTA,78.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0479,4,09:04,BOS,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 10' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-97,40,10,1,2.0,0.0,v
+S2324-G0479,4,06:40,BOS,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0479,4,06:20,BOS,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker P.FOUL (P1.T1) (A.Nagy),Foul,Personal,0,0,0,0,,,v
+S2324-G0479,4,05:53,BOS,114.0,UTA,88.0,T. Horton-Tucker,UTA,Horton-Tucker 4' Driving Layup (5 PTS) (Dunn 5 AST),Made Shot,Driving Layup Shot,2,35,4,1,2.0,2.0,v
+S2324-G0479,4,05:53,BOS,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2324-G0479,4,04:10,BOS,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 4' Driving Dunk,Missed Shot,Driving Dunk Shot,-17,36,4,1,2.0,0.0,v
+S2324-G0479,4,03:15,BOS,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 1' Driving Layup,Missed Shot,Driving Layup Shot,10,4,1,1,2.0,0.0,v
+S2324-G0479,4,02:25,BOS,122.0,UTA,93.0,T. Horton-Tucker,UTA,Horton-Tucker 2' Driving Layup (7 PTS) (Agbaji 1 AST),Made Shot,Driving Layup Shot,-1,22,2,1,2.0,2.0,v
+S2324-G0479,4,02:25,BOS,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2324-G0479,4,02:06,BOS,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0479,4,02:01,BOS,122.0,UTA,95.0,T. Horton-Tucker,UTA,Horton-Tucker 3' Running Finger Roll Layup (9 PTS),Made Shot,Running Finger Roll Layup Shot,0,30,3,1,2.0,2.0,v
+S2324-G0479,4,00:55.100000,BOS,124.0,UTA,97.0,T. Horton-Tucker,UTA,Horton-Tucker 3' Running Dunk (11 PTS),Made Shot,Running Dunk Shot,7,30,3,1,2.0,2.0,v
+S2324-G0479,4,00:28.500000,BOS,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 5' Driving Layup,Missed Shot,Driving Layup Shot,34,38,5,1,2.0,0.0,v
+S2324-G1100,3,02:51,UTA,,CLE,,T. Horton-Tucker,UTA,Horton-Tucker STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1100,3,02:48,UTA,,CLE,,T. Horton-Tucker,UTA,MISS Horton-Tucker 2' Driving Layup,Missed Shot,Driving Layup Shot,10,22,2,1,2.0,0.0,h
+S2324-G1100,3,01:37,UTA,77.0,CLE,92.0,T. Horton-Tucker,UTA,Horton-Tucker 3PT Jump Shot (3 PTS) (Dunn 5 AST),Made Shot,Jump Shot,233,24,0,1,3.0,3.0,h
+S2324-G1100,3,00:15.900000,UTA,81.0,CLE,97.0,T. Horton-Tucker,UTA,Horton-Tucker 4' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,28,21,4,1,2.0,2.0,h
+S2324-G1100,4,10:05,UTA,88.0,CLE,105.0,T. Horton-Tucker,UTA,Horton-Tucker 25' 3PT Pullup Jump Shot (8 PTS) (Samanic 1 AST),Made Shot,Pullup Jump shot,-61,242,25,1,3.0,3.0,h
+S2324-G1100,4,09:21,UTA,,CLE,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1100,4,08:48,UTA,91.0,CLE,107.0,T. Horton-Tucker,UTA,Horton-Tucker 5' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,-42,25,5,1,2.0,2.0,h
+S2324-G1100,4,08:41,UTA,,CLE,,T. Horton-Tucker,UTA,Horton-Tucker P.FOUL (P1.T1) (T.Ford),Foul,Personal,0,0,0,0,,,h
+S2324-G1100,4,08:37,UTA,,CLE,,T. Horton-Tucker,UTA,Horton-Tucker P.FOUL (P2.T2) (S.Twardoski),Foul,Personal,0,0,0,0,,,h
+S2324-G1100,4,06:24,UTA,,CLE,,T. Horton-Tucker,UTA,MISS Horton-Tucker 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-207,137,25,1,3.0,0.0,h
+S2324-G1100,4,04:47,UTA,99.0,CLE,119.0,T. Horton-Tucker,UTA,Horton-Tucker 2' Running Finger Roll Layup (12 PTS),Made Shot,Running Finger Roll Layup Shot,17,17,2,1,2.0,2.0,h
+S2324-G1100,4,04:17,UTA,,CLE,,T. Horton-Tucker,UTA,SUB: George FOR Horton-Tucker,Substitution,,0,0,0,0,,,h
+S2324-G1213,1,03:33,DAL,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 5' Layup,Missed Shot,Layup Shot,45,29,5,1,2.0,0.0,v
+S2324-G1213,1,02:50,DAL,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 19' Jump Shot,Missed Shot,Jump Shot,152,111,19,1,2.0,0.0,v
+S2324-G1213,1,01:36,DAL,38.0,UTA,26.0,T. Horton-Tucker,UTA,Horton-Tucker 3PT Jump Shot (3 PTS) (Sexton 1 AST),Made Shot,Jump Shot,232,4,0,1,3.0,3.0,v
+S2324-G1213,1,01:13,DAL,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1213,2,10:18,DAL,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker OFF.Foul (P1) (A.Nagy),Foul,Offensive,0,0,0,0,,,v
+S2324-G1213,2,10:18,DAL,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G1213,2,09:16,DAL,47.0,UTA,33.0,T. Horton-Tucker,UTA,Horton-Tucker 1' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,2,12,1,1,2.0,2.0,v
+S2324-G1213,2,08:02,DAL,49.0,UTA,39.0,T. Horton-Tucker,UTA,Horton-Tucker 3PT Jump Shot (8 PTS) (Sexton 2 AST),Made Shot,Jump Shot,-228,10,0,1,3.0,3.0,v
+S2324-G1213,2,07:50,DAL,,UTA,,T. Horton-Tucker,UTA,SUB: Yurtseven FOR Horton-Tucker,Substitution,,0,0,0,0,,,v
+S2324-G1213,3,06:55,DAL,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,4,105,11,1,2.0,0.0,v
+S2324-G1213,3,06:05,DAL,,UTA,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1213,3,03:18,DAL,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 13' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-46,122,13,1,2.0,0.0,v
+S2324-G1213,3,02:49,DAL,96.0,UTA,72.0,T. Horton-Tucker,UTA,Horton-Tucker 26' 3PT Jump Shot (11 PTS) (Sexton 5 AST),Made Shot,Jump Shot,-146,220,26,1,3.0,3.0,v
+S2324-G1213,3,00:01.200000,DAL,,UTA,,T. Horton-Tucker,UTA,MISS Horton-Tucker 16' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,164,-2,16,1,2.0,0.0,v
+S2324-G0072,1,10:15,UTA,3.0,SAC,7.0,T. Horton-Tucker,UTA,Horton-Tucker 27' 3PT Jump Shot (3 PTS) (Markkanen 1 AST),Made Shot,Jump Shot,105,246,27,1,3.0,3.0,h
+S2324-G0072,1,09:49,UTA,,SAC,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0072,1,09:45,UTA,,SAC,,T. Horton-Tucker,UTA,Horton-Tucker Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G0072,1,09:06,UTA,,SAC,,T. Horton-Tucker,UTA,MISS Horton-Tucker 14' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-103,91,14,1,2.0,0.0,h
+S2324-G0072,1,06:58,UTA,12.0,SAC,15.0,T. Horton-Tucker,UTA,Horton-Tucker 24' 3PT Jump Shot (6 PTS) (Clarkson 1 AST),Made Shot,Jump Shot,-238,22,24,1,3.0,3.0,h
+S2324-G0072,1,06:28,UTA,,SAC,,T. Horton-Tucker,UTA,SUB: Sexton FOR Horton-Tucker,Substitution,,0,0,0,0,,,h
+S2324-G0072,2,11:25,UTA,,SAC,,T. Horton-Tucker,UTA,Horton-Tucker BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0072,2,11:11,UTA,,SAC,,T. Horton-Tucker,UTA,Horton-Tucker Violation:Kicked Ball (J.Williams),Violation,Kicked Ball,0,0,0,0,,,h
+S2324-G0072,2,10:57,UTA,,SAC,,T. Horton-Tucker,UTA,MISS Horton-Tucker 26' 3PT Jump Shot,Missed Shot,Jump Shot,-195,165,26,1,3.0,0.0,h
+S2324-G0072,2,07:29,UTA,,SAC,,T. Horton-Tucker,UTA,Horton-Tucker P.FOUL (P1.T1) (K.Lane),Foul,Personal,0,0,0,0,,,h
+S2324-G0072,2,06:30,UTA,,SAC,,T. Horton-Tucker,UTA,MISS Horton-Tucker 4' Layup,Missed Shot,Layup Shot,28,34,4,1,2.0,0.0,h
+S2324-G0072,2,05:28,UTA,,SAC,,T. Horton-Tucker,UTA,SUB: Sexton FOR Horton-Tucker,Substitution,,0,0,0,0,,,h
+S2324-G0072,3,10:56,UTA,63.0,SAC,74.0,T. Horton-Tucker,UTA,Horton-Tucker 3' Reverse Layup (8 PTS) (Clarkson 4 AST),Made Shot,Reverse Layup Shot,26,5,3,1,2.0,2.0,h
+S2324-G0072,3,09:29,UTA,,SAC,,T. Horton-Tucker,UTA,MISS Horton-Tucker 16' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,40,156,16,1,2.0,0.0,h
+S2324-G0072,3,08:02,UTA,,SAC,,T. Horton-Tucker,UTA,SUB: Sexton FOR Horton-Tucker,Substitution,,0,0,0,0,,,h
+S2324-G0072,4,11:44,UTA,,SAC,,T. Horton-Tucker,UTA,MISS Horton-Tucker 4' Driving Layup,Missed Shot,Driving Layup Shot,21,34,4,1,2.0,0.0,h
+S2324-G0072,4,06:48,UTA,,SAC,,T. Horton-Tucker,UTA,MISS Horton-Tucker 24' 3PT Jump Shot,Missed Shot,Jump Shot,239,43,24,1,3.0,0.0,h
+S2324-G0072,4,06:14,UTA,,SAC,,T. Horton-Tucker,UTA,SUB: Collins FOR Horton-Tucker,Substitution,,0,0,0,0,,,h
+S2324-G1225,1,04:24,UTA,,LAC,,T. Horton-Tucker,UTA,MISS Horton-Tucker 26' 3PT Jump Shot,Missed Shot,Jump Shot,-97,240,26,1,3.0,0.0,h
+S2324-G1225,1,04:09,UTA,13.0,LAC,22.0,T. Horton-Tucker,UTA,Horton-Tucker 4' Running Finger Roll Layup (2 PTS),Made Shot,Running Finger Roll Layup Shot,9,41,4,1,2.0,2.0,h
+S2324-G1225,1,01:45,UTA,,LAC,,T. Horton-Tucker,UTA,Horton-Tucker STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1225,1,01:43,UTA,23.0,LAC,26.0,T. Horton-Tucker,UTA,Horton-Tucker 3' Running Reverse Layup (4 PTS),Made Shot,Running Reverse Layup Shot,26,-8,3,1,2.0,2.0,h
+S2324-G1225,1,01:43,UTA,,LAC,,T. Horton-Tucker,UTA,MISS Horton-Tucker Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2324-G1225,1,01:06,UTA,,LAC,,T. Horton-Tucker,UTA,MISS Horton-Tucker 3PT Jump Shot,Missed Shot,Jump Shot,-228,-10,0,1,3.0,0.0,h
+S2324-G1225,1,00:32.300000,UTA,26.0,LAC,30.0,T. Horton-Tucker,UTA,Horton-Tucker 26' 3PT Jump Shot (7 PTS) (Sexton 1 AST),Made Shot,Jump Shot,199,172,26,1,3.0,3.0,h
+S2324-G1225,2,11:30,UTA,28.0,LAC,32.0,T. Horton-Tucker,UTA,Horton-Tucker 5' Driving Floating Bank Jump Shot (9 PTS) (Sexton 2 AST),Made Shot,Driving Floating Bank Jump Shot,51,17,5,1,2.0,2.0,h
+S2324-G1225,2,10:09,UTA,,LAC,,T. Horton-Tucker,UTA,MISS Horton-Tucker 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-185,180,26,1,3.0,0.0,h
+S2324-G1225,2,09:49,UTA,32.0,LAC,34.0,T. Horton-Tucker,UTA,Horton-Tucker 3' Driving Layup (11 PTS),Made Shot,Driving Layup Shot,32,5,3,1,2.0,2.0,h
+S2324-G1225,2,08:23,UTA,,LAC,,T. Horton-Tucker,UTA,MISS Horton-Tucker 4' Driving Layup,Missed Shot,Driving Layup Shot,40,5,4,1,2.0,0.0,h
+S2324-G1225,2,06:36,UTA,,LAC,,T. Horton-Tucker,UTA,SUB: Clarkson FOR Horton-Tucker,Substitution,,0,0,0,0,,,h
+S2324-G1225,3,00:05.200000,UTA,74.0,LAC,88.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1225,3,00:05.200000,UTA,75.0,LAC,88.0,T. Horton-Tucker,UTA,Horton-Tucker Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1225,4,08:40,UTA,,LAC,,T. Horton-Tucker,UTA,Horton-Tucker BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G1225,4,07:52,UTA,,LAC,,T. Horton-Tucker,UTA,Horton-Tucker REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1225,4,07:46,UTA,,LAC,,T. Horton-Tucker,UTA,Horton-Tucker Lost Ball Turnover (P1.T14),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G1225,4,07:31,UTA,91.0,LAC,99.0,T. Horton-Tucker,UTA,Horton-Tucker 5' Driving Layup (15 PTS),Made Shot,Driving Layup Shot,26,41,5,1,2.0,2.0,h
+S2324-G1225,4,06:11,UTA,,LAC,,T. Horton-Tucker,UTA,Horton-Tucker Lost Ball Turnover (P2.T15),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G1225,4,05:03,UTA,,LAC,,T. Horton-Tucker,UTA,MISS Horton-Tucker 6' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-23,57,6,1,2.0,0.0,h
+S2324-G1225,4,04:48,UTA,,LAC,,T. Horton-Tucker,UTA,SUB: Clarkson FOR Horton-Tucker,Substitution,,0,0,0,0,,,h

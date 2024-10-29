@@ -1,0 +1,662 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2324-G0134,1,10:38,ORL,,LAL,,C. Reddish,LAL,MISS Reddish 25' 3PT Jump Shot,Missed Shot,Jump Shot,-208,143,25,1,3.0,0.0,v
+S2324-G0134,1,09:04,ORL,,LAL,,C. Reddish,LAL,Reddish S.FOUL (P1.T1) (D.Scott),Foul,Shooting,0,0,0,0,,,v
+S2324-G0134,1,07:51,ORL,,LAL,,C. Reddish,LAL,Reddish S.FOUL (P2.T2) (M.Smith),Foul,Shooting,0,0,0,0,,,v
+S2324-G0134,1,07:22,ORL,,LAL,,C. Reddish,LAL,Reddish REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0134,1,07:14,ORL,,LAL,,C. Reddish,LAL,SUB: Wood FOR Reddish,Substitution,,0,0,0,0,,,v
+S2324-G0134,2,06:58,ORL,,LAL,,C. Reddish,LAL,MISS Reddish 2' Driving Layup,Missed Shot,Driving Layup Shot,0,16,2,1,2.0,0.0,v
+S2324-G0134,2,04:59,ORL,,LAL,,C. Reddish,LAL,Lakers T.Foul (Def. 3 Sec Reddish ) (M.Lindsay),Foul,Defense 3 Second,0,0,0,0,,,v
+S2324-G0134,2,02:27,ORL,,LAL,,C. Reddish,LAL,MISS Reddish 3' Driving Layup,Missed Shot,Driving Layup Shot,-26,16,3,1,2.0,0.0,v
+S2324-G0134,2,00:59.600000,ORL,63.0,LAL,49.0,C. Reddish,LAL,Reddish 7' Driving Floating Bank Jump Shot (2 PTS) (Reaves 1 AST),Made Shot,Driving Floating Bank Jump Shot,53,39,7,1,2.0,2.0,v
+S2324-G0134,2,00:19.300000,ORL,,LAL,,C. Reddish,LAL,Reddish Out of Bounds Lost Ball Turnover (P1.T11),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2324-G0134,3,11:37,ORL,,LAL,,C. Reddish,LAL,Reddish REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0134,3,08:41,ORL,,LAL,,C. Reddish,LAL,Reddish S.FOUL (P3.T3) (M.Smith),Foul,Shooting,0,0,0,0,,,v
+S2324-G0134,3,07:27,ORL,,LAL,,C. Reddish,LAL,Reddish REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0134,3,04:44,ORL,,LAL,,C. Reddish,LAL,MISS Reddish 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-2,64,6,1,2.0,0.0,v
+S2324-G0134,3,03:54,ORL,,LAL,,C. Reddish,LAL,Reddish S.FOUL (P4.PN) (D.Scott),Foul,Shooting,0,0,0,0,,,v
+S2324-G0134,3,03:15,ORL,,LAL,,C. Reddish,LAL,SUB: James FOR Reddish,Substitution,,0,0,0,0,,,v
+S2324-G1230,1,10:42,LAL,8.0,NOP,3.0,C. Reddish,LAL,Reddish 3PT Jump Shot (3 PTS) (James 1 AST),Made Shot,Jump Shot,228,28,0,1,3.0,3.0,h
+S2324-G1230,1,09:46,LAL,,NOP,,C. Reddish,LAL,Reddish REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1230,1,08:51,LAL,,NOP,,C. Reddish,LAL,Reddish S.FOUL (P1.T1) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,h
+S2324-G1230,1,05:03,LAL,,NOP,,C. Reddish,LAL,Reddish Out of Bounds Lost Ball Turnover (P1.T5),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2324-G1230,1,05:03,LAL,,NOP,,C. Reddish,LAL,SUB: Christie FOR Reddish,Substitution,,0,0,0,0,,,h
+S2324-G1230,2,08:00,LAL,,NOP,,C. Reddish,LAL,Reddish REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1230,2,07:59,LAL,44.0,NOP,35.0,C. Reddish,LAL,Reddish 2' Putback Dunk (5 PTS),Made Shot,Putback Dunk Shot,2,22,2,1,2.0,2.0,h
+S2324-G1230,2,05:40,LAL,,NOP,,C. Reddish,LAL,MISS Reddish 4' Driving Layup,Missed Shot,Driving Layup Shot,16,33,4,1,2.0,0.0,h
+S2324-G1230,2,05:37,LAL,,NOP,,C. Reddish,LAL,Reddish REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1230,2,05:36,LAL,,NOP,,C. Reddish,LAL,MISS Reddish 2' Putback Layup,Missed Shot,Putback Layup Shot,10,21,2,1,2.0,0.0,h
+S2324-G1230,2,05:19,LAL,,NOP,,C. Reddish,LAL,SUB: Reaves FOR Reddish,Substitution,,0,0,0,0,,,h
+S2324-G1230,3,09:29,LAL,,NOP,,C. Reddish,LAL,Reddish REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1230,3,07:34,LAL,80.0,NOP,60.0,C. Reddish,LAL,Reddish Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1230,3,07:34,LAL,81.0,NOP,60.0,C. Reddish,LAL,Reddish Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1230,3,07:14,LAL,,NOP,,C. Reddish,LAL,Reddish REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1230,3,05:44,LAL,,NOP,,C. Reddish,LAL,SUB: Hachimura FOR Reddish,Substitution,,0,0,0,0,,,h
+S2324-G1230,3,02:32,LAL,99.0,NOP,66.0,C. Reddish,LAL,Reddish 1' Cutting Finger Roll Layup Shot (9 PTS) (Davis 4 AST),Made Shot,Cutting Finger Roll Layup Shot,13,5,1,1,2.0,2.0,h
+S2324-G1230,3,01:42,LAL,,NOP,,C. Reddish,LAL,MISS Reddish 3PT Jump Shot,Missed Shot,Jump Shot,232,26,0,1,3.0,0.0,h
+S2324-G0163,1,00:15.800000,HOU,,LAL,,C. Reddish,LAL,MISS Reddish 24' 3PT Jump Shot,Missed Shot,Jump Shot,234,35,24,1,3.0,0.0,v
+S2324-G0163,2,11:02,HOU,,LAL,,C. Reddish,LAL,Reddish STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0163,2,07:28,HOU,,LAL,,C. Reddish,LAL,SUB: Wood FOR Reddish,Substitution,,0,0,0,0,,,v
+S2324-G0163,4,10:47,HOU,,LAL,,C. Reddish,LAL,MISS Reddish 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,-6,16,2,1,2.0,0.0,v
+S2324-G0163,4,10:29,HOU,101.0,LAL,75.0,C. Reddish,LAL,Reddish Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0163,4,10:29,HOU,101.0,LAL,76.0,C. Reddish,LAL,Reddish Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0163,4,10:05,HOU,,LAL,,C. Reddish,LAL,MISS Reddish 26' 3PT Jump Shot,Missed Shot,Jump Shot,-186,178,26,1,3.0,0.0,v
+S2324-G0163,4,07:40,HOU,,LAL,,C. Reddish,LAL,MISS Reddish 17' Jump Shot,Missed Shot,Jump Shot,98,142,17,1,2.0,0.0,v
+S2324-G0163,4,06:20,HOU,,LAL,,C. Reddish,LAL,Reddish STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0163,4,05:04,HOU,115.0,LAL,86.0,C. Reddish,LAL,Reddish 2' Driving Layup (4 PTS) (Christie 3 AST),Made Shot,Driving Layup Shot,20,13,2,1,2.0,2.0,v
+S2324-G0163,4,04:27,HOU,117.0,LAL,88.0,C. Reddish,LAL,Reddish 11' Driving Floating Jump Shot (6 PTS),Made Shot,Driving Floating Jump Shot,26,105,11,1,2.0,2.0,v
+S2324-G0163,4,03:25,HOU,,LAL,,C. Reddish,LAL,MISS Reddish Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0163,4,03:25,HOU,121.0,LAL,91.0,C. Reddish,LAL,Reddish Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0163,4,03:11,HOU,,LAL,,C. Reddish,LAL,Reddish REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0163,4,03:04,HOU,,LAL,,C. Reddish,LAL,MISS Reddish 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,147,197,25,1,3.0,0.0,v
+S2324-G0163,4,02:21,HOU,,LAL,,C. Reddish,LAL,Reddish STEAL (3 STL),,,0,0,0,0,,,v
+S2324-G0026,1,09:26,LAL,,MEM,,C. Reddish,LAL,MISS Reddish 4' Driving Layup,Missed Shot,Driving Layup Shot,10,39,4,1,2.0,0.0,h
+S2324-G0026,1,04:57,LAL,,MEM,,C. Reddish,LAL,SUB: Prince FOR Reddish,Substitution,,0,0,0,0,,,h
+S2324-G0026,2,09:31,LAL,42.0,MEM,31.0,C. Reddish,LAL,Reddish 3PT Jump Shot (3 PTS) (James 3 AST),Made Shot,Jump Shot,223,64,0,1,3.0,3.0,h
+S2324-G0026,2,06:30,LAL,,MEM,,C. Reddish,LAL,MISS Reddish 24' 3PT Jump Shot,Missed Shot,Jump Shot,224,85,24,1,3.0,0.0,h
+S2324-G0026,2,05:30,LAL,58.0,MEM,40.0,C. Reddish,LAL,Reddish 25' 3PT Jump Shot (6 PTS) (Russell 4 AST),Made Shot,Jump Shot,-237,88,25,1,3.0,3.0,h
+S2324-G0026,2,05:20,LAL,,MEM,,C. Reddish,LAL,Reddish P.FOUL (P1.T3) (R.Acosta),Foul,Personal,0,0,0,0,,,h
+S2324-G0026,2,05:20,LAL,,MEM,,C. Reddish,LAL,SUB: Reaves FOR Reddish,Substitution,,0,0,0,0,,,h
+S2324-G0026,3,11:09,LAL,79.0,MEM,53.0,C. Reddish,LAL,Reddish 3PT Jump Shot (9 PTS) (James 6 AST),Made Shot,Jump Shot,-229,14,0,1,3.0,3.0,h
+S2324-G0026,3,06:50,LAL,,MEM,,C. Reddish,LAL,Reddish FLAGRANT.FOUL.TYPE1 (P2.T2) (R.Acosta),Foul,Flagrant Type 1,0,0,0,0,,,h
+S2324-G0026,3,04:46,LAL,,MEM,,C. Reddish,LAL,SUB: Wood FOR Reddish,Substitution,,0,0,0,0,,,h
+S2324-G0026,4,07:39,LAL,,MEM,,C. Reddish,LAL,MISS Reddish 26' 3PT Jump Shot,Missed Shot,Jump Shot,195,167,26,1,3.0,0.0,h
+S2324-G0026,4,06:32,LAL,,MEM,,C. Reddish,LAL,MISS Reddish Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0026,4,06:32,LAL,118.0,MEM,98.0,C. Reddish,LAL,Reddish Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0026,4,05:43,LAL,,MEM,,C. Reddish,LAL,MISS Reddish 2' Running Dunk,Missed Shot,Running Dunk Shot,4,24,2,1,2.0,0.0,h
+S2324-G0026,4,05:04,LAL,,MEM,,C. Reddish,LAL,Reddish REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0026,4,05:01,LAL,,MEM,,C. Reddish,LAL,SUB: Lewis FOR Reddish,Substitution,,0,0,0,0,,,h
+S2324-G0856,1,01:54,LAL,,WAS,,C. Reddish,LAL,Reddish Violation:Kicked Ball (A.Smith),Violation,Kicked Ball,0,0,0,0,,,h
+S2324-G0505,1,11:10,LAL,,LAC,,C. Reddish,LAL,Reddish REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0505,1,09:47,LAL,,LAC,,C. Reddish,LAL,MISS Reddish 2' Driving Layup,Missed Shot,Driving Layup Shot,-11,21,2,1,2.0,0.0,h
+S2324-G0505,1,09:45,LAL,,LAC,,C. Reddish,LAL,Reddish REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0505,1,09:07,LAL,,LAC,,C. Reddish,LAL,MISS Reddish 25' 3PT Jump Shot,Missed Shot,Jump Shot,-245,6,25,1,3.0,0.0,h
+S2324-G0505,1,07:50,LAL,,LAC,,C. Reddish,LAL,Reddish S.FOUL (P1.T2) (M.Lindsay),Foul,Shooting,0,0,0,0,,,h
+S2324-G0505,1,05:56,LAL,,LAC,,C. Reddish,LAL,Reddish Step Out of Bounds Turnover (P1.T4),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2324-G0505,1,04:56,LAL,,LAC,,C. Reddish,LAL,SUB: Vanderbilt FOR Reddish,Substitution,,0,0,0,0,,,h
+S2324-G0505,2,04:52,LAL,,LAC,,C. Reddish,LAL,Reddish Lost Ball Turnover (P2.T8),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0505,2,03:50,LAL,,LAC,,C. Reddish,LAL,MISS Reddish Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0505,2,03:50,LAL,42.0,LAC,44.0,C. Reddish,LAL,Reddish Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0505,2,02:50,LAL,,LAC,,C. Reddish,LAL,SUB: James FOR Reddish,Substitution,,0,0,0,0,,,h
+S2324-G0505,3,11:15,LAL,,LAC,,C. Reddish,LAL,Reddish STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0505,3,11:13,LAL,,LAC,,C. Reddish,LAL,MISS Reddish 3' Running Layup,Missed Shot,Running Layup Shot,-20,19,3,1,2.0,0.0,h
+S2324-G0505,3,10:10,LAL,,LAC,,C. Reddish,LAL,Reddish REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0505,3,10:01,LAL,,LAC,,C. Reddish,LAL,MISS Reddish 3' Floating Jump Shot,Missed Shot,Floating Jump shot,0,34,3,1,2.0,0.0,h
+S2324-G0505,3,09:15,LAL,,LAC,,C. Reddish,LAL,Reddish STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0505,3,09:15,LAL,,LAC,,C. Reddish,LAL,Reddish Out of Bounds - Bad Pass Turnover Turnover (P3.T11),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G0505,3,08:05,LAL,61.0,LAC,60.0,C. Reddish,LAL,Reddish 3PT Jump Shot (4 PTS) (Reaves 1 AST),Made Shot,Jump Shot,-229,11,0,1,3.0,3.0,h
+S2324-G0505,3,06:47,LAL,66.0,LAC,63.0,C. Reddish,LAL,Reddish 25' 3PT Jump Shot (7 PTS) (James 5 AST),Made Shot,Jump Shot,-115,222,25,1,3.0,3.0,h
+S2324-G0505,3,05:08,LAL,,LAC,,C. Reddish,LAL,SUB: James FOR Reddish,Substitution,,0,0,0,0,,,h
+S2324-G0505,4,07:00,LAL,,LAC,,C. Reddish,LAL,Reddish Lost Ball Turnover (P4.T15),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0505,4,05:36,LAL,,LAC,,C. Reddish,LAL,Reddish REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0505,4,05:36,LAL,,LAC,,C. Reddish,LAL,Reddish Step Out of Bounds Turnover (P5.T16),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2324-G0505,4,05:03,LAL,,LAC,,C. Reddish,LAL,SUB: Prince FOR Reddish,Substitution,,0,0,0,0,,,h
+S2324-G0397,1,10:38,OKC,,LAL,,C. Reddish,LAL,MISS Reddish 25' 3PT Jump Shot,Missed Shot,Jump Shot,98,235,25,1,3.0,0.0,v
+S2324-G0397,1,07:56,OKC,,LAL,,C. Reddish,LAL,MISS Reddish 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,77,148,17,1,2.0,0.0,v
+S2324-G0397,1,06:31,OKC,,LAL,,C. Reddish,LAL,Reddish REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0397,1,01:38,OKC,,LAL,,C. Reddish,LAL,SUB: Reaves FOR Reddish,Substitution,,0,0,0,0,,,v
+S2324-G0397,2,05:22,OKC,,LAL,,C. Reddish,LAL,MISS Reddish 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-230,-8,0,1,3.0,0.0,v
+S2324-G0397,2,01:43,OKC,,LAL,,C. Reddish,LAL,Reddish P.FOUL (P1.T2) (E.Dalen),Foul,Personal,0,0,0,0,,,v
+S2324-G0397,2,00:16.600000,OKC,59.0,LAL,71.0,C. Reddish,LAL,Reddish 1' Alley Oop Dunk (2 PTS) (Reaves 3 AST),Made Shot,Alley Oop Dunk Shot,1,13,1,1,2.0,2.0,v
+S2324-G0397,2,00:01.200000,OKC,,LAL,,C. Reddish,LAL,MISS Reddish 28' 3PT Jump Shot,Missed Shot,Jump Shot,-180,220,28,1,3.0,0.0,v
+S2324-G0397,3,09:44,OKC,,LAL,,C. Reddish,LAL,Reddish REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0397,3,09:20,OKC,,LAL,,C. Reddish,LAL,Reddish REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0397,3,08:43,OKC,64.0,LAL,80.0,C. Reddish,LAL,Reddish 2' Cutting Layup Shot (4 PTS) (Davis 4 AST),Made Shot,Cutting Layup Shot,-17,8,2,1,2.0,2.0,v
+S2324-G0397,3,08:33,OKC,,LAL,,C. Reddish,LAL,Reddish S.FOUL (P2.T2) (E.Malloy),Foul,Shooting,0,0,0,0,,,v
+S2324-G0397,3,07:08,OKC,,LAL,,C. Reddish,LAL,SUB: Hachimura FOR Reddish,Substitution,,0,0,0,0,,,v
+S2324-G0397,3,04:41,OKC,,LAL,,C. Reddish,LAL,Reddish REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0397,3,02:47,OKC,,LAL,,C. Reddish,LAL,SUB: Vanderbilt FOR Reddish,Substitution,,0,0,0,0,,,v
+S2324-G0397,4,01:15,OKC,,LAL,,C. Reddish,LAL,MISS Reddish 3PT Jump Shot,Missed Shot,Jump Shot,-232,-26,0,1,3.0,0.0,v
+S2324-G0397,4,00:14.200000,OKC,,LAL,,C. Reddish,LAL,Reddish STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0380,1,06:22,MIN,,LAL,,C. Reddish,LAL,SUB: Vanderbilt FOR Reddish,Substitution,,0,0,0,0,,,v
+S2324-G0380,1,02:03,MIN,,LAL,,C. Reddish,LAL,MISS Reddish 4' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,27,23,4,1,2.0,0.0,v
+S2324-G0380,1,01:20,MIN,31.0,LAL,25.0,C. Reddish,LAL,Reddish Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0380,1,01:20,MIN,31.0,LAL,26.0,C. Reddish,LAL,Reddish Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0380,2,11:19,MIN,,LAL,,C. Reddish,LAL,MISS Reddish 4' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,28,26,4,1,2.0,0.0,v
+S2324-G0380,2,10:35,MIN,39.0,LAL,36.0,C. Reddish,LAL,Reddish 3' Driving Finger Roll Layup (4 PTS) (Hayes 1 AST),Made Shot,Driving Finger Roll Layup Shot,-1,26,3,1,2.0,2.0,v
+S2324-G0380,2,06:08,MIN,,LAL,,C. Reddish,LAL,Reddish STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0380,2,06:04,MIN,,LAL,,C. Reddish,LAL,SUB: Vanderbilt FOR Reddish,Substitution,,0,0,0,0,,,v
+S2324-G0380,3,11:42,MIN,,LAL,,C. Reddish,LAL,Reddish REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0380,3,11:41,MIN,,LAL,,C. Reddish,LAL,MISS Reddish 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,49,147,15,1,2.0,0.0,v
+S2324-G0380,3,08:40,MIN,68.0,LAL,65.0,C. Reddish,LAL,Reddish 2' Driving Layup (6 PTS) (Russell 4 AST),Made Shot,Driving Layup Shot,-4,16,2,1,2.0,2.0,v
+S2324-G0380,3,07:40,MIN,70.0,LAL,67.0,C. Reddish,LAL,Reddish 7' Fadeaway Jumper (8 PTS) (Russell 5 AST),Made Shot,Fadeaway Jump Shot,50,52,7,1,2.0,2.0,v
+S2324-G0380,3,06:26,MIN,,LAL,,C. Reddish,LAL,SUB: Vanderbilt FOR Reddish,Substitution,,0,0,0,0,,,v
+S2324-G0380,3,03:14,MIN,,LAL,,C. Reddish,LAL,MISS Reddish 26' 3PT Jump Shot,Missed Shot,Jump Shot,-192,168,26,1,3.0,0.0,v
+S2324-G0380,4,08:48,MIN,,LAL,,C. Reddish,LAL,MISS Reddish 25' 3PT Jump Shot,Missed Shot,Jump Shot,179,173,25,1,3.0,0.0,v
+S2324-G0380,4,08:43,MIN,,LAL,,C. Reddish,LAL,SUB: Davis FOR Reddish,Substitution,,0,0,0,0,,,v
+S2324-G0380,4,06:45,MIN,,LAL,,C. Reddish,LAL,Reddish Lost Ball Turnover (P1.T16),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0380,4,02:34,MIN,,LAL,,C. Reddish,LAL,Reddish S.FOUL (P1.T4) (K.Cutler),Foul,Shooting,0,0,0,0,,,v
+S2324-G1155,1,03:38,LAL,,GSW,,C. Reddish,LAL,MISS Reddish 3' Driving Layup,Missed Shot,Driving Layup Shot,16,29,3,1,2.0,0.0,h
+S2324-G1155,1,02:04,LAL,,GSW,,C. Reddish,LAL,Reddish S.FOUL (P1.T2) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,h
+S2324-G1155,2,02:45,LAL,,GSW,,C. Reddish,LAL,SUB: Russell FOR Reddish,Substitution,,0,0,0,0,,,h
+S2324-G1155,4,01:02,LAL,,GSW,,C. Reddish,LAL,MISS Reddish 21' Jump Shot,Missed Shot,Jump Shot,-208,15,21,1,2.0,0.0,h
+S2324-G1143,1,02:30,LAL,,MIN,,C. Reddish,LAL,Reddish REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1143,1,02:30,LAL,,MIN,,C. Reddish,LAL,MISS Reddish 19' Jump Shot,Missed Shot,Jump Shot,108,152,19,1,2.0,0.0,h
+S2324-G1143,1,01:50,LAL,,MIN,,C. Reddish,LAL,Reddish S.FOUL (P1.T3) (P.Ransom),Foul,Shooting,0,0,0,0,,,h
+S2324-G1143,1,01:24,LAL,,MIN,,C. Reddish,LAL,Reddish REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1143,1,00:51.500000,LAL,33.0,MIN,28.0,C. Reddish,LAL,Reddish 1' Running Layup (2 PTS) (Russell 3 AST),Made Shot,Running Layup Shot,-4,-4,1,1,2.0,2.0,h
+S2324-G1143,2,05:19,LAL,,MIN,,C. Reddish,LAL,MISS Reddish 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,50,24,1,3.0,0.0,h
+S2324-G1143,2,03:18,LAL,,MIN,,C. Reddish,LAL,SUB: Hachimura FOR Reddish,Substitution,,0,0,0,0,,,h
+S2324-G1143,3,01:44,LAL,90.0,MIN,94.0,C. Reddish,LAL,Reddish 3PT Jump Shot (5 PTS) (Prince 2 AST),Made Shot,Jump Shot,-228,34,0,1,3.0,3.0,h
+S2324-G1143,4,10:17,LAL,,MIN,,C. Reddish,LAL,SUB: Russell FOR Reddish,Substitution,,0,0,0,0,,,h
+S2324-G0549,1,06:55,UTA,,LAL,,C. Reddish,LAL,MISS Reddish 24' 3PT Jump Shot,Missed Shot,Jump Shot,237,-4,24,1,3.0,0.0,v
+S2324-G0549,1,05:54,UTA,,LAL,,C. Reddish,LAL,SUB: Christie FOR Reddish,Substitution,,0,0,0,0,,,v
+S2324-G0549,2,08:43,UTA,,LAL,,C. Reddish,LAL,Reddish REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0549,2,06:50,UTA,,LAL,,C. Reddish,LAL,SUB: Davis FOR Reddish,Substitution,,0,0,0,0,,,v
+S2324-G0359,1,11:31,LAL,,NYK,,C. Reddish,LAL,Reddish REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0359,1,11:28,LAL,,NYK,,C. Reddish,LAL,MISS Reddish 26' 3PT Jump Shot,Missed Shot,Jump Shot,148,215,26,1,3.0,0.0,h
+S2324-G0359,1,10:13,LAL,5.0,NYK,3.0,C. Reddish,LAL,Reddish 2' Driving Finger Roll Layup (2 PTS) (James 2 AST),Made Shot,Driving Finger Roll Layup Shot,6,22,2,1,2.0,2.0,h
+S2324-G0359,1,09:58,LAL,,NYK,,C. Reddish,LAL,Reddish REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0359,1,09:31,LAL,,NYK,,C. Reddish,LAL,MISS Reddish 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-229,16,0,1,3.0,0.0,h
+S2324-G0359,1,07:56,LAL,,NYK,,C. Reddish,LAL,Reddish S.FOUL (P1.T1) (G.Petraitis),Foul,Shooting,0,0,0,0,,,h
+S2324-G0359,1,07:10,LAL,,NYK,,C. Reddish,LAL,MISS Reddish 9' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,16,87,9,1,2.0,0.0,h
+S2324-G0359,1,04:07,LAL,,NYK,,C. Reddish,LAL,SUB: Hachimura FOR Reddish,Substitution,,0,0,0,0,,,h
+S2324-G0359,2,07:54,LAL,,NYK,,C. Reddish,LAL,Reddish P.FOUL (P2.T2) (G.Petraitis),Foul,Personal,0,0,0,0,,,h
+S2324-G0359,2,05:58,LAL,,NYK,,C. Reddish,LAL,MISS Reddish 26' 3PT Jump Shot,Missed Shot,Jump Shot,-173,189,26,1,3.0,0.0,h
+S2324-G0359,2,05:45,LAL,,NYK,,C. Reddish,LAL,Reddish S.FOUL (P3.T4) (G.Petraitis),Foul,Shooting,0,0,0,0,,,h
+S2324-G0359,2,05:45,LAL,,NYK,,C. Reddish,LAL,SUB: Reaves FOR Reddish,Substitution,,0,0,0,0,,,h
+S2324-G0359,3,08:43,LAL,67.0,NYK,66.0,C. Reddish,LAL,Reddish Dunk (4 PTS) (James 5 AST),Made Shot,Dunk Shot,1,2,0,1,2.0,2.0,h
+S2324-G0359,3,08:33,LAL,,NYK,,C. Reddish,LAL,Reddish S.FOUL (P4.T2) (M.Lindsay),Foul,Shooting,0,0,0,0,,,h
+S2324-G0359,3,07:05,LAL,,NYK,,C. Reddish,LAL,SUB: Reaves FOR Reddish,Substitution,,0,0,0,0,,,h
+S2324-G0359,4,10:21,LAL,,NYK,,C. Reddish,LAL,Reddish STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0359,4,10:14,LAL,,NYK,,C. Reddish,LAL,MISS Reddish 26' 3PT Jump Shot,Missed Shot,Jump Shot,147,215,26,1,3.0,0.0,h
+S2324-G0359,4,07:46,LAL,,NYK,,C. Reddish,LAL,MISS Reddish 6' Driving Layup,Missed Shot,Driving Layup Shot,-28,54,6,1,2.0,0.0,h
+S2324-G0359,4,07:35,LAL,,NYK,,C. Reddish,LAL,MISS Reddish 8' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,66,43,8,1,2.0,0.0,h
+S2324-G0359,4,03:43,LAL,,NYK,,C. Reddish,LAL,Jump Ball Reddish vs. Barrett: Tip to Davis,Jump Ball,,0,0,0,0,,,h
+S2324-G0359,4,03:40,LAL,,NYK,,C. Reddish,LAL,Reddish STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0359,4,01:54,LAL,,NYK,,C. Reddish,LAL,Reddish P.FOUL (P5.T3) (M.Lindsay),Foul,Personal,0,0,0,0,,,h
+S2324-G0359,4,00:07.500000,LAL,,NYK,,C. Reddish,LAL,Reddish STEAL (3 STL),,,0,0,0,0,,,h
+S2324-G0915,1,01:29,LAL,22.0,MIL,25.0,C. Reddish,LAL,Reddish 2' Cutting Layup Shot (2 PTS) (Russell 2 AST),Made Shot,Cutting Layup Shot,12,20,2,1,2.0,2.0,h
+S2324-G0915,2,06:21,LAL,51.0,MIL,43.0,C. Reddish,LAL,Reddish 24' 3PT Jump Shot (5 PTS) (Reaves 3 AST),Made Shot,Jump Shot,234,68,24,1,3.0,3.0,h
+S2324-G0915,2,02:44,LAL,,MIL,,C. Reddish,LAL,SUB: Russell FOR Reddish,Substitution,,0,0,0,0,,,h
+S2324-G0915,3,02:16,LAL,,MIL,,C. Reddish,LAL,SUB: Russell FOR Reddish,Substitution,,0,0,0,0,,,h
+S2324-G0915,4,11:38,LAL,,MIL,,C. Reddish,LAL,Reddish BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0915,4,10:44,LAL,,MIL,,C. Reddish,LAL,MISS Reddish 3PT Jump Shot,Missed Shot,Jump Shot,227,1,0,1,3.0,0.0,h
+S2324-G0915,4,10:41,LAL,,MIL,,C. Reddish,LAL,MISS Reddish Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0915,4,10:41,LAL,97.0,MIL,92.0,C. Reddish,LAL,Reddish Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0915,4,09:06,LAL,,MIL,,C. Reddish,LAL,MISS Reddish 3PT Jump Shot,Missed Shot,Jump Shot,228,10,0,1,3.0,0.0,h
+S2324-G0915,4,07:41,LAL,,MIL,,C. Reddish,LAL,SUB: Reaves FOR Reddish,Substitution,,0,0,0,0,,,h
+S2324-G0915,4,00:23.200000,LAL,,MIL,,C. Reddish,LAL,SUB: Reaves FOR Reddish,Substitution,,0,0,0,0,,,h
+S2324-G0036,1,05:31,POR,,LAL,,C. Reddish,LAL,Reddish REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0036,1,04:29,POR,15.0,LAL,27.0,C. Reddish,LAL,Reddish Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0036,1,04:29,POR,15.0,LAL,28.0,C. Reddish,LAL,Reddish Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0036,1,03:25,POR,,LAL,,C. Reddish,LAL,Reddish Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0036,1,02:00,POR,,LAL,,C. Reddish,LAL,SUB: Prince FOR Reddish,Substitution,,0,0,0,0,,,v
+S2324-G0036,2,04:31,POR,38.0,LAL,49.0,C. Reddish,LAL,Reddish 26' 3PT Running Jump Shot (5 PTS) (Hachimura 1 AST),Made Shot,Running Jump Shot,-118,236,26,1,3.0,3.0,v
+S2324-G0036,2,04:07,POR,,LAL,,C. Reddish,LAL,Reddish STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0036,2,02:41,POR,,LAL,,C. Reddish,LAL,MISS Reddish 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,56,242,25,1,3.0,0.0,v
+S2324-G0036,3,07:29,POR,,LAL,,C. Reddish,LAL,MISS Reddish 5' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-27,38,5,1,2.0,0.0,v
+S2324-G0036,3,07:04,POR,,LAL,,C. Reddish,LAL,MISS Reddish Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0036,3,07:04,POR,67.0,LAL,69.0,C. Reddish,LAL,Reddish Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0036,3,03:45,POR,,LAL,,C. Reddish,LAL,SUB: Wood FOR Reddish,Substitution,,0,0,0,0,,,v
+S2324-G0036,4,07:00,POR,,LAL,,C. Reddish,LAL,Reddish STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0036,4,06:56,POR,83.0,LAL,99.0,C. Reddish,LAL,Reddish 2' Running Reverse Layup (8 PTS),Made Shot,Running Reverse Layup Shot,6,15,2,1,2.0,2.0,v
+S2324-G0036,4,05:54,POR,,LAL,,C. Reddish,LAL,Reddish STEAL (3 STL),,,0,0,0,0,,,v
+S2324-G0036,4,01:30,POR,,LAL,,C. Reddish,LAL,Reddish BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0036,4,01:26,POR,,LAL,,C. Reddish,LAL,Reddish REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0036,4,01:11,POR,,LAL,,C. Reddish,LAL,SUB: Wood FOR Reddish,Substitution,,0,0,0,0,,,v
+S2324-G0061,1,01:30,DEN,,LAL,,C. Reddish,LAL,Reddish REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0061,1,01:14,DEN,,LAL,,C. Reddish,LAL,MISS Reddish 25' 3PT Jump Shot,Missed Shot,Jump Shot,-140,213,25,1,3.0,0.0,v
+S2324-G0061,2,08:10,DEN,42.0,LAL,29.0,C. Reddish,LAL,Reddish 25' 3PT Jump Shot (3 PTS) (Russell 3 AST),Made Shot,Jump Shot,-170,188,25,1,3.0,3.0,v
+S2324-G0061,2,06:09,DEN,,LAL,,C. Reddish,LAL,Reddish S.FOUL (P1.PN) (K.Cutler),Foul,Shooting,0,0,0,0,,,v
+S2324-G0061,2,04:46,DEN,,LAL,,C. Reddish,LAL,Reddish BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0061,2,04:06,DEN,,LAL,,C. Reddish,LAL,SUB: Russell FOR Reddish,Substitution,,0,0,0,0,,,v
+S2324-G0061,3,01:20,DEN,,LAL,,C. Reddish,LAL,Reddish P.FOUL (P2.T3) (S.Twardoski),Foul,Personal,0,0,0,0,,,v
+S2324-G0061,3,00:03.200000,DEN,,LAL,,C. Reddish,LAL,Reddish REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0061,4,10:11,DEN,,LAL,,C. Reddish,LAL,Reddish REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0061,4,10:09,DEN,,LAL,,C. Reddish,LAL,MISS Reddish 3' Driving Layup,Missed Shot,Driving Layup Shot,22,12,3,1,2.0,0.0,v
+S2324-G0061,4,10:09,DEN,,LAL,,C. Reddish,LAL,Reddish REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0061,4,10:06,DEN,90.0,LAL,86.0,C. Reddish,LAL,Reddish Tip Layup Shot (5 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2324-G0061,4,08:15,DEN,,LAL,,C. Reddish,LAL,SUB: Reaves FOR Reddish,Substitution,,0,0,0,0,,,v
+S2324-G0061,4,00:24,DEN,119.0,LAL,106.0,C. Reddish,LAL,Reddish Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0061,4,00:24,DEN,119.0,LAL,107.0,C. Reddish,LAL,Reddish Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0076,1,01:27,LAL,,PHX,,C. Reddish,LAL,Reddish REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0076,1,00:07.800000,LAL,,PHX,,C. Reddish,LAL,MISS Reddish 3PT Jump Shot,Missed Shot,Jump Shot,-228,-11,0,1,3.0,0.0,h
+S2324-G0076,2,03:29,LAL,,PHX,,C. Reddish,LAL,Reddish Out of Bounds Lost Ball Turnover (P1.T9),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2324-G0076,2,01:04,LAL,47.0,PHX,50.0,C. Reddish,LAL,Reddish 3' Running Reverse Layup (2 PTS) (James 4 AST),Made Shot,Running Reverse Layup Shot,-4,25,3,1,2.0,2.0,h
+S2324-G0076,2,00:34.700000,LAL,,PHX,,C. Reddish,LAL,Reddish P.FOUL (P1.PN) (J.Goldenberg),Foul,Personal,0,0,0,0,,,h
+S2324-G0076,2,00:16.900000,LAL,,PHX,,C. Reddish,LAL,MISS Reddish 24' 3PT Jump Shot,Missed Shot,Jump Shot,234,51,24,1,3.0,0.0,h
+S2324-G0076,3,03:10,LAL,68.0,PHX,73.0,C. Reddish,LAL,Reddish 4' Layup (4 PTS) (Russell 4 AST),Made Shot,Layup Shot,-21,28,4,1,2.0,2.0,h
+S2324-G0076,3,02:48,LAL,,PHX,,C. Reddish,LAL,Reddish S.FOUL (P2.PN) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,h
+S2324-G0076,3,00:16,LAL,,PHX,,C. Reddish,LAL,MISS Reddish 3PT Jump Shot,Missed Shot,Jump Shot,227,50,0,1,3.0,0.0,h
+S2324-G0884,1,03:43,LAL,,OKC,,C. Reddish,LAL,Reddish REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0884,1,01:37,LAL,,OKC,,C. Reddish,LAL,Reddish REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0884,2,03:06,LAL,,OKC,,C. Reddish,LAL,SUB: James FOR Reddish,Substitution,,0,0,0,0,,,h
+S2324-G0884,3,01:32,LAL,,OKC,,C. Reddish,LAL,Reddish P.FOUL (P1.T3) (J.Schroeder),Foul,Personal,0,0,0,0,,,h
+S2324-G0884,3,00:17.900000,LAL,,OKC,,C. Reddish,LAL,MISS Reddish 3' Layup,Missed Shot,Layup Shot,26,16,3,1,2.0,0.0,h
+S2324-G0187,1,11:39,LAL,,POR,,C. Reddish,LAL,Reddish STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0187,1,09:57,LAL,8.0,POR,4.0,C. Reddish,LAL,Reddish 9' Driving Bank Hook Shot (2 PTS),Made Shot,Driving Bank Hook Shot,64,56,9,1,2.0,2.0,h
+S2324-G0187,1,07:36,LAL,,POR,,C. Reddish,LAL,Reddish REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0187,1,06:27,LAL,14.0,POR,14.0,C. Reddish,LAL,Reddish 2' Driving Dunk (4 PTS) (Hachimura 1 AST),Made Shot,Driving Dunk Shot,-13,13,2,1,2.0,2.0,h
+S2324-G0187,1,05:20,LAL,,POR,,C. Reddish,LAL,MISS Reddish 3PT Jump Shot,Missed Shot,Jump Shot,-227,15,0,1,3.0,0.0,h
+S2324-G0187,1,03:59,LAL,22.0,POR,22.0,C. Reddish,LAL,Reddish 25' 3PT Running Jump Shot (7 PTS) (Reaves 1 AST),Made Shot,Running Jump Shot,-126,219,25,1,3.0,3.0,h
+S2324-G0187,1,01:33,LAL,,POR,,C. Reddish,LAL,Reddish REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0187,1,01:32,LAL,27.0,POR,26.0,C. Reddish,LAL,Reddish 1' Running Layup (9 PTS),Made Shot,Running Layup Shot,6,11,1,1,2.0,2.0,h
+S2324-G0187,1,01:32,LAL,28.0,POR,26.0,C. Reddish,LAL,Reddish Free Throw 1 of 1 (10 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G0187,1,00:03.400000,LAL,,POR,,C. Reddish,LAL,Reddish REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0187,2,05:10,LAL,,POR,,C. Reddish,LAL,MISS Reddish 3PT Jump Shot,Missed Shot,Jump Shot,229,21,0,1,3.0,0.0,h
+S2324-G0187,2,03:47,LAL,44.0,POR,48.0,C. Reddish,LAL,Reddish 7' Driving Floating Jump Shot (12 PTS) (Hachimura 2 AST),Made Shot,Driving Floating Jump Shot,13,66,7,1,2.0,2.0,h
+S2324-G0187,2,02:54,LAL,,POR,,C. Reddish,LAL,Reddish REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0187,2,02:51,LAL,47.0,POR,50.0,C. Reddish,LAL,Reddish Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0187,2,02:51,LAL,48.0,POR,50.0,C. Reddish,LAL,Reddish Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0187,2,01:00,LAL,,POR,,C. Reddish,LAL,Reddish STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0187,2,00:58.200000,LAL,56.0,POR,54.0,C. Reddish,LAL,Reddish 1' Layup (16 PTS),Made Shot,Layup Shot,9,10,1,1,2.0,2.0,h
+S2324-G0187,3,09:14,LAL,,POR,,C. Reddish,LAL,Reddish REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0187,3,08:54,LAL,,POR,,C. Reddish,LAL,Reddish P.FOUL (P1.T1) (M.Dagher),Foul,Personal,0,0,0,0,,,h
+S2324-G0187,3,06:57,LAL,,POR,,C. Reddish,LAL,MISS Reddish 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,-15,7,2,1,2.0,0.0,h
+S2324-G0187,3,06:08,LAL,,POR,,C. Reddish,LAL,Reddish BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0187,3,06:08,LAL,,POR,,C. Reddish,LAL,SUB: Christie FOR Reddish,Substitution,,0,0,0,0,,,h
+S2324-G0187,4,07:46,LAL,97.0,POR,92.0,C. Reddish,LAL,Reddish 2' Driving Layup (18 PTS) (Prince 1 AST),Made Shot,Driving Layup Shot,-16,18,2,1,2.0,2.0,h
+S2324-G0187,4,06:46,LAL,,POR,,C. Reddish,LAL,Reddish REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0187,4,06:21,LAL,,POR,,C. Reddish,LAL,Reddish REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0187,4,06:20,LAL,,POR,,C. Reddish,LAL,Reddish Out of Bounds - Bad Pass Turnover Turnover (P1.T9),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G0187,4,04:31,LAL,,POR,,C. Reddish,LAL,Reddish STEAL (3 STL),,,0,0,0,0,,,h
+S2324-G0216,1,06:55,LAL,13.0,HOU,12.0,C. Reddish,LAL,Reddish 16' Pullup Jump Shot (2 PTS) (Davis 1 AST),Made Shot,Pullup Jump shot,-105,122,16,1,2.0,2.0,h
+S2324-G0216,1,06:30,LAL,,HOU,,C. Reddish,LAL,MISS Reddish 3' Running Layup,Missed Shot,Running Layup Shot,29,18,3,1,2.0,0.0,h
+S2324-G0216,1,05:43,LAL,,HOU,,C. Reddish,LAL,SUB: Hachimura FOR Reddish,Substitution,,0,0,0,0,,,h
+S2324-G0216,1,01:21,LAL,,HOU,,C. Reddish,LAL,MISS Reddish 24' 3PT Jump Shot,Missed Shot,Jump Shot,227,91,24,1,3.0,0.0,h
+S2324-G0216,1,00:50.900000,LAL,,HOU,,C. Reddish,LAL,MISS Reddish 24' 3PT Jump Shot,Missed Shot,Jump Shot,-232,42,24,1,3.0,0.0,h
+S2324-G0216,1,00:37.100000,LAL,,HOU,,C. Reddish,LAL,Reddish STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0216,2,10:58,LAL,24.0,HOU,28.0,C. Reddish,LAL,Reddish 3' Reverse Layup (4 PTS) (James 4 AST),Made Shot,Reverse Layup Shot,-25,21,3,1,2.0,2.0,h
+S2324-G0216,2,09:40,LAL,,HOU,,C. Reddish,LAL,Reddish P.FOUL (P1.T1) (B.Adair),Foul,Personal,0,0,0,0,,,h
+S2324-G0216,2,08:15,LAL,,HOU,,C. Reddish,LAL,SUB: Russell FOR Reddish,Substitution,,0,0,0,0,,,h
+S2324-G0216,2,05:37,LAL,,HOU,,C. Reddish,LAL,Reddish STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0216,2,03:56,LAL,,HOU,,C. Reddish,LAL,Reddish REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0216,2,01:24,LAL,,HOU,,C. Reddish,LAL,MISS Reddish 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,191,167,25,1,3.0,0.0,h
+S2324-G0216,2,00:57.800000,LAL,,HOU,,C. Reddish,LAL,Reddish Lost Ball Turnover (P1.T8),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0216,3,09:09,LAL,,HOU,,C. Reddish,LAL,Reddish STEAL (3 STL),,,0,0,0,0,,,h
+S2324-G0216,3,08:16,LAL,,HOU,,C. Reddish,LAL,MISS Reddish 3PT Running Jump Shot,Missed Shot,Running Jump Shot,229,14,0,1,3.0,0.0,h
+S2324-G0216,3,07:41,LAL,,HOU,,C. Reddish,LAL,Reddish L.B.FOUL (P2.T1) (S.Wright),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0216,3,06:38,LAL,,HOU,,C. Reddish,LAL,SUB: Reaves FOR Reddish,Substitution,,0,0,0,0,,,h
+S2324-G0216,3,03:02,LAL,,HOU,,C. Reddish,LAL,MISS Reddish 20' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,141,142,20,1,2.0,0.0,h
+S2324-G0216,3,01:06,LAL,79.0,HOU,75.0,C. Reddish,LAL,Reddish 3PT Jump Shot (7 PTS) (James 7 AST),Made Shot,Jump Shot,-228,15,0,1,3.0,3.0,h
+S2324-G0216,3,00:05.500000,LAL,,HOU,,C. Reddish,LAL,Reddish REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0216,4,06:06,LAL,,HOU,,C. Reddish,LAL,Reddish REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0491,1,10:45,LAL,,MEM,,C. Reddish,LAL,MISS Reddish 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,32,59,7,1,2.0,0.0,h
+S2324-G0491,1,06:54,LAL,,MEM,,C. Reddish,LAL,MISS Reddish 4' Driving Hook Shot,Missed Shot,Driving Hook Shot,-21,39,4,1,2.0,0.0,h
+S2324-G0491,1,05:16,LAL,,MEM,,C. Reddish,LAL,SUB: Vanderbilt FOR Reddish,Substitution,,0,0,0,0,,,h
+S2324-G0491,2,04:20,LAL,,MEM,,C. Reddish,LAL,Reddish STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0491,2,04:17,LAL,50.0,MEM,42.0,C. Reddish,LAL,Reddish 26' 3PT Jump Shot (3 PTS) (Reaves 5 AST),Made Shot,Jump Shot,12,262,26,1,3.0,3.0,h
+S2324-G0491,2,02:51,LAL,,MEM,,C. Reddish,LAL,MISS Reddish 24' 3PT Jump Shot,Missed Shot,Jump Shot,-234,33,24,1,3.0,0.0,h
+S2324-G0491,3,06:37,LAL,75.0,MEM,75.0,C. Reddish,LAL,Reddish 24' 3PT Jump Shot (6 PTS) (Davis 3 AST),Made Shot,Jump Shot,235,14,24,1,3.0,3.0,h
+S2324-G0491,3,04:49,LAL,,MEM,,C. Reddish,LAL,Reddish REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0491,3,04:44,LAL,,MEM,,C. Reddish,LAL,SUB: Vanderbilt FOR Reddish,Substitution,,0,0,0,0,,,h
+S2324-G0491,4,03:44,LAL,109.0,MEM,117.0,C. Reddish,LAL,Reddish 2' Cutting Layup Shot (8 PTS) (Prince 2 AST),Made Shot,Cutting Layup Shot,20,13,2,1,2.0,2.0,h
+S2324-G0491,4,02:22,LAL,,MEM,,C. Reddish,LAL,MISS Reddish 3' Driving Layup,Missed Shot,Driving Layup Shot,16,25,3,1,2.0,0.0,h
+S2324-G0491,4,02:19,LAL,,MEM,,C. Reddish,LAL,Reddish REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0491,4,02:13,LAL,,MEM,,C. Reddish,LAL,MISS Reddish 12' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,112,-33,12,1,2.0,0.0,h
+S2324-G0848,1,03:27,LAC,,LAL,,C. Reddish,LAL,MISS Reddish 17' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-141,100,17,1,2.0,0.0,v
+S2324-G0848,1,02:03,LAC,,LAL,,C. Reddish,LAL,MISS Reddish 27' 3PT Jump Shot,Missed Shot,Jump Shot,-97,247,27,1,3.0,0.0,v
+S2324-G0848,2,09:56,LAC,,LAL,,C. Reddish,LAL,Reddish S.FOUL (P1.T1) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,v
+S2324-G0848,2,09:21,LAC,,LAL,,C. Reddish,LAL,Reddish S.FOUL (P2.T2) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,v
+S2324-G0848,2,08:33,LAC,,LAL,,C. Reddish,LAL,Reddish REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0848,2,07:24,LAC,,LAL,,C. Reddish,LAL,SUB: Reaves FOR Reddish,Substitution,,0,0,0,0,,,v
+S2324-G0848,4,11:34,LAC,98.0,LAL,80.0,C. Reddish,LAL,Reddish 26' 3PT Jump Shot (3 PTS) (Prince 1 AST),Made Shot,Jump Shot,5,261,26,1,3.0,3.0,v
+S2324-G0848,4,10:17,LAC,,LAL,,C. Reddish,LAL,Reddish REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0848,4,08:18,LAC,,LAL,,C. Reddish,LAL,Reddish REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0848,4,08:06,LAC,,LAL,,C. Reddish,LAL,Reddish STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0848,4,05:16,LAC,,LAL,,C. Reddish,LAL,SUB: Hachimura FOR Reddish,Substitution,,0,0,0,0,,,v
+S2324-G0848,4,00:01.200000,LAC,112.0,LAL,116.0,C. Reddish,LAL,Reddish 1' Dunk (5 PTS) (James 8 AST),Made Shot,Dunk Shot,0,6,1,1,2.0,2.0,v
+S2324-G0370,1,11:08,CHI,,LAL,,C. Reddish,LAL,MISS Reddish 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-93,139,17,1,2.0,0.0,v
+S2324-G0370,1,10:56,CHI,,LAL,,C. Reddish,LAL,Reddish REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0370,1,08:21,CHI,,LAL,,C. Reddish,LAL,MISS Reddish 3PT Jump Shot,Missed Shot,Jump Shot,230,-4,0,1,3.0,0.0,v
+S2324-G0370,1,08:04,CHI,,LAL,,C. Reddish,LAL,MISS Reddish 24' 3PT Jump Shot,Missed Shot,Jump Shot,235,-9,24,1,3.0,0.0,v
+S2324-G0370,1,05:47,CHI,,LAL,,C. Reddish,LAL,SUB: Reaves FOR Reddish,Substitution,,0,0,0,0,,,v
+S2324-G0370,2,08:46,CHI,,LAL,,C. Reddish,LAL,MISS Reddish 26' 3PT Jump Shot,Missed Shot,Jump Shot,-169,197,26,1,3.0,0.0,v
+S2324-G0370,2,08:30,CHI,,LAL,,C. Reddish,LAL,MISS Reddish 2' Running Layup,Missed Shot,Running Layup Shot,21,11,2,1,2.0,0.0,v
+S2324-G0370,2,05:53,CHI,48.0,LAL,38.0,C. Reddish,LAL,Reddish 3PT Jump Shot (3 PTS) (Russell 1 AST),Made Shot,Jump Shot,-233,8,0,1,3.0,3.0,v
+S2324-G0370,2,03:50,CHI,,LAL,,C. Reddish,LAL,Reddish STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0370,2,02:18,CHI,,LAL,,C. Reddish,LAL,SUB: Reaves FOR Reddish,Substitution,,0,0,0,0,,,v
+S2324-G0370,3,11:30,CHI,64.0,LAL,57.0,C. Reddish,LAL,Reddish 9' Floating Jump Shot (5 PTS) (James 6 AST),Made Shot,Floating Jump shot,-85,0,9,1,2.0,2.0,v
+S2324-G0370,3,10:00,CHI,,LAL,,C. Reddish,LAL,Reddish REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0370,3,09:46,CHI,,LAL,,C. Reddish,LAL,MISS Reddish 3PT Jump Shot,Missed Shot,Jump Shot,233,3,0,1,3.0,0.0,v
+S2324-G0370,3,09:41,CHI,,LAL,,C. Reddish,LAL,Reddish STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0370,3,09:36,CHI,,LAL,,C. Reddish,LAL,MISS Reddish 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,163,200,26,1,3.0,0.0,v
+S2324-G0370,3,08:20,CHI,69.0,LAL,67.0,C. Reddish,LAL,Reddish 1' Driving Finger Roll Layup (7 PTS) (James 7 AST),Made Shot,Driving Finger Roll Layup Shot,-2,5,1,1,2.0,2.0,v
+S2324-G0370,3,07:57,CHI,,LAL,,C. Reddish,LAL,MISS Reddish 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,56,40,7,1,2.0,0.0,v
+S2324-G0370,3,07:04,CHI,,LAL,,C. Reddish,LAL,Reddish REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0370,3,06:19,CHI,,LAL,,C. Reddish,LAL,MISS Reddish 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,185,9,19,1,2.0,0.0,v
+S2324-G0370,3,05:27,CHI,76.0,LAL,70.0,C. Reddish,LAL,Reddish 3PT Jump Shot (10 PTS) (Prince 2 AST),Made Shot,Jump Shot,230,15,0,1,3.0,3.0,v
+S2324-G0370,3,04:17,CHI,,LAL,,C. Reddish,LAL,SUB: Reaves FOR Reddish,Substitution,,0,0,0,0,,,v
+S2324-G0370,4,10:44,CHI,92.0,LAL,81.0,C. Reddish,LAL,Reddish 3PT Running Jump Shot (13 PTS) (Vincent 2 AST),Made Shot,Running Jump Shot,-225,-17,0,1,3.0,3.0,v
+S2324-G0370,4,09:26,CHI,,LAL,,C. Reddish,LAL,Reddish REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0370,4,08:07,CHI,,LAL,,C. Reddish,LAL,Reddish Out of Bounds Lost Ball Turnover (P1.T13),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2324-G0370,4,07:39,CHI,,LAL,,C. Reddish,LAL,SUB: Russell FOR Reddish,Substitution,,0,0,0,0,,,v
+S2324-G0370,4,01:18,CHI,,LAL,,C. Reddish,LAL,Reddish P.FOUL (P1.T4) (T.Washington),Foul,Personal,0,0,0,0,,,v
+S2324-G0370,4,01:18,CHI,,LAL,,C. Reddish,LAL,SUB: Lewis FOR Reddish,Substitution,,0,0,0,0,,,v
+S2324-G0258,1,04:38,DET,,LAL,,C. Reddish,LAL,Reddish P.FOUL (P1.T2) (K.Lane),Foul,Personal,0,0,0,0,,,v
+S2324-G0258,1,04:29,DET,,LAL,,C. Reddish,LAL,Reddish REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0258,1,03:49,DET,,LAL,,C. Reddish,LAL,MISS Reddish 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,9,45,5,1,2.0,0.0,v
+S2324-G0258,1,01:58,DET,,LAL,,C. Reddish,LAL,Reddish REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0258,1,01:04,DET,,LAL,,C. Reddish,LAL,Reddish Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0258,2,11:18,DET,,LAL,,C. Reddish,LAL,Reddish REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0258,2,10:24,DET,,LAL,,C. Reddish,LAL,Reddish P.FOUL (P2.T1) (K.Lane),Foul,Personal,0,0,0,0,,,v
+S2324-G0258,2,10:24,DET,,LAL,,C. Reddish,LAL,SUB: Russell FOR Reddish,Substitution,,0,0,0,0,,,v
+S2324-G0258,2,05:03,DET,,LAL,,C. Reddish,LAL,MISS Reddish 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-89,237,25,1,3.0,0.0,v
+S2324-G0258,2,00:31.900000,DET,,LAL,,C. Reddish,LAL,SUB: Reaves FOR Reddish,Substitution,,0,0,0,0,,,v
+S2324-G0258,3,01:45,DET,,LAL,,C. Reddish,LAL,MISS Reddish 25' 3PT Jump Shot,Missed Shot,Jump Shot,234,96,25,1,3.0,0.0,v
+S2324-G0258,4,10:41,DET,,LAL,,C. Reddish,LAL,SUB: Hood-Schifino FOR Reddish,Substitution,,0,0,0,0,,,v
+S2324-G0258,4,06:39,DET,,LAL,,C. Reddish,LAL,SUB: Reaves FOR Reddish,Substitution,,0,0,0,0,,,v
+S2324-G1018,1,02:14,LAL,,PHI,,C. Reddish,LAL,MISS Reddish 24' 3PT Jump Shot,Missed Shot,Jump Shot,232,42,24,1,3.0,0.0,h
+S2324-G1018,1,00:01.600000,LAL,,PHI,,C. Reddish,LAL,Reddish REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1018,2,00:34.600000,LAL,,PHI,,C. Reddish,LAL,Reddish P.FOUL (P1.PN) (A.Nagy),Foul,Personal,0,0,0,0,,,h
+S2324-G1018,4,02:41,LAL,,PHI,,C. Reddish,LAL,Reddish REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1018,4,00:55.500000,LAL,,PHI,,C. Reddish,LAL,MISS Reddish 3PT Jump Shot,Missed Shot,Jump Shot,-233,21,0,1,3.0,0.0,h
+S2324-G1018,4,00:51.300000,LAL,,PHI,,C. Reddish,LAL,Reddish P.FOUL (P2.PN) (E.Dalen),Foul,Personal,0,0,0,0,,,h
+S2324-G1018,4,00:22.800000,LAL,,PHI,,C. Reddish,LAL,SUB: Russell FOR Reddish,Substitution,,0,0,0,0,,,h
+S2324-G0127,1,11:01,LAL,,LAC,,C. Reddish,LAL,Reddish STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0127,1,10:58,LAL,2.0,LAC,0.0,C. Reddish,LAL,Reddish 2' Running Layup (2 PTS),Made Shot,Running Layup Shot,-16,17,2,1,2.0,2.0,h
+S2324-G0127,1,10:07,LAL,,LAC,,C. Reddish,LAL,MISS Reddish 26' 3PT Jump Shot,Missed Shot,Jump Shot,157,212,26,1,3.0,0.0,h
+S2324-G0127,1,08:13,LAL,,LAC,,C. Reddish,LAL,Reddish STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0127,1,05:31,LAL,,LAC,,C. Reddish,LAL,Reddish REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0127,1,03:48,LAL,,LAC,,C. Reddish,LAL,Reddish P.FOUL (P1.T2) (M.Ervin),Foul,Personal,0,0,0,0,,,h
+S2324-G0127,1,02:54,LAL,,LAC,,C. Reddish,LAL,SUB: James FOR Reddish,Substitution,,0,0,0,0,,,h
+S2324-G0127,2,06:28,LAL,35.0,LAC,46.0,C. Reddish,LAL,Reddish 3PT Jump Shot (5 PTS) (Russell 2 AST),Made Shot,Jump Shot,224,23,0,1,3.0,3.0,h
+S2324-G0127,2,04:30,LAL,,LAC,,C. Reddish,LAL,Reddish P.FOUL (P2.T4) (M.Ervin),Foul,Personal,0,0,0,0,,,h
+S2324-G0127,2,03:57,LAL,,LAC,,C. Reddish,LAL,MISS Reddish 27' 3PT Jump Shot,Missed Shot,Jump Shot,66,258,27,1,3.0,0.0,h
+S2324-G0127,2,03:38,LAL,,LAC,,C. Reddish,LAL,Reddish S.FOUL (P3.PN) (C.Blair),Foul,Shooting,0,0,0,0,,,h
+S2324-G0127,2,03:38,LAL,,LAC,,C. Reddish,LAL,SUB: James FOR Reddish,Substitution,,0,0,0,0,,,h
+S2324-G0127,3,08:48,LAL,,LAC,,C. Reddish,LAL,MISS Reddish 3PT Jump Shot,Missed Shot,Jump Shot,229,14,0,1,3.0,0.0,h
+S2324-G0127,3,08:06,LAL,,LAC,,C. Reddish,LAL,Reddish STEAL (3 STL),,,0,0,0,0,,,h
+S2324-G0127,3,05:41,LAL,,LAC,,C. Reddish,LAL,Reddish BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0127,3,04:22,LAL,,LAC,,C. Reddish,LAL,Reddish P.FOUL (P4.PN) (C.Blair),Foul,Personal,0,0,0,0,,,h
+S2324-G0127,3,04:22,LAL,,LAC,,C. Reddish,LAL,SUB: Hayes FOR Reddish,Substitution,,0,0,0,0,,,h
+S2324-G0127,4,08:26,LAL,,LAC,,C. Reddish,LAL,MISS Reddish 6' Layup,Missed Shot,Layup Shot,-18,56,6,1,2.0,0.0,h
+S2324-G0127,4,08:17,LAL,95.0,LAC,95.0,C. Reddish,LAL,Reddish Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0127,4,08:17,LAL,96.0,LAC,95.0,C. Reddish,LAL,Reddish Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0127,4,06:26,LAL,,LAC,,C. Reddish,LAL,Reddish REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0127,4,04:50,LAL,,LAC,,C. Reddish,LAL,Reddish REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0127,4,01:44,LAL,114.0,LAC,106.0,C. Reddish,LAL,Reddish Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0127,4,01:44,LAL,,LAC,,C. Reddish,LAL,MISS Reddish Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0127,4,00:17,LAL,,LAC,,C. Reddish,LAL,Reddish S.FOUL (P5.PN) (C.Blair),Foul,Shooting,0,0,0,0,,,h
+S2324-G0127,4,00:17,LAL,,LAC,,C. Reddish,LAL,SUB: Russell FOR Reddish,Substitution,,0,0,0,0,,,h
+S2324-G0127,5,01:20,LAL,,LAC,,C. Reddish,LAL,Reddish REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0127,5,00:09.300000,LAL,,LAC,,C. Reddish,LAL,MISS Reddish 3PT Jump Shot,Missed Shot,Jump Shot,233,15,0,1,3.0,0.0,h
+S2324-G1063,1,01:09,IND,,LAL,,C. Reddish,LAL,Reddish REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1063,2,03:12,IND,,LAL,,C. Reddish,LAL,Reddish S.FOUL (P1.T2) (D.Collins),Foul,Shooting,0,0,0,0,,,v
+S2324-G1063,2,02:17,IND,,LAL,,C. Reddish,LAL,Reddish BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G1063,2,02:09,IND,,LAL,,C. Reddish,LAL,SUB: James FOR Reddish,Substitution,,0,0,0,0,,,v
+S2324-G1063,3,02:23,IND,,LAL,,C. Reddish,LAL,Reddish REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1063,3,02:20,IND,,LAL,,C. Reddish,LAL,MISS Reddish 3' Driving Layup,Missed Shot,Driving Layup Shot,31,12,3,1,2.0,0.0,v
+S2324-G1063,3,02:18,IND,,LAL,,C. Reddish,LAL,Reddish REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1063,3,02:18,IND,,LAL,,C. Reddish,LAL,MISS Reddish Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2324-G1063,3,00:56.900000,IND,,LAL,,C. Reddish,LAL,Reddish REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1063,3,00:27.500000,IND,,LAL,,C. Reddish,LAL,Reddish BLOCK (2 BLK),,,0,0,0,0,,,v
+S2324-G1055,1,02:56,MEM,,LAL,,C. Reddish,LAL,MISS Reddish 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-181,31,18,1,2.0,0.0,v
+S2324-G1055,2,01:34,MEM,,LAL,,C. Reddish,LAL,MISS Reddish 3PT Jump Shot,Missed Shot,Jump Shot,232,13,0,1,3.0,0.0,v
+S2324-G0306,1,11:18,DAL,2.0,LAL,2.0,C. Reddish,LAL,Reddish 1' Cutting Layup Shot (2 PTS) (James 1 AST),Made Shot,Cutting Layup Shot,2,10,1,1,2.0,2.0,v
+S2324-G0306,1,07:27,DAL,,LAL,,C. Reddish,LAL,Reddish BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0306,1,07:24,DAL,,LAL,,C. Reddish,LAL,Reddish REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0306,1,07:22,DAL,,LAL,,C. Reddish,LAL,Reddish OFF.Foul (P1) (B.Barnaky),Foul,Offensive,0,0,0,0,,,v
+S2324-G0306,1,07:22,DAL,,LAL,,C. Reddish,LAL,Reddish Offensive Foul Turnover (P1.T3),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0306,1,06:51,DAL,16.0,LAL,11.0,C. Reddish,LAL,Reddish 2' Cutting Layup Shot (4 PTS) (Russell 3 AST),Made Shot,Cutting Layup Shot,11,14,2,1,2.0,2.0,v
+S2324-G0306,1,04:44,DAL,,LAL,,C. Reddish,LAL,MISS Reddish 2' Driving Layup,Missed Shot,Driving Layup Shot,16,14,2,1,2.0,0.0,v
+S2324-G0306,1,03:22,DAL,,LAL,,C. Reddish,LAL,SUB: Christie FOR Reddish,Substitution,,0,0,0,0,,,v
+S2324-G0306,2,05:53,DAL,,LAL,,C. Reddish,LAL,Reddish Lost Ball Turnover (P2.T8),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0306,2,05:39,DAL,,LAL,,C. Reddish,LAL,Reddish S.FOUL (P2.T2) (B.Barnaky),Foul,Shooting,0,0,0,0,,,v
+S2324-G0306,2,04:28,DAL,,LAL,,C. Reddish,LAL,SUB: Reaves FOR Reddish,Substitution,,0,0,0,0,,,v
+S2324-G0306,3,11:12,DAL,,LAL,,C. Reddish,LAL,Reddish S.FOUL (P3.T1) (B.Barnaky),Foul,Shooting,0,0,0,0,,,v
+S2324-G0306,3,10:51,DAL,,LAL,,C. Reddish,LAL,Reddish REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0306,3,04:55,DAL,,LAL,,C. Reddish,LAL,SUB: Reaves FOR Reddish,Substitution,,0,0,0,0,,,v
+S2324-G0306,4,10:02,DAL,,LAL,,C. Reddish,LAL,Reddish REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0306,4,08:11,DAL,,LAL,,C. Reddish,LAL,MISS Reddish 4' Driving Layup,Missed Shot,Driving Layup Shot,2,38,4,1,2.0,0.0,v
+S2324-G0306,4,08:06,DAL,,LAL,,C. Reddish,LAL,SUB: Prince FOR Reddish,Substitution,,0,0,0,0,,,v
+S2324-G0869,2,07:30,LAL,,DEN,,C. Reddish,LAL,Reddish REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0869,2,07:08,LAL,,DEN,,C. Reddish,LAL,SUB: Davis FOR Reddish,Substitution,,0,0,0,0,,,h
+S2324-G0869,2,02:29,LAL,,DEN,,C. Reddish,LAL,MISS Reddish 3PT Jump Shot,Missed Shot,Jump Shot,233,-2,0,1,3.0,0.0,h
+S2324-G0869,2,00:56.900000,LAL,,DEN,,C. Reddish,LAL,Reddish P.FOUL (P1.T2) (J.Butler),Foul,Personal,0,0,0,0,,,h
+S2324-G0869,2,00:33.100000,LAL,65.0,DEN,56.0,C. Reddish,LAL,Reddish 3PT Jump Shot (3 PTS) (Reaves 8 AST),Made Shot,Jump Shot,-230,-10,0,1,3.0,3.0,h
+S2324-G0869,4,11:18,LAL,,DEN,,C. Reddish,LAL,Reddish Out of Bounds Lost Ball Turnover (P1.T5),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2324-G0869,4,09:41,LAL,,DEN,,C. Reddish,LAL,MISS Reddish 3' Running Layup,Missed Shot,Running Layup Shot,0,34,3,1,2.0,0.0,h
+S2324-G0869,4,07:38,LAL,,DEN,,C. Reddish,LAL,Reddish STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0869,4,03:29,LAL,,DEN,,C. Reddish,LAL,Reddish REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0869,4,01:34,LAL,,DEN,,C. Reddish,LAL,SUB: Russell FOR Reddish,Substitution,,0,0,0,0,,,h
+S2324-G0605,1,01:14,LAL,32.0,POR,29.0,C. Reddish,LAL,Reddish 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,26,20,3,1,2.0,2.0,h
+S2324-G0605,1,00:57.200000,LAL,,POR,,C. Reddish,LAL,Reddish REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0605,2,11:00,LAL,40.0,POR,33.0,C. Reddish,LAL,Reddish 3' Running Layup (4 PTS) (Wood 1 AST),Made Shot,Running Layup Shot,28,14,3,1,2.0,2.0,h
+S2324-G0605,2,09:33,LAL,,POR,,C. Reddish,LAL,Reddish STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0605,2,09:30,LAL,,POR,,C. Reddish,LAL,MISS Reddish 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-191,169,26,1,3.0,0.0,h
+S2324-G0605,2,08:15,LAL,49.0,POR,38.0,C. Reddish,LAL,Reddish 3' Driving Layup (6 PTS) (Wood 2 AST),Made Shot,Driving Layup Shot,-17,21,3,1,2.0,2.0,h
+S2324-G0605,2,07:33,LAL,,POR,,C. Reddish,LAL,Reddish REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0605,2,04:46,LAL,,POR,,C. Reddish,LAL,SUB: Reaves FOR Reddish,Substitution,,0,0,0,0,,,h
+S2324-G0605,3,03:43,LAL,,POR,,C. Reddish,LAL,Reddish S.FOUL (P1.T1) (M.Dagher),Foul,Shooting,0,0,0,0,,,h
+S2324-G0605,3,03:25,LAL,,POR,,C. Reddish,LAL,MISS Reddish 3PT Jump Shot,Missed Shot,Jump Shot,223,31,0,1,3.0,0.0,h
+S2324-G0605,3,03:21,LAL,,POR,,C. Reddish,LAL,Reddish STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0605,3,02:49,LAL,96.0,POR,77.0,C. Reddish,LAL,Reddish 1' Driving Layup (8 PTS) (Russell 7 AST),Made Shot,Driving Layup Shot,0,11,1,1,2.0,2.0,h
+S2324-G0605,3,01:34,LAL,101.0,POR,79.0,C. Reddish,LAL,Reddish 2' Running Finger Roll Layup (10 PTS) (Davis 3 AST),Made Shot,Running Finger Roll Layup Shot,0,20,2,1,2.0,2.0,h
+S2324-G0605,3,00:46.200000,LAL,,POR,,C. Reddish,LAL,MISS Reddish 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,27,49,6,1,2.0,0.0,h
+S2324-G0605,3,00:02.400000,LAL,,POR,,C. Reddish,LAL,Reddish S.FOUL (P2.PN) (J.DeRosa),Foul,Shooting,0,0,0,0,,,h
+S2324-G0605,4,08:42,LAL,,POR,,C. Reddish,LAL,Reddish REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0605,4,06:31,LAL,,POR,,C. Reddish,LAL,Reddish REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0605,4,06:06,LAL,,POR,,C. Reddish,LAL,SUB: Christie FOR Reddish,Substitution,,0,0,0,0,,,h
+S2324-G0150,2,09:49,MIA,40.0,LAL,36.0,C. Reddish,LAL,Reddish Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0150,2,09:49,MIA,40.0,LAL,37.0,C. Reddish,LAL,Reddish Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0150,2,08:18,MIA,42.0,LAL,39.0,C. Reddish,LAL,Reddish 2' Cutting Layup Shot (4 PTS) (Wood 1 AST),Made Shot,Cutting Layup Shot,18,12,2,1,2.0,2.0,v
+S2324-G0150,2,07:54,MIA,,LAL,,C. Reddish,LAL,Reddish STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0150,2,07:49,MIA,,LAL,,C. Reddish,LAL,SUB: Christie FOR Reddish,Substitution,,0,0,0,0,,,v
+S2324-G0150,2,05:07,MIA,,LAL,,C. Reddish,LAL,Reddish REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0150,2,05:06,MIA,,LAL,,C. Reddish,LAL,Reddish Lost Ball Turnover (P1.T6),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0150,2,02:29,MIA,,LAL,,C. Reddish,LAL,MISS Reddish 3' Driving Layup,Missed Shot,Driving Layup Shot,-15,20,3,1,2.0,0.0,v
+S2324-G0150,2,00:46.400000,MIA,,LAL,,C. Reddish,LAL,Reddish REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0150,2,00:46.400000,MIA,,LAL,,C. Reddish,LAL,Reddish Step Out of Bounds Turnover (P2.T7),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2324-G0150,3,02:49,MIA,,LAL,,C. Reddish,LAL,MISS Reddish 11' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,105,35,11,1,2.0,0.0,v
+S2324-G0150,3,01:58,MIA,,LAL,,C. Reddish,LAL,Reddish REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0150,3,00:58.300000,MIA,,LAL,,C. Reddish,LAL,Reddish REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0150,3,00:25.200000,MIA,90.0,LAL,79.0,C. Reddish,LAL,Reddish 2' Cutting Dunk Shot (6 PTS) (Russell 5 AST),Made Shot,Cutting Dunk Shot,16,11,2,1,2.0,2.0,v
+S2324-G0150,4,07:12,MIA,100.0,LAL,91.0,C. Reddish,LAL,Reddish Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0150,4,07:12,MIA,,LAL,,C. Reddish,LAL,MISS Reddish Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0150,4,00:04.100000,MIA,,LAL,,C. Reddish,LAL,MISS Reddish 22' Jump Shot,Missed Shot,Jump Shot,-218,11,22,1,2.0,0.0,v
+S2324-G0015,1,11:19,PHX,,LAL,,C. Reddish,LAL,Reddish STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0015,1,10:24,PHX,0.0,LAL,5.0,C. Reddish,LAL,Reddish 24' 3PT Jump Shot (3 PTS) (James 1 AST),Made Shot,Jump Shot,234,46,24,1,3.0,3.0,v
+S2324-G0015,1,09:57,PHX,,LAL,,C. Reddish,LAL,Reddish S.FOUL (P1.T1) (E.Dalen),Foul,Shooting,0,0,0,0,,,v
+S2324-G0015,1,06:30,PHX,,LAL,,C. Reddish,LAL,Reddish S.FOUL (P2.T2) (J.Goble),Foul,Shooting,0,0,0,0,,,v
+S2324-G0015,1,06:30,PHX,,LAL,,C. Reddish,LAL,SUB: Reaves FOR Reddish,Substitution,,0,0,0,0,,,v
+S2324-G0015,2,11:12,PHX,,LAL,,C. Reddish,LAL,MISS Reddish 24' 3PT Jump Shot,Missed Shot,Jump Shot,238,29,24,1,3.0,0.0,v
+S2324-G0015,2,10:37,PHX,,LAL,,C. Reddish,LAL,Reddish REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0015,2,08:11,PHX,,LAL,,C. Reddish,LAL,Reddish S.FOUL (P3.T1) (E.Dalen),Foul,Shooting,0,0,0,0,,,v
+S2324-G0015,2,08:11,PHX,,LAL,,C. Reddish,LAL,SUB: Prince FOR Reddish,Substitution,,0,0,0,0,,,v
+S2324-G0015,3,08:54,PHX,,LAL,,C. Reddish,LAL,MISS Reddish 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,17,115,12,1,2.0,0.0,v
+S2324-G0015,3,08:03,PHX,,LAL,,C. Reddish,LAL,Reddish REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0015,3,06:20,PHX,,LAL,,C. Reddish,LAL,Reddish STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0015,3,06:19,PHX,73.0,LAL,69.0,C. Reddish,LAL,Reddish Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0015,3,06:19,PHX,73.0,LAL,70.0,C. Reddish,LAL,Reddish Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0015,3,04:50,PHX,,LAL,,C. Reddish,LAL,SUB: Russell FOR Reddish,Substitution,,0,0,0,0,,,v
+S2324-G0015,3,00:00.200000,PHX,96.0,LAL,89.0,C. Reddish,LAL,Reddish 26' 3PT Pullup Jump Shot (8 PTS) (Davis 4 AST),Made Shot,Pullup Jump shot,110,231,26,1,3.0,3.0,v
+S2324-G0015,4,11:16,PHX,,LAL,,C. Reddish,LAL,MISS Reddish 7' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,40,57,7,1,2.0,0.0,v
+S2324-G0015,4,10:16,PHX,96.0,LAL,95.0,C. Reddish,LAL,Reddish 24' 3PT Jump Shot (11 PTS) (Hachimura 1 AST),Made Shot,Jump Shot,-238,-8,24,1,3.0,3.0,v
+S2324-G0015,4,08:57,PHX,96.0,LAL,100.0,C. Reddish,LAL,Reddish 24' 3PT Jump Shot (14 PTS) (Reaves 4 AST),Made Shot,Jump Shot,-237,-4,24,1,3.0,3.0,v
+S2324-G0015,4,06:49,PHX,,LAL,,C. Reddish,LAL,Reddish STEAL (3 STL),,,0,0,0,0,,,v
+S2324-G0015,4,06:27,PHX,,LAL,,C. Reddish,LAL,MISS Reddish 24' 3PT Jump Shot,Missed Shot,Jump Shot,-240,-9,24,1,3.0,0.0,v
+S2324-G0015,4,04:15,PHX,,LAL,,C. Reddish,LAL,SUB: Prince FOR Reddish,Substitution,,0,0,0,0,,,v
+S2324-G0015,4,01:31,PHX,,LAL,,C. Reddish,LAL,Reddish REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0015,4,01:24,PHX,,LAL,,C. Reddish,LAL,MISS Reddish 24' 3PT Jump Shot,Missed Shot,Jump Shot,-239,-4,24,1,3.0,0.0,v
+S2324-G0015,4,01:10,PHX,113.0,LAL,118.0,C. Reddish,LAL,Reddish 24' 3PT Jump Shot (17 PTS) (James 6 AST),Made Shot,Jump Shot,-237,-5,24,1,3.0,3.0,v
+S2324-G1203,1,07:47,LAL,,PHX,,C. Reddish,LAL,MISS Reddish 26' 3PT Jump Shot,Missed Shot,Jump Shot,-81,242,26,1,3.0,0.0,h
+S2324-G1203,1,07:29,LAL,10.0,PHX,9.0,C. Reddish,LAL,Reddish Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1203,1,07:29,LAL,11.0,PHX,9.0,C. Reddish,LAL,Reddish Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1203,1,06:03,LAL,,PHX,,C. Reddish,LAL,SUB: Christie FOR Reddish,Substitution,,0,0,0,0,,,h
+S2324-G1203,2,08:46,LAL,,PHX,,C. Reddish,LAL,Reddish REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1203,2,06:22,LAL,,PHX,,C. Reddish,LAL,SUB: Vanderbilt FOR Reddish,Substitution,,0,0,0,0,,,h
+S2324-G1203,3,11:04,LAL,,PHX,,C. Reddish,LAL,Reddish S.FOUL (P1.T1) (E.Dalen),Foul,Shooting,0,0,0,0,,,h
+S2324-G1203,3,10:16,LAL,,PHX,,C. Reddish,LAL,MISS Reddish 3PT Jump Shot,Missed Shot,Jump Shot,224,10,0,1,3.0,0.0,h
+S2324-G1203,3,08:56,LAL,,PHX,,C. Reddish,LAL,Reddish REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1203,3,08:52,LAL,,PHX,,C. Reddish,LAL,MISS Reddish 4' Layup,Missed Shot,Layup Shot,-20,34,4,1,2.0,0.0,h
+S2324-G1203,3,07:46,LAL,62.0,PHX,61.0,C. Reddish,LAL,Reddish Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1203,3,07:46,LAL,63.0,PHX,61.0,C. Reddish,LAL,Reddish Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1203,3,07:34,LAL,,PHX,,C. Reddish,LAL,Reddish P.FOUL (P2.T3) (J.Tiven),Foul,Personal,0,0,0,0,,,h
+S2324-G1203,3,05:36,LAL,,PHX,,C. Reddish,LAL,SUB: Christie FOR Reddish,Substitution,,0,0,0,0,,,h
+S2324-G1203,4,09:30,LAL,,PHX,,C. Reddish,LAL,MISS Reddish 3' Driving Layup,Missed Shot,Driving Layup Shot,-25,13,3,1,2.0,0.0,h
+S2324-G1203,4,07:40,LAL,,PHX,,C. Reddish,LAL,Reddish STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1203,4,03:05,LAL,,PHX,,C. Reddish,LAL,Reddish S.FOUL (P3.T1) (J.Tiven),Foul,Shooting,0,0,0,0,,,h
+S2324-G1203,4,00:39.500000,LAL,,PHX,,C. Reddish,LAL,Reddish P.FOUL (P4.T2) (E.Dalen),Foul,Personal,0,0,0,0,,,h
+S2324-G0042,1,07:31,LAL,,UTA,,C. Reddish,LAL,Reddish P.FOUL (P1.T1) (K.Cutler),Foul,Personal,0,0,0,0,,,h
+S2324-G0042,1,06:52,LAL,,UTA,,C. Reddish,LAL,SUB: Hachimura FOR Reddish,Substitution,,0,0,0,0,,,h
+S2324-G0111,2,06:43,LAL,,ORL,,C. Reddish,LAL,Reddish REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0111,2,06:20,LAL,,ORL,,C. Reddish,LAL,Reddish REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0111,2,02:23,LAL,,ORL,,C. Reddish,LAL,SUB: James FOR Reddish,Substitution,,0,0,0,0,,,h
+S2324-G0111,3,04:28,LAL,,ORL,,C. Reddish,LAL,MISS Reddish 3PT Running Jump Shot,Missed Shot,Running Jump Shot,230,29,0,1,3.0,0.0,h
+S2324-G0111,3,03:08,LAL,,ORL,,C. Reddish,LAL,Reddish STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0111,3,03:06,LAL,,ORL,,C. Reddish,LAL,Reddish Out of Bounds - Bad Pass Turnover Turnover (P1.T12),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G0111,3,01:41,LAL,,ORL,,C. Reddish,LAL,SUB: James FOR Reddish,Substitution,,0,0,0,0,,,h
+S2324-G0516,1,09:25,LAL,8.0,TOR,9.0,C. Reddish,LAL,Reddish 3PT Jump Shot (3 PTS) (Reaves 1 AST),Made Shot,Jump Shot,-227,31,0,1,3.0,3.0,h
+S2324-G0516,1,09:10,LAL,,TOR,,C. Reddish,LAL,Reddish REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0516,1,08:14,LAL,,TOR,,C. Reddish,LAL,MISS Reddish 3PT Jump Shot,Missed Shot,Jump Shot,221,34,0,1,3.0,0.0,h
+S2324-G0516,1,04:36,LAL,,TOR,,C. Reddish,LAL,SUB: Wood FOR Reddish,Substitution,,0,0,0,0,,,h
+S2324-G0516,2,06:24,LAL,,TOR,,C. Reddish,LAL,Reddish STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0516,2,03:32,LAL,,TOR,,C. Reddish,LAL,Reddish BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0516,2,03:12,LAL,48.0,TOR,43.0,C. Reddish,LAL,Reddish 27' 3PT Jump Shot (6 PTS) (Reaves 2 AST),Made Shot,Jump Shot,-189,195,27,1,3.0,3.0,h
+S2324-G0516,2,02:37,LAL,,TOR,,C. Reddish,LAL,Reddish S.FOUL (P1.T3) (K.Cutler),Foul,Shooting,0,0,0,0,,,h
+S2324-G0516,2,01:36,LAL,,TOR,,C. Reddish,LAL,MISS Reddish 24' 3PT Jump Shot,Missed Shot,Jump Shot,-229,77,24,1,3.0,0.0,h
+S2324-G0516,2,00:12.900000,LAL,,TOR,,C. Reddish,LAL,MISS Reddish 4' Layup,Missed Shot,Layup Shot,24,29,4,1,2.0,0.0,h
+S2324-G0516,3,09:39,LAL,,TOR,,C. Reddish,LAL,Reddish Lost Ball Turnover (P1.T6),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0516,3,08:30,LAL,59.0,TOR,64.0,C. Reddish,LAL,Reddish 24' 3PT Jump Shot (9 PTS) (James 9 AST),Made Shot,Jump Shot,-218,102,24,1,3.0,3.0,h
+S2324-G0516,3,07:21,LAL,,TOR,,C. Reddish,LAL,Reddish Lost Ball Turnover (P2.T8),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0516,3,05:54,LAL,,TOR,,C. Reddish,LAL,SUB: Vanderbilt FOR Reddish,Substitution,,0,0,0,0,,,h
+S2324-G0516,4,04:40,LAL,108.0,TOR,106.0,C. Reddish,LAL,Reddish 26' 3PT Jump Shot (12 PTS) (Reaves 6 AST),Made Shot,Jump Shot,129,222,26,1,3.0,3.0,h
+S2324-G0516,4,03:52,LAL,111.0,TOR,109.0,C. Reddish,LAL,Reddish Free Throw Flagrant 1 of 2 (13 PTS),Free Throw,Free Throw Flagrant 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0516,4,03:52,LAL,,TOR,,C. Reddish,LAL,MISS Reddish Free Throw Flagrant 2 of 2,Free Throw,Free Throw Flagrant 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0516,4,03:52,LAL,,TOR,,C. Reddish,LAL,SUB: Christie FOR Reddish,Substitution,,0,0,0,0,,,h
+S2324-G0198,1,04:47,LAL,13.0,SAC,24.0,C. Reddish,LAL,Reddish 2' Running Layup (2 PTS) (James 2 AST),Made Shot,Running Layup Shot,21,11,2,1,2.0,2.0,h
+S2324-G0198,1,03:33,LAL,,SAC,,C. Reddish,LAL,MISS Reddish 6' Floating Jump Shot,Missed Shot,Floating Jump shot,23,50,6,1,2.0,0.0,h
+S2324-G0198,1,03:33,LAL,,SAC,,C. Reddish,LAL,Reddish L.B.FOUL (P1.T3) (R.Mott),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0198,1,03:33,LAL,,SAC,,C. Reddish,LAL,SUB: Wood FOR Reddish,Substitution,,0,0,0,0,,,h
+S2324-G0198,2,11:13,LAL,29.0,SAC,38.0,C. Reddish,LAL,Reddish 3' Running Dunk (4 PTS) (James 3 AST),Made Shot,Running Dunk Shot,-10,30,3,1,2.0,2.0,h
+S2324-G0198,2,08:43,LAL,,SAC,,C. Reddish,LAL,MISS Reddish 26' 3PT Jump Shot,Missed Shot,Jump Shot,119,230,26,1,3.0,0.0,h
+S2324-G0198,2,07:49,LAL,39.0,SAC,46.0,C. Reddish,LAL,Reddish 2' Cutting Layup Shot (6 PTS) (Reaves 3 AST),Made Shot,Cutting Layup Shot,-11,21,2,1,2.0,2.0,h
+S2324-G0198,2,07:19,LAL,,SAC,,C. Reddish,LAL,MISS Reddish 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,7,57,6,1,2.0,0.0,h
+S2324-G0198,2,07:13,LAL,,SAC,,C. Reddish,LAL,Reddish STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0198,2,07:09,LAL,41.0,SAC,49.0,C. Reddish,LAL,Reddish 3' Driving Reverse Layup (8 PTS),Made Shot,Driving Reverse Layup Shot,12,31,3,1,2.0,2.0,h
+S2324-G0198,2,06:07,LAL,,SAC,,C. Reddish,LAL,MISS Reddish 3PT Jump Shot,Missed Shot,Jump Shot,-221,6,0,1,3.0,0.0,h
+S2324-G0198,2,05:50,LAL,,SAC,,C. Reddish,LAL,SUB: Reaves FOR Reddish,Substitution,,0,0,0,0,,,h
+S2324-G0198,3,10:13,LAL,,SAC,,C. Reddish,LAL,Reddish STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0198,3,09:26,LAL,,SAC,,C. Reddish,LAL,MISS Reddish 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,104,33,11,1,2.0,0.0,h
+S2324-G0198,3,08:59,LAL,66.0,SAC,78.0,C. Reddish,LAL,Reddish 3PT Jump Shot (11 PTS) (Russell 4 AST),Made Shot,Jump Shot,-230,28,0,1,3.0,3.0,h
+S2324-G0198,3,08:26,LAL,,SAC,,C. Reddish,LAL,Reddish Bad Pass Turnover (P1.T10),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0198,3,08:18,LAL,,SAC,,C. Reddish,LAL,Reddish REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0198,3,04:57,LAL,,SAC,,C. Reddish,LAL,SUB: Prince FOR Reddish,Substitution,,0,0,0,0,,,h
+S2324-G0198,4,11:07,LAL,,SAC,,C. Reddish,LAL,MISS Reddish 2' Driving Dunk,Missed Shot,Driving Dunk Shot,-10,12,2,1,2.0,0.0,h
+S2324-G0198,4,10:35,LAL,,SAC,,C. Reddish,LAL,Reddish STEAL (3 STL),,,0,0,0,0,,,h
+S2324-G0198,4,10:14,LAL,,SAC,,C. Reddish,LAL,Reddish STEAL (4 STL),,,0,0,0,0,,,h
+S2324-G0198,4,09:48,LAL,,SAC,,C. Reddish,LAL,Reddish STEAL (5 STL),,,0,0,0,0,,,h
+S2324-G0198,4,09:45,LAL,88.0,SAC,106.0,C. Reddish,LAL,Reddish 2' Running Layup (13 PTS),Made Shot,Running Layup Shot,-2,17,2,1,2.0,2.0,h
+S2324-G0198,4,07:17,LAL,,SAC,,C. Reddish,LAL,MISS Reddish 24' 3PT Jump Shot,Missed Shot,Jump Shot,235,60,24,1,3.0,0.0,h
+S2324-G0198,4,03:05,LAL,110.0,SAC,119.0,C. Reddish,LAL,Reddish 3PT Jump Shot (16 PTS) (James 12 AST),Made Shot,Jump Shot,-232,34,0,1,3.0,3.0,h
+S2324-G0198,4,02:42,LAL,,SAC,,C. Reddish,LAL,Reddish REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0198,4,01:26,LAL,,SAC,,C. Reddish,LAL,SUB: Christie FOR Reddish,Substitution,,0,0,0,0,,,h
+S2324-G0618,1,02:29,LAC,25.0,LAL,23.0,C. Reddish,LAL,Reddish 25' 3PT Jump Shot (3 PTS) (Russell 2 AST),Made Shot,Jump Shot,229,110,25,1,3.0,3.0,v
+S2324-G0618,1,01:32,LAC,,LAL,,C. Reddish,LAL,Reddish BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0618,1,01:21,LAC,,LAL,,C. Reddish,LAL,MISS Reddish Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0618,1,01:21,LAC,27.0,LAL,26.0,C. Reddish,LAL,Reddish Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0618,1,00:02.200000,LAC,,LAL,,C. Reddish,LAL,Reddish S.FOUL (P1.PN) (K.Lane),Foul,Shooting,0,0,0,0,,,v
+S2324-G0618,2,11:26,LAC,,LAL,,C. Reddish,LAL,Reddish Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0618,2,08:31,LAC,49.0,LAL,42.0,C. Reddish,LAL,Reddish 4' Cutting Layup Shot (6 PTS) (Russell 4 AST),Made Shot,Cutting Layup Shot,-1,43,4,1,2.0,2.0,v
+S2324-G0618,2,08:31,LAC,,LAL,,C. Reddish,LAL,SUB: Prince FOR Reddish,Substitution,,0,0,0,0,,,v
+S2324-G0618,2,01:52,LAC,,LAL,,C. Reddish,LAL,Reddish STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0618,2,01:49,LAC,,LAL,,C. Reddish,LAL,MISS Reddish 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-109,241,26,1,3.0,0.0,v
+S2324-G0618,3,04:24,LAC,,LAL,,C. Reddish,LAL,MISS Reddish 26' 3PT Jump Shot,Missed Shot,Jump Shot,-185,185,26,1,3.0,0.0,v
+S2324-G0618,3,01:30,LAC,,LAL,,C. Reddish,LAL,Reddish BLOCK (2 BLK),,,0,0,0,0,,,v
+S2324-G0618,3,01:20,LAC,,LAL,,C. Reddish,LAL,MISS Reddish Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0618,3,01:20,LAC,,LAL,,C. Reddish,LAL,MISS Reddish Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0618,3,00:35.500000,LAC,103.0,LAL,97.0,C. Reddish,LAL,Reddish 24' 3PT Running Jump Shot (9 PTS) (Russell 8 AST),Made Shot,Running Jump Shot,-241,-4,24,1,3.0,3.0,v
+S2324-G0618,4,10:08,LAC,,LAL,,C. Reddish,LAL,Reddish BLOCK (3 BLK),,,0,0,0,0,,,v
+S2324-G0618,4,09:48,LAC,,LAL,,C. Reddish,LAL,SUB: Reaves FOR Reddish,Substitution,,0,0,0,0,,,v
+S2324-G0531,1,06:34,LAL,,PHX,,C. Reddish,LAL,MISS Reddish 25' 3PT Jump Shot,Missed Shot,Jump Shot,234,87,25,1,3.0,0.0,h
+S2324-G0531,1,06:24,LAL,,PHX,,C. Reddish,LAL,Reddish S.FOUL (P1.T1) (G.Petraitis),Foul,Shooting,0,0,0,0,,,h
+S2324-G0531,1,06:24,LAL,,PHX,,C. Reddish,LAL,SUB: Christie FOR Reddish,Substitution,,0,0,0,0,,,h
+S2324-G0531,1,00:30.600000,LAL,,PHX,,C. Reddish,LAL,SUB: Reaves FOR Reddish,Substitution,,0,0,0,0,,,h
+S2324-G0531,2,11:25,LAL,,PHX,,C. Reddish,LAL,SUB: Reaves FOR Reddish,Substitution,,0,0,0,0,,,h
+S2324-G0403,1,09:26,LAL,,BOS,,C. Reddish,LAL,Reddish Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0403,1,08:59,LAL,3.0,BOS,12.0,C. Reddish,LAL,Reddish 26' 3PT Jump Shot (3 PTS) (Prince 1 AST),Made Shot,Jump Shot,118,235,26,1,3.0,3.0,h
+S2324-G0403,1,07:24,LAL,,BOS,,C. Reddish,LAL,Reddish S.FOUL (P1.T2) (S.Foster),Foul,Shooting,0,0,0,0,,,h
+S2324-G0403,1,07:08,LAL,,BOS,,C. Reddish,LAL,MISS Reddish 1' Driving Layup,Missed Shot,Driving Layup Shot,5,11,1,1,2.0,0.0,h
+S2324-G0403,1,05:35,LAL,,BOS,,C. Reddish,LAL,Reddish Bad Pass Turnover (P2.T3),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0403,1,04:13,LAL,,BOS,,C. Reddish,LAL,SUB: Prince FOR Reddish,Substitution,,0,0,0,0,,,h
+S2324-G0403,2,02:41,LAL,,BOS,,C. Reddish,LAL,SUB: James FOR Reddish,Substitution,,0,0,0,0,,,h
+S2324-G0403,3,10:14,LAL,63.0,BOS,62.0,C. Reddish,LAL,Reddish Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0403,3,10:14,LAL,64.0,BOS,62.0,C. Reddish,LAL,Reddish Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0403,3,07:51,LAL,,BOS,,C. Reddish,LAL,SUB: Reaves FOR Reddish,Substitution,,0,0,0,0,,,h
+S2324-G0403,3,00:32,LAL,,BOS,,C. Reddish,LAL,Reddish S.FOUL (P2.PN) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,h
+S2324-G0100,1,02:53,SAC,,LAL,,C. Reddish,LAL,Reddish REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0100,1,02:49,SAC,,LAL,,C. Reddish,LAL,MISS Reddish 3' Running Layup,Missed Shot,Running Layup Shot,18,26,3,1,2.0,0.0,v
+S2324-G0100,1,00:18.800000,SAC,,LAL,,C. Reddish,LAL,MISS Reddish 3PT Jump Shot,Missed Shot,Jump Shot,228,1,0,1,3.0,0.0,v
+S2324-G0291,1,09:08,LAL,,HOU,,C. Reddish,LAL,MISS Reddish 3' Running Layup,Missed Shot,Running Layup Shot,22,15,3,1,2.0,0.0,h
+S2324-G0291,1,07:12,LAL,,HOU,,C. Reddish,LAL,SUB: Christie FOR Reddish,Substitution,,0,0,0,0,,,h
+S2324-G0291,2,07:17,LAL,34.0,HOU,36.0,C. Reddish,LAL,Reddish 5' Driving Layup (2 PTS) (Vanderbilt 1 AST),Made Shot,Driving Layup Shot,1,53,5,1,2.0,2.0,h
+S2324-G0291,2,06:45,LAL,,HOU,,C. Reddish,LAL,SUB: Prince FOR Reddish,Substitution,,0,0,0,0,,,h
+S2324-G0291,3,11:08,LAL,,HOU,,C. Reddish,LAL,Reddish P.FOUL (P1.T1) (J.Orr),Foul,Personal,0,0,0,0,,,h
+S2324-G0291,3,07:49,LAL,,HOU,,C. Reddish,LAL,MISS Reddish 13' Floating Jump Shot,Missed Shot,Floating Jump shot,-44,121,13,1,2.0,0.0,h
+S2324-G0291,3,07:43,LAL,,HOU,,C. Reddish,LAL,Reddish BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0291,3,07:40,LAL,,HOU,,C. Reddish,LAL,Reddish REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0291,3,07:17,LAL,,HOU,,C. Reddish,LAL,Reddish REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0291,3,06:46,LAL,,HOU,,C. Reddish,LAL,SUB: Vanderbilt FOR Reddish,Substitution,,0,0,0,0,,,h
+S2324-G0291,3,03:21,LAL,77.0,HOU,65.0,C. Reddish,LAL,Reddish Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0291,3,03:21,LAL,78.0,HOU,65.0,C. Reddish,LAL,Reddish Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0291,3,02:52,LAL,,HOU,,C. Reddish,LAL,Reddish REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0291,3,02:49,LAL,80.0,HOU,65.0,C. Reddish,LAL,Reddish 2' Running Layup (6 PTS),Made Shot,Running Layup Shot,12,16,2,1,2.0,2.0,h
+S2324-G0291,3,00:45.800000,LAL,,HOU,,C. Reddish,LAL,MISS Reddish 3PT Jump Shot,Missed Shot,Jump Shot,230,24,0,1,3.0,0.0,h
+S2324-G0291,4,11:42,LAL,,HOU,,C. Reddish,LAL,Reddish REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0291,4,11:39,LAL,88.0,HOU,72.0,C. Reddish,LAL,Reddish 2' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,-12,16,2,1,2.0,2.0,h
+S2324-G0291,4,11:39,LAL,89.0,HOU,72.0,C. Reddish,LAL,Reddish Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G0291,4,11:28,LAL,,HOU,,C. Reddish,LAL,Reddish P.FOUL (P2.T1) (J.Orr),Foul,Personal,0,0,0,0,,,h
+S2324-G0291,4,08:35,LAL,,HOU,,C. Reddish,LAL,Reddish S.FOUL (P3.T3) (J.Orr),Foul,Shooting,0,0,0,0,,,h
+S2324-G0291,4,08:35,LAL,,HOU,,C. Reddish,LAL,Reddish T.FOUL (P3.T3) (D.Taylor),Foul,Technical,0,0,0,0,,,h
+S2324-G0291,4,08:09,LAL,,HOU,,C. Reddish,LAL,Reddish REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0291,4,07:55,LAL,95.0,HOU,80.0,C. Reddish,LAL,Reddish 2' Driving Layup (11 PTS) (James 5 AST),Made Shot,Driving Layup Shot,12,17,2,1,2.0,2.0,h
+S2324-G0291,4,06:20,LAL,,HOU,,C. Reddish,LAL,SUB: Christie FOR Reddish,Substitution,,0,0,0,0,,,h
+S2324-G0316,1,07:59,SAS,,LAL,,C. Reddish,LAL,MISS Reddish 3PT Jump Shot,Missed Shot,Jump Shot,230,43,0,1,3.0,0.0,v
+S2324-G0316,1,05:43,SAS,,LAL,,C. Reddish,LAL,SUB: Wood FOR Reddish,Substitution,,0,0,0,0,,,v
+S2324-G0316,2,11:31,SAS,,LAL,,C. Reddish,LAL,Reddish STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0316,2,11:24,SAS,26.0,LAL,38.0,C. Reddish,LAL,Reddish 1' Running Dunk (2 PTS),Made Shot,Running Dunk Shot,9,8,1,1,2.0,2.0,v
+S2324-G0316,2,10:19,SAS,,LAL,,C. Reddish,LAL,SUB: Prince FOR Reddish,Substitution,,0,0,0,0,,,v
+S2324-G0316,2,05:55,SAS,,LAL,,C. Reddish,LAL,Reddish BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0316,2,05:20,SAS,,LAL,,C. Reddish,LAL,MISS Reddish 6' Driving Hook Shot,Missed Shot,Driving Hook Shot,5,56,6,1,2.0,0.0,v
+S2324-G0316,2,03:14,SAS,41.0,LAL,59.0,C. Reddish,LAL,Reddish 24' 3PT Jump Shot (5 PTS) (Russell 7 AST),Made Shot,Jump Shot,140,198,24,1,3.0,3.0,v
+S2324-G0316,2,01:29,SAS,,LAL,,C. Reddish,LAL,Reddish REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0316,3,11:23,SAS,,LAL,,C. Reddish,LAL,Reddish STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0316,3,08:59,SAS,56.0,LAL,70.0,C. Reddish,LAL,Reddish 24' 3PT Jump Shot (8 PTS) (Russell 8 AST),Made Shot,Jump Shot,235,-4,24,1,3.0,3.0,v
+S2324-G0316,3,07:23,SAS,,LAL,,C. Reddish,LAL,Reddish Lost Ball Turnover (P1.T10),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0316,3,04:37,SAS,,LAL,,C. Reddish,LAL,Reddish STEAL (3 STL),,,0,0,0,0,,,v
+S2324-G0316,3,04:31,SAS,64.0,LAL,81.0,C. Reddish,LAL,Reddish Running Layup (10 PTS),Made Shot,Running Layup Shot,-1,1,0,1,2.0,2.0,v
+S2324-G0316,3,04:05,SAS,,LAL,,C. Reddish,LAL,SUB: Wood FOR Reddish,Substitution,,0,0,0,0,,,v
+S2324-G0316,4,09:54,SAS,,LAL,,C. Reddish,LAL,MISS Reddish 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,17,4,2,1,2.0,0.0,v
+S2324-G0316,4,09:07,SAS,,LAL,,C. Reddish,LAL,Reddish REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0316,4,08:27,SAS,,LAL,,C. Reddish,LAL,SUB: Russell FOR Reddish,Substitution,,0,0,0,0,,,v
+S2324-G0316,4,00:10.900000,SAS,,LAL,,C. Reddish,LAL,SUB: Russell FOR Reddish,Substitution,,0,0,0,0,,,v
+S2324-G0443,1,11:22,MIN,,LAL,,C. Reddish,LAL,MISS Reddish 1' Driving Layup,Missed Shot,Driving Layup Shot,-1,11,1,1,2.0,0.0,v
+S2324-G0443,1,11:16,MIN,,LAL,,C. Reddish,LAL,Reddish REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0443,1,11:16,MIN,,LAL,,C. Reddish,LAL,MISS Reddish Putback Layup,Missed Shot,Putback Layup Shot,0,0,0,1,2.0,0.0,v
+S2324-G0443,1,08:14,MIN,4.0,LAL,12.0,C. Reddish,LAL,Reddish 1' Running Dunk (2 PTS) (Davis 1 AST),Made Shot,Running Dunk Shot,0,7,1,1,2.0,2.0,v
+S2324-G0443,1,04:29,MIN,,LAL,,C. Reddish,LAL,SUB: Prince FOR Reddish,Substitution,,0,0,0,0,,,v
+S2324-G0443,2,04:23,MIN,47.0,LAL,48.0,C. Reddish,LAL,Reddish 1' Cutting Dunk Shot (4 PTS) (Russell 3 AST),Made Shot,Cutting Dunk Shot,2,8,1,1,2.0,2.0,v
+S2324-G0443,2,03:57,MIN,,LAL,,C. Reddish,LAL,Reddish REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0443,2,03:49,MIN,,LAL,,C. Reddish,LAL,MISS Reddish 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,7,17,2,1,2.0,0.0,v
+S2324-G0443,2,01:10,MIN,,LAL,,C. Reddish,LAL,MISS Reddish 3PT Jump Shot,Missed Shot,Jump Shot,-225,41,0,1,3.0,0.0,v
+S2324-G0443,2,00:36.900000,MIN,,LAL,,C. Reddish,LAL,MISS Reddish 2' Driving Layup,Missed Shot,Driving Layup Shot,-12,17,2,1,2.0,0.0,v
+S2324-G0443,3,07:53,MIN,,LAL,,C. Reddish,LAL,Reddish REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0443,3,06:52,MIN,,LAL,,C. Reddish,LAL,SUB: Reaves FOR Reddish,Substitution,,0,0,0,0,,,v
+S2324-G0443,4,03:44,MIN,,LAL,,C. Reddish,LAL,SUB: Vanderbilt FOR Reddish,Substitution,,0,0,0,0,,,v
+S2324-G0443,4,00:01.400000,MIN,,LAL,,C. Reddish,LAL,SUB: Wood FOR Reddish,Substitution,,0,0,0,0,,,v
+S2324-G0475,1,10:26,LAL,,MIA,,C. Reddish,LAL,Reddish Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0475,1,09:32,LAL,,MIA,,C. Reddish,LAL,MISS Reddish 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,29,269,27,1,3.0,0.0,h
+S2324-G0475,1,08:37,LAL,,MIA,,C. Reddish,LAL,Reddish OFF.Foul (P1) (C.Blair),Foul,Offensive,0,0,0,0,,,h
+S2324-G0475,1,08:37,LAL,,MIA,,C. Reddish,LAL,Reddish Offensive Foul Turnover (P2.T4),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0475,1,06:49,LAL,,MIA,,C. Reddish,LAL,SUB: Vanderbilt FOR Reddish,Substitution,,0,0,0,0,,,h
+S2324-G0475,2,05:14,LAL,,MIA,,C. Reddish,LAL,SUB: Christie FOR Reddish,Substitution,,0,0,0,0,,,h
+S2324-G0475,3,09:00,LAL,,MIA,,C. Reddish,LAL,Reddish Lost Ball Turnover (P3.T18),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0475,3,08:35,LAL,,MIA,,C. Reddish,LAL,Reddish P.FOUL (P2.T1) (D.Collins),Foul,Personal,0,0,0,0,,,h
+S2324-G0475,3,06:41,LAL,,MIA,,C. Reddish,LAL,Reddish Lost Ball Turnover (P4.T19),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0475,3,06:01,LAL,,MIA,,C. Reddish,LAL,SUB: Vanderbilt FOR Reddish,Substitution,,0,0,0,0,,,h
+S2324-G0475,4,08:35,LAL,,MIA,,C. Reddish,LAL,SUB: Reaves FOR Reddish,Substitution,,0,0,0,0,,,h
+S2324-G1032,1,00:03.600000,LAL,,IND,,C. Reddish,LAL,MISS Reddish 5' Driving Layup,Missed Shot,Driving Layup Shot,33,31,5,1,2.0,0.0,h
+S2324-G1032,2,06:28,LAL,54.0,IND,53.0,C. Reddish,LAL,Reddish 3PT Jump Shot (3 PTS) (Reaves 3 AST),Made Shot,Jump Shot,232,32,0,1,3.0,3.0,h
+S2324-G1032,2,05:19,LAL,55.0,IND,57.0,C. Reddish,LAL,Reddish Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1032,2,05:19,LAL,,IND,,C. Reddish,LAL,MISS Reddish Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G1032,2,05:00,LAL,56.0,IND,60.0,C. Reddish,LAL,Reddish Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1032,2,05:00,LAL,57.0,IND,60.0,C. Reddish,LAL,Reddish Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1032,2,03:36,LAL,,IND,,C. Reddish,LAL,MISS Reddish 3PT Jump Shot,Missed Shot,Jump Shot,-223,11,0,1,3.0,0.0,h
+S2324-G1032,2,03:10,LAL,,IND,,C. Reddish,LAL,SUB: Dinwiddie FOR Reddish,Substitution,,0,0,0,0,,,h
+S2324-G1032,3,01:21,LAL,,IND,,C. Reddish,LAL,Reddish STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1032,4,04:38,LAL,,IND,,C. Reddish,LAL,MISS Reddish 3PT Jump Shot,Missed Shot,Jump Shot,-230,44,0,1,3.0,0.0,h
+S2324-G1032,4,02:25,LAL,,IND,,C. Reddish,LAL,MISS Reddish 5' Driving Dunk,Missed Shot,Driving Dunk Shot,-11,44,5,1,2.0,0.0,h
+S2324-G1032,4,00:03.300000,LAL,,IND,,C. Reddish,LAL,Reddish STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G1032,4,00:02.900000,LAL,,IND,,C. Reddish,LAL,MISS Reddish Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G1032,4,00:02.900000,LAL,150.0,IND,145.0,C. Reddish,LAL,Reddish Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h

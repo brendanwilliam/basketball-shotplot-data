@@ -1,0 +1,967 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2324-G0952,4,01:14,DAL,,GSW,,J. Hardy,DAL,MISS Hardy 26' 3PT Jump Shot,Missed Shot,Jump Shot,125,227,26,1,3.0,0.0,h
+S2324-G0952,4,00:30.800000,DAL,,GSW,,J. Hardy,DAL,MISS Hardy 9' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,65,65,9,1,2.0,0.0,h
+S2324-G1181,1,05:38,DAL,,DET,,J. Hardy,DAL,Hardy STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1181,1,05:34,DAL,14.0,DET,14.0,J. Hardy,DAL,Hardy 1' Running Layup (2 PTS) (Hardaway Jr. 1 AST),Made Shot,Running Layup Shot,-1,11,1,1,2.0,2.0,h
+S2324-G1181,1,03:49,DAL,,DET,,J. Hardy,DAL,MISS Hardy 13' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-55,122,13,1,2.0,0.0,h
+S2324-G1181,1,02:46,DAL,,DET,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1181,1,02:40,DAL,21.0,DET,20.0,J. Hardy,DAL,Hardy 10' Step Back Jump Shot (4 PTS),Made Shot,Step Back Jump shot,-28,94,10,1,2.0,2.0,h
+S2324-G1181,1,01:58,DAL,,DET,,J. Hardy,DAL,MISS Hardy 16' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-163,11,16,1,2.0,0.0,h
+S2324-G1181,1,01:33,DAL,,DET,,J. Hardy,DAL,MISS Hardy 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,49,87,10,1,2.0,0.0,h
+S2324-G1181,1,00:08.400000,DAL,,DET,,J. Hardy,DAL,Hardy Lost Ball Turnover (P1.T5),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G1181,1,00:00.300000,DAL,,DET,,J. Hardy,DAL,MISS Hardy 45' 3PT Jump Shot,Missed Shot,Jump Shot,-142,425,45,1,3.0,0.0,h
+S2324-G1181,3,11:17,DAL,,DET,,J. Hardy,DAL,MISS Hardy 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-39,257,26,1,3.0,0.0,h
+S2324-G1181,3,10:18,DAL,,DET,,J. Hardy,DAL,MISS Hardy 3PT Jump Shot,Missed Shot,Jump Shot,233,-5,0,1,3.0,0.0,h
+S2324-G1181,3,09:47,DAL,49.0,DET,59.0,J. Hardy,DAL,Hardy Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1181,3,09:47,DAL,50.0,DET,59.0,J. Hardy,DAL,Hardy Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1181,3,08:23,DAL,54.0,DET,66.0,J. Hardy,DAL,Hardy 8' Driving Floating Jump Shot (8 PTS),Made Shot,Driving Floating Jump Shot,-1,80,8,1,2.0,2.0,h
+S2324-G1181,3,08:00,DAL,56.0,DET,66.0,J. Hardy,DAL,Hardy 2' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,-16,15,2,1,2.0,2.0,h
+S2324-G1181,3,06:41,DAL,,DET,,J. Hardy,DAL,Hardy Lost Ball Turnover (P2.T13),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G1181,3,05:22,DAL,,DET,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1181,3,05:16,DAL,59.0,DET,72.0,J. Hardy,DAL,Hardy Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1181,3,05:16,DAL,60.0,DET,72.0,J. Hardy,DAL,Hardy Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1181,3,04:39,DAL,,DET,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1181,3,04:34,DAL,64.0,DET,72.0,J. Hardy,DAL,Hardy 1' Driving Dunk (14 PTS),Made Shot,Driving Dunk Shot,-2,6,1,1,2.0,2.0,h
+S2324-G1181,3,02:24,DAL,,DET,,J. Hardy,DAL,MISS Hardy 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-159,202,26,1,3.0,0.0,h
+S2324-G1181,3,02:17,DAL,,DET,,J. Hardy,DAL,Hardy P.FOUL (P1.T2) (D.Richardson),Foul,Personal,0,0,0,0,,,h
+S2324-G1181,3,02:08,DAL,,DET,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1181,3,02:00,DAL,,DET,,J. Hardy,DAL,Hardy REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1181,3,02:00,DAL,66.0,DET,76.0,J. Hardy,DAL,Hardy Putback Layup (16 PTS),Made Shot,Putback Layup Shot,0,-4,0,1,2.0,2.0,h
+S2324-G1181,4,11:20,DAL,,DET,,J. Hardy,DAL,Hardy Bad Pass Turnover (P3.T16),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G1181,4,10:57,DAL,,DET,,J. Hardy,DAL,MISS Hardy 2' Driving Layup,Missed Shot,Driving Layup Shot,-5,23,2,1,2.0,0.0,h
+S2324-G1181,4,09:27,DAL,76.0,DET,84.0,J. Hardy,DAL,Hardy 26' 3PT Jump Shot (19 PTS) (Prosper 1 AST),Made Shot,Jump Shot,205,155,26,1,3.0,3.0,h
+S2324-G1181,4,07:48,DAL,,DET,,J. Hardy,DAL,Hardy REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1181,4,07:08,DAL,,DET,,J. Hardy,DAL,MISS Hardy 3' Driving Layup,Missed Shot,Driving Layup Shot,0,33,3,1,2.0,0.0,h
+S2324-G1181,4,06:23,DAL,,DET,,J. Hardy,DAL,MISS Hardy Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G1181,4,06:23,DAL,81.0,DET,90.0,J. Hardy,DAL,Hardy Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1181,4,05:52,DAL,84.0,DET,90.0,J. Hardy,DAL,Hardy 26' 3PT Jump Shot (23 PTS) (Powell 4 AST),Made Shot,Jump Shot,69,246,26,1,3.0,3.0,h
+S2324-G1181,4,05:02,DAL,86.0,DET,94.0,J. Hardy,DAL,Hardy 5' Driving Floating Bank Jump Shot (25 PTS),Made Shot,Driving Floating Bank Jump Shot,47,4,5,1,2.0,2.0,h
+S2324-G1181,4,04:18,DAL,,DET,,J. Hardy,DAL,Hardy T.FOUL (P1.T2) (D.Richardson),Foul,Technical,0,0,0,0,,,h
+S2324-G1181,4,03:58,DAL,,DET,,J. Hardy,DAL,Hardy Bad Pass Turnover (P4.T19),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G1181,4,03:34,DAL,,DET,,J. Hardy,DAL,Hardy REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1181,4,02:29,DAL,,DET,,J. Hardy,DAL,MISS Hardy 2' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,7,16,2,1,2.0,0.0,h
+S2324-G1181,4,01:55,DAL,,DET,,J. Hardy,DAL,SUB: Williams FOR Hardy,Substitution,,0,0,0,0,,,h
+S2324-G0006,1,01:02,DEN,,DAL,,J. Hardy,DAL,MISS Hardy 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-6,56,6,1,2.0,0.0,v
+S2324-G0006,1,00:29.200000,DEN,,DAL,,J. Hardy,DAL,SUB: Jones Jr. FOR Hardy,Substitution,,0,0,0,0,,,v
+S2324-G0006,2,04:03,DEN,,DAL,,J. Hardy,DAL,SUB: Doncic FOR Hardy,Substitution,,0,0,0,0,,,v
+S2324-G0006,3,01:49,DEN,,DAL,,J. Hardy,DAL,MISS Hardy 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,94,131,16,1,2.0,0.0,v
+S2324-G0006,3,01:30,DEN,,DAL,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0006,3,00:40.500000,DEN,99.0,DAL,86.0,J. Hardy,DAL,Hardy 3PT Jump Shot (3 PTS) (Irving 6 AST),Made Shot,Jump Shot,-234,16,0,1,3.0,3.0,v
+S2324-G0006,3,00:15.500000,DEN,,DAL,,J. Hardy,DAL,SUB: Jones Jr. FOR Hardy,Substitution,,0,0,0,0,,,v
+S2324-G0006,4,10:17,DEN,104.0,DAL,95.0,J. Hardy,DAL,Hardy 24' 3PT Jump Shot (6 PTS) (Williams 2 AST),Made Shot,Jump Shot,-235,10,24,1,3.0,3.0,v
+S2324-G0006,4,10:02,DEN,,DAL,,J. Hardy,DAL,Hardy P.FOUL (P1.T1) (G.Petraitis),Foul,Personal,0,0,0,0,,,v
+S2324-G0006,4,09:02,DEN,,DAL,,J. Hardy,DAL,Hardy S.FOUL (P2.T3) (G.Petraitis),Foul,Shooting,0,0,0,0,,,v
+S2324-G0006,4,08:18,DEN,,DAL,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0006,4,07:24,DEN,,DAL,,J. Hardy,DAL,MISS Hardy 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,105,241,26,1,3.0,0.0,v
+S2324-G0006,4,07:01,DEN,,DAL,,J. Hardy,DAL,SUB: Irving FOR Hardy,Substitution,,0,0,0,0,,,v
+S2324-G0006,4,00:02,DEN,,DAL,,J. Hardy,DAL,Hardy REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0006,4,00:01.500000,DEN,,DAL,,J. Hardy,DAL,MISS Hardy 26' 3PT Jump Shot,Missed Shot,Jump Shot,75,248,26,1,3.0,0.0,v
+S2324-G0143,2,11:44,DAL,,CHA,,J. Hardy,DAL,MISS Hardy 3PT Jump Shot,Missed Shot,Jump Shot,-232,19,0,1,3.0,0.0,h
+S2324-G0143,2,11:11,DAL,,CHA,,J. Hardy,DAL,MISS Hardy 13' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,61,116,13,1,2.0,0.0,h
+S2324-G0143,2,09:57,DAL,,CHA,,J. Hardy,DAL,Hardy S.FOUL (P1.T1) (J.Orr),Foul,Shooting,0,0,0,0,,,h
+S2324-G0143,2,07:27,DAL,31.0,CHA,40.0,J. Hardy,DAL,Hardy Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0143,2,07:27,DAL,32.0,CHA,40.0,J. Hardy,DAL,Hardy Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0143,2,06:33,DAL,,CHA,,J. Hardy,DAL,MISS Hardy 26' 3PT Jump Shot,Missed Shot,Jump Shot,-102,235,26,1,3.0,0.0,h
+S2324-G0143,2,06:14,DAL,,CHA,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0143,2,05:20,DAL,,CHA,,J. Hardy,DAL,SUB: Irving FOR Hardy,Substitution,,0,0,0,0,,,h
+S2324-G0143,3,02:54,DAL,,CHA,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0143,3,02:05,DAL,78.0,CHA,81.0,J. Hardy,DAL,Hardy 26' 3PT Jump Shot (5 PTS) (Irving 7 AST),Made Shot,Jump Shot,119,226,26,1,3.0,3.0,h
+S2324-G0143,3,00:26.900000,DAL,82.0,CHA,84.0,J. Hardy,DAL,Hardy 6' Driving Floating Jump Shot (7 PTS) (Powell 3 AST),Made Shot,Driving Floating Jump Shot,21,54,6,1,2.0,2.0,h
+S2324-G0143,3,00:26.900000,DAL,83.0,CHA,84.0,J. Hardy,DAL,Hardy Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G0143,4,11:27,DAL,85.0,CHA,86.0,J. Hardy,DAL,Hardy 1' Driving Dunk (10 PTS) (Hardaway Jr. 1 AST),Made Shot,Driving Dunk Shot,-9,-6,1,1,2.0,2.0,h
+S2324-G0143,4,11:27,DAL,86.0,CHA,86.0,J. Hardy,DAL,Hardy Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G0143,4,09:55,DAL,,CHA,,J. Hardy,DAL,MISS Hardy Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0143,4,09:55,DAL,91.0,CHA,92.0,J. Hardy,DAL,Hardy Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0143,4,09:20,DAL,,CHA,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0143,4,08:53,DAL,,CHA,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0143,4,08:52,DAL,95.0,CHA,92.0,J. Hardy,DAL,Hardy Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0143,4,08:52,DAL,96.0,CHA,92.0,J. Hardy,DAL,Hardy Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0143,4,08:25,DAL,,CHA,,J. Hardy,DAL,MISS Hardy 24' 3PT Jump Shot,Missed Shot,Jump Shot,232,44,24,1,3.0,0.0,h
+S2324-G0143,4,07:16,DAL,,CHA,,J. Hardy,DAL,SUB: Williams FOR Hardy,Substitution,,0,0,0,0,,,h
+S2324-G0457,2,11:10,UTA,,DAL,,J. Hardy,DAL,Hardy Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0457,2,10:23,UTA,,DAL,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0457,2,10:20,UTA,,DAL,,J. Hardy,DAL,Hardy Out of Bounds - Bad Pass Turnover Turnover (P2.T2),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0457,2,09:54,UTA,39.0,DAL,30.0,J. Hardy,DAL,Hardy 8' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,28,72,8,1,2.0,2.0,v
+S2324-G0457,2,09:30,UTA,,DAL,,J. Hardy,DAL,MISS Hardy 18' Jump Shot,Missed Shot,Jump Shot,181,-4,18,1,2.0,0.0,v
+S2324-G0457,2,09:04,UTA,41.0,DAL,33.0,J. Hardy,DAL,Hardy 26' 3PT Jump Shot (5 PTS) (G. Williams 1 AST),Made Shot,Jump Shot,184,182,26,1,3.0,3.0,v
+S2324-G0457,2,08:33,UTA,,DAL,,J. Hardy,DAL,MISS Hardy 2' Driving Layup,Missed Shot,Driving Layup Shot,-18,6,2,1,2.0,0.0,v
+S2324-G0457,2,08:28,UTA,,DAL,,J. Hardy,DAL,SUB: Exum FOR Hardy,Substitution,,0,0,0,0,,,v
+S2324-G0457,3,11:35,UTA,65.0,DAL,58.0,J. Hardy,DAL,Hardy 26' 3PT Jump Shot (8 PTS) (Doncic 8 AST),Made Shot,Jump Shot,-192,169,26,1,3.0,3.0,v
+S2324-G0457,3,10:09,UTA,,DAL,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0457,3,09:51,UTA,70.0,DAL,63.0,J. Hardy,DAL,Hardy 25' 3PT Step Back Jump Shot (11 PTS) (Lively II 2 AST),Made Shot,Step Back Jump shot,214,130,25,1,3.0,3.0,v
+S2324-G0457,3,07:06,UTA,77.0,DAL,70.0,J. Hardy,DAL,Hardy 26' 3PT Jump Shot (14 PTS) (Doncic 11 AST),Made Shot,Jump Shot,-181,190,26,1,3.0,3.0,v
+S2324-G0457,3,06:18,UTA,79.0,DAL,73.0,J. Hardy,DAL,Hardy 29' 3PT Jump Shot (17 PTS) (Doncic 12 AST),Made Shot,Jump Shot,-169,231,29,1,3.0,3.0,v
+S2324-G0457,3,05:54,UTA,,DAL,,J. Hardy,DAL,MISS Hardy 5' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-27,37,5,1,2.0,0.0,v
+S2324-G0457,3,04:19,UTA,,DAL,,J. Hardy,DAL,SUB: G. Williams FOR Hardy,Substitution,,0,0,0,0,,,v
+S2324-G0457,3,00:04.900000,UTA,,DAL,,J. Hardy,DAL,MISS Hardy 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,59,248,25,1,3.0,0.0,v
+S2324-G0457,4,10:26,UTA,,DAL,,J. Hardy,DAL,MISS Hardy 4' Driving Layup,Missed Shot,Driving Layup Shot,-31,31,4,1,2.0,0.0,v
+S2324-G0457,4,10:01,UTA,,DAL,,J. Hardy,DAL,SUB: G. Williams FOR Hardy,Substitution,,0,0,0,0,,,v
+S2324-G0457,4,05:14,UTA,,DAL,,J. Hardy,DAL,MISS Hardy 26' 3PT Jump Shot,Missed Shot,Jump Shot,48,256,26,1,3.0,0.0,v
+S2324-G0457,4,05:10,UTA,,DAL,,J. Hardy,DAL,MISS Hardy 25' 3PT Jump Shot,Missed Shot,Jump Shot,-137,215,25,1,3.0,0.0,v
+S2324-G0457,4,02:31,UTA,,DAL,,J. Hardy,DAL,MISS Hardy 26' 3PT Jump Shot,Missed Shot,Jump Shot,-120,231,26,1,3.0,0.0,v
+S2324-G0457,4,01:59,UTA,,DAL,,J. Hardy,DAL,MISS Hardy 12' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-119,16,12,1,2.0,0.0,v
+S2324-G0457,4,01:32,UTA,,DAL,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1196,1,11:08,OKC,,DAL,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1196,1,11:00,OKC,,DAL,,J. Hardy,DAL,MISS Hardy 17' Step Back Jump Shot,Missed Shot,Step Back Jump shot,127,106,17,1,2.0,0.0,v
+S2324-G1196,1,09:10,OKC,,DAL,,J. Hardy,DAL,Hardy S.FOUL (P1.T1) (S.Foster),Foul,Shooting,0,0,0,0,,,v
+S2324-G1196,1,07:58,OKC,,DAL,,J. Hardy,DAL,MISS Hardy 5' Driving Layup,Missed Shot,Driving Layup Shot,42,23,5,1,2.0,0.0,v
+S2324-G1196,1,07:33,OKC,,DAL,,J. Hardy,DAL,Hardy STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G1196,1,06:50,OKC,,DAL,,J. Hardy,DAL,Hardy Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G1196,1,06:50,OKC,,DAL,,J. Hardy,DAL,SUB: Williams FOR Hardy,Substitution,,0,0,0,0,,,v
+S2324-G1196,1,03:21,OKC,,DAL,,J. Hardy,DAL,MISS Hardy 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-54,13,6,1,2.0,0.0,v
+S2324-G1196,1,01:33,OKC,,DAL,,J. Hardy,DAL,Hardy Lost Ball Turnover (P2.T4),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G1196,1,01:25,OKC,,DAL,,J. Hardy,DAL,Hardy AWAY.FROM.PLAY.FOUL (P2.T2) (K.Lane),Foul,Away From Play,0,0,0,0,,,v
+S2324-G1196,1,00:57.300000,OKC,,DAL,,J. Hardy,DAL,Hardy Offensive Charge Foul (P3) (K.Lane),Foul,Offensive Charge,0,0,0,0,,,v
+S2324-G1196,1,00:57.300000,OKC,,DAL,,J. Hardy,DAL,Hardy Offensive Foul Turnover (P3.T6),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G1196,1,00:57.300000,OKC,,DAL,,J. Hardy,DAL,SUB: Green FOR Hardy,Substitution,,0,0,0,0,,,v
+S2324-G1196,3,11:22,OKC,,DAL,,J. Hardy,DAL,Hardy S.FOUL (P4.T1) (N.Sago),Foul,Shooting,0,0,0,0,,,v
+S2324-G1196,3,09:46,OKC,,DAL,,J. Hardy,DAL,MISS Hardy 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,0,50,5,1,2.0,0.0,v
+S2324-G1196,3,08:55,OKC,,DAL,,J. Hardy,DAL,MISS Hardy 25' 3PT Jump Shot,Missed Shot,Jump Shot,-32,251,25,1,3.0,0.0,v
+S2324-G1196,3,06:52,OKC,92.0,DAL,47.0,J. Hardy,DAL,Hardy 1' Driving Dunk (2 PTS),Made Shot,Driving Dunk Shot,5,3,1,1,2.0,2.0,v
+S2324-G1196,3,06:21,OKC,,DAL,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1196,3,04:50,OKC,,DAL,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1196,3,04:43,OKC,,DAL,,J. Hardy,DAL,MISS Hardy 1' Running Layup,Missed Shot,Running Layup Shot,-2,14,1,1,2.0,0.0,v
+S2324-G1196,3,03:30,OKC,,DAL,,J. Hardy,DAL,SUB: Williams FOR Hardy,Substitution,,0,0,0,0,,,v
+S2324-G1196,4,10:08,OKC,,DAL,,J. Hardy,DAL,MISS Hardy 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,32,143,15,1,2.0,0.0,v
+S2324-G1196,4,09:11,OKC,,DAL,,J. Hardy,DAL,Hardy STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G1196,4,08:37,OKC,113.0,DAL,66.0,J. Hardy,DAL,Hardy 2' Running Layup (4 PTS),Made Shot,Running Layup Shot,23,-1,2,1,2.0,2.0,v
+S2324-G1196,4,08:19,OKC,,DAL,,J. Hardy,DAL,Hardy P.FOUL (P5.T1) (S.Foster),Foul,Personal,0,0,0,0,,,v
+S2324-G1196,4,07:25,OKC,,DAL,,J. Hardy,DAL,MISS Hardy 24' 3PT Jump Shot,Missed Shot,Jump Shot,234,-26,24,1,3.0,0.0,v
+S2324-G1196,4,06:26,OKC,121.0,DAL,69.0,J. Hardy,DAL,Hardy 3PT Jump Shot (7 PTS) (Green 3 AST),Made Shot,Jump Shot,-229,-31,0,1,3.0,3.0,v
+S2324-G1196,4,04:39,OKC,123.0,DAL,73.0,J. Hardy,DAL,Hardy 18' Step Back Jump Shot (9 PTS),Made Shot,Step Back Jump shot,82,163,18,1,2.0,2.0,v
+S2324-G1196,4,03:58,OKC,,DAL,,J. Hardy,DAL,MISS Hardy 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,75,135,15,1,2.0,0.0,v
+S2324-G1196,4,03:10,OKC,,DAL,,J. Hardy,DAL,Hardy Bad Pass Turnover (P4.T14),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G1196,4,02:49,OKC,,DAL,,J. Hardy,DAL,MISS Hardy 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-221,6,0,1,3.0,0.0,v
+S2324-G1196,4,00:31.700000,OKC,,DAL,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0768,1,02:46,DAL,,WAS,,J. Hardy,DAL,Hardy S.FOUL (P1.T3) (M.Ervin),Foul,Shooting,0,0,0,0,,,h
+S2324-G0768,1,02:13,DAL,,WAS,,J. Hardy,DAL,MISS Hardy 2' Running Layup,Missed Shot,Running Layup Shot,6,16,2,1,2.0,0.0,h
+S2324-G0768,1,02:05,DAL,22.0,WAS,16.0,J. Hardy,DAL,Hardy 3' Driving Layup (2 PTS) (Doncic 5 AST),Made Shot,Driving Layup Shot,26,10,3,1,2.0,2.0,h
+S2324-G0768,2,11:48,DAL,,WAS,,J. Hardy,DAL,MISS Hardy 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,38,147,15,1,2.0,0.0,h
+S2324-G0768,2,11:17,DAL,,WAS,,J. Hardy,DAL,Hardy Out of Bounds - Bad Pass Turnover Turnover (P1.T8),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G0768,2,10:33,DAL,,WAS,,J. Hardy,DAL,SUB: Green FOR Hardy,Substitution,,0,0,0,0,,,h
+S2324-G0768,4,09:59,DAL,,WAS,,J. Hardy,DAL,MISS Hardy 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,100,231,25,1,3.0,0.0,h
+S2324-G0768,4,08:56,DAL,,WAS,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0768,4,08:51,DAL,86.0,WAS,93.0,J. Hardy,DAL,Hardy 2' Running Layup (4 PTS),Made Shot,Running Layup Shot,-10,15,2,1,2.0,2.0,h
+S2324-G0768,4,07:58,DAL,89.0,WAS,95.0,J. Hardy,DAL,Hardy 26' 3PT Jump Shot (7 PTS) (Doncic 12 AST),Made Shot,Jump Shot,-27,256,26,1,3.0,3.0,h
+S2324-G0768,4,06:55,DAL,94.0,WAS,95.0,J. Hardy,DAL,Hardy 3PT Jump Shot (10 PTS) (Washington 3 AST),Made Shot,Jump Shot,228,8,0,1,3.0,3.0,h
+S2324-G0768,4,06:26,DAL,,WAS,,J. Hardy,DAL,MISS Hardy 25' 3PT Jump Shot,Missed Shot,Jump Shot,-72,240,25,1,3.0,0.0,h
+S2324-G0768,4,05:56,DAL,,WAS,,J. Hardy,DAL,MISS Hardy 3' Running Reverse Layup,Missed Shot,Running Reverse Layup Shot,-23,17,3,1,2.0,0.0,h
+S2324-G0768,4,04:30,DAL,,WAS,,J. Hardy,DAL,SUB: Green FOR Hardy,Substitution,,0,0,0,0,,,h
+S2324-G0768,4,00:00.800000,DAL,,WAS,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1047,4,04:01,SAC,85.0,DAL,118.0,J. Hardy,DAL,Hardy 14' Fadeaway Jumper (2 PTS),Made Shot,Fadeaway Jump Shot,65,127,14,1,2.0,2.0,v
+S2324-G1047,4,02:27,SAC,,DAL,,J. Hardy,DAL,Hardy Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G1047,4,02:06,SAC,88.0,DAL,124.0,J. Hardy,DAL,Hardy 17' Pullup Jump Shot (4 PTS) (Hardaway Jr. 5 AST),Made Shot,Pullup Jump shot,124,120,17,1,2.0,2.0,v
+S2324-G1047,4,01:16,SAC,91.0,DAL,130.0,J. Hardy,DAL,Hardy 26' 3PT Jump Shot (7 PTS) (Hardaway Jr. 6 AST),Made Shot,Jump Shot,189,179,26,1,3.0,3.0,v
+S2324-G1047,4,00:50.900000,SAC,,DAL,,J. Hardy,DAL,MISS Hardy 24' 3PT Jump Shot,Missed Shot,Jump Shot,237,14,24,1,3.0,0.0,v
+S2324-G0748,2,09:01,DAL,53.0,OKC,37.0,J. Hardy,DAL,Hardy 15' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,-23,153,15,1,2.0,2.0,h
+S2324-G0748,2,08:40,DAL,56.0,OKC,37.0,J. Hardy,DAL,Hardy 3PT Jump Shot (5 PTS) (Irving 3 AST),Made Shot,Jump Shot,228,-8,0,1,3.0,3.0,h
+S2324-G0748,2,08:27,DAL,,OKC,,J. Hardy,DAL,Hardy S.FOUL (P1.T1) (K.Lane),Foul,Shooting,0,0,0,0,,,h
+S2324-G0748,2,07:31,DAL,,OKC,,J. Hardy,DAL,SUB: Jones Jr. FOR Hardy,Substitution,,0,0,0,0,,,h
+S2324-G0748,4,04:46,DAL,,OKC,,J. Hardy,DAL,MISS Hardy 3PT Jump Shot,Missed Shot,Jump Shot,-224,10,0,1,3.0,0.0,h
+S2324-G0748,4,03:46,DAL,135.0,OKC,102.0,J. Hardy,DAL,Hardy 19' Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,145,126,19,1,2.0,2.0,h
+S2324-G0748,4,03:22,DAL,,OKC,,J. Hardy,DAL,MISS Hardy Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0748,4,03:22,DAL,136.0,OKC,102.0,J. Hardy,DAL,Hardy Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0748,4,02:13,DAL,,OKC,,J. Hardy,DAL,Hardy STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0748,4,02:10,DAL,139.0,OKC,105.0,J. Hardy,DAL,Hardy 24' 3PT Running Pull-Up Jump Shot (11 PTS) (Williams 1 AST),Made Shot,Running Pull-Up Jump Shot,232,62,24,1,3.0,3.0,h
+S2324-G0702,1,05:03,DAL,,MIL,,J. Hardy,DAL,Hardy P.FOUL (P1.T1) (C.Blair),Foul,Personal,0,0,0,0,,,h
+S2324-G0702,1,04:54,DAL,,MIL,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0702,1,04:46,DAL,29.0,MIL,18.0,J. Hardy,DAL,Hardy 13' Pullup Jump Shot (2 PTS) (Powell 1 AST),Made Shot,Pullup Jump shot,26,132,13,1,2.0,2.0,h
+S2324-G0702,1,04:17,DAL,,MIL,,J. Hardy,DAL,MISS Hardy 25' 3PT Jump Shot,Missed Shot,Jump Shot,-188,166,25,1,3.0,0.0,h
+S2324-G0702,1,03:42,DAL,30.0,MIL,18.0,J. Hardy,DAL,Hardy Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0702,1,03:42,DAL,31.0,MIL,18.0,J. Hardy,DAL,Hardy Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0702,1,03:35,DAL,,MIL,,J. Hardy,DAL,SUB: Doncic FOR Hardy,Substitution,,0,0,0,0,,,h
+S2324-G0702,2,10:17,DAL,,MIL,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0702,2,08:39,DAL,,MIL,,J. Hardy,DAL,MISS Hardy 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,21,247,25,1,3.0,0.0,h
+S2324-G0702,2,08:28,DAL,,MIL,,J. Hardy,DAL,SUB: G. Williams FOR Hardy,Substitution,,0,0,0,0,,,h
+S2324-G0702,2,04:40,DAL,,MIL,,J. Hardy,DAL,MISS Hardy 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-100,71,12,1,2.0,0.0,h
+S2324-G0702,2,04:03,DAL,,MIL,,J. Hardy,DAL,Hardy S.FOUL (P2.T4) (C.Washington),Foul,Shooting,0,0,0,0,,,h
+S2324-G0702,2,03:17,DAL,,MIL,,J. Hardy,DAL,SUB: Green FOR Hardy,Substitution,,0,0,0,0,,,h
+S2324-G0978,2,11:25,DAL,,DEN,,J. Hardy,DAL,Hardy P.FOUL (P1.T1) (T.Ford),Foul,Personal,0,0,0,0,,,h
+S2324-G0978,2,11:08,DAL,33.0,DEN,34.0,J. Hardy,DAL,Hardy Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0978,2,11:08,DAL,34.0,DEN,34.0,J. Hardy,DAL,Hardy Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0978,2,10:01,DAL,,DEN,,J. Hardy,DAL,Jump Ball Hardy vs. Nnaji: Tip to Watson,Jump Ball,,0,0,0,0,,,h
+S2324-G0978,2,09:08,DAL,,DEN,,J. Hardy,DAL,Hardy Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0978,2,08:51,DAL,,DEN,,J. Hardy,DAL,SUB: Irving FOR Hardy,Substitution,,0,0,0,0,,,h
+S2324-G1144,2,11:30,CHA,,DAL,,J. Hardy,DAL,Hardy P.FOUL (P1.T1) (D.Collins),Foul,Personal,0,0,0,0,,,v
+S2324-G1144,2,07:08,CHA,,DAL,,J. Hardy,DAL,SUB: Doncic FOR Hardy,Substitution,,0,0,0,0,,,v
+S2324-G1144,4,09:28,CHA,87.0,DAL,100.0,J. Hardy,DAL,Hardy Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1144,4,09:28,CHA,,DAL,,J. Hardy,DAL,MISS Hardy Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G1144,4,07:29,CHA,,DAL,,J. Hardy,DAL,SUB: Exum FOR Hardy,Substitution,,0,0,0,0,,,v
+S2324-G1144,4,02:56,CHA,,DAL,,J. Hardy,DAL,Hardy STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G1144,4,02:46,CHA,,DAL,,J. Hardy,DAL,Hardy REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1144,4,02:46,CHA,99.0,DAL,125.0,J. Hardy,DAL,Hardy Putback Layup (3 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,v
+S2324-G1144,4,01:53,CHA,,DAL,,J. Hardy,DAL,Hardy Lost Ball Turnover (P1.T12),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G1144,4,01:06,CHA,,DAL,,J. Hardy,DAL,Hardy Traveling Turnover (P2.T13),Turnover,Traveling,0,0,0,0,,,v
+S2324-G1144,4,00:31.900000,CHA,,DAL,,J. Hardy,DAL,Hardy REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0651,1,09:32,DAL,,,,J. Hardy,DAL,MISS Hardy 24' 3PT Jump Shot,Missed Shot,Jump Shot,239,36,24,1,3.0,0.0,h
+S2324-G0651,1,08:25,DAL,,,,J. Hardy,DAL,MISS Hardy 25' 3PT Jump Shot,Missed Shot,Jump Shot,-18,253,25,1,3.0,0.0,h
+S2324-G0651,1,07:12,DAL,,,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0651,1,06:53,DAL,,,,J. Hardy,DAL,SUB: Hardaway Jr. FOR Hardy,Substitution,,0,0,0,0,,,h
+S2324-G0651,1,01:59,DAL,,,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0651,1,01:57,DAL,,,,J. Hardy,DAL,MISS Hardy 5' Running Layup,Missed Shot,Running Layup Shot,-16,50,5,1,2.0,0.0,h
+S2324-G0651,1,01:45,DAL,,,,J. Hardy,DAL,MISS Hardy 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,38,65,8,1,2.0,0.0,h
+S2324-G0651,1,01:42,DAL,,,,J. Hardy,DAL,Hardy REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0651,2,05:43,DAL,,,,J. Hardy,DAL,Hardy REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0651,2,05:03,DAL,,,,J. Hardy,DAL,MISS Hardy 27' 3PT Jump Shot,Missed Shot,Jump Shot,-135,233,27,1,3.0,0.0,h
+S2324-G0651,2,03:53,DAL,,,,J. Hardy,DAL,Hardy REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0651,2,01:32,DAL,,,,J. Hardy,DAL,Hardy P.FOUL (P1.T4) (T.Brothers),Foul,Personal,0,0,0,0,,,h
+S2324-G0651,2,01:32,DAL,,,,J. Hardy,DAL,SUB: Green FOR Hardy,Substitution,,0,0,0,0,,,h
+S2324-G0651,3,02:53,DAL,69.0,,88.0,J. Hardy,DAL,Hardy 25' 3PT Jump Shot (3 PTS) (Doncic 12 AST),Made Shot,Jump Shot,-213,140,25,1,3.0,3.0,h
+S2324-G0651,3,02:05,DAL,,,,J. Hardy,DAL,MISS Hardy 24' 3PT Jump Shot,Missed Shot,Jump Shot,-238,-10,24,1,3.0,0.0,h
+S2324-G0651,3,00:12.400000,DAL,,,,J. Hardy,DAL,Hardy OFF.Foul (P2) (I.Hwang),Foul,Offensive,0,0,0,0,,,h
+S2324-G0651,3,00:12.400000,DAL,,,,J. Hardy,DAL,Hardy Offensive Foul Turnover (P1.T9),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0651,3,00:12.400000,DAL,,,,J. Hardy,DAL,SUB: Lively II FOR Hardy,Substitution,,0,0,0,0,,,h
+S2324-G1083,2,10:59,HOU,,DAL,,J. Hardy,DAL,MISS Hardy 7' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,12,69,7,1,2.0,0.0,v
+S2324-G1083,2,10:48,HOU,,DAL,,J. Hardy,DAL,MISS Hardy 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-221,57,0,1,3.0,0.0,v
+S2324-G1083,2,08:59,HOU,,DAL,,J. Hardy,DAL,Hardy P.FOUL (P1.T3) (G.Petraitis),Foul,Personal,0,0,0,0,,,v
+S2324-G1083,2,07:05,HOU,,DAL,,J. Hardy,DAL,Hardy Lost Ball Turnover (P1.T5),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G1083,2,06:51,HOU,,DAL,,J. Hardy,DAL,SUB: Exum FOR Hardy,Substitution,,0,0,0,0,,,v
+S2324-G1083,3,00:17.900000,HOU,71.0,DAL,91.0,J. Hardy,DAL,Hardy 13' Fadeaway Jumper (2 PTS),Made Shot,Fadeaway Jump Shot,-5,134,13,1,2.0,2.0,v
+S2324-G1083,3,00:00.100000,HOU,,DAL,,J. Hardy,DAL,MISS Hardy 47' 3PT Jump Shot,Missed Shot,Jump Shot,189,425,47,1,3.0,0.0,v
+S2324-G1083,4,10:16,HOU,,DAL,,J. Hardy,DAL,Hardy P.FOUL (P2.T1) (G.Petraitis),Foul,Personal,0,0,0,0,,,v
+S2324-G1083,4,09:04,HOU,82.0,DAL,108.0,J. Hardy,DAL,Hardy 26' 3PT Jump Shot (5 PTS) (Irving 6 AST),Made Shot,Jump Shot,-121,230,26,1,3.0,3.0,v
+S2324-G1083,4,06:24,HOU,,DAL,,J. Hardy,DAL,SUB: Jones Jr. FOR Hardy,Substitution,,0,0,0,0,,,v
+S2324-G1083,4,01:30,HOU,,DAL,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1083,4,01:24,HOU,,DAL,,J. Hardy,DAL,MISS Hardy 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,119,237,27,1,3.0,0.0,v
+S2324-G1083,4,00:56.500000,HOU,,DAL,,J. Hardy,DAL,Hardy Bad Pass Turnover (P2.T13),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G1083,4,00:36.200000,HOU,107.0,DAL,125.0,J. Hardy,DAL,Hardy 26' 3PT Jump Shot (8 PTS) (Prosper 1 AST),Made Shot,Jump Shot,108,237,26,1,3.0,3.0,v
+S2324-G1083,4,00:24.500000,HOU,,DAL,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0796,4,00:54.900000,DAL,,PHX,,J. Hardy,DAL,MISS Hardy 3' Driving Layup,Missed Shot,Driving Layup Shot,-21,20,3,1,2.0,0.0,h
+S2324-G0515,2,09:58,DAL,26.0,MEM,35.0,J. Hardy,DAL,Hardy 19' Step Back Jump Shot (2 PTS),Made Shot,Step Back Jump shot,-188,24,19,1,2.0,2.0,h
+S2324-G0515,2,09:06,DAL,31.0,MEM,36.0,J. Hardy,DAL,Hardy 25' 3PT Jump Shot (5 PTS) (Irving 2 AST),Made Shot,Jump Shot,-15,248,25,1,3.0,3.0,h
+S2324-G0515,2,07:58,DAL,,MEM,,J. Hardy,DAL,MISS Hardy 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-98,239,26,1,3.0,0.0,h
+S2324-G0515,2,06:52,DAL,,MEM,,J. Hardy,DAL,SUB: Green FOR Hardy,Substitution,,0,0,0,0,,,h
+S2324-G0515,3,04:28,DAL,75.0,MEM,85.0,J. Hardy,DAL,Hardy 1' Running Dunk (7 PTS) (Hardaway Jr. 1 AST),Made Shot,Running Dunk Shot,-4,-5,1,1,2.0,2.0,h
+S2324-G0515,3,04:16,DAL,,MEM,,J. Hardy,DAL,MISS Hardy 26' 3PT Jump Shot,Missed Shot,Jump Shot,-183,181,26,1,3.0,0.0,h
+S2324-G0515,3,03:03,DAL,,MEM,,J. Hardy,DAL,Jump Ball Hardy vs. Williams: Tip to Bane,Jump Ball,,0,0,0,0,,,h
+S2324-G0515,3,00:51.300000,DAL,,MEM,,J. Hardy,DAL,Hardy P.FOUL (P1.PN) (M.Lindsay),Foul,Personal,0,0,0,0,,,h
+S2324-G0515,4,04:53,DAL,,MEM,,J. Hardy,DAL,Hardy P.FOUL (P2.T3) (M.Lindsay),Foul,Personal,0,0,0,0,,,h
+S2324-G0515,4,03:28,DAL,100.0,MEM,116.0,J. Hardy,DAL,Hardy 24' 3PT Jump Shot (10 PTS) (Jones Jr. 2 AST),Made Shot,Jump Shot,-239,16,24,1,3.0,3.0,h
+S2324-G0515,4,03:03,DAL,,MEM,,J. Hardy,DAL,Hardy Out of Bounds - Bad Pass Turnover Turnover (P1.T13),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G0515,4,02:31,DAL,,MEM,,J. Hardy,DAL,MISS Hardy 3' Driving Layup,Missed Shot,Driving Layup Shot,25,1,3,1,2.0,0.0,h
+S2324-G0935,4,06:01,CHI,,DAL,,J. Hardy,DAL,MISS Hardy 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-163,193,25,1,3.0,0.0,v
+S2324-G0935,4,04:47,CHI,81.0,DAL,113.0,J. Hardy,DAL,Hardy 23' Step Back Jump Shot (2 PTS),Made Shot,Step Back Jump shot,118,193,23,1,2.0,2.0,v
+S2324-G0935,4,04:03,CHI,,DAL,,J. Hardy,DAL,Hardy Lost Ball Turnover (P1.T6),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0935,4,02:57,CHI,87.0,DAL,115.0,J. Hardy,DAL,Hardy 2' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,16,16,2,1,2.0,2.0,v
+S2324-G0935,4,02:36,CHI,87.0,DAL,118.0,J. Hardy,DAL,Hardy 28' 3PT Jump Shot (7 PTS) (Lawson 1 AST),Made Shot,Jump Shot,100,258,28,1,3.0,3.0,v
+S2324-G0935,4,00:46.200000,CHI,90.0,DAL,125.0,J. Hardy,DAL,Hardy Driving Finger Roll Layup (9 PTS),Made Shot,Driving Finger Roll Layup Shot,4,0,0,1,2.0,2.0,v
+S2324-G0935,4,00:31.200000,CHI,92.0,DAL,126.0,J. Hardy,DAL,Hardy Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0935,4,00:31.200000,CHI,92.0,DAL,127.0,J. Hardy,DAL,Hardy Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0124,1,00:17.200000,DAL,,,,J. Hardy,DAL,SUB: Jones Jr. FOR Hardy,Substitution,,0,0,0,0,,,h
+S2324-G0124,3,04:18,DAL,72.0,,70.0,J. Hardy,DAL,Hardy 15' Step Back Jump Shot (2 PTS),Made Shot,Step Back Jump shot,-21,152,15,1,2.0,2.0,h
+S2324-G0124,3,00:34.600000,DAL,80.0,,81.0,J. Hardy,DAL,Hardy Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0124,3,00:34.600000,DAL,81.0,,81.0,J. Hardy,DAL,Hardy Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0124,3,00:01.900000,DAL,,,,J. Hardy,DAL,MISS Hardy 19' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-29,188,19,1,2.0,0.0,h
+S2324-G0124,4,05:13,DAL,99.0,,96.0,J. Hardy,DAL,Hardy 1' Driving Layup (6 PTS) (Doncic 8 AST),Made Shot,Driving Layup Shot,5,11,1,1,2.0,2.0,h
+S2324-G0124,4,03:25,DAL,,,,J. Hardy,DAL,MISS Hardy 25' 3PT Jump Shot,Missed Shot,Jump Shot,158,200,25,1,3.0,0.0,h
+S2324-G0124,4,02:41,DAL,,,,J. Hardy,DAL,MISS Hardy 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-98,8,10,1,2.0,0.0,h
+S2324-G0124,4,01:41,DAL,106.0,,100.0,J. Hardy,DAL,Hardy 26' 3PT Jump Shot (9 PTS) (Doncic 9 AST),Made Shot,Jump Shot,-161,207,26,1,3.0,3.0,h
+S2324-G0124,4,01:30,DAL,,,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0124,4,01:16,DAL,,,,J. Hardy,DAL,MISS Hardy 2' Driving Layup,Missed Shot,Driving Layup Shot,-2,17,2,1,2.0,0.0,h
+S2324-G0124,4,00:56.600000,DAL,,,,J. Hardy,DAL,SUB: Jones Jr. FOR Hardy,Substitution,,0,0,0,0,,,h
+S2324-G0919,4,03:48,DET,,DAL,,J. Hardy,DAL,Hardy Bad Pass Turnover (P1.T13),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0919,4,03:33,DET,108.0,DAL,127.0,J. Hardy,DAL,Hardy Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0919,4,03:33,DET,108.0,DAL,128.0,J. Hardy,DAL,Hardy Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0919,4,02:55,DET,,DAL,,J. Hardy,DAL,MISS Hardy 4' Driving Layup,Missed Shot,Driving Layup Shot,-31,21,4,1,2.0,0.0,v
+S2324-G0919,4,02:06,DET,115.0,DAL,133.0,J. Hardy,DAL,Hardy 14' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,26,137,14,1,2.0,2.0,v
+S2324-G0919,4,01:50,DET,118.0,DAL,134.0,J. Hardy,DAL,Hardy Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0919,4,01:50,DET,118.0,DAL,135.0,J. Hardy,DAL,Hardy Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0919,4,01:21,DET,120.0,DAL,137.0,J. Hardy,DAL,Hardy 16' Fadeaway Jumper (8 PTS),Made Shot,Fadeaway Jump Shot,-23,163,16,1,2.0,2.0,v
+S2324-G0919,4,01:13,DET,,DAL,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0919,4,01:08,DET,,DAL,,J. Hardy,DAL,MISS Hardy 3' Running Layup,Missed Shot,Running Layup Shot,9,26,3,1,2.0,0.0,v
+S2324-G0299,1,04:36,MEM,,DAL,,J. Hardy,DAL,MISS Hardy 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,12,26,3,1,2.0,0.0,v
+S2324-G0299,1,04:01,MEM,,DAL,,J. Hardy,DAL,MISS Hardy 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,100,131,16,1,2.0,0.0,v
+S2324-G0299,1,01:29,MEM,22.0,DAL,26.0,J. Hardy,DAL,Hardy 13' Turnaround Jump Shot (2 PTS),Made Shot,Turnaround Jump Shot,-75,102,13,1,2.0,2.0,v
+S2324-G0299,2,10:52,MEM,26.0,DAL,34.0,J. Hardy,DAL,Hardy 26' 3PT Jump Shot (5 PTS) (Lively II 2 AST),Made Shot,Jump Shot,72,246,26,1,3.0,3.0,v
+S2324-G0299,2,10:15,MEM,,DAL,,J. Hardy,DAL,Hardy Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0299,2,09:39,MEM,31.0,DAL,37.0,J. Hardy,DAL,Hardy 26' 3PT Jump Shot (8 PTS) (Morris 1 AST),Made Shot,Jump Shot,-113,239,26,1,3.0,3.0,v
+S2324-G0299,2,08:06,MEM,33.0,DAL,44.0,J. Hardy,DAL,Hardy 26' 3PT Jump Shot (11 PTS) (Curry 1 AST),Made Shot,Jump Shot,-120,226,26,1,3.0,3.0,v
+S2324-G0299,2,06:18,MEM,,DAL,,J. Hardy,DAL,SUB: Curry FOR Hardy,Substitution,,0,0,0,0,,,v
+S2324-G0299,3,05:07,MEM,,DAL,,J. Hardy,DAL,MISS Hardy 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,53,176,18,1,2.0,0.0,v
+S2324-G0299,3,01:00,MEM,79.0,DAL,96.0,J. Hardy,DAL,Hardy 15' Turnaround Fadeaway (13 PTS),Made Shot,Turnaround Fadeaway shot,88,116,15,1,2.0,2.0,v
+S2324-G0299,4,10:20,MEM,,DAL,,J. Hardy,DAL,Hardy AWAY.FROM.PLAY.FOUL (P1.T2) (J.Williams),Foul,Away From Play,0,0,0,0,,,v
+S2324-G0299,4,10:02,MEM,83.0,DAL,104.0,J. Hardy,DAL,Hardy 26' 3PT Pullup Jump Shot (16 PTS),Made Shot,Pullup Jump shot,-71,245,26,1,3.0,3.0,v
+S2324-G0299,4,09:37,MEM,,DAL,,J. Hardy,DAL,MISS Hardy 3PT Jump Shot,Missed Shot,Jump Shot,232,-6,0,1,3.0,0.0,v
+S2324-G0299,4,08:40,MEM,,DAL,,J. Hardy,DAL,MISS Hardy 2' Driving Dunk,Missed Shot,Driving Dunk Shot,15,1,2,1,2.0,0.0,v
+S2324-G0299,4,06:36,MEM,,DAL,,J. Hardy,DAL,MISS Hardy 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-22,13,3,1,2.0,0.0,v
+S2324-G0299,4,05:48,MEM,,DAL,,J. Hardy,DAL,MISS Hardy 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,62,90,11,1,2.0,0.0,v
+S2324-G0299,4,03:36,MEM,,DAL,,J. Hardy,DAL,Hardy STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0299,4,03:22,MEM,99.0,DAL,115.0,J. Hardy,DAL,Hardy 3PT Jump Shot (19 PTS) (Exum 5 AST),Made Shot,Jump Shot,-232,25,0,1,3.0,3.0,v
+S2324-G0299,4,02:16,MEM,,DAL,,J. Hardy,DAL,MISS Hardy 3PT Jump Shot,Missed Shot,Jump Shot,228,27,0,1,3.0,0.0,v
+S2324-G0299,4,00:49.700000,MEM,,DAL,,J. Hardy,DAL,Hardy Lost Ball Turnover (P2.T17),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0372,2,11:47,DAL,25.0,LAC,35.0,J. Hardy,DAL,Hardy 3PT Jump Shot (3 PTS) (Powell 1 AST),Made Shot,Jump Shot,227,6,0,1,3.0,3.0,h
+S2324-G0372,2,11:20,DAL,,LAC,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0372,2,11:07,DAL,,LAC,,J. Hardy,DAL,MISS Hardy 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-47,99,11,1,2.0,0.0,h
+S2324-G0372,2,11:02,DAL,,LAC,,J. Hardy,DAL,MISS Hardy 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-104,131,17,1,2.0,0.0,h
+S2324-G0372,2,08:15,DAL,,LAC,,J. Hardy,DAL,MISS Hardy 3PT Jump Shot,Missed Shot,Jump Shot,-234,16,0,1,3.0,0.0,h
+S2324-G0372,2,08:07,DAL,,LAC,,J. Hardy,DAL,Hardy S.FOUL (P1.T2) (J.Tiven),Foul,Shooting,0,0,0,0,,,h
+S2324-G0372,2,07:46,DAL,,LAC,,J. Hardy,DAL,Hardy S.FOUL (P2.T3) (J.Tiven),Foul,Shooting,0,0,0,0,,,h
+S2324-G0372,2,06:47,DAL,36.0,LAC,55.0,J. Hardy,DAL,Hardy 25' 3PT Jump Shot (6 PTS) (Doncic 4 AST),Made Shot,Jump Shot,-124,216,25,1,3.0,3.0,h
+S2324-G0372,2,06:21,DAL,,LAC,,J. Hardy,DAL,SUB: Hardaway Jr. FOR Hardy,Substitution,,0,0,0,0,,,h
+S2324-G0372,2,01:14,DAL,,LAC,,J. Hardy,DAL,MISS Hardy 3PT Jump Shot,Missed Shot,Jump Shot,224,15,0,1,3.0,0.0,h
+S2324-G0372,3,06:43,DAL,71.0,LAC,72.0,J. Hardy,DAL,Hardy 26' 3PT Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,-85,248,26,1,3.0,3.0,h
+S2324-G0372,3,05:11,DAL,,LAC,,J. Hardy,DAL,MISS Hardy 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-162,207,26,1,3.0,0.0,h
+S2324-G0372,3,04:31,DAL,,LAC,,J. Hardy,DAL,Hardy S.FOUL (P3.PN) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,h
+S2324-G0372,3,02:06,DAL,,LAC,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0372,3,01:53,DAL,,LAC,,J. Hardy,DAL,MISS Hardy 25' 3PT Jump Shot,Missed Shot,Jump Shot,80,239,25,1,3.0,0.0,h
+S2324-G0372,3,00:34.700000,DAL,,LAC,,J. Hardy,DAL,Hardy STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0372,3,00:30.600000,DAL,,LAC,,J. Hardy,DAL,MISS Hardy 2' Running Layup,Missed Shot,Running Layup Shot,7,17,2,1,2.0,0.0,h
+S2324-G0372,4,10:38,DAL,,LAC,,J. Hardy,DAL,MISS Hardy 3' Driving Layup,Missed Shot,Driving Layup Shot,-6,33,3,1,2.0,0.0,h
+S2324-G0372,4,09:56,DAL,88.0,LAC,90.0,J. Hardy,DAL,Hardy 26' 3PT Jump Shot (12 PTS) (Doncic 9 AST),Made Shot,Jump Shot,50,254,26,1,3.0,3.0,h
+S2324-G0372,4,07:25,DAL,98.0,LAC,97.0,J. Hardy,DAL,Hardy 3PT Jump Shot (15 PTS) (Jones Jr. 1 AST),Made Shot,Jump Shot,-232,1,0,1,3.0,3.0,h
+S2324-G0372,4,04:40,DAL,,LAC,,J. Hardy,DAL,SUB: Williams FOR Hardy,Substitution,,0,0,0,0,,,h
+S2324-G0666,1,05:47,DAL,13.0,ORL,19.0,J. Hardy,DAL,Hardy 24' 3PT Jump Shot (3 PTS) (Kleber 1 AST),Made Shot,Jump Shot,233,46,24,1,3.0,3.0,h
+S2324-G0666,1,05:30,DAL,16.0,ORL,19.0,J. Hardy,DAL,Hardy 24' 3PT Jump Shot (6 PTS) (Doncic 2 AST),Made Shot,Jump Shot,238,43,24,1,3.0,3.0,h
+S2324-G0666,1,03:49,DAL,,ORL,,J. Hardy,DAL,Hardy STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0666,1,02:10,DAL,21.0,ORL,25.0,J. Hardy,DAL,Hardy 12' Driving Floating Jump Shot (8 PTS) (Doncic 3 AST),Made Shot,Driving Floating Jump Shot,-47,107,12,1,2.0,2.0,h
+S2324-G0666,1,00:19.800000,DAL,,ORL,,J. Hardy,DAL,Hardy S.FOUL (P1.PN) (K.Scott),Foul,Shooting,0,0,0,0,,,h
+S2324-G0666,1,00:02,DAL,26.0,ORL,35.0,J. Hardy,DAL,Hardy 27' 3PT Step Back Jump Shot (11 PTS),Made Shot,Step Back Jump shot,-191,197,27,1,3.0,3.0,h
+S2324-G0666,2,11:45,DAL,28.0,ORL,35.0,J. Hardy,DAL,Hardy 5' Driving Layup (13 PTS),Made Shot,Driving Layup Shot,45,18,5,1,2.0,2.0,h
+S2324-G0666,2,10:18,DAL,,ORL,,J. Hardy,DAL,Hardy OFF.Foul (P2) (N.Buchert),Foul,Offensive,0,0,0,0,,,h
+S2324-G0666,2,10:18,DAL,,ORL,,J. Hardy,DAL,Hardy Offensive Foul Turnover (P1.T8),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0666,2,09:21,DAL,34.0,ORL,41.0,J. Hardy,DAL,Hardy 15' Turnaround Fadeaway (15 PTS),Made Shot,Turnaround Fadeaway shot,-77,130,15,1,2.0,2.0,h
+S2324-G0666,2,08:02,DAL,,ORL,,J. Hardy,DAL,SUB: Green FOR Hardy,Substitution,,0,0,0,0,,,h
+S2324-G0666,2,05:06,DAL,48.0,ORL,59.0,J. Hardy,DAL,Hardy 25' 3PT Running Jump Shot (18 PTS) (Doncic 5 AST),Made Shot,Running Jump Shot,190,159,25,1,3.0,3.0,h
+S2324-G0666,2,00:29.200000,DAL,,ORL,,J. Hardy,DAL,MISS Hardy 3PT Jump Shot,Missed Shot,Jump Shot,227,57,0,1,3.0,0.0,h
+S2324-G0666,3,03:08,DAL,,ORL,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0666,3,01:47,DAL,92.0,ORL,86.0,J. Hardy,DAL,Hardy 2' Running Alley Oop Dunk Shot (20 PTS) (Hardaway Jr. 1 AST),Made Shot,Running Alley Oop Dunk Shot,-4,15,2,1,2.0,2.0,h
+S2324-G0666,3,00:31.900000,DAL,,ORL,,J. Hardy,DAL,Hardy BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0666,4,10:14,DAL,,ORL,,J. Hardy,DAL,SUB: Hardaway Jr. FOR Hardy,Substitution,,0,0,0,0,,,h
+S2324-G0666,4,03:23,DAL,,ORL,,J. Hardy,DAL,SUB: Green FOR Hardy,Substitution,,0,0,0,0,,,h
+S2324-G0959,2,10:31,OKC,,DAL,,J. Hardy,DAL,Hardy Out of Bounds - Bad Pass Turnover Turnover (P1.T5),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0959,2,07:54,OKC,,DAL,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0959,2,06:29,OKC,,DAL,,J. Hardy,DAL,MISS Hardy 17' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,126,113,17,1,2.0,0.0,v
+S2324-G0959,2,06:01,OKC,45.0,DAL,46.0,J. Hardy,DAL,Hardy 3' Driving Layup (2 PTS) (Hardaway Jr. 1 AST),Made Shot,Driving Layup Shot,10,33,3,1,2.0,2.0,v
+S2324-G0959,2,06:01,OKC,45.0,DAL,47.0,J. Hardy,DAL,Hardy Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G0959,2,05:28,OKC,,DAL,,J. Hardy,DAL,MISS Hardy 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,74,84,11,1,2.0,0.0,v
+S2324-G0959,2,05:17,OKC,,DAL,,J. Hardy,DAL,Hardy STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0959,2,04:39,OKC,,DAL,,J. Hardy,DAL,MISS Hardy 15' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-66,132,15,1,2.0,0.0,v
+S2324-G0959,2,03:28,OKC,,DAL,,J. Hardy,DAL,SUB: Exum FOR Hardy,Substitution,,0,0,0,0,,,v
+S2324-G0959,3,01:12,OKC,,DAL,,J. Hardy,DAL,MISS Hardy 2' Driving Layup,Missed Shot,Driving Layup Shot,-17,10,2,1,2.0,0.0,v
+S2324-G0959,3,00:01.400000,OKC,,DAL,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0959,3,00:00,OKC,,DAL,,J. Hardy,DAL,Hardy Bad Pass Turnover (P2.T16),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0959,4,11:13,OKC,95.0,DAL,89.0,J. Hardy,DAL,Hardy 13' Pullup Jump Shot (5 PTS) (Exum 2 AST),Made Shot,Pullup Jump shot,134,-2,13,1,2.0,2.0,v
+S2324-G0959,4,10:06,OKC,,DAL,,J. Hardy,DAL,MISS Hardy 1' Driving Layup,Missed Shot,Driving Layup Shot,-5,3,1,1,2.0,0.0,v
+S2324-G0959,4,09:54,OKC,,DAL,,J. Hardy,DAL,Hardy L.B.FOUL (P1.T2) (E.Dalen),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0959,4,09:36,OKC,102.0,DAL,97.0,J. Hardy,DAL,Hardy 4' Driving Floating Bank Jump Shot (7 PTS),Made Shot,Driving Floating Bank Jump Shot,-42,8,4,1,2.0,2.0,v
+S2324-G0959,4,08:40,OKC,104.0,DAL,101.0,J. Hardy,DAL,Hardy 6' Driving Finger Roll Layup (9 PTS),Made Shot,Driving Finger Roll Layup Shot,50,30,6,1,2.0,2.0,v
+S2324-G0959,4,06:15,OKC,,DAL,,J. Hardy,DAL,Hardy Out of Bounds Lost Ball Turnover (P3.T18),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2324-G0959,4,05:43,OKC,,DAL,,J. Hardy,DAL,MISS Hardy 8' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-78,10,8,1,2.0,0.0,v
+S2324-G0959,4,05:14,OKC,,DAL,,J. Hardy,DAL,SUB: Hardaway Jr. FOR Hardy,Substitution,,0,0,0,0,,,v
+S2324-G1124,1,01:41,DAL,,ATL,,J. Hardy,DAL,MISS Hardy 3PT Jump Shot,Missed Shot,Jump Shot,-229,20,0,1,3.0,0.0,h
+S2324-G1124,1,01:22,DAL,,ATL,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1124,1,00:57.900000,DAL,,ATL,,J. Hardy,DAL,Hardy S.FOUL (P1.PN) (C.Kirkland),Foul,Shooting,0,0,0,0,,,h
+S2324-G1124,2,09:44,DAL,,ATL,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1124,2,09:29,DAL,,ATL,,J. Hardy,DAL,MISS Hardy 26' 3PT Jump Shot,Missed Shot,Jump Shot,-127,227,26,1,3.0,0.0,h
+S2324-G1124,2,09:07,DAL,,ATL,,J. Hardy,DAL,MISS Hardy 3' Running Layup,Missed Shot,Running Layup Shot,-22,12,3,1,2.0,0.0,h
+S2324-G1124,2,08:45,DAL,,ATL,,J. Hardy,DAL,Hardy S.FOUL (P2.T1) (D.Mosher),Foul,Shooting,0,0,0,0,,,h
+S2324-G1124,2,08:33,DAL,,ATL,,J. Hardy,DAL,SUB: Exum FOR Hardy,Substitution,,0,0,0,0,,,h
+S2324-G1124,4,00:30.400000,DAL,,ATL,,J. Hardy,DAL,Hardy REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1124,4,00:28.500000,DAL,109.0,ATL,95.0,J. Hardy,DAL,Hardy 20' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,201,0,20,1,2.0,2.0,h
+S2324-G0277,1,07:05,DAL,9.0,MEM,6.0,J. Hardy,DAL,Hardy 1' Running Layup (2 PTS) (Williams 1 AST),Made Shot,Running Layup Shot,1,8,1,1,2.0,2.0,h
+S2324-G0277,1,06:27,DAL,,MEM,,J. Hardy,DAL,MISS Hardy 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-228,40,0,1,3.0,0.0,h
+S2324-G0277,1,05:13,DAL,,MEM,,J. Hardy,DAL,Hardy REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0277,1,05:05,DAL,,MEM,,J. Hardy,DAL,MISS Hardy 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,27,253,25,1,3.0,0.0,h
+S2324-G0277,1,04:13,DAL,,MEM,,J. Hardy,DAL,Hardy S.FOUL (P1.T1) (D.Guthrie),Foul,Shooting,0,0,0,0,,,h
+S2324-G0277,1,00:56.300000,DAL,,MEM,,J. Hardy,DAL,Hardy REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0277,1,00:37.500000,DAL,,MEM,,J. Hardy,DAL,Hardy Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0277,2,03:20,DAL,,MEM,,J. Hardy,DAL,Hardy Lost Ball Turnover (P2.T9),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0277,2,01:54,DAL,36.0,MEM,53.0,J. Hardy,DAL,Hardy 15' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,-71,130,15,1,2.0,2.0,h
+S2324-G0277,2,01:05,DAL,38.0,MEM,53.0,J. Hardy,DAL,Hardy 1' Running Layup (6 PTS) (Williams 3 AST),Made Shot,Running Layup Shot,2,13,1,1,2.0,2.0,h
+S2324-G0277,4,07:48,DAL,,MEM,,J. Hardy,DAL,MISS Hardy 25' 3PT Jump Shot,Missed Shot,Jump Shot,-158,196,25,1,3.0,0.0,h
+S2324-G0277,4,07:46,DAL,,MEM,,J. Hardy,DAL,Hardy REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0277,4,05:51,DAL,,MEM,,J. Hardy,DAL,MISS Hardy 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,9,178,18,1,2.0,0.0,h
+S2324-G0277,4,05:18,DAL,,MEM,,J. Hardy,DAL,MISS Hardy Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0277,4,05:18,DAL,,MEM,,J. Hardy,DAL,MISS Hardy Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0277,4,02:47,DAL,,MEM,,J. Hardy,DAL,Hardy STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0277,4,01:41,DAL,,MEM,,J. Hardy,DAL,Hardy REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0277,4,01:28,DAL,92.0,MEM,108.0,J. Hardy,DAL,Hardy 1' Cutting Dunk Shot (8 PTS) (Holmes 2 AST),Made Shot,Cutting Dunk Shot,1,7,1,1,2.0,2.0,h
+S2324-G0277,4,00:39.200000,DAL,,MEM,,J. Hardy,DAL,Hardy REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0277,4,00:01.800000,DAL,,MEM,,J. Hardy,DAL,MISS Hardy 25' 3PT Jump Shot,Missed Shot,Jump Shot,-172,186,25,1,3.0,0.0,h
+S2324-G0715,1,03:45,PHI,22.0,DAL,22.0,J. Hardy,DAL,Hardy 27' 3PT Jump Shot (3 PTS) (Powell 1 AST),Made Shot,Jump Shot,-53,267,27,1,3.0,3.0,v
+S2324-G0715,1,02:28,PHI,,DAL,,J. Hardy,DAL,MISS Hardy 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,67,262,27,1,3.0,0.0,v
+S2324-G0715,1,02:00,PHI,26.0,DAL,24.0,J. Hardy,DAL,Hardy 21' Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,77,191,21,1,2.0,2.0,v
+S2324-G0715,1,00:12.300000,PHI,33.0,DAL,25.0,J. Hardy,DAL,Hardy Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0715,1,00:12.300000,PHI,33.0,DAL,26.0,J. Hardy,DAL,Hardy Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0715,3,00:00.100000,PHI,,DAL,,J. Hardy,DAL,MISS Hardy 35' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,23,345,35,1,3.0,0.0,v
+S2324-G0715,4,10:56,PHI,,DAL,,J. Hardy,DAL,MISS Hardy 24' 3PT Jump Shot,Missed Shot,Jump Shot,240,-6,24,1,3.0,0.0,v
+S2324-G0715,4,10:34,PHI,74.0,DAL,82.0,J. Hardy,DAL,Hardy Running Finger Roll Layup (9 PTS),Made Shot,Running Finger Roll Layup Shot,1,4,0,1,2.0,2.0,v
+S2324-G0715,4,08:21,PHI,77.0,DAL,92.0,J. Hardy,DAL,Hardy 24' 3PT Jump Shot (12 PTS) (Kleber 4 AST),Made Shot,Jump Shot,-235,-16,24,1,3.0,3.0,v
+S2324-G0715,4,07:16,PHI,,DAL,,J. Hardy,DAL,SUB: Powell FOR Hardy,Substitution,,0,0,0,0,,,v
+S2324-G0715,4,04:20,PHI,91.0,DAL,109.0,J. Hardy,DAL,Hardy 1' Driving Layup (14 PTS) (G. Williams 2 AST),Made Shot,Driving Layup Shot,5,1,1,1,2.0,2.0,v
+S2324-G0715,4,03:54,PHI,,DAL,,J. Hardy,DAL,MISS Hardy 4' Driving Layup,Missed Shot,Driving Layup Shot,40,0,4,1,2.0,0.0,v
+S2324-G0715,4,02:57,PHI,94.0,DAL,114.0,J. Hardy,DAL,Hardy 26' 3PT Jump Shot (17 PTS) (Holmes 2 AST),Made Shot,Jump Shot,161,204,26,1,3.0,3.0,v
+S2324-G0715,4,01:41,PHI,,DAL,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0715,4,00:43.500000,PHI,,DAL,,J. Hardy,DAL,Hardy Lost Ball Turnover (P1.T9),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G1041,1,00:15.100000,UTA,,DAL,,J. Hardy,DAL,Hardy S.FOUL (P1.PN) (M.Myers),Foul,Shooting,0,0,0,0,,,v
+S2324-G1041,4,00:38.100000,UTA,,DAL,,J. Hardy,DAL,MISS Hardy 5' Driving Layup,Missed Shot,Driving Layup Shot,25,43,5,1,2.0,0.0,v
+S2324-G1041,4,00:36.400000,UTA,,DAL,,J. Hardy,DAL,MISS Hardy 24' 3PT Jump Shot,Missed Shot,Jump Shot,228,71,24,1,3.0,0.0,v
+S2324-G1041,4,00:22.300000,UTA,,DAL,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0892,4,01:52,DAL,,IND,,J. Hardy,DAL,MISS Hardy 10' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,36,97,10,1,2.0,0.0,h
+S2324-G0892,4,00:54.400000,DAL,119.0,IND,137.0,J. Hardy,DAL,Hardy Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0892,4,00:54.400000,DAL,120.0,IND,137.0,J. Hardy,DAL,Hardy Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0892,4,00:21,DAL,,IND,,J. Hardy,DAL,MISS Hardy 12' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-27,122,12,1,2.0,0.0,h
+S2324-G0168,2,09:07,DAL,39.0,TOR,36.0,J. Hardy,DAL,Hardy 25' 3PT Jump Shot (3 PTS) (Kleber 1 AST),Made Shot,Jump Shot,-185,163,25,1,3.0,3.0,h
+S2324-G0168,2,05:47,DAL,45.0,TOR,44.0,J. Hardy,DAL,Hardy Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0168,2,05:47,DAL,,TOR,,J. Hardy,DAL,MISS Hardy Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0168,2,05:34,DAL,,TOR,,J. Hardy,DAL,SUB: Williams FOR Hardy,Substitution,,0,0,0,0,,,h
+S2324-G0168,3,04:21,DAL,,TOR,,J. Hardy,DAL,MISS Hardy 24' 3PT Jump Shot,Missed Shot,Jump Shot,-229,59,24,1,3.0,0.0,h
+S2324-G0168,3,03:08,DAL,,TOR,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0168,3,03:03,DAL,81.0,TOR,87.0,J. Hardy,DAL,Hardy 1' Running Finger Roll Layup (6 PTS),Made Shot,Running Finger Roll Layup Shot,0,12,1,1,2.0,2.0,h
+S2324-G0168,3,01:44,DAL,,TOR,,J. Hardy,DAL,MISS Hardy 25' 3PT Jump Shot,Missed Shot,Jump Shot,-43,246,25,1,3.0,0.0,h
+S2324-G0168,3,01:24,DAL,,TOR,,J. Hardy,DAL,SUB: Exum FOR Hardy,Substitution,,0,0,0,0,,,h
+S2324-G0168,4,06:13,DAL,,TOR,,J. Hardy,DAL,SUB: Jones Jr. FOR Hardy,Substitution,,0,0,0,0,,,h
+S2324-G0611,1,01:13,DAL,,BOS,,J. Hardy,DAL,MISS Hardy 24' 3PT Jump Shot,Missed Shot,Jump Shot,237,37,24,1,3.0,0.0,h
+S2324-G0147,2,10:42,ORL,,DAL,,J. Hardy,DAL,Hardy Out of Bounds - Bad Pass Turnover Turnover (P1.T8),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0147,2,09:02,ORL,,DAL,,J. Hardy,DAL,MISS Hardy 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,156,209,26,1,3.0,0.0,v
+S2324-G0147,2,07:47,ORL,,DAL,,J. Hardy,DAL,MISS Hardy 24' 3PT Jump Shot,Missed Shot,Jump Shot,232,50,24,1,3.0,0.0,v
+S2324-G0147,2,07:35,ORL,,DAL,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0147,2,07:04,ORL,46.0,DAL,40.0,J. Hardy,DAL,Hardy 15' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,-29,148,15,1,2.0,2.0,v
+S2324-G0147,2,05:07,ORL,51.0,DAL,43.0,J. Hardy,DAL,Hardy Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0147,2,05:07,ORL,51.0,DAL,44.0,J. Hardy,DAL,Hardy Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0147,2,04:47,ORL,,DAL,,J. Hardy,DAL,MISS Hardy Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0147,2,04:47,ORL,51.0,DAL,45.0,J. Hardy,DAL,Hardy Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0147,2,04:37,ORL,,DAL,,J. Hardy,DAL,Hardy STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0147,2,04:34,ORL,,DAL,,J. Hardy,DAL,MISS Hardy 6' Running Layup,Missed Shot,Running Layup Shot,25,59,6,1,2.0,0.0,v
+S2324-G0147,2,03:40,ORL,,DAL,,J. Hardy,DAL,SUB: Doncic FOR Hardy,Substitution,,0,0,0,0,,,v
+S2324-G0147,4,06:49,ORL,,DAL,,J. Hardy,DAL,MISS Hardy 3PT Jump Shot,Missed Shot,Jump Shot,-230,21,0,1,3.0,0.0,v
+S2324-G0147,4,06:34,ORL,,DAL,,J. Hardy,DAL,SUB: Irving FOR Hardy,Substitution,,0,0,0,0,,,v
+S2324-G0405,1,04:03,PHX,,DAL,,J. Hardy,DAL,MISS Hardy 24' 3PT Jump Shot,Missed Shot,Jump Shot,-239,-25,24,1,3.0,0.0,v
+S2324-G0405,1,03:05,PHX,,DAL,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0405,1,00:05.300000,PHX,24.0,DAL,36.0,J. Hardy,DAL,Hardy 3PT Jump Shot (3 PTS) (Doncic 4 AST),Made Shot,Jump Shot,-233,-26,0,1,3.0,3.0,v
+S2324-G0405,2,08:57,PHX,,DAL,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0405,2,08:51,PHX,,DAL,,J. Hardy,DAL,MISS Hardy 25' 3PT Jump Shot,Missed Shot,Jump Shot,-172,185,25,1,3.0,0.0,v
+S2324-G0405,2,08:40,PHX,,DAL,,J. Hardy,DAL,MISS Hardy 17' Step Back Jump Shot,Missed Shot,Step Back Jump shot,115,127,17,1,2.0,0.0,v
+S2324-G0405,2,08:00,PHX,,DAL,,J. Hardy,DAL,SUB: Jones Jr. FOR Hardy,Substitution,,0,0,0,0,,,v
+S2324-G1097,1,05:59,DAL,,GSW,,J. Hardy,DAL,MISS Hardy 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-92,87,13,1,2.0,0.0,h
+S2324-G1097,1,03:36,DAL,,GSW,,J. Hardy,DAL,Hardy Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G1097,1,01:18,DAL,,GSW,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1097,2,05:01,DAL,,GSW,,J. Hardy,DAL,MISS Hardy 6' Driving Layup,Missed Shot,Driving Layup Shot,-47,36,6,1,2.0,0.0,h
+S2324-G1097,2,04:17,DAL,46.0,GSW,45.0,J. Hardy,DAL,Hardy 25' 3PT Jump Shot (3 PTS) (Irving 2 AST),Made Shot,Jump Shot,200,152,25,1,3.0,3.0,h
+S2324-G1097,2,03:34,DAL,,GSW,,J. Hardy,DAL,Hardy S.FOUL (P1.T1) (K.Scott),Foul,Shooting,0,0,0,0,,,h
+S2324-G1097,2,03:34,DAL,,GSW,,J. Hardy,DAL,SUB: Hardaway Jr. FOR Hardy,Substitution,,0,0,0,0,,,h
+S2324-G1097,3,02:10,DAL,,GSW,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1097,3,01:41,DAL,,GSW,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1097,3,00:42.400000,DAL,77.0,GSW,74.0,J. Hardy,DAL,Hardy 10' Driving Floating Jump Shot (5 PTS) (Exum 6 AST),Made Shot,Driving Floating Jump Shot,-39,90,10,1,2.0,2.0,h
+S2324-G1097,3,00:24.400000,DAL,,GSW,,J. Hardy,DAL,SUB: Washington FOR Hardy,Substitution,,0,0,0,0,,,h
+S2324-G1097,4,05:18,DAL,,GSW,,J. Hardy,DAL,MISS Hardy 25' 3PT Jump Shot,Missed Shot,Jump Shot,218,116,25,1,3.0,0.0,h
+S2324-G1097,4,04:21,DAL,,GSW,,J. Hardy,DAL,SUB: Gafford FOR Hardy,Substitution,,0,0,0,0,,,h
+S2324-G0556,1,05:49,DAL,14.0,NOP,5.0,J. Hardy,DAL,Hardy 12' Fadeaway Jumper (2 PTS),Made Shot,Fadeaway Jump Shot,50,106,12,1,2.0,2.0,h
+S2324-G0556,1,04:35,DAL,,NOP,,J. Hardy,DAL,MISS Hardy 25' 3PT Jump Shot,Missed Shot,Jump Shot,-218,125,25,1,3.0,0.0,h
+S2324-G0556,1,04:25,DAL,,NOP,,J. Hardy,DAL,Hardy S.FOUL (P1.T4) (K.Lane),Foul,Shooting,0,0,0,0,,,h
+S2324-G0556,1,03:50,DAL,,NOP,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0556,1,02:29,DAL,,NOP,,J. Hardy,DAL,SUB: Hardaway Jr. FOR Hardy,Substitution,,0,0,0,0,,,h
+S2324-G0556,2,06:01,DAL,,NOP,,J. Hardy,DAL,MISS Hardy 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-150,213,26,1,3.0,0.0,h
+S2324-G0556,2,05:22,DAL,,NOP,,J. Hardy,DAL,SUB: Hardaway Jr. FOR Hardy,Substitution,,0,0,0,0,,,h
+S2324-G0556,2,02:45,DAL,,NOP,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0556,2,02:37,DAL,,NOP,,J. Hardy,DAL,MISS Hardy 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-48,124,13,1,2.0,0.0,h
+S2324-G0556,2,01:17,DAL,,NOP,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0556,2,00:07.100000,DAL,,NOP,,J. Hardy,DAL,Hardy REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0556,2,00:05.900000,DAL,,NOP,,J. Hardy,DAL,MISS Hardy 25' 3PT Jump Shot,Missed Shot,Jump Shot,-183,177,25,1,3.0,0.0,h
+S2324-G0556,3,07:27,DAL,,NOP,,J. Hardy,DAL,MISS Hardy 24' 3PT Jump Shot,Missed Shot,Jump Shot,-238,18,24,1,3.0,0.0,h
+S2324-G0556,3,06:59,DAL,74.0,NOP,76.0,J. Hardy,DAL,Hardy 25' 3PT Jump Shot (5 PTS) (Irving 4 AST),Made Shot,Jump Shot,134,209,25,1,3.0,3.0,h
+S2324-G0556,3,05:52,DAL,,NOP,,J. Hardy,DAL,Hardy S.FOUL (P2.T4) (G.Petraitis),Foul,Shooting,0,0,0,0,,,h
+S2324-G0556,3,04:21,DAL,,NOP,,J. Hardy,DAL,SUB: Green FOR Hardy,Substitution,,0,0,0,0,,,h
+S2324-G0106,1,05:27,MEM,,DAL,,J. Hardy,DAL,Hardy OFF.Foul (P1) (M.Ervin),Foul,Offensive,0,0,0,0,,,v
+S2324-G0106,1,05:27,MEM,,DAL,,J. Hardy,DAL,Hardy Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0106,1,05:02,MEM,,DAL,,J. Hardy,DAL,MISS Hardy 6' Driving Layup,Missed Shot,Driving Layup Shot,-38,43,6,1,2.0,0.0,v
+S2324-G0106,1,04:23,MEM,,DAL,,J. Hardy,DAL,MISS Hardy 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,91,246,26,1,3.0,0.0,v
+S2324-G0106,1,03:20,MEM,20.0,DAL,22.0,J. Hardy,DAL,Hardy 25' 3PT Jump Shot (3 PTS) (Green 2 AST),Made Shot,Jump Shot,-102,231,25,1,3.0,3.0,v
+S2324-G0106,1,02:17,MEM,26.0,DAL,28.0,J. Hardy,DAL,Hardy 3PT Jump Shot (6 PTS) (Kleber 1 AST),Made Shot,Jump Shot,232,13,0,1,3.0,3.0,v
+S2324-G0106,1,01:54,MEM,,DAL,,J. Hardy,DAL,MISS Hardy 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,127,227,26,1,3.0,0.0,v
+S2324-G0106,1,01:28,MEM,,DAL,,J. Hardy,DAL,MISS Hardy 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,48,95,11,1,2.0,0.0,v
+S2324-G0385,1,09:23,HOU,,DAL,,J. Hardy,DAL,MISS Hardy 28' 3PT Jump Shot,Missed Shot,Jump Shot,165,222,28,1,3.0,0.0,v
+S2324-G0385,1,08:54,HOU,,DAL,,J. Hardy,DAL,MISS Hardy 1' Driving Layup,Missed Shot,Driving Layup Shot,-6,3,1,1,2.0,0.0,v
+S2324-G0385,1,08:35,HOU,,DAL,,J. Hardy,DAL,MISS Hardy 25' 3PT Jump Shot,Missed Shot,Jump Shot,59,248,25,1,3.0,0.0,v
+S2324-G0385,1,07:43,HOU,,DAL,,J. Hardy,DAL,SUB: Curry FOR Hardy,Substitution,,0,0,0,0,,,v
+S2324-G0385,1,01:10,HOU,,DAL,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0385,1,00:27.700000,HOU,,DAL,,J. Hardy,DAL,MISS Hardy 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-181,200,27,1,3.0,0.0,v
+S2324-G0385,1,00:00.900000,HOU,,DAL,,J. Hardy,DAL,MISS Hardy 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-118,236,26,1,3.0,0.0,v
+S2324-G0385,2,11:20,HOU,,DAL,,J. Hardy,DAL,Hardy S.FOUL (P1.T1) (T.Washington),Foul,Shooting,0,0,0,0,,,v
+S2324-G0385,2,10:36,HOU,,DAL,,J. Hardy,DAL,MISS Hardy 27' 3PT Jump Shot,Missed Shot,Jump Shot,-9,267,27,1,3.0,0.0,v
+S2324-G0385,2,10:27,HOU,,DAL,,J. Hardy,DAL,MISS Hardy 1' Layup,Missed Shot,Layup Shot,2,5,1,1,2.0,0.0,v
+S2324-G0385,2,08:47,HOU,,DAL,,J. Hardy,DAL,SUB: Jones Jr. FOR Hardy,Substitution,,0,0,0,0,,,v
+S2324-G0385,2,01:17,HOU,,DAL,,J. Hardy,DAL,MISS Hardy 19' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,75,173,19,1,2.0,0.0,v
+S2324-G0385,2,00:23.700000,HOU,54.0,DAL,39.0,J. Hardy,DAL,Hardy 26' 3PT Running Pull-Up Jump Shot (3 PTS) (Hardaway Jr. 1 AST),Made Shot,Running Pull-Up Jump Shot,-131,219,26,1,3.0,3.0,v
+S2324-G0385,2,00:04.400000,HOU,,DAL,,J. Hardy,DAL,Hardy S.FOUL (P2.PN) (B.Adair),Foul,Shooting,0,0,0,0,,,v
+S2324-G0385,3,10:04,HOU,,DAL,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0385,3,09:13,HOU,63.0,DAL,42.0,J. Hardy,DAL,Hardy 25' 3PT Running Jump Shot (6 PTS) (Jones Jr. 1 AST),Made Shot,Running Jump Shot,200,157,25,1,3.0,3.0,v
+S2324-G0385,3,08:44,HOU,,DAL,,J. Hardy,DAL,MISS Hardy 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-152,249,29,1,3.0,0.0,v
+S2324-G0385,3,08:21,HOU,66.0,DAL,44.0,J. Hardy,DAL,Hardy 2' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,1,20,2,1,2.0,2.0,v
+S2324-G0385,3,07:58,HOU,,DAL,,J. Hardy,DAL,MISS Hardy 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-44,257,26,1,3.0,0.0,v
+S2324-G0385,3,07:27,HOU,,DAL,,J. Hardy,DAL,MISS Hardy 4' Driving Layup,Missed Shot,Driving Layup Shot,-27,34,4,1,2.0,0.0,v
+S2324-G0385,3,06:27,HOU,,DAL,,J. Hardy,DAL,MISS Hardy 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-6,260,26,1,3.0,0.0,v
+S2324-G0385,3,05:33,HOU,,DAL,,J. Hardy,DAL,Hardy S.FOUL (P3.T2) (B.Adair),Foul,Shooting,0,0,0,0,,,v
+S2324-G0385,3,05:13,HOU,,DAL,,J. Hardy,DAL,Hardy S.FOUL (P4.T3) (K.Lane),Foul,Shooting,0,0,0,0,,,v
+S2324-G0385,3,04:54,HOU,,DAL,,J. Hardy,DAL,MISS Hardy 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,103,235,26,1,3.0,0.0,v
+S2324-G0385,3,02:42,HOU,,DAL,,J. Hardy,DAL,MISS Hardy 26' 3PT Jump Shot,Missed Shot,Jump Shot,173,199,26,1,3.0,0.0,v
+S2324-G0385,3,02:29,HOU,,DAL,,J. Hardy,DAL,Hardy S.FOUL (P5.T4) (B.Adair),Foul,Shooting,0,0,0,0,,,v
+S2324-G0385,3,02:14,HOU,,DAL,,J. Hardy,DAL,SUB: Prosper FOR Hardy,Substitution,,0,0,0,0,,,v
+S2324-G0501,2,08:00,DAL,,MIN,,J. Hardy,DAL,MISS Hardy 2' Layup,Missed Shot,Layup Shot,-17,13,2,1,2.0,0.0,h
+S2324-G0501,2,07:53,DAL,,MIN,,J. Hardy,DAL,SUB: Jones Jr. FOR Hardy,Substitution,,0,0,0,0,,,h
+S2324-G0014,2,08:01,DAL,,LAC,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0014,2,06:02,DAL,54.0,LAC,35.0,J. Hardy,DAL,Hardy 2' Running Layup (2 PTS) (Doncic 5 AST),Made Shot,Running Layup Shot,16,15,2,1,2.0,2.0,h
+S2324-G0014,2,06:02,DAL,,LAC,,J. Hardy,DAL,MISS Hardy Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2324-G0014,2,04:59,DAL,,LAC,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0014,2,04:56,DAL,,LAC,,J. Hardy,DAL,Hardy Lost Ball Turnover (P1.T5),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0014,2,04:23,DAL,,LAC,,J. Hardy,DAL,SUB: Irving FOR Hardy,Substitution,,0,0,0,0,,,h
+S2324-G0014,4,11:47,DAL,,LAC,,J. Hardy,DAL,MISS Hardy 3PT Jump Shot,Missed Shot,Jump Shot,-233,12,0,1,3.0,0.0,h
+S2324-G0014,4,11:06,DAL,117.0,LAC,89.0,J. Hardy,DAL,Hardy 1' Driving Layup (4 PTS) (Green 3 AST),Made Shot,Driving Layup Shot,-6,1,1,1,2.0,2.0,h
+S2324-G0014,4,09:17,DAL,,LAC,,J. Hardy,DAL,MISS Hardy 1' Layup,Missed Shot,Layup Shot,-13,1,1,1,2.0,0.0,h
+S2324-G0014,4,08:01,DAL,124.0,LAC,100.0,J. Hardy,DAL,Hardy 1' Running Layup (6 PTS) (Exum 5 AST),Made Shot,Running Layup Shot,10,1,1,1,2.0,2.0,h
+S2324-G0014,4,06:35,DAL,126.0,LAC,106.0,J. Hardy,DAL,Hardy 12' Turnaround Fadeaway (8 PTS),Made Shot,Turnaround Fadeaway shot,93,80,12,1,2.0,2.0,h
+S2324-G0014,4,06:06,DAL,,LAC,,J. Hardy,DAL,Hardy Lost Ball Turnover (P2.T9),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0014,4,06:06,DAL,,LAC,,J. Hardy,DAL,Hardy P.FOUL (P1.PN) (M.Smith),Foul,Personal,0,0,0,0,,,h
+S2324-G0014,4,06:06,DAL,,LAC,,J. Hardy,DAL,SUB: Jones Jr. FOR Hardy,Substitution,,0,0,0,0,,,h
+S2324-G0014,4,02:02,DAL,141.0,LAC,118.0,J. Hardy,DAL,Hardy 27' 3PT Pullup Jump Shot (11 PTS) (Powell 4 AST),Made Shot,Pullup Jump shot,-132,230,27,1,3.0,3.0,h
+S2324-G0014,4,01:39,DAL,,LAC,,J. Hardy,DAL,MISS Hardy 6' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,59,6,1,2.0,0.0,h
+S2324-G0444,1,11:41,GSW,,DAL,,J. Hardy,DAL,MISS Hardy 26' 3PT Jump Shot,Missed Shot,Jump Shot,-121,226,26,1,3.0,0.0,v
+S2324-G0444,1,10:47,GSW,,DAL,,J. Hardy,DAL,Hardy P.FOUL (P1.T1) (T.Washington),Foul,Personal,0,0,0,0,,,v
+S2324-G0444,1,09:00,GSW,,DAL,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0444,1,07:48,GSW,6.0,DAL,11.0,J. Hardy,DAL,Hardy 3' Running Layup (2 PTS) (Doncic 1 AST),Made Shot,Running Layup Shot,-29,16,3,1,2.0,2.0,v
+S2324-G0444,1,07:41,GSW,,DAL,,J. Hardy,DAL,SUB: Hardaway Jr. FOR Hardy,Substitution,,0,0,0,0,,,v
+S2324-G0444,2,10:41,GSW,,DAL,,J. Hardy,DAL,MISS Hardy 26' 3PT Jump Shot,Missed Shot,Jump Shot,-4,263,26,1,3.0,0.0,v
+S2324-G0444,2,10:35,GSW,,DAL,,J. Hardy,DAL,Hardy P.FOUL (P2.T1) (S.Wall),Foul,Personal,0,0,0,0,,,v
+S2324-G0444,2,09:34,GSW,,DAL,,J. Hardy,DAL,Hardy Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0444,2,07:14,GSW,33.0,DAL,47.0,J. Hardy,DAL,Hardy 20' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,23,198,20,1,2.0,2.0,v
+S2324-G0444,2,06:18,GSW,,DAL,,J. Hardy,DAL,MISS Hardy 3PT Jump Shot,Missed Shot,Jump Shot,-222,0,0,1,3.0,0.0,v
+S2324-G0444,2,03:09,GSW,,DAL,,J. Hardy,DAL,SUB: Hardaway Jr. FOR Hardy,Substitution,,0,0,0,0,,,v
+S2324-G0444,3,10:25,GSW,,DAL,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0444,3,09:55,GSW,57.0,DAL,69.0,J. Hardy,DAL,Hardy 4' Running Layup (6 PTS) (Doncic 7 AST),Made Shot,Running Layup Shot,-36,20,4,1,2.0,2.0,v
+S2324-G0444,3,06:06,GSW,,DAL,,J. Hardy,DAL,SUB: Green FOR Hardy,Substitution,,0,0,0,0,,,v
+S2324-G0444,4,06:15,GSW,,DAL,,J. Hardy,DAL,MISS Hardy 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-237,34,24,1,3.0,0.0,v
+S2324-G0444,4,05:14,GSW,106.0,DAL,117.0,J. Hardy,DAL,Hardy 3PT Running Jump Shot (9 PTS) (Exum 5 AST),Made Shot,Running Jump Shot,-232,12,0,1,3.0,3.0,v
+S2324-G0444,4,03:39,GSW,,DAL,,J. Hardy,DAL,SUB: Lively II FOR Hardy,Substitution,,0,0,0,0,,,v
+S2324-G0192,1,02:07,WAS,,DAL,,J. Hardy,DAL,MISS Hardy 16' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-81,136,16,1,2.0,0.0,v
+S2324-G0192,1,00:00.900000,WAS,,DAL,,J. Hardy,DAL,Hardy Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0192,4,00:56.900000,WAS,115.0,DAL,130.0,J. Hardy,DAL,Hardy 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,-26,7,3,1,2.0,2.0,v
+S2324-G0192,4,00:56.900000,WAS,,DAL,,J. Hardy,DAL,MISS Hardy Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2324-G0192,4,00:17.500000,WAS,,DAL,,J. Hardy,DAL,Hardy STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0487,1,11:02,DAL,,POR,,J. Hardy,DAL,Hardy REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0487,1,11:01,DAL,,POR,,J. Hardy,DAL,Hardy Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0487,1,10:36,DAL,3.0,POR,5.0,J. Hardy,DAL,Hardy 25' 3PT Jump Shot (3 PTS) (Powell 1 AST),Made Shot,Jump Shot,105,230,25,1,3.0,3.0,h
+S2324-G0487,1,08:31,DAL,,POR,,J. Hardy,DAL,Hardy Bad Pass Turnover (P2.T2),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0487,1,07:57,DAL,,POR,,J. Hardy,DAL,SUB: Hardaway Jr. FOR Hardy,Substitution,,0,0,0,0,,,h
+S2324-G0487,2,11:06,DAL,,POR,,J. Hardy,DAL,Hardy REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0487,2,10:54,DAL,,POR,,J. Hardy,DAL,MISS Hardy 3PT Jump Shot,Missed Shot,Jump Shot,-232,-1,0,1,3.0,0.0,h
+S2324-G0487,2,09:16,DAL,,POR,,J. Hardy,DAL,SUB: Green FOR Hardy,Substitution,,0,0,0,0,,,h
+S2324-G0487,2,06:03,DAL,50.0,POR,37.0,J. Hardy,DAL,Hardy 26' 3PT Jump Shot (6 PTS) (Green 2 AST),Made Shot,Jump Shot,210,146,26,1,3.0,3.0,h
+S2324-G0487,2,05:27,DAL,,POR,,J. Hardy,DAL,MISS Hardy 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-54,132,14,1,2.0,0.0,h
+S2324-G0487,2,04:39,DAL,,POR,,J. Hardy,DAL,Hardy REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0487,2,03:20,DAL,55.0,POR,42.0,J. Hardy,DAL,Hardy 1' Running Layup (8 PTS) (Green 3 AST),Made Shot,Running Layup Shot,-9,1,1,1,2.0,2.0,h
+S2324-G0487,2,01:39,DAL,58.0,POR,48.0,J. Hardy,DAL,Hardy 3PT Jump Shot (11 PTS) (Green 4 AST),Made Shot,Jump Shot,-234,5,0,1,3.0,3.0,h
+S2324-G0487,2,01:22,DAL,,POR,,J. Hardy,DAL,Hardy REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0487,2,01:17,DAL,60.0,POR,48.0,J. Hardy,DAL,Hardy 1' Running Layup (13 PTS) (Irving 2 AST),Made Shot,Running Layup Shot,6,7,1,1,2.0,2.0,h
+S2324-G0487,2,00:44.600000,DAL,,POR,,J. Hardy,DAL,MISS Hardy 3PT Jump Shot,Missed Shot,Jump Shot,-229,41,0,1,3.0,0.0,h
+S2324-G0487,3,10:26,DAL,,POR,,J. Hardy,DAL,MISS Hardy 28' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,170,222,28,1,3.0,0.0,h
+S2324-G0487,3,10:07,DAL,,POR,,J. Hardy,DAL,Hardy REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0487,3,10:06,DAL,,POR,,J. Hardy,DAL,MISS Hardy 26' 3PT Jump Shot,Missed Shot,Jump Shot,16,256,26,1,3.0,0.0,h
+S2324-G0487,3,09:48,DAL,,POR,,J. Hardy,DAL,Hardy REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0487,3,09:28,DAL,,POR,,J. Hardy,DAL,Hardy OFF.Foul (P1) (J.Goble),Foul,Offensive,0,0,0,0,,,h
+S2324-G0487,3,09:28,DAL,,POR,,J. Hardy,DAL,Hardy Offensive Foul Turnover (P3.T11),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0487,3,08:48,DAL,,POR,,J. Hardy,DAL,MISS Hardy 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-97,37,10,1,2.0,0.0,h
+S2324-G0487,3,07:45,DAL,,POR,,J. Hardy,DAL,Hardy S.FOUL (P2.T1) (M.Smith),Foul,Shooting,0,0,0,0,,,h
+S2324-G0487,3,07:45,DAL,,POR,,J. Hardy,DAL,SUB: Hardaway Jr. FOR Hardy,Substitution,,0,0,0,0,,,h
+S2324-G0487,4,11:13,DAL,104.0,POR,71.0,J. Hardy,DAL,Hardy 18' Pullup Jump Shot (15 PTS) (Hardaway Jr. 4 AST),Made Shot,Pullup Jump shot,-15,183,18,1,2.0,2.0,h
+S2324-G0487,4,10:36,DAL,106.0,POR,73.0,J. Hardy,DAL,Hardy 13' Floating Jump Shot (17 PTS),Made Shot,Floating Jump shot,2,125,13,1,2.0,2.0,h
+S2324-G0487,4,07:54,DAL,,POR,,J. Hardy,DAL,Hardy REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0487,4,05:55,DAL,124.0,POR,87.0,J. Hardy,DAL,Hardy 1' Driving Dunk (19 PTS) (Williams 2 AST),Made Shot,Driving Dunk Shot,7,-1,1,1,2.0,2.0,h
+S2324-G0487,4,05:43,DAL,,POR,,J. Hardy,DAL,Hardy REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0487,4,05:17,DAL,,POR,,J. Hardy,DAL,Hardy REBOUND (Off:2 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0487,4,04:20,DAL,,POR,,J. Hardy,DAL,Hardy Lost Ball Turnover (P4.T16),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0487,4,01:13,DAL,,POR,,J. Hardy,DAL,Hardy STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1131,2,10:57,DAL,30.0,HOU,44.0,J. Hardy,DAL,Hardy Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1131,2,10:57,DAL,31.0,HOU,44.0,J. Hardy,DAL,Hardy Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1131,2,07:18,DAL,,HOU,,J. Hardy,DAL,Hardy REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1131,2,07:18,DAL,35.0,HOU,56.0,J. Hardy,DAL,Hardy Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1131,2,07:18,DAL,36.0,HOU,56.0,J. Hardy,DAL,Hardy Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1131,2,07:00,DAL,,HOU,,J. Hardy,DAL,SUB: Exum FOR Hardy,Substitution,,0,0,0,0,,,h
+S2324-G0720,1,02:01,BKN,,DAL,,J. Hardy,DAL,Hardy REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0720,1,01:48,BKN,24.0,DAL,27.0,J. Hardy,DAL,Hardy 25' 3PT Jump Shot (3 PTS) (Doncic 3 AST),Made Shot,Jump Shot,21,248,25,1,3.0,3.0,v
+S2324-G0720,1,00:26.300000,BKN,,DAL,,J. Hardy,DAL,Hardy REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0720,1,00:21.900000,BKN,,DAL,,J. Hardy,DAL,Hardy Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0720,2,08:26,BKN,32.0,DAL,46.0,J. Hardy,DAL,Hardy 25' 3PT Step Back Jump Shot (6 PTS),Made Shot,Step Back Jump shot,-126,214,25,1,3.0,3.0,v
+S2324-G0720,2,07:01,BKN,,DAL,,J. Hardy,DAL,SUB: Doncic FOR Hardy,Substitution,,0,0,0,0,,,v
+S2324-G0059,2,11:14,DAL,,HOU,,J. Hardy,DAL,MISS Hardy 2' Driving Dunk,Missed Shot,Driving Dunk Shot,15,6,2,1,2.0,0.0,h
+S2324-G0059,2,08:16,DAL,,HOU,,J. Hardy,DAL,SUB: Jones Jr. FOR Hardy,Substitution,,0,0,0,0,,,h
+S2324-G0736,1,01:44,NYK,,DAL,,J. Hardy,DAL,MISS Hardy 25' 3PT Jump Shot,Missed Shot,Jump Shot,153,199,25,1,3.0,0.0,v
+S2324-G0736,1,00:50.100000,NYK,,DAL,,J. Hardy,DAL,Hardy Out of Bounds - Bad Pass Turnover Turnover (P1.T5),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0736,1,00:30.600000,NYK,,DAL,,J. Hardy,DAL,Hardy STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0736,2,10:56,NYK,,DAL,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0736,2,10:21,NYK,,DAL,,J. Hardy,DAL,SUB: Green FOR Hardy,Substitution,,0,0,0,0,,,v
+S2324-G0736,3,02:52,NYK,64.0,DAL,82.0,J. Hardy,DAL,Hardy 1' Running Layup (2 PTS) (Doncic 9 AST),Made Shot,Running Layup Shot,6,6,1,1,2.0,2.0,v
+S2324-G0736,3,01:44,NYK,66.0,DAL,86.0,J. Hardy,DAL,Hardy 7' Driving Floating Bank Jump Shot (4 PTS),Made Shot,Driving Floating Bank Jump Shot,21,67,7,1,2.0,2.0,v
+S2324-G0736,3,00:47.800000,NYK,,DAL,,J. Hardy,DAL,MISS Hardy 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-21,52,6,1,2.0,0.0,v
+S2324-G0736,3,00:31,NYK,,DAL,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0736,4,10:13,NYK,,DAL,,J. Hardy,DAL,SUB: Kleber FOR Hardy,Substitution,,0,0,0,0,,,v
+S2324-G0736,4,01:07,NYK,,DAL,,J. Hardy,DAL,MISS Hardy 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,66,89,11,1,2.0,0.0,v
+S2324-G0472,4,09:46,DAL,107.0,POR,77.0,J. Hardy,DAL,Hardy 3PT Jump Shot (3 PTS) (Curry 2 AST),Made Shot,Jump Shot,-227,6,0,1,3.0,3.0,h
+S2324-G0472,4,09:08,DAL,,POR,,J. Hardy,DAL,MISS Hardy 29' 3PT Jump Shot,Missed Shot,Jump Shot,129,256,29,1,3.0,0.0,h
+S2324-G0472,4,08:48,DAL,,POR,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0472,4,08:42,DAL,109.0,POR,77.0,J. Hardy,DAL,Hardy 2' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,5,16,2,1,2.0,2.0,h
+S2324-G0472,4,07:26,DAL,,POR,,J. Hardy,DAL,MISS Hardy 3PT Jump Shot,Missed Shot,Jump Shot,-227,0,0,1,3.0,0.0,h
+S2324-G0472,4,06:56,DAL,114.0,POR,79.0,J. Hardy,DAL,Hardy 9' Driving Floating Jump Shot (7 PTS),Made Shot,Driving Floating Jump Shot,-16,90,9,1,2.0,2.0,h
+S2324-G0472,4,06:11,DAL,,POR,,J. Hardy,DAL,MISS Hardy 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-145,213,26,1,3.0,0.0,h
+S2324-G0472,4,05:21,DAL,,POR,,J. Hardy,DAL,MISS Hardy 25' 3PT Jump Shot,Missed Shot,Jump Shot,124,220,25,1,3.0,0.0,h
+S2324-G0472,4,04:22,DAL,,POR,,J. Hardy,DAL,MISS Hardy 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-5,171,17,1,2.0,0.0,h
+S2324-G0472,4,03:52,DAL,,POR,,J. Hardy,DAL,MISS Hardy Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0472,4,03:52,DAL,119.0,POR,88.0,J. Hardy,DAL,Hardy Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0472,4,03:31,DAL,,POR,,J. Hardy,DAL,MISS Hardy 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-183,188,26,1,3.0,0.0,h
+S2324-G0472,4,03:09,DAL,,POR,,J. Hardy,DAL,Hardy BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0472,4,00:57.200000,DAL,125.0,POR,97.0,J. Hardy,DAL,Hardy 4' Driving Finger Roll Layup (10 PTS),Made Shot,Driving Finger Roll Layup Shot,-28,24,4,1,2.0,2.0,h
+S2324-G0472,4,00:57.200000,DAL,126.0,POR,97.0,J. Hardy,DAL,Hardy Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G0022,2,08:39,NOP,43.0,,36.0,J. Hardy,DAL,Hardy 8' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,35,77,8,1,2.0,2.0,v
+S2324-G0022,2,08:22,NOP,,,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0022,2,07:28,NOP,,,,J. Hardy,DAL,MISS Hardy 22' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-69,210,22,1,2.0,0.0,v
+S2324-G0022,2,06:06,NOP,,,,J. Hardy,DAL,Hardy S.FOUL (P1.T2) (K.Scott),Foul,Shooting,0,0,0,0,,,v
+S2324-G0022,2,05:50,NOP,,,,J. Hardy,DAL,SUB: Irving FOR Hardy,Substitution,,0,0,0,0,,,v
+S2324-G0022,3,01:08,NOP,,,,J. Hardy,DAL,MISS Hardy 3PT Jump Shot,Missed Shot,Jump Shot,-232,25,0,1,3.0,0.0,v
+S2324-G0022,4,11:23,NOP,,,,J. Hardy,DAL,MISS Hardy 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,55,11,6,1,2.0,0.0,v
+S2324-G0022,4,10:05,NOP,,,,J. Hardy,DAL,Hardy P.FOUL (P2.T2) (L.Holtkamp),Foul,Personal,0,0,0,0,,,v
+S2324-G0022,4,09:53,NOP,,,,J. Hardy,DAL,Hardy STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0022,4,09:48,NOP,,,,J. Hardy,DAL,MISS Hardy 2' Running Layup,Missed Shot,Running Layup Shot,20,-5,2,1,2.0,0.0,v
+S2324-G0022,4,08:45,NOP,,,,J. Hardy,DAL,MISS Hardy 3PT Jump Shot,Missed Shot,Jump Shot,-229,-15,0,1,3.0,0.0,v
+S2324-G0022,4,08:18,NOP,,,,J. Hardy,DAL,MISS Hardy 26' 3PT Jump Shot,Missed Shot,Jump Shot,-13,262,26,1,3.0,0.0,v
+S2324-G0022,4,08:12,NOP,,,,J. Hardy,DAL,Hardy P.FOUL (P3.T4) (A.Nagy),Foul,Personal,0,0,0,0,,,v
+S2324-G0022,4,07:14,NOP,,,,J. Hardy,DAL,MISS Hardy 2' Driving Layup,Missed Shot,Driving Layup Shot,-16,15,2,1,2.0,0.0,v
+S2324-G0022,4,06:38,NOP,123.0,,98.0,J. Hardy,DAL,Hardy 3' Running Layup (4 PTS) (Green 4 AST),Made Shot,Running Layup Shot,-21,16,3,1,2.0,2.0,v
+S2324-G0022,4,04:52,NOP,125.0,,105.0,J. Hardy,DAL,Hardy 1' Running Layup (6 PTS),Made Shot,Running Layup Shot,11,4,1,1,2.0,2.0,v
+S2324-G0022,4,02:14,NOP,,,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0022,4,02:03,NOP,129.0,,108.0,J. Hardy,DAL,Hardy Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G0022,4,01:54,NOP,,,,J. Hardy,DAL,Hardy Bad Pass Turnover (P1.T20),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0022,4,01:23,NOP,131.0,,110.0,J. Hardy,DAL,Hardy 7' Driving Floating Jump Shot (9 PTS),Made Shot,Driving Floating Jump Shot,16,68,7,1,2.0,2.0,v
+S2324-G0022,4,00:27.700000,NOP,,,,J. Hardy,DAL,MISS Hardy 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-37,110,12,1,2.0,0.0,v
+S2324-G0832,2,11:00,CLE,25.0,DAL,26.0,J. Hardy,DAL,Hardy 19' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,105,163,19,1,2.0,2.0,v
+S2324-G0832,2,09:44,CLE,,DAL,,J. Hardy,DAL,Hardy S.FOUL (P1.T2) (J.Williams),Foul,Shooting,0,0,0,0,,,v
+S2324-G0832,2,07:29,CLE,,DAL,,J. Hardy,DAL,MISS Hardy 27' 3PT Jump Shot,Missed Shot,Jump Shot,-200,177,27,1,3.0,0.0,v
+S2324-G0832,2,07:17,CLE,,DAL,,J. Hardy,DAL,MISS Hardy 2' Running Layup,Missed Shot,Running Layup Shot,-9,20,2,1,2.0,0.0,v
+S2324-G0832,2,07:11,CLE,,DAL,,J. Hardy,DAL,MISS Hardy 26' 3PT Jump Shot,Missed Shot,Jump Shot,-243,88,26,1,3.0,0.0,v
+S2324-G0832,2,07:05,CLE,,DAL,,J. Hardy,DAL,SUB: Gafford FOR Hardy,Substitution,,0,0,0,0,,,v
+S2324-G0577,1,03:47,LAL,,DAL,,J. Hardy,DAL,MISS Hardy 26' 3PT Jump Shot,Missed Shot,Jump Shot,-109,239,26,1,3.0,0.0,v
+S2324-G0577,1,03:08,LAL,,DAL,,J. Hardy,DAL,SUB: G. Williams FOR Hardy,Substitution,,0,0,0,0,,,v
+S2324-G0577,2,04:04,LAL,,DAL,,J. Hardy,DAL,SUB: G. Williams FOR Hardy,Substitution,,0,0,0,0,,,v
+S2324-G0577,3,04:30,LAL,89.0,DAL,70.0,J. Hardy,DAL,Hardy 27' 3PT Step Back Jump Shot (3 PTS),Made Shot,Step Back Jump shot,206,168,27,1,3.0,3.0,v
+S2324-G0577,3,00:25.600000,LAL,,DAL,,J. Hardy,DAL,MISS Hardy 29' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-156,239,29,1,3.0,0.0,v
+S2324-G0577,4,11:40,LAL,97.0,DAL,82.0,J. Hardy,DAL,Hardy 14' Step Back Jump Shot (5 PTS) (Irving 6 AST),Made Shot,Step Back Jump shot,51,127,14,1,2.0,2.0,v
+S2324-G0577,4,11:08,LAL,,DAL,,J. Hardy,DAL,MISS Hardy 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,91,260,28,1,3.0,0.0,v
+S2324-G0577,4,10:25,LAL,,DAL,,J. Hardy,DAL,SUB: Kleber FOR Hardy,Substitution,,0,0,0,0,,,v
+S2324-G0577,4,04:30,LAL,120.0,DAL,99.0,J. Hardy,DAL,Hardy 8' Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,76,30,8,1,2.0,2.0,v
+S2324-G0577,4,04:03,LAL,,DAL,,J. Hardy,DAL,Hardy Bad Pass Turnover (P1.T14),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0577,4,03:43,LAL,,DAL,,J. Hardy,DAL,MISS Hardy 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,118,252,28,1,3.0,0.0,v
+S2324-G0625,1,01:37,DAL,,PHX,,J. Hardy,DAL,Hardy S.FOUL (P1.PN) (B.Nansel),Foul,Shooting,0,0,0,0,,,h
+S2324-G0625,1,00:23.900000,DAL,,PHX,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0625,2,07:54,DAL,,PHX,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0625,2,07:15,DAL,,PHX,,J. Hardy,DAL,MISS Hardy 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-71,102,12,1,2.0,0.0,h
+S2324-G0625,2,06:23,DAL,,PHX,,J. Hardy,DAL,SUB: Green FOR Hardy,Substitution,,0,0,0,0,,,h
+S2324-G0625,3,02:40,DAL,,PHX,,J. Hardy,DAL,MISS Hardy 25' 3PT Jump Shot,Missed Shot,Jump Shot,61,241,25,1,3.0,0.0,h
+S2324-G0625,3,02:02,DAL,72.0,PHX,93.0,J. Hardy,DAL,Hardy 2' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,-17,13,2,1,2.0,2.0,h
+S2324-G0625,3,00:30.700000,DAL,75.0,PHX,100.0,J. Hardy,DAL,Hardy 26' 3PT Step Back Jump Shot (5 PTS),Made Shot,Step Back Jump shot,109,232,26,1,3.0,3.0,h
+S2324-G0625,4,04:28,DAL,97.0,PHX,117.0,J. Hardy,DAL,Hardy 25' 3PT Step Back Jump Shot (8 PTS),Made Shot,Step Back Jump shot,-135,215,25,1,3.0,3.0,h
+S2324-G0625,4,04:01,DAL,,PHX,,J. Hardy,DAL,MISS Hardy 2' Driving Layup,Missed Shot,Driving Layup Shot,13,19,2,1,2.0,0.0,h
+S2324-G0625,4,03:25,DAL,,PHX,,J. Hardy,DAL,MISS Hardy 6' Driving Layup,Missed Shot,Driving Layup Shot,-53,27,6,1,2.0,0.0,h
+S2324-G0625,4,02:04,DAL,,PHX,,J. Hardy,DAL,MISS Hardy 4' Running Layup,Missed Shot,Running Layup Shot,-36,21,4,1,2.0,0.0,h
+S2324-G0625,4,00:50.800000,DAL,106.0,PHX,132.0,J. Hardy,DAL,Hardy 26' 3PT Jump Shot (11 PTS) (Lawson 1 AST),Made Shot,Jump Shot,140,221,26,1,3.0,3.0,h
+S2324-G0625,4,00:39.300000,DAL,,PHX,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0994,1,02:00,SAS,,DAL,,J. Hardy,DAL,MISS Hardy 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,6,19,2,1,2.0,0.0,v
+S2324-G0994,1,01:28,SAS,,DAL,,J. Hardy,DAL,Hardy P.FOUL (P1.T3) (T.Brothers),Foul,Personal,0,0,0,0,,,v
+S2324-G0994,1,01:02,SAS,26.0,DAL,32.0,J. Hardy,DAL,Hardy 14' Pullup Jump Shot (2 PTS) (Gafford 1 AST),Made Shot,Pullup Jump shot,-64,124,14,1,2.0,2.0,v
+S2324-G0994,1,00:25.300000,SAS,28.0,DAL,36.0,J. Hardy,DAL,Hardy Running Layup (4 PTS) (Irving 2 AST),Made Shot,Running Layup Shot,4,0,0,1,2.0,2.0,v
+S2324-G0994,2,11:19,SAS,,DAL,,J. Hardy,DAL,Hardy S.FOUL (P2.T1) (M.Kogut),Foul,Shooting,0,0,0,0,,,v
+S2324-G0994,2,10:39,SAS,,DAL,,J. Hardy,DAL,MISS Hardy 10' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,10,104,10,1,2.0,0.0,v
+S2324-G0994,2,10:35,SAS,,DAL,,J. Hardy,DAL,SUB: Jones Jr. FOR Hardy,Substitution,,0,0,0,0,,,v
+S2324-G0306,1,05:11,DAL,,LAL,,J. Hardy,DAL,Hardy Out of Bounds Lost Ball Turnover (P1.T2),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2324-G0306,1,03:22,DAL,,LAL,,J. Hardy,DAL,Hardy S.FOUL (P1.T2) (B.Barnaky),Foul,Shooting,0,0,0,0,,,h
+S2324-G0306,1,03:10,DAL,,LAL,,J. Hardy,DAL,MISS Hardy 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-233,21,0,1,3.0,0.0,h
+S2324-G0306,2,07:09,DAL,46.0,LAL,39.0,J. Hardy,DAL,Hardy 15' Pullup Jump Shot (2 PTS) (Doncic 5 AST),Made Shot,Pullup Jump shot,-70,130,15,1,2.0,2.0,h
+S2324-G0306,2,04:02,DAL,,LAL,,J. Hardy,DAL,SUB: Exum FOR Hardy,Substitution,,0,0,0,0,,,h
+S2324-G0306,3,09:17,DAL,,LAL,,J. Hardy,DAL,MISS Hardy 25' 3PT Jump Shot,Missed Shot,Jump Shot,176,177,25,1,3.0,0.0,h
+S2324-G0306,3,08:59,DAL,,LAL,,J. Hardy,DAL,Hardy P.FOUL (P2.T1) (C.Washington),Foul,Personal,0,0,0,0,,,h
+S2324-G0306,3,07:05,DAL,,LAL,,J. Hardy,DAL,MISS Hardy 26' 3PT Jump Shot,Missed Shot,Jump Shot,154,204,26,1,3.0,0.0,h
+S2324-G0306,3,06:19,DAL,,LAL,,J. Hardy,DAL,SUB: Exum FOR Hardy,Substitution,,0,0,0,0,,,h
+S2324-G0306,3,02:56,DAL,,LAL,,J. Hardy,DAL,MISS Hardy 2' Driving Layup,Missed Shot,Driving Layup Shot,-9,20,2,1,2.0,0.0,h
+S2324-G0306,3,02:15,DAL,,LAL,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0306,3,00:41.900000,DAL,,LAL,,J. Hardy,DAL,MISS Hardy 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-18,132,13,1,2.0,0.0,h
+S2324-G0306,3,00:10.700000,DAL,,LAL,,J. Hardy,DAL,MISS Hardy 5' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-2,51,5,1,2.0,0.0,h
+S2324-G0238,2,05:52,LAL,,DAL,,J. Hardy,DAL,MISS Hardy 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-48,125,13,1,2.0,0.0,v
+S2324-G0238,2,05:38,LAL,,DAL,,J. Hardy,DAL,MISS Hardy 2' Driving Layup,Missed Shot,Driving Layup Shot,-13,18,2,1,2.0,0.0,v
+S2324-G0238,2,04:14,LAL,,DAL,,J. Hardy,DAL,SUB: Irving FOR Hardy,Substitution,,0,0,0,0,,,v
+S2324-G0238,3,02:10,LAL,69.0,DAL,85.0,J. Hardy,DAL,Hardy 11' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,70,88,11,1,2.0,2.0,v
+S2324-G0238,4,10:59,LAL,,DAL,,J. Hardy,DAL,MISS Hardy 7' Running Layup,Missed Shot,Running Layup Shot,20,69,7,1,2.0,0.0,v
+S2324-G0238,4,09:57,LAL,,DAL,,J. Hardy,DAL,MISS Hardy 24' 3PT Jump Shot,Missed Shot,Jump Shot,239,40,24,1,3.0,0.0,v
+S2324-G0238,4,09:49,LAL,,DAL,,J. Hardy,DAL,SUB: Holmes FOR Hardy,Substitution,,0,0,0,0,,,v
+S2324-G0321,2,10:23,DAL,36.0,MIN,29.0,J. Hardy,DAL,Hardy 2' Cutting Layup Shot (2 PTS) (Exum 3 AST),Made Shot,Cutting Layup Shot,15,1,2,1,2.0,2.0,h
+S2324-G0321,2,09:34,DAL,,MIN,,J. Hardy,DAL,MISS Hardy 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-99,183,21,1,2.0,0.0,h
+S2324-G0321,2,08:22,DAL,41.0,MIN,35.0,J. Hardy,DAL,Hardy 24' 3PT Jump Shot (5 PTS) (Doncic 5 AST),Made Shot,Jump Shot,-235,48,24,1,3.0,3.0,h
+S2324-G0321,2,05:12,DAL,,MIN,,J. Hardy,DAL,SUB: Hardaway Jr. FOR Hardy,Substitution,,0,0,0,0,,,h
+S2324-G0321,4,07:11,DAL,,MIN,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0321,4,05:46,DAL,,MIN,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0321,4,05:12,DAL,,MIN,,J. Hardy,DAL,SUB: Hardaway Jr. FOR Hardy,Substitution,,0,0,0,0,,,h
+S2324-G0321,4,01:04,DAL,,MIN,,J. Hardy,DAL,MISS Hardy 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-210,142,25,1,3.0,0.0,h
+S2324-G0634,1,00:20.400000,ATL,,DAL,,J. Hardy,DAL,MISS Hardy 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,65,257,27,1,3.0,0.0,v
+S2324-G0634,2,09:46,ATL,38.0,DAL,35.0,J. Hardy,DAL,Hardy 25' 3PT Jump Shot (3 PTS) (Holmes 1 AST),Made Shot,Jump Shot,-120,224,25,1,3.0,3.0,v
+S2324-G0634,2,08:45,ATL,,DAL,,J. Hardy,DAL,MISS Hardy 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-7,101,10,1,2.0,0.0,v
+S2324-G0634,2,08:37,ATL,,DAL,,J. Hardy,DAL,SUB: Exum FOR Hardy,Substitution,,0,0,0,0,,,v
+S2324-G0634,3,06:29,ATL,,DAL,,J. Hardy,DAL,MISS Hardy 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,44,259,26,1,3.0,0.0,v
+S2324-G0634,3,05:17,ATL,81.0,DAL,89.0,J. Hardy,DAL,Hardy 1' Running Dunk (5 PTS) (Green 3 AST),Made Shot,Running Dunk Shot,-4,10,1,1,2.0,2.0,v
+S2324-G0634,3,02:43,ATL,,DAL,,J. Hardy,DAL,MISS Hardy Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0634,3,02:43,ATL,90.0,DAL,99.0,J. Hardy,DAL,Hardy Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0634,3,02:24,ATL,,DAL,,J. Hardy,DAL,Hardy REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0634,3,02:21,ATL,92.0,DAL,100.0,J. Hardy,DAL,Hardy Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0634,3,02:21,ATL,92.0,DAL,101.0,J. Hardy,DAL,Hardy Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0634,3,01:14,ATL,,DAL,,J. Hardy,DAL,Hardy S.FOUL (P1.T3) (T.Ford),Foul,Shooting,0,0,0,0,,,v
+S2324-G0634,3,00:24.100000,ATL,,DAL,,J. Hardy,DAL,Hardy STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0634,4,04:52,ATL,,DAL,,J. Hardy,DAL,MISS Hardy 2' Driving Layup,Missed Shot,Driving Layup Shot,-5,23,2,1,2.0,0.0,v
+S2324-G0634,4,04:32,ATL,,DAL,,J. Hardy,DAL,SUB: Lively II FOR Hardy,Substitution,,0,0,0,0,,,v
+S2324-G0819,2,07:28,IND,45.0,DAL,47.0,J. Hardy,DAL,Hardy 8' Fadeaway Jumper (2 PTS),Made Shot,Fadeaway Jump Shot,39,72,8,1,2.0,2.0,v
+S2324-G0819,2,07:17,IND,,DAL,,J. Hardy,DAL,SUB: Washington FOR Hardy,Substitution,,0,0,0,0,,,v
+S2324-G0819,4,02:57,IND,124.0,DAL,106.0,J. Hardy,DAL,Hardy 8' Fadeaway Jumper (4 PTS) (Powell 1 AST),Made Shot,Fadeaway Jump Shot,-37,75,8,1,2.0,2.0,v
+S2324-G0819,4,02:22,IND,127.0,DAL,111.0,J. Hardy,DAL,Hardy 26' 3PT Jump Shot (7 PTS) (Green 1 AST),Made Shot,Jump Shot,-183,178,26,1,3.0,3.0,v
+S2324-G0819,4,01:41,IND,,DAL,,J. Hardy,DAL,MISS Hardy 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,54,163,17,1,2.0,0.0,v
+S2324-G0819,4,01:08,IND,,DAL,,J. Hardy,DAL,MISS Hardy 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,44,265,27,1,3.0,0.0,v
+S2324-G0819,4,00:51.200000,IND,,DAL,,J. Hardy,DAL,MISS Hardy 10' Step Back Bank Jump Shot,Missed Shot,Step Back Bank Jump Shot,-77,62,10,1,2.0,0.0,v
+S2324-G0589,2,10:01,GSW,28.0,DAL,32.0,J. Hardy,DAL,Hardy 25' 3PT Jump Shot (3 PTS) (Irving 2 AST),Made Shot,Jump Shot,-167,187,25,1,3.0,3.0,v
+S2324-G0589,2,09:17,GSW,,DAL,,J. Hardy,DAL,MISS Hardy 10' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-94,34,10,1,2.0,0.0,v
+S2324-G0589,2,07:25,GSW,,DAL,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0589,2,06:30,GSW,,DAL,,J. Hardy,DAL,SUB: Hardaway Jr. FOR Hardy,Substitution,,0,0,0,0,,,v
+S2324-G0589,3,00:40.300000,GSW,,DAL,,J. Hardy,DAL,MISS Hardy 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,39,263,27,1,3.0,0.0,v
+S2324-G0589,3,00:08.600000,GSW,,DAL,,J. Hardy,DAL,MISS Hardy 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,131,242,28,1,3.0,0.0,v
+S2324-G0423,1,10:24,MIN,,DAL,,J. Hardy,DAL,MISS Hardy 7' Driving Layup,Missed Shot,Driving Layup Shot,61,31,7,1,2.0,0.0,v
+S2324-G0423,1,09:31,MIN,,DAL,,J. Hardy,DAL,MISS Hardy 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,89,143,17,1,2.0,0.0,v
+S2324-G0423,1,07:05,MIN,,DAL,,J. Hardy,DAL,SUB: Powell FOR Hardy,Substitution,,0,0,0,0,,,v
+S2324-G0423,1,01:34,MIN,,DAL,,J. Hardy,DAL,MISS Hardy 31' 3PT Jump Shot,Missed Shot,Jump Shot,143,273,31,1,3.0,0.0,v
+S2324-G0423,1,00:41.400000,MIN,37.0,DAL,24.0,J. Hardy,DAL,Hardy 26' 3PT Running Jump Shot (3 PTS) (Curry 1 AST),Made Shot,Running Jump Shot,-146,221,26,1,3.0,3.0,v
+S2324-G0423,2,10:36,MIN,,DAL,,J. Hardy,DAL,MISS Hardy 3PT Jump Shot,Missed Shot,Jump Shot,233,28,0,1,3.0,0.0,v
+S2324-G0423,2,09:44,MIN,,DAL,,J. Hardy,DAL,Hardy STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0423,2,09:38,MIN,40.0,DAL,30.0,J. Hardy,DAL,Hardy 1' Running Layup (5 PTS) (Green 1 AST),Made Shot,Running Layup Shot,-2,6,1,1,2.0,2.0,v
+S2324-G0423,2,07:32,MIN,,DAL,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0423,2,07:20,MIN,,DAL,,J. Hardy,DAL,SUB: Hardaway Jr. FOR Hardy,Substitution,,0,0,0,0,,,v
+S2324-G0423,2,00:35,MIN,57.0,DAL,53.0,J. Hardy,DAL,Hardy 2' Running Layup (7 PTS) (Hardaway Jr. 3 AST),Made Shot,Running Layup Shot,12,10,2,1,2.0,2.0,v
+S2324-G0423,3,11:53,MIN,,DAL,,J. Hardy,DAL,MISS Hardy 5' Driving Layup,Missed Shot,Driving Layup Shot,16,44,5,1,2.0,0.0,v
+S2324-G0423,3,09:48,MIN,69.0,DAL,65.0,J. Hardy,DAL,Hardy 16' Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,113,115,16,1,2.0,2.0,v
+S2324-G0423,3,09:36,MIN,,DAL,,J. Hardy,DAL,Hardy P.FOUL (P1.PN) (G.Petraitis),Foul,Personal,0,0,0,0,,,v
+S2324-G0423,3,09:25,MIN,71.0,DAL,68.0,J. Hardy,DAL,Hardy 25' 3PT Jump Shot (12 PTS) (G. Williams 3 AST),Made Shot,Jump Shot,52,244,25,1,3.0,3.0,v
+S2324-G0423,3,09:03,MIN,,DAL,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0423,3,08:13,MIN,,DAL,,J. Hardy,DAL,MISS Hardy 6' Driving Layup,Missed Shot,Driving Layup Shot,46,31,6,1,2.0,0.0,v
+S2324-G0423,3,06:51,MIN,,DAL,,J. Hardy,DAL,MISS Hardy 3PT Jump Shot,Missed Shot,Jump Shot,234,-6,0,1,3.0,0.0,v
+S2324-G0423,3,06:28,MIN,,DAL,,J. Hardy,DAL,MISS Hardy 26' 3PT Jump Shot,Missed Shot,Jump Shot,192,173,26,1,3.0,0.0,v
+S2324-G0423,3,06:01,MIN,,DAL,,J. Hardy,DAL,SUB: Green FOR Hardy,Substitution,,0,0,0,0,,,v
+S2324-G0423,3,01:08,MIN,93.0,DAL,86.0,J. Hardy,DAL,Hardy 11' Pullup Jump Shot (14 PTS),Made Shot,Pullup Jump shot,25,106,11,1,2.0,2.0,v
+S2324-G0423,3,00:11.800000,MIN,,DAL,,J. Hardy,DAL,Hardy S.FOUL (P2.PN) (E.Scott),Foul,Shooting,0,0,0,0,,,v
+S2324-G0423,3,00:04.800000,MIN,,DAL,,J. Hardy,DAL,MISS Hardy 5' Driving Layup,Missed Shot,Driving Layup Shot,37,31,5,1,2.0,0.0,v
+S2324-G0423,4,10:53,MIN,,DAL,,J. Hardy,DAL,MISS Hardy 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-28,245,25,1,3.0,0.0,v
+S2324-G0423,4,10:08,MIN,,DAL,,J. Hardy,DAL,SUB: Curry FOR Hardy,Substitution,,0,0,0,0,,,v
+S2324-G0423,4,08:49,MIN,105.0,DAL,99.0,J. Hardy,DAL,Hardy 25' 3PT Jump Shot (17 PTS) (Exum 5 AST),Made Shot,Jump Shot,-48,243,25,1,3.0,3.0,v
+S2324-G0423,4,08:13,MIN,,DAL,,J. Hardy,DAL,Hardy BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0423,4,04:45,MIN,,DAL,,J. Hardy,DAL,MISS Hardy 6' Driving Layup,Missed Shot,Driving Layup Shot,51,33,6,1,2.0,0.0,v
+S2324-G0423,4,04:44,MIN,,DAL,,J. Hardy,DAL,SUB: Curry FOR Hardy,Substitution,,0,0,0,0,,,v
+S2324-G0287,1,06:14,DAL,,OKC,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0287,1,06:03,DAL,14.0,OKC,9.0,J. Hardy,DAL,Hardy 25' 3PT Jump Shot (3 PTS) (Jones Jr. 1 AST),Made Shot,Jump Shot,130,211,25,1,3.0,3.0,h
+S2324-G0287,1,04:34,DAL,,OKC,,J. Hardy,DAL,Hardy S.FOUL (P1.PN) (M.Ervin),Foul,Shooting,0,0,0,0,,,h
+S2324-G0287,1,03:25,DAL,,OKC,,J. Hardy,DAL,MISS Hardy 24' 3PT Jump Shot,Missed Shot,Jump Shot,175,169,24,1,3.0,0.0,h
+S2324-G0287,1,02:07,DAL,,OKC,,J. Hardy,DAL,Hardy Offensive Charge Foul (P2) (M.Ervin),Foul,Offensive Charge,0,0,0,0,,,h
+S2324-G0287,1,02:07,DAL,,OKC,,J. Hardy,DAL,Hardy Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0287,1,00:35.100000,DAL,,OKC,,J. Hardy,DAL,MISS Hardy 26' 3PT Jump Shot,Missed Shot,Jump Shot,136,222,26,1,3.0,0.0,h
+S2324-G0287,2,06:29,DAL,39.0,OKC,53.0,J. Hardy,DAL,Hardy 13' Driving Floating Jump Shot (5 PTS),Made Shot,Driving Floating Jump Shot,4,132,13,1,2.0,2.0,h
+S2324-G0287,2,05:53,DAL,,OKC,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0287,2,05:24,DAL,,OKC,,J. Hardy,DAL,MISS Hardy 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-26,95,10,1,2.0,0.0,h
+S2324-G0287,2,04:49,DAL,,OKC,,J. Hardy,DAL,MISS Hardy Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0287,2,04:49,DAL,40.0,OKC,55.0,J. Hardy,DAL,Hardy Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0287,2,04:43,DAL,,OKC,,J. Hardy,DAL,Hardy S.FOUL (P3.T4) (P.Fraher),Foul,Shooting,0,0,0,0,,,h
+S2324-G0287,2,04:21,DAL,,OKC,,J. Hardy,DAL,SUB: Lawson FOR Hardy,Substitution,,0,0,0,0,,,h
+S2324-G0287,3,01:47,DAL,,OKC,,J. Hardy,DAL,Hardy S.FOUL (P4.T3) (P.Fraher),Foul,Shooting,0,0,0,0,,,h
+S2324-G0287,3,00:51.100000,DAL,,OKC,,J. Hardy,DAL,Hardy Lost Ball Turnover (P2.T14),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0287,3,00:47.800000,DAL,,OKC,,J. Hardy,DAL,Hardy S.FOUL (P5.PN) (M.Ervin),Foul,Shooting,0,0,0,0,,,h
+S2324-G0287,3,00:00.400000,DAL,,OKC,,J. Hardy,DAL,MISS Hardy 57' 3PT Jump Shot,Missed Shot,Jump Shot,-110,557,57,1,3.0,0.0,h
+S2324-G0680,1,10:30,MIN,,DAL,,J. Hardy,DAL,MISS Hardy 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,-2,17,2,1,2.0,0.0,v
+S2324-G0680,1,10:11,MIN,,DAL,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0680,1,09:21,MIN,,DAL,,J. Hardy,DAL,Hardy Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0680,1,08:10,MIN,,DAL,,J. Hardy,DAL,SUB: Curry FOR Hardy,Substitution,,0,0,0,0,,,v
+S2324-G0680,2,11:31,MIN,,DAL,,J. Hardy,DAL,Hardy S.FOUL (P1.T1) (M.Ervin),Foul,Shooting,0,0,0,0,,,v
+S2324-G0680,2,11:17,MIN,25.0,DAL,23.0,J. Hardy,DAL,Hardy 10' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,26,100,10,1,2.0,2.0,v
+S2324-G0680,2,10:53,MIN,,DAL,,J. Hardy,DAL,MISS Hardy 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,47,147,15,1,2.0,0.0,v
+S2324-G0680,2,09:51,MIN,,DAL,,J. Hardy,DAL,Hardy Out of Bounds - Bad Pass Turnover Turnover (P2.T4),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0680,2,08:00,MIN,30.0,DAL,33.0,J. Hardy,DAL,Hardy 26' 3PT Step Back Jump Shot (5 PTS),Made Shot,Step Back Jump shot,-96,246,26,1,3.0,3.0,v
+S2324-G0680,2,07:12,MIN,,DAL,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0680,2,06:02,MIN,,DAL,,J. Hardy,DAL,SUB: Kleber FOR Hardy,Substitution,,0,0,0,0,,,v
+S2324-G0680,3,11:09,MIN,,DAL,,J. Hardy,DAL,MISS Hardy 26' 3PT Jump Shot,Missed Shot,Jump Shot,-56,258,26,1,3.0,0.0,v
+S2324-G0680,3,10:43,MIN,,DAL,,J. Hardy,DAL,Hardy S.FOUL (P2.T1) (J.Butler),Foul,Shooting,0,0,0,0,,,v
+S2324-G0680,3,09:46,MIN,57.0,DAL,53.0,J. Hardy,DAL,Hardy 1' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,2,10,1,1,2.0,2.0,v
+S2324-G0680,3,07:14,MIN,,DAL,,J. Hardy,DAL,Hardy Bad Pass Turnover (P3.T11),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0680,3,06:13,MIN,,DAL,,J. Hardy,DAL,SUB: Curry FOR Hardy,Substitution,,0,0,0,0,,,v
+S2324-G0680,3,02:08,MIN,,DAL,,J. Hardy,DAL,MISS Hardy 25' 3PT Jump Shot,Missed Shot,Jump Shot,0,253,25,1,3.0,0.0,v
+S2324-G0680,3,01:20,MIN,,DAL,,J. Hardy,DAL,Hardy STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0680,3,00:42.300000,MIN,,DAL,,J. Hardy,DAL,MISS Hardy 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,110,109,15,1,2.0,0.0,v
+S2324-G0680,3,00:01.800000,MIN,83.0,DAL,69.0,J. Hardy,DAL,Hardy Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0680,3,00:01.800000,MIN,83.0,DAL,70.0,J. Hardy,DAL,Hardy Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0680,4,10:46,MIN,,DAL,,J. Hardy,DAL,Hardy Discontinue Dribble Turnover (P4.T14),Turnover,Discontinue Dribble,0,0,0,0,,,v
+S2324-G0680,4,08:03,MIN,94.0,DAL,72.0,J. Hardy,DAL,Hardy 15' Pullup Jump Shot (11 PTS) (Holmes 3 AST),Made Shot,Pullup Jump shot,121,80,15,1,2.0,2.0,v
+S2324-G0680,4,07:27,MIN,,DAL,,J. Hardy,DAL,MISS Hardy 25' 3PT Jump Shot,Missed Shot,Jump Shot,138,211,25,1,3.0,0.0,v
+S2324-G0680,4,03:49,MIN,,DAL,,J. Hardy,DAL,Hardy Bad Pass Turnover (P5.T17),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0680,4,02:23,MIN,,DAL,,J. Hardy,DAL,MISS Hardy 26' 3PT Jump Shot,Missed Shot,Jump Shot,47,253,26,1,3.0,0.0,v
+S2324-G0680,4,01:29,MIN,115.0,DAL,85.0,J. Hardy,DAL,Hardy 2' Cutting Layup Shot (13 PTS) (B. Williams 1 AST),Made Shot,Cutting Layup Shot,10,22,2,1,2.0,2.0,v
+S2324-G0680,4,00:21.600000,MIN,,DAL,,J. Hardy,DAL,MISS Hardy 13' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,49,125,13,1,2.0,0.0,v
+S2324-G0680,4,00:15.200000,MIN,121.0,DAL,87.0,J. Hardy,DAL,Hardy 20' Step Back Jump Shot (15 PTS) (B. Williams 2 AST),Made Shot,Step Back Jump shot,-191,61,20,1,2.0,2.0,v
+S2324-G0244,2,08:48,LAC,,DAL,,J. Hardy,DAL,Hardy REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0244,2,08:28,LAC,,DAL,,J. Hardy,DAL,Hardy REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0244,2,08:16,LAC,,DAL,,J. Hardy,DAL,MISS Hardy 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-134,106,17,1,2.0,0.0,v
+S2324-G0244,2,07:15,LAC,40.0,DAL,25.0,J. Hardy,DAL,Hardy Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0244,2,07:15,LAC,40.0,DAL,26.0,J. Hardy,DAL,Hardy Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0244,2,06:37,LAC,,DAL,,J. Hardy,DAL,SUB: Hardaway Jr. FOR Hardy,Substitution,,0,0,0,0,,,v
+S2324-G0244,4,04:29,LAC,101.0,DAL,83.0,J. Hardy,DAL,Hardy 16' Turnaround Fadeaway (4 PTS),Made Shot,Turnaround Fadeaway shot,55,145,16,1,2.0,2.0,v
+S2324-G0244,4,03:47,LAC,,DAL,,J. Hardy,DAL,MISS Hardy 26' 3PT Jump Shot,Missed Shot,Jump Shot,-94,239,26,1,3.0,0.0,v
+S2324-G0244,4,03:45,LAC,,DAL,,J. Hardy,DAL,Hardy REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0244,4,01:01,LAC,,DAL,,J. Hardy,DAL,Hardy Lost Ball Turnover (P1.T9),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0244,4,00:22.600000,LAC,,DAL,,J. Hardy,DAL,Hardy REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0356,2,06:57,DEN,,DAL,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0356,2,06:04,DEN,,DAL,,J. Hardy,DAL,MISS Hardy 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,4,62,6,1,2.0,0.0,v
+S2324-G0356,2,03:24,DEN,,DAL,,J. Hardy,DAL,Hardy S.FOUL (P1.PN) (S.Mitchell),Foul,Shooting,0,0,0,0,,,v
+S2324-G0356,2,03:24,DEN,,DAL,,J. Hardy,DAL,SUB: Powell FOR Hardy,Substitution,,0,0,0,0,,,v
+S2324-G0356,3,02:19,DEN,,DAL,,J. Hardy,DAL,MISS Hardy 22' Step Back Jump Shot,Missed Shot,Step Back Jump shot,194,102,22,1,2.0,0.0,v
+S2324-G0356,4,10:52,DEN,,DAL,,J. Hardy,DAL,MISS Hardy 16' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-129,102,16,1,2.0,0.0,v
+S2324-G0356,4,08:06,DEN,111.0,DAL,89.0,J. Hardy,DAL,Hardy 26' 3PT Pullup Jump Shot (3 PTS) (Prosper 2 AST),Made Shot,Pullup Jump shot,21,257,26,1,3.0,3.0,v
+S2324-G0356,4,07:37,DEN,,DAL,,J. Hardy,DAL,Hardy Traveling Turnover (P1.T9),Turnover,Traveling,0,0,0,0,,,v
+S2324-G0356,4,06:46,DEN,,DAL,,J. Hardy,DAL,MISS Hardy 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-56,268,27,1,3.0,0.0,v
+S2324-G0356,4,05:21,DEN,,DAL,,J. Hardy,DAL,MISS Hardy 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,9,104,10,1,2.0,0.0,v
+S2324-G0356,4,04:43,DEN,,DAL,,J. Hardy,DAL,MISS Hardy 3' Driving Layup,Missed Shot,Driving Layup Shot,4,28,3,1,2.0,0.0,v
+S2324-G0356,4,01:49,DEN,130.0,DAL,97.0,J. Hardy,DAL,Hardy Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0356,4,01:49,DEN,,DAL,,J. Hardy,DAL,MISS Hardy Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0356,4,01:25,DEN,130.0,DAL,99.0,J. Hardy,DAL,Hardy 2' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,17,5,2,1,2.0,2.0,v
+S2324-G0356,4,00:31.300000,DEN,130.0,DAL,104.0,J. Hardy,DAL,Hardy 26' 3PT Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,100,236,26,1,3.0,3.0,v
+S2324-G0212,2,10:39,DAL,,SAC,,J. Hardy,DAL,Hardy Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0212,2,09:47,DAL,,SAC,,J. Hardy,DAL,Hardy S.FOUL (P1.T1) (E.Malloy),Foul,Shooting,0,0,0,0,,,h
+S2324-G0212,2,09:32,DAL,40.0,SAC,42.0,J. Hardy,DAL,Hardy 25' 3PT Jump Shot (3 PTS) (Doncic 4 AST),Made Shot,Jump Shot,-130,211,25,1,3.0,3.0,h
+S2324-G0212,2,09:11,DAL,,SAC,,J. Hardy,DAL,MISS Hardy 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,32,59,7,1,2.0,0.0,h
+S2324-G0212,2,07:43,DAL,,SAC,,J. Hardy,DAL,Hardy P.FOUL (P2.T3) (C.Washington),Foul,Personal,0,0,0,0,,,h
+S2324-G0212,2,07:43,DAL,,SAC,,J. Hardy,DAL,SUB: Williams FOR Hardy,Substitution,,0,0,0,0,,,h
+S2324-G0212,4,04:02,DAL,,SAC,,J. Hardy,DAL,MISS Hardy 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-99,240,26,1,3.0,0.0,h
+S2324-G0212,4,03:39,DAL,,SAC,,J. Hardy,DAL,Hardy STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0212,4,03:30,DAL,,SAC,,J. Hardy,DAL,MISS Hardy Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0212,4,03:30,DAL,104.0,SAC,122.0,J. Hardy,DAL,Hardy Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0212,4,02:39,DAL,,SAC,,J. Hardy,DAL,MISS Hardy Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,1,-2,0,1,2.0,0.0,h
+S2324-G0183,2,09:07,NOP,31.0,DAL,42.0,J. Hardy,DAL,Hardy 3' Running Layup (2 PTS) (Green 2 AST),Made Shot,Running Layup Shot,-25,8,3,1,2.0,2.0,v
+S2324-G0183,2,08:34,NOP,,DAL,,J. Hardy,DAL,Hardy S.FOUL (P1.T1) (P.Ransom),Foul,Shooting,0,0,0,0,,,v
+S2324-G0183,2,08:01,NOP,,DAL,,J. Hardy,DAL,MISS Hardy 26' 3PT Jump Shot,Missed Shot,Jump Shot,-152,215,26,1,3.0,0.0,v
+S2324-G0183,2,07:28,NOP,,DAL,,J. Hardy,DAL,Hardy REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0183,2,06:37,NOP,,DAL,,J. Hardy,DAL,SUB: Irving FOR Hardy,Substitution,,0,0,0,0,,,v
+S2324-G0183,4,03:27,NOP,107.0,DAL,130.0,J. Hardy,DAL,Hardy 25' 3PT Step Back Jump Shot (5 PTS),Made Shot,Step Back Jump shot,119,222,25,1,3.0,3.0,v
+S2324-G0183,4,02:13,NOP,,DAL,,J. Hardy,DAL,MISS Hardy 26' 3PT Jump Shot,Missed Shot,Jump Shot,4,257,26,1,3.0,0.0,v
+S2324-G0183,4,02:00,NOP,,DAL,,J. Hardy,DAL,Hardy REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0183,4,01:05,NOP,117.0,DAL,134.0,J. Hardy,DAL,Hardy 12' Running Pull-Up Jump Shot (7 PTS),Made Shot,Running Pull-Up Jump Shot,31,112,12,1,2.0,2.0,v
+S2324-G0183,4,00:54.300000,NOP,,DAL,,J. Hardy,DAL,MISS Hardy 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-142,206,25,1,3.0,0.0,v
+S2324-G0341,2,04:52,POR,,DAL,,J. Hardy,DAL,Hardy S.FOUL (P1.T2) (J.Orr),Foul,Shooting,0,0,0,0,,,v
+S2324-G0341,2,04:25,POR,,DAL,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0341,2,04:00,POR,,DAL,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0341,2,03:01,POR,,DAL,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0341,2,02:40,POR,55.0,DAL,66.0,J. Hardy,DAL,Hardy 1' Running Layup (2 PTS) (Williams 2 AST),Made Shot,Running Layup Shot,-7,4,1,1,2.0,2.0,v
+S2324-G0341,2,00:13.200000,POR,63.0,DAL,74.0,J. Hardy,DAL,Hardy 1' Driving Dunk (4 PTS) (Doncic 4 AST),Made Shot,Driving Dunk Shot,12,8,1,1,2.0,2.0,v
+S2324-G0785,1,04:17,DAL,,SAS,,J. Hardy,DAL,MISS Hardy 26' 3PT Jump Shot,Missed Shot,Jump Shot,-23,255,26,1,3.0,0.0,h
+S2324-G0785,1,03:58,DAL,,SAS,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0785,1,03:34,DAL,,SAS,,J. Hardy,DAL,Hardy BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0785,1,02:13,DAL,,SAS,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0785,1,00:00.200000,DAL,,SAS,,J. Hardy,DAL,MISS Hardy 50' 3PT Jump Shot,Missed Shot,Jump Shot,190,460,50,1,3.0,0.0,h
+S2324-G0785,2,09:09,DAL,33.0,SAS,40.0,J. Hardy,DAL,Hardy 8' Step Back Jump Shot (2 PTS),Made Shot,Step Back Jump shot,-25,74,8,1,2.0,2.0,h
+S2324-G0785,2,09:08,DAL,,SAS,,J. Hardy,DAL,SUB: Green FOR Hardy,Substitution,,0,0,0,0,,,h
+S2324-G0785,4,11:01,DAL,,SAS,,J. Hardy,DAL,MISS Hardy 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,58,113,13,1,2.0,0.0,h
+S2324-G0785,4,10:44,DAL,93.0,SAS,68.0,J. Hardy,DAL,Hardy 6' Driving Floating Bank Jump Shot (4 PTS) (Hardaway Jr. 4 AST),Made Shot,Driving Floating Bank Jump Shot,-60,19,6,1,2.0,2.0,h
+S2324-G0785,4,08:04,DAL,105.0,SAS,76.0,J. Hardy,DAL,Hardy 24' 3PT Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,107,217,24,1,3.0,3.0,h
+S2324-G0785,4,05:44,DAL,110.0,SAS,83.0,J. Hardy,DAL,Hardy 18' Pullup Jump Shot (9 PTS) (Gafford 2 AST),Made Shot,Pullup Jump shot,40,173,18,1,2.0,2.0,h
+S2324-G0785,4,05:00,DAL,,SAS,,J. Hardy,DAL,MISS Hardy 13' Jump Shot,Missed Shot,Jump Shot,131,29,13,1,2.0,0.0,h
+S2324-G0785,4,04:05,DAL,112.0,SAS,85.0,J. Hardy,DAL,Hardy 2' Driving Layup (11 PTS),Made Shot,Driving Layup Shot,-11,16,2,1,2.0,2.0,h
+S2324-G0785,4,02:50,DAL,,SAS,,J. Hardy,DAL,MISS Hardy 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,20,6,2,1,2.0,0.0,h
+S2324-G0785,4,02:19,DAL,114.0,SAS,87.0,J. Hardy,DAL,Hardy 17' Pullup Jump Shot (13 PTS),Made Shot,Pullup Jump shot,-85,152,17,1,2.0,2.0,h
+S2324-G0785,4,01:12,DAL,,SAS,,J. Hardy,DAL,MISS Hardy 9' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-54,74,9,1,2.0,0.0,h
+S2324-G0547,1,05:28,DAL,,NOP,,J. Hardy,DAL,MISS Hardy 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-5,162,16,1,2.0,0.0,h
+S2324-G0547,1,04:59,DAL,14.0,NOP,19.0,J. Hardy,DAL,Hardy 3' Cutting Layup Shot (2 PTS) (Jones Jr. 1 AST),Made Shot,Cutting Layup Shot,9,26,3,1,2.0,2.0,h
+S2324-G0547,1,01:25,DAL,,NOP,,J. Hardy,DAL,MISS Hardy 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,45,122,13,1,2.0,0.0,h
+S2324-G0547,1,00:26.500000,DAL,20.0,NOP,27.0,J. Hardy,DAL,Hardy 3PT Jump Shot (5 PTS) (Kleber 1 AST),Made Shot,Jump Shot,-223,2,0,1,3.0,3.0,h
+S2324-G0547,2,05:01,DAL,,NOP,,J. Hardy,DAL,MISS Hardy 26' 3PT Jump Shot,Missed Shot,Jump Shot,168,195,26,1,3.0,0.0,h
+S2324-G0547,2,04:50,DAL,,NOP,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0547,2,03:25,DAL,,NOP,,J. Hardy,DAL,Hardy Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0547,2,03:18,DAL,,NOP,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0547,2,02:50,DAL,,NOP,,J. Hardy,DAL,SUB: Irving FOR Hardy,Substitution,,0,0,0,0,,,h
+S2324-G0547,3,03:12,DAL,,NOP,,J. Hardy,DAL,SUB: Kleber FOR Hardy,Substitution,,0,0,0,0,,,h
+S2324-G0547,4,09:44,DAL,88.0,NOP,92.0,J. Hardy,DAL,Hardy 26' 3PT Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,-138,217,26,1,3.0,3.0,h
+S2324-G0547,4,08:53,DAL,,NOP,,J. Hardy,DAL,MISS Hardy 26' 3PT Jump Shot,Missed Shot,Jump Shot,-175,186,26,1,3.0,0.0,h
+S2324-G0547,4,08:19,DAL,,NOP,,J. Hardy,DAL,MISS Hardy 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,11,162,16,1,2.0,0.0,h
+S2324-G0547,4,04:02,DAL,,NOP,,J. Hardy,DAL,Hardy OFF.Foul (P1) (M.Dagher),Foul,Offensive,0,0,0,0,,,h
+S2324-G0547,4,04:02,DAL,,NOP,,J. Hardy,DAL,Hardy Offensive Foul Turnover (P2.T12),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0547,4,03:54,DAL,,NOP,,J. Hardy,DAL,SUB: Green FOR Hardy,Substitution,,0,0,0,0,,,h
+S2324-G1213,4,07:48,DAL,,UTA,,J. Hardy,DAL,MISS Hardy 25' 3PT Jump Shot,Missed Shot,Jump Shot,-172,186,25,1,3.0,0.0,h
+S2324-G1213,4,04:46,DAL,,UTA,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1213,4,04:42,DAL,,UTA,,J. Hardy,DAL,Hardy REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1213,4,04:40,DAL,,UTA,,J. Hardy,DAL,MISS Hardy Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2324-G1213,4,04:21,DAL,135.0,UTA,86.0,J. Hardy,DAL,Hardy 25' 3PT Jump Shot (3 PTS) (Prosper 2 AST),Made Shot,Jump Shot,23,252,25,1,3.0,3.0,h
+S2324-G1213,4,04:10,DAL,,UTA,,J. Hardy,DAL,Hardy P.FOUL (P1.T3) (M.Boland),Foul,Personal,0,0,0,0,,,h
+S2324-G1213,4,03:48,DAL,138.0,UTA,88.0,J. Hardy,DAL,Hardy 27' 3PT Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,-180,201,27,1,3.0,3.0,h
+S2324-G1213,4,03:25,DAL,,UTA,,J. Hardy,DAL,MISS Hardy 25' 3PT Jump Shot,Missed Shot,Jump Shot,-174,179,25,1,3.0,0.0,h
+S2324-G1213,4,02:15,DAL,,UTA,,J. Hardy,DAL,MISS Hardy 2' Driving Layup,Missed Shot,Driving Layup Shot,20,13,2,1,2.0,0.0,h
+S2324-G1213,4,02:15,DAL,,UTA,,J. Hardy,DAL,Hardy REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1213,4,02:12,DAL,143.0,UTA,92.0,J. Hardy,DAL,Hardy Putback Layup (8 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,h
+S2324-G1213,4,01:44,DAL,,UTA,,J. Hardy,DAL,Hardy Out of Bounds - Bad Pass Turnover Turnover (P1.T7),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G0530,1,05:36,DAL,20.0,NYK,12.0,J. Hardy,DAL,Hardy 13' Step Back Jump Shot (2 PTS),Made Shot,Step Back Jump shot,56,116,13,1,2.0,2.0,h
+S2324-G0530,1,02:37,DAL,32.0,NYK,18.0,J. Hardy,DAL,Hardy Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0530,1,02:37,DAL,33.0,NYK,18.0,J. Hardy,DAL,Hardy Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0530,1,01:20,DAL,,NYK,,J. Hardy,DAL,Hardy S.FOUL (P1.T3) (S.Wright),Foul,Shooting,0,0,0,0,,,h
+S2324-G0530,1,01:00,DAL,,NYK,,J. Hardy,DAL,MISS Hardy 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,6,92,9,1,2.0,0.0,h
+S2324-G0530,2,06:51,DAL,,NYK,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0530,2,06:39,DAL,,NYK,,J. Hardy,DAL,MISS Hardy 2' Driving Layup,Missed Shot,Driving Layup Shot,12,13,2,1,2.0,0.0,h
+S2324-G0530,2,06:21,DAL,,NYK,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0530,2,06:16,DAL,55.0,NYK,39.0,J. Hardy,DAL,Hardy 2' Running Layup (6 PTS),Made Shot,Running Layup Shot,21,8,2,1,2.0,2.0,h
+S2324-G0530,2,06:16,DAL,56.0,NYK,39.0,J. Hardy,DAL,Hardy Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G0530,2,05:58,DAL,57.0,NYK,39.0,J. Hardy,DAL,Hardy Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0530,2,05:58,DAL,,NYK,,J. Hardy,DAL,MISS Hardy Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0530,2,04:42,DAL,,NYK,,J. Hardy,DAL,MISS Hardy 26' 3PT Jump Shot,Missed Shot,Jump Shot,-176,194,26,1,3.0,0.0,h
+S2324-G0530,2,03:28,DAL,,NYK,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0530,2,03:00,DAL,,NYK,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0530,2,00:24.200000,DAL,,NYK,,J. Hardy,DAL,Hardy S.FOUL (P2.PN) (D.Scott),Foul,Shooting,0,0,0,0,,,h
+S2324-G0530,2,00:22.200000,DAL,,NYK,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0530,3,05:07,DAL,,NYK,,J. Hardy,DAL,MISS Hardy 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-49,248,25,1,3.0,0.0,h
+S2324-G0530,3,00:32.700000,DAL,,NYK,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0530,3,00:20.800000,DAL,,NYK,,J. Hardy,DAL,MISS Hardy 23' Pullup Jump Shot,Missed Shot,Pullup Jump shot,120,195,23,1,2.0,0.0,h
+S2324-G0530,4,10:05,DAL,,NYK,,J. Hardy,DAL,MISS Hardy 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,148,74,17,1,2.0,0.0,h
+S2324-G0530,4,09:57,DAL,,NYK,,J. Hardy,DAL,SUB: Irving FOR Hardy,Substitution,,0,0,0,0,,,h
+S2324-G1008,1,00:02.200000,DAL,26.0,UTA,27.0,J. Hardy,DAL,Hardy 24' 3PT Step Back Jump Shot (3 PTS) (Irving 3 AST),Made Shot,Step Back Jump shot,228,69,24,1,3.0,3.0,h
+S2324-G1008,2,11:19,DAL,,UTA,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1008,2,10:14,DAL,,UTA,,J. Hardy,DAL,MISS Hardy 27' 3PT Jump Shot,Missed Shot,Jump Shot,69,261,27,1,3.0,0.0,h
+S2324-G1008,2,09:21,DAL,,UTA,,J. Hardy,DAL,SUB: Doncic FOR Hardy,Substitution,,0,0,0,0,,,h
+S2324-G1008,3,00:30,DAL,,UTA,,J. Hardy,DAL,Hardy L.B.FOUL (P1.PN) (J.Sterling),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G1008,4,09:36,DAL,90.0,UTA,77.0,J. Hardy,DAL,Hardy 26' 3PT Jump Shot (6 PTS) (Gafford 4 AST),Made Shot,Jump Shot,120,228,26,1,3.0,3.0,h
+S2324-G1008,4,07:38,DAL,,UTA,,J. Hardy,DAL,Hardy P.FOUL (P2.T3) (K.Cutler),Foul,Personal,0,0,0,0,,,h
+S2324-G1008,4,06:26,DAL,,UTA,,J. Hardy,DAL,MISS Hardy 1' Driving Layup,Missed Shot,Driving Layup Shot,6,6,1,1,2.0,0.0,h
+S2324-G1008,4,05:18,DAL,,UTA,,J. Hardy,DAL,Hardy P.FOUL (P3.T4) (J.Sterling),Foul,Personal,0,0,0,0,,,h
+S2324-G1008,4,04:15,DAL,,UTA,,J. Hardy,DAL,Hardy REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1008,4,04:13,DAL,,UTA,,J. Hardy,DAL,MISS Hardy 26' 3PT Jump Shot,Missed Shot,Jump Shot,-119,231,26,1,3.0,0.0,h
+S2324-G1008,4,03:44,DAL,,UTA,,J. Hardy,DAL,Hardy P.FOUL (P4.PN) (J.Williams),Foul,Personal,0,0,0,0,,,h
+S2324-G1008,4,03:09,DAL,,UTA,,J. Hardy,DAL,Hardy Bad Pass Turnover (P1.T11),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G1008,4,02:44,DAL,,UTA,,J. Hardy,DAL,SUB: Irving FOR Hardy,Substitution,,0,0,0,0,,,h
+S2324-G0859,4,03:03,BOS,,DAL,,J. Hardy,DAL,MISS Hardy 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-93,181,20,1,2.0,0.0,v
+S2324-G0859,4,01:55,BOS,,DAL,,J. Hardy,DAL,Hardy Out of Bounds - Bad Pass Turnover Turnover (P1.T8),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0859,4,01:30,BOS,133.0,DAL,108.0,J. Hardy,DAL,Hardy 3' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,-18,21,3,1,2.0,2.0,v
+S2324-G0859,4,01:04,BOS,,DAL,,J. Hardy,DAL,MISS Hardy 27' 3PT Jump Shot,Missed Shot,Jump Shot,146,228,27,1,3.0,0.0,v
+S2324-G0398,1,03:40,DAL,,SAS,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0398,1,03:34,DAL,,SAS,,J. Hardy,DAL,MISS Hardy 5' Driving Layup,Missed Shot,Driving Layup Shot,-39,23,5,1,2.0,0.0,h
+S2324-G0398,1,02:03,DAL,,SAS,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0398,2,06:47,DAL,,SAS,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0398,2,05:16,DAL,,SAS,,J. Hardy,DAL,MISS Hardy 4' Driving Layup,Missed Shot,Driving Layup Shot,-39,18,4,1,2.0,0.0,h
+S2324-G0398,2,05:05,DAL,,SAS,,J. Hardy,DAL,SUB: Hardaway Jr. FOR Hardy,Substitution,,0,0,0,0,,,h
+S2324-G0398,3,05:11,DAL,,SAS,,J. Hardy,DAL,MISS Hardy 26' 3PT Jump Shot,Missed Shot,Jump Shot,114,230,26,1,3.0,0.0,h
+S2324-G0398,3,04:59,DAL,,SAS,,J. Hardy,DAL,Hardy STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0398,3,03:15,DAL,,SAS,,J. Hardy,DAL,Hardy STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0398,3,02:38,DAL,107.0,SAS,81.0,J. Hardy,DAL,Hardy Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0398,3,02:38,DAL,108.0,SAS,81.0,J. Hardy,DAL,Hardy Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0398,3,02:07,DAL,,SAS,,J. Hardy,DAL,MISS Hardy 26' 3PT Jump Shot,Missed Shot,Jump Shot,134,219,26,1,3.0,0.0,h
+S2324-G0398,4,08:43,DAL,,SAS,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0398,4,08:36,DAL,,SAS,,J. Hardy,DAL,MISS Hardy 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,156,38,16,1,2.0,0.0,h
+S2324-G0398,4,08:19,DAL,133.0,SAS,92.0,J. Hardy,DAL,Hardy 26' 3PT Jump Shot (5 PTS) (Lawson 3 AST),Made Shot,Jump Shot,-197,164,26,1,3.0,3.0,h
+S2324-G0398,4,07:24,DAL,,SAS,,J. Hardy,DAL,Hardy STEAL (3 STL),,,0,0,0,0,,,h
+S2324-G0398,4,06:18,DAL,,SAS,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0398,4,06:13,DAL,,SAS,,J. Hardy,DAL,MISS Hardy 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-94,232,25,1,3.0,0.0,h
+S2324-G0398,4,05:43,DAL,,SAS,,J. Hardy,DAL,MISS Hardy Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0398,4,05:43,DAL,134.0,SAS,96.0,J. Hardy,DAL,Hardy Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0398,4,05:33,DAL,,SAS,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0398,4,03:58,DAL,,SAS,,J. Hardy,DAL,Hardy S.FOUL (P1.T4) (S.Wright),Foul,Shooting,0,0,0,0,,,h
+S2324-G0398,4,03:43,DAL,,SAS,,J. Hardy,DAL,SUB: Powell FOR Hardy,Substitution,,0,0,0,0,,,h
+S2324-G1161,4,00:49.500000,MIA,,DAL,,J. Hardy,DAL,MISS Hardy 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,88,151,17,1,2.0,0.0,v
+S2324-G1161,4,00:43.100000,MIA,,DAL,,J. Hardy,DAL,Hardy OFF.Foul (P1) (P.Fraher),Foul,Offensive,0,0,0,0,,,v
+S2324-G1161,4,00:43.100000,MIA,,DAL,,J. Hardy,DAL,Hardy Offensive Foul Turnover (P1.T7),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G1161,4,00:30.600000,MIA,,DAL,,J. Hardy,DAL,Hardy REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v

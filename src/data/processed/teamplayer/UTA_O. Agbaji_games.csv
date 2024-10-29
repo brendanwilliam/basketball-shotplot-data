@@ -1,0 +1,645 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2324-G0564,2,11:22,UTA,,IND,,O. Agbaji,UTA,Agbaji REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0564,2,10:55,UTA,,IND,,O. Agbaji,UTA,Agbaji BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0564,2,10:48,UTA,34.0,IND,28.0,O. Agbaji,UTA,Agbaji Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0564,2,10:48,UTA,35.0,IND,28.0,O. Agbaji,UTA,Agbaji Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0564,2,10:13,UTA,,IND,,O. Agbaji,UTA,Agbaji S.FOUL (P1.T1) (A.Nagy),Foul,Shooting,0,0,0,0,,,h
+S2324-G0564,2,09:35,UTA,41.0,IND,35.0,O. Agbaji,UTA,Agbaji 4' Cutting Layup Shot (4 PTS) (George 3 AST),Made Shot,Cutting Layup Shot,-29,27,4,1,2.0,2.0,h
+S2324-G0564,2,05:05,UTA,,IND,,O. Agbaji,UTA,SUB: Fontecchio FOR Agbaji,Substitution,,0,0,0,0,,,h
+S2324-G0564,4,11:32,UTA,,IND,,O. Agbaji,UTA,Agbaji REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0564,4,11:24,UTA,,IND,,O. Agbaji,UTA,MISS Agbaji 4' Floating Jump Shot,Missed Shot,Floating Jump shot,-6,43,4,1,2.0,0.0,h
+S2324-G0564,4,06:50,UTA,,IND,,O. Agbaji,UTA,Agbaji P.FOUL (P2.T2) (A.Nagy),Foul,Personal,0,0,0,0,,,h
+S2324-G0564,4,06:16,UTA,,IND,,O. Agbaji,UTA,Agbaji Traveling Turnover (P1.T14),Turnover,Traveling,0,0,0,0,,,h
+S2324-G0564,4,03:25,UTA,,IND,,O. Agbaji,UTA,MISS Agbaji 25' 3PT Jump Shot,Missed Shot,Jump Shot,239,75,25,1,3.0,0.0,h
+S2324-G0564,4,03:08,UTA,,IND,,O. Agbaji,UTA,Agbaji REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0564,4,02:12,UTA,,IND,,O. Agbaji,UTA,Agbaji REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0564,4,02:03,UTA,,IND,,O. Agbaji,UTA,MISS Agbaji 6' Driving Hook Shot,Missed Shot,Driving Hook Shot,47,36,6,1,2.0,0.0,h
+S2324-G0270,1,10:39,MIN,,UTA,,O. Agbaji,UTA,Agbaji REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0270,1,08:56,MIN,5.0,UTA,5.0,O. Agbaji,UTA,Agbaji 24' 3PT Jump Shot (3 PTS) (Fontecchio 1 AST),Made Shot,Jump Shot,222,82,24,1,3.0,3.0,v
+S2324-G0270,1,07:25,MIN,10.0,UTA,9.0,O. Agbaji,UTA,Agbaji 1' Cutting Layup Shot (5 PTS) (Fontecchio 2 AST),Made Shot,Cutting Layup Shot,-4,5,1,1,2.0,2.0,v
+S2324-G0270,1,07:08,MIN,,UTA,,O. Agbaji,UTA,Agbaji STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0270,1,06:47,MIN,,UTA,,O. Agbaji,UTA,Agbaji REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0270,1,03:34,MIN,,UTA,,O. Agbaji,UTA,SUB: Horton-Tucker FOR Agbaji,Substitution,,0,0,0,0,,,v
+S2324-G0270,2,06:09,MIN,,UTA,,O. Agbaji,UTA,MISS Agbaji 26' 3PT Jump Shot,Missed Shot,Jump Shot,176,190,26,1,3.0,0.0,v
+S2324-G0270,2,03:51,MIN,,UTA,,O. Agbaji,UTA,Agbaji REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0270,2,03:49,MIN,,UTA,,O. Agbaji,UTA,MISS Agbaji 25' 3PT Jump Shot,Missed Shot,Jump Shot,158,194,25,1,3.0,0.0,v
+S2324-G0270,2,01:51,MIN,44.0,UTA,45.0,O. Agbaji,UTA,Agbaji 2' Driving Layup (7 PTS) (Olynyk 3 AST),Made Shot,Driving Layup Shot,12,21,2,1,2.0,2.0,v
+S2324-G0270,3,09:45,MIN,,UTA,,O. Agbaji,UTA,Agbaji STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0270,3,09:34,MIN,51.0,UTA,54.0,O. Agbaji,UTA,Agbaji 3PT Jump Shot (10 PTS) (Fontecchio 3 AST),Made Shot,Jump Shot,232,6,0,1,3.0,3.0,v
+S2324-G0270,3,07:46,MIN,,UTA,,O. Agbaji,UTA,Agbaji REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0270,3,07:43,MIN,,UTA,,O. Agbaji,UTA,Agbaji Lost Ball Turnover (P1.T13),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0270,3,07:43,MIN,,UTA,,O. Agbaji,UTA,Agbaji P.FOUL (P1.T3) (T.Ford),Foul,Personal,0,0,0,0,,,v
+S2324-G0270,3,06:36,MIN,,UTA,,O. Agbaji,UTA,SUB: Kessler FOR Agbaji,Substitution,,0,0,0,0,,,v
+S2324-G0270,4,06:51,MIN,,UTA,,O. Agbaji,UTA,MISS Agbaji 25' 3PT Jump Shot,Missed Shot,Jump Shot,-194,155,25,1,3.0,0.0,v
+S2324-G0270,4,05:15,MIN,97.0,UTA,81.0,O. Agbaji,UTA,Agbaji 3PT Jump Shot (13 PTS) (Fontecchio 5 AST),Made Shot,Jump Shot,228,12,0,1,3.0,3.0,v
+S2324-G0270,4,04:11,MIN,,UTA,,O. Agbaji,UTA,Agbaji REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0270,4,04:10,MIN,,UTA,,O. Agbaji,UTA,MISS Agbaji 4' Putback Layup,Missed Shot,Putback Layup Shot,6,37,4,1,2.0,0.0,v
+S2324-G0270,4,03:40,MIN,,UTA,,O. Agbaji,UTA,Agbaji REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0270,4,02:35,MIN,,UTA,,O. Agbaji,UTA,MISS Agbaji 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-131,27,13,1,2.0,0.0,v
+S2324-G0270,4,00:56.100000,MIN,,UTA,,O. Agbaji,UTA,Agbaji STEAL (3 STL),,,0,0,0,0,,,v
+S2324-G0270,4,00:34.400000,MIN,,UTA,,O. Agbaji,UTA,Agbaji STEAL (4 STL),,,0,0,0,0,,,v
+S2324-G0374,1,05:35,DET,,UTA,,O. Agbaji,UTA,MISS Agbaji 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,-13,12,2,1,2.0,0.0,v
+S2324-G0374,1,04:19,DET,27.0,UTA,22.0,O. Agbaji,UTA,Agbaji 26' 3PT Jump Shot (3 PTS) (Sexton 2 AST),Made Shot,Jump Shot,-202,162,26,1,3.0,3.0,v
+S2324-G0374,1,04:08,DET,27.0,UTA,24.0,O. Agbaji,UTA,Agbaji 2' Running Dunk (5 PTS) (Sexton 3 AST),Made Shot,Running Dunk Shot,15,2,2,1,2.0,2.0,v
+S2324-G0374,1,00:50.300000,DET,,UTA,,O. Agbaji,UTA,Agbaji STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0374,2,11:26,DET,32.0,UTA,38.0,O. Agbaji,UTA,Agbaji 1' Running Dunk (7 PTS) (Dunn 6 AST),Made Shot,Running Dunk Shot,-9,8,1,1,2.0,2.0,v
+S2324-G0374,2,10:13,DET,32.0,UTA,42.0,O. Agbaji,UTA,Agbaji 2' Driving Layup (9 PTS) (Kessler 1 AST),Made Shot,Driving Layup Shot,-17,17,2,1,2.0,2.0,v
+S2324-G0374,2,09:25,DET,32.0,UTA,45.0,O. Agbaji,UTA,Agbaji 27' 3PT Jump Shot (12 PTS) (Dunn 7 AST),Made Shot,Jump Shot,-137,228,27,1,3.0,3.0,v
+S2324-G0374,2,06:53,DET,,UTA,,O. Agbaji,UTA,MISS Agbaji 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,76,251,26,1,3.0,0.0,v
+S2324-G0374,2,05:49,DET,,UTA,,O. Agbaji,UTA,MISS Agbaji 25' 3PT Jump Shot,Missed Shot,Jump Shot,203,149,25,1,3.0,0.0,v
+S2324-G0374,2,05:36,DET,,UTA,,O. Agbaji,UTA,Agbaji S.FOUL (P1.T3) (D.Mosher),Foul,Shooting,0,0,0,0,,,v
+S2324-G0374,2,04:30,DET,,UTA,,O. Agbaji,UTA,Agbaji REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0374,2,03:56,DET,,UTA,,O. Agbaji,UTA,MISS Agbaji 26' 3PT Jump Shot,Missed Shot,Jump Shot,-190,172,26,1,3.0,0.0,v
+S2324-G0374,2,01:45,DET,55.0,UTA,61.0,O. Agbaji,UTA,Agbaji 2' Driving Layup (14 PTS) (Sexton 4 AST),Made Shot,Driving Layup Shot,-15,18,2,1,2.0,2.0,v
+S2324-G0374,3,04:49,DET,78.0,UTA,82.0,O. Agbaji,UTA,Agbaji 1' Driving Dunk (16 PTS) (Olynyk 5 AST),Made Shot,Driving Dunk Shot,6,8,1,1,2.0,2.0,v
+S2324-G0374,3,02:47,DET,,UTA,,O. Agbaji,UTA,MISS Agbaji 25' 3PT Jump Shot,Missed Shot,Jump Shot,143,211,25,1,3.0,0.0,v
+S2324-G0374,3,01:50,DET,,UTA,,O. Agbaji,UTA,Agbaji S.FOUL (P2.PN) (D.Mosher),Foul,Shooting,0,0,0,0,,,v
+S2324-G0374,3,00:03.800000,DET,,UTA,,O. Agbaji,UTA,Agbaji S.FOUL (P3.PN) (Z.Zarba),Foul,Shooting,0,0,0,0,,,v
+S2324-G0374,4,08:13,DET,,UTA,,O. Agbaji,UTA,Agbaji REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0374,4,07:03,DET,95.0,UTA,101.0,O. Agbaji,UTA,Agbaji Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0374,4,07:03,DET,95.0,UTA,102.0,O. Agbaji,UTA,Agbaji Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0374,4,05:39,DET,,UTA,,O. Agbaji,UTA,Agbaji STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0374,4,03:40,DET,,UTA,,O. Agbaji,UTA,Agbaji S.FOUL (P4.T3) (J.Butler),Foul,Shooting,0,0,0,0,,,v
+S2324-G0374,4,03:37,DET,,UTA,,O. Agbaji,UTA,SUB: Dunn FOR Agbaji,Substitution,,0,0,0,0,,,v
+S2324-G0289,1,09:28,UTA,,POR,,O. Agbaji,UTA,Agbaji S.FOUL (P1.T1) (S.Wright),Foul,Shooting,0,0,0,0,,,h
+S2324-G0289,1,08:34,UTA,,POR,,O. Agbaji,UTA,Agbaji REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0289,1,07:14,UTA,9.0,POR,8.0,O. Agbaji,UTA,Agbaji 3' Driving Layup (2 PTS) (Collins 2 AST),Made Shot,Driving Layup Shot,23,21,3,1,2.0,2.0,h
+S2324-G0289,1,03:48,UTA,,POR,,O. Agbaji,UTA,SUB: Horton-Tucker FOR Agbaji,Substitution,,0,0,0,0,,,h
+S2324-G0289,2,05:42,UTA,,POR,,O. Agbaji,UTA,Agbaji OFF.Foul (P2) (S.Wright),Foul,Offensive,0,0,0,0,,,h
+S2324-G0289,2,05:42,UTA,,POR,,O. Agbaji,UTA,Agbaji Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0289,3,11:04,UTA,58.0,POR,47.0,O. Agbaji,UTA,Agbaji 11' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,-61,88,11,1,2.0,2.0,h
+S2324-G0289,3,07:40,UTA,65.0,POR,53.0,O. Agbaji,UTA,Agbaji 3' Running Dunk (6 PTS) (George 3 AST),Made Shot,Running Dunk Shot,28,15,3,1,2.0,2.0,h
+S2324-G0289,3,05:39,UTA,,POR,,O. Agbaji,UTA,Agbaji REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0289,3,05:13,UTA,,POR,,O. Agbaji,UTA,Agbaji Bad Pass Turnover (P2.T9),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0289,3,04:50,UTA,,POR,,O. Agbaji,UTA,SUB: Horton-Tucker FOR Agbaji,Substitution,,0,0,0,0,,,h
+S2324-G0289,4,02:33,UTA,,POR,,O. Agbaji,UTA,MISS Agbaji 5' Driving Layup,Missed Shot,Driving Layup Shot,48,19,5,1,2.0,0.0,h
+S2324-G0289,4,00:49.500000,UTA,,POR,,O. Agbaji,UTA,SUB: Sexton FOR Agbaji,Substitution,,0,0,0,0,,,h
+S2324-G0323,1,01:13,POR,,UTA,,O. Agbaji,UTA,Agbaji REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0323,1,01:09,POR,28.0,UTA,34.0,O. Agbaji,UTA,Agbaji 2' Running Layup (2 PTS),Made Shot,Running Layup Shot,20,8,2,1,2.0,2.0,v
+S2324-G0323,2,10:02,POR,36.0,UTA,42.0,O. Agbaji,UTA,Agbaji 1' Running Layup (4 PTS) (Dunn 2 AST),Made Shot,Running Layup Shot,0,7,1,1,2.0,2.0,v
+S2324-G0323,2,09:31,POR,,UTA,,O. Agbaji,UTA,MISS Agbaji 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,5,252,25,1,3.0,0.0,v
+S2324-G0323,2,06:22,POR,,UTA,,O. Agbaji,UTA,SUB: Sexton FOR Agbaji,Substitution,,0,0,0,0,,,v
+S2324-G0323,3,05:02,POR,60.0,UTA,90.0,O. Agbaji,UTA,Agbaji 24' 3PT Jump Shot (7 PTS) (Olynyk 5 AST),Made Shot,Jump Shot,238,9,24,1,3.0,3.0,v
+S2324-G0323,3,04:48,POR,,UTA,,O. Agbaji,UTA,Agbaji REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0323,3,04:24,POR,,UTA,,O. Agbaji,UTA,Agbaji REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0323,3,04:14,POR,,UTA,,O. Agbaji,UTA,Agbaji Offensive Charge Foul (P1) (S.Corbin),Foul,Offensive Charge,0,0,0,0,,,v
+S2324-G0323,3,04:14,POR,,UTA,,O. Agbaji,UTA,Agbaji Offensive Foul Turnover (P1.T7),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0323,3,03:21,POR,64.0,UTA,95.0,O. Agbaji,UTA,Agbaji 24' 3PT Jump Shot (10 PTS) (Olynyk 7 AST),Made Shot,Jump Shot,-235,10,24,1,3.0,3.0,v
+S2324-G0323,3,02:51,POR,,UTA,,O. Agbaji,UTA,MISS Agbaji 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-219,117,25,1,3.0,0.0,v
+S2324-G0323,3,02:44,POR,,UTA,,O. Agbaji,UTA,Agbaji S.FOUL (P2.T3) (C.Washington),Foul,Shooting,0,0,0,0,,,v
+S2324-G0323,3,01:18,POR,70.0,UTA,101.0,O. Agbaji,UTA,Agbaji 1' Running Alley Oop Layup Shot (12 PTS) (Horton-Tucker 4 AST),Made Shot,Running Alley Oop Layup Shot,7,-1,1,1,2.0,2.0,v
+S2324-G0323,4,09:13,POR,80.0,UTA,113.0,O. Agbaji,UTA,Agbaji 3' Running Layup (14 PTS) (Dunn 5 AST),Made Shot,Running Layup Shot,7,31,3,1,2.0,2.0,v
+S2324-G0323,4,08:07,POR,,UTA,,O. Agbaji,UTA,MISS Agbaji 26' 3PT Jump Shot,Missed Shot,Jump Shot,-162,201,26,1,3.0,0.0,v
+S2324-G0323,4,06:48,POR,,UTA,,O. Agbaji,UTA,MISS Agbaji 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,109,153,19,1,2.0,0.0,v
+S2324-G0323,4,06:39,POR,,UTA,,O. Agbaji,UTA,MISS Agbaji 24' 3PT Jump Shot,Missed Shot,Jump Shot,243,17,24,1,3.0,0.0,v
+S2324-G0323,4,06:04,POR,90.0,UTA,115.0,O. Agbaji,UTA,Agbaji 1' Reverse Layup (16 PTS) (Yurtseven 1 AST),Made Shot,Reverse Layup Shot,-6,4,1,1,2.0,2.0,v
+S2324-G0323,4,05:09,POR,,UTA,,O. Agbaji,UTA,Agbaji S.FOUL (P3.T2) (B.Forte),Foul,Shooting,0,0,0,0,,,v
+S2324-G0138,1,00:00.500000,MIN,29.0,UTA,27.0,O. Agbaji,UTA,Agbaji 3PT Jump Shot (3 PTS) (George 2 AST),Made Shot,Jump Shot,-230,-1,0,1,3.0,3.0,v
+S2324-G0138,2,11:06,MIN,31.0,UTA,30.0,O. Agbaji,UTA,Agbaji 25' 3PT Jump Shot (6 PTS) (George 3 AST),Made Shot,Jump Shot,-94,227,25,1,3.0,3.0,v
+S2324-G0138,2,08:14,MIN,,UTA,,O. Agbaji,UTA,Agbaji P.FOUL (P1.T2) (A.Moyer-Gleich),Foul,Personal,0,0,0,0,,,v
+S2324-G0138,2,04:48,MIN,,UTA,,O. Agbaji,UTA,MISS Agbaji 25' 3PT Jump Shot,Missed Shot,Jump Shot,223,103,25,1,3.0,0.0,v
+S2324-G0138,2,04:45,MIN,,UTA,,O. Agbaji,UTA,Agbaji REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0138,2,02:40,MIN,,UTA,,O. Agbaji,UTA,SUB: Markkanen FOR Agbaji,Substitution,,0,0,0,0,,,v
+S2324-G0138,3,01:33,MIN,,UTA,,O. Agbaji,UTA,Agbaji REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0138,3,01:33,MIN,85.0,UTA,74.0,O. Agbaji,UTA,Agbaji Putback Layup (8 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,v
+S2324-G0138,3,01:33,MIN,,UTA,,O. Agbaji,UTA,MISS Agbaji Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2324-G0138,4,10:37,MIN,,UTA,,O. Agbaji,UTA,MISS Agbaji 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-121,225,26,1,3.0,0.0,v
+S2324-G0138,4,09:32,MIN,,UTA,,O. Agbaji,UTA,SUB: Fontecchio FOR Agbaji,Substitution,,0,0,0,0,,,v
+S2324-G0616,2,10:25,NOP,,UTA,,O. Agbaji,UTA,MISS Agbaji 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,26,81,9,1,2.0,0.0,v
+S2324-G0616,2,09:27,NOP,,UTA,,O. Agbaji,UTA,Agbaji REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0616,2,06:23,NOP,,UTA,,O. Agbaji,UTA,SUB: Sexton FOR Agbaji,Substitution,,0,0,0,0,,,v
+S2324-G0616,4,10:54,NOP,,UTA,,O. Agbaji,UTA,Agbaji REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0616,4,10:37,NOP,,UTA,,O. Agbaji,UTA,MISS Agbaji 3' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,-29,-10,3,1,2.0,0.0,v
+S2324-G0616,4,09:36,NOP,126.0,UTA,98.0,O. Agbaji,UTA,Agbaji 24' 3PT Jump Shot (3 PTS) (George 3 AST),Made Shot,Jump Shot,233,59,24,1,3.0,3.0,v
+S2324-G0616,4,08:48,NOP,126.0,UTA,100.0,O. Agbaji,UTA,Agbaji 5' Driving Layup (5 PTS) (George 4 AST),Made Shot,Driving Layup Shot,1,47,5,1,2.0,2.0,v
+S2324-G0495,2,10:09,PHI,,UTA,,O. Agbaji,UTA,Agbaji L.B.FOUL (P1.T2) (E.Dalen),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0495,2,09:39,PHI,,UTA,,O. Agbaji,UTA,MISS Agbaji 24' 3PT Jump Shot,Missed Shot,Jump Shot,-240,5,24,1,3.0,0.0,v
+S2324-G0495,2,09:29,PHI,,UTA,,O. Agbaji,UTA,Agbaji Step Out of Bounds Turnover (P1.T9),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2324-G0495,2,09:05,PHI,,UTA,,O. Agbaji,UTA,Agbaji REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0495,2,08:01,PHI,,UTA,,O. Agbaji,UTA,SUB: Markkanen FOR Agbaji,Substitution,,0,0,0,0,,,v
+S2324-G0495,3,01:40,PHI,,UTA,,O. Agbaji,UTA,Agbaji REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0495,3,01:23,PHI,,UTA,,O. Agbaji,UTA,Agbaji REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0495,4,08:06,PHI,,UTA,,O. Agbaji,UTA,MISS Agbaji 25' 3PT Jump Shot,Missed Shot,Jump Shot,221,117,25,1,3.0,0.0,v
+S2324-G0495,4,07:56,PHI,,UTA,,O. Agbaji,UTA,SUB: Markkanen FOR Agbaji,Substitution,,0,0,0,0,,,v
+S2324-G0342,1,01:43,SAC,,UTA,,O. Agbaji,UTA,Agbaji REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0342,1,00:53.500000,SAC,,UTA,,O. Agbaji,UTA,Agbaji REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0342,2,10:46,SAC,,UTA,,O. Agbaji,UTA,MISS Agbaji 6' Running Layup,Missed Shot,Running Layup Shot,40,43,6,1,2.0,0.0,v
+S2324-G0342,2,08:16,SAC,,UTA,,O. Agbaji,UTA,Agbaji REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0342,2,08:15,SAC,38.0,UTA,31.0,O. Agbaji,UTA,Agbaji 3' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,11,29,3,1,2.0,2.0,v
+S2324-G0342,2,06:59,SAC,,UTA,,O. Agbaji,UTA,MISS Agbaji 26' 3PT Jump Shot,Missed Shot,Jump Shot,163,200,26,1,3.0,0.0,v
+S2324-G0342,2,06:15,SAC,,UTA,,O. Agbaji,UTA,SUB: Fontecchio FOR Agbaji,Substitution,,0,0,0,0,,,v
+S2324-G0342,3,06:18,SAC,,UTA,,O. Agbaji,UTA,Agbaji STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0342,3,06:10,SAC,,UTA,,O. Agbaji,UTA,MISS Agbaji 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-69,252,26,1,3.0,0.0,v
+S2324-G0342,3,04:36,SAC,,UTA,,O. Agbaji,UTA,Agbaji REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0342,3,04:05,SAC,,UTA,,O. Agbaji,UTA,MISS Agbaji 9' Floating Jump Shot,Missed Shot,Floating Jump shot,6,94,9,1,2.0,0.0,v
+S2324-G0342,3,03:58,SAC,,UTA,,O. Agbaji,UTA,Agbaji S.FOUL (P1.T3) (N.Buchert),Foul,Shooting,0,0,0,0,,,v
+S2324-G0342,3,02:45,SAC,,UTA,,O. Agbaji,UTA,MISS Agbaji 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-5,147,15,1,2.0,0.0,v
+S2324-G0342,3,00:10.300000,SAC,103.0,UTA,76.0,O. Agbaji,UTA,Agbaji 3PT Jump Shot (5 PTS) (Markkanen 2 AST),Made Shot,Jump Shot,227,36,0,1,3.0,3.0,v
+S2324-G0342,4,09:51,SAC,,UTA,,O. Agbaji,UTA,Agbaji S.FOUL (P2.T1) (M.Lindsay),Foul,Shooting,0,0,0,0,,,v
+S2324-G0342,4,04:22,SAC,,UTA,,O. Agbaji,UTA,SUB: Potter FOR Agbaji,Substitution,,0,0,0,0,,,v
+S2324-G0457,2,11:46,UTA,,DAL,,O. Agbaji,UTA,MISS Agbaji 3PT Jump Shot,Missed Shot,Jump Shot,230,20,0,1,3.0,0.0,h
+S2324-G0457,2,05:48,UTA,,DAL,,O. Agbaji,UTA,SUB: Markkanen FOR Agbaji,Substitution,,0,0,0,0,,,h
+S2324-G0457,3,01:27,UTA,,DAL,,O. Agbaji,UTA,Agbaji OFF.Foul (P1) (D.Collins),Foul,Offensive,0,0,0,0,,,h
+S2324-G0457,3,01:27,UTA,,DAL,,O. Agbaji,UTA,Agbaji Offensive Foul Turnover (P1.T12),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0457,4,11:34,UTA,,DAL,,O. Agbaji,UTA,MISS Agbaji 3PT Jump Shot,Missed Shot,Jump Shot,-221,-4,0,1,3.0,0.0,h
+S2324-G0457,4,10:52,UTA,,DAL,,O. Agbaji,UTA,Agbaji REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0457,4,10:52,UTA,95.0,DAL,79.0,O. Agbaji,UTA,Agbaji Putback Layup (2 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,h
+S2324-G0457,4,09:41,UTA,,DAL,,O. Agbaji,UTA,MISS Agbaji 27' 3PT Jump Shot,Missed Shot,Jump Shot,-76,255,27,1,3.0,0.0,h
+S2324-G0457,4,09:14,UTA,,DAL,,O. Agbaji,UTA,MISS Agbaji 3PT Jump Shot,Missed Shot,Jump Shot,-227,-7,0,1,3.0,0.0,h
+S2324-G0457,4,08:03,UTA,,DAL,,O. Agbaji,UTA,SUB: Fontecchio FOR Agbaji,Substitution,,0,0,0,0,,,h
+S2324-G0457,4,02:20,UTA,,DAL,,O. Agbaji,UTA,MISS Agbaji 25' 3PT Jump Shot,Missed Shot,Jump Shot,110,230,25,1,3.0,0.0,h
+S2324-G0457,4,01:57,UTA,,DAL,,O. Agbaji,UTA,Agbaji REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0085,1,05:57,UTA,,LAC,,O. Agbaji,UTA,Agbaji REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0085,1,05:36,UTA,22.0,LAC,15.0,O. Agbaji,UTA,Agbaji 4' Running Dunk (2 PTS) (Olynyk 1 AST),Made Shot,Running Dunk Shot,39,14,4,1,2.0,2.0,h
+S2324-G0085,1,04:35,UTA,,LAC,,O. Agbaji,UTA,Agbaji L.B.FOUL (P1.T3) (K.Cutler),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0085,1,04:25,UTA,,LAC,,O. Agbaji,UTA,Agbaji P.FOUL (P2.T4) (D.Guthrie),Foul,Personal,0,0,0,0,,,h
+S2324-G0085,1,03:58,UTA,,LAC,,O. Agbaji,UTA,Agbaji STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0085,3,05:47,UTA,,LAC,,O. Agbaji,UTA,Agbaji S.FOUL (P3.T4) (K.Cutler),Foul,Shooting,0,0,0,0,,,h
+S2324-G0085,3,05:27,UTA,,LAC,,O. Agbaji,UTA,MISS Agbaji 26' 3PT Jump Shot,Missed Shot,Jump Shot,-228,127,26,1,3.0,0.0,h
+S2324-G0085,3,03:30,UTA,,LAC,,O. Agbaji,UTA,MISS Agbaji 3PT Jump Shot,Missed Shot,Jump Shot,227,16,0,1,3.0,0.0,h
+S2324-G0085,3,01:26,UTA,,LAC,,O. Agbaji,UTA,Agbaji BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0302,1,11:46,OKC,,UTA,,O. Agbaji,UTA,Agbaji STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0302,1,10:52,OKC,,UTA,,O. Agbaji,UTA,Agbaji STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0302,1,08:22,OKC,,UTA,,O. Agbaji,UTA,Agbaji S.FOUL (P1.T1) (D.Scott),Foul,Shooting,0,0,0,0,,,v
+S2324-G0302,1,06:59,OKC,12.0,UTA,9.0,O. Agbaji,UTA,Agbaji 4' Driving Floating Bank Jump Shot (2 PTS) (George 1 AST),Made Shot,Driving Floating Bank Jump Shot,43,4,4,1,2.0,2.0,v
+S2324-G0302,1,04:55,OKC,,UTA,,O. Agbaji,UTA,MISS Agbaji 25' 3PT Jump Shot,Missed Shot,Jump Shot,154,195,25,1,3.0,0.0,v
+S2324-G0302,1,03:42,OKC,,UTA,,O. Agbaji,UTA,SUB: Hendricks FOR Agbaji,Substitution,,0,0,0,0,,,v
+S2324-G0302,2,01:30,OKC,,UTA,,O. Agbaji,UTA,MISS Agbaji 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,23,-2,2,1,2.0,0.0,v
+S2324-G0302,2,01:24,OKC,,UTA,,O. Agbaji,UTA,Agbaji BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0302,3,07:49,OKC,,UTA,,O. Agbaji,UTA,MISS Agbaji 1' Driving Layup,Missed Shot,Driving Layup Shot,11,8,1,1,2.0,0.0,v
+S2324-G0302,3,06:49,OKC,,UTA,,O. Agbaji,UTA,Agbaji STEAL (3 STL),,,0,0,0,0,,,v
+S2324-G0302,3,05:47,OKC,,UTA,,O. Agbaji,UTA,Agbaji Bad Pass Turnover (P1.T11),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0302,3,05:10,OKC,,UTA,,O. Agbaji,UTA,Agbaji REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0302,3,03:58,OKC,,UTA,,O. Agbaji,UTA,SUB: Hendricks FOR Agbaji,Substitution,,0,0,0,0,,,v
+S2324-G0660,2,10:15,BKN,,UTA,,O. Agbaji,UTA,MISS Agbaji 8' Driving Layup,Missed Shot,Driving Layup Shot,51,65,8,1,2.0,0.0,v
+S2324-G0660,2,09:49,BKN,,UTA,,O. Agbaji,UTA,MISS Agbaji 3PT Jump Shot,Missed Shot,Jump Shot,-229,-5,0,1,3.0,0.0,v
+S2324-G0660,2,09:38,BKN,,UTA,,O. Agbaji,UTA,Agbaji BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0660,2,07:51,BKN,53.0,UTA,42.0,O. Agbaji,UTA,Agbaji 2' Reverse Layup (2 PTS) (Olynyk 3 AST),Made Shot,Reverse Layup Shot,15,4,2,1,2.0,2.0,v
+S2324-G0660,2,07:07,BKN,,UTA,,O. Agbaji,UTA,SUB: Markkanen FOR Agbaji,Substitution,,0,0,0,0,,,v
+S2324-G0660,3,01:30,BKN,94.0,UTA,83.0,O. Agbaji,UTA,Agbaji 1' Running Alley Oop Layup Shot (4 PTS) (George 3 AST),Made Shot,Running Alley Oop Layup Shot,1,10,1,1,2.0,2.0,v
+S2324-G0660,4,08:39,BKN,,UTA,,O. Agbaji,UTA,Agbaji REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0660,4,06:52,BKN,,UTA,,O. Agbaji,UTA,Agbaji REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0660,4,05:03,BKN,,UTA,,O. Agbaji,UTA,Agbaji REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0660,4,02:44,BKN,,UTA,,O. Agbaji,UTA,Agbaji BLOCK (2 BLK),,,0,0,0,0,,,v
+S2324-G0660,4,01:31,BKN,,UTA,,O. Agbaji,UTA,MISS Agbaji 25' 3PT Jump Shot,Missed Shot,Jump Shot,158,200,25,1,3.0,0.0,v
+S2324-G0549,1,01:37,UTA,,LAL,,O. Agbaji,UTA,Agbaji BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0549,1,00:32.900000,UTA,,LAL,,O. Agbaji,UTA,MISS Agbaji 3PT Jump Shot,Missed Shot,Jump Shot,225,31,0,1,3.0,0.0,h
+S2324-G0549,2,08:55,UTA,,LAL,,O. Agbaji,UTA,Agbaji REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0549,2,08:10,UTA,,LAL,,O. Agbaji,UTA,Agbaji REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0549,2,06:50,UTA,,LAL,,O. Agbaji,UTA,SUB: Markkanen FOR Agbaji,Substitution,,0,0,0,0,,,h
+S2324-G0549,2,02:44,UTA,,LAL,,O. Agbaji,UTA,MISS Agbaji 7' Driving Layup,Missed Shot,Driving Layup Shot,-62,42,7,1,2.0,0.0,h
+S2324-G0549,3,01:08,UTA,,LAL,,O. Agbaji,UTA,Agbaji REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0549,3,01:08,UTA,,LAL,,O. Agbaji,UTA,MISS Agbaji Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2324-G0549,4,10:35,UTA,105.0,LAL,99.0,O. Agbaji,UTA,Agbaji 4' Running Alley Oop Dunk Shot (2 PTS) (Olynyk 2 AST),Made Shot,Running Alley Oop Dunk Shot,-36,-1,4,1,2.0,2.0,h
+S2324-G0549,4,09:36,UTA,,LAL,,O. Agbaji,UTA,MISS Agbaji 25' 3PT Jump Shot,Missed Shot,Jump Shot,-140,208,25,1,3.0,0.0,h
+S2324-G0549,4,06:40,UTA,,LAL,,O. Agbaji,UTA,Agbaji REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0549,4,06:20,UTA,,LAL,,O. Agbaji,UTA,SUB: Sexton FOR Agbaji,Substitution,,0,0,0,0,,,h
+S2324-G0158,1,11:36,IND,,UTA,,O. Agbaji,UTA,Agbaji REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0158,1,11:21,IND,,UTA,,O. Agbaji,UTA,Agbaji Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0158,1,05:54,IND,,UTA,,O. Agbaji,UTA,Agbaji Traveling Turnover (P2.T3),Turnover,Traveling,0,0,0,0,,,v
+S2324-G0158,1,05:09,IND,,UTA,,O. Agbaji,UTA,Agbaji REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0158,1,05:03,IND,,UTA,,O. Agbaji,UTA,SUB: Sexton FOR Agbaji,Substitution,,0,0,0,0,,,v
+S2324-G0158,2,01:46,IND,,UTA,,O. Agbaji,UTA,Agbaji REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0158,3,10:29,IND,69.0,UTA,68.0,O. Agbaji,UTA,Agbaji 26' 3PT Jump Shot (3 PTS) (George 6 AST),Made Shot,Jump Shot,-235,103,26,1,3.0,3.0,v
+S2324-G0158,3,07:18,IND,,UTA,,O. Agbaji,UTA,MISS Agbaji 27' 3PT Jump Shot,Missed Shot,Jump Shot,-7,267,27,1,3.0,0.0,v
+S2324-G0158,3,05:10,IND,,UTA,,O. Agbaji,UTA,SUB: Sexton FOR Agbaji,Substitution,,0,0,0,0,,,v
+S2324-G0158,4,05:58,IND,,UTA,,O. Agbaji,UTA,Agbaji Lost Ball Turnover (P3.T19),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0158,4,05:34,IND,,UTA,,O. Agbaji,UTA,Agbaji BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0158,4,04:01,IND,,UTA,,O. Agbaji,UTA,Agbaji REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0158,4,02:13,IND,,UTA,,O. Agbaji,UTA,MISS Agbaji 24' 3PT Jump Shot,Missed Shot,Jump Shot,-237,37,24,1,3.0,0.0,v
+S2324-G0318,1,02:45,UTA,,NYK,,O. Agbaji,UTA,Agbaji REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0318,1,02:45,UTA,,NYK,,O. Agbaji,UTA,MISS Agbaji Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2324-G0318,1,01:23,UTA,,NYK,,O. Agbaji,UTA,MISS Agbaji 26' 3PT Jump Shot,Missed Shot,Jump Shot,-159,209,26,1,3.0,0.0,h
+S2324-G0318,1,01:17,UTA,,NYK,,O. Agbaji,UTA,Agbaji S.FOUL (P1.T4) (Z.Zarba),Foul,Shooting,0,0,0,0,,,h
+S2324-G0318,1,00:01.900000,UTA,,NYK,,O. Agbaji,UTA,Agbaji REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0318,1,00:00,UTA,,NYK,,O. Agbaji,UTA,MISS Agbaji Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2324-G0318,2,10:43,UTA,,NYK,,O. Agbaji,UTA,MISS Agbaji 5' Driving Hook Shot,Missed Shot,Driving Hook Shot,38,34,5,1,2.0,0.0,h
+S2324-G0318,2,09:16,UTA,,NYK,,O. Agbaji,UTA,Agbaji REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0318,2,09:16,UTA,,NYK,,O. Agbaji,UTA,MISS Agbaji Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2324-G0318,2,08:32,UTA,,NYK,,O. Agbaji,UTA,Agbaji REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0318,2,05:46,UTA,,NYK,,O. Agbaji,UTA,MISS Agbaji 6' Running Layup,Missed Shot,Running Layup Shot,-55,28,6,1,2.0,0.0,h
+S2324-G0318,2,05:42,UTA,,NYK,,O. Agbaji,UTA,MISS Agbaji 26' 3PT Jump Shot,Missed Shot,Jump Shot,-87,246,26,1,3.0,0.0,h
+S2324-G0318,2,03:11,UTA,,NYK,,O. Agbaji,UTA,Agbaji S.FOUL (P2.T3) (J.Ralls),Foul,Shooting,0,0,0,0,,,h
+S2324-G0318,3,10:18,UTA,,NYK,,O. Agbaji,UTA,MISS Agbaji 3' Driving Layup,Missed Shot,Driving Layup Shot,-18,29,3,1,2.0,0.0,h
+S2324-G0318,3,06:55,UTA,69.0,NYK,65.0,O. Agbaji,UTA,Agbaji 25' 3PT Jump Shot (3 PTS) (Olynyk 7 AST),Made Shot,Jump Shot,99,234,25,1,3.0,3.0,h
+S2324-G0318,3,04:12,UTA,,NYK,,O. Agbaji,UTA,SUB: Horton-Tucker FOR Agbaji,Substitution,,0,0,0,0,,,h
+S2324-G0318,4,10:33,UTA,,NYK,,O. Agbaji,UTA,MISS Agbaji 25' 3PT Jump Shot,Missed Shot,Jump Shot,-184,171,25,1,3.0,0.0,h
+S2324-G0318,4,08:49,UTA,,NYK,,O. Agbaji,UTA,MISS Agbaji 3PT Jump Shot,Missed Shot,Jump Shot,-229,15,0,1,3.0,0.0,h
+S2324-G0318,4,06:43,UTA,104.0,NYK,89.0,O. Agbaji,UTA,Agbaji 2' Running Layup (5 PTS) (Dunn 7 AST),Made Shot,Running Layup Shot,23,-1,2,1,2.0,2.0,h
+S2324-G0318,4,06:07,UTA,,NYK,,O. Agbaji,UTA,SUB: Markkanen FOR Agbaji,Substitution,,0,0,0,0,,,h
+S2324-G0524,1,02:56,UTA,,DEN,,O. Agbaji,UTA,Agbaji S.FOUL (P1.T1) (D.Richardson),Foul,Shooting,0,0,0,0,,,h
+S2324-G0524,1,02:29,UTA,,DEN,,O. Agbaji,UTA,Agbaji STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0524,1,01:19,UTA,,DEN,,O. Agbaji,UTA,Agbaji BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0524,1,01:16,UTA,,DEN,,O. Agbaji,UTA,Agbaji REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0524,1,00:09.300000,UTA,,DEN,,O. Agbaji,UTA,Agbaji REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0524,2,11:07,UTA,,DEN,,O. Agbaji,UTA,MISS Agbaji 24' 3PT Jump Shot,Missed Shot,Jump Shot,-234,62,24,1,3.0,0.0,h
+S2324-G0524,2,10:21,UTA,,DEN,,O. Agbaji,UTA,Agbaji REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0524,2,09:07,UTA,,DEN,,O. Agbaji,UTA,Agbaji BLOCK (2 BLK),,,0,0,0,0,,,h
+S2324-G0524,2,07:28,UTA,,DEN,,O. Agbaji,UTA,SUB: Markkanen FOR Agbaji,Substitution,,0,0,0,0,,,h
+S2324-G0524,4,09:11,UTA,,DEN,,O. Agbaji,UTA,Agbaji REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0524,4,09:08,UTA,,DEN,,O. Agbaji,UTA,MISS Agbaji 4' Driving Layup,Missed Shot,Driving Layup Shot,-36,24,4,1,2.0,0.0,h
+S2324-G0524,4,06:40,UTA,,DEN,,O. Agbaji,UTA,SUB: Sexton FOR Agbaji,Substitution,,0,0,0,0,,,h
+S2324-G0647,2,08:47,CHA,,UTA,,O. Agbaji,UTA,Agbaji REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0647,2,07:06,CHA,,UTA,,O. Agbaji,UTA,Agbaji REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0647,2,07:06,CHA,,UTA,,O. Agbaji,UTA,MISS Agbaji 4' Tip Layup Shot,Missed Shot,Tip Layup Shot,-17,33,4,1,2.0,0.0,v
+S2324-G0647,2,06:18,CHA,35.0,UTA,65.0,O. Agbaji,UTA,Agbaji 2' Running Layup (2 PTS) (Olynyk 3 AST),Made Shot,Running Layup Shot,9,20,2,1,2.0,2.0,v
+S2324-G0647,2,05:19,CHA,,UTA,,O. Agbaji,UTA,SUB: Markkanen FOR Agbaji,Substitution,,0,0,0,0,,,v
+S2324-G0647,4,10:48,CHA,,UTA,,O. Agbaji,UTA,MISS Agbaji 3PT Jump Shot,Missed Shot,Jump Shot,230,-2,0,1,3.0,0.0,v
+S2324-G0647,4,07:19,CHA,105.0,UTA,121.0,O. Agbaji,UTA,Agbaji 24' 3PT Jump Shot (5 PTS) (Sexton 12 AST),Made Shot,Jump Shot,228,62,24,1,3.0,3.0,v
+S2324-G0647,4,06:49,CHA,,UTA,,O. Agbaji,UTA,MISS Agbaji 24' 3PT Jump Shot,Missed Shot,Jump Shot,-243,5,24,1,3.0,0.0,v
+S2324-G0647,4,06:37,CHA,,UTA,,O. Agbaji,UTA,SUB: Fontecchio FOR Agbaji,Substitution,,0,0,0,0,,,v
+S2324-G0094,1,03:22,PHX,,UTA,,O. Agbaji,UTA,Agbaji BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0094,1,01:39,PHX,,UTA,,O. Agbaji,UTA,MISS Agbaji 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,154,217,27,1,3.0,0.0,v
+S2324-G0581,1,04:13,UTA,,OKC,,O. Agbaji,UTA,Agbaji Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0581,1,03:57,UTA,,OKC,,O. Agbaji,UTA,Agbaji S.FOUL (P1.PN) (J.Sterling),Foul,Shooting,0,0,0,0,,,h
+S2324-G0581,1,03:19,UTA,,OKC,,O. Agbaji,UTA,Agbaji STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0581,2,11:40,UTA,,OKC,,O. Agbaji,UTA,Agbaji STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0581,2,11:38,UTA,29.0,OKC,39.0,O. Agbaji,UTA,Agbaji 3' Running Layup (2 PTS),Made Shot,Running Layup Shot,-29,18,3,1,2.0,2.0,h
+S2324-G0581,2,11:38,UTA,30.0,OKC,39.0,O. Agbaji,UTA,Agbaji Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G0581,2,10:31,UTA,33.0,OKC,44.0,O. Agbaji,UTA,Agbaji Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0581,2,10:31,UTA,,OKC,,O. Agbaji,UTA,MISS Agbaji Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0581,2,07:59,UTA,,OKC,,O. Agbaji,UTA,Agbaji REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0581,2,07:24,UTA,,OKC,,O. Agbaji,UTA,Agbaji Backcourt Turnover (P2.T9),Turnover,Backcourt Turnover,0,0,0,0,,,h
+S2324-G0581,2,05:25,UTA,,OKC,,O. Agbaji,UTA,SUB: Fontecchio FOR Agbaji,Substitution,,0,0,0,0,,,h
+S2324-G0581,4,08:47,UTA,,OKC,,O. Agbaji,UTA,SUB: Markkanen FOR Agbaji,Substitution,,0,0,0,0,,,h
+S2324-G0256,1,01:54,UTA,,NOP,,O. Agbaji,UTA,MISS Agbaji 3PT Jump Shot,Missed Shot,Jump Shot,234,14,0,1,3.0,0.0,h
+S2324-G0256,1,01:07,UTA,29.0,NOP,22.0,O. Agbaji,UTA,Agbaji 3PT Jump Shot (3 PTS) (Olynyk 2 AST),Made Shot,Jump Shot,-224,8,0,1,3.0,3.0,h
+S2324-G0256,2,07:57,UTA,43.0,NOP,33.0,O. Agbaji,UTA,Agbaji 4' Running Alley Oop Dunk Shot (5 PTS) (Horton-Tucker 2 AST),Made Shot,Running Alley Oop Dunk Shot,42,4,4,1,2.0,2.0,h
+S2324-G0256,2,07:57,UTA,44.0,NOP,33.0,O. Agbaji,UTA,Agbaji Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G0256,2,07:20,UTA,,NOP,,O. Agbaji,UTA,MISS Agbaji 25' 3PT Jump Shot,Missed Shot,Jump Shot,153,203,25,1,3.0,0.0,h
+S2324-G0256,2,07:09,UTA,,NOP,,O. Agbaji,UTA,SUB: Clarkson FOR Agbaji,Substitution,,0,0,0,0,,,h
+S2324-G0256,3,00:09.900000,UTA,,NOP,,O. Agbaji,UTA,Agbaji S.FOUL (P1.PN) (C.Blair),Foul,Shooting,0,0,0,0,,,h
+S2324-G0256,4,11:17,UTA,91.0,NOP,88.0,O. Agbaji,UTA,Agbaji 24' 3PT Jump Shot (9 PTS) (Horton-Tucker 5 AST),Made Shot,Jump Shot,-232,42,24,1,3.0,3.0,h
+S2324-G0256,4,10:23,UTA,96.0,NOP,91.0,O. Agbaji,UTA,Agbaji 3PT Jump Shot (12 PTS) (Kessler 2 AST),Made Shot,Jump Shot,222,7,0,1,3.0,3.0,h
+S2324-G0256,4,09:04,UTA,,NOP,,O. Agbaji,UTA,MISS Agbaji 27' 3PT Jump Shot,Missed Shot,Jump Shot,-212,168,27,1,3.0,0.0,h
+S2324-G0256,4,05:26,UTA,,NOP,,O. Agbaji,UTA,SUB: Fontecchio FOR Agbaji,Substitution,,0,0,0,0,,,h
+S2324-G0671,2,05:47,NYK,,UTA,,O. Agbaji,UTA,SUB: Fontecchio FOR Agbaji,Substitution,,0,0,0,0,,,v
+S2324-G0671,4,05:22,NYK,,UTA,,O. Agbaji,UTA,Agbaji REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0671,4,03:00,NYK,112.0,UTA,95.0,O. Agbaji,UTA,Agbaji 26' 3PT Pullup Jump Shot (3 PTS) (Sexton 5 AST),Made Shot,Pullup Jump shot,5,258,26,1,3.0,3.0,v
+S2324-G0671,4,02:12,NYK,,UTA,,O. Agbaji,UTA,Agbaji STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0364,1,01:11,CLE,,UTA,,O. Agbaji,UTA,Agbaji REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0364,2,11:49,CLE,36.0,UTA,30.0,O. Agbaji,UTA,Agbaji 26' 3PT Jump Shot (3 PTS) (Horton-Tucker 4 AST),Made Shot,Jump Shot,-225,130,26,1,3.0,3.0,v
+S2324-G0364,2,07:15,CLE,,UTA,,O. Agbaji,UTA,SUB: Sexton FOR Agbaji,Substitution,,0,0,0,0,,,v
+S2324-G0364,3,01:00,CLE,,UTA,,O. Agbaji,UTA,Agbaji REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0364,3,00:28.300000,CLE,,UTA,,O. Agbaji,UTA,Agbaji BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0364,3,00:18.800000,CLE,,UTA,,O. Agbaji,UTA,Agbaji REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0364,4,11:11,CLE,,UTA,,O. Agbaji,UTA,Agbaji P.FOUL (P1.T1) (S.Twardoski),Foul,Personal,0,0,0,0,,,v
+S2324-G0364,4,10:26,CLE,,UTA,,O. Agbaji,UTA,SUB: Horton-Tucker FOR Agbaji,Substitution,,0,0,0,0,,,v
+S2324-G0237,1,03:00,POR,25.0,UTA,14.0,O. Agbaji,UTA,Agbaji 1' Driving Reverse Layup (2 PTS) (Yurtseven 1 AST),Made Shot,Driving Reverse Layup Shot,9,7,1,1,2.0,2.0,v
+S2324-G0237,1,01:15,POR,,UTA,,O. Agbaji,UTA,Agbaji BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0237,2,10:07,POR,36.0,UTA,24.0,O. Agbaji,UTA,Agbaji 2' Running Dunk (4 PTS) (Fontecchio 1 AST),Made Shot,Running Dunk Shot,16,7,2,1,2.0,2.0,v
+S2324-G0237,2,08:09,POR,,UTA,,O. Agbaji,UTA,SUB: George FOR Agbaji,Substitution,,0,0,0,0,,,v
+S2324-G0237,3,02:19,POR,,UTA,,O. Agbaji,UTA,Agbaji Out of Bounds - Bad Pass Turnover Turnover (P1.T19),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0237,3,01:43,POR,88.0,UTA,70.0,O. Agbaji,UTA,Agbaji 1' Driving Layup (6 PTS) (Sexton 1 AST),Made Shot,Driving Layup Shot,9,11,1,1,2.0,2.0,v
+S2324-G0237,3,00:13.700000,POR,89.0,UTA,73.0,O. Agbaji,UTA,Agbaji 3PT Jump Shot (9 PTS) (Sexton 2 AST),Made Shot,Jump Shot,228,34,0,1,3.0,3.0,v
+S2324-G0237,4,08:12,POR,,UTA,,O. Agbaji,UTA,SUB: Clarkson FOR Agbaji,Substitution,,0,0,0,0,,,v
+S2324-G0261,1,00:42.600000,MEM,24.0,UTA,25.0,O. Agbaji,UTA,Agbaji 3PT Jump Shot (3 PTS) (Sexton 2 AST),Made Shot,Jump Shot,-229,51,0,1,3.0,3.0,v
+S2324-G0261,2,08:36,MEM,,UTA,,O. Agbaji,UTA,MISS Agbaji 3PT Jump Shot,Missed Shot,Jump Shot,233,8,0,1,3.0,0.0,v
+S2324-G0261,2,07:45,MEM,,UTA,,O. Agbaji,UTA,Agbaji REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0261,2,07:17,MEM,,UTA,,O. Agbaji,UTA,SUB: Fontecchio FOR Agbaji,Substitution,,0,0,0,0,,,v
+S2324-G0261,3,00:42.900000,MEM,86.0,UTA,67.0,O. Agbaji,UTA,Agbaji 7' Driving Floating Jump Shot (5 PTS) (Horton-Tucker 1 AST),Made Shot,Driving Floating Jump Shot,67,22,7,1,2.0,2.0,v
+S2324-G0261,4,07:56,MEM,,UTA,,O. Agbaji,UTA,Agbaji Bad Pass Turnover (P1.T15),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0261,4,06:27,MEM,,UTA,,O. Agbaji,UTA,Agbaji REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0261,4,04:22,MEM,,UTA,,O. Agbaji,UTA,MISS Agbaji 27' 3PT Jump Shot,Missed Shot,Jump Shot,96,249,27,1,3.0,0.0,v
+S2324-G0261,4,03:57,MEM,,UTA,,O. Agbaji,UTA,Agbaji REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0261,4,03:01,MEM,,UTA,,O. Agbaji,UTA,Agbaji P.FOUL (P1.T2) (T.Washington),Foul,Personal,0,0,0,0,,,v
+S2324-G0261,4,02:35,MEM,,UTA,,O. Agbaji,UTA,Agbaji REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0261,4,00:58.400000,MEM,,UTA,,O. Agbaji,UTA,MISS Agbaji 26' 3PT Jump Shot,Missed Shot,Jump Shot,-179,190,26,1,3.0,0.0,v
+S2324-G0125,2,11:33,UTA,,MEM,,O. Agbaji,UTA,MISS Agbaji 25' 3PT Jump Shot,Missed Shot,Jump Shot,121,221,25,1,3.0,0.0,h
+S2324-G0125,2,09:48,UTA,47.0,MEM,27.0,O. Agbaji,UTA,Agbaji 25' 3PT Jump Shot (3 PTS) (Horton-Tucker 4 AST),Made Shot,Jump Shot,81,239,25,1,3.0,3.0,h
+S2324-G0125,2,08:20,UTA,,MEM,,O. Agbaji,UTA,Agbaji Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0125,2,08:12,UTA,,MEM,,O. Agbaji,UTA,Agbaji REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0125,2,07:36,UTA,,MEM,,O. Agbaji,UTA,MISS Agbaji 25' 3PT Jump Shot,Missed Shot,Jump Shot,-184,163,25,1,3.0,0.0,h
+S2324-G0125,2,06:51,UTA,,MEM,,O. Agbaji,UTA,SUB: Olynyk FOR Agbaji,Substitution,,0,0,0,0,,,h
+S2324-G0125,4,10:03,UTA,,MEM,,O. Agbaji,UTA,Agbaji REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0125,4,09:54,UTA,108.0,MEM,81.0,O. Agbaji,UTA,Agbaji 25' 3PT Jump Shot (6 PTS) (George 3 AST),Made Shot,Jump Shot,158,197,25,1,3.0,3.0,h
+S2324-G0125,4,09:41,UTA,,MEM,,O. Agbaji,UTA,Agbaji REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0125,4,09:17,UTA,,MEM,,O. Agbaji,UTA,MISS Agbaji 26' 3PT Jump Shot,Missed Shot,Jump Shot,91,242,26,1,3.0,0.0,h
+S2324-G0125,4,08:34,UTA,,MEM,,O. Agbaji,UTA,Agbaji Lost Ball Turnover (P2.T16),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0125,4,08:21,UTA,,MEM,,O. Agbaji,UTA,SUB: Fontecchio FOR Agbaji,Substitution,,0,0,0,0,,,h
+S2324-G0125,4,02:03,UTA,,MEM,,O. Agbaji,UTA,MISS Agbaji Free Throw Technical,Free Throw,Free Throw Technical,0,0,0,0,1.0,0.0,h
+S2324-G0152,2,11:29,CHI,,UTA,,O. Agbaji,UTA,Agbaji Lost Ball Turnover (P1.T6),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0152,2,09:58,CHI,,UTA,,O. Agbaji,UTA,Agbaji L.B.FOUL (P1.T2) (R.Mott),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0152,2,09:26,CHI,,UTA,,O. Agbaji,UTA,Agbaji REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0152,2,08:56,CHI,,UTA,,O. Agbaji,UTA,SUB: Olynyk FOR Agbaji,Substitution,,0,0,0,0,,,v
+S2324-G0152,2,01:21,CHI,,UTA,,O. Agbaji,UTA,MISS Agbaji 3' Layup,Missed Shot,Layup Shot,-25,11,3,1,2.0,0.0,v
+S2324-G0152,2,01:08,CHI,,UTA,,O. Agbaji,UTA,MISS Agbaji 3PT Jump Shot,Missed Shot,Jump Shot,-230,48,0,1,3.0,0.0,v
+S2324-G0152,2,00:25.600000,CHI,,UTA,,O. Agbaji,UTA,Agbaji BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0152,3,02:51,CHI,90.0,UTA,76.0,O. Agbaji,UTA,Agbaji 24' 3PT Jump Shot (3 PTS) (Olynyk 6 AST),Made Shot,Jump Shot,238,-6,24,1,3.0,3.0,v
+S2324-G0152,4,11:13,CHI,,UTA,,O. Agbaji,UTA,Agbaji S.FOUL (P2.T2) (R.Mott),Foul,Shooting,0,0,0,0,,,v
+S2324-G0152,4,10:42,CHI,,UTA,,O. Agbaji,UTA,SUB: Markkanen FOR Agbaji,Substitution,,0,0,0,0,,,v
+S2324-G0110,1,02:04,DEN,,UTA,,O. Agbaji,UTA,Agbaji REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0110,1,01:28,DEN,,UTA,,O. Agbaji,UTA,MISS Agbaji 7' Driving Layup,Missed Shot,Driving Layup Shot,38,55,7,1,2.0,0.0,v
+S2324-G0110,1,01:27,DEN,,UTA,,O. Agbaji,UTA,Agbaji REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0110,1,01:27,DEN,,UTA,,O. Agbaji,UTA,MISS Agbaji 3' Layup,Missed Shot,Layup Shot,23,18,3,1,2.0,0.0,v
+S2324-G0110,1,00:30.300000,DEN,,UTA,,O. Agbaji,UTA,MISS Agbaji 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,58,12,6,1,2.0,0.0,v
+S2324-G0110,2,09:50,DEN,,UTA,,O. Agbaji,UTA,MISS Agbaji 3PT Jump Shot,Missed Shot,Jump Shot,-227,11,0,1,3.0,0.0,v
+S2324-G0110,2,07:34,DEN,,UTA,,O. Agbaji,UTA,SUB: Clarkson FOR Agbaji,Substitution,,0,0,0,0,,,v
+S2324-G0110,3,00:55.700000,DEN,,UTA,,O. Agbaji,UTA,MISS Agbaji 26' 3PT Jump Shot,Missed Shot,Jump Shot,-100,235,26,1,3.0,0.0,v
+S2324-G0110,4,07:22,DEN,,UTA,,O. Agbaji,UTA,SUB: Collins FOR Agbaji,Substitution,,0,0,0,0,,,v
+S2324-G0540,1,01:41,UTA,24.0,TOR,20.0,O. Agbaji,UTA,Agbaji 26' 3PT Jump Shot (3 PTS) (Olynyk 1 AST),Made Shot,Jump Shot,154,206,26,1,3.0,3.0,h
+S2324-G0540,1,00:42.300000,UTA,,TOR,,O. Agbaji,UTA,MISS Agbaji 24' 3PT Jump Shot,Missed Shot,Jump Shot,-190,152,24,1,3.0,0.0,h
+S2324-G0540,1,00:31,UTA,,TOR,,O. Agbaji,UTA,Agbaji REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0540,1,00:11.100000,UTA,28.0,TOR,22.0,O. Agbaji,UTA,Agbaji 3' Driving Layup (5 PTS) (Clarkson 2 AST),Made Shot,Driving Layup Shot,-22,24,3,1,2.0,2.0,h
+S2324-G0540,2,11:13,UTA,,TOR,,O. Agbaji,UTA,Agbaji REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0540,2,11:01,UTA,,TOR,,O. Agbaji,UTA,MISS Agbaji 3PT Jump Shot,Missed Shot,Jump Shot,-227,6,0,1,3.0,0.0,h
+S2324-G0540,2,09:13,UTA,,TOR,,O. Agbaji,UTA,MISS Agbaji 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,237,51,24,1,3.0,0.0,h
+S2324-G0540,2,08:45,UTA,,TOR,,O. Agbaji,UTA,Agbaji BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0540,2,08:21,UTA,,TOR,,O. Agbaji,UTA,Agbaji REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0540,2,07:47,UTA,39.0,TOR,33.0,O. Agbaji,UTA,Agbaji 3PT Jump Shot (8 PTS) (Clarkson 3 AST),Made Shot,Jump Shot,234,13,0,1,3.0,3.0,h
+S2324-G0540,2,06:45,UTA,,TOR,,O. Agbaji,UTA,Agbaji REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0540,2,06:29,UTA,,TOR,,O. Agbaji,UTA,Agbaji S.FOUL (P1.T4) (J.Capers),Foul,Shooting,0,0,0,0,,,h
+S2324-G0540,2,03:47,UTA,,TOR,,O. Agbaji,UTA,SUB: Fontecchio FOR Agbaji,Substitution,,0,0,0,0,,,h
+S2324-G0540,3,01:36,UTA,,TOR,,O. Agbaji,UTA,Agbaji REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0540,4,08:46,UTA,,TOR,,O. Agbaji,UTA,MISS Agbaji 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-234,2,0,1,3.0,0.0,h
+S2324-G0540,4,04:39,UTA,,TOR,,O. Agbaji,UTA,MISS Agbaji 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,0,24,1,3.0,0.0,h
+S2324-G0540,4,04:32,UTA,,TOR,,O. Agbaji,UTA,Agbaji BLOCK (2 BLK),,,0,0,0,0,,,h
+S2324-G0540,4,03:39,UTA,,TOR,,O. Agbaji,UTA,SUB: Sensabaugh FOR Agbaji,Substitution,,0,0,0,0,,,h
+S2324-G0686,1,02:45,UTA,,PHI,,O. Agbaji,UTA,Agbaji S.FOUL (P1.T2) (J.Tiven),Foul,Shooting,0,0,0,0,,,h
+S2324-G0686,1,00:57.400000,UTA,,PHI,,O. Agbaji,UTA,Agbaji REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0686,1,00:50.600000,UTA,,PHI,,O. Agbaji,UTA,MISS Agbaji 7' Running Layup,Missed Shot,Running Layup Shot,-34,58,7,1,2.0,0.0,h
+S2324-G0686,2,09:24,UTA,,PHI,,O. Agbaji,UTA,MISS Agbaji 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,98,57,11,1,2.0,0.0,h
+S2324-G0686,2,05:56,UTA,,PHI,,O. Agbaji,UTA,SUB: Collins FOR Agbaji,Substitution,,0,0,0,0,,,h
+S2324-G0686,3,02:37,UTA,,PHI,,O. Agbaji,UTA,Agbaji OFF.Foul (P2) (D.Scott),Foul,Offensive,0,0,0,0,,,h
+S2324-G0686,3,02:37,UTA,,PHI,,O. Agbaji,UTA,Agbaji Offensive Foul Turnover (P1.T8),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0686,4,07:41,UTA,,PHI,,O. Agbaji,UTA,MISS Agbaji 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,102,10,10,1,2.0,0.0,h
+S2324-G0686,4,07:17,UTA,,PHI,,O. Agbaji,UTA,SUB: Fontecchio FOR Agbaji,Substitution,,0,0,0,0,,,h
+S2324-G0628,2,10:13,WAS,,UTA,,O. Agbaji,UTA,Agbaji S.FOUL (P1.T1) (S.Mitchell),Foul,Shooting,0,0,0,0,,,v
+S2324-G0628,2,09:46,WAS,,UTA,,O. Agbaji,UTA,Agbaji REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0628,2,09:08,WAS,,UTA,,O. Agbaji,UTA,MISS Agbaji 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-235,33,24,1,3.0,0.0,v
+S2324-G0628,2,08:08,WAS,,UTA,,O. Agbaji,UTA,Agbaji REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0628,2,06:47,WAS,,UTA,,O. Agbaji,UTA,MISS Agbaji 12' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,115,-5,12,1,2.0,0.0,v
+S2324-G0628,2,03:59,WAS,,UTA,,O. Agbaji,UTA,SUB: Dunn FOR Agbaji,Substitution,,0,0,0,0,,,v
+S2324-G0628,4,07:33,WAS,,UTA,,O. Agbaji,UTA,Agbaji REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0628,4,06:10,WAS,,UTA,,O. Agbaji,UTA,Agbaji REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0628,4,05:23,WAS,,UTA,,O. Agbaji,UTA,Agbaji BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0628,4,05:15,WAS,,UTA,,O. Agbaji,UTA,Agbaji Lost Ball Turnover (P1.T12),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0628,4,00:42.200000,WAS,,UTA,,O. Agbaji,UTA,MISS Agbaji 7' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,62,35,7,1,2.0,0.0,v
+S2324-G0130,2,11:20,UTA,,ORL,,O. Agbaji,UTA,Agbaji S.FOUL (P1.T2) (C.Blair),Foul,Shooting,0,0,0,0,,,h
+S2324-G0130,2,10:11,UTA,,ORL,,O. Agbaji,UTA,MISS Agbaji 25' 3PT Jump Shot,Missed Shot,Jump Shot,116,222,25,1,3.0,0.0,h
+S2324-G0130,2,09:58,UTA,,ORL,,O. Agbaji,UTA,Agbaji S.FOUL (P2.T3) (G.Petraitis),Foul,Shooting,0,0,0,0,,,h
+S2324-G0130,2,07:44,UTA,46.0,ORL,42.0,O. Agbaji,UTA,Agbaji 2' Running Dunk (2 PTS) (Dunn 2 AST),Made Shot,Running Dunk Shot,18,7,2,1,2.0,2.0,h
+S2324-G0130,2,07:44,UTA,,ORL,,O. Agbaji,UTA,SUB: Collins FOR Agbaji,Substitution,,0,0,0,0,,,h
+S2324-G0130,2,00:10.800000,UTA,,ORL,,O. Agbaji,UTA,SUB: Markkanen FOR Agbaji,Substitution,,0,0,0,0,,,h
+S2324-G0424,2,09:15,NOP,,,,O. Agbaji,UTA,Agbaji Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0424,2,05:53,NOP,,,,O. Agbaji,UTA,MISS Agbaji 4' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,7,39,4,1,2.0,0.0,v
+S2324-G0424,2,04:42,NOP,,,,O. Agbaji,UTA,Agbaji Out of Bounds Lost Ball Turnover (P2.T9),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2324-G0424,2,03:23,NOP,,,,O. Agbaji,UTA,Agbaji REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0424,2,02:53,NOP,,,,O. Agbaji,UTA,SUB: George FOR Agbaji,Substitution,,0,0,0,0,,,v
+S2324-G0424,3,00:54.400000,NOP,79.0,,74.0,O. Agbaji,UTA,Agbaji 1' Alley Oop Dunk (2 PTS) (George 4 AST),Made Shot,Alley Oop Dunk Shot,-10,-4,1,1,2.0,2.0,v
+S2324-G0424,4,05:52,NOP,,,,O. Agbaji,UTA,SUB: Collins FOR Agbaji,Substitution,,0,0,0,0,,,v
+S2324-G0023,1,11:21,UTA,,POR,,O. Agbaji,UTA,MISS Agbaji 8' Jump Shot,Missed Shot,Jump Shot,-83,12,8,1,2.0,0.0,h
+S2324-G0023,1,10:48,UTA,,POR,,O. Agbaji,UTA,Agbaji REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0023,1,10:48,UTA,2.0,POR,3.0,O. Agbaji,UTA,Agbaji Putback Layup (2 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,h
+S2324-G0023,1,09:10,UTA,,POR,,O. Agbaji,UTA,Agbaji REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0023,1,09:10,UTA,,POR,,O. Agbaji,UTA,MISS Agbaji Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2324-G0023,1,09:10,UTA,,POR,,O. Agbaji,UTA,Agbaji REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0023,1,09:10,UTA,6.0,POR,5.0,O. Agbaji,UTA,Agbaji Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0023,1,09:10,UTA,7.0,POR,5.0,O. Agbaji,UTA,Agbaji Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0023,1,08:44,UTA,,POR,,O. Agbaji,UTA,MISS Agbaji 25' 3PT Jump Shot,Missed Shot,Jump Shot,123,223,25,1,3.0,0.0,h
+S2324-G0023,1,08:38,UTA,,POR,,O. Agbaji,UTA,Agbaji Violation:Defensive Goaltending (M.Davis),Violation,Defensive Goaltending,0,0,0,0,,,h
+S2324-G0023,1,07:57,UTA,,POR,,O. Agbaji,UTA,Agbaji REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0023,1,06:16,UTA,,POR,,O. Agbaji,UTA,Agbaji STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0023,1,03:59,UTA,,POR,,O. Agbaji,UTA,Agbaji REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0023,1,03:58,UTA,,POR,,O. Agbaji,UTA,MISS Agbaji 2' Dunk,Missed Shot,Dunk Shot,13,8,2,1,2.0,0.0,h
+S2324-G0023,1,03:57,UTA,,POR,,O. Agbaji,UTA,SUB: Markkanen FOR Agbaji,Substitution,,0,0,0,0,,,h
+S2324-G0023,2,05:05,UTA,,POR,,O. Agbaji,UTA,Agbaji STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0023,2,03:04,UTA,,POR,,O. Agbaji,UTA,Agbaji REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0023,2,01:50,UTA,,POR,,O. Agbaji,UTA,Agbaji S.FOUL (P1.T3) (M.Davis),Foul,Shooting,0,0,0,0,,,h
+S2324-G0023,2,01:38,UTA,,POR,,O. Agbaji,UTA,MISS Agbaji 24' 3PT Jump Shot,Missed Shot,Jump Shot,-232,68,24,1,3.0,0.0,h
+S2324-G0023,3,07:39,UTA,76.0,POR,70.0,O. Agbaji,UTA,Agbaji 1' Reverse Layup (6 PTS) (George 7 AST),Made Shot,Reverse Layup Shot,-13,6,1,1,2.0,2.0,h
+S2324-G0023,3,04:44,UTA,,POR,,O. Agbaji,UTA,SUB: Sexton FOR Agbaji,Substitution,,0,0,0,0,,,h
+S2324-G0023,4,02:47,UTA,,POR,,O. Agbaji,UTA,Agbaji REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0023,4,02:34,UTA,,POR,,O. Agbaji,UTA,Agbaji REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0023,4,02:16,UTA,,POR,,O. Agbaji,UTA,Agbaji BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0023,4,00:41.400000,UTA,,POR,,O. Agbaji,UTA,SUB: Fontecchio FOR Agbaji,Substitution,,0,0,0,0,,,h
+S2324-G0035,1,10:49,UTA,,PHX,,O. Agbaji,UTA,Agbaji BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0035,1,06:05,UTA,,PHX,,O. Agbaji,UTA,MISS Agbaji 3' Driving Layup,Missed Shot,Driving Layup Shot,-28,7,3,1,2.0,0.0,h
+S2324-G0035,1,06:00,UTA,,PHX,,O. Agbaji,UTA,Agbaji BLOCK (2 BLK),,,0,0,0,0,,,h
+S2324-G0035,1,06:00,UTA,,PHX,,O. Agbaji,UTA,SUB: Horton-Tucker FOR Agbaji,Substitution,,0,0,0,0,,,h
+S2324-G0035,2,03:48,UTA,,PHX,,O. Agbaji,UTA,Agbaji S.FOUL (P1.PN) (P.Ransom),Foul,Shooting,0,0,0,0,,,h
+S2324-G0035,3,11:08,UTA,,PHX,,O. Agbaji,UTA,Agbaji REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0035,3,11:08,UTA,77.0,PHX,77.0,O. Agbaji,UTA,Agbaji Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2324-G0035,3,10:53,UTA,,PHX,,O. Agbaji,UTA,Agbaji S.FOUL (P2.T2) (P.Ransom),Foul,Shooting,0,0,0,0,,,h
+S2324-G0035,3,09:05,UTA,82.0,PHX,82.0,O. Agbaji,UTA,Agbaji 25' 3PT Jump Shot (5 PTS) (George 4 AST),Made Shot,Jump Shot,-132,215,25,1,3.0,3.0,h
+S2324-G0035,3,07:31,UTA,,PHX,,O. Agbaji,UTA,Agbaji REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0035,3,06:31,UTA,,PHX,,O. Agbaji,UTA,Agbaji REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0035,3,05:24,UTA,,PHX,,O. Agbaji,UTA,Agbaji REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0035,3,04:47,UTA,,PHX,,O. Agbaji,UTA,SUB: Horton-Tucker FOR Agbaji,Substitution,,0,0,0,0,,,h
+S2324-G0035,4,06:49,UTA,,PHX,,O. Agbaji,UTA,Agbaji P.FOUL (P3.T3) (P.Ransom),Foul,Personal,0,0,0,0,,,h
+S2324-G0035,4,03:34,UTA,,PHX,,O. Agbaji,UTA,Agbaji REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0035,4,02:54,UTA,118.0,PHX,124.0,O. Agbaji,UTA,Agbaji 3PT Jump Shot (8 PTS) (George 6 AST),Made Shot,Jump Shot,225,0,0,1,3.0,3.0,h
+S2324-G0035,4,02:27,UTA,,PHX,,O. Agbaji,UTA,Agbaji BLOCK (3 BLK),,,0,0,0,0,,,h
+S2324-G0598,2,11:16,HOU,,UTA,,O. Agbaji,UTA,Agbaji Traveling Turnover (P1.T4),Turnover,Traveling,0,0,0,0,,,v
+S2324-G0598,2,10:17,HOU,,UTA,,O. Agbaji,UTA,Agbaji BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0598,2,10:12,HOU,,UTA,,O. Agbaji,UTA,Agbaji BLOCK (2 BLK),,,0,0,0,0,,,v
+S2324-G0598,2,07:52,HOU,,UTA,,O. Agbaji,UTA,MISS Agbaji 24' 3PT Jump Shot,Missed Shot,Jump Shot,-238,28,24,1,3.0,0.0,v
+S2324-G0598,2,07:37,HOU,,UTA,,O. Agbaji,UTA,SUB: Markkanen FOR Agbaji,Substitution,,0,0,0,0,,,v
+S2324-G0598,4,08:59,HOU,,UTA,,O. Agbaji,UTA,Agbaji BLOCK (3 BLK),,,0,0,0,0,,,v
+S2324-G0598,4,06:21,HOU,,UTA,,O. Agbaji,UTA,SUB: Fontecchio FOR Agbaji,Substitution,,0,0,0,0,,,v
+S2324-G0214,1,10:56,UTA,,PHX,,O. Agbaji,UTA,Agbaji BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0214,1,10:15,UTA,,PHX,,O. Agbaji,UTA,Agbaji REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0214,1,08:41,UTA,,PHX,,O. Agbaji,UTA,Agbaji Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0214,1,06:58,UTA,13.0,PHX,16.0,O. Agbaji,UTA,Agbaji 3PT Jump Shot (3 PTS) (George 3 AST),Made Shot,Jump Shot,225,15,0,1,3.0,3.0,h
+S2324-G0214,1,06:43,UTA,,PHX,,O. Agbaji,UTA,Agbaji P.FOUL (P1.T3) (J.Sterling),Foul,Personal,0,0,0,0,,,h
+S2324-G0214,1,04:36,UTA,,PHX,,O. Agbaji,UTA,SUB: Sexton FOR Agbaji,Substitution,,0,0,0,0,,,h
+S2324-G0214,2,03:05,UTA,,PHX,,O. Agbaji,UTA,Agbaji REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0214,2,00:30.600000,UTA,,PHX,,O. Agbaji,UTA,Agbaji STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0214,3,07:36,UTA,,PHX,,O. Agbaji,UTA,Agbaji P.FOUL (P2.T1) (Z.Zarba),Foul,Personal,0,0,0,0,,,h
+S2324-G0214,3,05:28,UTA,,PHX,,O. Agbaji,UTA,Agbaji REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0214,3,05:23,UTA,,PHX,,O. Agbaji,UTA,SUB: Horton-Tucker FOR Agbaji,Substitution,,0,0,0,0,,,h
+S2324-G0214,5,00:35.600000,UTA,,PHX,,O. Agbaji,UTA,SUB: Sexton FOR Agbaji,Substitution,,0,0,0,0,,,h
+S2324-G0214,5,00:10.500000,UTA,,PHX,,O. Agbaji,UTA,SUB: Sexton FOR Agbaji,Substitution,,0,0,0,0,,,h
+S2324-G0214,5,00:08,UTA,,PHX,,O. Agbaji,UTA,Agbaji Personal Take Foul (P3.T1) (Z.Zarba),Foul,Personal Take,0,0,0,0,,,h
+S2324-G0214,5,00:07.600000,UTA,,PHX,,O. Agbaji,UTA,SUB: Collins FOR Agbaji,Substitution,,0,0,0,0,,,h
+S2324-G0214,6,04:45,UTA,,PHX,,O. Agbaji,UTA,Agbaji S.FOUL (P4.T1) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,h
+S2324-G0243,1,04:18,UTA,,NOP,,O. Agbaji,UTA,MISS Agbaji 3PT Jump Shot,Missed Shot,Jump Shot,-229,-17,0,1,3.0,0.0,h
+S2324-G0243,1,03:02,UTA,,NOP,,O. Agbaji,UTA,MISS Agbaji 25' 3PT Jump Shot,Missed Shot,Jump Shot,-59,245,25,1,3.0,0.0,h
+S2324-G0243,1,02:00,UTA,,NOP,,O. Agbaji,UTA,MISS Agbaji 24' 3PT Jump Shot,Missed Shot,Jump Shot,237,31,24,1,3.0,0.0,h
+S2324-G0243,1,01:49,UTA,,NOP,,O. Agbaji,UTA,Agbaji S.FOUL (P1.T3) (L.Holtkamp),Foul,Shooting,0,0,0,0,,,h
+S2324-G0243,1,01:15,UTA,21.0,NOP,26.0,O. Agbaji,UTA,Agbaji 2' Running Layup (2 PTS) (Olynyk 1 AST),Made Shot,Running Layup Shot,22,11,2,1,2.0,2.0,h
+S2324-G0243,1,01:15,UTA,22.0,NOP,26.0,O. Agbaji,UTA,Agbaji Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G0243,2,10:41,UTA,,NOP,,O. Agbaji,UTA,Agbaji STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0243,2,09:29,UTA,27.0,NOP,29.0,O. Agbaji,UTA,Agbaji 24' 3PT Jump Shot (6 PTS) (Horton-Tucker 1 AST),Made Shot,Jump Shot,232,72,24,1,3.0,3.0,h
+S2324-G0243,2,08:47,UTA,,NOP,,O. Agbaji,UTA,Agbaji STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0243,2,06:35,UTA,,NOP,,O. Agbaji,UTA,SUB: Dunn FOR Agbaji,Substitution,,0,0,0,0,,,h
+S2324-G0243,4,11:42,UTA,,NOP,,O. Agbaji,UTA,Agbaji REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0243,4,10:06,UTA,,NOP,,O. Agbaji,UTA,MISS Agbaji 26' 3PT Jump Shot,Missed Shot,Jump Shot,32,263,26,1,3.0,0.0,h
+S2324-G0243,4,09:30,UTA,,NOP,,O. Agbaji,UTA,Agbaji STEAL (3 STL),,,0,0,0,0,,,h
+S2324-G0243,4,08:48,UTA,,NOP,,O. Agbaji,UTA,MISS Agbaji 25' 3PT Jump Shot,Missed Shot,Jump Shot,152,197,25,1,3.0,0.0,h
+S2324-G0243,4,08:17,UTA,82.0,NOP,82.0,O. Agbaji,UTA,Agbaji 24' 3PT Jump Shot (9 PTS) (Olynyk 3 AST),Made Shot,Jump Shot,-235,27,24,1,3.0,3.0,h
+S2324-G0243,4,05:22,UTA,,NOP,,O. Agbaji,UTA,Agbaji Bad Pass Turnover (P1.T22),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0243,4,03:34,UTA,,NOP,,O. Agbaji,UTA,SUB: George FOR Agbaji,Substitution,,0,0,0,0,,,h
+S2324-G0412,2,06:34,SAS,,UTA,,O. Agbaji,UTA,MISS Agbaji 3PT Jump Shot,Missed Shot,Jump Shot,230,-30,0,1,3.0,0.0,v
+S2324-G0412,2,04:38,SAS,48.0,UTA,49.0,O. Agbaji,UTA,Agbaji 2' Reverse Layup (2 PTS) (Olynyk 2 AST),Made Shot,Reverse Layup Shot,-18,8,2,1,2.0,2.0,v
+S2324-G0412,2,03:14,SAS,,UTA,,O. Agbaji,UTA,SUB: Markkanen FOR Agbaji,Substitution,,0,0,0,0,,,v
+S2324-G0412,3,01:18,SAS,92.0,UTA,97.0,O. Agbaji,UTA,Agbaji 26' 3PT Jump Shot (5 PTS) (George 1 AST),Made Shot,Jump Shot,170,193,26,1,3.0,3.0,v
+S2324-G0412,3,00:31.400000,SAS,,UTA,,O. Agbaji,UTA,MISS Agbaji 3PT Jump Shot,Missed Shot,Jump Shot,-234,10,0,1,3.0,0.0,v
+S2324-G0412,3,00:00.700000,SAS,,UTA,,O. Agbaji,UTA,Agbaji REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0412,4,11:28,SAS,,UTA,,O. Agbaji,UTA,Agbaji REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0412,4,10:29,SAS,,UTA,,O. Agbaji,UTA,Agbaji REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0412,4,09:17,SAS,,UTA,,O. Agbaji,UTA,Agbaji REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0412,4,04:21,SAS,105.0,UTA,124.0,O. Agbaji,UTA,Agbaji 1' Running Layup (7 PTS) (Markkanen 2 AST),Made Shot,Running Layup Shot,-6,3,1,1,2.0,2.0,v
+S2324-G0412,4,02:32,SAS,110.0,UTA,130.0,O. Agbaji,UTA,Agbaji 25' 3PT Jump Shot (10 PTS) (Sexton 6 AST),Made Shot,Jump Shot,-230,85,25,1,3.0,3.0,v
+S2324-G0412,4,02:08,SAS,,UTA,,O. Agbaji,UTA,SUB: Hendricks FOR Agbaji,Substitution,,0,0,0,0,,,v
+S2324-G0042,1,11:35,LAL,,UTA,,O. Agbaji,UTA,Agbaji REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0042,1,10:37,LAL,,UTA,,O. Agbaji,UTA,Agbaji P.FOUL (P1.T1) (K.Cutler),Foul,Personal,0,0,0,0,,,v
+S2324-G0042,1,08:31,LAL,,UTA,,O. Agbaji,UTA,MISS Agbaji 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-22,38,4,1,2.0,0.0,v
+S2324-G0042,1,08:01,LAL,,UTA,,O. Agbaji,UTA,MISS Agbaji 26' 3PT Jump Shot,Missed Shot,Jump Shot,-181,185,26,1,3.0,0.0,v
+S2324-G0042,1,07:31,LAL,,UTA,,O. Agbaji,UTA,Agbaji REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0042,1,07:31,LAL,,UTA,,O. Agbaji,UTA,MISS Agbaji Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2324-G0042,1,05:00,LAL,,UTA,,O. Agbaji,UTA,MISS Agbaji 26' 3PT Jump Shot,Missed Shot,Jump Shot,-212,155,26,1,3.0,0.0,v
+S2324-G0042,1,04:50,LAL,,UTA,,O. Agbaji,UTA,SUB: Sexton FOR Agbaji,Substitution,,0,0,0,0,,,v
+S2324-G0042,2,02:31,LAL,,UTA,,O. Agbaji,UTA,Agbaji Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0042,2,02:24,LAL,,UTA,,O. Agbaji,UTA,Agbaji L.B.FOUL (P2.T4) (C.Kirkland),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0042,3,09:46,LAL,,UTA,,O. Agbaji,UTA,MISS Agbaji 3PT Jump Shot,Missed Shot,Jump Shot,-228,33,0,1,3.0,0.0,v
+S2324-G0042,3,09:36,LAL,,UTA,,O. Agbaji,UTA,Agbaji REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0042,3,06:44,LAL,,UTA,,O. Agbaji,UTA,SUB: Olynyk FOR Agbaji,Substitution,,0,0,0,0,,,v
+S2324-G0474,2,11:49,UTA,,DET,,O. Agbaji,UTA,Agbaji Out of Bounds Lost Ball Turnover (P1.T6),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2324-G0474,2,11:09,UTA,,DET,,O. Agbaji,UTA,Agbaji REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0474,2,10:58,UTA,,DET,,O. Agbaji,UTA,Agbaji STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0474,2,07:54,UTA,,DET,,O. Agbaji,UTA,SUB: Markkanen FOR Agbaji,Substitution,,0,0,0,0,,,h
+S2324-G0474,3,00:47.800000,UTA,,DET,,O. Agbaji,UTA,Agbaji S.FOUL (P1.PN) (E.Malloy),Foul,Shooting,0,0,0,0,,,h
+S2324-G0474,4,11:21,UTA,107.0,DET,112.0,O. Agbaji,UTA,Agbaji 25' 3PT Jump Shot (3 PTS) (Olynyk 4 AST),Made Shot,Jump Shot,-210,142,25,1,3.0,3.0,h
+S2324-G0474,4,10:30,UTA,,DET,,O. Agbaji,UTA,Agbaji P.FOUL (P2.T1) (E.Malloy),Foul,Personal,0,0,0,0,,,h
+S2324-G0474,4,09:34,UTA,,DET,,O. Agbaji,UTA,Agbaji STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0474,4,07:19,UTA,,DET,,O. Agbaji,UTA,SUB: Markkanen FOR Agbaji,Substitution,,0,0,0,0,,,h
+S2324-G0395,2,08:22,TOR,48.0,UTA,42.0,O. Agbaji,UTA,Agbaji 27' 3PT Jump Shot (3 PTS) (Clarkson 1 AST),Made Shot,Jump Shot,154,216,27,1,3.0,3.0,v
+S2324-G0395,2,07:34,TOR,51.0,UTA,44.0,O. Agbaji,UTA,Agbaji 1' Driving Reverse Layup (5 PTS) (Markkanen 3 AST),Made Shot,Driving Reverse Layup Shot,2,10,1,1,2.0,2.0,v
+S2324-G0395,2,06:39,TOR,,UTA,,O. Agbaji,UTA,MISS Agbaji 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,230,11,0,1,3.0,0.0,v
+S2324-G0395,2,03:35,TOR,,UTA,,O. Agbaji,UTA,Agbaji Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0395,2,03:19,TOR,,UTA,,O. Agbaji,UTA,Agbaji BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0395,2,02:27,TOR,,UTA,,O. Agbaji,UTA,Agbaji P.FOUL (P1.T4) (T.Ford),Foul,Personal,0,0,0,0,,,v
+S2324-G0395,2,01:24,TOR,,UTA,,O. Agbaji,UTA,MISS Agbaji 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-185,189,26,1,3.0,0.0,v
+S2324-G0395,4,11:42,TOR,,UTA,,O. Agbaji,UTA,Agbaji REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0395,4,11:00,TOR,,UTA,,O. Agbaji,UTA,Agbaji REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0395,4,07:13,TOR,104.0,UTA,102.0,O. Agbaji,UTA,Agbaji 1' Running Dunk (7 PTS) (Markkanen 5 AST),Made Shot,Running Dunk Shot,5,3,1,1,2.0,2.0,v
+S2324-G0395,4,07:07,TOR,,UTA,,O. Agbaji,UTA,Agbaji P.FOUL (P2.T2) (T.Ford),Foul,Personal,0,0,0,0,,,v
+S2324-G0395,4,05:15,TOR,106.0,UTA,109.0,O. Agbaji,UTA,Agbaji Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0395,4,05:15,TOR,106.0,UTA,110.0,O. Agbaji,UTA,Agbaji Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0395,4,02:29,TOR,,UTA,,O. Agbaji,UTA,Agbaji REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0395,4,00:21.400000,TOR,,UTA,,O. Agbaji,UTA,SUB: Sexton FOR Agbaji,Substitution,,0,0,0,0,,,v
+S2324-G0012,1,11:05,MEM,,UTA,,O. Agbaji,UTA,Agbaji REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0012,1,10:28,MEM,,UTA,,O. Agbaji,UTA,Agbaji REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0012,1,10:25,MEM,,UTA,,O. Agbaji,UTA,MISS Agbaji 26' 3PT Jump Shot,Missed Shot,Jump Shot,-192,174,26,1,3.0,0.0,v
+S2324-G0012,1,09:48,MEM,,UTA,,O. Agbaji,UTA,Agbaji BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0012,1,09:02,MEM,9.0,UTA,6.0,O. Agbaji,UTA,Agbaji 26' 3PT Jump Shot (3 PTS) (George 1 AST),Made Shot,Jump Shot,153,210,26,1,3.0,3.0,v
+S2324-G0012,1,06:28,MEM,15.0,UTA,11.0,O. Agbaji,UTA,Agbaji 15' Pullup Jump Shot (5 PTS) (George 2 AST),Made Shot,Pullup Jump shot,145,26,15,1,2.0,2.0,v
+S2324-G0012,1,05:37,MEM,,UTA,,O. Agbaji,UTA,SUB: Horton-Tucker FOR Agbaji,Substitution,,0,0,0,0,,,v
+S2324-G0012,2,02:29,MEM,57.0,UTA,69.0,O. Agbaji,UTA,Agbaji 27' 3PT Jump Shot (8 PTS) (Markkanen 1 AST),Made Shot,Jump Shot,-200,174,27,1,3.0,3.0,v
+S2324-G0012,2,01:35,MEM,,UTA,,O. Agbaji,UTA,Agbaji STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0012,2,01:31,MEM,60.0,UTA,73.0,O. Agbaji,UTA,Agbaji 1' Running Dunk (10 PTS) (George 6 AST),Made Shot,Running Dunk Shot,4,4,1,1,2.0,2.0,v
+S2324-G0012,3,08:15,MEM,,UTA,,O. Agbaji,UTA,MISS Agbaji 25' 3PT Jump Shot,Missed Shot,Jump Shot,196,163,25,1,3.0,0.0,v
+S2324-G0012,3,07:37,MEM,74.0,UTA,86.0,O. Agbaji,UTA,Agbaji 3PT Jump Shot (13 PTS) (George 9 AST),Made Shot,Jump Shot,-234,18,0,1,3.0,3.0,v
+S2324-G0012,3,07:28,MEM,,UTA,,O. Agbaji,UTA,Agbaji BLOCK (2 BLK),,,0,0,0,0,,,v
+S2324-G0012,3,07:11,MEM,74.0,UTA,88.0,O. Agbaji,UTA,Agbaji 1' Driving Dunk (15 PTS),Made Shot,Driving Dunk Shot,-1,7,1,1,2.0,2.0,v
+S2324-G0012,3,04:55,MEM,,UTA,,O. Agbaji,UTA,SUB: Sexton FOR Agbaji,Substitution,,0,0,0,0,,,v
+S2324-G0012,4,09:02,MEM,,UTA,,O. Agbaji,UTA,Agbaji P.FOUL (P1.T1) (J.Butler),Foul,Personal,0,0,0,0,,,v
+S2324-G0012,4,05:30,MEM,,UTA,,O. Agbaji,UTA,Agbaji REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0012,4,04:32,MEM,,UTA,,O. Agbaji,UTA,Agbaji OFF.Foul (P2) (K.Lane),Foul,Offensive,0,0,0,0,,,v
+S2324-G0012,4,04:32,MEM,,UTA,,O. Agbaji,UTA,Agbaji Offensive Foul Turnover (P1.T20),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0012,4,04:00,MEM,,UTA,,O. Agbaji,UTA,Agbaji REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0012,4,02:45,MEM,,UTA,,O. Agbaji,UTA,Agbaji REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0012,4,01:19,MEM,,UTA,,O. Agbaji,UTA,Agbaji REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0012,4,00:18.600000,MEM,,UTA,,O. Agbaji,UTA,Agbaji P.FOUL (P3.PN) (K.Lane),Foul,Personal,0,0,0,0,,,v
+S2324-G0439,1,01:06,UTA,,MIA,,O. Agbaji,UTA,MISS Agbaji 27' 3PT Jump Shot,Missed Shot,Jump Shot,-130,236,27,1,3.0,0.0,h
+S2324-G0439,2,11:42,UTA,,MIA,,O. Agbaji,UTA,MISS Agbaji Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0439,2,11:42,UTA,,MIA,,O. Agbaji,UTA,MISS Agbaji Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0439,2,09:50,UTA,,MIA,,O. Agbaji,UTA,MISS Agbaji 3PT Jump Shot,Missed Shot,Jump Shot,-230,23,0,1,3.0,0.0,h
+S2324-G0439,2,09:31,UTA,,MIA,,O. Agbaji,UTA,Agbaji S.FOUL (P1.T1) (P.Ransom),Foul,Shooting,0,0,0,0,,,h
+S2324-G0439,2,07:12,UTA,,MIA,,O. Agbaji,UTA,Agbaji BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0439,2,07:05,UTA,,MIA,,O. Agbaji,UTA,MISS Agbaji 5' Running Layup,Missed Shot,Running Layup Shot,31,37,5,1,2.0,0.0,h
+S2324-G0439,2,07:05,UTA,,MIA,,O. Agbaji,UTA,SUB: Fontecchio FOR Agbaji,Substitution,,0,0,0,0,,,h
+S2324-G0439,4,10:15,UTA,,MIA,,O. Agbaji,UTA,MISS Agbaji 3PT Jump Shot,Missed Shot,Jump Shot,-223,-1,0,1,3.0,0.0,h
+S2324-G0439,4,04:35,UTA,,MIA,,O. Agbaji,UTA,SUB: Fontecchio FOR Agbaji,Substitution,,0,0,0,0,,,h
+S2324-G0357,1,02:50,UTA,,BKN,,O. Agbaji,UTA,Agbaji Traveling Turnover (P1.T5),Turnover,Traveling,0,0,0,0,,,h
+S2324-G0357,1,01:54,UTA,22.0,BKN,21.0,O. Agbaji,UTA,Agbaji 19' Pullup Jump Shot (2 PTS) (Markkanen 2 AST),Made Shot,Pullup Jump shot,152,121,19,1,2.0,2.0,h
+S2324-G0357,1,01:41,UTA,,BKN,,O. Agbaji,UTA,Agbaji REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0357,1,00:32.900000,UTA,,BKN,,O. Agbaji,UTA,MISS Agbaji 3PT Jump Shot,Missed Shot,Jump Shot,-225,41,0,1,3.0,0.0,h
+S2324-G0357,1,00:30.100000,UTA,,BKN,,O. Agbaji,UTA,Agbaji REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0357,1,00:28,UTA,,BKN,,O. Agbaji,UTA,Agbaji Bad Pass Turnover (P2.T6),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0357,2,10:56,UTA,,BKN,,O. Agbaji,UTA,MISS Agbaji 25' 3PT Jump Shot,Missed Shot,Jump Shot,230,103,25,1,3.0,0.0,h
+S2324-G0357,2,10:27,UTA,32.0,BKN,32.0,O. Agbaji,UTA,Agbaji 3' Running Layup (4 PTS) (Markkanen 3 AST),Made Shot,Running Layup Shot,29,16,3,1,2.0,2.0,h
+S2324-G0357,2,09:04,UTA,,BKN,,O. Agbaji,UTA,MISS Agbaji 25' 3PT Jump Shot,Missed Shot,Jump Shot,-162,189,25,1,3.0,0.0,h
+S2324-G0357,2,08:46,UTA,,BKN,,O. Agbaji,UTA,Agbaji P.FOUL (P1.T2) (K.Lane),Foul,Personal,0,0,0,0,,,h
+S2324-G0357,2,08:27,UTA,36.0,BKN,37.0,O. Agbaji,UTA,Agbaji 4' Running Finger Roll Layup (6 PTS) (Hendricks 1 AST),Made Shot,Running Finger Roll Layup Shot,1,37,4,1,2.0,2.0,h
+S2324-G0357,2,07:52,UTA,,BKN,,O. Agbaji,UTA,SUB: Horton-Tucker FOR Agbaji,Substitution,,0,0,0,0,,,h
+S2324-G0357,2,00:46.200000,UTA,,BKN,,O. Agbaji,UTA,MISS Agbaji 25' 3PT Jump Shot,Missed Shot,Jump Shot,229,96,25,1,3.0,0.0,h
+S2324-G0357,3,03:26,UTA,,BKN,,O. Agbaji,UTA,Agbaji STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0357,3,00:42.900000,UTA,88.0,BKN,80.0,O. Agbaji,UTA,Agbaji 3' Running Alley Oop Dunk Shot (8 PTS) (Dunn 4 AST),Made Shot,Running Alley Oop Dunk Shot,22,18,3,1,2.0,2.0,h
+S2324-G0357,4,11:15,UTA,,BKN,,O. Agbaji,UTA,Agbaji BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0357,4,08:19,UTA,,BKN,,O. Agbaji,UTA,Agbaji REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0357,4,05:05,UTA,113.0,BKN,101.0,O. Agbaji,UTA,Agbaji 3PT Running Jump Shot (11 PTS),Made Shot,Running Jump Shot,-234,-3,0,1,3.0,3.0,h
+S2324-G0357,4,03:32,UTA,115.0,BKN,101.0,O. Agbaji,UTA,Agbaji 3' Running Layup (13 PTS) (Sexton 5 AST),Made Shot,Running Layup Shot,26,23,3,1,2.0,2.0,h
+S2324-G0357,4,02:51,UTA,,BKN,,O. Agbaji,UTA,SUB: Markkanen FOR Agbaji,Substitution,,0,0,0,0,,,h
+S2324-G0479,1,01:23,BOS,,UTA,,O. Agbaji,UTA,Agbaji P.FOUL (P1.T3) (M.Ervin),Foul,Personal,0,0,0,0,,,v
+S2324-G0479,1,00:27.600000,BOS,,UTA,,O. Agbaji,UTA,Agbaji S.FOUL (P2.PN) (B.Adair),Foul,Shooting,0,0,0,0,,,v
+S2324-G0479,1,00:08.600000,BOS,,UTA,,O. Agbaji,UTA,MISS Agbaji 3PT Jump Shot,Missed Shot,Jump Shot,-233,20,0,1,3.0,0.0,v
+S2324-G0479,2,08:21,BOS,,UTA,,O. Agbaji,UTA,MISS Agbaji 3PT Jump Shot,Missed Shot,Jump Shot,228,-22,0,1,3.0,0.0,v
+S2324-G0479,2,07:42,BOS,,UTA,,O. Agbaji,UTA,SUB: Kessler FOR Agbaji,Substitution,,0,0,0,0,,,v
+S2324-G0479,3,00:51.200000,BOS,107.0,UTA,73.0,O. Agbaji,UTA,Agbaji 4' Cutting Layup Shot (2 PTS) (Clarkson 2 AST),Made Shot,Cutting Layup Shot,-25,34,4,1,2.0,2.0,v
+S2324-G0479,3,00:00,BOS,,UTA,,O. Agbaji,UTA,MISS Agbaji 28' 3PT Jump Shot,Missed Shot,Jump Shot,-165,225,28,1,3.0,0.0,v
+S2324-G0479,4,11:04,BOS,,UTA,,O. Agbaji,UTA,Agbaji REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0479,4,11:00,BOS,,UTA,,O. Agbaji,UTA,Agbaji Lost Ball Turnover (P1.T14),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0479,4,09:22,BOS,,UTA,,O. Agbaji,UTA,Agbaji REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0479,4,08:05,BOS,109.0,UTA,80.0,O. Agbaji,UTA,Agbaji 3' Running Layup (4 PTS) (George 1 AST),Made Shot,Running Layup Shot,4,26,3,1,2.0,2.0,v
+S2324-G0479,4,08:05,BOS,109.0,UTA,81.0,O. Agbaji,UTA,Agbaji Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G0479,4,07:17,BOS,,UTA,,O. Agbaji,UTA,Agbaji REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0479,4,03:56,BOS,,UTA,,O. Agbaji,UTA,Agbaji Offensive Charge Foul (P3) (M.Ervin),Foul,Offensive Charge,0,0,0,0,,,v
+S2324-G0479,4,03:56,BOS,,UTA,,O. Agbaji,UTA,Agbaji Offensive Foul Turnover (P2.T17),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0479,4,02:48,BOS,,UTA,,O. Agbaji,UTA,Agbaji S.FOUL (P4.T3) (A.Nagy),Foul,Shooting,0,0,0,0,,,v
+S2324-G0479,4,02:29,BOS,,UTA,,O. Agbaji,UTA,Agbaji REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0711,1,00:44.400000,UTA,,MIL,,O. Agbaji,UTA,Agbaji REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0711,1,00:04.900000,UTA,32.0,MIL,26.0,O. Agbaji,UTA,Agbaji 25' 3PT Step Back Jump Shot (3 PTS) (Olynyk 1 AST),Made Shot,Step Back Jump shot,145,208,25,1,3.0,3.0,h
+S2324-G0711,2,10:25,UTA,,MIL,,O. Agbaji,UTA,MISS Agbaji 25' 3PT Jump Shot,Missed Shot,Jump Shot,-217,114,25,1,3.0,0.0,h
+S2324-G0711,2,07:51,UTA,,MIL,,O. Agbaji,UTA,SUB: Fontecchio FOR Agbaji,Substitution,,0,0,0,0,,,h
+S2324-G1213,1,08:15,DAL,15.0,UTA,11.0,O. Agbaji,UTA,Agbaji 3PT Jump Shot (3 PTS) (Fontecchio 2 AST),Made Shot,Jump Shot,-234,13,0,1,3.0,3.0,v
+S2324-G1213,1,08:02,DAL,,UTA,,O. Agbaji,UTA,Agbaji S.FOUL (P1.T1) (M.Boland),Foul,Shooting,0,0,0,0,,,v
+S2324-G1213,1,06:47,DAL,,UTA,,O. Agbaji,UTA,MISS Agbaji 26' 3PT Jump Shot,Missed Shot,Jump Shot,-162,209,26,1,3.0,0.0,v
+S2324-G1213,1,06:21,DAL,26.0,UTA,17.0,O. Agbaji,UTA,Agbaji 26' 3PT Jump Shot (6 PTS) (George 2 AST),Made Shot,Jump Shot,-181,189,26,1,3.0,3.0,v
+S2324-G1213,1,05:38,DAL,26.0,UTA,21.0,O. Agbaji,UTA,Agbaji 2' Layup (8 PTS) (George 4 AST),Made Shot,Layup Shot,23,-1,2,1,2.0,2.0,v
+S2324-G1213,1,04:39,DAL,,UTA,,O. Agbaji,UTA,MISS Agbaji 26' 3PT Jump Shot,Missed Shot,Jump Shot,-199,173,26,1,3.0,0.0,v
+S2324-G1213,1,04:03,DAL,,UTA,,O. Agbaji,UTA,SUB: Horton-Tucker FOR Agbaji,Substitution,,0,0,0,0,,,v
+S2324-G1213,2,03:58,DAL,,UTA,,O. Agbaji,UTA,Agbaji STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G1213,2,03:05,DAL,,UTA,,O. Agbaji,UTA,MISS Agbaji 3PT Jump Shot,Missed Shot,Jump Shot,230,8,0,1,3.0,0.0,v
+S2324-G1213,2,00:07.400000,DAL,74.0,UTA,51.0,O. Agbaji,UTA,Agbaji 3PT Jump Shot (11 PTS) (George 6 AST),Made Shot,Jump Shot,-222,12,0,1,3.0,3.0,v
+S2324-G1213,3,11:17,DAL,,UTA,,O. Agbaji,UTA,MISS Agbaji 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-168,129,21,1,2.0,0.0,v
+S2324-G1213,3,09:37,DAL,81.0,UTA,54.0,O. Agbaji,UTA,Agbaji 3PT Jump Shot (14 PTS) (Fontecchio 3 AST),Made Shot,Jump Shot,230,35,0,1,3.0,3.0,v
+S2324-G1213,3,08:04,DAL,,UTA,,O. Agbaji,UTA,SUB: Hendricks FOR Agbaji,Substitution,,0,0,0,0,,,v
+S2324-G1213,4,10:30,DAL,,UTA,,O. Agbaji,UTA,MISS Agbaji 10' Floating Jump Shot,Missed Shot,Floating Jump shot,31,100,10,1,2.0,0.0,v
+S2324-G1213,4,09:02,DAL,,UTA,,O. Agbaji,UTA,MISS Agbaji 25' 3PT Jump Shot,Missed Shot,Jump Shot,-131,215,25,1,3.0,0.0,v
+S2324-G1213,4,06:07,DAL,,UTA,,O. Agbaji,UTA,MISS Agbaji 25' 3PT Jump Shot,Missed Shot,Jump Shot,5,251,25,1,3.0,0.0,v
+S2324-G1213,4,05:38,DAL,130.0,UTA,83.0,O. Agbaji,UTA,Agbaji Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1213,4,05:38,DAL,130.0,UTA,84.0,O. Agbaji,UTA,Agbaji Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1213,4,05:28,DAL,,UTA,,O. Agbaji,UTA,Agbaji STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G1213,4,05:25,DAL,130.0,UTA,86.0,O. Agbaji,UTA,Agbaji 1' Running Layup (18 PTS),Made Shot,Running Layup Shot,4,8,1,1,2.0,2.0,v
+S2324-G1213,4,01:35,DAL,143.0,UTA,95.0,O. Agbaji,UTA,Agbaji 26' 3PT Pullup Jump Shot (21 PTS) (George 11 AST),Made Shot,Pullup Jump shot,92,245,26,1,3.0,3.0,v
+S2324-G0510,2,10:37,MIL,23.0,UTA,45.0,O. Agbaji,UTA,Agbaji 15' Jump Shot (2 PTS) (Olynyk 1 AST),Made Shot,Jump Shot,131,74,15,1,2.0,2.0,v
+S2324-G0510,2,10:07,MIL,,UTA,,O. Agbaji,UTA,Agbaji REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0510,2,10:01,MIL,,UTA,,O. Agbaji,UTA,MISS Agbaji 3PT Jump Shot,Missed Shot,Jump Shot,230,30,0,1,3.0,0.0,v
+S2324-G0510,2,06:24,MIL,,UTA,,O. Agbaji,UTA,SUB: Markkanen FOR Agbaji,Substitution,,0,0,0,0,,,v
+S2324-G0510,3,01:25,MIL,,UTA,,O. Agbaji,UTA,Agbaji S.FOUL (P1.PN) (R.Acosta),Foul,Shooting,0,0,0,0,,,v
+S2324-G0510,4,08:49,MIL,,UTA,,O. Agbaji,UTA,SUB: Fontecchio FOR Agbaji,Substitution,,0,0,0,0,,,v
+S2324-G0072,1,00:24.800000,UTA,,SAC,,O. Agbaji,UTA,Agbaji REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0072,2,11:30,UTA,,SAC,,O. Agbaji,UTA,MISS Agbaji 7' Driving Layup,Missed Shot,Driving Layup Shot,-62,26,7,1,2.0,0.0,h
+S2324-G0072,2,11:20,UTA,27.0,SAC,35.0,O. Agbaji,UTA,Agbaji 3PT Jump Shot (3 PTS) (George 1 AST),Made Shot,Jump Shot,-229,27,0,1,3.0,3.0,h
+S2324-G0072,2,09:00,UTA,,SAC,,O. Agbaji,UTA,SUB: Olynyk FOR Agbaji,Substitution,,0,0,0,0,,,h
+S2324-G0072,3,03:33,UTA,,SAC,,O. Agbaji,UTA,MISS Agbaji 3' Layup,Missed Shot,Layup Shot,-7,24,3,1,2.0,0.0,h
+S2324-G0072,3,01:43,UTA,,SAC,,O. Agbaji,UTA,Agbaji REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0072,3,01:20,UTA,,SAC,,O. Agbaji,UTA,Agbaji REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0072,3,01:16,UTA,,SAC,,O. Agbaji,UTA,MISS Agbaji 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,205,163,26,1,3.0,0.0,h
+S2324-G0072,3,00:28.800000,UTA,,SAC,,O. Agbaji,UTA,MISS Agbaji 5' Layup,Missed Shot,Layup Shot,47,-2,5,1,2.0,0.0,h
+S2324-G0072,4,09:27,UTA,91.0,SAC,110.0,O. Agbaji,UTA,Agbaji 6' Running Dunk (5 PTS) (Horton-Tucker 4 AST),Made Shot,Running Dunk Shot,55,21,6,1,2.0,2.0,h
+S2324-G0072,4,09:11,UTA,,SAC,,O. Agbaji,UTA,Agbaji P.FOUL (P1.T2) (K.Lane),Foul,Personal,0,0,0,0,,,h
+S2324-G0072,4,02:32,UTA,,SAC,,O. Agbaji,UTA,Agbaji S.FOUL (P2.PN) (J.Williams),Foul,Shooting,0,0,0,0,,,h
+S2324-G0072,4,02:25,UTA,,SAC,,O. Agbaji,UTA,SUB: Sensabaugh FOR Agbaji,Substitution,,0,0,0,0,,,h
+S2324-G1225,1,02:07,UTA,21.0,LAC,26.0,O. Agbaji,UTA,Agbaji 3PT Step Back Jump Shot (3 PTS) (Horton-Tucker 1 AST),Made Shot,Step Back Jump shot,-227,34,0,1,3.0,3.0,h
+S2324-G1225,2,10:26,UTA,,LAC,,O. Agbaji,UTA,Agbaji REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1225,2,08:40,UTA,,LAC,,O. Agbaji,UTA,Agbaji Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G1225,2,07:56,UTA,,LAC,,O. Agbaji,UTA,SUB: Fontecchio FOR Agbaji,Substitution,,0,0,0,0,,,h
+S2324-G1225,3,01:44,UTA,,LAC,,O. Agbaji,UTA,MISS Agbaji 3' Dunk,Missed Shot,Dunk Shot,-17,29,3,1,2.0,0.0,h
+S2324-G1225,4,11:12,UTA,,LAC,,O. Agbaji,UTA,MISS Agbaji 27' 3PT Jump Shot,Missed Shot,Jump Shot,-50,265,27,1,3.0,0.0,h
+S2324-G1225,4,08:30,UTA,87.0,LAC,95.0,O. Agbaji,UTA,Agbaji 5' Driving Layup (5 PTS) (Sexton 3 AST),Made Shot,Driving Layup Shot,-39,29,5,1,2.0,2.0,h
+S2324-G1225,4,08:18,UTA,,LAC,,O. Agbaji,UTA,Agbaji S.FOUL (P1.T1) (K.Scott),Foul,Shooting,0,0,0,0,,,h
+S2324-G1225,4,07:42,UTA,,LAC,,O. Agbaji,UTA,Agbaji S.FOUL (P2.T2) (C.Flores),Foul,Shooting,0,0,0,0,,,h
+S2324-G1225,4,05:59,UTA,,LAC,,O. Agbaji,UTA,SUB: George FOR Agbaji,Substitution,,0,0,0,0,,,h

@@ -1,0 +1,498 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2324-G0134,4,01:25,ORL,,LAL,,C. Houstan,ORL,Houstan REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0499,1,10:48,ORL,,ATL,,C. Houstan,ORL,MISS Houstan 3PT Jump Shot,Missed Shot,Jump Shot,-229,-25,0,1,3.0,0.0,h
+S2324-G0499,1,09:43,ORL,,ATL,,C. Houstan,ORL,MISS Houstan 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,203,157,26,1,3.0,0.0,h
+S2324-G0499,1,08:31,ORL,,ATL,,C. Houstan,ORL,Houstan P.FOUL (P1.T2) (K.Scott),Foul,Personal,0,0,0,0,,,h
+S2324-G0499,1,07:59,ORL,13.0,ATL,3.0,C. Houstan,ORL,Houstan 3PT Jump Shot (3 PTS) (Banchero 1 AST),Made Shot,Jump Shot,234,-5,0,1,3.0,3.0,h
+S2324-G0499,1,07:29,ORL,16.0,ATL,3.0,C. Houstan,ORL,Houstan 25' 3PT Jump Shot (6 PTS) (Okeke 1 AST),Made Shot,Jump Shot,141,209,25,1,3.0,3.0,h
+S2324-G0499,1,05:22,ORL,,ATL,,C. Houstan,ORL,SUB: Fultz FOR Houstan,Substitution,,0,0,0,0,,,h
+S2324-G0499,2,08:39,ORL,,ATL,,C. Houstan,ORL,MISS Houstan 26' 3PT Jump Shot,Missed Shot,Jump Shot,-162,197,26,1,3.0,0.0,h
+S2324-G0499,2,08:05,ORL,,ATL,,C. Houstan,ORL,MISS Houstan 28' 3PT Jump Shot,Missed Shot,Jump Shot,161,229,28,1,3.0,0.0,h
+S2324-G0499,2,06:14,ORL,41.0,ATL,43.0,C. Houstan,ORL,Houstan 25' 3PT Jump Shot (9 PTS) (Banchero 2 AST),Made Shot,Jump Shot,-167,189,25,1,3.0,3.0,h
+S2324-G0499,2,05:22,ORL,42.0,ATL,43.0,C. Houstan,ORL,Houstan Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0499,2,05:22,ORL,,ATL,,C. Houstan,ORL,MISS Houstan Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0499,2,03:43,ORL,47.0,ATL,47.0,C. Houstan,ORL,Houstan Free Throw Technical (11 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,h
+S2324-G0499,3,11:43,ORL,54.0,ATL,60.0,C. Houstan,ORL,Houstan 3PT Jump Shot (14 PTS) (Suggs 2 AST),Made Shot,Jump Shot,227,13,0,1,3.0,3.0,h
+S2324-G0499,3,11:13,ORL,,ATL,,C. Houstan,ORL,Houstan REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0499,3,11:11,ORL,56.0,ATL,60.0,C. Houstan,ORL,Houstan 2' Putback Layup (16 PTS),Made Shot,Putback Layup Shot,6,16,2,1,2.0,2.0,h
+S2324-G0499,3,10:38,ORL,59.0,ATL,62.0,C. Houstan,ORL,Houstan 24' 3PT Jump Shot (19 PTS) (Okeke 2 AST),Made Shot,Jump Shot,221,105,24,1,3.0,3.0,h
+S2324-G0499,3,09:03,ORL,,ATL,,C. Houstan,ORL,MISS Houstan 27' 3PT Jump Shot,Missed Shot,Jump Shot,-112,241,27,1,3.0,0.0,h
+S2324-G0499,3,08:14,ORL,,ATL,,C. Houstan,ORL,Houstan S.FOUL (P2.T1) (R.Mott),Foul,Shooting,0,0,0,0,,,h
+S2324-G0499,3,07:08,ORL,,ATL,,C. Houstan,ORL,Houstan REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0499,3,02:46,ORL,,ATL,,C. Houstan,ORL,SUB: Okeke FOR Houstan,Substitution,,0,0,0,0,,,h
+S2324-G0499,4,05:27,ORL,97.0,ATL,93.0,C. Houstan,ORL,Houstan 26' 3PT Jump Shot (22 PTS) (Banchero 4 AST),Made Shot,Jump Shot,50,260,26,1,3.0,3.0,h
+S2324-G0499,4,01:29,ORL,,ATL,,C. Houstan,ORL,MISS Houstan 26' 3PT Jump Shot,Missed Shot,Jump Shot,-110,241,26,1,3.0,0.0,h
+S2324-G0499,4,01:07,ORL,105.0,ATL,101.0,C. Houstan,ORL,Houstan 24' 3PT Jump Shot (25 PTS) (Anthony 4 AST),Made Shot,Jump Shot,243,20,24,1,3.0,3.0,h
+S2324-G0499,4,00:00,ORL,,ATL,,C. Houstan,ORL,MISS Houstan 26' 3PT Jump Shot,Missed Shot,Jump Shot,-58,257,26,1,3.0,0.0,h
+S2324-G0499,5,01:37,ORL,,ATL,,C. Houstan,ORL,Houstan STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0476,1,02:37,SAC,,ORL,,C. Houstan,ORL,Houstan STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0476,1,02:09,SAC,24.0,ORL,25.0,C. Houstan,ORL,Houstan 28' 3PT Jump Shot (3 PTS) (Queen 1 AST),Made Shot,Jump Shot,181,220,28,1,3.0,3.0,v
+S2324-G0476,1,01:46,SAC,,ORL,,C. Houstan,ORL,Houstan S.FOUL (P1.T3) (S.Wright),Foul,Shooting,0,0,0,0,,,v
+S2324-G0476,2,11:18,SAC,27.0,ORL,31.0,C. Houstan,ORL,Houstan Free Throw Technical (4 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,v
+S2324-G0476,2,11:06,SAC,27.0,ORL,34.0,C. Houstan,ORL,Houstan 24' 3PT Step Back Jump Shot (7 PTS) (Black 2 AST),Made Shot,Step Back Jump shot,-234,25,24,1,3.0,3.0,v
+S2324-G0476,2,05:31,SAC,,ORL,,C. Houstan,ORL,SUB: Queen FOR Houstan,Substitution,,0,0,0,0,,,v
+S2324-G0476,3,10:39,SAC,,ORL,,C. Houstan,ORL,Houstan STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0476,3,10:29,SAC,72.0,ORL,62.0,C. Houstan,ORL,Houstan 3PT Jump Shot (10 PTS) (Suggs 3 AST),Made Shot,Jump Shot,232,13,0,1,3.0,3.0,v
+S2324-G0476,3,09:54,SAC,,ORL,,C. Houstan,ORL,MISS Houstan 26' 3PT Jump Shot,Missed Shot,Jump Shot,214,153,26,1,3.0,0.0,v
+S2324-G0476,3,08:51,SAC,,ORL,,C. Houstan,ORL,Houstan REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0476,3,06:48,SAC,,ORL,,C. Houstan,ORL,Houstan STEAL (3 STL),,,0,0,0,0,,,v
+S2324-G0476,3,05:36,SAC,79.0,ORL,78.0,C. Houstan,ORL,Houstan 25' 3PT Jump Shot (13 PTS) (Carter Jr. 3 AST),Made Shot,Jump Shot,227,94,25,1,3.0,3.0,v
+S2324-G0476,3,04:11,SAC,,ORL,,C. Houstan,ORL,Houstan STEAL (4 STL),,,0,0,0,0,,,v
+S2324-G0476,3,03:56,SAC,,ORL,,C. Houstan,ORL,MISS Houstan 26' 3PT Jump Shot,Missed Shot,Jump Shot,-143,219,26,1,3.0,0.0,v
+S2324-G0476,3,02:49,SAC,84.0,ORL,82.0,C. Houstan,ORL,Houstan Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0476,3,02:49,SAC,84.0,ORL,83.0,C. Houstan,ORL,Houstan Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0476,3,02:13,SAC,,ORL,,C. Houstan,ORL,Houstan REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0476,3,01:42,SAC,,ORL,,C. Houstan,ORL,SUB: Queen FOR Houstan,Substitution,,0,0,0,0,,,v
+S2324-G0476,4,02:22,SAC,,ORL,,C. Houstan,ORL,Houstan S.FOUL (P2.PN) (M.Smith),Foul,Shooting,0,0,0,0,,,v
+S2324-G0476,4,01:20,SAC,,ORL,,C. Houstan,ORL,SUB: Okeke FOR Houstan,Substitution,,0,0,0,0,,,v
+S2324-G0476,5,00:43,SAC,,ORL,,C. Houstan,ORL,SUB: Bitadze FOR Houstan,Substitution,,0,0,0,0,,,v
+S2324-G0476,5,00:08.700000,SAC,,ORL,,C. Houstan,ORL,SUB: Black FOR Houstan,Substitution,,0,0,0,0,,,v
+S2324-G0476,5,00:01.100000,SAC,,ORL,,C. Houstan,ORL,SUB: Bitadze FOR Houstan,Substitution,,0,0,0,0,,,v
+S2324-G0476,6,03:43,SAC,,ORL,,C. Houstan,ORL,Houstan Bad Pass Turnover (P1.T21),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0476,6,02:43,SAC,,ORL,,C. Houstan,ORL,SUB: Queen FOR Houstan,Substitution,,0,0,0,0,,,v
+S2324-G0821,2,10:16,ATL,,ORL,,C. Houstan,ORL,MISS Houstan 3PT Jump Shot,Missed Shot,Jump Shot,-234,-1,0,1,3.0,0.0,v
+S2324-G0821,2,07:39,ATL,28.0,ORL,32.0,C. Houstan,ORL,Houstan 3PT Running Jump Shot (3 PTS) (Anthony 3 AST),Made Shot,Running Jump Shot,230,6,0,1,3.0,3.0,v
+S2324-G0821,2,06:50,ATL,,ORL,,C. Houstan,ORL,Houstan REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0821,2,06:46,ATL,28.0,ORL,35.0,C. Houstan,ORL,Houstan 3PT Running Jump Shot (6 PTS) (F. Wagner 1 AST),Made Shot,Running Jump Shot,-232,13,0,1,3.0,3.0,v
+S2324-G0821,2,02:32,ATL,40.0,ORL,44.0,C. Houstan,ORL,Houstan 3PT Jump Shot (9 PTS) (Suggs 3 AST),Made Shot,Jump Shot,-221,25,0,1,3.0,3.0,v
+S2324-G0821,2,00:12.600000,ATL,45.0,ORL,51.0,C. Houstan,ORL,Houstan 3PT Jump Shot (12 PTS) (Suggs 4 AST),Made Shot,Jump Shot,-229,19,0,1,3.0,3.0,v
+S2324-G0821,3,03:23,ATL,,ORL,,C. Houstan,ORL,Houstan REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0821,3,02:32,ATL,,ORL,,C. Houstan,ORL,Houstan P.FOUL (P1.PN) (D.Collins),Foul,Personal,0,0,0,0,,,v
+S2324-G0821,3,02:07,ATL,,ORL,,C. Houstan,ORL,MISS Houstan 26' 3PT Jump Shot,Missed Shot,Jump Shot,-104,241,26,1,3.0,0.0,v
+S2324-G0821,3,01:06,ATL,,ORL,,C. Houstan,ORL,MISS Houstan 3PT Jump Shot,Missed Shot,Jump Shot,230,8,0,1,3.0,0.0,v
+S2324-G0821,3,00:36.600000,ATL,,ORL,,C. Houstan,ORL,MISS Houstan 25' 3PT Jump Shot,Missed Shot,Jump Shot,151,196,25,1,3.0,0.0,v
+S2324-G0821,3,00:01.400000,ATL,,ORL,,C. Houstan,ORL,MISS Houstan 25' 3PT Jump Shot,Missed Shot,Jump Shot,-175,181,25,1,3.0,0.0,v
+S2324-G0821,4,09:24,ATL,,ORL,,C. Houstan,ORL,SUB: F. Wagner FOR Houstan,Substitution,,0,0,0,0,,,v
+S2324-G1162,1,10:37,MIL,,ORL,,C. Houstan,ORL,Houstan REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1162,1,09:24,MIL,,ORL,,C. Houstan,ORL,MISS Houstan 27' 3PT Jump Shot,Missed Shot,Jump Shot,214,158,27,1,3.0,0.0,v
+S2324-G1162,1,08:18,MIL,,ORL,,C. Houstan,ORL,MISS Houstan 3PT Running Jump Shot,Missed Shot,Running Jump Shot,234,12,0,1,3.0,0.0,v
+S2324-G1162,1,08:03,MIL,,ORL,,C. Houstan,ORL,Houstan REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1162,1,07:51,MIL,,ORL,,C. Houstan,ORL,MISS Houstan 28' 3PT Jump Shot,Missed Shot,Jump Shot,-181,209,28,1,3.0,0.0,v
+S2324-G1162,1,04:01,MIL,,ORL,,C. Houstan,ORL,SUB: Wagner FOR Houstan,Substitution,,0,0,0,0,,,v
+S2324-G1162,3,09:17,MIL,,ORL,,C. Houstan,ORL,MISS Houstan 24' 3PT Jump Shot,Missed Shot,Jump Shot,236,23,24,1,3.0,0.0,v
+S2324-G1162,3,09:07,MIL,,ORL,,C. Houstan,ORL,MISS Houstan 3PT Jump Shot,Missed Shot,Jump Shot,-227,41,0,1,3.0,0.0,v
+S2324-G1162,3,08:38,MIL,,ORL,,C. Houstan,ORL,SUB: Anthony FOR Houstan,Substitution,,0,0,0,0,,,v
+S2324-G0991,4,11:40,ORL,,CHA,,C. Houstan,ORL,MISS Houstan 25' 3PT Jump Shot,Missed Shot,Jump Shot,-126,218,25,1,3.0,0.0,h
+S2324-G0991,4,11:33,ORL,,CHA,,C. Houstan,ORL,Houstan S.FOUL (P1.T1) (R.Hussey),Foul,Shooting,0,0,0,0,,,h
+S2324-G0991,4,08:20,ORL,,CHA,,C. Houstan,ORL,MISS Houstan 25' 3PT Jump Shot,Missed Shot,Jump Shot,-127,214,25,1,3.0,0.0,h
+S2324-G0991,4,06:17,ORL,,CHA,,C. Houstan,ORL,Houstan REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0991,4,05:36,ORL,105.0,CHA,78.0,C. Houstan,ORL,Houstan 25' 3PT Jump Shot (3 PTS) (Bitadze 2 AST),Made Shot,Jump Shot,-135,213,25,1,3.0,3.0,h
+S2324-G0991,4,03:23,ORL,,CHA,,C. Houstan,ORL,MISS Houstan 25' 3PT Jump Shot,Missed Shot,Jump Shot,-61,245,25,1,3.0,0.0,h
+S2324-G0991,4,02:28,ORL,,CHA,,C. Houstan,ORL,MISS Houstan 3PT Jump Shot,Missed Shot,Jump Shot,230,32,0,1,3.0,0.0,h
+S2324-G0378,2,06:51,MIL,,ORL,,C. Houstan,ORL,SUB: Banchero FOR Houstan,Substitution,,0,0,0,0,,,v
+S2324-G0378,3,06:14,MIL,,ORL,,C. Houstan,ORL,Houstan S.FOUL (P1.T4) (M.Lindsay),Foul,Shooting,0,0,0,0,,,v
+S2324-G0378,3,05:01,MIL,,ORL,,C. Houstan,ORL,MISS Houstan 29' 3PT Jump Shot,Missed Shot,Jump Shot,47,282,29,1,3.0,0.0,v
+S2324-G0378,3,01:52,MIL,,ORL,,C. Houstan,ORL,MISS Houstan 28' 3PT Jump Shot,Missed Shot,Jump Shot,176,219,28,1,3.0,0.0,v
+S2324-G0378,4,11:21,MIL,,ORL,,C. Houstan,ORL,MISS Houstan 27' 3PT Jump Shot,Missed Shot,Jump Shot,110,243,27,1,3.0,0.0,v
+S2324-G0378,4,09:47,MIL,,ORL,,C. Houstan,ORL,Houstan REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0378,4,08:26,MIL,,ORL,,C. Houstan,ORL,Houstan P.FOUL (P2.T2) (E.Dalen),Foul,Personal,0,0,0,0,,,v
+S2324-G0378,4,07:47,MIL,,ORL,,C. Houstan,ORL,Houstan BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0378,4,07:16,MIL,,ORL,,C. Houstan,ORL,SUB: Harris FOR Houstan,Substitution,,0,0,0,0,,,v
+S2324-G0114,4,02:38,LAC,,ORL,,C. Houstan,ORL,MISS Houstan 3PT Jump Shot,Missed Shot,Jump Shot,228,14,0,1,3.0,0.0,v
+S2324-G0114,4,02:02,LAC,110.0,ORL,97.0,C. Houstan,ORL,Houstan 3' Cutting Layup Shot (2 PTS) (Bitadze 3 AST),Made Shot,Cutting Layup Shot,-28,13,3,1,2.0,2.0,v
+S2324-G0114,4,02:02,LAC,110.0,ORL,98.0,C. Houstan,ORL,Houstan Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G0114,4,01:10,LAC,,ORL,,C. Houstan,ORL,MISS Houstan 26' 3PT Jump Shot,Missed Shot,Jump Shot,-196,173,26,1,3.0,0.0,v
+S2324-G0114,4,01:05,LAC,,ORL,,C. Houstan,ORL,MISS Houstan 3PT Jump Shot,Missed Shot,Jump Shot,-225,10,0,1,3.0,0.0,v
+S2324-G0114,4,00:09.100000,LAC,118.0,ORL,102.0,C. Houstan,ORL,Houstan 25' 3PT Jump Shot (6 PTS) (Black 1 AST),Made Shot,Jump Shot,105,226,25,1,3.0,3.0,v
+S2324-G0513,1,09:42,ORL,,MIN,,C. Houstan,ORL,Houstan P.FOUL (P1.T2) (I.Hwang),Foul,Personal,0,0,0,0,,,h
+S2324-G0513,1,08:50,ORL,3.0,MIN,11.0,C. Houstan,ORL,Houstan 24' 3PT Jump Shot (3 PTS) (Suggs 1 AST),Made Shot,Jump Shot,232,71,24,1,3.0,3.0,h
+S2324-G0513,1,05:09,ORL,,MIN,,C. Houstan,ORL,Houstan REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0513,1,03:52,ORL,,MIN,,C. Houstan,ORL,MISS Houstan 25' 3PT Jump Shot,Missed Shot,Jump Shot,141,211,25,1,3.0,0.0,h
+S2324-G0513,1,02:56,ORL,,MIN,,C. Houstan,ORL,MISS Houstan 25' 3PT Jump Shot,Missed Shot,Jump Shot,-180,180,25,1,3.0,0.0,h
+S2324-G0513,1,02:39,ORL,,MIN,,C. Houstan,ORL,Houstan REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0513,1,02:27,ORL,,MIN,,C. Houstan,ORL,Houstan REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0513,1,01:01,ORL,,MIN,,C. Houstan,ORL,Houstan S.FOUL (P2.PN) (I.Hwang),Foul,Shooting,0,0,0,0,,,h
+S2324-G0513,1,01:01,ORL,,MIN,,C. Houstan,ORL,SUB: Anthony FOR Houstan,Substitution,,0,0,0,0,,,h
+S2324-G0513,2,02:37,ORL,,MIN,,C. Houstan,ORL,Houstan REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0513,2,02:33,ORL,,MIN,,C. Houstan,ORL,MISS Houstan 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-199,159,25,1,3.0,0.0,h
+S2324-G0513,2,01:11,ORL,,MIN,,C. Houstan,ORL,MISS Houstan 25' 3PT Jump Shot,Missed Shot,Jump Shot,71,240,25,1,3.0,0.0,h
+S2324-G0513,3,10:10,ORL,,MIN,,C. Houstan,ORL,MISS Houstan 26' 3PT Jump Shot,Missed Shot,Jump Shot,70,251,26,1,3.0,0.0,h
+S2324-G0513,4,07:05,ORL,,MIN,,C. Houstan,ORL,MISS Houstan 25' 3PT Jump Shot,Missed Shot,Jump Shot,99,233,25,1,3.0,0.0,h
+S2324-G0513,4,05:57,ORL,83.0,MIN,104.0,C. Houstan,ORL,Houstan 26' 3PT Jump Shot (6 PTS) (Wagner 2 AST),Made Shot,Jump Shot,208,153,26,1,3.0,3.0,h
+S2324-G0513,4,04:10,ORL,,MIN,,C. Houstan,ORL,MISS Houstan 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-227,32,0,1,3.0,0.0,h
+S2324-G0513,4,01:42,ORL,,MIN,,C. Houstan,ORL,MISS Houstan 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,212,133,25,1,3.0,0.0,h
+S2324-G0513,4,01:38,ORL,,MIN,,C. Houstan,ORL,Houstan REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0513,4,01:36,ORL,,MIN,,C. Houstan,ORL,MISS Houstan 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,6,167,17,1,2.0,0.0,h
+S2324-G0513,4,00:57.100000,ORL,,MIN,,C. Houstan,ORL,Houstan REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0513,4,00:57.100000,ORL,89.0,MIN,113.0,C. Houstan,ORL,Houstan 3' Putback Layup (8 PTS),Made Shot,Putback Layup Shot,18,23,3,1,2.0,2.0,h
+S2324-G0513,4,00:30.800000,ORL,,MIN,,C. Houstan,ORL,Houstan REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0912,4,03:54,NYK,,ORL,,C. Houstan,ORL,MISS Houstan 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,164,189,25,1,3.0,0.0,v
+S2324-G0912,4,01:13,NYK,96.0,ORL,73.0,C. Houstan,ORL,Houstan Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0912,4,01:13,NYK,96.0,ORL,74.0,C. Houstan,ORL,Houstan Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0894,2,07:36,WAS,,ORL,,C. Houstan,ORL,SUB: Bitadze FOR Houstan,Substitution,,0,0,0,0,,,v
+S2324-G0928,1,10:06,ORL,,IND,,C. Houstan,ORL,Houstan REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0928,1,10:05,ORL,,IND,,C. Houstan,ORL,MISS Houstan 2' Putback Layup,Missed Shot,Putback Layup Shot,-1,17,2,1,2.0,0.0,h
+S2324-G0928,1,03:40,ORL,,IND,,C. Houstan,ORL,SUB: Anthony FOR Houstan,Substitution,,0,0,0,0,,,h
+S2324-G0928,3,09:43,ORL,,IND,,C. Houstan,ORL,Houstan REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0928,3,09:08,ORL,,IND,,C. Houstan,ORL,Houstan S.FOUL (P1.T1) (S.Wall),Foul,Shooting,0,0,0,0,,,h
+S2324-G0928,3,08:35,ORL,,IND,,C. Houstan,ORL,Houstan P.FOUL (P2.T2) (S.Wall),Foul,Personal,0,0,0,0,,,h
+S2324-G0928,3,06:43,ORL,,IND,,C. Houstan,ORL,Houstan S.FOUL (P3.T4) (P.Ransom),Foul,Shooting,0,0,0,0,,,h
+S2324-G0928,3,03:55,ORL,,IND,,C. Houstan,ORL,MISS Houstan 3PT Jump Shot,Missed Shot,Jump Shot,-229,8,0,1,3.0,0.0,h
+S2324-G0928,3,03:44,ORL,,IND,,C. Houstan,ORL,SUB: Anthony FOR Houstan,Substitution,,0,0,0,0,,,h
+S2324-G0772,4,00:59.300000,ORL,,OKC,,C. Houstan,ORL,Houstan REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0066,4,04:35,ORL,104.0,HOU,80.0,C. Houstan,ORL,Houstan 3PT Jump Shot (3 PTS) (Howard 1 AST),Made Shot,Jump Shot,-227,24,0,1,3.0,3.0,h
+S2324-G0066,4,02:46,ORL,,HOU,,C. Houstan,ORL,MISS Houstan 26' 3PT Jump Shot,Missed Shot,Jump Shot,168,192,26,1,3.0,0.0,h
+S2324-G0066,4,02:07,ORL,,HOU,,C. Houstan,ORL,Houstan REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0344,1,05:48,BOS,6.0,ORL,16.0,C. Houstan,ORL,Houstan 27' 3PT Running Jump Shot (3 PTS) (Banchero 1 AST),Made Shot,Running Jump Shot,-158,214,27,1,3.0,3.0,v
+S2324-G0344,1,05:08,BOS,,ORL,,C. Houstan,ORL,Houstan REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0344,1,03:54,BOS,,ORL,,C. Houstan,ORL,Houstan S.FOUL (P1.PN) (T.Maddox),Foul,Shooting,0,0,0,0,,,v
+S2324-G0344,1,03:13,BOS,,ORL,,C. Houstan,ORL,SUB: F. Wagner FOR Houstan,Substitution,,0,0,0,0,,,v
+S2324-G0344,2,04:01,BOS,,ORL,,C. Houstan,ORL,Houstan REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0344,3,05:25,BOS,,ORL,,C. Houstan,ORL,MISS Houstan 26' 3PT Jump Shot,Missed Shot,Jump Shot,172,197,26,1,3.0,0.0,v
+S2324-G0344,3,05:22,BOS,,ORL,,C. Houstan,ORL,Houstan REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0344,3,04:42,BOS,,ORL,,C. Houstan,ORL,Houstan P.FOUL (P2.T4) (J.Tiven),Foul,Personal,0,0,0,0,,,v
+S2324-G0344,3,02:28,BOS,,ORL,,C. Houstan,ORL,SUB: Isaac FOR Houstan,Substitution,,0,0,0,0,,,v
+S2324-G0344,4,05:36,BOS,,ORL,,C. Houstan,ORL,MISS Houstan 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-234,42,24,1,3.0,0.0,v
+S2324-G0344,4,04:14,BOS,,ORL,,C. Houstan,ORL,SUB: Anthony FOR Houstan,Substitution,,0,0,0,0,,,v
+S2324-G0344,4,02:13,BOS,112.0,ORL,90.0,C. Houstan,ORL,Houstan Free Throw Technical (4 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,v
+S2324-G0344,4,01:25,BOS,112.0,ORL,92.0,C. Houstan,ORL,Houstan 15' Pullup Jump Shot (6 PTS) (Schofield 1 AST),Made Shot,Pullup Jump shot,72,133,15,1,2.0,2.0,v
+S2324-G0344,4,01:10,BOS,114.0,ORL,93.0,C. Houstan,ORL,Houstan Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0344,4,01:10,BOS,114.0,ORL,94.0,C. Houstan,ORL,Houstan Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1191,4,05:05,ORL,,MIL,,C. Houstan,ORL,Houstan BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G1191,4,04:44,ORL,106.0,MIL,79.0,C. Houstan,ORL,Houstan 24' 3PT Jump Shot (3 PTS) (Howard 1 AST),Made Shot,Jump Shot,-234,38,24,1,3.0,3.0,h
+S2324-G1191,4,02:22,ORL,,MIL,,C. Houstan,ORL,Houstan STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1191,4,01:00,ORL,112.0,MIL,86.0,C. Houstan,ORL,Houstan Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1191,4,01:00,ORL,113.0,MIL,86.0,C. Houstan,ORL,Houstan Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0850,1,03:28,ORL,,UTA,,C. Houstan,ORL,MISS Houstan 26' 3PT Jump Shot,Missed Shot,Jump Shot,54,253,26,1,3.0,0.0,h
+S2324-G0850,1,02:49,ORL,,UTA,,C. Houstan,ORL,Houstan REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0850,1,01:45,ORL,,UTA,,C. Houstan,ORL,Houstan REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0850,2,11:44,ORL,,UTA,,C. Houstan,ORL,Houstan S.FOUL (P1.T1) (M.Kogut),Foul,Shooting,0,0,0,0,,,h
+S2324-G0850,2,10:28,ORL,32.0,UTA,23.0,C. Houstan,ORL,Houstan 25' 3PT Jump Shot (3 PTS) (Ingles 1 AST),Made Shot,Jump Shot,-194,160,25,1,3.0,3.0,h
+S2324-G0850,2,09:07,ORL,,UTA,,C. Houstan,ORL,MISS Houstan 26' 3PT Jump Shot,Missed Shot,Jump Shot,-189,174,26,1,3.0,0.0,h
+S2324-G0850,2,08:33,ORL,,UTA,,C. Houstan,ORL,SUB: F. Wagner FOR Houstan,Substitution,,0,0,0,0,,,h
+S2324-G0850,3,04:06,ORL,,UTA,,C. Houstan,ORL,MISS Houstan 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-201,145,25,1,3.0,0.0,h
+S2324-G0850,3,03:56,ORL,,UTA,,C. Houstan,ORL,Houstan BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0850,3,03:55,ORL,,UTA,,C. Houstan,ORL,Houstan P.FOUL (P2.T4) (K.Scott),Foul,Personal,0,0,0,0,,,h
+S2324-G0850,3,01:46,ORL,,UTA,,C. Houstan,ORL,Houstan BLOCK (2 BLK),,,0,0,0,0,,,h
+S2324-G0850,3,00:37.400000,ORL,,UTA,,C. Houstan,ORL,Houstan S.FOUL (P3.PN) (K.Scott),Foul,Shooting,0,0,0,0,,,h
+S2324-G0850,3,00:37.400000,ORL,,UTA,,C. Houstan,ORL,SUB: Fultz FOR Houstan,Substitution,,0,0,0,0,,,h
+S2324-G0391,2,08:38,IND,,ORL,,C. Houstan,ORL,SUB: Harris FOR Houstan,Substitution,,0,0,0,0,,,v
+S2324-G0391,2,05:19,IND,46.0,ORL,56.0,C. Houstan,ORL,Houstan 25' 3PT Jump Shot (3 PTS) (Banchero 3 AST),Made Shot,Jump Shot,-225,117,25,1,3.0,3.0,v
+S2324-G0391,2,03:13,IND,,ORL,,C. Houstan,ORL,MISS Houstan 25' 3PT Jump Shot,Missed Shot,Jump Shot,-164,189,25,1,3.0,0.0,v
+S2324-G0391,2,02:44,IND,,ORL,,C. Houstan,ORL,SUB: F. Wagner FOR Houstan,Substitution,,0,0,0,0,,,v
+S2324-G0391,3,03:48,IND,,ORL,,C. Houstan,ORL,Houstan STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0391,3,03:28,IND,,ORL,,C. Houstan,ORL,Houstan REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0391,3,01:16,IND,,ORL,,C. Houstan,ORL,Houstan P.FOUL (P1.T2) (B.Schwab),Foul,Personal,0,0,0,0,,,v
+S2324-G0391,4,11:12,IND,,ORL,,C. Houstan,ORL,MISS Houstan 3PT Jump Shot,Missed Shot,Jump Shot,-222,12,0,1,3.0,0.0,v
+S2324-G0391,4,10:30,IND,,ORL,,C. Houstan,ORL,Houstan Bad Pass Turnover (P1.T11),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0391,4,09:38,IND,,ORL,,C. Houstan,ORL,Houstan REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0391,4,09:31,IND,95.0,ORL,100.0,C. Houstan,ORL,Houstan 3PT Jump Shot (6 PTS) (Isaac 1 AST),Made Shot,Jump Shot,-221,10,0,1,3.0,3.0,v
+S2324-G0391,4,08:36,IND,,ORL,,C. Houstan,ORL,Houstan P.FOUL (P2.T1) (B.Schwab),Foul,Personal,0,0,0,0,,,v
+S2324-G0391,4,07:41,IND,,ORL,,C. Houstan,ORL,Houstan REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0391,4,05:49,IND,,ORL,,C. Houstan,ORL,Houstan P.FOUL (P3.T2) (S.Corbin),Foul,Personal,0,0,0,0,,,v
+S2324-G0391,4,05:17,IND,,ORL,,C. Houstan,ORL,SUB: F. Wagner FOR Houstan,Substitution,,0,0,0,0,,,v
+S2324-G0407,2,11:21,WAS,,ORL,,C. Houstan,ORL,Houstan REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0407,2,08:19,WAS,,ORL,,C. Houstan,ORL,SUB: Banchero FOR Houstan,Substitution,,0,0,0,0,,,v
+S2324-G0407,4,07:11,WAS,,ORL,,C. Houstan,ORL,SUB: Banchero FOR Houstan,Substitution,,0,0,0,0,,,v
+S2324-G0407,4,03:56,WAS,,ORL,,C. Houstan,ORL,SUB: F. Wagner FOR Houstan,Substitution,,0,0,0,0,,,v
+S2324-G0329,2,03:39,BOS,,ORL,,C. Houstan,ORL,MISS Houstan 27' 3PT Jump Shot,Missed Shot,Jump Shot,118,242,27,1,3.0,0.0,v
+S2324-G0329,2,03:30,BOS,,ORL,,C. Houstan,ORL,SUB: Bitadze FOR Houstan,Substitution,,0,0,0,0,,,v
+S2324-G0329,3,04:55,BOS,,ORL,,C. Houstan,ORL,MISS Houstan 24' 3PT Jump Shot,Missed Shot,Jump Shot,238,18,24,1,3.0,0.0,v
+S2324-G0329,3,03:35,BOS,,ORL,,C. Houstan,ORL,Houstan REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0329,3,01:48,BOS,,ORL,,C. Houstan,ORL,SUB: Isaac FOR Houstan,Substitution,,0,0,0,0,,,v
+S2324-G0329,4,02:01,BOS,,ORL,,C. Houstan,ORL,MISS Houstan 27' 3PT Jump Shot,Missed Shot,Jump Shot,16,268,27,1,3.0,0.0,v
+S2324-G0329,4,01:38,BOS,127.0,ORL,106.0,C. Houstan,ORL,Houstan 26' 3PT Jump Shot (3 PTS) (Black 4 AST),Made Shot,Jump Shot,211,159,26,1,3.0,3.0,v
+S2324-G0329,4,00:08.400000,BOS,,ORL,,C. Houstan,ORL,Houstan REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0329,4,00:08.400000,BOS,128.0,ORL,111.0,C. Houstan,ORL,Houstan 3' Putback Layup (5 PTS),Made Shot,Putback Layup Shot,-16,29,3,1,2.0,2.0,v
+S2324-G0450,4,08:31,PHX,,ORL,,C. Houstan,ORL,SUB: Banchero FOR Houstan,Substitution,,0,0,0,0,,,v
+S2324-G0535,1,09:36,MIA,,ORL,,C. Houstan,ORL,MISS Houstan 26' 3PT Jump Shot,Missed Shot,Jump Shot,-74,254,26,1,3.0,0.0,v
+S2324-G0535,1,08:43,MIA,,ORL,,C. Houstan,ORL,Houstan L.B.FOUL (P1.T2) (M.Lindsay),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0535,1,06:11,MIA,,ORL,,C. Houstan,ORL,MISS Houstan 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-240,16,24,1,3.0,0.0,v
+S2324-G0535,1,03:26,MIA,,ORL,,C. Houstan,ORL,SUB: Ingles FOR Houstan,Substitution,,0,0,0,0,,,v
+S2324-G0535,2,07:49,MIA,39.0,ORL,32.0,C. Houstan,ORL,Houstan 26' 3PT Jump Shot (3 PTS) (Banchero 1 AST),Made Shot,Jump Shot,-11,259,26,1,3.0,3.0,v
+S2324-G0535,2,05:58,MIA,43.0,ORL,38.0,C. Houstan,ORL,Houstan 28' 3PT Jump Shot (6 PTS) (Banchero 2 AST),Made Shot,Jump Shot,-125,247,28,1,3.0,3.0,v
+S2324-G0535,2,05:36,MIA,43.0,ORL,41.0,C. Houstan,ORL,Houstan 24' 3PT Running Jump Shot (9 PTS) (Black 1 AST),Made Shot,Running Jump Shot,-235,49,24,1,3.0,3.0,v
+S2324-G0535,2,04:06,MIA,,ORL,,C. Houstan,ORL,MISS Houstan 3PT Running Jump Shot,Missed Shot,Running Jump Shot,232,-3,0,1,3.0,0.0,v
+S2324-G0535,2,02:44,MIA,,ORL,,C. Houstan,ORL,Houstan REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0535,2,02:06,MIA,,ORL,,C. Houstan,ORL,MISS Houstan 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-229,120,26,1,3.0,0.0,v
+S2324-G0535,2,01:15,MIA,,ORL,,C. Houstan,ORL,Houstan P.FOUL (P2.T2) (A.Smith),Foul,Personal,0,0,0,0,,,v
+S2324-G0535,3,10:02,MIA,,ORL,,C. Houstan,ORL,MISS Houstan 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,25,269,27,1,3.0,0.0,v
+S2324-G0535,3,08:26,MIA,,ORL,,C. Houstan,ORL,Houstan P.FOUL (P3.T1) (M.Lindsay),Foul,Personal,0,0,0,0,,,v
+S2324-G0535,3,04:28,MIA,,ORL,,C. Houstan,ORL,SUB: Ingles FOR Houstan,Substitution,,0,0,0,0,,,v
+S2324-G0535,4,06:57,MIA,,ORL,,C. Houstan,ORL,Houstan REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0535,4,06:05,MIA,,ORL,,C. Houstan,ORL,MISS Houstan 25' 3PT Jump Shot,Missed Shot,Jump Shot,148,205,25,1,3.0,0.0,v
+S2324-G0535,4,00:38,MIA,,ORL,,C. Houstan,ORL,SUB: Black FOR Houstan,Substitution,,0,0,0,0,,,v
+S2324-G0535,4,00:07.800000,MIA,,ORL,,C. Houstan,ORL,Houstan P.FOUL (P4.PN) (D.Mosher),Foul,Personal,0,0,0,0,,,v
+S2324-G0020,2,05:12,BKN,,ORL,,C. Houstan,ORL,Houstan S.FOUL (P1.T2) (M.Kogut),Foul,Shooting,0,0,0,0,,,v
+S2324-G0020,2,03:45,BKN,,ORL,,C. Houstan,ORL,SUB: F. Wagner FOR Houstan,Substitution,,0,0,0,0,,,v
+S2324-G0020,4,01:32,BKN,118.0,ORL,104.0,C. Houstan,ORL,Houstan 26' 3PT Jump Shot (3 PTS) (M. Wagner 4 AST),Made Shot,Jump Shot,156,214,26,1,3.0,3.0,v
+S2324-G0734,4,00:51.900000,ORL,127.0,SAS,108.0,C. Houstan,ORL,Houstan 26' 3PT Jump Shot (3 PTS) (Black 2 AST),Made Shot,Jump Shot,207,155,26,1,3.0,3.0,h
+S2324-G1020,1,11:38,ORL,3.0,SAC,0.0,C. Houstan,ORL,Houstan 25' 3PT Jump Shot (3 PTS) (F. Wagner 1 AST),Made Shot,Jump Shot,185,168,25,1,3.0,3.0,h
+S2324-G1020,1,09:13,ORL,,SAC,,C. Houstan,ORL,Houstan STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1020,1,08:28,ORL,,SAC,,C. Houstan,ORL,Houstan REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1020,1,07:49,ORL,,SAC,,C. Houstan,ORL,MISS Houstan 3PT Jump Shot,Missed Shot,Jump Shot,-229,43,0,1,3.0,0.0,h
+S2324-G1020,1,07:16,ORL,,SAC,,C. Houstan,ORL,MISS Houstan 3PT Jump Shot,Missed Shot,Jump Shot,-229,4,0,1,3.0,0.0,h
+S2324-G1020,1,04:45,ORL,,SAC,,C. Houstan,ORL,MISS Houstan 29' 3PT Jump Shot,Missed Shot,Jump Shot,145,248,29,1,3.0,0.0,h
+S2324-G1020,1,04:41,ORL,,SAC,,C. Houstan,ORL,Houstan REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1020,1,03:32,ORL,,SAC,,C. Houstan,ORL,SUB: Anthony FOR Houstan,Substitution,,0,0,0,0,,,h
+S2324-G1020,2,02:08,ORL,51.0,SAC,47.0,C. Houstan,ORL,Houstan 3PT Jump Shot (6 PTS) (Carter Jr. 1 AST),Made Shot,Jump Shot,-232,16,0,1,3.0,3.0,h
+S2324-G1020,2,01:07,ORL,,SAC,,C. Houstan,ORL,SUB: Anthony FOR Houstan,Substitution,,0,0,0,0,,,h
+S2324-G0963,4,00:47.700000,TOR,,ORL,,C. Houstan,ORL,MISS Houstan 25' 3PT Jump Shot,Missed Shot,Jump Shot,164,193,25,1,3.0,0.0,v
+S2324-G0488,1,05:35,DEN,,ORL,,C. Houstan,ORL,Houstan S.FOUL (P1.T4) (D.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2324-G0488,1,05:17,DEN,,ORL,,C. Houstan,ORL,Houstan S.FOUL (P2.PN) (M.Myers),Foul,Shooting,0,0,0,0,,,v
+S2324-G0488,1,04:29,DEN,26.0,ORL,19.0,C. Houstan,ORL,Houstan 26' 3PT Jump Shot (3 PTS) (Wagner 1 AST),Made Shot,Jump Shot,60,250,26,1,3.0,3.0,v
+S2324-G0488,1,02:27,DEN,29.0,ORL,26.0,C. Houstan,ORL,Houstan 15' Pullup Jump Shot (5 PTS) (Queen 1 AST),Made Shot,Pullup Jump shot,-152,4,15,1,2.0,2.0,v
+S2324-G0488,2,09:25,DEN,,ORL,,C. Houstan,ORL,MISS Houstan 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-237,13,24,1,3.0,0.0,v
+S2324-G0488,2,09:09,DEN,,ORL,,C. Houstan,ORL,MISS Houstan 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-172,164,24,1,3.0,0.0,v
+S2324-G0488,2,08:39,DEN,,ORL,,C. Houstan,ORL,MISS Houstan Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0488,2,08:39,DEN,,ORL,,C. Houstan,ORL,MISS Houstan Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0488,2,07:39,DEN,,ORL,,C. Houstan,ORL,SUB: Suggs FOR Houstan,Substitution,,0,0,0,0,,,v
+S2324-G0488,3,10:02,DEN,,ORL,,C. Houstan,ORL,Houstan S.FOUL (P3.T1) (D.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2324-G0488,3,04:22,DEN,89.0,ORL,80.0,C. Houstan,ORL,Houstan 25' 3PT Jump Shot (8 PTS) (Anthony 3 AST),Made Shot,Jump Shot,-229,109,25,1,3.0,3.0,v
+S2324-G0488,3,02:19,DEN,,ORL,,C. Houstan,ORL,MISS Houstan 24' 3PT Jump Shot,Missed Shot,Jump Shot,239,11,24,1,3.0,0.0,v
+S2324-G0778,1,08:34,ORL,13.0,NYK,10.0,C. Houstan,ORL,Houstan 24' 3PT Jump Shot (3 PTS) (Banchero 1 AST),Made Shot,Jump Shot,234,24,24,1,3.0,3.0,h
+S2324-G0778,1,04:25,ORL,,NYK,,C. Houstan,ORL,Houstan P.FOUL (P1.T3) (N.Buchert),Foul,Personal,0,0,0,0,,,h
+S2324-G0778,1,02:56,ORL,,NYK,,C. Houstan,ORL,SUB: Queen FOR Houstan,Substitution,,0,0,0,0,,,h
+S2324-G0778,2,03:31,ORL,,NYK,,C. Houstan,ORL,Houstan Out of Bounds Lost Ball Turnover (P1.T8),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2324-G0778,3,11:47,ORL,68.0,NYK,55.0,C. Houstan,ORL,Houstan 26' 3PT Jump Shot (6 PTS) (Banchero 3 AST),Made Shot,Jump Shot,-55,251,26,1,3.0,3.0,h
+S2324-G0778,3,10:21,ORL,,NYK,,C. Houstan,ORL,Houstan REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0778,3,09:32,ORL,,NYK,,C. Houstan,ORL,MISS Houstan 23' Running Jump Shot,Missed Shot,Running Jump Shot,150,177,23,1,2.0,0.0,h
+S2324-G0778,3,03:12,ORL,,NYK,,C. Houstan,ORL,SUB: M. Wagner FOR Houstan,Substitution,,0,0,0,0,,,h
+S2324-G0778,4,04:53,ORL,,NYK,,C. Houstan,ORL,SUB: Okeke FOR Houstan,Substitution,,0,0,0,0,,,h
+S2324-G0282,2,05:05,BKN,,ORL,,C. Houstan,ORL,MISS Houstan 3PT Jump Shot,Missed Shot,Jump Shot,232,-1,0,1,3.0,0.0,v
+S2324-G0282,2,04:17,BKN,,ORL,,C. Houstan,ORL,SUB: F. Wagner FOR Houstan,Substitution,,0,0,0,0,,,v
+S2324-G0282,4,11:12,BKN,98.0,ORL,88.0,C. Houstan,ORL,Houstan 3PT Running Jump Shot (3 PTS) (Harris 2 AST),Made Shot,Running Jump Shot,233,25,0,1,3.0,3.0,v
+S2324-G0282,4,07:21,BKN,,ORL,,C. Houstan,ORL,Houstan S.FOUL (P1.T3) (B.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2324-G0282,4,05:39,BKN,,ORL,,C. Houstan,ORL,MISS Houstan 3PT Jump Shot,Missed Shot,Jump Shot,-234,15,0,1,3.0,0.0,v
+S2324-G0282,4,05:22,BKN,,ORL,,C. Houstan,ORL,SUB: M. Wagner FOR Houstan,Substitution,,0,0,0,0,,,v
+S2324-G1217,1,01:43,ORL,,DET,,C. Houstan,ORL,Houstan S.FOUL (P1.T2) (D.Mosher),Foul,Shooting,0,0,0,0,,,h
+S2324-G1217,2,10:42,ORL,,DET,,C. Houstan,ORL,Houstan REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1217,2,10:34,ORL,33.0,DET,23.0,C. Houstan,ORL,Houstan 27' 3PT Jump Shot (3 PTS) (F. Wagner 1 AST),Made Shot,Jump Shot,97,247,27,1,3.0,3.0,h
+S2324-G1217,2,10:07,ORL,,DET,,C. Houstan,ORL,Houstan REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1217,2,08:37,ORL,,DET,,C. Houstan,ORL,MISS Houstan 27' 3PT Jump Shot,Missed Shot,Jump Shot,-143,227,27,1,3.0,0.0,h
+S2324-G1217,2,05:17,ORL,,DET,,C. Houstan,ORL,SUB: Harris FOR Houstan,Substitution,,0,0,0,0,,,h
+S2324-G1217,3,03:57,ORL,,DET,,C. Houstan,ORL,Houstan REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1217,3,01:28,ORL,88.0,DET,62.0,C. Houstan,ORL,Houstan 3PT Jump Shot (6 PTS) (Anthony 5 AST),Made Shot,Jump Shot,-233,1,0,1,3.0,3.0,h
+S2324-G1217,4,11:41,ORL,,DET,,C. Houstan,ORL,Houstan REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1217,4,05:39,ORL,,DET,,C. Houstan,ORL,MISS Houstan 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,140,215,26,1,3.0,0.0,h
+S2324-G1217,4,02:42,ORL,,DET,,C. Houstan,ORL,MISS Houstan 28' 3PT Jump Shot,Missed Shot,Jump Shot,-120,248,28,1,3.0,0.0,h
+S2324-G1217,4,01:38,ORL,,DET,,C. Houstan,ORL,MISS Houstan 25' 3PT Jump Shot,Missed Shot,Jump Shot,-134,215,25,1,3.0,0.0,h
+S2324-G0607,1,03:02,ORL,14.0,CLE,25.0,C. Houstan,ORL,Houstan 26' 3PT Jump Shot (3 PTS) (Banchero 2 AST),Made Shot,Jump Shot,-92,240,26,1,3.0,3.0,h
+S2324-G0607,1,00:33.200000,ORL,,CLE,,C. Houstan,ORL,SUB: Okeke FOR Houstan,Substitution,,0,0,0,0,,,h
+S2324-G0607,2,04:53,ORL,,CLE,,C. Houstan,ORL,SUB: Suggs FOR Houstan,Substitution,,0,0,0,0,,,h
+S2324-G0607,4,09:57,ORL,,CLE,,C. Houstan,ORL,MISS Houstan 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-196,183,27,1,3.0,0.0,h
+S2324-G0607,4,09:26,ORL,,CLE,,C. Houstan,ORL,Houstan L.B.FOUL (P1.T1) (T.Ford),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0607,4,08:25,ORL,,CLE,,C. Houstan,ORL,Houstan Bad Pass Turnover (P1.T15),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0607,4,08:23,ORL,,CLE,,C. Houstan,ORL,Houstan S.FOUL (P2.T2) (R.Hussey),Foul,Shooting,0,0,0,0,,,h
+S2324-G0607,4,05:28,ORL,,CLE,,C. Houstan,ORL,Houstan REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0607,4,04:40,ORL,90.0,CLE,121.0,C. Houstan,ORL,Houstan 26' 3PT Jump Shot (6 PTS) (Queen 4 AST),Made Shot,Jump Shot,0,260,26,1,3.0,3.0,h
+S2324-G0607,4,02:41,ORL,,CLE,,C. Houstan,ORL,Houstan REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0979,2,06:19,ORL,,TOR,,C. Houstan,ORL,SUB: Carter Jr. FOR Houstan,Substitution,,0,0,0,0,,,h
+S2324-G0979,2,00:01,ORL,52.0,TOR,47.0,C. Houstan,ORL,Houstan 26' 3PT Jump Shot (3 PTS) (Banchero 3 AST),Made Shot,Jump Shot,221,143,26,1,3.0,3.0,h
+S2324-G0979,4,09:41,ORL,,TOR,,C. Houstan,ORL,MISS Houstan 26' 3PT Jump Shot,Missed Shot,Jump Shot,-27,257,26,1,3.0,0.0,h
+S2324-G0979,4,09:07,ORL,,TOR,,C. Houstan,ORL,MISS Houstan 27' 3PT Jump Shot,Missed Shot,Jump Shot,-174,205,27,1,3.0,0.0,h
+S2324-G0979,4,08:58,ORL,,TOR,,C. Houstan,ORL,Houstan S.FOUL (P1.T2) (S.Foster),Foul,Shooting,0,0,0,0,,,h
+S2324-G0979,4,08:10,ORL,,TOR,,C. Houstan,ORL,MISS Houstan 3PT Jump Shot,Missed Shot,Jump Shot,228,24,0,1,3.0,0.0,h
+S2324-G0979,4,06:14,ORL,,TOR,,C. Houstan,ORL,SUB: Banchero FOR Houstan,Substitution,,0,0,0,0,,,h
+S2324-G0147,2,10:32,ORL,43.0,DAL,29.0,C. Houstan,ORL,Houstan 25' 3PT Jump Shot (3 PTS) (Anthony 5 AST),Made Shot,Jump Shot,132,209,25,1,3.0,3.0,h
+S2324-G0147,2,08:59,ORL,,DAL,,C. Houstan,ORL,Houstan REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0147,2,07:30,ORL,,DAL,,C. Houstan,ORL,SUB: Banchero FOR Houstan,Substitution,,0,0,0,0,,,h
+S2324-G0147,3,00:06.500000,ORL,,DAL,,C. Houstan,ORL,MISS Houstan 24' 3PT Jump Shot,Missed Shot,Jump Shot,232,63,24,1,3.0,0.0,h
+S2324-G0147,4,10:22,ORL,,DAL,,C. Houstan,ORL,Houstan L.B.FOUL (P1.T2) (S.Foster),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0147,4,06:34,ORL,,DAL,,C. Houstan,ORL,SUB: Suggs FOR Houstan,Substitution,,0,0,0,0,,,h
+S2324-G0043,4,11:04,ORL,,BOS,,C. Houstan,ORL,Houstan REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0043,4,09:24,ORL,,BOS,,C. Houstan,ORL,Houstan STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0043,4,07:29,ORL,,BOS,,C. Houstan,ORL,Houstan REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0043,4,06:50,ORL,,BOS,,C. Houstan,ORL,SUB: Suggs FOR Houstan,Substitution,,0,0,0,0,,,h
+S2324-G0038,4,03:11,ORL,,TOR,,C. Houstan,ORL,Houstan STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0038,4,03:03,ORL,,TOR,,C. Houstan,ORL,MISS Houstan 26' 3PT Jump Shot,Missed Shot,Jump Shot,143,215,26,1,3.0,0.0,h
+S2324-G0038,4,01:07,ORL,,TOR,,C. Houstan,ORL,Houstan REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1150,2,11:48,HOU,,ORL,,C. Houstan,ORL,Houstan STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G1150,2,07:58,HOU,,ORL,,C. Houstan,ORL,SUB: Banchero FOR Houstan,Substitution,,0,0,0,0,,,v
+S2324-G0429,1,03:42,ORL,,NYK,,C. Houstan,ORL,MISS Houstan 25' 3PT Jump Shot,Missed Shot,Jump Shot,-195,161,25,1,3.0,0.0,h
+S2324-G0429,1,03:21,ORL,,NYK,,C. Houstan,ORL,MISS Houstan 3PT Jump Shot,Missed Shot,Jump Shot,224,4,0,1,3.0,0.0,h
+S2324-G0429,1,00:47.500000,ORL,,NYK,,C. Houstan,ORL,MISS Houstan 24' 3PT Jump Shot,Missed Shot,Jump Shot,-238,-10,24,1,3.0,0.0,h
+S2324-G0429,2,09:50,ORL,,NYK,,C. Houstan,ORL,MISS Houstan 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-243,-1,24,1,3.0,0.0,h
+S2324-G0429,2,09:49,ORL,,NYK,,C. Houstan,ORL,Houstan REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0429,2,06:54,ORL,,NYK,,C. Houstan,ORL,Houstan Step Out of Bounds Turnover (P1.T7),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2324-G0429,2,06:54,ORL,,NYK,,C. Houstan,ORL,SUB: Banchero FOR Houstan,Substitution,,0,0,0,0,,,h
+S2324-G0429,3,03:25,ORL,,NYK,,C. Houstan,ORL,MISS Houstan 3PT Jump Shot,Missed Shot,Jump Shot,229,-5,0,1,3.0,0.0,h
+S2324-G0429,3,03:16,ORL,,NYK,,C. Houstan,ORL,Houstan L.B.FOUL (P1.PN) (M.Kogut),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0429,3,01:41,ORL,,NYK,,C. Houstan,ORL,Houstan REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0429,3,01:39,ORL,,NYK,,C. Houstan,ORL,SUB: F. Wagner FOR Houstan,Substitution,,0,0,0,0,,,h
+S2324-G0429,4,06:04,ORL,,NYK,,C. Houstan,ORL,SUB: Suggs FOR Houstan,Substitution,,0,0,0,0,,,h
+S2324-G0366,2,04:45,ORL,,MIA,,C. Houstan,ORL,MISS Houstan 24' 3PT Jump Shot,Missed Shot,Jump Shot,230,66,24,1,3.0,0.0,h
+S2324-G0366,2,04:02,ORL,,MIA,,C. Houstan,ORL,MISS Houstan 27' 3PT Jump Shot,Missed Shot,Jump Shot,164,210,27,1,3.0,0.0,h
+S2324-G0366,2,03:41,ORL,,MIA,,C. Houstan,ORL,SUB: Carter Jr. FOR Houstan,Substitution,,0,0,0,0,,,h
+S2324-G0366,3,01:14,ORL,72.0,MIA,87.0,C. Houstan,ORL,Houstan 27' 3PT Jump Shot (3 PTS) (Anthony 3 AST),Made Shot,Jump Shot,131,232,27,1,3.0,3.0,h
+S2324-G0366,4,11:31,ORL,,MIA,,C. Houstan,ORL,MISS Houstan 27' 3PT Jump Shot,Missed Shot,Jump Shot,114,246,27,1,3.0,0.0,h
+S2324-G0366,4,11:13,ORL,,MIA,,C. Houstan,ORL,MISS Houstan 26' 3PT Jump Shot,Missed Shot,Jump Shot,82,248,26,1,3.0,0.0,h
+S2324-G0366,4,10:49,ORL,,MIA,,C. Houstan,ORL,SUB: F. Wagner FOR Houstan,Substitution,,0,0,0,0,,,h
+S2324-G0366,4,05:15,ORL,85.0,MIA,106.0,C. Houstan,ORL,Houstan 3PT Jump Shot (6 PTS) (Banchero 8 AST),Made Shot,Jump Shot,229,36,0,1,3.0,3.0,h
+S2324-G0366,4,04:18,ORL,,MIA,,C. Houstan,ORL,MISS Houstan 26' 3PT Jump Shot,Missed Shot,Jump Shot,6,263,26,1,3.0,0.0,h
+S2324-G0366,4,00:40.400000,ORL,101.0,MIA,110.0,C. Houstan,ORL,Houstan 28' 3PT Jump Shot (9 PTS) (Black 3 AST),Made Shot,Jump Shot,94,263,28,1,3.0,3.0,h
+S2324-G0366,4,00:14.200000,ORL,,MIA,,C. Houstan,ORL,MISS Houstan 32' 3PT Jump Shot,Missed Shot,Jump Shot,-172,268,32,1,3.0,0.0,h
+S2324-G0366,4,00:00.300000,ORL,,MIA,,C. Houstan,ORL,MISS Houstan 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-118,259,28,1,3.0,0.0,h
+S2324-G0833,1,11:21,ORL,,BKN,,C. Houstan,ORL,MISS Houstan 3PT Jump Shot,Missed Shot,Jump Shot,-230,8,0,1,3.0,0.0,h
+S2324-G0833,1,11:16,ORL,,BKN,,C. Houstan,ORL,Houstan STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0833,1,10:26,ORL,,BKN,,C. Houstan,ORL,Houstan REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0833,1,09:26,ORL,,BKN,,C. Houstan,ORL,Houstan P.FOUL (P1.T1) (M.Smith),Foul,Personal,0,0,0,0,,,h
+S2324-G0833,1,09:02,ORL,,BKN,,C. Houstan,ORL,Houstan REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0833,1,08:53,ORL,9.0,BKN,5.0,C. Houstan,ORL,Houstan 27' 3PT Jump Shot (3 PTS) (F. Wagner 1 AST),Made Shot,Jump Shot,141,228,27,1,3.0,3.0,h
+S2324-G0833,1,04:34,ORL,,BKN,,C. Houstan,ORL,Houstan REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0833,1,04:24,ORL,,BKN,,C. Houstan,ORL,SUB: Anthony FOR Houstan,Substitution,,0,0,0,0,,,h
+S2324-G0833,2,04:52,ORL,,BKN,,C. Houstan,ORL,Houstan REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0833,2,02:25,ORL,,BKN,,C. Houstan,ORL,Houstan REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0833,2,00:06.300000,ORL,58.0,BKN,44.0,C. Houstan,ORL,Houstan 26' 3PT Jump Shot (6 PTS) (Harris 2 AST),Made Shot,Jump Shot,-176,194,26,1,3.0,3.0,h
+S2324-G0833,3,10:03,ORL,68.0,BKN,47.0,C. Houstan,ORL,Houstan 3PT Jump Shot (9 PTS) (F. Wagner 3 AST),Made Shot,Jump Shot,-229,20,0,1,3.0,3.0,h
+S2324-G0833,3,06:25,ORL,,BKN,,C. Houstan,ORL,Houstan L.B.FOUL (P2.T3) (M.Ervin),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0833,3,02:12,ORL,,BKN,,C. Houstan,ORL,Houstan STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0833,3,02:04,ORL,,BKN,,C. Houstan,ORL,SUB: Black FOR Houstan,Substitution,,0,0,0,0,,,h
+S2324-G0833,4,06:31,ORL,,BKN,,C. Houstan,ORL,Houstan S.FOUL (P3.T3) (M.Smith),Foul,Shooting,0,0,0,0,,,h
+S2324-G0833,4,00:42.600000,ORL,,BKN,,C. Houstan,ORL,Houstan REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0833,4,00:05.700000,ORL,,BKN,,C. Houstan,ORL,Houstan Traveling Turnover (P1.T19),Turnover,Traveling,0,0,0,0,,,h
+S2324-G0259,2,08:17,ORL,,WAS,,C. Houstan,ORL,Houstan P.FOUL (P1.T2) (M.Lindsay),Foul,Personal,0,0,0,0,,,h
+S2324-G0259,2,06:36,ORL,,WAS,,C. Houstan,ORL,MAGIC T.Foul (Def. 3 Sec Houstan ) (E.Scott),Foul,Defense 3 Second,0,0,0,0,,,h
+S2324-G0259,2,05:49,ORL,,WAS,,C. Houstan,ORL,SUB: Bitadze FOR Houstan,Substitution,,0,0,0,0,,,h
+S2324-G0259,4,06:28,ORL,,WAS,,C. Houstan,ORL,Houstan S.FOUL (P2.T4) (M.Lindsay),Foul,Shooting,0,0,0,0,,,h
+S2324-G0259,4,05:01,ORL,,WAS,,C. Houstan,ORL,Houstan REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0259,4,03:41,ORL,131.0,WAS,110.0,C. Houstan,ORL,Houstan 26' 3PT Jump Shot (3 PTS),Made Shot,Jump Shot,-189,177,26,1,3.0,3.0,h
+S2324-G0259,4,02:58,ORL,,WAS,,C. Houstan,ORL,Houstan Bad Pass Turnover (P1.T17),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0259,4,02:39,ORL,134.0,WAS,112.0,C. Houstan,ORL,Houstan 3PT Jump Shot (6 PTS) (Okeke 1 AST),Made Shot,Jump Shot,-234,0,0,1,3.0,3.0,h
+S2324-G0259,4,01:49,ORL,,WAS,,C. Houstan,ORL,Houstan P.FOUL (P3.PN) (E.Scott),Foul,Personal,0,0,0,0,,,h
+S2324-G0259,4,01:04,ORL,,WAS,,C. Houstan,ORL,Houstan REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0259,4,01:03,ORL,137.0,WAS,118.0,C. Houstan,ORL,Houstan 25' 3PT Running Jump Shot (9 PTS) (Okeke 2 AST),Made Shot,Running Jump Shot,225,109,25,1,3.0,3.0,h
+S2324-G0259,4,00:01.400000,ORL,,WAS,,C. Houstan,ORL,Houstan REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0721,4,00:48.400000,MIA,,ORL,,C. Houstan,ORL,MISS Houstan 25' 3PT Jump Shot,Missed Shot,Jump Shot,-98,234,25,1,3.0,0.0,v
+S2324-G1075,1,09:42,ORL,,MEM,,C. Houstan,ORL,MISS Houstan 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-199,168,26,1,3.0,0.0,h
+S2324-G1075,1,08:40,ORL,,MEM,,C. Houstan,ORL,Houstan REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1075,1,05:45,ORL,,MEM,,C. Houstan,ORL,Houstan L.B.FOUL (P1.T2) (E.Malloy),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G1075,1,02:30,ORL,,MEM,,C. Houstan,ORL,SUB: Anthony FOR Houstan,Substitution,,0,0,0,0,,,h
+S2324-G1075,2,01:28,ORL,,MEM,,C. Houstan,ORL,Houstan S.FOUL (P2.T4) (E.Malloy),Foul,Shooting,0,0,0,0,,,h
+S2324-G1075,3,11:00,ORL,61.0,MEM,35.0,C. Houstan,ORL,Houstan 26' 3PT Jump Shot (3 PTS) (Banchero 5 AST),Made Shot,Jump Shot,176,194,26,1,3.0,3.0,h
+S2324-G1075,3,07:51,ORL,73.0,MEM,37.0,C. Houstan,ORL,Houstan 3PT Jump Shot (6 PTS) (Banchero 6 AST),Made Shot,Jump Shot,-227,-4,0,1,3.0,3.0,h
+S2324-G1075,3,03:28,ORL,87.0,MEM,47.0,C. Houstan,ORL,Houstan 25' 3PT Running Jump Shot (9 PTS) (Banchero 7 AST),Made Shot,Running Jump Shot,-156,193,25,1,3.0,3.0,h
+S2324-G1075,3,02:49,ORL,,MEM,,C. Houstan,ORL,SUB: Fultz FOR Houstan,Substitution,,0,0,0,0,,,h
+S2324-G0557,1,08:35,NYK,,ORL,,C. Houstan,ORL,Houstan P.FOUL (P1.T3) (D.Richardson),Foul,Personal,0,0,0,0,,,v
+S2324-G0557,1,07:19,NYK,,ORL,,C. Houstan,ORL,MISS Houstan 25' 3PT Jump Shot,Missed Shot,Jump Shot,-100,225,25,1,3.0,0.0,v
+S2324-G0557,1,07:15,NYK,,ORL,,C. Houstan,ORL,Houstan REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0557,1,06:41,NYK,,ORL,,C. Houstan,ORL,MISS Houstan 3PT Jump Shot,Missed Shot,Jump Shot,233,-1,0,1,3.0,0.0,v
+S2324-G0557,1,04:21,NYK,18.0,ORL,16.0,C. Houstan,ORL,Houstan 3PT Jump Shot (3 PTS) (Suggs 2 AST),Made Shot,Jump Shot,230,-1,0,1,3.0,3.0,v
+S2324-G0557,1,03:30,NYK,,ORL,,C. Houstan,ORL,SUB: Ingles FOR Houstan,Substitution,,0,0,0,0,,,v
+S2324-G0557,2,02:28,NYK,,ORL,,C. Houstan,ORL,Houstan P.FOUL (P2.PN) (S.Corbin),Foul,Personal,0,0,0,0,,,v
+S2324-G0557,2,02:14,NYK,,ORL,,C. Houstan,ORL,MISS Houstan 3PT Jump Shot,Missed Shot,Jump Shot,-230,-22,0,1,3.0,0.0,v
+S2324-G0557,2,00:45.100000,NYK,,ORL,,C. Houstan,ORL,MISS Houstan 25' 3PT Jump Shot,Missed Shot,Jump Shot,-125,213,25,1,3.0,0.0,v
+S2324-G0557,2,00:06.400000,NYK,,ORL,,C. Houstan,ORL,MISS Houstan Free Throw 1 of 3,Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,0.0,v
+S2324-G0557,2,00:06.400000,NYK,52.0,ORL,49.0,C. Houstan,ORL,Houstan Free Throw 2 of 3 (4 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,v
+S2324-G0557,2,00:06.400000,NYK,52.0,ORL,50.0,C. Houstan,ORL,Houstan Free Throw 3 of 3 (5 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,v
+S2324-G0557,3,11:16,NYK,,ORL,,C. Houstan,ORL,MISS Houstan 24' 3PT Jump Shot,Missed Shot,Jump Shot,-239,-13,24,1,3.0,0.0,v
+S2324-G0557,3,10:07,NYK,,ORL,,C. Houstan,ORL,MISS Houstan 3PT Jump Shot,Missed Shot,Jump Shot,-225,-5,0,1,3.0,0.0,v
+S2324-G0557,3,07:04,NYK,66.0,ORL,58.0,C. Houstan,ORL,Houstan Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0557,3,07:04,NYK,66.0,ORL,59.0,C. Houstan,ORL,Houstan Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0557,3,06:54,NYK,,ORL,,C. Houstan,ORL,Houstan P.FOUL (P3.T1) (S.Corbin),Foul,Personal,0,0,0,0,,,v
+S2324-G0557,3,06:11,NYK,,ORL,,C. Houstan,ORL,Houstan P.FOUL (P4.T2) (M.Ervin),Foul,Personal,0,0,0,0,,,v
+S2324-G0557,3,05:58,NYK,,ORL,,C. Houstan,ORL,SUB: Fultz FOR Houstan,Substitution,,0,0,0,0,,,v
+S2324-G0557,4,05:46,NYK,,ORL,,C. Houstan,ORL,SUB: Okeke FOR Houstan,Substitution,,0,0,0,0,,,v
+S2324-G1064,1,03:20,ORL,17.0,LAC,18.0,C. Houstan,ORL,Houstan 3PT Jump Shot (3 PTS) (Suggs 2 AST),Made Shot,Jump Shot,-232,33,0,1,3.0,3.0,h
+S2324-G1064,1,00:46.400000,ORL,,LAC,,C. Houstan,ORL,Houstan S.FOUL (P1.PN) (G.Petraitis),Foul,Shooting,0,0,0,0,,,h
+S2324-G1064,2,11:27,ORL,22.0,LAC,25.0,C. Houstan,ORL,Houstan 3PT Jump Shot (6 PTS) (M. Wagner 1 AST),Made Shot,Jump Shot,232,23,0,1,3.0,3.0,h
+S2324-G1064,2,08:26,ORL,,LAC,,C. Houstan,ORL,SUB: Banchero FOR Houstan,Substitution,,0,0,0,0,,,h
+S2324-G1064,3,01:31,ORL,,LAC,,C. Houstan,ORL,Houstan REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1064,3,01:28,ORL,73.0,LAC,75.0,C. Houstan,ORL,Houstan 3' Jump Bank Shot (8 PTS),Made Shot,Jump Bank Shot,-23,20,3,1,2.0,2.0,h
+S2324-G1064,4,08:03,ORL,,LAC,,C. Houstan,ORL,MISS Houstan 3PT Jump Shot,Missed Shot,Jump Shot,234,-2,0,1,3.0,0.0,h
+S2324-G1064,4,07:55,ORL,,LAC,,C. Houstan,ORL,SUB: Banchero FOR Houstan,Substitution,,0,0,0,0,,,h
+S2324-G0209,4,07:15,IND,,ORL,,C. Houstan,ORL,Houstan S.FOUL (P1.PN) (B.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2324-G0209,4,04:03,IND,,ORL,,C. Houstan,ORL,Houstan Step Out of Bounds Turnover (P1.T10),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2324-G0209,4,02:20,IND,,ORL,,C. Houstan,ORL,Houstan Lost Ball Turnover (P2.T12),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0209,4,01:11,IND,,ORL,,C. Houstan,ORL,MISS Houstan 26' 3PT Jump Shot,Missed Shot,Jump Shot,213,153,26,1,3.0,0.0,v
+S2324-G0570,1,09:50,ATL,,ORL,,C. Houstan,ORL,Houstan S.FOUL (P1.T2) (S.Wall),Foul,Shooting,0,0,0,0,,,v
+S2324-G0570,1,08:47,ATL,,ORL,,C. Houstan,ORL,MISS Houstan 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,158,208,26,1,3.0,0.0,v
+S2324-G0570,1,08:39,ATL,,ORL,,C. Houstan,ORL,Houstan STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0570,1,08:35,ATL,,ORL,,C. Houstan,ORL,MISS Houstan 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-229,29,0,1,3.0,0.0,v
+S2324-G0570,1,08:26,ATL,,ORL,,C. Houstan,ORL,MISS Houstan 3PT Jump Shot,Missed Shot,Jump Shot,233,29,0,1,3.0,0.0,v
+S2324-G0570,1,07:16,ATL,,ORL,,C. Houstan,ORL,MISS Houstan 3PT Jump Shot,Missed Shot,Jump Shot,-230,36,0,1,3.0,0.0,v
+S2324-G0570,1,05:18,ATL,,ORL,,C. Houstan,ORL,Houstan REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0570,1,03:57,ATL,,ORL,,C. Houstan,ORL,SUB: Fultz FOR Houstan,Substitution,,0,0,0,0,,,v
+S2324-G0570,3,11:46,ATL,,ORL,,C. Houstan,ORL,MISS Houstan 3PT Jump Shot,Missed Shot,Jump Shot,232,5,0,1,3.0,0.0,v
+S2324-G0570,3,10:10,ATL,,ORL,,C. Houstan,ORL,MISS Houstan Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2324-G0570,3,09:24,ATL,,ORL,,C. Houstan,ORL,MISS Houstan 26' 3PT Jump Shot,Missed Shot,Jump Shot,-88,246,26,1,3.0,0.0,v
+S2324-G0570,3,08:04,ATL,,ORL,,C. Houstan,ORL,Houstan P.FOUL (P2.T2) (K.Lane),Foul,Personal,0,0,0,0,,,v
+S2324-G0570,3,06:50,ATL,61.0,ORL,68.0,C. Houstan,ORL,Houstan 26' 3PT Running Jump Shot (3 PTS) (Banchero 4 AST),Made Shot,Running Jump Shot,4,259,26,1,3.0,3.0,v
+S2324-G0570,3,06:09,ATL,,ORL,,C. Houstan,ORL,Houstan S.FOUL (P3.T3) (K.Lane),Foul,Shooting,0,0,0,0,,,v
+S2324-G0570,3,06:09,ATL,,ORL,,C. Houstan,ORL,SUB: Fultz FOR Houstan,Substitution,,0,0,0,0,,,v
+S2324-G0874,4,01:01,ORL,,DET,,C. Houstan,ORL,Houstan REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0248,2,07:10,ORL,,CHA,,C. Houstan,ORL,MISS Houstan 26' 3PT Jump Shot,Missed Shot,Jump Shot,201,167,26,1,3.0,0.0,h
+S2324-G0248,2,06:33,ORL,42.0,CHA,39.0,C. Houstan,ORL,Houstan Free Throw Flagrant 1 of 3 (1 PTS),Free Throw,Free Throw Flagrant 1 of 3,0,0,0,0,1.0,1.0,h
+S2324-G0248,2,06:33,ORL,43.0,CHA,39.0,C. Houstan,ORL,Houstan Free Throw Flagrant 2 of 3 (2 PTS),Free Throw,Free Throw Flagrant 2 of 3,0,0,0,0,1.0,1.0,h
+S2324-G0248,2,06:33,ORL,44.0,CHA,39.0,C. Houstan,ORL,Houstan Free Throw Flagrant 3 of 3 (3 PTS),Free Throw,Free Throw Flagrant 3 of 3,0,0,0,0,1.0,1.0,h
+S2324-G0248,2,06:26,ORL,47.0,CHA,39.0,C. Houstan,ORL,Houstan 27' 3PT Jump Shot (6 PTS) (Anthony 5 AST),Made Shot,Jump Shot,112,242,27,1,3.0,3.0,h
+S2324-G0248,2,05:26,ORL,,CHA,,C. Houstan,ORL,Houstan REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0248,2,04:48,ORL,,CHA,,C. Houstan,ORL,Houstan REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0248,2,02:12,ORL,,CHA,,C. Houstan,ORL,SUB: Black FOR Houstan,Substitution,,0,0,0,0,,,h
+S2324-G0248,4,04:34,ORL,,CHA,,C. Houstan,ORL,Houstan P.FOUL (P1.PN) (J.Goble),Foul,Personal,0,0,0,0,,,h
+S2324-G0248,4,04:08,ORL,,CHA,,C. Houstan,ORL,Houstan S.FOUL (P2.PN) (M.Smith),Foul,Shooting,0,0,0,0,,,h
+S2324-G0248,4,04:08,ORL,,CHA,,C. Houstan,ORL,SUB: Harris FOR Houstan,Substitution,,0,0,0,0,,,h
+S2324-G0546,1,11:12,OKC,,ORL,,C. Houstan,ORL,MISS Houstan 3PT Jump Shot,Missed Shot,Jump Shot,-232,-31,0,1,3.0,0.0,v
+S2324-G0546,1,09:10,OKC,,ORL,,C. Houstan,ORL,MISS Houstan 25' 3PT Jump Shot,Missed Shot,Jump Shot,-230,105,25,1,3.0,0.0,v
+S2324-G0546,1,07:32,OKC,,ORL,,C. Houstan,ORL,Houstan STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0546,1,07:24,OKC,,ORL,,C. Houstan,ORL,MISS Houstan 27' 3PT Jump Shot,Missed Shot,Jump Shot,34,268,27,1,3.0,0.0,v
+S2324-G0546,1,04:02,OKC,,ORL,,C. Houstan,ORL,MISS Houstan 3PT Jump Shot,Missed Shot,Jump Shot,-233,8,0,1,3.0,0.0,v
+S2324-G0546,1,03:47,OKC,16.0,ORL,16.0,C. Houstan,ORL,Houstan 3PT Running Jump Shot (3 PTS) (Banchero 1 AST),Made Shot,Running Jump Shot,-230,-27,0,1,3.0,3.0,v
+S2324-G0546,1,03:23,OKC,16.0,ORL,19.0,C. Houstan,ORL,Houstan 3PT Running Jump Shot (6 PTS) (Queen 1 AST),Made Shot,Running Jump Shot,229,-25,0,1,3.0,3.0,v
+S2324-G0546,1,02:41,OKC,,ORL,,C. Houstan,ORL,Houstan REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0546,1,02:36,OKC,,ORL,,C. Houstan,ORL,Houstan Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0546,1,02:06,OKC,,ORL,,C. Houstan,ORL,Houstan Step Out of Bounds Turnover (P2.T2),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2324-G0546,1,01:27,OKC,,ORL,,C. Houstan,ORL,MISS Houstan 3PT Jump Shot,Missed Shot,Jump Shot,230,-43,0,1,3.0,0.0,v
+S2324-G0546,1,01:16,OKC,,ORL,,C. Houstan,ORL,SUB: Anthony FOR Houstan,Substitution,,0,0,0,0,,,v
+S2324-G0546,2,02:48,OKC,,ORL,,C. Houstan,ORL,MISS Houstan 3PT Jump Shot,Missed Shot,Jump Shot,-227,-22,0,1,3.0,0.0,v
+S2324-G0546,2,02:08,OKC,,ORL,,C. Houstan,ORL,MISS Houstan 26' 3PT Jump Shot,Missed Shot,Jump Shot,-169,199,26,1,3.0,0.0,v
+S2324-G0546,3,11:39,OKC,49.0,ORL,43.0,C. Houstan,ORL,Houstan 25' 3PT Jump Shot (9 PTS) (Okeke 1 AST),Made Shot,Jump Shot,238,68,25,1,3.0,3.0,v
+S2324-G0546,3,11:05,OKC,,ORL,,C. Houstan,ORL,Houstan Out of Bounds - Bad Pass Turnover Turnover (P3.T10),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0546,3,09:57,OKC,54.0,ORL,47.0,C. Houstan,ORL,Houstan 14' Pullup Jump Shot (11 PTS) (Bitadze 2 AST),Made Shot,Pullup Jump shot,-18,136,14,1,2.0,2.0,v
+S2324-G0546,3,06:06,OKC,,ORL,,C. Houstan,ORL,MISS Houstan 3PT Jump Shot,Missed Shot,Jump Shot,-225,17,0,1,3.0,0.0,v
+S2324-G0546,3,04:27,OKC,,ORL,,C. Houstan,ORL,Houstan REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0546,3,03:27,OKC,76.0,ORL,69.0,C. Houstan,ORL,Houstan 24' 3PT Running Jump Shot (14 PTS) (Anthony 2 AST),Made Shot,Running Jump Shot,-206,121,24,1,3.0,3.0,v
+S2324-G0546,4,01:17,OKC,,ORL,,C. Houstan,ORL,Houstan REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0415,2,10:40,ORL,,PHI,,C. Houstan,ORL,Houstan REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0415,2,08:18,ORL,,PHI,,C. Houstan,ORL,Houstan REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0415,2,08:05,ORL,,PHI,,C. Houstan,ORL,SUB: Suggs FOR Houstan,Substitution,,0,0,0,0,,,h
+S2324-G0415,2,05:25,ORL,,PHI,,C. Houstan,ORL,MISS Houstan 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,72,247,26,1,3.0,0.0,h
+S2324-G0415,2,04:50,ORL,,PHI,,C. Houstan,ORL,Houstan Lost Ball Turnover (P1.T8),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0415,2,04:31,ORL,,PHI,,C. Houstan,ORL,Houstan REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0415,2,03:06,ORL,,PHI,,C. Houstan,ORL,SUB: F. Wagner FOR Houstan,Substitution,,0,0,0,0,,,h
+S2324-G0415,3,03:00,ORL,67.0,PHI,75.0,C. Houstan,ORL,Houstan 24' 3PT Running Jump Shot (3 PTS) (Anthony 1 AST),Made Shot,Running Jump Shot,200,133,24,1,3.0,3.0,h
+S2324-G0415,3,00:11.400000,ORL,74.0,PHI,84.0,C. Houstan,ORL,Houstan Free Throw Technical (4 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,h
+S2324-G0415,4,11:02,ORL,,PHI,,C. Houstan,ORL,Houstan S.FOUL (P1.T2) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,h
+S2324-G0415,4,09:37,ORL,83.0,PHI,86.0,C. Houstan,ORL,Houstan 27' 3PT Jump Shot (7 PTS) (M. Wagner 1 AST),Made Shot,Jump Shot,-147,221,27,1,3.0,3.0,h
+S2324-G0415,4,08:51,ORL,,PHI,,C. Houstan,ORL,Houstan OFF.Foul (P2) (B.Forte),Foul,Offensive,0,0,0,0,,,h
+S2324-G0415,4,08:51,ORL,,PHI,,C. Houstan,ORL,Houstan Offensive Foul Turnover (P2.T16),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0415,4,06:23,ORL,,PHI,,C. Houstan,ORL,Houstan REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0415,4,05:29,ORL,,PHI,,C. Houstan,ORL,Houstan REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0415,4,04:52,ORL,,PHI,,C. Houstan,ORL,Houstan REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0415,4,02:57,ORL,,PHI,,C. Houstan,ORL,MISS Houstan 27' 3PT Jump Shot,Missed Shot,Jump Shot,-72,260,27,1,3.0,0.0,h
+S2324-G0415,4,01:15,ORL,,PHI,,C. Houstan,ORL,SUB: Queen FOR Houstan,Substitution,,0,0,0,0,,,h
+S2324-G0655,4,01:42,ORL,113.0,PHX,96.0,C. Houstan,ORL,Houstan 25' 3PT Jump Shot (3 PTS) (Black 1 AST),Made Shot,Jump Shot,47,248,25,1,3.0,3.0,h
+S2324-G0585,1,11:13,ORL,,PHI,,C. Houstan,ORL,Houstan REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0585,1,09:11,ORL,,PHI,,C. Houstan,ORL,Houstan Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0585,1,07:36,ORL,,PHI,,C. Houstan,ORL,MAGIC T.Foul (Def. 3 Sec Houstan ) (B.Schwab),Foul,Defense 3 Second,0,0,0,0,,,h
+S2324-G0585,1,07:01,ORL,,PHI,,C. Houstan,ORL,MISS Houstan 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-27,64,7,1,2.0,0.0,h
+S2324-G0585,1,05:13,ORL,,PHI,,C. Houstan,ORL,SUB: Carter Jr. FOR Houstan,Substitution,,0,0,0,0,,,h
+S2324-G0585,3,10:57,ORL,,PHI,,C. Houstan,ORL,MISS Houstan 28' 3PT Jump Shot,Missed Shot,Jump Shot,140,239,28,1,3.0,0.0,h
+S2324-G0585,3,09:14,ORL,,PHI,,C. Houstan,ORL,MISS Houstan 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-185,197,27,1,3.0,0.0,h
+S2324-G0585,3,05:32,ORL,,PHI,,C. Houstan,ORL,Houstan REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0585,3,05:22,ORL,,PHI,,C. Houstan,ORL,SUB: Ingles FOR Houstan,Substitution,,0,0,0,0,,,h
+S2324-G0585,4,03:13,ORL,,PHI,,C. Houstan,ORL,SUB: Wagner FOR Houstan,Substitution,,0,0,0,0,,,h
+S2324-G1004,3,07:23,ORL,,NOP,,C. Houstan,ORL,MISS Houstan 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-203,148,25,1,3.0,0.0,h
+S2324-G1004,3,07:21,ORL,,NOP,,C. Houstan,ORL,Houstan REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1004,3,05:11,ORL,76.0,NOP,66.0,C. Houstan,ORL,Houstan 25' 3PT Running Jump Shot (3 PTS) (Banchero 9 AST),Made Shot,Running Jump Shot,-219,110,25,1,3.0,3.0,h
+S2324-G1004,3,03:02,ORL,,NOP,,C. Houstan,ORL,Houstan S.FOUL (P1.T4) (S.Twardoski),Foul,Shooting,0,0,0,0,,,h
+S2324-G1004,3,03:02,ORL,,NOP,,C. Houstan,ORL,SUB: Anthony FOR Houstan,Substitution,,0,0,0,0,,,h
+S2324-G1004,4,03:43,ORL,,NOP,,C. Houstan,ORL,MISS Houstan 26' 3PT Jump Shot,Missed Shot,Jump Shot,-170,197,26,1,3.0,0.0,h
+S2324-G1004,4,03:12,ORL,,NOP,,C. Houstan,ORL,Houstan Bad Pass Turnover (P1.T13),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G1205,2,07:11,CLE,,ORL,,C. Houstan,ORL,SUB: F. Wagner FOR Houstan,Substitution,,0,0,0,0,,,v
+S2324-G1205,3,04:31,CLE,,ORL,,C. Houstan,ORL,MISS Houstan 3PT Jump Shot,Missed Shot,Jump Shot,-234,-11,0,1,3.0,0.0,v
+S2324-G1205,3,02:17,CLE,,ORL,,C. Houstan,ORL,Houstan REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1205,3,02:17,CLE,,ORL,,C. Houstan,ORL,MISS Houstan Floating Jump Shot,Missed Shot,Floating Jump shot,0,0,0,1,2.0,0.0,v
+S2324-G1205,3,00:00.300000,CLE,,ORL,,C. Houstan,ORL,Houstan REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1205,4,09:45,CLE,,ORL,,C. Houstan,ORL,SUB: Banchero FOR Houstan,Substitution,,0,0,0,0,,,v
+S2324-G1205,4,00:53.200000,CLE,,ORL,,C. Houstan,ORL,Houstan REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1205,4,00:25.900000,CLE,,ORL,,C. Houstan,ORL,Houstan L.B.FOUL (P1.T2) (T.Ford),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0033,2,05:12,CHI,,ORL,,C. Houstan,ORL,Houstan REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0033,2,03:05,CHI,28.0,ORL,45.0,C. Houstan,ORL,Houstan 3PT Jump Shot (3 PTS) (Anthony 6 AST),Made Shot,Jump Shot,234,-4,0,1,3.0,3.0,v
+S2324-G0033,2,01:47,CHI,,ORL,,C. Houstan,ORL,Houstan REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0463,3,09:23,GSW,,ORL,,C. Houstan,ORL,Houstan S.FOUL (P1.T2) (C.Blair),Foul,Shooting,0,0,0,0,,,v
+S2324-G0463,3,07:40,GSW,67.0,ORL,65.0,C. Houstan,ORL,Houstan 28' 3PT Jump Shot (3 PTS) (Banchero 4 AST),Made Shot,Jump Shot,-164,223,28,1,3.0,3.0,v
+S2324-G0463,3,06:44,GSW,,ORL,,C. Houstan,ORL,Houstan REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0463,3,05:42,GSW,,ORL,,C. Houstan,ORL,MISS Houstan 28' 3PT Jump Shot,Missed Shot,Jump Shot,-145,244,28,1,3.0,0.0,v
+S2324-G0463,3,02:49,GSW,82.0,ORL,77.0,C. Houstan,ORL,Houstan 24' 3PT Jump Shot (6 PTS) (Anthony 1 AST),Made Shot,Jump Shot,-238,32,24,1,3.0,3.0,v
+S2324-G0463,3,01:35,GSW,,ORL,,C. Houstan,ORL,SUB: F. Wagner FOR Houstan,Substitution,,0,0,0,0,,,v

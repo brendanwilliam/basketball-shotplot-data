@@ -1,0 +1,282 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2324-G0437,1,12:00,POR,,SAS,,M. Brown,POR,Jump Ball Brown vs. Collins: Tip to Branham,Jump Ball,,0,0,0,0,,,h
+S2324-G0437,1,09:48,POR,,SAS,,M. Brown,POR,Brown REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0437,1,09:28,POR,,SAS,,M. Brown,POR,Brown S.FOUL (P1.T1) (J.DeRosa),Foul,Shooting,0,0,0,0,,,h
+S2324-G0437,1,09:26,POR,,SAS,,M. Brown,POR,Brown REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0437,1,08:56,POR,,SAS,,M. Brown,POR,Brown REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0437,1,08:35,POR,,SAS,,M. Brown,POR,Brown REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0437,1,08:19,POR,,SAS,,M. Brown,POR,SUB: Badji FOR Brown,Substitution,,0,0,0,0,,,h
+S2324-G0323,1,01:49,POR,,UTA,,M. Brown,POR,Brown REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0323,3,06:48,POR,,UTA,,M. Brown,POR,SUB: Walker FOR Brown,Substitution,,0,0,0,0,,,h
+S2324-G0456,1,11:44,PHX,,POR,,M. Brown,POR,Brown S.FOUL (P1.T1) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,v
+S2324-G0456,1,10:23,PHX,,POR,,M. Brown,POR,Brown BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0456,1,09:08,PHX,,POR,,M. Brown,POR,Brown REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0456,1,09:02,PHX,6.0,POR,6.0,M. Brown,POR,Brown 1' Running Dunk (2 PTS) (Grant 1 AST),Made Shot,Running Dunk Shot,6,1,1,1,2.0,2.0,v
+S2324-G0456,1,08:47,PHX,,POR,,M. Brown,POR,Brown Violation:Kicked Ball (S.Wall),Violation,Kicked Ball,0,0,0,0,,,v
+S2324-G0456,1,08:02,PHX,,POR,,M. Brown,POR,Brown REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0456,1,07:47,PHX,,POR,,M. Brown,POR,SUB: Badji FOR Brown,Substitution,,0,0,0,0,,,v
+S2324-G0456,2,11:35,PHX,,POR,,M. Brown,POR,MISS Brown 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-1,31,3,1,2.0,0.0,v
+S2324-G0456,2,08:42,PHX,,POR,,M. Brown,POR,SUB: Grant FOR Brown,Substitution,,0,0,0,0,,,v
+S2324-G0456,3,10:24,PHX,,POR,,M. Brown,POR,Brown REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0456,3,09:45,PHX,,POR,,M. Brown,POR,Brown Bad Pass Turnover (P1.T10),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0456,3,09:42,PHX,,POR,,M. Brown,POR,Brown REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0456,3,09:03,PHX,,POR,,M. Brown,POR,Brown S.FOUL (P2.T1) (S.Wall),Foul,Shooting,0,0,0,0,,,v
+S2324-G0456,3,07:55,PHX,,POR,,M. Brown,POR,Brown REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0456,3,07:41,PHX,,POR,,M. Brown,POR,SUB: Badji FOR Brown,Substitution,,0,0,0,0,,,v
+S2324-G0456,4,00:54,PHX,,POR,,M. Brown,POR,Brown REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0456,4,00:29.400000,PHX,,POR,,M. Brown,POR,Brown Bad Pass Turnover (P2.T19),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G1051,1,02:22,ATL,,POR,,M. Brown,POR,MISS Brown 1' Layup,Missed Shot,Layup Shot,-7,13,1,1,2.0,0.0,v
+S2324-G1051,1,01:15,ATL,,POR,,M. Brown,POR,Brown BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G1051,2,11:03,ATL,,POR,,M. Brown,POR,Brown S.FOUL (P1.T2) (C.Blair),Foul,Shooting,0,0,0,0,,,v
+S2324-G1051,2,10:36,ATL,32.0,POR,31.0,M. Brown,POR,Brown 1' Driving Layup (2 PTS) (Walker 1 AST),Made Shot,Driving Layup Shot,-11,4,1,1,2.0,2.0,v
+S2324-G1051,2,10:36,ATL,,POR,,M. Brown,POR,MISS Brown Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2324-G1051,2,10:21,ATL,,POR,,M. Brown,POR,Brown STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G1051,2,08:03,ATL,40.0,POR,40.0,M. Brown,POR,Brown 1' Driving Layup (4 PTS) (Henderson 2 AST),Made Shot,Driving Layup Shot,-1,9,1,1,2.0,2.0,v
+S2324-G1051,2,07:01,ATL,,POR,,M. Brown,POR,Brown REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1051,2,07:01,ATL,46.0,POR,47.0,M. Brown,POR,Brown Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1051,2,07:01,ATL,,POR,,M. Brown,POR,MISS Brown Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G1051,2,06:43,ATL,,POR,,M. Brown,POR,SUB: Reath FOR Brown,Substitution,,0,0,0,0,,,v
+S2324-G1051,3,03:08,ATL,,POR,,M. Brown,POR,MISS Brown 1' Layup,Missed Shot,Layup Shot,-11,6,1,1,2.0,0.0,v
+S2324-G1051,3,02:45,ATL,95.0,POR,81.0,M. Brown,POR,Brown Alley Oop Dunk (7 PTS) (Banton 7 AST),Made Shot,Alley Oop Dunk Shot,-2,4,0,1,2.0,2.0,v
+S2324-G1051,3,01:59,ATL,,POR,,M. Brown,POR,Trail Blazers T.Foul (Def. 3 Sec Brown ) (C.Blair),Foul,Defense 3 Second,0,0,0,0,,,v
+S2324-G1051,3,00:57.400000,ATL,,POR,,M. Brown,POR,MISS Brown Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G1051,3,00:57.400000,ATL,,POR,,M. Brown,POR,MISS Brown Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G1051,3,00:24.500000,ATL,,POR,,M. Brown,POR,SUB: Camara FOR Brown,Substitution,,0,0,0,0,,,v
+S2324-G1051,4,11:48,ATL,,POR,,M. Brown,POR,Trail Blazers T.Foul (Def. 3 Sec Brown ) (S.Twardoski),Foul,Defense 3 Second,0,0,0,0,,,v
+S2324-G1051,4,10:57,ATL,,POR,,M. Brown,POR,SUB: Camara FOR Brown,Substitution,,0,0,0,0,,,v
+S2324-G1026,1,02:26,POR,,DEN,,M. Brown,POR,MISS Brown 8' Driving Layup,Missed Shot,Driving Layup Shot,-66,37,8,1,2.0,0.0,h
+S2324-G1026,1,01:25,POR,,DEN,,M. Brown,POR,Brown REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1026,1,01:25,POR,22.0,DEN,24.0,M. Brown,POR,Brown 1' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,-11,1,1,1,2.0,2.0,h
+S2324-G1026,1,01:25,POR,,DEN,,M. Brown,POR,MISS Brown Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2324-G1026,1,00:41.500000,POR,,DEN,,M. Brown,POR,Brown BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G1026,2,10:01,POR,,DEN,,M. Brown,POR,Brown REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1026,2,10:00,POR,,DEN,,M. Brown,POR,MISS Brown 2' Putback Layup,Missed Shot,Putback Layup Shot,-12,16,2,1,2.0,0.0,h
+S2324-G1026,2,09:10,POR,,DEN,,M. Brown,POR,Brown BLOCK (2 BLK),,,0,0,0,0,,,h
+S2324-G1026,2,09:06,POR,,DEN,,M. Brown,POR,Brown S.FOUL (P1.T1) (J.Orr),Foul,Shooting,0,0,0,0,,,h
+S2324-G1026,2,08:41,POR,,DEN,,M. Brown,POR,TRAIL BLAZERS T.Foul (Def. 3 Sec Brown ) (C.Kirkland),Foul,Defense 3 Second,0,0,0,0,,,h
+S2324-G1026,2,08:41,POR,,DEN,,M. Brown,POR,SUB: Reath FOR Brown,Substitution,,0,0,0,0,,,h
+S2324-G1026,3,03:41,POR,,DEN,,M. Brown,POR,Brown REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1026,3,03:31,POR,73.0,DEN,79.0,M. Brown,POR,Brown Cutting Dunk Shot (4 PTS) (Hagans 4 AST),Made Shot,Cutting Dunk Shot,4,-2,0,1,2.0,2.0,h
+S2324-G1026,3,00:33.500000,POR,,DEN,,M. Brown,POR,SUB: Rupert FOR Brown,Substitution,,0,0,0,0,,,h
+S2324-G1026,4,10:34,POR,,DEN,,M. Brown,POR,Brown Lost Ball Turnover (P1.T11),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G1026,4,10:32,POR,,DEN,,M. Brown,POR,SUB: Camara FOR Brown,Substitution,,0,0,0,0,,,h
+S2324-G0861,2,11:34,,21.0,POR,19.0,M. Brown,POR,Brown 5' Turnaround Hook Shot (2 PTS),Made Shot,Turnaround Hook Shot,26,44,5,1,2.0,2.0,v
+S2324-G0861,2,11:34,,21.0,POR,20.0,M. Brown,POR,Brown Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G0861,2,09:44,,28.0,POR,28.0,M. Brown,POR,Brown 3' Running Layup (5 PTS) (Hagans 1 AST),Made Shot,Running Layup Shot,4,27,3,1,2.0,2.0,v
+S2324-G0861,2,08:32,,,POR,,M. Brown,POR,Brown REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0861,2,08:17,,,POR,,M. Brown,POR,Brown L.B.FOUL (P1.T1) (N.Buchert),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0861,2,07:46,,,POR,,M. Brown,POR,MISS Brown Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0861,2,07:46,,,POR,,M. Brown,POR,MISS Brown Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0861,2,07:39,,,POR,,M. Brown,POR,SUB: Reath FOR Brown,Substitution,,0,0,0,0,,,v
+S2324-G0861,4,08:19,,76.0,POR,103.0,M. Brown,POR,Brown 1' Cutting Dunk Shot (7 PTS) (Hagans 5 AST),Made Shot,Cutting Dunk Shot,-1,8,1,1,2.0,2.0,v
+S2324-G0861,4,06:32,,,POR,,M. Brown,POR,Brown Violation:Defensive Goaltending (N.Buchert),Violation,Defensive Goaltending,0,0,0,0,,,v
+S2324-G0861,4,04:35,,,POR,,M. Brown,POR,Brown Bad Pass Turnover (P1.T12),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0861,4,04:15,,,POR,,M. Brown,POR,SUB: Badji FOR Brown,Substitution,,0,0,0,0,,,v
+S2324-G1017,1,06:40,POR,,LAC,,M. Brown,POR,Brown REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1017,1,06:40,POR,,LAC,,M. Brown,POR,MISS Brown Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G1017,1,06:40,POR,11.0,LAC,18.0,M. Brown,POR,Brown Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1017,1,05:12,POR,,LAC,,M. Brown,POR,MISS Brown 4' Driving Layup,Missed Shot,Driving Layup Shot,18,38,4,1,2.0,0.0,h
+S2324-G1017,1,04:56,POR,13.0,LAC,24.0,M. Brown,POR,Brown 1' Driving Dunk (3 PTS) (Simons 1 AST),Made Shot,Driving Dunk Shot,9,11,1,1,2.0,2.0,h
+S2324-G1017,1,04:02,POR,,LAC,,M. Brown,POR,Brown S.FOUL (P1.T4) (P.Ransom),Foul,Shooting,0,0,0,0,,,h
+S2324-G1017,1,03:47,POR,15.0,LAC,29.0,M. Brown,POR,Brown 2' Dunk (5 PTS) (Walker 1 AST),Made Shot,Dunk Shot,13,14,2,1,2.0,2.0,h
+S2324-G1017,1,03:27,POR,,LAC,,M. Brown,POR,SUB: Reath FOR Brown,Substitution,,0,0,0,0,,,h
+S2324-G1017,2,02:46,POR,,LAC,,M. Brown,POR,Brown S.FOUL (P2.PN) (G.Petraitis),Foul,Shooting,0,0,0,0,,,h
+S2324-G1017,2,02:22,POR,48.0,LAC,64.0,M. Brown,POR,Brown 3' Driving Layup (7 PTS) (Simons 5 AST),Made Shot,Driving Layup Shot,-15,24,3,1,2.0,2.0,h
+S2324-G1017,2,01:44,POR,,LAC,,M. Brown,POR,MISS Brown Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G1017,2,01:44,POR,49.0,LAC,67.0,M. Brown,POR,Brown Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1017,2,00:58.500000,POR,,LAC,,M. Brown,POR,Brown REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1017,2,00:30.300000,POR,,LAC,,M. Brown,POR,SUB: Walker FOR Brown,Substitution,,0,0,0,0,,,h
+S2324-G1017,3,10:22,POR,,LAC,,M. Brown,POR,Brown REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1017,3,09:49,POR,,LAC,,M. Brown,POR,Brown REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1017,3,09:49,POR,,LAC,,M. Brown,POR,MISS Brown Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G1017,3,09:49,POR,,LAC,,M. Brown,POR,MISS Brown Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G1017,3,08:32,POR,,LAC,,M. Brown,POR,Brown S.FOUL (P3.T1) (P.Ransom),Foul,Shooting,0,0,0,0,,,h
+S2324-G1017,3,08:12,POR,,LAC,,M. Brown,POR,MISS Brown 6' Hook Shot,Missed Shot,Hook Shot,-18,54,6,1,2.0,0.0,h
+S2324-G1017,3,07:27,POR,,LAC,,M. Brown,POR,MISS Brown 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-15,107,11,1,2.0,0.0,h
+S2324-G1017,3,07:09,POR,,LAC,,M. Brown,POR,Brown REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1017,3,06:26,POR,,LAC,,M. Brown,POR,Brown REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1017,3,06:26,POR,65.0,LAC,88.0,M. Brown,POR,Brown Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1017,3,06:26,POR,,LAC,,M. Brown,POR,MISS Brown Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G1017,3,03:34,POR,,LAC,,M. Brown,POR,SUB: Reath FOR Brown,Substitution,,0,0,0,0,,,h
+S2324-G0041,4,00:44.900000,PHX,,POR,,M. Brown,POR,Brown REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0041,4,00:40.600000,PHX,,POR,,M. Brown,POR,MISS Brown 4' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,11,34,4,1,2.0,0.0,v
+S2324-G1200,1,11:20,SAC,,POR,,M. Brown,POR,Brown REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1200,1,11:06,SAC,,POR,,M. Brown,POR,Brown Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G1200,1,10:31,SAC,,POR,,M. Brown,POR,MISS Brown 3' Layup,Missed Shot,Layup Shot,-7,31,3,1,2.0,0.0,v
+S2324-G1200,1,10:30,SAC,,POR,,M. Brown,POR,Brown REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1200,1,10:29,SAC,5.0,POR,4.0,M. Brown,POR,Brown 2' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,-18,16,2,1,2.0,2.0,v
+S2324-G1200,1,09:38,SAC,,POR,,M. Brown,POR,Brown S.FOUL (P1.T2) (D.Guthrie),Foul,Shooting,0,0,0,0,,,v
+S2324-G1200,1,09:16,SAC,,POR,,M. Brown,POR,Brown STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G1200,1,08:30,SAC,,POR,,M. Brown,POR,Brown STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G1200,1,08:29,SAC,,POR,,M. Brown,POR,MISS Brown 4' Layup,Missed Shot,Layup Shot,-23,31,4,1,2.0,0.0,v
+S2324-G1200,1,08:10,SAC,,POR,,M. Brown,POR,Brown REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1200,1,07:59,SAC,,POR,,M. Brown,POR,SUB: Reath FOR Brown,Substitution,,0,0,0,0,,,v
+S2324-G1200,2,09:15,SAC,,POR,,M. Brown,POR,Brown REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1200,2,09:14,SAC,38.0,POR,20.0,M. Brown,POR,Brown Tip Dunk Shot (4 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,v
+S2324-G1200,2,05:45,SAC,,POR,,M. Brown,POR,Brown REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1200,2,04:04,SAC,,POR,,M. Brown,POR,SUB: Reath FOR Brown,Substitution,,0,0,0,0,,,v
+S2324-G1200,3,11:25,SAC,,POR,,M. Brown,POR,Brown OFF.Foul (P2) (D.Guthrie),Foul,Offensive,0,0,0,0,,,v
+S2324-G1200,3,11:25,SAC,,POR,,M. Brown,POR,Brown Offensive Foul Turnover (P2.T11),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G1200,3,11:09,SAC,,POR,,M. Brown,POR,Brown REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1200,3,11:00,SAC,67.0,POR,39.0,M. Brown,POR,Brown 2' Alley Oop Layup (6 PTS) (Banton 4 AST),Made Shot,Alley Oop Layup shot,22,8,2,1,2.0,2.0,v
+S2324-G1200,3,10:04,SAC,69.0,POR,40.0,M. Brown,POR,Brown Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1200,3,10:04,SAC,,POR,,M. Brown,POR,MISS Brown Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G1200,3,09:21,SAC,71.0,POR,42.0,M. Brown,POR,Brown 3' Layup (9 PTS) (Rupert 3 AST),Made Shot,Layup Shot,-20,26,3,1,2.0,2.0,v
+S2324-G1200,3,08:43,SAC,,POR,,M. Brown,POR,MISS Brown 4' Driving Layup,Missed Shot,Driving Layup Shot,29,27,4,1,2.0,0.0,v
+S2324-G1200,3,08:16,SAC,,POR,,M. Brown,POR,Brown REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1200,3,08:08,SAC,,POR,,M. Brown,POR,SUB: Reath FOR Brown,Substitution,,0,0,0,0,,,v
+S2324-G1200,4,06:20,SAC,,POR,,M. Brown,POR,SUB: Badji FOR Brown,Substitution,,0,0,0,0,,,v
+S2324-G0427,1,12:00,POR,,SAS,,M. Brown,POR,Jump Ball Brown vs. Wembanyama: Tip to Sochan,Jump Ball,,0,0,0,0,,,h
+S2324-G0427,1,11:18,POR,,SAS,,M. Brown,POR,Brown REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0427,1,11:17,POR,2.0,SAS,2.0,M. Brown,POR,Brown Tip Dunk Shot (2 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,h
+S2324-G0427,1,11:02,POR,,SAS,,M. Brown,POR,Brown S.FOUL (P1.T1) (J.Butler),Foul,Shooting,0,0,0,0,,,h
+S2324-G0427,1,09:32,POR,,SAS,,M. Brown,POR,Brown REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0427,1,08:29,POR,,SAS,,M. Brown,POR,SUB: Walker FOR Brown,Substitution,,0,0,0,0,,,h
+S2324-G0427,2,11:13,POR,,SAS,,M. Brown,POR,Brown REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0427,2,11:12,POR,,SAS,,M. Brown,POR,MISS Brown 3' Putback Layup,Missed Shot,Putback Layup Shot,-13,31,3,1,2.0,0.0,h
+S2324-G0427,2,11:12,POR,,SAS,,M. Brown,POR,Brown REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0427,2,11:09,POR,,SAS,,M. Brown,POR,MISS Brown 4' Hook Shot,Missed Shot,Hook Shot,-20,37,4,1,2.0,0.0,h
+S2324-G0427,2,10:37,POR,,SAS,,M. Brown,POR,Brown L.B.FOUL (P2.T1) (J.Butler),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0427,2,09:56,POR,,SAS,,M. Brown,POR,Brown S.FOUL (P3.T2) (M.Dagher),Foul,Shooting,0,0,0,0,,,h
+S2324-G0427,2,09:56,POR,,SAS,,M. Brown,POR,SUB: Badji FOR Brown,Substitution,,0,0,0,0,,,h
+S2324-G0427,3,10:20,POR,,SAS,,M. Brown,POR,Brown REBOUND (Off:4 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0427,3,10:16,POR,,SAS,,M. Brown,POR,MISS Brown 3' Layup,Missed Shot,Layup Shot,18,19,3,1,2.0,0.0,h
+S2324-G0427,3,07:59,POR,,SAS,,M. Brown,POR,Brown REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0427,3,07:25,POR,,SAS,,M. Brown,POR,Brown REBOUND (Off:5 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0427,3,07:25,POR,,SAS,,M. Brown,POR,MISS Brown 6' Layup,Missed Shot,Layup Shot,38,41,6,1,2.0,0.0,h
+S2324-G0427,3,07:25,POR,,SAS,,M. Brown,POR,Jump Ball Brown vs. Wembanyama: Tip to Sochan,Jump Ball,,0,0,0,0,,,h
+S2324-G0427,3,06:37,POR,61.0,SAS,69.0,M. Brown,POR,Brown 6' Alley Oop Dunk (4 PTS) (Henderson 2 AST),Made Shot,Alley Oop Dunk Shot,53,24,6,1,2.0,2.0,h
+S2324-G0427,3,05:55,POR,,SAS,,M. Brown,POR,SUB: Walker FOR Brown,Substitution,,0,0,0,0,,,h
+S2324-G0938,4,01:40,POR,,BOS,,M. Brown,POR,MISS Brown 5' Driving Layup,Missed Shot,Driving Layup Shot,39,31,5,1,2.0,0.0,h
+S2324-G0938,4,01:40,POR,,BOS,,M. Brown,POR,Jump Ball Brown vs. Queta: Tip to Banton,Jump Ball,,0,0,0,0,,,h
+S2324-G0938,4,01:28,POR,,BOS,,M. Brown,POR,MISS Brown 5' Driving Hook Shot,Missed Shot,Driving Hook Shot,-39,34,5,1,2.0,0.0,h
+S2324-G0938,4,00:35,POR,,BOS,,M. Brown,POR,Brown S.FOUL (P1.T3) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,h
+S2324-G0938,4,00:17.100000,POR,99.0,BOS,121.0,M. Brown,POR,Brown 4' Driving Finger Roll Layup (2 PTS) (Rupert 1 AST),Made Shot,Driving Finger Roll Layup Shot,26,25,4,1,2.0,2.0,h
+S2324-G0304,1,02:33,LAC,31.0,POR,24.0,M. Brown,POR,Brown 4' Cutting Layup Shot (2 PTS) (Sharpe 1 AST),Made Shot,Cutting Layup Shot,-16,37,4,1,2.0,2.0,v
+S2324-G0304,1,01:04,LAC,,POR,,M. Brown,POR,Trail Blazers T.Foul (Def. 3 Sec Brown ) (J.Butler),Foul,Defense 3 Second,0,0,0,0,,,v
+S2324-G0304,1,01:04,LAC,,POR,,M. Brown,POR,SUB: Reath FOR Brown,Substitution,,0,0,0,0,,,v
+S2324-G0304,2,06:44,LAC,,POR,,M. Brown,POR,MISS Brown 3' Dunk,Missed Shot,Dunk Shot,-1,27,3,1,2.0,0.0,v
+S2324-G0304,2,05:58,LAC,,POR,,M. Brown,POR,Brown REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0304,2,02:34,LAC,,POR,,M. Brown,POR,Brown REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0304,2,02:04,LAC,,POR,,M. Brown,POR,Brown REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0304,2,01:32,LAC,,POR,,M. Brown,POR,Brown REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0304,2,01:24,LAC,,POR,,M. Brown,POR,Brown REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0304,2,01:23,LAC,64.0,POR,63.0,M. Brown,POR,Brown 2' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,2,15,2,1,2.0,2.0,v
+S2324-G0304,2,00:37.500000,LAC,,POR,,M. Brown,POR,Brown REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0304,2,00:29.400000,LAC,,POR,,M. Brown,POR,Brown REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0304,2,00:28.900000,LAC,64.0,POR,65.0,M. Brown,POR,Brown 4' Putback Layup (6 PTS),Made Shot,Putback Layup Shot,-25,36,4,1,2.0,2.0,v
+S2324-G0304,4,10:37,LAC,,POR,,M. Brown,POR,Brown REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0304,4,10:13,LAC,,POR,,M. Brown,POR,Brown L.B.FOUL (P1.T1) (Z.Zarba),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0304,4,09:48,LAC,,POR,,M. Brown,POR,Brown REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0304,4,09:48,LAC,,POR,,M. Brown,POR,MISS Brown Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2324-G0304,4,09:13,LAC,,POR,,M. Brown,POR,Brown REBOUND (Off:3 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0304,4,08:01,LAC,,POR,,M. Brown,POR,MISS Brown 4' Driving Layup,Missed Shot,Driving Layup Shot,-21,29,4,1,2.0,0.0,v
+S2324-G0304,4,07:43,LAC,,POR,,M. Brown,POR,Brown REBOUND (Off:4 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0304,4,07:41,LAC,,POR,,M. Brown,POR,MISS Brown 2' Putback Layup,Missed Shot,Putback Layup Shot,-10,16,2,1,2.0,0.0,v
+S2324-G0304,4,07:05,LAC,,POR,,M. Brown,POR,Brown REBOUND (Off:4 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0304,4,06:44,LAC,,POR,,M. Brown,POR,Brown Lost Ball Turnover (P1.T10),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0304,4,06:30,LAC,,POR,,M. Brown,POR,SUB: Reath FOR Brown,Substitution,,0,0,0,0,,,v
+S2324-G0413,1,12:00,POR,,SAC,,M. Brown,POR,Jump Ball Brown vs. Sabonis: Tip to Grant,Jump Ball,,0,0,0,0,,,h
+S2324-G0413,1,11:20,POR,,SAC,,M. Brown,POR,Brown S.FOUL (P1.T1) (D.Richardson),Foul,Shooting,0,0,0,0,,,h
+S2324-G0413,1,10:09,POR,,SAC,,M. Brown,POR,Brown REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0413,1,10:09,POR,,SAC,,M. Brown,POR,MISS Brown Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0413,1,10:09,POR,,SAC,,M. Brown,POR,MISS Brown Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0413,1,09:12,POR,,SAC,,M. Brown,POR,Brown REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0413,1,08:53,POR,,SAC,,M. Brown,POR,Brown REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0413,1,08:17,POR,,SAC,,M. Brown,POR,Brown REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0413,1,07:24,POR,,SAC,,M. Brown,POR,Brown REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0413,1,07:24,POR,,SAC,,M. Brown,POR,Brown Traveling Turnover (P1.T3),Turnover,Traveling,0,0,0,0,,,h
+S2324-G0413,1,07:08,POR,,SAC,,M. Brown,POR,Brown REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0413,1,04:36,POR,,SAC,,M. Brown,POR,SUB: Reath FOR Brown,Substitution,,0,0,0,0,,,h
+S2324-G0413,3,11:40,POR,,SAC,,M. Brown,POR,Brown S.FOUL (P2.T1) (D.Richardson),Foul,Shooting,0,0,0,0,,,h
+S2324-G0413,3,10:58,POR,,SAC,,M. Brown,POR,Brown STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0413,3,10:50,POR,,SAC,,M. Brown,POR,Brown REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0413,3,10:04,POR,,SAC,,M. Brown,POR,Brown REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0413,3,09:38,POR,,SAC,,M. Brown,POR,Brown REBOUND (Off:4 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0413,3,09:08,POR,,SAC,,M. Brown,POR,Brown S.FOUL (P3.T3) (D.Richardson),Foul,Shooting,0,0,0,0,,,h
+S2324-G0413,3,08:53,POR,,SAC,,M. Brown,POR,Brown REBOUND (Off:5 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0413,3,08:53,POR,,SAC,,M. Brown,POR,MISS Brown Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2324-G0413,3,07:20,POR,,SAC,,M. Brown,POR,Brown REBOUND (Off:5 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0413,3,06:47,POR,,SAC,,M. Brown,POR,Brown BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0413,3,06:29,POR,,SAC,,M. Brown,POR,SUB: Reath FOR Brown,Substitution,,0,0,0,0,,,h
+S2324-G0868,3,05:39,MEM,,POR,,M. Brown,POR,SUB: Walker FOR Brown,Substitution,,0,0,0,0,,,v
+S2324-G1003,4,04:22,POR,,LAC,,M. Brown,POR,Brown REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1003,4,01:22,POR,,LAC,,M. Brown,POR,Brown REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1003,4,01:22,POR,,LAC,,M. Brown,POR,MISS Brown Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G1003,4,01:22,POR,,LAC,,M. Brown,POR,MISS Brown Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G1003,4,00:33.100000,POR,,LAC,,M. Brown,POR,Brown REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0215,4,03:43,POR,,OKC,,M. Brown,POR,Brown REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0215,4,02:20,POR,,OKC,,M. Brown,POR,Brown STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0215,4,00:23,POR,91.0,OKC,134.0,M. Brown,POR,Brown 2' Cutting Dunk Shot (2 PTS) (Rupert 1 AST),Made Shot,Cutting Dunk Shot,1,19,2,1,2.0,2.0,h
+S2324-G0170,1,01:55,SAC,25.0,POR,26.0,M. Brown,POR,Brown 5' Cutting Layup Shot (2 PTS) (Mays 3 AST),Made Shot,Cutting Layup Shot,6,54,5,1,2.0,2.0,v
+S2324-G0170,1,01:38,SAC,,POR,,M. Brown,POR,Brown S.FOUL (P1.T3) (M.Kallio),Foul,Shooting,0,0,0,0,,,v
+S2324-G0170,1,01:34,SAC,,POR,,M. Brown,POR,Brown REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0170,1,00:42.500000,SAC,31.0,POR,28.0,M. Brown,POR,Brown 5' Dunk (4 PTS) (Walker 1 AST),Made Shot,Dunk Shot,-42,26,5,1,2.0,2.0,v
+S2324-G0170,2,11:44,SAC,,POR,,M. Brown,POR,Trail Blazers T.Foul (Def. 3 Sec Brown ) (J.Goble),Foul,Defense 3 Second,0,0,0,0,,,v
+S2324-G0170,2,10:47,SAC,,POR,,M. Brown,POR,Brown BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0170,2,10:32,SAC,,POR,,M. Brown,POR,Brown REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0170,2,10:32,SAC,,POR,,M. Brown,POR,MISS Brown 3' Putback Dunk,Missed Shot,Putback Dunk Shot,4,31,3,1,2.0,0.0,v
+S2324-G0170,2,10:11,SAC,,POR,,M. Brown,POR,Brown REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0170,2,10:11,SAC,,POR,,M. Brown,POR,MISS Brown Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0170,2,10:11,SAC,,POR,,M. Brown,POR,MISS Brown Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0170,2,09:48,SAC,,POR,,M. Brown,POR,SUB: Ayton FOR Brown,Substitution,,0,0,0,0,,,v
+S2324-G1038,1,04:36,HOU,,POR,,M. Brown,POR,Brown REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1038,1,03:50,HOU,,POR,,M. Brown,POR,MISS Brown 1' Driving Layup,Missed Shot,Driving Layup Shot,-7,11,1,1,2.0,0.0,v
+S2324-G1038,1,02:47,HOU,,POR,,M. Brown,POR,MISS Brown 2' Driving Layup,Missed Shot,Driving Layup Shot,15,14,2,1,2.0,0.0,v
+S2324-G1038,1,00:30.400000,HOU,26.0,POR,25.0,M. Brown,POR,Brown Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1038,1,00:30.400000,HOU,,POR,,M. Brown,POR,MISS Brown Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G1038,1,00:06.500000,HOU,,POR,,M. Brown,POR,Brown S.FOUL (P1.PN) (S.Mehta),Foul,Shooting,0,0,0,0,,,v
+S2324-G1038,1,00:06.500000,HOU,,POR,,M. Brown,POR,SUB: Henderson FOR Brown,Substitution,,0,0,0,0,,,v
+S2324-G1038,3,02:29,HOU,,POR,,M. Brown,POR,Brown Traveling Turnover (P1.T13),Turnover,Traveling,0,0,0,0,,,v
+S2324-G0916,1,02:42,POR,26.0,HOU,23.0,M. Brown,POR,Brown 5' Alley Oop Layup (2 PTS) (Banton 2 AST),Made Shot,Alley Oop Layup shot,-18,42,5,1,2.0,2.0,h
+S2324-G0916,1,00:00,POR,,HOU,,M. Brown,POR,MISS Brown 16' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,12,164,16,1,2.0,0.0,h
+S2324-G0916,2,11:00,POR,,HOU,,M. Brown,POR,Brown REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0916,2,09:43,POR,,HOU,,M. Brown,POR,Brown REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0916,2,09:43,POR,37.0,HOU,33.0,M. Brown,POR,Brown Tip Dunk Shot (4 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,h
+S2324-G0916,2,08:50,POR,,HOU,,M. Brown,POR,SUB: Reath FOR Brown,Substitution,,0,0,0,0,,,h
+S2324-G0916,3,05:01,POR,,HOU,,M. Brown,POR,SUB: Rupert FOR Brown,Substitution,,0,0,0,0,,,h
+S2324-G0916,4,07:25,POR,,HOU,,M. Brown,POR,Brown REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0916,4,07:24,POR,,HOU,,M. Brown,POR,MISS Brown 4' Tip Layup Shot,Missed Shot,Tip Layup Shot,-12,41,4,1,2.0,0.0,h
+S2324-G0916,4,07:06,POR,,HOU,,M. Brown,POR,MISS Brown 10' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-85,55,10,1,2.0,0.0,h
+S2324-G0916,4,06:46,POR,,HOU,,M. Brown,POR,Brown REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0916,4,06:46,POR,,HOU,,M. Brown,POR,MISS Brown Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2324-G0916,4,06:36,POR,,HOU,,M. Brown,POR,Brown REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0916,4,05:56,POR,,HOU,,M. Brown,POR,SUB: Thybulle FOR Brown,Substitution,,0,0,0,0,,,h
+S2324-G1183,3,05:45,POR,58.0,HOU,69.0,M. Brown,POR,Brown 2' Alley Oop Dunk (2 PTS) (Banton 2 AST),Made Shot,Alley Oop Dunk Shot,-12,15,2,1,2.0,2.0,h
+S2324-G1183,3,05:29,POR,,HOU,,M. Brown,POR,Brown S.FOUL (P1.T2) (K.Cutler),Foul,Shooting,0,0,0,0,,,h
+S2324-G1183,3,05:03,POR,,HOU,,M. Brown,POR,Brown REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1183,3,04:25,POR,,HOU,,M. Brown,POR,MISS Brown Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G1183,3,04:25,POR,61.0,HOU,73.0,M. Brown,POR,Brown Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1183,3,01:45,POR,,HOU,,M. Brown,POR,Brown REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1183,3,01:45,POR,,HOU,,M. Brown,POR,Brown Out of Bounds Lost Ball Turnover (P1.T6),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2324-G1183,4,07:04,POR,,HOU,,M. Brown,POR,Brown REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1183,4,07:04,POR,,HOU,,M. Brown,POR,MISS Brown Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G1183,4,07:04,POR,88.0,HOU,100.0,M. Brown,POR,Brown Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1183,4,04:35,POR,,HOU,,M. Brown,POR,Brown REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1183,4,03:57,POR,,HOU,,M. Brown,POR,Brown REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1183,4,03:29,POR,,HOU,,M. Brown,POR,Brown REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1183,4,02:52,POR,,HOU,,M. Brown,POR,MISS Brown 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-28,33,4,1,2.0,0.0,h
+S2324-G1183,4,01:58,POR,,HOU,,M. Brown,POR,Brown REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1183,4,01:58,POR,101.0,HOU,114.0,M. Brown,POR,Brown Tip Dunk Shot (6 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,h
+S2324-G1183,4,00:30.900000,POR,,HOU,,M. Brown,POR,Brown S.FOUL (P2.PN) (K.Scott),Foul,Shooting,0,0,0,0,,,h
+S2324-G1183,4,00:16.500000,POR,,HOU,,M. Brown,POR,Brown REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1183,4,00:15.500000,POR,,HOU,,M. Brown,POR,MISS Brown 5' Hook Shot,Missed Shot,Hook Shot,44,21,5,1,2.0,0.0,h
+S2324-G1183,4,00:15.500000,POR,,HOU,,M. Brown,POR,Brown REBOUND (Off:5 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1183,4,00:09.600000,POR,107.0,HOU,116.0,M. Brown,POR,Brown 3' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,-28,17,3,1,2.0,2.0,h
+S2324-G0881,1,02:45,,,POR,,M. Brown,POR,Brown OFF.Foul (P1) (K.Scott),Foul,Offensive,0,0,0,0,,,v
+S2324-G0881,1,02:45,,,POR,,M. Brown,POR,Brown Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0881,1,00:05.400000,,28.0,POR,26.0,M. Brown,POR,Brown 4' Layup (2 PTS) (Simons 4 AST),Made Shot,Layup Shot,34,17,4,1,2.0,2.0,v
+S2324-G0881,2,11:46,,,POR,,M. Brown,POR,Brown L.B.FOUL (P2.T1) (K.Scott),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0881,2,10:27,,,POR,,M. Brown,POR,Trail Blazers T.Foul (Def. 3 Sec Brown ) (M.Smith),Foul,Defense 3 Second,0,0,0,0,,,v
+S2324-G0881,2,09:46,,,POR,,M. Brown,POR,SUB: Reath FOR Brown,Substitution,,0,0,0,0,,,v
+S2324-G0881,3,07:01,,,POR,,M. Brown,POR,Brown REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0881,3,05:30,,,POR,,M. Brown,POR,Brown REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0881,3,04:58,,,POR,,M. Brown,POR,Brown S.FOUL (P3.PN) (M.Smith),Foul,Shooting,0,0,0,0,,,v
+S2324-G0881,3,03:58,,,POR,,M. Brown,POR,Brown BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0881,3,03:54,,,POR,,M. Brown,POR,Brown REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0881,3,03:51,,,POR,,M. Brown,POR,SUB: Walker FOR Brown,Substitution,,0,0,0,0,,,v
+S2324-G1090,2,11:14,ORL,24.0,POR,25.0,M. Brown,POR,Brown 3' Dunk (2 PTS) (Hagans 1 AST),Made Shot,Dunk Shot,-6,29,3,1,2.0,2.0,v
+S2324-G1090,2,10:52,ORL,,POR,,M. Brown,POR,Brown REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1090,2,10:42,ORL,24.0,POR,27.0,M. Brown,POR,Brown 6' Turnaround Hook Shot (4 PTS) (Banton 2 AST),Made Shot,Turnaround Hook Shot,-22,60,6,1,2.0,2.0,v
+S2324-G1090,2,08:51,ORL,,POR,,M. Brown,POR,Brown P.FOUL (P1.T1) (M.Kallio),Foul,Personal,0,0,0,0,,,v
+S2324-G1090,2,08:51,ORL,,POR,,M. Brown,POR,SUB: Ayton FOR Brown,Substitution,,0,0,0,0,,,v

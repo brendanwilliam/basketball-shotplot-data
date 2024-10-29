@@ -1,0 +1,740 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2324-G0476,1,11:22,SAC,2.0,ORL,2.0,G. Harris,ORL,Harris 1' Driving Finger Roll Layup (2 PTS) (Banchero 1 AST),Made Shot,Driving Finger Roll Layup Shot,10,8,1,1,2.0,2.0,v
+S2324-G0476,1,09:54,SAC,,ORL,,G. Harris,ORL,Harris P.FOUL (P1.T1) (C.Aubry),Foul,Personal,0,0,0,0,,,v
+S2324-G0476,1,08:56,SAC,,ORL,,G. Harris,ORL,Harris REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0476,1,07:35,SAC,,ORL,,G. Harris,ORL,MISS Harris 25' 3PT Jump Shot,Missed Shot,Jump Shot,-235,78,25,1,3.0,0.0,v
+S2324-G0476,1,05:59,SAC,,ORL,,G. Harris,ORL,Harris Backcourt Turnover (P1.T3),Turnover,Backcourt Turnover,0,0,0,0,,,v
+S2324-G0476,1,05:28,SAC,17.0,ORL,17.0,G. Harris,ORL,Harris 28' 3PT Step Back Jump Shot (5 PTS) (Bitadze 1 AST),Made Shot,Step Back Jump shot,157,236,28,1,3.0,3.0,v
+S2324-G0476,1,05:20,SAC,,ORL,,G. Harris,ORL,Harris S.FOUL (P2.T2) (C.Aubry),Foul,Shooting,0,0,0,0,,,v
+S2324-G0476,1,04:22,SAC,,ORL,,G. Harris,ORL,SUB: Houstan FOR Harris,Substitution,,0,0,0,0,,,v
+S2324-G0476,2,06:21,SAC,,ORL,,G. Harris,ORL,MISS Harris 27' 3PT Jump Shot,Missed Shot,Jump Shot,-152,225,27,1,3.0,0.0,v
+S2324-G0476,2,03:41,SAC,,ORL,,G. Harris,ORL,Harris STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0476,2,03:28,SAC,,ORL,,G. Harris,ORL,MISS Harris Free Throw Technical,Free Throw,Free Throw Technical,0,0,0,0,1.0,0.0,v
+S2324-G0476,2,03:28,SAC,,ORL,,G. Harris,ORL,SUB: Houstan FOR Harris,Substitution,,0,0,0,0,,,v
+S2324-G1115,1,11:14,CHA,,ORL,,G. Harris,ORL,MISS Harris 3PT Jump Shot,Missed Shot,Jump Shot,225,16,0,1,3.0,0.0,v
+S2324-G1115,1,10:50,CHA,5.0,ORL,3.0,G. Harris,ORL,Harris 3PT Jump Shot (3 PTS) (Banchero 1 AST),Made Shot,Jump Shot,228,15,0,1,3.0,3.0,v
+S2324-G1115,1,05:08,CHA,,ORL,,G. Harris,ORL,Harris REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1115,1,03:17,CHA,,ORL,,G. Harris,ORL,SUB: Ingles FOR Harris,Substitution,,0,0,0,0,,,v
+S2324-G1115,2,07:22,CHA,,ORL,,G. Harris,ORL,Harris REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1115,2,05:46,CHA,,ORL,,G. Harris,ORL,MISS Harris 26' 3PT Jump Shot,Missed Shot,Jump Shot,-152,205,26,1,3.0,0.0,v
+S2324-G1115,2,05:36,CHA,52.0,ORL,42.0,G. Harris,ORL,Harris 3PT Jump Shot (6 PTS) (Carter Jr. 1 AST),Made Shot,Jump Shot,-225,14,0,1,3.0,3.0,v
+S2324-G1115,2,03:48,CHA,,ORL,,G. Harris,ORL,Harris STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G1115,3,09:50,CHA,,ORL,,G. Harris,ORL,Harris REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1115,3,09:44,CHA,,ORL,,G. Harris,ORL,MISS Harris 29' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,131,254,29,1,3.0,0.0,v
+S2324-G1115,3,08:25,CHA,69.0,ORL,63.0,G. Harris,ORL,Harris 26' 3PT Step Back Jump Shot (9 PTS) (Banchero 7 AST),Made Shot,Step Back Jump shot,-145,217,26,1,3.0,3.0,v
+S2324-G1115,3,05:32,CHA,,ORL,,G. Harris,ORL,SUB: Fultz FOR Harris,Substitution,,0,0,0,0,,,v
+S2324-G1115,4,03:34,CHA,112.0,ORL,106.0,G. Harris,ORL,Harris 3PT Jump Shot (12 PTS) (Fultz 3 AST),Made Shot,Jump Shot,228,39,0,1,3.0,3.0,v
+S2324-G1115,4,00:51.800000,CHA,,ORL,,G. Harris,ORL,MISS Harris 24' 3PT Jump Shot,Missed Shot,Jump Shot,225,75,24,1,3.0,0.0,v
+S2324-G1115,4,00:42.900000,CHA,,ORL,,G. Harris,ORL,Harris STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0704,1,02:59,DET,,ORL,,G. Harris,ORL,MISS Harris 3PT Jump Shot,Missed Shot,Jump Shot,-225,-4,0,1,3.0,0.0,v
+S2324-G0704,1,00:33,DET,,ORL,,G. Harris,ORL,Harris Out of Bounds Lost Ball Turnover (P1.T4),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2324-G0704,2,11:07,DET,,ORL,,G. Harris,ORL,Harris P.FOUL (P1.T1) (P.Ransom),Foul,Personal,0,0,0,0,,,v
+S2324-G0704,2,10:10,DET,,ORL,,G. Harris,ORL,MISS Harris 5' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,38,30,5,1,2.0,0.0,v
+S2324-G0704,2,09:43,DET,31.0,ORL,27.0,G. Harris,ORL,Harris 1' Driving Finger Roll Layup (2 PTS) (M. Wagner 2 AST),Made Shot,Driving Finger Roll Layup Shot,7,-6,1,1,2.0,2.0,v
+S2324-G0704,2,08:09,DET,,ORL,,G. Harris,ORL,MISS Harris 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-104,237,26,1,3.0,0.0,v
+S2324-G0704,2,05:44,DET,,ORL,,G. Harris,ORL,SUB: Banchero FOR Harris,Substitution,,0,0,0,0,,,v
+S2324-G0704,3,03:39,DET,,ORL,,G. Harris,ORL,Harris Bad Pass Turnover (P2.T8),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0704,3,03:39,DET,,ORL,,G. Harris,ORL,Harris L.B.FOUL (P2.T3) (Z.Zarba),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0704,3,03:10,DET,,ORL,,G. Harris,ORL,MISS Harris 3PT Jump Shot,Missed Shot,Jump Shot,-232,27,0,1,3.0,0.0,v
+S2324-G0704,3,00:27.900000,DET,,ORL,,G. Harris,ORL,MISS Harris 3' Driving Layup,Missed Shot,Driving Layup Shot,10,23,3,1,2.0,0.0,v
+S2324-G0704,4,11:47,DET,,ORL,,G. Harris,ORL,Harris S.FOUL (P3.T1) (Z.Zarba),Foul,Shooting,0,0,0,0,,,v
+S2324-G0704,4,10:36,DET,81.0,ORL,84.0,G. Harris,ORL,Harris 24' 3PT Jump Shot (5 PTS) (M. Wagner 4 AST),Made Shot,Jump Shot,234,55,24,1,3.0,3.0,v
+S2324-G0704,4,08:20,DET,87.0,ORL,93.0,G. Harris,ORL,Harris 3PT Jump Shot (8 PTS) (F. Wagner 2 AST),Made Shot,Jump Shot,-230,11,0,1,3.0,3.0,v
+S2324-G0704,4,07:43,DET,90.0,ORL,95.0,G. Harris,ORL,Harris 2' Driving Reverse Layup (10 PTS),Made Shot,Driving Reverse Layup Shot,-20,11,2,1,2.0,2.0,v
+S2324-G0704,4,04:23,DET,,ORL,,G. Harris,ORL,Harris BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0704,4,04:20,DET,,ORL,,G. Harris,ORL,Harris REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0704,4,03:07,DET,,ORL,,G. Harris,ORL,SUB: Suggs FOR Harris,Substitution,,0,0,0,0,,,v
+S2324-G0991,1,09:30,ORL,,CHA,,G. Harris,ORL,Harris Step Out of Bounds Turnover (P1.T3),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2324-G0991,1,06:37,ORL,,CHA,,G. Harris,ORL,MISS Harris 24' 3PT Jump Shot,Missed Shot,Jump Shot,-234,26,24,1,3.0,0.0,h
+S2324-G0991,1,05:57,ORL,,CHA,,G. Harris,ORL,Harris REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0991,1,05:33,ORL,,CHA,,G. Harris,ORL,Harris Traveling Turnover (P2.T4),Turnover,Traveling,0,0,0,0,,,h
+S2324-G0991,1,04:15,ORL,,CHA,,G. Harris,ORL,SUB: Fultz FOR Harris,Substitution,,0,0,0,0,,,h
+S2324-G0991,3,06:08,ORL,84.0,CHA,45.0,G. Harris,ORL,Harris 25' 3PT Jump Shot (3 PTS) (Suggs 6 AST),Made Shot,Jump Shot,-93,235,25,1,3.0,3.0,h
+S2324-G0991,3,02:52,ORL,,CHA,,G. Harris,ORL,SUB: Ingles FOR Harris,Substitution,,0,0,0,0,,,h
+S2324-G0196,1,01:47,CHI,,ORL,,G. Harris,ORL,MISS Harris 27' 3PT Jump Shot,Missed Shot,Jump Shot,-25,270,27,1,3.0,0.0,v
+S2324-G0196,2,11:36,CHI,,ORL,,G. Harris,ORL,MISS Harris Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0196,2,11:36,CHI,21.0,ORL,22.0,G. Harris,ORL,Harris Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0196,2,08:55,CHI,,ORL,,G. Harris,ORL,Harris STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0196,2,06:40,CHI,,ORL,,G. Harris,ORL,Harris STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0196,2,05:15,CHI,,ORL,,G. Harris,ORL,SUB: Bitadze FOR Harris,Substitution,,0,0,0,0,,,v
+S2324-G0196,3,02:52,CHI,53.0,ORL,71.0,G. Harris,ORL,Harris 25' 3PT Jump Shot (4 PTS) (Anthony 3 AST),Made Shot,Jump Shot,178,179,25,1,3.0,3.0,v
+S2324-G0196,4,11:25,CHI,64.0,ORL,75.0,G. Harris,ORL,Harris 2' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,12,16,2,1,2.0,2.0,v
+S2324-G0196,4,10:04,CHI,,ORL,,G. Harris,ORL,MISS Harris 24' 3PT Jump Shot,Missed Shot,Jump Shot,-167,178,24,1,3.0,0.0,v
+S2324-G0196,4,06:17,CHI,,ORL,,G. Harris,ORL,SUB: Bitadze FOR Harris,Substitution,,0,0,0,0,,,v
+S2324-G0694,1,01:04,MIN,,ORL,,G. Harris,ORL,Harris P.FOUL (P1.PN) (B.Adair),Foul,Personal,0,0,0,0,,,v
+S2324-G0694,1,00:51.200000,MIN,,ORL,,G. Harris,ORL,Harris Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0694,2,10:00,MIN,,ORL,,G. Harris,ORL,Harris Violation:Kicked Ball (E.Malloy),Violation,Kicked Ball,0,0,0,0,,,v
+S2324-G0694,2,09:00,MIN,,ORL,,G. Harris,ORL,Harris REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0694,2,06:33,MIN,,ORL,,G. Harris,ORL,SUB: Fultz FOR Harris,Substitution,,0,0,0,0,,,v
+S2324-G0694,4,11:31,MIN,,ORL,,G. Harris,ORL,Harris REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0694,4,09:44,MIN,91.0,ORL,87.0,G. Harris,ORL,Harris 3' Running Reverse Layup (2 PTS),Made Shot,Running Reverse Layup Shot,-26,8,3,1,2.0,2.0,v
+S2324-G0694,4,07:11,MIN,,ORL,,G. Harris,ORL,SUB: Banchero FOR Harris,Substitution,,0,0,0,0,,,v
+S2324-G0378,1,11:23,MIL,2.0,ORL,2.0,G. Harris,ORL,Harris 20' Floating Jump Shot (2 PTS) (Carter Jr. 1 AST),Made Shot,Floating Jump shot,-112,163,20,1,2.0,2.0,v
+S2324-G0378,1,08:28,MIL,,ORL,,G. Harris,ORL,MISS Harris 28' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-189,205,28,1,3.0,0.0,v
+S2324-G0378,1,06:57,MIL,,ORL,,G. Harris,ORL,MISS Harris 29' 3PT Jump Shot,Missed Shot,Jump Shot,-138,252,29,1,3.0,0.0,v
+S2324-G0378,1,06:43,MIL,,ORL,,G. Harris,ORL,Harris REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0378,1,05:34,MIL,,ORL,,G. Harris,ORL,MISS Harris 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,25,164,17,1,2.0,0.0,v
+S2324-G0378,1,02:47,MIL,19.0,ORL,22.0,G. Harris,ORL,Harris 11' Driving Floating Jump Shot (4 PTS) (M. Wagner 2 AST),Made Shot,Driving Floating Jump Shot,-105,27,11,1,2.0,2.0,v
+S2324-G0378,1,02:47,MIL,19.0,ORL,23.0,G. Harris,ORL,Harris Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G0378,1,01:44,MIL,,ORL,,G. Harris,ORL,SUB: Houstan FOR Harris,Substitution,,0,0,0,0,,,v
+S2324-G0378,2,04:06,MIL,,ORL,,G. Harris,ORL,MISS Harris Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0378,2,04:06,MIL,47.0,ORL,52.0,G. Harris,ORL,Harris Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0378,2,01:21,MIL,,ORL,,G. Harris,ORL,MISS Harris 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-64,167,18,1,2.0,0.0,v
+S2324-G0378,3,07:59,MIL,72.0,ORL,65.0,G. Harris,ORL,Harris 13' Jump Shot (8 PTS) (Banchero 3 AST),Made Shot,Jump Shot,-132,25,13,1,2.0,2.0,v
+S2324-G0378,3,07:28,MIL,,ORL,,G. Harris,ORL,MISS Harris 24' 3PT Jump Shot,Missed Shot,Jump Shot,-238,48,24,1,3.0,0.0,v
+S2324-G0378,3,07:26,MIL,,ORL,,G. Harris,ORL,Harris REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0378,3,04:15,MIL,82.0,ORL,70.0,G. Harris,ORL,Harris 27' 3PT Running Jump Shot (11 PTS) (Anthony 5 AST),Made Shot,Running Jump Shot,169,213,27,1,3.0,3.0,v
+S2324-G0378,3,01:25,MIL,,ORL,,G. Harris,ORL,SUB: F. Wagner FOR Harris,Substitution,,0,0,0,0,,,v
+S2324-G0378,4,06:31,MIL,,ORL,,G. Harris,ORL,Harris S.FOUL (P1.T3) (M.Lindsay),Foul,Shooting,0,0,0,0,,,v
+S2324-G0378,4,04:40,MIL,,ORL,,G. Harris,ORL,Harris S.FOUL (P2.T4) (E.Dalen),Foul,Shooting,0,0,0,0,,,v
+S2324-G0378,4,00:16,MIL,,ORL,,G. Harris,ORL,Harris Personal Take Foul (P3.PN) (E.Dalen),Foul,Personal Take,0,0,0,0,,,v
+S2324-G0378,4,00:09.400000,MIL,,ORL,,G. Harris,ORL,Harris Personal Take Foul (P4.PN) (E.Dalen),Foul,Personal Take,0,0,0,0,,,v
+S2324-G0378,4,00:06.100000,MIL,,ORL,,G. Harris,ORL,MISS Harris 27' 3PT Jump Shot,Missed Shot,Jump Shot,-110,245,27,1,3.0,0.0,v
+S2324-G0378,4,00:01.900000,MIL,118.0,ORL,114.0,G. Harris,ORL,Harris 29' 3PT Jump Shot (14 PTS) (Anthony 6 AST),Made Shot,Jump Shot,-135,255,29,1,3.0,3.0,v
+S2324-G0114,1,02:07,LAC,,ORL,,G. Harris,ORL,Harris REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0114,1,01:41,LAC,,ORL,,G. Harris,ORL,Harris P.FOUL (P1.PN) (R.Mott),Foul,Personal,0,0,0,0,,,v
+S2324-G0114,2,10:19,LAC,,ORL,,G. Harris,ORL,Harris REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0114,2,07:51,LAC,22.0,ORL,30.0,G. Harris,ORL,Harris 27' 3PT Jump Bank Shot (3 PTS) (M. Wagner 1 AST),Made Shot,Jump Bank Shot,78,258,27,1,3.0,3.0,v
+S2324-G0114,2,07:21,LAC,25.0,ORL,33.0,G. Harris,ORL,Harris 3PT Jump Shot (6 PTS) (Banchero 1 AST),Made Shot,Jump Shot,-228,32,0,1,3.0,3.0,v
+S2324-G0114,2,06:17,LAC,,ORL,,G. Harris,ORL,MISS Harris 3PT Jump Shot,Missed Shot,Jump Shot,-230,36,0,1,3.0,0.0,v
+S2324-G0114,2,04:24,LAC,29.0,ORL,38.0,G. Harris,ORL,Harris Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G0114,2,03:52,LAC,,ORL,,G. Harris,ORL,MISS Harris 28' 3PT Jump Shot,Missed Shot,Jump Shot,-65,275,28,1,3.0,0.0,v
+S2324-G0114,2,03:46,LAC,,ORL,,G. Harris,ORL,SUB: F. Wagner FOR Harris,Substitution,,0,0,0,0,,,v
+S2324-G0114,3,02:38,LAC,,ORL,,G. Harris,ORL,Harris STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0114,3,01:21,LAC,79.0,ORL,68.0,G. Harris,ORL,Harris 4' Driving Finger Roll Layup (9 PTS) (Ingles 1 AST),Made Shot,Driving Finger Roll Layup Shot,20,32,4,1,2.0,2.0,v
+S2324-G0114,3,00:48.200000,LAC,,ORL,,G. Harris,ORL,MISS Harris Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0114,3,00:48.200000,LAC,,ORL,,G. Harris,ORL,MISS Harris Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0114,4,09:54,LAC,,ORL,,G. Harris,ORL,SUB: Banchero FOR Harris,Substitution,,0,0,0,0,,,v
+S2324-G0912,1,08:06,NYK,,ORL,,G. Harris,ORL,MISS Harris 1' Driving Layup,Missed Shot,Driving Layup Shot,-1,8,1,1,2.0,0.0,v
+S2324-G0912,1,04:36,NYK,,ORL,,G. Harris,ORL,Harris REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0912,1,01:32,NYK,,ORL,,G. Harris,ORL,SUB: M. Wagner FOR Harris,Substitution,,0,0,0,0,,,v
+S2324-G0912,2,02:05,NYK,,ORL,,G. Harris,ORL,MISS Harris 25' 3PT Jump Shot,Missed Shot,Jump Shot,-174,173,25,1,3.0,0.0,v
+S2324-G0912,3,11:30,NYK,,ORL,,G. Harris,ORL,Harris Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0912,3,06:12,NYK,65.0,ORL,47.0,G. Harris,ORL,Harris 2' Driving Layup (2 PTS) (Carter Jr. 2 AST),Made Shot,Driving Layup Shot,-22,-1,2,1,2.0,2.0,v
+S2324-G0912,3,04:08,NYK,71.0,ORL,52.0,G. Harris,ORL,Harris 24' 3PT Jump Shot (5 PTS) (Anthony 3 AST),Made Shot,Jump Shot,237,12,24,1,3.0,3.0,v
+S2324-G0912,3,02:50,NYK,,ORL,,G. Harris,ORL,MISS Harris 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-174,186,25,1,3.0,0.0,v
+S2324-G0912,3,02:47,NYK,,ORL,,G. Harris,ORL,SUB: Ingles FOR Harris,Substitution,,0,0,0,0,,,v
+S2324-G0928,1,06:56,ORL,,IND,,G. Harris,ORL,Harris Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0928,1,06:24,ORL,12.0,IND,2.0,G. Harris,ORL,Harris 3PT Jump Shot (3 PTS) (Banchero 1 AST),Made Shot,Jump Shot,-227,29,0,1,3.0,3.0,h
+S2324-G0928,1,03:40,ORL,,IND,,G. Harris,ORL,SUB: Black FOR Harris,Substitution,,0,0,0,0,,,h
+S2324-G0928,2,08:27,ORL,,IND,,G. Harris,ORL,Harris Bad Pass Turnover (P2.T6),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0928,2,08:01,ORL,,IND,,G. Harris,ORL,Harris P.FOUL (P1.PN) (P.Ransom),Foul,Personal,0,0,0,0,,,h
+S2324-G0928,2,06:13,ORL,,IND,,G. Harris,ORL,Harris P.FOUL (P2.PN) (S.Wall),Foul,Personal,0,0,0,0,,,h
+S2324-G0928,2,01:10,ORL,,IND,,G. Harris,ORL,Harris S.FOUL (P3.PN) (S.Wall),Foul,Shooting,0,0,0,0,,,h
+S2324-G0928,2,01:10,ORL,,IND,,G. Harris,ORL,Harris T.FOUL (P3.PN) (S.Wall),Foul,Technical,0,0,0,0,,,h
+S2324-G0928,2,01:10,ORL,,IND,,G. Harris,ORL,SUB: Isaac FOR Harris,Substitution,,0,0,0,0,,,h
+S2324-G0928,3,11:24,ORL,52.0,IND,50.0,G. Harris,ORL,Harris 3' Driving Finger Roll Layup (5 PTS) (Carter Jr. 2 AST),Made Shot,Driving Finger Roll Layup Shot,-23,25,3,1,2.0,2.0,h
+S2324-G0928,3,10:54,ORL,,IND,,G. Harris,ORL,MISS Harris 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-42,257,26,1,3.0,0.0,h
+S2324-G0928,3,10:12,ORL,,IND,,G. Harris,ORL,Harris REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0928,3,00:31,ORL,,IND,,G. Harris,ORL,SUB: Black FOR Harris,Substitution,,0,0,0,0,,,h
+S2324-G0752,1,00:03.200000,ORL,,CHI,,G. Harris,ORL,Harris REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0752,1,00:00,ORL,,CHI,,G. Harris,ORL,MISS Harris 6' Putback Layup,Missed Shot,Putback Layup Shot,50,34,6,1,2.0,0.0,h
+S2324-G0752,2,11:03,ORL,,CHI,,G. Harris,ORL,MISS Harris 28' 3PT Jump Shot,Missed Shot,Jump Shot,-141,243,28,1,3.0,0.0,h
+S2324-G0752,2,10:37,ORL,,CHI,,G. Harris,ORL,MISS Harris 27' 3PT Jump Shot,Missed Shot,Jump Shot,40,262,27,1,3.0,0.0,h
+S2324-G0752,2,08:09,ORL,,CHI,,G. Harris,ORL,MISS Harris 6' Driving Hook Shot,Missed Shot,Driving Hook Shot,-16,53,6,1,2.0,0.0,h
+S2324-G0752,2,08:08,ORL,,CHI,,G. Harris,ORL,Harris REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0752,2,08:07,ORL,35.0,CHI,30.0,G. Harris,ORL,Harris 3' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,-16,20,3,1,2.0,2.0,h
+S2324-G0752,2,08:07,ORL,,CHI,,G. Harris,ORL,SUB: Carter Jr. FOR Harris,Substitution,,0,0,0,0,,,h
+S2324-G0752,4,07:49,ORL,,CHI,,G. Harris,ORL,Harris P.FOUL (P1.T2) (C.Blair),Foul,Personal,0,0,0,0,,,h
+S2324-G0752,4,04:23,ORL,,CHI,,G. Harris,ORL,SUB: Isaac FOR Harris,Substitution,,0,0,0,0,,,h
+S2324-G0772,1,05:37,ORL,22.0,OKC,14.0,G. Harris,ORL,Harris 3PT Jump Shot (3 PTS) (Fultz 3 AST),Made Shot,Jump Shot,-228,42,0,1,3.0,3.0,h
+S2324-G0772,1,03:24,ORL,,OKC,,G. Harris,ORL,Harris S.FOUL (P1.T2) (A.Smith),Foul,Shooting,0,0,0,0,,,h
+S2324-G0772,1,01:32,ORL,,OKC,,G. Harris,ORL,Harris REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0772,1,00:28.800000,ORL,,OKC,,G. Harris,ORL,Harris STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0772,2,07:55,ORL,,OKC,,G. Harris,ORL,Harris BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0772,2,07:24,ORL,,OKC,,G. Harris,ORL,Harris S.FOUL (P2.T2) (B.Kennedy),Foul,Shooting,0,0,0,0,,,h
+S2324-G0772,2,07:24,ORL,,OKC,,G. Harris,ORL,SUB: Banchero FOR Harris,Substitution,,0,0,0,0,,,h
+S2324-G0772,3,05:10,ORL,,OKC,,G. Harris,ORL,Harris Out of Bounds - Bad Pass Turnover Turnover (P1.T14),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G0772,3,04:18,ORL,,OKC,,G. Harris,ORL,MISS Harris 26' 3PT Jump Shot,Missed Shot,Jump Shot,-123,224,26,1,3.0,0.0,h
+S2324-G0772,3,02:52,ORL,75.0,OKC,85.0,G. Harris,ORL,Harris 24' 3PT Jump Shot (6 PTS) (Suggs 2 AST),Made Shot,Jump Shot,229,59,24,1,3.0,3.0,h
+S2324-G0772,4,10:49,ORL,,OKC,,G. Harris,ORL,Harris REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0772,4,10:03,ORL,,OKC,,G. Harris,ORL,SUB: Banchero FOR Harris,Substitution,,0,0,0,0,,,h
+S2324-G0772,4,05:34,ORL,,OKC,,G. Harris,ORL,Harris BLOCK (2 BLK),,,0,0,0,0,,,h
+S2324-G0772,4,02:23,ORL,,OKC,,G. Harris,ORL,SUB: Bitadze FOR Harris,Substitution,,0,0,0,0,,,h
+S2324-G0226,1,01:42,ORL,,DEN,,G. Harris,ORL,Jump Ball Harris vs. Pickett: Tip to M. Wagner,Jump Ball,,0,0,0,0,,,h
+S2324-G0226,1,01:42,ORL,,DEN,,G. Harris,ORL,Harris STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0226,1,00:30.600000,ORL,,DEN,,G. Harris,ORL,Harris REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0226,2,10:53,ORL,,DEN,,G. Harris,ORL,Harris REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0226,2,08:26,ORL,,DEN,,G. Harris,ORL,MISS Harris 27' 3PT Jump Shot,Missed Shot,Jump Shot,161,219,27,1,3.0,0.0,h
+S2324-G0226,2,07:27,ORL,,DEN,,G. Harris,ORL,Harris P.FOUL (P1.T3) (S.Wall),Foul,Personal,0,0,0,0,,,h
+S2324-G0226,2,03:23,ORL,,DEN,,G. Harris,ORL,SUB: Anthony FOR Harris,Substitution,,0,0,0,0,,,h
+S2324-G0226,3,02:14,ORL,,DEN,,G. Harris,ORL,MISS Harris 26' 3PT Jump Shot,Missed Shot,Jump Shot,4,262,26,1,3.0,0.0,h
+S2324-G0226,3,01:30,ORL,,DEN,,G. Harris,ORL,MISS Harris 3PT Jump Shot,Missed Shot,Jump Shot,234,-1,0,1,3.0,0.0,h
+S2324-G0226,3,00:42.800000,ORL,,DEN,,G. Harris,ORL,Harris Transition Take Foul (P2.PN) (S.Wall),Foul                                    ,Transition Take,0,0,0,0,,,h
+S2324-G0226,4,11:36,ORL,,DEN,,G. Harris,ORL,MISS Harris 27' 3PT Jump Shot,Missed Shot,Jump Shot,-142,232,27,1,3.0,0.0,h
+S2324-G0226,4,11:09,ORL,,DEN,,G. Harris,ORL,Harris REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0226,4,10:16,ORL,,DEN,,G. Harris,ORL,MISS Harris 3' Driving Layup,Missed Shot,Driving Layup Shot,13,25,3,1,2.0,0.0,h
+S2324-G0226,4,10:10,ORL,91.0,DEN,93.0,G. Harris,ORL,Harris 28' 3PT Jump Shot (3 PTS) (Isaac 1 AST),Made Shot,Jump Shot,192,206,28,1,3.0,3.0,h
+S2324-G0226,4,09:32,ORL,92.0,DEN,96.0,G. Harris,ORL,Harris Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0226,4,09:32,ORL,93.0,DEN,96.0,G. Harris,ORL,Harris Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0226,4,09:17,ORL,,DEN,,G. Harris,ORL,Harris STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0226,4,09:09,ORL,,DEN,,G. Harris,ORL,MISS Harris 3PT Jump Shot,Missed Shot,Jump Shot,230,2,0,1,3.0,0.0,h
+S2324-G0226,4,08:46,ORL,,DEN,,G. Harris,ORL,Harris STEAL (3 STL),,,0,0,0,0,,,h
+S2324-G0226,4,06:25,ORL,,DEN,,G. Harris,ORL,SUB: Bitadze FOR Harris,Substitution,,0,0,0,0,,,h
+S2324-G0066,1,00:58.500000,ORL,,HOU,,G. Harris,ORL,Harris REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0066,1,00:27.300000,ORL,29.0,HOU,20.0,G. Harris,ORL,Harris 1' Layup (2 PTS) (Ingles 2 AST),Made Shot,Layup Shot,-4,11,1,1,2.0,2.0,h
+S2324-G0066,2,10:23,ORL,,HOU,,G. Harris,ORL,MISS Harris 24' 3PT Jump Shot,Missed Shot,Jump Shot,-233,75,24,1,3.0,0.0,h
+S2324-G0066,2,10:18,ORL,,HOU,,G. Harris,ORL,Harris REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0066,2,10:17,ORL,33.0,HOU,22.0,G. Harris,ORL,Harris 2' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,-17,16,2,1,2.0,2.0,h
+S2324-G0066,2,07:30,ORL,,HOU,,G. Harris,ORL,Harris REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0066,2,07:30,ORL,40.0,HOU,28.0,G. Harris,ORL,Harris 5' Driving Floating Jump Shot (6 PTS),Made Shot,Driving Floating Jump Shot,-30,39,5,1,2.0,2.0,h
+S2324-G0066,2,06:57,ORL,42.0,HOU,30.0,G. Harris,ORL,Harris 1' Driving Layup (8 PTS) (Ingles 3 AST),Made Shot,Driving Layup Shot,6,-4,1,1,2.0,2.0,h
+S2324-G0066,2,06:38,ORL,,HOU,,G. Harris,ORL,Harris REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0066,2,05:55,ORL,,HOU,,G. Harris,ORL,MISS Harris 3PT Jump Shot,Missed Shot,Jump Shot,-229,52,0,1,3.0,0.0,h
+S2324-G0066,2,05:53,ORL,,HOU,,G. Harris,ORL,Harris REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0066,2,05:30,ORL,,HOU,,G. Harris,ORL,SUB: Suggs FOR Harris,Substitution,,0,0,0,0,,,h
+S2324-G0066,3,00:24.500000,ORL,,HOU,,G. Harris,ORL,Harris BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0066,4,11:38,ORL,90.0,HOU,70.0,G. Harris,ORL,Harris 26' 3PT Jump Shot (11 PTS) (Ingles 5 AST),Made Shot,Jump Shot,-174,194,26,1,3.0,3.0,h
+S2324-G0066,4,10:22,ORL,,HOU,,G. Harris,ORL,MISS Harris 25' 3PT Jump Shot,Missed Shot,Jump Shot,-235,72,25,1,3.0,0.0,h
+S2324-G0066,4,06:49,ORL,,HOU,,G. Harris,ORL,SUB: Carter Jr. FOR Harris,Substitution,,0,0,0,0,,,h
+S2324-G0885,1,09:54,CHA,4.0,ORL,4.0,G. Harris,ORL,Harris 21' Jump Shot (2 PTS) (Banchero 1 AST),Made Shot,Jump Shot,-206,9,21,1,2.0,2.0,v
+S2324-G0885,1,09:17,CHA,,ORL,,G. Harris,ORL,Harris STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0885,1,07:46,CHA,,ORL,,G. Harris,ORL,Harris OFF.Foul (P1) (B.Forte),Foul,Offensive,0,0,0,0,,,v
+S2324-G0885,1,07:46,CHA,,ORL,,G. Harris,ORL,Harris Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0885,1,06:22,CHA,,ORL,,G. Harris,ORL,Harris S.FOUL (P2.T1) (D.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2324-G0885,1,05:49,CHA,,ORL,,G. Harris,ORL,Harris STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0885,1,04:15,CHA,16.0,ORL,12.0,G. Harris,ORL,Harris 3PT Jump Shot (5 PTS) (Suggs 2 AST),Made Shot,Jump Shot,-232,35,0,1,3.0,3.0,v
+S2324-G0885,1,04:06,CHA,,ORL,,G. Harris,ORL,Harris STEAL (3 STL),,,0,0,0,0,,,v
+S2324-G0885,1,03:16,CHA,,ORL,,G. Harris,ORL,MISS Harris 4' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,40,-5,4,1,2.0,0.0,v
+S2324-G0885,1,02:34,CHA,,ORL,,G. Harris,ORL,SUB: M. Wagner FOR Harris,Substitution,,0,0,0,0,,,v
+S2324-G0885,2,01:44,CHA,,ORL,,G. Harris,ORL,Harris P.FOUL (P3.T3) (B.Nansel),Foul,Personal,0,0,0,0,,,v
+S2324-G0885,2,01:44,CHA,,ORL,,G. Harris,ORL,SUB: Isaac FOR Harris,Substitution,,0,0,0,0,,,v
+S2324-G0885,3,10:23,CHA,45.0,ORL,50.0,G. Harris,ORL,Harris 26' 3PT Jump Shot (8 PTS) (Banchero 2 AST),Made Shot,Jump Shot,108,238,26,1,3.0,3.0,v
+S2324-G0885,3,05:44,CHA,,ORL,,G. Harris,ORL,MISS Harris Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0885,3,05:44,CHA,56.0,ORL,56.0,G. Harris,ORL,Harris Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0885,3,02:59,CHA,,ORL,,G. Harris,ORL,SUB: Anthony FOR Harris,Substitution,,0,0,0,0,,,v
+S2324-G0344,2,07:30,BOS,,ORL,,G. Harris,ORL,MISS Harris 30' 3PT Jump Shot,Missed Shot,Jump Shot,158,258,30,1,3.0,0.0,v
+S2324-G0344,2,04:45,BOS,,ORL,,G. Harris,ORL,SUB: Suggs FOR Harris,Substitution,,0,0,0,0,,,v
+S2324-G0344,2,01:45,BOS,,ORL,,G. Harris,ORL,MISS Harris 26' 3PT Jump Shot,Missed Shot,Jump Shot,-99,245,26,1,3.0,0.0,v
+S2324-G0344,2,01:33,BOS,,ORL,,G. Harris,ORL,Harris S.FOUL (P1.T4) (B.Adair),Foul,Shooting,0,0,0,0,,,v
+S2324-G0344,3,00:03.100000,BOS,,ORL,,G. Harris,ORL,Harris REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0344,3,00:00.300000,BOS,,ORL,,G. Harris,ORL,MISS Harris 68' 3PT Jump Shot,Missed Shot,Jump Shot,58,676,68,1,3.0,0.0,v
+S2324-G0344,4,06:24,BOS,,ORL,,G. Harris,ORL,SUB: Houstan FOR Harris,Substitution,,0,0,0,0,,,v
+S2324-G1191,1,06:34,ORL,,MIL,,G. Harris,ORL,Harris Out of Bounds Lost Ball Turnover (P1.T2),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2324-G1191,1,05:55,ORL,,MIL,,G. Harris,ORL,MISS Harris 24' 3PT Jump Shot,Missed Shot,Jump Shot,-233,66,24,1,3.0,0.0,h
+S2324-G1191,1,05:32,ORL,,MIL,,G. Harris,ORL,Harris STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1191,1,02:16,ORL,,MIL,,G. Harris,ORL,SUB: Fultz FOR Harris,Substitution,,0,0,0,0,,,h
+S2324-G1191,2,00:02.500000,ORL,,MIL,,G. Harris,ORL,MISS Harris 3PT Jump Shot,Missed Shot,Jump Shot,225,9,0,1,3.0,0.0,h
+S2324-G1191,3,11:19,ORL,,MIL,,G. Harris,ORL,Harris S.FOUL (P1.T1) (R.Acosta),Foul,Shooting,0,0,0,0,,,h
+S2324-G1191,3,09:53,ORL,52.0,MIL,46.0,G. Harris,ORL,Harris 24' 3PT Jump Shot (3 PTS) (Suggs 3 AST),Made Shot,Jump Shot,-232,64,24,1,3.0,3.0,h
+S2324-G1191,3,05:41,ORL,,MIL,,G. Harris,ORL,MISS Harris 3PT Jump Shot,Missed Shot,Jump Shot,-230,46,0,1,3.0,0.0,h
+S2324-G1191,3,04:25,ORL,,MIL,,G. Harris,ORL,Harris P.FOUL (P2.T2) (J.Williams),Foul,Personal,0,0,0,0,,,h
+S2324-G1191,3,04:20,ORL,,MIL,,G. Harris,ORL,Harris S.FOUL (P3.T3) (J.Williams),Foul,Shooting,0,0,0,0,,,h
+S2324-G1191,3,01:12,ORL,,MIL,,G. Harris,ORL,SUB: Anthony FOR Harris,Substitution,,0,0,0,0,,,h
+S2324-G0850,1,11:43,ORL,3.0,UTA,0.0,G. Harris,ORL,Harris 27' 3PT Jump Shot (3 PTS) (Banchero 1 AST),Made Shot,Jump Shot,162,214,27,1,3.0,3.0,h
+S2324-G0850,1,10:32,ORL,6.0,UTA,0.0,G. Harris,ORL,Harris 26' 3PT Jump Shot (6 PTS) (F. Wagner 1 AST),Made Shot,Jump Shot,140,214,26,1,3.0,3.0,h
+S2324-G0850,1,08:20,ORL,,UTA,,G. Harris,ORL,Harris STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0850,1,08:19,ORL,10.0,UTA,8.0,G. Harris,ORL,Harris 3' Layup (8 PTS),Made Shot,Layup Shot,20,21,3,1,2.0,2.0,h
+S2324-G0850,1,08:03,ORL,,UTA,,G. Harris,ORL,Harris REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0850,1,07:44,ORL,,UTA,,G. Harris,ORL,Harris BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0850,1,05:44,ORL,,UTA,,G. Harris,ORL,Harris REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0850,1,03:51,ORL,,UTA,,G. Harris,ORL,MISS Harris 26' 3PT Jump Shot,Missed Shot,Jump Shot,109,235,26,1,3.0,0.0,h
+S2324-G0850,1,03:02,ORL,,UTA,,G. Harris,ORL,SUB: Fultz FOR Harris,Substitution,,0,0,0,0,,,h
+S2324-G0850,2,01:56,ORL,,UTA,,G. Harris,ORL,MISS Harris 24' 3PT Jump Shot,Missed Shot,Jump Shot,241,8,24,1,3.0,0.0,h
+S2324-G0850,2,01:30,ORL,,UTA,,G. Harris,ORL,MISS Harris 24' 3PT Jump Shot,Missed Shot,Jump Shot,232,38,24,1,3.0,0.0,h
+S2324-G0850,3,11:15,ORL,57.0,UTA,51.0,G. Harris,ORL,Harris 6' Driving Floating Jump Shot (10 PTS) (F. Wagner 5 AST),Made Shot,Driving Floating Jump Shot,61,22,6,1,2.0,2.0,h
+S2324-G0850,3,08:30,ORL,,UTA,,G. Harris,ORL,Harris REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0850,3,04:38,ORL,72.0,UTA,71.0,G. Harris,ORL,Harris 26' 3PT Jump Shot (13 PTS) (Houstan 1 AST),Made Shot,Jump Shot,-221,129,26,1,3.0,3.0,h
+S2324-G0850,3,02:28,ORL,,UTA,,G. Harris,ORL,SUB: Ingles FOR Harris,Substitution,,0,0,0,0,,,h
+S2324-G0850,4,01:27,ORL,,UTA,,G. Harris,ORL,Harris REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0391,1,10:04,IND,,ORL,,G. Harris,ORL,Harris S.FOUL (P1.T1) (S.Corbin),Foul,Shooting,0,0,0,0,,,v
+S2324-G0391,1,09:22,IND,6.0,ORL,6.0,G. Harris,ORL,Harris 5' Driving Finger Roll Layup (2 PTS) (Carter Jr. 2 AST),Made Shot,Driving Finger Roll Layup Shot,36,31,5,1,2.0,2.0,v
+S2324-G0391,1,08:01,IND,,ORL,,G. Harris,ORL,MISS Harris 3PT Jump Shot,Missed Shot,Jump Shot,229,43,0,1,3.0,0.0,v
+S2324-G0391,1,07:36,IND,,ORL,,G. Harris,ORL,MISS Harris 24' 3PT Jump Shot,Missed Shot,Jump Shot,235,25,24,1,3.0,0.0,v
+S2324-G0391,1,07:10,IND,12.0,ORL,13.0,G. Harris,ORL,Harris 25' 3PT Jump Shot (5 PTS) (Carter Jr. 3 AST),Made Shot,Jump Shot,-225,115,25,1,3.0,3.0,v
+S2324-G0391,1,05:26,IND,,ORL,,G. Harris,ORL,Harris REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0391,1,03:16,IND,20.0,ORL,24.0,G. Harris,ORL,Harris 2' Cutting Layup Shot (7 PTS) (Anthony 1 AST),Made Shot,Cutting Layup Shot,-15,10,2,1,2.0,2.0,v
+S2324-G0391,1,03:09,IND,,ORL,,G. Harris,ORL,SUB: F. Wagner FOR Harris,Substitution,,0,0,0,0,,,v
+S2324-G0391,2,06:10,IND,42.0,ORL,53.0,G. Harris,ORL,Harris 9' Turnaround Jump Shot (9 PTS) (Banchero 2 AST),Made Shot,Turnaround Jump Shot,31,85,9,1,2.0,2.0,v
+S2324-G0391,2,04:44,IND,48.0,ORL,57.0,G. Harris,ORL,Harris Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0391,2,04:44,IND,48.0,ORL,58.0,G. Harris,ORL,Harris Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0391,2,02:44,IND,53.0,ORL,62.0,G. Harris,ORL,Harris Free Throw Technical (12 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,v
+S2324-G0391,3,11:20,IND,,ORL,,G. Harris,ORL,MISS Harris 6' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-37,43,6,1,2.0,0.0,v
+S2324-G0391,3,09:58,IND,,ORL,,G. Harris,ORL,MISS Harris 17' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,163,29,17,1,2.0,0.0,v
+S2324-G0391,3,07:48,IND,,ORL,,G. Harris,ORL,Harris STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0391,3,07:45,IND,,ORL,,G. Harris,ORL,Harris Offensive Charge Foul (P2) (S.Corbin),Foul,Offensive Charge,0,0,0,0,,,v
+S2324-G0391,3,07:45,IND,,ORL,,G. Harris,ORL,Harris Offensive Foul Turnover (P1.T8),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0391,3,04:34,IND,,ORL,,G. Harris,ORL,Harris Out of Bounds - Bad Pass Turnover Turnover (P2.T10),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0391,3,02:36,IND,86.0,ORL,89.0,G. Harris,ORL,Harris 29' 3PT Jump Shot (15 PTS) (Banchero 4 AST),Made Shot,Jump Shot,96,272,29,1,3.0,3.0,v
+S2324-G0391,3,01:58,IND,,ORL,,G. Harris,ORL,SUB: F. Wagner FOR Harris,Substitution,,0,0,0,0,,,v
+S2324-G0391,4,05:28,IND,,ORL,,G. Harris,ORL,Harris Bad Pass Turnover (P3.T13),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0391,4,05:22,IND,,ORL,,G. Harris,ORL,Harris STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0407,1,00:29.200000,WAS,31.0,ORL,31.0,G. Harris,ORL,Harris 24' 3PT Jump Shot (3 PTS) (F. Wagner 5 AST),Made Shot,Jump Shot,-238,-17,24,1,3.0,3.0,v
+S2324-G0407,2,10:56,WAS,,ORL,,G. Harris,ORL,Harris S.FOUL (P1.T1) (P.O'Connell),Foul,Shooting,0,0,0,0,,,v
+S2324-G0407,2,09:06,WAS,,ORL,,G. Harris,ORL,Harris Out of Bounds - Bad Pass Turnover Turnover (P1.T7),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0407,2,08:58,WAS,,ORL,,G. Harris,ORL,Harris STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0407,2,07:44,WAS,,ORL,,G. Harris,ORL,Harris P.FOUL (P2.T2) (T.Ford),Foul,Personal,0,0,0,0,,,v
+S2324-G0407,2,07:02,WAS,,ORL,,G. Harris,ORL,SUB: Suggs FOR Harris,Substitution,,0,0,0,0,,,v
+S2324-G0407,3,05:25,WAS,,ORL,,G. Harris,ORL,MISS Harris 12' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-105,64,12,1,2.0,0.0,v
+S2324-G0407,3,02:26,WAS,,ORL,,G. Harris,ORL,Harris P.FOUL (P3.PN) (R.Acosta),Foul,Personal,0,0,0,0,,,v
+S2324-G0407,4,09:03,WAS,,ORL,,G. Harris,ORL,SUB: Black FOR Harris,Substitution,,0,0,0,0,,,v
+S2324-G0329,1,00:41.200000,BOS,,ORL,,G. Harris,ORL,MISS Harris 3PT Jump Shot,Missed Shot,Jump Shot,224,43,0,1,3.0,0.0,v
+S2324-G0329,2,10:33,BOS,35.0,ORL,28.0,G. Harris,ORL,Harris 14' Pullup Jump Shot (2 PTS) (Anthony 1 AST),Made Shot,Pullup Jump shot,71,126,14,1,2.0,2.0,v
+S2324-G0329,2,07:23,BOS,,ORL,,G. Harris,ORL,Harris P.FOUL (P1.T3) (M.Smith),Foul,Personal,0,0,0,0,,,v
+S2324-G0329,2,07:18,BOS,,ORL,,G. Harris,ORL,SUB: Suggs FOR Harris,Substitution,,0,0,0,0,,,v
+S2324-G0329,3,09:38,BOS,,ORL,,G. Harris,ORL,Harris P.FOUL (P2.T4) (M.Smith),Foul,Personal,0,0,0,0,,,v
+S2324-G0329,3,08:21,BOS,,ORL,,G. Harris,ORL,MISS Harris 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,229,100,25,1,3.0,0.0,v
+S2324-G0329,3,05:54,BOS,,ORL,,G. Harris,ORL,Harris L.B.FOUL (P3.PN) (M.Smith),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0329,3,05:30,BOS,,ORL,,G. Harris,ORL,Harris STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0329,3,04:55,BOS,,ORL,,G. Harris,ORL,SUB: Anthony FOR Harris,Substitution,,0,0,0,0,,,v
+S2324-G0450,1,04:25,PHX,23.0,ORL,17.0,G. Harris,ORL,Harris 7' Driving Finger Roll Layup (2 PTS) (Suggs 2 AST),Made Shot,Driving Finger Roll Layup Shot,50,45,7,1,2.0,2.0,v
+S2324-G0450,1,03:05,PHX,,ORL,,G. Harris,ORL,MISS Harris 3PT Jump Shot,Missed Shot,Jump Shot,228,56,0,1,3.0,0.0,v
+S2324-G0450,2,09:51,PHX,,ORL,,G. Harris,ORL,MISS Harris 3PT Jump Shot,Missed Shot,Jump Shot,-234,-18,0,1,3.0,0.0,v
+S2324-G0450,2,09:43,PHX,,ORL,,G. Harris,ORL,MISS Harris 3PT Jump Shot,Missed Shot,Jump Shot,225,11,0,1,3.0,0.0,v
+S2324-G0450,2,05:54,PHX,,ORL,,G. Harris,ORL,SUB: F. Wagner FOR Harris,Substitution,,0,0,0,0,,,v
+S2324-G0450,3,02:26,PHX,,ORL,,G. Harris,ORL,Harris REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0450,3,01:28,PHX,,ORL,,G. Harris,ORL,MISS Harris 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,190,162,25,1,3.0,0.0,v
+S2324-G0450,3,01:12,PHX,,ORL,,G. Harris,ORL,Harris REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0450,3,00:08.300000,PHX,,ORL,,G. Harris,ORL,Harris P.FOUL (P1.T4) (J.Sterling),Foul,Personal,0,0,0,0,,,v
+S2324-G0450,4,09:26,PHX,95.0,ORL,96.0,G. Harris,ORL,Harris 26' 3PT Jump Shot (5 PTS) (Carter Jr. 2 AST),Made Shot,Jump Shot,-197,165,26,1,3.0,3.0,v
+S2324-G0450,4,03:11,PHX,,ORL,,G. Harris,ORL,MISS Harris 28' 3PT Jump Shot,Missed Shot,Jump Shot,126,253,28,1,3.0,0.0,v
+S2324-G1109,1,04:54,NOP,,ORL,,G. Harris,ORL,MISS Harris 24' 3PT Jump Shot,Missed Shot,Jump Shot,-222,90,24,1,3.0,0.0,v
+S2324-G1109,1,03:24,NOP,,ORL,,G. Harris,ORL,Harris REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1109,1,03:22,NOP,,ORL,,G. Harris,ORL,Harris Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G1109,1,02:53,NOP,,ORL,,G. Harris,ORL,SUB: Anthony FOR Harris,Substitution,,0,0,0,0,,,v
+S2324-G1109,2,00:39.500000,NOP,,ORL,,G. Harris,ORL,Harris P.FOUL (P1.PN) (J.Conley),Foul,Personal,0,0,0,0,,,v
+S2324-G1109,2,00:00.400000,NOP,,ORL,,G. Harris,ORL,MISS Harris 25' 3PT Jump Shot,Missed Shot,Jump Shot,-223,121,25,1,3.0,0.0,v
+S2324-G1109,3,08:06,NOP,,ORL,,G. Harris,ORL,Harris P.FOUL (P2.T1) (S.Corbin),Foul,Personal,0,0,0,0,,,v
+S2324-G1109,3,07:52,NOP,,ORL,,G. Harris,ORL,Harris S.FOUL (P3.T2) (J.Capers),Foul,Shooting,0,0,0,0,,,v
+S2324-G1109,3,03:45,NOP,,ORL,,G. Harris,ORL,Harris REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1109,3,02:43,NOP,,ORL,,G. Harris,ORL,Harris P.FOUL (P4.T4) (J.Capers),Foul,Personal,0,0,0,0,,,v
+S2324-G1109,3,02:43,NOP,,ORL,,G. Harris,ORL,SUB: M. Wagner FOR Harris,Substitution,,0,0,0,0,,,v
+S2324-G1109,4,05:29,NOP,,ORL,,G. Harris,ORL,MISS Harris 3PT Jump Shot,Missed Shot,Jump Shot,225,28,0,1,3.0,0.0,v
+S2324-G0734,1,04:11,ORL,,SAS,,G. Harris,ORL,Harris BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0734,1,02:43,ORL,,SAS,,G. Harris,ORL,MISS Harris 1' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,-5,8,1,1,2.0,0.0,h
+S2324-G0734,1,02:35,ORL,,SAS,,G. Harris,ORL,Harris P.FOUL (P1.T1) (I.Hwang),Foul,Personal,0,0,0,0,,,h
+S2324-G0734,2,09:53,ORL,27.0,SAS,25.0,G. Harris,ORL,Harris 10' Driving Floating Bank Jump Shot (2 PTS) (Anthony 1 AST),Made Shot,Driving Floating Bank Jump Shot,48,86,10,1,2.0,2.0,h
+S2324-G0734,2,09:26,ORL,,SAS,,G. Harris,ORL,MISS Harris 27' 3PT Jump Shot,Missed Shot,Jump Shot,-158,223,27,1,3.0,0.0,h
+S2324-G0734,2,07:43,ORL,,SAS,,G. Harris,ORL,SUB: Banchero FOR Harris,Substitution,,0,0,0,0,,,h
+S2324-G0734,3,03:11,ORL,,SAS,,G. Harris,ORL,Harris S.FOUL (P2.PN) (S.Foster),Foul,Shooting,0,0,0,0,,,h
+S2324-G0734,3,03:04,ORL,93.0,SAS,74.0,G. Harris,ORL,Harris 27' 3PT Jump Shot (5 PTS) (Ingles 3 AST),Made Shot,Jump Shot,224,151,27,1,3.0,3.0,h
+S2324-G0734,4,11:41,ORL,,SAS,,G. Harris,ORL,Harris STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0734,4,09:57,ORL,,SAS,,G. Harris,ORL,Harris STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0734,4,08:11,ORL,,SAS,,G. Harris,ORL,MISS Harris 3PT Jump Shot,Missed Shot,Jump Shot,-230,0,0,1,3.0,0.0,h
+S2324-G0734,4,06:42,ORL,,SAS,,G. Harris,ORL,Harris BLOCK (2 BLK),,,0,0,0,0,,,h
+S2324-G0734,4,06:28,ORL,,SAS,,G. Harris,ORL,SUB: Fultz FOR Harris,Substitution,,0,0,0,0,,,h
+S2324-G0963,1,10:29,TOR,3.0,ORL,8.0,G. Harris,ORL,Harris 25' 3PT Running Jump Shot (3 PTS) (Suggs 1 AST),Made Shot,Running Jump Shot,-219,113,25,1,3.0,3.0,v
+S2324-G0963,1,07:21,TOR,,ORL,,G. Harris,ORL,MISS Harris 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,44,71,8,1,2.0,0.0,v
+S2324-G0963,1,05:15,TOR,,ORL,,G. Harris,ORL,MISS Harris 25' 3PT Jump Shot,Missed Shot,Jump Shot,-202,152,25,1,3.0,0.0,v
+S2324-G0963,1,03:09,TOR,,ORL,,G. Harris,ORL,Harris S.FOUL (P1.PN) (C.Kirkland),Foul,Shooting,0,0,0,0,,,v
+S2324-G0963,1,01:04,TOR,,ORL,,G. Harris,ORL,MISS Harris 28' 3PT Jump Shot,Missed Shot,Jump Shot,-129,250,28,1,3.0,0.0,v
+S2324-G0963,2,01:23,TOR,,ORL,,G. Harris,ORL,MISS Harris 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,9,250,25,1,3.0,0.0,v
+S2324-G0963,3,11:48,TOR,,ORL,,G. Harris,ORL,Harris S.FOUL (P2.T1) (C.Kirkland),Foul,Shooting,0,0,0,0,,,v
+S2324-G0963,3,11:15,TOR,,ORL,,G. Harris,ORL,Harris REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0963,3,10:30,TOR,51.0,ORL,55.0,G. Harris,ORL,Harris 3PT Step Back Jump Shot (6 PTS) (Banchero 4 AST),Made Shot,Step Back Jump shot,233,7,0,1,3.0,3.0,v
+S2324-G0963,3,08:52,TOR,,ORL,,G. Harris,ORL,Harris BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0963,3,06:41,TOR,,ORL,,G. Harris,ORL,MISS Harris 2' Reverse Layup,Missed Shot,Reverse Layup Shot,18,13,2,1,2.0,0.0,v
+S2324-G0963,3,05:24,TOR,,ORL,,G. Harris,ORL,Harris P.FOUL (P3.T2) (S.Mitchell),Foul,Personal,0,0,0,0,,,v
+S2324-G0963,3,03:00,TOR,,ORL,,G. Harris,ORL,SUB: Ingles FOR Harris,Substitution,,0,0,0,0,,,v
+S2324-G0282,1,05:01,BKN,,ORL,,G. Harris,ORL,MISS Harris 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,76,272,28,1,3.0,0.0,v
+S2324-G0282,1,04:20,BKN,,ORL,,G. Harris,ORL,MISS Harris 4' Driving Layup,Missed Shot,Driving Layup Shot,-39,-6,4,1,2.0,0.0,v
+S2324-G0282,1,03:47,BKN,,ORL,,G. Harris,ORL,Harris S.FOUL (P1.T2) (T.Mirkovich),Foul,Shooting,0,0,0,0,,,v
+S2324-G0282,1,02:50,BKN,,ORL,,G. Harris,ORL,MISS Harris 26' 3PT Jump Shot,Missed Shot,Jump Shot,-197,173,26,1,3.0,0.0,v
+S2324-G0282,1,02:02,BKN,33.0,ORL,18.0,G. Harris,ORL,Harris 1' Cutting Dunk Shot (2 PTS) (Ingles 1 AST),Made Shot,Cutting Dunk Shot,-1,14,1,1,2.0,2.0,v
+S2324-G0282,2,06:18,BKN,,ORL,,G. Harris,ORL,SUB: Suggs FOR Harris,Substitution,,0,0,0,0,,,v
+S2324-G0282,3,04:29,BKN,,ORL,,G. Harris,ORL,Harris REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0282,3,03:36,BKN,,ORL,,G. Harris,ORL,MISS Harris 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,170,214,27,1,3.0,0.0,v
+S2324-G0282,3,02:04,BKN,,ORL,,G. Harris,ORL,MISS Harris 27' 3PT Jump Shot,Missed Shot,Jump Shot,-217,159,27,1,3.0,0.0,v
+S2324-G0282,4,10:02,BKN,,ORL,,G. Harris,ORL,MISS Harris 30' 3PT Jump Shot,Missed Shot,Jump Shot,-188,238,30,1,3.0,0.0,v
+S2324-G0282,4,09:25,BKN,105.0,ORL,90.0,G. Harris,ORL,Harris 2' Cutting Dunk Shot (4 PTS) (Banchero 6 AST),Made Shot,Cutting Dunk Shot,-1,15,2,1,2.0,2.0,v
+S2324-G0282,4,09:12,BKN,,ORL,,G. Harris,ORL,SUB: F. Wagner FOR Harris,Substitution,,0,0,0,0,,,v
+S2324-G1217,1,08:59,ORL,,DET,,G. Harris,ORL,Harris P.FOUL (P1.T1) (E.Malloy),Foul,Personal,0,0,0,0,,,h
+S2324-G1217,1,05:46,ORL,,DET,,G. Harris,ORL,Harris Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G1217,1,04:31,ORL,,DET,,G. Harris,ORL,Harris STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1217,1,04:27,ORL,14.0,DET,18.0,G. Harris,ORL,Harris 1' Running Layup (2 PTS),Made Shot,Running Layup Shot,7,13,1,1,2.0,2.0,h
+S2324-G1217,1,04:02,ORL,,DET,,G. Harris,ORL,Harris REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1217,1,03:34,ORL,,DET,,G. Harris,ORL,MISS Harris 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,234,42,24,1,3.0,0.0,h
+S2324-G1217,1,02:50,ORL,20.0,DET,18.0,G. Harris,ORL,Harris 3' Driving Layup (4 PTS) (Anthony 1 AST),Made Shot,Driving Layup Shot,22,21,3,1,2.0,2.0,h
+S2324-G1217,1,02:20,ORL,,DET,,G. Harris,ORL,SUB: Houstan FOR Harris,Substitution,,0,0,0,0,,,h
+S2324-G1217,2,03:56,ORL,49.0,DET,35.0,G. Harris,ORL,Harris 24' 3PT Jump Shot (7 PTS) (Anthony 3 AST),Made Shot,Jump Shot,-238,55,24,1,3.0,3.0,h
+S2324-G1217,2,03:24,ORL,,DET,,G. Harris,ORL,MISS Harris 3PT Jump Shot,Missed Shot,Jump Shot,-232,36,0,1,3.0,0.0,h
+S2324-G1217,2,02:43,ORL,,DET,,G. Harris,ORL,Harris REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1217,2,01:28,ORL,,DET,,G. Harris,ORL,MISS Harris 25' 3PT Jump Shot,Missed Shot,Jump Shot,105,232,25,1,3.0,0.0,h
+S2324-G1217,2,00:50.900000,ORL,,DET,,G. Harris,ORL,Harris S.FOUL (P2.PN) (D.Mosher),Foul,Shooting,0,0,0,0,,,h
+S2324-G1217,3,11:14,ORL,,DET,,G. Harris,ORL,Harris STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G1217,3,09:59,ORL,61.0,DET,46.0,G. Harris,ORL,Harris Free Throw Technical (8 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,h
+S2324-G1217,3,09:32,ORL,,DET,,G. Harris,ORL,MISS Harris 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-61,143,16,1,2.0,0.0,h
+S2324-G1217,3,06:54,ORL,73.0,DET,49.0,G. Harris,ORL,Harris 3PT Jump Shot (11 PTS) (F. Wagner 3 AST),Made Shot,Jump Shot,-232,19,0,1,3.0,3.0,h
+S2324-G1217,3,06:10,ORL,,DET,,G. Harris,ORL,Harris P.FOUL (P3.T2) (E.Malloy),Foul,Personal,0,0,0,0,,,h
+S2324-G1217,3,04:31,ORL,,DET,,G. Harris,ORL,Harris REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1217,3,04:22,ORL,,DET,,G. Harris,ORL,SUB: Houstan FOR Harris,Substitution,,0,0,0,0,,,h
+S2324-G0294,2,09:29,ORL,,CLE,,G. Harris,ORL,Harris S.FOUL (P1.T3) (J.Tiven),Foul,Shooting,0,0,0,0,,,h
+S2324-G0294,2,06:46,ORL,,CLE,,G. Harris,ORL,MISS Harris 24' 3PT Jump Shot,Missed Shot,Jump Shot,234,51,24,1,3.0,0.0,h
+S2324-G0294,2,05:42,ORL,,CLE,,G. Harris,ORL,MISS Harris 26' 3PT Jump Shot,Missed Shot,Jump Shot,-205,161,26,1,3.0,0.0,h
+S2324-G0294,2,04:58,ORL,,CLE,,G. Harris,ORL,SUB: Suggs FOR Harris,Substitution,,0,0,0,0,,,h
+S2324-G0294,4,11:45,ORL,,CLE,,G. Harris,ORL,Harris REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0294,4,10:07,ORL,87.0,CLE,71.0,G. Harris,ORL,Harris 30' 3PT Jump Shot (3 PTS) (Anthony 4 AST),Made Shot,Jump Shot,-108,279,30,1,3.0,3.0,h
+S2324-G0294,4,08:13,ORL,,CLE,,G. Harris,ORL,Harris S.FOUL (P2.T1) (G.Petraitis),Foul,Shooting,0,0,0,0,,,h
+S2324-G0294,4,00:42.100000,ORL,,CLE,,G. Harris,ORL,Harris BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0979,1,11:11,ORL,,TOR,,G. Harris,ORL,MISS Harris 3PT Jump Shot,Missed Shot,Jump Shot,-234,13,0,1,3.0,0.0,h
+S2324-G0979,1,08:33,ORL,,TOR,,G. Harris,ORL,MISS Harris 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-238,16,24,1,3.0,0.0,h
+S2324-G0979,1,04:15,ORL,21.0,TOR,15.0,G. Harris,ORL,Harris 3PT Jump Shot (3 PTS) (Banchero 2 AST),Made Shot,Jump Shot,230,11,0,1,3.0,3.0,h
+S2324-G0979,1,02:49,ORL,,TOR,,G. Harris,ORL,SUB: Anthony FOR Harris,Substitution,,0,0,0,0,,,h
+S2324-G0979,2,04:46,ORL,43.0,TOR,42.0,G. Harris,ORL,Harris 2' Driving Finger Roll Layup (5 PTS),Made Shot,Driving Finger Roll Layup Shot,-2,23,2,1,2.0,2.0,h
+S2324-G0979,2,02:32,ORL,,TOR,,G. Harris,ORL,Harris REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0979,2,01:51,ORL,,TOR,,G. Harris,ORL,MISS Harris 26' 3PT Jump Shot,Missed Shot,Jump Shot,-197,163,26,1,3.0,0.0,h
+S2324-G0979,2,00:52.800000,ORL,,TOR,,G. Harris,ORL,MISS Harris Free Throw Technical,Free Throw,Free Throw Technical,0,0,0,0,1.0,0.0,h
+S2324-G0979,3,10:33,ORL,,TOR,,G. Harris,ORL,Harris S.FOUL (P1.T1) (S.Foster),Foul,Shooting,0,0,0,0,,,h
+S2324-G0979,3,08:37,ORL,,TOR,,G. Harris,ORL,MISS Harris 24' 3PT Jump Shot,Missed Shot,Jump Shot,-238,16,24,1,3.0,0.0,h
+S2324-G0979,3,07:03,ORL,,TOR,,G. Harris,ORL,MISS Harris 24' 3PT Jump Shot,Missed Shot,Jump Shot,-229,53,24,1,3.0,0.0,h
+S2324-G0979,3,05:11,ORL,,TOR,,G. Harris,ORL,MISS Harris 24' 3PT Jump Shot,Missed Shot,Jump Shot,-237,14,24,1,3.0,0.0,h
+S2324-G0979,3,04:35,ORL,69.0,TOR,58.0,G. Harris,ORL,Harris 4' Driving Layup (7 PTS) (Banchero 4 AST),Made Shot,Driving Layup Shot,-34,26,4,1,2.0,2.0,h
+S2324-G0979,3,03:32,ORL,,TOR,,G. Harris,ORL,SUB: M. Wagner FOR Harris,Substitution,,0,0,0,0,,,h
+S2324-G0979,4,03:57,ORL,,TOR,,G. Harris,ORL,Harris STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0979,4,03:30,ORL,,TOR,,G. Harris,ORL,Harris REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0979,4,02:44,ORL,,TOR,,G. Harris,ORL,SUB: Okeke FOR Harris,Substitution,,0,0,0,0,,,h
+S2324-G0043,1,03:20,ORL,,BOS,,G. Harris,ORL,Harris S.FOUL (P1.PN) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,h
+S2324-G0043,1,03:18,ORL,,BOS,,G. Harris,ORL,Harris REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0043,1,02:33,ORL,,BOS,,G. Harris,ORL,Harris REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0043,1,02:31,ORL,,BOS,,G. Harris,ORL,MISS Harris 26' 3PT Jump Shot,Missed Shot,Jump Shot,125,225,26,1,3.0,0.0,h
+S2324-G0043,1,00:48.100000,ORL,19.0,BOS,26.0,G. Harris,ORL,Harris 26' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,-98,242,26,1,3.0,3.0,h
+S2324-G0043,1,00:13.200000,ORL,,BOS,,G. Harris,ORL,Harris REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0043,1,00:13.200000,ORL,,BOS,,G. Harris,ORL,Harris Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0043,2,08:59,ORL,,BOS,,G. Harris,ORL,MISS Harris 27' 3PT Jump Shot,Missed Shot,Jump Shot,46,268,27,1,3.0,0.0,h
+S2324-G0043,2,05:37,ORL,,BOS,,G. Harris,ORL,SUB: Suggs FOR Harris,Substitution,,0,0,0,0,,,h
+S2324-G0043,3,11:29,ORL,,BOS,,G. Harris,ORL,Harris Out of Bounds Lost Ball Turnover (P2.T11),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2324-G0043,3,07:36,ORL,62.0,BOS,62.0,G. Harris,ORL,Harris Free Throw 1 of 1 (4 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G0043,3,03:36,ORL,,BOS,,G. Harris,ORL,SUB: Ingles FOR Harris,Substitution,,0,0,0,0,,,h
+S2324-G0038,1,06:08,ORL,17.0,TOR,12.0,G. Harris,ORL,Harris 3' Cutting Dunk Shot (2 PTS) (Bitadze 3 AST),Made Shot,Cutting Dunk Shot,2,28,3,1,2.0,2.0,h
+S2324-G0038,2,09:41,ORL,36.0,TOR,26.0,G. Harris,ORL,Harris 2' Layup (4 PTS) (Anthony 3 AST),Made Shot,Layup Shot,-5,16,2,1,2.0,2.0,h
+S2324-G0038,2,09:17,ORL,,TOR,,G. Harris,ORL,Harris L.B.FOUL (P1.T1) (J.Williams),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0038,2,07:39,ORL,45.0,TOR,26.0,G. Harris,ORL,Harris 3PT Jump Shot (7 PTS) (Anthony 6 AST),Made Shot,Jump Shot,-234,12,0,1,3.0,3.0,h
+S2324-G0038,2,06:53,ORL,,TOR,,G. Harris,ORL,Harris S.FOUL (P2.T2) (M.Dagher),Foul,Shooting,0,0,0,0,,,h
+S2324-G0038,2,06:53,ORL,,TOR,,G. Harris,ORL,SUB: Banchero FOR Harris,Substitution,,0,0,0,0,,,h
+S2324-G0038,3,02:09,ORL,,TOR,,G. Harris,ORL,Harris S.FOUL (P3.PN) (J.Orr),Foul,Shooting,0,0,0,0,,,h
+S2324-G0038,4,11:22,ORL,,TOR,,G. Harris,ORL,Harris STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0038,4,11:14,ORL,,TOR,,G. Harris,ORL,MISS Harris 27' 3PT Jump Shot,Missed Shot,Jump Shot,-37,266,27,1,3.0,0.0,h
+S2324-G0038,4,10:09,ORL,,TOR,,G. Harris,ORL,Harris REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0038,4,09:04,ORL,,TOR,,G. Harris,ORL,MISS Harris 3PT Jump Shot,Missed Shot,Jump Shot,-228,3,0,1,3.0,0.0,h
+S2324-G0038,4,05:59,ORL,,TOR,,G. Harris,ORL,MISS Harris 26' 3PT Jump Shot,Missed Shot,Jump Shot,216,143,26,1,3.0,0.0,h
+S2324-G0038,4,05:21,ORL,115.0,TOR,88.0,G. Harris,ORL,Harris 24' 3PT Jump Shot (10 PTS) (Banchero 3 AST),Made Shot,Jump Shot,-228,59,24,1,3.0,3.0,h
+S2324-G0038,4,04:31,ORL,,TOR,,G. Harris,ORL,SUB: Black FOR Harris,Substitution,,0,0,0,0,,,h
+S2324-G1150,1,11:25,HOU,,ORL,,G. Harris,ORL,Harris STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G1150,1,10:45,HOU,3.0,ORL,5.0,G. Harris,ORL,Harris 26' 3PT Step Back Jump Shot (3 PTS),Made Shot,Step Back Jump shot,-168,203,26,1,3.0,3.0,v
+S2324-G1150,1,05:48,HOU,,ORL,,G. Harris,ORL,Harris REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1150,1,03:41,HOU,,ORL,,G. Harris,ORL,SUB: Anthony FOR Harris,Substitution,,0,0,0,0,,,v
+S2324-G1150,2,06:20,HOU,,ORL,,G. Harris,ORL,Harris REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1150,2,06:07,HOU,46.0,ORL,39.0,G. Harris,ORL,Harris 25' 3PT Jump Shot (6 PTS) (Suggs 2 AST),Made Shot,Jump Shot,-205,142,25,1,3.0,3.0,v
+S2324-G1150,2,03:43,HOU,,ORL,,G. Harris,ORL,Harris REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1150,2,02:21,HOU,,ORL,,G. Harris,ORL,Harris S.FOUL (P1.T3) (M.Kogut),Foul,Shooting,0,0,0,0,,,v
+S2324-G1150,3,09:01,HOU,,ORL,,G. Harris,ORL,Harris S.FOUL (P2.T2) (M.Kogut),Foul,Shooting,0,0,0,0,,,v
+S2324-G1150,3,04:43,HOU,,ORL,,G. Harris,ORL,SUB: Anthony FOR Harris,Substitution,,0,0,0,0,,,v
+S2324-G1150,4,11:31,HOU,,ORL,,G. Harris,ORL,Harris REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1150,4,11:23,HOU,,ORL,,G. Harris,ORL,MISS Harris 3' Running Reverse Layup,Missed Shot,Running Reverse Layup Shot,28,18,3,1,2.0,0.0,v
+S2324-G1150,4,09:16,HOU,,ORL,,G. Harris,ORL,Harris REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1150,4,03:31,HOU,,ORL,,G. Harris,ORL,SUB: Suggs FOR Harris,Substitution,,0,0,0,0,,,v
+S2324-G0366,1,04:12,ORL,,MIA,,G. Harris,ORL,Harris P.FOUL (P1.T3) (D.Scott),Foul,Personal,0,0,0,0,,,h
+S2324-G0366,2,11:33,ORL,,MIA,,G. Harris,ORL,Harris REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0366,2,10:37,ORL,,MIA,,G. Harris,ORL,Harris P.FOUL (P2.T1) (C.Kirkland),Foul,Personal,0,0,0,0,,,h
+S2324-G0366,2,09:14,ORL,,MIA,,G. Harris,ORL,MISS Harris 3PT Jump Shot,Missed Shot,Jump Shot,-230,22,0,1,3.0,0.0,h
+S2324-G0366,2,08:39,ORL,,MIA,,G. Harris,ORL,SUB: Black FOR Harris,Substitution,,0,0,0,0,,,h
+S2324-G0366,3,04:26,ORL,,MIA,,G. Harris,ORL,Harris REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0366,4,11:25,ORL,,MIA,,G. Harris,ORL,Harris REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0366,4,11:04,ORL,,MIA,,G. Harris,ORL,Harris P.FOUL (P3.T1) (B.Nansel),Foul,Personal,0,0,0,0,,,h
+S2324-G0366,4,09:04,ORL,,MIA,,G. Harris,ORL,Harris STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0366,4,09:00,ORL,,MIA,,G. Harris,ORL,MISS Harris 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-120,223,25,1,3.0,0.0,h
+S2324-G0366,4,07:32,ORL,,MIA,,G. Harris,ORL,Harris STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0366,4,07:24,ORL,,MIA,,G. Harris,ORL,SUB: Houstan FOR Harris,Substitution,,0,0,0,0,,,h
+S2324-G0274,1,02:47,ORL,,WAS,,G. Harris,ORL,MISS Harris 25' 3PT Jump Shot,Missed Shot,Jump Shot,-248,7,25,1,3.0,0.0,h
+S2324-G0274,1,01:53,ORL,27.0,WAS,30.0,G. Harris,ORL,Harris 4' Running Layup (2 PTS) (Ingles 1 AST),Made Shot,Running Layup Shot,-28,25,4,1,2.0,2.0,h
+S2324-G0274,1,00:02.100000,ORL,31.0,WAS,36.0,G. Harris,ORL,Harris 3' Driving Layup (4 PTS) (Ingles 2 AST),Made Shot,Driving Layup Shot,-13,29,3,1,2.0,2.0,h
+S2324-G0274,2,11:26,ORL,36.0,WAS,36.0,G. Harris,ORL,Harris 28' 3PT Running Jump Shot (7 PTS) (Ingles 4 AST),Made Shot,Running Jump Shot,-141,246,28,1,3.0,3.0,h
+S2324-G0274,2,06:18,ORL,,WAS,,G. Harris,ORL,MISS Harris 26' 3PT Jump Shot,Missed Shot,Jump Shot,175,189,26,1,3.0,0.0,h
+S2324-G0274,2,06:12,ORL,,WAS,,G. Harris,ORL,MISS Harris 3' Reverse Layup,Missed Shot,Reverse Layup Shot,-21,22,3,1,2.0,0.0,h
+S2324-G0274,2,05:50,ORL,,WAS,,G. Harris,ORL,SUB: Black FOR Harris,Substitution,,0,0,0,0,,,h
+S2324-G0274,2,00:51.900000,ORL,,WAS,,G. Harris,ORL,MISS Harris 28' 3PT Jump Shot,Missed Shot,Jump Shot,-170,218,28,1,3.0,0.0,h
+S2324-G0274,2,00:00.400000,ORL,,WAS,,G. Harris,ORL,MISS Harris 3PT Jump Shot,Missed Shot,Jump Shot,-233,22,0,1,3.0,0.0,h
+S2324-G0274,3,02:51,ORL,,WAS,,G. Harris,ORL,MISS Harris 26' 3PT Jump Shot,Missed Shot,Jump Shot,-169,199,26,1,3.0,0.0,h
+S2324-G0274,3,02:33,ORL,89.0,WAS,83.0,G. Harris,ORL,Harris Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0274,3,02:33,ORL,,WAS,,G. Harris,ORL,MISS Harris Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0274,4,08:58,ORL,,WAS,,G. Harris,ORL,Harris Lost Ball Turnover (P1.T14),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0274,4,08:51,ORL,,WAS,,G. Harris,ORL,SUB: Banchero FOR Harris,Substitution,,0,0,0,0,,,h
+S2324-G0274,4,00:40.600000,ORL,,WAS,,G. Harris,ORL,SUB: Ingles FOR Harris,Substitution,,0,0,0,0,,,h
+S2324-G0833,1,09:50,ORL,6.0,BKN,5.0,G. Harris,ORL,Harris 3PT Running Jump Shot (3 PTS) (Houstan 1 AST),Made Shot,Running Jump Shot,229,28,0,1,3.0,3.0,h
+S2324-G0833,1,06:08,ORL,,BKN,,G. Harris,ORL,Harris REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0833,1,05:09,ORL,,BKN,,G. Harris,ORL,MISS Harris 29' 3PT Jump Shot,Missed Shot,Jump Shot,-23,287,29,1,3.0,0.0,h
+S2324-G0833,1,04:24,ORL,19.0,BKN,15.0,G. Harris,ORL,Harris 14' Driving Floating Jump Shot (5 PTS) (Carter Jr. 2 AST),Made Shot,Driving Floating Jump Shot,4,137,14,1,2.0,2.0,h
+S2324-G0833,1,02:19,ORL,,BKN,,G. Harris,ORL,SUB: F. Wagner FOR Harris,Substitution,,0,0,0,0,,,h
+S2324-G0833,2,01:10,ORL,,BKN,,G. Harris,ORL,Harris REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0833,3,11:10,ORL,63.0,BKN,44.0,G. Harris,ORL,Harris 25' 3PT Running Jump Shot (8 PTS) (Suggs 2 AST),Made Shot,Running Jump Shot,-196,162,25,1,3.0,3.0,h
+S2324-G0833,3,09:35,ORL,,BKN,,G. Harris,ORL,Harris S.FOUL (P1.T2) (M.Ervin),Foul,Shooting,0,0,0,0,,,h
+S2324-G0833,3,06:35,ORL,,BKN,,G. Harris,ORL,MISS Harris 7' Driving Hook Shot,Missed Shot,Driving Hook Shot,26,64,7,1,2.0,0.0,h
+S2324-G0833,3,03:50,ORL,,BKN,,G. Harris,ORL,MISS Harris 3PT Jump Shot,Missed Shot,Jump Shot,-228,-13,0,1,3.0,0.0,h
+S2324-G0833,3,03:28,ORL,,BKN,,G. Harris,ORL,SUB: Anthony FOR Harris,Substitution,,0,0,0,0,,,h
+S2324-G0130,1,10:51,UTA,,ORL,,G. Harris,ORL,MISS Harris 27' 3PT Jump Shot,Missed Shot,Jump Shot,168,210,27,1,3.0,0.0,v
+S2324-G0130,1,10:18,UTA,,ORL,,G. Harris,ORL,MISS Harris 26' 3PT Jump Shot,Missed Shot,Jump Shot,-93,239,26,1,3.0,0.0,v
+S2324-G0130,1,08:41,UTA,,ORL,,G. Harris,ORL,Harris BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0130,1,02:43,UTA,,ORL,,G. Harris,ORL,SUB: F. Wagner FOR Harris,Substitution,,0,0,0,0,,,v
+S2324-G0130,2,04:28,UTA,,ORL,,G. Harris,ORL,Harris P.FOUL (P1.T2) (C.Blair),Foul,Personal,0,0,0,0,,,v
+S2324-G0130,2,02:33,UTA,,ORL,,G. Harris,ORL,SUB: Anthony FOR Harris,Substitution,,0,0,0,0,,,v
+S2324-G0259,1,03:14,ORL,22.0,WAS,16.0,G. Harris,ORL,Harris 26' 3PT Jump Shot (3 PTS) (M. Wagner 1 AST),Made Shot,Jump Shot,107,241,26,1,3.0,3.0,h
+S2324-G0259,1,02:08,ORL,27.0,WAS,21.0,G. Harris,ORL,Harris 3PT Jump Shot (6 PTS) (Anthony 1 AST),Made Shot,Jump Shot,-230,16,0,1,3.0,3.0,h
+S2324-G0259,1,01:10,ORL,,WAS,,G. Harris,ORL,Harris STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0259,1,00:01,ORL,,WAS,,G. Harris,ORL,Harris STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0259,2,11:44,ORL,,WAS,,G. Harris,ORL,Harris REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0259,2,08:12,ORL,,WAS,,G. Harris,ORL,Harris S.FOUL (P1.T3) (E.Scott),Foul,Shooting,0,0,0,0,,,h
+S2324-G0259,2,07:53,ORL,,WAS,,G. Harris,ORL,Harris Out of Bounds - Bad Pass Turnover Turnover (P1.T6),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G0259,2,07:29,ORL,,WAS,,G. Harris,ORL,SUB: Suggs FOR Harris,Substitution,,0,0,0,0,,,h
+S2324-G0259,3,02:15,ORL,,WAS,,G. Harris,ORL,Harris P.FOUL (P2.PN) (E.Scott),Foul,Personal,0,0,0,0,,,h
+S2324-G0259,3,01:51,ORL,,WAS,,G. Harris,ORL,Harris REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0259,4,09:40,ORL,112.0,WAS,95.0,G. Harris,ORL,Harris Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G0259,4,08:15,ORL,,WAS,,G. Harris,ORL,Harris S.FOUL (P3.T3) (E.Scott),Foul,Shooting,0,0,0,0,,,h
+S2324-G0259,4,08:02,ORL,115.0,WAS,99.0,G. Harris,ORL,Harris Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0259,4,08:02,ORL,,WAS,,G. Harris,ORL,MISS Harris Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0259,4,05:07,ORL,,WAS,,G. Harris,ORL,SUB: Okeke FOR Harris,Substitution,,0,0,0,0,,,h
+S2324-G1171,1,08:20,PHI,,ORL,,G. Harris,ORL,MISS Harris 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,21,7,2,1,2.0,0.0,v
+S2324-G1171,1,04:06,PHI,,ORL,,G. Harris,ORL,MISS Harris 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-232,-13,0,1,3.0,0.0,v
+S2324-G1171,1,03:56,PHI,,ORL,,G. Harris,ORL,SUB: Anthony FOR Harris,Substitution,,0,0,0,0,,,v
+S2324-G1171,2,02:43,PHI,,ORL,,G. Harris,ORL,Harris BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G1171,2,02:19,PHI,,ORL,,G. Harris,ORL,MISS Harris 26' 3PT Jump Shot,Missed Shot,Jump Shot,-129,231,26,1,3.0,0.0,v
+S2324-G1171,2,00:59.900000,PHI,63.0,ORL,61.0,G. Harris,ORL,Harris 3PT Jump Shot (3 PTS) (F. Wagner 1 AST),Made Shot,Jump Shot,-229,-9,0,1,3.0,3.0,v
+S2324-G1171,3,10:31,PHI,,ORL,,G. Harris,ORL,MISS Harris 26' 3PT Jump Shot,Missed Shot,Jump Shot,-67,255,26,1,3.0,0.0,v
+S2324-G1171,3,10:27,PHI,,ORL,,G. Harris,ORL,MISS Harris 2' Driving Dunk,Missed Shot,Driving Dunk Shot,-2,-17,2,1,2.0,0.0,v
+S2324-G1171,3,04:08,PHI,,ORL,,G. Harris,ORL,Harris Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G1171,3,01:17,PHI,,ORL,,G. Harris,ORL,MISS Harris 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,29,75,8,1,2.0,0.0,v
+S2324-G1171,3,00:25.500000,PHI,,ORL,,G. Harris,ORL,SUB: Anthony FOR Harris,Substitution,,0,0,0,0,,,v
+S2324-G1171,4,03:04,PHI,,ORL,,G. Harris,ORL,MISS Harris 26' 3PT Jump Shot,Missed Shot,Jump Shot,-91,246,26,1,3.0,0.0,v
+S2324-G1171,4,02:01,PHI,,ORL,,G. Harris,ORL,Harris Violation:Kicked Ball (E.Malloy),Violation,Kicked Ball,0,0,0,0,,,v
+S2324-G1171,4,01:36,PHI,,ORL,,G. Harris,ORL,Harris Personal Take Foul (P1.PN) (T.Washington),Foul,Personal Take,0,0,0,0,,,v
+S2324-G1171,4,00:27.600000,PHI,,ORL,,G. Harris,ORL,Harris STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0721,1,01:34,MIA,,ORL,,G. Harris,ORL,Harris REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0721,1,01:03,MIA,,ORL,,G. Harris,ORL,Harris STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0721,2,11:41,MIA,,ORL,,G. Harris,ORL,Harris P.FOUL (P1.T1) (K.Lane),Foul,Personal,0,0,0,0,,,v
+S2324-G0721,2,09:42,MIA,30.0,ORL,21.0,G. Harris,ORL,Harris 7' Reverse Layup (2 PTS) (F. Wagner 2 AST),Made Shot,Reverse Layup Shot,-11,65,7,1,2.0,2.0,v
+S2324-G0721,2,09:42,MIA,30.0,ORL,22.0,G. Harris,ORL,Harris Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G0721,2,06:44,MIA,40.0,ORL,28.0,G. Harris,ORL,Harris 3' Driving Layup (5 PTS) (Carter Jr. 2 AST),Made Shot,Driving Layup Shot,25,23,3,1,2.0,2.0,v
+S2324-G0721,2,05:37,MIA,,ORL,,G. Harris,ORL,SUB: Suggs FOR Harris,Substitution,,0,0,0,0,,,v
+S2324-G0721,2,00:24.700000,MIA,,ORL,,G. Harris,ORL,MISS Harris 3PT Running Jump Shot,Missed Shot,Running Jump Shot,229,-3,0,1,3.0,0.0,v
+S2324-G0721,4,11:15,MIA,,ORL,,G. Harris,ORL,MISS Harris 24' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-176,163,24,1,3.0,0.0,v
+S2324-G0721,4,09:55,MIA,,ORL,,G. Harris,ORL,MISS Harris 3PT Jump Shot,Missed Shot,Jump Shot,229,35,0,1,3.0,0.0,v
+S2324-G0721,4,07:47,MIA,98.0,ORL,88.0,G. Harris,ORL,Harris 14' Pullup Jump Shot (7 PTS) (Ingles 1 AST),Made Shot,Pullup Jump shot,131,48,14,1,2.0,2.0,v
+S2324-G0721,4,06:14,MIA,,ORL,,G. Harris,ORL,SUB: Suggs FOR Harris,Substitution,,0,0,0,0,,,v
+S2324-G0111,2,11:15,LAL,,ORL,,G. Harris,ORL,Harris REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0111,2,09:39,LAL,35.0,ORL,27.0,G. Harris,ORL,Harris 26' 3PT Running Jump Shot (3 PTS) (Ingles 2 AST),Made Shot,Running Jump Shot,170,201,26,1,3.0,3.0,v
+S2324-G0111,2,08:16,LAL,40.0,ORL,33.0,G. Harris,ORL,Harris 27' 3PT Jump Shot (6 PTS) (Carter Jr. 1 AST),Made Shot,Jump Shot,-145,228,27,1,3.0,3.0,v
+S2324-G0111,2,05:17,LAL,44.0,ORL,40.0,G. Harris,ORL,Harris 3PT Jump Shot (9 PTS) (F. Wagner 2 AST),Made Shot,Jump Shot,-228,55,0,1,3.0,3.0,v
+S2324-G0111,2,04:54,LAL,44.0,ORL,42.0,G. Harris,ORL,Harris 3' Cutting Finger Roll Layup Shot (11 PTS) (Fultz 2 AST),Made Shot,Cutting Finger Roll Layup Shot,5,31,3,1,2.0,2.0,v
+S2324-G0111,2,04:29,LAL,44.0,ORL,45.0,G. Harris,ORL,Harris 24' 3PT Jump Shot (14 PTS) (Fultz 3 AST),Made Shot,Jump Shot,-235,15,24,1,3.0,3.0,v
+S2324-G0111,2,03:27,LAL,,ORL,,G. Harris,ORL,Harris Traveling Turnover (P1.T7),Turnover,Traveling,0,0,0,0,,,v
+S2324-G0111,2,02:23,LAL,,ORL,,G. Harris,ORL,SUB: Anthony FOR Harris,Substitution,,0,0,0,0,,,v
+S2324-G0111,3,01:16,LAL,,ORL,,G. Harris,ORL,Harris Bad Pass Turnover (P2.T10),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0111,4,09:02,LAL,,ORL,,G. Harris,ORL,Harris REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0111,4,09:02,LAL,,ORL,,G. Harris,ORL,Harris Bad Pass Turnover (P3.T11),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0111,4,07:58,LAL,,ORL,,G. Harris,ORL,Harris REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0111,4,07:46,LAL,87.0,ORL,92.0,G. Harris,ORL,Harris 27' 3PT Jump Shot (17 PTS) (Anthony 2 AST),Made Shot,Jump Shot,49,263,27,1,3.0,3.0,v
+S2324-G0111,4,04:18,LAL,,ORL,,G. Harris,ORL,SUB: Suggs FOR Harris,Substitution,,0,0,0,0,,,v
+S2324-G1064,1,11:39,ORL,2.0,LAC,0.0,G. Harris,ORL,Harris 7' Driving Floating Bank Jump Shot (2 PTS) (Carter Jr. 1 AST),Made Shot,Driving Floating Bank Jump Shot,-37,63,7,1,2.0,2.0,h
+S2324-G1064,1,09:24,ORL,,LAC,,G. Harris,ORL,Harris REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1064,1,09:24,ORL,4.0,LAC,3.0,G. Harris,ORL,Harris Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2324-G1064,1,03:59,ORL,,LAC,,G. Harris,ORL,SUB: Anthony FOR Harris,Substitution,,0,0,0,0,,,h
+S2324-G1064,2,02:35,ORL,,LAC,,G. Harris,ORL,Harris S.FOUL (P1.T2) (M.Davis),Foul,Shooting,0,0,0,0,,,h
+S2324-G1064,2,00:26.700000,ORL,,LAC,,G. Harris,ORL,Harris Bad Pass Turnover (P1.T10),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G1064,2,00:07.200000,ORL,,LAC,,G. Harris,ORL,Harris P.FOUL (P2.T3) (M.Davis),Foul,Personal,0,0,0,0,,,h
+S2324-G1064,3,11:41,ORL,,LAC,,G. Harris,ORL,Harris REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1064,3,11:20,ORL,,LAC,,G. Harris,ORL,MISS Harris 26' 3PT Jump Shot,Missed Shot,Jump Shot,-189,183,26,1,3.0,0.0,h
+S2324-G1064,3,08:47,ORL,,LAC,,G. Harris,ORL,Harris STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1064,3,08:47,ORL,53.0,LAC,61.0,G. Harris,ORL,Harris Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G1064,3,01:34,ORL,,LAC,,G. Harris,ORL,MISS Harris 3' Driving Layup,Missed Shot,Driving Layup Shot,-20,15,3,1,2.0,0.0,h
+S2324-G1064,3,01:14,ORL,76.0,LAC,77.0,G. Harris,ORL,Harris 3PT Jump Shot (8 PTS) (Houstan 1 AST),Made Shot,Jump Shot,232,10,0,1,3.0,3.0,h
+S2324-G1064,3,00:00,ORL,,LAC,,G. Harris,ORL,MISS Harris 26' 3PT Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,192,172,26,1,3.0,0.0,h
+S2324-G0209,1,04:11,IND,,ORL,,G. Harris,ORL,Harris STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0209,1,02:45,IND,13.0,ORL,30.0,G. Harris,ORL,Harris 3PT Running Jump Shot (3 PTS) (Ingles 2 AST),Made Shot,Running Jump Shot,221,30,0,1,3.0,3.0,v
+S2324-G0209,1,02:19,IND,14.0,ORL,33.0,G. Harris,ORL,Harris 28' 3PT Jump Shot (6 PTS) (M. Wagner 1 AST),Made Shot,Jump Shot,-191,205,28,1,3.0,3.0,v
+S2324-G0209,1,01:06,IND,,ORL,,G. Harris,ORL,Harris S.FOUL (P1.PN) (J.Conley),Foul,Shooting,0,0,0,0,,,v
+S2324-G0209,2,10:54,IND,,ORL,,G. Harris,ORL,Harris STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0209,2,10:16,IND,23.0,ORL,47.0,G. Harris,ORL,Harris 30' 3PT Running Pull-Up Jump Shot (9 PTS) (Anthony 1 AST),Made Shot,Running Pull-Up Jump Shot,80,293,30,1,3.0,3.0,v
+S2324-G0209,2,09:53,IND,,ORL,,G. Harris,ORL,SUB: Suggs FOR Harris,Substitution,,0,0,0,0,,,v
+S2324-G0209,3,06:14,IND,61.0,ORL,94.0,G. Harris,ORL,Harris Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0209,3,06:14,IND,61.0,ORL,95.0,G. Harris,ORL,Harris Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0209,3,01:17,IND,,ORL,,G. Harris,ORL,MISS Harris 1' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,10,-3,1,1,2.0,0.0,v
+S2324-G0209,3,00:44.600000,IND,,ORL,,G. Harris,ORL,MISS Harris 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-7,70,7,1,2.0,0.0,v
+S2324-G0209,4,08:51,IND,84.0,ORL,116.0,G. Harris,ORL,Harris 18' Fadeaway Jumper (13 PTS),Made Shot,Fadeaway Jump Shot,119,133,18,1,2.0,2.0,v
+S2324-G0209,4,08:26,IND,,ORL,,G. Harris,ORL,SUB: Houstan FOR Harris,Substitution,,0,0,0,0,,,v
+S2324-G0874,1,10:27,ORL,,DET,,G. Harris,ORL,MISS Harris 26' 3PT Jump Shot,Missed Shot,Jump Shot,-205,162,26,1,3.0,0.0,h
+S2324-G0874,1,07:54,ORL,12.0,DET,8.0,G. Harris,ORL,Harris 3PT Jump Shot (3 PTS) (Banchero 2 AST),Made Shot,Jump Shot,-232,36,0,1,3.0,3.0,h
+S2324-G0874,1,03:01,ORL,,DET,,G. Harris,ORL,SUB: Anthony FOR Harris,Substitution,,0,0,0,0,,,h
+S2324-G0874,3,09:12,ORL,,DET,,G. Harris,ORL,Harris S.FOUL (P1.T1) (Z.Zarba),Foul,Shooting,0,0,0,0,,,h
+S2324-G0874,3,08:25,ORL,72.0,DET,51.0,G. Harris,ORL,Harris 26' 3PT Jump Shot (6 PTS) (Banchero 3 AST),Made Shot,Jump Shot,100,242,26,1,3.0,3.0,h
+S2324-G0874,3,04:27,ORL,,DET,,G. Harris,ORL,Harris REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0874,3,02:44,ORL,,DET,,G. Harris,ORL,SUB: Isaac FOR Harris,Substitution,,0,0,0,0,,,h
+S2324-G0874,4,08:50,ORL,95.0,DET,80.0,G. Harris,ORL,Harris 3' Reverse Layup (8 PTS) (Banchero 5 AST),Made Shot,Reverse Layup Shot,-26,9,3,1,2.0,2.0,h
+S2324-G0874,4,08:39,ORL,,DET,,G. Harris,ORL,Harris STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0874,4,07:24,ORL,,DET,,G. Harris,ORL,Harris REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0874,4,06:46,ORL,,DET,,G. Harris,ORL,MISS Harris 26' 3PT Jump Shot,Missed Shot,Jump Shot,188,179,26,1,3.0,0.0,h
+S2324-G0874,4,03:32,ORL,,DET,,G. Harris,ORL,Harris STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0874,4,03:13,ORL,,DET,,G. Harris,ORL,SUB: Houstan FOR Harris,Substitution,,0,0,0,0,,,h
+S2324-G0248,2,10:31,ORL,,CHA,,G. Harris,ORL,MISS Harris 26' 3PT Jump Shot,Missed Shot,Jump Shot,56,253,26,1,3.0,0.0,h
+S2324-G0248,2,08:38,ORL,39.0,CHA,39.0,G. Harris,ORL,Harris 27' 3PT Jump Shot (3 PTS) (Anthony 3 AST),Made Shot,Jump Shot,138,235,27,1,3.0,3.0,h
+S2324-G0248,2,06:33,ORL,,CHA,,G. Harris,ORL,SUB: Bitadze FOR Harris,Substitution,,0,0,0,0,,,h
+S2324-G0248,3,05:51,ORL,,CHA,,G. Harris,ORL,MISS Harris 3PT Jump Shot,Missed Shot,Jump Shot,228,19,0,1,3.0,0.0,h
+S2324-G0248,3,01:17,ORL,91.0,CHA,83.0,G. Harris,ORL,Harris 3' Driving Reverse Layup (5 PTS) (M. Wagner 2 AST),Made Shot,Driving Reverse Layup Shot,-28,14,3,1,2.0,2.0,h
+S2324-G0248,4,10:54,ORL,,CHA,,G. Harris,ORL,Harris S.FOUL (P1.T2) (J.Goble),Foul,Shooting,0,0,0,0,,,h
+S2324-G0248,4,10:32,ORL,,CHA,,G. Harris,ORL,Harris P.FOUL (P2.T3) (J.Conley),Foul,Personal,0,0,0,0,,,h
+S2324-G0248,4,08:21,ORL,,CHA,,G. Harris,ORL,MISS Harris 24' 3PT Jump Shot,Missed Shot,Jump Shot,238,30,24,1,3.0,0.0,h
+S2324-G0248,4,08:18,ORL,,CHA,,G. Harris,ORL,SUB: Houstan FOR Harris,Substitution,,0,0,0,0,,,h
+S2324-G0248,4,03:23,ORL,,CHA,,G. Harris,ORL,MISS Harris 28' 3PT Jump Shot,Missed Shot,Jump Shot,-197,198,28,1,3.0,0.0,h
+S2324-G0248,4,00:53.200000,ORL,,CHA,,G. Harris,ORL,Harris STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0792,1,11:17,CLE,2.0,ORL,3.0,G. Harris,ORL,Harris 3PT Jump Shot (3 PTS) (Banchero 1 AST),Made Shot,Jump Shot,234,8,0,1,3.0,3.0,v
+S2324-G0792,1,04:52,CLE,,ORL,,G. Harris,ORL,Harris S.FOUL (P1.T2) (S.Foster),Foul,Shooting,0,0,0,0,,,v
+S2324-G0792,1,03:19,CLE,,ORL,,G. Harris,ORL,MISS Harris 12' Jump Shot,Missed Shot,Jump Shot,121,9,12,1,2.0,0.0,v
+S2324-G0792,1,03:08,CLE,,ORL,,G. Harris,ORL,Harris STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0792,1,02:55,CLE,,ORL,,G. Harris,ORL,SUB: Isaac FOR Harris,Substitution,,0,0,0,0,,,v
+S2324-G0792,2,05:39,CLE,,ORL,,G. Harris,ORL,Harris STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0792,2,03:37,CLE,,ORL,,G. Harris,ORL,Harris Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0792,2,03:07,CLE,40.0,ORL,52.0,G. Harris,ORL,Harris 3PT Jump Shot (6 PTS) (Carter Jr. 1 AST),Made Shot,Jump Shot,-234,0,0,1,3.0,3.0,v
+S2324-G0792,2,02:34,CLE,,ORL,,G. Harris,ORL,Harris L.B.FOUL (P2.T4) (A.Moyer-Gleich),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0792,3,10:25,CLE,,ORL,,G. Harris,ORL,Harris S.FOUL (P3.T1) (S.Foster),Foul,Shooting,0,0,0,0,,,v
+S2324-G0792,3,02:52,CLE,,ORL,,G. Harris,ORL,MISS Harris 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,5,7,1,1,2.0,0.0,v
+S2324-G0792,3,02:35,CLE,,ORL,,G. Harris,ORL,Harris STEAL (3 STL),,,0,0,0,0,,,v
+S2324-G0792,3,02:21,CLE,,ORL,,G. Harris,ORL,SUB: Anthony FOR Harris,Substitution,,0,0,0,0,,,v
+S2324-G0792,4,00:09.800000,CLE,109.0,ORL,115.0,G. Harris,ORL,Harris Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0792,4,00:09.800000,CLE,109.0,ORL,116.0,G. Harris,ORL,Harris Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0086,2,09:54,POR,32.0,ORL,37.0,G. Harris,ORL,Harris 25' 3PT Jump Bank Shot (3 PTS) (Ingles 1 AST),Made Shot,Jump Bank Shot,194,164,25,1,3.0,3.0,v
+S2324-G0086,2,08:56,POR,,ORL,,G. Harris,ORL,MISS Harris 20' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-80,183,20,1,2.0,0.0,v
+S2324-G0086,2,08:11,POR,,ORL,,G. Harris,ORL,MISS Harris 26' 3PT Jump Shot,Missed Shot,Jump Shot,-80,247,26,1,3.0,0.0,v
+S2324-G0086,2,05:12,POR,,ORL,,G. Harris,ORL,SUB: Banchero FOR Harris,Substitution,,0,0,0,0,,,v
+S2324-G0086,3,04:05,POR,,ORL,,G. Harris,ORL,Harris REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0086,3,02:32,POR,,ORL,,G. Harris,ORL,MISS Harris 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,43,24,1,3.0,0.0,v
+S2324-G0086,3,01:13,POR,,ORL,,G. Harris,ORL,MISS Harris 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,12,91,9,1,2.0,0.0,v
+S2324-G0086,3,01:12,POR,,ORL,,G. Harris,ORL,Harris Traveling Turnover (P1.T11),Turnover,Traveling,0,0,0,0,,,v
+S2324-G0086,4,05:54,POR,,ORL,,G. Harris,ORL,SUB: Suggs FOR Harris,Substitution,,0,0,0,0,,,v
+S2324-G1004,1,09:34,ORL,,NOP,,G. Harris,ORL,MISS Harris 24' 3PT Jump Shot,Missed Shot,Jump Shot,-234,29,24,1,3.0,0.0,h
+S2324-G1004,1,07:39,ORL,6.0,NOP,11.0,G. Harris,ORL,Harris 24' 3PT Jump Shot (3 PTS) (F. Wagner 1 AST),Made Shot,Jump Shot,-237,36,24,1,3.0,3.0,h
+S2324-G1004,1,04:02,ORL,,NOP,,G. Harris,ORL,Harris REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1004,1,02:48,ORL,14.0,NOP,23.0,G. Harris,ORL,Harris 20' Jump Shot (5 PTS),Made Shot,Jump Shot,-202,14,20,1,2.0,2.0,h
+S2324-G1004,1,02:28,ORL,,NOP,,G. Harris,ORL,Harris S.FOUL (P1.T3) (T.Washington),Foul,Shooting,0,0,0,0,,,h
+S2324-G1004,1,02:28,ORL,,NOP,,G. Harris,ORL,SUB: Anthony FOR Harris,Substitution,,0,0,0,0,,,h
+S2324-G1004,2,01:18,ORL,,NOP,,G. Harris,ORL,Harris Step Out of Bounds Turnover (P1.T7),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2324-G1205,1,05:27,CLE,,ORL,,G. Harris,ORL,MISS Harris 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-45,93,10,1,2.0,0.0,v
+S2324-G1205,1,03:43,CLE,,ORL,,G. Harris,ORL,MISS Harris 25' 3PT Jump Shot,Missed Shot,Jump Shot,-245,16,25,1,3.0,0.0,v
+S2324-G1205,2,10:52,CLE,,ORL,,G. Harris,ORL,Harris REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1205,2,10:48,CLE,,ORL,,G. Harris,ORL,MISS Harris 1' Reverse Layup,Missed Shot,Reverse Layup Shot,-9,4,1,1,2.0,0.0,v
+S2324-G1205,2,09:30,CLE,,ORL,,G. Harris,ORL,Harris Violation:Kicked Ball (T.Ford),Violation,Kicked Ball,0,0,0,0,,,v
+S2324-G1205,2,09:26,CLE,,ORL,,G. Harris,ORL,Harris P.FOUL (P1.T2) (E.Scott),Foul,Personal,0,0,0,0,,,v
+S2324-G1205,2,08:22,CLE,,ORL,,G. Harris,ORL,SUB: Banchero FOR Harris,Substitution,,0,0,0,0,,,v
+S2324-G1205,2,07:01,CLE,,ORL,,G. Harris,ORL,MISS Harris 25' 3PT Jump Shot,Missed Shot,Jump Shot,-202,148,25,1,3.0,0.0,v
+S2324-G1205,2,06:12,CLE,50.0,ORL,31.0,G. Harris,ORL,Harris 1' Cutting Dunk Shot (2 PTS) (F. Wagner 3 AST),Made Shot,Cutting Dunk Shot,0,11,1,1,2.0,2.0,v
+S2324-G1205,2,04:23,CLE,55.0,ORL,37.0,G. Harris,ORL,Harris Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1205,2,04:23,CLE,55.0,ORL,38.0,G. Harris,ORL,Harris Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1205,2,03:45,CLE,,ORL,,G. Harris,ORL,Harris REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1205,2,03:00,CLE,,ORL,,G. Harris,ORL,Harris STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G1205,2,03:00,CLE,59.0,ORL,45.0,G. Harris,ORL,Harris Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1205,2,03:00,CLE,59.0,ORL,46.0,G. Harris,ORL,Harris Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1205,2,01:06,CLE,,ORL,,G. Harris,ORL,Harris P.FOUL (P2.PN) (E.Scott),Foul,Personal,0,0,0,0,,,v
+S2324-G1205,2,00:02.100000,CLE,,ORL,,G. Harris,ORL,MISS Harris 27' 3PT Jump Shot,Missed Shot,Jump Shot,-239,125,27,1,3.0,0.0,v
+S2324-G1205,3,10:11,CLE,69.0,ORL,55.0,G. Harris,ORL,Harris Free Throw Technical (7 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,v
+S2324-G1205,3,08:02,CLE,73.0,ORL,65.0,G. Harris,ORL,Harris Free Throw Technical (8 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,v
+S2324-G1205,3,06:57,CLE,,ORL,,G. Harris,ORL,Harris S.FOUL (P3.T3) (T.Ford),Foul,Shooting,0,0,0,0,,,v
+S2324-G1205,3,04:55,CLE,,ORL,,G. Harris,ORL,Harris P.FOUL (P4.PN) (T.Ford),Foul,Personal,0,0,0,0,,,v
+S2324-G1205,3,04:55,CLE,,ORL,,G. Harris,ORL,SUB: Houstan FOR Harris,Substitution,,0,0,0,0,,,v
+S2324-G1205,4,03:56,CLE,,ORL,,G. Harris,ORL,Harris REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1205,4,03:32,CLE,,ORL,,G. Harris,ORL,MISS Harris 24' 3PT Jump Shot,Missed Shot,Jump Shot,239,1,24,1,3.0,0.0,v
+S2324-G0947,1,10:24,ORL,5.0,BKN,2.0,G. Harris,ORL,Harris 24' 3PT Jump Shot (3 PTS) (Banchero 2 AST),Made Shot,Jump Shot,-235,4,24,1,3.0,3.0,h
+S2324-G0947,1,09:54,ORL,,BKN,,G. Harris,ORL,MISS Harris 16' Step Back Jump Shot,Missed Shot,Step Back Jump shot,12,162,16,1,2.0,0.0,h
+S2324-G0947,1,02:36,ORL,,BKN,,G. Harris,ORL,SUB: Anthony FOR Harris,Substitution,,0,0,0,0,,,h
+S2324-G0947,2,05:53,ORL,,BKN,,G. Harris,ORL,Harris REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0947,2,05:13,ORL,,BKN,,G. Harris,ORL,Harris REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0947,2,05:09,ORL,54.0,BKN,38.0,G. Harris,ORL,Harris Running Layup (5 PTS),Made Shot,Running Layup Shot,2,-4,0,1,2.0,2.0,h
+S2324-G0947,2,04:53,ORL,,BKN,,G. Harris,ORL,Harris STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0947,2,04:50,ORL,56.0,BKN,38.0,G. Harris,ORL,Harris 2' Running Layup (7 PTS),Made Shot,Running Layup Shot,-10,21,2,1,2.0,2.0,h
+S2324-G0947,3,10:01,ORL,,BKN,,G. Harris,ORL,Harris BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0947,3,09:18,ORL,,BKN,,G. Harris,ORL,MISS Harris 26' 3PT Jump Shot,Missed Shot,Jump Shot,225,136,26,1,3.0,0.0,h
+S2324-G0947,3,08:22,ORL,,BKN,,G. Harris,ORL,MISS Harris 27' 3PT Jump Shot,Missed Shot,Jump Shot,-140,228,27,1,3.0,0.0,h
+S2324-G0947,3,07:34,ORL,,BKN,,G. Harris,ORL,MISS Harris Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0947,3,07:34,ORL,71.0,BKN,61.0,G. Harris,ORL,Harris Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0947,3,06:36,ORL,75.0,BKN,61.0,G. Harris,ORL,Harris 24' 3PT Jump Shot (11 PTS) (F. Wagner 6 AST),Made Shot,Jump Shot,235,52,24,1,3.0,3.0,h
+S2324-G0947,3,02:25,ORL,,BKN,,G. Harris,ORL,MISS Harris 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,102,237,26,1,3.0,0.0,h
+S2324-G0947,3,02:19,ORL,,BKN,,G. Harris,ORL,SUB: Ingles FOR Harris,Substitution,,0,0,0,0,,,h
+S2324-G0947,4,03:44,ORL,108.0,BKN,95.0,G. Harris,ORL,Harris Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0947,4,03:44,ORL,109.0,BKN,95.0,G. Harris,ORL,Harris Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0947,4,01:47,ORL,,BKN,,G. Harris,ORL,SUB: Black FOR Harris,Substitution,,0,0,0,0,,,h
+S2324-G1090,1,11:39,ORL,2.0,POR,0.0,G. Harris,ORL,G. Harris 14' Driving Floating Jump Shot (2 PTS) (Carter Jr. 1 AST),Made Shot,Driving Floating Jump Shot,-33,131,14,1,2.0,2.0,h
+S2324-G1090,1,09:38,ORL,6.0,POR,2.0,G. Harris,ORL,G. Harris Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1090,1,09:38,ORL,7.0,POR,2.0,G. Harris,ORL,G. Harris Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1090,1,08:49,ORL,,POR,,G. Harris,ORL,MISS G. Harris 26' 3PT Jump Shot,Missed Shot,Jump Shot,-172,200,26,1,3.0,0.0,h
+S2324-G1090,1,07:42,ORL,,POR,,G. Harris,ORL,G. Harris P.FOUL (P1.T1) (S.Wright),Foul,Personal,0,0,0,0,,,h
+S2324-G1090,1,03:49,ORL,,POR,,G. Harris,ORL,G. Harris STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1090,1,02:21,ORL,,POR,,G. Harris,ORL,G. Harris S.FOUL (P2.T3) (S.Wright),Foul,Shooting,0,0,0,0,,,h
+S2324-G1090,1,02:21,ORL,,POR,,G. Harris,ORL,SUB: M. Wagner FOR G. Harris,Substitution,,0,0,0,0,,,h
+S2324-G1090,2,05:45,ORL,,POR,,G. Harris,ORL,G. Harris REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1090,2,03:02,ORL,,POR,,G. Harris,ORL,G. Harris REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1090,2,02:49,ORL,,POR,,G. Harris,ORL,MISS G. Harris 24' 3PT Jump Shot,Missed Shot,Jump Shot,-240,6,24,1,3.0,0.0,h
+S2324-G1090,3,11:25,ORL,,POR,,G. Harris,ORL,MISS G. Harris 24' 3PT Jump Shot,Missed Shot,Jump Shot,-240,-1,24,1,3.0,0.0,h
+S2324-G1090,3,09:58,ORL,60.0,POR,53.0,G. Harris,ORL,G. Harris 3PT Jump Shot (7 PTS) (Suggs 5 AST),Made Shot,Jump Shot,-234,15,0,1,3.0,3.0,h
+S2324-G1090,3,09:06,ORL,,POR,,G. Harris,ORL,G. Harris Step Out of Bounds Turnover (P1.T9),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2324-G1090,3,08:43,ORL,63.0,POR,58.0,G. Harris,ORL,G. Harris 24' 3PT Jump Shot (10 PTS) (Banchero 2 AST),Made Shot,Jump Shot,-234,22,24,1,3.0,3.0,h
+S2324-G1090,3,07:30,ORL,,POR,,G. Harris,ORL,MISS G. Harris 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,28,24,1,3.0,0.0,h
+S2324-G1090,3,02:20,ORL,,POR,,G. Harris,ORL,G. Harris REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1090,3,01:34,ORL,,POR,,G. Harris,ORL,SUB: Fultz FOR G. Harris,Substitution,,0,0,0,0,,,h
+S2324-G1090,4,07:28,ORL,87.0,POR,82.0,G. Harris,ORL,G. Harris 4' Driving Layup (12 PTS) (Banchero 4 AST),Made Shot,Driving Layup Shot,37,17,4,1,2.0,2.0,h
+S2324-G1090,4,07:04,ORL,,POR,,G. Harris,ORL,G. Harris S.FOUL (P3.T3) (M.Kallio),Foul,Shooting,0,0,0,0,,,h
+S2324-G1090,4,06:27,ORL,,POR,,G. Harris,ORL,G. Harris REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1090,4,04:12,ORL,95.0,POR,93.0,G. Harris,ORL,G. Harris 3' Cutting Layup Shot (14 PTS) (Carter Jr. 4 AST),Made Shot,Cutting Layup Shot,-5,34,3,1,2.0,2.0,h
+S2324-G1090,4,01:44,ORL,,POR,,G. Harris,ORL,MISS G. Harris 6' Reverse Layup,Missed Shot,Reverse Layup Shot,26,-50,6,1,2.0,0.0,h
+S2324-G1090,4,00:12.200000,ORL,,POR,,G. Harris,ORL,SUB: Isaac FOR G. Harris,Substitution,,0,0,0,0,,,h
+S2324-G0814,1,11:40,DET,0.0,ORL,3.0,G. Harris,ORL,Harris 25' 3PT Jump Shot (3 PTS) (F. Wagner 1 AST),Made Shot,Jump Shot,-140,204,25,1,3.0,3.0,v
+S2324-G0814,1,10:50,DET,,ORL,,G. Harris,ORL,Harris REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0814,1,07:42,DET,,ORL,,G. Harris,ORL,Harris P.FOUL (P1.T3) (A.Smith),Foul,Personal,0,0,0,0,,,v
+S2324-G0814,1,05:38,DET,14.0,ORL,20.0,G. Harris,ORL,Harris 26' 3PT Step Back Jump Shot (6 PTS) (Bitadze 1 AST),Made Shot,Step Back Jump shot,-131,220,26,1,3.0,3.0,v
+S2324-G0814,1,05:38,DET,,ORL,,G. Harris,ORL,MISS Harris Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2324-G0814,1,02:59,DET,,ORL,,G. Harris,ORL,SUB: Isaac FOR Harris,Substitution,,0,0,0,0,,,v
+S2324-G0814,2,02:18,DET,,ORL,,G. Harris,ORL,Harris P.FOUL (P2.T3) (B.Kennedy),Foul,Personal,0,0,0,0,,,v
+S2324-G0814,2,00:47.200000,DET,53.0,ORL,61.0,G. Harris,ORL,Harris 27' 3PT Step Back Jump Shot (9 PTS) (Carter Jr. 1 AST),Made Shot,Step Back Jump shot,98,255,27,1,3.0,3.0,v
+S2324-G0814,3,11:17,DET,,ORL,,G. Harris,ORL,Harris S.FOUL (P3.T1) (B.Kennedy),Foul,Shooting,0,0,0,0,,,v
+S2324-G0814,3,10:35,DET,,ORL,,G. Harris,ORL,Harris STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0814,3,10:05,DET,,ORL,,G. Harris,ORL,MISS Harris 3' Driving Dunk,Missed Shot,Driving Dunk Shot,-5,32,3,1,2.0,0.0,v
+S2324-G0814,3,09:29,DET,67.0,ORL,70.0,G. Harris,ORL,Harris 25' 3PT Jump Shot (12 PTS) (Carter Jr. 2 AST),Made Shot,Jump Shot,96,230,25,1,3.0,3.0,v
+S2324-G0814,3,06:33,DET,,ORL,,G. Harris,ORL,Harris REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0814,3,03:56,DET,,ORL,,G. Harris,ORL,SUB: Black FOR Harris,Substitution,,0,0,0,0,,,v
+S2324-G0814,4,02:29,DET,,ORL,,G. Harris,ORL,Harris REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0814,4,02:14,DET,,ORL,,G. Harris,ORL,MISS Harris 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,31,24,1,3.0,0.0,v
+S2324-G0814,4,00:17.200000,DET,,ORL,,G. Harris,ORL,SUB: Isaac FOR Harris,Substitution,,0,0,0,0,,,v
+S2324-G0033,1,11:24,CHI,,ORL,,G. Harris,ORL,MISS Harris 25' 3PT Jump Shot,Missed Shot,Jump Shot,-43,242,25,1,3.0,0.0,v
+S2324-G0033,1,10:19,CHI,,ORL,,G. Harris,ORL,Harris REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0033,1,08:40,CHI,,ORL,,G. Harris,ORL,MISS Harris 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,50,58,8,1,2.0,0.0,v
+S2324-G0033,1,08:38,CHI,,ORL,,G. Harris,ORL,Harris REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0033,1,07:22,CHI,,ORL,,G. Harris,ORL,Harris REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0033,1,04:25,CHI,12.0,ORL,11.0,G. Harris,ORL,Harris 12' Pullup Jump Shot (2 PTS) (Anthony 1 AST),Made Shot,Pullup Jump shot,75,90,12,1,2.0,2.0,v
+S2324-G0033,1,03:50,CHI,14.0,ORL,14.0,G. Harris,ORL,Harris 27' 3PT Jump Bank Shot (5 PTS) (Anthony 2 AST),Made Shot,Jump Bank Shot,-15,268,27,1,3.0,3.0,v
+S2324-G0033,1,01:27,CHI,,ORL,,G. Harris,ORL,MISS Harris 26' 3PT Jump Shot,Missed Shot,Jump Shot,-163,202,26,1,3.0,0.0,v
+S2324-G0033,1,01:20,CHI,,ORL,,G. Harris,ORL,SUB: F. Wagner FOR Harris,Substitution,,0,0,0,0,,,v
+S2324-G0033,2,05:22,CHI,,ORL,,G. Harris,ORL,Harris BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0033,2,02:34,CHI,29.0,ORL,47.0,G. Harris,ORL,Harris 1' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,10,4,1,1,2.0,2.0,v
+S2324-G0033,2,02:05,CHI,,ORL,,G. Harris,ORL,SUB: F. Wagner FOR Harris,Substitution,,0,0,0,0,,,v
+S2324-G0033,3,08:38,CHI,,ORL,,G. Harris,ORL,Harris P.FOUL (P1.T2) (K.Lane),Foul,Personal,0,0,0,0,,,v
+S2324-G0033,3,08:00,CHI,,ORL,,G. Harris,ORL,Harris REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0033,3,06:34,CHI,,ORL,,G. Harris,ORL,Harris S.FOUL (P2.T3) (D.Scott),Foul,Shooting,0,0,0,0,,,v
+S2324-G0033,3,06:15,CHI,46.0,ORL,61.0,G. Harris,ORL,Harris 24' 3PT Jump Shot (10 PTS) (Banchero 4 AST),Made Shot,Jump Shot,-222,88,24,1,3.0,3.0,v
+S2324-G0033,3,03:48,CHI,,ORL,,G. Harris,ORL,MISS Harris 25' 3PT Jump Shot,Missed Shot,Jump Shot,184,168,25,1,3.0,0.0,v
+S2324-G0033,3,03:37,CHI,,ORL,,G. Harris,ORL,SUB: F. Wagner FOR Harris,Substitution,,0,0,0,0,,,v
+S2324-G0033,4,04:49,CHI,,ORL,,G. Harris,ORL,MISS Harris 3PT Jump Shot,Missed Shot,Jump Shot,-225,-10,0,1,3.0,0.0,v
+S2324-G0033,4,03:13,CHI,90.0,ORL,92.0,G. Harris,ORL,Harris 3PT Jump Shot (13 PTS) (Anthony 7 AST),Made Shot,Jump Shot,-227,-22,0,1,3.0,3.0,v
+S2324-G0033,4,02:15,CHI,,ORL,,G. Harris,ORL,Harris STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0033,4,00:54.700000,CHI,,ORL,,G. Harris,ORL,Harris S.FOUL (P3.PN) (K.Lane),Foul,Shooting,0,0,0,0,,,v
+S2324-G0033,4,00:07,CHI,,ORL,,G. Harris,ORL,Harris BLOCK (2 BLK),,,0,0,0,0,,,v
+S2324-G0033,4,00:07,CHI,,ORL,,G. Harris,ORL,Harris REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0033,4,00:07,CHI,97.0,ORL,102.0,G. Harris,ORL,Harris Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0033,4,00:07,CHI,97.0,ORL,103.0,G. Harris,ORL,Harris Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0033,4,00:01.900000,CHI,,ORL,,G. Harris,ORL,Harris REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0463,1,05:40,GSW,,ORL,,G. Harris,ORL,MISS Harris 24' 3PT Jump Shot,Missed Shot,Jump Shot,-66,234,24,1,3.0,0.0,v
+S2324-G0463,1,04:04,GSW,20.0,ORL,20.0,G. Harris,ORL,Harris 3PT Jump Shot (3 PTS) (Banchero 2 AST),Made Shot,Jump Shot,-225,31,0,1,3.0,3.0,v
+S2324-G0463,1,01:16,GSW,,ORL,,G. Harris,ORL,MISS Harris 3PT Jump Shot,Missed Shot,Jump Shot,-230,34,0,1,3.0,0.0,v
+S2324-G0463,2,10:47,GSW,,ORL,,G. Harris,ORL,MISS Harris 27' 3PT Jump Shot,Missed Shot,Jump Shot,186,195,27,1,3.0,0.0,v
+S2324-G0463,2,10:33,GSW,,ORL,,G. Harris,ORL,Harris REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0463,2,08:03,GSW,,ORL,,G. Harris,ORL,SUB: Suggs FOR Harris,Substitution,,0,0,0,0,,,v
+S2324-G0463,2,01:53,GSW,47.0,ORL,47.0,G. Harris,ORL,Harris 3' Cutting Layup Shot (5 PTS) (Bitadze 1 AST),Made Shot,Cutting Layup Shot,28,14,3,1,2.0,2.0,v
+S2324-G0463,2,00:41.600000,GSW,,ORL,,G. Harris,ORL,MISS Harris 28' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,129,248,28,1,3.0,0.0,v
+S2324-G0463,2,00:00.300000,GSW,55.0,ORL,55.0,G. Harris,ORL,Harris 3PT Jump Shot (8 PTS) (F. Wagner 1 AST),Made Shot,Jump Shot,-226,13,0,1,3.0,3.0,v
+S2324-G0463,4,09:36,GSW,,ORL,,G. Harris,ORL,Harris S.FOUL (P1.T2) (L.Wood),Foul,Shooting,0,0,0,0,,,v
+S2324-G0463,4,08:34,GSW,,ORL,,G. Harris,ORL,Harris REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0463,4,07:13,GSW,,ORL,,G. Harris,ORL,SUB: Suggs FOR Harris,Substitution,,0,0,0,0,,,v
+S2324-G0463,4,01:40,GSW,,ORL,,G. Harris,ORL,SUB: Anthony FOR Harris,Substitution,,0,0,0,0,,,v
+S2324-G1136,1,10:59,ORL,,CHI,,G. Harris,ORL,Harris REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1136,1,04:38,ORL,,CHI,,G. Harris,ORL,Harris STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1136,1,02:59,ORL,,CHI,,G. Harris,ORL,SUB: M. Wagner FOR Harris,Substitution,,0,0,0,0,,,h
+S2324-G1136,2,07:05,ORL,,CHI,,G. Harris,ORL,Harris STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G1136,2,05:41,ORL,,CHI,,G. Harris,ORL,MISS Harris 17' Jump Shot,Missed Shot,Jump Shot,4,167,17,1,2.0,0.0,h
+S2324-G1136,2,03:25,ORL,,CHI,,G. Harris,ORL,MISS Harris 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-147,221,27,1,3.0,0.0,h
+S2324-G1136,3,02:03,ORL,,CHI,,G. Harris,ORL,Harris STEAL (3 STL),,,0,0,0,0,,,h
+S2324-G1136,3,01:45,ORL,,CHI,,G. Harris,ORL,SUB: Ingles FOR Harris,Substitution,,0,0,0,0,,,h
+S2324-G1136,4,01:29,ORL,,CHI,,G. Harris,ORL,SUB: Black FOR Harris,Substitution,,0,0,0,0,,,h

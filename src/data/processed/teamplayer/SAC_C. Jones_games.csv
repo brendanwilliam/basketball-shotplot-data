@@ -1,0 +1,195 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2324-G0358,4,02:41,SAC,,WAS,,C. Jones,SAC,Jones REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0358,4,02:40,SAC,,WAS,,C. Jones,SAC,MISS Jones 5' Tip Layup Shot,Missed Shot,Tip Layup Shot,42,26,5,1,2.0,0.0,h
+S2324-G0358,4,01:53,SAC,,WAS,,C. Jones,SAC,MISS Jones 3' Driving Layup,Missed Shot,Driving Layup Shot,25,19,3,1,2.0,0.0,h
+S2324-G0358,4,00:44.400000,SAC,141.0,WAS,130.0,C. Jones,SAC,Jones 12' Driving Floating Jump Shot (2 PTS) (Edwards 1 AST),Made Shot,Driving Floating Jump Shot,-80,94,12,1,2.0,2.0,h
+S2324-G0358,4,00:36.200000,SAC,,WAS,,C. Jones,SAC,Jones S.FOUL (P1.PN) (E.Scott),Foul,Shooting,0,0,0,0,,,h
+S2324-G0303,4,00:39.700000,SAC,,BKN,,C. Jones,SAC,Jones S.FOUL (P1.T4) (D.Guthrie),Foul,Shooting,0,0,0,0,,,h
+S2324-G0400,2,00:32.800000,SAC,,MIN,,C. Jones,SAC,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0945,4,03:06,SAC,,MIL,,C. Jones,SAC,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0945,4,01:20,SAC,128.0,MIL,92.0,C. Jones,SAC,Jones 5' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,-7,49,5,1,2.0,2.0,h
+S2324-G0945,4,00:21.100000,SAC,,MIL,,C. Jones,SAC,MISS Jones 7' Driving Layup,Missed Shot,Driving Layup Shot,-49,44,7,1,2.0,0.0,h
+S2324-G1047,4,04:56,SAC,,DAL,,C. Jones,SAC,C. Jones REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1047,4,04:56,SAC,,DAL,,C. Jones,SAC,MISS C. Jones Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2324-G1047,4,03:43,SAC,,DAL,,C. Jones,SAC,MISS C. Jones 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-2,109,11,1,2.0,0.0,h
+S2324-G1047,4,03:24,SAC,,DAL,,C. Jones,SAC,C. Jones P.FOUL (P1.T4) (J.Orr),Foul,Personal,0,0,0,0,,,h
+S2324-G1047,4,01:03,SAC,,DAL,,C. Jones,SAC,C. Jones REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1047,4,01:03,SAC,93.0,DAL,130.0,C. Jones,SAC,C. Jones 6' Floating Jump Shot (2 PTS),Made Shot,Floating Jump shot,-56,15,6,1,2.0,2.0,h
+S2324-G0532,1,04:45,PHI,,SAC,,C. Jones,SAC,Jones S.FOUL (P1.PN) (M.Ervin),Foul,Shooting,0,0,0,0,,,v
+S2324-G0532,1,04:31,PHI,,SAC,,C. Jones,SAC,MISS Jones 8' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,81,2,8,1,2.0,0.0,v
+S2324-G0532,1,04:27,PHI,,SAC,,C. Jones,SAC,Jones REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0532,1,03:14,PHI,,SAC,,C. Jones,SAC,MISS Jones 3PT Jump Shot,Missed Shot,Jump Shot,228,-14,0,1,3.0,0.0,v
+S2324-G0532,1,03:05,PHI,,SAC,,C. Jones,SAC,Jones STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0532,1,02:38,PHI,,SAC,,C. Jones,SAC,Jones L.B.FOUL (P2.PN) (S.Wall),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0532,1,02:38,PHI,,SAC,,C. Jones,SAC,SUB: Fox FOR Jones,Substitution,,0,0,0,0,,,v
+S2324-G0532,4,05:02,PHI,,SAC,,C. Jones,SAC,Jones REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0532,4,04:14,PHI,,SAC,,C. Jones,SAC,MISS Jones 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,6,113,11,1,2.0,0.0,v
+S2324-G0532,4,01:44,PHI,,SAC,,C. Jones,SAC,Jones S.FOUL (P3.PN) (S.Wall),Foul,Shooting,0,0,0,0,,,v
+S2324-G0532,4,01:30,PHI,,SAC,,C. Jones,SAC,MISS Jones 14' Floating Jump Shot,Missed Shot,Floating Jump shot,-9,140,14,1,2.0,0.0,v
+S2324-G0532,4,00:20.400000,PHI,,SAC,,C. Jones,SAC,Jones REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0532,4,00:18.800000,PHI,,SAC,,C. Jones,SAC,Jones Bad Pass Turnover (P1.T17),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G1118,4,05:22,BOS,98.0,SAC,82.0,C. Jones,SAC,Jones 7' Driving Floating Jump Shot (2 PTS) (Murray 4 AST),Made Shot,Driving Floating Jump Shot,-27,61,7,1,2.0,2.0,v
+S2324-G1118,4,05:05,BOS,,SAC,,C. Jones,SAC,Jones P.FOUL (P1.T3) (J.Conley),Foul,Personal,0,0,0,0,,,v
+S2324-G1118,4,04:37,BOS,,SAC,,C. Jones,SAC,Jones P.FOUL (P2.T4) (J.Conley),Foul,Personal,0,0,0,0,,,v
+S2324-G1118,4,04:14,BOS,,SAC,,C. Jones,SAC,Jones BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G1118,4,03:10,BOS,,SAC,,C. Jones,SAC,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1118,4,02:13,BOS,,SAC,,C. Jones,SAC,Jones S.FOUL (P3.PN) (J.Conley),Foul,Shooting,0,0,0,0,,,v
+S2324-G1118,4,00:33.800000,BOS,,SAC,,C. Jones,SAC,Jones REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1118,4,00:01.900000,BOS,,SAC,,C. Jones,SAC,Jones REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1118,4,00:01.900000,BOS,,SAC,,C. Jones,SAC,MISS Jones 4' Tip Layup Shot,Missed Shot,Tip Layup Shot,28,30,4,1,2.0,0.0,v
+S2324-G0714,4,02:47,CLE,,SAC,,C. Jones,SAC,MISS Jones Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0714,4,02:47,CLE,,SAC,,C. Jones,SAC,MISS Jones Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0714,4,01:35,CLE,,SAC,,C. Jones,SAC,Jones REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0714,4,00:57.800000,CLE,,SAC,,C. Jones,SAC,MISS Jones 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-1,6,1,1,2.0,0.0,v
+S2324-G0153,1,02:38,HOU,,SAC,,C. Jones,SAC,Jones S.FOUL (P1.T4) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,v
+S2324-G0153,1,01:59,HOU,,SAC,,C. Jones,SAC,SUB: Ford FOR Jones,Substitution,,0,0,0,0,,,v
+S2324-G0153,2,02:25,HOU,59.0,SAC,37.0,C. Jones,SAC,Jones Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0153,2,02:25,HOU,59.0,SAC,38.0,C. Jones,SAC,Jones Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0153,2,00:47.400000,HOU,,SAC,,C. Jones,SAC,Jones REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0153,2,00:43.400000,HOU,64.0,SAC,42.0,C. Jones,SAC,Jones 2' Driving Finger Roll Layup (4 PTS),Made Shot,Driving Finger Roll Layup Shot,-16,19,2,1,2.0,2.0,v
+S2324-G0153,2,00:06.300000,HOU,,SAC,,C. Jones,SAC,Jones REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0153,2,00:06.300000,HOU,,SAC,,C. Jones,SAC,MISS Jones 2' Tip Layup Shot,Missed Shot,Tip Layup Shot,1,19,2,1,2.0,0.0,v
+S2324-G0153,2,00:05.400000,HOU,,SAC,,C. Jones,SAC,Jones REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0153,2,00:05.400000,HOU,,SAC,,C. Jones,SAC,MISS Jones Putback Layup,Missed Shot,Putback Layup Shot,0,0,0,1,2.0,0.0,v
+S2324-G0153,4,03:41,HOU,,SAC,,C. Jones,SAC,Jones REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0153,4,03:06,HOU,118.0,SAC,85.0,C. Jones,SAC,Jones 13' Driving Floating Jump Shot (6 PTS) (Len 1 AST),Made Shot,Driving Floating Jump Shot,-7,128,13,1,2.0,2.0,v
+S2324-G0153,4,02:50,HOU,,SAC,,C. Jones,SAC,Jones REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0153,4,01:40,HOU,120.0,SAC,93.0,C. Jones,SAC,Jones 4' Driving Floating Bank Jump Shot (8 PTS),Made Shot,Driving Floating Bank Jump Shot,32,16,4,1,2.0,2.0,v
+S2324-G0153,4,00:48.800000,HOU,122.0,SAC,97.0,C. Jones,SAC,Jones 4' Driving Finger Roll Layup (10 PTS),Made Shot,Driving Finger Roll Layup Shot,37,15,4,1,2.0,2.0,v
+S2324-G1200,4,03:30,SAC,108.0,POR,73.0,C. Jones,SAC,C. Jones Free Throw Flagrant 1 of 2 (1 PTS),Free Throw,Free Throw Flagrant 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1200,4,03:30,SAC,109.0,POR,73.0,C. Jones,SAC,C. Jones Free Throw Flagrant 2 of 2 (2 PTS),Free Throw,Free Throw Flagrant 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1200,4,03:24,SAC,111.0,POR,73.0,C. Jones,SAC,C. Jones 2' Cutting Dunk Shot (4 PTS) (McGee 1 AST),Made Shot,Cutting Dunk Shot,-5,16,2,1,2.0,2.0,h
+S2324-G1200,4,02:09,SAC,,POR,,C. Jones,SAC,C. Jones BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G1200,4,02:03,SAC,,POR,,C. Jones,SAC,C. Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1200,4,01:13,SAC,117.0,POR,82.0,C. Jones,SAC,C. Jones 8' Driving Floating Jump Shot (6 PTS),Made Shot,Driving Floating Jump Shot,-49,67,8,1,2.0,2.0,h
+S2324-G1200,4,00:10.100000,SAC,121.0,POR,82.0,C. Jones,SAC,C. Jones 7' Driving Finger Roll Layup (8 PTS),Made Shot,Driving Finger Roll Layup Shot,42,62,7,1,2.0,2.0,h
+S2324-G0518,1,02:04,CHA,,SAC,,C. Jones,SAC,SUB: Fox FOR Jones,Substitution,,0,0,0,0,,,v
+S2324-G0518,2,06:58,CHA,,SAC,,C. Jones,SAC,MISS Jones 25' 3PT Jump Shot,Missed Shot,Jump Shot,141,208,25,1,3.0,0.0,v
+S2324-G0518,2,05:22,CHA,,SAC,,C. Jones,SAC,MISS Jones 25' 3PT Jump Shot,Missed Shot,Jump Shot,-211,134,25,1,3.0,0.0,v
+S2324-G0518,2,03:49,CHA,,SAC,,C. Jones,SAC,SUB: Monk FOR Jones,Substitution,,0,0,0,0,,,v
+S2324-G0518,3,03:15,CHA,,SAC,,C. Jones,SAC,SUB: Fox FOR Jones,Substitution,,0,0,0,0,,,v
+S2324-G0518,4,00:56.100000,CHA,,SAC,,C. Jones,SAC,Jones REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1153,1,02:46,OKC,,SAC,,C. Jones,SAC,MISS C. Jones 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,0,110,11,1,2.0,0.0,v
+S2324-G1153,1,01:28,OKC,,SAC,,C. Jones,SAC,MISS C. Jones 24' 3PT Jump Shot,Missed Shot,Jump Shot,-237,48,24,1,3.0,0.0,v
+S2324-G1153,2,11:43,OKC,,SAC,,C. Jones,SAC,C. Jones S.FOUL (P1.T1) (S.Corbin),Foul,Shooting,0,0,0,0,,,v
+S2324-G1153,2,11:10,OKC,,SAC,,C. Jones,SAC,C. Jones Out of Bounds - Bad Pass Turnover Turnover (P1.T5),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G1153,2,10:11,OKC,,SAC,,C. Jones,SAC,SUB: Ellis FOR C. Jones,Substitution,,0,0,0,0,,,v
+S2324-G1153,3,01:49,OKC,,SAC,,C. Jones,SAC,C. Jones S.FOUL (P2.T2) (E.Scott),Foul,Shooting,0,0,0,0,,,v
+S2324-G1153,3,00:54.600000,OKC,,SAC,,C. Jones,SAC,C. Jones P.FOUL (P3.PN) (B.Kennedy),Foul,Personal,0,0,0,0,,,v
+S2324-G1153,3,00:54.600000,OKC,,SAC,,C. Jones,SAC,SUB: Ellis FOR C. Jones,Substitution,,0,0,0,0,,,v
+S2324-G1153,4,11:19,OKC,,SAC,,C. Jones,SAC,C. Jones REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1153,4,10:07,OKC,89.0,SAC,88.0,C. Jones,SAC,C. Jones Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1153,4,10:07,OKC,89.0,SAC,89.0,C. Jones,SAC,C. Jones Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1153,4,09:52,OKC,,SAC,,C. Jones,SAC,SUB: Mitchell FOR C. Jones,Substitution,,0,0,0,0,,,v
+S2324-G1170,1,04:51,SAC,,NOP,,C. Jones,SAC,C. Jones Out of Bounds - Bad Pass Turnover Turnover (P1.T2),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G1170,1,04:02,SAC,,NOP,,C. Jones,SAC,C. Jones S.FOUL (P1.T2) (P.Ransom),Foul,Shooting,0,0,0,0,,,h
+S2324-G1170,1,03:55,SAC,,NOP,,C. Jones,SAC,C. Jones Palming Turnover (P2.T3),Turnover,Palming Turnover,0,0,0,0,,,h
+S2324-G1170,1,03:19,SAC,,NOP,,C. Jones,SAC,SUB: Fox FOR C. Jones,Substitution,,0,0,0,0,,,h
+S2324-G0126,1,01:18,GSW,27.0,SAC,24.0,C. Jones,SAC,Jones 8' Floating Jump Shot (2 PTS),Made Shot,Floating Jump shot,72,34,8,1,2.0,2.0,v
+S2324-G0126,1,01:12,GSW,,SAC,,C. Jones,SAC,Jones S.FOUL (P1.T3) (K.Cutler),Foul,Shooting,0,0,0,0,,,v
+S2324-G0126,1,00:56,GSW,28.0,SAC,26.0,C. Jones,SAC,Jones 6' Driving Finger Roll Layup (4 PTS),Made Shot,Driving Finger Roll Layup Shot,59,20,6,1,2.0,2.0,v
+S2324-G0126,2,11:49,GSW,,SAC,,C. Jones,SAC,MISS Jones 3' Driving Layup,Missed Shot,Driving Layup Shot,-26,13,3,1,2.0,0.0,v
+S2324-G0126,2,08:33,GSW,,SAC,,C. Jones,SAC,Jones S.FOUL (P2.T2) (J.Capers),Foul,Shooting,0,0,0,0,,,v
+S2324-G0126,2,08:33,GSW,,SAC,,C. Jones,SAC,SUB: Murray FOR Jones,Substitution,,0,0,0,0,,,v
+S2324-G0126,3,03:41,GSW,,SAC,,C. Jones,SAC,MISS Jones 5' Driving Layup,Missed Shot,Driving Layup Shot,42,33,5,1,2.0,0.0,v
+S2324-G0126,3,03:04,GSW,,SAC,,C. Jones,SAC,Jones REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0126,3,01:49,GSW,,SAC,,C. Jones,SAC,Jones P.FOUL (P3.T4) (J.Capers),Foul,Personal,0,0,0,0,,,v
+S2324-G0126,3,00:38.200000,GSW,,SAC,,C. Jones,SAC,Jones REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0126,3,00:01.200000,GSW,,SAC,,C. Jones,SAC,Jones BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0126,3,00:00.300000,GSW,,SAC,,C. Jones,SAC,Jones REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0126,4,10:08,GSW,,SAC,,C. Jones,SAC,Jones STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0126,4,09:03,GSW,,SAC,,C. Jones,SAC,SUB: Barnes FOR Jones,Substitution,,0,0,0,0,,,v
+S2324-G0999,4,08:51,TOR,,SAC,,C. Jones,SAC,Jones P.FOUL (P1.T2) (N.Green),Foul,Personal,0,0,0,0,,,v
+S2324-G0999,4,06:48,TOR,,SAC,,C. Jones,SAC,MISS Jones 29' 3PT Jump Shot,Missed Shot,Jump Shot,53,284,29,1,3.0,0.0,v
+S2324-G0999,4,06:32,TOR,,SAC,,C. Jones,SAC,Jones Out of Bounds Lost Ball Turnover (P1.T15),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2324-G0999,4,06:32,TOR,,SAC,,C. Jones,SAC,SUB: Duarte FOR Jones,Substitution,,0,0,0,0,,,v
+S2324-G0999,4,03:34,TOR,,SAC,,C. Jones,SAC,Jones REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0999,4,01:41,TOR,,SAC,,C. Jones,SAC,Jones P.FOUL (P2.PN) (J.DeRosa),Foul,Personal,0,0,0,0,,,v
+S2324-G0999,4,01:21,TOR,,SAC,,C. Jones,SAC,MISS Jones 25' 3PT Jump Shot,Missed Shot,Jump Shot,-176,176,25,1,3.0,0.0,v
+S2324-G0222,2,01:03,NOP,,SAC,,C. Jones,SAC,Jones S.FOUL (P1.PN) (T.Washington),Foul,Shooting,0,0,0,0,,,v
+S2324-G0222,3,05:20,NOP,,SAC,,C. Jones,SAC,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0222,3,04:53,NOP,,SAC,,C. Jones,SAC,MISS Jones 2' Running Layup,Missed Shot,Running Layup Shot,18,0,2,1,2.0,0.0,v
+S2324-G0222,3,04:10,NOP,,SAC,,C. Jones,SAC,Jones STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0222,3,03:59,NOP,,SAC,,C. Jones,SAC,MISS Jones 25' 3PT Jump Shot,Missed Shot,Jump Shot,-130,211,25,1,3.0,0.0,v
+S2324-G0222,3,03:42,NOP,,SAC,,C. Jones,SAC,Jones P.FOUL (P2.T4) (T.Washington),Foul,Personal,0,0,0,0,,,v
+S2324-G0222,3,03:42,NOP,,SAC,,C. Jones,SAC,SUB: Huerter FOR Jones,Substitution,,0,0,0,0,,,v
+S2324-G0222,4,09:35,NOP,109.0,SAC,71.0,C. Jones,SAC,Jones 11' Driving Floating Jump Shot (2 PTS) (Mitchell 2 AST),Made Shot,Driving Floating Jump Shot,-4,106,11,1,2.0,2.0,v
+S2324-G0222,4,08:11,NOP,,SAC,,C. Jones,SAC,MISS Jones 14' Floating Jump Shot,Missed Shot,Floating Jump shot,-134,44,14,1,2.0,0.0,v
+S2324-G0222,4,04:54,NOP,121.0,SAC,84.0,C. Jones,SAC,Jones 2' Driving Layup (4 PTS) (Mitchell 5 AST),Made Shot,Driving Layup Shot,-18,6,2,1,2.0,2.0,v
+S2324-G0222,4,04:54,NOP,,SAC,,C. Jones,SAC,MISS Jones Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2324-G0222,4,03:59,NOP,,SAC,,C. Jones,SAC,MISS Jones 27' 3PT Jump Shot,Missed Shot,Jump Shot,-159,215,27,1,3.0,0.0,v
+S2324-G0222,4,03:22,NOP,125.0,SAC,86.0,C. Jones,SAC,Jones 7' Driving Floating Jump Shot (6 PTS) (Mitchell 6 AST),Made Shot,Driving Floating Jump Shot,25,62,7,1,2.0,2.0,v
+S2324-G0222,4,00:56.900000,NOP,129.0,SAC,91.0,C. Jones,SAC,Jones 16' Running Pull-Up Jump Shot (8 PTS) (Slawson 2 AST),Made Shot,Running Pull-Up Jump Shot,-71,142,16,1,2.0,2.0,v
+S2324-G0500,4,10:00,SAC,,NOP,,C. Jones,SAC,MISS Jones 3PT Jump Shot,Missed Shot,Jump Shot,-234,9,0,1,3.0,0.0,h
+S2324-G0500,4,08:52,SAC,67.0,NOP,114.0,C. Jones,SAC,Jones 4' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,-21,29,4,1,2.0,2.0,h
+S2324-G0500,4,08:30,SAC,,NOP,,C. Jones,SAC,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0500,4,07:27,SAC,,NOP,,C. Jones,SAC,MISS Jones 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,12,45,5,1,2.0,0.0,h
+S2324-G0500,4,07:11,SAC,,NOP,,C. Jones,SAC,Jones STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0500,4,04:34,SAC,,NOP,,C. Jones,SAC,MISS Jones 26' 3PT Jump Shot,Missed Shot,Jump Shot,89,243,26,1,3.0,0.0,h
+S2324-G0500,4,00:59.400000,SAC,95.0,NOP,129.0,C. Jones,SAC,Jones 4' Floating Jump Shot (4 PTS) (Len 3 AST),Made Shot,Floating Jump shot,5,36,4,1,2.0,2.0,h
+S2324-G0500,4,00:53.300000,SAC,,NOP,,C. Jones,SAC,Jones S.FOUL (P1.T3) (C.Washington),Foul,Shooting,0,0,0,0,,,h
+S2324-G0264,4,01:04,SAC,,LAC,,C. Jones,SAC,MISS Jones 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,-8,24,1,3.0,0.0,h
+S2324-G0264,4,00:38.400000,SAC,,LAC,,C. Jones,SAC,Jones Bad Pass Turnover (P1.T14),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0264,4,00:22,SAC,,LAC,,C. Jones,SAC,Jones REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0264,4,00:21.600000,SAC,117.0,LAC,131.0,C. Jones,SAC,Jones 1' Layup (2 PTS),Made Shot,Layup Shot,2,10,1,1,2.0,2.0,h
+S2324-G1101,4,00:54.700000,SAC,,LAC,,C. Jones,SAC,C. Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1101,4,00:33.300000,SAC,,LAC,,C. Jones,SAC,C. Jones REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1101,4,00:33.300000,SAC,109.0,LAC,93.0,C. Jones,SAC,C. Jones Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2324-G0212,4,02:47,DAL,,SAC,,C. Jones,SAC,Jones P.FOUL (P1.T4) (C.Washington),Foul,Personal,0,0,0,0,,,v
+S2324-G0212,4,02:29,DAL,,SAC,,C. Jones,SAC,Jones L.B.FOUL (P2.PN) (E.Malloy),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0212,4,02:10,DAL,,SAC,,C. Jones,SAC,MISS Jones 24' 3PT Jump Shot,Missed Shot,Jump Shot,-232,48,24,1,3.0,0.0,v
+S2324-G1141,1,03:57,BKN,,SAC,,C. Jones,SAC,Jones BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G1141,1,03:00,BKN,,SAC,,C. Jones,SAC,MISS Jones 25' 3PT Jump Shot,Missed Shot,Jump Shot,-40,248,25,1,3.0,0.0,v
+S2324-G1141,1,02:05,BKN,,SAC,,C. Jones,SAC,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1141,1,01:55,BKN,,SAC,,C. Jones,SAC,Jones BLOCK (2 BLK),,,0,0,0,0,,,v
+S2324-G1141,1,01:10,BKN,,SAC,,C. Jones,SAC,Jones REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1141,1,01:02,BKN,,SAC,,C. Jones,SAC,SUB: Murray FOR Jones,Substitution,,0,0,0,0,,,v
+S2324-G1141,2,11:48,BKN,19.0,SAC,31.0,C. Jones,SAC,Jones 2' Driving Layup (2 PTS) (Lyles 2 AST),Made Shot,Driving Layup Shot,21,4,2,1,2.0,2.0,v
+S2324-G1141,2,11:02,BKN,,SAC,,C. Jones,SAC,Jones S.FOUL (P1.T1) (S.Mitchell),Foul,Shooting,0,0,0,0,,,v
+S2324-G1141,2,10:19,BKN,,SAC,,C. Jones,SAC,MISS Jones 24' 3PT Jump Shot,Missed Shot,Jump Shot,-216,108,24,1,3.0,0.0,v
+S2324-G1141,2,08:10,BKN,,SAC,,C. Jones,SAC,SUB: Murray FOR Jones,Substitution,,0,0,0,0,,,v
+S2324-G1141,2,06:23,BKN,,SAC,,C. Jones,SAC,Jones REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1141,2,06:21,BKN,,SAC,,C. Jones,SAC,MISS Jones 5' Putback Layup,Missed Shot,Putback Layup Shot,13,48,5,1,2.0,0.0,v
+S2324-G1141,2,05:06,BKN,38.0,SAC,50.0,C. Jones,SAC,Jones 3PT Jump Shot (5 PTS) (Ellis 1 AST),Made Shot,Jump Shot,-230,17,0,1,3.0,3.0,v
+S2324-G1141,2,04:47,BKN,,SAC,,C. Jones,SAC,Jones REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1141,2,04:35,BKN,,SAC,,C. Jones,SAC,SUB: Lyles FOR Jones,Substitution,,0,0,0,0,,,v
+S2324-G1141,3,04:15,BKN,,SAC,,C. Jones,SAC,MISS Jones 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,16,284,28,1,3.0,0.0,v
+S2324-G1141,3,03:03,BKN,,SAC,,C. Jones,SAC,MISS Jones Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G1141,3,03:03,BKN,,SAC,,C. Jones,SAC,MISS Jones Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G1141,3,00:08.400000,BKN,,SAC,,C. Jones,SAC,Jones S.FOUL (P2.T3) (S.Wright),Foul,Shooting,0,0,0,0,,,v
+S2324-G1141,3,00:08.400000,BKN,,SAC,,C. Jones,SAC,SUB: Murray FOR Jones,Substitution,,0,0,0,0,,,v
+S2324-G1141,4,11:43,BKN,,SAC,,C. Jones,SAC,Jones P.FOUL (P3.T1) (S.Wright),Foul,Personal,0,0,0,0,,,v
+S2324-G1141,4,10:42,BKN,,SAC,,C. Jones,SAC,Jones STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G1141,4,09:53,BKN,,SAC,,C. Jones,SAC,MISS Jones 24' 3PT Jump Shot,Missed Shot,Jump Shot,-238,20,24,1,3.0,0.0,v
+S2324-G1141,4,09:10,BKN,,SAC,,C. Jones,SAC,SUB: Sabonis FOR Jones,Substitution,,0,0,0,0,,,v
+S2324-G1141,4,02:25,BKN,74.0,SAC,104.0,C. Jones,SAC,Jones 8' Running Pull-Up Jump Shot (7 PTS) (Duarte 1 AST),Made Shot,Running Pull-Up Jump Shot,58,60,8,1,2.0,2.0,v
+S2324-G1141,4,02:11,BKN,,SAC,,C. Jones,SAC,Jones STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G1141,4,01:21,BKN,,SAC,,C. Jones,SAC,Jones Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G1141,4,01:04,BKN,,SAC,,C. Jones,SAC,Jones STEAL (3 STL),,,0,0,0,0,,,v
+S2324-G1141,4,00:49.400000,BKN,,SAC,,C. Jones,SAC,MISS Jones 28' 3PT Jump Shot,Missed Shot,Jump Shot,-161,226,28,1,3.0,0.0,v
+S2324-G0746,4,04:00,SAC,128.0,DEN,98.0,C. Jones,SAC,Jones 12' Turnaround Jump Shot (2 PTS) (Len 1 AST),Made Shot,Turnaround Jump Shot,-6,118,12,1,2.0,2.0,h
+S2324-G0746,4,03:38,SAC,,DEN,,C. Jones,SAC,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0746,4,03:09,SAC,,DEN,,C. Jones,SAC,Jones P.FOUL (P1.PN) (D.Mosher),Foul,Personal,0,0,0,0,,,h
+S2324-G0746,4,02:46,SAC,,DEN,,C. Jones,SAC,MISS Jones 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,60,84,10,1,2.0,0.0,h
+S2324-G0746,4,00:40.400000,SAC,,DEN,,C. Jones,SAC,Jones REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0746,4,00:26.100000,SAC,,DEN,,C. Jones,SAC,MISS Jones 2' Driving Layup,Missed Shot,Driving Layup Shot,18,17,2,1,2.0,0.0,h
+S2324-G0746,4,00:17.100000,SAC,,DEN,,C. Jones,SAC,Jones REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1086,4,01:14,SAC,124.0,UTA,101.0,C. Jones,SAC,C. Jones 18' Pullup Jump Shot (2 PTS) (Lyles 3 AST),Made Shot,Pullup Jump shot,176,-13,18,1,2.0,2.0,h
+S2324-G0072,4,00:47.700000,UTA,,SAC,,C. Jones,SAC,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0137,1,02:27,HOU,,SAC,,C. Jones,SAC,Jones Step Out of Bounds Turnover (P1.T4),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2324-G0137,1,00:39.500000,HOU,33.0,SAC,19.0,C. Jones,SAC,Jones 4' Driving Layup (2 PTS) (Duarte 1 AST),Made Shot,Driving Layup Shot,26,34,4,1,2.0,2.0,v
+S2324-G0137,1,00:24.100000,HOU,,SAC,,C. Jones,SAC,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0137,1,00:02.300000,HOU,,SAC,,C. Jones,SAC,MISS Jones 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,5,62,6,1,2.0,0.0,v
+S2324-G0137,2,11:04,HOU,33.0,SAC,24.0,C. Jones,SAC,Jones 25' 3PT Jump Shot (5 PTS) (Monk 3 AST),Made Shot,Jump Shot,-174,180,25,1,3.0,3.0,v
+S2324-G0137,2,09:19,HOU,,SAC,,C. Jones,SAC,SUB: Mitchell FOR Jones,Substitution,,0,0,0,0,,,v
+S2324-G0137,3,02:27,HOU,,SAC,,C. Jones,SAC,Jones S.FOUL (P1.T1) (J.Reneau),Foul,Shooting,0,0,0,0,,,v
+S2324-G0137,3,02:15,HOU,,SAC,,C. Jones,SAC,Jones Bad Pass Turnover (P2.T9),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0137,3,00:59.100000,HOU,,SAC,,C. Jones,SAC,MISS Jones 3PT Jump Shot,Missed Shot,Jump Shot,228,-5,0,1,3.0,0.0,v
+S2324-G0137,3,00:20.500000,HOU,,SAC,,C. Jones,SAC,SUB: Murray FOR Jones,Substitution,,0,0,0,0,,,v
+S2324-G0137,4,11:26,HOU,,SAC,,C. Jones,SAC,Jones Out of Bounds Lost Ball Turnover (P3.T10),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2324-G0137,4,10:22,HOU,,SAC,,C. Jones,SAC,Jones REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0137,4,09:03,HOU,,SAC,,C. Jones,SAC,SUB: Sabonis FOR Jones,Substitution,,0,0,0,0,,,v
+S2324-G0137,4,02:18,HOU,,SAC,,C. Jones,SAC,MISS Jones 3' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,-4,34,3,1,2.0,0.0,v
+S2324-G0137,4,01:29,HOU,,SAC,,C. Jones,SAC,MISS Jones 28' 3PT Jump Shot,Missed Shot,Jump Shot,-153,231,28,1,3.0,0.0,v
+S2324-G0137,4,01:04,HOU,,SAC,,C. Jones,SAC,MISS Jones 26' 3PT Jump Shot,Missed Shot,Jump Shot,-132,225,26,1,3.0,0.0,v
+S2324-G0137,4,00:30.300000,HOU,,SAC,,C. Jones,SAC,Jones REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v

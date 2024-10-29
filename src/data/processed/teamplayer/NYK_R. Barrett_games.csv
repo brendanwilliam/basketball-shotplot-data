@@ -1,0 +1,843 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2324-G0401,1,09:46,NYK,5.0,MIL,6.0,R. Barrett,NYK,Barrett 25' 3PT Jump Shot (3 PTS) (Hartenstein 1 AST),Made Shot,Jump Shot,172,187,25,1,3.0,3.0,h
+S2324-G0401,1,09:19,NYK,7.0,MIL,6.0,R. Barrett,NYK,Barrett 1' Running Dunk (5 PTS) (DiVincenzo 1 AST),Made Shot,Running Dunk Shot,10,10,1,1,2.0,2.0,h
+S2324-G0401,1,07:53,NYK,,MIL,,R. Barrett,NYK,MISS Barrett 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,7,248,25,1,3.0,0.0,h
+S2324-G0401,1,07:16,NYK,14.0,MIL,13.0,R. Barrett,NYK,Barrett 25' 3PT Jump Shot (8 PTS) (Brunson 1 AST),Made Shot,Jump Shot,157,197,25,1,3.0,3.0,h
+S2324-G0401,1,06:53,NYK,,MIL,,R. Barrett,NYK,Barrett REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0401,1,06:13,NYK,,MIL,,R. Barrett,NYK,Barrett STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0401,1,06:05,NYK,,MIL,,R. Barrett,NYK,Barrett REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0401,1,06:05,NYK,16.0,MIL,16.0,R. Barrett,NYK,Barrett Tip Layup Shot (10 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2324-G0401,1,05:44,NYK,18.0,MIL,16.0,R. Barrett,NYK,Barrett 2' Running Layup (12 PTS) (Hart 1 AST),Made Shot,Running Layup Shot,-15,13,2,1,2.0,2.0,h
+S2324-G0401,1,05:21,NYK,,MIL,,R. Barrett,NYK,MISS Barrett 2' Driving Dunk,Missed Shot,Driving Dunk Shot,-17,10,2,1,2.0,0.0,h
+S2324-G0401,1,04:23,NYK,22.0,MIL,18.0,R. Barrett,NYK,Barrett 1' Driving Layup (14 PTS) (DiVincenzo 2 AST),Made Shot,Driving Layup Shot,-1,6,1,1,2.0,2.0,h
+S2324-G0401,1,03:26,NYK,,MIL,,R. Barrett,NYK,MISS Barrett 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-228,-1,0,1,3.0,0.0,h
+S2324-G0401,1,03:04,NYK,,MIL,,R. Barrett,NYK,MISS Barrett 1' Driving Layup,Missed Shot,Driving Layup Shot,10,5,1,1,2.0,0.0,h
+S2324-G0401,1,02:59,NYK,,MIL,,R. Barrett,NYK,SUB: Randle FOR Barrett,Substitution,,0,0,0,0,,,h
+S2324-G0401,2,06:16,NYK,,MIL,,R. Barrett,NYK,Barrett S.FOUL (P1.T4) (R.Acosta),Foul,Shooting,0,0,0,0,,,h
+S2324-G0401,2,06:05,NYK,45.0,MIL,38.0,R. Barrett,NYK,Barrett 17' Jump Shot (16 PTS) (Grimes 2 AST),Made Shot,Jump Shot,21,164,17,1,2.0,2.0,h
+S2324-G0401,2,05:09,NYK,,MIL,,R. Barrett,NYK,Barrett REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0401,2,02:59,NYK,,MIL,,R. Barrett,NYK,Barrett Lost Ball Turnover (P1.T7),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0401,2,02:59,NYK,,MIL,,R. Barrett,NYK,Barrett P.FOUL (P2.PN) (A.Moyer-Gleich),Foul,Personal,0,0,0,0,,,h
+S2324-G0401,2,01:41,NYK,,MIL,,R. Barrett,NYK,MISS Barrett 25' 3PT Jump Shot,Missed Shot,Jump Shot,-228,98,25,1,3.0,0.0,h
+S2324-G0401,2,01:36,NYK,56.0,MIL,48.0,R. Barrett,NYK,Barrett 12' Driving Floating Jump Shot (18 PTS) (Gibson 1 AST),Made Shot,Driving Floating Jump Shot,-2,116,12,1,2.0,2.0,h
+S2324-G0401,2,00:44.900000,NYK,,MIL,,R. Barrett,NYK,Barrett REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0401,3,09:18,NYK,,MIL,,R. Barrett,NYK,Barrett REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0401,3,09:11,NYK,,MIL,,R. Barrett,NYK,Barrett Traveling Turnover (P2.T8),Turnover,Traveling,0,0,0,0,,,h
+S2324-G0401,3,08:53,NYK,70.0,MIL,58.0,R. Barrett,NYK,Barrett Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0401,3,08:53,NYK,71.0,MIL,58.0,R. Barrett,NYK,Barrett Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0401,3,07:53,NYK,,MIL,,R. Barrett,NYK,Barrett REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0401,3,05:52,NYK,,MIL,,R. Barrett,NYK,SUB: Hart FOR Barrett,Substitution,,0,0,0,0,,,h
+S2324-G0401,4,10:52,NYK,,MIL,,R. Barrett,NYK,MISS Barrett 2' Layup,Missed Shot,Layup Shot,17,16,2,1,2.0,0.0,h
+S2324-G0401,4,09:57,NYK,,MIL,,R. Barrett,NYK,SUB: Randle FOR Barrett,Substitution,,0,0,0,0,,,h
+S2324-G0401,4,00:52,NYK,,MIL,,R. Barrett,NYK,Barrett Offensive Charge Foul (P3) (J.Williams),Foul,Offensive Charge,0,0,0,0,,,h
+S2324-G0401,4,00:52,NYK,,MIL,,R. Barrett,NYK,Barrett Offensive Foul Turnover (P3.T12),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0401,4,00:08.900000,NYK,129.0,MIL,122.0,R. Barrett,NYK,Barrett Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0401,4,00:08.900000,NYK,,MIL,,R. Barrett,NYK,MISS Barrett Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0343,1,11:25,LAC,,NYK,,R. Barrett,NYK,MISS Barrett 6' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,4,55,6,1,2.0,0.0,v
+S2324-G0343,1,08:41,LAC,,NYK,,R. Barrett,NYK,MISS Barrett 25' 3PT Jump Shot,Missed Shot,Jump Shot,125,216,25,1,3.0,0.0,v
+S2324-G0343,1,08:29,LAC,,NYK,,R. Barrett,NYK,Barrett REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0343,1,08:12,LAC,,NYK,,R. Barrett,NYK,Barrett BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0343,1,07:12,LAC,,NYK,,R. Barrett,NYK,MISS Barrett 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,20,26,3,1,2.0,0.0,v
+S2324-G0343,1,06:49,LAC,,NYK,,R. Barrett,NYK,Barrett REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0343,1,06:44,LAC,16.0,NYK,15.0,R. Barrett,NYK,Barrett 26' 3PT Jump Shot (3 PTS) (Hartenstein 1 AST),Made Shot,Jump Shot,49,257,26,1,3.0,3.0,v
+S2324-G0343,1,05:45,LAC,,NYK,,R. Barrett,NYK,SUB: Hart FOR Barrett,Substitution,,0,0,0,0,,,v
+S2324-G0343,2,09:39,LAC,41.0,NYK,39.0,R. Barrett,NYK,Barrett 3' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,26,15,3,1,2.0,2.0,v
+S2324-G0343,2,08:15,LAC,48.0,NYK,43.0,R. Barrett,NYK,Barrett 11' Turnaround Hook Shot (7 PTS),Made Shot,Turnaround Hook Shot,-110,26,11,1,2.0,2.0,v
+S2324-G0343,2,06:14,LAC,,NYK,,R. Barrett,NYK,SUB: Randle FOR Barrett,Substitution,,0,0,0,0,,,v
+S2324-G0343,2,02:56,LAC,,NYK,,R. Barrett,NYK,Barrett S.FOUL (P1.PN) (C.Washington),Foul,Shooting,0,0,0,0,,,v
+S2324-G0343,2,01:52,LAC,,NYK,,R. Barrett,NYK,Barrett REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0343,2,01:18,LAC,,NYK,,R. Barrett,NYK,MISS Barrett 26' 3PT Jump Shot,Missed Shot,Jump Shot,140,216,26,1,3.0,0.0,v
+S2324-G0343,3,10:26,LAC,81.0,NYK,71.0,R. Barrett,NYK,Barrett 11' Driving Floating Jump Shot (9 PTS),Made Shot,Driving Floating Jump Shot,-43,100,11,1,2.0,2.0,v
+S2324-G0343,3,09:54,LAC,,NYK,,R. Barrett,NYK,MISS Barrett 3PT Jump Shot,Missed Shot,Jump Shot,-228,56,0,1,3.0,0.0,v
+S2324-G0343,3,08:46,LAC,,NYK,,R. Barrett,NYK,Barrett REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0343,3,08:39,LAC,87.0,NYK,73.0,R. Barrett,NYK,Barrett 6' Driving Floating Jump Shot (11 PTS),Made Shot,Driving Floating Jump Shot,-5,59,6,1,2.0,2.0,v
+S2324-G0343,3,07:51,LAC,,NYK,,R. Barrett,NYK,Barrett Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0343,3,07:33,LAC,89.0,NYK,74.0,R. Barrett,NYK,Barrett Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0343,3,07:33,LAC,89.0,NYK,75.0,R. Barrett,NYK,Barrett Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0343,3,07:12,LAC,89.0,NYK,78.0,R. Barrett,NYK,Barrett 25' 3PT Jump Shot (16 PTS) (Sims 1 AST),Made Shot,Jump Shot,-70,240,25,1,3.0,3.0,v
+S2324-G0343,3,05:41,LAC,96.0,NYK,82.0,R. Barrett,NYK,Barrett 9' Floating Jump Shot (18 PTS) (Brunson 5 AST),Made Shot,Floating Jump shot,18,88,9,1,2.0,2.0,v
+S2324-G0343,3,05:06,LAC,,NYK,,R. Barrett,NYK,MISS Barrett 26' 3PT Jump Shot,Missed Shot,Jump Shot,15,257,26,1,3.0,0.0,v
+S2324-G0343,3,04:26,LAC,,NYK,,R. Barrett,NYK,SUB: Grimes FOR Barrett,Substitution,,0,0,0,0,,,v
+S2324-G0343,4,09:53,LAC,,NYK,,R. Barrett,NYK,MISS Barrett 3' Driving Layup,Missed Shot,Driving Layup Shot,-21,21,3,1,2.0,0.0,v
+S2324-G0343,4,09:32,LAC,,NYK,,R. Barrett,NYK,Barrett REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0343,4,07:19,LAC,,NYK,,R. Barrett,NYK,MISS Barrett 25' 3PT Jump Shot,Missed Shot,Jump Shot,105,225,25,1,3.0,0.0,v
+S2324-G0343,4,07:06,LAC,,NYK,,R. Barrett,NYK,SUB: Brunson FOR Barrett,Substitution,,0,0,0,0,,,v
+S2324-G0247,1,10:33,NYK,,PHX,,R. Barrett,NYK,MISS Barrett 26' 3PT Jump Shot,Missed Shot,Jump Shot,207,158,26,1,3.0,0.0,h
+S2324-G0247,1,08:51,NYK,4.0,PHX,10.0,R. Barrett,NYK,Barrett 1' Driving Reverse Layup (2 PTS) (Brunson 1 AST),Made Shot,Driving Reverse Layup Shot,-1,12,1,1,2.0,2.0,h
+S2324-G0247,1,08:30,NYK,,PHX,,R. Barrett,NYK,Barrett REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0247,1,06:30,NYK,,PHX,,R. Barrett,NYK,Barrett P.FOUL (P1.T1) (M.Lindsay),Foul,Personal,0,0,0,0,,,h
+S2324-G0247,1,06:05,NYK,,PHX,,R. Barrett,NYK,SUB: Hart FOR Barrett,Substitution,,0,0,0,0,,,h
+S2324-G0247,1,00:12.500000,NYK,22.0,PHX,34.0,R. Barrett,NYK,Barrett 1' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,10,11,1,1,2.0,2.0,h
+S2324-G0247,2,11:18,NYK,26.0,PHX,36.0,R. Barrett,NYK,Barrett Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0247,2,11:18,NYK,,PHX,,R. Barrett,NYK,MISS Barrett Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0247,2,09:52,NYK,,PHX,,R. Barrett,NYK,MISS Barrett 26' 3PT Jump Shot,Missed Shot,Jump Shot,22,259,26,1,3.0,0.0,h
+S2324-G0247,2,07:55,NYK,,PHX,,R. Barrett,NYK,SUB: Brunson FOR Barrett,Substitution,,0,0,0,0,,,h
+S2324-G0247,2,03:53,NYK,,PHX,,R. Barrett,NYK,MISS Barrett 13' Step Back Jump Shot,Missed Shot,Step Back Jump shot,48,116,13,1,2.0,0.0,h
+S2324-G0247,2,03:38,NYK,,PHX,,R. Barrett,NYK,Barrett REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0247,2,03:13,NYK,46.0,PHX,55.0,R. Barrett,NYK,Barrett 2' Running Layup (7 PTS),Made Shot,Running Layup Shot,12,11,2,1,2.0,2.0,h
+S2324-G0247,2,03:00,NYK,,PHX,,R. Barrett,NYK,Barrett BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0247,2,01:19,NYK,,PHX,,R. Barrett,NYK,MISS Barrett 1' Driving Layup,Missed Shot,Driving Layup Shot,10,1,1,1,2.0,0.0,h
+S2324-G0247,3,11:06,NYK,,PHX,,R. Barrett,NYK,MISS Barrett 1' Running Layup,Missed Shot,Running Layup Shot,-11,9,1,1,2.0,0.0,h
+S2324-G0247,3,08:11,NYK,,PHX,,R. Barrett,NYK,MISS Barrett 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,31,105,11,1,2.0,0.0,h
+S2324-G0247,3,05:39,NYK,70.0,PHX,79.0,R. Barrett,NYK,Barrett Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0247,3,05:39,NYK,71.0,PHX,79.0,R. Barrett,NYK,Barrett Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0247,3,05:30,NYK,,PHX,,R. Barrett,NYK,SUB: Quickley FOR Barrett,Substitution,,0,0,0,0,,,h
+S2324-G0247,4,10:38,NYK,,PHX,,R. Barrett,NYK,Barrett S.FOUL (P2.T2) (C.Washington),Foul,Shooting,0,0,0,0,,,h
+S2324-G0247,4,08:48,NYK,,PHX,,R. Barrett,NYK,MISS Barrett 5' Driving Layup,Missed Shot,Driving Layup Shot,48,22,5,1,2.0,0.0,h
+S2324-G0247,4,08:40,NYK,,PHX,,R. Barrett,NYK,MISS Barrett Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-1,3,0,1,2.0,0.0,h
+S2324-G0247,4,07:58,NYK,,PHX,,R. Barrett,NYK,SUB: Brunson FOR Barrett,Substitution,,0,0,0,0,,,h
+S2324-G0247,4,01:28,NYK,,PHX,,R. Barrett,NYK,Barrett P.FOUL (P3.T4) (M.Lindsay),Foul,Personal,0,0,0,0,,,h
+S2324-G1227,1,09:05,BOS,,NYK,,R. Barrett,NYK,Barrett STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G1227,1,08:58,BOS,,NYK,,R. Barrett,NYK,MISS Barrett 2' Running Layup,Missed Shot,Running Layup Shot,-16,14,2,1,2.0,0.0,v
+S2324-G1227,1,07:02,BOS,,NYK,,R. Barrett,NYK,MISS Barrett 28' 3PT Jump Shot,Missed Shot,Jump Shot,192,205,28,1,3.0,0.0,v
+S2324-G1227,1,06:51,BOS,,NYK,,R. Barrett,NYK,Barrett REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1227,1,06:13,BOS,21.0,NYK,16.0,R. Barrett,NYK,Barrett Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1227,1,06:13,BOS,21.0,NYK,17.0,R. Barrett,NYK,Barrett Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1227,1,05:42,BOS,21.0,NYK,19.0,R. Barrett,NYK,Barrett 3' Running Layup (4 PTS) (Brunson 1 AST),Made Shot,Running Layup Shot,-25,21,3,1,2.0,2.0,v
+S2324-G1227,1,05:12,BOS,,NYK,,R. Barrett,NYK,SUB: Hart FOR Barrett,Substitution,,0,0,0,0,,,v
+S2324-G1227,2,10:29,BOS,37.0,NYK,36.0,R. Barrett,NYK,Barrett 9' Driving Floating Jump Shot (6 PTS) (Hartenstein 1 AST),Made Shot,Driving Floating Jump Shot,-10,87,9,1,2.0,2.0,v
+S2324-G1227,2,09:10,BOS,,NYK,,R. Barrett,NYK,MISS Barrett 24' 3PT Jump Shot,Missed Shot,Jump Shot,237,59,24,1,3.0,0.0,v
+S2324-G1227,2,07:30,BOS,47.0,NYK,46.0,R. Barrett,NYK,Barrett 11' Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,34,103,11,1,2.0,2.0,v
+S2324-G1227,2,06:41,BOS,,NYK,,R. Barrett,NYK,SUB: Robinson FOR Barrett,Substitution,,0,0,0,0,,,v
+S2324-G1227,2,03:56,BOS,,NYK,,R. Barrett,NYK,MISS Barrett Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G1227,2,03:56,BOS,57.0,NYK,55.0,R. Barrett,NYK,Barrett Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1227,2,02:20,BOS,66.0,NYK,61.0,R. Barrett,NYK,Barrett 24' 3PT Jump Shot (12 PTS) (Brunson 3 AST),Made Shot,Jump Shot,235,58,24,1,3.0,3.0,v
+S2324-G1227,2,00:28.800000,BOS,,NYK,,R. Barrett,NYK,MISS Barrett 13' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,71,114,13,1,2.0,0.0,v
+S2324-G1227,3,11:29,BOS,,NYK,,R. Barrett,NYK,Barrett REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1227,3,11:06,BOS,,NYK,,R. Barrett,NYK,MISS Barrett 7' Running Layup,Missed Shot,Running Layup Shot,65,18,7,1,2.0,0.0,v
+S2324-G1227,3,09:06,BOS,,NYK,,R. Barrett,NYK,MISS Barrett 6' Driving Layup,Missed Shot,Driving Layup Shot,-55,29,6,1,2.0,0.0,v
+S2324-G1227,3,07:49,BOS,83.0,NYK,75.0,R. Barrett,NYK,Barrett 26' 3PT Jump Shot (15 PTS) (DiVincenzo 1 AST),Made Shot,Jump Shot,167,195,26,1,3.0,3.0,v
+S2324-G1227,3,07:03,BOS,,NYK,,R. Barrett,NYK,Barrett REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1227,3,07:01,BOS,86.0,NYK,77.0,R. Barrett,NYK,Barrett 2' Putback Layup (17 PTS),Made Shot,Putback Layup Shot,-9,12,2,1,2.0,2.0,v
+S2324-G1227,3,05:35,BOS,,NYK,,R. Barrett,NYK,SUB: Hart FOR Barrett,Substitution,,0,0,0,0,,,v
+S2324-G1227,4,11:26,BOS,109.0,NYK,97.0,R. Barrett,NYK,Barrett 6' Pullup Jump Shot (19 PTS) (Hart 4 AST),Made Shot,Pullup Jump shot,-17,61,6,1,2.0,2.0,v
+S2324-G1227,4,07:59,BOS,116.0,NYK,106.0,R. Barrett,NYK,Barrett 4' Driving Layup (21 PTS) (Hart 7 AST),Made Shot,Driving Layup Shot,-34,17,4,1,2.0,2.0,v
+S2324-G1227,4,07:39,BOS,,NYK,,R. Barrett,NYK,SUB: Brunson FOR Barrett,Substitution,,0,0,0,0,,,v
+S2324-G1227,4,02:08,BOS,,NYK,,R. Barrett,NYK,MISS Barrett 24' 3PT Jump Shot,Missed Shot,Jump Shot,169,176,24,1,3.0,0.0,v
+S2324-G1227,4,01:06,BOS,127.0,NYK,119.0,R. Barrett,NYK,Barrett 1' Running Dunk (23 PTS) (Brunson 4 AST),Made Shot,Running Dunk Shot,-1,13,1,1,2.0,2.0,v
+S2324-G0318,1,10:33,UTA,,NYK,,R. Barrett,NYK,MISS Barrett 25' 3PT Jump Shot,Missed Shot,Jump Shot,237,71,25,1,3.0,0.0,v
+S2324-G0318,1,07:52,UTA,,NYK,,R. Barrett,NYK,MISS Barrett 24' 3PT Jump Shot,Missed Shot,Jump Shot,173,169,24,1,3.0,0.0,v
+S2324-G0318,1,07:27,UTA,,NYK,,R. Barrett,NYK,MISS Barrett 3PT Jump Shot,Missed Shot,Jump Shot,-232,-8,0,1,3.0,0.0,v
+S2324-G0318,1,07:07,UTA,,NYK,,R. Barrett,NYK,MISS Barrett 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-1,57,6,1,2.0,0.0,v
+S2324-G0318,1,05:57,UTA,,NYK,,R. Barrett,NYK,MISS Barrett 25' 3PT Jump Shot,Missed Shot,Jump Shot,97,227,25,1,3.0,0.0,v
+S2324-G0318,1,05:48,UTA,,NYK,,R. Barrett,NYK,MISS Barrett 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,81,14,8,1,2.0,0.0,v
+S2324-G0318,1,05:19,UTA,,NYK,,R. Barrett,NYK,Barrett P.FOUL (P1.T2) (J.Ralls),Foul,Personal,0,0,0,0,,,v
+S2324-G0318,1,05:19,UTA,,NYK,,R. Barrett,NYK,SUB: Hart FOR Barrett,Substitution,,0,0,0,0,,,v
+S2324-G0318,2,11:06,UTA,,NYK,,R. Barrett,NYK,Barrett REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0318,2,10:59,UTA,,NYK,,R. Barrett,NYK,MISS Barrett 26' 3PT Jump Shot,Missed Shot,Jump Shot,-48,253,26,1,3.0,0.0,v
+S2324-G0318,2,09:15,UTA,,NYK,,R. Barrett,NYK,Barrett REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0318,2,08:35,UTA,,NYK,,R. Barrett,NYK,MISS Barrett 7' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,5,72,7,1,2.0,0.0,v
+S2324-G0318,2,07:10,UTA,,NYK,,R. Barrett,NYK,MISS Barrett 4' Running Dunk,Missed Shot,Running Dunk Shot,-37,16,4,1,2.0,0.0,v
+S2324-G0318,2,06:48,UTA,,NYK,,R. Barrett,NYK,SUB: Randle FOR Barrett,Substitution,,0,0,0,0,,,v
+S2324-G0318,2,02:47,UTA,,NYK,,R. Barrett,NYK,Barrett REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0318,2,02:39,UTA,48.0,NYK,43.0,R. Barrett,NYK,Barrett 4' Driving Layup (2 PTS) (Brunson 4 AST),Made Shot,Driving Layup Shot,-22,35,4,1,2.0,2.0,v
+S2324-G0318,2,02:25,UTA,,NYK,,R. Barrett,NYK,Barrett REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0318,2,00:09.200000,UTA,,NYK,,R. Barrett,NYK,MISS Barrett 25' 3PT Jump Shot,Missed Shot,Jump Shot,227,115,25,1,3.0,0.0,v
+S2324-G0318,3,11:31,UTA,55.0,NYK,51.0,R. Barrett,NYK,Barrett Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0318,3,11:31,UTA,55.0,NYK,52.0,R. Barrett,NYK,Barrett Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0318,3,10:34,UTA,57.0,NYK,54.0,R. Barrett,NYK,Barrett 7' Floating Jump Shot (6 PTS) (Randle 3 AST),Made Shot,Floating Jump shot,-31,67,7,1,2.0,2.0,v
+S2324-G0318,3,09:40,UTA,,NYK,,R. Barrett,NYK,Barrett REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0318,3,09:40,UTA,60.0,NYK,58.0,R. Barrett,NYK,Barrett 3' Layup (8 PTS),Made Shot,Layup Shot,20,20,3,1,2.0,2.0,v
+S2324-G0318,3,08:46,UTA,,NYK,,R. Barrett,NYK,MISS Barrett 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-9,65,7,1,2.0,0.0,v
+S2324-G0318,3,08:18,UTA,,NYK,,R. Barrett,NYK,MISS Barrett 25' 3PT Jump Shot,Missed Shot,Jump Shot,173,186,25,1,3.0,0.0,v
+S2324-G0318,3,07:07,UTA,,NYK,,R. Barrett,NYK,MISS Barrett Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0318,3,07:07,UTA,66.0,NYK,65.0,R. Barrett,NYK,Barrett Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0318,3,05:21,UTA,,NYK,,R. Barrett,NYK,Barrett L.B.FOUL (P2.T4) (Z.Zarba),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0318,3,05:21,UTA,,NYK,,R. Barrett,NYK,SUB: Hart FOR Barrett,Substitution,,0,0,0,0,,,v
+S2324-G0318,4,10:29,UTA,,NYK,,R. Barrett,NYK,Barrett REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0318,4,10:08,UTA,,NYK,,R. Barrett,NYK,MISS Barrett 4' Driving Layup,Missed Shot,Driving Layup Shot,5,38,4,1,2.0,0.0,v
+S2324-G0318,4,10:00,UTA,,NYK,,R. Barrett,NYK,SUB: Brunson FOR Barrett,Substitution,,0,0,0,0,,,v
+S2324-G0359,1,10:00,LAL,,NYK,,R. Barrett,NYK,MISS Barrett 5' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-42,18,5,1,2.0,0.0,v
+S2324-G0359,1,09:37,LAL,,NYK,,R. Barrett,NYK,MISS Barrett 4' Driving Layup,Missed Shot,Driving Layup Shot,-31,29,4,1,2.0,0.0,v
+S2324-G0359,1,09:27,LAL,,NYK,,R. Barrett,NYK,Barrett REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0359,1,07:36,LAL,9.0,NYK,11.0,R. Barrett,NYK,Barrett 2' Layup (2 PTS),Made Shot,Layup Shot,-13,11,2,1,2.0,2.0,v
+S2324-G0359,1,06:36,LAL,,NYK,,R. Barrett,NYK,MISS Barrett 25' 3PT Jump Shot,Missed Shot,Jump Shot,10,249,25,1,3.0,0.0,v
+S2324-G0359,1,05:55,LAL,,NYK,,R. Barrett,NYK,Barrett REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0359,1,05:44,LAL,14.0,NYK,12.0,R. Barrett,NYK,Barrett Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0359,1,05:44,LAL,14.0,NYK,13.0,R. Barrett,NYK,Barrett Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0359,1,05:04,LAL,,NYK,,R. Barrett,NYK,SUB: Quickley FOR Barrett,Substitution,,0,0,0,0,,,v
+S2324-G0359,2,06:14,LAL,,NYK,,R. Barrett,NYK,Barrett REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0359,2,06:10,LAL,39.0,NYK,48.0,R. Barrett,NYK,Barrett 3' Layup (6 PTS),Made Shot,Layup Shot,-18,20,3,1,2.0,2.0,v
+S2324-G0359,2,05:33,LAL,,NYK,,R. Barrett,NYK,Barrett L.B.FOUL (P1.T1) (M.Lindsay),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0359,2,04:39,LAL,,NYK,,R. Barrett,NYK,Knicks T.Foul (Def. 3 Sec Barrett ) (M.Lindsay),Foul,Defense 3 Second,0,0,0,0,,,v
+S2324-G0359,2,02:55,LAL,,NYK,,R. Barrett,NYK,MISS Barrett 7' Hook Shot,Missed Shot,Hook Shot,22,63,7,1,2.0,0.0,v
+S2324-G0359,2,01:41,LAL,,NYK,,R. Barrett,NYK,Barrett REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0359,2,00:51.200000,LAL,,NYK,,R. Barrett,NYK,MISS Barrett 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-18,80,8,1,2.0,0.0,v
+S2324-G0359,3,09:40,LAL,65.0,NYK,63.0,R. Barrett,NYK,Barrett Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0359,3,09:40,LAL,65.0,NYK,64.0,R. Barrett,NYK,Barrett Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0359,3,07:34,LAL,69.0,NYK,70.0,R. Barrett,NYK,Barrett 3' Running Layup (10 PTS),Made Shot,Running Layup Shot,-21,14,3,1,2.0,2.0,v
+S2324-G0359,3,04:43,LAL,,NYK,,R. Barrett,NYK,SUB: Hart FOR Barrett,Substitution,,0,0,0,0,,,v
+S2324-G0359,4,08:35,LAL,87.0,NYK,93.0,R. Barrett,NYK,Barrett Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0359,4,08:35,LAL,87.0,NYK,94.0,R. Barrett,NYK,Barrett Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0359,4,07:46,LAL,,NYK,,R. Barrett,NYK,Barrett BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0359,4,07:33,LAL,,NYK,,R. Barrett,NYK,Barrett REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0359,4,07:01,LAL,,NYK,,R. Barrett,NYK,MISS Barrett 13' Step Back Jump Shot,Missed Shot,Step Back Jump shot,39,125,13,1,2.0,0.0,v
+S2324-G0359,4,03:40,LAL,,NYK,,R. Barrett,NYK,Barrett Lost Ball Turnover (P1.T15),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0359,4,02:01,LAL,,NYK,,R. Barrett,NYK,MISS Barrett 26' 3PT Jump Shot,Missed Shot,Jump Shot,189,184,26,1,3.0,0.0,v
+S2324-G0359,4,00:27.100000,LAL,,NYK,,R. Barrett,NYK,Barrett S.FOUL (P2.PN) (G.Petraitis),Foul,Shooting,0,0,0,0,,,v
+S2324-G0359,4,00:24.900000,LAL,,NYK,,R. Barrett,NYK,SUB: Hart FOR Barrett,Substitution,,0,0,0,0,,,v
+S2324-G0368,1,11:29,BKN,0.0,NYK,2.0,R. Barrett,NYK,Barrett 2' Running Layup (2 PTS) (Brunson 1 AST),Made Shot,Running Layup Shot,-17,0,2,1,2.0,2.0,v
+S2324-G0368,1,09:53,BKN,,NYK,,R. Barrett,NYK,Barrett Traveling Turnover (P1.T1),Turnover,Traveling,0,0,0,0,,,v
+S2324-G0368,1,08:34,BKN,,NYK,,R. Barrett,NYK,MISS Barrett 9' Running Layup,Missed Shot,Running Layup Shot,78,42,9,1,2.0,0.0,v
+S2324-G0368,1,06:19,BKN,5.0,NYK,15.0,R. Barrett,NYK,Barrett Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0368,1,06:19,BKN,5.0,NYK,16.0,R. Barrett,NYK,Barrett Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0368,1,04:13,BKN,11.0,NYK,21.0,R. Barrett,NYK,Barrett 5' Turnaround Hook Shot (6 PTS),Made Shot,Turnaround Hook Shot,-2,51,5,1,2.0,2.0,v
+S2324-G0368,1,03:38,BKN,,NYK,,R. Barrett,NYK,SUB: Quickley FOR Barrett,Substitution,,0,0,0,0,,,v
+S2324-G0368,2,10:22,BKN,,NYK,,R. Barrett,NYK,Barrett REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0368,2,09:42,BKN,29.0,NYK,39.0,R. Barrett,NYK,Barrett 7' Turnaround Fadeaway (8 PTS),Made Shot,Turnaround Fadeaway shot,-50,43,7,1,2.0,2.0,v
+S2324-G0368,2,08:00,BKN,,NYK,,R. Barrett,NYK,Barrett REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0368,2,07:08,BKN,,NYK,,R. Barrett,NYK,MISS Barrett Running Layup,Missed Shot,Running Layup Shot,2,-1,0,1,2.0,0.0,v
+S2324-G0368,2,06:48,BKN,,NYK,,R. Barrett,NYK,SUB: Brunson FOR Barrett,Substitution,,0,0,0,0,,,v
+S2324-G0368,2,01:17,BKN,49.0,NYK,57.0,R. Barrett,NYK,Barrett Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0368,2,01:17,BKN,49.0,NYK,58.0,R. Barrett,NYK,Barrett Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0368,2,01:00,BKN,,NYK,,R. Barrett,NYK,MISS Barrett 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,152,201,25,1,3.0,0.0,v
+S2324-G0368,2,00:15.700000,BKN,,NYK,,R. Barrett,NYK,Barrett STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0368,3,10:45,BKN,,NYK,,R. Barrett,NYK,Barrett REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0368,3,10:44,BKN,51.0,NYK,66.0,R. Barrett,NYK,Barrett 1' Running Finger Roll Layup (12 PTS),Made Shot,Running Finger Roll Layup Shot,-11,-3,1,1,2.0,2.0,v
+S2324-G0368,3,05:55,BKN,,NYK,,R. Barrett,NYK,MISS Barrett 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,20,136,14,1,2.0,0.0,v
+S2324-G0368,3,05:21,BKN,67.0,NYK,81.0,R. Barrett,NYK,Barrett 9' Turnaround Fadeaway (14 PTS),Made Shot,Turnaround Fadeaway shot,-17,89,9,1,2.0,2.0,v
+S2324-G0368,3,05:04,BKN,,NYK,,R. Barrett,NYK,SUB: Hart FOR Barrett,Substitution,,0,0,0,0,,,v
+S2324-G0368,4,11:36,BKN,,NYK,,R. Barrett,NYK,Barrett BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0368,4,11:08,BKN,,NYK,,R. Barrett,NYK,Barrett P.FOUL (P1.T2) (J.DeRosa),Foul,Personal,0,0,0,0,,,v
+S2324-G0368,4,10:46,BKN,,NYK,,R. Barrett,NYK,MISS Barrett 10' Turnaround Bank Shot,Missed Shot,Turnaround Bank shot,-71,69,10,1,2.0,0.0,v
+S2324-G0368,4,09:46,BKN,,NYK,,R. Barrett,NYK,Barrett S.FOUL (P2.T3) (E.Dalen),Foul,Shooting,0,0,0,0,,,v
+S2324-G0368,4,09:09,BKN,,NYK,,R. Barrett,NYK,Barrett Backcourt Turnover (P2.T9),Turnover,Backcourt Turnover,0,0,0,0,,,v
+S2324-G0368,4,08:29,BKN,,NYK,,R. Barrett,NYK,Barrett REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0368,4,07:36,BKN,,NYK,,R. Barrett,NYK,Barrett REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0368,4,07:32,BKN,,NYK,,R. Barrett,NYK,MISS Barrett 3' Running Layup,Missed Shot,Running Layup Shot,-23,11,3,1,2.0,0.0,v
+S2324-G0368,4,07:24,BKN,,NYK,,R. Barrett,NYK,SUB: Brunson FOR Barrett,Substitution,,0,0,0,0,,,v
+S2324-G0057,1,11:41,NYK,1.0,CHA,0.0,R. Barrett,NYK,Barrett Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0057,1,11:41,NYK,2.0,CHA,0.0,R. Barrett,NYK,Barrett Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0057,1,10:50,NYK,,CHA,,R. Barrett,NYK,MISS Barrett 2' Running Layup,Missed Shot,Running Layup Shot,-10,17,2,1,2.0,0.0,h
+S2324-G0057,1,08:23,NYK,,CHA,,R. Barrett,NYK,MISS Barrett 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,20,151,15,1,2.0,0.0,h
+S2324-G0057,1,07:49,NYK,,CHA,,R. Barrett,NYK,MISS Barrett 25' 3PT Jump Shot,Missed Shot,Jump Shot,188,169,25,1,3.0,0.0,h
+S2324-G0057,1,07:39,NYK,,CHA,,R. Barrett,NYK,Barrett STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0057,1,07:36,NYK,8.0,CHA,6.0,R. Barrett,NYK,Barrett Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0057,1,07:36,NYK,9.0,CHA,6.0,R. Barrett,NYK,Barrett Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0057,1,06:20,NYK,17.0,CHA,6.0,R. Barrett,NYK,Barrett 3PT Jump Shot (7 PTS) (Brunson 2 AST),Made Shot,Jump Shot,-230,-5,0,1,3.0,3.0,h
+S2324-G0057,1,05:19,NYK,,CHA,,R. Barrett,NYK,SUB: Hart FOR Barrett,Substitution,,0,0,0,0,,,h
+S2324-G0057,1,00:45.100000,NYK,,CHA,,R. Barrett,NYK,Barrett REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0057,2,08:26,NYK,,CHA,,R. Barrett,NYK,MISS Barrett 3' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,-34,4,3,1,2.0,0.0,h
+S2324-G0057,2,07:55,NYK,38.0,CHA,27.0,R. Barrett,NYK,Barrett 1' Layup (9 PTS),Made Shot,Layup Shot,-1,5,1,1,2.0,2.0,h
+S2324-G0057,2,07:41,NYK,,CHA,,R. Barrett,NYK,Barrett REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0057,2,07:30,NYK,,CHA,,R. Barrett,NYK,MISS Barrett 26' 3PT Jump Shot,Missed Shot,Jump Shot,120,232,26,1,3.0,0.0,h
+S2324-G0057,2,07:11,NYK,,CHA,,R. Barrett,NYK,SUB: Brunson FOR Barrett,Substitution,,0,0,0,0,,,h
+S2324-G0057,2,03:52,NYK,43.0,CHA,28.0,R. Barrett,NYK,Barrett Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0057,2,03:52,NYK,44.0,CHA,28.0,R. Barrett,NYK,Barrett Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0057,2,01:22,NYK,49.0,CHA,38.0,R. Barrett,NYK,Barrett Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0057,2,01:22,NYK,50.0,CHA,38.0,R. Barrett,NYK,Barrett Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0057,2,00:21.500000,NYK,,CHA,,R. Barrett,NYK,MISS Barrett 9' Floating Jump Shot,Missed Shot,Floating Jump shot,62,66,9,1,2.0,0.0,h
+S2324-G0057,3,11:28,NYK,,CHA,,R. Barrett,NYK,Barrett Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0057,3,10:50,NYK,,CHA,,R. Barrett,NYK,MISS Barrett 8' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-58,53,8,1,2.0,0.0,h
+S2324-G0057,3,07:52,NYK,,CHA,,R. Barrett,NYK,MISS Barrett 3PT Jump Shot,Missed Shot,Jump Shot,222,2,0,1,3.0,0.0,h
+S2324-G0057,3,05:46,NYK,,CHA,,R. Barrett,NYK,MISS Barrett 1' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,-4,12,1,1,2.0,0.0,h
+S2324-G0057,3,04:48,NYK,,CHA,,R. Barrett,NYK,Barrett S.FOUL (P1.T2) (C.Kirkland),Foul,Shooting,0,0,0,0,,,h
+S2324-G0057,3,04:48,NYK,,CHA,,R. Barrett,NYK,SUB: Hart FOR Barrett,Substitution,,0,0,0,0,,,h
+S2324-G0057,4,11:45,NYK,,CHA,,R. Barrett,NYK,MISS Barrett 2' Driving Layup,Missed Shot,Driving Layup Shot,-23,-1,2,1,2.0,0.0,h
+S2324-G0057,4,10:12,NYK,,CHA,,R. Barrett,NYK,Barrett REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0057,4,10:09,NYK,87.0,CHA,68.0,R. Barrett,NYK,Barrett 1' Running Layup (15 PTS),Made Shot,Running Layup Shot,-11,5,1,1,2.0,2.0,h
+S2324-G0057,4,10:09,NYK,88.0,CHA,68.0,R. Barrett,NYK,Barrett Free Throw 1 of 1 (16 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G0057,4,07:40,NYK,,CHA,,R. Barrett,NYK,SUB: Brunson FOR Barrett,Substitution,,0,0,0,0,,,h
+S2324-G0112,1,11:10,CLE,,NYK,,R. Barrett,NYK,MISS Barrett 1' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-1,10,1,1,2.0,0.0,v
+S2324-G0112,1,09:42,CLE,,NYK,,R. Barrett,NYK,Barrett REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0112,1,09:36,CLE,,NYK,,R. Barrett,NYK,MISS Barrett 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,186,173,25,1,3.0,0.0,v
+S2324-G0112,1,08:41,CLE,6.0,NYK,8.0,R. Barrett,NYK,Barrett 5' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,-13,48,5,1,2.0,2.0,v
+S2324-G0112,1,07:51,CLE,6.0,NYK,11.0,R. Barrett,NYK,Barrett 25' 3PT Jump Shot (5 PTS) (Randle 1 AST),Made Shot,Jump Shot,-80,235,25,1,3.0,3.0,v
+S2324-G0112,1,05:45,CLE,,NYK,,R. Barrett,NYK,SUB: Hart FOR Barrett,Substitution,,0,0,0,0,,,v
+S2324-G0112,2,09:26,CLE,28.0,NYK,36.0,R. Barrett,NYK,Barrett 1' Driving Floating Bank Jump Shot (7 PTS) (Hart 3 AST),Made Shot,Driving Floating Bank Jump Shot,4,5,1,1,2.0,2.0,v
+S2324-G0112,2,08:50,CLE,30.0,NYK,39.0,R. Barrett,NYK,Barrett 3PT Running Jump Shot (10 PTS) (Quickley 1 AST),Made Shot,Running Jump Shot,228,19,0,1,3.0,3.0,v
+S2324-G0112,2,07:57,CLE,,NYK,,R. Barrett,NYK,MISS Barrett 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-56,61,8,1,2.0,0.0,v
+S2324-G0112,2,06:16,CLE,,NYK,,R. Barrett,NYK,Barrett S.FOUL (P1.PN) (B.Kennedy),Foul,Shooting,0,0,0,0,,,v
+S2324-G0112,2,06:16,CLE,,NYK,,R. Barrett,NYK,SUB: Randle FOR Barrett,Substitution,,0,0,0,0,,,v
+S2324-G0112,2,03:38,CLE,44.0,NYK,48.0,R. Barrett,NYK,Barrett 24' 3PT Jump Shot (13 PTS) (Randle 2 AST),Made Shot,Jump Shot,237,35,24,1,3.0,3.0,v
+S2324-G0112,2,01:30,CLE,,NYK,,R. Barrett,NYK,MISS Barrett 26' 3PT Jump Shot,Missed Shot,Jump Shot,197,162,26,1,3.0,0.0,v
+S2324-G0112,2,00:51,CLE,50.0,NYK,57.0,R. Barrett,NYK,Barrett Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0112,2,00:51,CLE,50.0,NYK,58.0,R. Barrett,NYK,Barrett Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0112,3,10:37,CLE,,NYK,,R. Barrett,NYK,MISS Barrett 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-60,71,9,1,2.0,0.0,v
+S2324-G0112,3,07:54,CLE,,NYK,,R. Barrett,NYK,Barrett REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0112,3,07:45,CLE,,NYK,,R. Barrett,NYK,MISS Barrett 11' Floating Jump Shot,Missed Shot,Floating Jump shot,64,85,11,1,2.0,0.0,v
+S2324-G0112,3,07:40,CLE,,NYK,,R. Barrett,NYK,Barrett S.FOUL (P2.T2) (A.Smith),Foul,Shooting,0,0,0,0,,,v
+S2324-G0112,3,05:47,CLE,,NYK,,R. Barrett,NYK,MISS Barrett Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0112,3,05:47,CLE,59.0,NYK,69.0,R. Barrett,NYK,Barrett Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0112,3,05:21,CLE,,NYK,,R. Barrett,NYK,SUB: Hart FOR Barrett,Substitution,,0,0,0,0,,,v
+S2324-G0112,4,11:18,CLE,,NYK,,R. Barrett,NYK,MISS Barrett 12' Jump Shot,Missed Shot,Jump Shot,-85,83,12,1,2.0,0.0,v
+S2324-G0112,4,10:50,CLE,,NYK,,R. Barrett,NYK,MISS Barrett 1' Driving Layup,Missed Shot,Driving Layup Shot,1,13,1,1,2.0,0.0,v
+S2324-G0112,4,10:45,CLE,,NYK,,R. Barrett,NYK,Barrett REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0112,4,10:45,CLE,,NYK,,R. Barrett,NYK,Barrett Out of Bounds - Bad Pass Turnover Turnover (P1.T12),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0112,4,10:06,CLE,,NYK,,R. Barrett,NYK,SUB: Brunson FOR Barrett,Substitution,,0,0,0,0,,,v
+S2324-G0276,1,10:38,TOR,,NYK,,R. Barrett,NYK,MISS Barrett 28' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,195,200,28,1,3.0,0.0,v
+S2324-G0276,1,10:11,TOR,2.0,NYK,2.0,R. Barrett,NYK,Barrett 8' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,-38,74,8,1,2.0,2.0,v
+S2324-G0276,1,09:39,TOR,4.0,NYK,5.0,R. Barrett,NYK,Barrett 3PT Jump Shot (5 PTS) (Randle 1 AST),Made Shot,Jump Shot,230,19,0,1,3.0,3.0,v
+S2324-G0276,1,09:14,TOR,,NYK,,R. Barrett,NYK,MISS Barrett 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-26,16,3,1,2.0,0.0,v
+S2324-G0276,1,08:34,TOR,8.0,NYK,7.0,R. Barrett,NYK,Barrett 2' Driving Reverse Layup (7 PTS) (Brunson 1 AST),Made Shot,Driving Reverse Layup Shot,-18,13,2,1,2.0,2.0,v
+S2324-G0276,1,06:34,TOR,,NYK,,R. Barrett,NYK,MISS Barrett 3PT Jump Shot,Missed Shot,Jump Shot,232,26,0,1,3.0,0.0,v
+S2324-G0276,1,06:03,TOR,,NYK,,R. Barrett,NYK,SUB: Hart FOR Barrett,Substitution,,0,0,0,0,,,v
+S2324-G0276,1,00:21.800000,TOR,,NYK,,R. Barrett,NYK,MISS Barrett 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-7,78,8,1,2.0,0.0,v
+S2324-G0276,1,00:19.200000,TOR,,NYK,,R. Barrett,NYK,Barrett REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0276,2,10:53,TOR,,NYK,,R. Barrett,NYK,MISS Barrett 3' Running Layup,Missed Shot,Running Layup Shot,0,31,3,1,2.0,0.0,v
+S2324-G0276,2,10:13,TOR,28.0,NYK,38.0,R. Barrett,NYK,Barrett 3' Driving Finger Roll Layup (9 PTS) (DiVincenzo 1 AST),Made Shot,Driving Finger Roll Layup Shot,-22,13,3,1,2.0,2.0,v
+S2324-G0276,2,08:28,TOR,,NYK,,R. Barrett,NYK,Barrett REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0276,2,08:18,TOR,,NYK,,R. Barrett,NYK,MISS Barrett 3PT Jump Shot,Missed Shot,Jump Shot,228,17,0,1,3.0,0.0,v
+S2324-G0276,2,07:11,TOR,,NYK,,R. Barrett,NYK,SUB: Brunson FOR Barrett,Substitution,,0,0,0,0,,,v
+S2324-G0276,2,03:16,TOR,,NYK,,R. Barrett,NYK,Barrett Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0276,2,02:51,TOR,,NYK,,R. Barrett,NYK,MISS Barrett 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-32,14,3,1,2.0,0.0,v
+S2324-G0276,2,00:58.200000,TOR,,NYK,,R. Barrett,NYK,MISS Barrett Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0276,2,00:58.200000,TOR,55.0,NYK,54.0,R. Barrett,NYK,Barrett Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0276,2,00:16.600000,TOR,,NYK,,R. Barrett,NYK,MISS Barrett 26' 3PT Jump Shot,Missed Shot,Jump Shot,-183,190,26,1,3.0,0.0,v
+S2324-G0276,2,00:02.500000,TOR,57.0,NYK,56.0,R. Barrett,NYK,Barrett 12' Driving Floating Jump Shot (12 PTS) (Grimes 1 AST),Made Shot,Driving Floating Jump Shot,-113,52,12,1,2.0,2.0,v
+S2324-G0276,2,00:02.500000,TOR,57.0,NYK,57.0,R. Barrett,NYK,Barrett Free Throw 1 of 1 (13 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G0276,3,11:04,TOR,,NYK,,R. Barrett,NYK,Barrett REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0276,3,10:58,TOR,,NYK,,R. Barrett,NYK,MISS Barrett 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-22,5,2,1,2.0,0.0,v
+S2324-G0276,3,09:57,TOR,,NYK,,R. Barrett,NYK,Barrett Out of Bounds - Bad Pass Turnover Turnover (P2.T6),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0276,3,09:43,TOR,,NYK,,R. Barrett,NYK,MISS Barrett 3' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,26,2,3,1,2.0,0.0,v
+S2324-G0276,3,06:03,TOR,,NYK,,R. Barrett,NYK,MISS Barrett 24' 3PT Jump Shot,Missed Shot,Jump Shot,235,6,24,1,3.0,0.0,v
+S2324-G0276,3,04:54,TOR,,NYK,,R. Barrett,NYK,SUB: Hart FOR Barrett,Substitution,,0,0,0,0,,,v
+S2324-G0276,4,10:13,TOR,,NYK,,R. Barrett,NYK,MISS Barrett Running Dunk,Missed Shot,Running Dunk Shot,4,0,0,1,2.0,0.0,v
+S2324-G0276,4,09:36,TOR,,NYK,,R. Barrett,NYK,Barrett S.FOUL (P1.T1) (R.Hussey),Foul,Shooting,0,0,0,0,,,v
+S2324-G0276,4,08:56,TOR,,NYK,,R. Barrett,NYK,Barrett REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0276,4,08:37,TOR,85.0,NYK,98.0,R. Barrett,NYK,Barrett 2' Cutting Finger Roll Layup Shot (15 PTS),Made Shot,Cutting Finger Roll Layup Shot,-12,12,2,1,2.0,2.0,v
+S2324-G0276,4,07:59,TOR,,NYK,,R. Barrett,NYK,SUB: Brunson FOR Barrett,Substitution,,0,0,0,0,,,v
+S2324-G0333,1,10:15,PHX,,NYK,,R. Barrett,NYK,MISS Barrett 10' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-83,48,10,1,2.0,0.0,v
+S2324-G0333,1,06:27,PHX,17.0,NYK,17.0,R. Barrett,NYK,Barrett 24' 3PT Jump Shot (3 PTS) (Brunson 2 AST),Made Shot,Jump Shot,233,48,24,1,3.0,3.0,v
+S2324-G0333,1,05:51,PHX,19.0,NYK,19.0,R. Barrett,NYK,Barrett 2' Driving Layup (5 PTS) (Brunson 3 AST),Made Shot,Driving Layup Shot,-17,15,2,1,2.0,2.0,v
+S2324-G0333,1,05:42,PHX,,NYK,,R. Barrett,NYK,Barrett Traveling Turnover (P1.T2),Turnover,Traveling,0,0,0,0,,,v
+S2324-G0333,1,05:08,PHX,21.0,NYK,20.0,R. Barrett,NYK,Barrett Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0333,1,05:08,PHX,21.0,NYK,21.0,R. Barrett,NYK,Barrett Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0333,1,04:42,PHX,,NYK,,R. Barrett,NYK,SUB: Quickley FOR Barrett,Substitution,,0,0,0,0,,,v
+S2324-G0333,2,10:39,PHX,,NYK,,R. Barrett,NYK,MISS Barrett 2' Driving Layup,Missed Shot,Driving Layup Shot,-18,16,2,1,2.0,0.0,v
+S2324-G0333,2,09:46,PHX,34.0,NYK,39.0,R. Barrett,NYK,Barrett 8' Driving Hook Shot (9 PTS),Made Shot,Driving Hook Shot,12,82,8,1,2.0,2.0,v
+S2324-G0333,2,09:18,PHX,35.0,NYK,41.0,R. Barrett,NYK,Barrett 2' Driving Layup (11 PTS) (Hartenstein 1 AST),Made Shot,Driving Layup Shot,-6,22,2,1,2.0,2.0,v
+S2324-G0333,2,07:50,PHX,,NYK,,R. Barrett,NYK,SUB: Brunson FOR Barrett,Substitution,,0,0,0,0,,,v
+S2324-G0333,2,03:15,PHX,,NYK,,R. Barrett,NYK,Barrett REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0333,2,02:15,PHX,55.0,NYK,58.0,R. Barrett,NYK,Barrett 7' Driving Floating Bank Jump Shot (13 PTS) (Brunson 5 AST),Made Shot,Driving Floating Bank Jump Shot,47,57,7,1,2.0,2.0,v
+S2324-G0333,3,10:27,PHX,,NYK,,R. Barrett,NYK,MISS Barrett 11' Driving Layup,Missed Shot,Driving Layup Shot,-67,88,11,1,2.0,0.0,v
+S2324-G0333,3,07:37,PHX,81.0,NYK,77.0,R. Barrett,NYK,Barrett Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0333,3,07:37,PHX,81.0,NYK,78.0,R. Barrett,NYK,Barrett Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0333,3,06:47,PHX,,NYK,,R. Barrett,NYK,Barrett BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0333,3,04:27,PHX,,NYK,,R. Barrett,NYK,SUB: Hartenstein FOR Barrett,Substitution,,0,0,0,0,,,v
+S2324-G0333,4,11:42,PHX,,NYK,,R. Barrett,NYK,MISS Barrett 26' 3PT Jump Shot,Missed Shot,Jump Shot,97,238,26,1,3.0,0.0,v
+S2324-G0333,4,11:01,PHX,99.0,NYK,99.0,R. Barrett,NYK,Barrett 12' Driving Floating Bank Jump Shot (17 PTS) (Quickley 2 AST),Made Shot,Driving Floating Bank Jump Shot,82,92,12,1,2.0,2.0,v
+S2324-G0333,4,10:44,PHX,,NYK,,R. Barrett,NYK,Barrett P.FOUL (P1.T1) (N.Buchert),Foul,Personal,0,0,0,0,,,v
+S2324-G0333,4,08:36,PHX,103.0,NYK,109.0,R. Barrett,NYK,Barrett Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0333,4,08:36,PHX,103.0,NYK,110.0,R. Barrett,NYK,Barrett Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0333,4,08:11,PHX,,NYK,,R. Barrett,NYK,Barrett REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0333,4,08:11,PHX,105.0,NYK,111.0,R. Barrett,NYK,Barrett Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0333,4,08:11,PHX,105.0,NYK,112.0,R. Barrett,NYK,Barrett Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0333,4,07:54,PHX,,NYK,,R. Barrett,NYK,Barrett S.FOUL (P2.T3) (S.Twardoski),Foul,Shooting,0,0,0,0,,,v
+S2324-G0333,4,07:54,PHX,,NYK,,R. Barrett,NYK,SUB: Brunson FOR Barrett,Substitution,,0,0,0,0,,,v
+S2324-G0221,1,11:15,MIN,,NYK,,R. Barrett,NYK,MISS Barrett 3' Layup,Missed Shot,Layup Shot,-30,15,3,1,2.0,0.0,v
+S2324-G0221,1,09:19,MIN,,NYK,,R. Barrett,NYK,MISS Barrett 12' Floating Jump Shot,Missed Shot,Floating Jump shot,5,116,12,1,2.0,0.0,v
+S2324-G0221,1,06:57,MIN,,NYK,,R. Barrett,NYK,MISS Barrett 7' Driving Layup,Missed Shot,Driving Layup Shot,-50,53,7,1,2.0,0.0,v
+S2324-G0221,1,05:07,MIN,18.0,NYK,15.0,R. Barrett,NYK,Barrett 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,-17,22,3,1,2.0,2.0,v
+S2324-G0221,1,04:45,MIN,18.0,NYK,18.0,R. Barrett,NYK,Barrett 25' 3PT Jump Shot (5 PTS) (Brunson 2 AST),Made Shot,Jump Shot,180,173,25,1,3.0,3.0,v
+S2324-G0221,1,04:31,MIN,,NYK,,R. Barrett,NYK,SUB: Quickley FOR Barrett,Substitution,,0,0,0,0,,,v
+S2324-G0221,1,00:47.800000,MIN,29.0,NYK,28.0,R. Barrett,NYK,Barrett 25' 3PT Jump Shot (8 PTS) (DiVincenzo 1 AST),Made Shot,Jump Shot,-17,253,25,1,3.0,3.0,v
+S2324-G0221,1,00:29.400000,MIN,,NYK,,R. Barrett,NYK,Barrett REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0221,2,11:48,MIN,,NYK,,R. Barrett,NYK,Barrett S.FOUL (P1.T1) (S.Mehta),Foul,Shooting,0,0,0,0,,,v
+S2324-G0221,2,11:48,MIN,,NYK,,R. Barrett,NYK,Barrett REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0221,2,11:04,MIN,,NYK,,R. Barrett,NYK,Barrett REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0221,2,11:01,MIN,,NYK,,R. Barrett,NYK,MISS Barrett 2' Putback Layup,Missed Shot,Putback Layup Shot,-2,18,2,1,2.0,0.0,v
+S2324-G0221,2,11:01,MIN,,NYK,,R. Barrett,NYK,Barrett REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0221,2,11:01,MIN,,NYK,,R. Barrett,NYK,MISS Barrett Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0221,2,11:01,MIN,34.0,NYK,29.0,R. Barrett,NYK,Barrett Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0221,2,10:44,MIN,,NYK,,R. Barrett,NYK,Barrett STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0221,2,09:49,MIN,38.0,NYK,33.0,R. Barrett,NYK,Barrett Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0221,2,09:49,MIN,38.0,NYK,34.0,R. Barrett,NYK,Barrett Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0221,2,08:40,MIN,,NYK,,R. Barrett,NYK,MISS Barrett 7' Floating Jump Shot,Missed Shot,Floating Jump shot,43,52,7,1,2.0,0.0,v
+S2324-G0221,2,08:34,MIN,,NYK,,R. Barrett,NYK,Barrett S.FOUL (P2.T2) (P.Fraher),Foul,Shooting,0,0,0,0,,,v
+S2324-G0221,2,08:34,MIN,,NYK,,R. Barrett,NYK,SUB: Randle FOR Barrett,Substitution,,0,0,0,0,,,v
+S2324-G0221,2,03:03,MIN,,NYK,,R. Barrett,NYK,MISS Barrett 11' Floating Jump Shot,Missed Shot,Floating Jump shot,-87,75,11,1,2.0,0.0,v
+S2324-G0221,2,02:50,MIN,,NYK,,R. Barrett,NYK,Barrett REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0221,2,01:22,MIN,,NYK,,R. Barrett,NYK,Barrett REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0221,2,01:17,MIN,,NYK,,R. Barrett,NYK,MISS Barrett 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,39,159,16,1,2.0,0.0,v
+S2324-G0221,3,10:56,MIN,,NYK,,R. Barrett,NYK,MISS Barrett 24' 3PT Jump Shot,Missed Shot,Jump Shot,234,36,24,1,3.0,0.0,v
+S2324-G0221,3,10:36,MIN,,NYK,,R. Barrett,NYK,Barrett Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0221,3,09:15,MIN,,NYK,,R. Barrett,NYK,Barrett S.FOUL (P3.T2) (R.Acosta),Foul,Shooting,0,0,0,0,,,v
+S2324-G0221,3,09:04,MIN,,NYK,,R. Barrett,NYK,Barrett OFF.Foul (P4) (S.Mehta),Foul,Offensive,0,0,0,0,,,v
+S2324-G0221,3,09:04,MIN,,NYK,,R. Barrett,NYK,Barrett Offensive Foul Turnover (P2.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0221,3,08:41,MIN,70.0,NYK,61.0,R. Barrett,NYK,Barrett 3PT Jump Shot (14 PTS) (Randle 1 AST),Made Shot,Jump Shot,233,14,0,1,3.0,3.0,v
+S2324-G0221,3,08:22,MIN,,NYK,,R. Barrett,NYK,SUB: Hart FOR Barrett,Substitution,,0,0,0,0,,,v
+S2324-G0221,3,00:02.900000,MIN,,NYK,,R. Barrett,NYK,MISS Barrett 5' Driving Layup,Missed Shot,Driving Layup Shot,-26,48,5,1,2.0,0.0,v
+S2324-G0221,4,11:19,MIN,,NYK,,R. Barrett,NYK,Barrett Out of Bounds Lost Ball Turnover (P3.T7),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2324-G0221,4,10:38,MIN,,NYK,,R. Barrett,NYK,Barrett REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0221,4,10:30,MIN,,NYK,,R. Barrett,NYK,Barrett Lost Ball Turnover (P4.T8),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0221,4,10:30,MIN,,NYK,,R. Barrett,NYK,Barrett P.FOUL (P5.T2) (P.Fraher),Foul,Personal,0,0,0,0,,,v
+S2324-G0221,4,10:30,MIN,,NYK,,R. Barrett,NYK,SUB: Randle FOR Barrett,Substitution,,0,0,0,0,,,v
+S2324-G0221,4,10:30,MIN,,NYK,,R. Barrett,NYK,Barrett T.FOUL (P5.T2) (S.Mehta),Foul,Technical,0,0,0,0,,,v
+S2324-G1201,1,11:40,MIL,,NYK,,R. Barrett,NYK,MISS Barrett 5' Layup,Missed Shot,Layup Shot,45,21,5,1,2.0,0.0,v
+S2324-G1201,1,11:13,MIL,,NYK,,R. Barrett,NYK,Barrett REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1201,1,10:12,MIL,2.0,NYK,6.0,R. Barrett,NYK,Barrett Running Dunk (2 PTS) (Robinson 1 AST),Made Shot,Running Dunk Shot,0,2,0,1,2.0,2.0,v
+S2324-G1201,1,08:24,MIL,,NYK,,R. Barrett,NYK,MISS Barrett 1' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,-6,4,1,1,2.0,0.0,v
+S2324-G1201,1,07:10,MIL,,NYK,,R. Barrett,NYK,MISS Barrett 11' Floating Jump Shot,Missed Shot,Floating Jump shot,-1,106,11,1,2.0,0.0,v
+S2324-G1201,1,07:08,MIL,,NYK,,R. Barrett,NYK,Barrett REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1201,1,07:07,MIL,11.0,NYK,12.0,R. Barrett,NYK,Barrett 2' Floating Jump Shot (4 PTS),Made Shot,Floating Jump shot,0,18,2,1,2.0,2.0,v
+S2324-G1201,1,06:20,MIL,,NYK,,R. Barrett,NYK,Barrett REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1201,1,04:59,MIL,15.0,NYK,18.0,R. Barrett,NYK,Barrett 22' Driving Layup (6 PTS) (Randle 2 AST),Made Shot,Driving Layup Shot,88,206,22,1,2.0,2.0,v
+S2324-G1201,1,03:39,MIL,20.0,NYK,19.0,R. Barrett,NYK,Barrett Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1201,1,03:39,MIL,20.0,NYK,20.0,R. Barrett,NYK,Barrett Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1201,1,03:20,MIL,23.0,NYK,21.0,R. Barrett,NYK,Barrett Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1201,1,03:20,MIL,23.0,NYK,22.0,R. Barrett,NYK,Barrett Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1201,1,02:45,MIL,,NYK,,R. Barrett,NYK,Barrett REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1201,1,02:41,MIL,,NYK,,R. Barrett,NYK,MISS Barrett 3' Running Layup,Missed Shot,Running Layup Shot,-22,16,3,1,2.0,0.0,v
+S2324-G1201,1,02:06,MIL,,NYK,,R. Barrett,NYK,SUB: Randle FOR Barrett,Substitution,,0,0,0,0,,,v
+S2324-G1201,2,05:11,MIL,,NYK,,R. Barrett,NYK,Barrett REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1201,2,05:03,MIL,,NYK,,R. Barrett,NYK,MISS Barrett 5' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-40,26,5,1,2.0,0.0,v
+S2324-G1201,2,02:57,MIL,,NYK,,R. Barrett,NYK,MISS Barrett 1' Driving Layup,Missed Shot,Driving Layup Shot,-1,13,1,1,2.0,0.0,v
+S2324-G1201,2,01:35,MIL,,NYK,,R. Barrett,NYK,MISS Barrett 26' 3PT Jump Shot,Missed Shot,Jump Shot,121,232,26,1,3.0,0.0,v
+S2324-G1201,3,10:50,MIL,79.0,NYK,74.0,R. Barrett,NYK,Barrett 12' Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,-18,121,12,1,2.0,2.0,v
+S2324-G1201,3,10:29,MIL,,NYK,,R. Barrett,NYK,Barrett Lost Ball Turnover (P1.T8),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G1201,3,09:37,MIL,,NYK,,R. Barrett,NYK,MISS Barrett 12' Step Back Jump Shot,Missed Shot,Step Back Jump shot,81,88,12,1,2.0,0.0,v
+S2324-G1201,3,09:25,MIL,,NYK,,R. Barrett,NYK,Barrett REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1201,3,09:18,MIL,,NYK,,R. Barrett,NYK,MISS Barrett 11' Jump Shot,Missed Shot,Jump Shot,14,112,11,1,2.0,0.0,v
+S2324-G1201,3,09:14,MIL,,NYK,,R. Barrett,NYK,Barrett REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1201,3,06:34,MIL,93.0,NYK,79.0,R. Barrett,NYK,Barrett Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1201,3,06:34,MIL,93.0,NYK,80.0,R. Barrett,NYK,Barrett Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1201,3,06:15,MIL,,NYK,,R. Barrett,NYK,SUB: Hart FOR Barrett,Substitution,,0,0,0,0,,,v
+S2324-G1201,3,01:39,MIL,,NYK,,R. Barrett,NYK,MISS Barrett 28' 3PT Jump Shot,Missed Shot,Jump Shot,-98,261,28,1,3.0,0.0,v
+S2324-G1201,3,01:03,MIL,112.0,NYK,96.0,R. Barrett,NYK,Barrett 2' Driving Layup (16 PTS) (Quickley 2 AST),Made Shot,Driving Layup Shot,0,22,2,1,2.0,2.0,v
+S2324-G1201,3,00:35.700000,MIL,,NYK,,R. Barrett,NYK,Barrett Bad Pass Turnover (P2.T12),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G1201,4,10:57,MIL,112.0,NYK,101.0,R. Barrett,NYK,Barrett 11' Turnaround Jump Shot (18 PTS),Made Shot,Turnaround Jump Shot,29,104,11,1,2.0,2.0,v
+S2324-G1201,4,10:31,MIL,,NYK,,R. Barrett,NYK,MISS Barrett 28' 3PT Jump Shot,Missed Shot,Jump Shot,-178,215,28,1,3.0,0.0,v
+S2324-G1201,4,09:27,MIL,,NYK,,R. Barrett,NYK,SUB: Randle FOR Barrett,Substitution,,0,0,0,0,,,v
+S2324-G1201,4,05:32,MIL,128.0,NYK,111.0,R. Barrett,NYK,Barrett 25' 3PT Jump Shot (21 PTS) (Brunson 6 AST),Made Shot,Jump Shot,147,207,25,1,3.0,3.0,v
+S2324-G1201,4,04:48,MIL,,NYK,,R. Barrett,NYK,Barrett Violation:Kicked Ball (Z.Zarba),Violation,Kicked Ball,0,0,0,0,,,v
+S2324-G1201,4,02:32,MIL,,NYK,,R. Barrett,NYK,Barrett REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1201,4,02:29,MIL,139.0,NYK,118.0,R. Barrett,NYK,Barrett Free Throw 1 of 2 (22 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1201,4,02:29,MIL,139.0,NYK,119.0,R. Barrett,NYK,Barrett Free Throw 2 of 2 (23 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1201,4,02:29,MIL,,NYK,,R. Barrett,NYK,SUB: Arcidiacono FOR Barrett,Substitution,,0,0,0,0,,,v
+S2324-G0151,1,11:09,NYK,1.0,LAC,0.0,R. Barrett,NYK,Barrett Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0151,1,11:09,NYK,2.0,LAC,0.0,R. Barrett,NYK,Barrett Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0151,1,10:49,NYK,,LAC,,R. Barrett,NYK,Barrett REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0151,1,10:40,NYK,4.0,LAC,0.0,R. Barrett,NYK,Barrett 7' Hook Shot (4 PTS),Made Shot,Hook Shot,11,68,7,1,2.0,2.0,h
+S2324-G0151,1,09:23,NYK,,LAC,,R. Barrett,NYK,MISS Barrett 3PT Jump Shot,Missed Shot,Jump Shot,225,19,0,1,3.0,0.0,h
+S2324-G0151,1,06:03,NYK,,LAC,,R. Barrett,NYK,MISS Barrett 25' 3PT Jump Shot,Missed Shot,Jump Shot,-4,246,25,1,3.0,0.0,h
+S2324-G0151,1,05:17,NYK,,LAC,,R. Barrett,NYK,SUB: Hart FOR Barrett,Substitution,,0,0,0,0,,,h
+S2324-G0151,1,00:59.300000,NYK,16.0,LAC,18.0,R. Barrett,NYK,Barrett Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0151,1,00:59.300000,NYK,17.0,LAC,18.0,R. Barrett,NYK,Barrett Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0151,1,00:00.400000,NYK,,LAC,,R. Barrett,NYK,MISS Barrett 14' Step Back Jump Shot,Missed Shot,Step Back Jump shot,141,16,14,1,2.0,0.0,h
+S2324-G0151,2,10:30,NYK,,LAC,,R. Barrett,NYK,MISS Barrett 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-132,125,18,1,2.0,0.0,h
+S2324-G0151,2,10:00,NYK,,LAC,,R. Barrett,NYK,Barrett Out of Bounds Lost Ball Turnover (P1.T4),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2324-G0151,2,08:10,NYK,28.0,LAC,28.0,R. Barrett,NYK,Barrett 2' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,17,8,2,1,2.0,2.0,h
+S2324-G0151,2,07:42,NYK,,LAC,,R. Barrett,NYK,Barrett REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0151,2,07:31,NYK,,LAC,,R. Barrett,NYK,Barrett Bad Pass Turnover (P2.T5),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0151,2,07:27,NYK,,LAC,,R. Barrett,NYK,SUB: Randle FOR Barrett,Substitution,,0,0,0,0,,,h
+S2324-G0151,2,00:00.400000,NYK,,LAC,,R. Barrett,NYK,Barrett Bad Pass Turnover (P3.T11),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0151,3,11:26,NYK,,LAC,,R. Barrett,NYK,MISS Barrett 8' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-21,76,8,1,2.0,0.0,h
+S2324-G0151,3,11:24,NYK,,LAC,,R. Barrett,NYK,Barrett REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0151,3,10:59,NYK,,LAC,,R. Barrett,NYK,Barrett REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0151,3,10:52,NYK,,LAC,,R. Barrett,NYK,Barrett Lost Ball Turnover (P4.T12),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0151,3,08:56,NYK,54.0,LAC,52.0,R. Barrett,NYK,Barrett 3PT Jump Shot (11 PTS) (Randle 1 AST),Made Shot,Jump Shot,229,52,0,1,3.0,3.0,h
+S2324-G0151,3,08:17,NYK,56.0,LAC,54.0,R. Barrett,NYK,Barrett 2' Driving Floating Jump Shot (13 PTS) (Randle 2 AST),Made Shot,Driving Floating Jump Shot,15,1,2,1,2.0,2.0,h
+S2324-G0151,3,07:25,NYK,,LAC,,R. Barrett,NYK,MISS Barrett 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-125,144,19,1,2.0,0.0,h
+S2324-G0151,3,06:48,NYK,58.0,LAC,59.0,R. Barrett,NYK,Barrett 3' Driving Layup (15 PTS) (Brunson 2 AST),Made Shot,Driving Layup Shot,-26,11,3,1,2.0,2.0,h
+S2324-G0151,3,06:10,NYK,,LAC,,R. Barrett,NYK,Barrett Lost Ball Turnover (P5.T14),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0151,3,06:02,NYK,,LAC,,R. Barrett,NYK,Barrett REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0151,3,05:27,NYK,,LAC,,R. Barrett,NYK,SUB: Hart FOR Barrett,Substitution,,0,0,0,0,,,h
+S2324-G0151,4,10:36,NYK,83.0,LAC,76.0,R. Barrett,NYK,Barrett 1' Running Dunk (17 PTS) (Hart 6 AST),Made Shot,Running Dunk Shot,-7,-5,1,1,2.0,2.0,h
+S2324-G0151,4,09:38,NYK,86.0,LAC,79.0,R. Barrett,NYK,Barrett Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0151,4,09:38,NYK,87.0,LAC,79.0,R. Barrett,NYK,Barrett Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0151,4,08:03,NYK,94.0,LAC,81.0,R. Barrett,NYK,Barrett 6' Driving Floating Bank Jump Shot (21 PTS) (Hartenstein 2 AST),Made Shot,Driving Floating Bank Jump Shot,-49,26,6,1,2.0,2.0,h
+S2324-G0151,4,07:39,NYK,,LAC,,R. Barrett,NYK,Barrett S.FOUL (P1.T3) (M.Ervin),Foul,Shooting,0,0,0,0,,,h
+S2324-G0151,4,07:39,NYK,,LAC,,R. Barrett,NYK,SUB: Robinson FOR Barrett,Substitution,,0,0,0,0,,,h
+S2324-G0151,4,03:09,NYK,108.0,LAC,92.0,R. Barrett,NYK,Barrett 1' Running Dunk (23 PTS) (Hart 7 AST),Made Shot,Running Dunk Shot,-2,11,1,1,2.0,2.0,h
+S2324-G0151,4,02:07,NYK,111.0,LAC,94.0,R. Barrett,NYK,Barrett 3PT Jump Shot (26 PTS) (Brunson 6 AST),Made Shot,Jump Shot,232,-1,0,1,3.0,3.0,h
+S2324-G0151,4,01:25,NYK,,LAC,,R. Barrett,NYK,MISS Barrett 20' Step Back Jump Shot,Missed Shot,Step Back Jump shot,156,132,20,1,2.0,0.0,h
+S2324-G0151,4,00:53.400000,NYK,,LAC,,R. Barrett,NYK,Barrett REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0297,1,11:24,NYK,2.0,TOR,1.0,R. Barrett,NYK,Barrett 4' Driving Floating Bank Jump Shot (2 PTS) (Randle 1 AST),Made Shot,Driving Floating Bank Jump Shot,-37,5,4,1,2.0,2.0,h
+S2324-G0297,1,08:38,NYK,,TOR,,R. Barrett,NYK,MISS Barrett 3' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-11,32,3,1,2.0,0.0,h
+S2324-G0297,1,07:58,NYK,15.0,TOR,10.0,R. Barrett,NYK,Barrett 2' Driving Reverse Layup (4 PTS) (Brunson 1 AST),Made Shot,Driving Reverse Layup Shot,-20,0,2,1,2.0,2.0,h
+S2324-G0297,1,07:27,NYK,,TOR,,R. Barrett,NYK,MISS Barrett 24' 3PT Jump Shot,Missed Shot,Jump Shot,218,103,24,1,3.0,0.0,h
+S2324-G0297,1,06:23,NYK,20.0,TOR,16.0,R. Barrett,NYK,Barrett 25' 3PT Jump Shot (7 PTS) (DiVincenzo 3 AST),Made Shot,Jump Shot,83,235,25,1,3.0,3.0,h
+S2324-G0297,1,05:28,NYK,,TOR,,R. Barrett,NYK,SUB: Hart FOR Barrett,Substitution,,0,0,0,0,,,h
+S2324-G0297,2,10:24,NYK,,TOR,,R. Barrett,NYK,MISS Barrett 2' Driving Layup,Missed Shot,Driving Layup Shot,18,5,2,1,2.0,0.0,h
+S2324-G0297,2,08:53,NYK,,TOR,,R. Barrett,NYK,MISS Barrett 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,29,247,25,1,3.0,0.0,h
+S2324-G0297,2,08:34,NYK,,TOR,,R. Barrett,NYK,Barrett REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0297,2,07:57,NYK,,TOR,,R. Barrett,NYK,MISS Barrett 25' 3PT Jump Shot,Missed Shot,Jump Shot,-27,247,25,1,3.0,0.0,h
+S2324-G0297,2,06:19,NYK,,TOR,,R. Barrett,NYK,Barrett BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0297,2,06:10,NYK,,TOR,,R. Barrett,NYK,MISS Barrett 1' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,11,3,1,1,2.0,0.0,h
+S2324-G0297,2,05:47,NYK,,TOR,,R. Barrett,NYK,MISS Barrett Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0297,2,05:47,NYK,54.0,TOR,51.0,R. Barrett,NYK,Barrett Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0297,2,05:33,NYK,,TOR,,R. Barrett,NYK,Barrett S.FOUL (P1.T2) (M.Ervin),Foul,Shooting,0,0,0,0,,,h
+S2324-G0297,2,05:33,NYK,,TOR,,R. Barrett,NYK,SUB: Randle FOR Barrett,Substitution,,0,0,0,0,,,h
+S2324-G0297,2,00:46.700000,NYK,66.0,TOR,57.0,R. Barrett,NYK,Barrett 2' Cutting Layup Shot (10 PTS) (DiVincenzo 5 AST),Made Shot,Cutting Layup Shot,-20,4,2,1,2.0,2.0,h
+S2324-G0297,2,00:28.700000,NYK,,TOR,,R. Barrett,NYK,MISS Barrett 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,100,243,26,1,3.0,0.0,h
+S2324-G0297,2,00:00.500000,NYK,,TOR,,R. Barrett,NYK,Barrett REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0297,3,11:35,NYK,,TOR,,R. Barrett,NYK,MISS Barrett 19' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-156,105,19,1,2.0,0.0,h
+S2324-G0297,3,09:31,NYK,,TOR,,R. Barrett,NYK,MISS Barrett 25' 3PT Jump Shot,Missed Shot,Jump Shot,21,253,25,1,3.0,0.0,h
+S2324-G0297,3,07:36,NYK,76.0,TOR,76.0,R. Barrett,NYK,Barrett 26' 3PT Jump Shot (13 PTS) (Brunson 5 AST),Made Shot,Jump Shot,69,246,26,1,3.0,3.0,h
+S2324-G0297,3,06:40,NYK,,TOR,,R. Barrett,NYK,MISS Barrett 3' Running Layup,Missed Shot,Running Layup Shot,28,10,3,1,2.0,0.0,h
+S2324-G0297,3,05:42,NYK,83.0,TOR,78.0,R. Barrett,NYK,Barrett 2' Running Finger Roll Layup (15 PTS) (Randle 3 AST),Made Shot,Running Finger Roll Layup Shot,18,-3,2,1,2.0,2.0,h
+S2324-G0297,3,04:39,NYK,,TOR,,R. Barrett,NYK,SUB: Grimes FOR Barrett,Substitution,,0,0,0,0,,,h
+S2324-G0297,4,11:21,NYK,100.0,TOR,97.0,R. Barrett,NYK,Barrett 2' Driving Reverse Layup (17 PTS),Made Shot,Driving Reverse Layup Shot,-21,4,2,1,2.0,2.0,h
+S2324-G0297,4,10:41,NYK,,TOR,,R. Barrett,NYK,Barrett Lost Ball Turnover (P1.T11),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0297,4,10:27,NYK,103.0,TOR,99.0,R. Barrett,NYK,Barrett 3PT Jump Shot (20 PTS) (Hart 5 AST),Made Shot,Jump Shot,227,48,0,1,3.0,3.0,h
+S2324-G0297,4,10:04,NYK,104.0,TOR,99.0,R. Barrett,NYK,Barrett Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0297,4,10:04,NYK,,TOR,,R. Barrett,NYK,MISS Barrett Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0297,4,08:53,NYK,106.0,TOR,104.0,R. Barrett,NYK,Barrett 2' Driving Finger Roll Layup (23 PTS) (McBride 2 AST),Made Shot,Driving Finger Roll Layup Shot,-22,-3,2,1,2.0,2.0,h
+S2324-G0297,4,07:46,NYK,110.0,TOR,108.0,R. Barrett,NYK,Barrett 1' Cutting Layup Shot (25 PTS) (Hart 6 AST),Made Shot,Cutting Layup Shot,-11,5,1,1,2.0,2.0,h
+S2324-G0297,4,06:52,NYK,,TOR,,R. Barrett,NYK,SUB: Randle FOR Barrett,Substitution,,0,0,0,0,,,h
+S2324-G0297,4,01:40,NYK,,TOR,,R. Barrett,NYK,Barrett STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0297,4,01:07,NYK,,TOR,,R. Barrett,NYK,Barrett REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0297,4,00:32.100000,NYK,133.0,TOR,126.0,R. Barrett,NYK,Barrett 2' Cutting Layup Shot (27 PTS) (Hart 8 AST),Made Shot,Cutting Layup Shot,-23,-1,2,1,2.0,2.0,h
+S2324-G0429,1,09:35,ORL,,NYK,,R. Barrett,NYK,MISS Barrett 1' Driving Layup,Missed Shot,Driving Layup Shot,2,-5,1,1,2.0,0.0,v
+S2324-G0429,1,08:53,ORL,,NYK,,R. Barrett,NYK,Barrett Step Out of Bounds Turnover (P1.T2),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2324-G0429,1,07:09,ORL,,NYK,,R. Barrett,NYK,Barrett STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0429,1,07:03,ORL,12.0,NYK,8.0,R. Barrett,NYK,Barrett 4' Running Dunk (2 PTS) (Brunson 3 AST),Made Shot,Running Dunk Shot,-2,42,4,1,2.0,2.0,v
+S2324-G0429,1,04:43,ORL,,NYK,,R. Barrett,NYK,MISS Barrett 5' Driving Layup,Missed Shot,Driving Layup Shot,47,14,5,1,2.0,0.0,v
+S2324-G0429,1,04:42,ORL,,NYK,,R. Barrett,NYK,SUB: Hart FOR Barrett,Substitution,,0,0,0,0,,,v
+S2324-G0429,2,11:35,ORL,,NYK,,R. Barrett,NYK,MISS Barrett 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,119,104,16,1,2.0,0.0,v
+S2324-G0429,2,10:00,ORL,,NYK,,R. Barrett,NYK,MISS Barrett 10' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,7,99,10,1,2.0,0.0,v
+S2324-G0429,2,09:21,ORL,,NYK,,R. Barrett,NYK,MISS Barrett 26' 3PT Jump Shot,Missed Shot,Jump Shot,-228,117,26,1,3.0,0.0,v
+S2324-G0429,2,08:33,ORL,33.0,NYK,33.0,R. Barrett,NYK,Barrett 4' Running Layup (4 PTS),Made Shot,Running Layup Shot,-13,34,4,1,2.0,2.0,v
+S2324-G0429,2,06:36,ORL,,NYK,,R. Barrett,NYK,MISS Barrett 27' 3PT Jump Shot,Missed Shot,Jump Shot,-118,246,27,1,3.0,0.0,v
+S2324-G0429,2,05:18,ORL,,NYK,,R. Barrett,NYK,MISS Barrett 24' 3PT Jump Shot,Missed Shot,Jump Shot,235,1,24,1,3.0,0.0,v
+S2324-G0429,2,04:42,ORL,,NYK,,R. Barrett,NYK,SUB: Randle FOR Barrett,Substitution,,0,0,0,0,,,v
+S2324-G0429,2,01:00,ORL,,NYK,,R. Barrett,NYK,MISS Barrett Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0429,2,01:00,ORL,49.0,NYK,39.0,R. Barrett,NYK,Barrett Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0429,3,11:04,ORL,,NYK,,R. Barrett,NYK,Barrett Bad Pass Turnover (P2.T11),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0429,3,10:56,ORL,,NYK,,R. Barrett,NYK,Barrett REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0429,3,10:47,ORL,,NYK,,R. Barrett,NYK,MISS Barrett 3' Driving Layup,Missed Shot,Driving Layup Shot,25,22,3,1,2.0,0.0,v
+S2324-G0429,3,09:25,ORL,,NYK,,R. Barrett,NYK,Barrett T.FOUL (P0.T3) (M.Kogut),Foul,Technical,0,0,0,0,,,v
+S2324-G0429,3,07:15,ORL,68.0,NYK,52.0,R. Barrett,NYK,Barrett 25' 3PT Jump Shot (8 PTS) (Randle 2 AST),Made Shot,Jump Shot,-130,211,25,1,3.0,3.0,v
+S2324-G0429,3,04:59,ORL,76.0,NYK,58.0,R. Barrett,NYK,Barrett 7' Driving Floating Jump Shot (10 PTS) (Brunson 5 AST),Made Shot,Driving Floating Jump Shot,70,16,7,1,2.0,2.0,v
+S2324-G0429,3,04:43,ORL,,NYK,,R. Barrett,NYK,Barrett REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0429,3,04:12,ORL,,NYK,,R. Barrett,NYK,SUB: Hart FOR Barrett,Substitution,,0,0,0,0,,,v
+S2324-G0429,4,10:14,ORL,87.0,NYK,76.0,R. Barrett,NYK,Barrett 7' Driving Floating Jump Shot (12 PTS),Made Shot,Driving Floating Jump Shot,10,68,7,1,2.0,2.0,v
+S2324-G0429,4,09:48,ORL,,NYK,,R. Barrett,NYK,Barrett REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0429,4,09:19,ORL,,NYK,,R. Barrett,NYK,Barrett REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0429,4,09:16,ORL,90.0,NYK,77.0,R. Barrett,NYK,Barrett Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0429,4,09:16,ORL,90.0,NYK,78.0,R. Barrett,NYK,Barrett Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0429,4,09:06,ORL,,NYK,,R. Barrett,NYK,Barrett S.FOUL (P1.T3) (M.Myers),Foul,Shooting,0,0,0,0,,,v
+S2324-G0429,4,08:14,ORL,94.0,NYK,82.0,R. Barrett,NYK,Barrett 2' Driving Layup (16 PTS),Made Shot,Driving Layup Shot,12,19,2,1,2.0,2.0,v
+S2324-G0429,4,08:14,ORL,94.0,NYK,83.0,R. Barrett,NYK,Barrett Free Throw 1 of 1 (17 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G0429,4,06:26,ORL,,NYK,,R. Barrett,NYK,MISS Barrett 25' 3PT Jump Shot,Missed Shot,Jump Shot,-107,226,25,1,3.0,0.0,v
+S2324-G0429,4,05:34,ORL,,NYK,,R. Barrett,NYK,Barrett S.FOUL (P2.T4) (M.Myers),Foul,Shooting,0,0,0,0,,,v
+S2324-G0429,4,03:34,ORL,,NYK,,R. Barrett,NYK,Barrett REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0429,4,02:55,ORL,,NYK,,R. Barrett,NYK,Barrett S.FOUL (P3.PN) (M.Myers),Foul,Shooting,0,0,0,0,,,v
+S2324-G0429,4,02:31,ORL,,NYK,,R. Barrett,NYK,Barrett S.FOUL (P4.PN) (K.Cutler),Foul,Shooting,0,0,0,0,,,v
+S2324-G0429,4,02:18,ORL,,NYK,,R. Barrett,NYK,MISS Barrett 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-56,71,9,1,2.0,0.0,v
+S2324-G0429,4,01:38,ORL,,NYK,,R. Barrett,NYK,Barrett REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0429,4,01:36,ORL,110.0,NYK,104.0,R. Barrett,NYK,Barrett 3' Layup (19 PTS),Made Shot,Layup Shot,-26,4,3,1,2.0,2.0,v
+S2324-G0079,1,11:41,ATL,,NYK,,R. Barrett,NYK,MISS Barrett 25' 3PT Jump Shot,Missed Shot,Jump Shot,232,100,25,1,3.0,0.0,v
+S2324-G0079,1,10:42,ATL,0.0,NYK,2.0,R. Barrett,NYK,Barrett 1' Running Dunk (2 PTS) (Randle 1 AST),Made Shot,Running Dunk Shot,4,8,1,1,2.0,2.0,v
+S2324-G0079,1,08:31,ATL,,NYK,,R. Barrett,NYK,MISS Barrett Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0079,1,08:31,ATL,4.0,NYK,5.0,R. Barrett,NYK,Barrett Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0079,1,07:47,ATL,,NYK,,R. Barrett,NYK,Barrett REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0079,1,05:42,ATL,10.0,NYK,14.0,R. Barrett,NYK,Barrett Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0079,1,05:42,ATL,10.0,NYK,15.0,R. Barrett,NYK,Barrett Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0079,1,05:20,ATL,,NYK,,R. Barrett,NYK,MISS Barrett 1' Running Layup,Missed Shot,Running Layup Shot,6,-6,1,1,2.0,0.0,v
+S2324-G0079,1,04:44,ATL,13.0,NYK,18.0,R. Barrett,NYK,Barrett 3PT Jump Shot (8 PTS) (Brunson 2 AST),Made Shot,Jump Shot,-223,10,0,1,3.0,3.0,v
+S2324-G0079,1,04:05,ATL,,NYK,,R. Barrett,NYK,SUB: Hartenstein FOR Barrett,Substitution,,0,0,0,0,,,v
+S2324-G0079,1,00:02.600000,ATL,,NYK,,R. Barrett,NYK,Barrett Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0079,2,10:25,ATL,35.0,NYK,39.0,R. Barrett,NYK,Barrett Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0079,2,10:25,ATL,35.0,NYK,40.0,R. Barrett,NYK,Barrett Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0079,2,09:40,ATL,,NYK,,R. Barrett,NYK,Barrett STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0079,2,08:52,ATL,,NYK,,R. Barrett,NYK,MISS Barrett 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,113,20,11,1,2.0,0.0,v
+S2324-G0079,2,07:32,ATL,42.0,NYK,50.0,R. Barrett,NYK,Barrett 19' Pullup Jump Shot (12 PTS) (Quickley 2 AST),Made Shot,Pullup Jump shot,-50,182,19,1,2.0,2.0,v
+S2324-G0079,2,07:08,ATL,,NYK,,R. Barrett,NYK,MISS Barrett 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-224,15,0,1,3.0,0.0,v
+S2324-G0079,2,06:37,ATL,,NYK,,R. Barrett,NYK,Barrett Bad Pass Turnover (P2.T4),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0079,2,06:23,ATL,,NYK,,R. Barrett,NYK,SUB: Randle FOR Barrett,Substitution,,0,0,0,0,,,v
+S2324-G0079,2,00:40.800000,ATL,,NYK,,R. Barrett,NYK,Barrett S.FOUL (P1.T4) (S.Wall),Foul,Shooting,0,0,0,0,,,v
+S2324-G0079,2,00:00.800000,ATL,61.0,NYK,69.0,R. Barrett,NYK,Barrett 1' Running Dunk (14 PTS) (Randle 4 AST),Made Shot,Running Dunk Shot,1,10,1,1,2.0,2.0,v
+S2324-G0079,3,10:06,ATL,66.0,NYK,72.0,R. Barrett,NYK,Barrett 25' 3PT Jump Shot (17 PTS) (Randle 5 AST),Made Shot,Jump Shot,151,202,25,1,3.0,3.0,v
+S2324-G0079,3,09:15,ATL,,NYK,,R. Barrett,NYK,Barrett Lost Ball Turnover (P3.T7),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0079,3,08:52,ATL,,NYK,,R. Barrett,NYK,MISS Barrett 10' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,54,88,10,1,2.0,0.0,v
+S2324-G0079,3,08:16,ATL,72.0,NYK,78.0,R. Barrett,NYK,Barrett 24' 3PT Jump Shot (20 PTS) (Randle 7 AST),Made Shot,Jump Shot,237,-8,24,1,3.0,3.0,v
+S2324-G0079,3,06:05,ATL,,NYK,,R. Barrett,NYK,Barrett REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0079,3,05:56,ATL,,NYK,,R. Barrett,NYK,Barrett S.FOUL (P2.T3) (C.Blair),Foul,Shooting,0,0,0,0,,,v
+S2324-G0079,3,05:56,ATL,,NYK,,R. Barrett,NYK,SUB: Hart FOR Barrett,Substitution,,0,0,0,0,,,v
+S2324-G0079,4,11:36,ATL,92.0,NYK,102.0,R. Barrett,NYK,Barrett 1' Reverse Layup (22 PTS) (Quickley 5 AST),Made Shot,Reverse Layup Shot,2,5,1,1,2.0,2.0,v
+S2324-G0079,4,07:51,ATL,,NYK,,R. Barrett,NYK,SUB: Robinson FOR Barrett,Substitution,,0,0,0,0,,,v
+S2324-G0079,4,03:58,ATL,108.0,NYK,112.0,R. Barrett,NYK,Barrett 1' Driving Layup (24 PTS),Made Shot,Driving Layup Shot,-4,11,1,1,2.0,2.0,v
+S2324-G0079,4,02:16,ATL,114.0,NYK,118.0,R. Barrett,NYK,Barrett 15' Pullup Jump Shot (26 PTS) (Brunson 5 AST),Made Shot,Pullup Jump shot,-154,7,15,1,2.0,2.0,v
+S2324-G0079,4,01:47,ATL,,NYK,,R. Barrett,NYK,MISS Barrett 3' Driving Layup,Missed Shot,Driving Layup Shot,18,20,3,1,2.0,0.0,v
+S2324-G0079,4,01:43,ATL,,NYK,,R. Barrett,NYK,Barrett REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0388,1,10:40,NYK,,MIL,,R. Barrett,NYK,MISS Barrett 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,72,7,1,2.0,0.0,h
+S2324-G0388,1,08:40,NYK,,MIL,,R. Barrett,NYK,MISS Barrett Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0388,1,08:40,NYK,8.0,MIL,9.0,R. Barrett,NYK,Barrett Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0388,1,07:35,NYK,,MIL,,R. Barrett,NYK,Barrett REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0388,1,07:29,NYK,,MIL,,R. Barrett,NYK,MISS Barrett 17' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,1,172,17,1,2.0,0.0,h
+S2324-G0388,1,05:53,NYK,,MIL,,R. Barrett,NYK,MISS Barrett 2' Driving Layup,Missed Shot,Driving Layup Shot,-21,4,2,1,2.0,0.0,h
+S2324-G0388,1,04:39,NYK,,MIL,,R. Barrett,NYK,Barrett REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0388,1,04:07,NYK,20.0,MIL,25.0,R. Barrett,NYK,Barrett 2' Driving Layup (3 PTS) (Brunson 3 AST),Made Shot,Driving Layup Shot,15,4,2,1,2.0,2.0,h
+S2324-G0388,1,03:33,NYK,,MIL,,R. Barrett,NYK,SUB: Randle FOR Barrett,Substitution,,0,0,0,0,,,h
+S2324-G0388,2,05:41,NYK,,MIL,,R. Barrett,NYK,MISS Barrett 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-86,-1,9,1,2.0,0.0,h
+S2324-G0388,2,04:15,NYK,,MIL,,R. Barrett,NYK,Barrett REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0388,2,02:43,NYK,,MIL,,R. Barrett,NYK,MISS Barrett 5' Driving Layup,Missed Shot,Driving Layup Shot,43,32,5,1,2.0,0.0,h
+S2324-G0388,2,00:59.100000,NYK,,MIL,,R. Barrett,NYK,MISS Barrett 3PT Jump Shot,Missed Shot,Jump Shot,-232,8,0,1,3.0,0.0,h
+S2324-G0388,3,11:07,NYK,,MIL,,R. Barrett,NYK,MISS Barrett 3' Driving Layup,Missed Shot,Driving Layup Shot,26,5,3,1,2.0,0.0,h
+S2324-G0388,3,10:56,NYK,,MIL,,R. Barrett,NYK,Barrett S.FOUL (P1.T1) (Z.Zarba),Foul,Shooting,0,0,0,0,,,h
+S2324-G0388,3,09:56,NYK,,MIL,,R. Barrett,NYK,MISS Barrett 24' 3PT Jump Shot,Missed Shot,Jump Shot,-233,69,24,1,3.0,0.0,h
+S2324-G0388,3,08:57,NYK,,MIL,,R. Barrett,NYK,MISS Barrett 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-230,-6,0,1,3.0,0.0,h
+S2324-G0388,3,05:26,NYK,,MIL,,R. Barrett,NYK,SUB: Hart FOR Barrett,Substitution,,0,0,0,0,,,h
+S2324-G0388,4,10:23,NYK,90.0,MIL,102.0,R. Barrett,NYK,Barrett 3PT Jump Shot (6 PTS) (Hart 2 AST),Made Shot,Jump Shot,232,15,0,1,3.0,3.0,h
+S2324-G0388,4,09:48,NYK,92.0,MIL,103.0,R. Barrett,NYK,Barrett 19' Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,-121,151,19,1,2.0,2.0,h
+S2324-G0388,4,09:30,NYK,,MIL,,R. Barrett,NYK,Barrett REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0388,4,09:20,NYK,,MIL,,R. Barrett,NYK,MISS Barrett 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-7,100,10,1,2.0,0.0,h
+S2324-G0388,4,08:20,NYK,,MIL,,R. Barrett,NYK,MISS Barrett 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-10,91,9,1,2.0,0.0,h
+S2324-G0388,4,08:05,NYK,,MIL,,R. Barrett,NYK,SUB: Randle FOR Barrett,Substitution,,0,0,0,0,,,h
+S2324-G0388,4,04:41,NYK,,MIL,,R. Barrett,NYK,Barrett REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0388,4,03:14,NYK,104.0,MIL,121.0,R. Barrett,NYK,Barrett 2' Driving Layup (10 PTS) (Brunson 6 AST),Made Shot,Driving Layup Shot,-17,11,2,1,2.0,2.0,h
+S2324-G0388,4,02:25,NYK,,MIL,,R. Barrett,NYK,Barrett REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0388,4,02:15,NYK,107.0,MIL,123.0,R. Barrett,NYK,Barrett 25' 3PT Jump Shot (13 PTS) (Brunson 7 AST),Made Shot,Jump Shot,161,193,25,1,3.0,3.0,h
+S2324-G0388,4,01:46,NYK,,MIL,,R. Barrett,NYK,MISS Barrett 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-107,153,19,1,2.0,0.0,h
+S2324-G0388,4,01:44,NYK,,MIL,,R. Barrett,NYK,Barrett REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0388,4,01:43,NYK,,MIL,,R. Barrett,NYK,Barrett Traveling Turnover (P1.T11),Turnover,Traveling,0,0,0,0,,,h
+S2324-G0388,4,01:30,NYK,,MIL,,R. Barrett,NYK,Barrett BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0388,4,01:03,NYK,,MIL,,R. Barrett,NYK,SUB: Arcidiacono FOR Barrett,Substitution,,0,0,0,0,,,h
+S2324-G0202,1,10:10,CHA,2.0,NYK,6.0,R. Barrett,NYK,Barrett 16' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,25,158,16,1,2.0,2.0,v
+S2324-G0202,1,09:55,CHA,,NYK,,R. Barrett,NYK,Barrett REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0202,1,08:54,CHA,,NYK,,R. Barrett,NYK,MISS Barrett 5' Driving Hook Shot,Missed Shot,Driving Hook Shot,0,46,5,1,2.0,0.0,v
+S2324-G0202,1,07:39,CHA,7.0,NYK,14.0,R. Barrett,NYK,Barrett Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0202,1,07:39,CHA,,NYK,,R. Barrett,NYK,MISS Barrett Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0202,1,04:37,CHA,,NYK,,R. Barrett,NYK,MISS Barrett 3PT Jump Shot,Missed Shot,Jump Shot,224,14,0,1,3.0,0.0,v
+S2324-G0202,1,04:20,CHA,,NYK,,R. Barrett,NYK,SUB: Quickley FOR Barrett,Substitution,,0,0,0,0,,,v
+S2324-G0202,2,11:13,CHA,,NYK,,R. Barrett,NYK,MISS Barrett 5' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1,46,5,1,2.0,0.0,v
+S2324-G0202,2,09:52,CHA,,NYK,,R. Barrett,NYK,MISS Barrett 3' Driving Layup,Missed Shot,Driving Layup Shot,-2,29,3,1,2.0,0.0,v
+S2324-G0202,2,08:22,CHA,,NYK,,R. Barrett,NYK,MISS Barrett 4' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-4,38,4,1,2.0,0.0,v
+S2324-G0202,2,07:11,CHA,,NYK,,R. Barrett,NYK,SUB: Randle FOR Barrett,Substitution,,0,0,0,0,,,v
+S2324-G0202,3,11:16,CHA,50.0,NYK,63.0,R. Barrett,NYK,Barrett 1' Running Layup (5 PTS) (Brunson 2 AST),Made Shot,Running Layup Shot,-1,12,1,1,2.0,2.0,v
+S2324-G0202,3,10:36,CHA,,NYK,,R. Barrett,NYK,Barrett REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0202,3,07:43,CHA,,NYK,,R. Barrett,NYK,MISS Barrett 3' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,5,34,3,1,2.0,0.0,v
+S2324-G0202,3,06:10,CHA,,NYK,,R. Barrett,NYK,MISS Barrett 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,4,107,11,1,2.0,0.0,v
+S2324-G0202,3,06:01,CHA,,NYK,,R. Barrett,NYK,Barrett STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0202,3,05:57,CHA,64.0,NYK,76.0,R. Barrett,NYK,Barrett 2' Running Layup (7 PTS),Made Shot,Running Layup Shot,6,17,2,1,2.0,2.0,v
+S2324-G0202,3,05:57,CHA,64.0,NYK,77.0,R. Barrett,NYK,Barrett Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G0202,3,04:09,CHA,,NYK,,R. Barrett,NYK,SUB: Hart FOR Barrett,Substitution,,0,0,0,0,,,v
+S2324-G0202,4,11:06,CHA,80.0,NYK,93.0,R. Barrett,NYK,Barrett Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0202,4,11:06,CHA,80.0,NYK,94.0,R. Barrett,NYK,Barrett Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0202,4,10:30,CHA,,NYK,,R. Barrett,NYK,MISS Barrett 3PT Jump Shot,Missed Shot,Jump Shot,-221,65,0,1,3.0,0.0,v
+S2324-G0202,4,09:51,CHA,,NYK,,R. Barrett,NYK,Barrett Traveling Turnover (P1.T8),Turnover,Traveling,0,0,0,0,,,v
+S2324-G0202,4,09:02,CHA,,NYK,,R. Barrett,NYK,Barrett REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0202,4,08:51,CHA,,NYK,,R. Barrett,NYK,MISS Barrett 24' 3PT Jump Shot,Missed Shot,Jump Shot,237,46,24,1,3.0,0.0,v
+S2324-G0202,4,08:32,CHA,88.0,NYK,99.0,R. Barrett,NYK,Barrett 24' 3PT Jump Shot (13 PTS) (Brunson 5 AST),Made Shot,Jump Shot,241,25,24,1,3.0,3.0,v
+S2324-G0202,4,08:05,CHA,88.0,NYK,101.0,R. Barrett,NYK,Barrett 3' Turnaround Jump Shot (15 PTS),Made Shot,Turnaround Jump Shot,4,25,3,1,2.0,2.0,v
+S2324-G0202,4,07:02,CHA,,NYK,,R. Barrett,NYK,MISS Barrett 25' 3PT Jump Shot,Missed Shot,Jump Shot,191,168,25,1,3.0,0.0,v
+S2324-G0202,4,06:29,CHA,,NYK,,R. Barrett,NYK,SUB: Randle FOR Barrett,Substitution,,0,0,0,0,,,v
+S2324-G0419,1,11:44,OKC,,NYK,,R. Barrett,NYK,Barrett REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0419,1,11:07,OKC,0.0,NYK,1.0,R. Barrett,NYK,Barrett Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0419,1,11:07,OKC,,NYK,,R. Barrett,NYK,MISS Barrett Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0419,1,09:43,OKC,,NYK,,R. Barrett,NYK,MISS Barrett 25' 3PT Jump Shot,Missed Shot,Jump Shot,234,100,25,1,3.0,0.0,v
+S2324-G0419,1,04:33,OKC,,NYK,,R. Barrett,NYK,SUB: Hart FOR Barrett,Substitution,,0,0,0,0,,,v
+S2324-G0419,2,11:39,OKC,,NYK,,R. Barrett,NYK,MISS Barrett 5' Driving Layup,Missed Shot,Driving Layup Shot,-28,39,5,1,2.0,0.0,v
+S2324-G0419,2,10:40,OKC,,NYK,,R. Barrett,NYK,Barrett Out of Bounds - Bad Pass Turnover Turnover (P1.T6),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0419,2,10:14,OKC,42.0,NYK,29.0,R. Barrett,NYK,Barrett 6' Driving Floating Bank Jump Shot (3 PTS),Made Shot,Driving Floating Bank Jump Shot,-60,13,6,1,2.0,2.0,v
+S2324-G0419,2,09:46,OKC,,NYK,,R. Barrett,NYK,Barrett REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0419,2,09:36,OKC,,NYK,,R. Barrett,NYK,MISS Barrett 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,71,7,1,2.0,0.0,v
+S2324-G0419,2,09:13,OKC,,NYK,,R. Barrett,NYK,Barrett P.FOUL (P1.T1) (N.Sago),Foul,Personal,0,0,0,0,,,v
+S2324-G0419,2,09:09,OKC,,NYK,,R. Barrett,NYK,Barrett S.FOUL (P2.T2) (J.Capers),Foul,Shooting,0,0,0,0,,,v
+S2324-G0419,2,06:57,OKC,48.0,NYK,39.0,R. Barrett,NYK,Barrett 6' Driving Floating Jump Shot (5 PTS) (Quickley 1 AST),Made Shot,Driving Floating Jump Shot,6,58,6,1,2.0,2.0,v
+S2324-G0419,2,06:36,OKC,48.0,NYK,40.0,R. Barrett,NYK,Barrett Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0419,2,06:36,OKC,,NYK,,R. Barrett,NYK,MISS Barrett Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0419,2,06:05,OKC,50.0,NYK,42.0,R. Barrett,NYK,Barrett 9' Turnaround Fadeaway Bank Jump Shot (8 PTS),Made Shot,Turnaround Fadeaway Bank Jump Shot,-51,73,9,1,2.0,2.0,v
+S2324-G0419,2,04:38,OKC,,NYK,,R. Barrett,NYK,MISS Barrett 25' 3PT Jump Shot,Missed Shot,Jump Shot,229,96,25,1,3.0,0.0,v
+S2324-G0419,2,03:10,OKC,,NYK,,R. Barrett,NYK,Barrett OFF.Foul (P3) (J.Sterling),Foul,Offensive,0,0,0,0,,,v
+S2324-G0419,2,03:10,OKC,,NYK,,R. Barrett,NYK,Barrett Offensive Foul Turnover (P2.T8),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0419,2,03:10,OKC,,NYK,,R. Barrett,NYK,SUB: Hart FOR Barrett,Substitution,,0,0,0,0,,,v
+S2324-G0419,3,11:13,OKC,,NYK,,R. Barrett,NYK,Barrett Step Out of Bounds Turnover (P3.T11),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2324-G0419,3,09:46,OKC,,NYK,,R. Barrett,NYK,MISS Barrett 3PT Jump Shot,Missed Shot,Jump Shot,234,9,0,1,3.0,0.0,v
+S2324-G0419,3,07:37,OKC,,NYK,,R. Barrett,NYK,Barrett Offensive Charge Foul (P4) (N.Sago),Foul,Offensive Charge,0,0,0,0,,,v
+S2324-G0419,3,07:37,OKC,,NYK,,R. Barrett,NYK,Barrett Offensive Foul Turnover (P4.T13),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0419,3,07:22,OKC,,NYK,,R. Barrett,NYK,SUB: Hart FOR Barrett,Substitution,,0,0,0,0,,,v
+S2324-G0419,4,10:58,OKC,,NYK,,R. Barrett,NYK,Barrett REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0419,4,10:15,OKC,,NYK,,R. Barrett,NYK,MISS Barrett 3' Driving Layup,Missed Shot,Driving Layup Shot,-31,9,3,1,2.0,0.0,v
+S2324-G0419,4,09:27,OKC,,NYK,,R. Barrett,NYK,MISS Barrett 24' 3PT Jump Shot,Missed Shot,Jump Shot,238,25,24,1,3.0,0.0,v
+S2324-G0419,4,07:57,OKC,,NYK,,R. Barrett,NYK,MISS Barrett Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0419,4,07:57,OKC,106.0,NYK,97.0,R. Barrett,NYK,Barrett Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0419,4,07:23,OKC,,NYK,,R. Barrett,NYK,MISS Barrett 27' 3PT Jump Shot,Missed Shot,Jump Shot,107,247,27,1,3.0,0.0,v
+S2324-G0419,4,07:06,OKC,,NYK,,R. Barrett,NYK,SUB: Randle FOR Barrett,Substitution,,0,0,0,0,,,v
+S2324-G0419,4,03:58,OKC,,NYK,,R. Barrett,NYK,Barrett Out of Bounds - Bad Pass Turnover Turnover (P5.T17),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0419,4,03:32,OKC,,NYK,,R. Barrett,NYK,MISS Barrett 24' 3PT Jump Shot,Missed Shot,Jump Shot,225,72,24,1,3.0,0.0,v
+S2324-G0419,4,02:02,OKC,121.0,NYK,111.0,R. Barrett,NYK,Barrett 3PT Jump Shot (12 PTS) (Randle 2 AST),Made Shot,Jump Shot,230,43,0,1,3.0,3.0,v
+S2324-G0419,4,01:38,OKC,,NYK,,R. Barrett,NYK,Barrett REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0419,4,01:16,OKC,,NYK,,R. Barrett,NYK,Barrett P.FOUL (P5.PN) (J.Sterling),Foul,Personal,0,0,0,0,,,v
+S2324-G0419,4,00:16.400000,OKC,127.0,NYK,117.0,R. Barrett,NYK,Barrett 7' Driving Floating Jump Shot (14 PTS),Made Shot,Driving Floating Jump Shot,-2,68,7,1,2.0,2.0,v
+S2324-G0065,1,10:17,NYK,,BOS,,R. Barrett,NYK,MISS Barrett 22' Jump Shot,Missed Shot,Jump Shot,210,48,22,1,2.0,0.0,h
+S2324-G0065,1,08:20,NYK,4.0,BOS,4.0,R. Barrett,NYK,Barrett 1' Running Dunk (2 PTS) (Brunson 1 AST),Made Shot,Running Dunk Shot,4,7,1,1,2.0,2.0,h
+S2324-G0065,1,07:30,NYK,,BOS,,R. Barrett,NYK,MISS Barrett 6' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,4,62,6,1,2.0,0.0,h
+S2324-G0065,1,07:04,NYK,,BOS,,R. Barrett,NYK,MISS Barrett 2' Driving Layup,Missed Shot,Driving Layup Shot,-17,4,2,1,2.0,0.0,h
+S2324-G0065,1,06:57,NYK,,BOS,,R. Barrett,NYK,MISS Barrett Free Throw 1 of 3,Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,0.0,h
+S2324-G0065,1,06:57,NYK,5.0,BOS,9.0,R. Barrett,NYK,Barrett Free Throw 2 of 3 (3 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,h
+S2324-G0065,1,06:57,NYK,6.0,BOS,9.0,R. Barrett,NYK,Barrett Free Throw 3 of 3 (4 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,h
+S2324-G0065,1,06:18,NYK,8.0,BOS,11.0,R. Barrett,NYK,Barrett 2' Driving Finger Roll Layup (6 PTS),Made Shot,Driving Finger Roll Layup Shot,-17,-3,2,1,2.0,2.0,h
+S2324-G0065,1,06:06,NYK,,BOS,,R. Barrett,NYK,SUB: Hart FOR Barrett,Substitution,,0,0,0,0,,,h
+S2324-G0065,1,02:45,NYK,,BOS,,R. Barrett,NYK,MISS Barrett 5' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-50,12,5,1,2.0,0.0,h
+S2324-G0065,1,02:17,NYK,15.0,BOS,24.0,R. Barrett,NYK,Barrett 10' Pullup Jump Shot (8 PTS) (Quickley 1 AST),Made Shot,Pullup Jump shot,98,6,10,1,2.0,2.0,h
+S2324-G0065,1,00:05.700000,NYK,,BOS,,R. Barrett,NYK,MISS Barrett 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-29,143,15,1,2.0,0.0,h
+S2324-G0065,2,11:16,NYK,23.0,BOS,33.0,R. Barrett,NYK,Barrett 6' Fadeaway Jumper (10 PTS) (Quickley 2 AST),Made Shot,Fadeaway Jump Shot,44,38,6,1,2.0,2.0,h
+S2324-G0065,2,11:16,NYK,24.0,BOS,33.0,R. Barrett,NYK,Barrett Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G0065,2,10:00,NYK,,BOS,,R. Barrett,NYK,Barrett Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0065,2,08:59,NYK,,BOS,,R. Barrett,NYK,Barrett REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0065,2,05:47,NYK,36.0,BOS,40.0,R. Barrett,NYK,Barrett 25' 3PT Jump Shot (14 PTS) (Quickley 3 AST),Made Shot,Jump Shot,233,88,25,1,3.0,3.0,h
+S2324-G0065,2,04:45,NYK,,BOS,,R. Barrett,NYK,Barrett STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0065,2,03:10,NYK,,BOS,,R. Barrett,NYK,MISS Barrett 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-168,189,25,1,3.0,0.0,h
+S2324-G0065,2,01:44,NYK,,BOS,,R. Barrett,NYK,MISS Barrett 1' Layup,Missed Shot,Layup Shot,-5,10,1,1,2.0,0.0,h
+S2324-G0065,2,00:57.100000,NYK,,BOS,,R. Barrett,NYK,SUB: Hartenstein FOR Barrett,Substitution,,0,0,0,0,,,h
+S2324-G0065,3,09:05,NYK,,BOS,,R. Barrett,NYK,MISS Barrett 2' Running Layup,Missed Shot,Running Layup Shot,1,19,2,1,2.0,0.0,h
+S2324-G0065,3,08:23,NYK,,BOS,,R. Barrett,NYK,Barrett Lost Ball Turnover (P2.T7),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0065,3,06:03,NYK,60.0,BOS,64.0,R. Barrett,NYK,Barrett 2' Running Finger Roll Layup (16 PTS) (Randle 5 AST),Made Shot,Running Finger Roll Layup Shot,-2,15,2,1,2.0,2.0,h
+S2324-G0065,3,04:36,NYK,,BOS,,R. Barrett,NYK,MISS Barrett 3' Driving Layup,Missed Shot,Driving Layup Shot,-22,23,3,1,2.0,0.0,h
+S2324-G0065,3,04:32,NYK,,BOS,,R. Barrett,NYK,SUB: Hart FOR Barrett,Substitution,,0,0,0,0,,,h
+S2324-G0065,4,11:26,NYK,75.0,BOS,82.0,R. Barrett,NYK,Barrett 1' Driving Reverse Layup (18 PTS),Made Shot,Driving Reverse Layup Shot,-7,0,1,1,2.0,2.0,h
+S2324-G0065,4,10:59,NYK,76.0,BOS,82.0,R. Barrett,NYK,Barrett Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0065,4,10:59,NYK,77.0,BOS,82.0,R. Barrett,NYK,Barrett Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0065,4,10:20,NYK,80.0,BOS,82.0,R. Barrett,NYK,Barrett 25' 3PT Jump Shot (23 PTS) (Quickley 4 AST),Made Shot,Jump Shot,-145,201,25,1,3.0,3.0,h
+S2324-G0065,4,09:30,NYK,,BOS,,R. Barrett,NYK,Barrett REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0065,4,08:16,NYK,,BOS,,R. Barrett,NYK,MISS Barrett 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,70,143,16,1,2.0,0.0,h
+S2324-G0065,4,07:29,NYK,,BOS,,R. Barrett,NYK,Barrett REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0065,4,07:24,NYK,87.0,BOS,86.0,R. Barrett,NYK,Barrett Free Throw Technical (24 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,h
+S2324-G0065,4,07:24,NYK,,BOS,,R. Barrett,NYK,SUB: Randle FOR Barrett,Substitution,,0,0,0,0,,,h
+S2324-G0065,4,02:06,NYK,,BOS,,R. Barrett,NYK,MISS Barrett 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,7,262,26,1,3.0,0.0,h
+S2324-G0065,4,01:22,NYK,,BOS,,R. Barrett,NYK,MISS Barrett 3PT Jump Shot,Missed Shot,Jump Shot,229,22,0,1,3.0,0.0,h
+S2324-G0177,1,10:54,NYK,,CHA,,R. Barrett,NYK,MISS Barrett 1' Running Layup,Missed Shot,Running Layup Shot,2,-6,1,1,2.0,0.0,h
+S2324-G0177,1,08:49,NYK,,CHA,,R. Barrett,NYK,Barrett REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0177,1,07:31,NYK,,CHA,,R. Barrett,NYK,MISS Barrett 3' Driving Layup,Missed Shot,Driving Layup Shot,-29,14,3,1,2.0,0.0,h
+S2324-G0177,1,04:48,NYK,,CHA,,R. Barrett,NYK,Barrett STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0177,1,04:43,NYK,,CHA,,R. Barrett,NYK,SUB: Quickley FOR Barrett,Substitution,,0,0,0,0,,,h
+S2324-G0177,1,00:33.700000,NYK,,CHA,,R. Barrett,NYK,Barrett REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0177,1,00:32,NYK,29.0,CHA,25.0,R. Barrett,NYK,Barrett 1' Running Layup (2 PTS),Made Shot,Running Layup Shot,1,9,1,1,2.0,2.0,h
+S2324-G0177,1,00:32,NYK,,CHA,,R. Barrett,NYK,MISS Barrett Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2324-G0177,1,00:05.400000,NYK,,CHA,,R. Barrett,NYK,Barrett REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0177,2,11:24,NYK,,CHA,,R. Barrett,NYK,MISS Barrett 7' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-17,64,7,1,2.0,0.0,h
+S2324-G0177,2,10:58,NYK,35.0,CHA,29.0,R. Barrett,NYK,Barrett 4' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,-40,6,4,1,2.0,2.0,h
+S2324-G0177,2,10:37,NYK,38.0,CHA,29.0,R. Barrett,NYK,Barrett 26' 3PT Pullup Jump Shot (7 PTS) (Quickley 1 AST),Made Shot,Pullup Jump shot,109,231,26,1,3.0,3.0,h
+S2324-G0177,2,09:34,NYK,,CHA,,R. Barrett,NYK,MISS Barrett 8' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,0,77,8,1,2.0,0.0,h
+S2324-G0177,2,07:58,NYK,45.0,CHA,39.0,R. Barrett,NYK,Barrett 8' Driving Floating Jump Shot (9 PTS),Made Shot,Driving Floating Jump Shot,-4,83,8,1,2.0,2.0,h
+S2324-G0177,2,07:36,NYK,,CHA,,R. Barrett,NYK,SUB: Brunson FOR Barrett,Substitution,,0,0,0,0,,,h
+S2324-G0177,2,03:55,NYK,,CHA,,R. Barrett,NYK,MISS Barrett 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,84,8,1,2.0,0.0,h
+S2324-G0177,2,03:42,NYK,,CHA,,R. Barrett,NYK,Barrett REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0177,2,03:30,NYK,60.0,CHA,45.0,R. Barrett,NYK,Barrett Cutting Dunk Shot (11 PTS) (Grimes 1 AST),Made Shot,Cutting Dunk Shot,-2,-2,0,1,2.0,2.0,h
+S2324-G0177,2,02:22,NYK,,CHA,,R. Barrett,NYK,MISS Barrett 25' 3PT Jump Shot,Missed Shot,Jump Shot,103,232,25,1,3.0,0.0,h
+S2324-G0177,2,01:06,NYK,,CHA,,R. Barrett,NYK,Barrett P.FOUL (P1.T4) (J.Goldenberg),Foul,Personal,0,0,0,0,,,h
+S2324-G0177,2,00:46.700000,NYK,,CHA,,R. Barrett,NYK,MISS Barrett 26' 3PT Jump Shot,Missed Shot,Jump Shot,105,234,26,1,3.0,0.0,h
+S2324-G0177,3,11:02,NYK,67.0,CHA,54.0,R. Barrett,NYK,Barrett Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0177,3,11:02,NYK,68.0,CHA,54.0,R. Barrett,NYK,Barrett Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0177,3,08:31,NYK,78.0,CHA,59.0,R. Barrett,NYK,Barrett 2' Driving Layup (15 PTS),Made Shot,Driving Layup Shot,17,-3,2,1,2.0,2.0,h
+S2324-G0177,3,07:07,NYK,,CHA,,R. Barrett,NYK,Barrett BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0177,3,05:52,NYK,88.0,CHA,65.0,R. Barrett,NYK,Barrett 25' 3PT Jump Shot (18 PTS) (Randle 5 AST),Made Shot,Jump Shot,214,126,25,1,3.0,3.0,h
+S2324-G0177,3,05:36,NYK,,CHA,,R. Barrett,NYK,SUB: Hart FOR Barrett,Substitution,,0,0,0,0,,,h
+S2324-G0177,3,00:28.700000,NYK,,CHA,,R. Barrett,NYK,Barrett Lost Ball Turnover (P1.T6),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0177,4,08:56,NYK,109.0,CHA,86.0,R. Barrett,NYK,Barrett 25' 3PT Jump Shot (21 PTS) (Hartenstein 1 AST),Made Shot,Jump Shot,-80,235,25,1,3.0,3.0,h
+S2324-G0177,4,07:44,NYK,116.0,CHA,88.0,R. Barrett,NYK,Barrett 24' 3PT Jump Shot (24 PTS) (Quickley 6 AST),Made Shot,Jump Shot,230,50,24,1,3.0,3.0,h
+S2324-G0177,4,06:59,NYK,,CHA,,R. Barrett,NYK,SUB: Grimes FOR Barrett,Substitution,,0,0,0,0,,,h
+S2324-G0161,1,11:13,NYK,3.0,SAS,0.0,R. Barrett,NYK,Barrett 25' 3PT Jump Shot (3 PTS) (Brunson 1 AST),Made Shot,Jump Shot,-184,172,25,1,3.0,3.0,h
+S2324-G0161,1,06:56,NYK,18.0,SAS,6.0,R. Barrett,NYK,Barrett 25' 3PT Running Pull-Up Jump Shot (6 PTS) (Grimes 1 AST),Made Shot,Running Pull-Up Jump Shot,148,202,25,1,3.0,3.0,h
+S2324-G0161,1,05:44,NYK,,SAS,,R. Barrett,NYK,SUB: Hart FOR Barrett,Substitution,,0,0,0,0,,,h
+S2324-G0161,2,11:11,NYK,35.0,SAS,16.0,R. Barrett,NYK,Barrett 7' Floating Jump Shot (8 PTS) (Quickley 3 AST),Made Shot,Floating Jump shot,-15,71,7,1,2.0,2.0,h
+S2324-G0161,2,10:38,NYK,,SAS,,R. Barrett,NYK, ,Jump Ball,,0,0,0,0,,,h
+S2324-G0161,2,07:37,NYK,,SAS,,R. Barrett,NYK,MISS Barrett 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-48,249,25,1,3.0,0.0,h
+S2324-G0161,2,07:31,NYK,,SAS,,R. Barrett,NYK,MISS Barrett 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-17,-6,2,1,2.0,0.0,h
+S2324-G0161,2,07:15,NYK,,SAS,,R. Barrett,NYK,SUB: Brunson FOR Barrett,Substitution,,0,0,0,0,,,h
+S2324-G0161,2,00:26.100000,NYK,65.0,SAS,48.0,R. Barrett,NYK,Barrett 3' Layup (10 PTS),Made Shot,Layup Shot,9,25,3,1,2.0,2.0,h
+S2324-G0161,2,00:00.100000,NYK,,SAS,,R. Barrett,NYK,MISS Barrett 22' Pullup Jump Shot,Missed Shot,Pullup Jump shot,44,211,22,1,2.0,0.0,h
+S2324-G0161,3,11:30,NYK,,SAS,,R. Barrett,NYK,MISS Barrett 3PT Jump Shot,Missed Shot,Jump Shot,229,8,0,1,3.0,0.0,h
+S2324-G0161,3,10:42,NYK,68.0,SAS,51.0,R. Barrett,NYK,Barrett 25' 3PT Jump Shot (13 PTS) (Grimes 3 AST),Made Shot,Jump Shot,-137,211,25,1,3.0,3.0,h
+S2324-G0161,3,07:43,NYK,,SAS,,R. Barrett,NYK,Barrett REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0161,3,07:23,NYK,82.0,SAS,53.0,R. Barrett,NYK,Barrett 3PT Jump Shot (16 PTS) (Randle 3 AST),Made Shot,Jump Shot,-227,17,0,1,3.0,3.0,h
+S2324-G0161,3,06:46,NYK,,SAS,,R. Barrett,NYK,MISS Barrett 24' 3PT Jump Shot,Missed Shot,Jump Shot,232,43,24,1,3.0,0.0,h
+S2324-G0161,3,06:02,NYK,,SAS,,R. Barrett,NYK,MISS Barrett 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,100,45,11,1,2.0,0.0,h
+S2324-G0161,3,05:30,NYK,83.0,SAS,59.0,R. Barrett,NYK,Barrett Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0161,3,05:30,NYK,84.0,SAS,59.0,R. Barrett,NYK,Barrett Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0161,3,05:10,NYK,,SAS,,R. Barrett,NYK,SUB: Hart FOR Barrett,Substitution,,0,0,0,0,,,h
+S2324-G0161,3,01:00,NYK,97.0,SAS,70.0,R. Barrett,NYK,Barrett 25' 3PT Jump Shot (21 PTS) (DiVincenzo 2 AST),Made Shot,Jump Shot,-97,235,25,1,3.0,3.0,h
+S2324-G0161,4,11:49,NYK,,SAS,,R. Barrett,NYK,MISS Barrett 3' Driving Layup,Missed Shot,Driving Layup Shot,23,15,3,1,2.0,0.0,h
+S2324-G0161,4,08:43,NYK,,SAS,,R. Barrett,NYK,SUB: Brunson FOR Barrett,Substitution,,0,0,0,0,,,h
+S2324-G0161,4,06:14,NYK,,SAS,,R. Barrett,NYK,Barrett REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0161,4,05:43,NYK,,SAS,,R. Barrett,NYK,Barrett STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0161,4,04:49,NYK,,SAS,,R. Barrett,NYK,Barrett S.FOUL (P1.PN) (N.Buchert),Foul,Shooting,0,0,0,0,,,h
+S2324-G0161,4,04:31,NYK,,SAS,,R. Barrett,NYK,MISS Barrett 2' Driving Layup,Missed Shot,Driving Layup Shot,-17,4,2,1,2.0,0.0,h
+S2324-G0161,4,04:04,NYK,,SAS,,R. Barrett,NYK,MISS Barrett 26' 3PT Jump Shot,Missed Shot,Jump Shot,15,261,26,1,3.0,0.0,h
+S2324-G0161,4,01:32,NYK,125.0,SAS,103.0,R. Barrett,NYK,Barrett 2' Driving Layup (23 PTS),Made Shot,Driving Layup Shot,13,11,2,1,2.0,2.0,h
+S2324-G0161,4,01:32,NYK,126.0,SAS,103.0,R. Barrett,NYK,Barrett Free Throw 1 of 1 (24 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G0161,4,01:20,NYK,,SAS,,R. Barrett,NYK,Barrett S.FOUL (P2.PN) (J.Schroeder),Foul,Shooting,0,0,0,0,,,h
+S2324-G0161,4,01:20,NYK,,SAS,,R. Barrett,NYK,SUB: Windler FOR Barrett,Substitution,,0,0,0,0,,,h
+S2324-G0268,1,11:36,NYK,,DET,,R. Barrett,NYK,Barrett Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0268,1,11:08,NYK,2.0,DET,2.0,R. Barrett,NYK,Barrett 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,-10,3,1,1,2.0,2.0,h
+S2324-G0268,1,08:11,NYK,,DET,,R. Barrett,NYK,MISS Barrett 25' 3PT Jump Shot,Missed Shot,Jump Shot,-67,242,25,1,3.0,0.0,h
+S2324-G0268,1,07:03,NYK,,DET,,R. Barrett,NYK,MISS Barrett 24' 3PT Jump Shot,Missed Shot,Jump Shot,228,78,24,1,3.0,0.0,h
+S2324-G0268,1,05:31,NYK,,DET,,R. Barrett,NYK,Barrett REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0268,1,05:28,NYK,15.0,DET,10.0,R. Barrett,NYK,Barrett Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0268,1,05:28,NYK,,DET,,R. Barrett,NYK,MISS Barrett Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0268,1,05:13,NYK,,DET,,R. Barrett,NYK,SUB: Hart FOR Barrett,Substitution,,0,0,0,0,,,h
+S2324-G0268,2,11:09,NYK,,DET,,R. Barrett,NYK,MISS Barrett 3PT Jump Shot,Missed Shot,Jump Shot,-227,9,0,1,3.0,0.0,h
+S2324-G0268,2,10:46,NYK,33.0,DET,19.0,R. Barrett,NYK,Barrett 1' Running Layup (5 PTS) (Hart 1 AST),Made Shot,Running Layup Shot,-1,8,1,1,2.0,2.0,h
+S2324-G0268,2,10:19,NYK,,DET,,R. Barrett,NYK,Barrett Lost Ball Turnover (P2.T4),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0268,2,10:08,NYK,34.0,DET,19.0,R. Barrett,NYK,Barrett Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0268,2,10:08,NYK,35.0,DET,19.0,R. Barrett,NYK,Barrett Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0268,2,09:17,NYK,,DET,,R. Barrett,NYK,Barrett S.FOUL (P1.T2) (J.Goble),Foul,Shooting,0,0,0,0,,,h
+S2324-G0268,2,07:57,NYK,,DET,,R. Barrett,NYK,MISS Barrett 2' Driving Layup,Missed Shot,Driving Layup Shot,-11,14,2,1,2.0,0.0,h
+S2324-G0268,2,07:46,NYK,,DET,,R. Barrett,NYK,SUB: Robinson FOR Barrett,Substitution,,0,0,0,0,,,h
+S2324-G0268,2,01:14,NYK,54.0,DET,48.0,R. Barrett,NYK,Barrett 19' Pullup Jump Shot (9 PTS) (Randle 6 AST),Made Shot,Pullup Jump shot,25,193,19,1,2.0,2.0,h
+S2324-G0268,2,01:07,NYK,,DET,,R. Barrett,NYK,Barrett P.FOUL (P2.T3) (B.Adair),Foul,Personal,0,0,0,0,,,h
+S2324-G0268,2,00:50.300000,NYK,,DET,,R. Barrett,NYK,MISS Barrett 27' 3PT Jump Shot,Missed Shot,Jump Shot,134,230,27,1,3.0,0.0,h
+S2324-G0268,3,10:39,NYK,,DET,,R. Barrett,NYK,MISS Barrett 25' 3PT Jump Shot,Missed Shot,Jump Shot,184,168,25,1,3.0,0.0,h
+S2324-G0268,3,08:39,NYK,65.0,DET,61.0,R. Barrett,NYK,Barrett 24' 3PT Jump Shot (12 PTS) (Randle 7 AST),Made Shot,Jump Shot,212,118,24,1,3.0,3.0,h
+S2324-G0268,3,06:07,NYK,,DET,,R. Barrett,NYK,MISS Barrett 1' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,10,8,1,1,2.0,0.0,h
+S2324-G0268,3,05:01,NYK,,DET,,R. Barrett,NYK,SUB: Robinson FOR Barrett,Substitution,,0,0,0,0,,,h
+S2324-G0268,4,10:24,NYK,91.0,DET,88.0,R. Barrett,NYK,Barrett 1' Driving Layup (14 PTS),Made Shot,Driving Layup Shot,-2,5,1,1,2.0,2.0,h
+S2324-G0268,4,09:34,NYK,,DET,,R. Barrett,NYK,MISS Barrett Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0268,4,09:34,NYK,92.0,DET,93.0,R. Barrett,NYK,Barrett Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0268,4,08:12,NYK,,DET,,R. Barrett,NYK,SUB: Robinson FOR Barrett,Substitution,,0,0,0,0,,,h
+S2324-G0045,1,10:06,NYK,,MIA,,R. Barrett,NYK,Barrett REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0045,1,08:07,NYK,12.0,MIA,6.0,R. Barrett,NYK,Barrett 1' Driving Layup (2 PTS) (Randle 2 AST),Made Shot,Driving Layup Shot,-2,8,1,1,2.0,2.0,h
+S2324-G0045,1,06:15,NYK,,MIA,,R. Barrett,NYK,MISS Barrett 3PT Jump Shot,Missed Shot,Jump Shot,233,11,0,1,3.0,0.0,h
+S2324-G0045,1,05:51,NYK,,MIA,,R. Barrett,NYK,SUB: Hart FOR Barrett,Substitution,,0,0,0,0,,,h
+S2324-G0045,2,11:18,NYK,,MIA,,R. Barrett,NYK,Barrett REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0045,2,11:08,NYK,29.0,MIA,28.0,R. Barrett,NYK,Barrett Reverse Layup (4 PTS),Made Shot,Reverse Layup Shot,-4,2,0,1,2.0,2.0,h
+S2324-G0045,2,09:58,NYK,,MIA,,R. Barrett,NYK,MISS Barrett 7' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-28,68,7,1,2.0,0.0,h
+S2324-G0045,2,07:56,NYK,,MIA,,R. Barrett,NYK,SUB: Brunson FOR Barrett,Substitution,,0,0,0,0,,,h
+S2324-G0045,2,03:07,NYK,,MIA,,R. Barrett,NYK,MISS Barrett 3PT Jump Shot,Missed Shot,Jump Shot,230,7,0,1,3.0,0.0,h
+S2324-G0045,2,01:47,NYK,47.0,MIA,50.0,R. Barrett,NYK,Barrett Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0045,2,01:47,NYK,48.0,MIA,50.0,R. Barrett,NYK,Barrett Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0045,3,11:07,NYK,,MIA,,R. Barrett,NYK,Barrett Bad Pass Turnover (P1.T11),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0045,3,10:30,NYK,,MIA,,R. Barrett,NYK,MISS Barrett 15' Jump Shot,Missed Shot,Jump Shot,33,151,15,1,2.0,0.0,h
+S2324-G0045,3,07:15,NYK,,MIA,,R. Barrett,NYK,MISS Barrett 5' Driving Layup,Missed Shot,Driving Layup Shot,-6,50,5,1,2.0,0.0,h
+S2324-G0045,3,06:20,NYK,56.0,MIA,69.0,R. Barrett,NYK,Barrett 1' Driving Layup (8 PTS) (Brunson 1 AST),Made Shot,Driving Layup Shot,2,11,1,1,2.0,2.0,h
+S2324-G0045,3,05:43,NYK,58.0,MIA,71.0,R. Barrett,NYK,Barrett 5' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,-45,9,5,1,2.0,2.0,h
+S2324-G0045,3,05:01,NYK,,MIA,,R. Barrett,NYK,Barrett P.FOUL (P1.T4) (T.Washington),Foul,Personal,0,0,0,0,,,h
+S2324-G0045,3,04:38,NYK,,MIA,,R. Barrett,NYK,SUB: Hart FOR Barrett,Substitution,,0,0,0,0,,,h
+S2324-G0045,4,11:13,NYK,,MIA,,R. Barrett,NYK,Barrett Traveling Turnover (P2.T16),Turnover,Traveling,0,0,0,0,,,h
+S2324-G0045,4,10:56,NYK,,MIA,,R. Barrett,NYK,Barrett REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0045,4,10:52,NYK,,MIA,,R. Barrett,NYK,Barrett Out of Bounds - Bad Pass Turnover Turnover (P3.T17),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G0045,4,08:57,NYK,,MIA,,R. Barrett,NYK,Barrett REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0045,4,08:00,NYK,,MIA,,R. Barrett,NYK,MISS Barrett 3PT Jump Shot,Missed Shot,Jump Shot,225,47,0,1,3.0,0.0,h
+S2324-G0045,4,06:58,NYK,82.0,MIA,89.0,R. Barrett,NYK,Barrett 24' 3PT Jump Shot (13 PTS) (Hart 4 AST),Made Shot,Jump Shot,-235,0,24,1,3.0,3.0,h
+S2324-G0045,4,05:18,NYK,,MIA,,R. Barrett,NYK,Barrett REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0045,4,04:52,NYK,,MIA,,R. Barrett,NYK,Barrett REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0045,4,03:31,NYK,89.0,MIA,96.0,R. Barrett,NYK,Barrett 9' Pullup Jump Shot (15 PTS),Made Shot,Pullup Jump shot,71,52,9,1,2.0,2.0,h
+S2324-G0045,4,02:42,NYK,,MIA,,R. Barrett,NYK,Barrett P.FOUL (P2.T2) (B.Barnaky),Foul,Personal,0,0,0,0,,,h
+S2324-G0045,4,02:03,NYK,,MIA,,R. Barrett,NYK,Barrett REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0045,4,01:59,NYK,96.0,MIA,96.0,R. Barrett,NYK,Barrett 1' Running Layup (17 PTS),Made Shot,Running Layup Shot,-1,6,1,1,2.0,2.0,h
+S2324-G0045,4,01:59,NYK,97.0,MIA,96.0,R. Barrett,NYK,Barrett Free Throw 1 of 1 (18 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G0045,4,00:52.400000,NYK,,MIA,,R. Barrett,NYK,MISS Barrett 25' 3PT Jump Shot,Missed Shot,Jump Shot,164,193,25,1,3.0,0.0,h
+S2324-G0090,1,11:44,NOP,,NYK,,R. Barrett,NYK,MISS Barrett 25' 3PT Jump Shot,Missed Shot,Jump Shot,202,153,25,1,3.0,0.0,v
+S2324-G0090,1,10:32,NOP,0.0,NYK,2.0,R. Barrett,NYK,Barrett 7' Driving Layup (2 PTS) (Randle 1 AST),Made Shot,Driving Layup Shot,27,68,7,1,2.0,2.0,v
+S2324-G0090,1,09:33,NOP,,NYK,,R. Barrett,NYK,MISS Barrett 24' 3PT Jump Shot,Missed Shot,Jump Shot,213,115,24,1,3.0,0.0,v
+S2324-G0090,1,07:30,NOP,,NYK,,R. Barrett,NYK,Barrett REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0090,1,06:15,NOP,,NYK,,R. Barrett,NYK,Barrett Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0090,1,05:44,NOP,,NYK,,R. Barrett,NYK,SUB: Hart FOR Barrett,Substitution,,0,0,0,0,,,v
+S2324-G0090,2,11:39,NOP,,NYK,,R. Barrett,NYK,MISS Barrett 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,22,101,10,1,2.0,0.0,v
+S2324-G0090,2,10:06,NOP,32.0,NYK,17.0,R. Barrett,NYK,Barrett 11' Driving Floating Jump Shot (4 PTS) (Hartenstein 1 AST),Made Shot,Driving Floating Jump Shot,-23,108,11,1,2.0,2.0,v
+S2324-G0090,2,09:03,NOP,,NYK,,R. Barrett,NYK,Barrett Bad Pass Turnover (P2.T8),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0090,2,08:55,NOP,35.0,NYK,20.0,R. Barrett,NYK,Barrett 3PT Running Jump Shot (7 PTS) (Hart 1 AST),Made Shot,Running Jump Shot,-224,0,0,1,3.0,3.0,v
+S2324-G0090,2,08:34,NOP,,NYK,,R. Barrett,NYK,Barrett BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0090,2,08:15,NOP,,NYK,,R. Barrett,NYK,SUB: Brunson FOR Barrett,Substitution,,0,0,0,0,,,v
+S2324-G0090,2,03:15,NOP,50.0,NYK,35.0,R. Barrett,NYK,Barrett 3' Running Layup (9 PTS) (Brunson 1 AST),Made Shot,Running Layup Shot,16,31,3,1,2.0,2.0,v
+S2324-G0090,2,02:35,NOP,52.0,NYK,37.0,R. Barrett,NYK,Barrett 6' Cutting Layup Shot (11 PTS) (Brunson 2 AST),Made Shot,Cutting Layup Shot,18,57,6,1,2.0,2.0,v
+S2324-G0090,2,00:33.700000,NOP,,NYK,,R. Barrett,NYK,MISS Barrett 13' Step Back Jump Shot,Missed Shot,Step Back Jump shot,96,93,13,1,2.0,0.0,v
+S2324-G0090,3,11:47,NOP,,NYK,,R. Barrett,NYK,Barrett REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0090,3,11:27,NOP,,NYK,,R. Barrett,NYK,MISS Barrett 3PT Jump Shot,Missed Shot,Jump Shot,222,4,0,1,3.0,0.0,v
+S2324-G0090,3,09:49,NOP,58.0,NYK,43.0,R. Barrett,NYK,Barrett Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0090,3,09:49,NOP,,NYK,,R. Barrett,NYK,MISS Barrett Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0090,3,08:46,NOP,58.0,NYK,46.0,R. Barrett,NYK,Barrett Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0090,3,08:46,NOP,58.0,NYK,47.0,R. Barrett,NYK,Barrett Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0090,3,07:52,NOP,61.0,NYK,51.0,R. Barrett,NYK,Barrett 3' Driving Reverse Layup (16 PTS) (Brunson 5 AST),Made Shot,Driving Reverse Layup Shot,31,15,3,1,2.0,2.0,v
+S2324-G0090,3,06:34,NOP,,NYK,,R. Barrett,NYK,Barrett REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0090,3,04:41,NOP,,NYK,,R. Barrett,NYK,Barrett Out of Bounds Lost Ball Turnover (P3.T12),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2324-G0090,3,04:41,NOP,,NYK,,R. Barrett,NYK,SUB: Hart FOR Barrett,Substitution,,0,0,0,0,,,v
+S2324-G0090,4,10:44,NOP,,NYK,,R. Barrett,NYK,MISS Barrett 5' Hook Shot,Missed Shot,Hook Shot,-25,42,5,1,2.0,0.0,v
+S2324-G0090,4,09:37,NOP,,NYK,,R. Barrett,NYK,MISS Barrett 26' 3PT Jump Shot,Missed Shot,Jump Shot,164,200,26,1,3.0,0.0,v
+S2324-G0090,4,06:42,NOP,87.0,NYK,73.0,R. Barrett,NYK,Barrett 12' Driving Floating Jump Shot (18 PTS) (Randle 4 AST),Made Shot,Driving Floating Jump Shot,-12,115,12,1,2.0,2.0,v
+S2324-G0090,4,05:17,NOP,,NYK,,R. Barrett,NYK,MISS Barrett 3PT Jump Shot,Missed Shot,Jump Shot,221,20,0,1,3.0,0.0,v
+S2324-G0090,4,03:22,NOP,,NYK,,R. Barrett,NYK,MISS Barrett 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-4,64,6,1,2.0,0.0,v
+S2324-G0090,4,03:16,NOP,,NYK,,R. Barrett,NYK,SUB: Windler FOR Barrett,Substitution,,0,0,0,0,,,v

@@ -1,0 +1,877 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2324-G0159,1,00:13.400000,PHI,,BOS,,N. Batum,PHI,Batum P.FOUL (P1.PN) (D.Taylor),Foul,Personal,0,0,0,0,,,h
+S2324-G0159,2,08:39,PHI,33.0,BOS,35.0,N. Batum,PHI,Batum 26' 3PT Step Back Jump Shot (3 PTS) (Harris 3 AST),Made Shot,Step Back Jump shot,-249,55,26,1,3.0,3.0,h
+S2324-G0159,2,06:39,PHI,,BOS,,N. Batum,PHI,Batum REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0159,2,06:02,PHI,,BOS,,N. Batum,PHI,Batum REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0159,2,06:02,PHI,39.0,BOS,40.0,N. Batum,PHI,Batum Putback Layup (5 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,h
+S2324-G0159,2,05:18,PHI,,BOS,,N. Batum,PHI,Batum P.FOUL (P2.T1) (J.Williams),Foul,Personal,0,0,0,0,,,h
+S2324-G0159,2,05:14,PHI,,BOS,,N. Batum,PHI,Batum BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0159,2,04:44,PHI,,BOS,,N. Batum,PHI,SUB: Covington FOR Batum,Substitution,,0,0,0,0,,,h
+S2324-G0159,2,01:07,PHI,,BOS,,N. Batum,PHI,SUB: Oubre Jr. FOR Batum,Substitution,,0,0,0,0,,,h
+S2324-G0159,3,04:19,PHI,,BOS,,N. Batum,PHI,MISS Batum 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,219,127,25,1,3.0,0.0,h
+S2324-G0159,3,01:54,PHI,,BOS,,N. Batum,PHI,Batum REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0159,4,09:52,PHI,,BOS,,N. Batum,PHI,Batum REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0159,4,07:27,PHI,,BOS,,N. Batum,PHI,SUB: Covington FOR Batum,Substitution,,0,0,0,0,,,h
+S2324-G0335,1,06:05,CHA,,PHI,,N. Batum,PHI,Batum REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0335,1,04:05,CHA,,PHI,,N. Batum,PHI,SUB: Oubre Jr. FOR Batum,Substitution,,0,0,0,0,,,v
+S2324-G0335,2,00:29.100000,CHA,,PHI,,N. Batum,PHI,Batum S.FOUL (P1.T4) (M.Davis),Foul,Shooting,0,0,0,0,,,v
+S2324-G0335,2,00:12.700000,CHA,44.0,PHI,73.0,N. Batum,PHI,Batum 24' 3PT Jump Shot (3 PTS) (Harris 2 AST),Made Shot,Jump Shot,-240,13,24,1,3.0,3.0,v
+S2324-G0335,3,11:39,CHA,,PHI,,N. Batum,PHI,Batum P.FOUL (P2.T1) (J.Van Duyne),Foul,Personal,0,0,0,0,,,v
+S2324-G0335,3,11:26,CHA,,PHI,,N. Batum,PHI,MISS Batum 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,29,262,26,1,3.0,0.0,v
+S2324-G0335,3,06:01,CHA,,PHI,,N. Batum,PHI,Batum REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0335,3,03:42,CHA,,PHI,,N. Batum,PHI,Batum REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0335,3,03:07,CHA,,PHI,,N. Batum,PHI,MISS Batum 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,0,16,2,1,2.0,0.0,v
+S2324-G0335,3,02:57,CHA,,PHI,,N. Batum,PHI,SUB: Beverley FOR Batum,Substitution,,0,0,0,0,,,v
+S2324-G0495,1,10:51,PHI,,UTA,,N. Batum,PHI,MISS Batum 26' 3PT Jump Shot,Missed Shot,Jump Shot,211,153,26,1,3.0,0.0,h
+S2324-G0495,1,08:10,PHI,,UTA,,N. Batum,PHI,Batum BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0495,1,07:51,PHI,,UTA,,N. Batum,PHI,Batum P.FOUL (P1.T2) (G.Petraitis),Foul,Personal,0,0,0,0,,,h
+S2324-G0495,1,07:23,PHI,,UTA,,N. Batum,PHI,MISS Batum 3PT Jump Shot,Missed Shot,Jump Shot,-227,-11,0,1,3.0,0.0,h
+S2324-G0495,1,03:56,PHI,,UTA,,N. Batum,PHI,Batum STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0495,1,02:55,PHI,,UTA,,N. Batum,PHI,Batum BLOCK (2 BLK),,,0,0,0,0,,,h
+S2324-G0495,1,02:45,PHI,,UTA,,N. Batum,PHI,SUB: Oubre Jr. FOR Batum,Substitution,,0,0,0,0,,,h
+S2324-G0495,1,00:00.600000,PHI,,UTA,,N. Batum,PHI,MISS Batum 26' 3PT Jump Shot,Missed Shot,Jump Shot,55,257,26,1,3.0,0.0,h
+S2324-G0495,2,11:05,PHI,,UTA,,N. Batum,PHI,Batum STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0495,2,10:47,PHI,,UTA,,N. Batum,PHI,SUB: Morris Sr. FOR Batum,Substitution,,0,0,0,0,,,h
+S2324-G0495,2,05:51,PHI,,UTA,,N. Batum,PHI,Batum REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0495,2,04:23,PHI,,UTA,,N. Batum,PHI,Batum REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0495,2,03:50,PHI,,UTA,,N. Batum,PHI,Batum Out of Bounds - Bad Pass Turnover Turnover (P1.T2),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G0495,2,03:19,PHI,,UTA,,N. Batum,PHI,Batum Lost Ball Turnover (P2.T3),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0495,2,03:15,PHI,,UTA,,N. Batum,PHI,SUB: Martin FOR Batum,Substitution,,0,0,0,0,,,h
+S2324-G0495,3,10:25,PHI,,UTA,,N. Batum,PHI,MISS Batum 3PT Jump Shot,Missed Shot,Jump Shot,-224,17,0,1,3.0,0.0,h
+S2324-G0495,3,07:51,PHI,,UTA,,N. Batum,PHI,Batum STEAL (3 STL),,,0,0,0,0,,,h
+S2324-G0495,3,05:40,PHI,,UTA,,N. Batum,PHI,Batum P.FOUL (P2.T4) (S.Mehta),Foul,Personal,0,0,0,0,,,h
+S2324-G0495,3,05:40,PHI,,UTA,,N. Batum,PHI,SUB: Springer FOR Batum,Substitution,,0,0,0,0,,,h
+S2324-G0495,3,01:17,PHI,,UTA,,N. Batum,PHI,Batum REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0495,3,00:04.700000,PHI,,UTA,,N. Batum,PHI,Batum STEAL (4 STL),,,0,0,0,0,,,h
+S2324-G0495,4,10:01,PHI,,UTA,,N. Batum,PHI,Batum REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0495,4,10:01,PHI,83.0,UTA,96.0,N. Batum,PHI,Batum Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2324-G0495,4,08:48,PHI,,UTA,,N. Batum,PHI,MISS Batum 26' 3PT Jump Shot,Missed Shot,Jump Shot,168,204,26,1,3.0,0.0,h
+S2324-G0495,4,08:38,PHI,,UTA,,N. Batum,PHI,Batum S.FOUL (P3.T2) (G.Petraitis),Foul,Shooting,0,0,0,0,,,h
+S2324-G0495,4,08:38,PHI,,UTA,,N. Batum,PHI,SUB: Oubre Jr. FOR Batum,Substitution,,0,0,0,0,,,h
+S2324-G0180,1,10:33,PHI,,IND,,N. Batum,PHI,Batum S.FOUL (P1.T1) (J.DeRosa),Foul,Shooting,0,0,0,0,,,h
+S2324-G0180,1,09:12,PHI,,IND,,N. Batum,PHI,Batum REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0180,1,08:33,PHI,,IND,,N. Batum,PHI,Batum BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0180,1,06:20,PHI,,IND,,N. Batum,PHI,Batum BLOCK (2 BLK),,,0,0,0,0,,,h
+S2324-G0180,1,05:45,PHI,,IND,,N. Batum,PHI,MISS Batum 27' 3PT Jump Shot,Missed Shot,Jump Shot,123,241,27,1,3.0,0.0,h
+S2324-G0180,1,04:58,PHI,,IND,,N. Batum,PHI,Batum STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0180,1,03:20,PHI,,IND,,N. Batum,PHI,SUB: Korkmaz FOR Batum,Substitution,,0,0,0,0,,,h
+S2324-G0180,2,07:02,PHI,,IND,,N. Batum,PHI,Batum P.FOUL (P2.T3) (L.Wood),Foul,Personal,0,0,0,0,,,h
+S2324-G0180,2,02:32,PHI,,IND,,N. Batum,PHI,Batum REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0180,2,02:11,PHI,65.0,IND,54.0,N. Batum,PHI,Batum 3PT Jump Shot (3 PTS) (Melton 3 AST),Made Shot,Jump Shot,227,58,0,1,3.0,3.0,h
+S2324-G0180,2,00:46.400000,PHI,,IND,,N. Batum,PHI,Batum REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0180,2,00:07.200000,PHI,,IND,,N. Batum,PHI,Batum REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0180,3,11:20,PHI,,IND,,N. Batum,PHI,Batum REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0180,3,07:21,PHI,82.0,IND,78.0,N. Batum,PHI,Batum 27' 3PT Jump Shot (6 PTS) (Harris 1 AST),Made Shot,Jump Shot,-129,232,27,1,3.0,3.0,h
+S2324-G0180,3,05:23,PHI,,IND,,N. Batum,PHI,Batum REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0180,3,03:39,PHI,95.0,IND,89.0,N. Batum,PHI,Batum 25' 3PT Pullup Jump Shot (9 PTS) (Embiid 5 AST),Made Shot,Pullup Jump shot,-159,199,25,1,3.0,3.0,h
+S2324-G0180,3,02:08,PHI,,IND,,N. Batum,PHI,Batum REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0180,3,01:55,PHI,,IND,,N. Batum,PHI,Batum Bad Pass Turnover (P1.T10),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0180,3,01:27,PHI,,IND,,N. Batum,PHI,SUB: House Jr. FOR Batum,Substitution,,0,0,0,0,,,h
+S2324-G0180,4,04:26,PHI,,IND,,N. Batum,PHI,Batum BLOCK (3 BLK),,,0,0,0,0,,,h
+S2324-G0180,4,02:26,PHI,,IND,,N. Batum,PHI,MISS Batum 28' 3PT Jump Shot,Missed Shot,Jump Shot,42,272,28,1,3.0,0.0,h
+S2324-G0483,1,07:28,PHI,,NYK,,N. Batum,PHI,Batum Violation:Kicked Ball (M.Davis),Violation,Kicked Ball,0,0,0,0,,,h
+S2324-G0483,1,05:17,PHI,,NYK,,N. Batum,PHI,Batum REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0483,1,05:10,PHI,,NYK,,N. Batum,PHI,SUB: House Jr. FOR Batum,Substitution,,0,0,0,0,,,h
+S2324-G0483,2,06:06,PHI,,NYK,,N. Batum,PHI,Batum BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0483,2,05:13,PHI,,NYK,,N. Batum,PHI,MISS Batum 26' 3PT Jump Shot,Missed Shot,Jump Shot,-183,188,26,1,3.0,0.0,h
+S2324-G0483,2,04:45,PHI,,NYK,,N. Batum,PHI,Batum REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0483,2,04:45,PHI,,NYK,,N. Batum,PHI,MISS Batum Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2324-G0483,2,04:35,PHI,,NYK,,N. Batum,PHI,Batum REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0483,2,01:57,PHI,,NYK,,N. Batum,PHI,Batum Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0483,2,00:21.400000,PHI,,NYK,,N. Batum,PHI,Batum P.FOUL (P1.PN) (P.Fraher),Foul,Personal,0,0,0,0,,,h
+S2324-G0483,3,11:28,PHI,,NYK,,N. Batum,PHI,Batum Bad Pass Turnover (P2.T7),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0483,3,10:16,PHI,,NYK,,N. Batum,PHI,Batum S.FOUL (P2.T2) (D.Richardson),Foul,Shooting,0,0,0,0,,,h
+S2324-G0483,3,09:42,PHI,,NYK,,N. Batum,PHI,Batum REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0483,3,06:20,PHI,,NYK,,N. Batum,PHI,SUB: Beverley FOR Batum,Substitution,,0,0,0,0,,,h
+S2324-G0483,4,07:20,PHI,,NYK,,N. Batum,PHI,SUB: Martin FOR Batum,Substitution,,0,0,0,0,,,h
+S2324-G1093,1,02:42,PHI,,OKC,,N. Batum,PHI,MISS Batum 24' 3PT Jump Shot,Missed Shot,Jump Shot,235,11,24,1,3.0,0.0,h
+S2324-G1093,2,10:54,PHI,,OKC,,N. Batum,PHI,Batum REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1093,2,10:41,PHI,,OKC,,N. Batum,PHI,Batum P.FOUL (P1.T1) (M.Kogut),Foul,Personal,0,0,0,0,,,h
+S2324-G1093,2,06:43,PHI,,OKC,,N. Batum,PHI,SUB: Reed FOR Batum,Substitution,,0,0,0,0,,,h
+S2324-G1093,2,03:01,PHI,,OKC,,N. Batum,PHI,Batum BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G1093,2,01:45,PHI,,OKC,,N. Batum,PHI,MISS Batum 3PT Jump Shot,Missed Shot,Jump Shot,234,17,0,1,3.0,0.0,h
+S2324-G1093,2,00:05.600000,PHI,,OKC,,N. Batum,PHI,MISS Batum 3PT Jump Shot,Missed Shot,Jump Shot,-230,-26,0,1,3.0,0.0,h
+S2324-G1093,3,08:49,PHI,,OKC,,N. Batum,PHI,Batum Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G1093,3,06:53,PHI,61.0,OKC,69.0,N. Batum,PHI,Batum 1' Layup (2 PTS) (Embiid 7 AST),Made Shot,Layup Shot,5,8,1,1,2.0,2.0,h
+S2324-G1093,3,05:32,PHI,,OKC,,N. Batum,PHI,Batum REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1093,3,04:33,PHI,,OKC,,N. Batum,PHI,Batum OFF.Foul (P2) (J.Goldenberg),Foul,Offensive,0,0,0,0,,,h
+S2324-G1093,3,04:33,PHI,,OKC,,N. Batum,PHI,Batum Offensive Foul Turnover (P2.T13),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G1093,3,03:48,PHI,,OKC,,N. Batum,PHI,SUB: Martin FOR Batum,Substitution,,0,0,0,0,,,h
+S2324-G1093,4,09:35,PHI,83.0,OKC,83.0,N. Batum,PHI,Batum 1' Cutting Dunk Shot (4 PTS) (Payne 5 AST),Made Shot,Cutting Dunk Shot,2,6,1,1,2.0,2.0,h
+S2324-G1093,4,08:37,PHI,,OKC,,N. Batum,PHI,Batum Bad Pass Turnover (P3.T16),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G1093,4,04:43,PHI,93.0,OKC,98.0,N. Batum,PHI,Batum 3PT Jump Shot (7 PTS) (Harris 4 AST),Made Shot,Jump Shot,-228,21,0,1,3.0,3.0,h
+S2324-G1093,4,04:27,PHI,,OKC,,N. Batum,PHI,Batum STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0817,1,09:08,PHI,,MIL,,N. Batum,PHI,Batum REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0817,1,07:27,PHI,,MIL,,N. Batum,PHI,SUB: Lowry FOR Batum,Substitution,,0,0,0,0,,,h
+S2324-G0817,1,02:32,PHI,,MIL,,N. Batum,PHI,Batum STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0817,1,00:01.600000,PHI,,MIL,,N. Batum,PHI,MISS Batum 25' 3PT Jump Shot,Missed Shot,Jump Shot,-153,200,25,1,3.0,0.0,h
+S2324-G0817,3,09:16,PHI,58.0,MIL,73.0,N. Batum,PHI,Batum 3PT Jump Shot (3 PTS) (Hield 2 AST),Made Shot,Jump Shot,-227,55,0,1,3.0,3.0,h
+S2324-G0817,3,08:01,PHI,61.0,MIL,79.0,N. Batum,PHI,Batum 26' 3PT Jump Shot (6 PTS) (Oubre Jr. 1 AST),Made Shot,Jump Shot,-5,263,26,1,3.0,3.0,h
+S2324-G0817,3,07:20,PHI,,MIL,,N. Batum,PHI,MISS Batum 28' 3PT Jump Shot,Missed Shot,Jump Shot,-11,275,28,1,3.0,0.0,h
+S2324-G0817,3,06:30,PHI,,MIL,,N. Batum,PHI,SUB: Melton FOR Batum,Substitution,,0,0,0,0,,,h
+S2324-G0817,4,08:03,PHI,,MIL,,N. Batum,PHI,MISS Batum 28' 3PT Jump Shot,Missed Shot,Jump Shot,-153,236,28,1,3.0,0.0,h
+S2324-G0817,4,04:24,PHI,,MIL,,N. Batum,PHI,SUB: Council IV FOR Batum,Substitution,,0,0,0,0,,,h
+S2324-G0969,1,11:35,PHI,,,,N. Batum,PHI,Batum L.B.FOUL (P1.T1) (J.Goble),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0969,1,08:44,PHI,,,,N. Batum,PHI,MISS Batum 3PT Jump Shot,Missed Shot,Jump Shot,-230,-19,0,1,3.0,0.0,h
+S2324-G0969,1,08:34,PHI,,,,N. Batum,PHI,Batum REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0969,1,08:03,PHI,,,,N. Batum,PHI,Batum REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0969,1,07:54,PHI,,,,N. Batum,PHI,Batum STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0969,1,05:34,PHI,,,,N. Batum,PHI,SUB: Martin FOR Batum,Substitution,,0,0,0,0,,,h
+S2324-G0969,2,09:32,PHI,34.0,,29.0,N. Batum,PHI,Batum 24' 3PT Jump Shot (3 PTS) (Martin 2 AST),Made Shot,Jump Shot,239,39,24,1,3.0,3.0,h
+S2324-G0969,2,08:31,PHI,,,,N. Batum,PHI,Batum Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0969,2,07:49,PHI,,,,N. Batum,PHI,Batum REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0969,2,07:10,PHI,,,,N. Batum,PHI,MISS Batum 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,118,248,27,1,3.0,0.0,h
+S2324-G0969,2,04:49,PHI,,,,N. Batum,PHI,MISS Batum 24' 3PT Jump Shot,Missed Shot,Jump Shot,239,22,24,1,3.0,0.0,h
+S2324-G0969,2,03:56,PHI,,,,N. Batum,PHI,SUB: Oubre Jr. FOR Batum,Substitution,,0,0,0,0,,,h
+S2324-G0969,3,11:13,PHI,,,,N. Batum,PHI,Batum BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0969,3,10:48,PHI,,,,N. Batum,PHI,Batum REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0969,3,10:23,PHI,,,,N. Batum,PHI,Batum BLOCK (2 BLK),,,0,0,0,0,,,h
+S2324-G0969,3,08:58,PHI,,,,N. Batum,PHI,Batum P.FOUL (P2.T1) (J.Goble),Foul,Personal,0,0,0,0,,,h
+S2324-G0969,3,07:29,PHI,,,,N. Batum,PHI,Batum Bad Pass Turnover (P2.T13),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0969,3,06:22,PHI,,,,N. Batum,PHI,Batum REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0969,3,05:59,PHI,,,,N. Batum,PHI,MISS Batum 3PT Jump Shot,Missed Shot,Jump Shot,230,5,0,1,3.0,0.0,h
+S2324-G0969,3,05:25,PHI,,,,N. Batum,PHI,Batum REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0969,3,04:49,PHI,,,,N. Batum,PHI,Batum REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0969,3,03:20,PHI,,,,N. Batum,PHI,Batum STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0969,3,01:50,PHI,75.0,,67.0,N. Batum,PHI,Batum Cutting Dunk Shot (5 PTS) (Payne 4 AST),Made Shot,Cutting Dunk Shot,1,3,0,1,2.0,2.0,h
+S2324-G0969,3,01:35,PHI,,,,N. Batum,PHI,Batum P.FOUL (P3.T4) (S.Wall),Foul,Personal,0,0,0,0,,,h
+S2324-G0969,3,01:35,PHI,,,,N. Batum,PHI,SUB: Martin FOR Batum,Substitution,,0,0,0,0,,,h
+S2324-G0969,4,08:08,PHI,,,,N. Batum,PHI,Batum STEAL (3 STL),,,0,0,0,0,,,h
+S2324-G0969,4,04:28,PHI,,,,N. Batum,PHI,Batum REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0969,4,01:22,PHI,103.0,,93.0,N. Batum,PHI,Batum 3PT Jump Shot (8 PTS) (Lowry 7 AST),Made Shot,Jump Shot,232,9,0,1,3.0,3.0,h
+S2324-G1067,1,01:49,CLE,,PHI,,N. Batum,PHI,Batum REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1067,1,01:07,CLE,,PHI,,N. Batum,PHI,Batum REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1067,1,01:07,CLE,,PHI,,N. Batum,PHI,MISS Batum 2' Tip Layup Shot,Missed Shot,Tip Layup Shot,15,-6,2,1,2.0,0.0,v
+S2324-G1067,1,01:06,CLE,,PHI,,N. Batum,PHI,Batum REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1067,1,01:05,CLE,21.0,PHI,25.0,N. Batum,PHI,Batum Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2324-G1067,2,11:39,CLE,,PHI,,N. Batum,PHI,MISS Batum 27' 3PT Jump Shot,Missed Shot,Jump Shot,-114,245,27,1,3.0,0.0,v
+S2324-G1067,2,07:28,CLE,,PHI,,N. Batum,PHI,SUB: Maxey FOR Batum,Substitution,,0,0,0,0,,,v
+S2324-G1067,2,01:51,CLE,,PHI,,N. Batum,PHI,Batum REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1067,2,00:50.800000,CLE,,PHI,,N. Batum,PHI,Batum S.FOUL (P1.T4) (D.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2324-G1067,3,05:29,CLE,73.0,PHI,74.0,N. Batum,PHI,Batum 24' 3PT Jump Shot (5 PTS) (Maxey 6 AST),Made Shot,Jump Shot,239,0,24,1,3.0,3.0,v
+S2324-G1067,3,03:12,CLE,,PHI,,N. Batum,PHI,Batum P.FOUL (P2.T3) (P.Fraher),Foul,Personal,0,0,0,0,,,v
+S2324-G1067,4,10:48,CLE,,PHI,,N. Batum,PHI,Batum REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1067,4,10:01,CLE,93.0,PHI,94.0,N. Batum,PHI,Batum 28' 3PT Jump Shot (8 PTS) (Maxey 8 AST),Made Shot,Jump Shot,-179,220,28,1,3.0,3.0,v
+S2324-G1067,4,08:40,CLE,,PHI,,N. Batum,PHI,SUB: Bamba FOR Batum,Substitution,,0,0,0,0,,,v
+S2324-G1067,4,05:28,CLE,,PHI,,N. Batum,PHI,Batum REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1067,4,02:21,CLE,,PHI,,N. Batum,PHI,Batum REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1067,4,01:33,CLE,,PHI,,N. Batum,PHI,Batum REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0532,1,11:37,PHI,3.0,SAC,0.0,N. Batum,PHI,Batum 26' 3PT Step Back Jump Shot (3 PTS) (Maxey 1 AST),Made Shot,Step Back Jump shot,100,245,26,1,3.0,3.0,h
+S2324-G0532,1,09:14,PHI,,SAC,,N. Batum,PHI,Batum REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0532,1,08:03,PHI,,SAC,,N. Batum,PHI,Batum REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0532,1,02:38,PHI,,SAC,,N. Batum,PHI,SUB: House Jr. FOR Batum,Substitution,,0,0,0,0,,,h
+S2324-G0532,2,03:45,PHI,52.0,SAC,36.0,N. Batum,PHI,Batum 1' Alley Oop Layup (5 PTS) (Reed 1 AST),Made Shot,Alley Oop Layup shot,-2,11,1,1,2.0,2.0,h
+S2324-G0532,2,03:09,PHI,55.0,SAC,36.0,N. Batum,PHI,Batum 24' 3PT Jump Shot (8 PTS) (Harris 1 AST),Made Shot,Jump Shot,237,11,24,1,3.0,3.0,h
+S2324-G0532,2,02:40,PHI,58.0,SAC,36.0,N. Batum,PHI,Batum 24' 3PT Jump Shot (11 PTS) (Harris 2 AST),Made Shot,Jump Shot,233,48,24,1,3.0,3.0,h
+S2324-G0532,2,00:59.200000,PHI,,SAC,,N. Batum,PHI,Batum S.FOUL (P1.T1) (M.Ervin),Foul,Shooting,0,0,0,0,,,h
+S2324-G0532,3,10:23,PHI,,SAC,,N. Batum,PHI,Batum P.FOUL (P2.T1) (M.Ervin),Foul,Personal,0,0,0,0,,,h
+S2324-G0532,3,08:39,PHI,74.0,SAC,52.0,N. Batum,PHI,Batum 27' 3PT Jump Shot (14 PTS) (Reed 2 AST),Made Shot,Jump Shot,-216,155,27,1,3.0,3.0,h
+S2324-G0532,3,07:49,PHI,,SAC,,N. Batum,PHI,Batum REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0532,3,06:45,PHI,,SAC,,N. Batum,PHI,Batum REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0532,3,04:39,PHI,,SAC,,N. Batum,PHI,Batum REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0532,3,03:59,PHI,,SAC,,N. Batum,PHI,SUB: House Jr. FOR Batum,Substitution,,0,0,0,0,,,h
+S2324-G0532,4,03:13,PHI,,SAC,,N. Batum,PHI,SUB: Beverley FOR Batum,Substitution,,0,0,0,0,,,h
+S2324-G0836,1,03:45,BOS,,PHI,,N. Batum,PHI,Batum STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0836,1,03:37,BOS,,PHI,,N. Batum,PHI,Batum REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0836,1,03:37,BOS,,PHI,,N. Batum,PHI,MISS Batum Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2324-G0836,1,00:32.300000,BOS,,PHI,,N. Batum,PHI,Batum S.FOUL (P1.T4) (D.Collins),Foul,Shooting,0,0,0,0,,,v
+S2324-G0836,2,11:11,BOS,,PHI,,N. Batum,PHI,Batum BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0836,2,11:10,BOS,,PHI,,N. Batum,PHI,Batum REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0836,2,10:55,BOS,,PHI,,N. Batum,PHI,Batum S.FOUL (P2.T1) (D.Collins),Foul,Shooting,0,0,0,0,,,v
+S2324-G0836,2,08:57,BOS,34.0,PHI,37.0,N. Batum,PHI,Batum 27' 3PT Jump Shot (3 PTS) (Lowry 2 AST),Made Shot,Jump Shot,-173,209,27,1,3.0,3.0,v
+S2324-G0836,2,07:44,BOS,,PHI,,N. Batum,PHI,MISS Batum 25' 3PT Jump Shot,Missed Shot,Jump Shot,-232,94,25,1,3.0,0.0,v
+S2324-G0836,2,07:12,BOS,,PHI,,N. Batum,PHI,SUB: Maxey FOR Batum,Substitution,,0,0,0,0,,,v
+S2324-G0836,3,05:48,BOS,,PHI,,N. Batum,PHI,Batum S.FOUL (P3.T4) (K.Scott),Foul,Shooting,0,0,0,0,,,v
+S2324-G0836,3,04:51,BOS,,PHI,,N. Batum,PHI,MISS Batum 3PT Jump Shot,Missed Shot,Jump Shot,-233,26,0,1,3.0,0.0,v
+S2324-G0836,3,01:40,BOS,,PHI,,N. Batum,PHI,Batum P.FOUL (P4.PN) (D.Collins),Foul,Personal,0,0,0,0,,,v
+S2324-G0836,3,01:13,BOS,,PHI,,N. Batum,PHI,Batum Backcourt Turnover (P1.T6),Turnover,Backcourt Turnover,0,0,0,0,,,v
+S2324-G0836,3,00:06.800000,BOS,,PHI,,N. Batum,PHI,Batum REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0836,3,00:05.200000,BOS,,PHI,,N. Batum,PHI,Batum Bad Pass Turnover (P2.T7),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0836,4,04:00,BOS,,PHI,,N. Batum,PHI,SUB: Bazley FOR Batum,Substitution,,0,0,0,0,,,v
+S2324-G0939,1,03:09,NYK,,PHI,,N. Batum,PHI,Batum P.FOUL (P1.T3) (K.Cutler),Foul,Personal,0,0,0,0,,,v
+S2324-G0939,1,00:01.700000,NYK,,PHI,,N. Batum,PHI,Batum REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0939,1,00:00.500000,NYK,,PHI,,N. Batum,PHI,MISS Batum 61' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-125,592,61,1,3.0,0.0,v
+S2324-G0939,2,06:40,NYK,,PHI,,N. Batum,PHI,Batum STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0939,2,06:10,NYK,,PHI,,N. Batum,PHI,MISS Batum 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,109,25,11,1,2.0,0.0,v
+S2324-G0939,2,05:53,NYK,,PHI,,N. Batum,PHI,SUB: Maxey FOR Batum,Substitution,,0,0,0,0,,,v
+S2324-G0939,3,05:32,NYK,,PHI,,N. Batum,PHI,MISS Batum 3PT Jump Shot,Missed Shot,Jump Shot,-232,13,0,1,3.0,0.0,v
+S2324-G0939,3,04:47,NYK,,PHI,,N. Batum,PHI,MISS Batum 3PT Jump Shot,Missed Shot,Jump Shot,228,0,0,1,3.0,0.0,v
+S2324-G0939,4,11:45,NYK,,PHI,,N. Batum,PHI,Batum REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0939,4,10:35,NYK,,PHI,,N. Batum,PHI,SUB: Martin FOR Batum,Substitution,,0,0,0,0,,,v
+S2324-G0295,1,10:54,PHI,,WAS,,N. Batum,PHI,Batum REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0295,1,10:35,PHI,,WAS,,N. Batum,PHI,Batum BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0295,1,06:24,PHI,,WAS,,N. Batum,PHI,MISS Batum 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,225,132,26,1,3.0,0.0,h
+S2324-G0295,1,04:53,PHI,,WAS,,N. Batum,PHI,SUB: Oubre Jr. FOR Batum,Substitution,,0,0,0,0,,,h
+S2324-G0295,2,04:15,PHI,,WAS,,N. Batum,PHI,MISS Batum 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,238,37,24,1,3.0,0.0,h
+S2324-G0295,2,03:52,PHI,64.0,WAS,36.0,N. Batum,PHI,Batum 2' Running Alley Oop Layup Shot (2 PTS) (Harris 4 AST),Made Shot,Running Alley Oop Layup Shot,11,12,2,1,2.0,2.0,h
+S2324-G0295,2,01:45,PHI,,WAS,,N. Batum,PHI,Batum STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0295,3,10:14,PHI,,WAS,,N. Batum,PHI,Batum REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0295,3,08:26,PHI,84.0,WAS,51.0,N. Batum,PHI,Batum 8' Jump Shot (4 PTS) (Embiid 5 AST),Made Shot,Jump Shot,-78,9,8,1,2.0,2.0,h
+S2324-G0295,3,07:25,PHI,,WAS,,N. Batum,PHI,MISS Batum 24' 3PT Jump Shot,Missed Shot,Jump Shot,-237,14,24,1,3.0,0.0,h
+S2324-G0295,3,06:31,PHI,,WAS,,N. Batum,PHI,Batum BLOCK (2 BLK),,,0,0,0,0,,,h
+S2324-G0295,3,05:40,PHI,,WAS,,N. Batum,PHI,SUB: Oubre Jr. FOR Batum,Substitution,,0,0,0,0,,,h
+S2324-G1129,1,09:37,MEM,,PHI,,N. Batum,PHI,Batum REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1129,1,06:35,MEM,,PHI,,N. Batum,PHI,SUB: Martin FOR Batum,Substitution,,0,0,0,0,,,v
+S2324-G1129,1,00:49.600000,MEM,,PHI,,N. Batum,PHI,Batum REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1129,2,08:38,MEM,25.0,PHI,39.0,N. Batum,PHI,Batum 3PT Jump Shot (3 PTS) (Martin 1 AST),Made Shot,Jump Shot,225,7,0,1,3.0,3.0,v
+S2324-G1129,2,06:10,MEM,,PHI,,N. Batum,PHI,Batum REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1129,2,04:50,MEM,,PHI,,N. Batum,PHI,SUB: Reed FOR Batum,Substitution,,0,0,0,0,,,v
+S2324-G1129,3,09:32,MEM,,PHI,,N. Batum,PHI,MISS Batum 25' 3PT Jump Shot,Missed Shot,Jump Shot,100,234,25,1,3.0,0.0,v
+S2324-G1129,3,09:04,MEM,,PHI,,N. Batum,PHI,MISS Batum 3PT Jump Shot,Missed Shot,Jump Shot,232,-2,0,1,3.0,0.0,v
+S2324-G1129,3,05:54,MEM,60.0,PHI,75.0,N. Batum,PHI,Batum 3PT Jump Shot (6 PTS) (Oubre Jr. 5 AST),Made Shot,Jump Shot,-227,-18,0,1,3.0,3.0,v
+S2324-G1129,3,05:22,MEM,63.0,PHI,78.0,N. Batum,PHI,Batum 25' 3PT Jump Shot (9 PTS) (Reed 2 AST),Made Shot,Jump Shot,-156,195,25,1,3.0,3.0,v
+S2324-G1129,3,04:55,MEM,,PHI,,N. Batum,PHI,SUB: Hield FOR Batum,Substitution,,0,0,0,0,,,v
+S2324-G0958,1,04:21,MIL,,PHI,,N. Batum,PHI,MISS Batum 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-235,4,24,1,3.0,0.0,v
+S2324-G0958,1,01:22,MIL,,PHI,,N. Batum,PHI,SUB: Martin FOR Batum,Substitution,,0,0,0,0,,,v
+S2324-G0958,2,00:00.500000,MIL,,PHI,,N. Batum,PHI,Batum REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0958,2,00:00,MIL,53.0,PHI,61.0,N. Batum,PHI,Batum 16' Turnaround Fadeaway (2 PTS),Made Shot,Turnaround Fadeaway shot,-158,-21,16,1,2.0,2.0,v
+S2324-G0958,3,02:53,MIL,73.0,PHI,75.0,N. Batum,PHI,Batum 3PT Jump Shot (5 PTS) (Maxey 2 AST),Made Shot,Jump Shot,-233,24,0,1,3.0,3.0,v
+S2324-G0958,4,11:41,MIL,,PHI,,N. Batum,PHI,MISS Batum 3PT Jump Shot,Missed Shot,Jump Shot,234,16,0,1,3.0,0.0,v
+S2324-G0958,4,07:34,MIL,,PHI,,N. Batum,PHI,MISS Batum 25' 3PT Jump Shot,Missed Shot,Jump Shot,241,75,25,1,3.0,0.0,v
+S2324-G0958,4,07:20,MIL,,PHI,,N. Batum,PHI,Batum REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0958,4,06:10,MIL,,PHI,,N. Batum,PHI,SUB: Bamba FOR Batum,Substitution,,0,0,0,0,,,v
+S2324-G0148,1,02:22,PHI,25.0,WAS,22.0,N. Batum,PHI,Batum 24' 3PT Jump Shot (3 PTS) (Beverley 1 AST),Made Shot,Jump Shot,240,12,24,1,3.0,3.0,h
+S2324-G0148,1,01:19,PHI,,WAS,,N. Batum,PHI,Batum STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0148,1,01:09,PHI,30.0,WAS,24.0,N. Batum,PHI,Batum 25' 3PT Jump Shot (6 PTS) (Embiid 4 AST),Made Shot,Jump Shot,-60,247,25,1,3.0,3.0,h
+S2324-G0148,2,11:46,PHI,36.0,WAS,24.0,N. Batum,PHI,Batum 26' 3PT Jump Shot (9 PTS) (Maxey 2 AST),Made Shot,Jump Shot,197,168,26,1,3.0,3.0,h
+S2324-G0148,2,10:17,PHI,40.0,WAS,26.0,N. Batum,PHI,Batum 18' Fadeaway Jumper (11 PTS) (Harris 1 AST),Made Shot,Fadeaway Jump Shot,180,5,18,1,2.0,2.0,h
+S2324-G0148,2,09:33,PHI,,WAS,,N. Batum,PHI,MISS Batum 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-43,263,27,1,3.0,0.0,h
+S2324-G0148,2,08:54,PHI,,WAS,,N. Batum,PHI,SUB: Oubre Jr. FOR Batum,Substitution,,0,0,0,0,,,h
+S2324-G0148,3,02:28,PHI,,WAS,,N. Batum,PHI,Batum S.FOUL (P1.T3) (B.Forte),Foul,Shooting,0,0,0,0,,,h
+S2324-G0148,3,02:00,PHI,,WAS,,N. Batum,PHI,Batum REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0148,4,10:24,PHI,,WAS,,N. Batum,PHI,Batum REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0148,4,08:01,PHI,,WAS,,N. Batum,PHI,SUB: Covington FOR Batum,Substitution,,0,0,0,0,,,h
+S2324-G0627,1,11:44,IND,,PHI,,N. Batum,PHI,Batum Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0627,1,11:40,IND,,PHI,,N. Batum,PHI,Batum S.FOUL (P1.T1) (M.Lindsay),Foul,Shooting,0,0,0,0,,,v
+S2324-G0627,1,09:58,IND,,PHI,,N. Batum,PHI,Batum REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0627,1,08:31,IND,11.0,PHI,4.0,N. Batum,PHI,Batum 5' Jump Shot (2 PTS),Made Shot,Jump Shot,-2,47,5,1,2.0,2.0,v
+S2324-G0627,1,07:59,IND,,PHI,,N. Batum,PHI,SUB: Martin FOR Batum,Substitution,,0,0,0,0,,,v
+S2324-G0627,1,02:32,IND,,PHI,,N. Batum,PHI,Batum REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0627,1,02:07,IND,,PHI,,N. Batum,PHI,Batum REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0627,2,11:39,IND,,PHI,,N. Batum,PHI,MISS Batum 3PT Jump Shot,Missed Shot,Jump Shot,230,38,0,1,3.0,0.0,v
+S2324-G0627,2,07:17,IND,,PHI,,N. Batum,PHI,SUB: Martin FOR Batum,Substitution,,0,0,0,0,,,v
+S2324-G0627,2,03:24,IND,59.0,PHI,49.0,N. Batum,PHI,Batum 12' Fadeaway Jumper (4 PTS) (Martin 1 AST),Made Shot,Fadeaway Jump Shot,121,10,12,1,2.0,2.0,v
+S2324-G0627,2,02:06,IND,67.0,PHI,53.0,N. Batum,PHI,Batum 25' 3PT Jump Shot (7 PTS) (Embiid 3 AST),Made Shot,Jump Shot,217,114,25,1,3.0,3.0,v
+S2324-G0627,3,11:04,IND,,PHI,,N. Batum,PHI,Batum P.FOUL (P2.T1) (J.Goble),Foul,Personal,0,0,0,0,,,v
+S2324-G0627,3,09:33,IND,83.0,PHI,67.0,N. Batum,PHI,Batum 3PT Jump Shot (10 PTS) (Beverley 5 AST),Made Shot,Jump Shot,-228,28,0,1,3.0,3.0,v
+S2324-G0627,3,06:54,IND,,PHI,,N. Batum,PHI,SUB: Springer FOR Batum,Substitution,,0,0,0,0,,,v
+S2324-G0871,1,04:25,DAL,,PHI,,N. Batum,PHI,Batum REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0871,1,01:57,DAL,,PHI,,N. Batum,PHI,Batum REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0871,1,01:35,DAL,,PHI,,N. Batum,PHI,Batum REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0871,1,01:21,DAL,,PHI,,N. Batum,PHI,MISS Batum 3PT Jump Shot,Missed Shot,Jump Shot,233,9,0,1,3.0,0.0,v
+S2324-G0871,1,01:18,DAL,,PHI,,N. Batum,PHI,Batum REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0871,2,08:39,DAL,,PHI,,N. Batum,PHI,Batum STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0871,2,07:50,DAL,,PHI,,N. Batum,PHI,Batum REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0871,2,07:48,DAL,,PHI,,N. Batum,PHI,MISS Batum Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2324-G0871,2,06:20,DAL,,PHI,,N. Batum,PHI,Batum STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0871,2,03:53,DAL,,PHI,,N. Batum,PHI,Batum REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0871,2,02:23,DAL,,PHI,,N. Batum,PHI,MISS Batum 3PT Jump Shot,Missed Shot,Jump Shot,-229,5,0,1,3.0,0.0,v
+S2324-G0871,3,04:35,DAL,,PHI,,N. Batum,PHI,MISS Batum 3PT Jump Shot,Missed Shot,Jump Shot,-233,7,0,1,3.0,0.0,v
+S2324-G0871,3,03:58,DAL,,PHI,,N. Batum,PHI,Batum REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0871,3,03:18,DAL,,PHI,,N. Batum,PHI,Batum REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0871,3,02:20,DAL,,PHI,,N. Batum,PHI,Batum REBOUND (Off:2 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0871,3,00:38.900000,DAL,73.0,PHI,88.0,N. Batum,PHI,Batum 24' 3PT Jump Shot (3 PTS) (Oubre Jr. 2 AST),Made Shot,Jump Shot,235,12,24,1,3.0,3.0,v
+S2324-G0871,4,11:25,DAL,,PHI,,N. Batum,PHI,Batum S.FOUL (P1.T1) (J.Tiven),Foul,Shooting,0,0,0,0,,,v
+S2324-G0871,4,08:42,DAL,,PHI,,N. Batum,PHI,MISS Batum 12' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,116,20,12,1,2.0,0.0,v
+S2324-G0871,4,07:49,DAL,,PHI,,N. Batum,PHI,Batum STEAL (3 STL),,,0,0,0,0,,,v
+S2324-G0871,4,07:20,DAL,,PHI,,N. Batum,PHI,Batum BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0871,4,06:16,DAL,,PHI,,N. Batum,PHI,Batum REBOUND (Off:2 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0871,4,06:11,DAL,,PHI,,N. Batum,PHI,SUB: Lowry FOR Batum,Substitution,,0,0,0,0,,,v
+S2324-G0871,4,03:16,DAL,,PHI,,N. Batum,PHI,MISS Batum 3PT Jump Shot,Missed Shot,Jump Shot,227,11,0,1,3.0,0.0,v
+S2324-G0871,4,03:01,DAL,101.0,PHI,110.0,N. Batum,PHI,Batum 7' Jump Shot (5 PTS) (Oubre Jr. 3 AST),Made Shot,Jump Shot,-43,57,7,1,2.0,2.0,v
+S2324-G0871,4,02:42,DAL,,PHI,,N. Batum,PHI,Batum REBOUND (Off:2 Def:9),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0871,4,00:10.800000,DAL,113.0,PHI,118.0,N. Batum,PHI,Batum Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0871,4,00:10.800000,DAL,113.0,PHI,119.0,N. Batum,PHI,Batum Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0040,1,09:49,PHI,,CLE,,N. Batum,PHI,Batum REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0040,1,09:15,PHI,,CLE,,N. Batum,PHI,Batum P.FOUL (P1.T1) (M.Myers),Foul,Personal,0,0,0,0,,,h
+S2324-G0040,1,07:42,PHI,7.0,CLE,8.0,N. Batum,PHI,Batum 1' Layup (2 PTS) (Embiid 1 AST),Made Shot,Layup Shot,-11,3,1,1,2.0,2.0,h
+S2324-G0040,1,07:07,PHI,10.0,CLE,10.0,N. Batum,PHI,Batum 24' 3PT Jump Shot (5 PTS) (Maxey 1 AST),Made Shot,Jump Shot,-233,34,24,1,3.0,3.0,h
+S2324-G0040,1,05:49,PHI,,CLE,,N. Batum,PHI,SUB: Covington FOR Batum,Substitution,,0,0,0,0,,,h
+S2324-G0040,1,02:04,PHI,,CLE,,N. Batum,PHI,Batum P.FOUL (P2.T2) (M.Lindsay),Foul,Personal,0,0,0,0,,,h
+S2324-G0040,1,01:55,PHI,,CLE,,N. Batum,PHI,Batum REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0040,2,07:43,PHI,,CLE,,N. Batum,PHI,MISS Batum 26' 3PT Jump Shot,Missed Shot,Jump Shot,-230,124,26,1,3.0,0.0,h
+S2324-G0040,2,06:46,PHI,,CLE,,N. Batum,PHI,SUB: Embiid FOR Batum,Substitution,,0,0,0,0,,,h
+S2324-G0040,2,03:06,PHI,,CLE,,N. Batum,PHI,MISS Batum 24' 3PT Jump Shot,Missed Shot,Jump Shot,232,38,24,1,3.0,0.0,h
+S2324-G0040,2,02:52,PHI,,CLE,,N. Batum,PHI,Batum REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0040,2,00:32,PHI,,CLE,,N. Batum,PHI,Batum Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0040,3,09:04,PHI,,CLE,,N. Batum,PHI,MISS Batum 27' 3PT Jump Shot,Missed Shot,Jump Shot,151,220,27,1,3.0,0.0,h
+S2324-G0040,3,07:54,PHI,,CLE,,N. Batum,PHI,Batum P.FOUL (P3.T2) (M.Myers),Foul,Personal,0,0,0,0,,,h
+S2324-G0040,3,06:45,PHI,,CLE,,N. Batum,PHI,Batum REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0040,3,06:21,PHI,,CLE,,N. Batum,PHI,Batum P.FOUL (P4.T4) (M.Lindsay),Foul,Personal,0,0,0,0,,,h
+S2324-G0040,3,06:11,PHI,,CLE,,N. Batum,PHI,SUB: Covington FOR Batum,Substitution,,0,0,0,0,,,h
+S2324-G0040,4,07:34,PHI,,CLE,,N. Batum,PHI,Batum P.FOUL (P5.T4) (M.Lindsay),Foul,Personal,0,0,0,0,,,h
+S2324-G0040,4,07:34,PHI,,CLE,,N. Batum,PHI,SUB: Beverley FOR Batum,Substitution,,0,0,0,0,,,h
+S2324-G0040,5,00:11,PHI,,CLE,,N. Batum,PHI,SUB: Beverley FOR Batum,Substitution,,0,0,0,0,,,h
+S2324-G0040,5,00:01.500000,PHI,,CLE,,N. Batum,PHI,Batum Bad Pass Turnover (P2.T14),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0555,1,10:44,PHI,,HOU,,N. Batum,PHI,Batum STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0555,1,05:41,PHI,,HOU,,N. Batum,PHI,Batum STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0555,1,05:37,PHI,,HOU,,N. Batum,PHI,MISS Batum 1' Running Layup,Missed Shot,Running Layup Shot,7,5,1,1,2.0,0.0,h
+S2324-G0555,1,03:01,PHI,21.0,HOU,17.0,N. Batum,PHI,Batum 27' 3PT Jump Shot (3 PTS) (House Jr. 1 AST),Made Shot,Jump Shot,-153,221,27,1,3.0,3.0,h
+S2324-G0555,1,02:42,PHI,,HOU,,N. Batum,PHI,Batum REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0555,1,02:31,PHI,,HOU,,N. Batum,PHI,SUB: Maxey FOR Batum,Substitution,,0,0,0,0,,,h
+S2324-G0555,2,03:58,PHI,,HOU,,N. Batum,PHI,MISS Batum 26' 3PT Jump Shot,Missed Shot,Jump Shot,-185,189,26,1,3.0,0.0,h
+S2324-G0555,2,02:27,PHI,,HOU,,N. Batum,PHI,Batum BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0555,2,00:00.500000,PHI,,HOU,,N. Batum,PHI,Batum REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0555,2,00:00.200000,PHI,,HOU,,N. Batum,PHI,MISS Batum Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2324-G0555,3,10:45,PHI,,HOU,,N. Batum,PHI,Batum REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0555,3,10:45,PHI,71.0,HOU,51.0,N. Batum,PHI,Batum Putback Layup (5 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,h
+S2324-G0555,3,09:55,PHI,,HOU,,N. Batum,PHI,Batum REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0555,3,09:33,PHI,,HOU,,N. Batum,PHI,MISS Batum 24' 3PT Jump Shot,Missed Shot,Jump Shot,-239,4,24,1,3.0,0.0,h
+S2324-G0555,3,07:57,PHI,,HOU,,N. Batum,PHI,Batum S.FOUL (P1.T3) (B.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2324-G0555,3,06:51,PHI,,HOU,,N. Batum,PHI,Batum S.FOUL (P2.T4) (J.DeRosa),Foul,Shooting,0,0,0,0,,,h
+S2324-G0555,3,05:53,PHI,,HOU,,N. Batum,PHI,MISS Batum 14' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,140,26,14,1,2.0,0.0,h
+S2324-G0555,3,04:41,PHI,,HOU,,N. Batum,PHI,Batum REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0555,3,03:06,PHI,,HOU,,N. Batum,PHI,SUB: House Jr. FOR Batum,Substitution,,0,0,0,0,,,h
+S2324-G0555,4,06:05,PHI,,HOU,,N. Batum,PHI,SUB: Reed FOR Batum,Substitution,,0,0,0,0,,,h
+S2324-G1145,1,09:57,PHI,,DET,,N. Batum,PHI,Batum REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1145,1,06:55,PHI,,DET,,N. Batum,PHI,Batum REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1145,1,06:22,PHI,,DET,,N. Batum,PHI,Batum REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1145,1,04:00,PHI,,DET,,N. Batum,PHI,SUB: Council IV FOR Batum,Substitution,,0,0,0,0,,,h
+S2324-G1145,2,07:35,PHI,,DET,,N. Batum,PHI,MISS Batum 3PT Jump Shot,Missed Shot,Jump Shot,-228,21,0,1,3.0,0.0,h
+S2324-G1145,2,07:26,PHI,,DET,,N. Batum,PHI,Batum S.FOUL (P1.T2) (A.Smith),Foul,Shooting,0,0,0,0,,,h
+S2324-G1145,2,06:12,PHI,,DET,,N. Batum,PHI,SUB: Payne FOR Batum,Substitution,,0,0,0,0,,,h
+S2324-G1145,2,01:32,PHI,62.0,DET,50.0,N. Batum,PHI,Batum 1' Cutting Dunk Shot (2 PTS) (Embiid 6 AST),Made Shot,Cutting Dunk Shot,-6,2,1,1,2.0,2.0,h
+S2324-G1145,3,09:27,PHI,,DET,,N. Batum,PHI,MISS Batum 25' 3PT Jump Shot,Missed Shot,Jump Shot,211,131,25,1,3.0,0.0,h
+S2324-G1145,3,09:01,PHI,,DET,,N. Batum,PHI,Batum BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G1145,3,07:21,PHI,,DET,,N. Batum,PHI,Batum Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G1145,3,06:45,PHI,,DET,,N. Batum,PHI,MISS Batum 3PT Jump Shot,Missed Shot,Jump Shot,229,10,0,1,3.0,0.0,h
+S2324-G1145,3,06:20,PHI,,DET,,N. Batum,PHI,SUB: Hield FOR Batum,Substitution,,0,0,0,0,,,h
+S2324-G1145,4,05:59,PHI,,DET,,N. Batum,PHI,SUB: Harris FOR Batum,Substitution,,0,0,0,0,,,h
+S2324-G0794,1,11:12,PHI,,NYK,,N. Batum,PHI,Batum P.FOUL (P1.T1) (J.Van Duyne),Foul,Personal,0,0,0,0,,,h
+S2324-G0794,1,08:14,PHI,,NYK,,N. Batum,PHI,Batum REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0794,1,06:54,PHI,,NYK,,N. Batum,PHI,SUB: Lowry FOR Batum,Substitution,,0,0,0,0,,,h
+S2324-G0794,2,06:38,PHI,,NYK,,N. Batum,PHI,Batum P.FOUL (P2.T2) (J.Van Duyne),Foul,Personal,0,0,0,0,,,h
+S2324-G0794,2,06:25,PHI,,NYK,,N. Batum,PHI,Batum P.FOUL (P3.T3) (J.Van Duyne),Foul,Personal,0,0,0,0,,,h
+S2324-G0794,2,04:33,PHI,,NYK,,N. Batum,PHI,Batum REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0794,2,03:52,PHI,,NYK,,N. Batum,PHI,Batum P.FOUL (P4.PN) (J.Van Duyne),Foul,Personal,0,0,0,0,,,h
+S2324-G0794,2,03:52,PHI,,NYK,,N. Batum,PHI,SUB: Martin FOR Batum,Substitution,,0,0,0,0,,,h
+S2324-G0794,3,08:24,PHI,,NYK,,N. Batum,PHI,Batum P.FOUL (P5.T1) (J.Sterling),Foul,Personal,0,0,0,0,,,h
+S2324-G0794,3,08:24,PHI,,NYK,,N. Batum,PHI,SUB: Lowry FOR Batum,Substitution,,0,0,0,0,,,h
+S2324-G0794,4,08:00,PHI,,NYK,,N. Batum,PHI,Batum REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0794,4,07:49,PHI,,NYK,,N. Batum,PHI,Batum Lost Ball Turnover (P1.T12),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0794,4,02:51,PHI,,NYK,,N. Batum,PHI,SUB: Hield FOR Batum,Substitution,,0,0,0,0,,,h
+S2324-G0239,1,09:40,OKC,3.0,PHI,10.0,N. Batum,PHI,Batum 3PT Jump Shot (3 PTS) (Harris 2 AST),Made Shot,Jump Shot,230,-21,0,1,3.0,3.0,v
+S2324-G0239,1,09:09,OKC,,PHI,,N. Batum,PHI,Batum REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0239,1,09:09,OKC,5.0,PHI,12.0,N. Batum,PHI,Batum 2' Putback Layup (5 PTS),Made Shot,Putback Layup Shot,-1,20,2,1,2.0,2.0,v
+S2324-G0239,1,08:56,OKC,,PHI,,N. Batum,PHI,Batum REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0239,1,05:55,OKC,,PHI,,N. Batum,PHI,Batum REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0239,1,03:40,OKC,,PHI,,N. Batum,PHI,Batum BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0239,1,03:27,OKC,,PHI,,N. Batum,PHI,SUB: Maxey FOR Batum,Substitution,,0,0,0,0,,,v
+S2324-G0239,2,05:50,OKC,,PHI,,N. Batum,PHI,Batum REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0239,2,05:50,OKC,,PHI,,N. Batum,PHI,Batum Out of Bounds - Bad Pass Turnover Turnover (P1.T7),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0239,2,04:31,OKC,,PHI,,N. Batum,PHI,Batum REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0239,2,02:05,OKC,57.0,PHI,60.0,N. Batum,PHI,Batum 3PT Jump Shot (8 PTS) (Melton 5 AST),Made Shot,Jump Shot,-230,-24,0,1,3.0,3.0,v
+S2324-G0239,3,11:22,OKC,,PHI,,N. Batum,PHI,MISS Batum 26' 3PT Jump Shot,Missed Shot,Jump Shot,-105,234,26,1,3.0,0.0,v
+S2324-G0239,3,11:01,OKC,,PHI,,N. Batum,PHI,Batum REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0239,3,09:39,OKC,,PHI,,N. Batum,PHI,MISS Batum 3PT Jump Shot,Missed Shot,Jump Shot,-229,-38,0,1,3.0,0.0,v
+S2324-G0239,3,07:28,OKC,,PHI,,N. Batum,PHI,Batum BLOCK (2 BLK),,,0,0,0,0,,,v
+S2324-G0239,3,03:48,OKC,78.0,PHI,81.0,N. Batum,PHI,Batum Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0239,3,03:48,OKC,78.0,PHI,82.0,N. Batum,PHI,Batum Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0239,3,03:11,OKC,80.0,PHI,85.0,N. Batum,PHI,Batum 3PT Jump Shot (13 PTS) (Harris 4 AST),Made Shot,Jump Shot,-225,-7,0,1,3.0,3.0,v
+S2324-G0239,3,01:43,OKC,,PHI,,N. Batum,PHI,SUB: Morris Sr. FOR Batum,Substitution,,0,0,0,0,,,v
+S2324-G0239,4,05:06,OKC,,PHI,,N. Batum,PHI,Batum REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0239,4,04:17,OKC,,PHI,,N. Batum,PHI,MISS Batum 24' 3PT Jump Shot,Missed Shot,Jump Shot,235,14,24,1,3.0,0.0,v
+S2324-G0239,4,00:21.200000,OKC,,PHI,,N. Batum,PHI,MISS Batum Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0239,4,00:21.200000,OKC,114.0,PHI,121.0,N. Batum,PHI,Batum Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0805,4,00:21.500000,PHI,,CLE,,N. Batum,PHI,SUB: Reed FOR Batum,Substitution,,0,0,0,0,,,h
+S2324-G1042,1,08:21,SAC,,PHI,,N. Batum,PHI,Batum REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1042,1,03:59,SAC,,PHI,,N. Batum,PHI,SUB: Payne FOR Batum,Substitution,,0,0,0,0,,,v
+S2324-G1042,2,06:54,SAC,,PHI,,N. Batum,PHI,Batum REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1042,2,06:54,SAC,,PHI,,N. Batum,PHI,MISS Batum Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2324-G1042,2,06:13,SAC,,PHI,,N. Batum,PHI,Batum Out of Bounds Lost Ball Turnover (P1.T3),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2324-G1042,2,01:28,SAC,,PHI,,N. Batum,PHI,Batum REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1042,2,00:47,SAC,,PHI,,N. Batum,PHI,MISS Batum 3PT Jump Shot,Missed Shot,Jump Shot,-230,8,0,1,3.0,0.0,v
+S2324-G1042,3,09:59,SAC,,PHI,,N. Batum,PHI,MISS Batum 25' 3PT Jump Shot,Missed Shot,Jump Shot,10,250,25,1,3.0,0.0,v
+S2324-G1042,3,07:20,SAC,,PHI,,N. Batum,PHI,SUB: Reed FOR Batum,Substitution,,0,0,0,0,,,v
+S2324-G0887,1,05:18,BKN,,PHI,,N. Batum,PHI,Batum REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0887,1,00:01.900000,BKN,,PHI,,N. Batum,PHI,Batum BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0887,2,10:59,BKN,,PHI,,N. Batum,PHI,Batum REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0887,2,10:45,BKN,,PHI,,N. Batum,PHI,Batum P.FOUL (P1.T1) (J.Sterling),Foul,Personal,0,0,0,0,,,v
+S2324-G0887,2,10:36,BKN,,PHI,,N. Batum,PHI,SUB: Dowtin Jr. FOR Batum,Substitution,,0,0,0,0,,,v
+S2324-G0887,2,05:40,BKN,,PHI,,N. Batum,PHI,MISS Batum 3PT Jump Shot,Missed Shot,Jump Shot,-225,-20,0,1,3.0,0.0,v
+S2324-G0887,3,04:25,BKN,,PHI,,N. Batum,PHI,Batum REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0887,3,04:10,BKN,71.0,PHI,70.0,N. Batum,PHI,Batum 1' Cutting Finger Roll Layup Shot (2 PTS) (Harris 2 AST),Made Shot,Cutting Finger Roll Layup Shot,-1,6,1,1,2.0,2.0,v
+S2324-G0887,4,11:51,BKN,,PHI,,N. Batum,PHI,Batum P.FOUL (P2.T1) (J.Sterling),Foul,Personal,0,0,0,0,,,v
+S2324-G0887,4,06:53,BKN,,PHI,,N. Batum,PHI,MISS Batum 3PT Jump Shot,Missed Shot,Jump Shot,234,-11,0,1,3.0,0.0,v
+S2324-G0887,4,04:41,BKN,,PHI,,N. Batum,PHI,Batum REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0887,4,02:00,BKN,,PHI,,N. Batum,PHI,Batum REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0887,4,01:57,BKN,,PHI,,N. Batum,PHI,MISS Batum 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,-7,6,1,1,2.0,0.0,v
+S2324-G0887,4,01:57,BKN,,PHI,,N. Batum,PHI,Batum REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0887,4,01:56,BKN,,PHI,,N. Batum,PHI,MISS Batum 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,-5,4,1,1,2.0,0.0,v
+S2324-G0887,4,01:20,BKN,,PHI,,N. Batum,PHI,MISS Batum 26' 3PT Jump Shot,Missed Shot,Jump Shot,-196,169,26,1,3.0,0.0,v
+S2324-G0887,4,00:51.800000,BKN,,PHI,,N. Batum,PHI,Batum REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0887,4,00:01.700000,BKN,,PHI,,N. Batum,PHI,Batum Out of Bounds - Bad Pass Turnover Turnover (P1.T12),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G1111,1,08:10,MIA,,PHI,,N. Batum,PHI,MISS Batum 25' 3PT Jump Shot,Missed Shot,Jump Shot,195,149,25,1,3.0,0.0,v
+S2324-G1111,1,04:48,MIA,,PHI,,N. Batum,PHI,MISS Batum 3PT Jump Shot,Missed Shot,Jump Shot,228,6,0,1,3.0,0.0,v
+S2324-G1111,1,02:38,MIA,,PHI,,N. Batum,PHI,Batum REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1111,1,02:02,MIA,,PHI,,N. Batum,PHI,SUB: Embiid FOR Batum,Substitution,,0,0,0,0,,,v
+S2324-G1111,2,06:57,MIA,,PHI,,N. Batum,PHI,MISS Batum 7' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,34,66,7,1,2.0,0.0,v
+S2324-G1111,2,04:33,MIA,,PHI,,N. Batum,PHI,Batum REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1111,2,01:20,MIA,,PHI,,N. Batum,PHI,Batum REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1111,2,00:54.500000,MIA,,PHI,,N. Batum,PHI,Batum STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G1111,2,00:50.600000,MIA,,PHI,,N. Batum,PHI,Batum P.FOUL (P1.T3) (M.Davis),Foul,Personal,0,0,0,0,,,v
+S2324-G1111,3,05:28,MIA,,PHI,,N. Batum,PHI,MISS Batum 3PT Jump Shot,Missed Shot,Jump Shot,-228,14,0,1,3.0,0.0,v
+S2324-G1111,3,04:51,MIA,,PHI,,N. Batum,PHI,Batum BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G1111,3,03:38,MIA,,PHI,,N. Batum,PHI,SUB: Martin FOR Batum,Substitution,,0,0,0,0,,,v
+S2324-G1111,4,11:24,MIA,,PHI,,N. Batum,PHI,Batum Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G1111,4,10:20,MIA,,PHI,,N. Batum,PHI,Batum Bad Pass Turnover (P2.T9),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G1111,4,10:05,MIA,,PHI,,N. Batum,PHI,Batum REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1111,4,07:59,MIA,,PHI,,N. Batum,PHI,Batum STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G1111,4,07:33,MIA,,PHI,,N. Batum,PHI,SUB: Martin FOR Batum,Substitution,,0,0,0,0,,,v
+S2324-G0327,1,11:22,PHI,,DET,,N. Batum,PHI,Batum REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0327,1,08:22,PHI,,DET,,N. Batum,PHI,Batum STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0327,1,07:29,PHI,,DET,,N. Batum,PHI,Batum STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0327,1,03:30,PHI,,DET,,N. Batum,PHI,SUB: Oubre Jr. FOR Batum,Substitution,,0,0,0,0,,,h
+S2324-G0327,2,05:27,PHI,,DET,,N. Batum,PHI,Batum REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0327,2,04:28,PHI,,DET,,N. Batum,PHI,MISS Batum 3PT Jump Shot,Missed Shot,Jump Shot,234,20,0,1,3.0,0.0,h
+S2324-G0327,3,11:21,PHI,,DET,,N. Batum,PHI,MISS Batum 3' Layup,Missed Shot,Layup Shot,-15,25,3,1,2.0,0.0,h
+S2324-G0327,3,11:19,PHI,,DET,,N. Batum,PHI,Batum REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0327,3,11:18,PHI,63.0,DET,41.0,N. Batum,PHI,Batum 1' Reverse Layup (2 PTS),Made Shot,Reverse Layup Shot,-4,14,1,1,2.0,2.0,h
+S2324-G0327,3,06:35,PHI,,DET,,N. Batum,PHI,Batum REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0327,3,06:19,PHI,,DET,,N. Batum,PHI,Batum REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0327,3,06:19,PHI,82.0,DET,50.0,N. Batum,PHI,Batum Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2324-G0327,3,04:33,PHI,,DET,,N. Batum,PHI,SUB: Oubre Jr. FOR Batum,Substitution,,0,0,0,0,,,h
+S2324-G0262,1,10:14,NOP,4.0,PHI,3.0,N. Batum,PHI,Batum 25' 3PT Jump Shot (3 PTS) (Morris Sr. 1 AST),Made Shot,Jump Shot,181,179,25,1,3.0,3.0,v
+S2324-G0262,1,08:32,NOP,,PHI,,N. Batum,PHI,Batum Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0262,1,07:54,NOP,,PHI,,N. Batum,PHI,Batum REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0262,1,04:23,NOP,,PHI,,N. Batum,PHI,SUB: Morris Sr. FOR Batum,Substitution,,0,0,0,0,,,v
+S2324-G0262,2,06:35,NOP,,PHI,,N. Batum,PHI,Batum S.FOUL (P1.T4) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,v
+S2324-G0262,2,04:46,NOP,,PHI,,N. Batum,PHI,SUB: Covington FOR Batum,Substitution,,0,0,0,0,,,v
+S2324-G0262,3,10:45,NOP,,PHI,,N. Batum,PHI,SUB: Reed FOR Batum,Substitution,,0,0,0,0,,,v
+S2324-G1218,1,10:43,PHI,,ATL,,N. Batum,PHI,Batum REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1218,1,06:48,PHI,,ATL,,N. Batum,PHI,Batum S.FOUL (P1.T1) (N.Buchert),Foul,Shooting,0,0,0,0,,,h
+S2324-G1218,1,06:10,PHI,17.0,ATL,11.0,N. Batum,PHI,Batum 3PT Jump Shot (3 PTS) (Maxey 2 AST),Made Shot,Jump Shot,-233,1,0,1,3.0,3.0,h
+S2324-G1218,1,04:38,PHI,23.0,ATL,16.0,N. Batum,PHI,Batum 24' 3PT Jump Shot (6 PTS) (Melton 1 AST),Made Shot,Jump Shot,-239,46,24,1,3.0,3.0,h
+S2324-G1218,1,03:43,PHI,,ATL,,N. Batum,PHI,Batum Violation:Kicked Ball (N.Green),Violation,Kicked Ball,0,0,0,0,,,h
+S2324-G1218,1,03:23,PHI,,ATL,,N. Batum,PHI,Batum REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1218,1,03:14,PHI,,ATL,,N. Batum,PHI,SUB: Morris Sr. FOR Batum,Substitution,,0,0,0,0,,,h
+S2324-G1218,2,01:03,PHI,,ATL,,N. Batum,PHI,MISS Batum 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,230,114,26,1,3.0,0.0,h
+S2324-G1218,3,07:22,PHI,,ATL,,N. Batum,PHI,Batum REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1218,3,06:00,PHI,80.0,ATL,81.0,N. Batum,PHI,Batum 1' Driving Dunk (8 PTS) (Melton 4 AST),Made Shot,Driving Dunk Shot,2,13,1,1,2.0,2.0,h
+S2324-G1218,3,05:01,PHI,,ATL,,N. Batum,PHI,Batum REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1218,3,03:15,PHI,,ATL,,N. Batum,PHI,SUB: Morris Sr. FOR Batum,Substitution,,0,0,0,0,,,h
+S2324-G1218,4,02:16,PHI,,ATL,,N. Batum,PHI,SUB: Maxey FOR Batum,Substitution,,0,0,0,0,,,h
+S2324-G0608,1,09:20,PHI,8.0,SAS,14.0,N. Batum,PHI,Batum 3PT Jump Shot (3 PTS) (Embiid 1 AST),Made Shot,Jump Shot,-234,-6,0,1,3.0,3.0,h
+S2324-G0608,1,07:49,PHI,,SAS,,N. Batum,PHI,Batum STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0608,1,06:29,PHI,,SAS,,N. Batum,PHI,Batum REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0608,1,05:07,PHI,,SAS,,N. Batum,PHI,Batum REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0608,1,03:47,PHI,,SAS,,N. Batum,PHI,MISS Batum 27' 3PT Jump Shot,Missed Shot,Jump Shot,-138,232,27,1,3.0,0.0,h
+S2324-G0608,1,03:35,PHI,,SAS,,N. Batum,PHI,Batum P.FOUL (P1.T2) (A.Smith),Foul,Personal,0,0,0,0,,,h
+S2324-G0608,1,03:35,PHI,,SAS,,N. Batum,PHI,SUB: Harris FOR Batum,Substitution,,0,0,0,0,,,h
+S2324-G0608,2,01:40,PHI,,SAS,,N. Batum,PHI,Batum Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0608,2,01:19,PHI,,SAS,,N. Batum,PHI,Batum REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0608,2,00:21.800000,PHI,,SAS,,N. Batum,PHI,Batum REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0608,3,11:38,PHI,,SAS,,N. Batum,PHI,Batum REBOUND (Off:4 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0608,3,11:38,PHI,64.0,SAS,58.0,N. Batum,PHI,Batum Tip Layup Shot (5 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2324-G0608,3,11:18,PHI,,SAS,,N. Batum,PHI,Batum REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0608,3,09:39,PHI,,SAS,,N. Batum,PHI,Batum P.FOUL (P2.T2) (A.Smith),Foul,Personal,0,0,0,0,,,h
+S2324-G0608,3,08:44,PHI,,SAS,,N. Batum,PHI,Batum S.FOUL (P3.T4) (S.Wright),Foul,Shooting,0,0,0,0,,,h
+S2324-G0608,3,07:56,PHI,,SAS,,N. Batum,PHI,Batum STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0608,3,04:14,PHI,,SAS,,N. Batum,PHI,Batum REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0608,3,03:01,PHI,,SAS,,N. Batum,PHI,Batum REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0608,3,01:46,PHI,,SAS,,N. Batum,PHI,SUB: Harris FOR Batum,Substitution,,0,0,0,0,,,h
+S2324-G0608,4,04:11,PHI,,SAS,,N. Batum,PHI,Batum STEAL (3 STL),,,0,0,0,0,,,h
+S2324-G0608,4,01:06,PHI,,SAS,,N. Batum,PHI,MISS Batum 3PT Jump Shot,Missed Shot,Jump Shot,232,30,0,1,3.0,0.0,h
+S2324-G0521,1,10:27,ATL,,PHI,,N. Batum,PHI,Batum S.FOUL (P1.T2) (J.Williams),Foul,Shooting,0,0,0,0,,,v
+S2324-G0521,1,09:05,ATL,,PHI,,N. Batum,PHI,MISS Batum Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0521,1,09:05,ATL,7.0,PHI,10.0,N. Batum,PHI,Batum Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0521,1,04:35,ATL,,PHI,,N. Batum,PHI,SUB: Beverley FOR Batum,Substitution,,0,0,0,0,,,v
+S2324-G0521,2,06:06,ATL,,PHI,,N. Batum,PHI,Batum REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0521,2,06:06,ATL,,PHI,,N. Batum,PHI,MISS Batum Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2324-G0521,2,03:26,ATL,,PHI,,N. Batum,PHI,Batum OFF.Foul (P2) (D.Taylor),Foul,Offensive,0,0,0,0,,,v
+S2324-G0521,2,03:26,ATL,,PHI,,N. Batum,PHI,Batum Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0521,2,00:33.300000,ATL,59.0,PHI,60.0,N. Batum,PHI,Batum 26' 3PT Jump Shot (4 PTS) (Maxey 6 AST),Made Shot,Jump Shot,-50,258,26,1,3.0,3.0,v
+S2324-G0521,3,07:33,ATL,,PHI,,N. Batum,PHI,Batum BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0521,3,07:29,ATL,,PHI,,N. Batum,PHI,Batum BLOCK (2 BLK),,,0,0,0,0,,,v
+S2324-G0521,3,06:15,ATL,75.0,PHI,81.0,N. Batum,PHI,Batum 1' Cutting Layup Shot (6 PTS) (Reed 2 AST),Made Shot,Cutting Layup Shot,-4,6,1,1,2.0,2.0,v
+S2324-G0521,3,04:50,ATL,,PHI,,N. Batum,PHI,Batum S.FOUL (P3.T3) (J.Williams),Foul,Shooting,0,0,0,0,,,v
+S2324-G0521,3,03:51,ATL,,PHI,,N. Batum,PHI,SUB: Bamba FOR Batum,Substitution,,0,0,0,0,,,v
+S2324-G0521,4,05:48,ATL,,PHI,,N. Batum,PHI,Batum REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0521,5,04:10,ATL,,PHI,,N. Batum,PHI,Batum REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0521,5,02:21,ATL,,PHI,,N. Batum,PHI,Batum P.FOUL (P4.T1) (J.Williams),Foul,Personal,0,0,0,0,,,v
+S2324-G0521,5,02:10,ATL,,PHI,,N. Batum,PHI,Batum BLOCK (3 BLK),,,0,0,0,0,,,v
+S2324-G0521,5,01:52,ATL,,PHI,,N. Batum,PHI,MISS Batum 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,134,214,25,1,3.0,0.0,v
+S2324-G0521,5,01:42,ATL,,PHI,,N. Batum,PHI,Batum REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1018,1,03:01,LAL,,PHI,,N. Batum,PHI,Batum Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G1018,1,02:42,LAL,,PHI,,N. Batum,PHI,Batum REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1018,1,00:09.900000,LAL,,PHI,,N. Batum,PHI,Batum REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1018,2,10:59,LAL,,PHI,,N. Batum,PHI,Batum REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1018,2,10:41,LAL,,PHI,,N. Batum,PHI,MISS Batum 3PT Jump Shot,Missed Shot,Jump Shot,223,2,0,1,3.0,0.0,v
+S2324-G1018,2,07:28,LAL,,PHI,,N. Batum,PHI,SUB: Harris FOR Batum,Substitution,,0,0,0,0,,,v
+S2324-G1018,3,01:19,LAL,,PHI,,N. Batum,PHI,Batum REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1018,4,11:04,LAL,,PHI,,N. Batum,PHI,Batum REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1018,4,06:17,LAL,,PHI,,N. Batum,PHI,MISS Batum 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,229,88,25,1,3.0,0.0,v
+S2324-G1018,4,05:35,LAL,,PHI,,N. Batum,PHI,SUB: Oubre Jr. FOR Batum,Substitution,,0,0,0,0,,,v
+S2324-G1171,1,03:44,PHI,,ORL,,N. Batum,PHI,Batum S.FOUL (P1.PN) (E.Scott),Foul,Shooting,0,0,0,0,,,h
+S2324-G1171,1,01:05,PHI,,ORL,,N. Batum,PHI,Batum REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1171,2,09:45,PHI,45.0,ORL,33.0,N. Batum,PHI,Batum 10' Fadeaway Jumper (2 PTS) (Melton 1 AST),Made Shot,Fadeaway Jump Shot,-62,75,10,1,2.0,2.0,h
+S2324-G1171,2,09:00,PHI,,ORL,,N. Batum,PHI,Batum REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1171,2,09:00,PHI,,ORL,,N. Batum,PHI,MISS Batum Putback Layup,Missed Shot,Putback Layup Shot,0,0,0,1,2.0,0.0,h
+S2324-G1171,2,08:09,PHI,,ORL,,N. Batum,PHI,SUB: Lowry FOR Batum,Substitution,,0,0,0,0,,,h
+S2324-G1171,2,04:37,PHI,,ORL,,N. Batum,PHI,Batum REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1171,2,03:35,PHI,61.0,ORL,50.0,N. Batum,PHI,Batum 26' 3PT Jump Shot (5 PTS) (Embiid 7 AST),Made Shot,Jump Shot,-2,264,26,1,3.0,3.0,h
+S2324-G1171,3,03:35,PHI,,ORL,,N. Batum,PHI,Batum STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1171,3,02:07,PHI,,ORL,,N. Batum,PHI,MISS Batum 28' 3PT Jump Shot,Missed Shot,Jump Shot,47,275,28,1,3.0,0.0,h
+S2324-G1171,4,07:55,PHI,,ORL,,N. Batum,PHI,MISS Batum 3PT Jump Shot,Missed Shot,Jump Shot,-228,20,0,1,3.0,0.0,h
+S2324-G1171,4,06:46,PHI,,ORL,,N. Batum,PHI,Batum REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1171,4,06:01,PHI,,ORL,,N. Batum,PHI,Batum S.FOUL (P2.T2) (T.Washington),Foul,Shooting,0,0,0,0,,,h
+S2324-G1171,4,05:43,PHI,,ORL,,N. Batum,PHI,MISS Batum 2' Hook Shot,Missed Shot,Hook Shot,-18,11,2,1,2.0,0.0,h
+S2324-G1171,4,05:40,PHI,,ORL,,N. Batum,PHI,SUB: Lowry FOR Batum,Substitution,,0,0,0,0,,,h
+S2324-G1171,4,01:40,PHI,,ORL,,N. Batum,PHI,Batum STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0644,1,06:24,DEN,,PHI,,N. Batum,PHI,Batum Out of Bounds - Bad Pass Turnover Turnover (P1.T2),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0644,1,06:16,DEN,,PHI,,N. Batum,PHI,Batum P.FOUL (P1.T2) (E.Dalen),Foul,Personal,0,0,0,0,,,v
+S2324-G0644,1,06:02,DEN,,PHI,,N. Batum,PHI,SUB: Oubre Jr. FOR Batum,Substitution,,0,0,0,0,,,v
+S2324-G0644,2,11:27,DEN,,PHI,,N. Batum,PHI,Batum REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0644,2,07:10,DEN,,PHI,,N. Batum,PHI,Batum REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0644,2,06:50,DEN,,PHI,,N. Batum,PHI,SUB: Oubre Jr. FOR Batum,Substitution,,0,0,0,0,,,v
+S2324-G0644,2,02:03,DEN,,PHI,,N. Batum,PHI,Batum S.FOUL (P2.PN) (Z.Zarba),Foul,Shooting,0,0,0,0,,,v
+S2324-G0644,3,09:54,DEN,,PHI,,N. Batum,PHI,Batum REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0644,3,07:54,DEN,,PHI,,N. Batum,PHI,SUB: House Jr. FOR Batum,Substitution,,0,0,0,0,,,v
+S2324-G0644,4,10:41,DEN,,PHI,,N. Batum,PHI,Batum REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0644,4,09:54,DEN,,PHI,,N. Batum,PHI,MISS Batum 9' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,91,15,9,1,2.0,0.0,v
+S2324-G0644,4,07:22,DEN,,PHI,,N. Batum,PHI,SUB: Oubre Jr. FOR Batum,Substitution,,0,0,0,0,,,v
+S2324-G0644,4,02:28,DEN,,PHI,,N. Batum,PHI,SUB: House Jr. FOR Batum,Substitution,,0,0,0,0,,,v
+S2324-G0644,4,00:16.600000,DEN,,PHI,,N. Batum,PHI,Batum Personal Take Foul (P3.PN) (N.Buchert),Foul,Personal Take,0,0,0,0,,,v
+S2324-G0351,1,11:04,PHI,,CHI,,N. Batum,PHI,Batum Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0351,1,04:52,PHI,,CHI,,N. Batum,PHI,MISS Batum 24' 3PT Jump Shot,Missed Shot,Jump Shot,244,20,24,1,3.0,0.0,h
+S2324-G0351,1,02:27,PHI,,CHI,,N. Batum,PHI,SUB: Covington FOR Batum,Substitution,,0,0,0,0,,,h
+S2324-G0351,2,00:05.100000,PHI,,CHI,,N. Batum,PHI,Batum Bad Pass Turnover (P2.T10),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0351,2,00:00.800000,PHI,,CHI,,N. Batum,PHI,Batum REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0351,3,09:12,PHI,,CHI,,N. Batum,PHI,Batum REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0351,3,08:45,PHI,,CHI,,N. Batum,PHI,MISS Batum 3PT Running Jump Shot,Missed Shot,Running Jump Shot,232,31,0,1,3.0,0.0,h
+S2324-G0351,3,08:39,PHI,58.0,CHI,59.0,N. Batum,PHI,Batum 26' 3PT Pullup Jump Shot (3 PTS) (Melton 2 AST),Made Shot,Pullup Jump shot,190,174,26,1,3.0,3.0,h
+S2324-G0351,3,05:25,PHI,,CHI,,N. Batum,PHI,MISS Batum 3PT Jump Shot,Missed Shot,Jump Shot,-224,19,0,1,3.0,0.0,h
+S2324-G0351,3,02:20,PHI,,CHI,,N. Batum,PHI,Batum REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0351,3,02:02,PHI,,CHI,,N. Batum,PHI,Batum REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0351,3,01:17,PHI,,CHI,,N. Batum,PHI,SUB: Covington FOR Batum,Substitution,,0,0,0,0,,,h
+S2324-G1002,1,10:55,PHX,,PHI,,N. Batum,PHI,Batum REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1002,1,09:10,PHX,,PHI,,N. Batum,PHI,Batum BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G1002,1,09:09,PHX,,PHI,,N. Batum,PHI,Batum REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1002,1,05:37,PHX,,PHI,,N. Batum,PHI,SUB: Martin FOR Batum,Substitution,,0,0,0,0,,,v
+S2324-G1002,1,02:22,PHX,,PHI,,N. Batum,PHI,SUB: Payne FOR Batum,Substitution,,0,0,0,0,,,v
+S2324-G1002,2,06:56,PHX,,PHI,,N. Batum,PHI,Batum STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G1002,2,05:17,PHX,,PHI,,N. Batum,PHI,Batum REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1002,2,03:22,PHX,50.0,PHI,41.0,N. Batum,PHI,Batum 3PT Jump Shot (3 PTS) (Maxey 4 AST),Made Shot,Jump Shot,230,-18,0,1,3.0,3.0,v
+S2324-G1002,2,03:07,PHX,,PHI,,N. Batum,PHI,Batum P.FOUL (P1.T3) (A.Smith),Foul,Personal,0,0,0,0,,,v
+S2324-G1002,2,02:40,PHX,50.0,PHI,43.0,N. Batum,PHI,Batum 1' Layup (5 PTS) (Lowry 5 AST),Made Shot,Layup Shot,10,3,1,1,2.0,2.0,v
+S2324-G1002,2,00:38.500000,PHX,58.0,PHI,44.0,N. Batum,PHI,Batum Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1002,2,00:38.500000,PHX,,PHI,,N. Batum,PHI,MISS Batum Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G1002,2,00:32.200000,PHX,,PHI,,N. Batum,PHI,Batum S.FOUL (P2.T4) (D.Guthrie),Foul,Shooting,0,0,0,0,,,v
+S2324-G1002,3,10:11,PHX,64.0,PHI,54.0,N. Batum,PHI,Batum Cutting Dunk Shot (8 PTS) (Lowry 7 AST),Made Shot,Cutting Dunk Shot,-1,2,0,1,2.0,2.0,v
+S2324-G1002,3,09:15,PHX,,PHI,,N. Batum,PHI,Batum Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G1002,3,05:43,PHX,,PHI,,N. Batum,PHI,MISS Batum 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-120,225,26,1,3.0,0.0,v
+S2324-G1002,3,04:32,PHX,,PHI,,N. Batum,PHI,SUB: Payne FOR Batum,Substitution,,0,0,0,0,,,v
+S2324-G0255,1,11:05,PHI,,LAL,,N. Batum,PHI,MISS Batum 25' 3PT Jump Shot,Missed Shot,Jump Shot,-241,52,25,1,3.0,0.0,h
+S2324-G0255,1,09:32,PHI,6.0,LAL,8.0,N. Batum,PHI,Batum 26' 3PT Jump Shot (3 PTS) (Maxey 2 AST),Made Shot,Jump Shot,183,190,26,1,3.0,3.0,h
+S2324-G0255,1,09:15,PHI,,LAL,,N. Batum,PHI,Batum REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0255,1,07:32,PHI,,LAL,,N. Batum,PHI,Batum STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0255,1,05:31,PHI,,LAL,,N. Batum,PHI,Batum REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0255,1,05:23,PHI,,LAL,,N. Batum,PHI,SUB: Covington FOR Batum,Substitution,,0,0,0,0,,,h
+S2324-G0255,2,06:39,PHI,,LAL,,N. Batum,PHI,Batum STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0255,2,04:26,PHI,,LAL,,N. Batum,PHI,Batum P.FOUL (P1.T4) (S.Corbin),Foul,Personal,0,0,0,0,,,h
+S2324-G0255,2,03:52,PHI,,LAL,,N. Batum,PHI,Batum REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0255,2,03:30,PHI,,LAL,,N. Batum,PHI,SUB: Covington FOR Batum,Substitution,,0,0,0,0,,,h
+S2324-G0255,3,10:55,PHI,,LAL,,N. Batum,PHI,MISS Batum 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-4,196,20,1,2.0,0.0,h
+S2324-G0255,3,08:16,PHI,82.0,LAL,65.0,N. Batum,PHI,Batum 1' Cutting Dunk Shot (5 PTS) (Embiid 11 AST),Made Shot,Cutting Dunk Shot,-1,8,1,1,2.0,2.0,h
+S2324-G0255,3,07:27,PHI,,LAL,,N. Batum,PHI,Batum S.FOUL (P2.T1) (S.Corbin),Foul,Shooting,0,0,0,0,,,h
+S2324-G0255,3,06:31,PHI,,LAL,,N. Batum,PHI,Batum Transition Take Foul (P3.T3) (T.Ford),Foul                                    ,Transition Take,0,0,0,0,,,h
+S2324-G0255,3,05:01,PHI,,LAL,,N. Batum,PHI,SUB: Covington FOR Batum,Substitution,,0,0,0,0,,,h
+S2324-G0255,4,09:56,PHI,107.0,LAL,84.0,N. Batum,PHI,Batum 27' 3PT Jump Shot (8 PTS) (Maxey 7 AST),Made Shot,Jump Shot,-25,264,27,1,3.0,3.0,h
+S2324-G0255,4,08:54,PHI,,LAL,,N. Batum,PHI,Batum REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0255,4,08:54,PHI,,LAL,,N. Batum,PHI,MISS Batum Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2324-G0255,4,07:13,PHI,,LAL,,N. Batum,PHI,Batum REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0255,4,06:21,PHI,,LAL,,N. Batum,PHI,Batum STEAL (3 STL),,,0,0,0,0,,,h
+S2324-G0255,4,06:00,PHI,,LAL,,N. Batum,PHI,Batum REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0255,4,05:41,PHI,,LAL,,N. Batum,PHI,Batum REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0255,4,05:41,PHI,117.0,LAL,86.0,N. Batum,PHI,Batum Tip Layup Shot (10 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2324-G0255,4,05:29,PHI,,LAL,,N. Batum,PHI,SUB: Korkmaz FOR Batum,Substitution,,0,0,0,0,,,h
+S2324-G0310,1,06:23,DET,,PHI,,N. Batum,PHI,SUB: Beverley FOR Batum,Substitution,,0,0,0,0,,,v
+S2324-G0310,2,07:16,DET,,PHI,,N. Batum,PHI,Batum REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0310,2,05:17,DET,42.0,PHI,55.0,N. Batum,PHI,Batum 10' Turnaround Jump Shot (2 PTS) (Covington 1 AST),Made Shot,Turnaround Jump Shot,-97,-33,10,1,2.0,2.0,v
+S2324-G0310,2,01:18,DET,,PHI,,N. Batum,PHI,Batum S.FOUL (P1.PN) (E.Dalen),Foul,Shooting,0,0,0,0,,,v
+S2324-G0310,2,00:40.500000,DET,,PHI,,N. Batum,PHI,Batum S.FOUL (P2.PN) (L.Wood),Foul,Shooting,0,0,0,0,,,v
+S2324-G0310,3,09:52,DET,62.0,PHI,78.0,N. Batum,PHI,Batum 24' 3PT Jump Shot (5 PTS) (Maxey 7 AST),Made Shot,Jump Shot,241,20,24,1,3.0,3.0,v
+S2324-G0310,3,09:43,DET,,PHI,,N. Batum,PHI,Batum S.FOUL (P3.T3) (E.Dalen),Foul,Shooting,0,0,0,0,,,v
+S2324-G0310,3,05:13,DET,,PHI,,N. Batum,PHI,SUB: Oubre Jr. FOR Batum,Substitution,,0,0,0,0,,,v
+S2324-G1192,1,03:51,PHI,,BKN,,N. Batum,PHI,MISS Batum 3' Running Layup,Missed Shot,Running Layup Shot,28,20,3,1,2.0,0.0,h
+S2324-G1192,1,01:16,PHI,,BKN,,N. Batum,PHI,Batum REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1192,2,11:27,PHI,,BKN,,N. Batum,PHI,MISS Batum 27' 3PT Jump Shot,Missed Shot,Jump Shot,-162,213,27,1,3.0,0.0,h
+S2324-G1192,2,10:10,PHI,,BKN,,N. Batum,PHI,Batum P.FOUL (P1.T1) (G.Petraitis),Foul,Personal,0,0,0,0,,,h
+S2324-G1192,2,10:03,PHI,,BKN,,N. Batum,PHI,Batum REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1192,2,09:54,PHI,,BKN,,N. Batum,PHI,Batum REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1192,2,07:06,PHI,,BKN,,N. Batum,PHI,Batum REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1192,2,06:23,PHI,,BKN,,N. Batum,PHI,SUB: Oubre Jr. FOR Batum,Substitution,,0,0,0,0,,,h
+S2324-G1192,2,00:01.100000,PHI,,BKN,,N. Batum,PHI,MISS Batum 3PT Jump Shot,Missed Shot,Jump Shot,-225,-21,0,1,3.0,0.0,h
+S2324-G1192,4,10:41,PHI,,BKN,,N. Batum,PHI,Batum S.FOUL (P2.T1) (G.Petraitis),Foul,Shooting,0,0,0,0,,,h
+S2324-G1192,4,08:43,PHI,,BKN,,N. Batum,PHI,Batum REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1192,4,07:34,PHI,,BKN,,N. Batum,PHI,SUB: Dowtin Jr. FOR Batum,Substitution,,0,0,0,0,,,h
+S2324-G1080,1,02:22,TOR,18.0,PHI,32.0,N. Batum,PHI,Batum 1' Alley Oop Layup (2 PTS) (Dowtin Jr. 1 AST),Made Shot,Alley Oop Layup shot,6,9,1,1,2.0,2.0,v
+S2324-G1080,1,01:40,TOR,21.0,PHI,35.0,N. Batum,PHI,Batum 3PT Jump Shot (5 PTS) (Hield 2 AST),Made Shot,Jump Shot,-225,3,0,1,3.0,3.0,v
+S2324-G1080,2,04:35,TOR,39.0,PHI,57.0,N. Batum,PHI,Batum 26' 3PT Jump Shot (8 PTS) (Payne 2 AST),Made Shot,Jump Shot,-70,253,26,1,3.0,3.0,v
+S2324-G1080,2,02:37,TOR,,PHI,,N. Batum,PHI,Batum REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1080,2,01:48,TOR,,PHI,,N. Batum,PHI,Batum STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G1080,3,06:08,TOR,,PHI,,N. Batum,PHI,Batum REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1080,3,06:08,TOR,74.0,PHI,89.0,N. Batum,PHI,Batum Tip Layup Shot (10 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2324-G1080,3,05:56,TOR,,PHI,,N. Batum,PHI,Batum REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1080,3,01:20,TOR,88.0,PHI,98.0,N. Batum,PHI,Batum 24' 3PT Jump Shot (13 PTS) (Harris 1 AST),Made Shot,Jump Shot,234,42,24,1,3.0,3.0,v
+S2324-G1080,3,01:04,TOR,,PHI,,N. Batum,PHI,Batum STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G1080,3,00:44.700000,TOR,,PHI,,N. Batum,PHI,Batum REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1080,4,11:20,TOR,95.0,PHI,104.0,N. Batum,PHI,Batum 3PT Jump Shot (16 PTS) (Lowry 9 AST),Made Shot,Jump Shot,-234,16,0,1,3.0,3.0,v
+S2324-G1080,4,09:39,TOR,,PHI,,N. Batum,PHI,Batum REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1080,4,08:48,TOR,,PHI,,N. Batum,PHI,MISS Batum 29' 3PT Jump Shot,Missed Shot,Jump Shot,-145,247,29,1,3.0,0.0,v
+S2324-G1080,4,07:48,TOR,,PHI,,N. Batum,PHI,SUB: Hield FOR Batum,Substitution,,0,0,0,0,,,v
+S2324-G1080,4,01:50,TOR,116.0,PHI,130.0,N. Batum,PHI,Batum 3PT Jump Shot (19 PTS) (Harris 3 AST),Made Shot,Jump Shot,230,38,0,1,3.0,3.0,v
+S2324-G1080,4,01:42,TOR,,PHI,,N. Batum,PHI,Batum REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1080,4,01:14,TOR,,PHI,,N. Batum,PHI,SUB: Martin FOR Batum,Substitution,,0,0,0,0,,,v
+S2324-G0668,1,10:40,POR,,PHI,,N. Batum,PHI,Batum REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0668,1,08:10,POR,4.0,PHI,7.0,N. Batum,PHI,Batum 3PT Jump Shot (3 PTS) (Beverley 1 AST),Made Shot,Jump Shot,-229,5,0,1,3.0,3.0,v
+S2324-G0668,1,04:58,POR,,PHI,,N. Batum,PHI,SUB: House Jr. FOR Batum,Substitution,,0,0,0,0,,,v
+S2324-G0668,2,03:57,POR,,PHI,,N. Batum,PHI,Batum REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0668,2,01:12,POR,,PHI,,N. Batum,PHI,Batum REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0668,2,01:12,POR,,PHI,,N. Batum,PHI,MISS Batum Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2324-G0668,2,01:11,POR,,PHI,,N. Batum,PHI,Batum REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0668,2,00:41.200000,POR,,PHI,,N. Batum,PHI,MISS Batum 30' 3PT Jump Shot,Missed Shot,Jump Shot,92,283,30,1,3.0,0.0,v
+S2324-G0668,2,00:32.900000,POR,,PHI,,N. Batum,PHI,SUB: Harris FOR Batum,Substitution,,0,0,0,0,,,v
+S2324-G0668,3,07:09,POR,,PHI,,N. Batum,PHI,MISS Batum 25' 3PT Jump Shot,Missed Shot,Jump Shot,173,178,25,1,3.0,0.0,v
+S2324-G0668,3,06:59,POR,,PHI,,N. Batum,PHI,Batum P.FOUL (P1.T3) (J.Butler),Foul,Personal,0,0,0,0,,,v
+S2324-G0668,3,06:38,POR,,PHI,,N. Batum,PHI,MISS Batum 28' 3PT Jump Shot,Missed Shot,Jump Shot,-77,264,28,1,3.0,0.0,v
+S2324-G0668,3,05:34,POR,,PHI,,N. Batum,PHI,SUB: House Jr. FOR Batum,Substitution,,0,0,0,0,,,v
+S2324-G0668,4,10:48,POR,,PHI,,N. Batum,PHI,SUB: Beverley FOR Batum,Substitution,,0,0,0,0,,,v
+S2324-G0008,2,11:11,DET,,PHI,,N. Batum,PHI,Batum P.FOUL (P1.T2) (T.Brothers),Foul,Personal,0,0,0,0,,,v
+S2324-G0008,2,08:36,DET,,PHI,,N. Batum,PHI,SUB: Harris FOR Batum,Substitution,,0,0,0,0,,,v
+S2324-G0008,2,01:44,DET,,PHI,,N. Batum,PHI,Batum STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0008,3,05:38,DET,,PHI,,N. Batum,PHI,Batum REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0008,3,02:56,DET,,PHI,,N. Batum,PHI,Batum S.FOUL (P2.PN) (M.Kogut),Foul,Shooting,0,0,0,0,,,v
+S2324-G0008,3,02:53,DET,,PHI,,N. Batum,PHI,Batum REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0008,3,01:00,DET,,PHI,,N. Batum,PHI,Batum REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0008,3,00:53.100000,DET,73.0,PHI,81.0,N. Batum,PHI,Batum 27' 3PT Pullup Jump Shot (3 PTS) (Embiid 2 AST),Made Shot,Pullup Jump shot,69,265,27,1,3.0,3.0,v
+S2324-G0008,4,08:44,DET,,PHI,,N. Batum,PHI,MISS Batum 28' 3PT Jump Shot,Missed Shot,Jump Shot,-1,281,28,1,3.0,0.0,v
+S2324-G0008,4,07:41,DET,,PHI,,N. Batum,PHI,Batum S.FOUL (P3.T3) (T.Brothers),Foul,Shooting,0,0,0,0,,,v
+S2324-G0008,4,02:04,DET,,PHI,,N. Batum,PHI,Batum P.FOUL (P4.PN) (M.Kogut),Foul,Personal,0,0,0,0,,,v
+S2324-G0008,4,01:47,DET,,PHI,,N. Batum,PHI,SUB: Korkmaz FOR Batum,Substitution,,0,0,0,0,,,v
+S2324-G1208,1,10:24,WAS,,PHI,,N. Batum,PHI,Batum REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1208,1,07:18,WAS,,PHI,,N. Batum,PHI,MISS Batum 3PT Jump Shot,Missed Shot,Jump Shot,221,22,0,1,3.0,0.0,v
+S2324-G1208,1,07:06,WAS,,PHI,,N. Batum,PHI,Batum REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1208,1,06:11,WAS,,PHI,,N. Batum,PHI,Batum REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1208,1,05:37,WAS,,PHI,,N. Batum,PHI,Batum REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1208,1,02:41,WAS,,PHI,,N. Batum,PHI,MISS Batum 24' 3PT Jump Shot,Missed Shot,Jump Shot,-238,-20,24,1,3.0,0.0,v
+S2324-G1208,1,02:15,WAS,,PHI,,N. Batum,PHI,SUB: Morris Sr. FOR Batum,Substitution,,0,0,0,0,,,v
+S2324-G1208,2,05:08,WAS,,PHI,,N. Batum,PHI,MISS Batum Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G1208,2,05:08,WAS,48.0,PHI,40.0,N. Batum,PHI,Batum Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1208,2,03:56,WAS,,PHI,,N. Batum,PHI,Batum REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1208,2,03:09,WAS,,PHI,,N. Batum,PHI,Batum REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1208,2,03:00,WAS,,PHI,,N. Batum,PHI,Batum P.FOUL (P1.T3) (M.Smith),Foul,Personal,0,0,0,0,,,v
+S2324-G1208,3,05:43,WAS,,PHI,,N. Batum,PHI,MISS Batum Free Throw 1 of 3,Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,0.0,v
+S2324-G1208,3,05:43,WAS,82.0,PHI,81.0,N. Batum,PHI,Batum Free Throw 2 of 3 (2 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,v
+S2324-G1208,3,05:43,WAS,82.0,PHI,82.0,N. Batum,PHI,Batum Free Throw 3 of 3 (3 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,v
+S2324-G1208,3,04:46,WAS,87.0,PHI,86.0,N. Batum,PHI,Batum 3' Alley Oop Layup (5 PTS) (Embiid 4 AST),Made Shot,Alley Oop Layup shot,25,10,3,1,2.0,2.0,v
+S2324-G1208,3,04:37,WAS,,PHI,,N. Batum,PHI,Batum P.FOUL (P2.T2) (R.Hussey),Foul,Personal,0,0,0,0,,,v
+S2324-G1208,3,03:57,WAS,89.0,PHI,89.0,N. Batum,PHI,Batum 3PT Jump Shot (8 PTS) (Beverley 2 AST),Made Shot,Jump Shot,233,-3,0,1,3.0,3.0,v
+S2324-G1208,3,02:36,WAS,,PHI,,N. Batum,PHI,SUB: Maxey FOR Batum,Substitution,,0,0,0,0,,,v
+S2324-G1208,4,05:43,WAS,104.0,PHI,110.0,N. Batum,PHI,Batum Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1208,4,05:43,WAS,,PHI,,N. Batum,PHI,MISS Batum Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0858,1,01:56,PHI,,CHA,,N. Batum,PHI,Batum REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0858,1,01:48,PHI,,CHA,,N. Batum,PHI,MISS Batum 3PT Jump Shot,Missed Shot,Jump Shot,234,1,0,1,3.0,0.0,h
+S2324-G0858,2,09:47,PHI,36.0,CHA,35.0,N. Batum,PHI,Batum 24' 3PT Jump Shot (3 PTS) (Hield 5 AST),Made Shot,Jump Shot,240,10,24,1,3.0,3.0,h
+S2324-G0858,2,07:01,PHI,,CHA,,N. Batum,PHI,SUB: Harris FOR Batum,Substitution,,0,0,0,0,,,h
+S2324-G0858,3,03:53,PHI,,CHA,,N. Batum,PHI,Batum REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0858,3,03:18,PHI,,CHA,,N. Batum,PHI,Batum REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0858,4,10:11,PHI,95.0,CHA,86.0,N. Batum,PHI,Batum 26' 3PT Jump Shot (6 PTS) (Harris 4 AST),Made Shot,Jump Shot,36,261,26,1,3.0,3.0,h
+S2324-G0858,4,10:02,PHI,,CHA,,N. Batum,PHI,Batum P.FOUL (P1.T1) (S.Twardoski),Foul,Personal,0,0,0,0,,,h
+S2324-G0858,4,07:28,PHI,,CHA,,N. Batum,PHI,Batum REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0858,4,07:28,PHI,104.0,CHA,95.0,N. Batum,PHI,Batum Tip Layup Shot (8 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2324-G0858,4,05:53,PHI,,CHA,,N. Batum,PHI,MISS Batum 26' 3PT Jump Shot,Missed Shot,Jump Shot,22,256,26,1,3.0,0.0,h
+S2324-G0858,4,05:21,PHI,,CHA,,N. Batum,PHI,MISS Batum 27' 3PT Jump Shot,Missed Shot,Jump Shot,-140,230,27,1,3.0,0.0,h
+S2324-G0858,4,00:44.100000,PHI,,CHA,,N. Batum,PHI,MISS Batum 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,14,24,1,3.0,0.0,h
+S2324-G0858,4,00:21.300000,PHI,,CHA,,N. Batum,PHI,Batum BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0927,1,04:24,NYK,,PHI,,N. Batum,PHI,MISS Batum 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,-13,24,1,3.0,0.0,v
+S2324-G0927,1,02:54,NYK,,PHI,,N. Batum,PHI,MISS Batum 24' 3PT Jump Shot,Missed Shot,Jump Shot,238,5,24,1,3.0,0.0,v
+S2324-G0927,1,01:27,NYK,,PHI,,N. Batum,PHI,Batum REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0927,2,10:03,NYK,,PHI,,N. Batum,PHI,Batum STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0927,2,08:34,NYK,,PHI,,N. Batum,PHI,Batum STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0927,2,07:57,NYK,,PHI,,N. Batum,PHI,Batum REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0927,2,06:36,NYK,,PHI,,N. Batum,PHI,SUB: Lowry FOR Batum,Substitution,,0,0,0,0,,,v
+S2324-G0927,2,02:38,NYK,,PHI,,N. Batum,PHI,Batum Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0927,2,00:05.100000,NYK,,PHI,,N. Batum,PHI,Batum Personal Take Foul (P1.T3) (J.Butler),Foul,Personal Take,0,0,0,0,,,v
+S2324-G0927,3,02:52,NYK,,PHI,,N. Batum,PHI,Batum REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0927,3,01:47,NYK,,PHI,,N. Batum,PHI,Batum REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0927,4,07:10,NYK,,PHI,,N. Batum,PHI,Batum REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0927,4,07:04,NYK,,PHI,,N. Batum,PHI,SUB: Lowry FOR Batum,Substitution,,0,0,0,0,,,v
+S2324-G0927,4,04:46,NYK,,PHI,,N. Batum,PHI,Batum P.FOUL (P2.T3) (B.Kennedy),Foul,Personal,0,0,0,0,,,v
+S2324-G0566,1,07:00,PHI,,DEN,,N. Batum,PHI,Batum S.FOUL (P1.T3) (D.Guthrie),Foul,Shooting,0,0,0,0,,,h
+S2324-G0566,1,05:33,PHI,19.0,DEN,18.0,N. Batum,PHI,Batum 24' 3PT Jump Shot (3 PTS) (Embiid 2 AST),Made Shot,Jump Shot,-240,9,24,1,3.0,3.0,h
+S2324-G0566,1,04:21,PHI,,DEN,,N. Batum,PHI,Batum Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0566,1,03:05,PHI,24.0,DEN,27.0,N. Batum,PHI,Batum 27' 3PT Pullup Jump Shot (6 PTS) (Embiid 4 AST),Made Shot,Pullup Jump shot,-116,240,27,1,3.0,3.0,h
+S2324-G0566,1,01:49,PHI,,DEN,,N. Batum,PHI,SUB: Korkmaz FOR Batum,Substitution,,0,0,0,0,,,h
+S2324-G0566,2,05:40,PHI,,DEN,,N. Batum,PHI,Batum P.FOUL (P2.PN) (N.Sago),Foul,Personal,0,0,0,0,,,h
+S2324-G0566,2,04:52,PHI,,DEN,,N. Batum,PHI,Batum Bad Pass Turnover (P2.T2),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0566,2,04:09,PHI,,DEN,,N. Batum,PHI,Batum REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0566,2,01:12,PHI,,DEN,,N. Batum,PHI,Batum REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0566,3,05:10,PHI,,DEN,,N. Batum,PHI,Batum BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0566,3,05:07,PHI,,DEN,,N. Batum,PHI,Batum REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0566,3,04:58,PHI,,DEN,,N. Batum,PHI,Batum S.FOUL (P3.T3) (D.Guthrie),Foul,Shooting,0,0,0,0,,,h
+S2324-G0566,3,03:59,PHI,,DEN,,N. Batum,PHI,Batum REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0566,3,03:58,PHI,99.0,DEN,92.0,N. Batum,PHI,Batum 2' Putback Layup (8 PTS),Made Shot,Putback Layup Shot,-16,10,2,1,2.0,2.0,h
+S2324-G0566,3,02:39,PHI,,DEN,,N. Batum,PHI,SUB: Korkmaz FOR Batum,Substitution,,0,0,0,0,,,h
+S2324-G0566,4,03:52,PHI,,DEN,,N. Batum,PHI,MISS Batum 25' 3PT Jump Shot,Missed Shot,Jump Shot,-108,228,25,1,3.0,0.0,h
+S2324-G0566,4,01:07,PHI,,DEN,,N. Batum,PHI,Batum BLOCK (2 BLK),,,0,0,0,0,,,h
+S2324-G0442,1,04:08,CHI,,PHI,,N. Batum,PHI,Batum REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0442,1,03:26,CHI,,PHI,,N. Batum,PHI,Batum P.FOUL (P1.T4) (J.Goble),Foul,Personal,0,0,0,0,,,v
+S2324-G0442,1,02:17,CHI,,PHI,,N. Batum,PHI,Batum REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0442,1,02:09,CHI,16.0,PHI,15.0,N. Batum,PHI,Batum 24' 3PT Jump Shot (3 PTS) (Maxey 1 AST),Made Shot,Jump Shot,-235,-11,24,1,3.0,3.0,v
+S2324-G0442,1,01:31,CHI,,PHI,,N. Batum,PHI,SUB: Covington FOR Batum,Substitution,,0,0,0,0,,,v
+S2324-G0442,2,05:10,CHI,,PHI,,N. Batum,PHI,MISS Batum 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-132,242,28,1,3.0,0.0,v
+S2324-G0442,2,04:05,CHI,40.0,PHI,40.0,N. Batum,PHI,Batum 3PT Jump Shot (6 PTS) (Harris 3 AST),Made Shot,Jump Shot,229,-11,0,1,3.0,3.0,v
+S2324-G0442,3,02:34,CHI,73.0,PHI,67.0,N. Batum,PHI,Batum 3PT Jump Shot (9 PTS) (Beverley 2 AST),Made Shot,Jump Shot,232,-5,0,1,3.0,3.0,v
+S2324-G0442,3,01:14,CHI,,PHI,,N. Batum,PHI,Batum Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0442,4,11:40,CHI,,PHI,,N. Batum,PHI,MISS Batum 3PT Jump Shot,Missed Shot,Jump Shot,230,11,0,1,3.0,0.0,v
+S2324-G0442,4,10:52,CHI,,PHI,,N. Batum,PHI,MISS Batum 13' Jump Shot,Missed Shot,Jump Shot,-134,-13,13,1,2.0,0.0,v
+S2324-G0442,4,10:34,CHI,,PHI,,N. Batum,PHI,Batum REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0442,4,07:56,CHI,,PHI,,N. Batum,PHI,SUB: Harris FOR Batum,Substitution,,0,0,0,0,,,v
+S2324-G0593,1,10:58,CHA,,PHI,,N. Batum,PHI,Batum REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0593,1,10:55,CHA,,PHI,,N. Batum,PHI,MISS Batum 24' 3PT Jump Shot,Missed Shot,Jump Shot,-237,-13,24,1,3.0,0.0,v
+S2324-G0593,1,10:33,CHA,,PHI,,N. Batum,PHI,Batum REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0593,1,06:29,CHA,10.0,PHI,12.0,N. Batum,PHI,Batum 1' Cutting Layup Shot (2 PTS) (Harris 2 AST),Made Shot,Cutting Layup Shot,-6,1,1,1,2.0,2.0,v
+S2324-G0593,1,03:25,CHA,,PHI,,N. Batum,PHI,SUB: House Jr. FOR Batum,Substitution,,0,0,0,0,,,v
+S2324-G0593,2,02:21,CHA,,PHI,,N. Batum,PHI,Batum REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0593,2,01:03,CHA,,PHI,,N. Batum,PHI,Batum BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0593,3,09:31,CHA,,PHI,,N. Batum,PHI,Batum REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0593,3,06:32,CHA,,PHI,,N. Batum,PHI,Batum BLOCK (2 BLK),,,0,0,0,0,,,v
+S2324-G0593,3,05:49,CHA,,PHI,,N. Batum,PHI,MISS Batum 26' 3PT Jump Shot,Missed Shot,Jump Shot,159,205,26,1,3.0,0.0,v
+S2324-G0593,3,05:19,CHA,56.0,PHI,62.0,N. Batum,PHI,Batum 1' Layup (4 PTS) (Embiid 3 AST),Made Shot,Layup Shot,-6,8,1,1,2.0,2.0,v
+S2324-G0593,3,04:10,CHA,,PHI,,N. Batum,PHI,SUB: House Jr. FOR Batum,Substitution,,0,0,0,0,,,v
+S2324-G0593,4,06:06,CHA,78.0,PHI,86.0,N. Batum,PHI,Batum 3' Driving Layup (6 PTS) (Embiid 4 AST),Made Shot,Driving Layup Shot,-2,28,3,1,2.0,2.0,v
+S2324-G0593,4,04:43,CHA,,PHI,,N. Batum,PHI,Batum P.FOUL (P1.T3) (J.Schroeder),Foul,Personal,0,0,0,0,,,v
+S2324-G0593,4,04:29,CHA,,PHI,,N. Batum,PHI,Batum STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0593,4,02:14,CHA,,PHI,,N. Batum,PHI,Batum STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0593,4,01:40,CHA,,PHI,,N. Batum,PHI,Batum REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0593,4,01:00,CHA,82.0,PHI,95.0,N. Batum,PHI,Batum 3PT Jump Shot (9 PTS) (Embiid 5 AST),Made Shot,Jump Shot,-228,49,0,1,3.0,3.0,v
+S2324-G0593,4,00:45.200000,CHA,,PHI,,N. Batum,PHI,SUB: Smith FOR Batum,Substitution,,0,0,0,0,,,v
+S2324-G0985,1,09:32,PHI,,MIA,,N. Batum,PHI,Batum REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0985,1,02:49,PHI,,MIA,,N. Batum,PHI,SUB: Oubre Jr. FOR Batum,Substitution,,0,0,0,0,,,h
+S2324-G0985,2,07:11,PHI,,MIA,,N. Batum,PHI,MISS Batum 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,230,-8,0,1,3.0,0.0,h
+S2324-G0985,2,04:10,PHI,,MIA,,N. Batum,PHI,Batum REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0985,2,03:54,PHI,41.0,MIA,42.0,N. Batum,PHI,Batum 10' Pullup Jump Shot (2 PTS) (Maxey 2 AST),Made Shot,Pullup Jump shot,-12,95,10,1,2.0,2.0,h
+S2324-G0985,2,03:17,PHI,,MIA,,N. Batum,PHI,Batum REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0985,2,02:03,PHI,,MIA,,N. Batum,PHI,Batum BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0985,2,00:55.200000,PHI,,MIA,,N. Batum,PHI,MISS Batum 4' Jump Bank Shot,Missed Shot,Jump Bank Shot,34,21,4,1,2.0,0.0,h
+S2324-G0985,3,06:15,PHI,,MIA,,N. Batum,PHI,Batum P.FOUL (P1.T3) (M.Myers),Foul,Personal,0,0,0,0,,,h
+S2324-G0985,3,05:52,PHI,,MIA,,N. Batum,PHI,Batum REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0985,3,05:28,PHI,,MIA,,N. Batum,PHI,Batum S.FOUL (P2.T4) (S.Wright),Foul,Shooting,0,0,0,0,,,h
+S2324-G0985,3,05:28,PHI,,MIA,,N. Batum,PHI,SUB: Reed FOR Batum,Substitution,,0,0,0,0,,,h
+S2324-G0985,4,10:35,PHI,,MIA,,N. Batum,PHI,Batum STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0985,4,10:17,PHI,,MIA,,N. Batum,PHI,Batum STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0985,4,09:34,PHI,,MIA,,N. Batum,PHI,MISS Batum 20' Jump Shot,Missed Shot,Jump Shot,62,185,20,1,2.0,0.0,h
+S2324-G0985,4,09:30,PHI,,MIA,,N. Batum,PHI,Batum S.FOUL (P3.T1) (M.Myers),Foul,Shooting,0,0,0,0,,,h
+S2324-G0985,4,05:43,PHI,,MIA,,N. Batum,PHI,Batum REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0985,4,05:20,PHI,,MIA,,N. Batum,PHI,Batum REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0985,4,03:41,PHI,,MIA,,N. Batum,PHI,Batum P.FOUL (P4.T2) (B.Kennedy),Foul,Personal,0,0,0,0,,,h
+S2324-G0985,4,00:33.800000,PHI,,MIA,,N. Batum,PHI,Batum REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0985,4,00:24.500000,PHI,,MIA,,N. Batum,PHI,Batum Bad Pass Turnover (P1.T12),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0985,4,00:07.300000,PHI,,MIA,,N. Batum,PHI,Batum REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1140,1,11:43,SAS,,PHI,,N. Batum,PHI,Batum REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1140,1,09:40,SAS,,PHI,,N. Batum,PHI,Batum STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G1140,1,08:15,SAS,,PHI,,N. Batum,PHI,MISS Batum 24' 3PT Jump Shot,Missed Shot,Jump Shot,-225,78,24,1,3.0,0.0,v
+S2324-G1140,1,03:30,SAS,,PHI,,N. Batum,PHI,SUB: Martin FOR Batum,Substitution,,0,0,0,0,,,v
+S2324-G1140,2,02:50,SAS,,PHI,,N. Batum,PHI,MISS Batum 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-112,241,27,1,3.0,0.0,v
+S2324-G1140,2,01:48,SAS,,PHI,,N. Batum,PHI,Batum STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G1140,2,01:16,SAS,,PHI,,N. Batum,PHI,Batum S.FOUL (P1.PN) (K.Lane),Foul,Shooting,0,0,0,0,,,v
+S2324-G1140,2,00:35.400000,SAS,,PHI,,N. Batum,PHI,MISS Batum 3PT Jump Shot,Missed Shot,Jump Shot,225,9,0,1,3.0,0.0,v
+S2324-G1140,3,11:26,SAS,,PHI,,N. Batum,PHI,Batum REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1140,3,09:42,SAS,,PHI,,N. Batum,PHI,Batum REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1140,3,07:54,SAS,,PHI,,N. Batum,PHI,Batum REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1140,3,07:09,SAS,,PHI,,N. Batum,PHI,Batum REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1140,3,03:28,SAS,,PHI,,N. Batum,PHI,SUB: Martin FOR Batum,Substitution,,0,0,0,0,,,v
+S2324-G1140,4,03:30,SAS,98.0,PHI,97.0,N. Batum,PHI,Batum 26' 3PT Jump Shot (3 PTS) (Maxey 5 AST),Made Shot,Jump Shot,143,221,26,1,3.0,3.0,v
+S2324-G1140,4,00:09.700000,SAS,108.0,PHI,109.0,N. Batum,PHI,Batum 26' 3PT Jump Shot (6 PTS) (Maxey 6 AST),Made Shot,Jump Shot,-175,188,26,1,3.0,3.0,v
+S2324-G1140,4,00:00,SAS,,PHI,,N. Batum,PHI,Batum STEAL (3 STL),,,0,0,0,0,,,v
+S2324-G1140,4,00:00,SAS,,PHI,,N. Batum,PHI,MISS Batum 28' 3PT Jump Bank Shot,Missed Shot,Jump Bank Shot,180,212,28,1,3.0,0.0,v
+S2324-G1140,5,04:46,SAS,,PHI,,N. Batum,PHI,Batum P.FOUL (P2.T1) (K.Lane),Foul,Personal,0,0,0,0,,,v
+S2324-G1140,5,04:09,SAS,,PHI,,N. Batum,PHI,Batum REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1140,6,01:24,SAS,126.0,PHI,131.0,N. Batum,PHI,Batum 3PT Jump Shot (9 PTS) (Council IV 3 AST),Made Shot,Jump Shot,229,22,0,1,3.0,3.0,v
+S2324-G1140,6,00:28.300000,SAS,,PHI,,N. Batum,PHI,Batum REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0585,1,10:45,ORL,2.0,PHI,5.0,N. Batum,PHI,Batum 3PT Jump Shot (3 PTS) (Maxey 1 AST),Made Shot,Jump Shot,-229,23,0,1,3.0,3.0,v
+S2324-G0585,1,03:42,ORL,,PHI,,N. Batum,PHI,MISS Batum 26' 3PT Jump Shot,Missed Shot,Jump Shot,219,134,26,1,3.0,0.0,v
+S2324-G0585,1,03:36,ORL,,PHI,,N. Batum,PHI,Batum P.FOUL (P1.T2) (B.Schwab),Foul,Personal,0,0,0,0,,,v
+S2324-G0585,1,03:36,ORL,,PHI,,N. Batum,PHI,SUB: Maxey FOR Batum,Substitution,,0,0,0,0,,,v
+S2324-G0585,2,06:39,ORL,,PHI,,N. Batum,PHI,Batum S.FOUL (P2.PN) (J.Goble),Foul,Shooting,0,0,0,0,,,v
+S2324-G0585,2,05:40,ORL,,PHI,,N. Batum,PHI,Batum P.FOUL (P3.PN) (J.Goble),Foul,Personal,0,0,0,0,,,v
+S2324-G0585,2,04:20,ORL,,PHI,,N. Batum,PHI,SUB: Maxey FOR Batum,Substitution,,0,0,0,0,,,v
+S2324-G0585,3,10:42,ORL,,PHI,,N. Batum,PHI,Batum REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0585,3,07:46,ORL,,PHI,,N. Batum,PHI,Batum P.FOUL (P4.T1) (J.Goble),Foul,Personal,0,0,0,0,,,v
+S2324-G0585,3,03:58,ORL,,PHI,,N. Batum,PHI,Batum REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0585,3,03:26,ORL,,PHI,,N. Batum,PHI,SUB: House Jr. FOR Batum,Substitution,,0,0,0,0,,,v
+S2324-G1052,1,04:47,PHI,21.0,LAC,10.0,N. Batum,PHI,Batum 26' 3PT Jump Shot (3 PTS) (Maxey 2 AST),Made Shot,Jump Shot,-134,223,26,1,3.0,3.0,h
+S2324-G1052,1,00:06.100000,PHI,,LAC,,N. Batum,PHI,Batum REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1052,2,04:32,PHI,,LAC,,N. Batum,PHI,MISS Batum 27' 3PT Jump Shot,Missed Shot,Jump Shot,238,125,27,1,3.0,0.0,h
+S2324-G1052,2,03:15,PHI,,LAC,,N. Batum,PHI,Batum REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1052,2,01:23,PHI,,LAC,,N. Batum,PHI,MISS Batum 3PT Jump Shot,Missed Shot,Jump Shot,-232,-14,0,1,3.0,0.0,h
+S2324-G1052,4,07:07,PHI,,LAC,,N. Batum,PHI,Batum REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1052,4,06:07,PHI,94.0,LAC,89.0,N. Batum,PHI,Batum 3PT Jump Shot (6 PTS) (Harris 1 AST),Made Shot,Jump Shot,-227,21,0,1,3.0,3.0,h
+S2324-G1052,4,04:54,PHI,,LAC,,N. Batum,PHI,MISS Batum 3PT Jump Shot,Missed Shot,Jump Shot,-229,14,0,1,3.0,0.0,h
+S2324-G1052,4,04:39,PHI,,LAC,,N. Batum,PHI,Batum BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G1052,4,03:32,PHI,,LAC,,N. Batum,PHI,Batum P.FOUL (P1.T4) (B.Adair),Foul,Personal,0,0,0,0,,,h
+S2324-G1052,4,02:20,PHI,,LAC,,N. Batum,PHI,Batum Lost Ball Turnover (P1.T10),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G1052,4,01:51,PHI,104.0,LAC,99.0,N. Batum,PHI,Batum 3PT Jump Shot (9 PTS) (Hield 1 AST),Made Shot,Jump Shot,-230,32,0,1,3.0,3.0,h
+S2324-G1052,4,00:55.600000,PHI,,LAC,,N. Batum,PHI,Batum REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0896,1,07:53,PHI,,MEM,,N. Batum,PHI,SUB: Oubre Jr. FOR Batum,Substitution,,0,0,0,0,,,h
+S2324-G0896,2,07:27,PHI,,MEM,,N. Batum,PHI,Batum REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0896,2,04:19,PHI,,MEM,,N. Batum,PHI,Batum BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0896,3,10:01,PHI,73.0,MEM,60.0,N. Batum,PHI,Batum 3PT Jump Shot (3 PTS) (Payne 3 AST),Made Shot,Jump Shot,-230,1,0,1,3.0,3.0,h
+S2324-G0896,3,09:39,PHI,,MEM,,N. Batum,PHI,Batum P.FOUL (P1.T2) (S.Foster),Foul,Personal,0,0,0,0,,,h
+S2324-G0896,3,06:23,PHI,79.0,MEM,69.0,N. Batum,PHI,Batum Free Throw 1 of 3 (4 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,h
+S2324-G0896,3,06:23,PHI,80.0,MEM,69.0,N. Batum,PHI,Batum Free Throw 2 of 3 (5 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,h
+S2324-G0896,3,06:23,PHI,81.0,MEM,69.0,N. Batum,PHI,Batum Free Throw 3 of 3 (6 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,h
+S2324-G0896,3,05:18,PHI,,MEM,,N. Batum,PHI,Batum REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0896,3,05:18,PHI,85.0,MEM,70.0,N. Batum,PHI,Batum Tip Dunk Shot (8 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,h
+S2324-G0896,3,02:35,PHI,,MEM,,N. Batum,PHI,Batum REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0896,3,02:35,PHI,,MEM,,N. Batum,PHI,SUB: Hield FOR Batum,Substitution,,0,0,0,0,,,h
+S2324-G0896,4,07:00,PHI,,MEM,,N. Batum,PHI,Batum REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0896,4,06:07,PHI,,MEM,,N. Batum,PHI,Batum REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0896,4,06:07,PHI,,MEM,,N. Batum,PHI,MISS Batum Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2324-G0896,4,06:07,PHI,,MEM,,N. Batum,PHI,Batum REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0896,4,06:03,PHI,,MEM,,N. Batum,PHI,MISS Batum 3PT Jump Shot,Missed Shot,Jump Shot,228,50,0,1,3.0,0.0,h
+S2324-G0896,4,05:54,PHI,,MEM,,N. Batum,PHI,Batum Bad Pass Turnover (P1.T11),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G0896,4,05:19,PHI,102.0,MEM,97.0,N. Batum,PHI,Batum 3' Dunk (10 PTS),Made Shot,Dunk Shot,-11,27,3,1,2.0,2.0,h
+S2324-G0896,4,04:12,PHI,,MEM,,N. Batum,PHI,Batum S.FOUL (P2.T2) (J.Goble),Foul,Shooting,0,0,0,0,,,h
+S2324-G0896,4,02:06,PHI,,MEM,,N. Batum,PHI,Batum S.FOUL (P3.PN) (M.Boland),Foul,Shooting,0,0,0,0,,,h
+S2324-G0896,4,00:03,PHI,,MEM,,N. Batum,PHI,Batum STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0896,4,00:01,PHI,,MEM,,N. Batum,PHI,MISS Batum 20' Jump Shot,Missed Shot,Jump Shot,81,187,20,1,2.0,0.0,h
+S2324-G0208,1,05:19,BKN,,PHI,,N. Batum,PHI,Batum S.FOUL (P1.T3) (K.Scott),Foul,Shooting,0,0,0,0,,,v
+S2324-G0208,1,05:19,BKN,,PHI,,N. Batum,PHI,SUB: Covington FOR Batum,Substitution,,0,0,0,0,,,v
+S2324-G0208,2,04:22,BKN,42.0,PHI,41.0,N. Batum,PHI,Batum 26' 3PT Jump Shot (3 PTS) (Embiid 4 AST),Made Shot,Jump Shot,-26,257,26,1,3.0,3.0,v
+S2324-G0208,2,02:05,BKN,,PHI,,N. Batum,PHI,Batum REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0208,2,01:40,BKN,,PHI,,N. Batum,PHI,Batum REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0208,3,05:30,BKN,,PHI,,N. Batum,PHI,Batum S.FOUL (P2.T3) (D.Scott),Foul,Shooting,0,0,0,0,,,v
+S2324-G0208,3,05:30,BKN,,PHI,,N. Batum,PHI,SUB: Covington FOR Batum,Substitution,,0,0,0,0,,,v
+S2324-G0208,4,07:26,BKN,,PHI,,N. Batum,PHI,Batum REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0208,4,04:24,BKN,,PHI,,N. Batum,PHI,SUB: Beverley FOR Batum,Substitution,,0,0,0,0,,,v
+S2324-G0232,1,11:12,MIN,,PHI,,N. Batum,PHI,Batum S.FOUL (P1.T2) (E.Malloy),Foul,Shooting,0,0,0,0,,,v
+S2324-G0232,1,10:59,MIN,5.0,PHI,3.0,N. Batum,PHI,Batum 25' 3PT Jump Shot (3 PTS) (Morris Sr. 1 AST),Made Shot,Jump Shot,44,244,25,1,3.0,3.0,v
+S2324-G0232,1,08:36,MIN,,PHI,,N. Batum,PHI,Batum P.FOUL (P2.T3) (T.Washington),Foul,Personal,0,0,0,0,,,v
+S2324-G0232,1,08:36,MIN,,PHI,,N. Batum,PHI,SUB: Reed FOR Batum,Substitution,,0,0,0,0,,,v
+S2324-G0232,1,01:29,MIN,,PHI,,N. Batum,PHI,Batum REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0232,1,01:09,MIN,,PHI,,N. Batum,PHI,MISS Batum 25' 3PT Jump Shot,Missed Shot,Jump Shot,190,162,25,1,3.0,0.0,v
+S2324-G0232,1,00:50.800000,MIN,,PHI,,N. Batum,PHI,Batum Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0232,2,00:29.200000,MIN,,PHI,,N. Batum,PHI,MISS Batum 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-23,265,27,1,3.0,0.0,v
+S2324-G0232,3,10:23,MIN,,PHI,,N. Batum,PHI,Batum REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0232,3,07:41,MIN,,PHI,,N. Batum,PHI,Batum BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0232,3,05:47,MIN,,PHI,,N. Batum,PHI,Batum REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0232,3,04:57,MIN,,PHI,,N. Batum,PHI,SUB: House Jr. FOR Batum,Substitution,,0,0,0,0,,,v
+S2324-G0232,4,08:31,MIN,100.0,PHI,86.0,N. Batum,PHI,Batum 25' 3PT Jump Shot (6 PTS) (Maxey 8 AST),Made Shot,Jump Shot,-208,140,25,1,3.0,3.0,v
+S2324-G0232,4,05:35,MIN,,PHI,,N. Batum,PHI,SUB: Martin FOR Batum,Substitution,,0,0,0,0,,,v
+S2324-G0459,1,10:49,PHI,,CHI,,N. Batum,PHI,Batum REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0459,1,08:43,PHI,,CHI,,N. Batum,PHI,Batum REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0459,1,07:31,PHI,20.0,CHI,8.0,N. Batum,PHI,Batum 27' 3PT Running Jump Shot (3 PTS) (Maxey 2 AST),Made Shot,Running Jump Shot,176,199,27,1,3.0,3.0,h
+S2324-G0459,1,07:14,PHI,,CHI,,N. Batum,PHI,Batum BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0459,1,03:59,PHI,35.0,CHI,10.0,N. Batum,PHI,Batum 4' Layup (5 PTS) (Embiid 5 AST),Made Shot,Layup Shot,33,16,4,1,2.0,2.0,h
+S2324-G0459,1,03:59,PHI,36.0,CHI,10.0,N. Batum,PHI,Batum Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G0459,1,03:44,PHI,,CHI,,N. Batum,PHI,SUB: House Jr. FOR Batum,Substitution,,0,0,0,0,,,h
+S2324-G0459,2,04:40,PHI,,CHI,,N. Batum,PHI,MISS Batum 27' 3PT Jump Shot,Missed Shot,Jump Shot,102,252,27,1,3.0,0.0,h
+S2324-G0459,2,04:22,PHI,,CHI,,N. Batum,PHI,SUB: Beverley FOR Batum,Substitution,,0,0,0,0,,,h
+S2324-G0459,3,09:50,PHI,,CHI,,N. Batum,PHI,Batum REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0459,3,09:48,PHI,,CHI,,N. Batum,PHI,Batum Backcourt Turnover (P1.T4),Turnover,Backcourt Turnover,0,0,0,0,,,h
+S2324-G0459,3,09:12,PHI,,CHI,,N. Batum,PHI,Batum S.FOUL (P1.T1) (S.Mitchell),Foul,Shooting,0,0,0,0,,,h
+S2324-G0459,3,07:15,PHI,,CHI,,N. Batum,PHI,Batum S.FOUL (P2.T2) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,h
+S2324-G0459,3,04:15,PHI,,CHI,,N. Batum,PHI,MISS Batum 25' 3PT Jump Shot,Missed Shot,Jump Shot,243,57,25,1,3.0,0.0,h
+S2324-G0459,3,04:00,PHI,,CHI,,N. Batum,PHI,SUB: House Jr. FOR Batum,Substitution,,0,0,0,0,,,h

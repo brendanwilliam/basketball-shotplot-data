@@ -1,0 +1,766 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2324-G0533,4,03:02,ATL,,IND,,B. Fernando,ATL,MISS Fernando 26' 3PT Jump Shot,Missed Shot,Jump Shot,76,245,26,1,3.0,0.0,h
+S2324-G0533,4,00:29.800000,ATL,,IND,,B. Fernando,ATL,Fernando REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0925,1,04:01,ATL,,NOP,,B. Fernando,ATL,Fernando REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0925,1,03:29,ATL,,NOP,,B. Fernando,ATL,Fernando STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0925,1,02:44,ATL,,NOP,,B. Fernando,ATL,Fernando REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0925,1,02:44,ATL,,NOP,,B. Fernando,ATL,MISS Fernando Tip Dunk Shot,Missed Shot,Tip Dunk Shot,0,0,0,1,2.0,0.0,h
+S2324-G0925,1,02:03,ATL,,NOP,,B. Fernando,ATL,Fernando P.FOUL (P1.T2) (T.Washington),Foul,Personal,0,0,0,0,,,h
+S2324-G0925,1,01:02,ATL,,NOP,,B. Fernando,ATL,Fernando REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0925,1,01:02,ATL,,NOP,,B. Fernando,ATL,MISS Fernando Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2324-G0925,1,00:00.500000,ATL,,NOP,,B. Fernando,ATL,Fernando BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0925,2,11:21,ATL,,NOP,,B. Fernando,ATL,Fernando REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0925,2,11:07,ATL,,NOP,,B. Fernando,ATL,Fernando Out of Bounds Lost Ball Turnover (P1.T1),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2324-G0925,2,08:48,ATL,,NOP,,B. Fernando,ATL,Fernando REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0925,2,08:19,ATL,,NOP,,B. Fernando,ATL,Fernando REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0925,2,07:26,ATL,,NOP,,B. Fernando,ATL,Fernando REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0925,2,06:46,ATL,,NOP,,B. Fernando,ATL,Fernando REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0925,2,06:46,ATL,24.0,NOP,37.0,B. Fernando,ATL,Fernando Tip Dunk Shot (2 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,h
+S2324-G0925,2,06:05,ATL,,NOP,,B. Fernando,ATL,SUB: Krejci FOR Fernando,Substitution,,0,0,0,0,,,h
+S2324-G0925,3,03:17,ATL,57.0,NOP,74.0,B. Fernando,ATL,Fernando 2' Layup (4 PTS) (Murray 4 AST),Made Shot,Layup Shot,-12,13,2,1,2.0,2.0,h
+S2324-G0925,3,01:47,ATL,,NOP,,B. Fernando,ATL,Fernando BLOCK (2 BLK),,,0,0,0,0,,,h
+S2324-G0925,3,01:44,ATL,,NOP,,B. Fernando,ATL,Fernando REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0925,3,01:33,ATL,,NOP,,B. Fernando,ATL,Fernando S.FOUL (P2.PN) (C.Flores),Foul,Shooting,0,0,0,0,,,h
+S2324-G0925,3,00:57.800000,ATL,,NOP,,B. Fernando,ATL,Fernando STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0925,3,00:37.200000,ATL,,NOP,,B. Fernando,ATL,Fernando REBOUND (Off:3 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0925,3,00:03.500000,ATL,,NOP,,B. Fernando,ATL,Fernando REBOUND (Off:3 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0925,4,11:26,ATL,,NOP,,B. Fernando,ATL,Fernando S.FOUL (P3.T1) (T.Washington),Foul,Shooting,0,0,0,0,,,h
+S2324-G0925,4,10:47,ATL,,NOP,,B. Fernando,ATL,Fernando BLOCK (3 BLK),,,0,0,0,0,,,h
+S2324-G0925,4,08:13,ATL,74.0,NOP,93.0,B. Fernando,ATL,Fernando 3' Dunk (6 PTS) (Murray 6 AST),Made Shot,Dunk Shot,1,25,3,1,2.0,2.0,h
+S2324-G0925,4,06:16,ATL,,NOP,,B. Fernando,ATL,SUB: Mathews FOR Fernando,Substitution,,0,0,0,0,,,h
+S2324-G0821,1,02:19,ATL,16.0,ORL,19.0,B. Fernando,ATL,Fernando 1' Dunk (2 PTS) (Hunter 1 AST),Made Shot,Dunk Shot,7,10,1,1,2.0,2.0,h
+S2324-G0821,1,01:51,ATL,17.0,ORL,19.0,B. Fernando,ATL,Fernando Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0821,1,01:51,ATL,,ORL,,B. Fernando,ATL,MISS Fernando Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0821,3,04:00,ATL,,ORL,,B. Fernando,ATL,MISS Fernando 5' Driving Layup,Missed Shot,Driving Layup Shot,-1,50,5,1,2.0,0.0,h
+S2324-G0821,3,02:41,ATL,,ORL,,B. Fernando,ATL,Fernando S.FOUL (P1.T3) (J.DeRosa),Foul,Shooting,0,0,0,0,,,h
+S2324-G0821,3,01:54,ATL,,ORL,,B. Fernando,ATL,MISS Fernando 5' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,33,32,5,1,2.0,0.0,h
+S2324-G0821,3,01:32,ATL,,ORL,,B. Fernando,ATL,Fernando STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0821,4,11:17,ATL,,ORL,,B. Fernando,ATL,MISS Fernando 3' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,7,32,3,1,2.0,0.0,h
+S2324-G0821,4,08:58,ATL,,ORL,,B. Fernando,ATL,Fernando STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0821,4,08:33,ATL,93.0,ORL,74.0,B. Fernando,ATL,Fernando Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0821,4,08:33,ATL,94.0,ORL,74.0,B. Fernando,ATL,Fernando Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0821,4,07:35,ATL,,ORL,,B. Fernando,ATL,Fernando S.FOUL (P2.T3) (C.Blair),Foul,Shooting,0,0,0,0,,,h
+S2324-G0821,4,07:32,ATL,,ORL,,B. Fernando,ATL,Fernando REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0821,4,06:08,ATL,98.0,ORL,81.0,B. Fernando,ATL,Fernando 1' Layup (7 PTS) (Bogdanovic 3 AST),Made Shot,Layup Shot,-1,11,1,1,2.0,2.0,h
+S2324-G0821,4,05:18,ATL,,ORL,,B. Fernando,ATL,SUB: Hunter FOR Fernando,Substitution,,0,0,0,0,,,h
+S2324-G0895,1,05:15,ATL,,CLE,,B. Fernando,ATL,MISS Fernando 3' Cutting Finger Roll Layup Shot,Missed Shot,Cutting Finger Roll Layup Shot,18,25,3,1,2.0,0.0,h
+S2324-G0895,1,05:01,ATL,,CLE,,B. Fernando,ATL,Fernando REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0895,1,04:53,ATL,16.0,CLE,14.0,B. Fernando,ATL,Fernando Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0895,1,04:53,ATL,,CLE,,B. Fernando,ATL,MISS Fernando Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0895,1,03:58,ATL,20.0,CLE,17.0,B. Fernando,ATL,Fernando 3' Driving Layup (3 PTS) (Hunter 1 AST),Made Shot,Driving Layup Shot,18,27,3,1,2.0,2.0,h
+S2324-G0895,2,10:29,ATL,,CLE,,B. Fernando,ATL,Fernando REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0895,2,09:23,ATL,,CLE,,B. Fernando,ATL,MISS Fernando 1' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,-1,5,1,1,2.0,0.0,h
+S2324-G0895,2,08:43,ATL,,CLE,,B. Fernando,ATL,Fernando REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0895,2,08:00,ATL,,CLE,,B. Fernando,ATL,Fernando S.FOUL (P1.T2) (J.Butler),Foul,Shooting,0,0,0,0,,,h
+S2324-G0895,2,07:58,ATL,,CLE,,B. Fernando,ATL,Fernando REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0895,2,06:34,ATL,45.0,CLE,33.0,B. Fernando,ATL,Fernando 1' Cutting Dunk Shot (5 PTS) (Murray 2 AST),Made Shot,Cutting Dunk Shot,0,6,1,1,2.0,2.0,h
+S2324-G0895,2,06:11,ATL,,CLE,,B. Fernando,ATL,Fernando REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0895,2,05:56,ATL,,CLE,,B. Fernando,ATL,Fernando S.FOUL (P2.T3) (M.Kallio),Foul,Shooting,0,0,0,0,,,h
+S2324-G0895,2,05:56,ATL,,CLE,,B. Fernando,ATL,SUB: Capela FOR Fernando,Substitution,,0,0,0,0,,,h
+S2324-G0895,3,04:28,ATL,,CLE,,B. Fernando,ATL,Fernando STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0895,3,03:43,ATL,,CLE,,B. Fernando,ATL,MISS Fernando 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,17,41,4,1,2.0,0.0,h
+S2324-G0895,3,01:12,ATL,,CLE,,B. Fernando,ATL,Fernando S.FOUL (P3.PN) (M.Kallio),Foul,Shooting,0,0,0,0,,,h
+S2324-G0895,4,10:59,ATL,,CLE,,B. Fernando,ATL,Fernando REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0895,4,10:46,ATL,,CLE,,B. Fernando,ATL,Fernando BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0895,4,08:27,ATL,,CLE,,B. Fernando,ATL,Fernando REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0895,4,08:03,ATL,95.0,CLE,93.0,B. Fernando,ATL,Fernando 1' Dunk (7 PTS) (Murray 9 AST),Made Shot,Dunk Shot,-4,3,1,1,2.0,2.0,h
+S2324-G0895,4,06:40,ATL,,CLE,,B. Fernando,ATL,Fernando REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0895,4,06:10,ATL,,CLE,,B. Fernando,ATL,Fernando STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G0895,4,05:48,ATL,,CLE,,B. Fernando,ATL,Fernando REBOUND (Off:1 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0895,4,05:44,ATL,,CLE,,B. Fernando,ATL,Jump Ball (CC) Fernando vs. Allen: Tip to Garland,Jump Ball,Coach Challenge,0,0,0,0,,,h
+S2324-G0895,4,05:25,ATL,,CLE,,B. Fernando,ATL,Fernando REBOUND (Off:1 Def:9),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0895,4,04:49,ATL,,CLE,,B. Fernando,ATL,SUB: Hunter FOR Fernando,Substitution,,0,0,0,0,,,h
+S2324-G1178,1,04:40,MIN,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1178,1,04:28,MIN,,ATL,,B. Fernando,ATL,MISS Fernando 7' Hook Shot,Missed Shot,Hook Shot,-44,59,7,1,2.0,0.0,v
+S2324-G1178,1,03:19,MIN,,ATL,,B. Fernando,ATL,Fernando S.FOUL (P1.PN) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,v
+S2324-G1178,1,00:34.200000,MIN,25.0,ATL,27.0,B. Fernando,ATL,Fernando 2' Running Dunk (2 PTS) (Young 1 AST),Made Shot,Running Dunk Shot,2,16,2,1,2.0,2.0,v
+S2324-G1178,1,00:21,MIN,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1178,1,00:01.200000,MIN,,ATL,,B. Fernando,ATL,MISS Fernando Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G1178,1,00:01.200000,MIN,,ATL,,B. Fernando,ATL,MISS Fernando Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G1178,2,11:19,MIN,25.0,ATL,29.0,B. Fernando,ATL,Fernando 7' Driving Hook Shot (4 PTS) (Bogdanovic 1 AST),Made Shot,Driving Hook Shot,18,64,7,1,2.0,2.0,v
+S2324-G1178,2,10:22,MIN,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1178,2,09:04,MIN,,ATL,,B. Fernando,ATL,Fernando P.FOUL (P2.T4) (S.Foster),Foul,Personal,0,0,0,0,,,v
+S2324-G1178,2,08:37,MIN,28.0,ATL,30.0,B. Fernando,ATL,Fernando Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1178,2,08:37,MIN,,ATL,,B. Fernando,ATL,MISS Fernando Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G1178,2,07:51,MIN,,ATL,,B. Fernando,ATL,Fernando S.FOUL (P3.PN) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,v
+S2324-G1178,2,07:51,MIN,,ATL,,B. Fernando,ATL,SUB: Capela FOR Fernando,Substitution,,0,0,0,0,,,v
+S2324-G1178,4,11:27,MIN,82.0,ATL,82.0,B. Fernando,ATL,Fernando 3' Layup (7 PTS) (Young 7 AST),Made Shot,Layup Shot,-17,30,3,1,2.0,2.0,v
+S2324-G1178,4,10:06,MIN,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1178,4,09:33,MIN,,ATL,,B. Fernando,ATL,Fernando OFF.Foul (P4) (S.Foster),Foul,Offensive,0,0,0,0,,,v
+S2324-G1178,4,09:33,MIN,,ATL,,B. Fernando,ATL,Fernando Offensive Foul Turnover (P1.T10),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G1178,4,08:52,MIN,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1178,4,07:47,MIN,88.0,ATL,87.0,B. Fernando,ATL,Fernando 10' Pullup Jump Shot (9 PTS) (Griffin 1 AST),Made Shot,Pullup Jump shot,64,76,10,1,2.0,2.0,v
+S2324-G1178,4,07:47,MIN,88.0,ATL,88.0,B. Fernando,ATL,Fernando Free Throw 1 of 1 (10 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G1178,4,05:13,MIN,96.0,ATL,95.0,B. Fernando,ATL,Fernando 6' Floating Jump Shot (12 PTS) (Krejci 1 AST),Made Shot,Floating Jump shot,2,61,6,1,2.0,2.0,v
+S2324-G1178,4,03:57,MIN,,ATL,,B. Fernando,ATL,MISS Fernando 8' Floating Jump Shot,Missed Shot,Floating Jump shot,-77,7,8,1,2.0,0.0,v
+S2324-G1178,4,03:15,MIN,,ATL,,B. Fernando,ATL,Fernando S.FOUL (P5.T2) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,v
+S2324-G1178,4,02:43,MIN,,ATL,,B. Fernando,ATL,Fernando Out of Bounds - Bad Pass Turnover Turnover (P2.T14),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G1178,4,01:08,MIN,,ATL,,B. Fernando,ATL,MISS Fernando 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,9,60,6,1,2.0,0.0,v
+S2324-G1178,4,00:21.800000,MIN,105.0,ATL,104.0,B. Fernando,ATL,Fernando 2' Running Dunk (14 PTS) (Krejci 2 AST),Made Shot,Running Dunk Shot,-4,16,2,1,2.0,2.0,v
+S2324-G0913,1,03:12,MEM,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0913,1,01:51,MEM,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0913,2,10:27,MEM,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0913,2,09:44,MEM,34.0,ATL,21.0,B. Fernando,ATL,Fernando Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0913,2,09:44,MEM,,ATL,,B. Fernando,ATL,MISS Fernando Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0913,2,08:03,MEM,,ATL,,B. Fernando,ATL,Fernando S.FOUL (P1.T2) (D.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2324-G0913,2,06:32,MEM,,ATL,,B. Fernando,ATL,Fernando 3 Second Violation Turnover (P1.T7),Turnover,3 Second Violation,0,0,0,0,,,v
+S2324-G0913,2,06:13,MEM,,ATL,,B. Fernando,ATL,SUB: Capela FOR Fernando,Substitution,,0,0,0,0,,,v
+S2324-G0913,3,04:16,MEM,,ATL,,B. Fernando,ATL,Fernando S.FOUL (P2.T4) (D.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2324-G0913,3,01:54,MEM,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0913,3,01:12,MEM,,ATL,,B. Fernando,ATL,Fernando P.FOUL (P3.PN) (M.Smith),Foul,Personal,0,0,0,0,,,v
+S2324-G0913,4,11:17,MEM,,ATL,,B. Fernando,ATL,Fernando STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0913,4,10:02,MEM,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0913,4,09:41,MEM,,ATL,,B. Fernando,ATL,MISS Fernando 7' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,11,66,7,1,2.0,0.0,v
+S2324-G0913,4,09:21,MEM,,ATL,,B. Fernando,ATL,Fernando STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0913,4,07:35,MEM,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0913,4,07:08,MEM,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0913,4,06:20,MEM,,ATL,,B. Fernando,ATL,SUB: Capela FOR Fernando,Substitution,,0,0,0,0,,,v
+S2324-G0953,1,02:06,POR,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0953,1,01:52,POR,17.0,ATL,20.0,B. Fernando,ATL,Fernando 9' Hook Shot (2 PTS) (Forrest 1 AST),Made Shot,Hook Shot,66,68,9,1,2.0,2.0,v
+S2324-G0953,1,01:21,POR,17.0,ATL,22.0,B. Fernando,ATL,Fernando 3' Cutting Dunk Shot (4 PTS) (Forrest 2 AST),Made Shot,Cutting Dunk Shot,20,15,3,1,2.0,2.0,v
+S2324-G0953,1,00:20.500000,POR,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0953,2,11:22,POR,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0953,2,11:07,POR,,ATL,,B. Fernando,ATL,Fernando BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0953,2,10:48,POR,17.0,ATL,26.0,B. Fernando,ATL,Fernando 5' Turnaround Hook Shot (6 PTS) (Bogdanovic 2 AST),Made Shot,Turnaround Hook Shot,-28,38,5,1,2.0,2.0,v
+S2324-G0953,2,09:56,POR,,ATL,,B. Fernando,ATL,Fernando STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0953,2,09:41,POR,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0953,2,09:23,POR,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0953,2,06:54,POR,,ATL,,B. Fernando,ATL,MISS Fernando 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,16,19,2,1,2.0,0.0,v
+S2324-G0953,2,06:28,POR,,ATL,,B. Fernando,ATL,Fernando OFF.Foul (P1) (S.Mehta),Foul,Offensive,0,0,0,0,,,v
+S2324-G0953,2,06:28,POR,,ATL,,B. Fernando,ATL,Fernando Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0953,2,06:16,POR,,ATL,,B. Fernando,ATL,SUB: Krejci FOR Fernando,Substitution,,0,0,0,0,,,v
+S2324-G0953,3,05:39,POR,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0953,3,05:34,POR,,ATL,,B. Fernando,ATL,Fernando OFF.Foul (P2) (S.Mehta),Foul,Offensive,0,0,0,0,,,v
+S2324-G0953,3,05:34,POR,,ATL,,B. Fernando,ATL,Fernando Offensive Foul Turnover (P2.T12),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0953,4,11:06,POR,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0953,4,07:48,POR,,ATL,,B. Fernando,ATL,MISS Fernando 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,54,36,6,1,2.0,0.0,v
+S2324-G0953,4,07:13,POR,,ATL,,B. Fernando,ATL,SUB: Capela FOR Fernando,Substitution,,0,0,0,0,,,v
+S2324-G0953,4,00:22.900000,POR,,ATL,,B. Fernando,ATL,SUB: Bogdanovic FOR Fernando,Substitution,,0,0,0,0,,,v
+S2324-G0953,4,00:03.800000,POR,,ATL,,B. Fernando,ATL,SUB: Bogdanovic FOR Fernando,Substitution,,0,0,0,0,,,v
+S2324-G0729,1,01:06,BOS,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0729,1,00:56.400000,BOS,29.0,ATL,32.0,B. Fernando,ATL,Fernando 4' Cutting Layup Shot (2 PTS) (Young 2 AST),Made Shot,Cutting Layup Shot,15,34,4,1,2.0,2.0,v
+S2324-G0729,1,00:29.400000,BOS,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0729,1,00:06.100000,BOS,32.0,ATL,37.0,B. Fernando,ATL,Fernando 2' Alley Oop Dunk (4 PTS) (Johnson 2 AST),Made Shot,Alley Oop Dunk Shot,18,6,2,1,2.0,2.0,v
+S2324-G0729,2,11:41,BOS,,ATL,,B. Fernando,ATL,Fernando Violation:Defensive Goaltending (C.Kirkland),Violation,Defensive Goaltending,0,0,0,0,,,v
+S2324-G0729,2,10:42,BOS,,ATL,,B. Fernando,ATL,MISS Fernando 8' Floating Jump Shot,Missed Shot,Floating Jump shot,36,66,8,1,2.0,0.0,v
+S2324-G0729,2,10:40,BOS,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0729,2,08:41,BOS,46.0,ATL,47.0,B. Fernando,ATL,Fernando Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0729,2,08:41,BOS,46.0,ATL,48.0,B. Fernando,ATL,Fernando Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0729,2,08:04,BOS,,ATL,,B. Fernando,ATL,MISS Fernando 7' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,47,58,7,1,2.0,0.0,v
+S2324-G0729,2,07:38,BOS,,ATL,,B. Fernando,ATL,SUB: Okongwu FOR Fernando,Substitution,,0,0,0,0,,,v
+S2324-G0729,4,11:02,BOS,,ATL,,B. Fernando,ATL,Fernando OFF.Foul (P1) (D.Collins),Foul,Offensive,0,0,0,0,,,v
+S2324-G0729,4,11:02,BOS,,ATL,,B. Fernando,ATL,Fernando Offensive Foul Turnover (P1.T8),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0729,4,09:52,BOS,,ATL,,B. Fernando,ATL,MISS Fernando Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0729,4,09:52,BOS,101.0,ATL,94.0,B. Fernando,ATL,Fernando Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0729,4,09:36,BOS,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0729,4,08:45,BOS,104.0,ATL,97.0,B. Fernando,ATL,Fernando Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0729,4,08:45,BOS,104.0,ATL,98.0,B. Fernando,ATL,Fernando Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0729,4,08:01,BOS,,ATL,,B. Fernando,ATL,SUB: Okongwu FOR Fernando,Substitution,,0,0,0,0,,,v
+S2324-G1010,2,09:34,PHX,,ATL,,B. Fernando,ATL,MISS Fernando 5' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,16,43,5,1,2.0,0.0,v
+S2324-G1010,2,08:49,PHX,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1010,2,08:40,PHX,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1010,2,08:39,PHX,37.0,ATL,39.0,B. Fernando,ATL,Fernando Putback Dunk (2 PTS),Made Shot,Putback Dunk Shot,1,-2,0,1,2.0,2.0,v
+S2324-G1010,2,06:06,PHX,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1010,2,06:06,PHX,47.0,ATL,42.0,B. Fernando,ATL,Fernando Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1010,2,06:06,PHX,47.0,ATL,43.0,B. Fernando,ATL,Fernando Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1010,2,05:45,PHX,,ATL,,B. Fernando,ATL,SUB: Capela FOR Fernando,Substitution,,0,0,0,0,,,v
+S2324-G0990,2,08:42,LAL,,ATL,,B. Fernando,ATL,Fernando BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0990,2,07:54,LAL,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0990,2,06:57,LAL,,ATL,,B. Fernando,ATL,Fernando S.FOUL (P1.T2) (E.Malloy),Foul,Shooting,0,0,0,0,,,v
+S2324-G0990,2,06:33,LAL,,ATL,,B. Fernando,ATL,Fernando Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0990,2,06:33,LAL,,ATL,,B. Fernando,ATL,SUB: Krejci FOR Fernando,Substitution,,0,0,0,0,,,v
+S2324-G0990,4,05:46,LAL,,ATL,,B. Fernando,ATL,MISS Fernando 8' Jump Shot,Missed Shot,Jump Shot,10,79,8,1,2.0,0.0,v
+S2324-G0990,4,04:25,LAL,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0990,4,04:24,LAL,,ATL,,B. Fernando,ATL,MISS Fernando Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0990,4,04:24,LAL,128.0,ATL,95.0,B. Fernando,ATL,Fernando Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0990,4,04:10,LAL,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0990,4,03:58,LAL,,ATL,,B. Fernando,ATL,MISS Fernando 6' Hook Shot,Missed Shot,Hook Shot,7,64,6,1,2.0,0.0,v
+S2324-G0990,4,03:57,LAL,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0990,4,03:57,LAL,128.0,ATL,96.0,B. Fernando,ATL,Fernando Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0990,4,03:57,LAL,128.0,ATL,97.0,B. Fernando,ATL,Fernando Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0990,4,02:03,LAL,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0990,4,01:12,LAL,134.0,ATL,105.0,B. Fernando,ATL,Fernando 3' Driving Reverse Layup (5 PTS) (Matthews 3 AST),Made Shot,Driving Reverse Layup Shot,13,31,3,1,2.0,2.0,v
+S2324-G0990,4,00:57.400000,LAL,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1051,1,03:37,ATL,,POR,,B. Fernando,ATL,Fernando STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1051,1,02:53,ATL,,POR,,B. Fernando,ATL,Fernando REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1051,2,11:48,ATL,,POR,,B. Fernando,ATL,Fernando STEAL (2 STL),,,0,0,0,0,,,h
+S2324-G1051,2,11:48,ATL,,POR,,B. Fernando,ATL,Jump Ball Fernando vs. Hagans: Tip to Mathews,Jump Ball,,0,0,0,0,,,h
+S2324-G1051,2,11:15,ATL,,POR,,B. Fernando,ATL,Fernando REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1051,2,11:05,ATL,,POR,,B. Fernando,ATL,MISS Fernando 4' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-6,43,4,1,2.0,0.0,h
+S2324-G1051,2,11:03,ATL,,POR,,B. Fernando,ATL,Fernando REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1051,2,11:03,ATL,,POR,,B. Fernando,ATL,MISS Fernando Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G1051,2,11:03,ATL,29.0,POR,29.0,B. Fernando,ATL,Fernando Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1051,2,10:36,ATL,,POR,,B. Fernando,ATL,Fernando S.FOUL (P1.T1) (C.Blair),Foul,Shooting,0,0,0,0,,,h
+S2324-G1051,2,10:21,ATL,,POR,,B. Fernando,ATL,Fernando Lost Ball Turnover (P1.T7),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G1051,2,10:15,ATL,,POR,,B. Fernando,ATL,Fernando BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G1051,2,10:11,ATL,,POR,,B. Fernando,ATL,Fernando REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1051,2,09:15,ATL,37.0,POR,33.0,B. Fernando,ATL,Fernando 1' Dunk (3 PTS) (Forrest 2 AST),Made Shot,Dunk Shot,-4,4,1,1,2.0,2.0,h
+S2324-G1051,2,09:15,ATL,38.0,POR,33.0,B. Fernando,ATL,Fernando Free Throw 1 of 1 (4 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G1051,2,08:14,ATL,,POR,,B. Fernando,ATL,Fernando L.B.FOUL (P2.T2) (R.Hussey),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G1051,2,07:08,ATL,,POR,,B. Fernando,ATL,Fernando Bad Pass Turnover (P2.T8),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G1051,2,07:01,ATL,,POR,,B. Fernando,ATL,SUB: Capela FOR Fernando,Substitution,,0,0,0,0,,,h
+S2324-G1051,3,05:41,ATL,,POR,,B. Fernando,ATL,Fernando OFF.Foul (P3) (R.Hussey),Foul,Offensive,0,0,0,0,,,h
+S2324-G1051,3,05:41,ATL,,POR,,B. Fernando,ATL,Fernando Offensive Foul Turnover (P3.T15),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G1051,3,05:01,ATL,,POR,,B. Fernando,ATL,Fernando Violation:Defensive Goaltending (S.Twardoski),Violation,Defensive Goaltending,0,0,0,0,,,h
+S2324-G1051,3,04:04,ATL,90.0,POR,76.0,B. Fernando,ATL,Fernando 1' Driving Layup (6 PTS) (Murray 6 AST),Made Shot,Driving Layup Shot,2,11,1,1,2.0,2.0,h
+S2324-G1051,3,04:04,ATL,91.0,POR,76.0,B. Fernando,ATL,Fernando Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G1051,3,03:08,ATL,,POR,,B. Fernando,ATL,Fernando BLOCK (2 BLK),,,0,0,0,0,,,h
+S2324-G1051,3,01:44,ATL,,POR,,B. Fernando,ATL,MISS Fernando 3' Driving Layup,Missed Shot,Driving Layup Shot,-17,19,3,1,2.0,0.0,h
+S2324-G1051,3,00:55.700000,ATL,,POR,,B. Fernando,ATL,Fernando REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1051,3,00:36,ATL,,POR,,B. Fernando,ATL,Fernando REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1051,4,11:19,ATL,,POR,,B. Fernando,ATL,Fernando REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1051,4,10:39,ATL,,POR,,B. Fernando,ATL,Fernando REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1051,4,10:14,ATL,,POR,,B. Fernando,ATL,Fernando OFF.Foul (P4) (S.Twardoski),Foul,Offensive,0,0,0,0,,,h
+S2324-G1051,4,10:14,ATL,,POR,,B. Fernando,ATL,Fernando Offensive Foul Turnover (P4.T16),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G1051,4,08:32,ATL,,POR,,B. Fernando,ATL,Fernando REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1051,4,08:16,ATL,,POR,,B. Fernando,ATL,Fernando OFF.Foul (P5) (R.Hussey),Foul,Offensive,0,0,0,0,,,h
+S2324-G1051,4,08:16,ATL,,POR,,B. Fernando,ATL,Fernando Offensive Foul Turnover (P5.T17),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G1051,4,07:26,ATL,,POR,,B. Fernando,ATL,SUB: Capela FOR Fernando,Substitution,,0,0,0,0,,,h
+S2324-G1159,1,03:54,ATL,,CHA,,B. Fernando,ATL,Fernando S.FOUL (P1.T2) (J.Schroeder),Foul,Shooting,0,0,0,0,,,h
+S2324-G1159,1,02:12,ATL,,CHA,,B. Fernando,ATL,MISS Fernando 4' Driving Layup,Missed Shot,Driving Layup Shot,17,31,4,1,2.0,0.0,h
+S2324-G1159,1,00:48.900000,ATL,,CHA,,B. Fernando,ATL,Fernando REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1159,2,09:28,ATL,,CHA,,B. Fernando,ATL,Fernando REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1159,2,05:18,ATL,,CHA,,B. Fernando,ATL,SUB: Capela FOR Fernando,Substitution,,0,0,0,0,,,h
+S2324-G1159,3,02:04,ATL,91.0,CHA,73.0,B. Fernando,ATL,Fernando 8' Turnaround Hook Shot (2 PTS) (Gueye 2 AST),Made Shot,Turnaround Hook Shot,69,36,8,1,2.0,2.0,h
+S2324-G1159,3,01:25,ATL,92.0,CHA,75.0,B. Fernando,ATL,Fernando Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1159,3,01:25,ATL,,CHA,,B. Fernando,ATL,MISS Fernando Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G1159,3,00:45.200000,ATL,,CHA,,B. Fernando,ATL,Fernando REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1159,3,00:23.900000,ATL,,CHA,,B. Fernando,ATL,Fernando S.FOUL (P2.T3) (M.Smith),Foul,Shooting,0,0,0,0,,,h
+S2324-G1159,4,10:20,ATL,,CHA,,B. Fernando,ATL,Fernando Offensive Charge Foul (P3) (M.Smith),Foul,Offensive Charge,0,0,0,0,,,h
+S2324-G1159,4,10:20,ATL,,CHA,,B. Fernando,ATL,Fernando Offensive Foul Turnover (P1.T12),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G1159,4,09:31,ATL,,CHA,,B. Fernando,ATL,Fernando REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1159,4,08:36,ATL,,CHA,,B. Fernando,ATL,Fernando Bad Pass Turnover (P2.T14),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G1159,4,08:29,ATL,,CHA,,B. Fernando,ATL,SUB: Bufkin FOR Fernando,Substitution,,0,0,0,0,,,h
+S2324-G1159,4,06:00,ATL,,CHA,,B. Fernando,ATL,Fernando REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1159,4,04:24,ATL,,CHA,,B. Fernando,ATL,MISS Fernando Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G1159,4,04:24,ATL,107.0,CHA,103.0,B. Fernando,ATL,Fernando Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1159,4,04:08,ATL,,CHA,,B. Fernando,ATL,Fernando REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1159,4,03:10,ATL,,CHA,,B. Fernando,ATL,Fernando S.FOUL (P4.PN) (M.Smith),Foul,Shooting,0,0,0,0,,,h
+S2324-G1159,4,02:20,ATL,,CHA,,B. Fernando,ATL,MISS Fernando Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G1159,4,02:20,ATL,108.0,CHA,109.0,B. Fernando,ATL,Fernando Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1159,4,00:29.800000,ATL,,CHA,,B. Fernando,ATL,Fernando S.FOUL (P5.PN) (J.Schroeder),Foul,Shooting,0,0,0,0,,,h
+S2324-G1159,4,00:09.600000,ATL,,CHA,,B. Fernando,ATL,MISS Fernando 3' Layup,Missed Shot,Layup Shot,-11,32,3,1,2.0,0.0,h
+S2324-G0866,1,05:08,BKN,,ATL,,B. Fernando,ATL,Fernando Violation:Kicked Ball (T.Brothers),Violation,Kicked Ball,0,0,0,0,,,v
+S2324-G0866,1,02:20,BKN,15.0,ATL,26.0,B. Fernando,ATL,Fernando 2' Turnaround Hook Shot (2 PTS) (Murray 5 AST),Made Shot,Turnaround Hook Shot,-22,-2,2,1,2.0,2.0,v
+S2324-G0866,1,01:47,BKN,15.0,ATL,28.0,B. Fernando,ATL,Fernando 1' Cutting Dunk Shot (4 PTS) (Murray 6 AST),Made Shot,Cutting Dunk Shot,10,0,1,1,2.0,2.0,v
+S2324-G0866,1,01:06,BKN,,ATL,,B. Fernando,ATL,Fernando S.FOUL (P1.T3) (T.Brothers),Foul,Shooting,0,0,0,0,,,v
+S2324-G0866,1,00:08.900000,BKN,,ATL,,B. Fernando,ATL,Fernando S.FOUL (P2.PN) (K.Lane),Foul,Shooting,0,0,0,0,,,v
+S2324-G0866,2,09:36,BKN,,ATL,,B. Fernando,ATL,SUB: Capela FOR Fernando,Substitution,,0,0,0,0,,,v
+S2324-G0866,3,03:47,BKN,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0866,3,03:42,BKN,83.0,ATL,75.0,B. Fernando,ATL,Fernando 3' Layup (6 PTS),Made Shot,Layup Shot,-16,25,3,1,2.0,2.0,v
+S2324-G0866,3,02:29,BKN,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0866,3,02:05,BKN,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0866,3,01:57,BKN,,ATL,,B. Fernando,ATL,MISS Fernando 4' Driving Layup,Missed Shot,Driving Layup Shot,-38,17,4,1,2.0,0.0,v
+S2324-G0866,3,01:43,BKN,,ATL,,B. Fernando,ATL,Fernando S.FOUL (P3.PN) (N.Green),Foul,Shooting,0,0,0,0,,,v
+S2324-G0866,3,01:20,BKN,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0866,3,01:20,BKN,86.0,ATL,77.0,B. Fernando,ATL,Fernando Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0866,3,01:20,BKN,86.0,ATL,78.0,B. Fernando,ATL,Fernando Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0866,3,00:48.200000,BKN,,ATL,,B. Fernando,ATL,Fernando BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0866,4,10:45,BKN,,ATL,,B. Fernando,ATL,Fernando P.FOUL (P4.T1) (T.Brothers),Foul,Personal,0,0,0,0,,,v
+S2324-G0866,4,10:31,BKN,,ATL,,B. Fernando,ATL,Fernando BLOCK (2 BLK),,,0,0,0,0,,,v
+S2324-G0866,4,09:11,BKN,,ATL,,B. Fernando,ATL,SUB: Bey FOR Fernando,Substitution,,0,0,0,0,,,v
+S2324-G0866,4,01:28,BKN,,ATL,,B. Fernando,ATL,Fernando BLOCK (3 BLK),,,0,0,0,0,,,v
+S2324-G0866,4,00:41.100000,BKN,114.0,ATL,102.0,B. Fernando,ATL,Fernando 1' Driving Layup (10 PTS) (Forrest 1 AST),Made Shot,Driving Layup Shot,2,11,1,1,2.0,2.0,v
+S2324-G0889,1,05:21,NYK,,ATL,,B. Fernando,ATL,Fernando Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0889,1,03:32,NYK,,ATL,,B. Fernando,ATL,Fernando Out of Bounds Lost Ball Turnover (P2.T4),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2324-G0889,1,02:51,NYK,,ATL,,B. Fernando,ATL,Fernando Lost Ball Turnover (P3.T5),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0889,1,02:07,NYK,15.0,ATL,26.0,B. Fernando,ATL,Fernando Cutting Dunk Shot (2 PTS) (Bogdanovic 2 AST),Made Shot,Cutting Dunk Shot,0,4,0,1,2.0,2.0,v
+S2324-G0889,1,00:07.100000,NYK,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0889,2,11:46,NYK,,ATL,,B. Fernando,ATL,Fernando BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0889,2,09:46,NYK,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0889,2,09:33,NYK,,ATL,,B. Fernando,ATL,MISS Fernando 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-16,1,2,1,2.0,0.0,v
+S2324-G0889,2,09:31,NYK,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0889,2,08:31,NYK,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0889,2,08:20,NYK,,ATL,,B. Fernando,ATL,MISS Fernando 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,2,20,2,1,2.0,0.0,v
+S2324-G0889,2,06:39,NYK,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0889,2,06:27,NYK,,ATL,,B. Fernando,ATL,SUB: Johnson FOR Fernando,Substitution,,0,0,0,0,,,v
+S2324-G0889,3,04:22,NYK,,ATL,,B. Fernando,ATL,Fernando OFF.Foul (P1) (N.Sago),Foul,Offensive,0,0,0,0,,,v
+S2324-G0889,3,04:22,NYK,,ATL,,B. Fernando,ATL,Fernando Offensive Foul Turnover (P4.T10),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0889,3,04:03,NYK,,ATL,,B. Fernando,ATL,Fernando OFF.Foul (P2) (N.Sago),Foul,Offensive,0,0,0,0,,,v
+S2324-G0889,3,04:03,NYK,,ATL,,B. Fernando,ATL,Fernando Offensive Foul Turnover (P5.T11),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0889,3,03:42,NYK,,ATL,,B. Fernando,ATL,Fernando Bad Pass Turnover (P6.T12),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0889,3,03:40,NYK,,ATL,,B. Fernando,ATL,Fernando S.FOUL (P3.T3) (N.Sago),Foul,Shooting,0,0,0,0,,,v
+S2324-G0889,4,11:42,NYK,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0889,4,10:08,NYK,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0889,4,09:20,NYK,84.0,ATL,90.0,B. Fernando,ATL,Fernando 1' Layup (4 PTS) (Forrest 4 AST),Made Shot,Layup Shot,-7,2,1,1,2.0,2.0,v
+S2324-G0889,4,08:10,NYK,,ATL,,B. Fernando,ATL,Fernando OFF.Foul (P4) (D.Guthrie),Foul,Offensive,0,0,0,0,,,v
+S2324-G0889,4,08:10,NYK,,ATL,,B. Fernando,ATL,Fernando Offensive Foul Turnover (P7.T14),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0889,4,07:49,NYK,,ATL,,B. Fernando,ATL,Fernando BLOCK (2 BLK),,,0,0,0,0,,,v
+S2324-G0889,4,06:07,NYK,,ATL,,B. Fernando,ATL,SUB: Capela FOR Fernando,Substitution,,0,0,0,0,,,v
+S2324-G0763,1,02:48,ATL,,CHI,,B. Fernando,ATL,Fernando S.FOUL (P1.T1) (B.Barnaky),Foul,Shooting,0,0,0,0,,,h
+S2324-G0763,1,01:45,ATL,,CHI,,B. Fernando,ATL,MISS Fernando 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,22,22,3,1,2.0,0.0,h
+S2324-G0763,1,01:20,ATL,,CHI,,B. Fernando,ATL,MISS Fernando 1' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,2,6,1,1,2.0,0.0,h
+S2324-G0763,1,00:27.500000,ATL,,CHI,,B. Fernando,ATL,Fernando REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0763,1,00:27.300000,ATL,33.0,CHI,25.0,B. Fernando,ATL,Fernando Putback Layup (2 PTS),Made Shot,Putback Layup Shot,4,0,0,1,2.0,2.0,h
+S2324-G0763,1,00:08.200000,ATL,,CHI,,B. Fernando,ATL,Fernando S.FOUL (P2.T2) (S.Wright),Foul,Shooting,0,0,0,0,,,h
+S2324-G0763,2,10:17,ATL,,CHI,,B. Fernando,ATL,Fernando REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0763,2,09:33,ATL,,CHI,,B. Fernando,ATL,Fernando REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0763,2,09:33,ATL,,CHI,,B. Fernando,ATL,MISS Fernando 7' Tip Layup Shot,Missed Shot,Tip Layup Shot,9,66,7,1,2.0,0.0,h
+S2324-G0763,2,09:00,ATL,,CHI,,B. Fernando,ATL,SUB: Okongwu FOR Fernando,Substitution,,0,0,0,0,,,h
+S2324-G0763,3,01:08,ATL,,CHI,,B. Fernando,ATL,Fernando REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0763,3,00:18.500000,ATL,,CHI,,B. Fernando,ATL,Fernando S.FOUL (P3.PN) (B.Barnaky),Foul,Shooting,0,0,0,0,,,h
+S2324-G0763,4,10:51,ATL,,CHI,,B. Fernando,ATL,Fernando REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0763,4,10:18,ATL,,CHI,,B. Fernando,ATL,Fernando REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0763,4,10:17,ATL,98.0,CHI,102.0,B. Fernando,ATL,Fernando Putback Dunk (4 PTS),Made Shot,Putback Dunk Shot,-2,4,0,1,2.0,2.0,h
+S2324-G0763,4,09:41,ATL,,CHI,,B. Fernando,ATL,Fernando REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0763,4,07:54,ATL,,CHI,,B. Fernando,ATL,SUB: Murray FOR Fernando,Substitution,,0,0,0,0,,,h
+S2324-G1060,1,04:13,ATL,,BOS,,B. Fernando,ATL,HAWKS T.Foul (Def. 3 Sec Fernando ) (E.Malloy),Foul,Defense 3 Second,0,0,0,0,,,h
+S2324-G1060,1,03:24,ATL,17.0,BOS,23.0,B. Fernando,ATL,Fernando 1' Layup (2 PTS) (Murray 4 AST),Made Shot,Layup Shot,-7,13,1,1,2.0,2.0,h
+S2324-G1060,1,03:24,ATL,,BOS,,B. Fernando,ATL,MISS Fernando Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2324-G1060,1,03:04,ATL,,BOS,,B. Fernando,ATL,Fernando REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1060,2,11:19,ATL,,BOS,,B. Fernando,ATL,Fernando BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G1060,2,10:59,ATL,32.0,BOS,29.0,B. Fernando,ATL,Fernando 4' Layup (4 PTS) (Forrest 1 AST),Made Shot,Layup Shot,22,29,4,1,2.0,2.0,h
+S2324-G1060,2,10:44,ATL,,BOS,,B. Fernando,ATL,Fernando S.FOUL (P1.T1) (D.Mosher),Foul,Shooting,0,0,0,0,,,h
+S2324-G1060,2,07:51,ATL,,BOS,,B. Fernando,ATL,Fernando STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1060,2,07:12,ATL,,BOS,,B. Fernando,ATL,SUB: Capela FOR Fernando,Substitution,,0,0,0,0,,,h
+S2324-G1060,3,02:41,ATL,,BOS,,B. Fernando,ATL,Fernando S.FOUL (P2.PN) (E.Malloy),Foul,Shooting,0,0,0,0,,,h
+S2324-G1060,3,02:18,ATL,,BOS,,B. Fernando,ATL,Fernando REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1060,4,11:01,ATL,,BOS,,B. Fernando,ATL,Fernando REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1060,4,09:20,ATL,,BOS,,B. Fernando,ATL,Fernando REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1060,4,08:31,ATL,,BOS,,B. Fernando,ATL,Fernando S.FOUL (P3.T2) (E.Malloy),Foul,Shooting,0,0,0,0,,,h
+S2324-G1060,4,08:16,ATL,97.0,BOS,96.0,B. Fernando,ATL,Fernando 3' Driving Layup (6 PTS) (Bogdanovic 5 AST),Made Shot,Driving Layup Shot,22,24,3,1,2.0,2.0,h
+S2324-G1060,4,06:42,ATL,,BOS,,B. Fernando,ATL,SUB: Capela FOR Fernando,Substitution,,0,0,0,0,,,h
+S2324-G1076,1,04:03,ATL,,MIL,,B. Fernando,ATL,Fernando OFF.Foul (P1) (J.Goldenberg),Foul,Offensive,0,0,0,0,,,h
+S2324-G1076,1,04:03,ATL,,MIL,,B. Fernando,ATL,Fernando Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G1076,1,02:19,ATL,,MIL,,B. Fernando,ATL,MISS Fernando 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-6,12,1,1,2.0,0.0,h
+S2324-G1076,1,00:43.200000,ATL,,MIL,,B. Fernando,ATL,MISS Fernando 7' Hook Shot,Missed Shot,Hook Shot,0,71,7,1,2.0,0.0,h
+S2324-G1076,1,00:00.200000,ATL,,MIL,,B. Fernando,ATL,Fernando REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1076,2,11:30,ATL,,MIL,,B. Fernando,ATL,Fernando S.FOUL (P2.T1) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,h
+S2324-G1076,2,09:12,ATL,,MIL,,B. Fernando,ATL,Fernando REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1076,2,06:36,ATL,,MIL,,B. Fernando,ATL,SUB: Krejci FOR Fernando,Substitution,,0,0,0,0,,,h
+S2324-G1076,3,03:23,ATL,,MIL,,B. Fernando,ATL,Fernando BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G1076,3,01:52,ATL,69.0,MIL,84.0,B. Fernando,ATL,Fernando 6' Floating Jump Shot (2 PTS) (Bogdanovic 2 AST),Made Shot,Floating Jump shot,18,52,6,1,2.0,2.0,h
+S2324-G1076,3,00:15.200000,ATL,,MIL,,B. Fernando,ATL,Fernando S.FOUL (P3.PN) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,h
+S2324-G1076,4,11:41,ATL,,MIL,,B. Fernando,ATL,Fernando REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1076,4,10:06,ATL,,MIL,,B. Fernando,ATL,MISS Fernando 4' Driving Layup,Missed Shot,Driving Layup Shot,-7,44,4,1,2.0,0.0,h
+S2324-G1076,4,09:53,ATL,79.0,MIL,91.0,B. Fernando,ATL,Fernando 3' Layup (4 PTS) (Bogdanovic 3 AST),Made Shot,Layup Shot,-25,20,3,1,2.0,2.0,h
+S2324-G1076,4,09:19,ATL,,MIL,,B. Fernando,ATL,Fernando REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1076,4,09:19,ATL,81.0,MIL,92.0,B. Fernando,ATL,Fernando 1' Putback Layup (6 PTS),Made Shot,Putback Layup Shot,6,6,1,1,2.0,2.0,h
+S2324-G1076,4,09:19,ATL,,MIL,,B. Fernando,ATL,"Double Technical - Fernando, Beverley (Z.Zarba)",Foul,Double Technical,0,0,0,0,,,
+S2324-G1076,4,09:19,ATL,82.0,MIL,92.0,B. Fernando,ATL,Fernando Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G1076,4,08:50,ATL,,MIL,,B. Fernando,ATL,MISS Fernando Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G1076,4,08:50,ATL,83.0,MIL,94.0,B. Fernando,ATL,Fernando Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1076,4,08:44,ATL,,MIL,,B. Fernando,ATL,Fernando P.FOUL (P4.T3) (J.Goldenberg),Foul,Personal,0,0,0,0,,,h
+S2324-G1076,4,06:37,ATL,91.0,MIL,100.0,B. Fernando,ATL,Fernando 11' Pullup Jump Shot (10 PTS) (Murray 11 AST),Made Shot,Pullup Jump shot,-33,106,11,1,2.0,2.0,h
+S2324-G1076,4,06:21,ATL,,MIL,,B. Fernando,ATL,SUB: Capela FOR Fernando,Substitution,,0,0,0,0,,,h
+S2324-G1021,1,05:36,ATL,,CHA,,B. Fernando,ATL,Fernando REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1021,1,04:51,ATL,17.0,CHA,18.0,B. Fernando,ATL,Fernando 1' Layup (2 PTS) (Murray 3 AST),Made Shot,Layup Shot,-6,5,1,1,2.0,2.0,h
+S2324-G1021,1,03:49,ATL,,CHA,,B. Fernando,ATL,Fernando S.FOUL (P1.T2) (D.Guthrie),Foul,Shooting,0,0,0,0,,,h
+S2324-G1021,1,01:22,ATL,24.0,CHA,26.0,B. Fernando,ATL,Fernando 7' Driving Layup (4 PTS) (Mathews 1 AST),Made Shot,Driving Layup Shot,-43,55,7,1,2.0,2.0,h
+S2324-G1021,1,00:52.900000,ATL,26.0,CHA,26.0,B. Fernando,ATL,Fernando 3' Layup (6 PTS) (Bogdanovic 1 AST),Made Shot,Layup Shot,13,24,3,1,2.0,2.0,h
+S2324-G1021,2,10:28,ATL,35.0,CHA,31.0,B. Fernando,ATL,Fernando 1' Layup (8 PTS) (Forrest 2 AST),Made Shot,Layup Shot,-1,13,1,1,2.0,2.0,h
+S2324-G1021,2,10:16,ATL,,CHA,,B. Fernando,ATL,Fernando P.FOUL (P2.T1) (J.Conley),Foul,Personal,0,0,0,0,,,h
+S2324-G1021,2,09:21,ATL,37.0,CHA,33.0,B. Fernando,ATL,Fernando 1' Driving Layup (10 PTS) (Forrest 3 AST),Made Shot,Driving Layup Shot,-6,13,1,1,2.0,2.0,h
+S2324-G1021,2,09:21,ATL,38.0,CHA,33.0,B. Fernando,ATL,Fernando Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2324-G1021,2,08:39,ATL,,CHA,,B. Fernando,ATL,Fernando BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G1021,2,08:03,ATL,,CHA,,B. Fernando,ATL,Fernando REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1021,2,07:30,ATL,,CHA,,B. Fernando,ATL,Fernando REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1021,2,07:03,ATL,,CHA,,B. Fernando,ATL,Fernando REBOUND (Off:4 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1021,2,07:03,ATL,43.0,CHA,39.0,B. Fernando,ATL,Fernando Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1021,2,07:03,ATL,44.0,CHA,39.0,B. Fernando,ATL,Fernando Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1021,2,06:35,ATL,,CHA,,B. Fernando,ATL,SUB: Capela FOR Fernando,Substitution,,0,0,0,0,,,h
+S2324-G1021,3,05:23,ATL,,CHA,,B. Fernando,ATL,Fernando S.FOUL (P3.T4) (B.Nansel),Foul,Shooting,0,0,0,0,,,h
+S2324-G1021,3,05:05,ATL,84.0,CHA,64.0,B. Fernando,ATL,Fernando 2' Driving Layup (15 PTS) (Murray 10 AST),Made Shot,Driving Layup Shot,-9,15,2,1,2.0,2.0,h
+S2324-G1021,3,04:12,ATL,,CHA,,B. Fernando,ATL,Fernando STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G1021,3,02:34,ATL,,CHA,,B. Fernando,ATL,MISS Fernando 10' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,82,59,10,1,2.0,0.0,h
+S2324-G1021,3,01:32,ATL,,CHA,,B. Fernando,ATL,Fernando S.FOUL (P4.PN) (J.Conley),Foul,Shooting,0,0,0,0,,,h
+S2324-G1021,3,01:14,ATL,97.0,CHA,72.0,B. Fernando,ATL,Fernando 1' Alley Oop Dunk (17 PTS) (Forrest 5 AST),Made Shot,Alley Oop Dunk Shot,-2,7,1,1,2.0,2.0,h
+S2324-G1021,4,11:45,ATL,101.0,CHA,74.0,B. Fernando,ATL,Fernando 1' Cutting Dunk Shot (19 PTS) (Bogdanovic 6 AST),Made Shot,Cutting Dunk Shot,1,13,1,1,2.0,2.0,h
+S2324-G1021,4,09:10,ATL,,CHA,,B. Fernando,ATL,Fernando REBOUND (Off:4 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1021,4,09:02,ATL,106.0,CHA,77.0,B. Fernando,ATL,Fernando 10' Floating Jump Shot (21 PTS) (Forrest 7 AST),Made Shot,Floating Jump shot,-16,97,10,1,2.0,2.0,h
+S2324-G1021,4,08:27,ATL,108.0,CHA,80.0,B. Fernando,ATL,Fernando 4' Layup (23 PTS),Made Shot,Layup Shot,-1,39,4,1,2.0,2.0,h
+S2324-G1021,4,08:04,ATL,,CHA,,B. Fernando,ATL,SUB: Capela FOR Fernando,Substitution,,0,0,0,0,,,h
+S2324-G1021,4,03:35,ATL,,CHA,,B. Fernando,ATL,MISS Fernando 4' Hook Shot,Missed Shot,Hook Shot,-17,39,4,1,2.0,0.0,h
+S2324-G1021,4,03:05,ATL,125.0,CHA,88.0,B. Fernando,ATL,Fernando 2' Driving Layup (25 PTS) (Windler 2 AST),Made Shot,Driving Layup Shot,1,21,2,1,2.0,2.0,h
+S2324-G1021,4,03:05,ATL,,CHA,,B. Fernando,ATL,MISS Fernando Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2324-G1021,4,00:51.900000,ATL,,CHA,,B. Fernando,ATL,MISS Fernando 26' 3PT Jump Shot,Missed Shot,Jump Shot,186,181,26,1,3.0,0.0,h
+S2324-G1021,4,00:37.200000,ATL,,CHA,,B. Fernando,ATL,Fernando REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1124,1,06:23,DAL,,ATL,,B. Fernando,ATL,MISS Fernando Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G1124,1,06:23,DAL,10.0,ATL,12.0,B. Fernando,ATL,Fernando Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1124,1,05:45,DAL,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1124,1,03:47,DAL,,ATL,,B. Fernando,ATL,Fernando OFF.Foul (P1) (C.Kirkland),Foul,Offensive,0,0,0,0,,,v
+S2324-G1124,1,03:47,DAL,,ATL,,B. Fernando,ATL,Fernando Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G1124,1,02:40,DAL,,ATL,,B. Fernando,ATL,Fernando STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G1124,1,01:52,DAL,21.0,ATL,23.0,B. Fernando,ATL,Fernando Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1124,1,01:52,DAL,,ATL,,B. Fernando,ATL,MISS Fernando Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G1124,1,01:24,DAL,,ATL,,B. Fernando,ATL,MISS Fernando 4' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-23,36,4,1,2.0,0.0,v
+S2324-G1124,2,11:46,DAL,25.0,ATL,33.0,B. Fernando,ATL,Fernando 1' Alley Oop Dunk (4 PTS) (Hunter 1 AST),Made Shot,Alley Oop Dunk Shot,-2,10,1,1,2.0,2.0,v
+S2324-G1124,2,11:17,DAL,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1124,2,10:26,DAL,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1124,2,09:26,DAL,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1124,2,09:04,DAL,,ATL,,B. Fernando,ATL,SUB: Mathews FOR Fernando,Substitution,,0,0,0,0,,,v
+S2324-G1124,3,02:10,DAL,,ATL,,B. Fernando,ATL,MISS Fernando 3' Turnaround Bank Hook Shot,Missed Shot,Turnaround Bank Hook Shot,-22,16,3,1,2.0,0.0,v
+S2324-G1124,3,00:43.500000,DAL,93.0,ATL,78.0,B. Fernando,ATL,Fernando Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1124,3,00:43.500000,DAL,93.0,ATL,79.0,B. Fernando,ATL,Fernando Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1124,3,00:10.300000,DAL,93.0,ATL,81.0,B. Fernando,ATL,Fernando 3' Layup (8 PTS) (Krejci 3 AST),Made Shot,Layup Shot,-28,15,3,1,2.0,2.0,v
+S2324-G1124,4,10:52,DAL,93.0,ATL,86.0,B. Fernando,ATL,Fernando 5' Layup (10 PTS) (Bufkin 1 AST),Made Shot,Layup Shot,4,47,5,1,2.0,2.0,v
+S2324-G1124,4,09:48,DAL,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1124,4,08:39,DAL,,ATL,,B. Fernando,ATL,Fernando BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G1124,4,08:05,DAL,,ATL,,B. Fernando,ATL,MISS Fernando 2' Driving Layup,Missed Shot,Driving Layup Shot,-17,10,2,1,2.0,0.0,v
+S2324-G1124,4,07:03,DAL,,ATL,,B. Fernando,ATL,Fernando P.FOUL (P2.T2) (J.DeRosa),Foul,Personal,0,0,0,0,,,v
+S2324-G1124,4,06:04,DAL,,ATL,,B. Fernando,ATL,SUB: Capela FOR Fernando,Substitution,,0,0,0,0,,,v
+S2324-G0172,2,09:04,ORL,,ATL,,B. Fernando,ATL,Fernando S.FOUL (P1.T2) (P.Fraher),Foul,Shooting,0,0,0,0,,,v
+S2324-G0172,2,08:52,ORL,,ATL,,B. Fernando,ATL,SUB: Okongwu FOR Fernando,Substitution,,0,0,0,0,,,v
+S2324-G0543,4,04:36,ATL,91.0,WAS,119.0,B. Fernando,ATL,Fernando Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0543,4,04:36,ATL,92.0,WAS,119.0,B. Fernando,ATL,Fernando Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0543,4,03:53,ATL,,WAS,,B. Fernando,ATL,Fernando REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0543,4,03:22,ATL,,WAS,,B. Fernando,ATL,Fernando REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0543,4,01:48,ATL,,WAS,,B. Fernando,ATL,Fernando Lost Ball Turnover (P1.T16),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0543,4,00:18.900000,ATL,99.0,WAS,127.0,B. Fernando,ATL,Fernando 3' Driving Layup (4 PTS) (Mathews 1 AST),Made Shot,Driving Layup Shot,-22,12,3,1,2.0,2.0,h
+S2324-G0851,1,05:16,BKN,,ATL,,B. Fernando,ATL,Fernando STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0851,1,05:11,BKN,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0851,1,05:11,BKN,,ATL,,B. Fernando,ATL,MISS Fernando Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2324-G0851,1,04:02,BKN,,ATL,,B. Fernando,ATL,Fernando STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0851,1,03:19,BKN,,ATL,,B. Fernando,ATL,Fernando Lost Ball Turnover (P1.T5),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0851,1,01:31,BKN,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0851,2,09:10,BKN,,ATL,,B. Fernando,ATL,SUB: Bey FOR Fernando,Substitution,,0,0,0,0,,,v
+S2324-G0851,3,04:46,BKN,,ATL,,B. Fernando,ATL,Fernando S.FOUL (P1.T3) (E.Dalen),Foul,Shooting,0,0,0,0,,,v
+S2324-G0851,3,03:34,BKN,,ATL,,B. Fernando,ATL,Fernando P.FOUL (P2.T4) (Z.Zarba),Foul,Personal,0,0,0,0,,,v
+S2324-G0851,3,02:42,BKN,,ATL,,B. Fernando,ATL,SUB: Bey FOR Fernando,Substitution,,0,0,0,0,,,v
+S2324-G0851,4,03:34,BKN,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0851,4,03:17,BKN,,ATL,,B. Fernando,ATL,MISS Fernando 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,25,26,4,1,2.0,0.0,v
+S2324-G0851,4,00:48.400000,BKN,124.0,ATL,97.0,B. Fernando,ATL,Fernando 3' Cutting Finger Roll Layup Shot (2 PTS) (Mathews 1 AST),Made Shot,Cutting Finger Roll Layup Shot,-9,27,3,1,2.0,2.0,v
+S2324-G1104,1,05:35,ATL,,DET,,B. Fernando,ATL,Fernando REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1104,1,04:03,ATL,,DET,,B. Fernando,ATL,Fernando S.FOUL (P1.T3) (B.Forte),Foul,Shooting,0,0,0,0,,,h
+S2324-G1104,1,03:24,ATL,,DET,,B. Fernando,ATL,Fernando S.FOUL (P2.T4) (T.Washington),Foul,Shooting,0,0,0,0,,,h
+S2324-G1104,1,01:48,ATL,,DET,,B. Fernando,ATL,Fernando P.FOUL (P3.PN) (T.Washington),Foul,Personal,0,0,0,0,,,h
+S2324-G1104,1,01:48,ATL,,DET,,B. Fernando,ATL,SUB: Capela FOR Fernando,Substitution,,0,0,0,0,,,h
+S2324-G1104,2,05:45,ATL,,DET,,B. Fernando,ATL,SUB: Johnson FOR Fernando,Substitution,,0,0,0,0,,,h
+S2324-G1104,3,01:09,ATL,,DET,,B. Fernando,ATL,Fernando P.FOUL (P4.T3) (K.Scott),Foul,Personal,0,0,0,0,,,h
+S2324-G1104,4,07:10,ATL,,DET,,B. Fernando,ATL,Fernando BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G1104,4,05:44,ATL,,DET,,B. Fernando,ATL,SUB: Bogdanovic FOR Fernando,Substitution,,0,0,0,0,,,h
+S2324-G0742,1,02:47,PHI,,ATL,,B. Fernando,ATL,Fernando S.FOUL (P1.T3) (E.Malloy),Foul,Shooting,0,0,0,0,,,v
+S2324-G0742,1,02:44,PHI,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0742,1,00:59.600000,PHI,23.0,ATL,37.0,B. Fernando,ATL,Fernando 1' Layup (2 PTS) (Young 4 AST),Made Shot,Layup Shot,1,5,1,1,2.0,2.0,v
+S2324-G0742,2,10:11,PHI,32.0,ATL,45.0,B. Fernando,ATL,Fernando 1' Dunk (4 PTS) (Hunter 1 AST),Made Shot,Dunk Shot,2,5,1,1,2.0,2.0,v
+S2324-G0742,2,09:51,PHI,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0742,2,09:13,PHI,32.0,ATL,47.0,B. Fernando,ATL,Fernando 1' Cutting Layup Shot (6 PTS) (Young 5 AST),Made Shot,Cutting Layup Shot,-4,10,1,1,2.0,2.0,v
+S2324-G0742,2,08:23,PHI,,ATL,,B. Fernando,ATL,Fernando BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0742,2,08:18,PHI,,ATL,,B. Fernando,ATL,Fernando S.FOUL (P2.T2) (E.Malloy),Foul,Shooting,0,0,0,0,,,v
+S2324-G0742,2,07:38,PHI,,ATL,,B. Fernando,ATL,Fernando BLOCK (2 BLK),,,0,0,0,0,,,v
+S2324-G0742,2,06:54,PHI,,ATL,,B. Fernando,ATL,SUB: Bey FOR Fernando,Substitution,,0,0,0,0,,,v
+S2324-G0742,3,00:21.100000,PHI,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0742,4,11:26,PHI,,ATL,,B. Fernando,ATL,Fernando S.FOUL (P3.T1) (D.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2324-G0742,4,11:10,PHI,87.0,ATL,105.0,B. Fernando,ATL,Fernando 3' Cutting Finger Roll Layup Shot (8 PTS) (Hunter 2 AST),Made Shot,Cutting Finger Roll Layup Shot,-9,31,3,1,2.0,2.0,v
+S2324-G0742,4,10:00,PHI,,ATL,,B. Fernando,ATL,Fernando S.FOUL (P4.T3) (D.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2324-G0742,4,09:10,PHI,,ATL,,B. Fernando,ATL,SUB: Okongwu FOR Fernando,Substitution,,0,0,0,0,,,v
+S2324-G0241,4,04:11,WAS,,ATL,,B. Fernando,ATL,Fernando Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0241,4,02:41,WAS,97.0,ATL,127.0,B. Fernando,ATL,Fernando 4' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,32,31,4,1,2.0,2.0,v
+S2324-G0241,4,02:41,WAS,97.0,ATL,128.0,B. Fernando,ATL,Fernando Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G0241,4,02:04,WAS,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0241,4,02:04,WAS,99.0,ATL,130.0,B. Fernando,ATL,Fernando Tip Layup Shot (5 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2324-G0055,4,03:10,CLE,,ATL,,B. Fernando,ATL,MISS Fernando 12' Floating Jump Shot,Missed Shot,Floating Jump shot,-52,106,12,1,2.0,0.0,v
+S2324-G0055,4,03:10,CLE,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0055,4,03:10,CLE,,ATL,,B. Fernando,ATL,MISS Fernando 18' Putback Layup,Missed Shot,Putback Layup Shot,-109,144,18,1,2.0,0.0,v
+S2324-G0055,4,02:57,CLE,,ATL,,B. Fernando,ATL,MISS Fernando 3' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,23,18,3,1,2.0,0.0,v
+S2324-G0055,4,02:29,CLE,,ATL,,B. Fernando,ATL,Fernando L.B.FOUL (P1.T4) (P.Ransom),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0055,4,02:01,CLE,,ATL,,B. Fernando,ATL,Fernando Lost Ball Turnover (P1.T10),Turnover,Lost Ball,0,0,0,0,,,v
+S2324-G0055,4,01:18,CLE,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0055,4,01:08,CLE,,ATL,,B. Fernando,ATL,MISS Fernando 8' Layup,Missed Shot,Layup Shot,-53,58,8,1,2.0,0.0,v
+S2324-G0055,4,00:47.700000,CLE,,ATL,,B. Fernando,ATL,MISS Fernando 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,26,117,12,1,2.0,0.0,v
+S2324-G0055,4,00:47.400000,CLE,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0055,4,00:47.400000,CLE,128.0,ATL,105.0,B. Fernando,ATL,Fernando 1' Putback Dunk (2 PTS),Made Shot,Putback Dunk Shot,5,7,1,1,2.0,2.0,v
+S2324-G0595,4,01:21,ATL,,CLE,,B. Fernando,ATL,Fernando REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0595,4,00:38.200000,ATL,,CLE,,B. Fernando,ATL,MISS Fernando 25' 3PT Jump Shot,Missed Shot,Jump Shot,-108,229,25,1,3.0,0.0,h
+S2324-G0716,1,02:24,ATL,,LAC,,B. Fernando,ATL,Fernando REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0716,1,02:15,ATL,24.0,LAC,31.0,B. Fernando,ATL,Fernando Cutting Dunk Shot (2 PTS) (Bogdanovic 2 AST),Made Shot,Cutting Dunk Shot,-1,-1,0,1,2.0,2.0,h
+S2324-G0716,1,00:35.100000,ATL,,LAC,,B. Fernando,ATL,MISS Fernando 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,21,74,8,1,2.0,0.0,h
+S2324-G0716,1,00:00,ATL,,LAC,,B. Fernando,ATL,MISS Fernando 1' Driving Layup,Missed Shot,Driving Layup Shot,-10,10,1,1,2.0,0.0,h
+S2324-G0716,2,08:39,ATL,,LAC,,B. Fernando,ATL,Fernando S.FOUL (P1.T1) (B.Schwab),Foul,Shooting,0,0,0,0,,,h
+S2324-G0716,2,08:39,ATL,,LAC,,B. Fernando,ATL,SUB: Hunter FOR Fernando,Substitution,,0,0,0,0,,,h
+S2324-G0716,3,03:41,ATL,89.0,LAC,90.0,B. Fernando,ATL,Fernando Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0716,3,03:41,ATL,,LAC,,B. Fernando,ATL,MISS Fernando Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0716,3,03:24,ATL,,LAC,,B. Fernando,ATL,Fernando BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0716,3,03:20,ATL,,LAC,,B. Fernando,ATL,Jump Ball Fernando vs. Theis: Tip to Hunter,Jump Ball,,0,0,0,0,,,h
+S2324-G0716,3,02:29,ATL,93.0,LAC,92.0,B. Fernando,ATL,Fernando 2' Layup (5 PTS) (Young 9 AST),Made Shot,Layup Shot,-6,17,2,1,2.0,2.0,h
+S2324-G0716,3,02:16,ATL,,LAC,,B. Fernando,ATL,Fernando BLOCK (2 BLK),,,0,0,0,0,,,h
+S2324-G0716,3,00:47.500000,ATL,,LAC,,B. Fernando,ATL,HAWKS T.Foul (Def. 3 Sec Fernando ) (B.Schwab),Foul,Defense 3 Second,0,0,0,0,,,h
+S2324-G0716,3,00:29.800000,ATL,,LAC,,B. Fernando,ATL,Fernando REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0716,3,00:29.800000,ATL,,LAC,,B. Fernando,ATL,MISS Fernando 3' Putback Layup,Missed Shot,Putback Layup Shot,-7,31,3,1,2.0,0.0,h
+S2324-G0716,3,00:26.900000,ATL,,LAC,,B. Fernando,ATL,Jump Ball Fernando vs. Leonard: Tip to Powell,Jump Ball,,0,0,0,0,,,h
+S2324-G0716,4,11:22,ATL,,LAC,,B. Fernando,ATL,Fernando REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0716,4,11:14,ATL,106.0,LAC,102.0,B. Fernando,ATL,Fernando 1' Cutting Dunk Shot (7 PTS) (Bogdanovic 6 AST),Made Shot,Cutting Dunk Shot,0,10,1,1,2.0,2.0,h
+S2324-G0716,4,11:14,ATL,,LAC,,B. Fernando,ATL,MISS Fernando Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2324-G0716,4,09:11,ATL,,LAC,,B. Fernando,ATL,Fernando REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0716,4,08:56,ATL,,LAC,,B. Fernando,ATL,SUB: Bey FOR Fernando,Substitution,,0,0,0,0,,,h
+S2324-G0777,1,11:25,CHA,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0777,1,10:35,CHA,,ATL,,B. Fernando,ATL,MISS Fernando 3' Layup,Missed Shot,Layup Shot,-26,16,3,1,2.0,0.0,v
+S2324-G0777,1,09:57,CHA,,ATL,,B. Fernando,ATL,Fernando BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0777,1,08:49,CHA,,ATL,,B. Fernando,ATL,Fernando S.FOUL (P1.T1) (T.Ford),Foul,Shooting,0,0,0,0,,,v
+S2324-G0777,1,06:28,CHA,16.0,ATL,12.0,B. Fernando,ATL,Fernando 1' Layup (2 PTS) (Bey 1 AST),Made Shot,Layup Shot,-5,11,1,1,2.0,2.0,v
+S2324-G0777,1,05:53,CHA,,ATL,,B. Fernando,ATL,MISS Fernando 3' Driving Layup,Missed Shot,Driving Layup Shot,-28,20,3,1,2.0,0.0,v
+S2324-G0777,1,05:31,CHA,23.0,ATL,14.0,B. Fernando,ATL,Fernando 3' Cutting Layup Shot (4 PTS) (Hunter 1 AST),Made Shot,Cutting Layup Shot,21,14,3,1,2.0,2.0,v
+S2324-G0777,1,05:08,CHA,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0777,1,04:51,CHA,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0777,1,04:06,CHA,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0777,1,03:38,CHA,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0777,1,03:30,CHA,,ATL,,B. Fernando,ATL,SUB: Mathews FOR Fernando,Substitution,,0,0,0,0,,,v
+S2324-G0777,2,11:10,CHA,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0777,2,08:04,CHA,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0777,2,07:43,CHA,,ATL,,B. Fernando,ATL,Fernando S.FOUL (P2.T2) (T.Ford),Foul,Shooting,0,0,0,0,,,v
+S2324-G0777,2,05:11,CHA,,ATL,,B. Fernando,ATL,SUB: Johnson FOR Fernando,Substitution,,0,0,0,0,,,v
+S2324-G0777,3,09:54,CHA,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0777,3,09:42,CHA,,ATL,,B. Fernando,ATL,Fernando P.FOUL (P3.T2) (J.DeRosa),Foul,Personal,0,0,0,0,,,v
+S2324-G0777,3,08:46,CHA,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:2 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0777,3,08:03,CHA,,ATL,,B. Fernando,ATL,MISS Fernando 3' Layup,Missed Shot,Layup Shot,-5,34,3,1,2.0,0.0,v
+S2324-G0777,3,08:02,CHA,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:3 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0777,3,07:35,CHA,,ATL,,B. Fernando,ATL,Fernando S.FOUL (P4.T3) (J.DeRosa),Foul,Shooting,0,0,0,0,,,v
+S2324-G0777,3,07:35,CHA,,ATL,,B. Fernando,ATL,SUB: Hunter FOR Fernando,Substitution,,0,0,0,0,,,v
+S2324-G0777,4,08:08,CHA,,ATL,,B. Fernando,ATL,Fernando L.B.FOUL (P5.T4) (T.Ford),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0777,4,07:53,CHA,,ATL,,B. Fernando,ATL,Fernando STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0777,4,06:55,CHA,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:3 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0777,4,05:22,CHA,,ATL,,B. Fernando,ATL,SUB: Young FOR Fernando,Substitution,,0,0,0,0,,,v
+S2324-G0777,4,00:59.600000,CHA,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:3 Def:9),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0777,4,00:30.900000,CHA,122.0,ATL,98.0,B. Fernando,ATL,Fernando Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0777,4,00:30.900000,CHA,122.0,ATL,99.0,B. Fernando,ATL,Fernando Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0521,1,03:49,ATL,24.0,PHI,24.0,B. Fernando,ATL,Fernando Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0521,1,03:49,ATL,,PHI,,B. Fernando,ATL,MISS Fernando Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0521,1,03:11,ATL,,PHI,,B. Fernando,ATL,MISS Fernando Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0521,1,03:11,ATL,,PHI,,B. Fernando,ATL,MISS Fernando Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0521,1,01:23,ATL,,PHI,,B. Fernando,ATL,Fernando REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0521,1,01:22,ATL,,PHI,,B. Fernando,ATL,Fernando Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,0,0,0,,,h
+S2324-G0521,1,00:37.400000,ATL,,PHI,,B. Fernando,ATL,Fernando REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0521,1,00:37.400000,ATL,34.0,PHI,29.0,B. Fernando,ATL,Fernando Tip Layup Shot (3 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2324-G0521,1,00:27.700000,ATL,,PHI,,B. Fernando,ATL,Fernando S.FOUL (P1.PN) (D.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2324-G0521,1,00:05.500000,ATL,,PHI,,B. Fernando,ATL,MISS Fernando 2' Reverse Layup,Missed Shot,Reverse Layup Shot,-2,21,2,1,2.0,0.0,h
+S2324-G0521,2,11:49,ATL,,PHI,,B. Fernando,ATL,Fernando BLOCK (1 BLK),,,0,0,0,0,,,h
+S2324-G0521,2,09:42,ATL,,PHI,,B. Fernando,ATL,Fernando REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0521,2,09:23,ATL,,PHI,,B. Fernando,ATL,Fernando L.B.FOUL (P2.T1) (D.Taylor),Foul,Loose Ball,0,0,0,0,,,h
+S2324-G0521,2,09:06,ATL,,PHI,,B. Fernando,ATL,Fernando REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0521,2,08:14,ATL,,PHI,,B. Fernando,ATL,SUB: Bey FOR Fernando,Substitution,,0,0,0,0,,,h
+S2324-G0521,3,04:21,ATL,84.0,PHI,87.0,B. Fernando,ATL,Fernando 1' Alley Oop Dunk (5 PTS) (Bogdanovic 2 AST),Made Shot,Alley Oop Dunk Shot,-1,6,1,1,2.0,2.0,h
+S2324-G0521,3,03:51,ATL,,PHI,,B. Fernando,ATL,MISS Fernando Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0521,3,03:51,ATL,,PHI,,B. Fernando,ATL,MISS Fernando Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0521,3,03:23,ATL,,PHI,,B. Fernando,ATL,Fernando REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0521,3,03:16,ATL,86.0,PHI,90.0,B. Fernando,ATL,Fernando 1' Cutting Layup Shot (7 PTS) (Forrest 3 AST),Made Shot,Cutting Layup Shot,4,8,1,1,2.0,2.0,h
+S2324-G0521,3,03:16,ATL,,PHI,,B. Fernando,ATL,MISS Fernando Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2324-G0521,3,03:02,ATL,,PHI,,B. Fernando,ATL,Fernando BLOCK (2 BLK),,,0,0,0,0,,,h
+S2324-G0521,3,00:04.500000,ATL,,PHI,,B. Fernando,ATL,Fernando BLOCK (3 BLK),,,0,0,0,0,,,h
+S2324-G0521,4,11:22,ATL,,PHI,,B. Fernando,ATL,Fernando STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0521,4,09:42,ATL,106.0,PHI,102.0,B. Fernando,ATL,Fernando Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0521,4,09:42,ATL,,PHI,,B. Fernando,ATL,MISS Fernando Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0521,4,07:42,ATL,,PHI,,B. Fernando,ATL,SUB: Murray FOR Fernando,Substitution,,0,0,0,0,,,h
+S2324-G1034,1,05:36,ATL,,BOS,,B. Fernando,ATL,Fernando REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1034,1,04:53,ATL,,BOS,,B. Fernando,ATL,Fernando S.FOUL (P1.PN) (M.Kogut),Foul,Shooting,0,0,0,0,,,h
+S2324-G1034,1,03:19,ATL,19.0,BOS,32.0,B. Fernando,ATL,Fernando 2' Layup (2 PTS) (Murray 4 AST),Made Shot,Layup Shot,7,16,2,1,2.0,2.0,h
+S2324-G1034,1,02:01,ATL,,BOS,,B. Fernando,ATL,Fernando Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G1034,1,01:22,ATL,,BOS,,B. Fernando,ATL,MISS Fernando 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,0,23,2,1,2.0,0.0,h
+S2324-G1034,1,01:19,ATL,,BOS,,B. Fernando,ATL,Jump Ball Fernando vs. Tatum: Tip to Kornet,Jump Ball,,0,0,0,0,,,h
+S2324-G1034,1,00:48.400000,ATL,,BOS,,B. Fernando,ATL,Fernando Bad Pass Turnover (P2.T4),Turnover,Bad Pass,0,0,0,0,,,h
+S2324-G1034,2,10:49,ATL,,BOS,,B. Fernando,ATL,Fernando REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1034,2,10:48,ATL,,BOS,,B. Fernando,ATL,MISS Fernando Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G1034,2,10:48,ATL,23.0,BOS,49.0,B. Fernando,ATL,Fernando Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1034,2,09:47,ATL,25.0,BOS,51.0,B. Fernando,ATL,Fernando 3' Layup (5 PTS) (Bogdanovic 1 AST),Made Shot,Layup Shot,0,27,3,1,2.0,2.0,h
+S2324-G1034,2,07:55,ATL,,BOS,,B. Fernando,ATL,SUB: Capela FOR Fernando,Substitution,,0,0,0,0,,,h
+S2324-G1034,3,01:39,ATL,85.0,BOS,94.0,B. Fernando,ATL,Fernando 2' Layup (7 PTS) (Murray 13 AST),Made Shot,Layup Shot,15,6,2,1,2.0,2.0,h
+S2324-G1034,3,01:09,ATL,,BOS,,B. Fernando,ATL,Fernando P.FOUL (P2.T3) (E.Scott),Foul,Personal,0,0,0,0,,,h
+S2324-G1034,3,00:55.100000,ATL,87.0,BOS,94.0,B. Fernando,ATL,Fernando 1' Cutting Dunk Shot (9 PTS) (Murray 14 AST),Made Shot,Cutting Dunk Shot,-1,10,1,1,2.0,2.0,h
+S2324-G1034,4,11:22,ATL,92.0,BOS,96.0,B. Fernando,ATL,Fernando 1' Driving Layup (11 PTS),Made Shot,Driving Layup Shot,5,4,1,1,2.0,2.0,h
+S2324-G1034,4,07:12,ATL,,BOS,,B. Fernando,ATL,Fernando P.FOUL (P3.T3) (M.Kogut),Foul,Personal,0,0,0,0,,,h
+S2324-G1034,4,06:42,ATL,,BOS,,B. Fernando,ATL,Fernando REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1034,4,06:41,ATL,107.0,BOS,103.0,B. Fernando,ATL,Fernando 1' Reverse Layup (13 PTS),Made Shot,Reverse Layup Shot,10,-5,1,1,2.0,2.0,h
+S2324-G1034,4,05:57,ATL,,BOS,,B. Fernando,ATL,SUB: Capela FOR Fernando,Substitution,,0,0,0,0,,,h
+S2324-G1130,1,05:24,DEN,,ATL,,B. Fernando,ATL,MISS Fernando 3' Layup,Missed Shot,Layup Shot,-25,-15,3,1,2.0,0.0,v
+S2324-G1130,1,02:47,DEN,,ATL,,B. Fernando,ATL,Fernando S.FOUL (P1.PN) (D.Collins),Foul,Shooting,0,0,0,0,,,v
+S2324-G1130,1,01:10,DEN,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1130,1,01:04,DEN,,ATL,,B. Fernando,ATL,MISS Fernando 1' Running Layup,Missed Shot,Running Layup Shot,11,3,1,1,2.0,0.0,v
+S2324-G1130,1,01:03,DEN,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1130,1,01:03,DEN,,ATL,,B. Fernando,ATL,MISS Fernando Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2324-G1130,1,00:37.900000,DEN,31.0,ATL,23.0,B. Fernando,ATL,Fernando Dunk (2 PTS) (Bufkin 1 AST),Made Shot,Dunk Shot,2,-4,0,1,2.0,2.0,v
+S2324-G1130,1,00:30.900000,DEN,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1130,1,00:07.800000,DEN,31.0,ATL,26.0,B. Fernando,ATL,Fernando 7' Floating Jump Shot (4 PTS) (Bogdanovic 1 AST),Made Shot,Floating Jump shot,21,63,7,1,2.0,2.0,v
+S2324-G1130,2,11:07,DEN,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1130,2,10:33,DEN,,ATL,,B. Fernando,ATL,MISS Fernando 2' Layup,Missed Shot,Layup Shot,-9,19,2,1,2.0,0.0,v
+S2324-G1130,2,10:28,DEN,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1130,2,10:28,DEN,,ATL,,B. Fernando,ATL,Fernando Lane Violation Turnover (P1.T7),Turnover,Lane Violation,0,0,0,0,,,v
+S2324-G1130,2,09:42,DEN,,ATL,,B. Fernando,ATL,Fernando S.FOUL (P2.T1) (S.Twardoski),Foul,Shooting,0,0,0,0,,,v
+S2324-G1130,2,09:42,DEN,,ATL,,B. Fernando,ATL,SUB: Murray FOR Fernando,Substitution,,0,0,0,0,,,v
+S2324-G1130,3,02:30,DEN,101.0,ATL,84.0,B. Fernando,ATL,Fernando 1' Driving Dunk (6 PTS) (Murray 12 AST),Made Shot,Driving Dunk Shot,-2,5,1,1,2.0,2.0,v
+S2324-G1130,3,02:13,DEN,,ATL,,B. Fernando,ATL,Fernando P.FOUL (P3.PN) (S.Twardoski),Foul,Personal,0,0,0,0,,,v
+S2324-G1130,3,02:02,DEN,,ATL,,B. Fernando,ATL,MISS Fernando 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-11,13,2,1,2.0,0.0,v
+S2324-G1130,3,00:00.500000,DEN,,ATL,,B. Fernando,ATL,Fernando S.FOUL (P4.PN) (S.Twardoski),Foul,Shooting,0,0,0,0,,,v
+S2324-G1130,3,00:00,DEN,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1130,4,02:19,DEN,,ATL,,B. Fernando,ATL,Fernando S.FOUL (P5.T2) (D.Collins),Foul,Shooting,0,0,0,0,,,v
+S2324-G1130,4,01:44,DEN,,ATL,,B. Fernando,ATL,MISS Fernando 4' Layup,Missed Shot,Layup Shot,-27,26,4,1,2.0,0.0,v
+S2324-G1188,1,11:38,IND,,ATL,,B. Fernando,ATL,MISS Fernando 3' Layup,Missed Shot,Layup Shot,-31,8,3,1,2.0,0.0,v
+S2324-G1188,1,11:02,IND,,ATL,,B. Fernando,ATL,Fernando S.FOUL (P1.T1) (B.Forte),Foul,Shooting,0,0,0,0,,,v
+S2324-G1188,1,10:50,IND,,ATL,,B. Fernando,ATL,MISS Fernando 6' Layup,Missed Shot,Layup Shot,1,58,6,1,2.0,0.0,v
+S2324-G1188,1,08:49,IND,13.0,ATL,4.0,B. Fernando,ATL,Fernando 9' Floating Jump Shot (2 PTS) (Murray 1 AST),Made Shot,Floating Jump shot,-2,87,9,1,2.0,2.0,v
+S2324-G1188,1,08:22,IND,,ATL,,B. Fernando,ATL,Fernando OFF.Foul (P2) (T.Brothers),Foul,Offensive,0,0,0,0,,,v
+S2324-G1188,1,08:22,IND,,ATL,,B. Fernando,ATL,Fernando Offensive Foul Turnover (P1.T1),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G1188,1,07:57,IND,17.0,ATL,5.0,B. Fernando,ATL,Fernando Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1188,1,07:57,IND,17.0,ATL,6.0,B. Fernando,ATL,Fernando Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1188,1,07:09,IND,,ATL,,B. Fernando,ATL,SUB: Gueye FOR Fernando,Substitution,,0,0,0,0,,,v
+S2324-G1188,2,11:20,IND,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1188,2,10:34,IND,52.0,ATL,39.0,B. Fernando,ATL,Fernando Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1188,2,10:34,IND,52.0,ATL,40.0,B. Fernando,ATL,Fernando Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1188,2,10:16,IND,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1188,2,08:10,IND,59.0,ATL,47.0,B. Fernando,ATL,Fernando 1' Cutting Dunk Shot (8 PTS) (Krejci 2 AST),Made Shot,Cutting Dunk Shot,-12,5,1,1,2.0,2.0,v
+S2324-G1188,2,07:35,IND,,ATL,,B. Fernando,ATL,SUB: Bogdanovic FOR Fernando,Substitution,,0,0,0,0,,,v
+S2324-G1188,3,07:31,IND,102.0,ATL,86.0,B. Fernando,ATL,Fernando 5' Alley Oop Dunk (10 PTS) (Young 10 AST),Made Shot,Alley Oop Dunk Shot,-27,41,5,1,2.0,2.0,v
+S2324-G1188,3,06:27,IND,,ATL,,B. Fernando,ATL,SUB: Gueye FOR Fernando,Substitution,,0,0,0,0,,,v
+S2324-G1188,4,11:06,IND,128.0,ATL,96.0,B. Fernando,ATL,Fernando Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1188,4,11:06,IND,128.0,ATL,97.0,B. Fernando,ATL,Fernando Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1188,4,08:37,IND,,ATL,,B. Fernando,ATL,SUB: Gueye FOR Fernando,Substitution,,0,0,0,0,,,v
+S2324-G0097,4,02:46,MIL,,ATL,,B. Fernando,ATL,Fernando Out of Bounds - Bad Pass Turnover Turnover (P1.T15),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G0097,4,01:55,MIL,,ATL,,B. Fernando,ATL,Fernando OFF.Foul (P1) (T.Maddox),Foul,Offensive,0,0,0,0,,,v
+S2324-G0097,4,01:55,MIL,,ATL,,B. Fernando,ATL,Fernando Offensive Foul Turnover (P2.T17),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0097,4,01:06,MIL,,ATL,,B. Fernando,ATL,MISS Fernando 25' 3PT Jump Shot,Missed Shot,Jump Shot,150,206,25,1,3.0,0.0,v
+S2324-G1147,1,04:22,ATL,,MIA,,B. Fernando,ATL,Fernando REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1147,1,03:50,ATL,17.0,MIA,20.0,B. Fernando,ATL,Fernando 2' Driving Layup (2 PTS) (Murray 3 AST),Made Shot,Driving Layup Shot,-11,13,2,1,2.0,2.0,h
+S2324-G1147,1,02:30,ATL,,MIA,,B. Fernando,ATL,Fernando REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1147,1,02:26,ATL,21.0,MIA,22.0,B. Fernando,ATL,Fernando 2' Running Layup (4 PTS) (Murray 4 AST),Made Shot,Running Layup Shot,-1,21,2,1,2.0,2.0,h
+S2324-G1147,1,02:02,ATL,23.0,MIA,22.0,B. Fernando,ATL,Fernando 2' Cutting Dunk Shot (6 PTS) (Bufkin 1 AST),Made Shot,Cutting Dunk Shot,-1,15,2,1,2.0,2.0,h
+S2324-G1147,1,01:00,ATL,27.0,MIA,28.0,B. Fernando,ATL,Fernando 1' Driving Dunk (8 PTS) (Bufkin 3 AST),Made Shot,Driving Dunk Shot,0,13,1,1,2.0,2.0,h
+S2324-G1147,2,11:20,ATL,,MIA,,B. Fernando,ATL,MISS Fernando 6' Hook Shot,Missed Shot,Hook Shot,-26,58,6,1,2.0,0.0,h
+S2324-G1147,2,11:08,ATL,,MIA,,B. Fernando,ATL,Fernando REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1147,2,06:42,ATL,,MIA,,B. Fernando,ATL,SUB: Capela FOR Fernando,Substitution,,0,0,0,0,,,h
+S2324-G1147,3,02:26,ATL,73.0,MIA,75.0,B. Fernando,ATL,Fernando Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1147,3,02:26,ATL,74.0,MIA,75.0,B. Fernando,ATL,Fernando Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1147,3,01:38,ATL,,MIA,,B. Fernando,ATL,Fernando REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2324-G1147,4,11:51,ATL,,MIA,,B. Fernando,ATL,Fernando P.FOUL (P1.T1) (S.Wright),Foul,Personal,0,0,0,0,,,h
+S2324-G1147,4,11:46,ATL,,MIA,,B. Fernando,ATL,Fernando P.FOUL (P2.T2) (S.Wright),Foul,Personal,0,0,0,0,,,h
+S2324-G1147,4,09:16,ATL,85.0,MIA,85.0,B. Fernando,ATL,Fernando Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1147,4,09:16,ATL,86.0,MIA,85.0,B. Fernando,ATL,Fernando Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G1147,4,07:18,ATL,,MIA,,B. Fernando,ATL,SUB: Hunter FOR Fernando,Substitution,,0,0,0,0,,,h
+S2324-G0982,1,05:18,LAC,,ATL,,B. Fernando,ATL,Fernando Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0982,1,04:22,LAC,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0982,1,04:22,LAC,16.0,ATL,21.0,B. Fernando,ATL,Fernando Tip Dunk Shot (2 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,v
+S2324-G0982,1,01:02,LAC,,ATL,,B. Fernando,ATL,Fernando STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0982,1,00:29.200000,LAC,29.0,ATL,31.0,B. Fernando,ATL,Fernando 2' Layup (4 PTS) (Bogdanovic 1 AST),Made Shot,Layup Shot,1,18,2,1,2.0,2.0,v
+S2324-G0982,2,11:48,LAC,,ATL,,B. Fernando,ATL,Fernando OFF.Foul (P1) (J.Tiven),Foul,Offensive,0,0,0,0,,,v
+S2324-G0982,2,11:48,LAC,,ATL,,B. Fernando,ATL,Fernando Offensive Foul Turnover (P2.T4),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0982,2,10:43,LAC,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0982,2,10:30,LAC,29.0,ATL,35.0,B. Fernando,ATL,Fernando Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0982,2,10:30,LAC,29.0,ATL,36.0,B. Fernando,ATL,Fernando Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0982,2,10:17,LAC,,ATL,,B. Fernando,ATL,Fernando P.FOUL (P2.T1) (M.Kogut),Foul,Personal,0,0,0,0,,,v
+S2324-G0982,2,09:56,LAC,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0982,2,09:26,LAC,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0982,2,07:01,LAC,,ATL,,B. Fernando,ATL,SUB: Capela FOR Fernando,Substitution,,0,0,0,0,,,v
+S2324-G0982,3,04:01,LAC,,ATL,,B. Fernando,ATL,MISS Fernando 4' Layup,Missed Shot,Layup Shot,-15,34,4,1,2.0,0.0,v
+S2324-G0982,3,03:38,LAC,,ATL,,B. Fernando,ATL,Fernando S.FOUL (P3.PN) (J.Tiven),Foul,Shooting,0,0,0,0,,,v
+S2324-G0982,3,02:52,LAC,,ATL,,B. Fernando,ATL,Fernando OFF.Foul (P4) (M.Kogut),Foul,Offensive,0,0,0,0,,,v
+S2324-G0982,3,02:52,LAC,,ATL,,B. Fernando,ATL,Fernando Offensive Foul Turnover (P3.T11),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0982,3,01:59,LAC,,ATL,,B. Fernando,ATL,Fernando STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0982,3,00:47.300000,LAC,,ATL,,B. Fernando,ATL,MISS Fernando 13' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,83,104,13,1,2.0,0.0,v
+S2324-G0982,4,09:24,LAC,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0982,4,08:41,LAC,,ATL,,B. Fernando,ATL,MISS Fernando 4' Driving Layup,Missed Shot,Driving Layup Shot,-44,5,4,1,2.0,0.0,v
+S2324-G0982,4,07:52,LAC,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0982,4,07:46,LAC,,ATL,,B. Fernando,ATL,MISS Fernando 2' Layup,Missed Shot,Layup Shot,-1,20,2,1,2.0,0.0,v
+S2324-G0982,4,07:43,LAC,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0982,4,07:41,LAC,,ATL,,B. Fernando,ATL,Fernando Bad Pass Turnover (P4.T15),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0982,4,07:37,LAC,,ATL,,B. Fernando,ATL,SUB: Capela FOR Fernando,Substitution,,0,0,0,0,,,v
+S2324-G0445,1,01:26,WAS,,ATL,,B. Fernando,ATL,Fernando S.FOUL (P1.PN) (J.Orr),Foul,Shooting,0,0,0,0,,,v
+S2324-G0445,1,00:13.200000,WAS,,ATL,,B. Fernando,ATL,Fernando STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0445,2,08:18,WAS,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0445,2,06:59,WAS,,ATL,,B. Fernando,ATL,SUB: Bey FOR Fernando,Substitution,,0,0,0,0,,,v
+S2324-G0445,3,02:17,WAS,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0445,3,00:59.500000,WAS,,ATL,,B. Fernando,ATL,MISS Fernando 5' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-1,54,5,1,2.0,0.0,v
+S2324-G0445,4,10:41,WAS,,ATL,,B. Fernando,ATL,MISS Fernando 9' Hook Shot,Missed Shot,Hook Shot,-53,68,9,1,2.0,0.0,v
+S2324-G0445,4,10:19,WAS,,ATL,,B. Fernando,ATL,Fernando L.B.FOUL (P2.T1) (J.Orr),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0445,4,09:53,WAS,,ATL,,B. Fernando,ATL,Fernando OFF.Foul (P3) (T.Maddox),Foul,Offensive,0,0,0,0,,,v
+S2324-G0445,4,09:53,WAS,,ATL,,B. Fernando,ATL,Fernando Offensive Foul Turnover (P1.T10),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2324-G0445,4,09:39,WAS,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0445,4,08:58,WAS,,ATL,,B. Fernando,ATL,Fernando S.FOUL (P4.T2) (T.Maddox),Foul,Shooting,0,0,0,0,,,v
+S2324-G0445,4,08:58,WAS,,ATL,,B. Fernando,ATL,SUB: Capela FOR Fernando,Substitution,,0,0,0,0,,,v
+S2324-G0804,1,02:50,ATL,17.0,TOR,23.0,B. Fernando,ATL,Fernando 3' Layup (2 PTS) (Bogdanovic 2 AST),Made Shot,Layup Shot,-13,24,3,1,2.0,2.0,h
+S2324-G0804,1,02:24,ATL,,TOR,,B. Fernando,ATL,Fernando REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0804,1,02:24,ATL,18.0,TOR,23.0,B. Fernando,ATL,Fernando Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0804,1,02:24,ATL,,TOR,,B. Fernando,ATL,MISS Fernando Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0804,1,01:59,ATL,,TOR,,B. Fernando,ATL,MISS Fernando Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2324-G0804,1,01:59,ATL,19.0,TOR,26.0,B. Fernando,ATL,Fernando Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2324-G0804,1,00:08.200000,ATL,,TOR,,B. Fernando,ATL,Fernando STEAL (1 STL),,,0,0,0,0,,,h
+S2324-G0804,1,00:04.300000,ATL,22.0,TOR,33.0,B. Fernando,ATL,Fernando 1' Running Layup (6 PTS) (Bogdanovic 3 AST),Made Shot,Running Layup Shot,7,8,1,1,2.0,2.0,h
+S2324-G0804,2,10:44,ATL,27.0,TOR,38.0,B. Fernando,ATL,Fernando 1' Cutting Dunk Shot (8 PTS) (Young 2 AST),Made Shot,Cutting Dunk Shot,6,10,1,1,2.0,2.0,h
+S2324-G0804,2,09:01,ATL,,TOR,,B. Fernando,ATL,MISS Fernando 1' Layup,Missed Shot,Layup Shot,4,9,1,1,2.0,0.0,h
+S2324-G0804,2,08:57,ATL,,TOR,,B. Fernando,ATL,Fernando REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0804,2,08:57,ATL,,TOR,,B. Fernando,ATL,MISS Fernando 1' Putback Layup,Missed Shot,Putback Layup Shot,12,5,1,1,2.0,0.0,h
+S2324-G0804,2,08:53,ATL,,TOR,,B. Fernando,ATL,Fernando REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0804,2,08:53,ATL,34.0,TOR,42.0,B. Fernando,ATL,Fernando 2' Putback Layup (10 PTS),Made Shot,Putback Layup Shot,17,8,2,1,2.0,2.0,h
+S2324-G0804,2,08:38,ATL,,TOR,,B. Fernando,ATL,SUB: Murray FOR Fernando,Substitution,,0,0,0,0,,,h
+S2324-G0804,3,00:31.700000,ATL,,TOR,,B. Fernando,ATL,MISS Fernando 2' Layup,Missed Shot,Layup Shot,5,22,2,1,2.0,0.0,h
+S2324-G0804,3,00:29.300000,ATL,,TOR,,B. Fernando,ATL,Fernando REBOUND (Off:4 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0804,3,00:29.300000,ATL,90.0,TOR,93.0,B. Fernando,ATL,Fernando Putback Layup (12 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,h
+S2324-G0804,4,10:20,ATL,,TOR,,B. Fernando,ATL,Fernando Out of Bounds - Bad Pass Turnover Turnover (P1.T8),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2324-G0804,4,09:26,ATL,,TOR,,B. Fernando,ATL,SUB: Johnson FOR Fernando,Substitution,,0,0,0,0,,,h
+S2324-G0966,1,04:45,UTA,22.0,ATL,21.0,B. Fernando,ATL,Fernando 5' Floating Jump Shot (2 PTS) (Murray 4 AST),Made Shot,Floating Jump shot,26,38,5,1,2.0,2.0,v
+S2324-G0966,1,04:25,UTA,,ATL,,B. Fernando,ATL,Fernando Violation:Kicked Ball (R.Acosta),Violation,Kicked Ball,0,0,0,0,,,v
+S2324-G0966,1,03:33,UTA,,ATL,,B. Fernando,ATL,Fernando S.FOUL (P1.T2) (T.Ford),Foul,Shooting,0,0,0,0,,,v
+S2324-G0966,1,01:12,UTA,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0966,1,00:39.800000,UTA,,ATL,,B. Fernando,ATL,Fernando STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G0966,1,00:31.900000,UTA,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0966,2,06:34,UTA,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0966,2,04:08,UTA,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0966,2,03:00,UTA,,ATL,,B. Fernando,ATL,SUB: Capela FOR Fernando,Substitution,,0,0,0,0,,,v
+S2324-G0966,3,04:56,UTA,,ATL,,B. Fernando,ATL,Fernando P.FOUL (P2.T3) (T.Ford),Foul,Personal,0,0,0,0,,,v
+S2324-G0966,3,02:47,UTA,,ATL,,B. Fernando,ATL,Fernando S.FOUL (P3.PN) (R.Acosta),Foul,Shooting,0,0,0,0,,,v
+S2324-G0966,3,01:55,UTA,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0966,3,00:33.500000,UTA,,ATL,,B. Fernando,ATL,Fernando STEAL (2 STL),,,0,0,0,0,,,v
+S2324-G0835,1,05:58,ATL,,UTA,,B. Fernando,ATL,Fernando OFF.Foul (P1) (D.Mosher),Foul,Offensive,0,0,0,0,,,h
+S2324-G0835,1,05:58,ATL,,UTA,,B. Fernando,ATL,Fernando Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2324-G0835,1,02:33,ATL,,UTA,,B. Fernando,ATL,Fernando REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0835,1,02:31,ATL,19.0,UTA,11.0,B. Fernando,ATL,Fernando 1' Putback Layup (2 PTS),Made Shot,Putback Layup Shot,5,8,1,1,2.0,2.0,h
+S2324-G0835,1,02:01,ATL,,UTA,,B. Fernando,ATL,Fernando REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0835,1,02:00,ATL,21.0,UTA,13.0,B. Fernando,ATL,Fernando 1' Putback Dunk (4 PTS),Made Shot,Putback Dunk Shot,0,11,1,1,2.0,2.0,h
+S2324-G0835,2,09:41,ATL,,UTA,,B. Fernando,ATL,SUB: Capela FOR Fernando,Substitution,,0,0,0,0,,,h
+S2324-G0835,3,01:05,ATL,,UTA,,B. Fernando,ATL,Fernando S.FOUL (P2.T2) (R.Acosta),Foul,Shooting,0,0,0,0,,,h
+S2324-G0835,3,00:26.600000,ATL,89.0,UTA,69.0,B. Fernando,ATL,Fernando 1' Running Alley Oop Dunk Shot (6 PTS) (Johnson 6 AST),Made Shot,Running Alley Oop Dunk Shot,-13,-5,1,1,2.0,2.0,h
+S2324-G0835,4,08:57,ATL,,UTA,,B. Fernando,ATL,SUB: Capela FOR Fernando,Substitution,,0,0,0,0,,,h
+S2324-G0835,4,01:25,ATL,,UTA,,B. Fernando,ATL,Fernando REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2324-G0835,4,01:25,ATL,121.0,UTA,97.0,B. Fernando,ATL,Fernando Tip Dunk Shot (8 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,h
+S2324-G1091,1,04:17,CHI,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1091,1,03:19,CHI,,ATL,,B. Fernando,ATL,Fernando P.FOUL (P1.T2) (J.Capers),Foul,Personal,0,0,0,0,,,v
+S2324-G1091,1,01:11,CHI,28.0,ATL,30.0,B. Fernando,ATL,Fernando 1' Alley Oop Dunk (2 PTS) (Bufkin 1 AST),Made Shot,Alley Oop Dunk Shot,2,11,1,1,2.0,2.0,v
+S2324-G1091,1,00:41.200000,CHI,29.0,ATL,32.0,B. Fernando,ATL,Fernando 2' Reverse Layup (4 PTS) (Bogdanovic 3 AST),Made Shot,Reverse Layup Shot,-9,15,2,1,2.0,2.0,v
+S2324-G1091,1,00:32.600000,CHI,,ATL,,B. Fernando,ATL,Fernando S.FOUL (P2.PN) (J.Capers),Foul,Shooting,0,0,0,0,,,v
+S2324-G1091,2,10:10,CHI,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1091,2,09:08,CHI,,ATL,,B. Fernando,ATL,MISS Fernando 4' Hook Shot,Missed Shot,Hook Shot,12,34,4,1,2.0,0.0,v
+S2324-G1091,2,06:53,CHI,,ATL,,B. Fernando,ATL,Fernando L.B.FOUL (P3.T2) (B.Adair),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G1091,2,06:53,CHI,,ATL,,B. Fernando,ATL,SUB: Capela FOR Fernando,Substitution,,0,0,0,0,,,v
+S2324-G1091,3,02:06,CHI,68.0,ATL,84.0,B. Fernando,ATL,Fernando Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1091,3,02:06,CHI,68.0,ATL,85.0,B. Fernando,ATL,Fernando Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G1091,4,10:38,CHI,,ATL,,B. Fernando,ATL,Fernando STEAL (1 STL),,,0,0,0,0,,,v
+S2324-G1091,4,10:26,CHI,,ATL,,B. Fernando,ATL,MISS Fernando 5' Hook Shot,Missed Shot,Hook Shot,38,27,5,1,2.0,0.0,v
+S2324-G1091,4,10:10,CHI,,ATL,,B. Fernando,ATL,Fernando S.FOUL (P4.T2) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,v
+S2324-G1091,4,09:48,CHI,81.0,ATL,95.0,B. Fernando,ATL,Fernando 1' Layup (8 PTS) (Bufkin 3 AST),Made Shot,Layup Shot,-5,6,1,1,2.0,2.0,v
+S2324-G1091,4,07:33,CHI,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1091,4,07:12,CHI,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G1091,4,07:09,CHI,86.0,ATL,101.0,B. Fernando,ATL,Fernando 2' Running Layup (10 PTS) (Bogdanovic 6 AST),Made Shot,Running Layup Shot,0,15,2,1,2.0,2.0,v
+S2324-G1091,4,07:09,CHI,,ATL,,B. Fernando,ATL,MISS Fernando Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2324-G1091,4,06:08,CHI,,ATL,,B. Fernando,ATL,SUB: Capela FOR Fernando,Substitution,,0,0,0,0,,,v
+S2324-G1091,4,01:38,CHI,,ATL,,B. Fernando,ATL,Fernando Out of Bounds - Bad Pass Turnover Turnover (P1.T13),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2324-G1091,4,01:13,CHI,,ATL,,B. Fernando,ATL,Fernando Bad Pass Turnover (P2.T14),Turnover,Bad Pass,0,0,0,0,,,v
+S2324-G0480,4,05:56,IND,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0480,4,05:44,IND,133.0,ATL,102.0,B. Fernando,ATL,Fernando 3' Dunk (2 PTS) (Forrest 1 AST),Made Shot,Dunk Shot,-10,28,3,1,2.0,2.0,v
+S2324-G0480,4,05:10,IND,,ATL,,B. Fernando,ATL,Fernando BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0480,4,04:53,IND,138.0,ATL,105.0,B. Fernando,ATL,Fernando Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0480,4,04:53,IND,138.0,ATL,106.0,B. Fernando,ATL,Fernando Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0480,4,04:36,IND,,ATL,,B. Fernando,ATL,Fernando S.FOUL (P1.T2) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,v
+S2324-G0480,4,02:47,IND,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0480,4,02:38,IND,142.0,ATL,111.0,B. Fernando,ATL,Fernando 2' Alley Oop Dunk (6 PTS) (Forrest 2 AST),Made Shot,Alley Oop Dunk Shot,-6,16,2,1,2.0,2.0,v
+S2324-G0336,1,02:31,CLE,36.0,ATL,18.0,B. Fernando,ATL,Fernando Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0336,1,02:31,CLE,,ATL,,B. Fernando,ATL,MISS Fernando Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0336,1,02:05,CLE,36.0,ATL,20.0,B. Fernando,ATL,Fernando 2' Cutting Dunk Shot (3 PTS) (Young 2 AST),Made Shot,Cutting Dunk Shot,-10,13,2,1,2.0,2.0,v
+S2324-G0336,1,00:53,CLE,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0336,2,10:52,CLE,,ATL,,B. Fernando,ATL,Fernando L.B.FOUL (P1.T2) (R.Mott),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0336,2,10:26,CLE,46.0,ATL,30.0,B. Fernando,ATL,Fernando 6' Hook Shot (5 PTS) (Young 3 AST),Made Shot,Hook Shot,12,55,6,1,2.0,2.0,v
+S2324-G0336,2,09:32,CLE,49.0,ATL,32.0,B. Fernando,ATL,Fernando 6' Hook Shot (7 PTS) (Young 4 AST),Made Shot,Hook Shot,22,58,6,1,2.0,2.0,v
+S2324-G0336,2,09:01,CLE,,ATL,,B. Fernando,ATL,SUB: Okongwu FOR Fernando,Substitution,,0,0,0,0,,,v
+S2324-G0336,2,00:55.900000,CLE,70.0,ATL,50.0,B. Fernando,ATL,Fernando Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2324-G0336,2,00:32.300000,CLE,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0336,3,05:26,CLE,,ATL,,B. Fernando,ATL,MISS Fernando 10' Jump Shot,Missed Shot,Jump Shot,-25,101,10,1,2.0,0.0,v
+S2324-G0336,3,05:25,CLE,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0336,3,05:24,CLE,,ATL,,B. Fernando,ATL,MISS Fernando Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2324-G0336,3,05:22,CLE,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0336,3,05:20,CLE,81.0,ATL,70.0,B. Fernando,ATL,Fernando Putback Layup (10 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,v
+S2324-G0336,3,04:09,CLE,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0336,3,04:02,CLE,,ATL,,B. Fernando,ATL,Fernando L.B.FOUL (P2.T3) (E.Dalen),Foul,Loose Ball,0,0,0,0,,,v
+S2324-G0336,3,03:14,CLE,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0336,3,01:03,CLE,91.0,ATL,78.0,B. Fernando,ATL,Fernando 7' Driving Floating Jump Shot (12 PTS) (Young 7 AST),Made Shot,Driving Floating Jump Shot,-37,65,7,1,2.0,2.0,v
+S2324-G0336,3,00:43.700000,CLE,,ATL,,B. Fernando,ATL,Fernando BLOCK (1 BLK),,,0,0,0,0,,,v
+S2324-G0336,3,00:04.700000,CLE,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0336,3,00:01.500000,CLE,,ATL,,B. Fernando,ATL,SUB: Hunter FOR Fernando,Substitution,,0,0,0,0,,,v
+S2324-G0336,4,07:02,CLE,,ATL,,B. Fernando,ATL,MISS Fernando Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2324-G0336,4,07:02,CLE,109.0,ATL,98.0,B. Fernando,ATL,Fernando Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2324-G0336,4,06:19,CLE,,ATL,,B. Fernando,ATL,Fernando REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2324-G0336,4,06:11,CLE,,ATL,,B. Fernando,ATL,SUB: Okongwu FOR Fernando,Substitution,,0,0,0,0,,,v
