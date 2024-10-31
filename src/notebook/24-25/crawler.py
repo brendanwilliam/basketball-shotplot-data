@@ -4,12 +4,13 @@ import requests
 import json
 import time
 import random
+import sys
 
 
 # Constants
 
 # URL beginning and end to access pages with shot charts
-URL_START = "https://www.nba.com/game/00"
+URL_START = "https://www.nba.com/game/002"
 URL_END = "/game-charts"
 
 # Base number for game URLs (2022-2023 season) and total games for the season
@@ -108,8 +109,6 @@ def save_json(json_obj, game_num):
   """
   try:
     fp = EXPORT_PATH + "S2425-G" + "{0:0=4d}".format(game_num) + ".json"
-    print(fp)
-    print(json_obj)
     with open(fp, 'w') as f:
       json.dump(json_obj, f, indent=4)
   except:
@@ -129,7 +128,6 @@ def export_game(game_num):
     url = URL_LIST[game_num - 1]
     soup = get_soup(url)
     json_obj = get_json(soup)
-    print(json_obj)
     save_json(json_obj, game_num)
     print(f"Exported game {game_num}")
   except:
@@ -167,8 +165,16 @@ def export_games(start, end):
   except:
     print(f"Error: Could not export games from {start} to {end}")
     return None
-  
+
 # Main
 if __name__ == "__main__":
-  # Get all game URLs for the 2023-2024 season
-  URL_LIST = get_urls("24")
+
+  # Default season
+  season = "24"
+
+  # Check if an argument is provided
+  if len(sys.argv) > 1:
+    season = sys.argv[1]
+
+  # Get all game URLs for the specified season
+  URL_LIST = get_urls(season)
