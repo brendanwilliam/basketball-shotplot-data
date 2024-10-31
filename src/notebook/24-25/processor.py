@@ -129,6 +129,100 @@ def convert_clock(df):
 
     return df
 
+
+def save_by_teamplayer(fp, season = "S2425"):
+  """
+  Function saves the dataframe to a csv file for each player in the dataframe. The csv files are saved in the 'processed' folder.
+
+  Args:
+    fp (str): File path to save the csv files to
+
+  Returns:
+    None
+  """
+  try:
+    df = pd.read_csv(fp)
+    print(df.shape)
+    players = pd.Series(df['playerNameI'].unique()).sort_values().dropna().reset_index(drop=True)
+
+
+    for player in players:
+      player_name = str(player).replace(' ', '')
+      player_df = df[df['playerNameI'] == player]
+      print(player_df.shape)
+
+      teams = pd.Series(player_df['teamTricode'].unique())
+      # teams = pd.Series(df['teamTricode']).unique().sort_values().dropna().reset_index(drop=True)
+      print(len(teams))
+
+      for team in teams:
+        if isinstance(team, str):
+          print(f"working on saving: {team}")
+          player_team_df = player_df[player_df['teamTricode'] == team]
+          print(player_team_df.shape)
+          player_team_df.to_csv(f"../../data/processed/{season}/teamplayer/{team}_{player_name}_games.csv", index=False)
+
+
+
+    print(f"Successfully saved {len(players)} files containing player-specific data.")
+
+  except:
+    print(f"Error: Could not save csv files for each team in the dataframe.")
+
+
+def save_by_player(fp, season = "S2425"):
+  """
+  Function saves the dataframe to a csv file for each player in the dataframe. The csv files are saved in the 'processed' folder.
+
+  Args:
+    fp (str): File path to save the csv files to
+
+  Returns:
+    None
+  """
+  try:
+    df = pd.read_csv(fp)
+    players = pd.Series(df['playerNameI'].unique()).sort_values().dropna().reset_index(drop=True)
+
+
+    for player in players:
+      player_name = str(player).replace(' ', '')
+      player_df = df[df['playerNameI'] == player]
+
+      player_df.to_csv(f"../../data/processed/{season}/player/{player_name}_play-by-play.csv", index=False)
+
+
+    print(f"Successfully saved {len(players)} files containing player-specific data.")
+
+  except:
+    print(f"Error: Could not save csv files for each team in the dataframe.")
+
+
+def save_by_team(fp, season = "S2425"):
+  """
+  Function saves the dataframe to a csv file for each player in the dataframe. The csv files are saved in the 'processed' folder.
+
+  Args:
+    fp (str): File path to save the csv files to
+
+  Returns:
+    None
+  """
+  try:
+    df = pd.read_csv(fp)
+    teams = pd.Series(df['home'].unique()).sort_values().dropna().reset_index(drop=True)
+    print(teams)
+
+    for team in teams:
+      team_df = df[(df['home'] == team) | (df['away'] == team)]
+      team_df.to_csv(f"../../data/processed/{season}/team/{team}_games.csv", index=False)
+
+    print(f"Successfully saved {len(teams)} files containing team-specific data.")
+
+  except:
+    print(f"Error: Could not save csv files for each team in the dataframe.")
+
+
 if __name__ == '__main__':
     # Create a list of all the files in the folder 'data/raw'
     season = "S2425"
@@ -142,4 +236,9 @@ if __name__ == '__main__':
     df = load_game(files = files, season = season)
 
     # Save the dataframe as a csv file in the folder 'data/processed'
-    df.to_csv('../../data/processed/S2425_all_play-by-play.csv', index=False)
+    export_fp = f'../../data/processed/{season}/{season}_all_play-by-play.csv'
+    df.to_csv(export_fp, index=False)
+
+    save_by_team(export_fp)
+    save_by_player(export_fp)
+    save_by_teamplayer(export_fp)
