@@ -125,11 +125,11 @@ def export_game(game_num):
 
   """
   try:
-    url = URL_LIST[game_num - 1]
-    soup = get_soup(url)
+    print(f"Exporting game {game_num}")
+    soup = get_soup(URL_LIST[game_num - 1])
     json_obj = get_json(soup)
     save_json(json_obj, game_num)
-    print(f"Exported game {game_num}")
+    print(f"Saved JSON object for game {game_num}")
   except:
     print(f"Error: Could not export game {game_num}")
     return None
@@ -178,3 +178,11 @@ if __name__ == "__main__":
 
   # Get all game URLs for the specified season
   URL_LIST = get_urls(season)
+
+  # Export 128 - 207
+
+  missed = [28, 29]
+
+  for game in missed:
+    export_game(game)
+    time.sleep(random.randint(1, 2))
