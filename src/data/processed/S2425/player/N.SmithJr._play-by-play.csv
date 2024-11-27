@@ -1,0 +1,16 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0003,4,01:24,ORL,,CHA,,N. Smith Jr.,CHA,MISS Smith Jr. 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-29,131,13,1,2.0,0.0,v
+S2425-G0184,4,01:03,CHA,,IND,,N. Smith Jr.,CHA,MISS Smith Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,118,227,26,1,3.0,0.0,h
+S2425-G0141,1,03:31,CHA,,BOS,,N. Smith Jr.,CHA,MISS Smith Jr. 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,168,200,26,1,3.0,0.0,h
+S2425-G0141,1,00:45.400000,CHA,22.0,BOS,32.0,N. Smith Jr.,CHA,Smith Jr. 11' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,-56,99,11,1,2.0,2.0,h
+S2425-G0141,2,10:45,CHA,29.0,BOS,41.0,N. Smith Jr.,CHA,Smith Jr. 2' Running Layup (4 PTS) (Miller 2 AST),Made Shot,Running Layup Shot,5,16,2,1,2.0,2.0,h
+S2425-G0141,2,09:53,CHA,,BOS,,N. Smith Jr.,CHA,MISS Smith Jr. 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,5,79,8,1,2.0,0.0,h
+S2425-G0141,2,09:43,CHA,,BOS,,N. Smith Jr.,CHA,Smith Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0141,2,09:23,CHA,,BOS,,N. Smith Jr.,CHA,Smith Jr. S.FOUL (P1.T3) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,h
+S2425-G0141,2,09:23,CHA,,BOS,,N. Smith Jr.,CHA,SUB: Green FOR Smith Jr.,Substitution,,0,0,0,0,,,h
+S2425-G0141,3,01:13,CHA,,BOS,,N. Smith Jr.,CHA,MISS Smith Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,-162,198,26,1,3.0,0.0,h
+S2425-G0162,4,05:12,MIN,,CHA,,N. Smith Jr.,CHA,Smith Jr. Lost Ball Turnover (P1.T12),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0162,4,03:24,MIN,,CHA,,N. Smith Jr.,CHA,MISS Smith Jr. 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,101,78,13,1,2.0,0.0,v
+S2425-G0162,4,02:32,MIN,,CHA,,N. Smith Jr.,CHA,Smith Jr. STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0162,4,01:19,MIN,114.0,CHA,89.0,N. Smith Jr.,CHA,Smith Jr. 25' 3PT Jump Shot (3 PTS) (Simpson 1 AST),Made Shot,Jump Shot,218,127,25,1,3.0,3.0,v
+S2425-G0162,4,00:22,MIN,,CHA,,N. Smith Jr.,CHA,MISS Smith Jr. 3PT Jump Shot,Missed Shot,Jump Shot,-230,25,0,1,3.0,0.0,v

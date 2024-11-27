@@ -1,4 +1,43 @@
 game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0192,1,02:51,OKC,,HOU,,S. Adams,HOU,Adams REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0192,1,02:49,OKC,27.0,HOU,27.0,S. Adams,HOU,Adams 1' Putback Dunk (2 PTS),Made Shot,Putback Dunk Shot,11,8,1,1,2.0,2.0,v
+S2425-G0192,1,00:46.200000,OKC,,HOU,,S. Adams,HOU,MISS Adams Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0192,1,00:46.200000,OKC,31.0,HOU,31.0,S. Adams,HOU,Adams Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0192,2,05:02,OKC,,HOU,,S. Adams,HOU,SUB: Thompson FOR Adams,Substitution,,0,0,0,0,,,v
+S2425-G0192,4,08:46,OKC,,HOU,,S. Adams,HOU,Adams OFF.Foul (P1) (K.Cutler),Foul,Offensive,0,0,0,0,,,v
+S2425-G0192,4,08:46,OKC,,HOU,,S. Adams,HOU,Adams Offensive Foul Turnover (P1.T10),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0192,4,08:17,OKC,,HOU,,S. Adams,HOU,Adams STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0192,4,08:14,OKC,,HOU,,S. Adams,HOU,Adams Lost Ball Turnover (P2.T11),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0192,4,07:36,OKC,,HOU,,S. Adams,HOU,Adams REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0192,4,05:53,OKC,,HOU,,S. Adams,HOU,Adams Out of Bounds - Bad Pass Turnover Turnover (P3.T12),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0192,4,03:53,OKC,123.0,HOU,97.0,S. Adams,HOU,Adams 3' Layup (5 PTS) (Sheppard 1 AST),Made Shot,Layup Shot,-32,4,3,1,2.0,2.0,v
+S2425-G0192,4,03:53,OKC,,HOU,,S. Adams,HOU,MISS Adams Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2425-G0192,4,03:48,OKC,,HOU,,S. Adams,HOU,SUB: Je. Green FOR Adams,Substitution,,0,0,0,0,,,v
+S2425-G0161,1,03:31,HOU,,NYK,,S. Adams,HOU,Adams REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0161,1,03:31,HOU,,NYK,,S. Adams,HOU,MISS Adams Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2425-G0161,1,02:16,HOU,,NYK,,S. Adams,HOU,Adams REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0161,1,01:53,HOU,,NYK,,S. Adams,HOU,Adams REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0161,1,00:28.200000,HOU,30.0,NYK,26.0,S. Adams,HOU,Adams Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0161,1,00:28.200000,HOU,31.0,NYK,26.0,S. Adams,HOU,Adams Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0161,2,06:29,HOU,,NYK,,S. Adams,HOU,MISS Adams 7' Hook Shot,Missed Shot,Hook Shot,-47,49,7,1,2.0,0.0,h
+S2425-G0161,2,06:28,HOU,,NYK,,S. Adams,HOU,Adams P.FOUL (P1.PN) (B.Adair),Foul,Personal,0,0,0,0,,,h
+S2425-G0161,2,05:09,HOU,,NYK,,S. Adams,HOU,Adams REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0161,2,04:18,HOU,,NYK,,S. Adams,HOU,Adams REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0161,2,04:16,HOU,55.0,NYK,44.0,S. Adams,HOU,Adams Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2425-G0161,2,04:01,HOU,,NYK,,S. Adams,HOU,SUB: Sengun FOR Adams,Substitution,,0,0,0,0,,,h
+S2425-G0161,3,02:51,HOU,,NYK,,S. Adams,HOU,Adams Lost Ball Turnover (P1.T6),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0161,3,02:28,HOU,,NYK,,S. Adams,HOU,MISS Adams Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0161,3,02:28,HOU,,NYK,,S. Adams,HOU,MISS Adams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0161,3,00:37.700000,HOU,,NYK,,S. Adams,HOU,MISS Adams 9' Jump Shot,Missed Shot,Jump Shot,-64,64,9,1,2.0,0.0,h
+S2425-G0031,1,02:14,HOU,,POR,,S. Adams,HOU,Adams S.FOUL (P1.T1) (M.Ervin),Foul,Shooting,0,0,0,0,,,h
+S2425-G0031,1,01:25,HOU,,POR,,S. Adams,HOU,Adams Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0031,2,08:19,HOU,,POR,,S. Adams,HOU,SUB: Sengun FOR Adams,Substitution,,0,0,0,0,,,h
+S2425-G0031,3,01:57,HOU,94.0,POR,69.0,S. Adams,HOU,Adams Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0031,3,01:57,HOU,,POR,,S. Adams,HOU,MISS Adams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0031,4,10:20,HOU,,POR,,S. Adams,HOU,Adams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0031,4,10:19,HOU,,POR,,S. Adams,HOU,Adams Bad Pass Turnover (P2.T11),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0031,4,09:45,HOU,,POR,,S. Adams,HOU,Adams Bad Pass Turnover (P3.T12),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0031,4,07:28,HOU,,POR,,S. Adams,HOU,SUB: Je. Green FOR Adams,Substitution,,0,0,0,0,,,h
 S2425-G0109,1,02:24,SAS,,HOU,,S. Adams,HOU,Adams Out of Bounds Lost Ball Turnover (P1.T2),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
 S2425-G0109,1,02:07,SAS,,HOU,,S. Adams,HOU,Adams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
 S2425-G0109,1,00:40.200000,SAS,,HOU,,S. Adams,HOU,Adams REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
@@ -10,3 +49,13 @@ S2425-G0109,3,02:57,SAS,,HOU,,S. Adams,HOU,Adams S.FOUL (P2.PN) (A.Nagy),Foul,Sh
 S2425-G0109,3,01:12,SAS,,HOU,,S. Adams,HOU,Adams S.FOUL (P3.PN) (A.Nagy),Foul,Shooting,0,0,0,0,,,v
 S2425-G0109,3,00:36.800000,SAS,,HOU,,S. Adams,HOU,Adams REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
 S2425-G0109,3,00:36.800000,SAS,72.0,HOU,87.0,S. Adams,HOU,Adams Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2425-G0129,1,01:22,DAL,,HOU,,S. Adams,HOU,Adams S.FOUL (P1.PN) (R.Hussey),Foul,Shooting,0,0,0,0,,,v
+S2425-G0129,2,09:44,DAL,,HOU,,S. Adams,HOU,SUB: Sengun FOR Adams,Substitution,,0,0,0,0,,,v
+S2425-G0129,3,02:48,DAL,,HOU,,S. Adams,HOU,Adams REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0129,3,02:26,DAL,,HOU,,S. Adams,HOU,Adams STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0129,3,00:39.700000,DAL,,HOU,,S. Adams,HOU,Adams S.FOUL (P2.PN) (B.Kennedy),Foul,Shooting,0,0,0,0,,,v
+S2425-G0129,4,10:57,DAL,,HOU,,S. Adams,HOU,SUB: Sengun FOR Adams,Substitution,,0,0,0,0,,,v
+S2425-G0016,2,10:10,HOU,,LAC,,S. Adams,HOU,Adams OFF.Foul (P1) (N.Sago),Foul,Offensive,0,0,0,0,,,h
+S2425-G0016,2,10:10,HOU,,LAC,,S. Adams,HOU,Adams Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0016,2,09:58,HOU,,LAC,,S. Adams,HOU,Adams STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0016,2,08:26,HOU,,LAC,,S. Adams,HOU,SUB: Smith Jr. FOR Adams,Substitution,,0,0,0,0,,,h

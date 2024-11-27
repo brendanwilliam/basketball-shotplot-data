@@ -1,4 +1,65 @@
 game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0185,1,11:11,DET,,ATL,,T. Hardaway Jr.,DET,Hardaway Jr. S.FOUL (P1.T1) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,h
+S2425-G0185,1,08:48,DET,13.0,ATL,7.0,T. Hardaway Jr.,DET,Hardaway Jr. 28' 3PT Jump Shot (3 PTS) (Cunningham 2 AST),Made Shot,Jump Shot,-26,279,28,1,3.0,3.0,h
+S2425-G0185,1,05:54,DET,,ATL,,T. Hardaway Jr.,DET,Hardaway Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0185,1,05:09,DET,25.0,ATL,14.0,T. Hardaway Jr.,DET,Hardaway Jr. 6' Driving Floating Jump Shot (5 PTS) (Harris 2 AST),Made Shot,Driving Floating Jump Shot,-4,58,6,1,2.0,2.0,h
+S2425-G0185,1,04:40,DET,,ATL,,T. Hardaway Jr.,DET,SUB: Fontecchio FOR Hardaway Jr.,Substitution,,0,0,0,0,,,h
+S2425-G0185,2,07:04,DET,,ATL,,T. Hardaway Jr.,DET,Hardaway Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0185,2,05:54,DET,,ATL,,T. Hardaway Jr.,DET,MISS Hardaway Jr. 24' 3PT Jump Shot,Missed Shot,Jump Shot,233,64,24,1,3.0,0.0,h
+S2425-G0185,2,05:31,DET,,ATL,,T. Hardaway Jr.,DET,Hardaway Jr. Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0185,2,05:11,DET,,ATL,,T. Hardaway Jr.,DET,Hardaway Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0185,2,03:42,DET,,ATL,,T. Hardaway Jr.,DET,Jump Ball Hardaway Jr. vs. Johnson: Tip to Cunningham,Jump Ball,,0,0,0,0,,,h
+S2425-G0185,2,02:50,DET,,ATL,,T. Hardaway Jr.,DET,Hardaway Jr. REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0185,2,02:49,DET,,ATL,,T. Hardaway Jr.,DET,Hardaway Jr. Out of Bounds - Bad Pass Turnover Turnover (P2.T8),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0185,3,10:40,DET,,ATL,,T. Hardaway Jr.,DET,Hardaway Jr. S.FOUL (P2.T2) (J.Capers),Foul,Shooting,0,0,0,0,,,h
+S2425-G0185,3,09:13,DET,,ATL,,T. Hardaway Jr.,DET,Hardaway Jr. REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0185,3,08:22,DET,,ATL,,T. Hardaway Jr.,DET,SUB: Beasley FOR Hardaway Jr.,Substitution,,0,0,0,0,,,h
+S2425-G0185,3,01:03,DET,,ATL,,T. Hardaway Jr.,DET,Hardaway Jr. STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0185,3,01:02,DET,91.0,ATL,85.0,T. Hardaway Jr.,DET,Hardaway Jr. Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0185,3,01:02,DET,,ATL,,T. Hardaway Jr.,DET,MISS Hardaway Jr. Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0185,3,00:37,DET,,ATL,,T. Hardaway Jr.,DET,MISS Hardaway Jr. 18' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-16,179,18,1,2.0,0.0,h
+S2425-G0185,4,08:55,DET,,ATL,,T. Hardaway Jr.,DET,Hardaway Jr. Bad Pass Turnover (P3.T16),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0185,4,08:50,DET,,ATL,,T. Hardaway Jr.,DET,Hardaway Jr. STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0185,4,05:49,DET,109.0,ATL,105.0,T. Hardaway Jr.,DET,Hardaway Jr. Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0185,4,05:49,DET,,ATL,,T. Hardaway Jr.,DET,MISS Hardaway Jr. Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0185,4,04:51,DET,,ATL,,T. Hardaway Jr.,DET,Hardaway Jr. STEAL (3 STL),,,0,0,0,0,,,h
+S2425-G0185,4,04:21,DET,,ATL,,T. Hardaway Jr.,DET,Hardaway Jr. S.FOUL (P3.T2) (J.Capers),Foul,Shooting,0,0,0,0,,,h
+S2425-G0185,4,02:31,DET,,ATL,,T. Hardaway Jr.,DET,SUB: Stewart FOR Hardaway Jr.,Substitution,,0,0,0,0,,,h
+S2425-G0185,4,00:08.500000,DET,,ATL,,T. Hardaway Jr.,DET,SUB: Stewart FOR Hardaway Jr.,Substitution,,0,0,0,0,,,h
+S2425-G0151,1,11:18,BKN,,DET,,T. Hardaway Jr.,DET,Hardaway Jr. P.FOUL (P1.T1) (J.Schroeder),Foul,Personal,0,0,0,0,,,v
+S2425-G0151,1,10:55,BKN,,DET,,T. Hardaway Jr.,DET,MISS Hardaway Jr. 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,12,95,10,1,2.0,0.0,v
+S2425-G0151,1,07:46,BKN,12.0,DET,13.0,T. Hardaway Jr.,DET,Hardaway Jr. 24' 3PT Step Back Jump Shot (3 PTS) (Duren 1 AST),Made Shot,Step Back Jump shot,212,116,24,1,3.0,3.0,v
+S2425-G0151,1,07:06,BKN,,DET,,T. Hardaway Jr.,DET,Hardaway Jr. P.FOUL (P2.T2) (D.Taylor),Foul,Personal,0,0,0,0,,,v
+S2425-G0151,1,07:06,BKN,,DET,,T. Hardaway Jr.,DET,SUB: Beasley FOR Hardaway Jr.,Substitution,,0,0,0,0,,,v
+S2425-G0151,2,10:53,BKN,27.0,DET,31.0,T. Hardaway Jr.,DET,Hardaway Jr. 3' Layup (5 PTS) (Holland II 1 AST),Made Shot,Layup Shot,-23,11,3,1,2.0,2.0,v
+S2425-G0151,2,08:40,BKN,,DET,,T. Hardaway Jr.,DET,MISS Hardaway Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,-156,195,25,1,3.0,0.0,v
+S2425-G0151,2,07:16,BKN,,DET,,T. Hardaway Jr.,DET,Hardaway Jr. S.FOUL (P3.PN) (D.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2425-G0151,2,07:16,BKN,,DET,,T. Hardaway Jr.,DET,SUB: Beasley FOR Hardaway Jr.,Substitution,,0,0,0,0,,,v
+S2425-G0151,3,11:02,BKN,,DET,,T. Hardaway Jr.,DET,MISS Hardaway Jr. 3PT Jump Shot,Missed Shot,Jump Shot,223,-11,0,1,3.0,0.0,v
+S2425-G0151,3,10:28,BKN,,DET,,T. Hardaway Jr.,DET,MISS Hardaway Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,184,162,25,1,3.0,0.0,v
+S2425-G0151,3,07:42,BKN,67.0,DET,61.0,T. Hardaway Jr.,DET,Hardaway Jr. 25' 3PT Pullup Jump Shot (8 PTS) (Harris 4 AST),Made Shot,Pullup Jump shot,-105,231,25,1,3.0,3.0,v
+S2425-G0151,3,05:48,BKN,69.0,DET,68.0,T. Hardaway Jr.,DET,Hardaway Jr. 26' 3PT Jump Shot (11 PTS) (Ivey 5 AST),Made Shot,Jump Shot,-131,227,26,1,3.0,3.0,v
+S2425-G0151,3,05:24,BKN,,DET,,T. Hardaway Jr.,DET,Hardaway Jr. S.FOUL (P4.T2) (K.Lane),Foul,Shooting,0,0,0,0,,,v
+S2425-G0151,3,05:24,BKN,,DET,,T. Hardaway Jr.,DET,SUB: Beasley FOR Hardaway Jr.,Substitution,,0,0,0,0,,,v
+S2425-G0151,4,09:13,BKN,82.0,DET,90.0,T. Hardaway Jr.,DET,Hardaway Jr. Free Throw Technical (12 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,v
+S2425-G0151,4,08:28,BKN,83.0,DET,92.0,T. Hardaway Jr.,DET,Hardaway Jr. 1' Driving Dunk (14 PTS) (Duren 4 AST),Made Shot,Driving Dunk Shot,-5,6,1,1,2.0,2.0,v
+S2425-G0151,4,07:17,BKN,,DET,,T. Hardaway Jr.,DET,SUB: Harris FOR Hardaway Jr.,Substitution,,0,0,0,0,,,v
+S2425-G0151,4,02:25,BKN,,DET,,T. Hardaway Jr.,DET,SUB: Ivey FOR Hardaway Jr.,Substitution,,0,0,0,0,,,v
+S2425-G0002,1,09:31,DET,,MIA,,T. Hardaway Jr.,DET,Hardaway Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0002,1,08:22,DET,7.0,MIA,0.0,T. Hardaway Jr.,DET,Hardaway Jr. Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0002,1,08:22,DET,8.0,MIA,0.0,T. Hardaway Jr.,DET,Hardaway Jr. Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0002,1,05:43,DET,,MIA,,T. Hardaway Jr.,DET,MISS Hardaway Jr. 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,185,188,26,1,3.0,0.0,h
+S2425-G0002,1,04:39,DET,20.0,MIA,8.0,T. Hardaway Jr.,DET,Hardaway Jr. Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0002,1,04:39,DET,21.0,MIA,8.0,T. Hardaway Jr.,DET,Hardaway Jr. Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0002,1,04:01,DET,,MIA,,T. Hardaway Jr.,DET,SUB: Fontecchio FOR Hardaway Jr.,Substitution,,0,0,0,0,,,h
+S2425-G0002,2,06:46,DET,,MIA,,T. Hardaway Jr.,DET,Hardaway Jr. L.B.FOUL (P1.T3) (T.Ford),Foul,Loose Ball,0,0,0,0,,,h
+S2425-G0002,2,05:44,DET,,MIA,,T. Hardaway Jr.,DET,MISS Hardaway Jr. 27' 3PT Jump Shot,Missed Shot,Jump Shot,-119,238,27,1,3.0,0.0,h
+S2425-G0002,2,03:51,DET,45.0,MIA,44.0,T. Hardaway Jr.,DET,Hardaway Jr. 15' Pullup Jump Shot (6 PTS) (Stewart 1 AST),Made Shot,Pullup Jump shot,38,144,15,1,2.0,2.0,h
+S2425-G0002,2,02:48,DET,,MIA,,T. Hardaway Jr.,DET,MISS Hardaway Jr. 27' 3PT Jump Shot,Missed Shot,Jump Shot,54,263,27,1,3.0,0.0,h
+S2425-G0002,2,01:00,DET,53.0,MIA,49.0,T. Hardaway Jr.,DET,Hardaway Jr. 3PT Jump Shot (9 PTS) (Cunningham 4 AST),Made Shot,Jump Shot,-233,5,0,1,3.0,3.0,h
+S2425-G0002,2,00:30.600000,DET,55.0,MIA,51.0,T. Hardaway Jr.,DET,Hardaway Jr. 3' Driving Floating Jump Shot (11 PTS) (Harris 3 AST),Made Shot,Driving Floating Jump Shot,-31,-1,3,1,2.0,2.0,h
+S2425-G0002,3,08:46,DET,,MIA,,T. Hardaway Jr.,DET,Hardaway Jr. S.FOUL (P2.T3) (E.Dalen),Foul,Shooting,0,0,0,0,,,h
+S2425-G0002,3,08:46,DET,,MIA,,T. Hardaway Jr.,DET,SUB: Beasley FOR Hardaway Jr.,Substitution,,0,0,0,0,,,h
 S2425-G0080,1,07:37,CLE,12.0,DET,15.0,T. Hardaway Jr.,DET,Hardaway Jr. 24' 3PT Running Jump Shot (3 PTS) (Ivey 1 AST),Made Shot,Running Jump Shot,225,93,24,1,3.0,3.0,v
 S2425-G0080,1,06:33,CLE,,DET,,T. Hardaway Jr.,DET,MISS Hardaway Jr. 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,216,124,25,1,3.0,0.0,v
 S2425-G0080,1,04:49,CLE,,DET,,T. Hardaway Jr.,DET,SUB: Fontecchio FOR Hardaway Jr.,Substitution,,0,0,0,0,,,v
@@ -32,6 +93,20 @@ S2425-G0063,4,07:39,DET,,IND,,T. Hardaway Jr.,DET,Hardaway Jr. P.FOUL (P2.T3) (T
 S2425-G0063,4,06:08,DET,,IND,,T. Hardaway Jr.,DET,Hardaway Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
 S2425-G0063,4,02:17,DET,,IND,,T. Hardaway Jr.,DET,SUB: Beasley FOR Hardaway Jr.,Substitution,,0,0,0,0,,,h
 S2425-G0063,4,00:08.100000,DET,,IND,,T. Hardaway Jr.,DET,SUB: Holland II FOR Hardaway Jr.,Substitution,,0,0,0,0,,,h
+S2425-G0156,1,09:20,DET,6.0,LAL,5.0,T. Hardaway Jr.,DET,Hardaway Jr. 26' 3PT Jump Shot (3 PTS) (Ivey 1 AST),Made Shot,Jump Shot,-184,180,26,1,3.0,3.0,h
+S2425-G0156,1,08:45,DET,10.0,LAL,7.0,T. Hardaway Jr.,DET,Hardaway Jr. 2' Running Layup (5 PTS) (Cunningham 1 AST),Made Shot,Running Layup Shot,21,13,2,1,2.0,2.0,h
+S2425-G0156,1,08:13,DET,,LAL,,T. Hardaway Jr.,DET,MISS Hardaway Jr. 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,58,185,19,1,2.0,0.0,h
+S2425-G0156,1,06:39,DET,17.0,LAL,9.0,T. Hardaway Jr.,DET,Hardaway Jr. 20' Step Back Jump Shot (7 PTS) (Harris 1 AST),Made Shot,Step Back Jump shot,-195,12,20,1,2.0,2.0,h
+S2425-G0156,1,05:43,DET,,LAL,,T. Hardaway Jr.,DET,MISS Hardaway Jr. 27' 3PT Jump Shot,Missed Shot,Jump Shot,181,195,27,1,3.0,0.0,h
+S2425-G0156,1,05:03,DET,,LAL,,T. Hardaway Jr.,DET,SUB: Fontecchio FOR Hardaway Jr.,Substitution,,0,0,0,0,,,h
+S2425-G0156,1,00:29.700000,DET,33.0,LAL,22.0,T. Hardaway Jr.,DET,Hardaway Jr. 26' 3PT Step Back Jump Shot (10 PTS),Made Shot,Step Back Jump shot,161,202,26,1,3.0,3.0,h
+S2425-G0156,2,04:35,DET,55.0,LAL,41.0,T. Hardaway Jr.,DET,Hardaway Jr. Free Throw Technical (11 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,h
+S2425-G0156,2,02:57,DET,62.0,LAL,42.0,T. Hardaway Jr.,DET,Hardaway Jr. 19' Pullup Jump Shot (13 PTS) (Duren 1 AST),Made Shot,Pullup Jump shot,-28,184,19,1,2.0,2.0,h
+S2425-G0156,2,01:14,DET,,LAL,,T. Hardaway Jr.,DET,MISS Hardaway Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,135,225,26,1,3.0,0.0,h
+S2425-G0156,3,10:21,DET,72.0,LAL,53.0,T. Hardaway Jr.,DET,Hardaway Jr. 25' 3PT Jump Shot (16 PTS) (Cunningham 7 AST),Made Shot,Jump Shot,13,250,25,1,3.0,3.0,h
+S2425-G0156,3,08:10,DET,77.0,LAL,58.0,T. Hardaway Jr.,DET,Hardaway Jr. 26' 3PT Step Back Jump Shot (19 PTS),Made Shot,Step Back Jump shot,-58,250,26,1,3.0,3.0,h
+S2425-G0156,3,07:37,DET,,LAL,,T. Hardaway Jr.,DET,MISS Hardaway Jr. 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-140,205,25,1,3.0,0.0,h
+S2425-G0156,3,02:56,DET,,LAL,,T. Hardaway Jr.,DET,MISS Hardaway Jr. 3PT Jump Shot,Missed Shot,Jump Shot,232,25,0,1,3.0,0.0,h
 S2425-G0120,1,11:25,PHI,0.0,DET,1.0,T. Hardaway Jr.,DET,Hardaway Jr. Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
 S2425-G0120,1,11:25,PHI,,DET,,T. Hardaway Jr.,DET,MISS Hardaway Jr. Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
 S2425-G0120,1,07:15,PHI,,DET,,T. Hardaway Jr.,DET,Hardaway Jr. Step Out of Bounds Turnover (P1.T3),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
@@ -67,6 +142,20 @@ S2425-G0089,4,01:51,DET,,BOS,,T. Hardaway Jr.,DET,MISS Hardaway Jr. 27' 3PT Jump
 S2425-G0089,4,01:05,DET,,BOS,,T. Hardaway Jr.,DET,Hardaway Jr. S.FOUL (P3.PN) (P.Fraher),Foul,Shooting,0,0,0,0,,,h
 S2425-G0089,4,00:11.100000,DET,,BOS,,T. Hardaway Jr.,DET,SUB: Stewart FOR Hardaway Jr.,Substitution,,0,0,0,0,,,h
 S2425-G0089,4,00:03.300000,DET,,BOS,,T. Hardaway Jr.,DET,SUB: Stewart FOR Hardaway Jr.,Substitution,,0,0,0,0,,,h
+S2425-G0134,1,11:40,DET,,NYK,,T. Hardaway Jr.,DET,MISS Hardaway Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,-78,253,26,1,3.0,0.0,h
+S2425-G0134,1,11:09,DET,,NYK,,T. Hardaway Jr.,DET,MISS Hardaway Jr. 3PT Jump Shot,Missed Shot,Jump Shot,229,16,0,1,3.0,0.0,h
+S2425-G0134,1,09:04,DET,,NYK,,T. Hardaway Jr.,DET,Hardaway Jr. Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0134,1,05:37,DET,,NYK,,T. Hardaway Jr.,DET,SUB: Fontecchio FOR Hardaway Jr.,Substitution,,0,0,0,0,,,h
+S2425-G0134,2,07:52,DET,24.0,NYK,54.0,T. Hardaway Jr.,DET,Hardaway Jr. 24' 3PT Pullup Jump Shot (3 PTS) (Holland II 1 AST),Made Shot,Pullup Jump shot,-229,55,24,1,3.0,3.0,h
+S2425-G0134,2,06:45,DET,,NYK,,T. Hardaway Jr.,DET,MISS Hardaway Jr. 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-176,193,26,1,3.0,0.0,h
+S2425-G0134,2,06:35,DET,,NYK,,T. Hardaway Jr.,DET,Hardaway Jr. S.FOUL (P1.T1) (J.Ralls),Foul,Shooting,0,0,0,0,,,h
+S2425-G0134,2,02:05,DET,,NYK,,T. Hardaway Jr.,DET,Hardaway Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0134,2,02:04,DET,41.0,NYK,64.0,T. Hardaway Jr.,DET,Hardaway Jr. Tip Layup Shot (5 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2425-G0134,2,01:44,DET,,NYK,,T. Hardaway Jr.,DET,MISS Hardaway Jr. 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,212,125,25,1,3.0,0.0,h
+S2425-G0134,3,09:27,DET,,NYK,,T. Hardaway Jr.,DET,MISS Hardaway Jr. 14' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,131,41,14,1,2.0,0.0,h
+S2425-G0134,3,08:40,DET,,NYK,,T. Hardaway Jr.,DET,MISS Hardaway Jr. 28' 3PT Jump Shot,Missed Shot,Jump Shot,25,274,28,1,3.0,0.0,h
+S2425-G0134,3,05:56,DET,65.0,NYK,88.0,T. Hardaway Jr.,DET,Hardaway Jr. 24' 3PT Running Jump Shot (8 PTS) (Ivey 2 AST),Made Shot,Running Jump Shot,225,78,24,1,3.0,3.0,h
+S2425-G0134,3,03:23,DET,,NYK,,T. Hardaway Jr.,DET,SUB: Fontecchio FOR Hardaway Jr.,Substitution,,0,0,0,0,,,h
 S2425-G0105,1,11:24,MIA,,DET,,T. Hardaway Jr.,DET,MISS Hardaway Jr. 9' Turnaround Fadeaway Bank Jump Shot,Missed Shot,Turnaround Fadeaway Bank Jump Shot,81,31,9,1,2.0,0.0,v
 S2425-G0105,1,10:29,MIA,3.0,DET,4.0,T. Hardaway Jr.,DET,Hardaway Jr. Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
 S2425-G0105,1,10:29,MIA,3.0,DET,5.0,T. Hardaway Jr.,DET,Hardaway Jr. Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
@@ -88,3 +177,41 @@ S2425-G0105,4,07:04,MIA,90.0,DET,86.0,T. Hardaway Jr.,DET,Hardaway Jr. Free Thro
 S2425-G0105,4,07:04,MIA,90.0,DET,87.0,T. Hardaway Jr.,DET,Hardaway Jr. Free Throw 3 of 3 (20 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,v
 S2425-G0105,4,04:40,MIA,,DET,,T. Hardaway Jr.,DET,MISS Hardaway Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,-1,260,26,1,3.0,0.0,v
 S2425-G0105,4,04:02,MIA,,DET,,T. Hardaway Jr.,DET,MISS Hardaway Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,-136,222,26,1,3.0,0.0,v
+S2425-G0201,1,11:40,DET,,HOU,,T. Hardaway Jr.,DET,MISS Hardaway Jr. 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,93,55,11,1,2.0,0.0,h
+S2425-G0201,1,07:41,DET,,HOU,,T. Hardaway Jr.,DET,Hardaway Jr. Violation:Kicked Ball (E.Malloy),Violation,Kicked Ball,0,0,0,0,,,h
+S2425-G0201,1,06:40,DET,,HOU,,T. Hardaway Jr.,DET,Hardaway Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0201,1,05:59,DET,11.0,HOU,13.0,T. Hardaway Jr.,DET,Hardaway Jr. 27' 3PT Jump Shot (3 PTS) (Cunningham 2 AST),Made Shot,Jump Shot,194,193,27,1,3.0,3.0,h
+S2425-G0201,1,04:29,DET,,HOU,,T. Hardaway Jr.,DET,Hardaway Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0201,1,03:43,DET,,HOU,,T. Hardaway Jr.,DET,MISS Hardaway Jr. 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-83,241,25,1,3.0,0.0,h
+S2425-G0201,1,03:06,DET,,HOU,,T. Hardaway Jr.,DET,MISS Hardaway Jr. 2' Driving Layup,Missed Shot,Driving Layup Shot,-13,15,2,1,2.0,0.0,h
+S2425-G0201,1,02:40,DET,,HOU,,T. Hardaway Jr.,DET,SUB: Fontecchio FOR Hardaway Jr.,Substitution,,0,0,0,0,,,h
+S2425-G0201,3,11:23,DET,,HOU,,T. Hardaway Jr.,DET,MISS Hardaway Jr. 3PT Jump Shot,Missed Shot,Jump Shot,234,4,0,1,3.0,0.0,h
+S2425-G0201,3,08:55,DET,,HOU,,T. Hardaway Jr.,DET,MISS Hardaway Jr. 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-197,180,27,1,3.0,0.0,h
+S2425-G0201,3,08:23,DET,52.0,HOU,51.0,T. Hardaway Jr.,DET,Hardaway Jr. Free Throw Technical (4 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,h
+S2425-G0201,3,08:04,DET,,HOU,,T. Hardaway Jr.,DET,MISS Hardaway Jr. 11' Driving Layup,Missed Shot,Driving Layup Shot,31,108,11,1,2.0,0.0,h
+S2425-G0201,3,07:07,DET,,HOU,,T. Hardaway Jr.,DET,Hardaway Jr. STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0201,3,06:58,DET,,HOU,,T. Hardaway Jr.,DET,MISS Hardaway Jr. 27' 3PT Jump Shot,Missed Shot,Jump Shot,-37,270,27,1,3.0,0.0,h
+S2425-G0201,3,05:21,DET,,HOU,,T. Hardaway Jr.,DET,Hardaway Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0201,3,04:18,DET,,HOU,,T. Hardaway Jr.,DET,SUB: Fontecchio FOR Hardaway Jr.,Substitution,,0,0,0,0,,,h
+S2425-G0201,4,08:19,DET,75.0,HOU,84.0,T. Hardaway Jr.,DET,Hardaway Jr. 25' 3PT Jump Shot (7 PTS) (Cunningham 7 AST),Made Shot,Jump Shot,-191,167,25,1,3.0,3.0,h
+S2425-G0201,4,06:25,DET,,HOU,,T. Hardaway Jr.,DET,Hardaway Jr. REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0201,4,06:17,DET,85.0,HOU,87.0,T. Hardaway Jr.,DET,Hardaway Jr. 4' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,31,18,4,1,2.0,2.0,h
+S2425-G0201,4,06:17,DET,86.0,HOU,87.0,T. Hardaway Jr.,DET,Hardaway Jr. Free Throw 1 of 1 (10 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2425-G0201,4,01:28,DET,,HOU,,T. Hardaway Jr.,DET,SUB: Beasley FOR Hardaway Jr.,Substitution,,0,0,0,0,,,h
+S2425-G0201,4,00:06.200000,DET,,HOU,,T. Hardaway Jr.,DET,SUB: Stewart FOR Hardaway Jr.,Substitution,,0,0,0,0,,,h
+S2425-G0169,1,08:15,CHA,,DET,,T. Hardaway Jr.,DET,Hardaway Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0169,1,06:54,CHA,,DET,,T. Hardaway Jr.,DET,Hardaway Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0169,1,05:48,CHA,,DET,,T. Hardaway Jr.,DET,MISS Hardaway Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,-183,177,25,1,3.0,0.0,v
+S2425-G0169,1,04:29,CHA,,DET,,T. Hardaway Jr.,DET,SUB: Fontecchio FOR Hardaway Jr.,Substitution,,0,0,0,0,,,v
+S2425-G0169,2,06:58,CHA,,DET,,T. Hardaway Jr.,DET,MISS Hardaway Jr. 14' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,132,48,14,1,2.0,0.0,v
+S2425-G0169,2,04:57,CHA,37.0,DET,39.0,T. Hardaway Jr.,DET,Hardaway Jr. 2' Driving Finger Roll Layup (2 PTS) (Ivey 1 AST),Made Shot,Driving Finger Roll Layup Shot,15,10,2,1,2.0,2.0,v
+S2425-G0169,2,03:04,CHA,,DET,,T. Hardaway Jr.,DET,MISS Hardaway Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,-76,248,26,1,3.0,0.0,v
+S2425-G0169,3,10:47,CHA,46.0,DET,49.0,T. Hardaway Jr.,DET,Hardaway Jr. 18' Pullup Jump Shot (4 PTS) (Harris 1 AST),Made Shot,Pullup Jump shot,112,136,18,1,2.0,2.0,v
+S2425-G0169,3,06:54,CHA,61.0,DET,60.0,T. Hardaway Jr.,DET,Hardaway Jr. 26' 3PT Jump Shot (7 PTS) (Cunningham 5 AST),Made Shot,Jump Shot,-137,221,26,1,3.0,3.0,v
+S2425-G0169,3,05:39,CHA,,DET,,T. Hardaway Jr.,DET,MISS Hardaway Jr. 3PT Running Jump Shot,Missed Shot,Running Jump Shot,224,1,0,1,3.0,0.0,v
+S2425-G0169,3,05:08,CHA,,DET,,T. Hardaway Jr.,DET,Hardaway Jr. Lost Ball Turnover (P1.T6),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0169,3,04:58,CHA,,DET,,T. Hardaway Jr.,DET,Hardaway Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0169,3,02:57,CHA,,DET,,T. Hardaway Jr.,DET,SUB: Stewart FOR Hardaway Jr.,Substitution,,0,0,0,0,,,v
+S2425-G0169,4,04:02,CHA,92.0,DET,96.0,T. Hardaway Jr.,DET,Hardaway Jr. 30' 3PT Jump Shot (10 PTS) (Harris 3 AST),Made Shot,Jump Shot,-48,293,30,1,3.0,3.0,v
+S2425-G0169,4,02:17,CHA,98.0,DET,101.0,T. Hardaway Jr.,DET,Hardaway Jr. 26' 3PT Running Jump Shot (13 PTS) (Cunningham 10 AST),Made Shot,Running Jump Shot,162,200,26,1,3.0,3.0,v
+S2425-G0169,4,00:42.200000,CHA,,DET,,T. Hardaway Jr.,DET,MISS Hardaway Jr. 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-134,227,26,1,3.0,0.0,v

@@ -1,46 +1,79 @@
 game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
-S2424-G124,1,11:50,MEM,,BKN,,J. Morant,MEM,Morant REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
-S2424-G124,1,10:30,MEM,,BKN,,J. Morant,MEM,MISS Morant 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,12,63,6,1,2.0,0.0,h
-S2424-G124,1,09:27,MEM,,BKN,,J. Morant,MEM,Morant REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
-S2424-G124,1,09:20,MEM,,BKN,,J. Morant,MEM,Morant Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,h
-S2424-G124,1,09:11,MEM,,BKN,,J. Morant,MEM,Morant REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
-S2424-G124,1,07:29,MEM,,BKN,,J. Morant,MEM,MISS Morant 24' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-232,53,24,1,3.0,0.0,h
-S2424-G124,1,06:28,MEM,,BKN,,J. Morant,MEM,Morant Out of Bounds - Bad Pass Turnover Turnover (P2.T4),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
-S2424-G124,1,06:28,MEM,,BKN,,J. Morant,MEM,SUB: LaRavia FOR Morant,Substitution,,0,0,0,0,,,h
-S2424-G124,1,00:56.800000,MEM,28.0,BKN,29.0,J. Morant,MEM,Morant Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
-S2424-G124,1,00:56.800000,MEM,29.0,BKN,29.0,J. Morant,MEM,Morant Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
-S2424-G124,1,00:11.500000,MEM,,BKN,,J. Morant,MEM,Morant Step Out of Bounds Turnover (P3.T7),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
-S2424-G124,2,11:33,MEM,,BKN,,J. Morant,MEM,MISS Morant 1' Running Reverse Dunk Shot,Missed Shot,Running Reverse Dunk Shot,-2,9,1,1,2.0,0.0,h
-S2424-G124,2,09:04,MEM,,BKN,,J. Morant,MEM,MISS Morant 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-104,240,26,1,3.0,0.0,h
-S2424-G124,2,07:55,MEM,,BKN,,J. Morant,MEM,SUB: Pippen Jr. FOR Morant,Substitution,,0,0,0,0,,,h
-S2424-G124,2,01:54,MEM,57.0,BKN,61.0,J. Morant,MEM,Morant 9' Driving Floating Bank Jump Shot (4 PTS),Made Shot,Driving Floating Bank Jump Shot,-87,30,9,1,2.0,2.0,h
-S2424-G124,2,01:32,MEM,,BKN,,J. Morant,MEM,Morant Out of Bounds Lost Ball Turnover (P4.T14),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
-S2424-G124,2,01:13,MEM,,BKN,,J. Morant,MEM,Morant P.FOUL (P1.T4) (A.Smith),Foul,Personal,0,0,0,0,,,h
-S2424-G124,2,00:02.400000,MEM,,BKN,,J. Morant,MEM,Morant P.FOUL (P2.PN) (B.Forte),Foul,Personal,0,0,0,0,,,h
-S2424-G124,2,00:00.700000,MEM,62.0,BKN,67.0,J. Morant,MEM,Morant 2' Driving Finger Roll Layup (6 PTS) (LaRavia 5 AST),Made Shot,Driving Finger Roll Layup Shot,7,22,2,1,2.0,2.0,h
-S2424-G124,3,10:10,MEM,,BKN,,J. Morant,MEM,MISS Morant 25' 3PT Jump Shot,Missed Shot,Jump Shot,-184,163,25,1,3.0,0.0,h
-S2424-G124,3,10:04,MEM,,BKN,,J. Morant,MEM,MISS Morant 28' 3PT Jump Shot,Missed Shot,Jump Shot,-147,235,28,1,3.0,0.0,h
-S2424-G124,3,09:38,MEM,,BKN,,J. Morant,MEM,MISS Morant 14' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-54,133,14,1,2.0,0.0,h
-S2424-G124,3,09:26,MEM,,BKN,,J. Morant,MEM,Morant REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
-S2424-G124,3,08:30,MEM,66.0,BKN,78.0,J. Morant,MEM,Morant 6' Driving Finger Roll Layup (8 PTS),Made Shot,Driving Finger Roll Layup Shot,-18,53,6,1,2.0,2.0,h
-S2424-G124,3,07:27,MEM,,BKN,,J. Morant,MEM,MISS Morant 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,22,99,10,1,2.0,0.0,h
-S2424-G124,3,06:04,MEM,,BKN,,J. Morant,MEM,Morant REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
-S2424-G124,3,04:56,MEM,81.0,BKN,83.0,J. Morant,MEM,Morant 27' 3PT Running Pull-Up Jump Shot (11 PTS),Made Shot,Running Pull-Up Jump Shot,114,242,27,1,3.0,3.0,h
-S2424-G124,3,04:24,MEM,,BKN,,J. Morant,MEM,Morant REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
-S2424-G124,3,04:08,MEM,,BKN,,J. Morant,MEM,MISS Morant 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,29,25,4,1,2.0,0.0,h
-S2424-G124,3,04:07,MEM,,BKN,,J. Morant,MEM,Morant REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,h
-S2424-G124,3,03:32,MEM,,BKN,,J. Morant,MEM,Morant REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,h
-S2424-G124,3,03:12,MEM,,BKN,,J. Morant,MEM,Morant Traveling Turnover (P5.T19),Turnover,Traveling,0,0,0,0,,,h
-S2424-G124,3,02:54,MEM,,BKN,,J. Morant,MEM,SUB: Pippen Jr. FOR Morant,Substitution,,0,0,0,0,,,h
-S2424-G124,3,00:32.300000,MEM,87.0,BKN,91.0,J. Morant,MEM,Morant 2' Driving Layup (13 PTS),Made Shot,Driving Layup Shot,16,13,2,1,2.0,2.0,h
-S2424-G124,3,00:28.300000,MEM,,BKN,,J. Morant,MEM,"Double Technical - Morant, K. Johnson (A.Smith)",Foul,Double Technical,0,0,0,0,,,
-S2424-G124,4,09:52,MEM,,BKN,,J. Morant,MEM,MISS Morant 7' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-40,53,7,1,2.0,0.0,h
-S2424-G124,4,09:38,MEM,,BKN,,J. Morant,MEM,MISS Morant Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
-S2424-G124,4,09:38,MEM,93.0,BKN,98.0,J. Morant,MEM,Morant Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
-S2424-G124,4,09:20,MEM,,BKN,,J. Morant,MEM,SUB: Pippen Jr. FOR Morant,Substitution,,0,0,0,0,,,h
-S2424-G124,4,02:18,MEM,,BKN,,J. Morant,MEM,MISS Morant 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,55,248,25,1,3.0,0.0,h
-S2424-G124,4,01:38,MEM,,BKN,,J. Morant,MEM,Morant P.FOUL (P3.T4) (A.Smith),Foul,Personal,0,0,0,0,,,h
-S2424-G124,4,01:18,MEM,,BKN,,J. Morant,MEM,SUB: Kawamura FOR Morant,Substitution,,0,0,0,0,,,h
+S2425-G0142,1,10:06,PHI,,MEM,,J. Morant,MEM,Morant REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0142,1,08:46,PHI,,MEM,,J. Morant,MEM,MISS Morant 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-12,166,17,1,2.0,0.0,v
+S2425-G0142,1,08:26,PHI,3.0,MEM,6.0,J. Morant,MEM,Morant Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0142,1,08:26,PHI,3.0,MEM,7.0,J. Morant,MEM,Morant Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0142,1,07:39,PHI,,MEM,,J. Morant,MEM,Morant P.FOUL (P1.T2) (J.Tiven),Foul,Personal,0,0,0,0,,,v
+S2425-G0142,1,07:22,PHI,,MEM,,J. Morant,MEM,Morant Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0142,1,06:25,PHI,,MEM,,J. Morant,MEM,Morant REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0142,1,06:13,PHI,,MEM,,J. Morant,MEM,Morant Out of Bounds - Bad Pass Turnover Turnover (P2.T2),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0142,1,05:08,PHI,,MEM,,J. Morant,MEM,Morant REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0142,1,03:23,PHI,,MEM,,J. Morant,MEM,SUB: Jackson Jr. FOR Morant,Substitution,,0,0,0,0,,,v
+S2425-G0142,1,00:00.200000,PHI,,MEM,,J. Morant,MEM,MISS Morant 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,232,92,25,1,3.0,0.0,v
+S2425-G0142,2,06:48,PHI,,MEM,,J. Morant,MEM,Morant STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0142,2,06:14,PHI,,MEM,,J. Morant,MEM,MISS Morant 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-9,47,5,1,2.0,0.0,v
+S2425-G0142,2,04:45,PHI,,MEM,,J. Morant,MEM,Morant REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0142,2,04:25,PHI,45.0,MEM,45.0,J. Morant,MEM,Morant 5' Driving Floating Bank Jump Shot (4 PTS),Made Shot,Driving Floating Bank Jump Shot,48,17,5,1,2.0,2.0,v
+S2425-G0142,2,03:50,PHI,,MEM,,J. Morant,MEM,Morant Bad Pass Turnover (P3.T7),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0142,2,03:04,PHI,,MEM,,J. Morant,MEM,Morant REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0142,2,02:37,PHI,,MEM,,J. Morant,MEM,Morant REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0142,2,02:28,PHI,,MEM,,J. Morant,MEM,Morant Out of Bounds - Bad Pass Turnover Turnover (P4.T8),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0142,2,01:56,PHI,51.0,MEM,51.0,J. Morant,MEM,Morant Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0142,2,01:56,PHI,,MEM,,J. Morant,MEM,MISS Morant Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0142,2,00:49.400000,PHI,51.0,MEM,55.0,J. Morant,MEM,Morant 1' Running Layup (7 PTS) (Pippen Jr. 7 AST),Made Shot,Running Layup Shot,-2,14,1,1,2.0,2.0,v
+S2425-G0142,2,00:38.500000,PHI,,MEM,,J. Morant,MEM,MISS Morant Free Throw Technical,Free Throw,Free Throw Technical,0,0,0,0,1.0,0.0,v
+S2425-G0142,2,00:32.900000,PHI,51.0,MEM,56.0,J. Morant,MEM,Morant Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0142,2,00:32.900000,PHI,51.0,MEM,57.0,J. Morant,MEM,Morant Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0142,2,00:00.200000,PHI,,MEM,,J. Morant,MEM,MISS Morant 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,2,25,3,1,2.0,0.0,v
+S2425-G0142,3,09:06,PHI,,MEM,,J. Morant,MEM,MISS Morant 15' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-28,148,15,1,2.0,0.0,v
+S2425-G0142,3,08:52,PHI,,MEM,,J. Morant,MEM,MISS Morant 2' Running Layup,Missed Shot,Running Layup Shot,7,22,2,1,2.0,0.0,v
+S2425-G0142,3,07:51,PHI,58.0,MEM,69.0,J. Morant,MEM,Morant 1' Driving Layup (11 PTS),Made Shot,Driving Layup Shot,-7,12,1,1,2.0,2.0,v
+S2425-G0142,3,06:55,PHI,60.0,MEM,72.0,J. Morant,MEM,Morant 2' Driving Reverse Layup (13 PTS) (Aldama 2 AST),Made Shot,Driving Reverse Layup Shot,4,17,2,1,2.0,2.0,v
+S2425-G0142,3,04:00,PHI,,MEM,,J. Morant,MEM,Morant STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0142,3,03:57,PHI,,MEM,,J. Morant,MEM,SUB: Jackson Jr. FOR Morant,Substitution,,0,0,0,0,,,v
+S2425-G0142,4,06:29,PHI,,MEM,,J. Morant,MEM,MISS Morant 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-216,112,24,1,3.0,0.0,v
+S2425-G0142,4,05:36,PHI,95.0,MEM,112.0,J. Morant,MEM,Morant 2' Driving Layup (15 PTS),Made Shot,Driving Layup Shot,5,21,2,1,2.0,2.0,v
+S2425-G0142,4,04:12,PHI,98.0,MEM,114.0,J. Morant,MEM,Morant 3' Running Layup (17 PTS) (Wells 2 AST),Made Shot,Running Layup Shot,-11,31,3,1,2.0,2.0,v
+S2425-G0142,4,03:23,PHI,98.0,MEM,115.0,J. Morant,MEM,Morant Free Throw 1 of 1 (18 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0142,4,03:12,PHI,,MEM,,J. Morant,MEM,Morant Lost Ball Turnover (P5.T15),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0142,4,02:09,PHI,,MEM,,J. Morant,MEM,Morant Bad Pass Turnover (P6.T16),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0142,4,01:27,PHI,,MEM,,J. Morant,MEM,SUB: Kawamura FOR Morant,Substitution,,0,0,0,0,,,v
+S2425-G0158,1,11:02,BKN,,MEM,,J. Morant,MEM,Morant REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0158,1,10:55,BKN,0.0,MEM,3.0,J. Morant,MEM,Morant 26' 3PT Jump Shot (3 PTS) (Wells 1 AST),Made Shot,Jump Shot,-18,258,26,1,3.0,3.0,v
+S2425-G0158,1,08:17,BKN,,MEM,,J. Morant,MEM,Morant REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0158,1,07:36,BKN,,MEM,,J. Morant,MEM,MISS Morant 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-15,88,9,1,2.0,0.0,v
+S2425-G0158,1,06:38,BKN,9.0,MEM,13.0,J. Morant,MEM,Morant 3' Running Reverse Layup (5 PTS),Made Shot,Running Reverse Layup Shot,-21,15,3,1,2.0,2.0,v
+S2425-G0158,1,04:14,BKN,18.0,MEM,17.0,J. Morant,MEM,Morant 4' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,-2,38,4,1,2.0,2.0,v
+S2425-G0158,1,03:39,BKN,18.0,MEM,19.0,J. Morant,MEM,Morant 7' Floating Jump Shot (9 PTS),Made Shot,Floating Jump shot,-16,68,7,1,2.0,2.0,v
+S2425-G0158,1,02:49,BKN,,MEM,,J. Morant,MEM,SUB: Wells FOR Morant,Substitution,,0,0,0,0,,,v
+S2425-G0158,2,04:36,BKN,,MEM,,J. Morant,MEM,MISS Morant 3' Driving Layup,Missed Shot,Driving Layup Shot,-20,20,3,1,2.0,0.0,v
+S2425-G0158,2,03:51,BKN,41.0,MEM,45.0,J. Morant,MEM,Morant 2' Driving Reverse Layup (11 PTS) (Aldama 3 AST),Made Shot,Driving Reverse Layup Shot,-16,5,2,1,2.0,2.0,v
+S2425-G0158,2,03:17,BKN,44.0,MEM,46.0,J. Morant,MEM,Morant Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0158,2,03:17,BKN,44.0,MEM,47.0,J. Morant,MEM,Morant Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0158,2,03:01,BKN,,MEM,,J. Morant,MEM,Morant REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0158,2,02:05,BKN,,MEM,,J. Morant,MEM,Morant REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0158,2,01:45,BKN,,MEM,,J. Morant,MEM,MISS Morant 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-16,15,2,1,2.0,0.0,v
+S2425-G0158,2,00:58.900000,BKN,,MEM,,J. Morant,MEM,MISS Morant 30' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,64,289,30,1,3.0,0.0,v
+S2425-G0158,2,00:33.900000,BKN,,MEM,,J. Morant,MEM,MISS Morant 24' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,75,225,24,1,2.0,0.0,v
+S2425-G0158,3,11:33,BKN,50.0,MEM,51.0,J. Morant,MEM,Morant 3' Running Layup (15 PTS),Made Shot,Running Layup Shot,-29,1,3,1,2.0,2.0,v
+S2425-G0158,3,10:08,BKN,,MEM,,J. Morant,MEM,Morant Lost Ball Turnover (P1.T8),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0158,3,08:51,BKN,57.0,MEM,58.0,J. Morant,MEM,Morant Running Reverse Layup (17 PTS) (Jackson Jr. 1 AST),Made Shot,Running Reverse Layup Shot,-4,-1,0,1,2.0,2.0,v
+S2425-G0158,3,06:39,BKN,,MEM,,J. Morant,MEM,MISS Morant 3' Driving Layup,Missed Shot,Driving Layup Shot,32,9,3,1,2.0,0.0,v
+S2425-G0158,3,06:11,BKN,,MEM,,J. Morant,MEM,Morant Bad Pass Turnover (P2.T9),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0158,3,04:43,BKN,70.0,MEM,68.0,J. Morant,MEM,Morant 10' Driving Floating Jump Shot (19 PTS),Made Shot,Driving Floating Jump Shot,64,75,10,1,2.0,2.0,v
+S2425-G0158,3,04:12,BKN,70.0,MEM,70.0,J. Morant,MEM,Morant 1' Driving Layup (21 PTS),Made Shot,Driving Layup Shot,-6,4,1,1,2.0,2.0,v
+S2425-G0158,3,03:42,BKN,,MEM,,J. Morant,MEM,MISS Morant 28' 3PT Jump Shot,Missed Shot,Jump Shot,6,277,28,1,3.0,0.0,v
+S2425-G0158,3,03:20,BKN,,MEM,,J. Morant,MEM,SUB: Jackson Jr. FOR Morant,Substitution,,0,0,0,0,,,v
+S2425-G0158,4,06:42,BKN,90.0,MEM,88.0,J. Morant,MEM,Morant 11' Fadeaway Jumper (23 PTS),Made Shot,Fadeaway Jump Shot,-104,47,11,1,2.0,2.0,v
+S2425-G0158,4,06:11,BKN,92.0,MEM,89.0,J. Morant,MEM,Morant Free Throw 1 of 2 (24 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0158,4,06:11,BKN,92.0,MEM,90.0,J. Morant,MEM,Morant Free Throw 2 of 2 (25 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0158,4,05:48,BKN,,MEM,,J. Morant,MEM,MISS Morant 2' Running Layup,Missed Shot,Running Layup Shot,-15,14,2,1,2.0,0.0,v
+S2425-G0158,4,05:47,BKN,,MEM,,J. Morant,MEM,Morant REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0158,4,05:47,BKN,,MEM,,J. Morant,MEM,MISS Morant Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2425-G0158,4,04:48,BKN,,MEM,,J. Morant,MEM,MISS Morant 7' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,6,68,7,1,2.0,0.0,v
+S2425-G0158,4,02:08,BKN,,MEM,,J. Morant,MEM,Morant Out of Bounds - Bad Pass Turnover Turnover (P3.T15),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0158,4,01:03,BKN,,MEM,,J. Morant,MEM,MISS Morant 11' Floating Jump Shot,Missed Shot,Floating Jump shot,70,85,11,1,2.0,0.0,v
+S2425-G0158,4,00:51.200000,BKN,,MEM,,J. Morant,MEM,MISS Morant 7' Floating Jump Shot,Missed Shot,Floating Jump shot,11,69,7,1,2.0,0.0,v
 S2425-G0070,1,10:15,UTA,5.0,MEM,2.0,J. Morant,MEM,Morant 17' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,-85,142,17,1,2.0,2.0,v
 S2425-G0070,1,10:15,UTA,5.0,MEM,3.0,J. Morant,MEM,Morant Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
 S2425-G0070,1,09:47,UTA,,MEM,,J. Morant,MEM,MISS Morant 6' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-33,55,6,1,2.0,0.0,v
@@ -79,6 +112,44 @@ S2425-G0070,4,08:41,UTA,,MEM,,J. Morant,MEM,SUB: Pippen Jr. FOR Morant,Substitut
 S2425-G0070,4,02:16,UTA,,MEM,,J. Morant,MEM,Morant P.FOUL (P4.PN) (K.Cutler),Foul,Personal,0,0,0,0,,,v
 S2425-G0070,4,01:28,UTA,,MEM,,J. Morant,MEM,Morant Lost Ball Turnover (P3.T13),Turnover,Lost Ball,0,0,0,0,,,v
 S2425-G0070,4,00:38.200000,UTA,119.0,MEM,124.0,J. Morant,MEM,Morant 3' Driving Finger Roll Layup (22 PTS),Made Shot,Driving Finger Roll Layup Shot,-7,26,3,1,2.0,2.0,v
+S2425-G0174,1,11:46,MEM,,LAL,,J. Morant,MEM,MISS Morant 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-17,52,5,1,2.0,0.0,h
+S2425-G0174,1,10:37,MEM,,LAL,,J. Morant,MEM,MISS Morant 1' Running Layup,Missed Shot,Running Layup Shot,-1,9,1,1,2.0,0.0,h
+S2425-G0174,1,09:14,MEM,,LAL,,J. Morant,MEM,Morant S.FOUL (P1.T1) (B.Maru),Foul,Shooting,0,0,0,0,,,h
+S2425-G0174,1,09:07,MEM,,LAL,,J. Morant,MEM,MISS Morant 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,17,100,10,1,2.0,0.0,h
+S2425-G0174,1,08:54,MEM,,LAL,,J. Morant,MEM,Morant Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0174,1,08:39,MEM,,LAL,,J. Morant,MEM,MISS Morant 5' Driving Layup,Missed Shot,Driving Layup Shot,36,27,5,1,2.0,0.0,h
+S2425-G0174,1,08:13,MEM,10.0,LAL,4.0,J. Morant,MEM,Morant 3' Running Reverse Layup (2 PTS),Made Shot,Running Reverse Layup Shot,21,15,3,1,2.0,2.0,h
+S2425-G0174,1,05:50,MEM,16.0,LAL,10.0,J. Morant,MEM,Morant 24' 3PT Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,143,194,24,1,3.0,3.0,h
+S2425-G0174,1,05:27,MEM,,LAL,,J. Morant,MEM,MISS Morant 7' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,5,74,7,1,2.0,0.0,h
+S2425-G0174,1,05:20,MEM,,LAL,,J. Morant,MEM,Morant STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0174,1,05:18,MEM,17.0,LAL,12.0,J. Morant,MEM,Morant Free Throw Clear Path 1 of 2 (6 PTS),Free Throw,Free Throw Clear Path 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0174,1,05:18,MEM,18.0,LAL,12.0,J. Morant,MEM,Morant Free Throw Clear Path 2 of 2 (7 PTS),Free Throw,Free Throw Clear Path 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0174,1,05:04,MEM,,LAL,,J. Morant,MEM,Morant Out of Bounds - Bad Pass Turnover Turnover (P2.T6),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0174,1,03:51,MEM,,LAL,,J. Morant,MEM,SUB: Clarke FOR Morant,Substitution,,0,0,0,0,,,h
+S2425-G0174,2,05:12,MEM,,LAL,,J. Morant,MEM,Morant REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0174,2,05:07,MEM,,LAL,,J. Morant,MEM,Morant Bad Pass Turnover (P3.T9),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0174,2,04:13,MEM,,LAL,,J. Morant,MEM,MISS Morant 3' Driving Layup,Missed Shot,Driving Layup Shot,13,26,3,1,2.0,0.0,h
+S2425-G0174,2,02:59,MEM,50.0,LAL,46.0,J. Morant,MEM,Morant Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0174,2,02:59,MEM,,LAL,,J. Morant,MEM,MISS Morant Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0174,2,01:24,MEM,54.0,LAL,48.0,J. Morant,MEM,Morant 6' Turnaround Hook Shot (10 PTS),Made Shot,Turnaround Hook Shot,33,55,6,1,2.0,2.0,h
+S2425-G0174,2,01:24,MEM,55.0,LAL,48.0,J. Morant,MEM,Morant Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2425-G0174,2,00:37.200000,MEM,59.0,LAL,52.0,J. Morant,MEM,Morant 7' Driving Floating Bank Jump Shot (13 PTS),Made Shot,Driving Floating Bank Jump Shot,-66,19,7,1,2.0,2.0,h
+S2425-G0174,2,00:37.200000,MEM,,LAL,,J. Morant,MEM,Morant T.FOUL (P1.T2) (G.Petraitis),Foul,Technical,0,0,0,0,,,h
+S2425-G0174,2,00:29.900000,MEM,,LAL,,J. Morant,MEM,Morant REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0174,2,00:07.900000,MEM,,LAL,,J. Morant,MEM,MISS Morant 16' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-21,159,16,1,2.0,0.0,h
+S2425-G0174,3,10:50,MEM,,LAL,,J. Morant,MEM,MISS Morant 4' Driving Layup,Missed Shot,Driving Layup Shot,-29,21,4,1,2.0,0.0,h
+S2425-G0174,3,10:12,MEM,65.0,LAL,57.0,J. Morant,MEM,Morant 28' 3PT Running Jump Shot (16 PTS) (Aldama 1 AST),Made Shot,Running Jump Shot,47,275,28,1,3.0,3.0,h
+S2425-G0174,3,09:10,MEM,,LAL,,J. Morant,MEM,Morant Bad Pass Turnover (P4.T12),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0174,3,08:50,MEM,70.0,LAL,63.0,J. Morant,MEM,Morant 7' Driving Floating Bank Jump Shot (18 PTS),Made Shot,Driving Floating Bank Jump Shot,-64,27,7,1,2.0,2.0,h
+S2425-G0174,3,08:30,MEM,72.0,LAL,63.0,J. Morant,MEM,Morant 23' Running Pull-Up Jump Shot (20 PTS) (Wells 1 AST),Made Shot,Running Pull-Up Jump Shot,-151,171,23,1,2.0,2.0,h
+S2425-G0174,3,08:00,MEM,,LAL,,J. Morant,MEM,Morant Bad Pass Turnover (P5.T13),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0174,3,07:51,MEM,,LAL,,J. Morant,MEM,Morant S.FOUL (P2.T1) (G.Petraitis),Foul,Shooting,0,0,0,0,,,h
+S2425-G0174,3,07:37,MEM,,LAL,,J. Morant,MEM,MISS Morant 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,70,247,26,1,3.0,0.0,h
+S2425-G0174,3,07:05,MEM,,LAL,,J. Morant,MEM,Morant REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0174,3,06:39,MEM,,LAL,,J. Morant,MEM,Morant REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0174,3,05:41,MEM,,LAL,,J. Morant,MEM,Morant BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0174,3,03:45,MEM,,LAL,,J. Morant,MEM,MISS Morant 3' Running Alley Oop Dunk Shot,Missed Shot,Running Alley Oop Dunk Shot,-22,22,3,1,2.0,0.0,h
+S2425-G0174,3,03:27,MEM,,LAL,,J. Morant,MEM,SUB: Kennard FOR Morant,Substitution,,0,0,0,0,,,h
 S2425-G0092,1,11:19,MEM,,ORL,,J. Morant,MEM,Morant REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
 S2425-G0092,1,11:14,MEM,,ORL,,J. Morant,MEM,MISS Morant 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-89,232,25,1,3.0,0.0,h
 S2425-G0092,1,10:23,MEM,,ORL,,J. Morant,MEM,MISS Morant 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,25,35,4,1,2.0,0.0,h
@@ -113,6 +184,47 @@ S2425-G0092,4,10:28,MEM,95.0,ORL,82.0,J. Morant,MEM,Morant Free Throw Technical 
 S2425-G0092,4,10:08,MEM,96.0,ORL,82.0,J. Morant,MEM,Morant Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
 S2425-G0092,4,10:08,MEM,97.0,ORL,82.0,J. Morant,MEM,Morant Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
 S2425-G0092,4,07:36,MEM,,ORL,,J. Morant,MEM,SUB: Pippen Jr. FOR Morant,Substitution,,0,0,0,0,,,h
+S2425-G0128,1,11:37,MEM,,MIL,,J. Morant,MEM,Morant REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0128,1,10:27,MEM,,MIL,,J. Morant,MEM,Morant REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0128,1,10:06,MEM,,MIL,,J. Morant,MEM,MISS Morant 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,58,247,25,1,3.0,0.0,h
+S2425-G0128,1,09:44,MEM,6.0,MIL,6.0,J. Morant,MEM,Morant 10' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,47,89,10,1,2.0,2.0,h
+S2425-G0128,1,09:13,MEM,8.0,MIL,8.0,J. Morant,MEM,Morant 3' Driving Finger Roll Layup (4 PTS),Made Shot,Driving Finger Roll Layup Shot,21,14,3,1,2.0,2.0,h
+S2425-G0128,1,09:13,MEM,9.0,MIL,8.0,J. Morant,MEM,Morant Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2425-G0128,1,08:53,MEM,,MIL,,J. Morant,MEM,Morant REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0128,1,08:45,MEM,11.0,MIL,8.0,J. Morant,MEM,Morant 8' Turnaround Jump Shot (7 PTS),Made Shot,Turnaround Jump Shot,60,55,8,1,2.0,2.0,h
+S2425-G0128,1,07:15,MEM,,MIL,,J. Morant,MEM,MISS Morant 9' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-88,-10,9,1,2.0,0.0,h
+S2425-G0128,1,06:47,MEM,,MIL,,J. Morant,MEM,Morant Step Out of Bounds Turnover (P1.T1),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2425-G0128,1,04:09,MEM,30.0,MIL,17.0,J. Morant,MEM,Morant 25' 3PT Jump Shot (10 PTS) (LaRavia 1 AST),Made Shot,Jump Shot,64,240,25,1,3.0,3.0,h
+S2425-G0128,1,03:24,MEM,,MIL,,J. Morant,MEM,Morant STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0128,1,03:05,MEM,,MIL,,J. Morant,MEM,SUB: Jackson Jr. FOR Morant,Substitution,,0,0,0,0,,,h
+S2425-G0128,1,00:03.300000,MEM,,MIL,,J. Morant,MEM,Morant REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0128,1,00:00.200000,MEM,,MIL,,J. Morant,MEM,MISS Morant 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-23,240,24,1,3.0,0.0,h
+S2425-G0128,2,07:52,MEM,,MIL,,J. Morant,MEM,MISS Morant 21' Step Back Jump Shot,Missed Shot,Step Back Jump shot,103,183,21,1,2.0,0.0,h
+S2425-G0128,2,06:07,MEM,,MIL,,J. Morant,MEM,Morant REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0128,2,04:56,MEM,54.0,MIL,44.0,J. Morant,MEM,Morant 3PT Jump Shot (13 PTS) (LaRavia 2 AST),Made Shot,Jump Shot,225,29,0,1,3.0,3.0,h
+S2425-G0128,2,04:35,MEM,,MIL,,J. Morant,MEM,Morant REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0128,2,04:30,MEM,56.0,MIL,44.0,J. Morant,MEM,Morant 7' Fadeaway Bank Shot (15 PTS),Made Shot,Fadeaway Bank shot,-60,27,7,1,2.0,2.0,h
+S2425-G0128,2,03:24,MEM,60.0,MIL,46.0,J. Morant,MEM,Morant 13' Turnaround Fadeaway (17 PTS),Made Shot,Turnaround Fadeaway shot,36,130,13,1,2.0,2.0,h
+S2425-G0128,2,02:58,MEM,,MIL,,J. Morant,MEM,MISS Morant 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-100,227,25,1,3.0,0.0,h
+S2425-G0128,2,02:08,MEM,,MIL,,J. Morant,MEM,Morant REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0128,2,01:46,MEM,64.0,MIL,48.0,J. Morant,MEM,Morant Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0128,2,01:46,MEM,65.0,MIL,48.0,J. Morant,MEM,Morant Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0128,2,01:16,MEM,,MIL,,J. Morant,MEM,Morant REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0128,2,00:35.600000,MEM,69.0,MIL,48.0,J. Morant,MEM,Morant Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0128,2,00:35.600000,MEM,70.0,MIL,48.0,J. Morant,MEM,Morant Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0128,3,10:44,MEM,,MIL,,J. Morant,MEM,MISS Morant 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,48,67,8,1,2.0,0.0,h
+S2425-G0128,3,08:19,MEM,,MIL,,J. Morant,MEM,Morant REBOUND (Off:1 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0128,3,08:09,MEM,,MIL,,J. Morant,MEM,MISS Morant 1' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,13,6,1,1,2.0,0.0,h
+S2425-G0128,3,07:34,MEM,,MIL,,J. Morant,MEM,Morant REBOUND (Off:1 Def:9),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0128,3,04:10,MEM,,MIL,,J. Morant,MEM,SUB: Wells FOR Morant,Substitution,,0,0,0,0,,,h
+S2425-G0128,4,07:48,MEM,,MIL,,J. Morant,MEM,Morant Bad Pass Turnover (P2.T12),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0128,4,06:45,MEM,107.0,MIL,84.0,J. Morant,MEM,Morant Free Throw 1 of 2 (22 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0128,4,06:45,MEM,,MIL,,J. Morant,MEM,MISS Morant Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0128,4,06:02,MEM,109.0,MIL,86.0,J. Morant,MEM,Morant 9' Driving Floating Jump Shot (24 PTS),Made Shot,Driving Floating Jump Shot,4,88,9,1,2.0,2.0,h
+S2425-G0128,4,05:32,MEM,,MIL,,J. Morant,MEM, ,Jump Ball,,0,0,0,0,,,h
+S2425-G0128,4,05:32,MEM,,MIL,,J. Morant,MEM,Morant Lost Ball Turnover (P3.T13),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0128,4,04:13,MEM,115.0,MIL,91.0,J. Morant,MEM,Morant 4' Driving Finger Roll Layup (26 PTS),Made Shot,Driving Finger Roll Layup Shot,-36,13,4,1,2.0,2.0,h
+S2425-G0128,4,04:03,MEM,,MIL,,J. Morant,MEM,SUB: Pippen Jr. FOR Morant,Substitution,,0,0,0,0,,,h
 S2425-G0082,1,11:44,HOU,,MEM,,J. Morant,MEM,MISS Morant 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-47,116,13,1,2.0,0.0,v
 S2425-G0082,1,10:24,HOU,4.0,MEM,4.0,J. Morant,MEM,Morant 3' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,-1,26,3,1,2.0,2.0,v
 S2425-G0082,1,10:24,HOU,4.0,MEM,5.0,J. Morant,MEM,Morant Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v

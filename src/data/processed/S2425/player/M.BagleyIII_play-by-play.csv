@@ -1,4 +1,11 @@
 game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0147,2,05:29,WAS,,MIA,,M. Bagley III,WAS,Bagley III REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0147,2,04:40,WAS,,MIA,,M. Bagley III,WAS,MISS Bagley III 10' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,45,85,10,1,2.0,0.0,h
+S2425-G0147,2,03:49,WAS,,MIA,,M. Bagley III,WAS,SUB: Sarr FOR Bagley III,Substitution,,0,0,0,0,,,h
+S2425-G0204,1,01:58,ORL,,WAS,,M. Bagley III,WAS,Bagley III REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0204,1,00:03.500000,ORL,,WAS,,M. Bagley III,WAS,Bagley III Out of Bounds Lost Ball Turnover (P1.T4),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2425-G0204,4,02:42,ORL,118.0,WAS,90.0,M. Bagley III,WAS,Bagley III 3' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,-18,26,3,1,2.0,2.0,v
+S2425-G0204,4,02:03,ORL,,WAS,,M. Bagley III,WAS,MISS Bagley III 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,69,40,8,1,2.0,0.0,v
 S2425-G0121,2,10:10,WAS,,ATL,,M. Bagley III,WAS,Bagley III REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
 S2425-G0121,2,09:35,WAS,38.0,ATL,42.0,M. Bagley III,WAS,Bagley III 5' Driving Hook Shot (2 PTS) (Butler 2 AST),Made Shot,Driving Hook Shot,-44,10,5,1,2.0,2.0,h
 S2425-G0121,2,07:41,WAS,,ATL,,M. Bagley III,WAS,MISS Bagley III 10' Floating Jump Shot,Missed Shot,Floating Jump shot,23,96,10,1,2.0,0.0,h

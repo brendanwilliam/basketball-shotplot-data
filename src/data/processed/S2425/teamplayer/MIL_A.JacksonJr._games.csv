@@ -1,4 +1,145 @@
 game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0189,1,11:10,NYK,,MIL,,A. Jackson Jr.,MIL,MISS Jackson Jr. 3PT Jump Shot,Missed Shot,Jump Shot,229,14,0,1,3.0,0.0,v
+S2425-G0189,1,10:04,NYK,6.0,MIL,5.0,A. Jackson Jr.,MIL,Jackson Jr. 25' 3PT Jump Shot (3 PTS) (Antetokounmpo 1 AST),Made Shot,Jump Shot,-186,161,25,1,3.0,3.0,v
+S2425-G0189,1,09:17,NYK,,MIL,,A. Jackson Jr.,MIL,Jackson Jr. BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0189,1,02:48,NYK,,MIL,,A. Jackson Jr.,MIL,MISS Jackson Jr. 24' 3PT Jump Shot,Missed Shot,Jump Shot,232,59,24,1,3.0,0.0,v
+S2425-G0189,1,02:00,NYK,,MIL,,A. Jackson Jr.,MIL,SUB: Rollins FOR Jackson Jr.,Substitution,,0,0,0,0,,,v
+S2425-G0189,2,04:16,NYK,,MIL,,A. Jackson Jr.,MIL,Jackson Jr. Bad Pass Turnover (P1.T8),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0189,2,04:15,NYK,,MIL,,A. Jackson Jr.,MIL,Jackson Jr. S.FOUL (P1.T2) (T.Maddox),Foul,Shooting,0,0,0,0,,,v
+S2425-G0189,2,01:17,NYK,,MIL,,A. Jackson Jr.,MIL,SUB: Prince FOR Jackson Jr.,Substitution,,0,0,0,0,,,v
+S2425-G0189,4,09:53,NYK,,MIL,,A. Jackson Jr.,MIL,SUB: Antetokounmpo FOR Jackson Jr.,Substitution,,0,0,0,0,,,v
+S2425-G0202,1,09:04,MIL,,BOS,,A. Jackson Jr.,MIL,MISS Jackson Jr. 8' Hook Shot,Missed Shot,Hook Shot,-49,57,8,1,2.0,0.0,h
+S2425-G0202,1,06:51,MIL,,BOS,,A. Jackson Jr.,MIL,Jackson Jr. L.B.FOUL (P1.T2) (T.Ford),Foul,Loose Ball,0,0,0,0,,,h
+S2425-G0202,1,05:18,MIL,,BOS,,A. Jackson Jr.,MIL,MISS Jackson Jr. 28' 3PT Jump Shot,Missed Shot,Jump Shot,211,184,28,1,3.0,0.0,h
+S2425-G0202,1,04:18,MIL,,BOS,,A. Jackson Jr.,MIL,MISS Jackson Jr. Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0202,1,04:18,MIL,30.0,BOS,21.0,A. Jackson Jr.,MIL,Jackson Jr. Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0202,1,03:34,MIL,,BOS,,A. Jackson Jr.,MIL,Jackson Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0202,1,01:58,MIL,,BOS,,A. Jackson Jr.,MIL,Jackson Jr. Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0202,1,01:09,MIL,,BOS,,A. Jackson Jr.,MIL,SUB: Connaughton FOR Jackson Jr.,Substitution,,0,0,0,0,,,h
+S2425-G0202,2,06:42,MIL,,BOS,,A. Jackson Jr.,MIL,Jackson Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0202,2,04:58,MIL,,BOS,,A. Jackson Jr.,MIL,Jackson Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0202,2,02:36,MIL,,BOS,,A. Jackson Jr.,MIL,Jackson Jr. Step Out of Bounds Turnover (P2.T4),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2425-G0202,2,01:55,MIL,,BOS,,A. Jackson Jr.,MIL,Jackson Jr. S.FOUL (P2.T3) (N.Sago),Foul,Shooting,0,0,0,0,,,h
+S2425-G0202,3,10:09,MIL,,BOS,,A. Jackson Jr.,MIL,Jackson Jr. Bad Pass Turnover (P3.T5),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0202,3,09:28,MIL,,BOS,,A. Jackson Jr.,MIL,MISS Jackson Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,-23,254,26,1,3.0,0.0,h
+S2425-G0202,3,09:06,MIL,,BOS,,A. Jackson Jr.,MIL,SUB: Green FOR Jackson Jr.,Substitution,,0,0,0,0,,,h
+S2425-G0202,4,10:50,MIL,,BOS,,A. Jackson Jr.,MIL,Jackson Jr. S.FOUL (P3.T1) (E.Dalen),Foul,Shooting,0,0,0,0,,,h
+S2425-G0202,4,10:23,MIL,,BOS,,A. Jackson Jr.,MIL,SUB: Prince FOR Jackson Jr.,Substitution,,0,0,0,0,,,h
+S2425-G0029,1,09:40,MIL,,IND,,A. Jackson Jr.,MIL,MISS Jackson Jr. 11' Turnaround Bank Hook Shot,Missed Shot,Turnaround Bank Hook Shot,-82,70,11,1,2.0,0.0,h
+S2425-G0029,1,08:35,MIL,,IND,,A. Jackson Jr.,MIL,Jackson Jr. STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0029,1,07:52,MIL,,IND,,A. Jackson Jr.,MIL,Jackson Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0029,1,05:02,MIL,,IND,,A. Jackson Jr.,MIL,Jackson Jr. OFF.Foul (P1) (J.Goble),Foul,Offensive,0,0,0,0,,,h
+S2425-G0029,1,05:02,MIL,,IND,,A. Jackson Jr.,MIL,Jackson Jr. Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0029,1,02:54,MIL,,IND,,A. Jackson Jr.,MIL,SUB: Trent Jr. FOR Jackson Jr.,Substitution,,0,0,0,0,,,h
+S2425-G0029,2,00:02,MIL,,IND,,A. Jackson Jr.,MIL,Jackson Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0029,3,10:48,MIL,,IND,,A. Jackson Jr.,MIL,MISS Jackson Jr. 3' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,-6,29,3,1,2.0,0.0,h
+S2425-G0029,3,10:12,MIL,,IND,,A. Jackson Jr.,MIL,Jackson Jr. BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0029,3,09:50,MIL,,IND,,A. Jackson Jr.,MIL,Jackson Jr. P.FOUL (P2.T2) (J.Tiven),Foul,Personal,0,0,0,0,,,h
+S2425-G0029,3,09:19,MIL,,IND,,A. Jackson Jr.,MIL,Jackson Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0029,3,06:36,MIL,,IND,,A. Jackson Jr.,MIL,Jackson Jr. S.FOUL (P3.T4) (S.Mehta),Foul,Shooting,0,0,0,0,,,h
+S2425-G0029,3,04:28,MIL,,IND,,A. Jackson Jr.,MIL,Jackson Jr. REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0029,3,04:28,MIL,,IND,,A. Jackson Jr.,MIL,MISS Jackson Jr. Tip Dunk Shot,Missed Shot,Tip Dunk Shot,0,0,0,1,2.0,0.0,h
+S2425-G0029,3,04:23,MIL,,IND,,A. Jackson Jr.,MIL,Jackson Jr. STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0029,3,04:20,MIL,,IND,,A. Jackson Jr.,MIL,Jackson Jr. REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0029,3,04:05,MIL,,IND,,A. Jackson Jr.,MIL,Jackson Jr. Bad Pass Turnover (P2.T7),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0029,3,03:19,MIL,,IND,,A. Jackson Jr.,MIL,MISS Jackson Jr. 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-172,167,24,1,3.0,0.0,h
+S2425-G0029,3,02:59,MIL,,IND,,A. Jackson Jr.,MIL,Jackson Jr. REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0029,3,02:54,MIL,,IND,,A. Jackson Jr.,MIL,SUB: Trent Jr. FOR Jackson Jr.,Substitution,,0,0,0,0,,,h
+S2425-G0029,4,00:07.600000,MIL,,IND,,A. Jackson Jr.,MIL,MISS Jackson Jr. 3' Driving Layup,Missed Shot,Driving Layup Shot,-2,32,3,1,2.0,0.0,h
+S2425-G0005,1,00:28.500000,MIL,,TOR,,A. Jackson Jr.,MIL,MISS Jackson Jr. 3PT Jump Shot,Missed Shot,Jump Shot,223,44,0,1,3.0,0.0,h
+S2425-G0005,1,00:03.800000,MIL,,TOR,,A. Jackson Jr.,MIL,Jackson Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0005,2,10:31,MIL,,TOR,,A. Jackson Jr.,MIL,Jackson Jr. Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0005,2,10:24,MIL,,TOR,,A. Jackson Jr.,MIL,Jump Ball Jackson Jr. vs. Boucher: Tip to Pöltl,Jump Ball,,0,0,0,0,,,h
+S2425-G0005,2,09:18,MIL,,TOR,,A. Jackson Jr.,MIL,Jackson Jr. L.B.FOUL (P1.T1) (M.Dagher),Foul,Loose Ball,0,0,0,0,,,h
+S2425-G0005,2,08:13,MIL,,TOR,,A. Jackson Jr.,MIL,SUB: Antetokounmpo FOR Jackson Jr.,Substitution,,0,0,0,0,,,h
+S2425-G0005,2,03:55,MIL,,TOR,,A. Jackson Jr.,MIL,Jackson Jr. L.B.FOUL (P2.PN) (M.Dagher),Foul,Loose Ball,0,0,0,0,,,h
+S2425-G0005,3,01:59,MIL,,TOR,,A. Jackson Jr.,MIL,Jackson Jr. BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0005,4,11:15,MIL,,TOR,,A. Jackson Jr.,MIL,Jackson Jr. STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0005,4,11:09,MIL,85.0,TOR,67.0,A. Jackson Jr.,MIL,Jackson Jr. 1' Running Layup (2 PTS),Made Shot,Running Layup Shot,9,9,1,1,2.0,2.0,h
+S2425-G0005,4,10:09,MIL,,TOR,,A. Jackson Jr.,MIL,Jackson Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0005,4,09:24,MIL,,TOR,,A. Jackson Jr.,MIL,Jackson Jr. OFF.Foul (P3) (M.Dagher),Foul,Offensive,0,0,0,0,,,h
+S2425-G0005,4,09:24,MIL,,TOR,,A. Jackson Jr.,MIL,Jackson Jr. Offensive Foul Turnover (P2.T12),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0005,4,08:48,MIL,,TOR,,A. Jackson Jr.,MIL,SUB: Prince FOR Jackson Jr.,Substitution,,0,0,0,0,,,h
+S2425-G0182,1,10:22,MIL,,UTA,,A. Jackson Jr.,MIL,Jackson Jr. STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0182,1,10:16,MIL,6.0,UTA,6.0,A. Jackson Jr.,MIL,Jackson Jr. 1' Running Dunk (2 PTS),Made Shot,Running Dunk Shot,-1,7,1,1,2.0,2.0,h
+S2425-G0182,1,08:23,MIL,,UTA,,A. Jackson Jr.,MIL,Jackson Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0182,1,07:54,MIL,13.0,UTA,9.0,A. Jackson Jr.,MIL,Jackson Jr. 1' Running Layup (4 PTS) (Lillard 1 AST),Made Shot,Running Layup Shot,-2,13,1,1,2.0,2.0,h
+S2425-G0182,1,07:11,MIL,,UTA,,A. Jackson Jr.,MIL,Jackson Jr. STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0182,1,06:19,MIL,,UTA,,A. Jackson Jr.,MIL,MISS Jackson Jr. 9' Driving Hook Shot,Missed Shot,Driving Hook Shot,-49,74,9,1,2.0,0.0,h
+S2425-G0182,1,04:25,MIL,,UTA,,A. Jackson Jr.,MIL,Jackson Jr. S.FOUL (P1.T2) (K.Lane),Foul,Shooting,0,0,0,0,,,h
+S2425-G0182,1,01:15,MIL,,UTA,,A. Jackson Jr.,MIL,SUB: Connaughton FOR Jackson Jr.,Substitution,,0,0,0,0,,,h
+S2425-G0182,2,04:46,MIL,,UTA,,A. Jackson Jr.,MIL,Jackson Jr. S.FOUL (P2.T3) (K.Lane),Foul,Shooting,0,0,0,0,,,h
+S2425-G0182,2,00:54,MIL,,UTA,,A. Jackson Jr.,MIL,Jackson Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0182,2,00:14.200000,MIL,,UTA,,A. Jackson Jr.,MIL,Jackson Jr. P.FOUL (P3.T4) (J.Goble),Foul,Personal,0,0,0,0,,,h
+S2425-G0182,3,11:12,MIL,60.0,UTA,61.0,A. Jackson Jr.,MIL,Jackson Jr. 3PT Jump Shot (7 PTS) (Prince 1 AST),Made Shot,Jump Shot,-232,35,0,1,3.0,3.0,h
+S2425-G0182,3,03:04,MIL,,UTA,,A. Jackson Jr.,MIL,Jackson Jr. STEAL (3 STL),,,0,0,0,0,,,h
+S2425-G0182,3,02:40,MIL,,UTA,,A. Jackson Jr.,MIL,Jackson Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0182,3,01:27,MIL,,UTA,,A. Jackson Jr.,MIL,Jackson Jr. STEAL (4 STL),,,0,0,0,0,,,h
+S2425-G0182,3,01:17,MIL,,UTA,,A. Jackson Jr.,MIL,Jackson Jr. S.FOUL (P4.T2) (K.Lane),Foul,Shooting,0,0,0,0,,,h
+S2425-G0182,3,00:10,MIL,,UTA,,A. Jackson Jr.,MIL,SUB: Rollins FOR Jackson Jr.,Substitution,,0,0,0,0,,,h
+S2425-G0154,1,00:47.500000,CLE,,MIL,,A. Jackson Jr.,MIL,Jackson Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0154,1,00:31.300000,CLE,30.0,MIL,31.0,A. Jackson Jr.,MIL,Jackson Jr. 24' 3PT Jump Shot (3 PTS) (Lillard 2 AST),Made Shot,Jump Shot,235,14,24,1,3.0,3.0,v
+S2425-G0154,2,11:37,CLE,,MIL,,A. Jackson Jr.,MIL,Jackson Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0154,2,10:37,CLE,,MIL,,A. Jackson Jr.,MIL,Jackson Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0154,2,09:51,CLE,,MIL,,A. Jackson Jr.,MIL,SUB: Trent Jr. FOR Jackson Jr.,Substitution,,0,0,0,0,,,v
+S2425-G0154,2,03:56,CLE,,MIL,,A. Jackson Jr.,MIL,Jackson Jr. Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0154,2,03:53,CLE,,MIL,,A. Jackson Jr.,MIL,SUB: Connaughton FOR Jackson Jr.,Substitution,,0,0,0,0,,,v
+S2425-G0154,2,01:23,CLE,,MIL,,A. Jackson Jr.,MIL,SUB: Portis FOR Jackson Jr.,Substitution,,0,0,0,0,,,v
+S2425-G0154,3,05:08,CLE,,MIL,,A. Jackson Jr.,MIL,Jackson Jr. REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0154,3,04:30,CLE,,MIL,,A. Jackson Jr.,MIL,MISS Jackson Jr. 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,0,116,12,1,2.0,0.0,v
+S2425-G0154,3,04:05,CLE,,MIL,,A. Jackson Jr.,MIL,Jackson Jr. Bad Pass Turnover (P2.T12),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0154,3,03:04,CLE,89.0,MIL,89.0,A. Jackson Jr.,MIL,Jackson Jr. 3PT Jump Shot (6 PTS) (Lillard 7 AST),Made Shot,Jump Shot,-230,7,0,1,3.0,3.0,v
+S2425-G0154,3,02:31,CLE,,MIL,,A. Jackson Jr.,MIL,Jackson Jr. REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0154,3,02:20,CLE,,MIL,,A. Jackson Jr.,MIL,MISS Jackson Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,170,195,26,1,3.0,0.0,v
+S2425-G0154,3,01:25,CLE,,MIL,,A. Jackson Jr.,MIL,MISS Jackson Jr. 24' 3PT Jump Shot,Missed Shot,Jump Shot,238,5,24,1,3.0,0.0,v
+S2425-G0154,3,00:19.300000,CLE,,MIL,,A. Jackson Jr.,MIL,SUB: Rollins FOR Jackson Jr.,Substitution,,0,0,0,0,,,v
+S2425-G0154,4,11:35,CLE,,MIL,,A. Jackson Jr.,MIL,MISS Jackson Jr. 9' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,78,41,9,1,2.0,0.0,v
+S2425-G0154,4,10:50,CLE,,MIL,,A. Jackson Jr.,MIL,Jackson Jr. REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0154,4,09:36,CLE,,MIL,,A. Jackson Jr.,MIL,MISS Jackson Jr. Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0154,4,09:36,CLE,92.0,MIL,94.0,A. Jackson Jr.,MIL,Jackson Jr. Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0154,4,09:18,CLE,,MIL,,A. Jackson Jr.,MIL,Jackson Jr. REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0154,4,08:18,CLE,,MIL,,A. Jackson Jr.,MIL,Jackson Jr. BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0154,4,07:24,CLE,,MIL,,A. Jackson Jr.,MIL,Jackson Jr. Violation:Defensive Goaltending (N.Buchert),Violation,Defensive Goaltending,0,0,0,0,,,v
+S2425-G0154,4,06:35,CLE,,MIL,,A. Jackson Jr.,MIL,MISS Jackson Jr. 24' 3PT Jump Shot,Missed Shot,Jump Shot,240,6,24,1,3.0,0.0,v
+S2425-G0154,4,05:43,CLE,,MIL,,A. Jackson Jr.,MIL,SUB: Lopez FOR Jackson Jr.,Substitution,,0,0,0,0,,,v
+S2425-G0154,4,00:12.200000,CLE,,MIL,,A. Jackson Jr.,MIL,SUB: Connaughton FOR Jackson Jr.,Substitution,,0,0,0,0,,,v
+S2425-G0128,1,00:55.200000,MEM,,MIL,,A. Jackson Jr.,MIL,Jackson Jr. Violation:Kicked Ball (J.Goble),Violation,Kicked Ball,0,0,0,0,,,v
+S2425-G0128,1,00:19.200000,MEM,,MIL,,A. Jackson Jr.,MIL,Jackson Jr. P.FOUL (P1.PN) (D.Scott),Foul,Personal,0,0,0,0,,,v
+S2425-G0128,1,00:19.200000,MEM,,MIL,,A. Jackson Jr.,MIL,SUB: Lillard FOR Jackson Jr.,Substitution,,0,0,0,0,,,v
+S2425-G0128,2,11:22,MEM,,MIL,,A. Jackson Jr.,MIL,Jackson Jr. STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0128,2,07:49,MEM,,MIL,,A. Jackson Jr.,MIL,Jackson Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0128,2,07:46,MEM,,MIL,,A. Jackson Jr.,MIL,Jackson Jr. Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0128,2,06:01,MEM,,MIL,,A. Jackson Jr.,MIL,Jackson Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0128,2,04:30,MEM,,MIL,,A. Jackson Jr.,MIL,SUB: Prince FOR Jackson Jr.,Substitution,,0,0,0,0,,,v
+S2425-G0128,2,00:11.300000,MEM,,MIL,,A. Jackson Jr.,MIL,MISS Jackson Jr. 24' 3PT Jump Shot,Missed Shot,Jump Shot,235,22,24,1,3.0,0.0,v
+S2425-G0128,3,00:06.300000,MEM,,MIL,,A. Jackson Jr.,MIL,Jackson Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0128,3,00:01.700000,MEM,,MIL,,A. Jackson Jr.,MIL,MISS Jackson Jr. Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0128,3,00:01.700000,MEM,,MIL,,A. Jackson Jr.,MIL,MISS Jackson Jr. Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0128,4,10:12,MEM,,MIL,,A. Jackson Jr.,MIL,Jackson Jr. P.FOUL (P2.T2) (J.Goble),Foul,Personal,0,0,0,0,,,v
+S2425-G0128,4,09:16,MEM,,MIL,,A. Jackson Jr.,MIL,Jackson Jr. REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0128,4,09:14,MEM,,MIL,,A. Jackson Jr.,MIL,Jackson Jr. OFF.Foul (P3) (S.Corbin),Foul,Offensive,0,0,0,0,,,v
+S2425-G0128,4,09:14,MEM,,MIL,,A. Jackson Jr.,MIL,Jackson Jr. Offensive Foul Turnover (P2.T7),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0128,4,06:50,MEM,,MIL,,A. Jackson Jr.,MIL,Jackson Jr. P.FOUL (P4.T4) (J.Goble),Foul,Personal,0,0,0,0,,,v
+S2425-G0128,4,06:45,MEM,,MIL,,A. Jackson Jr.,MIL,Jackson Jr. P.FOUL (P5.PN) (D.Scott),Foul,Personal,0,0,0,0,,,v
+S2425-G0128,4,06:32,MEM,,MIL,,A. Jackson Jr.,MIL,Jackson Jr. BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0128,4,06:31,MEM,,MIL,,A. Jackson Jr.,MIL,Jackson Jr. REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0128,4,06:28,MEM,107.0,MIL,86.0,A. Jackson Jr.,MIL,Jackson Jr. 1' Running Layup (2 PTS),Made Shot,Running Layup Shot,-9,-2,1,1,2.0,2.0,v
+S2425-G0128,4,05:32,MEM,,MIL,,A. Jackson Jr.,MIL,Jackson Jr. STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0128,4,04:44,MEM,,MIL,,A. Jackson Jr.,MIL,SUB: Green FOR Jackson Jr.,Substitution,,0,0,0,0,,,v
+S2425-G0145,2,10:41,MIL,,CLE,,A. Jackson Jr.,MIL,Jackson Jr. Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0145,2,10:37,MIL,,CLE,,A. Jackson Jr.,MIL,Jackson Jr. P.FOUL (P1.T1) (B.Haskill),Foul,Personal,0,0,0,0,,,h
+S2425-G0145,2,10:29,MIL,,CLE,,A. Jackson Jr.,MIL,SUB: Trent Jr. FOR Jackson Jr.,Substitution,,0,0,0,0,,,h
+S2425-G0145,3,04:51,MIL,,CLE,,A. Jackson Jr.,MIL,Jackson Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0145,3,03:58,MIL,,CLE,,A. Jackson Jr.,MIL,MISS Jackson Jr. 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,10,98,10,1,2.0,0.0,h
+S2425-G0145,3,02:44,MIL,,CLE,,A. Jackson Jr.,MIL,Jackson Jr. OFF.Foul (P2) (B.Barnaky),Foul,Offensive,0,0,0,0,,,h
+S2425-G0145,3,02:44,MIL,,CLE,,A. Jackson Jr.,MIL,Jackson Jr. Offensive Foul Turnover (P2.T8),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0145,3,00:22.600000,MIL,,CLE,,A. Jackson Jr.,MIL,SUB: Connaughton FOR Jackson Jr.,Substitution,,0,0,0,0,,,h
+S2425-G0145,4,10:57,MIL,89.0,CLE,89.0,A. Jackson Jr.,MIL,Jackson Jr. 3PT Step Back Jump Shot (3 PTS) (Connaughton 2 AST),Made Shot,Step Back Jump shot,-223,26,0,1,3.0,3.0,h
+S2425-G0145,4,10:24,MIL,,CLE,,A. Jackson Jr.,MIL,MISS Jackson Jr. 27' 3PT Jump Shot,Missed Shot,Jump Shot,202,174,27,1,3.0,0.0,h
+S2425-G0145,4,09:58,MIL,,CLE,,A. Jackson Jr.,MIL,Jackson Jr. OFF.Foul (P3) (C.Kirkland),Foul,Offensive,0,0,0,0,,,h
+S2425-G0145,4,09:58,MIL,,CLE,,A. Jackson Jr.,MIL,Jackson Jr. Offensive Foul Turnover (P3.T12),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0145,4,09:58,MIL,,CLE,,A. Jackson Jr.,MIL,SUB: Prince FOR Jackson Jr.,Substitution,,0,0,0,0,,,h
+S2425-G0145,4,07:32,MIL,,CLE,,A. Jackson Jr.,MIL,SUB: Lopez FOR Jackson Jr.,Substitution,,0,0,0,0,,,h
 S2425-G0104,2,04:00,BOS,46.0,MIL,50.0,A. Jackson Jr.,MIL,Jackson Jr. 10' Driving Floating Jump Shot (2 PTS) (Lillard 4 AST),Made Shot,Driving Floating Jump Shot,-91,51,10,1,2.0,2.0,v
 S2425-G0104,2,03:44,BOS,,MIL,,A. Jackson Jr.,MIL,Jackson Jr. S.FOUL (P1.T3) (J.DeRosa),Foul,Shooting,0,0,0,0,,,v
 S2425-G0104,2,02:53,BOS,,MIL,,A. Jackson Jr.,MIL,Jackson Jr. L.B.FOUL (P2.T4) (C.Washington),Foul,Loose Ball,0,0,0,0,,,v

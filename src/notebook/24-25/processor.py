@@ -29,6 +29,8 @@ def load_game(files, season):
 
         # Reading the file as a dataframe
         temp_df = pd.read_json(f'../../data/raw/{season}/{file}')
+        if temp_df.empty:
+            continue
 
         # Adding the game id as a column
         temp_df['game_id'] = file.split('.')[0]
@@ -142,24 +144,18 @@ def save_by_teamplayer(fp, season = "S2425"):
   """
   try:
     df = pd.read_csv(fp)
-    print(df.shape)
     players = pd.Series(df['playerNameI'].unique()).sort_values().dropna().reset_index(drop=True)
 
 
     for player in players:
       player_name = str(player).replace(' ', '')
       player_df = df[df['playerNameI'] == player]
-      print(player_df.shape)
 
       teams = pd.Series(player_df['teamTricode'].unique())
-      # teams = pd.Series(df['teamTricode']).unique().sort_values().dropna().reset_index(drop=True)
-      print(len(teams))
 
       for team in teams:
         if isinstance(team, str):
-          print(f"working on saving: {team}")
           player_team_df = player_df[player_df['teamTricode'] == team]
-          print(player_team_df.shape)
           player_team_df.to_csv(f"../../data/processed/{season}/teamplayer/{team}_{player_name}_games.csv", index=False)
 
 
@@ -211,7 +207,6 @@ def save_by_team(fp, season = "S2425"):
   try:
     df = pd.read_csv(fp)
     teams = pd.Series(df['home'].unique()).sort_values().dropna().reset_index(drop=True)
-    print(teams)
 
     for team in teams:
       team_df = df[(df['home'] == team) | (df['away'] == team)]

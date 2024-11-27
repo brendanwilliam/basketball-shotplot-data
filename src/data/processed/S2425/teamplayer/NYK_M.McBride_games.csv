@@ -1,4 +1,23 @@
 game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0189,1,04:18,NYK,,MIL,,M. McBride,NYK,McBride REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0189,1,03:31,NYK,,MIL,,M. McBride,NYK,MISS McBride 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,227,81,24,1,3.0,0.0,h
+S2425-G0189,1,00:00.200000,NYK,,MIL,,M. McBride,NYK,MISS McBride 23' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-115,201,23,1,2.0,0.0,h
+S2425-G0189,2,11:09,NYK,33.0,MIL,27.0,M. McBride,NYK,McBride Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0189,2,11:09,NYK,34.0,MIL,27.0,M. McBride,NYK,McBride Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0189,2,10:38,NYK,,MIL,,M. McBride,NYK,MISS McBride 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-213,134,25,1,3.0,0.0,h
+S2425-G0189,2,05:53,NYK,50.0,MIL,37.0,M. McBride,NYK,McBride 1' Running Finger Roll Layup (4 PTS) (Towns 3 AST),Made Shot,Running Finger Roll Layup Shot,-6,6,1,1,2.0,2.0,h
+S2425-G0189,2,04:21,NYK,54.0,MIL,38.0,M. McBride,NYK,McBride 14' Pullup Jump Shot (6 PTS) (Anunoby 1 AST),Made Shot,Pullup Jump shot,88,110,14,1,2.0,2.0,h
+S2425-G0189,2,03:47,NYK,,MIL,,M. McBride,NYK,MISS McBride 26' 3PT Jump Shot,Missed Shot,Jump Shot,-150,211,26,1,3.0,0.0,h
+S2425-G0189,2,00:45.900000,NYK,66.0,MIL,47.0,M. McBride,NYK,McBride 3PT Jump Shot (9 PTS) (Brunson 7 AST),Made Shot,Jump Shot,-229,20,0,1,3.0,3.0,h
+S2425-G0189,3,01:22,NYK,89.0,MIL,69.0,M. McBride,NYK,McBride 3PT Jump Shot (12 PTS) (Brunson 9 AST),Made Shot,Jump Shot,-227,13,0,1,3.0,3.0,h
+S2425-G0189,3,01:01,NYK,,MIL,,M. McBride,NYK,McBride REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0189,4,09:13,NYK,,MIL,,M. McBride,NYK,MISS McBride 27' 3PT Jump Shot,Missed Shot,Jump Shot,-203,174,27,1,3.0,0.0,h
+S2425-G0189,4,08:50,NYK,,MIL,,M. McBride,NYK,McBride REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0189,4,08:26,NYK,,MIL,,M. McBride,NYK,McBride REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0189,4,08:09,NYK,,MIL,,M. McBride,NYK,McBride REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0189,4,04:32,NYK,,MIL,,M. McBride,NYK,MISS McBride 3' Driving Layup,Missed Shot,Driving Layup Shot,7,24,3,1,2.0,0.0,h
+S2425-G0189,4,04:27,NYK,110.0,MIL,83.0,M. McBride,NYK,McBride 1' Cutting Layup Shot (14 PTS) (Kolek 2 AST),Made Shot,Cutting Layup Shot,1,8,1,1,2.0,2.0,h
+S2425-G0189,4,03:14,NYK,,MIL,,M. McBride,NYK,SUB: Hukporti FOR McBride,Substitution,,0,0,0,0,,,h
 S2425-G0081,1,00:00,NYK,,IND,,M. McBride,NYK,McBride Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,h
 S2425-G0081,2,10:12,NYK,32.0,IND,29.0,M. McBride,NYK,McBride 25' 3PT Step Back Jump Shot (3 PTS) (Bridges 3 AST),Made Shot,Step Back Jump shot,-179,173,25,1,3.0,3.0,h
 S2425-G0081,2,08:21,NYK,,IND,,M. McBride,NYK,MISS McBride 1' Running Layup,Missed Shot,Running Layup Shot,9,6,1,1,2.0,0.0,h
@@ -32,6 +51,88 @@ S2425-G0106,4,03:09,NYK,,CLE,,M. McBride,NYK,McBride REBOUND (Off:1 Def:1),Rebou
 S2425-G0106,4,02:21,NYK,,CLE,,M. McBride,NYK,MISS McBride 6' Driving Layup,Missed Shot,Driving Layup Shot,-37,46,6,1,2.0,0.0,h
 S2425-G0106,4,02:15,NYK,,CLE,,M. McBride,NYK,McBride REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
 S2425-G0106,4,00:07.900000,NYK,,CLE,,M. McBride,NYK,McBride Personal Take Foul (P2.PN) (R.Hussey),Foul,Personal Take,0,0,0,0,,,h
+S2425-G0203,1,05:01,IND,22.0,NYK,19.0,M. McBride,NYK,McBride 4' Driving Layup (2 PTS) (Brunson 2 AST),Made Shot,Driving Layup Shot,-17,35,4,1,2.0,2.0,v
+S2425-G0203,1,01:26,IND,,NYK,,M. McBride,NYK,MISS McBride 25' 3PT Jump Shot,Missed Shot,Jump Shot,-192,167,25,1,3.0,0.0,v
+S2425-G0203,2,10:55,IND,,NYK,,M. McBride,NYK,MISS McBride 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,11,125,13,1,2.0,0.0,v
+S2425-G0203,2,09:24,IND,,NYK,,M. McBride,NYK,MISS McBride 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-10,260,26,1,3.0,0.0,v
+S2425-G0203,2,08:49,IND,33.0,NYK,36.0,M. McBride,NYK,McBride 28' 3PT Jump Shot (5 PTS),Made Shot,Jump Shot,232,161,28,1,3.0,3.0,v
+S2425-G0203,2,05:09,IND,,NYK,,M. McBride,NYK,McBride OFF.Foul (P1) (N.Green),Foul,Offensive,0,0,0,0,,,v
+S2425-G0203,2,05:09,IND,,NYK,,M. McBride,NYK,McBride Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0203,2,04:08,IND,,NYK,,M. McBride,NYK,McBride REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0203,2,01:09,IND,,NYK,,M. McBride,NYK,McBride STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0203,2,01:09,IND,,NYK,,M. McBride,NYK,SUB: Anunoby FOR McBride,Substitution,,0,0,0,0,,,v
+S2425-G0203,2,00:02.300000,IND,,NYK,,M. McBride,NYK,McBride STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0203,3,05:16,IND,,NYK,,M. McBride,NYK,McBride P.FOUL (P2.PN) (R.Mott),Foul,Personal,0,0,0,0,,,v
+S2425-G0203,3,04:30,IND,,NYK,,M. McBride,NYK,MISS McBride 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-235,28,24,1,3.0,0.0,v
+S2425-G0203,3,00:01.700000,IND,,NYK,,M. McBride,NYK,SUB: Brunson FOR McBride,Substitution,,0,0,0,0,,,v
+S2425-G0203,4,09:11,IND,100.0,NYK,98.0,M. McBride,NYK,McBride 4' Cutting Layup Shot (7 PTS) (Brunson 9 AST),Made Shot,Cutting Layup Shot,-33,18,4,1,2.0,2.0,v
+S2425-G0203,4,08:28,IND,,NYK,,M. McBride,NYK,MISS McBride 24' 3PT Jump Shot,Missed Shot,Jump Shot,-237,20,24,1,3.0,0.0,v
+S2425-G0203,4,06:04,IND,,NYK,,M. McBride,NYK,McBride S.FOUL (P3.T2) (R.Mott),Foul,Shooting,0,0,0,0,,,v
+S2425-G0203,4,06:04,IND,,NYK,,M. McBride,NYK,SUB: Hart FOR McBride,Substitution,,0,0,0,0,,,v
+S2425-G0203,4,04:33,IND,,NYK,,M. McBride,NYK,MISS McBride 3' Driving Layup,Missed Shot,Driving Layup Shot,15,31,3,1,2.0,0.0,v
+S2425-G0203,4,03:58,IND,,NYK,,M. McBride,NYK,SUB: Anunoby FOR McBride,Substitution,,0,0,0,0,,,v
+S2425-G0171,1,05:12,ATL,,NYK,,M. McBride,NYK,McBride Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0171,1,01:16,ATL,21.0,NYK,20.0,M. McBride,NYK,McBride 25' 3PT Jump Shot (3 PTS) (Bridges 3 AST),Made Shot,Jump Shot,-163,187,25,1,3.0,3.0,v
+S2425-G0171,2,11:05,ATL,31.0,NYK,28.0,M. McBride,NYK,McBride 26' 3PT Step Back Jump Shot (6 PTS),Made Shot,Step Back Jump shot,-152,205,26,1,3.0,3.0,v
+S2425-G0171,2,10:21,ATL,,NYK,,M. McBride,NYK,MISS McBride 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,235,50,24,1,3.0,0.0,v
+S2425-G0171,2,09:23,ATL,,NYK,,M. McBride,NYK,McBride BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0171,2,05:49,ATL,44.0,NYK,44.0,M. McBride,NYK,McBride 1' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,11,6,1,1,2.0,2.0,v
+S2425-G0171,2,03:54,ATL,,NYK,,M. McBride,NYK,McBride REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0171,2,03:43,ATL,,NYK,,M. McBride,NYK,McBride P.FOUL (P1.T3) (J.Orr),Foul,Personal,0,0,0,0,,,v
+S2425-G0171,2,02:42,ATL,,NYK,,M. McBride,NYK,MISS McBride 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,233,58,24,1,3.0,0.0,v
+S2425-G0171,2,02:32,ATL,,NYK,,M. McBride,NYK,SUB: Anunoby FOR McBride,Substitution,,0,0,0,0,,,v
+S2425-G0171,3,05:08,ATL,,NYK,,M. McBride,NYK,McBride REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0171,3,05:02,ATL,83.0,NYK,80.0,M. McBride,NYK,McBride 26' 3PT Running Jump Shot (11 PTS) (Brunson 2 AST),Made Shot,Running Jump Shot,33,257,26,1,3.0,3.0,v
+S2425-G0171,3,04:17,ATL,,NYK,,M. McBride,NYK,McBride Lost Ball Turnover (P2.T13),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0171,3,03:00,ATL,,NYK,,M. McBride,NYK,MISS McBride 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,85,109,14,1,2.0,0.0,v
+S2425-G0171,3,02:43,ATL,,NYK,,M. McBride,NYK,McBride REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0171,3,01:44,ATL,,NYK,,M. McBride,NYK,McBride REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0171,3,00:29.300000,ATL,87.0,NYK,88.0,M. McBride,NYK,McBride Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0171,3,00:29.300000,ATL,87.0,NYK,89.0,M. McBride,NYK,McBride Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0171,3,00:13.300000,ATL,,NYK,,M. McBride,NYK,McBride P.FOUL (P2.T3) (J.Reneau),Foul,Personal,0,0,0,0,,,v
+S2425-G0171,4,08:29,ATL,100.0,NYK,99.0,M. McBride,NYK,McBride 26' 3PT Jump Shot (16 PTS) (Bridges 5 AST),Made Shot,Jump Shot,-148,210,26,1,3.0,3.0,v
+S2425-G0171,4,05:50,ATL,,NYK,,M. McBride,NYK,McBride Lost Ball Turnover (P3.T16),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0171,4,05:12,ATL,,NYK,,M. McBride,NYK,MISS McBride 9' Jump Shot,Missed Shot,Jump Shot,92,8,9,1,2.0,0.0,v
+S2425-G0171,4,04:13,ATL,,NYK,,M. McBride,NYK,McBride P.FOUL (P3.T4) (J.Orr),Foul,Personal,0,0,0,0,,,v
+S2425-G0171,4,04:13,ATL,,NYK,,M. McBride,NYK,SUB: Bridges FOR McBride,Substitution,,0,0,0,0,,,v
+S2425-G0161,1,00:09.100000,HOU,,NYK,,M. McBride,NYK,MISS McBride 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-230,79,24,1,3.0,0.0,v
+S2425-G0161,2,08:31,HOU,,NYK,,M. McBride,NYK,MISS McBride 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-80,251,26,1,3.0,0.0,v
+S2425-G0161,2,07:31,HOU,,NYK,,M. McBride,NYK,MISS McBride 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,77,8,1,2.0,0.0,v
+S2425-G0161,2,05:10,HOU,,NYK,,M. McBride,NYK,MISS McBride 26' 3PT Jump Shot,Missed Shot,Jump Shot,196,168,26,1,3.0,0.0,v
+S2425-G0161,2,03:28,HOU,,NYK,,M. McBride,NYK,MISS McBride 6' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,-25,50,6,1,2.0,0.0,v
+S2425-G0161,2,02:15,HOU,,NYK,,M. McBride,NYK,MISS McBride 24' 3PT Jump Shot,Missed Shot,Jump Shot,-238,8,24,1,3.0,0.0,v
+S2425-G0161,2,02:09,HOU,,NYK,,M. McBride,NYK,McBride STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0161,2,00:28.200000,HOU,,NYK,,M. McBride,NYK,McBride P.FOUL (P1.T4) (A.Smith),Foul,Personal,0,0,0,0,,,v
+S2425-G0161,3,03:34,HOU,,NYK,,M. McBride,NYK,McBride S.FOUL (P2.T4) (T.Ford),Foul,Shooting,0,0,0,0,,,v
+S2425-G0161,3,00:03.200000,HOU,,NYK,,M. McBride,NYK,McBride BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0161,4,10:54,HOU,,NYK,,M. McBride,NYK,McBride STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0161,4,10:05,HOU,,NYK,,M. McBride,NYK,MISS McBride 27' 3PT Jump Shot,Missed Shot,Jump Shot,-176,200,27,1,3.0,0.0,v
+S2425-G0161,4,09:00,HOU,,NYK,,M. McBride,NYK,MISS McBride 7' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,2,70,7,1,2.0,0.0,v
+S2425-G0161,4,08:44,HOU,,NYK,,M. McBride,NYK,MISS McBride 5' Running Layup,Missed Shot,Running Layup Shot,43,23,5,1,2.0,0.0,v
+S2425-G0161,4,08:44,HOU,,NYK,,M. McBride,NYK,McBride L.B.FOUL (P3.T1) (T.Ford),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0161,4,05:28,HOU,,NYK,,M. McBride,NYK,SUB: Anunoby FOR McBride,Substitution,,0,0,0,0,,,v
+S2425-G0004,1,05:14,PHI,11.0,NYK,16.0,M. McBride,NYK,McBride 11' Driving Hook Shot (2 PTS),Made Shot,Driving Hook Shot,-17,105,11,1,2.0,2.0,v
+S2425-G0004,1,02:48,PHI,,NYK,,M. McBride,NYK,McBride STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0004,1,01:06,PHI,20.0,NYK,27.0,M. McBride,NYK,McBride 27' 3PT Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,-197,189,27,1,3.0,3.0,v
+S2425-G0004,1,00:25.600000,PHI,,NYK,,M. McBride,NYK,McBride REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0004,1,00:01.200000,PHI,,NYK,,M. McBride,NYK,MISS McBride 53' 3PT Jump Shot,Missed Shot,Jump Shot,-216,483,53,1,3.0,0.0,v
+S2425-G0004,2,08:46,PHI,29.0,NYK,36.0,M. McBride,NYK,McBride 1' Driving Layup (7 PTS) (Payne 2 AST),Made Shot,Driving Layup Shot,6,13,1,1,2.0,2.0,v
+S2425-G0004,2,08:17,PHI,32.0,NYK,38.0,M. McBride,NYK,McBride 5' Turnaround Hook Shot (9 PTS),Made Shot,Turnaround Hook Shot,6,53,5,1,2.0,2.0,v
+S2425-G0004,2,07:59,PHI,,NYK,,M. McBride,NYK,McBride STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0004,2,07:58,PHI,,NYK,,M. McBride,NYK,SUB: Bridges FOR McBride,Substitution,,0,0,0,0,,,v
+S2425-G0004,2,02:10,PHI,,NYK,,M. McBride,NYK,MISS McBride 3PT Jump Shot,Missed Shot,Jump Shot,225,-6,0,1,3.0,0.0,v
+S2425-G0004,2,00:35.600000,PHI,,NYK,,M. McBride,NYK,MISS McBride 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-45,115,12,1,2.0,0.0,v
+S2425-G0004,2,00:19.800000,PHI,,NYK,,M. McBride,NYK,MISS McBride 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-214,121,25,1,3.0,0.0,v
+S2425-G0004,3,11:25,PHI,,NYK,,M. McBride,NYK,MISS McBride 27' 3PT Jump Shot,Missed Shot,Jump Shot,37,269,27,1,3.0,0.0,v
+S2425-G0004,3,07:29,PHI,,NYK,,M. McBride,NYK,McBride P.FOUL (P1.T2) (D.Taylor),Foul,Personal,0,0,0,0,,,v
+S2425-G0004,3,06:50,PHI,60.0,NYK,68.0,M. McBride,NYK,McBride 26' 3PT Step Back Jump Shot (12 PTS) (Bridges 3 AST),Made Shot,Step Back Jump shot,-176,190,26,1,3.0,3.0,v
+S2425-G0004,3,04:59,PHI,,NYK,,M. McBride,NYK,McBride Lost Ball Turnover (P1.T12),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0004,3,04:51,PHI,,NYK,,M. McBride,NYK,McBride REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0004,3,04:14,PHI,,NYK,,M. McBride,NYK,SUB: Brunson FOR McBride,Substitution,,0,0,0,0,,,v
+S2425-G0004,4,09:47,PHI,75.0,NYK,83.0,M. McBride,NYK,McBride 3PT Jump Shot (15 PTS) (Anunoby 2 AST),Made Shot,Jump Shot,-229,3,0,1,3.0,3.0,v
+S2425-G0004,4,09:23,PHI,,NYK,,M. McBride,NYK,McBride REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0004,4,06:36,PHI,,NYK,,M. McBride,NYK,MISS McBride 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-94,225,24,1,3.0,0.0,v
+S2425-G0004,4,06:21,PHI,,NYK,,M. McBride,NYK,SUB: Bridges FOR McBride,Substitution,,0,0,0,0,,,v
 S2425-G0122,1,04:05,MIA,,NYK,,M. McBride,NYK,McBride BLOCK (1 BLK),,,0,0,0,0,,,v
 S2425-G0122,1,04:05,MIA,,NYK,,M. McBride,NYK,McBride S.FOUL (P1.T3) (P.Fraher),Foul,Shooting,0,0,0,0,,,v
 S2425-G0122,2,10:20,MIA,36.0,NYK,33.0,M. McBride,NYK,McBride 26' 3PT Jump Shot (3 PTS) (Payne 3 AST),Made Shot,Jump Shot,142,212,26,1,3.0,3.0,v
@@ -52,6 +153,30 @@ S2425-G0122,4,08:02,MIA,,NYK,,M. McBride,NYK,MISS McBride 5' Driving Finger Roll
 S2425-G0122,4,07:58,MIA,,NYK,,M. McBride,NYK,McBride Bad Pass Turnover (P2.T9),Turnover,Bad Pass,0,0,0,0,,,v
 S2425-G0122,4,07:52,MIA,,NYK,,M. McBride,NYK,McBride REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
 S2425-G0122,4,07:42,MIA,,NYK,,M. McBride,NYK,SUB: Bridges FOR McBride,Substitution,,0,0,0,0,,,v
+S2425-G0134,1,01:51,DET,,NYK,,M. McBride,NYK,McBride REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0134,1,01:48,DET,,NYK,,M. McBride,NYK,MISS McBride 25' 3PT Jump Shot,Missed Shot,Jump Shot,-222,117,25,1,3.0,0.0,v
+S2425-G0134,2,10:55,DET,,NYK,,M. McBride,NYK,McBride P.FOUL (P1.T1) (J.Ralls),Foul,Personal,0,0,0,0,,,v
+S2425-G0134,2,10:52,DET,,NYK,,M. McBride,NYK,MISS McBride Free Throw Technical,Free Throw,Free Throw Technical,0,0,0,0,1.0,0.0,v
+S2425-G0134,2,10:07,DET,,NYK,,M. McBride,NYK,McBride STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0134,2,10:03,DET,17.0,NYK,46.0,M. McBride,NYK,McBride 3PT Running Jump Shot (3 PTS) (Bridges 3 AST),Made Shot,Running Jump Shot,-228,19,0,1,3.0,3.0,v
+S2425-G0134,2,09:44,DET,,NYK,,M. McBride,NYK,McBride STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0134,2,07:38,DET,,NYK,,M. McBride,NYK,MISS McBride 3' Driving Layup,Missed Shot,Driving Layup Shot,-27,5,3,1,2.0,0.0,v
+S2425-G0134,2,06:49,DET,,NYK,,M. McBride,NYK,MISS McBride 26' 3PT Jump Shot,Missed Shot,Jump Shot,233,115,26,1,3.0,0.0,v
+S2425-G0134,2,05:07,DET,,NYK,,M. McBride,NYK,MISS McBride 25' 3PT Jump Shot,Missed Shot,Jump Shot,-183,174,25,1,3.0,0.0,v
+S2425-G0134,2,03:24,DET,,NYK,,M. McBride,NYK,SUB: Towns FOR McBride,Substitution,,0,0,0,0,,,v
+S2425-G0134,3,03:21,DET,,NYK,,M. McBride,NYK,McBride STEAL (3 STL),,,0,0,0,0,,,v
+S2425-G0134,3,03:19,DET,68.0,NYK,98.0,M. McBride,NYK,McBride 1' Running Dunk (5 PTS),Made Shot,Running Dunk Shot,9,7,1,1,2.0,2.0,v
+S2425-G0134,3,02:12,DET,,NYK,,M. McBride,NYK,McBride REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0134,3,00:07.100000,DET,,NYK,,M. McBride,NYK,McBride P.FOUL (P2.T3) (S.Wright),Foul,Personal,0,0,0,0,,,v
+S2425-G0134,3,00:01,DET,,NYK,,M. McBride,NYK,McBride STEAL (4 STL),,,0,0,0,0,,,v
+S2425-G0134,4,11:29,DET,74.0,NYK,107.0,M. McBride,NYK,McBride 26' 3PT Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,127,222,26,1,3.0,3.0,v
+S2425-G0134,4,10:48,DET,,NYK,,M. McBride,NYK,MISS McBride 24' 3PT Jump Shot,Missed Shot,Jump Shot,-234,27,24,1,3.0,0.0,v
+S2425-G0134,4,09:00,DET,,NYK,,M. McBride,NYK,MISS McBride 7' Driving Hook Shot,Missed Shot,Driving Hook Shot,-40,63,7,1,2.0,0.0,v
+S2425-G0134,4,04:50,DET,,NYK,,M. McBride,NYK,MISS McBride 26' 3PT Jump Shot,Missed Shot,Jump Shot,50,257,26,1,3.0,0.0,v
+S2425-G0134,4,03:50,DET,,NYK,,M. McBride,NYK,MISS McBride 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-125,254,28,1,3.0,0.0,v
+S2425-G0134,4,03:39,DET,,NYK,,M. McBride,NYK,McBride REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0134,4,02:41,DET,93.0,NYK,122.0,M. McBride,NYK,McBride 16' Step Back Jump Shot (10 PTS),Made Shot,Step Back Jump shot,110,120,16,1,2.0,2.0,v
+S2425-G0134,4,00:56.900000,DET,,NYK,,M. McBride,NYK,SUB: Sims FOR McBride,Substitution,,0,0,0,0,,,v
 S2425-G0061,1,04:53,BOS,21.0,NYK,16.0,M. McBride,NYK,McBride 19' Step Back Jump Shot (2 PTS),Made Shot,Step Back Jump shot,145,115,19,1,2.0,2.0,v
 S2425-G0061,1,02:05,BOS,32.0,NYK,20.0,M. McBride,NYK,McBride 26' 3PT Step Back Jump Shot (5 PTS) (Anunoby 2 AST),Made Shot,Step Back Jump shot,124,226,26,1,3.0,3.0,v
 S2425-G0061,1,02:05,BOS,,NYK,,M. McBride,NYK,MISS McBride Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v

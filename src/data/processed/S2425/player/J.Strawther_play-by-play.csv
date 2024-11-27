@@ -1,4 +1,53 @@
 game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0023,1,04:40,MEM,,DEN,,J. Strawther,DEN,Strawther REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0023,1,03:27,MEM,,DEN,,J. Strawther,DEN,Strawther S.FOUL (P1.T2) (T.Maddox),Foul,Shooting,0,0,0,0,,,v
+S2425-G0023,1,02:10,MEM,,DEN,,J. Strawther,DEN,Strawther REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0023,1,01:48,MEM,,DEN,,J. Strawther,DEN,MISS Strawther 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,32,92,10,1,2.0,0.0,v
+S2425-G0023,1,01:42,MEM,,DEN,,J. Strawther,DEN,Strawther STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0023,1,00:25.100000,MEM,,DEN,,J. Strawther,DEN,SUB: Watson FOR Strawther,Substitution,,0,0,0,0,,,v
+S2425-G0023,2,11:48,MEM,24.0,DEN,34.0,J. Strawther,DEN,Strawther 27' 3PT Jump Shot (3 PTS) (Braun 1 AST),Made Shot,Jump Shot,-165,217,27,1,3.0,3.0,v
+S2425-G0023,2,11:16,MEM,,DEN,,J. Strawther,DEN,MISS Strawther Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0023,2,11:16,MEM,25.0,DEN,35.0,J. Strawther,DEN,Strawther Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0023,2,10:01,MEM,,DEN,,J. Strawther,DEN,MISS Strawther 3PT Jump Shot,Missed Shot,Jump Shot,-233,2,0,1,3.0,0.0,v
+S2425-G0023,2,09:33,MEM,,DEN,,J. Strawther,DEN,Strawther BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0023,2,09:14,MEM,,DEN,,J. Strawther,DEN,MISS Strawther 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-159,214,27,1,3.0,0.0,v
+S2425-G0023,2,07:25,MEM,,DEN,,J. Strawther,DEN,MISS Strawther 26' 3PT Jump Shot,Missed Shot,Jump Shot,-45,260,26,1,3.0,0.0,v
+S2425-G0023,2,05:50,MEM,,DEN,,J. Strawther,DEN,Strawther STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0023,2,05:46,MEM,,DEN,,J. Strawther,DEN,MISS Strawther 22' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-180,134,22,1,2.0,0.0,v
+S2425-G0023,2,04:51,MEM,,DEN,,J. Strawther,DEN,SUB: Watson FOR Strawther,Substitution,,0,0,0,0,,,v
+S2425-G0023,3,03:22,MEM,,DEN,,J. Strawther,DEN,Strawther REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0023,3,01:58,MEM,71.0,DEN,88.0,J. Strawther,DEN,Strawther 10' Driving Floating Jump Shot (6 PTS),Made Shot,Driving Floating Jump Shot,18,100,10,1,2.0,2.0,v
+S2425-G0023,3,01:16,MEM,,DEN,,J. Strawther,DEN,Strawther L.B.FOUL (P2.PN) (C.Kirkland),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0023,3,01:11,MEM,,DEN,,J. Strawther,DEN,Strawther REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0023,3,00:24.800000,MEM,,DEN,,J. Strawther,DEN,Strawther REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0023,4,11:07,MEM,,DEN,,J. Strawther,DEN,Strawther S.FOUL (P3.T1) (C.Kirkland),Foul,Shooting,0,0,0,0,,,v
+S2425-G0023,4,10:26,MEM,,DEN,,J. Strawther,DEN,SUB: Braun FOR Strawther,Substitution,,0,0,0,0,,,v
+S2425-G0166,1,04:12,DEN,,TOR,,J. Strawther,DEN,MISS Strawther 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,44,-2,4,1,2.0,0.0,h
+S2425-G0166,1,02:47,DEN,,TOR,,J. Strawther,DEN,Strawther REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0166,1,02:43,DEN,,TOR,,J. Strawther,DEN,MISS Strawther 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-169,206,27,1,3.0,0.0,h
+S2425-G0166,1,00:59.900000,DEN,33.0,TOR,35.0,J. Strawther,DEN,Strawther 3PT Jump Shot (3 PTS) (Jordan 1 AST),Made Shot,Jump Shot,229,34,0,1,3.0,3.0,h
+S2425-G0166,2,10:31,DEN,,TOR,,J. Strawther,DEN,MISS Strawther 2' Driving Layup,Missed Shot,Driving Layup Shot,-9,14,2,1,2.0,0.0,h
+S2425-G0166,2,08:29,DEN,,TOR,,J. Strawther,DEN,SUB: Braun FOR Strawther,Substitution,,0,0,0,0,,,h
+S2425-G0166,2,06:23,DEN,,TOR,,J. Strawther,DEN,MISS Strawther 27' 3PT Jump Shot,Missed Shot,Jump Shot,-148,226,27,1,3.0,0.0,h
+S2425-G0166,2,04:39,DEN,,TOR,,J. Strawther,DEN,SUB: Watson FOR Strawther,Substitution,,0,0,0,0,,,h
+S2425-G0166,3,03:18,DEN,81.0,TOR,87.0,J. Strawther,DEN,Strawther 3' Driving Layup (5 PTS) (Jokić 10 AST),Made Shot,Driving Layup Shot,21,16,3,1,2.0,2.0,h
+S2425-G0166,3,00:59.700000,DEN,,TOR,,J. Strawther,DEN,Strawther BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0166,3,00:46.800000,DEN,,TOR,,J. Strawther,DEN,Strawther REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0166,3,00:22.600000,DEN,88.0,TOR,93.0,J. Strawther,DEN,Strawther 28' 3PT Jump Shot (8 PTS) (Jokić 11 AST),Made Shot,Jump Shot,-195,196,28,1,3.0,3.0,h
+S2425-G0166,4,11:53,DEN,,TOR,,J. Strawther,DEN,Strawther Offensive Charge Foul (P1) (M.Ervin),Foul,Offensive Charge,0,0,0,0,,,h
+S2425-G0166,4,11:53,DEN,,TOR,,J. Strawther,DEN,Strawther Offensive Foul Turnover (P1.T15),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0166,4,09:53,DEN,,TOR,,J. Strawther,DEN,MISS Strawther 5' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,43,21,5,1,2.0,0.0,h
+S2425-G0166,4,09:36,DEN,,TOR,,J. Strawther,DEN,Strawther STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0166,4,09:16,DEN,,TOR,,J. Strawther,DEN,Strawther P.FOUL (P2.T1) (M.Kogut),Foul,Personal,0,0,0,0,,,h
+S2425-G0166,4,03:53,DEN,108.0,TOR,111.0,J. Strawther,DEN,Strawther Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0166,4,03:53,DEN,109.0,TOR,111.0,J. Strawther,DEN,Strawther Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0166,4,03:31,DEN,,TOR,,J. Strawther,DEN,MISS Strawther 3' Running Layup,Missed Shot,Running Layup Shot,-26,11,3,1,2.0,0.0,h
+S2425-G0166,4,01:47,DEN,,TOR,,J. Strawther,DEN,Strawther STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0166,4,01:09,DEN,120.0,TOR,119.0,J. Strawther,DEN,Strawther 1' Driving Finger Roll Layup (12 PTS) (Porter Jr. 3 AST),Made Shot,Driving Finger Roll Layup Shot,13,0,1,1,2.0,2.0,h
+S2425-G0166,4,00:39.600000,DEN,,TOR,,J. Strawther,DEN,SUB: Westbrook FOR Strawther,Substitution,,0,0,0,0,,,h
+S2425-G0166,4,00:11.600000,DEN,,TOR,,J. Strawther,DEN,MISS Strawther Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0166,4,00:11.600000,DEN,121.0,TOR,119.0,J. Strawther,DEN,Strawther Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0166,4,00:11.600000,DEN,,TOR,,J. Strawther,DEN,SUB: Porter Jr. FOR Strawther,Substitution,,0,0,0,0,,,h
 S2425-G0107,1,05:47,TOR,19.0,DEN,20.0,J. Strawther,DEN,Strawther 8' Driving Floating Jump Shot (2 PTS) (Gordon 2 AST),Made Shot,Driving Floating Jump Shot,78,9,8,1,2.0,2.0,v
 S2425-G0107,2,08:20,TOR,40.0,DEN,39.0,J. Strawther,DEN,Strawther 24' 3PT Pullup Jump Shot (5 PTS) (Westbrook 1 AST),Made Shot,Pullup Jump shot,-165,178,24,1,3.0,3.0,v
 S2425-G0107,2,07:00,TOR,,DEN,,J. Strawther,DEN,Strawther REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
@@ -42,6 +91,118 @@ S2425-G0087,4,11:50,DEN,,LAC,,J. Strawther,DEN,MISS Strawther 15' Driving Floati
 S2425-G0087,4,10:13,DEN,74.0,LAC,75.0,J. Strawther,DEN,Strawther 26' 3PT Jump Bank Shot (8 PTS) (Westbrook 1 AST),Made Shot,Jump Bank Shot,-192,179,26,1,3.0,3.0,h
 S2425-G0087,4,08:46,DEN,,LAC,,J. Strawther,DEN,Strawther S.FOUL (P5.T3) (B.Taylor),Foul,Shooting,0,0,0,0,,,h
 S2425-G0087,4,08:46,DEN,,LAC,,J. Strawther,DEN,SUB: Murray FOR Strawther,Substitution,,0,0,0,0,,,h
+S2425-G0033,1,04:16,DEN,,DAL,,J. Strawther,DEN,Strawther STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0033,1,01:10,DEN,,DAL,,J. Strawther,DEN,MISS Strawther 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,10,94,9,1,2.0,0.0,h
+S2425-G0033,1,00:02,DEN,29.0,DAL,33.0,J. Strawther,DEN,Strawther Free Throw 1 of 3 (1 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,h
+S2425-G0033,1,00:02,DEN,30.0,DAL,33.0,J. Strawther,DEN,Strawther Free Throw 2 of 3 (2 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,h
+S2425-G0033,1,00:02,DEN,31.0,DAL,33.0,J. Strawther,DEN,Strawther Free Throw 3 of 3 (3 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,h
+S2425-G0033,2,11:21,DEN,,DAL,,J. Strawther,DEN,MISS Strawther 7' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-13,64,7,1,2.0,0.0,h
+S2425-G0033,2,11:09,DEN,,DAL,,J. Strawther,DEN,Strawther S.FOUL (P1.T1) (M.Davis),Foul,Shooting,0,0,0,0,,,h
+S2425-G0033,2,08:19,DEN,,DAL,,J. Strawther,DEN,SUB: Watson FOR Strawther,Substitution,,0,0,0,0,,,h
+S2425-G0033,3,01:30,DEN,,DAL,,J. Strawther,DEN,Strawther S.FOUL (P2.T1) (B.Barnaky),Foul,Shooting,0,0,0,0,,,h
+S2425-G0033,4,10:25,DEN,,DAL,,J. Strawther,DEN,Strawther S.FOUL (P3.T2) (M.Davis),Foul,Shooting,0,0,0,0,,,h
+S2425-G0033,4,07:13,DEN,,DAL,,J. Strawther,DEN,SUB: Porter Jr. FOR Strawther,Substitution,,0,0,0,0,,,h
+S2425-G0177,1,03:50,DEN,,OKC,,J. Strawther,DEN,MISS Strawther 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,206,150,25,1,3.0,0.0,h
+S2425-G0177,1,01:50,DEN,,OKC,,J. Strawther,DEN,Strawther P.FOUL (P1.T3) (S.Mitchell),Foul,Personal,0,0,0,0,,,h
+S2425-G0177,2,09:05,DEN,,OKC,,J. Strawther,DEN,Strawther Offensive Charge Foul (P2) (S.Mitchell),Foul,Offensive Charge,0,0,0,0,,,h
+S2425-G0177,2,09:05,DEN,,OKC,,J. Strawther,DEN,Strawther Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0177,2,07:56,DEN,,OKC,,J. Strawther,DEN,MISS Strawther 2' Driving Layup,Missed Shot,Driving Layup Shot,-6,20,2,1,2.0,0.0,h
+S2425-G0177,2,06:19,DEN,,OKC,,J. Strawther,DEN,MISS Strawther 26' 3PT Jump Shot,Missed Shot,Jump Shot,-121,226,26,1,3.0,0.0,h
+S2425-G0177,2,06:04,DEN,,OKC,,J. Strawther,DEN,Strawther S.FOUL (P3.T2) (S.Mitchell),Foul,Shooting,0,0,0,0,,,h
+S2425-G0177,2,04:50,DEN,,OKC,,J. Strawther,DEN,SUB: Westbrook FOR Strawther,Substitution,,0,0,0,0,,,h
+S2425-G0177,3,04:38,DEN,,OKC,,J. Strawther,DEN,Strawther REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0177,3,04:32,DEN,81.0,OKC,87.0,J. Strawther,DEN,Strawther 3' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,7,32,3,1,2.0,2.0,h
+S2425-G0177,3,04:14,DEN,,OKC,,J. Strawther,DEN,Strawther REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0177,3,04:04,DEN,84.0,OKC,87.0,J. Strawther,DEN,Strawther 25' 3PT Pullup Jump Shot (5 PTS) (Jokić 13 AST),Made Shot,Pullup Jump shot,25,247,25,1,3.0,3.0,h
+S2425-G0177,3,02:59,DEN,,OKC,,J. Strawther,DEN,MISS Strawther 27' 3PT Jump Shot,Missed Shot,Jump Shot,-16,273,27,1,3.0,0.0,h
+S2425-G0177,3,02:18,DEN,,OKC,,J. Strawther,DEN,MISS Strawther 25' 3PT Jump Shot,Missed Shot,Jump Shot,-225,116,25,1,3.0,0.0,h
+S2425-G0177,3,01:29,DEN,,OKC,,J. Strawther,DEN,Strawther S.FOUL (P4.PN) (J.Capers),Foul,Shooting,0,0,0,0,,,h
+S2425-G0177,3,00:58.300000,DEN,,OKC,,J. Strawther,DEN,Strawther Out of Bounds Lost Ball Turnover (P2.T15),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2425-G0177,3,00:58.300000,DEN,,OKC,,J. Strawther,DEN,SUB: Westbrook FOR Strawther,Substitution,,0,0,0,0,,,h
+S2425-G0177,4,09:42,DEN,,OKC,,J. Strawther,DEN,MISS Strawther 2' Driving Layup,Missed Shot,Driving Layup Shot,-1,23,2,1,2.0,0.0,h
+S2425-G0177,4,09:08,DEN,,OKC,,J. Strawther,DEN,MISS Strawther 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,196,152,25,1,3.0,0.0,h
+S2425-G0177,4,08:31,DEN,,OKC,,J. Strawther,DEN,MISS Strawther 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,86,230,25,1,3.0,0.0,h
+S2425-G0177,4,06:14,DEN,,OKC,,J. Strawther,DEN,Strawther REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0177,4,03:38,DEN,,OKC,,J. Strawther,DEN,Strawther REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0177,4,02:16,DEN,,OKC,,J. Strawther,DEN,Strawther REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0177,4,02:11,DEN,119.0,OKC,113.0,J. Strawther,DEN,Strawther Tip Dunk Shot (7 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,h
+S2425-G0177,4,01:54,DEN,120.0,OKC,115.0,J. Strawther,DEN,Strawther Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0177,4,01:54,DEN,121.0,OKC,115.0,J. Strawther,DEN,Strawther Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0177,4,00:43.800000,DEN,,OKC,,J. Strawther,DEN,SUB: Westbrook FOR Strawther,Substitution,,0,0,0,0,,,h
+S2425-G0194,1,03:46,DEN,,MIA,,J. Strawther,DEN,MISS Strawther 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-33,81,9,1,2.0,0.0,h
+S2425-G0194,2,11:23,DEN,,MIA,,J. Strawther,DEN,Strawther S.FOUL (P1.T2) (N.Sago),Foul,Shooting,0,0,0,0,,,h
+S2425-G0194,2,11:04,DEN,,MIA,,J. Strawther,DEN,MISS Strawther 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,129,225,26,1,3.0,0.0,h
+S2425-G0194,2,09:00,DEN,,MIA,,J. Strawther,DEN,Strawther Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0194,2,06:26,DEN,50.0,MIA,45.0,J. Strawther,DEN,Strawther 2' Running Layup (2 PTS) (Jokić 6 AST),Made Shot,Running Layup Shot,6,15,2,1,2.0,2.0,h
+S2425-G0194,2,06:26,DEN,,MIA,,J. Strawther,DEN,SUB: Braun FOR Strawther,Substitution,,0,0,0,0,,,h
+S2425-G0194,3,04:20,DEN,,MIA,,J. Strawther,DEN,Strawther Out of Bounds - Bad Pass Turnover Turnover (P2.T9),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0194,3,03:16,DEN,,MIA,,J. Strawther,DEN,MISS Strawther 14' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,129,42,14,1,2.0,0.0,h
+S2425-G0194,3,02:49,DEN,,MIA,,J. Strawther,DEN,MISS Strawther 27' 3PT Jump Shot,Missed Shot,Jump Shot,-126,234,27,1,3.0,0.0,h
+S2425-G0194,3,00:07.500000,DEN,,MIA,,J. Strawther,DEN,SUB: Watson FOR Strawther,Substitution,,0,0,0,0,,,h
+S2425-G0194,4,08:30,DEN,,MIA,,J. Strawther,DEN,Strawther BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0194,4,08:22,DEN,,MIA,,J. Strawther,DEN,Strawther REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0194,4,06:58,DEN,118.0,MIA,103.0,J. Strawther,DEN,Strawther 3' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,25,19,3,1,2.0,2.0,h
+S2425-G0194,4,06:40,DEN,,MIA,,J. Strawther,DEN,MISS Strawther 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,188,180,26,1,3.0,0.0,h
+S2425-G0194,4,04:20,DEN,,MIA,,J. Strawther,DEN,SUB: Murray FOR Strawther,Substitution,,0,0,0,0,,,h
+S2425-G0194,4,00:48,DEN,133.0,MIA,120.0,J. Strawther,DEN,Strawther 2' Driving Finger Roll Layup (6 PTS) (Porter Jr. 4 AST),Made Shot,Driving Finger Roll Layup Shot,4,24,2,1,2.0,2.0,h
+S2425-G0139,1,05:08,MIN,,DEN,,J. Strawther,DEN,MISS Strawther 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-12,18,2,1,2.0,0.0,v
+S2425-G0139,1,04:35,MIN,,DEN,,J. Strawther,DEN,Strawther P.FOUL (P1.T1) (M.Davis),Foul,Personal,0,0,0,0,,,v
+S2425-G0139,1,02:57,MIN,,DEN,,J. Strawther,DEN,Strawther S.FOUL (P2.T3) (N.Buchert),Foul,Shooting,0,0,0,0,,,v
+S2425-G0139,1,02:17,MIN,,DEN,,J. Strawther,DEN,Strawther REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0139,1,01:12,MIN,28.0,DEN,29.0,J. Strawther,DEN,Strawther 1' Running Reverse Layup (2 PTS) (Porter Jr. 2 AST),Made Shot,Running Reverse Layup Shot,7,7,1,1,2.0,2.0,v
+S2425-G0139,1,00:58.400000,MIN,,DEN,,J. Strawther,DEN,Strawther STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0139,2,10:41,MIN,,DEN,,J. Strawther,DEN,SUB: Murray FOR Strawther,Substitution,,0,0,0,0,,,v
+S2425-G0139,3,05:32,MIN,,DEN,,J. Strawther,DEN,Strawther OFF.Foul (P3) (N.Buchert),Foul,Offensive,0,0,0,0,,,v
+S2425-G0139,3,05:32,MIN,,DEN,,J. Strawther,DEN,Strawther Offensive Foul Turnover (P1.T8),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0139,3,05:05,MIN,,DEN,,J. Strawther,DEN,MISS Strawther 24' 3PT Jump Shot,Missed Shot,Jump Shot,170,176,24,1,3.0,0.0,v
+S2425-G0139,3,04:54,MIN,,DEN,,J. Strawther,DEN,SUB: Westbrook FOR Strawther,Substitution,,0,0,0,0,,,v
+S2425-G0139,4,11:45,MIN,,DEN,,J. Strawther,DEN,MISS Strawther 25' 3PT Jump Shot,Missed Shot,Jump Shot,27,253,25,1,3.0,0.0,v
+S2425-G0139,4,09:35,MIN,,DEN,,J. Strawther,DEN,Strawther P.FOUL (P4.T2) (N.Buchert),Foul,Personal,0,0,0,0,,,v
+S2425-G0139,4,09:08,MIN,,DEN,,J. Strawther,DEN,Strawther S.FOUL (P5.T4) (B.Nansel),Foul,Shooting,0,0,0,0,,,v
+S2425-G0139,4,08:38,MIN,100.0,DEN,95.0,J. Strawther,DEN,Strawther Free Throw 1 of 3 (3 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,v
+S2425-G0139,4,08:38,MIN,100.0,DEN,96.0,J. Strawther,DEN,Strawther Free Throw 2 of 3 (4 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,v
+S2425-G0139,4,08:38,MIN,,DEN,,J. Strawther,DEN,MISS Strawther Free Throw 3 of 3,Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,0.0,v
+S2425-G0139,4,08:15,MIN,,DEN,,J. Strawther,DEN,SUB: Braun FOR Strawther,Substitution,,0,0,0,0,,,v
+S2425-G0148,1,04:00,DEN,23.0,UTA,15.0,J. Strawther,DEN,Strawther Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0148,1,04:00,DEN,24.0,UTA,15.0,J. Strawther,DEN,Strawther Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0148,1,02:32,DEN,,UTA,,J. Strawther,DEN,Strawther OFF.Foul (P1) (G.Petraitis),Foul,Offensive,0,0,0,0,,,h
+S2425-G0148,1,02:32,DEN,,UTA,,J. Strawther,DEN,Strawther Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0148,1,02:20,DEN,,UTA,,J. Strawther,DEN,Strawther STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0148,1,01:32,DEN,34.0,UTA,20.0,J. Strawther,DEN,Strawther 10' Floating Jump Shot (4 PTS) (Jordan 1 AST),Made Shot,Floating Jump shot,88,41,10,1,2.0,2.0,h
+S2425-G0148,1,01:15,DEN,,UTA,,J. Strawther,DEN,Strawther REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0148,1,01:04,DEN,37.0,UTA,20.0,J. Strawther,DEN,Strawther 28' 3PT Jump Shot (7 PTS) (Tyson 1 AST),Made Shot,Jump Shot,-72,269,28,1,3.0,3.0,h
+S2425-G0148,1,00:33.200000,DEN,,UTA,,J. Strawther,DEN,Strawther S.FOUL (P2.PN) (M.Lindsay),Foul,Shooting,0,0,0,0,,,h
+S2425-G0148,2,11:23,DEN,,UTA,,J. Strawther,DEN,Strawther S.FOUL (P3.T1) (M.Kallio),Foul,Shooting,0,0,0,0,,,h
+S2425-G0148,2,11:23,DEN,,UTA,,J. Strawther,DEN,SUB: Braun FOR Strawther,Substitution,,0,0,0,0,,,h
+S2425-G0148,3,01:43,DEN,,UTA,,J. Strawther,DEN,MISS Strawther 5' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-22,49,5,1,2.0,0.0,h
+S2425-G0148,3,01:42,DEN,,UTA,,J. Strawther,DEN,Strawther REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0148,3,01:42,DEN,95.0,UTA,75.0,J. Strawther,DEN,Strawther Putback Layup (9 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,h
+S2425-G0148,3,00:48.100000,DEN,,UTA,,J. Strawther,DEN,Strawther P.FOUL (P4.T2) (M.Kallio),Foul,Personal,0,0,0,0,,,h
+S2425-G0148,3,00:32.800000,DEN,,UTA,,J. Strawther,DEN,SUB: Westbrook FOR Strawther,Substitution,,0,0,0,0,,,h
+S2425-G0148,4,11:36,DEN,,UTA,,J. Strawther,DEN,MISS Strawther 26' 3PT Jump Shot,Missed Shot,Jump Shot,-98,242,26,1,3.0,0.0,h
+S2425-G0148,4,10:35,DEN,102.0,UTA,79.0,J. Strawther,DEN,Strawther 27' 3PT Jump Shot (12 PTS) (Westbrook 4 AST),Made Shot,Jump Shot,116,241,27,1,3.0,3.0,h
+S2425-G0148,4,09:37,DEN,106.0,UTA,81.0,J. Strawther,DEN,Strawther 10' Driving Floating Jump Shot (14 PTS),Made Shot,Driving Floating Jump Shot,-5,96,10,1,2.0,2.0,h
+S2425-G0148,4,07:23,DEN,,UTA,,J. Strawther,DEN,Strawther P.FOUL (P5.T3) (M.Lindsay),Foul,Personal,0,0,0,0,,,h
+S2425-G0148,4,06:07,DEN,,UTA,,J. Strawther,DEN,MISS Strawther 27' 3PT Jump Shot,Missed Shot,Jump Shot,39,263,27,1,3.0,0.0,h
+S2425-G0148,4,04:49,DEN,117.0,UTA,93.0,J. Strawther,DEN,Strawther 28' 3PT Running Pull-Up Jump Shot (17 PTS) (Westbrook 7 AST),Made Shot,Running Pull-Up Jump Shot,-40,274,28,1,3.0,3.0,h
+S2425-G0148,4,03:50,DEN,,UTA,,J. Strawther,DEN,MISS Strawther 29' 3PT Jump Shot,Missed Shot,Jump Shot,110,267,29,1,3.0,0.0,h
+S2425-G0148,4,03:15,DEN,121.0,UTA,95.0,J. Strawther,DEN,Strawther 3' Running Layup (19 PTS) (Tyson 2 AST),Made Shot,Running Layup Shot,-22,22,3,1,2.0,2.0,h
+S2425-G0148,4,02:59,DEN,,UTA,,J. Strawther,DEN,Strawther STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0148,4,02:10,DEN,,UTA,,J. Strawther,DEN,SUB: Pickett FOR Strawther,Substitution,,0,0,0,0,,,h
+S2425-G0017,2,11:34,NOP,,DEN,,J. Strawther,DEN,Strawther REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0017,2,11:30,NOP,,DEN,,J. Strawther,DEN,Strawther Traveling Turnover (P1.T3),Turnover,Traveling,0,0,0,0,,,v
+S2425-G0017,2,10:03,NOP,,DEN,,J. Strawther,DEN,MISS Strawther 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,67,248,26,1,3.0,0.0,v
+S2425-G0017,2,08:19,NOP,36.0,DEN,32.0,J. Strawther,DEN,Strawther 25' 3PT Jump Shot (3 PTS) (Šarić 4 AST),Made Shot,Jump Shot,227,99,25,1,3.0,3.0,v
+S2425-G0017,2,06:48,NOP,,DEN,,J. Strawther,DEN,Strawther REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0017,2,06:47,NOP,,DEN,,J. Strawther,DEN,MISS Strawther 4' Running Layup,Missed Shot,Running Layup Shot,-20,34,4,1,2.0,0.0,v
+S2425-G0017,2,05:56,NOP,,DEN,,J. Strawther,DEN,MISS Strawther 27' 3PT Jump Shot,Missed Shot,Jump Shot,10,267,27,1,3.0,0.0,v
+S2425-G0017,2,03:55,NOP,,DEN,,J. Strawther,DEN,SUB: Murray FOR Strawther,Substitution,,0,0,0,0,,,v
+S2425-G0017,3,06:24,NOP,68.0,DEN,64.0,J. Strawther,DEN,Strawther Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0017,3,06:24,NOP,68.0,DEN,65.0,J. Strawther,DEN,Strawther Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0017,3,05:34,NOP,,DEN,,J. Strawther,DEN,Strawther REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0017,3,02:09,NOP,,DEN,,J. Strawther,DEN,MISS Strawther 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-34,259,26,1,3.0,0.0,v
+S2425-G0017,3,01:43,NOP,,DEN,,J. Strawther,DEN,Strawther S.FOUL (P1.PN) (B.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2425-G0017,3,00:26.500000,NOP,,DEN,,J. Strawther,DEN,MISS Strawther 2' Running Layup,Missed Shot,Running Layup Shot,-4,15,2,1,2.0,0.0,v
 S2425-G0113,1,03:40,BKN,24.0,DEN,19.0,J. Strawther,DEN,Strawther 3' Cutting Layup Shot (2 PTS) (Jokić 4 AST),Made Shot,Cutting Layup Shot,-28,5,3,1,2.0,2.0,v
 S2425-G0113,1,02:53,BKN,,DEN,,J. Strawther,DEN,Strawther REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
 S2425-G0113,1,02:47,BKN,,DEN,,J. Strawther,DEN,MISS Strawther 25' 3PT Jump Shot,Missed Shot,Jump Shot,-81,239,25,1,3.0,0.0,v

@@ -1,4 +1,71 @@
 game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0023,1,09:34,MEM,,DEN,,P. Watson,DEN,MISS Watson 3' Running Dunk,Missed Shot,Running Dunk Shot,-12,22,3,1,2.0,0.0,v
+S2425-G0023,1,08:09,MEM,,DEN,,P. Watson,DEN,Watson STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0023,1,07:49,MEM,,DEN,,P. Watson,DEN,SUB: Strawther FOR Watson,Substitution,,0,0,0,0,,,v
+S2425-G0023,1,04:43,MEM,,DEN,,P. Watson,DEN,Watson BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0023,1,04:01,MEM,14.0,DEN,23.0,P. Watson,DEN,Watson 6' Turnaround Fadeaway (2 PTS),Made Shot,Turnaround Fadeaway shot,45,33,6,1,2.0,2.0,v
+S2425-G0023,1,04:01,MEM,14.0,DEN,24.0,P. Watson,DEN,Watson Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0023,1,02:26,MEM,,DEN,,P. Watson,DEN,MISS Watson 3PT Jump Shot,Missed Shot,Jump Shot,-230,17,0,1,3.0,0.0,v
+S2425-G0023,1,02:04,MEM,,DEN,,P. Watson,DEN,Watson Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0023,1,01:57,MEM,,DEN,,P. Watson,DEN,SUB: Braun FOR Watson,Substitution,,0,0,0,0,,,v
+S2425-G0023,2,11:34,MEM,,DEN,,P. Watson,DEN,Watson S.FOUL (P1.T1) (C.Washington),Foul,Shooting,0,0,0,0,,,v
+S2425-G0023,2,08:44,MEM,,DEN,,P. Watson,DEN,Watson REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0023,2,08:44,MEM,,DEN,,P. Watson,DEN,Watson Traveling Turnover (P2.T6),Turnover,Traveling,0,0,0,0,,,v
+S2425-G0023,2,08:28,MEM,29.0,DEN,38.0,P. Watson,DEN,Watson 2' Running Finger Roll Layup (5 PTS) (Westbrook 4 AST),Made Shot,Running Finger Roll Layup Shot,-18,15,2,1,2.0,2.0,v
+S2425-G0023,2,08:19,MEM,,DEN,,P. Watson,DEN,SUB: Porter Jr. FOR Watson,Substitution,,0,0,0,0,,,v
+S2425-G0023,2,03:47,MEM,,DEN,,P. Watson,DEN,Watson Transition Take Foul (P2.PN) (T.Maddox),Foul                                    ,Transition Take,0,0,0,0,,,v
+S2425-G0023,2,02:36,MEM,49.0,DEN,61.0,P. Watson,DEN,Watson 24' 3PT Jump Shot (8 PTS) (Westbrook 6 AST),Made Shot,Jump Shot,237,43,24,1,3.0,3.0,v
+S2425-G0023,2,01:22,MEM,,DEN,,P. Watson,DEN,Watson S.FOUL (P3.PN) (C.Washington),Foul,Shooting,0,0,0,0,,,v
+S2425-G0023,2,01:10,MEM,,DEN,,P. Watson,DEN,SUB: Jordan FOR Watson,Substitution,,0,0,0,0,,,v
+S2425-G0023,3,10:46,MEM,57.0,DEN,71.0,P. Watson,DEN,Watson 3PT Jump Shot (11 PTS) (Šarić 1 AST),Made Shot,Jump Shot,-224,-20,0,1,3.0,3.0,v
+S2425-G0023,3,09:51,MEM,,DEN,,P. Watson,DEN,Watson REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0023,3,09:33,MEM,,DEN,,P. Watson,DEN,Watson REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0023,3,08:45,MEM,,DEN,,P. Watson,DEN,Watson REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0023,3,08:42,MEM,,DEN,,P. Watson,DEN,Watson Offensive Charge Foul (P4) (C.Kirkland),Foul,Offensive Charge,0,0,0,0,,,v
+S2425-G0023,3,08:42,MEM,,DEN,,P. Watson,DEN,Watson Offensive Foul Turnover (P3.T11),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0023,3,08:42,MEM,,DEN,,P. Watson,DEN,SUB: Westbrook FOR Watson,Substitution,,0,0,0,0,,,v
+S2425-G0023,4,11:21,MEM,,DEN,,P. Watson,DEN,MISS Watson 3PT Jump Shot,Missed Shot,Jump Shot,230,27,0,1,3.0,0.0,v
+S2425-G0023,4,09:27,MEM,,DEN,,P. Watson,DEN,Watson REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0023,4,09:18,MEM,,DEN,,P. Watson,DEN,Watson Bad Pass Turnover (P4.T16),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0023,4,09:18,MEM,,DEN,,P. Watson,DEN,Watson L.B.FOUL (P5.T3) (T.Maddox),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0023,4,09:18,MEM,,DEN,,P. Watson,DEN,SUB: Porter Jr. FOR Watson,Substitution,,0,0,0,0,,,v
+S2425-G0023,4,05:32,MEM,99.0,DEN,109.0,P. Watson,DEN,Watson 2' Driving Layup (13 PTS) (Porter Jr. 3 AST),Made Shot,Driving Layup Shot,23,8,2,1,2.0,2.0,v
+S2425-G0023,4,04:49,MEM,,DEN,,P. Watson,DEN,MISS Watson 3PT Jump Shot,Missed Shot,Jump Shot,-228,30,0,1,3.0,0.0,v
+S2425-G0023,4,02:42,MEM,104.0,DEN,115.0,P. Watson,DEN,Watson 2' Driving Reverse Layup (15 PTS) (Westbrook 14 AST),Made Shot,Driving Reverse Layup Shot,-16,9,2,1,2.0,2.0,v
+S2425-G0023,4,02:25,MEM,,DEN,,P. Watson,DEN,Watson S.FOUL (P6.PN) (C.Washington),Foul,Shooting,0,0,0,0,,,v
+S2425-G0023,4,02:25,MEM,,DEN,,P. Watson,DEN,SUB: Šarić FOR Watson,Substitution,,0,0,0,0,,,v
+S2425-G0166,1,06:57,DEN,,TOR,,P. Watson,DEN,Watson Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0166,1,05:36,DEN,,TOR,,P. Watson,DEN,Watson S.FOUL (P1.T2) (M.Myers),Foul,Shooting,0,0,0,0,,,h
+S2425-G0166,1,04:58,DEN,,TOR,,P. Watson,DEN,Watson BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0166,1,04:32,DEN,21.0,TOR,24.0,P. Watson,DEN,Watson Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0166,1,04:32,DEN,22.0,TOR,24.0,P. Watson,DEN,Watson Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0166,1,03:06,DEN,26.0,TOR,31.0,P. Watson,DEN,Watson 2' Cutting Layup Shot (4 PTS) (Jokić 5 AST),Made Shot,Cutting Layup Shot,-4,16,2,1,2.0,2.0,h
+S2425-G0166,1,00:42.300000,DEN,,TOR,,P. Watson,DEN,Watson STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0166,1,00:40.500000,DEN,,TOR,,P. Watson,DEN,MISS Watson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0166,1,00:40.500000,DEN,34.0,TOR,35.0,P. Watson,DEN,Watson Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0166,2,11:15,DEN,36.0,TOR,39.0,P. Watson,DEN,Watson 9' Driving Floating Jump Shot (7 PTS) (Strawther 1 AST),Made Shot,Driving Floating Jump Shot,-85,-1,9,1,2.0,2.0,h
+S2425-G0166,2,11:00,DEN,,TOR,,P. Watson,DEN,SUB: Nnaji FOR Watson,Substitution,,0,0,0,0,,,h
+S2425-G0166,2,04:23,DEN,,TOR,,P. Watson,DEN,MISS Watson 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,9,15,2,1,2.0,0.0,h
+S2425-G0166,2,04:09,DEN,,TOR,,P. Watson,DEN,MISS Watson 1' Running Layup,Missed Shot,Running Layup Shot,4,4,1,1,2.0,0.0,h
+S2425-G0166,2,03:28,DEN,,TOR,,P. Watson,DEN,Watson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0166,2,02:23,DEN,55.0,TOR,57.0,P. Watson,DEN,Watson Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0166,2,02:23,DEN,,TOR,,P. Watson,DEN,MISS Watson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0166,3,10:54,DEN,,TOR,,P. Watson,DEN,Watson S.FOUL (P2.T1) (M.Kogut),Foul,Shooting,0,0,0,0,,,h
+S2425-G0166,3,10:10,DEN,,TOR,,P. Watson,DEN,Watson REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0166,3,08:01,DEN,,TOR,,P. Watson,DEN,MISS Watson 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,181,188,26,1,3.0,0.0,h
+S2425-G0166,3,02:34,DEN,82.0,TOR,87.0,P. Watson,DEN,Watson Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0166,3,02:34,DEN,83.0,TOR,87.0,P. Watson,DEN,Watson Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0166,3,02:16,DEN,,TOR,,P. Watson,DEN,Watson S.FOUL (P3.PN) (M.Ervin),Foul,Shooting,0,0,0,0,,,h
+S2425-G0166,3,02:16,DEN,,TOR,,P. Watson,DEN,SUB: Nnaji FOR Watson,Substitution,,0,0,0,0,,,h
+S2425-G0166,4,06:39,DEN,,TOR,,P. Watson,DEN,Watson REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0166,4,05:14,DEN,102.0,TOR,109.0,P. Watson,DEN,Watson 3' Running Layup (12 PTS) (Porter Jr. 1 AST),Made Shot,Running Layup Shot,-22,23,3,1,2.0,2.0,h
+S2425-G0166,4,05:14,DEN,103.0,TOR,109.0,P. Watson,DEN,Watson Free Throw 1 of 1 (13 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2425-G0166,4,04:29,DEN,,TOR,,P. Watson,DEN,Watson BLOCK (2 BLK),,,0,0,0,0,,,h
+S2425-G0166,4,03:35,DEN,,TOR,,P. Watson,DEN,Watson STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0166,4,02:18,DEN,,TOR,,P. Watson,DEN,Watson S.FOUL (P4.T3) (M.Myers),Foul,Shooting,0,0,0,0,,,h
+S2425-G0166,4,01:41,DEN,118.0,TOR,117.0,P. Watson,DEN,Watson 24' 3PT Running Jump Shot (16 PTS) (Porter Jr. 2 AST),Made Shot,Running Jump Shot,-240,17,24,1,3.0,3.0,h
+S2425-G0166,4,00:15.600000,DEN,,TOR,,P. Watson,DEN,SUB: Strawther FOR Watson,Substitution,,0,0,0,0,,,h
+S2425-G0166,4,00:05.500000,DEN,,TOR,,P. Watson,DEN,Watson Personal Take Foul (P5.T4) (M.Myers),Foul,Personal Take,0,0,0,0,,,h
 S2425-G0107,1,02:47,TOR,,DEN,,P. Watson,DEN,Watson Step Out of Bounds Turnover (P1.T5),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
 S2425-G0107,1,01:52,TOR,26.0,DEN,28.0,P. Watson,DEN,Watson Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
 S2425-G0107,1,01:52,TOR,26.0,DEN,29.0,P. Watson,DEN,Watson Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
@@ -42,6 +109,152 @@ S2425-G0087,3,01:17,DEN,,LAC,,P. Watson,DEN,MISS Watson 3' Running Finger Roll L
 S2425-G0087,3,00:23.400000,DEN,,LAC,,P. Watson,DEN,MISS Watson 27' 3PT Jump Shot,Missed Shot,Jump Shot,132,230,27,1,3.0,0.0,h
 S2425-G0087,4,11:16,DEN,,LAC,,P. Watson,DEN,Watson P.FOUL (P1.T1) (B.Taylor),Foul,Personal,0,0,0,0,,,h
 S2425-G0087,4,09:53,DEN,,LAC,,P. Watson,DEN,SUB: Jokić FOR Watson,Substitution,,0,0,0,0,,,h
+S2425-G0033,1,09:49,DEN,,DAL,,P. Watson,DEN,Watson BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0033,1,07:52,DEN,,DAL,,P. Watson,DEN,MISS Watson 7' Running Layup,Missed Shot,Running Layup Shot,0,65,7,1,2.0,0.0,h
+S2425-G0033,1,05:50,DEN,,DAL,,P. Watson,DEN,Watson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0033,1,03:26,DEN,20.0,DAL,24.0,P. Watson,DEN,Watson 4' Layup (2 PTS) (Westbrook 2 AST),Made Shot,Layup Shot,-22,28,4,1,2.0,2.0,h
+S2425-G0033,1,03:03,DEN,,DAL,,P. Watson,DEN,Watson Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0033,1,02:20,DEN,,DAL,,P. Watson,DEN,SUB: Alexander FOR Watson,Substitution,,0,0,0,0,,,h
+S2425-G0033,2,06:53,DEN,,DAL,,P. Watson,DEN,Watson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0033,2,06:48,DEN,42.0,DAL,44.0,P. Watson,DEN,Watson 4' Running Layup (4 PTS),Made Shot,Running Layup Shot,-12,42,4,1,2.0,2.0,h
+S2425-G0033,2,02:42,DEN,,DAL,,P. Watson,DEN,Watson REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0033,2,02:41,DEN,,DAL,,P. Watson,DEN,MISS Watson 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-20,137,14,1,2.0,0.0,h
+S2425-G0033,2,00:38,DEN,,DAL,,P. Watson,DEN,Watson Violation:Defensive Goaltending (B.Barnaky),Violation,Defensive Goaltending,0,0,0,0,,,h
+S2425-G0033,3,10:03,DEN,,DAL,,P. Watson,DEN,MISS Watson 24' 3PT Jump Shot,Missed Shot,Jump Shot,-234,30,24,1,3.0,0.0,h
+S2425-G0033,3,08:06,DEN,,DAL,,P. Watson,DEN,Watson REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0033,3,06:32,DEN,,DAL,,P. Watson,DEN,Watson BLOCK (2 BLK),,,0,0,0,0,,,h
+S2425-G0033,3,05:49,DEN,71.0,DAL,81.0,P. Watson,DEN,Watson 3' Running Finger Roll Layup (6 PTS) (Murray 6 AST),Made Shot,Running Finger Roll Layup Shot,-4,30,3,1,2.0,2.0,h
+S2425-G0033,3,04:58,DEN,75.0,DAL,81.0,P. Watson,DEN,Watson 2' Running Layup (8 PTS) (Porter Jr. 5 AST),Made Shot,Running Layup Shot,1,15,2,1,2.0,2.0,h
+S2425-G0033,3,04:19,DEN,,DAL,,P. Watson,DEN,MISS Watson 3PT Jump Shot,Missed Shot,Jump Shot,225,59,0,1,3.0,0.0,h
+S2425-G0033,3,02:38,DEN,,DAL,,P. Watson,DEN,SUB: Tyson FOR Watson,Substitution,,0,0,0,0,,,h
+S2425-G0033,4,11:26,DEN,,DAL,,P. Watson,DEN,Watson P.FOUL (P1.T1) (B.Barnaky),Foul,Personal,0,0,0,0,,,h
+S2425-G0033,4,09:25,DEN,,DAL,,P. Watson,DEN,Watson BLOCK (3 BLK),,,0,0,0,0,,,h
+S2425-G0033,4,08:01,DEN,,DAL,,P. Watson,DEN,Watson S.FOUL (P2.T4) (S.Twardoski),Foul,Shooting,0,0,0,0,,,h
+S2425-G0033,4,07:44,DEN,99.0,DAL,102.0,P. Watson,DEN,Watson 4' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,-36,19,4,1,2.0,2.0,h
+S2425-G0033,4,05:34,DEN,108.0,DAL,106.0,P. Watson,DEN,Watson 3PT Jump Shot (13 PTS) (Jokić 9 AST),Made Shot,Jump Shot,224,24,0,1,3.0,3.0,h
+S2425-G0033,4,03:05,DEN,113.0,DAL,108.0,P. Watson,DEN,Watson 3' Cutting Dunk Shot (15 PTS) (Murray 10 AST),Made Shot,Cutting Dunk Shot,18,19,3,1,2.0,2.0,h
+S2425-G0033,4,01:37,DEN,,DAL,,P. Watson,DEN,Watson REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0033,4,01:20,DEN,,DAL,,P. Watson,DEN,Watson L.B.FOUL (P3.PN) (M.Davis),Foul,Loose Ball,0,0,0,0,,,h
+S2425-G0033,4,00:04.200000,DEN,,DAL,,P. Watson,DEN,SUB: Jordan FOR Watson,Substitution,,0,0,0,0,,,h
+S2425-G0033,4,00:03.200000,DEN,,DAL,,P. Watson,DEN,Watson Bad Pass Turnover (P2.T15),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0177,1,10:40,DEN,,OKC,,P. Watson,DEN,MISS Watson 12' Running Jump Shot,Missed Shot,Running Jump Shot,119,-5,12,1,2.0,0.0,h
+S2425-G0177,1,08:28,DEN,,OKC,,P. Watson,DEN,Watson STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0177,1,07:48,DEN,,OKC,,P. Watson,DEN,MISS Watson 26' 3PT Jump Shot,Missed Shot,Jump Shot,173,194,26,1,3.0,0.0,h
+S2425-G0177,1,04:24,DEN,,OKC,,P. Watson,DEN,Watson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0177,1,03:40,DEN,,OKC,,P. Watson,DEN,Watson P.FOUL (P1.T2) (J.DeRosa),Foul,Personal,0,0,0,0,,,h
+S2425-G0177,1,03:21,DEN,,OKC,,P. Watson,DEN,MISS Watson 3PT Jump Shot,Missed Shot,Jump Shot,-232,8,0,1,3.0,0.0,h
+S2425-G0177,1,02:59,DEN,,OKC,,P. Watson,DEN,Watson Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0177,1,02:53,DEN,,OKC,,P. Watson,DEN,SUB: Porter Jr. FOR Watson,Substitution,,0,0,0,0,,,h
+S2425-G0177,2,06:35,DEN,,OKC,,P. Watson,DEN,Watson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0177,2,05:07,DEN,41.0,OKC,49.0,P. Watson,DEN,Watson 1' Cutting Dunk Shot (2 PTS) (Jokić 7 AST),Made Shot,Cutting Dunk Shot,1,9,1,1,2.0,2.0,h
+S2425-G0177,2,04:14,DEN,,OKC,,P. Watson,DEN,Watson S.FOUL (P2.T3) (J.DeRosa),Foul,Shooting,0,0,0,0,,,h
+S2425-G0177,3,10:30,DEN,,OKC,,P. Watson,DEN,Watson Lost Ball Turnover (P2.T13),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0177,3,10:15,DEN,60.0,OKC,71.0,P. Watson,DEN,Watson Driving Dunk (4 PTS) (Porter Jr. 2 AST),Made Shot,Driving Dunk Shot,2,2,0,1,2.0,2.0,h
+S2425-G0177,3,07:05,DEN,,OKC,,P. Watson,DEN,Watson BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0177,3,07:02,DEN,,OKC,,P. Watson,DEN,Jump Ball Watson vs. Holmgren: Tip to Porter Jr.,Jump Ball,,0,0,0,0,,,h
+S2425-G0177,3,04:38,DEN,,OKC,,P. Watson,DEN,MISS Watson 3' Running Dunk,Missed Shot,Running Dunk Shot,-9,29,3,1,2.0,0.0,h
+S2425-G0177,3,03:52,DEN,,OKC,,P. Watson,DEN,Watson BLOCK (2 BLK),,,0,0,0,0,,,h
+S2425-G0177,3,02:04,DEN,,OKC,,P. Watson,DEN,Watson P.FOUL (P3.T4) (J.DeRosa),Foul,Personal,0,0,0,0,,,h
+S2425-G0177,3,01:29,DEN,,OKC,,P. Watson,DEN,SUB: Nnaji FOR Watson,Substitution,,0,0,0,0,,,h
+S2425-G0177,4,07:21,DEN,,OKC,,P. Watson,DEN,Watson REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0177,4,06:29,DEN,,OKC,,P. Watson,DEN,MISS Watson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0177,4,06:29,DEN,104.0,OKC,106.0,P. Watson,DEN,Watson Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0177,4,03:24,DEN,117.0,OKC,110.0,P. Watson,DEN,Watson 26' 3PT Jump Shot (8 PTS) (Porter Jr. 3 AST),Made Shot,Jump Shot,-151,210,26,1,3.0,3.0,h
+S2425-G0177,4,01:40,DEN,123.0,OKC,115.0,P. Watson,DEN,Watson 3' Cutting Finger Roll Layup Shot (10 PTS) (Jokić 16 AST),Made Shot,Cutting Finger Roll Layup Shot,-21,-14,3,1,2.0,2.0,h
+S2425-G0177,4,01:13,DEN,,OKC,,P. Watson,DEN,MISS Watson 27' 3PT Jump Shot,Missed Shot,Jump Shot,107,244,27,1,3.0,0.0,h
+S2425-G0177,4,00:16,DEN,,OKC,,P. Watson,DEN,MISS Watson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0177,4,00:16,DEN,,OKC,,P. Watson,DEN,MISS Watson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0177,4,00:00.600000,DEN,,OKC,,P. Watson,DEN,Watson BLOCK (3 BLK),,,0,0,0,0,,,h
+S2425-G0194,1,11:26,DEN,2.0,MIA,0.0,P. Watson,DEN,Watson 2' Running Layup (2 PTS) (Jokić 1 AST),Made Shot,Running Layup Shot,-15,5,2,1,2.0,2.0,h
+S2425-G0194,1,10:30,DEN,,MIA,,P. Watson,DEN,Watson BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0194,1,10:22,DEN,,MIA,,P. Watson,DEN,Watson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0194,1,09:58,DEN,,MIA,,P. Watson,DEN,Watson STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0194,1,08:10,DEN,14.0,MIA,6.0,P. Watson,DEN,Watson 3PT Jump Shot (5 PTS) (Jokić 4 AST),Made Shot,Jump Shot,224,22,0,1,3.0,3.0,h
+S2425-G0194,1,06:11,DEN,,MIA,,P. Watson,DEN,Watson REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0194,1,06:10,DEN,22.0,MIA,10.0,P. Watson,DEN,Watson 7' Floating Jump Shot (7 PTS),Made Shot,Floating Jump shot,-17,63,7,1,2.0,2.0,h
+S2425-G0194,1,03:37,DEN,,MIA,,P. Watson,DEN,SUB: Porter Jr. FOR Watson,Substitution,,0,0,0,0,,,h
+S2425-G0194,2,08:34,DEN,,MIA,,P. Watson,DEN,MISS Watson 1' Reverse Layup,Missed Shot,Reverse Layup Shot,10,6,1,1,2.0,0.0,h
+S2425-G0194,2,06:32,DEN,,MIA,,P. Watson,DEN,Watson REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0194,2,06:12,DEN,,MIA,,P. Watson,DEN,Watson P.FOUL (P1.T4) (S.Jelks),Foul,Personal,0,0,0,0,,,h
+S2425-G0194,2,05:07,DEN,,MIA,,P. Watson,DEN,Watson S.FOUL (P2.PN) (B.Forte),Foul,Shooting,0,0,0,0,,,h
+S2425-G0194,2,00:55.500000,DEN,,MIA,,P. Watson,DEN,SUB: Westbrook FOR Watson,Substitution,,0,0,0,0,,,h
+S2425-G0194,3,08:31,DEN,89.0,MIA,65.0,P. Watson,DEN,Watson 26' 3PT Jump Shot (10 PTS) (Murray 3 AST),Made Shot,Jump Shot,129,226,26,1,3.0,3.0,h
+S2425-G0194,3,07:29,DEN,,MIA,,P. Watson,DEN,Watson REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0194,3,07:26,DEN,,MIA,,P. Watson,DEN,MISS Watson 5' Jump Shot,Missed Shot,Jump Shot,-4,47,5,1,2.0,0.0,h
+S2425-G0194,3,06:33,DEN,,MIA,,P. Watson,DEN,MISS Watson 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-33,110,11,1,2.0,0.0,h
+S2425-G0194,3,05:28,DEN,,MIA,,P. Watson,DEN,Watson REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0194,3,03:54,DEN,,MIA,,P. Watson,DEN,SUB: Tyson FOR Watson,Substitution,,0,0,0,0,,,h
+S2425-G0194,3,00:00.200000,DEN,,MIA,,P. Watson,DEN,MISS Watson 59' 3PT Floating Jump Shot,Missed Shot,Floating Jump shot,-2,587,59,1,3.0,0.0,h
+S2425-G0194,4,10:36,DEN,108.0,MIA,90.0,P. Watson,DEN,Watson Cutting Dunk Shot (12 PTS) (Westbrook 10 AST),Made Shot,Cutting Dunk Shot,1,3,0,1,2.0,2.0,h
+S2425-G0194,4,09:58,DEN,,MIA,,P. Watson,DEN,Watson S.FOUL (P3.T1) (N.Sago),Foul,Shooting,0,0,0,0,,,h
+S2425-G0194,4,07:45,DEN,116.0,MIA,97.0,P. Watson,DEN,Watson 13' Jump Shot (14 PTS) (Murray 5 AST),Made Shot,Jump Shot,65,114,13,1,2.0,2.0,h
+S2425-G0194,4,07:15,DEN,,MIA,,P. Watson,DEN,SUB: Braun FOR Watson,Substitution,,0,0,0,0,,,h
+S2425-G0194,4,02:51,DEN,124.0,MIA,115.0,P. Watson,DEN,Watson 1' Dunk (16 PTS) (Porter Jr. 3 AST),Made Shot,Dunk Shot,-13,3,1,1,2.0,2.0,h
+S2425-G0194,4,00:58.200000,DEN,,MIA,,P. Watson,DEN,SUB: Strawther FOR Watson,Substitution,,0,0,0,0,,,h
+S2425-G0139,1,01:27,MIN,,DEN,,P. Watson,DEN,MISS Watson 25' 3PT Jump Shot,Missed Shot,Jump Shot,-154,200,25,1,3.0,0.0,v
+S2425-G0139,1,00:54.700000,MIN,,DEN,,P. Watson,DEN,MISS Watson 4' Running Layup,Missed Shot,Running Layup Shot,32,23,4,1,2.0,0.0,v
+S2425-G0139,1,00:31.300000,MIN,,DEN,,P. Watson,DEN,MISS Watson 3PT Jump Shot,Missed Shot,Jump Shot,227,42,0,1,3.0,0.0,v
+S2425-G0139,2,10:29,MIN,,DEN,,P. Watson,DEN,MISS Watson 4' Driving Layup,Missed Shot,Driving Layup Shot,-29,32,4,1,2.0,0.0,v
+S2425-G0139,2,09:25,MIN,,DEN,,P. Watson,DEN,Watson REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0139,2,08:59,MIN,,DEN,,P. Watson,DEN,SUB: Jokić FOR Watson,Substitution,,0,0,0,0,,,v
+S2425-G0139,3,01:24,MIN,90.0,DEN,83.0,P. Watson,DEN,Watson 2' Layup (2 PTS) (Westbrook 4 AST),Made Shot,Layup Shot,13,15,2,1,2.0,2.0,v
+S2425-G0139,4,11:39,MIN,,DEN,,P. Watson,DEN,Watson S.FOUL (P1.T1) (B.Nansel),Foul,Shooting,0,0,0,0,,,v
+S2425-G0139,4,09:19,MIN,,DEN,,P. Watson,DEN,MISS Watson 10' Floating Jump Shot,Missed Shot,Floating Jump shot,60,77,10,1,2.0,0.0,v
+S2425-G0139,4,08:46,MIN,,DEN,,P. Watson,DEN,Watson STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0139,4,08:38,MIN,,DEN,,P. Watson,DEN,SUB: Jokić FOR Watson,Substitution,,0,0,0,0,,,v
+S2425-G0148,1,03:41,DEN,,UTA,,P. Watson,DEN,Watson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0148,1,03:08,DEN,,UTA,,P. Watson,DEN,MISS Watson 2' Driving Layup,Missed Shot,Driving Layup Shot,16,15,2,1,2.0,0.0,h
+S2425-G0148,1,03:07,DEN,,UTA,,P. Watson,DEN,Watson REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0148,1,03:07,DEN,27.0,UTA,17.0,P. Watson,DEN,Watson Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0148,1,03:07,DEN,28.0,UTA,17.0,P. Watson,DEN,Watson Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0148,1,00:43.500000,DEN,,UTA,,P. Watson,DEN,MISS Watson 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,49,126,14,1,2.0,0.0,h
+S2425-G0148,2,11:47,DEN,38.0,UTA,26.0,P. Watson,DEN,Watson Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0148,2,11:47,DEN,39.0,UTA,26.0,P. Watson,DEN,Watson Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0148,2,11:01,DEN,,UTA,,P. Watson,DEN,MISS Watson 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,26,108,11,1,2.0,0.0,h
+S2425-G0148,2,08:46,DEN,,UTA,,P. Watson,DEN,Watson Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0148,2,08:14,DEN,,UTA,,P. Watson,DEN,SUB: Gordon FOR Watson,Substitution,,0,0,0,0,,,h
+S2425-G0148,4,11:48,DEN,,UTA,,P. Watson,DEN,Watson S.FOUL (P1.T1) (M.Kallio),Foul,Shooting,0,0,0,0,,,h
+S2425-G0148,4,10:59,DEN,,UTA,,P. Watson,DEN,MISS Watson 26' 3PT Jump Shot,Missed Shot,Jump Shot,75,252,26,1,3.0,0.0,h
+S2425-G0148,4,10:49,DEN,,UTA,,P. Watson,DEN,Watson STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0148,4,08:36,DEN,110.0,UTA,87.0,P. Watson,DEN,Watson 8' Driving Floating Jump Shot (6 PTS) (Westbrook 5 AST),Made Shot,Driving Floating Jump Shot,-23,81,8,1,2.0,2.0,h
+S2425-G0148,4,07:44,DEN,,UTA,,P. Watson,DEN,Watson STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0148,4,07:39,DEN,112.0,UTA,87.0,P. Watson,DEN,Watson 3' Layup (8 PTS) (Westbrook 6 AST),Made Shot,Layup Shot,-6,29,3,1,2.0,2.0,h
+S2425-G0148,4,05:51,DEN,,UTA,,P. Watson,DEN,MISS Watson 4' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-32,26,4,1,2.0,0.0,h
+S2425-G0148,4,05:51,DEN,,UTA,,P. Watson,DEN,Watson REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0148,4,05:48,DEN,,UTA,,P. Watson,DEN,MISS Watson 8' Putback Layup,Missed Shot,Putback Layup Shot,-50,65,8,1,2.0,0.0,h
+S2425-G0148,4,05:27,DEN,,UTA,,P. Watson,DEN,MISS Watson 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-21,34,4,1,2.0,0.0,h
+S2425-G0148,4,04:33,DEN,,UTA,,P. Watson,DEN,Watson STEAL (3 STL),,,0,0,0,0,,,h
+S2425-G0148,4,04:08,DEN,,UTA,,P. Watson,DEN,Watson S.FOUL (P2.PN) (M.Kallio),Foul,Shooting,0,0,0,0,,,h
+S2425-G0148,4,03:48,DEN,,UTA,,P. Watson,DEN,Watson REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0148,4,02:53,DEN,,UTA,,P. Watson,DEN,Watson Lost Ball Turnover (P2.T18),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0148,4,02:10,DEN,,UTA,,P. Watson,DEN,SUB: Jones FOR Watson,Substitution,,0,0,0,0,,,h
+S2425-G0017,1,11:07,NOP,,DEN,,P. Watson,DEN,Watson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0017,1,10:32,NOP,0.0,DEN,4.0,P. Watson,DEN,Watson Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0017,1,10:32,NOP,0.0,DEN,5.0,P. Watson,DEN,Watson Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0017,1,08:36,NOP,,DEN,,P. Watson,DEN,Watson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0017,1,07:42,NOP,,DEN,,P. Watson,DEN,Watson REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0017,1,05:59,NOP,9.0,DEN,16.0,P. Watson,DEN,Watson 26' 3PT Jump Shot (5 PTS) (Murray 1 AST),Made Shot,Jump Shot,-124,231,26,1,3.0,3.0,v
+S2425-G0017,1,04:26,NOP,,DEN,,P. Watson,DEN,Watson REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0017,1,04:17,NOP,,DEN,,P. Watson,DEN,MISS Watson 25' 3PT Jump Shot,Missed Shot,Jump Shot,140,208,25,1,3.0,0.0,v
+S2425-G0017,1,03:13,NOP,,DEN,,P. Watson,DEN,MISS Watson 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,34,108,11,1,2.0,0.0,v
+S2425-G0017,1,03:03,NOP,,DEN,,P. Watson,DEN,SUB: Westbrook FOR Watson,Substitution,,0,0,0,0,,,v
+S2425-G0017,2,04:40,NOP,,DEN,,P. Watson,DEN,Watson REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0017,2,04:37,NOP,47.0,DEN,42.0,P. Watson,DEN,Watson 1' Running Layup (7 PTS),Made Shot,Running Layup Shot,-6,13,1,1,2.0,2.0,v
+S2425-G0017,2,03:04,NOP,50.0,DEN,44.0,P. Watson,DEN,Watson 3' Driving Layup (9 PTS),Made Shot,Driving Layup Shot,11,26,3,1,2.0,2.0,v
+S2425-G0017,2,00:56.100000,NOP,57.0,DEN,49.0,P. Watson,DEN,Watson 2' Cutting Layup Shot (11 PTS) (Westbrook 3 AST),Made Shot,Cutting Layup Shot,10,16,2,1,2.0,2.0,v
+S2425-G0017,3,11:44,NOP,,DEN,,P. Watson,DEN,Watson S.FOUL (P1.T1) (J.Schroeder),Foul,Shooting,0,0,0,0,,,v
+S2425-G0017,3,10:24,NOP,,DEN,,P. Watson,DEN,MISS Watson 27' 3PT Jump Shot,Missed Shot,Jump Shot,-157,214,27,1,3.0,0.0,v
+S2425-G0017,3,08:02,NOP,66.0,DEN,58.0,P. Watson,DEN,Watson Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0017,3,08:02,NOP,66.0,DEN,59.0,P. Watson,DEN,Watson Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0017,3,07:51,NOP,,DEN,,P. Watson,DEN,Watson STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0017,3,07:27,NOP,,DEN,,P. Watson,DEN,SUB: Strawther FOR Watson,Substitution,,0,0,0,0,,,v
+S2425-G0017,3,02:58,NOP,,DEN,,P. Watson,DEN,MISS Watson 3PT Jump Shot,Missed Shot,Jump Shot,229,21,0,1,3.0,0.0,v
+S2425-G0017,3,01:32,NOP,,DEN,,P. Watson,DEN,MISS Watson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0017,3,01:32,NOP,76.0,DEN,70.0,P. Watson,DEN,Watson Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0017,3,00:43.200000,NOP,78.0,DEN,72.0,P. Watson,DEN,Watson 3' Cutting Layup Shot (16 PTS) (Westbrook 4 AST),Made Shot,Cutting Layup Shot,29,8,3,1,2.0,2.0,v
+S2425-G0017,4,06:39,NOP,,DEN,,P. Watson,DEN,MISS Watson 2' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,12,16,2,1,2.0,0.0,v
+S2425-G0017,4,02:32,NOP,95.0,DEN,90.0,P. Watson,DEN,Watson 3' Driving Layup (18 PTS) (Porter Jr. 3 AST),Made Shot,Driving Layup Shot,-12,32,3,1,2.0,2.0,v
+S2425-G0017,4,01:53,NOP,,DEN,,P. Watson,DEN,MISS Watson 3PT Jump Shot,Missed Shot,Jump Shot,-230,4,0,1,3.0,0.0,v
 S2425-G0113,1,01:11,BKN,35.0,DEN,25.0,P. Watson,DEN,Watson 2' Cutting Layup Shot (2 PTS) (Westbrook 2 AST),Made Shot,Cutting Layup Shot,-13,13,2,1,2.0,2.0,v
 S2425-G0113,1,00:45.500000,BKN,,DEN,,P. Watson,DEN,Watson S.FOUL (P1.T2) (S.Twardoski),Foul,Shooting,0,0,0,0,,,v
 S2425-G0113,1,00:09,BKN,,DEN,,P. Watson,DEN,MISS Watson 24' 3PT Jump Shot,Missed Shot,Jump Shot,206,125,24,1,3.0,0.0,v

@@ -1,4 +1,48 @@
 game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0029,1,00:45.900000,MIL,31.0,IND,20.0,G. Trent Jr.,MIL,Trent Jr. 26' 3PT Jump Shot (3 PTS) (Antetokounmpo 4 AST),Made Shot,Jump Shot,-125,233,26,1,3.0,3.0,h
+S2425-G0029,2,09:58,MIL,39.0,IND,27.0,G. Trent Jr.,MIL,Trent Jr. 3PT Jump Shot (6 PTS) (Lillard 2 AST),Made Shot,Jump Shot,-230,-10,0,1,3.0,3.0,h
+S2425-G0029,2,09:15,MIL,,IND,,G. Trent Jr.,MIL,Trent Jr. S.FOUL (P1.T2) (S.Mehta),Foul,Shooting,0,0,0,0,,,h
+S2425-G0029,2,07:58,MIL,42.0,IND,33.0,G. Trent Jr.,MIL,Trent Jr. 25' 3PT Step Back Jump Shot (9 PTS) (Lopez 2 AST),Made Shot,Step Back Jump shot,4,253,25,1,3.0,3.0,h
+S2425-G0029,2,05:59,MIL,,IND,,G. Trent Jr.,MIL,Trent Jr. STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0029,2,05:12,MIL,,IND,,G. Trent Jr.,MIL,MISS Trent Jr. 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,77,254,27,1,3.0,0.0,h
+S2425-G0029,2,04:13,MIL,,IND,,G. Trent Jr.,MIL,MISS Trent Jr. 28' 3PT Jump Shot,Missed Shot,Jump Shot,-159,233,28,1,3.0,0.0,h
+S2425-G0029,2,01:54,MIL,,IND,,G. Trent Jr.,MIL,Trent Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0029,2,00:00,MIL,58.0,IND,44.0,G. Trent Jr.,MIL,Trent Jr. 3PT Jump Shot (12 PTS) (Prince 1 AST),Made Shot,Jump Shot,229,18,0,1,3.0,3.0,h
+S2425-G0029,3,02:31,MIL,,IND,,G. Trent Jr.,MIL,MISS Trent Jr. 28' 3PT Jump Shot,Missed Shot,Jump Shot,161,224,28,1,3.0,0.0,h
+S2425-G0029,3,01:59,MIL,,IND,,G. Trent Jr.,MIL,MISS Trent Jr. 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-230,40,0,1,3.0,0.0,h
+S2425-G0029,3,00:51.300000,MIL,,IND,,G. Trent Jr.,MIL,Trent Jr. Bad Pass Turnover (P1.T11),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0029,4,11:09,MIL,98.0,IND,79.0,G. Trent Jr.,MIL,Trent Jr. 3PT Running Jump Shot (15 PTS) (Lillard 7 AST),Made Shot,Running Jump Shot,-230,17,0,1,3.0,3.0,h
+S2425-G0029,4,05:33,MIL,111.0,IND,102.0,G. Trent Jr.,MIL,Trent Jr. 27' 3PT Jump Shot (18 PTS) (Antetokounmpo 11 AST),Made Shot,Jump Shot,17,268,27,1,3.0,3.0,h
+S2425-G0029,4,05:09,MIL,,IND,,G. Trent Jr.,MIL,Trent Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0029,4,00:30.600000,MIL,,IND,,G. Trent Jr.,MIL,SUB: Smith FOR Trent Jr.,Substitution,,0,0,0,0,,,h
+S2425-G0005,1,03:57,MIL,,TOR,,G. Trent Jr.,MIL,MISS Trent Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,-18,257,26,1,3.0,0.0,h
+S2425-G0005,1,03:44,MIL,,TOR,,G. Trent Jr.,MIL,Trent Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0005,1,00:32.200000,MIL,,TOR,,G. Trent Jr.,MIL,MISS Trent Jr. 4' Driving Layup,Missed Shot,Driving Layup Shot,12,42,4,1,2.0,0.0,h
+S2425-G0005,2,10:49,MIL,,TOR,,G. Trent Jr.,MIL,SUB: Lopez FOR Trent Jr.,Substitution,,0,0,0,0,,,h
+S2425-G0182,1,03:59,MIL,,UTA,,G. Trent Jr.,MIL,Trent Jr. P.FOUL (P1.T3) (K.Lane),Foul,Personal,0,0,0,0,,,h
+S2425-G0182,1,01:38,MIL,28.0,UTA,23.0,G. Trent Jr.,MIL,Trent Jr. 6' Driving Floating Bank Jump Shot (2 PTS) (Lillard 3 AST),Made Shot,Driving Floating Bank Jump Shot,-39,44,6,1,2.0,2.0,h
+S2425-G0182,2,11:09,MIL,,UTA,,G. Trent Jr.,MIL,MISS Trent Jr. 1' Driving Layup,Missed Shot,Driving Layup Shot,12,7,1,1,2.0,0.0,h
+S2425-G0182,2,09:31,MIL,,UTA,,G. Trent Jr.,MIL,Trent Jr. OFF.Foul (P2) (J.Goble),Foul,Offensive,0,0,0,0,,,h
+S2425-G0182,2,09:31,MIL,,UTA,,G. Trent Jr.,MIL,Trent Jr. Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0182,2,08:33,MIL,,UTA,,G. Trent Jr.,MIL,SUB: Prince FOR Trent Jr.,Substitution,,0,0,0,0,,,h
+S2425-G0154,1,11:39,CLE,,MIL,,G. Trent Jr.,MIL,Trent Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0154,1,08:02,CLE,,MIL,,G. Trent Jr.,MIL,Trent Jr. Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0154,1,07:07,CLE,,MIL,,G. Trent Jr.,MIL,MISS Trent Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,-99,231,25,1,3.0,0.0,v
+S2425-G0154,1,06:03,CLE,,MIL,,G. Trent Jr.,MIL,MISS Trent Jr. 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,28,93,10,1,2.0,0.0,v
+S2425-G0154,1,05:14,CLE,,MIL,,G. Trent Jr.,MIL,Trent Jr. S.FOUL (P1.T4) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,v
+S2425-G0154,1,05:14,CLE,,MIL,,G. Trent Jr.,MIL,SUB: Connaughton FOR Trent Jr.,Substitution,,0,0,0,0,,,v
+S2425-G0154,2,08:44,CLE,42.0,MIL,36.0,G. Trent Jr.,MIL,Trent Jr. 13' Fadeaway Jumper (2 PTS),Made Shot,Fadeaway Jump Shot,-105,84,13,1,2.0,2.0,v
+S2425-G0154,2,08:05,CLE,,MIL,,G. Trent Jr.,MIL,MISS Trent Jr. 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,112,73,13,1,2.0,0.0,v
+S2425-G0154,2,07:55,CLE,,MIL,,G. Trent Jr.,MIL,Trent Jr. P.FOUL (P2.T2) (N.Buchert),Foul,Personal,0,0,0,0,,,v
+S2425-G0154,2,04:48,CLE,55.0,MIL,47.0,G. Trent Jr.,MIL,Trent Jr. Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0154,2,04:48,CLE,55.0,MIL,48.0,G. Trent Jr.,MIL,Trent Jr. Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0154,2,04:25,CLE,,MIL,,G. Trent Jr.,MIL,MISS Trent Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,211,147,26,1,3.0,0.0,v
+S2425-G0154,2,03:14,CLE,,MIL,,G. Trent Jr.,MIL,MISS Trent Jr. 6' Floating Jump Shot,Missed Shot,Floating Jump shot,-64,4,6,1,2.0,0.0,v
+S2425-G0154,2,01:23,CLE,,MIL,,G. Trent Jr.,MIL,SUB: Jackson Jr. FOR Trent Jr.,Substitution,,0,0,0,0,,,v
+S2425-G0154,3,09:27,CLE,,MIL,,G. Trent Jr.,MIL,Trent Jr. P.FOUL (P3.T2) (N.Buchert),Foul,Personal,0,0,0,0,,,v
+S2425-G0154,3,08:42,CLE,,MIL,,G. Trent Jr.,MIL,MISS Trent Jr. 3PT Jump Shot,Missed Shot,Jump Shot,-232,0,0,1,3.0,0.0,v
+S2425-G0154,3,08:31,CLE,,MIL,,G. Trent Jr.,MIL,Trent Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0154,3,06:22,CLE,,MIL,,G. Trent Jr.,MIL,SUB: Jackson Jr. FOR Trent Jr.,Substitution,,0,0,0,0,,,v
 S2425-G0066,1,09:48,PHI,,MIL,,G. Trent Jr.,MIL,MISS Trent Jr. 27' 3PT Jump Shot,Missed Shot,Jump Shot,10,269,27,1,3.0,0.0,v
 S2425-G0066,1,09:06,PHI,,MIL,,G. Trent Jr.,MIL,Trent Jr. P.FOUL (P1.T1) (B.Forte),Foul,Personal,0,0,0,0,,,v
 S2425-G0066,1,00:47.300000,PHI,,MIL,,G. Trent Jr.,MIL,SUB: Green FOR Trent Jr.,Substitution,,0,0,0,0,,,v
@@ -35,6 +79,47 @@ S2425-G0083,3,00:40.800000,MIL,95.0,CHI,102.0,G. Trent Jr.,MIL,Trent Jr. 28' 3PT
 S2425-G0083,4,05:12,MIL,,CHI,,G. Trent Jr.,MIL,Trent Jr. P.FOUL (P2.T3) (M.Davis),Foul,Personal,0,0,0,0,,,h
 S2425-G0083,4,01:59,MIL,,CHI,,G. Trent Jr.,MIL,MISS Trent Jr. 27' 3PT Jump Shot,Missed Shot,Jump Shot,16,274,27,1,3.0,0.0,h
 S2425-G0083,4,01:49,MIL,,CHI,,G. Trent Jr.,MIL,SUB: Smith FOR Trent Jr.,Substitution,,0,0,0,0,,,h
+S2425-G0128,1,11:42,MEM,,MIL,,G. Trent Jr.,MIL,MISS Trent Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,173,181,25,1,3.0,0.0,v
+S2425-G0128,1,10:00,MEM,4.0,MIL,5.0,G. Trent Jr.,MIL,Trent Jr. 1' Running Layup (2 PTS) (Antetokounmpo 1 AST),Made Shot,Running Layup Shot,-1,10,1,1,2.0,2.0,v
+S2425-G0128,1,10:00,MEM,4.0,MIL,6.0,G. Trent Jr.,MIL,Trent Jr. Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0128,1,07:33,MEM,16.0,MIL,12.0,G. Trent Jr.,MIL,Trent Jr. 7' Driving Floating Jump Shot (5 PTS),Made Shot,Driving Floating Jump Shot,62,36,7,1,2.0,2.0,v
+S2425-G0128,1,07:19,MEM,,MIL,,G. Trent Jr.,MIL,Trent Jr. P.FOUL (P1.T2) (S.Corbin),Foul,Personal,0,0,0,0,,,v
+S2425-G0128,1,07:06,MEM,,MIL,,G. Trent Jr.,MIL,Trent Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0128,1,04:43,MEM,,MIL,,G. Trent Jr.,MIL,MISS Trent Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,97,235,25,1,3.0,0.0,v
+S2425-G0128,1,04:35,MEM,,MIL,,G. Trent Jr.,MIL,SUB: Connaughton FOR Trent Jr.,Substitution,,0,0,0,0,,,v
+S2425-G0128,2,03:47,MEM,,MIL,,G. Trent Jr.,MIL,MISS Trent Jr. 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-179,179,25,1,3.0,0.0,v
+S2425-G0128,2,02:19,MEM,,MIL,,G. Trent Jr.,MIL,MISS Trent Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,-181,180,26,1,3.0,0.0,v
+S2425-G0128,2,01:57,MEM,63.0,MIL,48.0,G. Trent Jr.,MIL,Trent Jr. 2' Running Reverse Layup (7 PTS) (Lillard 4 AST),Made Shot,Running Reverse Layup Shot,21,7,2,1,2.0,2.0,v
+S2425-G0128,2,01:15,MEM,,MIL,,G. Trent Jr.,MIL,SUB: Jackson Jr. FOR Trent Jr.,Substitution,,0,0,0,0,,,v
+S2425-G0128,3,11:11,MEM,,MIL,,G. Trent Jr.,MIL,MISS Trent Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,-186,172,25,1,3.0,0.0,v
+S2425-G0128,3,11:03,MEM,,MIL,,G. Trent Jr.,MIL,Trent Jr. STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0128,3,11:00,MEM,72.0,MIL,52.0,G. Trent Jr.,MIL,Trent Jr. 1' Running Finger Roll Layup (9 PTS),Made Shot,Running Finger Roll Layup Shot,0,6,1,1,2.0,2.0,v
+S2425-G0128,3,10:39,MEM,,MIL,,G. Trent Jr.,MIL,Trent Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0128,3,08:02,MEM,,MIL,,G. Trent Jr.,MIL,MISS Trent Jr. 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-225,10,0,1,3.0,0.0,v
+S2425-G0128,3,07:13,MEM,,MIL,,G. Trent Jr.,MIL,MISS Trent Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,-55,248,25,1,3.0,0.0,v
+S2425-G0128,3,05:16,MEM,,MIL,,G. Trent Jr.,MIL,MISS Trent Jr. 3' Running Layup,Missed Shot,Running Layup Shot,20,20,3,1,2.0,0.0,v
+S2425-G0128,3,05:01,MEM,,MIL,,G. Trent Jr.,MIL,SUB: Wright FOR Trent Jr.,Substitution,,0,0,0,0,,,v
+S2425-G0145,1,11:21,MIL,,CLE,,G. Trent Jr.,MIL,Trent Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0145,1,09:34,MIL,,CLE,,G. Trent Jr.,MIL,MISS Trent Jr. 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,156,209,26,1,3.0,0.0,h
+S2425-G0145,1,06:58,MIL,,CLE,,G. Trent Jr.,MIL,Trent Jr. STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0145,1,05:22,MIL,,CLE,,G. Trent Jr.,MIL,SUB: Jackson Jr. FOR Trent Jr.,Substitution,,0,0,0,0,,,h
+S2425-G0145,2,10:14,MIL,,CLE,,G. Trent Jr.,MIL,MISS Trent Jr. 27' 3PT Jump Shot,Missed Shot,Jump Shot,-178,199,27,1,3.0,0.0,h
+S2425-G0145,2,08:32,MIL,,CLE,,G. Trent Jr.,MIL,MISS Trent Jr. 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-195,185,27,1,3.0,0.0,h
+S2425-G0145,2,08:15,MIL,,CLE,,G. Trent Jr.,MIL,MISS Trent Jr. 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-239,20,24,1,3.0,0.0,h
+S2425-G0145,2,07:19,MIL,,CLE,,G. Trent Jr.,MIL,MISS Trent Jr. 14' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-6,143,14,1,2.0,0.0,h
+S2425-G0145,2,03:47,MIL,,CLE,,G. Trent Jr.,MIL,Trent Jr. OFF.Foul (P1) (B.Haskill),Foul,Offensive,0,0,0,0,,,h
+S2425-G0145,2,03:47,MIL,,CLE,,G. Trent Jr.,MIL,Trent Jr. Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0145,2,01:42,MIL,,CLE,,G. Trent Jr.,MIL,MISS Trent Jr. 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,64,254,26,1,3.0,0.0,h
+S2425-G0145,3,09:48,MIL,,CLE,,G. Trent Jr.,MIL,Trent Jr. Out of Bounds Lost Ball Turnover (P2.T6),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2425-G0145,3,06:58,MIL,,CLE,,G. Trent Jr.,MIL,Trent Jr. P.FOUL (P2.T4) (B.Barnaky),Foul,Personal,0,0,0,0,,,h
+S2425-G0145,3,05:04,MIL,,CLE,,G. Trent Jr.,MIL,SUB: Jackson Jr. FOR Trent Jr.,Substitution,,0,0,0,0,,,h
+S2425-G0145,4,09:34,MIL,,CLE,,G. Trent Jr.,MIL,Trent Jr. Offensive Charge Foul (P3) (B.Barnaky),Foul,Offensive Charge,0,0,0,0,,,h
+S2425-G0145,4,09:34,MIL,,CLE,,G. Trent Jr.,MIL,Trent Jr. Offensive Foul Turnover (P3.T13),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0145,4,07:53,MIL,,CLE,,G. Trent Jr.,MIL,MISS Trent Jr. 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,49,98,11,1,2.0,0.0,h
+S2425-G0145,4,06:47,MIL,98.0,CLE,99.0,G. Trent Jr.,MIL,Trent Jr. 26' 3PT Jump Shot (3 PTS) (Antetokounmpo 8 AST),Made Shot,Jump Shot,216,147,26,1,3.0,3.0,h
+S2425-G0145,4,02:46,MIL,,CLE,,G. Trent Jr.,MIL,MISS Trent Jr. 13' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,12,130,13,1,2.0,0.0,h
+S2425-G0145,4,02:05,MIL,,CLE,,G. Trent Jr.,MIL,MISS Trent Jr. 24' 3PT Jump Shot,Missed Shot,Jump Shot,-228,82,24,1,3.0,0.0,h
+S2425-G0145,4,00:00.300000,MIL,,CLE,,G. Trent Jr.,MIL,SUB: Portis FOR Trent Jr.,Substitution,,0,0,0,0,,,h
 S2425-G0104,1,11:48,BOS,,MIL,,G. Trent Jr.,MIL,MISS Trent Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,-202,157,26,1,3.0,0.0,v
 S2425-G0104,1,08:00,BOS,,MIL,,G. Trent Jr.,MIL,Trent Jr. STEAL (1 STL),,,0,0,0,0,,,v
 S2425-G0104,1,07:34,BOS,,MIL,,G. Trent Jr.,MIL,Trent Jr. Violation:Lane (T.Brothers),Violation,Lane,0,0,0,0,,,v

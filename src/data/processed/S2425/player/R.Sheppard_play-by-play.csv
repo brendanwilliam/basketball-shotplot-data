@@ -1,4 +1,11 @@
 game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0192,2,11:40,OKC,,HOU,,R. Sheppard,HOU,Sheppard REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0192,2,07:54,OKC,,HOU,,R. Sheppard,HOU,SUB: Adams FOR Sheppard,Substitution,,0,0,0,0,,,v
+S2425-G0192,4,11:23,OKC,,HOU,,R. Sheppard,HOU,Sheppard S.FOUL (P1.T1) (E.Scott),Foul,Shooting,0,0,0,0,,,v
+S2425-G0192,4,10:14,OKC,,HOU,,R. Sheppard,HOU,Sheppard REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0192,4,10:06,OKC,105.0,HOU,83.0,R. Sheppard,HOU,Sheppard 2' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,0,23,2,1,2.0,2.0,v
+S2425-G0192,4,07:55,OKC,110.0,HOU,87.0,R. Sheppard,HOU,Sheppard 13' Pullup Jump Shot (4 PTS) (Holiday 2 AST),Made Shot,Pullup Jump shot,43,121,13,1,2.0,2.0,v
+S2425-G0192,4,05:09,OKC,,HOU,,R. Sheppard,HOU,Sheppard Bad Pass Turnover (P1.T13),Turnover,Bad Pass,0,0,0,0,,,v
 S2425-G0068,1,04:10,HOU,,CHA,,R. Sheppard,HOU,Sheppard BLOCK (1 BLK),,,0,0,0,0,,,h
 S2425-G0068,1,03:02,HOU,,CHA,,R. Sheppard,HOU,Sheppard Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,h
 S2425-G0068,1,02:15,HOU,,CHA,,R. Sheppard,HOU,MISS Sheppard 13' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,67,106,13,1,2.0,0.0,h
@@ -17,7 +24,47 @@ S2425-G0068,3,00:07.800000,HOU,,CHA,,R. Sheppard,HOU,SUB: VanVleet FOR Sheppard,
 S2425-G0068,4,11:47,HOU,,CHA,,R. Sheppard,HOU,Sheppard Lost Ball Turnover (P3.T6),Turnover,Lost Ball,0,0,0,0,,,h
 S2425-G0068,4,11:41,HOU,,CHA,,R. Sheppard,HOU,Sheppard S.FOUL (P3.T1) (E.Dalen),Foul,Shooting,0,0,0,0,,,h
 S2425-G0068,4,10:36,HOU,,CHA,,R. Sheppard,HOU,SUB: VanVleet FOR Sheppard,Substitution,,0,0,0,0,,,h
+S2425-G0161,2,10:00,HOU,39.0,NYK,30.0,R. Sheppard,HOU,Sheppard 28' 3PT Jump Shot (3 PTS) (Thompson 1 AST),Made Shot,Jump Shot,-137,249,28,1,3.0,3.0,h
+S2425-G0161,2,09:02,HOU,,NYK,,R. Sheppard,HOU,MISS Sheppard 26' 3PT Jump Shot,Missed Shot,Jump Shot,218,134,26,1,3.0,0.0,h
+S2425-G0161,2,06:54,HOU,,NYK,,R. Sheppard,HOU,SUB: Brooks FOR Sheppard,Substitution,,0,0,0,0,,,h
+S2425-G0161,3,01:14,HOU,81.0,NYK,72.0,R. Sheppard,HOU,Sheppard 6' Driving Floating Bank Jump Shot (5 PTS) (Adams 3 AST),Made Shot,Driving Floating Bank Jump Shot,47,36,6,1,2.0,2.0,h
+S2425-G0161,3,00:53.800000,HOU,,NYK,,R. Sheppard,HOU,Sheppard REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0161,3,00:03.200000,HOU,,NYK,,R. Sheppard,HOU,MISS Sheppard 8' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-9,83,8,1,2.0,0.0,h
+S2425-G0161,4,09:55,HOU,,NYK,,R. Sheppard,HOU,MISS Sheppard 27' 3PT Jump Shot,Missed Shot,Jump Shot,76,260,27,1,3.0,0.0,h
+S2425-G0161,4,09:24,HOU,87.0,NYK,82.0,R. Sheppard,HOU,Sheppard 18' Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,2,177,18,1,2.0,2.0,h
+S2425-G0161,4,07:44,HOU,,NYK,,R. Sheppard,HOU,Sheppard REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0161,4,07:29,HOU,,NYK,,R. Sheppard,HOU,MISS Sheppard 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,80,161,18,1,2.0,0.0,h
+S2425-G0161,4,06:40,HOU,,NYK,,R. Sheppard,HOU,MISS Sheppard 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,227,136,26,1,3.0,0.0,h
+S2425-G0161,4,05:28,HOU,,NYK,,R. Sheppard,HOU,SUB: Ja. Green FOR Sheppard,Substitution,,0,0,0,0,,,h
+S2425-G0031,1,00:17.400000,HOU,31.0,POR,20.0,R. Sheppard,HOU,Sheppard 26' 3PT Jump Shot (3 PTS) (Thompson 2 AST),Made Shot,Jump Shot,-190,183,26,1,3.0,3.0,h
+S2425-G0031,2,08:37,HOU,,POR,,R. Sheppard,HOU,SUB: Smith Jr. FOR Sheppard,Substitution,,0,0,0,0,,,h
+S2425-G0031,3,00:33.700000,HOU,,POR,,R. Sheppard,HOU,MISS Sheppard 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,151,201,25,1,3.0,0.0,h
+S2425-G0031,3,00:25.100000,HOU,,POR,,R. Sheppard,HOU,Sheppard BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0031,3,00:23.600000,HOU,,POR,,R. Sheppard,HOU,Sheppard STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0031,4,11:24,HOU,,POR,,R. Sheppard,HOU,Sheppard BLOCK (2 BLK),,,0,0,0,0,,,h
+S2425-G0031,4,08:03,HOU,,POR,,R. Sheppard,HOU,MISS Sheppard 24' 3PT Jump Shot,Missed Shot,Jump Shot,-239,-7,24,1,3.0,0.0,h
+S2425-G0031,4,07:28,HOU,,POR,,R. Sheppard,HOU,Sheppard S.FOUL (P1.T1) (M.Myers),Foul,Shooting,0,0,0,0,,,h
+S2425-G0031,4,06:47,HOU,,POR,,R. Sheppard,HOU,Sheppard STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0031,4,06:31,HOU,,POR,,R. Sheppard,HOU,MISS Sheppard 3' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,27,-11,3,1,2.0,0.0,h
+S2425-G0031,4,05:55,HOU,,POR,,R. Sheppard,HOU,MISS Sheppard 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-7,116,12,1,2.0,0.0,h
+S2425-G0031,4,05:37,HOU,,POR,,R. Sheppard,HOU,Sheppard STEAL (3 STL),,,0,0,0,0,,,h
+S2425-G0031,4,04:38,HOU,,POR,,R. Sheppard,HOU,MISS Sheppard 2' Driving Layup,Missed Shot,Driving Layup Shot,-1,21,2,1,2.0,0.0,h
+S2425-G0031,4,03:59,HOU,,POR,,R. Sheppard,HOU,SUB: McVeigh FOR Sheppard,Substitution,,0,0,0,0,,,h
 S2425-G0109,2,03:30,SAS,,HOU,,R. Sheppard,HOU,SUB: Brooks FOR Sheppard,Substitution,,0,0,0,0,,,v
+S2425-G0129,1,02:10,DAL,17.0,HOU,29.0,R. Sheppard,HOU,Sheppard 13' Pullup Jump Shot (2 PTS) (Adams 1 AST),Made Shot,Pullup Jump shot,-65,111,13,1,2.0,2.0,v
+S2425-G0129,1,00:29.500000,DAL,,HOU,,R. Sheppard,HOU,Sheppard REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0129,2,09:34,DAL,,HOU,,R. Sheppard,HOU,SUB: VanVleet FOR Sheppard,Substitution,,0,0,0,0,,,v
+S2425-G0201,1,02:13,DET,,HOU,,R. Sheppard,HOU,Sheppard REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0201,1,01:14,DET,,HOU,,R. Sheppard,HOU,Sheppard STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0201,1,01:07,DET,,HOU,,R. Sheppard,HOU,Sheppard REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0201,2,10:22,DET,,HOU,,R. Sheppard,HOU,Sheppard S.FOUL (P1.T1) (E.Malloy),Foul,Shooting,0,0,0,0,,,v
+S2425-G0201,2,08:58,DET,,HOU,,R. Sheppard,HOU,Sheppard Out of Bounds Lost Ball Turnover (P1.T4),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2425-G0201,2,08:38,DET,,HOU,,R. Sheppard,HOU,MISS Sheppard 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,164,200,26,1,3.0,0.0,v
+S2425-G0201,2,08:13,DET,,HOU,,R. Sheppard,HOU,SUB: Brooks FOR Sheppard,Substitution,,0,0,0,0,,,v
+S2425-G0201,4,10:06,DET,67.0,HOU,80.0,R. Sheppard,HOU,Sheppard 3PT Jump Shot (3 PTS) (Eason 1 AST),Made Shot,Jump Shot,232,15,0,1,3.0,3.0,v
+S2425-G0201,4,08:42,DET,,HOU,,R. Sheppard,HOU,Sheppard REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0201,4,08:03,DET,,HOU,,R. Sheppard,HOU,MISS Sheppard 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-91,245,26,1,3.0,0.0,v
+S2425-G0201,4,07:06,DET,,HOU,,R. Sheppard,HOU,SUB: VanVleet FOR Sheppard,Substitution,,0,0,0,0,,,v
 S2425-G0082,1,02:05,HOU,30.0,MEM,30.0,R. Sheppard,HOU,Sheppard 25' 3PT Pullup Jump Shot (3 PTS) (Thompson 2 AST),Made Shot,Pullup Jump shot,-58,239,25,1,3.0,3.0,h
 S2425-G0082,1,01:29,HOU,33.0,MEM,33.0,R. Sheppard,HOU,Sheppard 25' 3PT Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,12,245,25,1,3.0,3.0,h
 S2425-G0082,2,10:13,HOU,,MEM,,R. Sheppard,HOU,MISS Sheppard 13' Jump Shot,Missed Shot,Jump Shot,45,120,13,1,2.0,0.0,h
@@ -33,3 +80,26 @@ S2425-G0094,2,11:06,SAS,,HOU,,R. Sheppard,HOU,Sheppard REBOUND (Off:0 Def:1),Reb
 S2425-G0094,2,08:47,SAS,,HOU,,R. Sheppard,HOU,Sheppard Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,v
 S2425-G0094,2,08:27,SAS,,HOU,,R. Sheppard,HOU,MISS Sheppard 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,32,262,26,1,3.0,0.0,v
 S2425-G0094,2,08:00,SAS,,HOU,,R. Sheppard,HOU,SUB: Sengun FOR Sheppard,Substitution,,0,0,0,0,,,v
+S2425-G0016,1,02:06,HOU,,LAC,,R. Sheppard,HOU,MISS Sheppard 29' 3PT Jump Shot,Missed Shot,Jump Shot,-152,248,29,1,3.0,0.0,h
+S2425-G0016,2,08:26,HOU,,LAC,,R. Sheppard,HOU,SUB: Brooks FOR Sheppard,Substitution,,0,0,0,0,,,h
+S2425-G0016,4,10:01,HOU,,LAC,,R. Sheppard,HOU,MISS Sheppard 24' 3PT Jump Shot,Missed Shot,Jump Shot,238,15,24,1,3.0,0.0,h
+S2425-G0016,4,09:51,HOU,,LAC,,R. Sheppard,HOU,Sheppard S.FOUL (P1.T3) (N.Sago),Foul,Shooting,0,0,0,0,,,h
+S2425-G0016,4,09:22,HOU,,LAC,,R. Sheppard,HOU,SUB: Sengun FOR Sheppard,Substitution,,0,0,0,0,,,h
+S2425-G0016,4,02:18,HOU,,LAC,,R. Sheppard,HOU,MISS Sheppard 25' 3PT Jump Shot,Missed Shot,Jump Shot,-107,225,25,1,3.0,0.0,h
+S2425-G0016,4,02:02,HOU,,LAC,,R. Sheppard,HOU,MISS Sheppard 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,31,106,11,1,2.0,0.0,h
+S2425-G0016,4,01:47,HOU,,LAC,,R. Sheppard,HOU,Sheppard P.FOUL (P2.PN) (M.Smith),Foul,Personal,0,0,0,0,,,h
+S2425-G0016,4,01:09,HOU,,LAC,,R. Sheppard,HOU,Sheppard STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0016,4,00:41.100000,HOU,,LAC,,R. Sheppard,HOU,MISS Sheppard 27' 3PT Jump Shot,Missed Shot,Jump Shot,-218,165,27,1,3.0,0.0,h
+S2425-G0173,1,02:21,HOU,,SAS,,R. Sheppard,HOU,Sheppard S.FOUL (P1.PN) (S.Mehta),Foul,Shooting,0,0,0,0,,,h
+S2425-G0173,1,02:21,HOU,,SAS,,R. Sheppard,HOU,SUB: Brooks FOR Sheppard,Substitution,,0,0,0,0,,,h
+S2425-G0173,2,07:00,HOU,,SAS,,R. Sheppard,HOU,MISS Sheppard 26' 3PT Jump Shot,Missed Shot,Jump Shot,152,206,26,1,3.0,0.0,h
+S2425-G0173,2,06:10,HOU,,SAS,,R. Sheppard,HOU,Sheppard Out of Bounds Lost Ball Turnover (P1.T4),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2425-G0173,2,02:51,HOU,,SAS,,R. Sheppard,HOU,Sheppard Bad Pass Turnover (P2.T5),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0173,2,02:40,HOU,,SAS,,R. Sheppard,HOU,MISS Sheppard 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-189,176,26,1,3.0,0.0,h
+S2425-G0173,2,02:35,HOU,,SAS,,R. Sheppard,HOU,SUB: Ja. Green FOR Sheppard,Substitution,,0,0,0,0,,,h
+S2425-G0173,4,11:48,HOU,97.0,SAS,71.0,R. Sheppard,HOU,Sheppard 28' 3PT Jump Shot (3 PTS) (Ja. Green 4 AST),Made Shot,Jump Shot,-135,248,28,1,3.0,3.0,h
+S2425-G0173,4,08:33,HOU,,SAS,,R. Sheppard,HOU,Sheppard REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0173,4,08:33,HOU,109.0,SAS,83.0,R. Sheppard,HOU,Sheppard Tip Layup Shot (5 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2425-G0173,4,06:33,HOU,,SAS,,R. Sheppard,HOU,MISS Sheppard 10' Jump Shot,Missed Shot,Jump Shot,-82,63,10,1,2.0,0.0,h
+S2425-G0173,4,05:27,HOU,,SAS,,R. Sheppard,HOU,Sheppard REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0173,4,02:05,HOU,,SAS,,R. Sheppard,HOU,SUB: McVeigh FOR Sheppard,Substitution,,0,0,0,0,,,h

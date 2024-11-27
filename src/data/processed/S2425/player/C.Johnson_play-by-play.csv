@@ -1,28 +1,112 @@
 game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
-S2424-G124,1,09:55,MEM,,BKN,,C. Johnson,BKN,MISS C. Johnson 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,227,95,25,1,3.0,0.0,v
-S2424-G124,1,08:54,MEM,9.0,BKN,7.0,C. Johnson,BKN,C. Johnson 26' 3PT Jump Shot (3 PTS) (Simmons 1 AST),Made Shot,Jump Shot,-168,199,26,1,3.0,3.0,v
-S2424-G124,1,08:25,MEM,,BKN,,C. Johnson,BKN,MISS C. Johnson 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-28,79,8,1,2.0,0.0,v
-S2424-G124,1,07:36,MEM,,BKN,,C. Johnson,BKN,MISS C. Johnson 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,17,5,2,1,2.0,0.0,v
-S2424-G124,1,07:15,MEM,,BKN,,C. Johnson,BKN,C. Johnson S.FOUL (P1.PN) (B.Forte),Foul,Shooting,0,0,0,0,,,v
-S2424-G124,1,06:06,MEM,,BKN,,C. Johnson,BKN,MISS C. Johnson 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-66,88,11,1,2.0,0.0,v
-S2424-G124,1,03:07,MEM,,BKN,,C. Johnson,BKN,SUB: Williams FOR C. Johnson,Substitution,,0,0,0,0,,,v
-S2424-G124,2,07:30,MEM,,BKN,,C. Johnson,BKN,MISS C. Johnson 3PT Jump Shot,Missed Shot,Jump Shot,-229,1,0,1,3.0,0.0,v
-S2424-G124,2,02:54,MEM,53.0,BKN,58.0,C. Johnson,BKN,C. Johnson 3PT Running Jump Shot (6 PTS) (Schröder 5 AST),Made Shot,Running Jump Shot,-232,8,0,1,3.0,3.0,v
-S2424-G124,2,02:19,MEM,55.0,BKN,61.0,C. Johnson,BKN,C. Johnson 26' 3PT Jump Shot (9 PTS) (Wilson 2 AST),Made Shot,Jump Shot,-205,155,26,1,3.0,3.0,v
-S2424-G124,2,00:33.300000,MEM,60.0,BKN,65.0,C. Johnson,BKN,C. Johnson 27' 3PT Jump Shot (12 PTS) (Schröder 6 AST),Made Shot,Jump Shot,147,222,27,1,3.0,3.0,v
-S2424-G124,3,11:30,MEM,,BKN,,C. Johnson,BKN,C. Johnson BLOCK (1 BLK),,,0,0,0,0,,,v
-S2424-G124,3,09:30,MEM,,BKN,,C. Johnson,BKN,MISS C. Johnson 27' 3PT Jump Shot,Missed Shot,Jump Shot,172,205,27,1,3.0,0.0,v
-S2424-G124,3,08:13,MEM,,BKN,,C. Johnson,BKN,MISS C. Johnson 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-13,126,13,1,2.0,0.0,v
-S2424-G124,3,05:42,MEM,76.0,BKN,82.0,C. Johnson,BKN,C. Johnson Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
-S2424-G124,3,05:42,MEM,76.0,BKN,83.0,C. Johnson,BKN,C. Johnson Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
-S2424-G124,3,05:02,MEM,,BKN,,C. Johnson,BKN,MISS C. Johnson 25' 3PT Jump Shot,Missed Shot,Jump Shot,-143,199,25,1,3.0,0.0,v
-S2424-G124,3,04:05,MEM,,BKN,,C. Johnson,BKN,SUB: Simmons FOR C. Johnson,Substitution,,0,0,0,0,,,v
-S2424-G124,4,07:34,MEM,,BKN,,C. Johnson,BKN,SUB: Simmons FOR C. Johnson,Substitution,,0,0,0,0,,,v
-S2424-G124,4,06:21,MEM,,BKN,,C. Johnson,BKN,C. Johnson P.FOUL (P2.T2) (A.Smith),Foul,Personal,0,0,0,0,,,v
-S2424-G124,4,06:08,MEM,,BKN,,C. Johnson,BKN,C. Johnson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
-S2424-G124,4,02:06,MEM,,BKN,,C. Johnson,BKN,C. Johnson S.FOUL (P3.PN) (B.Forte),Foul,Shooting,0,0,0,0,,,v
-S2424-G124,4,01:38,MEM,,BKN,,C. Johnson,BKN,C. Johnson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
-S2424-G124,4,01:07,MEM,,BKN,,C. Johnson,BKN,SUB: T. Martin FOR C. Johnson,Substitution,,0,0,0,0,,,v
+S2425-G0151,1,10:30,BKN,4.0,DET,2.0,C. Johnson,BKN,C. Johnson 2' Running Layup (2 PTS) (Thomas 1 AST),Made Shot,Running Layup Shot,15,7,2,1,2.0,2.0,h
+S2425-G0151,1,10:10,BKN,7.0,DET,2.0,C. Johnson,BKN,C. Johnson 3PT Jump Shot (5 PTS) (Simmons 2 AST),Made Shot,Jump Shot,-227,-4,0,1,3.0,3.0,h
+S2425-G0151,1,09:46,BKN,10.0,DET,4.0,C. Johnson,BKN,C. Johnson 3PT Jump Shot (8 PTS) (Simmons 3 AST),Made Shot,Jump Shot,-232,-8,0,1,3.0,3.0,h
+S2425-G0151,1,08:23,BKN,,DET,,C. Johnson,BKN,MISS C. Johnson 25' 3PT Jump Shot,Missed Shot,Jump Shot,-180,179,25,1,3.0,0.0,h
+S2425-G0151,1,06:20,BKN,,DET,,C. Johnson,BKN,C. Johnson BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0151,1,06:14,BKN,14.0,DET,14.0,C. Johnson,BKN,C. Johnson 2' Running Reverse Layup (10 PTS) (Simmons 4 AST),Made Shot,Running Reverse Layup Shot,16,10,2,1,2.0,2.0,h
+S2425-G0151,1,04:18,BKN,17.0,DET,20.0,C. Johnson,BKN,C. Johnson 3PT Jump Shot (13 PTS) (Wilson 1 AST),Made Shot,Jump Shot,227,-11,0,1,3.0,3.0,h
+S2425-G0151,1,04:01,BKN,,DET,,C. Johnson,BKN,SUB: Claxton FOR C. Johnson,Substitution,,0,0,0,0,,,h
+S2425-G0151,2,07:20,BKN,,DET,,C. Johnson,BKN,MISS C. Johnson 3PT Jump Shot,Missed Shot,Jump Shot,227,-4,0,1,3.0,0.0,h
+S2425-G0151,2,07:16,BKN,39.0,DET,37.0,C. Johnson,BKN,C. Johnson 1' Cutting Layup Shot (15 PTS) (Wilson 2 AST),Made Shot,Cutting Layup Shot,9,6,1,1,2.0,2.0,h
+S2425-G0151,2,07:16,BKN,40.0,DET,37.0,C. Johnson,BKN,C. Johnson Free Throw 1 of 1 (16 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2425-G0151,2,06:34,BKN,,DET,,C. Johnson,BKN,C. Johnson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0151,2,06:34,BKN,41.0,DET,37.0,C. Johnson,BKN,C. Johnson Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0151,2,06:34,BKN,42.0,DET,37.0,C. Johnson,BKN,C. Johnson Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0151,2,06:26,BKN,,DET,,C. Johnson,BKN,C. Johnson P.FOUL (P1.T4) (D.Taylor),Foul,Personal,0,0,0,0,,,h
+S2425-G0151,2,06:19,BKN,,DET,,C. Johnson,BKN,C. Johnson STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0151,2,06:13,BKN,43.0,DET,37.0,C. Johnson,BKN,C. Johnson Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0151,2,06:13,BKN,44.0,DET,37.0,C. Johnson,BKN,C. Johnson Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0151,2,04:49,BKN,,DET,,C. Johnson,BKN,C. Johnson S.FOUL (P2.PN) (J.Schroeder),Foul,Shooting,0,0,0,0,,,h
+S2425-G0151,2,03:19,BKN,,DET,,C. Johnson,BKN,MISS C. Johnson 26' 3PT Jump Shot,Missed Shot,Jump Shot,50,253,26,1,3.0,0.0,h
+S2425-G0151,2,01:32,BKN,53.0,DET,48.0,C. Johnson,BKN,C. Johnson 11' Pullup Jump Shot (22 PTS),Made Shot,Pullup Jump shot,-16,113,11,1,2.0,2.0,h
+S2425-G0151,2,00:03.800000,BKN,,DET,,C. Johnson,BKN,SUB: Wilson FOR C. Johnson,Substitution,,0,0,0,0,,,h
+S2425-G0151,3,11:15,BKN,59.0,DET,52.0,C. Johnson,BKN,C. Johnson 9' Pullup Jump Shot (24 PTS),Made Shot,Pullup Jump shot,-11,92,9,1,2.0,2.0,h
+S2425-G0151,3,10:41,BKN,,DET,,C. Johnson,BKN,MISS C. Johnson 25' 3PT Jump Shot,Missed Shot,Jump Shot,-76,242,25,1,3.0,0.0,h
+S2425-G0151,3,08:40,BKN,,DET,,C. Johnson,BKN,MISS C. Johnson 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-174,176,25,1,3.0,0.0,h
+S2425-G0151,3,04:52,BKN,,DET,,C. Johnson,BKN,MISS C. Johnson 25' 3PT Jump Shot,Missed Shot,Jump Shot,-162,192,25,1,3.0,0.0,h
+S2425-G0151,3,04:11,BKN,,DET,,C. Johnson,BKN,SUB: Schröder FOR C. Johnson,Substitution,,0,0,0,0,,,h
+S2425-G0151,4,07:43,BKN,,DET,,C. Johnson,BKN,MISS C. Johnson 30' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,102,282,30,1,3.0,0.0,h
+S2425-G0151,4,07:17,BKN,85.0,DET,94.0,C. Johnson,BKN,C. Johnson 3' Running Layup (26 PTS),Made Shot,Running Layup Shot,22,14,3,1,2.0,2.0,h
+S2425-G0151,4,07:17,BKN,,DET,,C. Johnson,BKN,MISS C. Johnson Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2425-G0151,4,06:14,BKN,,DET,,C. Johnson,BKN,MISS C. Johnson 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-124,220,25,1,3.0,0.0,h
+S2425-G0151,4,03:36,BKN,,DET,,C. Johnson,BKN,MISS C. Johnson 3PT Jump Shot,Missed Shot,Jump Shot,224,32,0,1,3.0,0.0,h
+S2425-G0151,4,02:13,BKN,,DET,,C. Johnson,BKN,MISS C. Johnson 2' Driving Layup,Missed Shot,Driving Layup Shot,-22,1,2,1,2.0,0.0,h
+S2425-G0151,4,02:04,BKN,,DET,,C. Johnson,BKN,C. Johnson L.B.FOUL (P3.T4) (D.Taylor),Foul,Loose Ball,0,0,0,0,,,h
+S2425-G0151,4,01:36,BKN,,DET,,C. Johnson,BKN,SUB: K. Johnson FOR C. Johnson,Substitution,,0,0,0,0,,,h
+S2425-G0014,1,09:35,NYK,,BKN,,C. Johnson,BKN,MISS C. Johnson 25' 3PT Jump Shot,Missed Shot,Jump Shot,-55,243,25,1,3.0,0.0,v
+S2425-G0014,1,09:13,NYK,8.0,BKN,3.0,C. Johnson,BKN,C. Johnson Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0014,1,09:13,NYK,8.0,BKN,4.0,C. Johnson,BKN,C. Johnson Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0014,1,08:51,NYK,,BKN,,C. Johnson,BKN,C. Johnson STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0014,1,08:46,NYK,,BKN,,C. Johnson,BKN,MISS C. Johnson 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-121,219,25,1,3.0,0.0,v
+S2425-G0014,1,06:49,NYK,,BKN,,C. Johnson,BKN,C. Johnson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0014,1,04:08,NYK,,BKN,,C. Johnson,BKN,MISS C. Johnson 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-54,174,18,1,2.0,0.0,v
+S2425-G0014,1,02:59,NYK,,BKN,,C. Johnson,BKN,SUB: K. Johnson FOR C. Johnson,Substitution,,0,0,0,0,,,v
+S2425-G0014,2,04:06,NYK,,BKN,,C. Johnson,BKN,MISS C. Johnson 4' Driving Layup,Missed Shot,Driving Layup Shot,-37,-4,4,1,2.0,0.0,v
+S2425-G0014,2,02:32,NYK,,BKN,,C. Johnson,BKN,C. Johnson REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0014,2,02:31,NYK,,BKN,,C. Johnson,BKN,MISS C. Johnson 2' Tip Layup Shot,Missed Shot,Tip Layup Shot,20,14,2,1,2.0,0.0,v
+S2425-G0014,2,01:47,NYK,,BKN,,C. Johnson,BKN,C. Johnson STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0014,2,01:13,NYK,64.0,BKN,52.0,C. Johnson,BKN,C. Johnson Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0014,2,01:13,NYK,64.0,BKN,53.0,C. Johnson,BKN,C. Johnson Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0014,2,00:53.500000,NYK,66.0,BKN,54.0,C. Johnson,BKN,C. Johnson Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0014,2,00:53.500000,NYK,66.0,BKN,55.0,C. Johnson,BKN,C. Johnson Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0014,2,00:36.700000,NYK,,BKN,,C. Johnson,BKN,C. Johnson P.FOUL (P1.PN) (J.Conley),Foul,Personal,0,0,0,0,,,v
+S2425-G0014,3,11:38,NYK,,BKN,,C. Johnson,BKN,C. Johnson REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0014,3,11:06,NYK,,BKN,,C. Johnson,BKN,C. Johnson REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0014,3,07:55,NYK,78.0,BKN,65.0,C. Johnson,BKN,C. Johnson Free Throw Technical (7 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,v
+S2425-G0014,3,06:27,NYK,,BKN,,C. Johnson,BKN,MISS C. Johnson 26' 3PT Jump Shot,Missed Shot,Jump Shot,-210,158,26,1,3.0,0.0,v
+S2425-G0014,3,05:27,NYK,,BKN,,C. Johnson,BKN,MISS C. Johnson 26' 3PT Jump Shot,Missed Shot,Jump Shot,-158,209,26,1,3.0,0.0,v
+S2425-G0014,3,03:59,NYK,,BKN,,C. Johnson,BKN,SUB: Schröder FOR C. Johnson,Substitution,,0,0,0,0,,,v
+S2425-G0014,4,09:35,NYK,104.0,BKN,93.0,C. Johnson,BKN,C. Johnson 1' Running Layup (9 PTS),Made Shot,Running Layup Shot,-7,10,1,1,2.0,2.0,v
+S2425-G0014,4,08:16,NYK,104.0,BKN,96.0,C. Johnson,BKN,C. Johnson Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0014,4,08:16,NYK,104.0,BKN,97.0,C. Johnson,BKN,C. Johnson Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0014,4,04:15,NYK,114.0,BKN,108.0,C. Johnson,BKN,C. Johnson Free Throw 1 of 1 (12 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0014,4,03:10,NYK,116.0,BKN,111.0,C. Johnson,BKN,C. Johnson 27' 3PT Pullup Jump Shot (15 PTS) (Schröder 7 AST),Made Shot,Pullup Jump shot,-156,217,27,1,3.0,3.0,v
+S2425-G0014,4,01:53,NYK,118.0,BKN,115.0,C. Johnson,BKN,C. Johnson 1' Driving Layup (17 PTS) (Schröder 8 AST),Made Shot,Driving Layup Shot,-7,12,1,1,2.0,2.0,v
+S2425-G0014,4,00:19.400000,NYK,,BKN,,C. Johnson,BKN,C. Johnson REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0022,1,11:17,BKN,,CHA,,C. Johnson,BKN,C. Johnson Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0022,1,10:24,BKN,,CHA,,C. Johnson,BKN,MISS C. Johnson 26' 3PT Jump Shot,Missed Shot,Jump Shot,109,233,26,1,3.0,0.0,h
+S2425-G0022,1,08:15,BKN,,CHA,,C. Johnson,BKN,C. Johnson Offensive Charge Foul (P1) (P.O'Connell),Foul,Offensive Charge,0,0,0,0,,,h
+S2425-G0022,1,08:15,BKN,,CHA,,C. Johnson,BKN,C. Johnson Offensive Foul Turnover (P2.T2),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0022,1,07:50,BKN,7.0,CHA,17.0,C. Johnson,BKN,C. Johnson 2' Driving Layup (2 PTS) (Schröder 3 AST),Made Shot,Driving Layup Shot,15,6,2,1,2.0,2.0,h
+S2425-G0022,1,07:23,BKN,,CHA,,C. Johnson,BKN,C. Johnson Out of Bounds Lost Ball Turnover (P3.T3),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2425-G0022,1,05:59,BKN,12.0,CHA,24.0,C. Johnson,BKN,C. Johnson 27' 3PT Jump Shot (5 PTS) (Williams 1 AST),Made Shot,Jump Shot,223,144,27,1,3.0,3.0,h
+S2425-G0022,1,05:27,BKN,15.0,CHA,24.0,C. Johnson,BKN,C. Johnson 3PT Jump Shot (8 PTS) (Williams 2 AST),Made Shot,Jump Shot,228,-26,0,1,3.0,3.0,h
+S2425-G0022,1,03:18,BKN,,CHA,,C. Johnson,BKN,SUB: Schröder FOR C. Johnson,Substitution,,0,0,0,0,,,h
+S2425-G0022,2,08:19,BKN,,CHA,,C. Johnson,BKN,C. Johnson Bad Pass Turnover (P4.T6),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0022,2,07:58,BKN,,CHA,,C. Johnson,BKN,MISS C. Johnson 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,189,173,26,1,3.0,0.0,h
+S2425-G0022,2,07:35,BKN,,CHA,,C. Johnson,BKN,C. Johnson BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0022,2,06:50,BKN,,CHA,,C. Johnson,BKN,MISS C. Johnson Driving Layup,Missed Shot,Driving Layup Shot,-2,-3,0,1,2.0,0.0,h
+S2425-G0022,2,06:48,BKN,,CHA,,C. Johnson,BKN,C. Johnson REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0022,2,06:47,BKN,31.0,CHA,46.0,C. Johnson,BKN,C. Johnson Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0022,2,06:47,BKN,32.0,CHA,46.0,C. Johnson,BKN,C. Johnson Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0022,2,04:42,BKN,35.0,CHA,47.0,C. Johnson,BKN,C. Johnson Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2425-G0022,2,03:56,BKN,,CHA,,C. Johnson,BKN,C. Johnson STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0022,2,03:54,BKN,40.0,CHA,50.0,C. Johnson,BKN,C. Johnson 1' Running Dunk (13 PTS),Made Shot,Running Dunk Shot,5,8,1,1,2.0,2.0,h
+S2425-G0022,2,02:27,BKN,49.0,CHA,54.0,C. Johnson,BKN,C. Johnson 26' 3PT Pullup Jump Shot (16 PTS) (Schröder 7 AST),Made Shot,Pullup Jump shot,-29,254,26,1,3.0,3.0,h
+S2425-G0022,2,01:18,BKN,,CHA,,C. Johnson,BKN,C. Johnson Step Out of Bounds Turnover (P5.T7),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2425-G0022,2,00:00.400000,BKN,,CHA,,C. Johnson,BKN,C. Johnson REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0022,3,11:43,BKN,,CHA,,C. Johnson,BKN,MISS C. Johnson 24' 3PT Jump Shot,Missed Shot,Jump Shot,237,57,24,1,3.0,0.0,h
+S2425-G0022,3,09:57,BKN,62.0,CHA,61.0,C. Johnson,BKN,C. Johnson 20' Pullup Jump Shot (18 PTS),Made Shot,Pullup Jump shot,110,168,20,1,2.0,2.0,h
+S2425-G0022,3,08:40,BKN,66.0,CHA,63.0,C. Johnson,BKN,C. Johnson 13' Pullup Jump Shot (20 PTS) (Simmons 4 AST),Made Shot,Pullup Jump shot,43,121,13,1,2.0,2.0,h
+S2425-G0022,3,07:26,BKN,72.0,CHA,63.0,C. Johnson,BKN,C. Johnson 25' 3PT Pullup Jump Shot (23 PTS) (Simmons 5 AST),Made Shot,Pullup Jump shot,-36,247,25,1,3.0,3.0,h
+S2425-G0022,3,06:49,BKN,,CHA,,C. Johnson,BKN,C. Johnson REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0022,3,06:40,BKN,74.0,CHA,63.0,C. Johnson,BKN,C. Johnson 2' Driving Layup (25 PTS) (Finney-Smith 2 AST),Made Shot,Driving Layup Shot,15,5,2,1,2.0,2.0,h
+S2425-G0022,3,05:06,BKN,,CHA,,C. Johnson,BKN,MISS C. Johnson 28' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,135,246,28,1,3.0,0.0,h
+S2425-G0022,3,04:19,BKN,75.0,CHA,69.0,C. Johnson,BKN,C. Johnson Free Throw 1 of 3 (26 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,h
+S2425-G0022,3,04:19,BKN,76.0,CHA,69.0,C. Johnson,BKN,C. Johnson Free Throw 2 of 3 (27 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,h
+S2425-G0022,3,04:19,BKN,77.0,CHA,69.0,C. Johnson,BKN,C. Johnson Free Throw 3 of 3 (28 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,h
+S2425-G0022,3,03:45,BKN,,CHA,,C. Johnson,BKN,C. Johnson L.B.FOUL (P2.T3) (J.Goldenberg),Foul,Loose Ball,0,0,0,0,,,h
+S2425-G0022,3,03:45,BKN,,CHA,,C. Johnson,BKN,SUB: Schröder FOR C. Johnson,Substitution,,0,0,0,0,,,h
+S2425-G0022,4,11:12,BKN,,CHA,,C. Johnson,BKN,MISS C. Johnson 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,36,46,6,1,2.0,0.0,h
+S2425-G0022,4,10:04,BKN,,CHA,,C. Johnson,BKN,MISS C. Johnson 1' Driving Layup,Missed Shot,Driving Layup Shot,-7,3,1,1,2.0,0.0,h
+S2425-G0022,4,07:15,BKN,100.0,CHA,100.0,C. Johnson,BKN,C. Johnson 25' 3PT Jump Shot (31 PTS) (Schröder 11 AST),Made Shot,Jump Shot,-210,130,25,1,3.0,3.0,h
+S2425-G0022,4,06:40,BKN,,CHA,,C. Johnson,BKN,MISS C. Johnson 3PT Jump Shot,Missed Shot,Jump Shot,-229,-31,0,1,3.0,0.0,h
+S2425-G0022,4,06:08,BKN,,CHA,,C. Johnson,BKN,C. Johnson REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0022,4,05:04,BKN,,CHA,,C. Johnson,BKN,MISS C. Johnson 25' 3PT Jump Shot,Missed Shot,Jump Shot,-23,252,25,1,3.0,0.0,h
+S2425-G0022,4,04:31,BKN,107.0,CHA,106.0,C. Johnson,BKN,C. Johnson 28' 3PT Jump Shot (34 PTS) (Watford 1 AST),Made Shot,Jump Shot,107,262,28,1,3.0,3.0,h
+S2425-G0022,4,01:27,BKN,,CHA,,C. Johnson,BKN,C. Johnson REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0022,4,00:35.300000,BKN,,CHA,,C. Johnson,BKN,C. Johnson BLOCK (2 BLK),,,0,0,0,0,,,h
 S2425-G0064,1,10:55,ATL,6.0,BKN,2.0,C. Johnson,BKN,C. Johnson 1' Cutting Dunk Shot (2 PTS) (Simmons 1 AST),Made Shot,Cutting Dunk Shot,-6,-1,1,1,2.0,2.0,v
 S2425-G0064,1,09:17,ATL,,BKN,,C. Johnson,BKN,C. Johnson P.FOUL (P1.T2) (D.Guthrie),Foul,Personal,0,0,0,0,,,v
 S2425-G0064,1,06:21,ATL,13.0,BKN,13.0,C. Johnson,BKN,C. Johnson 1' Driving Layup (4 PTS) (Simmons 3 AST),Made Shot,Driving Layup Shot,12,4,1,1,2.0,2.0,v
@@ -50,6 +134,102 @@ S2425-G0064,4,01:13,ATL,112.0,BKN,107.0,C. Johnson,BKN,C. Johnson Free Throw 1 o
 S2425-G0064,4,01:13,ATL,112.0,BKN,108.0,C. Johnson,BKN,C. Johnson Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
 S2425-G0064,4,00:56.300000,ATL,,BKN,,C. Johnson,BKN,C. Johnson P.FOUL (P3.PN) (S.Corbin),Foul,Personal,0,0,0,0,,,v
 S2425-G0064,4,00:54.400000,ATL,,BKN,,C. Johnson,BKN,C. Johnson REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0199,1,09:09,CLE,,BKN,,C. Johnson,BKN,C. Johnson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0199,1,09:05,CLE,8.0,BKN,8.0,C. Johnson,BKN,C. Johnson Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0199,1,09:05,CLE,8.0,BKN,9.0,C. Johnson,BKN,C. Johnson Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0199,1,05:12,CLE,22.0,BKN,19.0,C. Johnson,BKN,C. Johnson 1' Cutting Layup Shot (4 PTS) (Clowney 1 AST),Made Shot,Cutting Layup Shot,5,8,1,1,2.0,2.0,v
+S2425-G0199,1,05:12,CLE,22.0,BKN,20.0,C. Johnson,BKN,C. Johnson Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0199,1,04:30,CLE,,BKN,,C. Johnson,BKN,MISS C. Johnson 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-54,43,7,1,2.0,0.0,v
+S2425-G0199,1,04:29,CLE,,BKN,,C. Johnson,BKN,SUB: Schröder FOR C. Johnson,Substitution,,0,0,0,0,,,v
+S2425-G0199,2,06:16,CLE,,BKN,,C. Johnson,BKN,MISS C. Johnson 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-200,147,25,1,3.0,0.0,v
+S2425-G0199,2,05:24,CLE,52.0,BKN,40.0,C. Johnson,BKN,C. Johnson 3PT Jump Shot (8 PTS) (Claxton 1 AST),Made Shot,Jump Shot,-221,5,0,1,3.0,3.0,v
+S2425-G0199,2,03:01,CLE,,BKN,,C. Johnson,BKN,C. Johnson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0199,2,01:50,CLE,,BKN,,C. Johnson,BKN,C. Johnson REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0199,2,01:50,CLE,54.0,BKN,51.0,C. Johnson,BKN,C. Johnson Tip Layup Shot (10 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2425-G0199,3,10:25,CLE,57.0,BKN,62.0,C. Johnson,BKN,C. Johnson 32' 3PT Jump Shot (13 PTS) (Schröder 4 AST),Made Shot,Jump Shot,-200,256,32,1,3.0,3.0,v
+S2425-G0199,3,09:44,CLE,,BKN,,C. Johnson,BKN,C. Johnson REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0199,3,09:39,CLE,57.0,BKN,64.0,C. Johnson,BKN,C. Johnson 1' Running Dunk (15 PTS),Made Shot,Running Dunk Shot,2,12,1,1,2.0,2.0,v
+S2425-G0199,3,06:12,CLE,59.0,BKN,73.0,C. Johnson,BKN,C. Johnson 32' 3PT Pullup Jump Shot (18 PTS) (Claxton 2 AST),Made Shot,Pullup Jump shot,-159,281,32,1,3.0,3.0,v
+S2425-G0199,3,05:29,CLE,62.0,BKN,75.0,C. Johnson,BKN,C. Johnson 13' Fadeaway Jumper (20 PTS),Made Shot,Fadeaway Jump Shot,-93,95,13,1,2.0,2.0,v
+S2425-G0199,3,04:59,CLE,,BKN,,C. Johnson,BKN,MISS C. Johnson 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-219,147,26,1,3.0,0.0,v
+S2425-G0199,3,04:39,CLE,,BKN,,C. Johnson,BKN,SUB: K. Johnson FOR C. Johnson,Substitution,,0,0,0,0,,,v
+S2425-G0199,4,04:43,CLE,,BKN,,C. Johnson,BKN,C. Johnson REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0199,4,04:24,CLE,89.0,BKN,96.0,C. Johnson,BKN,C. Johnson 26' 3PT Jump Shot (23 PTS) (Claxton 4 AST),Made Shot,Jump Shot,-206,163,26,1,3.0,3.0,v
+S2425-G0199,4,03:46,CLE,,BKN,,C. Johnson,BKN,MISS C. Johnson 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,64,252,26,1,3.0,0.0,v
+S2425-G0199,4,00:04.400000,CLE,,BKN,,C. Johnson,BKN,MISS C. Johnson 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-48,69,8,1,2.0,0.0,v
+S2425-G0136,1,09:58,BKN,,CHI,,C. Johnson,BKN,MISS C. Johnson 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-4,169,17,1,2.0,0.0,h
+S2425-G0136,1,09:08,BKN,9.0,CHI,8.0,C. Johnson,BKN,C. Johnson 2' Running Layup (2 PTS) (Schröder 2 AST),Made Shot,Running Layup Shot,-13,8,2,1,2.0,2.0,h
+S2425-G0136,1,08:46,BKN,,CHI,,C. Johnson,BKN,MISS C. Johnson 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-105,237,26,1,3.0,0.0,h
+S2425-G0136,1,07:59,BKN,13.0,CHI,13.0,C. Johnson,BKN,C. Johnson 1' Cutting Layup Shot (4 PTS) (Simmons 2 AST),Made Shot,Cutting Layup Shot,-9,8,1,1,2.0,2.0,h
+S2425-G0136,1,07:44,BKN,,CHI,,C. Johnson,BKN,C. Johnson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0136,1,07:34,BKN,16.0,CHI,13.0,C. Johnson,BKN,C. Johnson 27' 3PT Jump Shot (7 PTS) (Simmons 3 AST),Made Shot,Jump Shot,123,239,27,1,3.0,3.0,h
+S2425-G0136,1,05:39,BKN,,CHI,,C. Johnson,BKN,C. Johnson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0136,1,03:47,BKN,,CHI,,C. Johnson,BKN,SUB: Claxton FOR C. Johnson,Substitution,,0,0,0,0,,,h
+S2425-G0136,3,11:16,BKN,,CHI,,C. Johnson,BKN,MISS C. Johnson 25' 3PT Jump Shot,Missed Shot,Jump Shot,58,243,25,1,3.0,0.0,h
+S2425-G0136,3,10:41,BKN,,CHI,,C. Johnson,BKN,C. Johnson REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0136,3,10:23,BKN,,CHI,,C. Johnson,BKN,MISS C. Johnson 26' 3PT Jump Shot,Missed Shot,Jump Shot,-9,259,26,1,3.0,0.0,h
+S2425-G0136,3,09:44,BKN,75.0,CHI,65.0,C. Johnson,BKN,C. Johnson 25' 3PT Jump Shot (10 PTS) (Simmons 7 AST),Made Shot,Jump Shot,196,154,25,1,3.0,3.0,h
+S2425-G0136,3,08:08,BKN,,CHI,,C. Johnson,BKN,MISS C. Johnson 25' 3PT Jump Shot,Missed Shot,Jump Shot,38,252,25,1,3.0,0.0,h
+S2425-G0136,3,06:22,BKN,,CHI,,C. Johnson,BKN,C. Johnson STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0136,3,04:34,BKN,,CHI,,C. Johnson,BKN,C. Johnson REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0136,3,03:27,BKN,,CHI,,C. Johnson,BKN,SUB: Schröder FOR C. Johnson,Substitution,,0,0,0,0,,,h
+S2425-G0136,4,07:20,BKN,,CHI,,C. Johnson,BKN,C. Johnson REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0136,4,06:38,BKN,,CHI,,C. Johnson,BKN,C. Johnson S.FOUL (P1.PN) (J.Reneau),Foul,Shooting,0,0,0,0,,,h
+S2425-G0136,4,05:50,BKN,,CHI,,C. Johnson,BKN,MISS C. Johnson 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,123,227,26,1,3.0,0.0,h
+S2425-G0136,4,04:46,BKN,107.0,CHI,106.0,C. Johnson,BKN,C. Johnson Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0136,4,04:46,BKN,108.0,CHI,106.0,C. Johnson,BKN,C. Johnson Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0136,4,01:36,BKN,,CHI,,C. Johnson,BKN,C. Johnson REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0136,4,01:35,BKN,120.0,CHI,109.0,C. Johnson,BKN,C. Johnson 1' Running Dunk (14 PTS),Made Shot,Running Dunk Shot,-1,5,1,1,2.0,2.0,h
+S2425-G0158,1,09:24,BKN,6.0,MEM,7.0,C. Johnson,BKN,C. Johnson 25' 3PT Jump Shot (3 PTS) (Claxton 2 AST),Made Shot,Jump Shot,158,195,25,1,3.0,3.0,h
+S2425-G0158,1,05:03,BKN,15.0,MEM,15.0,C. Johnson,BKN,C. Johnson Driving Dunk (5 PTS) (Wilson 1 AST),Made Shot,Driving Dunk Shot,1,3,0,1,2.0,2.0,h
+S2425-G0158,1,04:54,BKN,,MEM,,C. Johnson,BKN,SUB: Milton FOR C. Johnson,Substitution,,0,0,0,0,,,h
+S2425-G0158,2,10:27,BKN,,MEM,,C. Johnson,BKN,C. Johnson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0158,2,10:18,BKN,,MEM,,C. Johnson,BKN,MISS C. Johnson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0158,2,10:18,BKN,27.0,MEM,32.0,C. Johnson,BKN,C. Johnson Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0158,2,09:51,BKN,,MEM,,C. Johnson,BKN,C. Johnson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0158,2,09:10,BKN,33.0,MEM,35.0,C. Johnson,BKN,C. Johnson 30' 3PT Jump Shot (9 PTS) (Finney-Smith 1 AST),Made Shot,Jump Shot,140,261,30,1,3.0,3.0,h
+S2425-G0158,2,08:03,BKN,,MEM,,C. Johnson,BKN,C. Johnson P.FOUL (P1.T2) (J.Goble),Foul,Personal,0,0,0,0,,,h
+S2425-G0158,2,06:46,BKN,37.0,MEM,39.0,C. Johnson,BKN,C. Johnson 3' Driving Layup (11 PTS) (Thomas 1 AST),Made Shot,Driving Layup Shot,25,1,3,1,2.0,2.0,h
+S2425-G0158,2,06:10,BKN,39.0,MEM,39.0,C. Johnson,BKN,C. Johnson 4' Driving Layup (13 PTS),Made Shot,Driving Layup Shot,26,25,4,1,2.0,2.0,h
+S2425-G0158,2,04:35,BKN,,MEM,,C. Johnson,BKN,SUB: Milton FOR C. Johnson,Substitution,,0,0,0,0,,,h
+S2425-G0158,3,11:16,BKN,52.0,MEM,51.0,C. Johnson,BKN,C. Johnson 1' Driving Layup (15 PTS) (Schröder 3 AST),Made Shot,Driving Layup Shot,-10,11,1,1,2.0,2.0,h
+S2425-G0158,3,08:45,BKN,60.0,MEM,58.0,C. Johnson,BKN,C. Johnson 25' 3PT Pullup Jump Shot (18 PTS) (Schröder 4 AST),Made Shot,Pullup Jump shot,157,193,25,1,3.0,3.0,h
+S2425-G0158,3,06:34,BKN,,MEM,,C. Johnson,BKN,MISS C. Johnson 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-136,222,26,1,3.0,0.0,h
+S2425-G0158,3,06:24,BKN,,MEM,,C. Johnson,BKN,C. Johnson P.FOUL (P2.T2) (A.Moyer-Gleich),Foul,Personal,0,0,0,0,,,h
+S2425-G0158,3,05:23,BKN,67.0,MEM,64.0,C. Johnson,BKN,C. Johnson 2' Driving Finger Roll Layup (20 PTS),Made Shot,Driving Finger Roll Layup Shot,16,8,2,1,2.0,2.0,h
+S2425-G0158,4,08:34,BKN,,MEM,,C. Johnson,BKN,C. Johnson REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0158,4,08:34,BKN,,MEM,,C. Johnson,BKN,MISS C. Johnson Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2425-G0158,4,08:10,BKN,,MEM,,C. Johnson,BKN,SUB: Milton FOR C. Johnson,Substitution,,0,0,0,0,,,h
+S2425-G0158,4,00:05.500000,BKN,,MEM,,C. Johnson,BKN,MISS C. Johnson 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-114,29,12,1,2.0,0.0,h
+S2425-G0027,1,09:03,PHI,11.0,BKN,4.0,C. Johnson,BKN,C. Johnson 2' Driving Finger Roll Layup (2 PTS) (Schröder 1 AST),Made Shot,Driving Finger Roll Layup Shot,-17,7,2,1,2.0,2.0,v
+S2425-G0027,1,08:36,PHI,,BKN,,C. Johnson,BKN,MISS C. Johnson 26' 3PT Jump Shot,Missed Shot,Jump Shot,214,149,26,1,3.0,0.0,v
+S2425-G0027,1,08:20,PHI,13.0,BKN,7.0,C. Johnson,BKN,C. Johnson 28' 3PT Jump Shot (5 PTS) (Thomas 1 AST),Made Shot,Jump Shot,-185,215,28,1,3.0,3.0,v
+S2425-G0027,1,06:55,PHI,16.0,BKN,11.0,C. Johnson,BKN,C. Johnson 7' Floating Jump Shot (7 PTS) (Thomas 2 AST),Made Shot,Floating Jump shot,-15,67,7,1,2.0,2.0,v
+S2425-G0027,1,05:01,PHI,18.0,BKN,16.0,C. Johnson,BKN,C. Johnson 26' 3PT Running Pull-Up Jump Shot (10 PTS) (Simmons 1 AST),Made Shot,Running Pull-Up Jump Shot,208,155,26,1,3.0,3.0,v
+S2425-G0027,1,02:49,PHI,,BKN,,C. Johnson,BKN,SUB: Claxton FOR C. Johnson,Substitution,,0,0,0,0,,,v
+S2425-G0027,2,07:50,PHI,,BKN,,C. Johnson,BKN,MISS C. Johnson 18' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-175,53,18,1,2.0,0.0,v
+S2425-G0027,2,05:37,PHI,46.0,BKN,36.0,C. Johnson,BKN,C. Johnson 26' 3PT Step Back Jump Shot (13 PTS) (Watford 2 AST),Made Shot,Step Back Jump shot,212,149,26,1,3.0,3.0,v
+S2425-G0027,2,04:52,PHI,,BKN,,C. Johnson,BKN,MISS C. Johnson 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-21,6,2,1,2.0,0.0,v
+S2425-G0027,2,04:43,PHI,,BKN,,C. Johnson,BKN,MISS C. Johnson 17' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-130,117,17,1,2.0,0.0,v
+S2425-G0027,2,02:37,PHI,51.0,BKN,41.0,C. Johnson,BKN,C. Johnson 27' 3PT Running Pull-Up Jump Shot (16 PTS) (Claxton 2 AST),Made Shot,Running Pull-Up Jump Shot,-136,238,27,1,3.0,3.0,v
+S2425-G0027,2,00:33.800000,PHI,53.0,BKN,50.0,C. Johnson,BKN,C. Johnson 28' 3PT Jump Shot (19 PTS) (Schröder 5 AST),Made Shot,Jump Shot,-31,279,28,1,3.0,3.0,v
+S2425-G0027,3,09:57,PHI,55.0,BKN,58.0,C. Johnson,BKN,C. Johnson 24' 3PT Running Jump Shot (22 PTS) (Simmons 3 AST),Made Shot,Running Jump Shot,195,147,24,1,3.0,3.0,v
+S2425-G0027,3,07:46,PHI,,BKN,,C. Johnson,BKN,C. Johnson STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0027,3,07:07,PHI,62.0,BKN,70.0,C. Johnson,BKN,C. Johnson 1' Cutting Finger Roll Layup Shot (24 PTS) (Schröder 6 AST),Made Shot,Cutting Finger Roll Layup Shot,4,-8,1,1,2.0,2.0,v
+S2425-G0027,3,03:43,PHI,,BKN,,C. Johnson,BKN,C. Johnson S.FOUL (P1.T3) (K.Cutler),Foul,Shooting,0,0,0,0,,,v
+S2425-G0027,3,03:43,PHI,,BKN,,C. Johnson,BKN,SUB: Claxton FOR C. Johnson,Substitution,,0,0,0,0,,,v
+S2425-G0027,4,11:39,PHI,,BKN,,C. Johnson,BKN,C. Johnson Bad Pass Turnover (P1.T15),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0027,4,11:28,PHI,,BKN,,C. Johnson,BKN,C. Johnson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0027,4,11:19,PHI,79.0,BKN,80.0,C. Johnson,BKN,C. Johnson 25' 3PT Running Pull-Up Jump Shot (27 PTS),Made Shot,Running Pull-Up Jump Shot,93,229,25,1,3.0,3.0,v
+S2425-G0027,4,10:34,PHI,79.0,BKN,83.0,C. Johnson,BKN,C. Johnson 28' 3PT Running Jump Shot (30 PTS) (Schröder 7 AST),Made Shot,Running Jump Shot,15,283,28,1,3.0,3.0,v
+S2425-G0027,4,09:26,PHI,,BKN,,C. Johnson,BKN,MISS C. Johnson 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,131,229,26,1,3.0,0.0,v
+S2425-G0027,4,08:50,PHI,84.0,BKN,87.0,C. Johnson,BKN,C. Johnson 1' Driving Finger Roll Layup (32 PTS) (Simmons 4 AST),Made Shot,Driving Finger Roll Layup Shot,-12,6,1,1,2.0,2.0,v
+S2425-G0027,4,07:25,PHI,89.0,BKN,90.0,C. Johnson,BKN,C. Johnson 33' 3PT Jump Shot (35 PTS) (Thomas 5 AST),Made Shot,Jump Shot,123,302,33,1,3.0,3.0,v
+S2425-G0027,4,06:50,PHI,,BKN,,C. Johnson,BKN,MISS C. Johnson 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,230,25,0,1,3.0,0.0,v
+S2425-G0027,4,05:24,PHI,,BKN,,C. Johnson,BKN,SUB: Schröder FOR C. Johnson,Substitution,,0,0,0,0,,,v
+S2425-G0027,4,02:01,PHI,105.0,BKN,96.0,C. Johnson,BKN,C. Johnson 7' Driving Floating Jump Shot (37 PTS),Made Shot,Driving Floating Jump Shot,61,25,7,1,2.0,2.0,v
+S2425-G0027,4,00:56.700000,PHI,,BKN,,C. Johnson,BKN,C. Johnson P.FOUL (P2.T2) (K.Cutler),Foul,Personal,0,0,0,0,,,v
+S2425-G0027,4,00:14.700000,PHI,,BKN,,C. Johnson,BKN,MISS C. Johnson 32' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,174,271,32,1,3.0,0.0,v
 S2425-G0113,1,11:21,BKN,3.0,DEN,0.0,C. Johnson,BKN,C. Johnson 3PT Jump Shot (3 PTS) (Thomas 1 AST),Made Shot,Jump Shot,229,-9,0,1,3.0,3.0,h
 S2425-G0113,1,08:20,BKN,,DEN,,C. Johnson,BKN,C. Johnson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
 S2425-G0113,1,04:34,BKN,22.0,DEN,15.0,C. Johnson,BKN,C. Johnson 25' 3PT Jump Shot (6 PTS) (Milton 1 AST),Made Shot,Jump Shot,-229,92,25,1,3.0,3.0,h
@@ -77,6 +257,36 @@ S2425-G0113,4,00:56.500000,BKN,,DEN,,C. Johnson,BKN,C. Johnson REBOUND (Off:1 De
 S2425-G0113,5,00:54.800000,BKN,,DEN,,C. Johnson,BKN,MISS C. Johnson 25' 3PT Jump Shot,Missed Shot,Jump Shot,-97,226,25,1,3.0,0.0,h
 S2425-G0113,5,00:48.400000,BKN,,DEN,,C. Johnson,BKN,C. Johnson S.FOUL (P2.PN) (R.Hussey),Foul,Shooting,0,0,0,0,,,h
 S2425-G0113,5,00:26.500000,BKN,137.0,DEN,141.0,C. Johnson,BKN,C. Johnson 27' 3PT Jump Shot (20 PTS) (Schröder 14 AST),Made Shot,Jump Shot,-1,267,27,1,3.0,3.0,h
+S2425-G0187,1,11:02,BOS,0.0,BKN,4.0,C. Johnson,BKN,C. Johnson 16' Step Back Jump Shot (2 PTS) (Claxton 1 AST),Made Shot,Step Back Jump shot,-86,137,16,1,2.0,2.0,v
+S2425-G0187,1,10:38,BOS,,BKN,,C. Johnson,BKN,C. Johnson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0187,1,10:27,BOS,0.0,BKN,7.0,C. Johnson,BKN,C. Johnson 26' 3PT Step Back Jump Shot (5 PTS),Made Shot,Step Back Jump shot,-173,192,26,1,3.0,3.0,v
+S2425-G0187,1,09:06,BOS,,BKN,,C. Johnson,BKN,MISS C. Johnson 3PT Jump Shot,Missed Shot,Jump Shot,-223,2,0,1,3.0,0.0,v
+S2425-G0187,1,07:08,BOS,,BKN,,C. Johnson,BKN,SUB: Wilson FOR C. Johnson,Substitution,,0,0,0,0,,,v
+S2425-G0187,1,02:47,BOS,,BKN,,C. Johnson,BKN,C. Johnson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0187,1,02:03,BOS,,BKN,,C. Johnson,BKN,MISS C. Johnson 4' Driving Layup,Missed Shot,Driving Layup Shot,-38,9,4,1,2.0,0.0,v
+S2425-G0187,2,11:10,BOS,27.0,BKN,30.0,C. Johnson,BKN,C. Johnson 3' Driving Layup (7 PTS) (Simmons 3 AST),Made Shot,Driving Layup Shot,-15,21,3,1,2.0,2.0,v
+S2425-G0187,2,11:10,BOS,27.0,BKN,31.0,C. Johnson,BKN,C. Johnson Free Throw 1 of 1 (8 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0187,2,08:56,BOS,,BKN,,C. Johnson,BKN,SUB: Thomas FOR C. Johnson,Substitution,,0,0,0,0,,,v
+S2425-G0187,2,03:10,BOS,,BKN,,C. Johnson,BKN,C. Johnson REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0187,2,02:20,BOS,,BKN,,C. Johnson,BKN,MISS C. Johnson 27' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-173,204,27,1,3.0,0.0,v
+S2425-G0187,2,01:00,BOS,,BKN,,C. Johnson,BKN,C. Johnson S.FOUL (P1.T4) (M.Lindsay),Foul,Shooting,0,0,0,0,,,v
+S2425-G0187,3,11:08,BOS,,BKN,,C. Johnson,BKN,C. Johnson REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0187,3,10:58,BOS,49.0,BKN,54.0,C. Johnson,BKN,C. Johnson 3PT Pullup Jump Shot (11 PTS) (Claxton 3 AST),Made Shot,Pullup Jump shot,-227,32,0,1,3.0,3.0,v
+S2425-G0187,3,10:21,BOS,,BKN,,C. Johnson,BKN,MISS C. Johnson 31' 3PT Jump Shot,Missed Shot,Jump Shot,124,279,31,1,3.0,0.0,v
+S2425-G0187,3,09:49,BOS,,BKN,,C. Johnson,BKN,C. Johnson REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0187,3,09:26,BOS,,BKN,,C. Johnson,BKN,C. Johnson S.FOUL (P2.T2) (J.Orr),Foul,Shooting,0,0,0,0,,,v
+S2425-G0187,3,07:05,BOS,62.0,BKN,64.0,C. Johnson,BKN,C. Johnson 2' Driving Layup (13 PTS) (Schröder 1 AST),Made Shot,Driving Layup Shot,-7,15,2,1,2.0,2.0,v
+S2425-G0187,3,06:52,BOS,,BKN,,C. Johnson,BKN,SUB: Simmons FOR C. Johnson,Substitution,,0,0,0,0,,,v
+S2425-G0187,3,03:21,BOS,,BKN,,C. Johnson,BKN,C. Johnson REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0187,3,03:15,BOS,70.0,BKN,74.0,C. Johnson,BKN,C. Johnson 31' 3PT Jump Shot (16 PTS) (K. Johnson 1 AST),Made Shot,Jump Shot,-104,290,31,1,3.0,3.0,v
+S2425-G0187,3,02:04,BOS,,BKN,,C. Johnson,BKN,MISS C. Johnson 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,10,120,12,1,2.0,0.0,v
+S2425-G0187,3,01:36,BOS,,BKN,,C. Johnson,BKN,MISS C. Johnson 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-38,259,26,1,3.0,0.0,v
+S2425-G0187,4,08:37,BOS,,BKN,,C. Johnson,BKN,SUB: Thomas FOR C. Johnson,Substitution,,0,0,0,0,,,v
+S2425-G0187,4,00:11.500000,BOS,,BKN,,C. Johnson,BKN,MISS C. Johnson 27' 3PT Jump Shot,Missed Shot,Jump Shot,-137,228,27,1,3.0,0.0,v
+S2425-G0187,4,00:07.700000,BOS,,BKN,,C. Johnson,BKN,C. Johnson REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0187,4,00:07.600000,BOS,94.0,BKN,93.0,C. Johnson,BKN,C. Johnson Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0187,4,00:07.600000,BOS,94.0,BKN,94.0,C. Johnson,BKN,C. Johnson Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0187,5,00:45.500000,BOS,,BKN,,C. Johnson,BKN,C. Johnson REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,v
 S2425-G0124,1,09:55,MEM,,BKN,,C. Johnson,BKN,MISS C. Johnson 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,227,95,25,1,3.0,0.0,v
 S2425-G0124,1,08:54,MEM,9.0,BKN,7.0,C. Johnson,BKN,C. Johnson 26' 3PT Jump Shot (3 PTS) (Simmons 1 AST),Made Shot,Jump Shot,-168,199,26,1,3.0,3.0,v
 S2425-G0124,1,08:25,MEM,,BKN,,C. Johnson,BKN,MISS C. Johnson 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-28,79,8,1,2.0,0.0,v

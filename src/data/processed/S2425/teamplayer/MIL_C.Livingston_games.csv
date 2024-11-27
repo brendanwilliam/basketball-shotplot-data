@@ -1,0 +1,5 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0029,4,00:16.500000,MIL,,IND,,C. Livingston,MIL,Livingston REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0029,4,00:07.500000,MIL,,IND,,C. Livingston,MIL,Livingston REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0029,4,00:07.500000,MIL,129.0,IND,117.0,C. Livingston,MIL,Livingston Tip Dunk Shot (2 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,h
+S2425-G0005,4,00:02.800000,MIL,,TOR,,C. Livingston,MIL,MISS Livingston 1' Layup,Missed Shot,Layup Shot,-6,8,1,1,2.0,0.0,h

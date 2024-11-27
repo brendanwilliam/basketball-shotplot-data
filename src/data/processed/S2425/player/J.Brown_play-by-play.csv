@@ -1,4 +1,35 @@
 game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0202,1,11:25,MIL,,BOS,,J. Brown,BOS,MISS Brown 6' Driving Layup,Missed Shot,Driving Layup Shot,27,53,6,1,2.0,0.0,v
+S2425-G0202,1,09:23,MIL,16.0,BOS,5.0,J. Brown,BOS,Brown 24' 3PT Jump Shot (3 PTS) (Tatum 1 AST),Made Shot,Jump Shot,-238,57,24,1,3.0,3.0,v
+S2425-G0202,1,08:19,MIL,16.0,BOS,6.0,J. Brown,BOS,Brown Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0202,1,08:19,MIL,16.0,BOS,7.0,J. Brown,BOS,Brown Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0202,1,05:56,MIL,,BOS,,J. Brown,BOS,SUB: Pritchard FOR Brown,Substitution,,0,0,0,0,,,v
+S2425-G0202,1,01:16,MIL,,BOS,,J. Brown,BOS,MISS Brown 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,179,180,25,1,3.0,0.0,v
+S2425-G0202,1,01:09,MIL,,BOS,,J. Brown,BOS,Brown S.FOUL (P1.PN) (E.Dalen),Foul,Shooting,0,0,0,0,,,v
+S2425-G0202,1,00:51.400000,MIL,,BOS,,J. Brown,BOS,MISS Brown 12' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-26,121,12,1,2.0,0.0,v
+S2425-G0202,2,11:37,MIL,,BOS,,J. Brown,BOS,MISS Brown 15' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,70,127,15,1,2.0,0.0,v
+S2425-G0202,2,11:23,MIL,,BOS,,J. Brown,BOS,Brown REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0202,2,08:13,MIL,,BOS,,J. Brown,BOS,Brown REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0202,2,08:08,MIL,,BOS,,J. Brown,BOS,MISS Brown 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,34,253,26,1,3.0,0.0,v
+S2425-G0202,2,07:13,MIL,,BOS,,J. Brown,BOS,SUB: Tatum FOR Brown,Substitution,,0,0,0,0,,,v
+S2425-G0202,2,01:55,MIL,64.0,BOS,51.0,J. Brown,BOS,Brown Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0202,2,01:55,MIL,64.0,BOS,52.0,J. Brown,BOS,Brown Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0202,2,01:46,MIL,,BOS,,J. Brown,BOS,Brown P.FOUL (P2.T3) (E.Dalen),Foul,Personal,0,0,0,0,,,v
+S2425-G0202,2,01:29,MIL,,BOS,,J. Brown,BOS,Brown REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0202,2,01:27,MIL,64.0,BOS,54.0,J. Brown,BOS,Brown 1' Running Layup (9 PTS),Made Shot,Running Layup Shot,2,13,1,1,2.0,2.0,v
+S2425-G0202,2,00:39.800000,MIL,67.0,BOS,56.0,J. Brown,BOS,Brown 3' Driving Finger Roll Layup (11 PTS),Made Shot,Driving Finger Roll Layup Shot,6,29,3,1,2.0,2.0,v
+S2425-G0202,3,10:40,MIL,69.0,BOS,64.0,J. Brown,BOS,Brown 4' Layup (13 PTS),Made Shot,Layup Shot,31,21,4,1,2.0,2.0,v
+S2425-G0202,3,10:14,MIL,,BOS,,J. Brown,BOS,Brown Lost Ball Turnover (P1.T6),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0202,3,06:45,MIL,,BOS,,J. Brown,BOS,MISS Brown 3' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,-10,31,3,1,2.0,0.0,v
+S2425-G0202,3,05:17,MIL,,BOS,,J. Brown,BOS,MISS Brown 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,99,261,28,1,3.0,0.0,v
+S2425-G0202,3,04:04,MIL,,BOS,,J. Brown,BOS,SUB: Pritchard FOR Brown,Substitution,,0,0,0,0,,,v
+S2425-G0202,4,09:58,MIL,,BOS,,J. Brown,BOS,MISS Brown 3' Driving Layup,Missed Shot,Driving Layup Shot,-1,27,3,1,2.0,0.0,v
+S2425-G0202,4,07:31,MIL,,BOS,,J. Brown,BOS,Brown REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0202,4,07:21,MIL,,BOS,,J. Brown,BOS,MISS Brown 29' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,57,283,29,1,3.0,0.0,v
+S2425-G0202,4,06:52,MIL,,BOS,,J. Brown,BOS,Brown FLAGRANT.FOUL.TYPE1 (P3.T2) (N.Sago),Foul,Flagrant Type 1,0,0,0,0,,,v
+S2425-G0202,4,06:19,MIL,97.0,BOS,96.0,J. Brown,BOS,Brown Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0202,4,06:19,MIL,,BOS,,J. Brown,BOS,MISS Brown Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0202,4,01:42,MIL,,BOS,,J. Brown,BOS,Brown REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
 S2425-G0073,1,11:52,WAS,,BOS,,J. Brown,BOS,MISS Brown 10' Floating Jump Shot,Missed Shot,Floating Jump shot,15,103,10,1,2.0,0.0,v
 S2425-G0073,1,10:17,WAS,,BOS,,J. Brown,BOS,MISS Brown 3' Driving Layup,Missed Shot,Driving Layup Shot,6,32,3,1,2.0,0.0,v
 S2425-G0073,1,08:37,WAS,7.0,BOS,12.0,J. Brown,BOS,Brown 26' 3PT Jump Shot (3 PTS) (Horford 1 AST),Made Shot,Jump Shot,-11,263,26,1,3.0,3.0,v
@@ -43,6 +74,59 @@ S2425-G0073,4,08:38,WAS,81.0,BOS,113.0,J. Brown,BOS,Brown 3' Running Layup (27 P
 S2425-G0073,4,08:04,WAS,,BOS,,J. Brown,BOS,Brown OFF.Foul (P1) (M.Kogut),Foul,Offensive,0,0,0,0,,,v
 S2425-G0073,4,08:04,WAS,,BOS,,J. Brown,BOS,Brown Offensive Foul Turnover (P2.T10),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
 S2425-G0073,4,08:04,WAS,,BOS,,J. Brown,BOS,SUB: Scheierman FOR Brown,Substitution,,0,0,0,0,,,v
+S2425-G0028,1,10:56,WAS,3.0,BOS,5.0,J. Brown,BOS,Brown 16' Turnaround Jump Shot (2 PTS) (Tatum 1 AST),Made Shot,Turnaround Jump Shot,-115,111,16,1,2.0,2.0,v
+S2425-G0028,1,10:29,WAS,,BOS,,J. Brown,BOS,MISS Brown 27' 3PT Jump Shot,Missed Shot,Jump Shot,145,232,27,1,3.0,0.0,v
+S2425-G0028,1,10:20,WAS,,BOS,,J. Brown,BOS,Brown REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0028,1,09:29,WAS,,BOS,,J. Brown,BOS,MISS Brown 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,47,117,13,1,2.0,0.0,v
+S2425-G0028,1,09:05,WAS,,BOS,,J. Brown,BOS,Brown REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0028,1,08:53,WAS,6.0,BOS,9.0,J. Brown,BOS,Brown 2' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,-17,8,2,1,2.0,2.0,v
+S2425-G0028,1,08:11,WAS,,BOS,,J. Brown,BOS,Brown REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0028,1,07:34,WAS,,BOS,,J. Brown,BOS,MISS Brown 25' 3PT Jump Shot,Missed Shot,Jump Shot,185,168,25,1,3.0,0.0,v
+S2425-G0028,1,06:17,WAS,,BOS,,J. Brown,BOS,Brown Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0028,1,04:47,WAS,,BOS,,J. Brown,BOS,SUB: Kornet FOR Brown,Substitution,,0,0,0,0,,,v
+S2425-G0028,2,11:09,WAS,,BOS,,J. Brown,BOS,MISS Brown 26' 3PT Jump Shot,Missed Shot,Jump Shot,2,258,26,1,3.0,0.0,v
+S2425-G0028,2,10:26,WAS,,BOS,,J. Brown,BOS,MISS Brown 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,69,-13,7,1,2.0,0.0,v
+S2425-G0028,2,10:24,WAS,,BOS,,J. Brown,BOS,Brown REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0028,2,08:56,WAS,38.0,BOS,34.0,J. Brown,BOS,Brown 25' 3PT Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,-148,205,25,1,3.0,3.0,v
+S2425-G0028,2,06:02,WAS,45.0,BOS,38.0,J. Brown,BOS,Brown 24' 3PT Jump Shot (10 PTS) (Kornet 1 AST),Made Shot,Jump Shot,-235,57,24,1,3.0,3.0,v
+S2425-G0028,2,05:17,WAS,,BOS,,J. Brown,BOS,Brown REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0028,2,04:47,WAS,,BOS,,J. Brown,BOS,MISS Brown 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-15,258,26,1,3.0,0.0,v
+S2425-G0028,2,03:06,WAS,45.0,BOS,44.0,J. Brown,BOS,Brown Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0028,2,03:06,WAS,45.0,BOS,45.0,J. Brown,BOS,Brown Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0028,2,02:37,WAS,45.0,BOS,47.0,J. Brown,BOS,Brown 5' Driving Floating Jump Shot (14 PTS) (White 2 AST),Made Shot,Driving Floating Jump Shot,-47,24,5,1,2.0,2.0,v
+S2425-G0028,2,02:08,WAS,,BOS,,J. Brown,BOS,MISS Brown 24' 3PT Jump Shot,Missed Shot,Jump Shot,240,3,24,1,3.0,0.0,v
+S2425-G0028,2,01:38,WAS,,BOS,,J. Brown,BOS,MISS Brown 26' 3PT Jump Shot,Missed Shot,Jump Shot,-230,111,26,1,3.0,0.0,v
+S2425-G0028,2,00:08.400000,WAS,,BOS,,J. Brown,BOS,MISS Brown 26' 3PT Jump Shot,Missed Shot,Jump Shot,222,126,26,1,3.0,0.0,v
+S2425-G0028,3,11:42,WAS,51.0,BOS,52.0,J. Brown,BOS,Brown 26' 3PT Jump Shot (17 PTS) (Tatum 5 AST),Made Shot,Jump Shot,-229,126,26,1,3.0,3.0,v
+S2425-G0028,3,11:02,WAS,,BOS,,J. Brown,BOS,Brown OFF.Foul (P1) (M.Kogut),Foul,Offensive,0,0,0,0,,,v
+S2425-G0028,3,11:02,WAS,,BOS,,J. Brown,BOS,Brown Offensive Foul Turnover (P2.T7),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0028,3,09:37,WAS,55.0,BOS,55.0,J. Brown,BOS,Brown Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0028,3,09:37,WAS,,BOS,,J. Brown,BOS,MISS Brown Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0028,3,07:39,WAS,,BOS,,J. Brown,BOS,Brown P.FOUL (P2.T1) (T.Ricks),Foul,Personal,0,0,0,0,,,v
+S2425-G0028,3,06:50,WAS,,BOS,,J. Brown,BOS,MISS Brown 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-190,202,28,1,3.0,0.0,v
+S2425-G0028,3,06:05,WAS,61.0,BOS,61.0,J. Brown,BOS,Brown 18' Pullup Jump Shot (20 PTS) (Tatum 6 AST),Made Shot,Pullup Jump shot,-82,155,18,1,2.0,2.0,v
+S2425-G0028,3,05:22,WAS,,BOS,,J. Brown,BOS,Brown REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0028,3,04:53,WAS,,BOS,,J. Brown,BOS,MISS Brown 9' Driving Layup,Missed Shot,Driving Layup Shot,-66,64,9,1,2.0,0.0,v
+S2425-G0028,3,03:53,WAS,,BOS,,J. Brown,BOS,MISS Brown 3' Driving Layup,Missed Shot,Driving Layup Shot,-31,6,3,1,2.0,0.0,v
+S2425-G0028,3,02:56,WAS,,BOS,,J. Brown,BOS,Brown REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0028,3,02:08,WAS,,BOS,,J. Brown,BOS,Brown REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0028,3,02:06,WAS,,BOS,,J. Brown,BOS,MISS Brown 15' Jump Shot,Missed Shot,Jump Shot,119,86,15,1,2.0,0.0,v
+S2425-G0028,3,02:04,WAS,,BOS,,J. Brown,BOS,Brown REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0028,3,02:03,WAS,70.0,BOS,71.0,J. Brown,BOS,Brown Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0028,3,02:03,WAS,70.0,BOS,72.0,J. Brown,BOS,Brown Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0028,3,01:28,WAS,70.0,BOS,74.0,J. Brown,BOS,Brown 17' Turnaround Jump Shot (24 PTS),Made Shot,Turnaround Jump Shot,103,137,17,1,2.0,2.0,v
+S2425-G0028,3,00:29.500000,WAS,,BOS,,J. Brown,BOS,MISS Brown 19' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-20,184,19,1,2.0,0.0,v
+S2425-G0028,3,00:00.400000,WAS,,BOS,,J. Brown,BOS,MISS Brown 36' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-206,291,36,1,3.0,0.0,v
+S2425-G0028,4,05:56,WAS,,BOS,,J. Brown,BOS,MISS Brown 30' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-64,291,30,1,3.0,0.0,v
+S2425-G0028,4,05:29,WAS,,BOS,,J. Brown,BOS,Brown REBOUND (Off:3 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0028,4,05:19,WAS,84.0,BOS,91.0,J. Brown,BOS,Brown 5' Driving Layup (26 PTS) (Tatum 8 AST),Made Shot,Driving Layup Shot,-2,47,5,1,2.0,2.0,v
+S2425-G0028,4,03:36,WAS,,BOS,,J. Brown,BOS,Brown REBOUND (Off:3 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0028,4,03:28,WAS,,BOS,,J. Brown,BOS,Brown Offensive Charge Foul (P3) (E.Malloy),Foul,Offensive Charge,0,0,0,0,,,v
+S2425-G0028,4,03:28,WAS,,BOS,,J. Brown,BOS,Brown Offensive Foul Turnover (P3.T12),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0028,4,02:50,WAS,89.0,BOS,95.0,J. Brown,BOS,Brown 6' Turnaround Bank Shot (28 PTS),Made Shot,Turnaround Bank shot,-56,13,6,1,2.0,2.0,v
+S2425-G0028,4,00:46.500000,WAS,92.0,BOS,99.0,J. Brown,BOS,Brown 20' Turnaround Fadeaway (30 PTS),Made Shot,Turnaround Fadeaway shot,-94,175,20,1,2.0,2.0,v
+S2425-G0028,4,00:34.100000,WAS,94.0,BOS,100.0,J. Brown,BOS,Brown Free Throw 1 of 2 (31 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0028,4,00:34.100000,WAS,,BOS,,J. Brown,BOS,MISS Brown Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
 S2425-G0119,1,11:07,IND,,BOS,,J. Brown,BOS,MISS Brown 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-224,59,0,1,3.0,0.0,v
 S2425-G0119,1,10:39,IND,,BOS,,J. Brown,BOS,Brown L.B.FOUL (P1.T1) (E.Malloy),Foul,Loose Ball,0,0,0,0,,,v
 S2425-G0119,1,10:20,IND,2.0,BOS,2.0,J. Brown,BOS,Brown 2' Running Dunk (2 PTS) (Holiday 1 AST),Made Shot,Running Dunk Shot,-10,20,2,1,2.0,2.0,v
@@ -148,6 +232,87 @@ S2425-G0089,4,00:44.600000,DET,,BOS,,J. Brown,BOS,Brown REBOUND (Off:3 Def:6),Re
 S2425-G0089,4,00:10.600000,DET,,BOS,,J. Brown,BOS,Brown REBOUND (Off:3 Def:7),Rebound,Unknown,0,0,0,0,,,v
 S2425-G0089,4,00:09.600000,DET,118.0,BOS,121.0,J. Brown,BOS,Brown Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
 S2425-G0089,4,00:09.600000,DET,118.0,BOS,122.0,J. Brown,BOS,Brown Free Throw 2 of 2 (24 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0021,1,11:23,BOS,,CLE,,J. Brown,BOS,MISS Brown 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,16,24,1,3.0,0.0,h
+S2425-G0021,1,09:28,BOS,,CLE,,J. Brown,BOS,MISS Brown 13' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-120,56,13,1,2.0,0.0,h
+S2425-G0021,1,09:01,BOS,,CLE,,J. Brown,BOS,MISS Brown 7' Running Layup,Missed Shot,Running Layup Shot,-65,22,7,1,2.0,0.0,h
+S2425-G0021,1,07:43,BOS,12.0,CLE,4.0,J. Brown,BOS,Brown 26' 3PT Jump Shot (3 PTS) (Tatum 2 AST),Made Shot,Jump Shot,-199,163,26,1,3.0,3.0,h
+S2425-G0021,1,06:32,BOS,,CLE,,J. Brown,BOS,MISS Brown 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-56,251,26,1,3.0,0.0,h
+S2425-G0021,1,06:15,BOS,,CLE,,J. Brown,BOS,Brown REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0021,1,05:13,BOS,,CLE,,J. Brown,BOS,Brown Out of Bounds Lost Ball Turnover (P1.T3),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2425-G0021,1,05:13,BOS,,CLE,,J. Brown,BOS,SUB: Hauser FOR Brown,Substitution,,0,0,0,0,,,h
+S2425-G0021,2,10:24,BOS,,CLE,,J. Brown,BOS,MISS Brown 5' Driving Layup,Missed Shot,Driving Layup Shot,-41,27,5,1,2.0,0.0,h
+S2425-G0021,2,09:15,BOS,34.0,CLE,25.0,J. Brown,BOS,Brown 17' Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,66,155,17,1,2.0,2.0,h
+S2425-G0021,2,06:38,BOS,41.0,CLE,34.0,J. Brown,BOS,Brown 14' Driving Floating Bank Jump Shot (7 PTS),Made Shot,Driving Floating Bank Jump Shot,-86,116,14,1,2.0,2.0,h
+S2425-G0021,2,05:42,BOS,,CLE,,J. Brown,BOS,MISS Brown 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,58,250,26,1,3.0,0.0,h
+S2425-G0021,2,03:21,BOS,54.0,CLE,41.0,J. Brown,BOS,Brown 27' 3PT Jump Shot (10 PTS) (Tatum 4 AST),Made Shot,Jump Shot,-42,271,27,1,3.0,3.0,h
+S2425-G0021,2,01:09,BOS,,CLE,,J. Brown,BOS,Brown Lost Ball Turnover (P2.T6),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0021,2,00:03.500000,BOS,,CLE,,J. Brown,BOS,Brown Personal Take Foul (P1.T2) (D.Scott),Foul,Personal Take,0,0,0,0,,,h
+S2425-G0021,3,11:45,BOS,,CLE,,J. Brown,BOS,Brown Out of Bounds Lost Ball Turnover (P3.T7),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2425-G0021,3,10:58,BOS,,CLE,,J. Brown,BOS,MISS Brown 5' Driving Layup,Missed Shot,Driving Layup Shot,43,16,5,1,2.0,0.0,h
+S2425-G0021,3,07:18,BOS,,CLE,,J. Brown,BOS,MISS Brown 26' 3PT Jump Shot,Missed Shot,Jump Shot,-113,236,26,1,3.0,0.0,h
+S2425-G0021,3,05:26,BOS,,CLE,,J. Brown,BOS,SUB: Hauser FOR Brown,Substitution,,0,0,0,0,,,h
+S2425-G0021,4,10:27,BOS,,CLE,,J. Brown,BOS,MISS Brown 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-109,242,27,1,3.0,0.0,h
+S2425-G0021,4,10:15,BOS,,CLE,,J. Brown,BOS,Brown REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0021,4,09:46,BOS,98.0,CLE,93.0,J. Brown,BOS,Brown 1' Driving Layup (12 PTS) (Pritchard 3 AST),Made Shot,Driving Layup Shot,7,10,1,1,2.0,2.0,h
+S2425-G0021,4,06:53,BOS,,CLE,,J. Brown,BOS,MISS Brown 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-50,109,12,1,2.0,0.0,h
+S2425-G0021,4,06:22,BOS,,CLE,,J. Brown,BOS,Brown P.FOUL (P2.T4) (T.Brothers),Foul,Personal,0,0,0,0,,,h
+S2425-G0021,4,03:22,BOS,,CLE,,J. Brown,BOS,Brown OFF.Foul (P3) (T.Brothers),Foul,Offensive,0,0,0,0,,,h
+S2425-G0021,4,03:22,BOS,,CLE,,J. Brown,BOS,Brown Offensive Foul Turnover (P4.T12),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0021,4,03:06,BOS,,CLE,,J. Brown,BOS,Brown S.FOUL (P4.PN) (T.Brothers),Foul,Shooting,0,0,0,0,,,h
+S2425-G0021,4,03:06,BOS,,CLE,,J. Brown,BOS,Brown REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0021,4,01:59,BOS,,CLE,,J. Brown,BOS,Brown STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0021,4,01:41,BOS,114.0,CLE,105.0,J. Brown,BOS,Brown 7' Driving Layup (14 PTS),Made Shot,Driving Layup Shot,-54,39,7,1,2.0,2.0,h
+S2425-G0021,4,00:46.600000,BOS,116.0,CLE,109.0,J. Brown,BOS,Brown 5' Driving Layup (16 PTS),Made Shot,Driving Layup Shot,47,17,5,1,2.0,2.0,h
+S2425-G0021,4,00:34.400000,BOS,,CLE,,J. Brown,BOS,Brown S.FOUL (P5.PN) (T.Brothers),Foul,Shooting,0,0,0,0,,,h
+S2425-G0021,4,00:30.400000,BOS,,CLE,,J. Brown,BOS,MISS Brown Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0021,4,00:30.400000,BOS,117.0,CLE,110.0,J. Brown,BOS,Brown Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0001,1,10:57,BOS,,ATL,,J. Brown,BOS,Brown Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0001,1,10:35,BOS,3.0,ATL,3.0,J. Brown,BOS,Brown 27' 3PT Pullup Jump Shot (3 PTS) (White 1 AST),Made Shot,Pullup Jump shot,102,253,27,1,3.0,3.0,h
+S2425-G0001,1,10:24,BOS,,ATL,,J. Brown,BOS,Brown S.FOUL (P1.T1) (R.Acosta),Foul,Shooting,0,0,0,0,,,h
+S2425-G0001,1,10:06,BOS,,ATL,,J. Brown,BOS,MISS Brown 24' 3PT Jump Shot,Missed Shot,Jump Shot,-228,85,24,1,3.0,0.0,h
+S2425-G0001,1,09:35,BOS,5.0,ATL,5.0,J. Brown,BOS,Brown 1' Driving Layup (5 PTS) (White 2 AST),Made Shot,Driving Layup Shot,5,13,1,1,2.0,2.0,h
+S2425-G0001,1,09:11,BOS,6.0,ATL,7.0,J. Brown,BOS,Brown Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0001,1,09:11,BOS,,ATL,,J. Brown,BOS,MISS Brown Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0001,1,08:32,BOS,,ATL,,J. Brown,BOS,Brown P.FOUL (P2.T2) (D.Collins),Foul,Personal,0,0,0,0,,,h
+S2425-G0001,1,07:36,BOS,,ATL,,J. Brown,BOS,Brown REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0001,1,07:24,BOS,,ATL,,J. Brown,BOS,Brown REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0001,1,07:21,BOS,,ATL,,J. Brown,BOS,MISS Brown 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,136,225,26,1,3.0,0.0,h
+S2425-G0001,1,06:37,BOS,10.0,ATL,11.0,J. Brown,BOS,Brown 1' Driving Dunk (8 PTS) (Holiday 1 AST),Made Shot,Driving Dunk Shot,-1,8,1,1,2.0,2.0,h
+S2425-G0001,1,04:51,BOS,13.0,ATL,13.0,J. Brown,BOS,Brown Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0001,1,04:51,BOS,14.0,ATL,13.0,J. Brown,BOS,Brown Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0001,1,04:22,BOS,16.0,ATL,16.0,J. Brown,BOS,Brown 14' Turnaround Fadeaway (12 PTS),Made Shot,Turnaround Fadeaway shot,-78,117,14,1,2.0,2.0,h
+S2425-G0001,1,03:49,BOS,,ATL,,J. Brown,BOS,MISS Brown 25' 3PT Jump Shot,Missed Shot,Jump Shot,224,107,25,1,3.0,0.0,h
+S2425-G0001,1,03:25,BOS,,ATL,,J. Brown,BOS,MISS Brown 9' Turnaround Bank Hook Shot,Missed Shot,Turnaround Bank Hook Shot,-49,73,9,1,2.0,0.0,h
+S2425-G0001,1,01:31,BOS,26.0,ATL,23.0,J. Brown,BOS,Brown 3' Running Layup (14 PTS),Made Shot,Running Layup Shot,28,17,3,1,2.0,2.0,h
+S2425-G0001,1,01:00,BOS,28.0,ATL,25.0,J. Brown,BOS,Brown 4' Driving Finger Roll Layup (16 PTS),Made Shot,Driving Finger Roll Layup Shot,38,11,4,1,2.0,2.0,h
+S2425-G0001,2,01:09,BOS,63.0,ATL,52.0,J. Brown,BOS,Brown 1' Running Alley Oop Dunk Shot (18 PTS) (White 3 AST),Made Shot,Running Alley Oop Dunk Shot,7,13,1,1,2.0,2.0,h
+S2425-G0001,2,00:37,BOS,,ATL,,J. Brown,BOS,MISS Brown 14' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,10,144,14,1,2.0,0.0,h
+S2425-G0001,2,00:00.400000,BOS,64.0,ATL,54.0,J. Brown,BOS,Brown Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0001,2,00:00.400000,BOS,65.0,ATL,54.0,J. Brown,BOS,Brown Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0001,3,10:19,BOS,,ATL,,J. Brown,BOS,Brown Lost Ball Turnover (P2.T9),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0001,3,07:28,BOS,77.0,ATL,64.0,J. Brown,BOS,Brown 13' Driving Floating Bank Jump Shot (22 PTS),Made Shot,Driving Floating Bank Jump Shot,105,71,13,1,2.0,2.0,h
+S2425-G0001,3,07:01,BOS,,ATL,,J. Brown,BOS,Brown Lost Ball Turnover (P3.T11),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0001,3,06:01,BOS,81.0,ATL,66.0,J. Brown,BOS,Brown 15' Pullup Jump Shot (24 PTS),Made Shot,Pullup Jump shot,64,137,15,1,2.0,2.0,h
+S2425-G0001,3,05:05,BOS,,ATL,,J. Brown,BOS,Brown Lost Ball Turnover (P4.T12),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0001,3,04:42,BOS,,ATL,,J. Brown,BOS,MISS Brown 18' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-125,131,18,1,2.0,0.0,h
+S2425-G0001,3,03:00,BOS,83.0,ATL,75.0,J. Brown,BOS,Brown 21' Jump Shot (26 PTS),Made Shot,Jump Shot,-83,193,21,1,2.0,2.0,h
+S2425-G0001,3,00:48.500000,BOS,,ATL,,J. Brown,BOS,Brown REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0001,3,00:31.500000,BOS,,ATL,,J. Brown,BOS,Brown STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0001,4,06:53,BOS,,ATL,,J. Brown,BOS,Brown REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0001,4,06:45,BOS,,ATL,,J. Brown,BOS,MISS Brown 3' Driving Layup,Missed Shot,Driving Layup Shot,-23,13,3,1,2.0,0.0,h
+S2425-G0001,4,06:08,BOS,101.0,ATL,99.0,J. Brown,BOS,Brown 6' Pullup Jump Shot (28 PTS),Made Shot,Pullup Jump shot,-55,29,6,1,2.0,2.0,h
+S2425-G0001,4,05:43,BOS,,ATL,,J. Brown,BOS,Brown Bad Pass Turnover (P5.T17),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0001,4,04:38,BOS,,ATL,,J. Brown,BOS,Brown OFF.Foul (P3) (R.Acosta),Foul,Offensive,0,0,0,0,,,h
+S2425-G0001,4,04:38,BOS,,ATL,,J. Brown,BOS,Brown Offensive Foul Turnover (P6.T18),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0001,4,04:16,BOS,107.0,ATL,104.0,J. Brown,BOS,Brown 24' 3PT Pullup Jump Shot (31 PTS) (Holiday 7 AST),Made Shot,Pullup Jump shot,233,67,24,1,3.0,3.0,h
+S2425-G0001,4,03:05,BOS,,ATL,,J. Brown,BOS,MISS Brown Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0001,4,03:05,BOS,108.0,ATL,106.0,J. Brown,BOS,Brown Free Throw 2 of 2 (32 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0001,4,02:34,BOS,,ATL,,J. Brown,BOS,MISS Brown Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0001,4,02:34,BOS,,ATL,,J. Brown,BOS,MISS Brown Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0001,4,02:15,BOS,,ATL,,J. Brown,BOS,Brown REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0001,4,01:24,BOS,114.0,ATL,110.0,J. Brown,BOS,Brown 27' 3PT Pullup Jump Shot (35 PTS),Made Shot,Pullup Jump shot,-12,268,27,1,3.0,3.0,h
+S2425-G0001,4,00:54.200000,BOS,116.0,ATL,113.0,J. Brown,BOS,Brown 16' Fadeaway Jumper (37 PTS) (White 5 AST),Made Shot,Fadeaway Jump Shot,-38,156,16,1,2.0,2.0,h
+S2425-G0001,4,00:00,BOS,,ATL,,J. Brown,BOS,MISS Brown 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-87,103,13,1,2.0,0.0,h
 S2425-G0104,1,11:45,BOS,,MIL,,J. Brown,BOS,Brown REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
 S2425-G0104,1,10:39,BOS,,MIL,,J. Brown,BOS,MISS Brown 6' Driving Layup,Missed Shot,Driving Layup Shot,-18,54,6,1,2.0,0.0,h
 S2425-G0104,1,08:32,BOS,,MIL,,J. Brown,BOS,Brown REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
@@ -233,3 +398,47 @@ S2425-G0061,4,10:00,BOS,,NYK,,J. Brown,BOS,MISS Brown 17' Pullup Jump Shot,Misse
 S2425-G0061,4,09:54,BOS,,NYK,,J. Brown,BOS,Brown P.FOUL (P3.T2) (B.Schwab),Foul,Personal,0,0,0,0,,,h
 S2425-G0061,4,08:05,BOS,,NYK,,J. Brown,BOS,MISS Brown 25' 3PT Jump Shot,Missed Shot,Jump Shot,131,216,25,1,3.0,0.0,h
 S2425-G0061,4,06:05,BOS,,NYK,,J. Brown,BOS,SUB: Hauser FOR Brown,Substitution,,0,0,0,0,,,h
+S2425-G0132,1,11:39,CHA,0.0,BOS,2.0,J. Brown,BOS,Brown 6' Fadeaway Jumper (2 PTS),Made Shot,Fadeaway Jump Shot,7,64,6,1,2.0,2.0,v
+S2425-G0132,1,11:06,CHA,,BOS,,J. Brown,BOS,Brown REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0132,1,10:01,CHA,,BOS,,J. Brown,BOS,MISS Brown 26' 3PT Jump Shot,Missed Shot,Jump Shot,99,243,26,1,3.0,0.0,v
+S2425-G0132,1,09:53,CHA,,BOS,,J. Brown,BOS,Brown P.FOUL (P1.T1) (J.Williams),Foul,Personal,0,0,0,0,,,v
+S2425-G0132,1,09:04,CHA,,BOS,,J. Brown,BOS,MISS Brown 1' Driving Dunk,Missed Shot,Driving Dunk Shot,10,1,1,1,2.0,0.0,v
+S2425-G0132,1,08:19,CHA,,BOS,,J. Brown,BOS,MISS Brown 26' 3PT Jump Shot,Missed Shot,Jump Shot,-152,208,26,1,3.0,0.0,v
+S2425-G0132,1,07:21,CHA,,BOS,,J. Brown,BOS,MISS Brown 6' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,12,59,6,1,2.0,0.0,v
+S2425-G0132,1,07:17,CHA,,BOS,,J. Brown,BOS,Brown REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0132,1,07:09,CHA,,BOS,,J. Brown,BOS,Brown Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0132,1,04:20,CHA,17.0,BOS,27.0,J. Brown,BOS,Brown 3' Driving Finger Roll Layup (4 PTS),Made Shot,Driving Finger Roll Layup Shot,18,-18,3,1,2.0,2.0,v
+S2425-G0132,1,04:20,CHA,,BOS,,J. Brown,BOS,SUB: Hauser FOR Brown,Substitution,,0,0,0,0,,,v
+S2425-G0132,2,11:26,CHA,,BOS,,J. Brown,BOS,MISS Brown 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,152,210,26,1,3.0,0.0,v
+S2425-G0132,2,10:20,CHA,32.0,BOS,41.0,J. Brown,BOS,Brown Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0132,2,10:20,CHA,32.0,BOS,42.0,J. Brown,BOS,Brown Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0132,2,09:30,CHA,37.0,BOS,45.0,J. Brown,BOS,Brown Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0132,2,09:30,CHA,37.0,BOS,46.0,J. Brown,BOS,Brown Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0132,2,08:26,CHA,,BOS,,J. Brown,BOS,MISS Brown 1' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,9,6,1,1,2.0,0.0,v
+S2425-G0132,2,08:17,CHA,,BOS,,J. Brown,BOS,Brown REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0132,2,07:41,CHA,40.0,BOS,53.0,J. Brown,BOS,Brown Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0132,2,07:41,CHA,40.0,BOS,54.0,J. Brown,BOS,Brown Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0132,2,07:09,CHA,43.0,BOS,56.0,J. Brown,BOS,Brown 1' Driving Layup (12 PTS),Made Shot,Driving Layup Shot,11,-2,1,1,2.0,2.0,v
+S2425-G0132,2,06:50,CHA,43.0,BOS,58.0,J. Brown,BOS,Brown 1' Running Dunk (14 PTS) (White 2 AST),Made Shot,Running Dunk Shot,2,-7,1,1,2.0,2.0,v
+S2425-G0132,2,06:23,CHA,,BOS,,J. Brown,BOS,Brown REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0132,2,06:05,CHA,,BOS,,J. Brown,BOS,Brown P.FOUL (P2.T1) (A.Moyer-Gleich),Foul,Personal,0,0,0,0,,,v
+S2425-G0132,2,05:25,CHA,50.0,BOS,63.0,J. Brown,BOS,Brown 12' Turnaround Fadeaway (16 PTS),Made Shot,Turnaround Fadeaway shot,-1,120,12,1,2.0,2.0,v
+S2425-G0132,2,03:03,CHA,,BOS,,J. Brown,BOS,Brown S.FOUL (P3.T3) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,v
+S2425-G0132,3,10:21,CHA,69.0,BOS,75.0,J. Brown,BOS,Brown 2' Driving Layup (18 PTS),Made Shot,Driving Layup Shot,-11,21,2,1,2.0,2.0,v
+S2425-G0132,3,09:46,CHA,,BOS,,J. Brown,BOS,MISS Brown 2' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,16,8,2,1,2.0,0.0,v
+S2425-G0132,3,09:27,CHA,,BOS,,J. Brown,BOS,MISS Brown 3PT Jump Shot,Missed Shot,Jump Shot,-229,1,0,1,3.0,0.0,v
+S2425-G0132,3,09:22,CHA,,BOS,,J. Brown,BOS,MISS Brown 26' 3PT Jump Shot,Missed Shot,Jump Shot,-225,137,26,1,3.0,0.0,v
+S2425-G0132,3,05:15,CHA,,BOS,,J. Brown,BOS,MISS Brown 28' 3PT Jump Shot,Missed Shot,Jump Shot,-123,256,28,1,3.0,0.0,v
+S2425-G0132,3,05:14,CHA,,BOS,,J. Brown,BOS,SUB: Hauser FOR Brown,Substitution,,0,0,0,0,,,v
+S2425-G0132,4,11:16,CHA,88.0,BOS,96.0,J. Brown,BOS,Brown 4' Driving Floating Bank Jump Shot (20 PTS),Made Shot,Driving Floating Bank Jump Shot,0,41,4,1,2.0,2.0,v
+S2425-G0132,4,09:05,CHA,,BOS,,J. Brown,BOS,MISS Brown Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0132,4,09:05,CHA,94.0,BOS,98.0,J. Brown,BOS,Brown Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0132,4,07:30,CHA,99.0,BOS,102.0,J. Brown,BOS,Brown 2' Driving Layup (23 PTS) (White 4 AST),Made Shot,Driving Layup Shot,0,17,2,1,2.0,2.0,v
+S2425-G0132,4,06:29,CHA,,BOS,,J. Brown,BOS,Brown REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0132,4,06:11,CHA,,BOS,,J. Brown,BOS,MISS Brown 3' Driving Layup,Missed Shot,Driving Layup Shot,6,27,3,1,2.0,0.0,v
+S2425-G0132,4,05:25,CHA,101.0,BOS,107.0,J. Brown,BOS,Brown Free Throw 1 of 2 (24 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0132,4,05:25,CHA,101.0,BOS,108.0,J. Brown,BOS,Brown Free Throw 2 of 2 (25 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0132,4,04:58,CHA,,BOS,,J. Brown,BOS,Brown REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0132,4,04:20,CHA,,BOS,,J. Brown,BOS,Brown BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0132,4,02:36,CHA,,BOS,,J. Brown,BOS,Brown STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0132,4,01:56,CHA,,BOS,,J. Brown,BOS,SUB: Pritchard FOR Brown,Substitution,,0,0,0,0,,,v

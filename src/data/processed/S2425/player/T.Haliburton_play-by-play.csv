@@ -1,4 +1,31 @@
 game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0170,1,10:14,IND,,ORL,,T. Haliburton,IND,Haliburton REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0170,1,08:46,IND,,ORL,,T. Haliburton,IND,Haliburton REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0170,1,04:47,IND,23.0,ORL,16.0,T. Haliburton,IND,Haliburton Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0170,1,04:47,IND,24.0,ORL,16.0,T. Haliburton,IND,Haliburton Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0170,1,03:33,IND,,ORL,,T. Haliburton,IND,MISS Haliburton 18' Jump Shot,Missed Shot,Jump Shot,178,-8,18,1,2.0,0.0,h
+S2425-G0170,1,02:19,IND,,ORL,,T. Haliburton,IND,SUB: Sheppard FOR Haliburton,Substitution,,0,0,0,0,,,h
+S2425-G0170,2,06:28,IND,,ORL,,T. Haliburton,IND,MISS Haliburton 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,100,50,11,1,2.0,0.0,h
+S2425-G0170,2,02:14,IND,,ORL,,T. Haliburton,IND,Haliburton S.FOUL (P1.PN) (B.Schwab),Foul,Shooting,0,0,0,0,,,h
+S2425-G0170,2,02:07,IND,,ORL,,T. Haliburton,IND,MISS Haliburton 28' 3PT Jump Shot,Missed Shot,Jump Shot,43,280,28,1,3.0,0.0,h
+S2425-G0170,2,01:25,IND,59.0,ORL,57.0,T. Haliburton,IND,Haliburton 26' 3PT Jump Shot (5 PTS) (Nembhard 3 AST),Made Shot,Jump Shot,165,201,26,1,3.0,3.0,h
+S2425-G0170,2,00:58,IND,,ORL,,T. Haliburton,IND,Jump Ball Haliburton vs. Caldwell-Pope: Tip to Bitadze,Jump Ball,,0,0,0,0,,,h
+S2425-G0170,3,07:34,IND,,ORL,,T. Haliburton,IND,Haliburton REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0170,3,06:28,IND,74.0,ORL,68.0,T. Haliburton,IND,Haliburton 13' Floating Jump Shot (7 PTS),Made Shot,Floating Jump shot,129,38,13,1,2.0,2.0,h
+S2425-G0170,3,04:33,IND,,ORL,,T. Haliburton,IND,Haliburton P.FOUL (P2.PN) (C.Kirkland),Foul,Personal,0,0,0,0,,,h
+S2425-G0170,3,02:04,IND,,ORL,,T. Haliburton,IND,Haliburton Lost Ball Turnover (P1.T8),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0170,3,01:48,IND,,ORL,,T. Haliburton,IND,SUB: Sheppard FOR Haliburton,Substitution,,0,0,0,0,,,h
+S2425-G0170,4,09:03,IND,96.0,ORL,95.0,T. Haliburton,IND,Haliburton 13' Driving Floating Jump Shot (9 PTS),Made Shot,Driving Floating Jump Shot,70,110,13,1,2.0,2.0,h
+S2425-G0170,4,07:28,IND,101.0,ORL,97.0,T. Haliburton,IND,Haliburton 26' 3PT Step Back Jump Shot (12 PTS),Made Shot,Step Back Jump shot,-167,195,26,1,3.0,3.0,h
+S2425-G0170,4,07:07,IND,,ORL,,T. Haliburton,IND,Haliburton S.FOUL (P3.PN) (B.Schwab),Foul,Shooting,0,0,0,0,,,h
+S2425-G0170,4,05:59,IND,,ORL,,T. Haliburton,IND,Haliburton STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0170,4,05:43,IND,108.0,ORL,100.0,T. Haliburton,IND,Haliburton 1' Driving Layup (14 PTS),Made Shot,Driving Layup Shot,-9,-8,1,1,2.0,2.0,h
+S2425-G0170,4,05:03,IND,,ORL,,T. Haliburton,IND,Haliburton S.FOUL (P4.PN) (D.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2425-G0170,4,04:03,IND,,ORL,,T. Haliburton,IND,MISS Haliburton 2' Driving Layup,Missed Shot,Driving Layup Shot,-10,22,2,1,2.0,0.0,h
+S2425-G0170,4,02:00,IND,,ORL,,T. Haliburton,IND,MISS Haliburton 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-2,266,27,1,3.0,0.0,h
+S2425-G0170,4,00:33.900000,IND,116.0,ORL,111.0,T. Haliburton,IND,Haliburton 26' 3PT Pullup Jump Shot (17 PTS),Made Shot,Pullup Jump shot,15,261,26,1,3.0,3.0,h
+S2425-G0170,4,00:31.700000,IND,,ORL,,T. Haliburton,IND,SUB: Sheppard FOR Haliburton,Substitution,,0,0,0,0,,,h
+S2425-G0170,4,00:14.600000,IND,,ORL,,T. Haliburton,IND,SUB: Sheppard FOR Haliburton,Substitution,,0,0,0,0,,,h
 S2425-G0081,1,10:44,NYK,,IND,,T. Haliburton,IND,MISS Haliburton 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,43,29,5,1,2.0,0.0,v
 S2425-G0081,1,05:40,NYK,,IND,,T. Haliburton,IND,Haliburton REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
 S2425-G0081,1,04:46,NYK,,IND,,T. Haliburton,IND,MISS Haliburton 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,162,194,25,1,3.0,0.0,v
@@ -52,6 +79,72 @@ S2425-G0097,5,00:13.900000,IND,,PHI,,T. Haliburton,IND,SUB: Sheppard FOR Halibur
 S2425-G0097,5,00:05,IND,,PHI,,T. Haliburton,IND,MISS Haliburton Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
 S2425-G0097,5,00:05,IND,,PHI,,T. Haliburton,IND,MISS Haliburton Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
 S2425-G0097,5,00:02.500000,IND,,PHI,,T. Haliburton,IND,Haliburton Personal Take Foul (P2.PN) (J.Sterling),Foul,Personal Take,0,0,0,0,,,h
+S2425-G0184,1,11:40,CHA,,IND,,T. Haliburton,IND,MISS Haliburton 14' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-62,122,14,1,2.0,0.0,v
+S2425-G0184,1,05:24,CHA,,IND,,T. Haliburton,IND,MISS Haliburton 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-80,267,28,1,3.0,0.0,v
+S2425-G0184,1,01:05,CHA,,IND,,T. Haliburton,IND,Haliburton REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0184,1,00:55.300000,CHA,26.0,IND,24.0,T. Haliburton,IND,Haliburton 14' Pullup Jump Shot (2 PTS) (Siakam 1 AST),Made Shot,Pullup Jump shot,-11,138,14,1,2.0,2.0,v
+S2425-G0184,1,00:37.300000,CHA,,IND,,T. Haliburton,IND,Haliburton BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0184,1,00:37.300000,CHA,,IND,,T. Haliburton,IND,Haliburton REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0184,1,00:00,CHA,,IND,,T. Haliburton,IND,MISS Haliburton 27' 3PT Jump Shot,Missed Shot,Jump Shot,51,262,27,1,3.0,0.0,v
+S2425-G0184,2,04:10,CHA,,IND,,T. Haliburton,IND,MISS Haliburton 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,183,180,26,1,3.0,0.0,v
+S2425-G0184,2,03:47,CHA,,IND,,T. Haliburton,IND,MISS Haliburton 2' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,12,10,2,1,2.0,0.0,v
+S2425-G0184,2,03:39,CHA,,IND,,T. Haliburton,IND,Haliburton STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0184,2,03:34,CHA,,IND,,T. Haliburton,IND,MISS Haliburton 1' Running Dunk,Missed Shot,Running Dunk Shot,2,12,1,1,2.0,0.0,v
+S2425-G0184,2,03:01,CHA,,IND,,T. Haliburton,IND,Haliburton Offensive Charge Foul (P1) (I.Hwang),Foul,Offensive Charge,0,0,0,0,,,v
+S2425-G0184,2,03:01,CHA,,IND,,T. Haliburton,IND,Haliburton Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0184,2,01:30,CHA,,IND,,T. Haliburton,IND,Haliburton REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0184,2,00:53.700000,CHA,,IND,,T. Haliburton,IND,MISS Haliburton 30' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-170,251,30,1,3.0,0.0,v
+S2425-G0184,2,00:02.800000,CHA,,IND,,T. Haliburton,IND,SUB: Toppin FOR Haliburton,Substitution,,0,0,0,0,,,v
+S2425-G0184,3,09:45,CHA,,IND,,T. Haliburton,IND,Haliburton REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0184,3,06:23,CHA,51.0,IND,62.0,T. Haliburton,IND,Haliburton 12' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,5,120,12,1,2.0,2.0,v
+S2425-G0184,3,06:12,CHA,,IND,,T. Haliburton,IND,Haliburton REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0184,3,05:37,CHA,,IND,,T. Haliburton,IND,MISS Haliburton 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,9,30,3,1,2.0,0.0,v
+S2425-G0184,3,02:56,CHA,,IND,,T. Haliburton,IND,MISS Haliburton 15' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,62,138,15,1,2.0,0.0,v
+S2425-G0184,3,02:53,CHA,,IND,,T. Haliburton,IND,Haliburton REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0184,3,00:06.300000,CHA,,IND,,T. Haliburton,IND,Haliburton REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0184,4,06:44,CHA,82.0,IND,78.0,T. Haliburton,IND,Haliburton Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0184,4,06:44,CHA,82.0,IND,79.0,T. Haliburton,IND,Haliburton Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0184,4,04:19,CHA,,IND,,T. Haliburton,IND,Haliburton Bad Pass Turnover (P2.T12),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0184,4,02:11,CHA,,IND,,T. Haliburton,IND,SUB: Freeman FOR Haliburton,Substitution,,0,0,0,0,,,v
+S2425-G0203,1,08:59,IND,,NYK,,T. Haliburton,IND,Haliburton S.FOUL (P1.T1) (J.DeRosa),Foul,Shooting,0,0,0,0,,,h
+S2425-G0203,1,06:15,IND,19.0,NYK,15.0,T. Haliburton,IND,Haliburton 26' 3PT Pullup Jump Shot (3 PTS) (Siakam 1 AST),Made Shot,Pullup Jump shot,-194,174,26,1,3.0,3.0,h
+S2425-G0203,1,04:39,IND,,NYK,,T. Haliburton,IND,MISS Haliburton 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-222,132,26,1,3.0,0.0,h
+S2425-G0203,1,04:07,IND,,NYK,,T. Haliburton,IND,MISS Haliburton 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-164,58,17,1,2.0,0.0,h
+S2425-G0203,1,03:43,IND,24.0,NYK,23.0,T. Haliburton,IND,Haliburton 7' Driving Floating Jump Shot (5 PTS) (Freeman 1 AST),Made Shot,Driving Floating Jump Shot,-32,65,7,1,2.0,2.0,h
+S2425-G0203,1,02:16,IND,,NYK,,T. Haliburton,IND,SUB: Furphy FOR Haliburton,Substitution,,0,0,0,0,,,h
+S2425-G0203,2,03:40,IND,46.0,NYK,50.0,T. Haliburton,IND,Haliburton 3PT Step Back Jump Shot (8 PTS),Made Shot,Step Back Jump shot,229,15,0,1,3.0,3.0,h
+S2425-G0203,2,02:40,IND,,NYK,,T. Haliburton,IND,Haliburton REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0203,2,02:35,IND,50.0,NYK,52.0,T. Haliburton,IND,Haliburton 3' Running Finger Roll Layup (10 PTS),Made Shot,Running Finger Roll Layup Shot,-11,28,3,1,2.0,2.0,h
+S2425-G0203,2,02:09,IND,53.0,NYK,54.0,T. Haliburton,IND,Haliburton 26' 3PT Floating Jump Shot (13 PTS),Made Shot,Floating Jump shot,-12,260,26,1,3.0,3.0,h
+S2425-G0203,2,00:50.900000,IND,56.0,NYK,58.0,T. Haliburton,IND,Haliburton Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0203,2,00:50.900000,IND,,NYK,,T. Haliburton,IND,MISS Haliburton Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0203,2,00:15.200000,IND,,NYK,,T. Haliburton,IND,MISS Haliburton 29' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-180,232,29,1,3.0,0.0,h
+S2425-G0203,2,00:02.300000,IND,,NYK,,T. Haliburton,IND,Haliburton Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0203,3,09:34,IND,,NYK,,T. Haliburton,IND,MISS Haliburton 28' 3PT Floating Jump Shot,Missed Shot,Floating Jump shot,-120,248,28,1,3.0,0.0,h
+S2425-G0203,3,06:44,IND,68.0,NYK,77.0,T. Haliburton,IND,Haliburton Free Throw Technical (15 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,h
+S2425-G0203,3,06:25,IND,70.0,NYK,77.0,T. Haliburton,IND,Haliburton 11' Driving Floating Jump Shot (17 PTS),Made Shot,Driving Floating Jump Shot,-17,106,11,1,2.0,2.0,h
+S2425-G0203,3,05:39,IND,75.0,NYK,79.0,T. Haliburton,IND,Haliburton 2' Driving Finger Roll Layup (19 PTS),Made Shot,Driving Finger Roll Layup Shot,0,24,2,1,2.0,2.0,h
+S2425-G0203,3,05:39,IND,76.0,NYK,79.0,T. Haliburton,IND,Haliburton Free Throw 1 of 1 (20 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2425-G0203,3,05:03,IND,,NYK,,T. Haliburton,IND,Haliburton STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0203,3,03:37,IND,,NYK,,T. Haliburton,IND,Haliburton Bad Pass Turnover (P2.T8),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0203,3,02:55,IND,,NYK,,T. Haliburton,IND,MISS Haliburton 31' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,181,250,31,1,3.0,0.0,h
+S2425-G0203,3,02:24,IND,84.0,NYK,87.0,T. Haliburton,IND,Haliburton Free Throw Technical (21 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,h
+S2425-G0203,3,01:30,IND,,NYK,,T. Haliburton,IND,SUB: Mathurin FOR Haliburton,Substitution,,0,0,0,0,,,h
+S2425-G0203,3,00:02.600000,IND,89.0,NYK,93.0,T. Haliburton,IND,Haliburton Free Throw 1 of 2 (22 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0203,3,00:02.600000,IND,90.0,NYK,93.0,T. Haliburton,IND,Haliburton Free Throw 2 of 2 (23 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0203,3,00:01.700000,IND,,NYK,,T. Haliburton,IND,SUB: Jackson FOR Haliburton,Substitution,,0,0,0,0,,,h
+S2425-G0203,4,07:38,IND,105.0,NYK,100.0,T. Haliburton,IND,Haliburton 4' Driving Layup (25 PTS),Made Shot,Driving Layup Shot,21,36,4,1,2.0,2.0,h
+S2425-G0203,4,06:41,IND,107.0,NYK,103.0,T. Haliburton,IND,Haliburton 10' Driving Floating Jump Shot (27 PTS) (Siakam 3 AST),Made Shot,Driving Floating Jump Shot,49,85,10,1,2.0,2.0,h
+S2425-G0203,4,06:04,IND,,NYK,,T. Haliburton,IND,MISS Haliburton Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0203,4,06:04,IND,108.0,NYK,103.0,T. Haliburton,IND,Haliburton Free Throw 2 of 2 (28 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0203,4,04:20,IND,,NYK,,T. Haliburton,IND,MISS Haliburton 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,67,262,27,1,3.0,0.0,h
+S2425-G0203,4,02:51,IND,122.0,NYK,112.0,T. Haliburton,IND,Haliburton 25' 3PT Pullup Jump Shot (31 PTS),Made Shot,Pullup Jump shot,-64,245,25,1,3.0,3.0,h
+S2425-G0203,4,02:23,IND,,NYK,,T. Haliburton,IND,MISS Haliburton 29' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,39,290,29,1,3.0,0.0,h
+S2425-G0203,4,02:12,IND,,NYK,,T. Haliburton,IND,Haliburton STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0203,4,01:51,IND,127.0,NYK,114.0,T. Haliburton,IND,Haliburton 21' Step Back Jump Shot (33 PTS),Made Shot,Step Back Jump shot,-23,213,21,1,2.0,2.0,h
+S2425-G0203,4,00:32.100000,IND,131.0,NYK,121.0,T. Haliburton,IND,Haliburton Free Throw 1 of 2 (34 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0203,4,00:32.100000,IND,132.0,NYK,121.0,T. Haliburton,IND,Haliburton Free Throw 2 of 2 (35 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0203,4,00:23.500000,IND,,NYK,,T. Haliburton,IND,Haliburton REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
 S2425-G0063,1,11:18,DET,,IND,,T. Haliburton,IND,MISS Haliburton 27' 3PT Jump Shot,Missed Shot,Jump Shot,-114,243,27,1,3.0,0.0,v
 S2425-G0063,1,10:20,DET,,IND,,T. Haliburton,IND,Haliburton BLOCK (1 BLK),,,0,0,0,0,,,v
 S2425-G0063,1,07:25,DET,,IND,,T. Haliburton,IND,MISS Haliburton 8' Driving Layup,Missed Shot,Driving Layup Shot,49,59,8,1,2.0,0.0,v
@@ -90,6 +183,49 @@ S2425-G0063,4,00:20.800000,DET,107.0,IND,113.0,T. Haliburton,IND,Haliburton 25' 
 S2425-G0063,4,00:07,DET,109.0,IND,114.0,T. Haliburton,IND,Haliburton Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
 S2425-G0063,4,00:07,DET,109.0,IND,115.0,T. Haliburton,IND,Haliburton Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
 S2425-G0063,4,00:07,DET,,IND,,T. Haliburton,IND,SUB: Sheppard FOR Haliburton,Substitution,,0,0,0,0,,,v
+S2425-G0029,1,06:15,MIL,10.0,IND,2.0,T. Haliburton,IND,Haliburton Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0029,1,06:15,MIL,10.0,IND,3.0,T. Haliburton,IND,Haliburton Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0029,1,03:48,MIL,23.0,IND,16.0,T. Haliburton,IND,Haliburton 13' Driving Floating Jump Shot (4 PTS) (Toppin 1 AST),Made Shot,Driving Floating Jump Shot,28,125,13,1,2.0,2.0,v
+S2425-G0029,1,03:21,MIL,,IND,,T. Haliburton,IND,MISS Haliburton 30' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,195,231,30,1,3.0,0.0,v
+S2425-G0029,1,02:31,MIL,,IND,,T. Haliburton,IND,MISS Haliburton 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,12,273,27,1,3.0,0.0,v
+S2425-G0029,1,01:31,MIL,28.0,IND,20.0,T. Haliburton,IND,Haliburton 1' Driving Layup (6 PTS) (Toppin 2 AST),Made Shot,Driving Layup Shot,0,10,1,1,2.0,2.0,v
+S2425-G0029,1,00:36.300000,MIL,,IND,,T. Haliburton,IND,SUB: Mathurin FOR Haliburton,Substitution,,0,0,0,0,,,v
+S2425-G0029,2,03:48,MIL,,IND,,T. Haliburton,IND,Haliburton REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0029,2,02:54,MIL,,IND,,T. Haliburton,IND,MISS Haliburton 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,98,184,21,1,2.0,0.0,v
+S2425-G0029,2,01:58,MIL,,IND,,T. Haliburton,IND,MISS Haliburton 30' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,67,294,30,1,3.0,0.0,v
+S2425-G0029,2,00:53.700000,MIL,,IND,,T. Haliburton,IND,MISS Haliburton 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,55,277,28,1,3.0,0.0,v
+S2425-G0029,3,10:12,MIL,,IND,,T. Haliburton,IND,MISS Haliburton 3' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,18,23,3,1,2.0,0.0,v
+S2425-G0029,3,06:52,MIL,,IND,,T. Haliburton,IND,Haliburton Bad Pass Turnover (P1.T11),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0029,3,04:46,MIL,86.0,IND,64.0,T. Haliburton,IND,Haliburton 27' 3PT Pullup Jump Shot (9 PTS) (Toppin 3 AST),Made Shot,Pullup Jump shot,152,218,27,1,3.0,3.0,v
+S2425-G0029,3,03:33,MIL,,IND,,T. Haliburton,IND,MISS Haliburton 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-234,107,26,1,3.0,0.0,v
+S2425-G0029,3,00:16.100000,MIL,90.0,IND,79.0,T. Haliburton,IND,Haliburton 27' 3PT Jump Shot (12 PTS) (McConnell 4 AST),Made Shot,Jump Shot,145,233,27,1,3.0,3.0,v
+S2425-G0029,3,00:00.900000,MIL,,IND,,T. Haliburton,IND,SUB: Freeman FOR Haliburton,Substitution,,0,0,0,0,,,v
+S2425-G0029,4,06:26,MIL,108.0,IND,100.0,T. Haliburton,IND,Haliburton 26' 3PT Step Back Jump Shot (15 PTS),Made Shot,Step Back Jump shot,140,215,26,1,3.0,3.0,v
+S2425-G0029,4,02:10,MIL,120.0,IND,112.0,T. Haliburton,IND,Haliburton 27' 3PT Step Back Jump Shot (18 PTS) (Walker 2 AST),Made Shot,Step Back Jump shot,-175,212,27,1,3.0,3.0,v
+S2425-G0029,4,01:40,MIL,,IND,,T. Haliburton,IND,MISS Haliburton 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,121,222,25,1,3.0,0.0,v
+S2425-G0029,4,01:33,MIL,,IND,,T. Haliburton,IND,SUB: Newton FOR Haliburton,Substitution,,0,0,0,0,,,v
+S2425-G0009,1,11:31,IND,,MIA,,T. Haliburton,IND,MISS Haliburton 28' 3PT Jump Shot,Missed Shot,Jump Shot,228,154,28,1,3.0,0.0,h
+S2425-G0009,1,11:12,IND,,MIA,,T. Haliburton,IND,Haliburton REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0009,1,10:34,IND,,MIA,,T. Haliburton,IND,MISS Haliburton 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,62,264,27,1,3.0,0.0,h
+S2425-G0009,1,09:55,IND,,MIA,,T. Haliburton,IND,MISS Haliburton 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-76,179,19,1,2.0,0.0,h
+S2425-G0009,1,08:33,IND,8.0,MIA,6.0,T. Haliburton,IND,Haliburton 29' 3PT Jump Shot (3 PTS) (Sheppard 1 AST),Made Shot,Jump Shot,-190,217,29,1,3.0,3.0,h
+S2425-G0009,1,07:26,IND,,MIA,,T. Haliburton,IND,Haliburton REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0009,1,07:03,IND,,MIA,,T. Haliburton,IND,MISS Haliburton 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,44,101,11,1,2.0,0.0,h
+S2425-G0009,1,06:14,IND,10.0,MIA,11.0,T. Haliburton,IND,Haliburton 21' Pullup Jump Shot (5 PTS) (Turner 1 AST),Made Shot,Pullup Jump shot,115,174,21,1,2.0,2.0,h
+S2425-G0009,1,04:40,IND,18.0,MIA,18.0,T. Haliburton,IND,Haliburton 25' 3PT Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,50,247,25,1,3.0,3.0,h
+S2425-G0009,1,04:04,IND,,MIA,,T. Haliburton,IND,Haliburton S.FOUL (P1.T3) (B.Adair),Foul,Shooting,0,0,0,0,,,h
+S2425-G0009,1,02:47,IND,,MIA,,T. Haliburton,IND,SUB: Siakam FOR Haliburton,Substitution,,0,0,0,0,,,h
+S2425-G0009,2,07:20,IND,40.0,MIA,45.0,T. Haliburton,IND,Haliburton 27' 3PT Jump Shot (11 PTS) (Walker 3 AST),Made Shot,Jump Shot,-138,236,27,1,3.0,3.0,h
+S2425-G0009,2,02:26,IND,53.0,MIA,58.0,T. Haliburton,IND,Haliburton 27' 3PT Jump Shot (14 PTS) (Siakam 1 AST),Made Shot,Jump Shot,129,241,27,1,3.0,3.0,h
+S2425-G0009,2,01:42,IND,,MIA,,T. Haliburton,IND,MISS Haliburton 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,151,239,28,1,3.0,0.0,h
+S2425-G0009,2,01:28,IND,,MIA,,T. Haliburton,IND,Haliburton Out of Bounds - Bad Pass Turnover Turnover (P1.T8),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0009,2,00:54.200000,IND,,MIA,,T. Haliburton,IND,MISS Haliburton 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-118,232,26,1,3.0,0.0,h
+S2425-G0009,2,00:06,IND,,MIA,,T. Haliburton,IND,Haliburton STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0009,2,00:00.300000,IND,55.0,MIA,61.0,T. Haliburton,IND,Haliburton 3' Running Layup (16 PTS),Made Shot,Running Layup Shot,25,10,3,1,2.0,2.0,h
+S2425-G0009,3,09:22,IND,59.0,MIA,68.0,T. Haliburton,IND,Haliburton 10' Driving Floating Jump Shot (18 PTS) (Sheppard 4 AST),Made Shot,Driving Floating Jump Shot,2,95,10,1,2.0,2.0,h
+S2425-G0009,3,07:02,IND,,MIA,,T. Haliburton,IND,SUB: Toppin FOR Haliburton,Substitution,,0,0,0,0,,,h
+S2425-G0009,4,10:17,IND,,MIA,,T. Haliburton,IND,MISS Haliburton 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,107,252,27,1,3.0,0.0,h
+S2425-G0009,4,05:58,IND,,MIA,,T. Haliburton,IND,SUB: Freeman FOR Haliburton,Substitution,,0,0,0,0,,,h
 S2425-G0119,1,11:38,IND,,BOS,,T. Haliburton,IND,Haliburton REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
 S2425-G0119,1,06:50,IND,,BOS,,T. Haliburton,IND,Haliburton P.FOUL (P1.T1) (K.Cutler),Foul,Personal,0,0,0,0,,,h
 S2425-G0119,1,06:04,IND,19.0,BOS,13.0,T. Haliburton,IND,Haliburton Free Throw 1 of 1 (1 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
@@ -129,6 +265,27 @@ S2425-G0119,5,04:02,IND,,BOS,,T. Haliburton,IND,Haliburton REBOUND (Off:0 Def:6)
 S2425-G0119,5,01:09,IND,,BOS,,T. Haliburton,IND,Haliburton S.FOUL (P5.T3) (M.Myers),Foul,Shooting,0,0,0,0,,,h
 S2425-G0119,5,00:36,IND,,BOS,,T. Haliburton,IND,SUB: Sheppard FOR Haliburton,Substitution,,0,0,0,0,,,h
 S2425-G0119,5,00:06.100000,IND,,BOS,,T. Haliburton,IND,SUB: McConnell FOR Haliburton,Substitution,,0,0,0,0,,,h
+S2425-G0138,1,09:07,NOP,,IND,,T. Haliburton,IND,Haliburton Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0138,1,08:07,NOP,,IND,,T. Haliburton,IND,MISS Haliburton 28' 3PT Jump Shot,Missed Shot,Jump Shot,22,277,28,1,3.0,0.0,v
+S2425-G0138,1,04:48,NOP,22.0,IND,23.0,T. Haliburton,IND,Haliburton 19' Pullup Jump Shot (2 PTS) (Siakam 3 AST),Made Shot,Pullup Jump shot,91,163,19,1,2.0,2.0,v
+S2425-G0138,1,02:26,NOP,29.0,IND,30.0,T. Haliburton,IND,Haliburton 26' 3PT Step Back Jump Shot (5 PTS),Made Shot,Step Back Jump shot,-189,180,26,1,3.0,3.0,v
+S2425-G0138,1,01:44,NOP,,IND,,T. Haliburton,IND,Haliburton REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0138,1,01:23,NOP,,IND,,T. Haliburton,IND,MISS Haliburton 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,116,244,27,1,3.0,0.0,v
+S2425-G0138,1,00:21.900000,NOP,,IND,,T. Haliburton,IND,Haliburton Bad Pass Turnover (P2.T6),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0138,2,01:30,NOP,,IND,,T. Haliburton,IND,Haliburton P.FOUL (P1.T4) (Z.Zarba),Foul,Personal,0,0,0,0,,,v
+S2425-G0138,2,00:47,NOP,,IND,,T. Haliburton,IND,MISS Haliburton 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-4,17,2,1,2.0,0.0,v
+S2425-G0138,2,00:00.600000,NOP,,IND,,T. Haliburton,IND,MISS Haliburton 60' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,116,585,60,1,3.0,0.0,v
+S2425-G0138,3,11:14,NOP,,IND,,T. Haliburton,IND,MISS Haliburton 27' 3PT Jump Shot,Missed Shot,Jump Shot,138,231,27,1,3.0,0.0,v
+S2425-G0138,3,07:34,NOP,72.0,IND,65.0,T. Haliburton,IND,Haliburton Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0138,3,07:34,NOP,72.0,IND,66.0,T. Haliburton,IND,Haliburton Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0138,3,05:41,NOP,76.0,IND,72.0,T. Haliburton,IND,Haliburton Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0138,3,05:41,NOP,76.0,IND,73.0,T. Haliburton,IND,Haliburton Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0138,3,04:05,NOP,,IND,,T. Haliburton,IND,Haliburton REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0138,3,03:33,NOP,,IND,,T. Haliburton,IND,Haliburton S.FOUL (P2.T3) (Z.Zarba),Foul,Shooting,0,0,0,0,,,v
+S2425-G0138,3,02:41,NOP,,IND,,T. Haliburton,IND,SUB: Mathurin FOR Haliburton,Substitution,,0,0,0,0,,,v
+S2425-G0138,4,01:17,NOP,,IND,,T. Haliburton,IND,MISS Haliburton 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,216,162,27,1,3.0,0.0,v
+S2425-G0138,4,00:30.400000,NOP,123.0,IND,117.0,T. Haliburton,IND,Haliburton Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0138,4,00:30.400000,NOP,123.0,IND,118.0,T. Haliburton,IND,Haliburton Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
 S2425-G0102,1,10:50,ORL,,IND,,T. Haliburton,IND,Haliburton REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
 S2425-G0102,1,10:45,ORL,,IND,,T. Haliburton,IND,MISS Haliburton 27' 3PT Jump Shot,Missed Shot,Jump Shot,-12,267,27,1,3.0,0.0,v
 S2425-G0102,1,09:31,ORL,,IND,,T. Haliburton,IND,Haliburton STEAL (1 STL),,,0,0,0,0,,,v
@@ -164,3 +321,37 @@ S2425-G0102,3,00:11.800000,ORL,,IND,,T. Haliburton,IND,SUB: Nembhard FOR Halibur
 S2425-G0102,4,01:37,ORL,,IND,,T. Haliburton,IND,MISS Haliburton 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-151,122,19,1,2.0,0.0,v
 S2425-G0102,4,00:52.800000,ORL,115.0,IND,115.0,T. Haliburton,IND,Haliburton 28' 3PT Step Back Jump Shot (19 PTS) (Nembhard 7 AST),Made Shot,Step Back Jump shot,134,247,28,1,3.0,3.0,v
 S2425-G0102,4,00:10.300000,ORL,,IND,,T. Haliburton,IND,SUB: Toppin FOR Haliburton,Substitution,,0,0,0,0,,,v
+S2425-G0165,1,09:35,DAL,,IND,,T. Haliburton,IND,Haliburton STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0165,1,08:39,DAL,2.0,IND,13.0,T. Haliburton,IND,Haliburton 29' 3PT Pullup Jump Shot (3 PTS) (Siakam 2 AST),Made Shot,Pullup Jump shot,132,260,29,1,3.0,3.0,v
+S2425-G0165,1,07:00,DAL,,IND,,T. Haliburton,IND,Haliburton S.FOUL (P1.T2) (R.Acosta),Foul,Shooting,0,0,0,0,,,v
+S2425-G0165,1,06:21,DAL,,IND,,T. Haliburton,IND,Haliburton Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0165,1,02:22,DAL,,IND,,T. Haliburton,IND,SUB: Walker FOR Haliburton,Substitution,,0,0,0,0,,,v
+S2425-G0165,2,06:40,DAL,,IND,,T. Haliburton,IND,MISS Haliburton 27' 3PT Jump Shot,Missed Shot,Jump Shot,-1,269,27,1,3.0,0.0,v
+S2425-G0165,2,06:30,DAL,,IND,,T. Haliburton,IND,MISS Haliburton 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,134,207,25,1,3.0,0.0,v
+S2425-G0165,2,05:55,DAL,,IND,,T. Haliburton,IND,Haliburton STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0165,2,04:39,DAL,47.0,IND,49.0,T. Haliburton,IND,Haliburton 2' Finger Roll Layup (5 PTS),Made Shot,Finger Roll Layup Shot,17,1,2,1,2.0,2.0,v
+S2425-G0165,2,03:00,DAL,,IND,,T. Haliburton,IND,MISS Haliburton Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0165,2,03:00,DAL,51.0,IND,53.0,T. Haliburton,IND,Haliburton Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0165,2,01:54,DAL,,IND,,T. Haliburton,IND,MISS Haliburton 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,163,202,26,1,3.0,0.0,v
+S2425-G0165,2,00:00.200000,DAL,59.0,IND,63.0,T. Haliburton,IND,Haliburton 1' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,0,6,1,1,2.0,2.0,v
+S2425-G0165,3,11:29,DAL,62.0,IND,65.0,T. Haliburton,IND,Haliburton 2' Driving Layup (10 PTS) (Mathurin 1 AST),Made Shot,Driving Layup Shot,17,9,2,1,2.0,2.0,v
+S2425-G0165,3,10:12,DAL,,IND,,T. Haliburton,IND,Haliburton Out of Bounds - Bad Pass Turnover Turnover (P2.T7),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0165,3,09:57,DAL,,IND,,T. Haliburton,IND,Haliburton BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0165,3,09:10,DAL,,IND,,T. Haliburton,IND,Haliburton REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0165,3,08:58,DAL,67.0,IND,73.0,T. Haliburton,IND,Haliburton 9' Driving Floating Jump Shot (12 PTS),Made Shot,Driving Floating Jump Shot,-29,88,9,1,2.0,2.0,v
+S2425-G0165,3,08:58,DAL,67.0,IND,74.0,T. Haliburton,IND,Haliburton Free Throw 1 of 1 (13 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0165,3,05:32,DAL,,IND,,T. Haliburton,IND,Haliburton REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0165,3,03:35,DAL,86.0,IND,91.0,T. Haliburton,IND,Haliburton 6' Driving Finger Roll Layup (15 PTS) (Toppin 2 AST),Made Shot,Driving Finger Roll Layup Shot,18,60,6,1,2.0,2.0,v
+S2425-G0165,3,03:10,DAL,86.0,IND,94.0,T. Haliburton,IND,Haliburton 29' 3PT Pullup Jump Shot (18 PTS),Made Shot,Pullup Jump shot,65,284,29,1,3.0,3.0,v
+S2425-G0165,3,02:06,DAL,,IND,,T. Haliburton,IND,MISS Haliburton 29' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,107,269,29,1,3.0,0.0,v
+S2425-G0165,3,01:31,DAL,,IND,,T. Haliburton,IND,SUB: Nembhard FOR Haliburton,Substitution,,0,0,0,0,,,v
+S2425-G0165,3,00:00.500000,DAL,,IND,,T. Haliburton,IND,Haliburton REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0165,3,00:00.400000,DAL,,IND,,T. Haliburton,IND,MISS Haliburton 54' 3PT Jump Shot,Missed Shot,Jump Shot,13,535,54,1,3.0,0.0,v
+S2425-G0165,4,06:43,DAL,,IND,,T. Haliburton,IND,MISS Haliburton 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,34,247,25,1,3.0,0.0,v
+S2425-G0165,4,06:13,DAL,114.0,IND,116.0,T. Haliburton,IND,Haliburton 8' Driving Floating Jump Shot (20 PTS),Made Shot,Driving Floating Jump Shot,28,80,8,1,2.0,2.0,v
+S2425-G0165,4,06:13,DAL,,IND,,T. Haliburton,IND,MISS Haliburton Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2425-G0165,4,02:59,DAL,118.0,IND,126.0,T. Haliburton,IND,Haliburton 12' Pullup Jump Shot (22 PTS),Made Shot,Pullup Jump shot,99,74,12,1,2.0,2.0,v
+S2425-G0165,4,01:47,DAL,,IND,,T. Haliburton,IND,MISS Haliburton Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0165,4,01:47,DAL,120.0,IND,130.0,T. Haliburton,IND,Haliburton Free Throw 2 of 2 (23 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0165,4,00:50.800000,DAL,125.0,IND,132.0,T. Haliburton,IND,Haliburton 17' Pullup Jump Shot (25 PTS),Made Shot,Pullup Jump shot,21,167,17,1,2.0,2.0,v
+S2425-G0165,4,00:35,DAL,,IND,,T. Haliburton,IND,Haliburton REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v

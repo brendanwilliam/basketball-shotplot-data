@@ -1,0 +1,27 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0193,2,03:31,MIN,,POR,,J. Minott,MIN,Minott S.FOUL (P1.PN) (J.Schroeder),Foul,Shooting,0,0,0,0,,,h
+S2425-G0193,2,03:31,MIN,,POR,,J. Minott,MIN,SUB: Conley FOR Minott,Substitution,,0,0,0,0,,,h
+S2425-G0193,4,05:13,MIN,,POR,,J. Minott,MIN,MISS Minott 3PT Jump Shot,Missed Shot,Jump Shot,-230,-6,0,1,3.0,0.0,h
+S2425-G0193,4,02:19,MIN,119.0,POR,93.0,J. Minott,MIN,Minott 2' Running Layup (2 PTS) (Dillingham 2 AST),Made Shot,Running Layup Shot,-12,13,2,1,2.0,2.0,h
+S2425-G0193,4,01:44,MIN,,POR,,J. Minott,MIN,Minott BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0146,1,01:38,SAS,,MIN,,J. Minott,MIN,Minott S.FOUL (P1.T3) (R.Acosta),Foul,Shooting,0,0,0,0,,,v
+S2425-G0146,1,01:25,SAS,,MIN,,J. Minott,MIN,MISS Minott 3PT Jump Shot,Missed Shot,Jump Shot,-229,8,0,1,3.0,0.0,v
+S2425-G0146,1,00:56.700000,SAS,,MIN,,J. Minott,MIN,MISS Minott 3PT Jump Shot,Missed Shot,Jump Shot,-233,1,0,1,3.0,0.0,v
+S2425-G0146,4,08:22,SAS,,MIN,,J. Minott,MIN,Minott REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0146,4,08:11,SAS,,MIN,,J. Minott,MIN,Minott Bad Pass Turnover (P1.T13),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0146,4,07:29,SAS,,MIN,,J. Minott,MIN,Minott S.FOUL (P2.T3) (D.Scott),Foul,Shooting,0,0,0,0,,,v
+S2425-G0146,4,06:45,SAS,,MIN,,J. Minott,MIN,Minott REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0146,4,06:36,SAS,102.0,MIN,91.0,J. Minott,MIN,Minott 1' Driving Finger Roll Layup (2 PTS) (Randle 2 AST),Made Shot,Driving Finger Roll Layup Shot,2,5,1,1,2.0,2.0,v
+S2425-G0146,4,06:36,SAS,,MIN,,J. Minott,MIN,SUB: Reid FOR Minott,Substitution,,0,0,0,0,,,v
+S2425-G0146,4,00:06.600000,SAS,113.0,MIN,103.0,J. Minott,MIN,Minott Running Dunk (4 PTS) (Dillingham 2 AST),Made Shot,Running Dunk Shot,1,4,0,1,2.0,2.0,v
+S2425-G0008,2,05:56,POR,,MIN,,J. Minott,MIN,Minott P.FOUL (P1.T4) (D.Richardson),Foul,Personal,0,0,0,0,,,v
+S2425-G0008,2,05:56,POR,,MIN,,J. Minott,MIN,SUB: Edwards FOR Minott,Substitution,,0,0,0,0,,,v
+S2425-G0181,4,01:32,CHI,,MIN,,J. Minott,MIN,Minott P.FOUL (P1.PN) (B.Adair),Foul,Personal,0,0,0,0,,,v
+S2425-G0181,4,01:08,CHI,,MIN,,J. Minott,MIN,Minott REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0181,4,01:03,CHI,,MIN,,J. Minott,MIN,Minott Lost Ball Turnover (P1.T14),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0162,4,06:48,MIN,,CHA,,J. Minott,MIN,Minott OFF.Foul (P1) (G.Petraitis),Foul,Offensive,0,0,0,0,,,h
+S2425-G0162,4,06:48,MIN,,CHA,,J. Minott,MIN,Minott Offensive Foul Turnover (P1.T11),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0162,4,06:28,MIN,,CHA,,J. Minott,MIN,Minott REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0162,4,05:01,MIN,,CHA,,J. Minott,MIN,MISS Minott Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0162,4,05:01,MIN,108.0,CHA,79.0,J. Minott,MIN,Minott Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0162,4,01:31,MIN,,CHA,,J. Minott,MIN,Minott BLOCK (1 BLK),,,0,0,0,0,,,h

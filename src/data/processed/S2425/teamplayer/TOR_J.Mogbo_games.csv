@@ -1,4 +1,21 @@
 game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0166,1,05:09,DEN,,TOR,,J. Mogbo,TOR,Mogbo REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0166,1,00:26,DEN,,TOR,,J. Mogbo,TOR,MISS Mogbo 2' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,2,17,2,1,2.0,0.0,v
+S2425-G0166,2,10:28,DEN,,TOR,,J. Mogbo,TOR,Mogbo REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0166,2,09:58,DEN,,TOR,,J. Mogbo,TOR,MISS Mogbo 3' Running Layup,Missed Shot,Running Layup Shot,-27,8,3,1,2.0,0.0,v
+S2425-G0166,2,09:50,DEN,,TOR,,J. Mogbo,TOR,Mogbo L.B.FOUL (P1.T1) (M.Kogut),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0166,2,07:39,DEN,,TOR,,J. Mogbo,TOR,SUB: Agbaji FOR Mogbo,Substitution,,0,0,0,0,,,v
+S2425-G0166,3,02:37,DEN,,TOR,,J. Mogbo,TOR,Mogbo REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0166,3,02:16,DEN,,TOR,,J. Mogbo,TOR,MISS Mogbo Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0166,3,02:16,DEN,,TOR,,J. Mogbo,TOR,MISS Mogbo Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0166,3,01:18,DEN,,TOR,,J. Mogbo,TOR,Mogbo REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0166,4,08:33,DEN,92.0,TOR,98.0,J. Mogbo,TOR,Mogbo 2' Driving Layup (2 PTS) (Dick 4 AST),Made Shot,Driving Layup Shot,15,6,2,1,2.0,2.0,v
+S2425-G0166,4,08:21,DEN,,TOR,,J. Mogbo,TOR,Raptors T.Foul (Def. 3 Sec Mogbo ) (M.Myers),Foul,Defense 3 Second,0,0,0,0,,,v
+S2425-G0166,4,08:21,DEN,,TOR,,J. Mogbo,TOR,SUB: Pöltl FOR Mogbo,Substitution,,0,0,0,0,,,v
+S2425-G0166,4,03:28,DEN,,TOR,,J. Mogbo,TOR,Mogbo REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0166,4,03:19,DEN,,TOR,,J. Mogbo,TOR,Mogbo P.FOUL (P2.PN) (M.Myers),Foul,Personal,0,0,0,0,,,v
+S2425-G0166,4,02:52,DEN,110.0,TOR,115.0,J. Mogbo,TOR,Mogbo 2' Cutting Dunk Shot (4 PTS) (Barrett 9 AST),Made Shot,Cutting Dunk Shot,-13,16,2,1,2.0,2.0,v
+S2425-G0166,4,00:21.700000,DEN,,TOR,,J. Mogbo,TOR,Mogbo REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
 S2425-G0078,1,00:28.200000,TOR,,PHI,,J. Mogbo,TOR,SUB: Dick FOR Mogbo,Substitution,,0,0,0,0,,,h
 S2425-G0078,2,11:14,TOR,,PHI,,J. Mogbo,TOR,Mogbo BLOCK (1 BLK),,,0,0,0,0,,,h
 S2425-G0078,2,11:12,TOR,,PHI,,J. Mogbo,TOR,Mogbo REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
@@ -51,6 +68,15 @@ S2425-G0107,2,01:07,TOR,60.0,DEN,53.0,J. Mogbo,TOR,Mogbo Free Throw 2 of 2 (6 PT
 S2425-G0107,2,00:52.900000,TOR,,DEN,,J. Mogbo,TOR,Mogbo REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
 S2425-G0107,4,09:56,TOR,,DEN,,J. Mogbo,TOR,Mogbo S.FOUL (P2.T1) (S.Mitchell),Foul,Shooting,0,0,0,0,,,h
 S2425-G0107,4,09:32,TOR,,DEN,,J. Mogbo,TOR,SUB: Mitchell FOR Mogbo,Substitution,,0,0,0,0,,,h
+S2425-G0005,1,02:10,MIL,,TOR,,J. Mogbo,TOR,Mogbo REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0005,1,00:45.200000,MIL,,TOR,,J. Mogbo,TOR,MISS Mogbo 3' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,25,5,3,1,2.0,0.0,v
+S2425-G0005,2,11:18,MIL,,TOR,,J. Mogbo,TOR,Mogbo BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0005,2,10:49,MIL,,TOR,,J. Mogbo,TOR,Mogbo OFF.Foul (P1) (R.Mott),Foul,Offensive,0,0,0,0,,,v
+S2425-G0005,2,10:49,MIL,,TOR,,J. Mogbo,TOR,Mogbo Offensive Foul Turnover (P1.T7),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0005,2,10:49,MIL,,TOR,,J. Mogbo,TOR,SUB: Pöltl FOR Mogbo,Substitution,,0,0,0,0,,,v
+S2425-G0005,3,01:18,MIL,,TOR,,J. Mogbo,TOR,Mogbo REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0005,4,10:30,MIL,,TOR,,J. Mogbo,TOR,SUB: Pöltl FOR Mogbo,Substitution,,0,0,0,0,,,v
+S2425-G0005,4,00:17.400000,MIL,,TOR,,J. Mogbo,TOR,Mogbo STEAL (1 STL),,,0,0,0,0,,,v
 S2425-G0117,1,10:46,CHA,,TOR,,J. Mogbo,TOR,Mogbo BLOCK (1 BLK),,,0,0,0,0,,,v
 S2425-G0117,1,07:16,CHA,9.0,TOR,7.0,J. Mogbo,TOR,Mogbo 1' Running Alley Oop Dunk Shot (2 PTS) (Barrett 2 AST),Made Shot,Running Alley Oop Dunk Shot,2,13,1,1,2.0,2.0,v
 S2425-G0117,1,06:18,CHA,,TOR,,J. Mogbo,TOR,MISS Mogbo 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1,104,10,1,2.0,0.0,v
@@ -74,6 +100,17 @@ S2425-G0117,3,06:45,CHA,,TOR,,J. Mogbo,TOR,SUB: Agbaji FOR Mogbo,Substitution,,0
 S2425-G0117,4,06:43,CHA,,TOR,,J. Mogbo,TOR,Mogbo BLOCK (2 BLK),,,0,0,0,0,,,v
 S2425-G0117,4,05:32,CHA,,TOR,,J. Mogbo,TOR,Mogbo S.FOUL (P2.T4) (T.Ford),Foul,Shooting,0,0,0,0,,,v
 S2425-G0117,4,02:56,CHA,,TOR,,J. Mogbo,TOR,SUB: Pöltl FOR Mogbo,Substitution,,0,0,0,0,,,v
+S2425-G0011,2,11:14,TOR,,DET,,J. Mogbo,TOR,MISS Mogbo 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,22,25,3,1,2.0,0.0,h
+S2425-G0011,2,07:00,TOR,,DET,,J. Mogbo,TOR,MISS Mogbo 13' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,130,28,13,1,2.0,0.0,h
+S2425-G0011,2,06:18,TOR,,DET,,J. Mogbo,TOR,MISS Mogbo 25' 3PT Jump Shot,Missed Shot,Jump Shot,-137,215,25,1,3.0,0.0,h
+S2425-G0011,2,05:08,TOR,,DET,,J. Mogbo,TOR,Mogbo REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0011,2,04:11,TOR,,DET,,J. Mogbo,TOR,Mogbo REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0011,2,03:26,TOR,,DET,,J. Mogbo,TOR,Mogbo STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0011,2,02:09,TOR,,DET,,J. Mogbo,TOR,SUB: Barrett FOR Mogbo,Substitution,,0,0,0,0,,,h
+S2425-G0011,4,10:06,TOR,,DET,,J. Mogbo,TOR,Mogbo REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0011,4,09:25,TOR,,DET,,J. Mogbo,TOR,Mogbo REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0011,4,09:22,TOR,,DET,,J. Mogbo,TOR,Mogbo Bad Pass Turnover (P1.T13),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0011,4,08:18,TOR,,DET,,J. Mogbo,TOR,SUB: Dick FOR Mogbo,Substitution,,0,0,0,0,,,h
 S2425-G0093,2,10:24,MIN,,TOR,,J. Mogbo,TOR,Mogbo Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,v
 S2425-G0093,2,10:13,MIN,,TOR,,J. Mogbo,TOR,Mogbo S.FOUL (P1.T2) (D.Scott),Foul,Shooting,0,0,0,0,,,v
 S2425-G0093,2,09:37,MIN,,TOR,,J. Mogbo,TOR,Mogbo REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
@@ -95,3 +132,57 @@ S2425-G0067,4,04:45,TOR,98.0,CLE,123.0,J. Mogbo,TOR,Mogbo Free Throw 2 of 2 (5 P
 S2425-G0067,4,04:17,TOR,100.0,CLE,124.0,J. Mogbo,TOR,Mogbo 1' Cutting Layup Shot (7 PTS) (Temple 2 AST),Made Shot,Cutting Layup Shot,2,6,1,1,2.0,2.0,h
 S2425-G0067,4,01:55,TOR,,CLE,,J. Mogbo,TOR,MISS Mogbo 5' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-5,53,5,1,2.0,0.0,h
 S2425-G0067,4,01:26,TOR,,CLE,,J. Mogbo,TOR,MISS Mogbo 26' 3PT Jump Shot,Missed Shot,Jump Shot,-186,179,26,1,3.0,0.0,h
+S2425-G0180,1,00:04.700000,SAC,,TOR,,J. Mogbo,TOR,Mogbo STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0180,1,00:02.500000,SAC,,TOR,,J. Mogbo,TOR,Mogbo REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0180,1,00:02.500000,SAC,30.0,TOR,33.0,J. Mogbo,TOR,Mogbo 2' Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,-1,24,2,1,2.0,2.0,v
+S2425-G0180,2,10:17,SAC,,TOR,,J. Mogbo,TOR,Mogbo REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0180,2,07:28,SAC,,TOR,,J. Mogbo,TOR,SUB: Pöltl FOR Mogbo,Substitution,,0,0,0,0,,,v
+S2425-G0180,2,06:13,SAC,,TOR,,J. Mogbo,TOR,Mogbo REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0180,2,06:10,SAC,38.0,TOR,43.0,J. Mogbo,TOR,Mogbo 7' Floating Jump Shot (4 PTS),Made Shot,Floating Jump shot,-64,19,7,1,2.0,2.0,v
+S2425-G0180,2,04:46,SAC,,TOR,,J. Mogbo,TOR,Mogbo REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0180,2,03:23,SAC,,TOR,,J. Mogbo,TOR,Mogbo P.FOUL (P1.PN) (C.Washington),Foul,Personal,0,0,0,0,,,v
+S2425-G0180,2,03:23,SAC,,TOR,,J. Mogbo,TOR,SUB: Boucher FOR Mogbo,Substitution,,0,0,0,0,,,v
+S2425-G0180,2,00:40.100000,SAC,,TOR,,J. Mogbo,TOR,Mogbo Out of Bounds - Bad Pass Turnover Turnover (P1.T5),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0180,3,06:40,SAC,,TOR,,J. Mogbo,TOR,Mogbo S.FOUL (P2.PN) (E.Malloy),Foul,Shooting,0,0,0,0,,,v
+S2425-G0180,3,05:56,SAC,,TOR,,J. Mogbo,TOR,SUB: Barrett FOR Mogbo,Substitution,,0,0,0,0,,,v
+S2425-G0180,3,00:09.800000,SAC,,TOR,,J. Mogbo,TOR,Mogbo REBOUND (Off:4 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0180,3,00:09.800000,SAC,89.0,TOR,93.0,J. Mogbo,TOR,Mogbo Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0180,3,00:09.800000,SAC,,TOR,,J. Mogbo,TOR,MISS Mogbo Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0180,4,11:34,SAC,,TOR,,J. Mogbo,TOR,MISS Mogbo 26' 3PT Jump Shot,Missed Shot,Jump Shot,-109,238,26,1,3.0,0.0,v
+S2425-G0180,4,09:21,SAC,,TOR,,J. Mogbo,TOR,Mogbo S.FOUL (P3.T1) (C.Washington),Foul,Shooting,0,0,0,0,,,v
+S2425-G0180,4,09:21,SAC,,TOR,,J. Mogbo,TOR,SUB: Pöltl FOR Mogbo,Substitution,,0,0,0,0,,,v
+S2425-G0143,1,01:36,TOR,,SAC,,J. Mogbo,TOR,Mogbo S.FOUL (P1.PN) (C.Flores),Foul,Shooting,0,0,0,0,,,h
+S2425-G0143,1,01:02,TOR,,SAC,,J. Mogbo,TOR,Mogbo S.FOUL (P2.PN) (J.Van Duyne),Foul,Shooting,0,0,0,0,,,h
+S2425-G0143,1,00:53.100000,TOR,,SAC,,J. Mogbo,TOR,MISS Mogbo Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0143,1,00:53.100000,TOR,33.0,SAC,27.0,J. Mogbo,TOR,Mogbo Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0143,1,00:08.200000,TOR,,SAC,,J. Mogbo,TOR,Mogbo REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0143,1,00:08.200000,TOR,,SAC,,J. Mogbo,TOR,MISS Mogbo Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0143,1,00:08.200000,TOR,37.0,SAC,29.0,J. Mogbo,TOR,Mogbo Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0143,2,10:55,TOR,,SAC,,J. Mogbo,TOR,Mogbo REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0143,2,10:54,TOR,42.0,SAC,32.0,J. Mogbo,TOR,Mogbo 1' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,-5,10,1,1,2.0,2.0,h
+S2425-G0143,2,10:35,TOR,,SAC,,J. Mogbo,TOR,Mogbo REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0143,2,09:32,TOR,,SAC,,J. Mogbo,TOR,Mogbo Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0143,2,09:30,TOR,,SAC,,J. Mogbo,TOR,Mogbo P.FOUL (P3.T2) (C.Flores),Foul,Personal,0,0,0,0,,,h
+S2425-G0143,2,09:24,TOR,,SAC,,J. Mogbo,TOR,Mogbo P.FOUL (P4.T3) (C.Flores),Foul,Personal,0,0,0,0,,,h
+S2425-G0143,2,09:24,TOR,,SAC,,J. Mogbo,TOR,SUB: Pöltl FOR Mogbo,Substitution,,0,0,0,0,,,h
+S2425-G0143,3,02:01,TOR,,SAC,,J. Mogbo,TOR,Mogbo REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0143,3,01:54,TOR,,SAC,,J. Mogbo,TOR,Mogbo REBOUND (Off:4 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0143,3,01:29,TOR,,SAC,,J. Mogbo,TOR,Mogbo STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0143,3,01:29,TOR,,SAC,,J. Mogbo,TOR,Mogbo Lost Ball Turnover (P2.T14),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0143,3,00:02.100000,TOR,,SAC,,J. Mogbo,TOR,Mogbo REBOUND (Off:5 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0143,3,00:00.200000,TOR,,SAC,,J. Mogbo,TOR,MISS Mogbo Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2425-G0143,4,10:32,TOR,,SAC,,J. Mogbo,TOR,Mogbo Lost Ball Turnover (P3.T16),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0143,4,10:13,TOR,98.0,SAC,92.0,J. Mogbo,TOR,Mogbo 1' Driving Dunk (6 PTS),Made Shot,Driving Dunk Shot,-6,-4,1,1,2.0,2.0,h
+S2425-G0143,4,08:56,TOR,,SAC,,J. Mogbo,TOR,SUB: Pöltl FOR Mogbo,Substitution,,0,0,0,0,,,h
+S2425-G0143,4,02:24,TOR,,SAC,,J. Mogbo,TOR,Mogbo BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0143,4,02:19,TOR,,SAC,,J. Mogbo,TOR,Jump Ball Mogbo vs. Sabonis: Tip to DeRozan,Jump Ball,,0,0,0,0,,,h
+S2425-G0143,4,01:40,TOR,,SAC,,J. Mogbo,TOR,Mogbo S.FOUL (P5.PN) (C.Flores),Foul,Shooting,0,0,0,0,,,h
+S2425-G0143,5,05:00,TOR,,SAC,,J. Mogbo,TOR,Jump Ball Mogbo vs. Sabonis: Tip to Monk,Jump Ball,,0,0,0,0,,,h
+S2425-G0143,5,02:56,TOR,,SAC,,J. Mogbo,TOR,Mogbo S.FOUL (P6.T1) (C.Flores),Foul,Shooting,0,0,0,0,,,h
+S2425-G0143,5,02:56,TOR,,SAC,,J. Mogbo,TOR,SUB: Agbaji FOR Mogbo,Substitution,,0,0,0,0,,,h
+S2425-G0200,1,02:44,LAC,,TOR,,J. Mogbo,TOR,Mogbo REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0200,1,01:46,LAC,,TOR,,J. Mogbo,TOR,Mogbo Traveling Turnover (P1.T2),Turnover,Traveling,0,0,0,0,,,v
+S2425-G0200,3,01:53,LAC,,TOR,,J. Mogbo,TOR,Mogbo STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0200,3,00:35.400000,LAC,,TOR,,J. Mogbo,TOR,Mogbo REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0200,3,00:03.400000,LAC,,TOR,,J. Mogbo,TOR,Mogbo P.FOUL (P1.PN) (N.Buchert),Foul,Personal,0,0,0,0,,,v
+S2425-G0200,3,00:03.400000,LAC,,TOR,,J. Mogbo,TOR,SUB: Dick FOR Mogbo,Substitution,,0,0,0,0,,,v

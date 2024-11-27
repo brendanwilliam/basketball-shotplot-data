@@ -1,4 +1,109 @@
 game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0003,1,05:39,ORL,,CHA,,B. Miller,CHA,MISS Miller 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-25,28,4,1,2.0,0.0,v
+S2425-G0003,1,05:25,ORL,,CHA,,B. Miller,CHA,SUB: Curry FOR Miller,Substitution,,0,0,0,0,,,v
+S2425-G0003,1,01:02,ORL,,CHA,,B. Miller,CHA,Miller Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0003,1,00:32.300000,ORL,,CHA,,B. Miller,CHA,MISS Miller 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,135,121,18,1,2.0,0.0,v
+S2425-G0003,1,00:14.400000,ORL,,CHA,,B. Miller,CHA,Miller STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0003,1,00:00.200000,ORL,,CHA,,B. Miller,CHA,MISS Miller 50' 3PT Floating Jump Shot,Missed Shot,Floating Jump shot,72,491,50,1,3.0,0.0,v
+S2425-G0003,2,11:06,ORL,33.0,CHA,31.0,B. Miller,CHA,Miller 14' Driving Floating Bank Jump Shot (2 PTS),Made Shot,Driving Floating Bank Jump Shot,59,130,14,1,2.0,2.0,v
+S2425-G0003,2,11:06,ORL,33.0,CHA,32.0,B. Miller,CHA,Miller Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0003,2,09:49,ORL,,CHA,,B. Miller,CHA,Miller OFF.Foul (P1) (T.Washington),Foul,Offensive,0,0,0,0,,,v
+S2425-G0003,2,09:49,ORL,,CHA,,B. Miller,CHA,Miller Offensive Foul Turnover (P2.T6),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0003,2,08:38,ORL,,CHA,,B. Miller,CHA,MISS Miller 27' 3PT Jump Shot,Missed Shot,Jump Shot,51,265,27,1,3.0,0.0,v
+S2425-G0003,2,05:57,ORL,,CHA,,B. Miller,CHA,MISS Miller 26' 3PT Jump Shot,Missed Shot,Jump Shot,-184,178,26,1,3.0,0.0,v
+S2425-G0003,2,05:37,ORL,,CHA,,B. Miller,CHA,Miller OFF.Foul (P2) (C.Washington),Foul,Offensive,0,0,0,0,,,v
+S2425-G0003,2,05:37,ORL,,CHA,,B. Miller,CHA,Miller Offensive Foul Turnover (P3.T8),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0003,2,05:37,ORL,,CHA,,B. Miller,CHA,SUB: Martin FOR Miller,Substitution,,0,0,0,0,,,v
+S2425-G0003,2,03:29,ORL,,CHA,,B. Miller,CHA,MISS Miller 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,-2,20,2,1,2.0,0.0,v
+S2425-G0003,3,11:38,ORL,58.0,CHA,49.0,B. Miller,CHA,Miller 6' Driving Floating Jump Shot (5 PTS),Made Shot,Driving Floating Jump Shot,-33,47,6,1,2.0,2.0,v
+S2425-G0003,3,08:16,ORL,,CHA,,B. Miller,CHA,MISS Miller 26' 3PT Jump Shot,Missed Shot,Jump Shot,135,222,26,1,3.0,0.0,v
+S2425-G0003,3,06:37,ORL,,CHA,,B. Miller,CHA,MISS Miller 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-99,234,25,1,3.0,0.0,v
+S2425-G0003,3,04:13,ORL,,CHA,,B. Miller,CHA,MISS Miller 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-147,200,25,1,3.0,0.0,v
+S2425-G0003,3,03:56,ORL,,CHA,,B. Miller,CHA,Miller STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0003,3,03:42,ORL,,CHA,,B. Miller,CHA,MISS Miller 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-15,106,11,1,2.0,0.0,v
+S2425-G0003,3,01:54,ORL,,CHA,,B. Miller,CHA,SUB: Gibson FOR Miller,Substitution,,0,0,0,0,,,v
+S2425-G0003,4,11:06,ORL,,CHA,,B. Miller,CHA,MISS Miller 5' Layup,Missed Shot,Layup Shot,-43,25,5,1,2.0,0.0,v
+S2425-G0003,4,10:13,ORL,,CHA,,B. Miller,CHA,Miller S.FOUL (P3.T2) (C.Washington),Foul,Shooting,0,0,0,0,,,v
+S2425-G0003,4,10:03,ORL,,CHA,,B. Miller,CHA,MISS Miller 27' 3PT Jump Shot,Missed Shot,Jump Shot,130,231,27,1,3.0,0.0,v
+S2425-G0003,4,09:02,ORL,,CHA,,B. Miller,CHA,MISS Miller 25' 3PT Jump Shot,Missed Shot,Jump Shot,-83,241,25,1,3.0,0.0,v
+S2425-G0003,4,08:43,ORL,,CHA,,B. Miller,CHA,Miller REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0003,4,07:32,ORL,,CHA,,B. Miller,CHA,Miller REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0003,4,07:22,ORL,,CHA,,B. Miller,CHA,Miller Lost Ball Turnover (P4.T20),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0003,4,07:18,ORL,,CHA,,B. Miller,CHA,SUB: Ball FOR Miller,Substitution,,0,0,0,0,,,v
+S2425-G0003,4,04:08,ORL,105.0,CHA,82.0,B. Miller,CHA,Miller 25' 3PT Pullup Jump Shot (8 PTS) (Green 1 AST),Made Shot,Pullup Jump shot,-108,227,25,1,3.0,3.0,v
+S2425-G0003,4,03:40,ORL,,CHA,,B. Miller,CHA,MISS Miller 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-54,252,26,1,3.0,0.0,v
+S2425-G0003,4,03:34,ORL,,CHA,,B. Miller,CHA,Miller Out of Bounds - Bad Pass Turnover Turnover (P5.T22),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0003,4,02:19,ORL,,CHA,,B. Miller,CHA,MISS Miller 24' 3PT Jump Shot,Missed Shot,Jump Shot,-225,84,24,1,3.0,0.0,v
+S2425-G0003,4,02:06,ORL,,CHA,,B. Miller,CHA,Miller REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0003,4,01:58,ORL,,CHA,,B. Miller,CHA,SUB: Smith Jr. FOR Miller,Substitution,,0,0,0,0,,,v
+S2425-G0184,1,11:38,CHA,,IND,,B. Miller,CHA,Miller REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0184,1,11:22,CHA,,IND,,B. Miller,CHA,MISS Miller 28' 3PT Jump Shot,Missed Shot,Jump Shot,-10,276,28,1,3.0,0.0,h
+S2425-G0184,1,10:41,CHA,2.0,IND,2.0,B. Miller,CHA,Miller 1' Driving Layup (2 PTS) (Gibson 1 AST),Made Shot,Driving Layup Shot,5,1,1,1,2.0,2.0,h
+S2425-G0184,1,09:41,CHA,4.0,IND,5.0,B. Miller,CHA,Miller 1' Cutting Layup Shot (4 PTS) (Ball 1 AST),Made Shot,Cutting Layup Shot,2,5,1,1,2.0,2.0,h
+S2425-G0184,1,06:52,CHA,,IND,,B. Miller,CHA,Miller REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0184,1,04:15,CHA,,IND,,B. Miller,CHA,SUB: Curry FOR Miller,Substitution,,0,0,0,0,,,h
+S2425-G0184,2,10:53,CHA,32.0,IND,29.0,B. Miller,CHA,Miller 29' 3PT Jump Shot (7 PTS) (Ball 3 AST),Made Shot,Jump Shot,108,266,29,1,3.0,3.0,h
+S2425-G0184,2,09:54,CHA,,IND,,B. Miller,CHA,Miller REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0184,2,09:33,CHA,,IND,,B. Miller,CHA,SUB: Martin FOR Miller,Substitution,,0,0,0,0,,,h
+S2425-G0184,2,08:02,CHA,,IND,,B. Miller,CHA,MISS Miller 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,97,121,16,1,2.0,0.0,h
+S2425-G0184,2,07:15,CHA,36.0,IND,35.0,B. Miller,CHA,Miller 6' Driving Floating Jump Shot (9 PTS),Made Shot,Driving Floating Jump Shot,-15,58,6,1,2.0,2.0,h
+S2425-G0184,2,05:32,CHA,,IND,,B. Miller,CHA,MISS Miller 27' 3PT Jump Shot,Missed Shot,Jump Shot,-94,253,27,1,3.0,0.0,h
+S2425-G0184,2,04:59,CHA,,IND,,B. Miller,CHA,SUB: Ball FOR Miller,Substitution,,0,0,0,0,,,h
+S2425-G0184,2,02:04,CHA,,IND,,B. Miller,CHA,MISS Miller 28' 3PT Jump Shot,Missed Shot,Jump Shot,207,184,28,1,3.0,0.0,h
+S2425-G0184,3,10:53,CHA,,IND,,B. Miller,CHA,MISS Miller 8' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,18,76,8,1,2.0,0.0,h
+S2425-G0184,3,09:27,CHA,,IND,,B. Miller,CHA,Miller Out of Bounds - Bad Pass Turnover Turnover (P1.T9),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0184,3,08:04,CHA,,IND,,B. Miller,CHA,Miller STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0184,3,08:03,CHA,,IND,,B. Miller,CHA,Miller S.FOUL (P1.T2) (A.Nagy),Foul,Shooting,0,0,0,0,,,h
+S2425-G0184,3,06:53,CHA,,IND,,B. Miller,CHA,MISS Miller 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-21,53,6,1,2.0,0.0,h
+S2425-G0184,3,06:40,CHA,51.0,IND,60.0,B. Miller,CHA,Miller 25' 3PT Jump Shot (12 PTS) (Ball 4 AST),Made Shot,Jump Shot,158,197,25,1,3.0,3.0,h
+S2425-G0184,3,06:14,CHA,,IND,,B. Miller,CHA,MISS Miller 24' 3PT Jump Shot,Missed Shot,Jump Shot,161,184,24,1,3.0,0.0,h
+S2425-G0184,3,06:04,CHA,,IND,,B. Miller,CHA,Miller REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0184,3,05:11,CHA,57.0,IND,64.0,B. Miller,CHA,Miller 25' 3PT Pullup Jump Shot (15 PTS) (Martin 1 AST),Made Shot,Pullup Jump shot,132,216,25,1,3.0,3.0,h
+S2425-G0184,3,04:47,CHA,,IND,,B. Miller,CHA,Miller REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0184,3,04:02,CHA,62.0,IND,64.0,B. Miller,CHA,Miller 25' 3PT Jump Shot (18 PTS) (Martin 2 AST),Made Shot,Jump Shot,197,147,25,1,3.0,3.0,h
+S2425-G0184,3,03:24,CHA,65.0,IND,66.0,B. Miller,CHA,Miller 26' 3PT Jump Shot (21 PTS) (Martin 3 AST),Made Shot,Jump Shot,-21,258,26,1,3.0,3.0,h
+S2425-G0184,3,02:27,CHA,66.0,IND,66.0,B. Miller,CHA,Miller Free Throw 1 of 2 (22 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0184,3,02:27,CHA,67.0,IND,66.0,B. Miller,CHA,Miller Free Throw 2 of 2 (23 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0184,3,00:36.700000,CHA,74.0,IND,66.0,B. Miller,CHA,Miller 30' 3PT Jump Shot (26 PTS),Made Shot,Jump Shot,124,269,30,1,3.0,3.0,h
+S2425-G0184,4,05:43,CHA,88.0,IND,81.0,B. Miller,CHA,Miller 27' 3PT Jump Shot (29 PTS) (Ball 6 AST),Made Shot,Jump Shot,173,209,27,1,3.0,3.0,h
+S2425-G0184,4,03:31,CHA,,IND,,B. Miller,CHA,Miller BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0184,4,03:31,CHA,,IND,,B. Miller,CHA,Miller REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0184,4,02:11,CHA,,IND,,B. Miller,CHA,SUB: Mann FOR Miller,Substitution,,0,0,0,0,,,h
+S2425-G0022,1,11:17,BKN,,CHA,,B. Miller,CHA,Miller STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0022,1,10:09,BKN,2.0,CHA,11.0,B. Miller,CHA,Miller 25' 3PT Jump Shot (3 PTS) (Green 1 AST),Made Shot,Jump Shot,-113,222,25,1,3.0,3.0,v
+S2425-G0022,1,08:57,BKN,5.0,CHA,17.0,B. Miller,CHA,Miller 25' 3PT Jump Shot (6 PTS) (Ball 2 AST),Made Shot,Jump Shot,-1,250,25,1,3.0,3.0,v
+S2425-G0022,1,08:32,BKN,,CHA,,B. Miller,CHA,Miller Double Dribble Turnover (P1.T1),Turnover,Double Dribble,0,0,0,0,,,v
+S2425-G0022,1,07:17,BKN,7.0,CHA,19.0,B. Miller,CHA,Miller 1' Running Alley Oop Dunk Shot (8 PTS) (Ball 3 AST),Made Shot,Running Alley Oop Dunk Shot,-4,3,1,1,2.0,2.0,v
+S2425-G0022,1,05:10,BKN,,CHA,,B. Miller,CHA,MISS Miller 26' 3PT Jump Shot,Missed Shot,Jump Shot,140,215,26,1,3.0,0.0,v
+S2425-G0022,1,04:38,BKN,,CHA,,B. Miller,CHA,SUB: Curry FOR Miller,Substitution,,0,0,0,0,,,v
+S2425-G0022,2,11:28,BKN,,CHA,,B. Miller,CHA,MISS Miller 7' Driving Layup,Missed Shot,Driving Layup Shot,44,53,7,1,2.0,0.0,v
+S2425-G0022,2,10:49,BKN,,CHA,,B. Miller,CHA,Miller P.FOUL (P1.T1) (P.O'Connell),Foul,Personal,0,0,0,0,,,v
+S2425-G0022,2,10:38,BKN,,CHA,,B. Miller,CHA,Miller REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0022,2,10:05,BKN,25.0,CHA,42.0,B. Miller,CHA,Miller 6' Running Layup (10 PTS) (Bridges 1 AST),Made Shot,Running Layup Shot,58,16,6,1,2.0,2.0,v
+S2425-G0022,2,09:21,BKN,27.0,CHA,44.0,B. Miller,CHA,Miller 4' Layup (12 PTS),Made Shot,Layup Shot,-18,31,4,1,2.0,2.0,v
+S2425-G0022,2,08:19,BKN,,CHA,,B. Miller,CHA,Miller STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0022,2,06:47,BKN,,CHA,,B. Miller,CHA,SUB: Salaün FOR Miller,Substitution,,0,0,0,0,,,v
+S2425-G0022,2,04:23,BKN,35.0,CHA,50.0,B. Miller,CHA,Miller 25' 3PT Running Jump Shot (15 PTS) (Bridges 2 AST),Made Shot,Running Jump Shot,115,227,25,1,3.0,3.0,v
+S2425-G0022,2,03:44,BKN,,CHA,,B. Miller,CHA,Miller Out of Bounds Lost Ball Turnover (P2.T11),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2425-G0022,2,03:29,BKN,,CHA,,B. Miller,CHA,Miller S.FOUL (P2.PN) (P.O'Connell),Foul,Shooting,0,0,0,0,,,v
+S2425-G0022,2,02:47,BKN,,CHA,,B. Miller,CHA,Miller REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0022,2,00:57.800000,BKN,,CHA,,B. Miller,CHA,MISS Miller 3PT Jump Shot,Missed Shot,Jump Shot,-230,-21,0,1,3.0,0.0,v
+S2425-G0022,3,09:07,BKN,64.0,CHA,63.0,B. Miller,CHA,Miller 10' Driving Floating Jump Shot (17 PTS),Made Shot,Driving Floating Jump Shot,-34,95,10,1,2.0,2.0,v
+S2425-G0022,3,08:24,BKN,,CHA,,B. Miller,CHA,Miller STEAL (3 STL),,,0,0,0,0,,,v
+S2425-G0022,3,08:13,BKN,,CHA,,B. Miller,CHA,MISS Miller 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,25,24,1,3.0,0.0,v
+S2425-G0022,3,06:26,BKN,,CHA,,B. Miller,CHA,SUB: Diabaté FOR Miller,Substitution,,0,0,0,0,,,v
+S2425-G0022,3,00:15.600000,BKN,83.0,CHA,86.0,B. Miller,CHA,Miller Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0022,3,00:15.600000,BKN,83.0,CHA,87.0,B. Miller,CHA,Miller Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0022,4,11:39,BKN,85.0,CHA,89.0,B. Miller,CHA,Miller 6' Driving Floating Bank Jump Shot (21 PTS),Made Shot,Driving Floating Bank Jump Shot,49,41,6,1,2.0,2.0,v
+S2425-G0022,4,07:57,BKN,95.0,CHA,100.0,B. Miller,CHA,Miller 28' 3PT Jump Shot (24 PTS) (Mann 5 AST),Made Shot,Jump Shot,-148,236,28,1,3.0,3.0,v
+S2425-G0022,4,06:40,BKN,,CHA,,B. Miller,CHA,Miller BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0022,4,06:33,BKN,,CHA,,B. Miller,CHA,MISS Miller 3' Running Layup,Missed Shot,Running Layup Shot,23,12,3,1,2.0,0.0,v
+S2425-G0022,4,05:31,BKN,104.0,CHA,103.0,B. Miller,CHA,Miller 25' 3PT Jump Shot (27 PTS) (Ball 5 AST),Made Shot,Jump Shot,134,215,25,1,3.0,3.0,v
+S2425-G0022,4,04:10,BKN,,CHA,,B. Miller,CHA,Miller OFF.Foul (P3) (J.Goldenberg),Foul,Offensive,0,0,0,0,,,v
+S2425-G0022,4,04:10,BKN,,CHA,,B. Miller,CHA,Miller Offensive Foul Turnover (P3.T22),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0022,4,03:19,BKN,,CHA,,B. Miller,CHA,Miller REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0022,4,00:28.800000,BKN,116.0,CHA,113.0,B. Miller,CHA,Miller 7' Driving Floating Jump Shot (29 PTS) (Mann 6 AST),Made Shot,Driving Floating Jump Shot,-10,67,7,1,2.0,2.0,v
+S2425-G0022,4,00:01.800000,BKN,,CHA,,B. Miller,CHA,MISS Miller 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,188,175,26,1,3.0,0.0,v
 S2425-G0068,1,10:42,HOU,,CHA,,B. Miller,CHA,MISS Miller 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-185,187,26,1,3.0,0.0,v
 S2425-G0068,1,07:12,HOU,10.0,CHA,8.0,B. Miller,CHA,Miller 5' Cutting Dunk Shot (2 PTS) (Ball 1 AST),Made Shot,Cutting Dunk Shot,-25,43,5,1,2.0,2.0,v
 S2425-G0068,1,06:45,HOU,,CHA,,B. Miller,CHA,MISS Miller 10' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-98,4,10,1,2.0,0.0,v
@@ -9,3 +114,133 @@ S2425-G0068,1,02:53,HOU,,CHA,,B. Miller,CHA,Miller REBOUND (Off:1 Def:0),Rebound
 S2425-G0068,1,02:48,HOU,,CHA,,B. Miller,CHA,SUB: Ball FOR Miller,Substitution,,0,0,0,0,,,v
 S2425-G0068,2,06:35,HOU,,CHA,,B. Miller,CHA,Miller Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,v
 S2425-G0068,2,05:52,HOU,,CHA,,B. Miller,CHA,SUB: Curry FOR Miller,Substitution,,0,0,0,0,,,v
+S2425-G0141,1,11:26,CHA,,BOS,,B. Miller,CHA,MISS Miller 29' 3PT Jump Shot,Missed Shot,Jump Shot,172,233,29,1,3.0,0.0,h
+S2425-G0141,1,09:24,CHA,,BOS,,B. Miller,CHA,Miller S.FOUL (P1.T3) (K.Scott),Foul,Shooting,0,0,0,0,,,h
+S2425-G0141,1,09:09,CHA,,BOS,,B. Miller,CHA,MISS Miller Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0141,1,09:09,CHA,7.0,BOS,8.0,B. Miller,CHA,Miller Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0141,1,08:37,CHA,,BOS,,B. Miller,CHA,MISS Miller 3' Layup,Missed Shot,Layup Shot,26,22,3,1,2.0,0.0,h
+S2425-G0141,1,07:49,CHA,,BOS,,B. Miller,CHA,MISS Miller 18' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-61,173,18,1,2.0,0.0,h
+S2425-G0141,1,06:57,CHA,,BOS,,B. Miller,CHA,MISS Miller 28' 3PT Jump Shot,Missed Shot,Jump Shot,100,257,28,1,3.0,0.0,h
+S2425-G0141,1,06:42,CHA,9.0,BOS,15.0,B. Miller,CHA,Miller 2' Running Dunk (3 PTS) (Bridges 1 AST),Made Shot,Running Dunk Shot,-12,21,2,1,2.0,2.0,h
+S2425-G0141,1,05:56,CHA,,BOS,,B. Miller,CHA,SUB: Martin FOR Miller,Substitution,,0,0,0,0,,,h
+S2425-G0141,2,11:29,CHA,,BOS,,B. Miller,CHA,Miller S.FOUL (P2.T1) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,h
+S2425-G0141,2,11:09,CHA,27.0,BOS,41.0,B. Miller,CHA,Miller 27' 3PT Step Back Jump Shot (6 PTS),Made Shot,Step Back Jump shot,-69,259,27,1,3.0,3.0,h
+S2425-G0141,2,10:51,CHA,,BOS,,B. Miller,CHA,Miller STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0141,2,10:21,CHA,,BOS,,B. Miller,CHA,Miller REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0141,2,09:36,CHA,,BOS,,B. Miller,CHA,MISS Miller 27' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-36,268,27,1,3.0,0.0,h
+S2425-G0141,2,08:40,CHA,,BOS,,B. Miller,CHA,MISS Miller 6' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-7,64,6,1,2.0,0.0,h
+S2425-G0141,2,08:29,CHA,,BOS,,B. Miller,CHA,Miller REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0141,2,07:21,CHA,,BOS,,B. Miller,CHA,SUB: Martin FOR Miller,Substitution,,0,0,0,0,,,h
+S2425-G0141,2,03:24,CHA,,BOS,,B. Miller,CHA,Miller P.FOUL (P3.PN) (K.Scott),Foul,Personal,0,0,0,0,,,h
+S2425-G0141,2,01:04,CHA,,BOS,,B. Miller,CHA,SUB: Salaün FOR Miller,Substitution,,0,0,0,0,,,h
+S2425-G0141,3,11:46,CHA,,BOS,,B. Miller,CHA,MISS Miller 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,32,75,8,1,2.0,0.0,h
+S2425-G0141,3,11:09,CHA,,BOS,,B. Miller,CHA,Miller BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0141,3,10:34,CHA,,BOS,,B. Miller,CHA,Miller REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0141,3,09:44,CHA,58.0,BOS,68.0,B. Miller,CHA,Miller 27' 3PT Jump Shot (9 PTS) (Ball 2 AST),Made Shot,Jump Shot,-137,232,27,1,3.0,3.0,h
+S2425-G0141,3,08:46,CHA,64.0,BOS,68.0,B. Miller,CHA,Miller 27' 3PT Jump Shot (12 PTS) (Ball 4 AST),Made Shot,Jump Shot,-80,263,27,1,3.0,3.0,h
+S2425-G0141,3,06:05,CHA,,BOS,,B. Miller,CHA,MISS Miller 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-55,256,26,1,3.0,0.0,h
+S2425-G0141,3,05:46,CHA,,BOS,,B. Miller,CHA,SUB: Martin FOR Miller,Substitution,,0,0,0,0,,,h
+S2425-G0141,4,11:03,CHA,,BOS,,B. Miller,CHA,Miller STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0141,4,10:55,CHA,76.0,BOS,85.0,B. Miller,CHA,Miller 1' Running Layup (14 PTS) (Ball 6 AST),Made Shot,Running Layup Shot,0,10,1,1,2.0,2.0,h
+S2425-G0141,4,10:29,CHA,,BOS,,B. Miller,CHA,MISS Miller 3PT Jump Shot,Missed Shot,Jump Shot,-227,55,0,1,3.0,0.0,h
+S2425-G0141,4,07:50,CHA,84.0,BOS,91.0,B. Miller,CHA,Miller 18' Pullup Jump Shot (16 PTS) (Williams 2 AST),Made Shot,Pullup Jump shot,-34,173,18,1,2.0,2.0,h
+S2425-G0141,4,05:41,CHA,,BOS,,B. Miller,CHA,Miller REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0141,4,05:37,CHA,,BOS,,B. Miller,CHA,MISS Miller 8' Running Layup,Missed Shot,Running Layup Shot,0,78,8,1,2.0,0.0,h
+S2425-G0141,4,02:23,CHA,,BOS,,B. Miller,CHA,MISS Miller 26' 3PT Jump Shot,Missed Shot,Jump Shot,-97,246,26,1,3.0,0.0,h
+S2425-G0141,4,01:25,CHA,,BOS,,B. Miller,CHA,MISS Miller 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-7,50,5,1,2.0,0.0,h
+S2425-G0141,4,00:17.900000,CHA,,BOS,,B. Miller,CHA,Miller P.FOUL (P4.PN) (J.Butler),Foul,Personal,0,0,0,0,,,h
+S2425-G0205,1,11:40,PHI,,CHA,,B. Miller,CHA,Miller REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0205,1,10:23,PHI,,CHA,,B. Miller,CHA,Miller Lost Ball Turnover (P1.T1),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0205,1,10:23,PHI,,CHA,,B. Miller,CHA,Miller L.B.FOUL (P1.T1) (J.Orr),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0205,1,08:43,PHI,,CHA,,B. Miller,CHA,Miller BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0205,1,06:37,PHI,,CHA,,B. Miller,CHA,Miller STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0205,1,05:35,PHI,,CHA,,B. Miller,CHA,Miller S.FOUL (P2.T4) (C.Kirkland),Foul,Shooting,0,0,0,0,,,v
+S2425-G0205,1,05:20,PHI,,CHA,,B. Miller,CHA,MISS Miller 27' 3PT Jump Shot,Missed Shot,Jump Shot,184,193,27,1,3.0,0.0,v
+S2425-G0205,1,03:55,PHI,,CHA,,B. Miller,CHA,Miller Lost Ball Turnover (P2.T5),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0205,1,03:27,PHI,,CHA,,B. Miller,CHA,SUB: Curry FOR Miller,Substitution,,0,0,0,0,,,v
+S2425-G0205,2,07:37,PHI,30.0,CHA,29.0,B. Miller,CHA,Miller 9' Driving Floating Jump Shot (2 PTS) (Ball 2 AST),Made Shot,Driving Floating Jump Shot,-5,91,9,1,2.0,2.0,v
+S2425-G0205,2,07:37,PHI,30.0,CHA,30.0,B. Miller,CHA,Miller Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0205,2,06:06,PHI,,CHA,,B. Miller,CHA,Miller REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0205,2,04:35,PHI,,CHA,,B. Miller,CHA,Miller REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0205,2,03:28,PHI,,CHA,,B. Miller,CHA,Miller S.FOUL (P3.PN) (E.Scott),Foul,Shooting,0,0,0,0,,,v
+S2425-G0205,2,03:14,PHI,38.0,CHA,41.0,B. Miller,CHA,Miller Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0205,2,03:14,PHI,38.0,CHA,42.0,B. Miller,CHA,Miller Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0205,2,02:49,PHI,,CHA,,B. Miller,CHA,Miller REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0205,2,01:38,PHI,,CHA,,B. Miller,CHA,MISS Miller 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-211,160,26,1,3.0,0.0,v
+S2425-G0205,2,00:35,PHI,,CHA,,B. Miller,CHA,SUB: Diabaté FOR Miller,Substitution,,0,0,0,0,,,v
+S2425-G0205,3,11:41,PHI,46.0,CHA,48.0,B. Miller,CHA,Miller 26' 3PT Jump Shot (8 PTS) (Ball 4 AST),Made Shot,Jump Shot,129,220,26,1,3.0,3.0,v
+S2425-G0205,3,10:07,PHI,,CHA,,B. Miller,CHA,Miller REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0205,3,09:28,PHI,,CHA,,B. Miller,CHA,Miller Out of Bounds - Bad Pass Turnover Turnover (P3.T16),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0205,3,06:37,PHI,60.0,CHA,54.0,B. Miller,CHA,Miller 2' Running Layup (10 PTS),Made Shot,Running Layup Shot,17,-1,2,1,2.0,2.0,v
+S2425-G0205,3,04:57,PHI,,CHA,,B. Miller,CHA,Miller REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0205,3,04:57,PHI,63.0,CHA,58.0,B. Miller,CHA,Miller Putback Dunk (12 PTS),Made Shot,Putback Dunk Shot,0,0,0,1,2.0,2.0,v
+S2425-G0205,3,03:38,PHI,68.0,CHA,61.0,B. Miller,CHA,Miller 27' 3PT Jump Shot (15 PTS) (Martin 3 AST),Made Shot,Jump Shot,4,274,27,1,3.0,3.0,v
+S2425-G0205,3,03:03,PHI,,CHA,,B. Miller,CHA,MISS Miller 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,36,256,26,1,3.0,0.0,v
+S2425-G0205,3,02:44,PHI,,CHA,,B. Miller,CHA,Miller REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0205,3,01:43,PHI,,CHA,,B. Miller,CHA,MISS Miller 27' 3PT Jump Shot,Missed Shot,Jump Shot,110,245,27,1,3.0,0.0,v
+S2425-G0205,3,00:10.600000,PHI,,CHA,,B. Miller,CHA,MISS Miller 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-129,219,25,1,3.0,0.0,v
+S2425-G0205,4,03:41,PHI,,CHA,,B. Miller,CHA,Miller STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0205,4,03:35,PHI,,CHA,,B. Miller,CHA,MISS Miller 28' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,61,272,28,1,3.0,0.0,v
+S2425-G0205,4,03:08,PHI,86.0,CHA,86.0,B. Miller,CHA,Miller Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0205,4,03:08,PHI,86.0,CHA,87.0,B. Miller,CHA,Miller Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0205,4,02:30,PHI,88.0,CHA,89.0,B. Miller,CHA,Miller 14' Turnaround Fadeaway (19 PTS) (Ball 8 AST),Made Shot,Turnaround Fadeaway shot,51,135,14,1,2.0,2.0,v
+S2425-G0205,4,01:53,PHI,,CHA,,B. Miller,CHA,MISS Miller 3' Driving Layup,Missed Shot,Driving Layup Shot,31,16,3,1,2.0,0.0,v
+S2425-G0205,4,01:08,PHI,94.0,CHA,92.0,B. Miller,CHA,Miller 25' 3PT Jump Shot (22 PTS) (Williams 1 AST),Made Shot,Jump Shot,-110,225,25,1,3.0,3.0,v
+S2425-G0205,4,00:24.100000,PHI,,CHA,,B. Miller,CHA,MISS Miller 26' 3PT Jump Shot,Missed Shot,Jump Shot,-99,235,26,1,3.0,0.0,v
+S2425-G0205,5,00:07.200000,PHI,,CHA,,B. Miller,CHA,MISS Miller 25' 3PT Jump Shot,Missed Shot,Jump Shot,162,194,25,1,3.0,0.0,v
+S2425-G0162,1,08:44,MIN,,CHA,,B. Miller,CHA,MISS Miller 28' 3PT Jump Shot,Missed Shot,Jump Shot,-11,277,28,1,3.0,0.0,v
+S2425-G0162,1,07:57,MIN,,CHA,,B. Miller,CHA,Miller BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0162,1,07:48,MIN,7.0,CHA,12.0,B. Miller,CHA,Miller 1' Running Dunk (2 PTS) (Bridges 2 AST),Made Shot,Running Dunk Shot,1,5,1,1,2.0,2.0,v
+S2425-G0162,1,06:56,MIN,8.0,CHA,15.0,B. Miller,CHA,Miller 25' 3PT Jump Shot (5 PTS) (Bridges 3 AST),Made Shot,Jump Shot,176,181,25,1,3.0,3.0,v
+S2425-G0162,1,06:25,MIN,,CHA,,B. Miller,CHA,SUB: Mann FOR Miller,Substitution,,0,0,0,0,,,v
+S2425-G0162,2,11:20,MIN,,CHA,,B. Miller,CHA,Miller Bad Pass Turnover (P1.T5),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0162,2,11:03,MIN,,CHA,,B. Miller,CHA,MISS Miller 27' 3PT Jump Shot,Missed Shot,Jump Shot,-109,248,27,1,3.0,0.0,v
+S2425-G0162,2,10:33,MIN,29.0,CHA,25.0,B. Miller,CHA,Miller Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0162,2,10:33,MIN,29.0,CHA,26.0,B. Miller,CHA,Miller Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0162,2,07:59,MIN,,CHA,,B. Miller,CHA,MISS Miller 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,94,121,15,1,2.0,0.0,v
+S2425-G0162,2,07:37,MIN,,CHA,,B. Miller,CHA,SUB: Ball FOR Miller,Substitution,,0,0,0,0,,,v
+S2425-G0162,2,00:57,MIN,,CHA,,B. Miller,CHA,Miller REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0162,2,00:18.800000,MIN,56.0,CHA,45.0,B. Miller,CHA,Miller 26' 3PT Jump Shot (10 PTS) (Mann 4 AST),Made Shot,Jump Shot,-75,254,26,1,3.0,3.0,v
+S2425-G0162,2,00:03.300000,MIN,,CHA,,B. Miller,CHA,Miller P.FOUL (P1.PN) (G.Petraitis),Foul,Personal,0,0,0,0,,,v
+S2425-G0162,2,00:00,MIN,,CHA,,B. Miller,CHA,MISS Miller 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,7,275,28,1,3.0,0.0,v
+S2425-G0162,3,08:28,MIN,,CHA,,B. Miller,CHA,Miller REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0162,3,08:17,MIN,,CHA,,B. Miller,CHA,MISS Miller 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-9,261,26,1,3.0,0.0,v
+S2425-G0162,3,07:00,MIN,,CHA,,B. Miller,CHA,SUB: Martin FOR Miller,Substitution,,0,0,0,0,,,v
+S2425-G0162,4,11:26,MIN,,CHA,,B. Miller,CHA,Miller P.FOUL (P2.T1) (B.Schwab),Foul,Personal,0,0,0,0,,,v
+S2425-G0162,4,10:54,MIN,,CHA,,B. Miller,CHA,MISS Miller 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,10,211,21,1,2.0,0.0,v
+S2425-G0162,4,09:08,MIN,,CHA,,B. Miller,CHA,MISS Miller 26' 3PT Jump Shot,Missed Shot,Jump Shot,152,213,26,1,3.0,0.0,v
+S2425-G0162,4,08:25,MIN,,CHA,,B. Miller,CHA,SUB: Salaün FOR Miller,Substitution,,0,0,0,0,,,v
+S2425-G0169,1,11:03,CHA,,DET,,B. Miller,CHA,MISS Miller 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-165,202,26,1,3.0,0.0,h
+S2425-G0169,1,10:31,CHA,,DET,,B. Miller,CHA,MISS Miller 3' Driving Layup,Missed Shot,Driving Layup Shot,-27,13,3,1,2.0,0.0,h
+S2425-G0169,1,07:04,CHA,,DET,,B. Miller,CHA,Miller REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0169,1,06:45,CHA,,DET,,B. Miller,CHA,Miller REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0169,1,06:38,CHA,7.0,DET,10.0,B. Miller,CHA,Miller 26' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,-152,217,26,1,3.0,3.0,h
+S2425-G0169,1,05:34,CHA,13.0,DET,12.0,B. Miller,CHA,Miller 27' 3PT Jump Shot (6 PTS) (Williams 1 AST),Made Shot,Jump Shot,104,253,27,1,3.0,3.0,h
+S2425-G0169,1,04:35,CHA,,DET,,B. Miller,CHA,MISS Miller 30' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-100,283,30,1,3.0,0.0,h
+S2425-G0169,1,04:29,CHA,,DET,,B. Miller,CHA,Miller P.FOUL (P1.T3) (A.Smith),Foul,Personal,0,0,0,0,,,h
+S2425-G0169,1,04:29,CHA,,DET,,B. Miller,CHA,SUB: Curry FOR Miller,Substitution,,0,0,0,0,,,h
+S2425-G0169,2,05:42,CHA,,DET,,B. Miller,CHA,MISS Miller 26' 3PT Jump Shot,Missed Shot,Jump Shot,181,191,26,1,3.0,0.0,h
+S2425-G0169,2,04:30,CHA,,DET,,B. Miller,CHA,Miller P.FOUL (P2.T2) (D.Collins),Foul,Personal,0,0,0,0,,,h
+S2425-G0169,2,03:58,CHA,,DET,,B. Miller,CHA,Miller REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0169,2,03:51,CHA,,DET,,B. Miller,CHA,Miller Out of Bounds Lost Ball Turnover (P1.T4),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2425-G0169,2,03:33,CHA,,DET,,B. Miller,CHA,Miller Bad Pass Turnover (P2.T5),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0169,2,02:31,CHA,,DET,,B. Miller,CHA,MISS Miller 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,156,210,26,1,3.0,0.0,h
+S2425-G0169,2,01:47,CHA,43.0,DET,42.0,B. Miller,CHA,Miller Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0169,2,01:47,CHA,44.0,DET,42.0,B. Miller,CHA,Miller Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0169,2,00:44,CHA,45.0,DET,45.0,B. Miller,CHA,Miller Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0169,2,00:44,CHA,46.0,DET,45.0,B. Miller,CHA,Miller Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0169,2,00:29.400000,CHA,,DET,,B. Miller,CHA,Miller REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0169,2,00:08.700000,CHA,,DET,,B. Miller,CHA,MISS Miller 25' 3PT Jump Shot,Missed Shot,Jump Shot,36,252,25,1,3.0,0.0,h
+S2425-G0169,3,10:24,CHA,48.0,DET,49.0,B. Miller,CHA,Miller 14' Driving Floating Jump Shot (12 PTS),Made Shot,Driving Floating Jump Shot,112,77,14,1,2.0,2.0,h
+S2425-G0169,3,09:55,CHA,,DET,,B. Miller,CHA,MISS Miller 6' Driving Layup,Missed Shot,Driving Layup Shot,42,42,6,1,2.0,0.0,h
+S2425-G0169,3,09:53,CHA,,DET,,B. Miller,CHA,Miller REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0169,3,08:22,CHA,56.0,DET,55.0,B. Miller,CHA,Miller 28' 3PT Jump Shot (15 PTS) (Bridges 1 AST),Made Shot,Jump Shot,120,250,28,1,3.0,3.0,h
+S2425-G0169,3,07:42,CHA,61.0,DET,55.0,B. Miller,CHA,Miller 1' Running Alley Oop Dunk Shot (17 PTS) (Ball 8 AST),Made Shot,Running Alley Oop Dunk Shot,-9,8,1,1,2.0,2.0,h
+S2425-G0169,3,05:48,CHA,,DET,,B. Miller,CHA,MISS Miller 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-6,266,27,1,3.0,0.0,h
+S2425-G0169,3,04:58,CHA,,DET,,B. Miller,CHA,MISS Miller 26' 3PT Jump Shot,Missed Shot,Jump Shot,156,211,26,1,3.0,0.0,h
+S2425-G0169,3,04:47,CHA,,DET,,B. Miller,CHA,SUB: Curry FOR Miller,Substitution,,0,0,0,0,,,h
+S2425-G0169,4,06:34,CHA,,DET,,B. Miller,CHA,SUB: Martin FOR Miller,Substitution,,0,0,0,0,,,h
+S2425-G0169,4,02:24,CHA,,DET,,B. Miller,CHA,MISS Miller 25' 3PT Jump Shot,Missed Shot,Jump Shot,-202,146,25,1,3.0,0.0,h
+S2425-G0169,4,00:09.500000,CHA,,DET,,B. Miller,CHA,Miller Lost Ball Turnover (P3.T12),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0169,4,00:02.200000,CHA,,DET,,B. Miller,CHA,Miller REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0169,4,00:00,CHA,108.0,DET,107.0,B. Miller,CHA,Miller Tip Layup Shot (19 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h

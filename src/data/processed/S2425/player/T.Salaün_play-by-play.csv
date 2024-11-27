@@ -1,4 +1,71 @@
 game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0003,1,03:21,ORL,,CHA,,T. Salaün,CHA,MISS Salaün 26' 3PT Jump Shot,Missed Shot,Jump Shot,151,207,26,1,3.0,0.0,v
+S2425-G0003,1,03:08,ORL,,CHA,,T. Salaün,CHA,Salaün REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0003,1,03:06,ORL,,CHA,,T. Salaün,CHA,MISS Salaün 3' Running Layup,Missed Shot,Running Layup Shot,26,11,3,1,2.0,0.0,v
+S2425-G0003,1,02:47,ORL,,CHA,,T. Salaün,CHA,Salaün REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0003,2,06:28,ORL,,CHA,,T. Salaün,CHA,MISS Salaün 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,66,72,10,1,2.0,0.0,v
+S2425-G0003,2,03:55,ORL,,CHA,,T. Salaün,CHA,SUB: Williams FOR Salaün,Substitution,,0,0,0,0,,,v
+S2425-G0003,3,02:25,ORL,,CHA,,T. Salaün,CHA,MISS Salaün 3PT Jump Shot,Missed Shot,Jump Shot,227,24,0,1,3.0,0.0,v
+S2425-G0003,3,01:13,ORL,,CHA,,T. Salaün,CHA,Salaün Lost Ball Turnover (P1.T18),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0003,3,00:37.300000,ORL,,CHA,,T. Salaün,CHA,Salaün S.FOUL (P1.PN) (C.Washington),Foul,Shooting,0,0,0,0,,,v
+S2425-G0003,4,11:51,ORL,,CHA,,T. Salaün,CHA,Salaün S.FOUL (P2.T1) (E.Malloy),Foul,Shooting,0,0,0,0,,,v
+S2425-G0003,4,10:59,ORL,,CHA,,T. Salaün,CHA,Salaün REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0003,4,10:58,ORL,,CHA,,T. Salaün,CHA,MISS Salaün 4' Putback Layup,Missed Shot,Putback Layup Shot,-9,41,4,1,2.0,0.0,v
+S2425-G0003,4,10:42,ORL,,CHA,,T. Salaün,CHA,MISS Salaün Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0003,4,10:42,ORL,,CHA,,T. Salaün,CHA,MISS Salaün Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0003,4,08:15,ORL,,CHA,,T. Salaün,CHA,SUB: Diabaté FOR Salaün,Substitution,,0,0,0,0,,,v
+S2425-G0003,4,02:27,ORL,,CHA,,T. Salaün,CHA,Salaün REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0003,4,01:33,ORL,,CHA,,T. Salaün,CHA,Salaün REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0003,4,01:00,ORL,114.0,CHA,87.0,T. Salaün,CHA,Salaün 26' 3PT Pullup Jump Shot (3 PTS) (Smith Jr. 1 AST),Made Shot,Pullup Jump shot,-137,219,26,1,3.0,3.0,v
+S2425-G0003,4,00:30,ORL,,CHA,,T. Salaün,CHA,Salaün REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0184,1,10:47,CHA,,IND,,T. Salaün,CHA,MISS Salaün 27' 3PT Jump Shot,Missed Shot,Jump Shot,93,255,27,1,3.0,0.0,h
+S2425-G0184,1,08:20,CHA,,IND,,T. Salaün,CHA,Salaün REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0184,1,08:20,CHA,9.0,IND,8.0,T. Salaün,CHA,Salaün Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2425-G0184,1,06:49,CHA,,IND,,T. Salaün,CHA,MISS Salaün 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-97,255,27,1,3.0,0.0,h
+S2425-G0184,1,06:46,CHA,,IND,,T. Salaün,CHA,Salaün REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0184,1,04:34,CHA,,IND,,T. Salaün,CHA,SUB: Diabaté FOR Salaün,Substitution,,0,0,0,0,,,h
+S2425-G0184,2,07:38,CHA,,IND,,T. Salaün,CHA,SUB: Williams FOR Salaün,Substitution,,0,0,0,0,,,h
+S2425-G0184,3,10:19,CHA,,IND,,T. Salaün,CHA,MISS Salaün 26' 3PT Jump Shot,Missed Shot,Jump Shot,-207,153,26,1,3.0,0.0,h
+S2425-G0184,3,10:13,CHA,,IND,,T. Salaün,CHA,Salaün P.FOUL (P1.T1) (J.Tiven),Foul,Personal,0,0,0,0,,,h
+S2425-G0184,3,09:49,CHA,,IND,,T. Salaün,CHA,MISS Salaün 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-25,5,3,1,2.0,0.0,h
+S2425-G0184,3,09:46,CHA,,IND,,T. Salaün,CHA,Salaün REBOUND (Off:3 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0184,3,09:45,CHA,,IND,,T. Salaün,CHA,MISS Salaün 2' Reverse Layup,Missed Shot,Reverse Layup Shot,4,17,2,1,2.0,0.0,h
+S2425-G0184,3,08:10,CHA,,IND,,T. Salaün,CHA,Salaün Lost Ball Turnover (P1.T10),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0184,3,08:03,CHA,,IND,,T. Salaün,CHA,SUB: Green FOR Salaün,Substitution,,0,0,0,0,,,h
+S2425-G0184,4,10:29,CHA,,IND,,T. Salaün,CHA,Salaün REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0184,4,08:55,CHA,,IND,,T. Salaün,CHA,Salaün REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0184,4,08:15,CHA,,IND,,T. Salaün,CHA,Salaün OFF.Foul (P2) (A.Nagy),Foul,Offensive,0,0,0,0,,,h
+S2425-G0184,4,08:15,CHA,,IND,,T. Salaün,CHA,Salaün Offensive Foul Turnover (P2.T14),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0184,4,08:15,CHA,,IND,,T. Salaün,CHA,SUB: Williams FOR Salaün,Substitution,,0,0,0,0,,,h
+S2425-G0184,4,01:23,CHA,,IND,,T. Salaün,CHA,Salaün REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0184,4,00:04.900000,CHA,,IND,,T. Salaün,CHA,Salaün REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0022,1,04:38,BKN,15.0,CHA,25.0,T. Salaün,CHA,Salaün Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0022,1,04:38,BKN,,CHA,,T. Salaün,CHA,MISS Salaün Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0022,1,03:27,BKN,,CHA,,T. Salaün,CHA,Salaün REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0022,1,03:23,BKN,17.0,CHA,30.0,T. Salaün,CHA,Salaün 10' Driving Floating Jump Shot (3 PTS),Made Shot,Driving Floating Jump Shot,61,77,10,1,2.0,2.0,v
+S2425-G0022,1,03:12,BKN,,CHA,,T. Salaün,CHA,Hornets T.Foul (Def. 3 Sec Salaün ) (J.Williams),Foul,Defense 3 Second,0,0,0,0,,,v
+S2425-G0022,1,02:59,BKN,,CHA,,T. Salaün,CHA,Salaün REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0022,1,01:33,BKN,,CHA,,T. Salaün,CHA,Salaün REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0022,1,01:24,BKN,20.0,CHA,35.0,T. Salaün,CHA,Salaün 25' 3PT Jump Shot (6 PTS) (Mann 1 AST),Made Shot,Jump Shot,11,246,25,1,3.0,3.0,v
+S2425-G0022,1,00:01.800000,BKN,,CHA,,T. Salaün,CHA,Salaün BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0022,2,11:43,BKN,,CHA,,T. Salaün,CHA,Salaün BLOCK (2 BLK),,,0,0,0,0,,,v
+S2425-G0022,2,11:40,BKN,,CHA,,T. Salaün,CHA,Salaün REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0022,2,10:49,BKN,,CHA,,T. Salaün,CHA,SUB: Green FOR Salaün,Substitution,,0,0,0,0,,,v
+S2425-G0022,2,06:01,BKN,,CHA,,T. Salaün,CHA,Salaün REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0022,2,05:48,BKN,,CHA,,T. Salaün,CHA,Salaün L.B.FOUL (P1.T3) (J.Goldenberg),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0022,2,05:48,BKN,,CHA,,T. Salaün,CHA,Salaün Lost Ball Turnover (P1.T8),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0022,2,04:47,BKN,,CHA,,T. Salaün,CHA,Salaün REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0022,2,04:42,BKN,,CHA,,T. Salaün,CHA,SUB: Miller FOR Salaün,Substitution,,0,0,0,0,,,v
+S2425-G0022,3,04:00,BKN,,CHA,,T. Salaün,CHA,Salaün S.FOUL (P2.T3) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,v
+S2425-G0022,3,01:57,BKN,81.0,CHA,79.0,T. Salaün,CHA,Salaün Free Throw 1 of 3 (7 PTS),Free Throw,Free Throw 1 of 3,0,0,0,0,1.0,1.0,v
+S2425-G0022,3,01:57,BKN,81.0,CHA,80.0,T. Salaün,CHA,Salaün Free Throw 2 of 3 (8 PTS),Free Throw,Free Throw 2 of 3,0,0,0,0,1.0,1.0,v
+S2425-G0022,3,01:57,BKN,81.0,CHA,81.0,T. Salaün,CHA,Salaün Free Throw 3 of 3 (9 PTS),Free Throw,Free Throw 3 of 3,0,0,0,0,1.0,1.0,v
+S2425-G0022,3,01:34,BKN,,CHA,,T. Salaün,CHA,Salaün REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0022,3,01:03,BKN,83.0,CHA,82.0,T. Salaün,CHA,Salaün Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0022,3,01:03,BKN,83.0,CHA,83.0,T. Salaün,CHA,Salaün Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0022,4,11:26,BKN,,CHA,,T. Salaün,CHA,Salaün P.FOUL (P3.T1) (P.O'Connell),Foul,Personal,0,0,0,0,,,v
+S2425-G0022,4,11:08,BKN,,CHA,,T. Salaün,CHA,Salaün REBOUND (Off:0 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0022,4,09:55,BKN,,CHA,,T. Salaün,CHA,SUB: Bridges FOR Salaün,Substitution,,0,0,0,0,,,v
 S2425-G0117,1,04:50,CHA,,TOR,,T. Salaün,CHA,Salaün STEAL (1 STL),,,0,0,0,0,,,h
 S2425-G0117,1,04:03,CHA,,TOR,,T. Salaün,CHA,MISS Salaün 24' 3PT Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,243,-2,24,1,3.0,0.0,h
 S2425-G0117,1,03:07,CHA,,TOR,,T. Salaün,CHA,MISS Salaün 27' 3PT Jump Shot,Missed Shot,Jump Shot,-34,269,27,1,3.0,0.0,h
@@ -9,6 +76,51 @@ S2425-G0117,2,00:51,CHA,,TOR,,T. Salaün,CHA,SUB: Richards FOR Salaün,Substitut
 S2425-G0117,3,01:02,CHA,,TOR,,T. Salaün,CHA,MISS Salaün Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
 S2425-G0117,3,01:02,CHA,97.0,TOR,96.0,T. Salaün,CHA,Salaün Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
 S2425-G0117,3,00:02.800000,CHA,,TOR,,T. Salaün,CHA,Salaün REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0141,2,11:38,CHA,,BOS,,T. Salaün,CHA,MISS Salaün 24' 3PT Jump Shot,Missed Shot,Jump Shot,-233,47,24,1,3.0,0.0,h
+S2425-G0141,2,11:29,CHA,,BOS,,T. Salaün,CHA,SUB: Gibson FOR Salaün,Substitution,,0,0,0,0,,,h
+S2425-G0141,3,00:52.900000,CHA,,BOS,,T. Salaün,CHA,MISS Salaün 28' 3PT Jump Shot,Missed Shot,Jump Shot,114,257,28,1,3.0,0.0,h
+S2425-G0141,4,11:14,CHA,,BOS,,T. Salaün,CHA,MISS Salaün 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,17,99,10,1,2.0,0.0,h
+S2425-G0141,4,10:35,CHA,,BOS,,T. Salaün,CHA,Salaün REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0141,4,08:06,CHA,,BOS,,T. Salaün,CHA,SUB: Williams FOR Salaün,Substitution,,0,0,0,0,,,h
+S2425-G0205,1,09:40,PHI,,CHA,,T. Salaün,CHA,Salaün REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0205,1,09:11,PHI,,CHA,,T. Salaün,CHA,Salaün REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0205,1,08:40,PHI,,CHA,,T. Salaün,CHA,Salaün REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0205,1,07:37,PHI,,CHA,,T. Salaün,CHA,Salaün REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0205,1,06:54,PHI,,CHA,,T. Salaün,CHA,Salaün Step Out of Bounds Turnover (P1.T3),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2425-G0205,1,06:33,PHI,,CHA,,T. Salaün,CHA,Salaün Bad Pass Turnover (P2.T4),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0205,1,06:33,PHI,,CHA,,T. Salaün,CHA,SUB: Martin FOR Salaün,Substitution,,0,0,0,0,,,v
+S2425-G0205,2,11:00,PHI,18.0,CHA,19.0,T. Salaün,CHA,Salaün 2' Cutting Dunk Shot (2 PTS) (Diabaté 1 AST),Made Shot,Cutting Dunk Shot,-7,17,2,1,2.0,2.0,v
+S2425-G0205,2,09:35,PHI,,CHA,,T. Salaün,CHA,Salaün REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0205,2,08:11,PHI,,CHA,,T. Salaün,CHA,SUB: Miller FOR Salaün,Substitution,,0,0,0,0,,,v
+S2425-G0205,3,10:47,PHI,,CHA,,T. Salaün,CHA,Salaün REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0205,3,10:38,PHI,,CHA,,T. Salaün,CHA,MISS Salaün 26' 3PT Jump Shot,Missed Shot,Jump Shot,-25,260,26,1,3.0,0.0,v
+S2425-G0205,3,06:41,PHI,,CHA,,T. Salaün,CHA,Salaün REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0205,3,06:13,PHI,,CHA,,T. Salaün,CHA,Salaün REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0205,3,05:04,PHI,,CHA,,T. Salaün,CHA,MISS Salaün 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-151,200,25,1,3.0,0.0,v
+S2425-G0205,3,04:26,PHI,,CHA,,T. Salaün,CHA,MISS Salaün 3PT Jump Shot,Missed Shot,Jump Shot,-223,57,0,1,3.0,0.0,v
+S2425-G0205,3,04:20,PHI,,CHA,,T. Salaün,CHA,SUB: Martin FOR Salaün,Substitution,,0,0,0,0,,,v
+S2425-G0205,3,02:08,PHI,,CHA,,T. Salaün,CHA,Salaün REBOUND (Off:1 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0205,3,01:47,PHI,,CHA,,T. Salaün,CHA,MISS Salaün 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,65,10,7,1,2.0,0.0,v
+S2425-G0205,3,00:58.200000,PHI,,CHA,,T. Salaün,CHA,SUB: Curry FOR Salaün,Substitution,,0,0,0,0,,,v
+S2425-G0162,1,05:00,MIN,,CHA,,T. Salaün,CHA,MISS Salaün 27' 3PT Jump Shot,Missed Shot,Jump Shot,109,249,27,1,3.0,0.0,v
+S2425-G0162,1,04:39,MIN,,CHA,,T. Salaün,CHA,Salaün Out of Bounds Lost Ball Turnover (P1.T2),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2425-G0162,1,03:18,MIN,,CHA,,T. Salaün,CHA,MISS Salaün 27' 3PT Jump Shot,Missed Shot,Jump Shot,-148,222,27,1,3.0,0.0,v
+S2425-G0162,1,01:16,MIN,,CHA,,T. Salaün,CHA,Salaün STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0162,2,09:31,MIN,,CHA,,T. Salaün,CHA,SUB: Green FOR Salaün,Substitution,,0,0,0,0,,,v
+S2425-G0162,3,05:50,MIN,,CHA,,T. Salaün,CHA,MISS Salaün 6' Hook Shot,Missed Shot,Hook Shot,5,56,6,1,2.0,0.0,v
+S2425-G0162,3,05:41,MIN,,CHA,,T. Salaün,CHA,Salaün S.FOUL (P1.T4) (G.Petraitis),Foul,Shooting,0,0,0,0,,,v
+S2425-G0162,3,03:56,MIN,,CHA,,T. Salaün,CHA,MISS Salaün 28' 3PT Jump Shot,Missed Shot,Jump Shot,114,252,28,1,3.0,0.0,v
+S2425-G0162,3,02:13,MIN,,CHA,,T. Salaün,CHA,Salaün REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0162,3,01:27,MIN,,CHA,,T. Salaün,CHA,Salaün REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0162,4,06:31,MIN,,CHA,,T. Salaün,CHA,MISS Salaün 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-205,148,25,1,3.0,0.0,v
+S2425-G0162,4,06:06,MIN,,CHA,,T. Salaün,CHA,MISS Salaün 4' Driving Layup,Missed Shot,Driving Layup Shot,-16,32,4,1,2.0,0.0,v
+S2425-G0162,4,05:39,MIN,107.0,CHA,79.0,T. Salaün,CHA,Salaün 1' Driving Dunk (2 PTS) (Rhoden 1 AST),Made Shot,Driving Dunk Shot,-4,5,1,1,2.0,2.0,v
+S2425-G0162,4,05:01,MIN,,CHA,,T. Salaün,CHA,Salaün S.FOUL (P2.PN) (B.Schwab),Foul,Shooting,0,0,0,0,,,v
+S2425-G0162,4,04:29,MIN,108.0,CHA,82.0,T. Salaün,CHA,Salaün 26' 3PT Jump Shot (5 PTS) (Rhoden 2 AST),Made Shot,Jump Shot,-39,261,26,1,3.0,3.0,v
+S2425-G0162,4,04:02,MIN,,CHA,,T. Salaün,CHA,Salaün Offensive Charge Foul (P3) (B.Schwab),Foul,Offensive Charge,0,0,0,0,,,v
+S2425-G0162,4,04:02,MIN,,CHA,,T. Salaün,CHA,Salaün Offensive Foul Turnover (P2.T13),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0162,4,02:10,MIN,,CHA,,T. Salaün,CHA,MISS Salaün 24' 3PT Jump Shot,Missed Shot,Jump Shot,-229,85,24,1,3.0,0.0,v
+S2425-G0162,4,01:31,MIN,,CHA,,T. Salaün,CHA,MISS Salaün 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-224,38,0,1,3.0,0.0,v
 S2425-G0088,1,03:09,CHA,,MIA,,T. Salaün,CHA,SUB: Ball FOR Salaün,Substitution,,0,0,0,0,,,h
 S2425-G0088,2,09:52,CHA,,MIA,,T. Salaün,CHA,Salaün REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
 S2425-G0088,2,08:59,CHA,,MIA,,T. Salaün,CHA,SUB: Micić FOR Salaün,Substitution,,0,0,0,0,,,h
@@ -16,3 +128,19 @@ S2425-G0088,3,04:11,CHA,,MIA,,T. Salaün,CHA,MISS Salaün 3PT Jump Shot,Missed S
 S2425-G0088,3,03:33,CHA,,MIA,,T. Salaün,CHA,Salaün STEAL (1 STL),,,0,0,0,0,,,h
 S2425-G0088,3,02:38,CHA,,MIA,,T. Salaün,CHA,Salaün S.FOUL (P1.PN) (S.Mitchell),Foul,Shooting,0,0,0,0,,,h
 S2425-G0088,3,02:25,CHA,,MIA,,T. Salaün,CHA,Salaün Lost Ball Turnover (P1.T15),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0169,1,04:20,CHA,,DET,,T. Salaün,CHA,Salaün REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0169,2,10:05,CHA,,DET,,T. Salaün,CHA,SUB: Bridges FOR Salaün,Substitution,,0,0,0,0,,,h
+S2425-G0169,3,03:28,CHA,69.0,DET,64.0,T. Salaün,CHA,Salaün 27' 3PT Jump Shot (3 PTS) (Mann 2 AST),Made Shot,Jump Shot,-108,245,27,1,3.0,3.0,h
+S2425-G0132,1,02:50,CHA,,BOS,,T. Salaün,CHA,Salaün REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0132,1,01:35,CHA,,BOS,,T. Salaün,CHA,MISS Salaün 27' 3PT Jump Shot,Missed Shot,Jump Shot,169,206,27,1,3.0,0.0,h
+S2425-G0132,2,00:35.600000,CHA,67.0,BOS,69.0,T. Salaün,CHA,Salaün 27' 3PT Jump Shot (3 PTS) (Mann 4 AST),Made Shot,Jump Shot,-145,233,27,1,3.0,3.0,h
+S2425-G0132,3,05:36,CHA,77.0,BOS,85.0,T. Salaün,CHA,Salaün 26' 3PT Jump Shot (6 PTS) (Mann 5 AST),Made Shot,Jump Shot,49,255,26,1,3.0,3.0,h
+S2425-G0132,3,04:44,CHA,,BOS,,T. Salaün,CHA,Salaün REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0132,3,04:27,CHA,,BOS,,T. Salaün,CHA,Salaün REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0132,3,04:22,CHA,,BOS,,T. Salaün,CHA,MISS Salaün 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,78,252,26,1,3.0,0.0,h
+S2425-G0132,3,03:15,CHA,,BOS,,T. Salaün,CHA,Salaün REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0132,3,00:50,CHA,,BOS,,T. Salaün,CHA,Salaün REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0132,3,00:32.500000,CHA,,BOS,,T. Salaün,CHA,SUB: Bridges FOR Salaün,Substitution,,0,0,0,0,,,h
+S2425-G0132,4,11:06,CHA,91.0,BOS,96.0,T. Salaün,CHA,Salaün 26' 3PT Jump Shot (9 PTS) (Ball 4 AST),Made Shot,Jump Shot,141,213,26,1,3.0,3.0,h
+S2425-G0132,4,10:09,CHA,,BOS,,T. Salaün,CHA,Salaün REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0132,4,09:05,CHA,,BOS,,T. Salaün,CHA,SUB: Mann FOR Salaün,Substitution,,0,0,0,0,,,h

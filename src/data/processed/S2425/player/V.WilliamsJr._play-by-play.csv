@@ -1,0 +1,45 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0023,1,03:32,MEM,,DEN,,V. Williams Jr.,MEM,Williams Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0023,1,02:58,MEM,,DEN,,V. Williams Jr.,MEM,MISS Williams Jr. 1' Cutting Finger Roll Layup Shot,Missed Shot,Cutting Finger Roll Layup Shot,7,6,1,1,2.0,0.0,h
+S2425-G0023,1,02:22,MEM,,DEN,,V. Williams Jr.,MEM,Williams Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0023,1,02:13,MEM,,DEN,,V. Williams Jr.,MEM,MISS Williams Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,158,194,25,1,3.0,0.0,h
+S2425-G0023,1,01:56,MEM,,DEN,,V. Williams Jr.,MEM,Williams Jr. Bad Pass Turnover (P1.T6),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0023,1,01:45,MEM,,DEN,,V. Williams Jr.,MEM,Williams Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0023,1,01:42,MEM,,DEN,,V. Williams Jr.,MEM,Williams Jr. Lost Ball Turnover (P2.T7),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0023,1,00:27.900000,MEM,,DEN,,V. Williams Jr.,MEM,Williams Jr. Lost Ball Turnover (P3.T8),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0023,1,00:25.100000,MEM,,DEN,,V. Williams Jr.,MEM,SUB: Clarke FOR Williams Jr.,Substitution,,0,0,0,0,,,h
+S2425-G0023,2,06:36,MEM,,DEN,,V. Williams Jr.,MEM,Williams Jr. P.FOUL (P1.PN) (C.Kirkland),Foul,Personal,0,0,0,0,,,h
+S2425-G0023,2,05:26,MEM,,DEN,,V. Williams Jr.,MEM,MISS Williams Jr. 7' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-65,19,7,1,2.0,0.0,h
+S2425-G0023,2,05:02,MEM,,DEN,,V. Williams Jr.,MEM,Williams Jr. REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0023,2,05:02,MEM,41.0,DEN,51.0,V. Williams Jr.,MEM,Williams Jr. Putback Layup (2 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,h
+S2425-G0023,2,04:07,MEM,,DEN,,V. Williams Jr.,MEM,MISS Williams Jr. 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-28,45,5,1,2.0,0.0,h
+S2425-G0023,2,04:01,MEM,,DEN,,V. Williams Jr.,MEM,Williams Jr. REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0023,2,04:01,MEM,45.0,DEN,53.0,V. Williams Jr.,MEM,Williams Jr. Putback Layup (4 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,h
+S2425-G0023,2,03:14,MEM,,DEN,,V. Williams Jr.,MEM,SUB: LaRavia FOR Williams Jr.,Substitution,,0,0,0,0,,,h
+S2425-G0019,1,04:28,GSW,,MEM,,V. Williams Jr.,MEM,Williams Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0019,1,04:16,GSW,,MEM,,V. Williams Jr.,MEM,Williams Jr. BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0019,1,02:35,GSW,,MEM,,V. Williams Jr.,MEM,Williams Jr. S.FOUL (P1.T2) (B.Forte),Foul,Shooting,0,0,0,0,,,v
+S2425-G0019,2,06:56,GSW,,MEM,,V. Williams Jr.,MEM,MISS Williams Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,185,165,25,1,3.0,0.0,v
+S2425-G0019,2,06:01,GSW,,MEM,,V. Williams Jr.,MEM,Williams Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0019,2,05:26,GSW,,MEM,,V. Williams Jr.,MEM,Williams Jr. BLOCK (2 BLK),,,0,0,0,0,,,v
+S2425-G0019,2,04:36,GSW,,MEM,,V. Williams Jr.,MEM,MISS Williams Jr. 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-219,116,25,1,3.0,0.0,v
+S2425-G0019,2,04:06,GSW,48.0,MEM,39.0,V. Williams Jr.,MEM,Williams Jr. 5' Layup (2 PTS) (Smart 2 AST),Made Shot,Layup Shot,-39,29,5,1,2.0,2.0,v
+S2425-G0019,2,03:45,GSW,,MEM,,V. Williams Jr.,MEM,Williams Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0019,2,02:30,GSW,,MEM,,V. Williams Jr.,MEM,SUB: Pippen Jr. FOR Williams Jr.,Substitution,,0,0,0,0,,,v
+S2425-G0019,2,01:15,GSW,,MEM,,V. Williams Jr.,MEM,MISS Williams Jr. 3' Running Layup,Missed Shot,Running Layup Shot,22,15,3,1,2.0,0.0,v
+S2425-G0019,2,01:09,GSW,,MEM,,V. Williams Jr.,MEM,Williams Jr. P.FOUL (P2.T3) (B.Kennedy),Foul,Personal,0,0,0,0,,,v
+S2425-G0019,2,00:22.200000,GSW,,MEM,,V. Williams Jr.,MEM,Williams Jr. Out of Bounds Lost Ball Turnover (P1.T9),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2425-G0019,2,00:00.600000,GSW,,MEM,,V. Williams Jr.,MEM,MISS Williams Jr. 53' 3PT Jump Shot,Missed Shot,Jump Shot,-7,530,53,1,3.0,0.0,v
+S2425-G0019,3,04:38,GSW,,MEM,,V. Williams Jr.,MEM,MISS Williams Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,-173,183,25,1,3.0,0.0,v
+S2425-G0019,3,03:38,GSW,,MEM,,V. Williams Jr.,MEM,Williams Jr. Lost Ball Turnover (P2.T13),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0019,3,03:22,GSW,80.0,MEM,69.0,V. Williams Jr.,MEM,Williams Jr. 5' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,1,46,5,1,2.0,2.0,v
+S2425-G0019,3,03:14,GSW,,MEM,,V. Williams Jr.,MEM,Williams Jr. S.FOUL (P3.PN) (A.Nagy),Foul,Shooting,0,0,0,0,,,v
+S2425-G0019,3,03:07,GSW,81.0,MEM,70.0,V. Williams Jr.,MEM,Williams Jr. Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0019,3,03:07,GSW,,MEM,,V. Williams Jr.,MEM,MISS Williams Jr. Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0019,3,01:48,GSW,,MEM,,V. Williams Jr.,MEM,Williams Jr. REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0019,3,01:47,GSW,85.0,MEM,74.0,V. Williams Jr.,MEM,Williams Jr. 4' Putback Layup (7 PTS),Made Shot,Putback Layup Shot,-25,29,4,1,2.0,2.0,v
+S2425-G0019,3,00:16.500000,GSW,,MEM,,V. Williams Jr.,MEM,MISS Williams Jr. Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0019,3,00:16.500000,GSW,,MEM,,V. Williams Jr.,MEM,MISS Williams Jr. Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0019,4,01:14,GSW,,MEM,,V. Williams Jr.,MEM,Williams Jr. S.FOUL (P4.PN) (A.Nagy),Foul,Shooting,0,0,0,0,,,v
+S2425-G0019,4,01:05,GSW,,MEM,,V. Williams Jr.,MEM,Williams Jr. REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0019,4,01:02,GSW,121.0,MEM,111.0,V. Williams Jr.,MEM,Williams Jr. Tip Dunk Shot (9 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,v

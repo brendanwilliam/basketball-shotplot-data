@@ -1,4 +1,29 @@
 game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0185,1,00:37.900000,DET,,ATL,,R. Holland II,DET,Holland II S.FOUL (P1.T4) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,h
+S2425-G0185,2,10:53,DET,44.0,ATL,25.0,R. Holland II,DET,Holland II 6' Driving Floating Jump Shot (2 PTS) (Stewart 2 AST),Made Shot,Driving Floating Jump Shot,-36,48,6,1,2.0,2.0,h
+S2425-G0185,2,10:53,DET,45.0,ATL,25.0,R. Holland II,DET,Holland II Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2425-G0185,2,10:29,DET,,ATL,,R. Holland II,DET,Holland II REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0185,2,10:26,DET,,ATL,,R. Holland II,DET,MISS Holland II 4' Driving Layup,Missed Shot,Driving Layup Shot,28,29,4,1,2.0,0.0,h
+S2425-G0185,2,09:54,DET,,ATL,,R. Holland II,DET,MISS Holland II 8' Driving Layup,Missed Shot,Driving Layup Shot,-48,59,8,1,2.0,0.0,h
+S2425-G0185,2,08:32,DET,,ATL,,R. Holland II,DET,MISS Holland II 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,224,43,0,1,3.0,0.0,h
+S2425-G0185,2,07:51,DET,,ATL,,R. Holland II,DET,SUB: Ivey FOR Holland II,Substitution,,0,0,0,0,,,h
+S2425-G0185,4,11:05,DET,97.0,ATL,85.0,R. Holland II,DET,Holland II 11' Driving Floating Bank Jump Shot (5 PTS),Made Shot,Driving Floating Bank Jump Shot,80,78,11,1,2.0,2.0,h
+S2425-G0185,4,05:49,DET,,ATL,,R. Holland II,DET,SUB: Ivey FOR Holland II,Substitution,,0,0,0,0,,,h
+S2425-G0151,2,07:52,BKN,,DET,,R. Holland II,DET,Holland II S.FOUL (P1.T4) (D.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2425-G0151,2,06:34,BKN,,DET,,R. Holland II,DET,MISS Holland II 3' Driving Layup,Missed Shot,Driving Layup Shot,16,26,3,1,2.0,0.0,v
+S2425-G0151,2,06:34,BKN,,DET,,R. Holland II,DET,Holland II P.FOUL (P2.PN) (D.Taylor),Foul,Personal,0,0,0,0,,,v
+S2425-G0151,2,06:34,BKN,,DET,,R. Holland II,DET,SUB: Cunningham FOR Holland II,Substitution,,0,0,0,0,,,v
+S2425-G0002,2,10:15,DET,38.0,MIA,21.0,R. Holland II,DET,Holland II Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0002,2,10:15,DET,39.0,MIA,21.0,R. Holland II,DET,Holland II Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0002,2,08:36,DET,,MIA,,R. Holland II,DET,MISS Holland II 8' Driving Layup,Missed Shot,Driving Layup Shot,44,68,8,1,2.0,0.0,h
+S2425-G0002,2,08:35,DET,,MIA,,R. Holland II,DET,Holland II REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0002,2,08:01,DET,,MIA,,R. Holland II,DET,Holland II P.FOUL (P1.T1) (T.Ford),Foul,Personal,0,0,0,0,,,h
+S2425-G0002,2,06:26,DET,,MIA,,R. Holland II,DET,MISS Holland II 14' Step Back Jump Shot,Missed Shot,Step Back Jump shot,137,26,14,1,2.0,0.0,h
+S2425-G0002,2,04:59,DET,,MIA,,R. Holland II,DET,SUB: Stewart FOR Holland II,Substitution,,0,0,0,0,,,h
+S2425-G0002,4,10:48,DET,,MIA,,R. Holland II,DET,Holland II REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0002,4,10:00,DET,,MIA,,R. Holland II,DET,Holland II REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0002,4,09:31,DET,,MIA,,R. Holland II,DET,Holland II REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0002,4,04:58,DET,,MIA,,R. Holland II,DET,SUB: Cunningham FOR Holland II,Substitution,,0,0,0,0,,,h
 S2425-G0080,1,02:24,CLE,,DET,,R. Holland II,DET,Holland II REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
 S2425-G0080,1,00:58.200000,CLE,,DET,,R. Holland II,DET,Holland II REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
 S2425-G0080,2,11:23,CLE,,DET,,R. Holland II,DET,Holland II BLOCK (1 BLK),,,0,0,0,0,,,v
@@ -39,6 +64,29 @@ S2425-G0063,4,12:00,DET,,IND,,R. Holland II,DET,Holland II T.FOUL (P0.T0) (B.Bar
 S2425-G0063,4,11:07,DET,,IND,,R. Holland II,DET,Holland II S.FOUL (P1.T1) (T.Ricks),Foul,Shooting,0,0,0,0,,,h
 S2425-G0063,4,08:19,DET,,IND,,R. Holland II,DET,SUB: Cunningham FOR Holland II,Substitution,,0,0,0,0,,,h
 S2425-G0063,4,00:07,DET,,IND,,R. Holland II,DET,SUB: Beasley FOR Holland II,Substitution,,0,0,0,0,,,h
+S2425-G0156,1,02:04,DET,,LAL,,R. Holland II,DET,Holland II STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0156,1,01:47,DET,,LAL,,R. Holland II,DET,Holland II REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0156,1,01:42,DET,26.0,LAL,20.0,R. Holland II,DET,Holland II 2' Running Layup (2 PTS),Made Shot,Running Layup Shot,-11,16,2,1,2.0,2.0,h
+S2425-G0156,1,00:38.800000,DET,,LAL,,R. Holland II,DET,Holland II STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0156,1,00:01,DET,,LAL,,R. Holland II,DET,MISS Holland II 33' 3PT Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-53,325,33,1,3.0,0.0,h
+S2425-G0156,2,11:14,DET,,LAL,,R. Holland II,DET,Holland II S.FOUL (P1.T2) (B.Forte),Foul,Shooting,0,0,0,0,,,h
+S2425-G0156,2,10:36,DET,,LAL,,R. Holland II,DET,Holland II REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0156,2,10:20,DET,,LAL,,R. Holland II,DET,MISS Holland II 3PT Jump Shot,Missed Shot,Jump Shot,229,27,0,1,3.0,0.0,h
+S2425-G0156,2,09:35,DET,39.0,LAL,28.0,R. Holland II,DET,Holland II 12' Driving Floating Jump Shot (4 PTS) (Ivey 4 AST),Made Shot,Driving Floating Jump Shot,36,114,12,1,2.0,2.0,h
+S2425-G0156,2,08:49,DET,,LAL,,R. Holland II,DET,MISS Holland II 3PT Jump Shot,Missed Shot,Jump Shot,234,8,0,1,3.0,0.0,h
+S2425-G0156,2,06:56,DET,,LAL,,R. Holland II,DET,Holland II REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0156,2,06:56,DET,47.0,LAL,33.0,R. Holland II,DET,Holland II 1' Putback Layup (6 PTS),Made Shot,Putback Layup Shot,-4,12,1,1,2.0,2.0,h
+S2425-G0156,2,06:33,DET,,LAL,,R. Holland II,DET,MISS Holland II 3PT Jump Shot,Missed Shot,Jump Shot,227,7,0,1,3.0,0.0,h
+S2425-G0156,2,05:41,DET,,LAL,,R. Holland II,DET,MISS Holland II 3PT Jump Shot,Missed Shot,Jump Shot,229,27,0,1,3.0,0.0,h
+S2425-G0156,2,05:04,DET,53.0,LAL,39.0,R. Holland II,DET,Holland II Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0156,2,05:04,DET,54.0,LAL,39.0,R. Holland II,DET,Holland II Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0156,2,04:51,DET,,LAL,,R. Holland II,DET,SUB: Ivey FOR Holland II,Substitution,,0,0,0,0,,,h
+S2425-G0156,3,00:33.700000,DET,,LAL,,R. Holland II,DET,SUB: Duren FOR Holland II,Substitution,,0,0,0,0,,,h
+S2425-G0156,4,09:52,DET,,LAL,,R. Holland II,DET,Holland II REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0156,4,06:14,DET,98.0,LAL,88.0,R. Holland II,DET,Holland II Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0156,4,06:14,DET,99.0,LAL,88.0,R. Holland II,DET,Holland II Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0156,4,05:49,DET,101.0,LAL,90.0,R. Holland II,DET,Holland II 6' Driving Finger Roll Layup (12 PTS),Made Shot,Driving Finger Roll Layup Shot,59,14,6,1,2.0,2.0,h
+S2425-G0156,4,05:15,DET,,LAL,,R. Holland II,DET,SUB: Harris FOR Holland II,Substitution,,0,0,0,0,,,h
 S2425-G0120,1,02:53,PHI,,DET,,R. Holland II,DET,Holland II REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
 S2425-G0120,1,01:34,PHI,,DET,,R. Holland II,DET,MISS Holland II 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-125,15,13,1,2.0,0.0,v
 S2425-G0120,1,01:17,PHI,,DET,,R. Holland II,DET,Holland II REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
@@ -50,6 +98,39 @@ S2425-G0120,2,07:46,PHI,28.0,DET,37.0,R. Holland II,DET,Holland II 1' Running La
 S2425-G0120,2,06:49,PHI,,DET,,R. Holland II,DET,SUB: Stewart FOR Holland II,Substitution,,0,0,0,0,,,v
 S2425-G0120,4,10:48,PHI,68.0,DET,87.0,R. Holland II,DET,Holland II 1' Turnaround Hook Shot (6 PTS) (Duren 1 AST),Made Shot,Turnaround Hook Shot,6,4,1,1,2.0,2.0,v
 S2425-G0120,4,08:56,PHI,,DET,,R. Holland II,DET,SUB: Ivey FOR Holland II,Substitution,,0,0,0,0,,,v
+S2425-G0011,1,06:32,TOR,,DET,,R. Holland II,DET,MISS Holland II 25' 3PT Jump Shot,Missed Shot,Jump Shot,224,116,25,1,3.0,0.0,v
+S2425-G0011,1,05:33,TOR,21.0,DET,18.0,R. Holland II,DET,Holland II Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0011,1,05:33,TOR,21.0,DET,19.0,R. Holland II,DET,Holland II Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0011,1,04:36,TOR,,DET,,R. Holland II,DET,Holland II S.FOUL (P1.T3) (T.Ricks),Foul,Shooting,0,0,0,0,,,v
+S2425-G0011,1,04:21,TOR,,DET,,R. Holland II,DET,MISS Holland II 25' 3PT Jump Shot,Missed Shot,Jump Shot,-120,222,25,1,3.0,0.0,v
+S2425-G0011,1,01:21,TOR,,DET,,R. Holland II,DET,Holland II REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0011,1,01:19,TOR,27.0,DET,29.0,R. Holland II,DET,Holland II 2' Finger Roll Layup (4 PTS),Made Shot,Finger Roll Layup Shot,-15,-1,2,1,2.0,2.0,v
+S2425-G0011,1,00:45.900000,TOR,,DET,,R. Holland II,DET,Holland II REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0011,2,11:47,TOR,,DET,,R. Holland II,DET,Holland II REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0011,2,10:22,TOR,30.0,DET,37.0,R. Holland II,DET,Holland II 4' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,29,31,4,1,2.0,2.0,v
+S2425-G0011,2,09:24,TOR,,DET,,R. Holland II,DET,MISS Holland II 3PT Running Jump Shot,Missed Shot,Running Jump Shot,230,-1,0,1,3.0,0.0,v
+S2425-G0011,2,08:22,TOR,,DET,,R. Holland II,DET,Holland II REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0011,2,08:06,TOR,,DET,,R. Holland II,DET,MISS Holland II 3PT Jump Shot,Missed Shot,Jump Shot,229,-4,0,1,3.0,0.0,v
+S2425-G0011,2,07:42,TOR,,DET,,R. Holland II,DET,Holland II Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0011,2,07:36,TOR,,DET,,R. Holland II,DET,Holland II REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0011,2,06:42,TOR,,DET,,R. Holland II,DET,Holland II STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0011,2,06:42,TOR,,DET,,R. Holland II,DET,SUB: Ivey FOR Holland II,Substitution,,0,0,0,0,,,v
+S2425-G0011,2,01:52,TOR,,DET,,R. Holland II,DET,Holland II REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0011,2,01:36,TOR,,DET,,R. Holland II,DET,MISS Holland II 25' 3PT Jump Shot,Missed Shot,Jump Shot,-146,203,25,1,3.0,0.0,v
+S2425-G0011,2,00:37.900000,TOR,,DET,,R. Holland II,DET,SUB: Beasley FOR Holland II,Substitution,,0,0,0,0,,,v
+S2425-G0011,3,10:31,TOR,,DET,,R. Holland II,DET,Holland II BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0011,3,07:36,TOR,,DET,,R. Holland II,DET,MISS Holland II 3PT Jump Shot,Missed Shot,Jump Shot,227,2,0,1,3.0,0.0,v
+S2425-G0011,3,07:29,TOR,,DET,,R. Holland II,DET,Holland II STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0011,3,07:23,TOR,68.0,DET,62.0,R. Holland II,DET,Holland II 4' Running Layup (8 PTS),Made Shot,Running Layup Shot,32,20,4,1,2.0,2.0,v
+S2425-G0011,3,05:57,TOR,71.0,DET,65.0,R. Holland II,DET,Holland II Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0011,3,05:57,TOR,71.0,DET,66.0,R. Holland II,DET,Holland II Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0011,3,05:42,TOR,,DET,,R. Holland II,DET,Holland II STEAL (3 STL),,,0,0,0,0,,,v
+S2425-G0011,3,05:37,TOR,,DET,,R. Holland II,DET,MISS Holland II 2' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,-5,17,2,1,2.0,0.0,v
+S2425-G0011,3,04:49,TOR,,DET,,R. Holland II,DET,Holland II REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0011,3,04:47,TOR,,DET,,R. Holland II,DET,MISS Holland II 3' Hook Shot,Missed Shot,Hook Shot,22,12,3,1,2.0,0.0,v
+S2425-G0011,3,04:46,TOR,,DET,,R. Holland II,DET,Holland II REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0011,3,04:44,TOR,,DET,,R. Holland II,DET,Holland II Bad Pass Turnover (P2.T10),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0011,3,03:05,TOR,,DET,,R. Holland II,DET,SUB: Ivey FOR Holland II,Substitution,,0,0,0,0,,,v
 S2425-G0089,1,02:31,DET,24.0,BOS,29.0,R. Holland II,DET,Holland II 27' 3PT Jump Shot (3 PTS) (Ivey 2 AST),Made Shot,Jump Shot,-213,167,27,1,3.0,3.0,h
 S2425-G0089,1,01:13,DET,,BOS,,R. Holland II,DET,Holland II S.FOUL (P1.PN) (R.Mott),Foul,Shooting,0,0,0,0,,,h
 S2425-G0089,2,11:19,DET,,BOS,,R. Holland II,DET,Holland II REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
@@ -58,6 +139,21 @@ S2425-G0089,2,11:01,DET,33.0,BOS,42.0,R. Holland II,DET,Holland II 6' Driving Fl
 S2425-G0089,2,10:48,DET,,BOS,,R. Holland II,DET,Holland II P.FOUL (P2.T1) (S.Jelks),Foul,Personal,0,0,0,0,,,h
 S2425-G0089,2,09:42,DET,,BOS,,R. Holland II,DET,MISS Holland II 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-234,0,0,1,3.0,0.0,h
 S2425-G0089,2,09:34,DET,,BOS,,R. Holland II,DET,SUB: Hardaway Jr. FOR Holland II,Substitution,,0,0,0,0,,,h
+S2425-G0134,1,03:57,DET,,NYK,,R. Holland II,DET,Holland II Out of Bounds Lost Ball Turnover (P1.T7),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2425-G0134,1,03:34,DET,,NYK,,R. Holland II,DET,Holland II S.FOUL (P1.PN) (J.Ralls),Foul,Shooting,0,0,0,0,,,h
+S2425-G0134,1,01:07,DET,,NYK,,R. Holland II,DET,MISS Holland II 26' 3PT Jump Shot,Missed Shot,Jump Shot,-81,248,26,1,3.0,0.0,h
+S2425-G0134,1,00:02.200000,DET,,NYK,,R. Holland II,DET,Holland II REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0134,1,00:00.400000,DET,,NYK,,R. Holland II,DET,MISS Holland II 47' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,81,467,47,1,3.0,0.0,h
+S2425-G0134,2,11:34,DET,15.0,NYK,39.0,R. Holland II,DET,Holland II 4' Running Layup (2 PTS),Made Shot,Running Layup Shot,-6,37,4,1,2.0,2.0,h
+S2425-G0134,2,09:13,DET,19.0,NYK,49.0,R. Holland II,DET,Holland II 2' Driving Layup (4 PTS) (Duren 1 AST),Made Shot,Driving Layup Shot,12,12,2,1,2.0,2.0,h
+S2425-G0134,2,08:41,DET,,NYK,,R. Holland II,DET,Holland II Lost Ball Turnover (P2.T10),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0134,2,08:38,DET,,NYK,,R. Holland II,DET,Holland II STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0134,2,07:36,DET,,NYK,,R. Holland II,DET,SUB: Harris FOR Holland II,Substitution,,0,0,0,0,,,h
+S2425-G0134,4,05:06,DET,,NYK,,R. Holland II,DET,Holland II Out of Bounds - Bad Pass Turnover Turnover (P3.T21),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0134,4,04:12,DET,92.0,NYK,118.0,R. Holland II,DET,Holland II 1' Running Dunk (6 PTS) (Moore Jr. 1 AST),Made Shot,Running Dunk Shot,-1,5,1,1,2.0,2.0,h
+S2425-G0134,4,04:12,DET,93.0,NYK,118.0,R. Holland II,DET,Holland II Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2425-G0134,4,00:37.400000,DET,,NYK,,R. Holland II,DET,Holland II REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0134,4,00:27.700000,DET,98.0,NYK,128.0,R. Holland II,DET,Holland II 2' Driving Reverse Layup (9 PTS),Made Shot,Driving Reverse Layup Shot,-20,1,2,1,2.0,2.0,h
 S2425-G0105,1,04:03,MIA,,DET,,R. Holland II,DET,MISS Holland II 3' Driving Layup,Missed Shot,Driving Layup Shot,-7,31,3,1,2.0,0.0,v
 S2425-G0105,1,03:06,MIA,23.0,DET,26.0,R. Holland II,DET,Holland II Running Layup (2 PTS),Made Shot,Running Layup Shot,0,4,0,1,2.0,2.0,v
 S2425-G0105,1,01:39,MIA,,DET,,R. Holland II,DET,Holland II REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
@@ -72,3 +168,29 @@ S2425-G0105,4,11:48,MIA,,DET,,R. Holland II,DET,Holland II S.FOUL (P3.T1) (M.Kog
 S2425-G0105,4,11:10,MIA,,DET,,R. Holland II,DET,Holland II S.FOUL (P4.T3) (M.Kogut),Foul,Shooting,0,0,0,0,,,v
 S2425-G0105,4,10:25,MIA,,DET,,R. Holland II,DET,MISS Holland II 2' Driving Layup,Missed Shot,Driving Layup Shot,15,14,2,1,2.0,0.0,v
 S2425-G0105,4,09:16,MIA,,DET,,R. Holland II,DET,SUB: Harris FOR Holland II,Substitution,,0,0,0,0,,,v
+S2425-G0201,2,10:22,DET,21.0,HOU,26.0,R. Holland II,DET,Holland II Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0201,2,10:22,DET,,HOU,,R. Holland II,DET,MISS Holland II Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0201,2,07:59,DET,,HOU,,R. Holland II,DET,MISS Holland II 3PT Jump Shot,Missed Shot,Jump Shot,232,8,0,1,3.0,0.0,h
+S2425-G0201,2,06:46,DET,,HOU,,R. Holland II,DET,MISS Holland II 25' 3PT Jump Shot,Missed Shot,Jump Shot,-152,198,25,1,3.0,0.0,h
+S2425-G0201,2,06:15,DET,34.0,HOU,30.0,R. Holland II,DET,Holland II 3PT Pullup Jump Shot (4 PTS) (Fontecchio 2 AST),Made Shot,Pullup Jump shot,-227,55,0,1,3.0,3.0,h
+S2425-G0201,2,05:49,DET,,HOU,,R. Holland II,DET,MISS Holland II 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,65,253,26,1,3.0,0.0,h
+S2425-G0201,2,05:34,DET,,HOU,,R. Holland II,DET,Holland II REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0201,2,05:33,DET,,HOU,,R. Holland II,DET,Holland II Offensive Charge Foul (P1) (E.Malloy),Foul,Offensive Charge,0,0,0,0,,,h
+S2425-G0201,2,05:33,DET,,HOU,,R. Holland II,DET,Holland II Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0201,2,05:33,DET,,HOU,,R. Holland II,DET,SUB: Harris FOR Holland II,Substitution,,0,0,0,0,,,h
+S2425-G0201,3,00:00.800000,DET,,HOU,,R. Holland II,DET,MISS Holland II 69' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,76,688,69,1,3.0,0.0,h
+S2425-G0201,4,11:03,DET,,HOU,,R. Holland II,DET,MISS Holland II 3PT Jump Shot,Missed Shot,Jump Shot,-233,17,0,1,3.0,0.0,h
+S2425-G0201,4,08:39,DET,,HOU,,R. Holland II,DET,SUB: Hardaway Jr. FOR Holland II,Substitution,,0,0,0,0,,,h
+S2425-G0169,1,00:22.300000,CHA,,DET,,R. Holland II,DET,Holland II REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0169,2,10:59,CHA,,DET,,R. Holland II,DET,Holland II P.FOUL (P1.T1) (T.Maddox),Foul,Personal,0,0,0,0,,,v
+S2425-G0169,2,10:07,CHA,,DET,,R. Holland II,DET,Holland II REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0169,2,08:39,CHA,25.0,DET,34.0,R. Holland II,DET,Holland II 26' 3PT Step Back Jump Shot (3 PTS) (Cunningham 2 AST),Made Shot,Step Back Jump shot,-158,210,26,1,3.0,3.0,v
+S2425-G0169,2,07:39,CHA,,DET,,R. Holland II,DET,MISS Holland II 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-150,87,17,1,2.0,0.0,v
+S2425-G0169,2,06:39,CHA,,DET,,R. Holland II,DET,Holland II REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0169,2,06:17,CHA,,DET,,R. Holland II,DET,SUB: Fontecchio FOR Holland II,Substitution,,0,0,0,0,,,v
+S2425-G0169,3,02:22,CHA,71.0,DET,69.0,R. Holland II,DET,Holland II 3PT Jump Shot (6 PTS) (Stewart 6 AST),Made Shot,Jump Shot,223,47,0,1,3.0,3.0,v
+S2425-G0169,4,10:46,CHA,,DET,,R. Holland II,DET,Holland II REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0169,4,10:44,CHA,,DET,,R. Holland II,DET,Holland II Out of Bounds Lost Ball Turnover (P1.T9),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2425-G0169,4,07:10,CHA,,DET,,R. Holland II,DET,MISS Holland II 3PT Jump Shot,Missed Shot,Jump Shot,230,20,0,1,3.0,0.0,v
+S2425-G0169,4,06:34,CHA,,DET,,R. Holland II,DET,SUB: Harris FOR Holland II,Substitution,,0,0,0,0,,,v
+S2425-G0169,4,00:06.300000,CHA,106.0,DET,107.0,R. Holland II,DET,Holland II 2' Running Layup (8 PTS),Made Shot,Running Layup Shot,-4,20,2,1,2.0,2.0,v

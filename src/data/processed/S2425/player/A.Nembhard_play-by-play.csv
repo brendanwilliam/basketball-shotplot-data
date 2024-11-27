@@ -1,4 +1,21 @@
 game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0170,1,10:51,IND,,ORL,,A. Nembhard,IND,Nembhard REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0170,1,10:33,IND,4.0,ORL,2.0,A. Nembhard,IND,Nembhard 11' Fadeaway Jumper (2 PTS),Made Shot,Fadeaway Jump Shot,-109,22,11,1,2.0,2.0,h
+S2425-G0170,1,04:47,IND,,ORL,,A. Nembhard,IND,SUB: McConnell FOR Nembhard,Substitution,,0,0,0,0,,,h
+S2425-G0170,2,06:53,IND,,ORL,,A. Nembhard,IND,Nembhard STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0170,2,06:46,IND,,ORL,,A. Nembhard,IND,MISS Nembhard 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-75,96,12,1,2.0,0.0,h
+S2425-G0170,2,05:12,IND,,ORL,,A. Nembhard,IND,Nembhard S.FOUL (P1.T4) (D.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2425-G0170,2,02:36,IND,56.0,ORL,51.0,A. Nembhard,IND,Nembhard 24' 3PT Jump Shot (5 PTS) (Mathurin 1 AST),Made Shot,Jump Shot,235,17,24,1,3.0,3.0,h
+S2425-G0170,3,09:42,IND,,ORL,,A. Nembhard,IND,Nembhard Out of Bounds - Bad Pass Turnover Turnover (P1.T6),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0170,3,05:46,IND,,ORL,,A. Nembhard,IND,MISS Nembhard 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,102,11,10,1,2.0,0.0,h
+S2425-G0170,3,05:16,IND,,ORL,,A. Nembhard,IND,MISS Nembhard 11' Step Back Jump Shot,Missed Shot,Step Back Jump shot,-16,113,11,1,2.0,0.0,h
+S2425-G0170,3,04:58,IND,,ORL,,A. Nembhard,IND,Nembhard S.FOUL (P2.T4) (D.Taylor),Foul,Shooting,0,0,0,0,,,h
+S2425-G0170,3,04:58,IND,,ORL,,A. Nembhard,IND,SUB: McConnell FOR Nembhard,Substitution,,0,0,0,0,,,h
+S2425-G0170,4,08:45,IND,,ORL,,A. Nembhard,IND,Nembhard REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0170,4,07:48,IND,,ORL,,A. Nembhard,IND,MISS Nembhard 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-53,166,17,1,2.0,0.0,h
+S2425-G0170,4,06:34,IND,,ORL,,A. Nembhard,IND,Nembhard S.FOUL (P3.PN) (C.Kirkland),Foul,Shooting,0,0,0,0,,,h
+S2425-G0170,4,01:38,IND,,ORL,,A. Nembhard,IND,MISS Nembhard 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-40,113,12,1,2.0,0.0,h
+S2425-G0170,4,00:53.500000,IND,,ORL,,A. Nembhard,IND,MISS Nembhard 25' 3PT Jump Shot,Missed Shot,Jump Shot,213,122,25,1,3.0,0.0,h
 S2425-G0081,1,10:53,NYK,,IND,,A. Nembhard,IND,Nembhard REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
 S2425-G0081,1,06:36,NYK,,IND,,A. Nembhard,IND,Nembhard STEAL (1 STL),,,0,0,0,0,,,v
 S2425-G0081,1,05:29,NYK,,IND,,A. Nembhard,IND,Nembhard Out of Bounds - Bad Pass Turnover Turnover (P1.T2),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
@@ -87,3 +104,23 @@ S2425-G0102,4,06:53,ORL,,IND,,A. Nembhard,IND,Nembhard REBOUND (Off:0 Def:3),Reb
 S2425-G0102,4,05:51,ORL,102.0,IND,107.0,A. Nembhard,IND,Nembhard 16' Pullup Jump Shot (13 PTS) (I. Jackson 2 AST),Made Shot,Pullup Jump shot,92,127,16,1,2.0,2.0,v
 S2425-G0102,4,04:48,ORL,,IND,,A. Nembhard,IND,MISS Nembhard 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,120,117,17,1,2.0,0.0,v
 S2425-G0102,4,04:34,ORL,,IND,,A. Nembhard,IND,SUB: Sheppard FOR Nembhard,Substitution,,0,0,0,0,,,v
+S2425-G0165,1,11:40,DAL,0.0,IND,3.0,A. Nembhard,IND,Nembhard 28' 3PT Jump Shot (3 PTS) (Siakam 1 AST),Made Shot,Jump Shot,-13,281,28,1,3.0,3.0,v
+S2425-G0165,1,11:18,DAL,,IND,,A. Nembhard,IND,Nembhard REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0165,1,10:13,DAL,,IND,,A. Nembhard,IND,MISS Nembhard 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,33,67,7,1,2.0,0.0,v
+S2425-G0165,1,08:23,DAL,,IND,,A. Nembhard,IND,Nembhard REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0165,1,05:04,DAL,,IND,,A. Nembhard,IND,SUB: McConnell FOR Nembhard,Substitution,,0,0,0,0,,,v
+S2425-G0165,2,05:47,DAL,,IND,,A. Nembhard,IND,MISS Nembhard 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-7,254,25,1,3.0,0.0,v
+S2425-G0165,2,01:24,DAL,57.0,IND,57.0,A. Nembhard,IND,Nembhard 1' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,10,1,1,1,2.0,2.0,v
+S2425-G0165,3,10:37,DAL,64.0,IND,66.0,A. Nembhard,IND,Nembhard Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0165,3,10:37,DAL,64.0,IND,67.0,A. Nembhard,IND,Nembhard Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0165,3,10:01,DAL,,IND,,A. Nembhard,IND,Nembhard P.FOUL (P1.T1) (M.Boland),Foul,Personal,0,0,0,0,,,v
+S2425-G0165,3,09:50,DAL,67.0,IND,69.0,A. Nembhard,IND,Nembhard 2' Running Layup (9 PTS) (Mathurin 2 AST),Made Shot,Running Layup Shot,23,5,2,1,2.0,2.0,v
+S2425-G0165,3,08:06,DAL,,IND,,A. Nembhard,IND,MISS Nembhard 5' Driving Layup,Missed Shot,Driving Layup Shot,21,50,5,1,2.0,0.0,v
+S2425-G0165,3,07:30,DAL,,IND,,A. Nembhard,IND,Nembhard P.FOUL (P2.T3) (S.Foster),Foul,Personal,0,0,0,0,,,v
+S2425-G0165,3,07:25,DAL,,IND,,A. Nembhard,IND,Nembhard S.FOUL (P3.T4) (M.Boland),Foul,Shooting,0,0,0,0,,,v
+S2425-G0165,3,07:11,DAL,,IND,,A. Nembhard,IND,MISS Nembhard 12' Jump Shot,Missed Shot,Jump Shot,-43,110,12,1,2.0,0.0,v
+S2425-G0165,3,05:49,DAL,,IND,,A. Nembhard,IND,SUB: McConnell FOR Nembhard,Substitution,,0,0,0,0,,,v
+S2425-G0165,3,00:47.700000,DAL,,IND,,A. Nembhard,IND,MISS Nembhard 1' Driving Layup,Missed Shot,Driving Layup Shot,-9,11,1,1,2.0,0.0,v
+S2425-G0165,3,00:37,DAL,,IND,,A. Nembhard,IND,SUB: Haliburton FOR Nembhard,Substitution,,0,0,0,0,,,v
+S2425-G0165,4,05:37,DAL,116.0,IND,118.0,A. Nembhard,IND,Nembhard 3' Driving Finger Roll Layup (11 PTS) (Haliburton 11 AST),Made Shot,Driving Finger Roll Layup Shot,26,6,3,1,2.0,2.0,v
+S2425-G0165,4,03:03,DAL,,IND,,A. Nembhard,IND,Nembhard REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v

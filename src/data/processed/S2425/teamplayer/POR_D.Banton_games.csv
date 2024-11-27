@@ -1,13 +1,135 @@
 game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0193,4,10:02,MIN,,POR,,D. Banton,POR,Banton BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0193,4,09:00,MIN,103.0,POR,79.0,D. Banton,POR,Banton 4' Driving Layup (2 PTS) (Sharpe 2 AST),Made Shot,Driving Layup Shot,-7,42,4,1,2.0,2.0,v
+S2425-G0193,4,07:59,MIN,,POR,,D. Banton,POR,MISS Banton 25' 3PT Jump Shot,Missed Shot,Jump Shot,-178,169,25,1,3.0,0.0,v
+S2425-G0193,4,07:40,MIN,103.0,POR,81.0,D. Banton,POR,Banton 4' Running Layup (4 PTS),Made Shot,Running Layup Shot,-20,29,4,1,2.0,2.0,v
+S2425-G0193,4,07:09,MIN,,POR,,D. Banton,POR,Banton REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0193,4,05:42,MIN,,POR,,D. Banton,POR,Banton STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0193,4,05:42,MIN,108.0,POR,85.0,D. Banton,POR,Banton 1' Running Dunk (6 PTS),Made Shot,Running Dunk Shot,-5,11,1,1,2.0,2.0,v
+S2425-G0193,4,05:42,MIN,108.0,POR,86.0,D. Banton,POR,Banton Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0193,4,05:22,MIN,110.0,POR,88.0,D. Banton,POR,Banton 1' Driving Reverse Layup (9 PTS),Made Shot,Driving Reverse Layup Shot,-1,14,1,1,2.0,2.0,v
+S2425-G0193,4,05:09,MIN,,POR,,D. Banton,POR,Banton REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0193,4,04:35,MIN,,POR,,D. Banton,POR,Banton STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0193,4,03:13,MIN,115.0,POR,91.0,D. Banton,POR,Banton Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0193,4,03:13,MIN,,POR,,D. Banton,POR,MISS Banton Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0193,4,02:10,MIN,119.0,POR,94.0,D. Banton,POR,Banton Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0193,4,02:10,MIN,119.0,POR,95.0,D. Banton,POR,Banton Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0193,4,00:38.500000,MIN,,POR,,D. Banton,POR,MISS Banton 2' Running Layup,Missed Shot,Running Layup Shot,-4,24,2,1,2.0,0.0,v
+S2425-G0193,4,00:25.500000,MIN,,POR,,D. Banton,POR,MISS Banton 14' Step Back Jump Shot,Missed Shot,Step Back Jump shot,56,131,14,1,2.0,0.0,v
+S2425-G0183,2,04:45,SAS,,POR,,D. Banton,POR,MISS Banton 1' Running Layup,Missed Shot,Running Layup Shot,-2,8,1,1,2.0,0.0,v
+S2425-G0183,2,00:31,SAS,,POR,,D. Banton,POR,MISS Banton 25' 3PT Jump Shot,Missed Shot,Jump Shot,-234,90,25,1,3.0,0.0,v
+S2425-G0183,2,00:02.500000,SAS,,POR,,D. Banton,POR,Banton REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0183,2,00:01.400000,SAS,,POR,,D. Banton,POR,MISS Banton 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,5,10,1,1,2.0,0.0,v
+S2425-G0183,3,00:55.800000,SAS,,POR,,D. Banton,POR,Banton STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0183,3,00:10.600000,SAS,89.0,POR,79.0,D. Banton,POR,Banton 14' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,-72,117,14,1,2.0,2.0,v
+S2425-G0183,4,11:13,SAS,92.0,POR,82.0,D. Banton,POR,Banton Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0183,4,11:13,SAS,92.0,POR,83.0,D. Banton,POR,Banton Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0183,4,10:48,SAS,,POR,,D. Banton,POR,Banton REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0183,4,10:36,SAS,,POR,,D. Banton,POR,MISS Banton 1' Driving Layup,Missed Shot,Driving Layup Shot,1,12,1,1,2.0,0.0,v
+S2425-G0183,4,10:20,SAS,,POR,,D. Banton,POR,Banton REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0183,4,09:41,SAS,,POR,,D. Banton,POR,MISS Banton 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-23,15,3,1,2.0,0.0,v
+S2425-G0183,4,09:34,SAS,,POR,,D. Banton,POR,MISS Banton 3PT Jump Shot,Missed Shot,Jump Shot,223,2,0,1,3.0,0.0,v
+S2425-G0183,4,05:53,SAS,,POR,,D. Banton,POR,MISS Banton 2' Driving Layup,Missed Shot,Driving Layup Shot,-2,20,2,1,2.0,0.0,v
+S2425-G0183,4,05:08,SAS,,POR,,D. Banton,POR,SUB: Avdija FOR Banton,Substitution,,0,0,0,0,,,v
+S2425-G0183,4,00:28.800000,SAS,,POR,,D. Banton,POR,MISS Banton Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0183,4,00:28.800000,SAS,,POR,,D. Banton,POR,MISS Banton Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0140,4,08:56,POR,,OKC,,D. Banton,POR,Banton BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0140,4,08:35,POR,89.0,OKC,115.0,D. Banton,POR,Banton 16' Floating Jump Shot (2 PTS),Made Shot,Floating Jump shot,141,74,16,1,2.0,2.0,h
+S2425-G0140,4,08:08,POR,91.0,OKC,115.0,D. Banton,POR,Banton 3' Driving Layup (4 PTS) (Walker 1 AST),Made Shot,Driving Layup Shot,9,25,3,1,2.0,2.0,h
+S2425-G0140,4,08:08,POR,92.0,OKC,115.0,D. Banton,POR,Banton Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2425-G0140,4,03:29,POR,,OKC,,D. Banton,POR,MISS Banton Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0140,4,03:29,POR,104.0,OKC,126.0,D. Banton,POR,Banton Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0140,4,03:05,POR,,OKC,,D. Banton,POR,Banton Bad Pass Turnover (P1.T18),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0140,4,03:05,POR,,OKC,,D. Banton,POR,Banton S.FOUL (P1.PN) (J.Orr),Foul,Shooting,0,0,0,0,,,h
+S2425-G0140,4,03:01,POR,105.0,OKC,129.0,D. Banton,POR,Banton Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0140,4,03:01,POR,106.0,OKC,129.0,D. Banton,POR,Banton Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0140,4,01:02,POR,113.0,OKC,133.0,D. Banton,POR,Banton 3' Running Layup (10 PTS) (Walker 3 AST),Made Shot,Running Layup Shot,-20,16,3,1,2.0,2.0,h
+S2425-G0140,4,00:38,POR,,OKC,,D. Banton,POR,MISS Banton Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0140,4,00:38,POR,114.0,OKC,135.0,D. Banton,POR,Banton Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0140,4,00:22.700000,POR,,OKC,,D. Banton,POR,Banton OFF.Foul (P2) (B.Taylor),Foul,Offensive,0,0,0,0,,,h
+S2425-G0140,4,00:22.700000,POR,,OKC,,D. Banton,POR,Banton Offensive Foul Turnover (P2.T19),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
 S2425-G0072,3,03:10,POR,,GSW,,D. Banton,POR,Banton REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
 S2425-G0072,3,02:07,POR,,GSW,,D. Banton,POR,MISS Banton 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-50,67,8,1,2.0,0.0,h
 S2425-G0072,4,03:38,POR,,GSW,,D. Banton,POR,MISS Banton 5' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,42,28,5,1,2.0,0.0,h
 S2425-G0072,4,01:25,POR,,GSW,,D. Banton,POR,MISS Banton 24' 3PT Jump Shot,Missed Shot,Jump Shot,-234,58,24,1,3.0,0.0,h
 S2425-G0072,4,00:46.100000,POR,104.0,GSW,137.0,D. Banton,POR,Banton 27' 3PT Step Back Jump Shot (3 PTS) (Reath 1 AST),Made Shot,Step Back Jump shot,-165,216,27,1,3.0,3.0,h
+S2425-G0008,1,03:14,POR,,MIN,,D. Banton,POR,Banton STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0008,1,02:35,POR,,MIN,,D. Banton,POR,Banton REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0008,1,00:30.900000,POR,,MIN,,D. Banton,POR,Banton BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0008,1,00:00.300000,POR,28.0,MIN,17.0,D. Banton,POR,Banton 25' 3PT Jump Shot (3 PTS) (Avdija 1 AST),Made Shot,Jump Shot,-88,236,25,1,3.0,3.0,h
+S2425-G0008,2,10:42,POR,31.0,MIN,19.0,D. Banton,POR,Banton 25' 3PT Jump Shot (6 PTS) (Sharpe 2 AST),Made Shot,Jump Shot,185,171,25,1,3.0,3.0,h
+S2425-G0008,2,09:13,POR,34.0,MIN,22.0,D. Banton,POR,Banton 25' 3PT Jump Shot (9 PTS) (Rupert 1 AST),Made Shot,Jump Shot,-200,150,25,1,3.0,3.0,h
+S2425-G0008,2,07:16,POR,,MIN,,D. Banton,POR,MISS Banton 10' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-77,57,10,1,2.0,0.0,h
+S2425-G0008,2,06:47,POR,,MIN,,D. Banton,POR,Banton L.B.FOUL (P1.T3) (D.Richardson),Foul,Loose Ball,0,0,0,0,,,h
+S2425-G0008,2,05:49,POR,,MIN,,D. Banton,POR,Banton Lost Ball Turnover (P1.T5),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0008,2,05:13,POR,46.0,MIN,37.0,D. Banton,POR,Banton 26' 3PT Jump Shot (12 PTS) (Avdija 5 AST),Made Shot,Jump Shot,13,263,26,1,3.0,3.0,h
+S2425-G0008,2,03:59,POR,,MIN,,D. Banton,POR,Banton Offensive Charge Foul (P2) (T.Brothers),Foul,Offensive Charge,0,0,0,0,,,h
+S2425-G0008,2,03:59,POR,,MIN,,D. Banton,POR,Banton Offensive Foul Turnover (P2.T6),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0008,2,01:36,POR,,MIN,,D. Banton,POR,Banton Traveling Turnover (P3.T7),Turnover,Traveling,0,0,0,0,,,h
+S2425-G0008,3,03:28,POR,,MIN,,D. Banton,POR,Banton BLOCK (2 BLK),,,0,0,0,0,,,h
+S2425-G0008,3,02:47,POR,,MIN,,D. Banton,POR,Banton REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0008,3,01:40,POR,,MIN,,D. Banton,POR,Banton Lost Ball Turnover (P4.T15),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0008,3,00:42.300000,POR,,MIN,,D. Banton,POR,MISS Banton 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-81,113,14,1,2.0,0.0,h
+S2425-G0008,4,11:35,POR,,MIN,,D. Banton,POR,Banton Lost Ball Turnover (P5.T16),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0008,4,10:34,POR,,MIN,,D. Banton,POR,Banton P.FOUL (P3.T1) (T.Brothers),Foul,Personal,0,0,0,0,,,h
+S2425-G0008,4,10:19,POR,,MIN,,D. Banton,POR,Banton REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0008,4,10:07,POR,,MIN,,D. Banton,POR,MISS Banton 28' 3PT Jump Shot,Missed Shot,Jump Shot,17,278,28,1,3.0,0.0,h
+S2425-G0008,4,08:57,POR,,MIN,,D. Banton,POR,SUB: Henderson FOR Banton,Substitution,,0,0,0,0,,,h
+S2425-G0008,4,00:54.500000,POR,,MIN,,D. Banton,POR,MISS Banton 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-152,218,27,1,3.0,0.0,h
+S2425-G0008,4,00:10,POR,,MIN,,D. Banton,POR,Banton REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0008,4,00:10,POR,,MIN,,D. Banton,POR,MISS Banton Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2425-G0031,1,03:15,HOU,,POR,,D. Banton,POR,Banton S.FOUL (P1.PN) (M.Ervin),Foul,Shooting,0,0,0,0,,,v
+S2425-G0031,1,02:14,HOU,,POR,,D. Banton,POR,MISS Banton Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0031,1,02:14,HOU,20.0,POR,17.0,D. Banton,POR,Banton Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0031,1,01:39,HOU,,POR,,D. Banton,POR,MISS Banton 26' 3PT Jump Shot,Missed Shot,Jump Shot,188,176,26,1,3.0,0.0,v
+S2425-G0031,1,01:25,HOU,,POR,,D. Banton,POR,Banton STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0031,1,00:53.400000,HOU,,POR,,D. Banton,POR,MISS Banton 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,75,45,9,1,2.0,0.0,v
+S2425-G0031,1,00:02.100000,HOU,,POR,,D. Banton,POR,MISS Banton 3' Driving Layup,Missed Shot,Driving Layup Shot,-28,11,3,1,2.0,0.0,v
+S2425-G0031,2,11:18,HOU,,POR,,D. Banton,POR,SUB: Camara FOR Banton,Substitution,,0,0,0,0,,,v
+S2425-G0031,2,05:32,HOU,,POR,,D. Banton,POR,MISS Banton 28' 3PT Jump Shot,Missed Shot,Jump Shot,-70,267,28,1,3.0,0.0,v
+S2425-G0031,2,05:15,HOU,,POR,,D. Banton,POR,Banton REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0031,2,05:09,HOU,,POR,,D. Banton,POR,Banton Out of Bounds - Bad Pass Turnover Turnover (P1.T8),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0031,2,04:54,HOU,,POR,,D. Banton,POR,SUB: Avdija FOR Banton,Substitution,,0,0,0,0,,,v
+S2425-G0031,3,03:31,HOU,,POR,,D. Banton,POR,Banton S.FOUL (P2.T4) (M.Myers),Foul,Shooting,0,0,0,0,,,v
+S2425-G0031,3,03:18,HOU,,POR,,D. Banton,POR,Banton Lost Ball Turnover (P2.T12),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0031,3,02:29,HOU,,POR,,D. Banton,POR,MISS Banton 27' 3PT Jump Shot,Missed Shot,Jump Shot,-142,231,27,1,3.0,0.0,v
+S2425-G0031,3,02:04,HOU,,POR,,D. Banton,POR,Banton REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0031,3,01:34,HOU,,POR,,D. Banton,POR,MISS Banton 3' Driving Layup,Missed Shot,Driving Layup Shot,29,15,3,1,2.0,0.0,v
 S2425-G0099,4,02:33,POR,,,,D. Banton,POR,Banton REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0164,4,11:25,NOP,,POR,,D. Banton,POR,Banton STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0164,4,11:20,NOP,,POR,,D. Banton,POR,Banton Lost Ball Turnover (P1.T10),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0164,4,09:22,NOP,87.0,POR,86.0,D. Banton,POR,Banton 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,-11,4,1,1,2.0,2.0,v
+S2425-G0164,4,07:38,NOP,89.0,POR,90.0,D. Banton,POR,Banton 3' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,25,1,3,1,2.0,2.0,v
+S2425-G0164,4,07:03,NOP,89.0,POR,92.0,D. Banton,POR,Banton 1' Running Layup (6 PTS),Made Shot,Running Layup Shot,-9,7,1,1,2.0,2.0,v
+S2425-G0164,4,06:52,NOP,,POR,,D. Banton,POR,Banton STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0164,4,06:49,NOP,89.0,POR,93.0,D. Banton,POR,Banton Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0164,4,06:49,NOP,89.0,POR,94.0,D. Banton,POR,Banton Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0164,4,05:37,NOP,91.0,POR,98.0,D. Banton,POR,Banton 2' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,16,4,2,1,2.0,2.0,v
+S2425-G0164,4,05:16,NOP,,POR,,D. Banton,POR,MISS Banton 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,98,236,26,1,3.0,0.0,v
+S2425-G0164,4,05:02,NOP,,POR,,D. Banton,POR,Banton REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0164,4,04:47,NOP,91.0,POR,100.0,D. Banton,POR,Banton 2' Driving Layup (12 PTS) (Simons 4 AST),Made Shot,Driving Layup Shot,17,1,2,1,2.0,2.0,v
+S2425-G0164,4,04:17,NOP,91.0,POR,102.0,D. Banton,POR,Banton 16' Pullup Jump Shot (14 PTS),Made Shot,Pullup Jump shot,-11,155,16,1,2.0,2.0,v
+S2425-G0164,4,03:26,NOP,93.0,POR,105.0,D. Banton,POR,Banton 26' 3PT Jump Shot (17 PTS) (Camara 3 AST),Made Shot,Jump Shot,-131,230,26,1,3.0,3.0,v
+S2425-G0164,4,00:39.100000,NOP,100.0,POR,118.0,D. Banton,POR,Banton 27' 3PT Step Back Jump Shot (20 PTS),Made Shot,Step Back Jump shot,120,241,27,1,3.0,3.0,v
 S2425-G0112,4,02:49,SAC,105.0,POR,90.0,D. Banton,POR,Banton 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,-27,14,3,1,2.0,2.0,v
 S2425-G0112,4,02:49,SAC,,POR,,D. Banton,POR,MISS Banton Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
 S2425-G0112,4,02:28,SAC,,POR,,D. Banton,POR,Banton Bad Pass Turnover (P1.T18),Turnover,Bad Pass,0,0,0,0,,,v
 S2425-G0112,4,01:58,SAC,,POR,,D. Banton,POR,MISS Banton Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
 S2425-G0112,4,01:58,SAC,,POR,,D. Banton,POR,MISS Banton Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
 S2425-G0112,4,01:56,SAC,,POR,,D. Banton,POR,SUB: Reath FOR Banton,Substitution,,0,0,0,0,,,v
+S2425-G0149,4,10:11,PHX,91.0,POR,67.0,D. Banton,POR,Banton 4' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,-31,18,4,1,2.0,2.0,v
+S2425-G0149,4,09:12,PHX,93.0,POR,73.0,D. Banton,POR,Banton 27' 3PT Jump Shot (5 PTS) (Simons 4 AST),Made Shot,Jump Shot,-141,227,27,1,3.0,3.0,v
+S2425-G0149,4,08:43,PHX,,POR,,D. Banton,POR,Banton STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0149,4,08:40,PHX,93.0,POR,75.0,D. Banton,POR,Banton 2' Running Dunk (7 PTS),Made Shot,Running Dunk Shot,11,20,2,1,2.0,2.0,v
+S2425-G0149,4,06:03,PHX,,POR,,D. Banton,POR,Banton P.FOUL (P1.T2) (B.Adair),Foul,Personal,0,0,0,0,,,v
+S2425-G0149,4,05:11,PHX,,POR,,D. Banton,POR,Banton STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0149,4,05:08,PHX,,POR,,D. Banton,POR,MISS Banton 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-161,202,26,1,3.0,0.0,v
+S2425-G0149,4,04:44,PHX,,POR,,D. Banton,POR,Banton BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0149,4,04:11,PHX,,POR,,D. Banton,POR,Banton P.FOUL (P2.T4) (J.Capers),Foul,Personal,0,0,0,0,,,v
+S2425-G0149,4,02:41,PHX,,POR,,D. Banton,POR,Banton Out of Bounds Lost Ball Turnover (P1.T6),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2425-G0149,4,02:03,PHX,,POR,,D. Banton,POR,Banton REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0149,4,02:01,PHX,97.0,POR,91.0,D. Banton,POR,Banton 2' Driving Dunk (9 PTS),Made Shot,Driving Dunk Shot,4,22,2,1,2.0,2.0,v
+S2425-G0149,4,01:04,PHX,99.0,POR,97.0,D. Banton,POR,Banton 27' 3PT Jump Shot (12 PTS) (Simons 6 AST),Made Shot,Jump Shot,-71,258,27,1,3.0,3.0,v
+S2425-G0149,4,00:28.500000,PHX,,POR,,D. Banton,POR,MISS Banton 26' 3PT Jump Shot,Missed Shot,Jump Shot,97,237,26,1,3.0,0.0,v
+S2425-G0149,4,00:21.100000,PHX,,POR,,D. Banton,POR,SUB: Ayton FOR Banton,Substitution,,0,0,0,0,,,v
+S2425-G0149,4,00:19,PHX,,POR,,D. Banton,POR,SUB: Ayton FOR Banton,Substitution,,0,0,0,0,,,v

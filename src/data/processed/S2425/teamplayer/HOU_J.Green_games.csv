@@ -1,4 +1,32 @@
 game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0192,1,11:46,OKC,0.0,HOU,2.0,J. Green,HOU,Ja. Green 3' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,26,6,3,1,2.0,2.0,v
+S2425-G0192,1,08:57,OKC,,HOU,,J. Green,HOU,Ja. Green REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0192,1,08:37,OKC,,HOU,,J. Green,HOU,Ja. Green REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0192,1,08:34,OKC,,HOU,,J. Green,HOU,MISS Ja. Green 2' Running Layup,Missed Shot,Running Layup Shot,-5,17,2,1,2.0,0.0,v
+S2425-G0192,1,08:18,OKC,,HOU,,J. Green,HOU,MISS Ja. Green 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,107,226,25,1,3.0,0.0,v
+S2425-G0192,1,06:19,OKC,17.0,HOU,17.0,J. Green,HOU,Ja. Green 3' Cutting Layup Shot (4 PTS) (Sengun 2 AST),Made Shot,Cutting Layup Shot,-25,13,3,1,2.0,2.0,v
+S2425-G0192,1,05:42,OKC,20.0,HOU,20.0,J. Green,HOU,Ja. Green 26' 3PT Jump Shot (7 PTS) (Brooks 1 AST),Made Shot,Jump Shot,42,255,26,1,3.0,3.0,v
+S2425-G0192,1,05:16,OKC,,HOU,,J. Green,HOU,SUB: Thompson FOR Ja. Green,Substitution,,0,0,0,0,,,v
+S2425-G0192,1,02:11,OKC,27.0,HOU,30.0,J. Green,HOU,Ja. Green 27' 3PT Step Back Jump Shot (10 PTS),Made Shot,Step Back Jump shot,-7,269,27,1,3.0,3.0,v
+S2425-G0192,2,10:23,OKC,,HOU,,J. Green,HOU,Ja. Green REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0192,2,10:17,OKC,,HOU,,J. Green,HOU,MISS Ja. Green 5' Driving Layup,Missed Shot,Driving Layup Shot,17,50,5,1,2.0,0.0,v
+S2425-G0192,2,10:17,OKC,,HOU,,J. Green,HOU,Ja. Green T.FOUL (P0.T0) (K.Scott),Foul,Technical,0,0,0,0,,,v
+S2425-G0192,2,09:23,OKC,,HOU,,J. Green,HOU,Ja. Green Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0192,2,08:53,OKC,,HOU,,J. Green,HOU,SUB: VanVleet FOR Ja. Green,Substitution,,0,0,0,0,,,v
+S2425-G0192,2,05:03,OKC,,HOU,,J. Green,HOU,MISS Ja. Green 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-85,255,27,1,3.0,0.0,v
+S2425-G0192,2,04:41,OKC,,HOU,,J. Green,HOU,Ja. Green S.FOUL (P1.T3) (K.Scott),Foul,Shooting,0,0,0,0,,,v
+S2425-G0192,2,04:28,OKC,,HOU,,J. Green,HOU,MISS Ja. Green 26' 3PT Jump Shot,Missed Shot,Jump Shot,-141,224,26,1,3.0,0.0,v
+S2425-G0192,2,01:38,OKC,,HOU,,J. Green,HOU,MISS Ja. Green 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-18,267,27,1,3.0,0.0,v
+S2425-G0192,2,01:01,OKC,70.0,HOU,51.0,J. Green,HOU,Ja. Green 3' Driving Layup (12 PTS),Made Shot,Driving Layup Shot,-29,9,3,1,2.0,2.0,v
+S2425-G0192,2,00:29.100000,OKC,,HOU,,J. Green,HOU,MISS Ja. Green 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-145,221,26,1,3.0,0.0,v
+S2425-G0192,3,08:39,OKC,81.0,HOU,55.0,J. Green,HOU,Ja. Green Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0192,3,08:39,OKC,81.0,HOU,56.0,J. Green,HOU,Ja. Green Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0192,3,07:05,OKC,,HOU,,J. Green,HOU,MISS Ja. Green 3' Driving Layup,Missed Shot,Driving Layup Shot,26,-3,3,1,2.0,0.0,v
+S2425-G0192,3,05:36,OKC,,HOU,,J. Green,HOU,Ja. Green REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0192,3,05:20,OKC,,HOU,,J. Green,HOU,MISS Ja. Green 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,123,231,26,1,3.0,0.0,v
+S2425-G0192,3,02:20,OKC,,HOU,,J. Green,HOU,SUB: Thompson FOR Ja. Green,Substitution,,0,0,0,0,,,v
+S2425-G0192,4,01:11,OKC,126.0,HOU,107.0,J. Green,HOU,Je. Green 26' 3PT Running Jump Shot (3 PTS) (Sheppard 4 AST),Made Shot,Running Jump Shot,168,201,26,1,3.0,3.0,v
+S2425-G0192,4,00:37.800000,OKC,,HOU,,J. Green,HOU,Je. Green Lost Ball Turnover (P1.T17),Turnover,Lost Ball,0,0,0,0,,,v
 S2425-G0068,1,11:13,HOU,,CHA,,J. Green,HOU,MISS Ja. Green 2' Driving Layup,Missed Shot,Driving Layup Shot,13,18,2,1,2.0,0.0,h
 S2425-G0068,1,09:31,HOU,,CHA,,J. Green,HOU,Ja. Green REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
 S2425-G0068,1,09:24,HOU,3.0,CHA,3.0,J. Green,HOU,Ja. Green Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
@@ -32,6 +60,76 @@ S2425-G0068,4,02:29,HOU,,CHA,,J. Green,HOU,MISS Ja. Green 27' 3PT Pullup Jump Sh
 S2425-G0068,4,01:29,HOU,100.0,CHA,103.0,J. Green,HOU,Ja. Green 7' Driving Layup (25 PTS) (Sengun 4 AST),Made Shot,Driving Layup Shot,65,10,7,1,2.0,2.0,h
 S2425-G0068,4,01:29,HOU,101.0,CHA,103.0,J. Green,HOU,Ja. Green Free Throw 1 of 1 (26 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
 S2425-G0068,4,01:01,HOU,103.0,CHA,103.0,J. Green,HOU,Ja. Green 17' Pullup Jump Shot (28 PTS) (Sengun 5 AST),Made Shot,Pullup Jump shot,99,137,17,1,2.0,2.0,h
+S2425-G0161,1,11:24,HOU,1.0,NYK,0.0,J. Green,HOU,Ja. Green Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0161,1,11:24,HOU,2.0,NYK,0.0,J. Green,HOU,Ja. Green Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0161,1,10:49,HOU,,NYK,,J. Green,HOU,Ja. Green REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0161,1,09:50,HOU,,NYK,,J. Green,HOU,Ja. Green S.FOUL (P1.T2) (T.Ford),Foul,Shooting,0,0,0,0,,,h
+S2425-G0161,1,09:32,HOU,,NYK,,J. Green,HOU,MISS Ja. Green 24' 3PT Jump Shot,Missed Shot,Jump Shot,238,21,24,1,3.0,0.0,h
+S2425-G0161,1,07:37,HOU,,NYK,,J. Green,HOU,MISS Ja. Green 26' 3PT Jump Shot,Missed Shot,Jump Shot,-213,155,26,1,3.0,0.0,h
+S2425-G0161,1,05:47,HOU,,NYK,,J. Green,HOU,SUB: Adams FOR Ja. Green,Substitution,,0,0,0,0,,,h
+S2425-G0161,1,00:28.200000,HOU,,NYK,,J. Green,HOU,SUB: Brooks FOR Ja. Green,Substitution,,0,0,0,0,,,h
+S2425-G0161,2,11:02,HOU,36.0,NYK,26.0,J. Green,HOU,Ja. Green 3' Driving Dunk (4 PTS),Made Shot,Driving Dunk Shot,13,28,3,1,2.0,2.0,h
+S2425-G0161,2,08:44,HOU,46.0,NYK,32.0,J. Green,HOU,Ja. Green Free Throw Technical (5 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,h
+S2425-G0161,2,08:18,HOU,,NYK,,J. Green,HOU,MISS Ja. Green 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-162,216,27,1,3.0,0.0,h
+S2425-G0161,2,07:01,HOU,,NYK,,J. Green,HOU,MISS Ja. Green 5' Reverse Layup,Missed Shot,Reverse Layup Shot,33,33,5,1,2.0,0.0,h
+S2425-G0161,2,06:17,HOU,50.0,NYK,39.0,J. Green,HOU,Ja. Green 4' Driving Finger Roll Layup (7 PTS),Made Shot,Driving Finger Roll Layup Shot,15,32,4,1,2.0,2.0,h
+S2425-G0161,2,05:52,HOU,,NYK,,J. Green,HOU,SUB: Eason FOR Ja. Green,Substitution,,0,0,0,0,,,h
+S2425-G0161,2,00:20.300000,HOU,,NYK,,J. Green,HOU,MISS Ja. Green 6' Driving Layup,Missed Shot,Driving Layup Shot,37,42,6,1,2.0,0.0,h
+S2425-G0161,3,09:16,HOU,,NYK,,J. Green,HOU,MISS Ja. Green 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-20,266,27,1,3.0,0.0,h
+S2425-G0161,3,07:21,HOU,,NYK,,J. Green,HOU,MISS Ja. Green 27' 3PT Jump Shot,Missed Shot,Jump Shot,-201,178,27,1,3.0,0.0,h
+S2425-G0161,3,04:22,HOU,,NYK,,J. Green,HOU,SUB: Adams FOR Ja. Green,Substitution,,0,0,0,0,,,h
+S2425-G0161,3,01:46,HOU,,NYK,,J. Green,HOU,MISS Ja. Green 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-238,20,24,1,3.0,0.0,h
+S2425-G0161,3,01:37,HOU,,NYK,,J. Green,HOU,Ja. Green Lost Ball Turnover (P1.T7),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0161,3,00:35.800000,HOU,,NYK,,J. Green,HOU,SUB: Smith Jr. FOR Ja. Green,Substitution,,0,0,0,0,,,h
+S2425-G0161,4,10:54,HOU,,NYK,,J. Green,HOU,Ja. Green Lost Ball Turnover (P2.T8),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0161,4,10:28,HOU,,NYK,,J. Green,HOU,MISS Ja. Green 5' Driving Layup,Missed Shot,Driving Layup Shot,11,52,5,1,2.0,0.0,h
+S2425-G0161,4,10:28,HOU,,NYK,,J. Green,HOU,Ja. Green Traveling Turnover (P3.T9),Turnover,Traveling,0,0,0,0,,,h
+S2425-G0161,4,10:28,HOU,,NYK,,J. Green,HOU,SUB: Brooks FOR Ja. Green,Substitution,,0,0,0,0,,,h
+S2425-G0161,4,03:27,HOU,98.0,NYK,92.0,J. Green,HOU,Ja. Green 26' 3PT Jump Shot (10 PTS) (Thompson 2 AST),Made Shot,Jump Shot,-47,260,26,1,3.0,3.0,h
+S2425-G0161,4,02:47,HOU,,NYK,,J. Green,HOU,MISS Ja. Green 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,38,109,12,1,2.0,0.0,h
+S2425-G0161,4,02:15,HOU,,NYK,,J. Green,HOU,Ja. Green REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0161,4,00:58.100000,HOU,105.0,NYK,97.0,J. Green,HOU,Ja. Green 26' 3PT Step Back Jump Shot (13 PTS),Made Shot,Step Back Jump shot,203,168,26,1,3.0,3.0,h
+S2425-G0161,4,00:52.200000,HOU,,NYK,,J. Green,HOU,Ja. Green REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0161,4,00:24.800000,HOU,,NYK,,J. Green,HOU,Ja. Green STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0161,4,00:19.600000,HOU,109.0,NYK,97.0,J. Green,HOU,Ja. Green 4' Running Dunk (15 PTS) (Thompson 3 AST),Made Shot,Running Dunk Shot,13,34,4,1,2.0,2.0,h
+S2425-G0161,4,00:11.700000,HOU,,NYK,,J. Green,HOU,Ja. Green REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0031,1,08:46,HOU,,POR,,J. Green,HOU,MISS Ja. Green 27' 3PT Jump Shot,Missed Shot,Jump Shot,-172,206,27,1,3.0,0.0,h
+S2425-G0031,1,08:42,HOU,,POR,,J. Green,HOU,MISS Ja. Green 3PT Jump Shot,Missed Shot,Jump Shot,-225,20,0,1,3.0,0.0,h
+S2425-G0031,1,06:52,HOU,9.0,POR,10.0,J. Green,HOU,Ja. Green 25' 3PT Step Back Jump Shot (3 PTS),Made Shot,Step Back Jump shot,240,60,25,1,3.0,3.0,h
+S2425-G0031,1,04:48,HOU,,POR,,J. Green,HOU,MISS Ja. Green 4' Running Layup,Missed Shot,Running Layup Shot,29,33,4,1,2.0,0.0,h
+S2425-G0031,1,04:48,HOU,,POR,,J. Green,HOU,SUB: Thompson FOR Ja. Green,Substitution,,0,0,0,0,,,h
+S2425-G0031,1,02:00,HOU,23.0,POR,17.0,J. Green,HOU,Ja. Green 28' 3PT Jump Shot (6 PTS) (Adams 1 AST),Made Shot,Jump Shot,-188,207,28,1,3.0,3.0,h
+S2425-G0031,1,01:01,HOU,26.0,POR,19.0,J. Green,HOU,Ja. Green 27' 3PT Jump Shot (9 PTS) (Adams 2 AST),Made Shot,Jump Shot,-54,263,27,1,3.0,3.0,h
+S2425-G0031,2,11:43,HOU,33.0,POR,20.0,J. Green,HOU,Ja. Green 3' Driving Dunk (11 PTS) (Adams 3 AST),Made Shot,Driving Dunk Shot,11,23,3,1,2.0,2.0,h
+S2425-G0031,2,10:28,HOU,,POR,,J. Green,HOU,MISS Ja. Green 27' 3PT Jump Shot,Missed Shot,Jump Shot,22,274,27,1,3.0,0.0,h
+S2425-G0031,2,09:42,HOU,,POR,,J. Green,HOU,MISS Ja. Green 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,123,230,26,1,3.0,0.0,h
+S2425-G0031,2,09:09,HOU,39.0,POR,26.0,J. Green,HOU,Ja. Green 14' Pullup Jump Shot (13 PTS),Made Shot,Pullup Jump shot,109,91,14,1,2.0,2.0,h
+S2425-G0031,2,08:52,HOU,,POR,,J. Green,HOU,Ja. Green STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0031,2,08:37,HOU,,POR,,J. Green,HOU,SUB: VanVleet FOR Ja. Green,Substitution,,0,0,0,0,,,h
+S2425-G0031,2,03:14,HOU,55.0,POR,40.0,J. Green,HOU,Ja. Green 22' Step Back Jump Shot (15 PTS),Made Shot,Step Back Jump shot,145,168,22,1,2.0,2.0,h
+S2425-G0031,2,02:24,HOU,,POR,,J. Green,HOU,Ja. Green P.FOUL (P1.PN) (A.Smith),Foul,Personal,0,0,0,0,,,h
+S2425-G0031,2,00:28.600000,HOU,64.0,POR,45.0,J. Green,HOU,Ja. Green Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0031,2,00:28.600000,HOU,65.0,POR,45.0,J. Green,HOU,Ja. Green Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0031,2,00:00.600000,HOU,,POR,,J. Green,HOU,Ja. Green REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0031,2,00:00.200000,HOU,,POR,,J. Green,HOU,MISS Ja. Green 29' 3PT Jump Shot,Missed Shot,Jump Shot,-93,270,29,1,3.0,0.0,h
+S2425-G0031,3,10:55,HOU,,POR,,J. Green,HOU,MISS Ja. Green 1' Driving Layup,Missed Shot,Driving Layup Shot,6,8,1,1,2.0,0.0,h
+S2425-G0031,3,09:19,HOU,,POR,,J. Green,HOU,Ja. Green REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0031,3,07:19,HOU,,POR,,J. Green,HOU,MISS Ja. Green 9' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,61,67,9,1,2.0,0.0,h
+S2425-G0031,3,06:21,HOU,,POR,,J. Green,HOU,Ja. Green Out of Bounds - Bad Pass Turnover Turnover (P1.T8),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0031,3,05:25,HOU,,POR,,J. Green,HOU,Ja. Green S.FOUL (P2.PN) (M.Myers),Foul,Shooting,0,0,0,0,,,h
+S2425-G0031,3,05:25,HOU,,POR,,J. Green,HOU,SUB: Thompson FOR Ja. Green,Substitution,,0,0,0,0,,,h
+S2425-G0031,3,02:28,HOU,,POR,,J. Green,HOU,Ja. Green REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0031,3,02:17,HOU,,POR,,J. Green,HOU,MISS Ja. Green 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,159,190,25,1,3.0,0.0,h
+S2425-G0031,3,00:52.400000,HOU,,POR,,J. Green,HOU,Ja. Green Lost Ball Turnover (P2.T10),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0031,4,11:24,HOU,,POR,,J. Green,HOU,Ja. Green REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0031,4,10:34,HOU,,POR,,J. Green,HOU,MISS Ja. Green 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,53,255,26,1,3.0,0.0,h
+S2425-G0031,4,09:07,HOU,,POR,,J. Green,HOU,Ja. Green REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0031,4,08:51,HOU,,POR,,J. Green,HOU,MISS Ja. Green 15' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,147,-6,15,1,2.0,0.0,h
+S2425-G0031,4,08:49,HOU,,POR,,J. Green,HOU,SUB: Holiday FOR Ja. Green,Substitution,,0,0,0,0,,,h
+S2425-G0031,4,06:16,HOU,,POR,,J. Green,HOU,Je. Green REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0031,4,05:32,HOU,107.0,POR,79.0,J. Green,HOU,Je. Green 1' Running Dunk (2 PTS) (Sheppard 2 AST),Made Shot,Running Dunk Shot,-6,3,1,1,2.0,2.0,h
+S2425-G0031,4,01:43,HOU,,POR,,J. Green,HOU,MISS Je. Green 9' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-70,52,9,1,2.0,0.0,h
+S2425-G0031,4,00:39.300000,HOU,112.0,POR,88.0,J. Green,HOU,Je. Green 26' 3PT Jump Shot (5 PTS) (McVeigh 1 AST),Made Shot,Jump Shot,-170,198,26,1,3.0,3.0,h
 S2425-G0109,1,09:21,SAS,3.0,HOU,12.0,J. Green,HOU,Ja. Green 26' 3PT Jump Shot (3 PTS) (Sengun 2 AST),Made Shot,Jump Shot,-113,238,26,1,3.0,3.0,v
 S2425-G0109,1,08:56,SAS,3.0,HOU,14.0,J. Green,HOU,Ja. Green 1' Driving Finger Roll Layup (5 PTS) (Sengun 3 AST),Made Shot,Driving Finger Roll Layup Shot,1,11,1,1,2.0,2.0,v
 S2425-G0109,1,06:49,SAS,5.0,HOU,15.0,J. Green,HOU,Ja. Green Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
@@ -68,6 +166,97 @@ S2425-G0109,4,01:44,SAS,93.0,HOU,99.0,J. Green,HOU,Ja. Green Free Throw 2 of 2 (
 S2425-G0109,4,00:45.800000,SAS,,HOU,,J. Green,HOU,Ja. Green Traveling Turnover (P4.T12),Turnover,Traveling,0,0,0,0,,,v
 S2425-G0109,4,00:10.300000,SAS,99.0,HOU,105.0,J. Green,HOU,Ja. Green Free Throw 1 of 2 (35 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
 S2425-G0109,4,00:10.300000,SAS,99.0,HOU,106.0,J. Green,HOU,Ja. Green Free Throw 2 of 2 (36 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0129,1,11:44,DAL,0.0,HOU,3.0,J. Green,HOU,Ja. Green 26' 3PT Jump Shot (3 PTS) (Sengun 1 AST),Made Shot,Jump Shot,-21,262,26,1,3.0,3.0,v
+S2425-G0129,1,11:25,DAL,,HOU,,J. Green,HOU,Ja. Green REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0129,1,10:11,DAL,,HOU,,J. Green,HOU,Ja. Green REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0129,1,09:53,DAL,,HOU,,J. Green,HOU,Ja. Green STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0129,1,06:11,DAL,,HOU,,J. Green,HOU,MISS Ja. Green 1' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,6,6,1,1,2.0,0.0,v
+S2425-G0129,1,05:58,DAL,,HOU,,J. Green,HOU,Ja. Green REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0129,1,05:28,DAL,,HOU,,J. Green,HOU,Ja. Green REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0129,1,05:24,DAL,11.0,HOU,20.0,J. Green,HOU,Ja. Green 2' Running Layup (5 PTS),Made Shot,Running Layup Shot,-17,10,2,1,2.0,2.0,v
+S2425-G0129,1,05:14,DAL,,HOU,,J. Green,HOU,Ja. Green S.FOUL (P1.T4) (M.Kogut),Foul,Shooting,0,0,0,0,,,v
+S2425-G0129,1,03:44,DAL,,HOU,,J. Green,HOU,Ja. Green Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0129,1,02:49,DAL,,HOU,,J. Green,HOU,SUB: Sheppard FOR Ja. Green,Substitution,,0,0,0,0,,,v
+S2425-G0129,2,06:10,DAL,,HOU,,J. Green,HOU,Ja. Green Lost Ball Turnover (P2.T3),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0129,2,05:48,DAL,30.0,HOU,47.0,J. Green,HOU,Ja. Green 1' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,3,4,1,1,2.0,2.0,v
+S2425-G0129,2,04:35,DAL,,HOU,,J. Green,HOU,MISS Ja. Green 2' Driving Layup,Missed Shot,Driving Layup Shot,22,6,2,1,2.0,0.0,v
+S2425-G0129,2,04:22,DAL,,HOU,,J. Green,HOU,Ja. Green S.FOUL (P2.T2) (M.Kogut),Foul,Shooting,0,0,0,0,,,v
+S2425-G0129,2,04:06,DAL,,HOU,,J. Green,HOU,MISS Ja. Green 23' Step Back Jump Shot,Missed Shot,Step Back Jump shot,6,232,23,1,2.0,0.0,v
+S2425-G0129,2,02:37,DAL,,HOU,,J. Green,HOU,MISS Ja. Green 3PT Jump Shot,Missed Shot,Jump Shot,-229,6,0,1,3.0,0.0,v
+S2425-G0129,2,02:36,DAL,,HOU,,J. Green,HOU,SUB: Thompson FOR Ja. Green,Substitution,,0,0,0,0,,,v
+S2425-G0129,2,01:04,DAL,,HOU,,J. Green,HOU,Ja. Green Bad Pass Turnover (P3.T4),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0129,2,00:33.500000,DAL,,HOU,,J. Green,HOU,Ja. Green Lost Ball Turnover (P4.T5),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0129,2,00:07.400000,DAL,,HOU,,J. Green,HOU,MISS Ja. Green 25' 3PT Jump Shot,Missed Shot,Jump Shot,131,209,25,1,3.0,0.0,v
+S2425-G0129,3,11:38,DAL,,HOU,,J. Green,HOU,Ja. Green REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0129,3,11:04,DAL,,HOU,,J. Green,HOU,MISS Ja. Green 28' 3PT Jump Shot,Missed Shot,Jump Shot,148,235,28,1,3.0,0.0,v
+S2425-G0129,3,10:18,DAL,,HOU,,J. Green,HOU,MISS Ja. Green 3' Driving Layup,Missed Shot,Driving Layup Shot,-2,30,3,1,2.0,0.0,v
+S2425-G0129,3,10:09,DAL,,HOU,,J. Green,HOU,Ja. Green REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0129,3,09:37,DAL,,HOU,,J. Green,HOU,Ja. Green REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0129,3,07:22,DAL,50.0,HOU,64.0,J. Green,HOU,Ja. Green 24' 3PT Jump Shot (10 PTS) (Sengun 3 AST),Made Shot,Jump Shot,-96,221,24,1,3.0,3.0,v
+S2425-G0129,3,05:47,DAL,,HOU,,J. Green,HOU,MISS Ja. Green 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-49,241,25,1,3.0,0.0,v
+S2425-G0129,3,05:16,DAL,,HOU,,J. Green,HOU,Ja. Green REBOUND (Off:0 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0129,3,03:50,DAL,,HOU,,J. Green,HOU,Ja. Green P.FOUL (P3.T3) (B.Kennedy),Foul,Personal,0,0,0,0,,,v
+S2425-G0129,3,03:09,DAL,59.0,HOU,78.0,J. Green,HOU,Ja. Green 1' Driving Layup (12 PTS),Made Shot,Driving Layup Shot,-5,-5,1,1,2.0,2.0,v
+S2425-G0129,3,02:23,DAL,,HOU,,J. Green,HOU,SUB: Whitmore FOR Ja. Green,Substitution,,0,0,0,0,,,v
+S2425-G0129,4,11:10,DAL,,HOU,,J. Green,HOU,Ja. Green BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0129,4,11:07,DAL,,HOU,,J. Green,HOU,Ja. Green REBOUND (Off:0 Def:9),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0129,4,09:47,DAL,,HOU,,J. Green,HOU,MISS Ja. Green 25' 3PT Jump Shot,Missed Shot,Jump Shot,-163,193,25,1,3.0,0.0,v
+S2425-G0129,4,09:31,DAL,,HOU,,J. Green,HOU,Ja. Green REBOUND (Off:0 Def:10),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0129,4,09:19,DAL,,HOU,,J. Green,HOU,MISS Ja. Green 2' Driving Layup,Missed Shot,Driving Layup Shot,-20,5,2,1,2.0,0.0,v
+S2425-G0129,4,07:33,DAL,,HOU,,J. Green,HOU,Ja. Green REBOUND (Off:0 Def:11),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0129,4,06:50,DAL,84.0,HOU,93.0,J. Green,HOU,Ja. Green 3' Driving Finger Roll Layup (14 PTS),Made Shot,Driving Finger Roll Layup Shot,-1,31,3,1,2.0,2.0,v
+S2425-G0129,4,06:36,DAL,,HOU,,J. Green,HOU,Ja. Green REBOUND (Off:0 Def:12),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0129,4,06:33,DAL,84.0,HOU,95.0,J. Green,HOU,Ja. Green 2' Running Reverse Layup (16 PTS),Made Shot,Running Reverse Layup Shot,-16,5,2,1,2.0,2.0,v
+S2425-G0129,4,06:33,DAL,84.0,HOU,96.0,J. Green,HOU,Ja. Green Free Throw 1 of 1 (17 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0129,4,06:04,DAL,,HOU,,J. Green,HOU,Ja. Green OFF.Foul (P4) (R.Hussey),Foul,Offensive,0,0,0,0,,,v
+S2425-G0129,4,06:04,DAL,,HOU,,J. Green,HOU,Ja. Green Offensive Foul Turnover (P5.T9),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0129,4,04:06,DAL,,HOU,,J. Green,HOU,MISS Ja. Green 8' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,71,26,8,1,2.0,0.0,v
+S2425-G0129,4,02:58,DAL,94.0,HOU,100.0,J. Green,HOU,Ja. Green 2' Driving Finger Roll Layup (19 PTS),Made Shot,Driving Finger Roll Layup Shot,22,-6,2,1,2.0,2.0,v
+S2425-G0129,4,01:49,DAL,,HOU,,J. Green,HOU,MISS Ja. Green 15' Jump Shot,Missed Shot,Jump Shot,119,99,15,1,2.0,0.0,v
+S2425-G0129,4,01:12,DAL,97.0,HOU,103.0,J. Green,HOU,Ja. Green 24' 3PT Step Back Jump Shot (22 PTS),Made Shot,Step Back Jump shot,-185,150,24,1,3.0,3.0,v
+S2425-G0129,4,00:05.700000,DAL,,HOU,,J. Green,HOU,MISS Ja. Green Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0129,4,00:05.700000,DAL,102.0,HOU,108.0,J. Green,HOU,Ja. Green Free Throw 2 of 2 (23 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0201,1,11:38,DET,,HOU,,J. Green,HOU,Ja. Green REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0201,1,09:38,DET,,HOU,,J. Green,HOU,MISS Ja. Green 3PT Jump Shot,Missed Shot,Jump Shot,227,21,0,1,3.0,0.0,v
+S2425-G0201,1,09:10,DET,2.0,HOU,7.0,J. Green,HOU,Ja. Green 25' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,22,253,25,1,3.0,3.0,v
+S2425-G0201,1,08:14,DET,,HOU,,J. Green,HOU,Ja. Green REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0201,1,08:07,DET,2.0,HOU,11.0,J. Green,HOU,Ja. Green 3' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,28,-4,3,1,2.0,2.0,v
+S2425-G0201,1,06:42,DET,,HOU,,J. Green,HOU,MISS Ja. Green 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,121,118,17,1,2.0,0.0,v
+S2425-G0201,1,04:32,DET,,HOU,,J. Green,HOU,MISS Ja. Green 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,18,41,4,1,2.0,0.0,v
+S2425-G0201,1,04:29,DET,,HOU,,J. Green,HOU,Ja. Green P.FOUL (P1.T1) (E.Malloy),Foul,Personal,0,0,0,0,,,v
+S2425-G0201,1,04:29,DET,,HOU,,J. Green,HOU,SUB: Eason FOR Ja. Green,Substitution,,0,0,0,0,,,v
+S2425-G0201,1,02:15,DET,,HOU,,J. Green,HOU,MISS Ja. Green 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-173,183,25,1,3.0,0.0,v
+S2425-G0201,1,00:50.100000,DET,,HOU,,J. Green,HOU,Ja. Green REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0201,1,00:28.700000,DET,,HOU,,J. Green,HOU,MISS Ja. Green 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,148,216,26,1,3.0,0.0,v
+S2425-G0201,1,00:00.900000,DET,17.0,HOU,20.0,J. Green,HOU,Ja. Green 3' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,28,2,3,1,2.0,2.0,v
+S2425-G0201,2,11:32,DET,,HOU,,J. Green,HOU,Ja. Green STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0201,2,10:20,DET,,HOU,,J. Green,HOU,Ja. Green REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0201,2,08:58,DET,,HOU,,J. Green,HOU,SUB: VanVleet FOR Ja. Green,Substitution,,0,0,0,0,,,v
+S2425-G0201,2,04:16,DET,,HOU,,J. Green,HOU,Ja. Green OFF.Foul (P2) (E.Malloy),Foul,Offensive,0,0,0,0,,,v
+S2425-G0201,2,04:16,DET,,HOU,,J. Green,HOU,Ja. Green Offensive Foul Turnover (P1.T7),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0201,2,03:24,DET,,HOU,,J. Green,HOU,Ja. Green Offensive Charge Foul (P3) (E.Malloy),Foul,Offensive Charge,0,0,0,0,,,v
+S2425-G0201,2,03:24,DET,,HOU,,J. Green,HOU,Ja. Green Offensive Foul Turnover (P2.T8),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0201,2,03:24,DET,,HOU,,J. Green,HOU,SUB: Eason FOR Ja. Green,Substitution,,0,0,0,0,,,v
+S2425-G0201,3,10:32,DET,,HOU,,J. Green,HOU,MISS Ja. Green 30' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,172,246,30,1,3.0,0.0,v
+S2425-G0201,3,09:09,DET,,HOU,,J. Green,HOU,MISS Ja. Green 20' Step Back Jump Shot,Missed Shot,Step Back Jump shot,202,19,20,1,2.0,0.0,v
+S2425-G0201,3,08:04,DET,,HOU,,J. Green,HOU,Ja. Green BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0201,3,05:59,DET,,HOU,,J. Green,HOU,SUB: Eason FOR Ja. Green,Substitution,,0,0,0,0,,,v
+S2425-G0201,3,00:29.500000,DET,,HOU,,J. Green,HOU,Ja. Green STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0201,4,11:47,DET,64.0,HOU,74.0,J. Green,HOU,Ja. Green 3' Cutting Dunk Shot (9 PTS) (Thompson 2 AST),Made Shot,Cutting Dunk Shot,12,29,3,1,2.0,2.0,v
+S2425-G0201,4,11:47,DET,,HOU,,J. Green,HOU,Ja. Green T.FOUL (P3.T0) (P.Ransom),Foul,Technical,0,0,0,0,,,v
+S2425-G0201,4,10:27,DET,,HOU,,J. Green,HOU,MISS Ja. Green 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,107,241,26,1,3.0,0.0,v
+S2425-G0201,4,10:15,DET,,HOU,,J. Green,HOU,Ja. Green REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0201,4,07:40,DET,78.0,HOU,86.0,J. Green,HOU,Ja. Green 3' Driving Layup (11 PTS),Made Shot,Driving Layup Shot,-29,6,3,1,2.0,2.0,v
+S2425-G0201,4,06:32,DET,,HOU,,J. Green,HOU,MISS Ja. Green 20' Step Back Jump Shot,Missed Shot,Step Back Jump shot,127,156,20,1,2.0,0.0,v
+S2425-G0201,4,05:26,DET,,HOU,,J. Green,HOU,Ja. Green P.FOUL (P4.T4) (P.Ransom),Foul,Personal,0,0,0,0,,,v
+S2425-G0201,4,04:59,DET,88.0,HOU,89.0,J. Green,HOU,Ja. Green 11' Fadeaway Jumper (13 PTS),Made Shot,Fadeaway Jump Shot,-60,89,11,1,2.0,2.0,v
+S2425-G0201,4,04:20,DET,,HOU,,J. Green,HOU,MISS Ja. Green 15' Step Back Jump Shot,Missed Shot,Step Back Jump shot,154,16,15,1,2.0,0.0,v
+S2425-G0201,4,03:28,DET,,HOU,,J. Green,HOU,Ja. Green S.FOUL (P5.PN) (E.Malloy),Foul,Shooting,0,0,0,0,,,v
+S2425-G0201,4,03:17,DET,93.0,HOU,93.0,J. Green,HOU,Ja. Green Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0201,4,03:17,DET,93.0,HOU,94.0,J. Green,HOU,Ja. Green Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0201,4,01:50,DET,,HOU,,J. Green,HOU,MISS Ja. Green 13' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,23,127,13,1,2.0,0.0,v
+S2425-G0201,4,01:28,DET,,HOU,,J. Green,HOU,SUB: Thompson FOR Ja. Green,Substitution,,0,0,0,0,,,v
+S2425-G0201,4,00:07.200000,DET,,HOU,,J. Green,HOU,SUB: Thompson FOR Ja. Green,Substitution,,0,0,0,0,,,v
 S2425-G0082,1,10:40,HOU,,MEM,,J. Green,HOU,MISS Ja. Green 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-113,141,18,1,2.0,0.0,h
 S2425-G0082,1,10:40,HOU,,MEM,,J. Green,HOU,Ja. Green REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
 S2425-G0082,1,09:17,HOU,,MEM,,J. Green,HOU,Ja. Green STEAL (1 STL),,,0,0,0,0,,,h
@@ -155,3 +344,64 @@ S2425-G0094,4,00:12.600000,SAS,106.0,HOU,104.0,J. Green,HOU,Ja. Green 2' Driving
 S2425-G0094,4,00:11.600000,SAS,,HOU,,J. Green,HOU,Ja. Green Personal Take Foul (P3.PN) (B.Barnaky),Foul,Personal Take,0,0,0,0,,,v
 S2425-G0094,4,00:11.600000,SAS,,HOU,,J. Green,HOU,SUB: Sengun FOR Ja. Green,Substitution,,0,0,0,0,,,v
 S2425-G0094,4,00:03.400000,SAS,,HOU,,J. Green,HOU,MISS Ja. Green 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,25,246,25,1,3.0,0.0,v
+S2425-G0016,1,11:23,HOU,,LAC,,J. Green,HOU,MISS Ja. Green 25' 3PT Jump Shot,Missed Shot,Jump Shot,21,246,25,1,3.0,0.0,h
+S2425-G0016,1,11:10,HOU,,LAC,,J. Green,HOU,Ja. Green P.FOUL (P1.T1) (J.Capers),Foul,Personal,0,0,0,0,,,h
+S2425-G0016,1,10:37,HOU,,LAC,,J. Green,HOU,Ja. Green REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0016,1,10:32,HOU,4.0,LAC,0.0,J. Green,HOU,Ja. Green 4' Running Layup (2 PTS),Made Shot,Running Layup Shot,38,13,4,1,2.0,2.0,h
+S2425-G0016,1,08:40,HOU,,LAC,,J. Green,HOU,Ja. Green Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0016,1,05:36,HOU,,LAC,,J. Green,HOU,Ja. Green REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0016,1,05:31,HOU,16.0,LAC,9.0,J. Green,HOU,Ja. Green 2' Layup (4 PTS),Made Shot,Layup Shot,15,16,2,1,2.0,2.0,h
+S2425-G0016,1,04:52,HOU,,LAC,,J. Green,HOU,SUB: Eason FOR Ja. Green,Substitution,,0,0,0,0,,,h
+S2425-G0016,1,01:15,HOU,,LAC,,J. Green,HOU,MISS Ja. Green 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,109,234,26,1,3.0,0.0,h
+S2425-G0016,1,00:11.700000,HOU,,LAC,,J. Green,HOU,MISS Ja. Green 4' Driving Layup,Missed Shot,Driving Layup Shot,-44,5,4,1,2.0,0.0,h
+S2425-G0016,2,11:17,HOU,,LAC,,J. Green,HOU,Ja. Green REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0016,2,11:14,HOU,,LAC,,J. Green,HOU,Ja. Green Out of Bounds Lost Ball Turnover (P2.T4),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2425-G0016,2,09:31,HOU,,LAC,,J. Green,HOU,Ja. Green REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0016,2,09:19,HOU,,LAC,,J. Green,HOU,MISS Ja. Green 6' Driving Layup,Missed Shot,Driving Layup Shot,-53,21,6,1,2.0,0.0,h
+S2425-G0016,2,08:43,HOU,,LAC,,J. Green,HOU,MISS Ja. Green 26' 3PT Jump Shot,Missed Shot,Jump Shot,-191,174,26,1,3.0,0.0,h
+S2425-G0016,2,08:26,HOU,,LAC,,J. Green,HOU,SUB: VanVleet FOR Ja. Green,Substitution,,0,0,0,0,,,h
+S2425-G0016,3,10:53,HOU,,LAC,,J. Green,HOU,Ja. Green REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0016,3,09:52,HOU,68.0,LAC,52.0,J. Green,HOU,Ja. Green 5' Cutting Layup Shot (6 PTS) (Sengun 5 AST),Made Shot,Cutting Layup Shot,28,39,5,1,2.0,2.0,h
+S2425-G0016,3,07:47,HOU,,LAC,,J. Green,HOU,Ja. Green Out of Bounds - Bad Pass Turnover Turnover (P3.T9),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0016,3,06:56,HOU,75.0,LAC,58.0,J. Green,HOU,Ja. Green 3' Running Alley Oop Dunk Shot (8 PTS) (VanVleet 10 AST),Made Shot,Running Alley Oop Dunk Shot,-26,22,3,1,2.0,2.0,h
+S2425-G0016,3,05:42,HOU,,LAC,,J. Green,HOU,SUB: Thompson FOR Ja. Green,Substitution,,0,0,0,0,,,h
+S2425-G0016,3,01:59,HOU,,LAC,,J. Green,HOU,MISS Ja. Green 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-87,244,26,1,3.0,0.0,h
+S2425-G0016,3,00:09.300000,HOU,,LAC,,J. Green,HOU,MISS Ja. Green 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-10,260,26,1,3.0,0.0,h
+S2425-G0173,1,10:07,HOU,,SAS,,J. Green,HOU,Ja. Green REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0173,1,08:08,HOU,,SAS,,J. Green,HOU,Ja. Green P.FOUL (P1.T2) (S.Mehta),Foul,Personal,0,0,0,0,,,h
+S2425-G0173,1,07:17,HOU,,SAS,,J. Green,HOU,MISS Ja. Green 3' Running Dunk,Missed Shot,Running Dunk Shot,-26,5,3,1,2.0,0.0,h
+S2425-G0173,1,05:30,HOU,,SAS,,J. Green,HOU,SUB: Thompson FOR Ja. Green,Substitution,,0,0,0,0,,,h
+S2425-G0173,1,02:47,HOU,,SAS,,J. Green,HOU,Ja. Green Bad Pass Turnover (P1.T2),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0173,1,02:08,HOU,27.0,SAS,13.0,J. Green,HOU,Ja. Green 26' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,99,241,26,1,3.0,3.0,h
+S2425-G0173,1,01:26,HOU,,SAS,,J. Green,HOU,MISS Ja. Green 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-195,183,27,1,3.0,0.0,h
+S2425-G0173,1,00:31.500000,HOU,31.0,SAS,19.0,J. Green,HOU,Ja. Green 2' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,0,17,2,1,2.0,2.0,h
+S2425-G0173,2,11:40,HOU,32.0,SAS,19.0,J. Green,HOU,Ja. Green Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0173,2,11:40,HOU,,SAS,,J. Green,HOU,MISS Ja. Green Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0173,2,09:35,HOU,,SAS,,J. Green,HOU,MISS Ja. Green 19' Step Back Jump Shot,Missed Shot,Step Back Jump shot,135,137,19,1,2.0,0.0,h
+S2425-G0173,2,07:10,HOU,,SAS,,J. Green,HOU,SUB: VanVleet FOR Ja. Green,Substitution,,0,0,0,0,,,h
+S2425-G0173,2,01:15,HOU,,SAS,,J. Green,HOU,Ja. Green Lost Ball Turnover (P2.T6),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0173,2,00:36.800000,HOU,61.0,SAS,38.0,J. Green,HOU,Ja. Green 26' 3PT Jump Shot (9 PTS) (Sengun 2 AST),Made Shot,Jump Shot,50,257,26,1,3.0,3.0,h
+S2425-G0173,2,00:27.400000,HOU,,SAS,,J. Green,HOU,Ja. Green REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0173,3,11:09,HOU,,SAS,,J. Green,HOU,Ja. Green REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0173,3,11:07,HOU,,SAS,,J. Green,HOU,Ja. Green Out of Bounds Lost Ball Turnover (P3.T8),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2425-G0173,3,10:11,HOU,65.0,SAS,42.0,J. Green,HOU,Ja. Green 3' Cutting Layup Shot (11 PTS) (Sengun 3 AST),Made Shot,Cutting Layup Shot,-21,15,3,1,2.0,2.0,h
+S2425-G0173,3,06:25,HOU,,SAS,,J. Green,HOU,MISS Ja. Green 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-152,221,27,1,3.0,0.0,h
+S2425-G0173,3,05:56,HOU,,SAS,,J. Green,HOU,SUB: Eason FOR Ja. Green,Substitution,,0,0,0,0,,,h
+S2425-G0173,3,02:06,HOU,,SAS,,J. Green,HOU,MISS Ja. Green 1' Running Alley Oop Layup Shot,Missed Shot,Running Alley Oop Layup Shot,-12,7,1,1,2.0,0.0,h
+S2425-G0173,3,01:27,HOU,,SAS,,J. Green,HOU,Ja. Green REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0173,3,00:51.300000,HOU,,SAS,,J. Green,HOU,Ja. Green REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0173,3,00:28.300000,HOU,94.0,SAS,68.0,J. Green,HOU,Ja. Green 27' 3PT Pullup Jump Shot (14 PTS),Made Shot,Pullup Jump shot,-18,270,27,1,3.0,3.0,h
+S2425-G0173,3,00:03.300000,HOU,,SAS,,J. Green,HOU,MISS Ja. Green 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-97,259,28,1,3.0,0.0,h
+S2425-G0173,4,11:15,HOU,98.0,SAS,73.0,J. Green,HOU,Ja. Green Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0173,4,11:15,HOU,99.0,SAS,73.0,J. Green,HOU,Ja. Green Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0173,4,10:50,HOU,102.0,SAS,75.0,J. Green,HOU,Ja. Green 28' 3PT Jump Shot (19 PTS) (Sheppard 2 AST),Made Shot,Jump Shot,152,230,28,1,3.0,3.0,h
+S2425-G0173,4,08:45,HOU,,SAS,,J. Green,HOU,Ja. Green BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0173,4,08:39,HOU,,SAS,,J. Green,HOU,MISS Ja. Green 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-168,207,27,1,3.0,0.0,h
+S2425-G0173,4,08:12,HOU,110.0,SAS,84.0,J. Green,HOU,Ja. Green Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0173,4,08:12,HOU,111.0,SAS,84.0,J. Green,HOU,Ja. Green Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0173,4,07:47,HOU,,SAS,,J. Green,HOU,MISS Ja. Green 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-81,256,27,1,3.0,0.0,h
+S2425-G0173,4,06:45,HOU,,SAS,,J. Green,HOU,SUB: Whitmore FOR Ja. Green,Substitution,,0,0,0,0,,,h
+S2425-G0173,4,04:08,HOU,118.0,SAS,92.0,J. Green,HOU,Je. Green 11' Turnaround Fadeaway (2 PTS),Made Shot,Turnaround Fadeaway shot,110,23,11,1,2.0,2.0,h
+S2425-G0173,4,02:23,HOU,125.0,SAS,99.0,J. Green,HOU,Je. Green 24' 3PT Jump Shot (5 PTS) (Tate 1 AST),Made Shot,Jump Shot,238,33,24,1,3.0,3.0,h
+S2425-G0173,4,00:52,HOU,,SAS,,J. Green,HOU,Je. Green STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0173,4,00:29.800000,HOU,,SAS,,J. Green,HOU,Je. Green REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h

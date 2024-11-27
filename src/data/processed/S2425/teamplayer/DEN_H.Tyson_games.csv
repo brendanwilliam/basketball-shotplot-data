@@ -1,3 +1,64 @@
 game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0166,1,01:48,DEN,,TOR,,H. Tyson,DEN,Tyson S.FOUL (P1.PN) (M.Ervin),Foul,Shooting,0,0,0,0,,,h
+S2425-G0166,1,00:26,DEN,,TOR,,H. Tyson,DEN,Tyson BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0166,2,10:40,DEN,,TOR,,H. Tyson,DEN,Tyson STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0166,2,09:55,DEN,,TOR,,H. Tyson,DEN,Tyson L.B.FOUL (P2.T2) (M.Myers),Foul,Loose Ball,0,0,0,0,,,h
+S2425-G0166,2,08:29,DEN,,TOR,,H. Tyson,DEN,SUB: Porter Jr. FOR Tyson,Substitution,,0,0,0,0,,,h
+S2425-G0166,4,09:33,DEN,,TOR,,H. Tyson,DEN,"Double Technical - Tyson, Barrett (M.Myers)",Foul,Double Technical,0,0,0,0,,,
+S2425-G0166,4,09:04,DEN,,TOR,,H. Tyson,DEN,Tyson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0166,4,08:57,DEN,,TOR,,H. Tyson,DEN,MISS Tyson 25' 3PT Jump Shot,Missed Shot,Jump Shot,184,173,25,1,3.0,0.0,h
+S2425-G0166,4,07:31,DEN,,TOR,,H. Tyson,DEN,SUB: Watson FOR Tyson,Substitution,,0,0,0,0,,,h
 S2425-G0075,4,00:50,DEN,,OKC,,H. Tyson,DEN,Tyson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
 S2425-G0075,4,00:36,DEN,,OKC,,H. Tyson,DEN,MISS Tyson 3PT Jump Shot,Missed Shot,Jump Shot,229,33,0,1,3.0,0.0,h
+S2425-G0033,3,02:27,DEN,,DAL,,H. Tyson,DEN,MISS Tyson 4' Running Dunk,Missed Shot,Running Dunk Shot,37,8,4,1,2.0,0.0,h
+S2425-G0033,3,00:44.700000,DEN,,DAL,,H. Tyson,DEN,SUB: Braun FOR Tyson,Substitution,,0,0,0,0,,,h
+S2425-G0177,1,03:04,DEN,,OKC,,H. Tyson,DEN,Tyson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0177,1,02:15,DEN,25.0,OKC,29.0,H. Tyson,DEN,Tyson 2' Reverse Layup (2 PTS) (Jokić 6 AST),Made Shot,Reverse Layup Shot,11,13,2,1,2.0,2.0,h
+S2425-G0177,1,02:00,DEN,,OKC,,H. Tyson,DEN,Tyson Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0177,2,11:37,DEN,,OKC,,H. Tyson,DEN,Tyson REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0177,2,10:37,DEN,,OKC,,H. Tyson,DEN,Tyson REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0177,2,10:24,DEN,,OKC,,H. Tyson,DEN,Tyson S.FOUL (P1.T1) (S.Mitchell),Foul,Shooting,0,0,0,0,,,h
+S2425-G0177,2,07:05,DEN,,OKC,,H. Tyson,DEN,SUB: Watson FOR Tyson,Substitution,,0,0,0,0,,,h
+S2425-G0177,2,03:23,DEN,,OKC,,H. Tyson,DEN,SUB: Porter Jr. FOR Tyson,Substitution,,0,0,0,0,,,h
+S2425-G0177,3,01:01,DEN,,OKC,,H. Tyson,DEN,Tyson STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0177,3,00:31.800000,DEN,,OKC,,H. Tyson,DEN,MISS Tyson 25' 3PT Jump Shot,Missed Shot,Jump Shot,127,217,25,1,3.0,0.0,h
+S2425-G0177,4,10:22,DEN,,OKC,,H. Tyson,DEN,Tyson S.FOUL (P2.T1) (J.Capers),Foul,Shooting,0,0,0,0,,,h
+S2425-G0177,4,08:20,DEN,,OKC,,H. Tyson,DEN,Tyson S.FOUL (P3.T3) (J.DeRosa),Foul,Shooting,0,0,0,0,,,h
+S2425-G0177,4,08:04,DEN,,OKC,,H. Tyson,DEN,Tyson REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0177,4,08:00,DEN,,OKC,,H. Tyson,DEN,Tyson Lost Ball Turnover (P2.T16),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0177,4,07:46,DEN,,OKC,,H. Tyson,DEN,Tyson P.FOUL (P4.T4) (J.Capers),Foul,Personal,0,0,0,0,,,h
+S2425-G0177,4,07:46,DEN,,OKC,,H. Tyson,DEN,SUB: Watson FOR Tyson,Substitution,,0,0,0,0,,,h
+S2425-G0194,1,00:12.800000,DEN,,MIA,,H. Tyson,DEN,SUB: Watson FOR Tyson,Substitution,,0,0,0,0,,,h
+S2425-G0194,2,11:29,DEN,,MIA,,H. Tyson,DEN,Tyson L.B.FOUL (P1.T1) (S.Jelks),Foul,Loose Ball,0,0,0,0,,,h
+S2425-G0194,2,10:10,DEN,,MIA,,H. Tyson,DEN,Tyson L.B.FOUL (P2.T3) (B.Forte),Foul,Loose Ball,0,0,0,0,,,h
+S2425-G0194,2,08:52,DEN,,MIA,,H. Tyson,DEN,SUB: Watson FOR Tyson,Substitution,,0,0,0,0,,,h
+S2425-G0194,3,02:45,DEN,,MIA,,H. Tyson,DEN,Tyson REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0194,3,02:17,DEN,98.0,MIA,83.0,H. Tyson,DEN,Tyson 3PT Jump Shot (3 PTS) (Westbrook 8 AST),Made Shot,Jump Shot,225,24,0,1,3.0,3.0,h
+S2425-G0194,3,01:37,DEN,100.0,MIA,86.0,H. Tyson,DEN,Tyson 2' Layup (5 PTS) (Jokić 12 AST),Made Shot,Layup Shot,-12,11,2,1,2.0,2.0,h
+S2425-G0194,3,00:44.100000,DEN,102.0,MIA,88.0,H. Tyson,DEN,Tyson Reverse Layup (7 PTS) (Westbrook 9 AST),Made Shot,Reverse Layup Shot,1,-4,0,1,2.0,2.0,h
+S2425-G0194,4,05:10,DEN,,MIA,,H. Tyson,DEN,Tyson REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0194,4,05:04,DEN,,MIA,,H. Tyson,DEN,Tyson Out of Bounds Lost Ball Turnover (P1.T17),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2425-G0194,4,04:20,DEN,,MIA,,H. Tyson,DEN,SUB: Watson FOR Tyson,Substitution,,0,0,0,0,,,h
+S2425-G0139,2,02:32,MIN,,DEN,,H. Tyson,DEN,SUB: Porter Jr. FOR Tyson,Substitution,,0,0,0,0,,,v
+S2425-G0139,3,01:40,MIN,,DEN,,H. Tyson,DEN,Tyson REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0139,3,01:01,MIN,,DEN,,H. Tyson,DEN,Tyson S.FOUL (P1.T3) (M.Davis),Foul,Shooting,0,0,0,0,,,v
+S2425-G0139,3,00:11.500000,MIN,91.0,DEN,85.0,H. Tyson,DEN,Tyson 12' Pullup Jump Shot (2 PTS) (Jokić 11 AST),Made Shot,Pullup Jump shot,-110,59,12,1,2.0,2.0,v
+S2425-G0148,1,02:16,DEN,31.0,UTA,20.0,H. Tyson,DEN,Tyson 2' Running Layup (2 PTS),Made Shot,Running Layup Shot,2,17,2,1,2.0,2.0,h
+S2425-G0148,1,02:16,DEN,32.0,UTA,20.0,H. Tyson,DEN,Tyson Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2425-G0148,1,00:34.900000,DEN,,UTA,,H. Tyson,DEN,Tyson P.FOUL (P1.T4) (M.Lindsay),Foul,Personal,0,0,0,0,,,h
+S2425-G0148,2,09:23,DEN,,UTA,,H. Tyson,DEN,SUB: Porter Jr. FOR Tyson,Substitution,,0,0,0,0,,,h
+S2425-G0148,2,03:53,DEN,,UTA,,H. Tyson,DEN,Tyson S.FOUL (P2.T3) (M.Lindsay),Foul,Shooting,0,0,0,0,,,h
+S2425-G0148,2,02:40,DEN,,UTA,,H. Tyson,DEN,Tyson T.FOUL (P2.T3) (M.Lindsay),Foul,Technical,0,0,0,0,,,h
+S2425-G0148,2,00:41.500000,DEN,,UTA,,H. Tyson,DEN,MISS Tyson 28' 3PT Jump Shot,Missed Shot,Jump Shot,-55,279,28,1,3.0,0.0,h
+S2425-G0148,3,00:32.800000,DEN,98.0,UTA,75.0,H. Tyson,DEN,Tyson Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0148,3,00:32.800000,DEN,99.0,UTA,75.0,H. Tyson,DEN,Tyson Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0148,4,09:13,DEN,,UTA,,H. Tyson,DEN,MISS Tyson 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-229,79,24,1,3.0,0.0,h
+S2425-G0148,4,09:07,DEN,,UTA,,H. Tyson,DEN,Tyson REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0148,4,04:28,DEN,119.0,UTA,93.0,H. Tyson,DEN,Tyson 3' Running Dunk (7 PTS),Made Shot,Running Dunk Shot,-11,27,3,1,2.0,2.0,h
+S2425-G0148,4,04:05,DEN,,UTA,,H. Tyson,DEN,Tyson REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0148,4,03:17,DEN,,UTA,,H. Tyson,DEN,Tyson REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0148,4,02:42,DEN,,UTA,,H. Tyson,DEN,Tyson REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0148,4,00:55.400000,DEN,,UTA,,H. Tyson,DEN,MISS Tyson 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,60,95,11,1,2.0,0.0,h
+S2425-G0017,4,11:37,NOP,,DEN,,H. Tyson,DEN,MISS Tyson 3PT Jump Shot,Missed Shot,Jump Shot,232,5,0,1,3.0,0.0,v
+S2425-G0017,4,10:34,NOP,,DEN,,H. Tyson,DEN,MISS Tyson 25' 3PT Jump Shot,Missed Shot,Jump Shot,174,185,25,1,3.0,0.0,v
+S2425-G0017,4,10:18,NOP,,DEN,,H. Tyson,DEN,SUB: Šarić FOR Tyson,Substitution,,0,0,0,0,,,v

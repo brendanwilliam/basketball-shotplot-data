@@ -1,7 +1,103 @@
 game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
 S2425-G0091,4,02:33,CHI,88.0,OKC,108.0,D. Terry,CHI,Terry Driving Layup (2 PTS) (Duarte 1 AST),Made Shot,Driving Layup Shot,2,-1,0,1,2.0,2.0,h
 S2425-G0091,4,00:21.600000,CHI,,OKC,,D. Terry,CHI,Terry Step Out of Bounds Turnover (P1.T26),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2425-G0013,1,00:32.800000,CLE,,CHI,,D. Terry,CHI,Terry Traveling Turnover (P1.T4),Turnover,Traveling,0,0,0,0,,,v
+S2425-G0013,2,10:11,CLE,,CHI,,D. Terry,CHI,SUB: Buzelis FOR Terry,Substitution,,0,0,0,0,,,v
+S2425-G0013,2,07:47,CLE,61.0,CHI,48.0,D. Terry,CHI,Terry 26' 3PT Jump Shot (3 PTS) (LaVine 4 AST),Made Shot,Jump Shot,-188,185,26,1,3.0,3.0,v
+S2425-G0013,2,06:44,CLE,64.0,CHI,53.0,D. Terry,CHI,Terry 1' Cutting Layup Shot (5 PTS) (Williams 5 AST),Made Shot,Cutting Layup Shot,7,8,1,1,2.0,2.0,v
+S2425-G0013,2,04:16,CLE,,CHI,,D. Terry,CHI,SUB: Dosunmu FOR Terry,Substitution,,0,0,0,0,,,v
+S2425-G0013,3,05:02,CLE,,CHI,,D. Terry,CHI,Terry STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0013,3,04:58,CLE,,CHI,,D. Terry,CHI,Terry Lost Ball Turnover (P2.T9),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0013,3,04:27,CLE,92.0,CHI,91.0,D. Terry,CHI,Terry Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0013,3,04:27,CLE,,CHI,,D. Terry,CHI,MISS Terry Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0013,3,04:02,CLE,,CHI,,D. Terry,CHI,MISS Terry 3PT Jump Shot,Missed Shot,Jump Shot,-229,-11,0,1,3.0,0.0,v
+S2425-G0013,3,03:21,CLE,,CHI,,D. Terry,CHI,Terry REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0013,3,03:19,CLE,,CHI,,D. Terry,CHI,MISS Terry 2' Driving Layup,Missed Shot,Driving Layup Shot,10,14,2,1,2.0,0.0,v
+S2425-G0013,3,02:56,CLE,,CHI,,D. Terry,CHI,Terry Traveling Turnover (P3.T11),Turnover,Traveling,0,0,0,0,,,v
+S2425-G0013,3,02:56,CLE,,CHI,,D. Terry,CHI,SUB: White FOR Terry,Substitution,,0,0,0,0,,,v
+S2425-G0013,4,05:45,CLE,,CHI,,D. Terry,CHI,SUB: Williams FOR Terry,Substitution,,0,0,0,0,,,v
+S2425-G0013,4,00:34.500000,CLE,,CHI,,D. Terry,CHI,Terry Bad Pass Turnover (P4.T17),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0176,1,06:07,DAL,,CHI,,D. Terry,CHI,Terry Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0176,1,05:47,DAL,,CHI,,D. Terry,CHI,MISS Terry 26' 3PT Jump Shot,Missed Shot,Jump Shot,107,232,26,1,3.0,0.0,v
+S2425-G0176,1,03:15,DAL,,CHI,,D. Terry,CHI,Terry REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0176,1,02:15,DAL,27.0,CHI,21.0,D. Terry,CHI,Terry 3PT Jump Shot (3 PTS) (White 2 AST),Made Shot,Jump Shot,-232,-11,0,1,3.0,3.0,v
+S2425-G0176,2,06:19,DAL,43.0,CHI,35.0,D. Terry,CHI,Terry 1' Cutting Dunk Shot (5 PTS) (Vučević 1 AST),Made Shot,Cutting Dunk Shot,-4,4,1,1,2.0,2.0,v
+S2425-G0176,2,05:14,DAL,,CHI,,D. Terry,CHI,Terry REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0176,2,05:07,DAL,,CHI,,D. Terry,CHI,MISS Terry 3PT Jump Shot,Missed Shot,Jump Shot,228,8,0,1,3.0,0.0,v
+S2425-G0176,2,05:04,DAL,,CHI,,D. Terry,CHI,Terry REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0176,2,04:25,DAL,,CHI,,D. Terry,CHI,SUB: Williams FOR Terry,Substitution,,0,0,0,0,,,v
+S2425-G0176,2,02:45,DAL,,CHI,,D. Terry,CHI,Terry REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0176,2,01:41,DAL,,CHI,,D. Terry,CHI,Terry S.FOUL (P1.PN) (T.Washington),Foul,Shooting,0,0,0,0,,,v
+S2425-G0176,2,00:50,DAL,,CHI,,D. Terry,CHI,Terry STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0176,3,03:26,DAL,,CHI,,D. Terry,CHI,MISS Terry 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,20,29,4,1,2.0,0.0,v
+S2425-G0176,3,02:15,DAL,,CHI,,D. Terry,CHI,SUB: Horton-Tucker FOR Terry,Substitution,,0,0,0,0,,,v
+S2425-G0176,4,08:50,DAL,,CHI,,D. Terry,CHI,Terry Bad Pass Turnover (P2.T22),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0176,4,08:27,DAL,95.0,CHI,71.0,D. Terry,CHI,Terry Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0176,4,08:27,DAL,95.0,CHI,72.0,D. Terry,CHI,Terry Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0176,4,08:09,DAL,,CHI,,D. Terry,CHI,Terry Step Out of Bounds Turnover (P3.T23),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,v
+S2425-G0176,4,06:40,DAL,,CHI,,D. Terry,CHI,MISS Terry 2' Driving Layup,Missed Shot,Driving Layup Shot,18,4,2,1,2.0,0.0,v
+S2425-G0176,4,04:52,DAL,107.0,CHI,79.0,D. Terry,CHI,Terry Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0176,4,04:52,DAL,,CHI,,D. Terry,CHI,MISS Terry Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0176,4,04:08,DAL,,CHI,,D. Terry,CHI,Terry STEAL (2 STL),,,0,0,0,0,,,v
+S2425-G0176,4,04:05,DAL,109.0,CHI,84.0,D. Terry,CHI,Terry 1' Running Dunk (10 PTS) (Duarte 1 AST),Made Shot,Running Dunk Shot,-1,8,1,1,2.0,2.0,v
+S2425-G0176,4,03:30,DAL,,CHI,,D. Terry,CHI,SUB: Phillips FOR Terry,Substitution,,0,0,0,0,,,v
+S2425-G0160,1,04:54,CHI,,UTA,,D. Terry,CHI,Terry BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0160,1,02:08,CHI,,UTA,,D. Terry,CHI,SUB: White FOR Terry,Substitution,,0,0,0,0,,,h
+S2425-G0160,2,07:53,CHI,,UTA,,D. Terry,CHI,MISS Terry 27' 3PT Jump Shot,Missed Shot,Jump Shot,-42,262,27,1,3.0,0.0,h
+S2425-G0160,2,06:54,CHI,,UTA,,D. Terry,CHI,SUB: Horton-Tucker FOR Terry,Substitution,,0,0,0,0,,,h
+S2425-G0160,3,05:29,CHI,,UTA,,D. Terry,CHI,Terry Out of Bounds - Bad Pass Turnover Turnover (P1.T6),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0160,3,04:53,CHI,,UTA,,D. Terry,CHI,Terry P.FOUL (P1.T4) (K.Scott),Foul,Personal,0,0,0,0,,,h
+S2425-G0160,3,04:31,CHI,76.0,UTA,80.0,D. Terry,CHI,Terry 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,8,1,1,2.0,2.0,h
+S2425-G0160,3,04:31,CHI,,UTA,,D. Terry,CHI,MISS Terry Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2425-G0160,3,02:47,CHI,,UTA,,D. Terry,CHI,Terry S.FOUL (P2.PN) (P.Fraher),Foul,Shooting,0,0,0,0,,,h
+S2425-G0160,3,02:29,CHI,,UTA,,D. Terry,CHI,MISS Terry 24' 3PT Jump Shot,Missed Shot,Jump Shot,-237,-8,24,1,3.0,0.0,h
+S2425-G0160,3,02:26,CHI,,UTA,,D. Terry,CHI,Terry REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0160,3,02:03,CHI,86.0,UTA,88.0,D. Terry,CHI,Terry 1' Cutting Layup Shot (4 PTS) (White 5 AST),Made Shot,Cutting Layup Shot,9,6,1,1,2.0,2.0,h
+S2425-G0160,4,10:04,CHI,,UTA,,D. Terry,CHI,Terry REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0160,4,10:04,CHI,,UTA,,D. Terry,CHI,MISS Terry Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2425-G0160,4,09:25,CHI,,UTA,,D. Terry,CHI,SUB: Williams FOR Terry,Substitution,,0,0,0,0,,,h
+S2425-G0136,2,04:02,BKN,57.0,CHI,43.0,D. Terry,CHI,Terry 2' Driving Finger Roll Layup (2 PTS) (Giddey 5 AST),Made Shot,Driving Finger Roll Layup Shot,18,11,2,1,2.0,2.0,v
+S2425-G0136,2,03:58,BKN,,CHI,,D. Terry,CHI,SUB: White FOR Terry,Substitution,,0,0,0,0,,,v
+S2425-G0136,3,03:51,BKN,85.0,CHI,82.0,D. Terry,CHI,Terry 1' Driving Reverse Layup (4 PTS),Made Shot,Driving Reverse Layup Shot,-2,13,1,1,2.0,2.0,v
+S2425-G0136,3,03:38,BKN,,CHI,,D. Terry,CHI,Terry REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0136,3,01:27,BKN,,CHI,,D. Terry,CHI,Terry P.FOUL (P1.T3) (J.Tiven),Foul,Personal,0,0,0,0,,,v
+S2425-G0136,3,01:05,BKN,,CHI,,D. Terry,CHI,Terry REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0136,3,00:54,BKN,89.0,CHI,88.0,D. Terry,CHI,Terry Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0136,3,00:54,BKN,,CHI,,D. Terry,CHI,MISS Terry Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0136,4,11:40,BKN,,CHI,,D. Terry,CHI,MISS Terry 2' Driving Layup,Missed Shot,Driving Layup Shot,15,17,2,1,2.0,0.0,v
+S2425-G0136,4,10:10,BKN,,CHI,,D. Terry,CHI,Terry BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0136,4,08:40,BKN,,CHI,,D. Terry,CHI,SUB: Vučević FOR Terry,Substitution,,0,0,0,0,,,v
+S2425-G0198,1,02:43,ATL,30.0,CHI,21.0,D. Terry,CHI,Terry Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0198,1,02:43,ATL,30.0,CHI,22.0,D. Terry,CHI,Terry Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0198,1,02:06,ATL,,CHI,,D. Terry,CHI,Terry P.FOUL (P1.PN) (A.Nagy),Foul,Personal,0,0,0,0,,,v
+S2425-G0198,3,09:24,ATL,,CHI,,D. Terry,CHI,Terry REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0198,3,09:24,ATL,77.0,CHI,64.0,D. Terry,CHI,Terry Driving Layup (4 PTS),Made Shot,Driving Layup Shot,0,0,0,1,2.0,2.0,v
+S2425-G0198,3,08:04,ATL,,CHI,,D. Terry,CHI,Terry BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0198,3,08:02,ATL,,CHI,,D. Terry,CHI,Terry REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0198,3,07:47,ATL,,CHI,,D. Terry,CHI,Terry REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0198,3,06:50,ATL,,CHI,,D. Terry,CHI,MISS Terry 3PT Jump Shot,Missed Shot,Jump Shot,-225,19,0,1,3.0,0.0,v
+S2425-G0198,3,06:28,ATL,86.0,CHI,78.0,D. Terry,CHI,Terry 25' 3PT Running Jump Shot (7 PTS) (LaVine 5 AST),Made Shot,Running Jump Shot,-121,220,25,1,3.0,3.0,v
+S2425-G0198,3,05:42,ATL,,CHI,,D. Terry,CHI,MISS Terry 25' 3PT Jump Shot,Missed Shot,Jump Shot,130,213,25,1,3.0,0.0,v
+S2425-G0198,3,05:25,ATL,90.0,CHI,79.0,D. Terry,CHI,Terry Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0198,3,05:25,ATL,90.0,CHI,80.0,D. Terry,CHI,Terry Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0198,3,03:22,ATL,,CHI,,D. Terry,CHI,Terry REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0198,3,01:51,ATL,,CHI,,D. Terry,CHI,SUB: Williams FOR Terry,Substitution,,0,0,0,0,,,v
 S2425-G0069,4,00:03.100000,NOP,,CHI,,D. Terry,CHI,Terry STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0181,1,01:18,CHI,,MIN,,D. Terry,CHI,Terry REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0181,1,01:11,CHI,,MIN,,D. Terry,CHI,Terry Bad Pass Turnover (P1.T1),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0181,1,00:43.200000,CHI,34.0,MIN,26.0,D. Terry,CHI,Terry 1' Layup (2 PTS) (White 4 AST),Made Shot,Layup Shot,6,-5,1,1,2.0,2.0,h
+S2425-G0181,2,11:22,CHI,36.0,MIN,28.0,D. Terry,CHI,Terry 3' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,25,-4,3,1,2.0,2.0,h
+S2425-G0181,2,10:52,CHI,,MIN,,D. Terry,CHI,SUB: Dosunmu FOR Terry,Substitution,,0,0,0,0,,,h
+S2425-G0181,3,07:38,CHI,,MIN,,D. Terry,CHI,MISS Terry 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,15,78,8,1,2.0,0.0,h
+S2425-G0181,3,05:39,CHI,,MIN,,D. Terry,CHI,Terry REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0181,3,05:24,CHI,,MIN,,D. Terry,CHI,Terry Personal Take Foul (P1.T3) (C.Blair),Foul,Personal Take,0,0,0,0,,,h
+S2425-G0181,3,02:55,CHI,,MIN,,D. Terry,CHI,Terry Out of Bounds - Bad Pass Turnover Turnover (P2.T11),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0181,3,02:44,CHI,,MIN,,D. Terry,CHI,Terry BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0181,3,02:44,CHI,,MIN,,D. Terry,CHI,Terry REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0181,3,02:05,CHI,,MIN,,D. Terry,CHI,Terry STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0181,3,01:25,CHI,,MIN,,D. Terry,CHI,SUB: Williams FOR Terry,Substitution,,0,0,0,0,,,h
+S2425-G0181,4,06:59,CHI,,MIN,,D. Terry,CHI,SUB: Giddey FOR Terry,Substitution,,0,0,0,0,,,h
+S2425-G0181,4,00:22.100000,CHI,119.0,MIN,135.0,D. Terry,CHI,Terry Driving Reverse Layup (6 PTS),Made Shot,Driving Reverse Layup Shot,2,3,0,1,2.0,2.0,h
 S2425-G0123,1,02:24,CHI,,ORL,,D. Terry,CHI,MISS Terry 25' 3PT Jump Shot,Missed Shot,Jump Shot,12,253,25,1,3.0,0.0,h
 S2425-G0123,1,02:01,CHI,,ORL,,D. Terry,CHI,Terry REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
 S2425-G0123,2,10:55,CHI,,ORL,,D. Terry,CHI,Terry S.FOUL (P1.T2) (Z.Zarba),Foul,Shooting,0,0,0,0,,,h
@@ -16,6 +112,24 @@ S2425-G0123,4,09:54,CHI,,ORL,,D. Terry,CHI,Terry REBOUND (Off:0 Def:2),Rebound,U
 S2425-G0123,4,09:27,CHI,,ORL,,D. Terry,CHI,MISS Terry 2' Running Layup,Missed Shot,Running Layup Shot,15,6,2,1,2.0,0.0,h
 S2425-G0123,4,09:02,CHI,,ORL,,D. Terry,CHI,Terry L.B.FOUL (P2.T1) (E.Scott),Foul,Loose Ball,0,0,0,0,,,h
 S2425-G0123,4,09:02,CHI,,ORL,,D. Terry,CHI,SUB: LaVine FOR Terry,Substitution,,0,0,0,0,,,h
+S2425-G0030,1,02:15,CHI,,ATL,,D. Terry,CHI,Terry Lost Ball Turnover (P1.T4),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0030,2,11:40,CHI,,ATL,,D. Terry,CHI,MISS Terry 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-23,64,7,1,2.0,0.0,h
+S2425-G0030,2,09:51,CHI,,ATL,,D. Terry,CHI,Terry REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0030,2,09:47,CHI,29.0,ATL,30.0,D. Terry,CHI,Terry Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0030,2,09:47,CHI,30.0,ATL,30.0,D. Terry,CHI,Terry Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0030,2,09:05,CHI,33.0,ATL,30.0,D. Terry,CHI,Terry 3PT Running Jump Shot (5 PTS) (White 4 AST),Made Shot,Running Jump Shot,-228,53,0,1,3.0,3.0,h
+S2425-G0030,2,08:39,CHI,,ATL,,D. Terry,CHI,Terry STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0030,2,08:20,CHI,,ATL,,D. Terry,CHI,Terry STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0030,2,08:00,CHI,,ATL,,D. Terry,CHI,Terry Bad Pass Turnover (P2.T6),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0030,2,07:30,CHI,,ATL,,D. Terry,CHI,SUB: Giddey FOR Terry,Substitution,,0,0,0,0,,,h
+S2425-G0030,3,03:59,CHI,,ATL,,D. Terry,CHI,Terry S.FOUL (P1.T3) (B.Kennedy),Foul,Shooting,0,0,0,0,,,h
+S2425-G0030,3,01:16,CHI,93.0,ATL,80.0,D. Terry,CHI,Terry Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0030,3,01:16,CHI,94.0,ATL,80.0,D. Terry,CHI,Terry Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0030,4,11:12,CHI,,ATL,,D. Terry,CHI,MISS Terry 2' Running Layup,Missed Shot,Running Layup Shot,20,8,2,1,2.0,0.0,h
+S2425-G0030,4,08:19,CHI,110.0,ATL,92.0,D. Terry,CHI,Terry Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0030,4,08:19,CHI,111.0,ATL,92.0,D. Terry,CHI,Terry Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0030,4,06:09,CHI,119.0,ATL,99.0,D. Terry,CHI,Terry 3PT Jump Shot (12 PTS) (Giddey 8 AST),Made Shot,Jump Shot,230,-17,0,1,3.0,3.0,h
+S2425-G0030,4,04:41,CHI,,ATL,,D. Terry,CHI,SUB: Dosunmu FOR Terry,Substitution,,0,0,0,0,,,h
 S2425-G0083,1,02:39,MIL,,CHI,,D. Terry,CHI,Terry STEAL (1 STL),,,0,0,0,0,,,v
 S2425-G0083,1,01:46,MIL,,CHI,,D. Terry,CHI,MISS Terry 7' Driving Layup,Missed Shot,Driving Layup Shot,-37,63,7,1,2.0,0.0,v
 S2425-G0083,1,01:12,MIL,,CHI,,D. Terry,CHI,MISS Terry Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v

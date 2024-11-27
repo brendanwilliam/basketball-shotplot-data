@@ -1,9 +1,96 @@
 game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0130,1,04:08,UTA,,SAS,,D. Eubanks,UTA,Eubanks REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0130,1,02:47,UTA,,SAS,,D. Eubanks,UTA,Eubanks S.FOUL (P1.T2) (B.Adair),Foul,Shooting,0,0,0,0,,,h
+S2425-G0130,1,02:27,UTA,,SAS,,D. Eubanks,UTA,Eubanks BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0130,1,01:19,UTA,,SAS,,D. Eubanks,UTA,Eubanks BLOCK (2 BLK),,,0,0,0,0,,,h
+S2425-G0130,1,00:42.200000,UTA,,SAS,,D. Eubanks,UTA,Eubanks REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0130,2,10:36,UTA,,SAS,,D. Eubanks,UTA,Eubanks REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0130,2,10:09,UTA,32.0,SAS,26.0,D. Eubanks,UTA,Eubanks 3' Cutting Dunk Shot (2 PTS) (Collins 2 AST),Made Shot,Cutting Dunk Shot,27,3,3,1,2.0,2.0,h
+S2425-G0130,2,09:16,UTA,,SAS,,D. Eubanks,UTA,Eubanks OFF.Foul (P2) (C.Blair),Foul,Offensive,0,0,0,0,,,h
+S2425-G0130,2,09:16,UTA,,SAS,,D. Eubanks,UTA,Eubanks Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0130,2,09:02,UTA,,SAS,,D. Eubanks,UTA,Eubanks P.FOUL (P3.T1) (C.Blair),Foul,Personal,0,0,0,0,,,h
+S2425-G0130,2,08:44,UTA,33.0,SAS,32.0,D. Eubanks,UTA,Eubanks Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0130,2,08:44,UTA,34.0,SAS,32.0,D. Eubanks,UTA,Eubanks Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0130,2,07:44,UTA,,SAS,,D. Eubanks,UTA,SUB: George FOR Eubanks,Substitution,,0,0,0,0,,,h
+S2425-G0130,3,05:24,UTA,,SAS,,D. Eubanks,UTA,MISS Eubanks 9' Floating Jump Shot,Missed Shot,Floating Jump shot,-4,89,9,1,2.0,0.0,h
+S2425-G0130,3,05:10,UTA,,SAS,,D. Eubanks,UTA,Eubanks S.FOUL (P4.T4) (C.Blair),Foul,Shooting,0,0,0,0,,,h
+S2425-G0130,3,03:51,UTA,63.0,SAS,71.0,D. Eubanks,UTA,Eubanks 7' Driving Hook Shot (6 PTS) (Collins 3 AST),Made Shot,Driving Hook Shot,11,68,7,1,2.0,2.0,h
+S2425-G0130,3,01:54,UTA,,SAS,,D. Eubanks,UTA,Eubanks REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0130,3,00:04.200000,UTA,,SAS,,D. Eubanks,UTA,Eubanks REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0130,3,00:01,UTA,,SAS,,D. Eubanks,UTA,Eubanks Lost Ball Turnover (P2.T22),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0130,4,06:40,UTA,,SAS,,D. Eubanks,UTA,Eubanks Lost Ball Turnover (P3.T25),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0130,4,06:37,UTA,,SAS,,D. Eubanks,UTA,SUB: Kessler FOR Eubanks,Substitution,,0,0,0,0,,,h
+S2425-G0160,1,01:18,CHI,24.0,UTA,28.0,D. Eubanks,UTA,Eubanks 6' Turnaround Hook Shot (2 PTS),Made Shot,Turnaround Hook Shot,12,57,6,1,2.0,2.0,v
+S2425-G0160,1,00:49.500000,CHI,,UTA,,D. Eubanks,UTA,MISS Eubanks 9' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,92,17,9,1,2.0,0.0,v
+S2425-G0160,2,10:35,CHI,,UTA,,D. Eubanks,UTA,Eubanks REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0160,2,10:12,CHI,,UTA,,D. Eubanks,UTA,Eubanks REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0160,2,09:56,CHI,,UTA,,D. Eubanks,UTA,SUB: Kessler FOR Eubanks,Substitution,,0,0,0,0,,,v
+S2425-G0160,3,01:02,CHI,,UTA,,D. Eubanks,UTA,Eubanks REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0160,4,11:40,CHI,,UTA,,D. Eubanks,UTA,MISS Eubanks 3' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-28,17,3,1,2.0,0.0,v
+S2425-G0160,4,10:39,CHI,,UTA,,D. Eubanks,UTA,Eubanks REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0160,4,08:59,CHI,99.0,UTA,106.0,D. Eubanks,UTA,Eubanks 1' Cutting Dunk Shot (4 PTS) (George 9 AST),Made Shot,Cutting Dunk Shot,-2,10,1,1,2.0,2.0,v
+S2425-G0160,4,07:39,CHI,,UTA,,D. Eubanks,UTA,SUB: Kessler FOR Eubanks,Substitution,,0,0,0,0,,,v
+S2425-G0182,1,03:59,MIL,,UTA,,D. Eubanks,UTA,Eubanks REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0182,1,02:03,MIL,,UTA,,D. Eubanks,UTA,Eubanks REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0182,1,00:38.200000,MIL,,UTA,,D. Eubanks,UTA,Eubanks REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0182,2,11:37,MIL,31.0,UTA,31.0,D. Eubanks,UTA,Eubanks 1' Running Layup (2 PTS) (Markkanen 1 AST),Made Shot,Running Layup Shot,-5,8,1,1,2.0,2.0,v
+S2425-G0182,2,11:05,MIL,,UTA,,D. Eubanks,UTA,Eubanks REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0182,2,09:31,MIL,,UTA,,D. Eubanks,UTA,SUB: Williams FOR Eubanks,Substitution,,0,0,0,0,,,v
+S2425-G0182,3,02:11,MIL,,UTA,,D. Eubanks,UTA,Eubanks Bad Pass Turnover (P1.T12),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0182,3,01:17,MIL,87.0,UTA,73.0,D. Eubanks,UTA,Eubanks Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0182,3,01:17,MIL,87.0,UTA,74.0,D. Eubanks,UTA,Eubanks Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0182,3,00:46.600000,MIL,,UTA,,D. Eubanks,UTA,MISS Eubanks 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,5,18,2,1,2.0,0.0,v
+S2425-G0182,3,00:07.200000,MIL,,UTA,,D. Eubanks,UTA,Eubanks REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0182,4,11:25,MIL,,UTA,,D. Eubanks,UTA,Eubanks REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0182,4,11:11,MIL,,UTA,,D. Eubanks,UTA,Eubanks REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0182,4,10:32,MIL,,UTA,,D. Eubanks,UTA,MISS Eubanks 27' 3PT Jump Shot,Missed Shot,Jump Shot,33,264,27,1,3.0,0.0,v
+S2425-G0182,4,08:49,MIL,,UTA,,D. Eubanks,UTA,SUB: Williams FOR Eubanks,Substitution,,0,0,0,0,,,v
+S2425-G0182,4,02:32,MIL,,UTA,,D. Eubanks,UTA,Eubanks S.FOUL (P2.T4) (J.Sterling),Foul,Shooting,0,0,0,0,,,v
 S2425-G0115,4,04:29,UTA,,SAC,,D. Eubanks,UTA,Eubanks REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
 S2425-G0115,4,00:18.900000,UTA,,SAC,,D. Eubanks,UTA,MISS Eubanks 6' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,56,6,6,1,2.0,0.0,h
+S2425-G0026,1,04:43,LAL,,UTA,,D. Eubanks,UTA,Eubanks REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0026,1,04:03,LAL,,UTA,,D. Eubanks,UTA,Eubanks REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0026,1,03:28,LAL,25.0,UTA,12.0,D. Eubanks,UTA,Eubanks 9' Driving Hook Shot (2 PTS) (Williams 1 AST),Made Shot,Driving Hook Shot,45,77,9,1,2.0,2.0,v
+S2425-G0026,1,02:28,LAL,,UTA,,D. Eubanks,UTA,Eubanks REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0026,1,00:32.300000,LAL,,UTA,,D. Eubanks,UTA,Eubanks REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0026,2,09:53,LAL,,UTA,,D. Eubanks,UTA,Eubanks REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0026,2,07:17,LAL,,UTA,,D. Eubanks,UTA,MISS Eubanks Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0026,2,07:17,LAL,,UTA,,D. Eubanks,UTA,MISS Eubanks Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0026,2,06:39,LAL,,UTA,,D. Eubanks,UTA,Eubanks REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0026,2,06:35,LAL,,UTA,,D. Eubanks,UTA,Eubanks Out of Bounds - Bad Pass Turnover Turnover (P1.T7),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0026,2,06:35,LAL,,UTA,,D. Eubanks,UTA,SUB: Filipowski FOR Eubanks,Substitution,,0,0,0,0,,,v
+S2425-G0026,3,08:07,LAL,68.0,UTA,54.0,D. Eubanks,UTA,Eubanks 1' Alley Oop Layup (4 PTS) (George 2 AST),Made Shot,Alley Oop Layup shot,-2,8,1,1,2.0,2.0,v
+S2425-G0026,3,07:43,LAL,,UTA,,D. Eubanks,UTA,Eubanks REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0026,3,05:24,LAL,77.0,UTA,61.0,D. Eubanks,UTA,Eubanks 3' Layup (6 PTS) (George 4 AST),Made Shot,Layup Shot,-13,22,3,1,2.0,2.0,v
+S2425-G0026,3,04:03,LAL,,UTA,,D. Eubanks,UTA,Eubanks S.FOUL (P1.PN) (B.Barnaky),Foul,Shooting,0,0,0,0,,,v
+S2425-G0026,3,04:00,LAL,,UTA,,D. Eubanks,UTA,Eubanks REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0026,3,01:28,LAL,91.0,UTA,75.0,D. Eubanks,UTA,Eubanks 4' Dunk (8 PTS) (Collier 4 AST),Made Shot,Dunk Shot,4,38,4,1,2.0,2.0,v
 S2425-G0084,4,11:13,UTA,,GSW,,D. Eubanks,UTA,Eubanks REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
 S2425-G0084,4,11:11,UTA,,GSW,,D. Eubanks,UTA,MISS Eubanks Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
 S2425-G0084,4,11:11,UTA,71.0,GSW,94.0,D. Eubanks,UTA,Eubanks Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
 S2425-G0084,4,10:37,UTA,,GSW,,D. Eubanks,UTA,Eubanks REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
 S2425-G0084,4,10:32,UTA,74.0,GSW,94.0,D. Eubanks,UTA,Eubanks 3PT Jump Shot (4 PTS),Made Shot,Jump Shot,-233,0,0,1,3.0,3.0,h
 S2425-G0084,4,08:22,UTA,,GSW,,D. Eubanks,UTA,SUB: Kessler FOR Eubanks,Substitution,,0,0,0,0,,,h
+S2425-G0006,2,01:32,UTA,,PHX,,D. Eubanks,UTA,Eubanks REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0006,2,01:30,UTA,44.0,PHX,59.0,D. Eubanks,UTA,Eubanks Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2425-G0006,2,01:02,UTA,46.0,PHX,62.0,D. Eubanks,UTA,Eubanks 13' Driving Floating Jump Shot (4 PTS) (George 1 AST),Made Shot,Driving Floating Jump Shot,48,121,13,1,2.0,2.0,h
+S2425-G0006,2,00:49.700000,UTA,,PHX,,D. Eubanks,UTA,Eubanks REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0148,1,03:08,DEN,,UTA,,D. Eubanks,UTA,Eubanks BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0148,1,03:07,DEN,,UTA,,D. Eubanks,UTA,Eubanks S.FOUL (P1.PN) (M.Kallio),Foul,Shooting,0,0,0,0,,,v
+S2425-G0148,1,02:55,DEN,,UTA,,D. Eubanks,UTA,Eubanks BLOCK (2 BLK),,,0,0,0,0,,,v
+S2425-G0148,1,01:48,DEN,,UTA,,D. Eubanks,UTA,Eubanks Bad Pass Turnover (P1.T9),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0148,2,11:26,DEN,,UTA,,D. Eubanks,UTA,Eubanks STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0148,2,10:54,DEN,,UTA,,D. Eubanks,UTA,Eubanks REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0148,2,10:41,DEN,39.0,UTA,30.0,D. Eubanks,UTA,Eubanks 11' Turnaround Hook Shot (2 PTS),Made Shot,Turnaround Hook Shot,-43,96,11,1,2.0,2.0,v
+S2425-G0148,2,10:26,DEN,,UTA,,D. Eubanks,UTA,Eubanks REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0148,2,09:23,DEN,,UTA,,D. Eubanks,UTA,SUB: Kessler FOR Eubanks,Substitution,,0,0,0,0,,,v
+S2425-G0148,2,03:10,DEN,56.0,UTA,46.0,D. Eubanks,UTA,Eubanks 7' Cutting Finger Roll Layup Shot (4 PTS) (Sexton 2 AST),Made Shot,Cutting Finger Roll Layup Shot,-45,55,7,1,2.0,2.0,v
+S2425-G0148,2,00:53.100000,DEN,63.0,UTA,54.0,D. Eubanks,UTA,Eubanks Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0148,2,00:39.500000,DEN,,UTA,,D. Eubanks,UTA,Eubanks REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0148,3,03:00,DEN,,UTA,,D. Eubanks,UTA,Eubanks REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0148,3,01:24,DEN,,UTA,,D. Eubanks,UTA,MISS Eubanks 3PT Jump Shot,Missed Shot,Jump Shot,-234,5,0,1,3.0,0.0,v
+S2425-G0148,4,10:19,DEN,,UTA,,D. Eubanks,UTA,MISS Eubanks 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,1,43,4,1,2.0,0.0,v
+S2425-G0148,4,10:18,DEN,,UTA,,D. Eubanks,UTA,Eubanks REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0148,4,10:18,DEN,,UTA,,D. Eubanks,UTA,Eubanks Out of Bounds Lost Ball Turnover (P2.T16),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
+S2425-G0148,4,09:57,DEN,,UTA,,D. Eubanks,UTA,Eubanks REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0148,4,09:52,DEN,,UTA,,D. Eubanks,UTA,SUB: Kessler FOR Eubanks,Substitution,,0,0,0,0,,,v

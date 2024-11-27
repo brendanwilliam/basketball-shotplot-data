@@ -1,4 +1,29 @@
 game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0131,2,04:00,LAC,60.0,PHX,46.0,O. Ighodaro,PHX,Ighodaro 5' Hook Shot (2 PTS) (Durant 2 AST),Made Shot,Hook Shot,29,44,5,1,2.0,2.0,v
+S2425-G0131,2,03:25,LAC,,PHX,,O. Ighodaro,PHX,Ighodaro REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0131,2,00:14.800000,LAC,,PHX,,O. Ighodaro,PHX,Ighodaro P.FOUL (P1.PN) (M.Kallio),Foul,Personal,0,0,0,0,,,v
+S2425-G0131,2,00:14.800000,LAC,,PHX,,O. Ighodaro,PHX,SUB: Dunn FOR Ighodaro,Substitution,,0,0,0,0,,,v
+S2425-G0018,1,00:10.600000,OKC,,PHX,,O. Ighodaro,PHX,Ighodaro REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0018,2,10:35,OKC,,PHX,,O. Ighodaro,PHX,Ighodaro REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0018,2,10:19,OKC,,PHX,,O. Ighodaro,PHX,SUB: O'Neale FOR Ighodaro,Substitution,,0,0,0,0,,,v
+S2425-G0018,2,02:22,OKC,,PHX,,O. Ighodaro,PHX,MISS Ighodaro 3' Driving Layup,Missed Shot,Driving Layup Shot,22,22,3,1,2.0,0.0,v
+S2425-G0018,2,00:28.100000,OKC,,PHX,,O. Ighodaro,PHX,Ighodaro BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0018,2,00:27.600000,OKC,,PHX,,O. Ighodaro,PHX,Ighodaro REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0018,2,00:25.200000,OKC,,PHX,,O. Ighodaro,PHX,Ighodaro Out of Bounds - Bad Pass Turnover Turnover (P1.T7),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0018,3,04:48,OKC,,PHX,,O. Ighodaro,PHX,Ighodaro REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0018,3,04:10,OKC,70.0,PHX,51.0,O. Ighodaro,PHX,Ighodaro Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0018,3,04:10,OKC,70.0,PHX,52.0,O. Ighodaro,PHX,Ighodaro Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0018,3,03:54,OKC,,PHX,,O. Ighodaro,PHX,Ighodaro REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0018,3,03:07,OKC,,PHX,,O. Ighodaro,PHX,Ighodaro S.FOUL (P1.PN) (M.Myers),Foul,Shooting,0,0,0,0,,,v
+S2425-G0018,3,02:09,OKC,,PHX,,O. Ighodaro,PHX,Ighodaro REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0018,3,02:05,OKC,77.0,PHX,56.0,O. Ighodaro,PHX,Ighodaro 5' Floating Jump Shot (4 PTS),Made Shot,Floating Jump shot,27,38,5,1,2.0,2.0,v
+S2425-G0018,4,06:16,OKC,,PHX,,O. Ighodaro,PHX,Ighodaro P.FOUL (P2.T3) (M.Myers),Foul,Personal,0,0,0,0,,,v
+S2425-G0018,4,05:52,OKC,,PHX,,O. Ighodaro,PHX,Ighodaro P.FOUL (P3.T4) (M.Ervin),Foul,Personal,0,0,0,0,,,v
+S2425-G0018,4,05:44,OKC,,PHX,,O. Ighodaro,PHX,Ighodaro S.FOUL (P4.PN) (M.Myers),Foul,Shooting,0,0,0,0,,,v
+S2425-G0018,4,04:20,OKC,,PHX,,O. Ighodaro,PHX,Ighodaro P.FOUL (P5.PN) (M.Myers),Foul,Personal,0,0,0,0,,,v
+S2425-G0018,4,04:13,OKC,97.0,PHX,77.0,O. Ighodaro,PHX,Ighodaro Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0018,4,04:13,OKC,97.0,PHX,78.0,O. Ighodaro,PHX,Ighodaro Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0018,4,01:35,OKC,,PHX,,O. Ighodaro,PHX,Ighodaro REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
 S2425-G0085,2,05:39,LAL,,PHX,,O. Ighodaro,PHX,Ighodaro REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
 S2425-G0085,2,05:11,LAL,,PHX,,O. Ighodaro,PHX,Ighodaro S.FOUL (P1.T2) (C.Kirkland),Foul,Shooting,0,0,0,0,,,v
 S2425-G0085,2,03:23,LAL,,PHX,,O. Ighodaro,PHX,Ighodaro Offensive Charge Foul (P2) (J.Goble),Foul,Offensive Charge,0,0,0,0,,,v
@@ -17,6 +42,31 @@ S2425-G0071,3,07:37,LAC,,PHX,,O. Ighodaro,PHX,Ighodaro REBOUND (Off:2 Def:4),Reb
 S2425-G0071,3,07:28,LAC,51.0,PHX,53.0,O. Ighodaro,PHX,Ighodaro 7' Driving Floating Jump Shot (2 PTS) (Booker 3 AST),Made Shot,Driving Floating Jump Shot,-38,55,7,1,2.0,2.0,v
 S2425-G0071,3,07:10,LAC,,PHX,,O. Ighodaro,PHX,Ighodaro S.FOUL (P1.T2) (S.Twardoski),Foul,Shooting,0,0,0,0,,,v
 S2425-G0071,3,03:33,LAC,,PHX,,O. Ighodaro,PHX,SUB: Allen FOR Ighodaro,Substitution,,0,0,0,0,,,v
+S2425-G0006,1,05:00,UTA,,PHX,,O. Ighodaro,PHX,Ighodaro REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0006,1,04:08,UTA,,PHX,,O. Ighodaro,PHX,Ighodaro REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0006,1,03:39,UTA,,PHX,,O. Ighodaro,PHX,Ighodaro REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0006,1,03:15,UTA,,PHX,,O. Ighodaro,PHX,Ighodaro REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0006,1,03:08,UTA,16.0,PHX,25.0,O. Ighodaro,PHX,Ighodaro 2' Cutting Dunk Shot (2 PTS) (Jones 2 AST),Made Shot,Cutting Dunk Shot,-5,21,2,1,2.0,2.0,v
+S2425-G0006,2,10:45,UTA,,PHX,,O. Ighodaro,PHX,Ighodaro S.FOUL (P1.T1) (K.Cutler),Foul,Shooting,0,0,0,0,,,v
+S2425-G0006,2,10:20,UTA,,PHX,,O. Ighodaro,PHX,Ighodaro REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0006,2,08:49,UTA,,PHX,,O. Ighodaro,PHX,Ighodaro REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0006,2,08:49,UTA,32.0,PHX,39.0,O. Ighodaro,PHX,Ighodaro Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2425-G0006,2,08:31,UTA,,PHX,,O. Ighodaro,PHX,Ighodaro BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0006,2,07:59,UTA,,PHX,,O. Ighodaro,PHX,Ighodaro REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0006,2,05:57,UTA,,PHX,,O. Ighodaro,PHX,Ighodaro BLOCK (2 BLK),,,0,0,0,0,,,v
+S2425-G0006,2,05:35,UTA,,PHX,,O. Ighodaro,PHX,Ighodaro REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0006,2,05:34,UTA,,PHX,,O. Ighodaro,PHX,Ighodaro Lost Ball Turnover (P1.T7),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0006,2,05:31,UTA,,PHX,,O. Ighodaro,PHX,SUB: Dunn FOR Ighodaro,Substitution,,0,0,0,0,,,v
+S2425-G0006,3,04:33,UTA,,PHX,,O. Ighodaro,PHX,Ighodaro REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0006,3,03:18,UTA,,PHX,,O. Ighodaro,PHX,Ighodaro REBOUND (Off:3 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0006,3,00:53.400000,UTA,,PHX,,O. Ighodaro,PHX,MISS Ighodaro 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,34,13,4,1,2.0,0.0,v
+S2425-G0006,4,09:51,UTA,,PHX,,O. Ighodaro,PHX,Ighodaro REBOUND (Off:4 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0006,4,09:51,UTA,83.0,PHX,91.0,O. Ighodaro,PHX,Ighodaro Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2425-G0006,4,09:31,UTA,,PHX,,O. Ighodaro,PHX,Ighodaro REBOUND (Off:4 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0006,4,08:41,UTA,,PHX,,O. Ighodaro,PHX,Ighodaro S.FOUL (P2.T1) (J.Conley),Foul,Shooting,0,0,0,0,,,v
+S2425-G0006,4,08:23,UTA,,PHX,,O. Ighodaro,PHX,MISS Ighodaro 11' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,42,98,11,1,2.0,0.0,v
+S2425-G0006,4,07:19,UTA,,PHX,,O. Ighodaro,PHX,SUB: Allen FOR Ighodaro,Substitution,,0,0,0,0,,,v
+S2425-G0006,4,00:16,UTA,,PHX,,O. Ighodaro,PHX,SUB: Plumlee FOR Ighodaro,Substitution,,0,0,0,0,,,v
 S2425-G0095,2,10:35,PHX,,DAL,,O. Ighodaro,PHX,Ighodaro OFF.Foul (P1) (T.Ford),Foul,Offensive,0,0,0,0,,,h
 S2425-G0095,2,10:35,PHX,,DAL,,O. Ighodaro,PHX,Ighodaro Offensive Foul Turnover (P1.T2),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
 S2425-G0095,2,08:30,PHX,,DAL,,O. Ighodaro,PHX,Ighodaro REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h

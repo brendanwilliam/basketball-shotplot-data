@@ -1,25 +1,111 @@
 game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
-S2424-G124,1,07:24,MEM,15.0,BKN,10.0,S. Pippen Jr.,MEM,Pippen Jr. Free Throw 1 of 1 (1 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
-S2424-G124,1,06:47,MEM,,BKN,,S. Pippen Jr.,MEM,Pippen Jr. Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,h
-S2424-G124,1,03:07,MEM,,BKN,,S. Pippen Jr.,MEM,Pippen Jr. S.FOUL (P1.T3) (A.Smith),Foul,Shooting,0,0,0,0,,,h
-S2424-G124,1,02:09,MEM,,BKN,,S. Pippen Jr.,MEM,MISS Pippen Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,184,180,26,1,3.0,0.0,h
-S2424-G124,1,01:19,MEM,,BKN,,S. Pippen Jr.,MEM,SUB: Clarke FOR Pippen Jr.,Substitution,,0,0,0,0,,,h
-S2424-G124,1,00:00,MEM,,BKN,,S. Pippen Jr.,MEM,MISS Pippen Jr. 48' 3PT Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,97,465,48,1,3.0,0.0,h
-S2424-G124,2,05:44,MEM,,BKN,,S. Pippen Jr.,MEM,Pippen Jr. S.FOUL (P2.T3) (B.Nansel),Foul,Shooting,0,0,0,0,,,h
-S2424-G124,2,05:24,MEM,48.0,BKN,49.0,S. Pippen Jr.,MEM,Pippen Jr. Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
-S2424-G124,2,05:24,MEM,49.0,BKN,49.0,S. Pippen Jr.,MEM,Pippen Jr. Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
-S2424-G124,2,04:07,MEM,,BKN,,S. Pippen Jr.,MEM,Pippen Jr. Bad Pass Turnover (P2.T12),Turnover,Bad Pass,0,0,0,0,,,h
-S2424-G124,2,02:42,MEM,,BKN,,S. Pippen Jr.,MEM,SUB: Morant FOR Pippen Jr.,Substitution,,0,0,0,0,,,h
-S2424-G124,3,09:17,MEM,64.0,BKN,75.0,S. Pippen Jr.,MEM,Pippen Jr. 4' Reverse Layup (5 PTS),Made Shot,Reverse Layup Shot,-32,22,4,1,2.0,2.0,h
-S2424-G124,3,08:54,MEM,,BKN,,S. Pippen Jr.,MEM,Pippen Jr. STEAL (1 STL),,,0,0,0,0,,,h
-S2424-G124,3,08:50,MEM,,BKN,,S. Pippen Jr.,MEM,Pippen Jr. Bad Pass Turnover (P3.T17),Turnover,Bad Pass,0,0,0,0,,,h
-S2424-G124,3,08:38,MEM,,BKN,,S. Pippen Jr.,MEM,Pippen Jr. S.FOUL (P3.T2) (A.Smith),Foul,Shooting,0,0,0,0,,,h
-S2424-G124,3,08:38,MEM,,BKN,,S. Pippen Jr.,MEM,SUB: Clarke FOR Pippen Jr.,Substitution,,0,0,0,0,,,h
-S2424-G124,3,01:26,MEM,,BKN,,S. Pippen Jr.,MEM,"Double Technical - Pippen Jr., K. Johnson (B.Forte)",Foul,Double Technical,0,0,0,0,,,
-S2424-G124,3,00:54.300000,MEM,,BKN,,S. Pippen Jr.,MEM,SUB: Morant FOR Pippen Jr.,Substitution,,0,0,0,0,,,h
-S2424-G124,4,07:34,MEM,,BKN,,S. Pippen Jr.,MEM,Pippen Jr. P.FOUL (P4.T1) (A.Smith),Foul,Personal,0,0,0,0,,,h
-S2424-G124,4,06:13,MEM,,BKN,,S. Pippen Jr.,MEM,MISS Pippen Jr. 8' Floating Jump Shot,Missed Shot,Floating Jump shot,-36,68,8,1,2.0,0.0,h
-S2424-G124,4,04:08,MEM,,BKN,,S. Pippen Jr.,MEM,SUB: Morant FOR Pippen Jr.,Substitution,,0,0,0,0,,,h
+S2425-G0023,1,11:48,MEM,,DEN,,S. Pippen Jr.,MEM,MISS Pippen Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,-48,251,26,1,3.0,0.0,h
+S2425-G0023,1,10:34,MEM,,DEN,,S. Pippen Jr.,MEM,Pippen Jr. BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0023,1,10:06,MEM,,DEN,,S. Pippen Jr.,MEM,Pippen Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0023,1,09:41,MEM,,DEN,,S. Pippen Jr.,MEM,MISS Pippen Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,67,245,25,1,3.0,0.0,h
+S2425-G0023,1,08:12,MEM,,DEN,,S. Pippen Jr.,MEM,Pippen Jr. STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0023,1,08:09,MEM,,DEN,,S. Pippen Jr.,MEM,Pippen Jr. Bad Pass Turnover (P1.T3),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0023,1,07:39,MEM,,DEN,,S. Pippen Jr.,MEM,MISS Pippen Jr. 7' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-47,52,7,1,2.0,0.0,h
+S2425-G0023,1,07:26,MEM,,DEN,,S. Pippen Jr.,MEM,Pippen Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0023,1,07:16,MEM,,DEN,,S. Pippen Jr.,MEM,SUB: Jackson Jr. FOR Pippen Jr.,Substitution,,0,0,0,0,,,h
+S2425-G0023,2,10:56,MEM,,DEN,,S. Pippen Jr.,MEM,MISS Pippen Jr. 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,55,13,6,1,2.0,0.0,h
+S2425-G0023,2,09:21,MEM,,DEN,,S. Pippen Jr.,MEM,Pippen Jr. P.FOUL (P1.T4) (T.Maddox),Foul,Personal,0,0,0,0,,,h
+S2425-G0023,2,07:00,MEM,33.0,DEN,43.0,S. Pippen Jr.,MEM,Pippen Jr. 1' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,-4,6,1,1,2.0,2.0,h
+S2425-G0023,2,06:53,MEM,,DEN,,S. Pippen Jr.,MEM,SUB: Wells FOR Pippen Jr.,Substitution,,0,0,0,0,,,h
+S2425-G0023,3,11:31,MEM,,DEN,,S. Pippen Jr.,MEM,MISS Pippen Jr. 3' Running Layup,Missed Shot,Running Layup Shot,23,10,3,1,2.0,0.0,h
+S2425-G0023,3,11:00,MEM,,DEN,,S. Pippen Jr.,MEM,MISS Pippen Jr. Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0023,3,11:00,MEM,,DEN,,S. Pippen Jr.,MEM,MISS Pippen Jr. Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0023,3,09:36,MEM,,DEN,,S. Pippen Jr.,MEM,SUB: LaRavia FOR Pippen Jr.,Substitution,,0,0,0,0,,,h
+S2425-G0023,3,02:23,MEM,,DEN,,S. Pippen Jr.,MEM,Pippen Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0023,3,01:44,MEM,72.0,DEN,88.0,S. Pippen Jr.,MEM,Pippen Jr. Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0023,3,01:44,MEM,,DEN,,S. Pippen Jr.,MEM,MISS Pippen Jr. Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0023,3,00:58.300000,MEM,,DEN,,S. Pippen Jr.,MEM,Pippen Jr. REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0023,3,00:05.800000,MEM,78.0,DEN,92.0,S. Pippen Jr.,MEM,Pippen Jr. 2' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,16,17,2,1,2.0,2.0,h
+S2425-G0023,4,11:41,MEM,80.0,DEN,92.0,S. Pippen Jr.,MEM,Pippen Jr. 4' Driving Finger Roll Layup (7 PTS),Made Shot,Driving Finger Roll Layup Shot,7,43,4,1,2.0,2.0,h
+S2425-G0023,4,11:07,MEM,81.0,DEN,92.0,S. Pippen Jr.,MEM,Pippen Jr. Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0023,4,11:07,MEM,82.0,DEN,92.0,S. Pippen Jr.,MEM,Pippen Jr. Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0023,4,10:42,MEM,83.0,DEN,94.0,S. Pippen Jr.,MEM,Pippen Jr. Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0023,4,10:42,MEM,84.0,DEN,94.0,S. Pippen Jr.,MEM,Pippen Jr. Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0023,4,08:28,MEM,88.0,DEN,99.0,S. Pippen Jr.,MEM,Pippen Jr. 3' Running Finger Roll Layup (13 PTS) (Bane 4 AST),Made Shot,Running Finger Roll Layup Shot,21,15,3,1,2.0,2.0,h
+S2425-G0023,4,06:23,MEM,,DEN,,S. Pippen Jr.,MEM,SUB: Wells FOR Pippen Jr.,Substitution,,0,0,0,0,,,h
+S2425-G0023,4,02:32,MEM,105.0,DEN,115.0,S. Pippen Jr.,MEM,Pippen Jr. Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0023,4,02:32,MEM,,DEN,,S. Pippen Jr.,MEM,MISS Pippen Jr. Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0023,4,02:28,MEM,,DEN,,S. Pippen Jr.,MEM,Pippen Jr. REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0023,4,02:26,MEM,,DEN,,S. Pippen Jr.,MEM,MISS Pippen Jr. 1' Driving Layup,Missed Shot,Driving Layup Shot,7,11,1,1,2.0,0.0,h
+S2425-G0023,4,02:25,MEM,,DEN,,S. Pippen Jr.,MEM,Pippen Jr. REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0023,4,01:47,MEM,110.0,DEN,115.0,S. Pippen Jr.,MEM,Pippen Jr. 2' Running Finger Roll Layup (16 PTS) (Bane 5 AST),Made Shot,Running Finger Roll Layup Shot,13,16,2,1,2.0,2.0,h
+S2425-G0023,4,00:05.800000,MEM,,DEN,,S. Pippen Jr.,MEM,SUB: Kennard FOR Pippen Jr.,Substitution,,0,0,0,0,,,h
+S2425-G0019,1,11:09,GSW,0.0,MEM,3.0,S. Pippen Jr.,MEM,Pippen Jr. Free Throw Technical (1 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,v
+S2425-G0019,1,06:56,GSW,,MEM,,S. Pippen Jr.,MEM,SUB: Smart FOR Pippen Jr.,Substitution,,0,0,0,0,,,v
+S2425-G0019,2,09:41,GSW,,MEM,,S. Pippen Jr.,MEM,MISS Pippen Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,-153,197,25,1,3.0,0.0,v
+S2425-G0019,2,09:31,GSW,,MEM,,S. Pippen Jr.,MEM,SUB: Bane FOR Pippen Jr.,Substitution,,0,0,0,0,,,v
+S2425-G0019,2,02:10,GSW,,MEM,,S. Pippen Jr.,MEM,MISS Pippen Jr. 9' Jump Shot,Missed Shot,Jump Shot,-51,77,9,1,2.0,0.0,v
+S2425-G0019,2,01:16,GSW,,MEM,,S. Pippen Jr.,MEM,Pippen Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0019,3,10:33,GSW,,MEM,,S. Pippen Jr.,MEM,Pippen Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0019,3,10:23,GSW,60.0,MEM,51.0,S. Pippen Jr.,MEM,Pippen Jr. Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0019,3,10:23,GSW,60.0,MEM,52.0,S. Pippen Jr.,MEM,Pippen Jr. Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0019,3,09:56,GSW,,MEM,,S. Pippen Jr.,MEM,MISS Pippen Jr. 6' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-4,63,6,1,2.0,0.0,v
+S2425-G0019,3,09:19,GSW,,MEM,,S. Pippen Jr.,MEM,MISS Pippen Jr. 3' Driving Layup,Missed Shot,Driving Layup Shot,4,27,3,1,2.0,0.0,v
+S2425-G0019,3,08:07,GSW,,MEM,,S. Pippen Jr.,MEM,SUB: Smart FOR Pippen Jr.,Substitution,,0,0,0,0,,,v
+S2425-G0019,3,02:34,GSW,,MEM,,S. Pippen Jr.,MEM,MISS Pippen Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,-145,209,25,1,3.0,0.0,v
+S2425-G0019,4,11:31,GSW,,MEM,,S. Pippen Jr.,MEM,Pippen Jr. P.FOUL (P1.T1) (A.Nagy),Foul,Personal,0,0,0,0,,,v
+S2425-G0019,4,07:48,GSW,,MEM,,S. Pippen Jr.,MEM,MISS Pippen Jr. 6' Driving Layup,Missed Shot,Driving Layup Shot,38,50,6,1,2.0,0.0,v
+S2425-G0019,4,07:48,GSW,,MEM,,S. Pippen Jr.,MEM,SUB: Wells FOR Pippen Jr.,Substitution,,0,0,0,0,,,v
+S2425-G0142,1,05:19,PHI,,MEM,,S. Pippen Jr.,MEM,MISS Pippen Jr. 3PT Jump Shot,Missed Shot,Jump Shot,-222,26,0,1,3.0,0.0,v
+S2425-G0142,1,04:56,PHI,,MEM,,S. Pippen Jr.,MEM,MISS Pippen Jr. 2' Floating Jump Shot,Missed Shot,Floating Jump shot,15,-4,2,1,2.0,0.0,v
+S2425-G0142,1,03:41,PHI,,MEM,,S. Pippen Jr.,MEM,Pippen Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0142,1,02:40,PHI,18.0,MEM,17.0,S. Pippen Jr.,MEM,Pippen Jr. 3' Driving Layup (2 PTS) (Wells 1 AST),Made Shot,Driving Layup Shot,5,26,3,1,2.0,2.0,v
+S2425-G0142,1,02:02,PHI,,MEM,,S. Pippen Jr.,MEM,MISS Pippen Jr. 2' Driving Layup,Missed Shot,Driving Layup Shot,-16,8,2,1,2.0,0.0,v
+S2425-G0142,2,08:45,PHI,39.0,MEM,33.0,S. Pippen Jr.,MEM,Pippen Jr. Free Throw Technical (3 PTS),Free Throw,Free Throw Technical,0,0,0,0,1.0,1.0,v
+S2425-G0142,2,08:35,PHI,,MEM,,S. Pippen Jr.,MEM,Pippen Jr. Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0142,2,08:00,PHI,,MEM,,S. Pippen Jr.,MEM,SUB: LaRavia FOR Pippen Jr.,Substitution,,0,0,0,0,,,v
+S2425-G0142,2,03:38,PHI,,MEM,,S. Pippen Jr.,MEM,Pippen Jr. S.FOUL (P1.T4) (J.Tiven),Foul,Shooting,0,0,0,0,,,v
+S2425-G0142,2,03:25,PHI,51.0,MEM,48.0,S. Pippen Jr.,MEM,Pippen Jr. 26' 3PT Jump Shot (6 PTS) (LaRavia 1 AST),Made Shot,Jump Shot,125,230,26,1,3.0,3.0,v
+S2425-G0142,2,01:24,PHI,51.0,MEM,53.0,S. Pippen Jr.,MEM,Pippen Jr. 4' Driving Layup (8 PTS) (Morant 8 AST),Made Shot,Driving Layup Shot,1,38,4,1,2.0,2.0,v
+S2425-G0142,2,00:52.500000,PHI,,MEM,,S. Pippen Jr.,MEM,Pippen Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0142,2,00:32.900000,PHI,,MEM,,S. Pippen Jr.,MEM,Pippen Jr. AWAY.FROM.PLAY.FOUL (P2.PN) (J.Tiven),Foul,Away From Play,0,0,0,0,,,v
+S2425-G0142,3,02:58,PHI,,MEM,,S. Pippen Jr.,MEM,Pippen Jr. Lost Ball Turnover (P2.T12),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0142,3,00:47.700000,PHI,,MEM,,S. Pippen Jr.,MEM,MISS Pippen Jr. 4' Driving Layup,Missed Shot,Driving Layup Shot,-33,29,4,1,2.0,0.0,v
+S2425-G0142,3,00:20.300000,PHI,,MEM,,S. Pippen Jr.,MEM,Pippen Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0142,3,00:00.200000,PHI,,MEM,,S. Pippen Jr.,MEM,MISS Pippen Jr. 18' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,-80,163,18,1,2.0,0.0,v
+S2425-G0142,4,09:50,PHI,78.0,MEM,102.0,S. Pippen Jr.,MEM,Pippen Jr. 3' Running Layup (10 PTS) (Aldama 4 AST),Made Shot,Running Layup Shot,-6,28,3,1,2.0,2.0,v
+S2425-G0142,4,07:51,PHI,,MEM,,S. Pippen Jr.,MEM,SUB: Morant FOR Pippen Jr.,Substitution,,0,0,0,0,,,v
+S2425-G0142,4,01:59,PHI,,MEM,,S. Pippen Jr.,MEM,Pippen Jr. REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0142,4,01:27,PHI,103.0,MEM,118.0,S. Pippen Jr.,MEM,Pippen Jr. Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0142,4,01:27,PHI,103.0,MEM,119.0,S. Pippen Jr.,MEM,Pippen Jr. Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0142,4,01:16,PHI,,MEM,,S. Pippen Jr.,MEM,Pippen Jr. STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0142,4,00:41.700000,PHI,,MEM,,S. Pippen Jr.,MEM,Pippen Jr. Personal Take Foul (P3.T4) (J.Tiven),Foul,Personal Take,0,0,0,0,,,v
+S2425-G0142,4,00:41.700000,PHI,,MEM,,S. Pippen Jr.,MEM,SUB: Castleton FOR Pippen Jr.,Substitution,,0,0,0,0,,,v
+S2425-G0158,1,05:12,BKN,,MEM,,S. Pippen Jr.,MEM,MISS Pippen Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,-210,139,25,1,3.0,0.0,v
+S2425-G0158,1,01:47,BKN,22.0,MEM,26.0,S. Pippen Jr.,MEM,Pippen Jr. 2' Running Layup (2 PTS) (Wells 3 AST),Made Shot,Running Layup Shot,22,7,2,1,2.0,2.0,v
+S2425-G0158,1,01:19,BKN,,MEM,,S. Pippen Jr.,MEM,Pippen Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0158,2,11:37,BKN,,MEM,,S. Pippen Jr.,MEM,MISS Pippen Jr. 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-154,204,26,1,3.0,0.0,v
+S2425-G0158,2,11:27,BKN,,MEM,,S. Pippen Jr.,MEM,Pippen Jr. S.FOUL (P1.T1) (A.Moyer-Gleich),Foul,Shooting,0,0,0,0,,,v
+S2425-G0158,2,09:54,BKN,,MEM,,S. Pippen Jr.,MEM,MISS Pippen Jr. 11' Jump Shot,Missed Shot,Jump Shot,-113,12,11,1,2.0,0.0,v
+S2425-G0158,2,09:21,BKN,30.0,MEM,35.0,S. Pippen Jr.,MEM,Pippen Jr. 26' 3PT Jump Shot (5 PTS) (Aldama 2 AST),Made Shot,Jump Shot,-33,262,26,1,3.0,3.0,v
+S2425-G0158,2,06:26,BKN,,MEM,,S. Pippen Jr.,MEM,SUB: LaRavia FOR Pippen Jr.,Substitution,,0,0,0,0,,,v
+S2425-G0158,2,02:47,BKN,,MEM,,S. Pippen Jr.,MEM,Pippen Jr. P.FOUL (P2.T4) (A.Moyer-Gleich),Foul,Personal,0,0,0,0,,,v
+S2425-G0158,2,02:21,BKN,44.0,MEM,49.0,S. Pippen Jr.,MEM,Pippen Jr. 2' Running Layup (7 PTS) (LaRavia 2 AST),Made Shot,Running Layup Shot,10,16,2,1,2.0,2.0,v
+S2425-G0158,2,02:07,BKN,,MEM,,S. Pippen Jr.,MEM,Pippen Jr. P.FOUL (P3.PN) (E.Scott),Foul,Personal,0,0,0,0,,,v
+S2425-G0158,2,02:07,BKN,,MEM,,S. Pippen Jr.,MEM,SUB: Wells FOR Pippen Jr.,Substitution,,0,0,0,0,,,v
+S2425-G0158,3,06:30,BKN,,MEM,,S. Pippen Jr.,MEM,Pippen Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0158,3,05:10,BKN,67.0,MEM,66.0,S. Pippen Jr.,MEM,Pippen Jr. 1' Driving Layup (9 PTS) (Edey 1 AST),Made Shot,Driving Layup Shot,7,13,1,1,2.0,2.0,v
+S2425-G0158,3,01:57,BKN,77.0,MEM,78.0,S. Pippen Jr.,MEM,Pippen Jr. 25' 3PT Jump Shot (12 PTS) (LaRavia 5 AST),Made Shot,Jump Shot,-81,240,25,1,3.0,3.0,v
+S2425-G0158,3,01:33,BKN,,MEM,,S. Pippen Jr.,MEM,Pippen Jr. Out of Bounds - Bad Pass Turnover Turnover (P1.T11),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
+S2425-G0158,3,00:27.100000,BKN,,MEM,,S. Pippen Jr.,MEM,Pippen Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0158,3,00:07.200000,BKN,,MEM,,S. Pippen Jr.,MEM,Pippen Jr. L.B.FOUL (P4.PN) (A.Moyer-Gleich),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0158,3,00:07.200000,BKN,,MEM,,S. Pippen Jr.,MEM,SUB: Wells FOR Pippen Jr.,Substitution,,0,0,0,0,,,v
+S2425-G0158,4,11:44,BKN,,MEM,,S. Pippen Jr.,MEM,Pippen Jr. Bad Pass Turnover (P2.T14),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0158,4,11:16,BKN,83.0,MEM,81.0,S. Pippen Jr.,MEM,Pippen Jr. 2' Cutting Finger Roll Layup Shot (14 PTS) (Aldama 5 AST),Made Shot,Cutting Finger Roll Layup Shot,12,14,2,1,2.0,2.0,v
+S2425-G0158,4,10:12,BKN,,MEM,,S. Pippen Jr.,MEM,MISS Pippen Jr. 4' Driving Layup,Missed Shot,Driving Layup Shot,-7,36,4,1,2.0,0.0,v
+S2425-G0158,4,09:57,BKN,,MEM,,S. Pippen Jr.,MEM,Pippen Jr. REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0158,4,09:52,BKN,,MEM,,S. Pippen Jr.,MEM,MISS Pippen Jr. 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-29,251,25,1,3.0,0.0,v
+S2425-G0158,4,09:39,BKN,,MEM,,S. Pippen Jr.,MEM,MISS Pippen Jr. 8' Floating Jump Shot,Missed Shot,Floating Jump shot,40,72,8,1,2.0,0.0,v
+S2425-G0158,4,07:58,BKN,,MEM,,S. Pippen Jr.,MEM,MISS Pippen Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,-134,213,25,1,3.0,0.0,v
+S2425-G0158,4,06:11,BKN,,MEM,,S. Pippen Jr.,MEM,SUB: Wells FOR Pippen Jr.,Substitution,,0,0,0,0,,,v
+S2425-G0158,4,01:55,BKN,,MEM,,S. Pippen Jr.,MEM,Pippen Jr. P.FOUL (P5.T2) (J.Goble),Foul,Personal,0,0,0,0,,,v
+S2425-G0158,4,00:32.100000,BKN,,MEM,,S. Pippen Jr.,MEM,SUB: Wells FOR Pippen Jr.,Substitution,,0,0,0,0,,,v
+S2425-G0158,4,00:04.200000,BKN,,MEM,,S. Pippen Jr.,MEM,SUB: Aldama FOR Pippen Jr.,Substitution,,0,0,0,0,,,v
 S2425-G0070,1,06:42,UTA,,MEM,,S. Pippen Jr.,MEM,Pippen Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
 S2425-G0070,1,06:30,UTA,,MEM,,S. Pippen Jr.,MEM,Pippen Jr. P.FOUL (P1.T4) (J.Williams),Foul,Personal,0,0,0,0,,,v
 S2425-G0070,1,05:08,UTA,,MEM,,S. Pippen Jr.,MEM,Pippen Jr. P.FOUL (P2.PN) (K.Cutler),Foul,Personal,0,0,0,0,,,v
@@ -44,6 +130,35 @@ S2425-G0070,4,07:06,UTA,,MEM,,S. Pippen Jr.,MEM,MISS Pippen Jr. 26' 3PT Pullup J
 S2425-G0070,4,06:34,UTA,,MEM,,S. Pippen Jr.,MEM,Pippen Jr. Out of Bounds - Bad Pass Turnover Turnover (P2.T12),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,v
 S2425-G0070,4,05:04,UTA,,MEM,,S. Pippen Jr.,MEM,Pippen Jr. BLOCK (1 BLK),,,0,0,0,0,,,v
 S2425-G0070,4,04:00,UTA,,MEM,,S. Pippen Jr.,MEM,SUB: Morant FOR Pippen Jr.,Substitution,,0,0,0,0,,,v
+S2425-G0174,1,04:05,MEM,,LAL,,S. Pippen Jr.,MEM,Pippen Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0174,1,02:45,MEM,,LAL,,S. Pippen Jr.,MEM,MISS Pippen Jr. 12' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,60,99,12,1,2.0,0.0,h
+S2425-G0174,1,02:27,MEM,28.0,LAL,22.0,S. Pippen Jr.,MEM,Pippen Jr. 25' 3PT Pullup Jump Shot (3 PTS) (Jackson Jr. 1 AST),Made Shot,Pullup Jump shot,-162,184,25,1,3.0,3.0,h
+S2425-G0174,1,01:47,MEM,,LAL,,S. Pippen Jr.,MEM,Pippen Jr. Step Out of Bounds Turnover (P1.T7),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
+S2425-G0174,1,00:00,MEM,,LAL,,S. Pippen Jr.,MEM,MISS Pippen Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,-185,164,25,1,3.0,0.0,h
+S2425-G0174,2,11:36,MEM,,LAL,,S. Pippen Jr.,MEM,Pippen Jr. Out of Bounds - Bad Pass Turnover Turnover (P2.T8),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0174,2,10:46,MEM,,LAL,,S. Pippen Jr.,MEM,MISS Pippen Jr. 10' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-88,42,10,1,2.0,0.0,h
+S2425-G0174,2,09:00,MEM,38.0,LAL,34.0,S. Pippen Jr.,MEM,Pippen Jr. Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0174,2,09:00,MEM,,LAL,,S. Pippen Jr.,MEM,MISS Pippen Jr. Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0174,2,05:40,MEM,,LAL,,S. Pippen Jr.,MEM,Pippen Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0174,2,05:33,MEM,,LAL,,S. Pippen Jr.,MEM,SUB: LaRavia FOR Pippen Jr.,Substitution,,0,0,0,0,,,h
+S2425-G0174,3,04:07,MEM,87.0,LAL,72.0,S. Pippen Jr.,MEM,Pippen Jr. 8' Driving Floating Jump Shot (6 PTS) (LaRavia 5 AST),Made Shot,Driving Floating Jump Shot,-4,80,8,1,2.0,2.0,h
+S2425-G0174,3,02:33,MEM,,LAL,,S. Pippen Jr.,MEM,Pippen Jr. Bad Pass Turnover (P3.T15),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0174,3,02:25,MEM,,LAL,,S. Pippen Jr.,MEM,Pippen Jr. S.FOUL (P1.T3) (G.Petraitis),Foul,Shooting,0,0,0,0,,,h
+S2425-G0174,3,00:21.200000,MEM,95.0,LAL,81.0,S. Pippen Jr.,MEM,Pippen Jr. 25' 3PT Jump Shot (9 PTS) (Kennard 1 AST),Made Shot,Jump Shot,195,159,25,1,3.0,3.0,h
+S2425-G0174,4,11:32,MEM,,LAL,,S. Pippen Jr.,MEM,Pippen Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0174,4,11:06,MEM,,LAL,,S. Pippen Jr.,MEM,Pippen Jr. STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0174,4,10:48,MEM,,LAL,,S. Pippen Jr.,MEM,Pippen Jr. S.FOUL (P2.T1) (G.Petraitis),Foul,Shooting,0,0,0,0,,,h
+S2425-G0174,4,10:16,MEM,,LAL,,S. Pippen Jr.,MEM,Pippen Jr. REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0174,4,09:43,MEM,,LAL,,S. Pippen Jr.,MEM,SUB: Wells FOR Pippen Jr.,Substitution,,0,0,0,0,,,h
+S2425-G0174,4,07:04,MEM,112.0,LAL,90.0,S. Pippen Jr.,MEM,Pippen Jr. 27' 3PT Jump Shot (12 PTS) (LaRavia 6 AST),Made Shot,Jump Shot,53,262,27,1,3.0,3.0,h
+S2425-G0174,4,06:16,MEM,,LAL,,S. Pippen Jr.,MEM,MISS Pippen Jr. 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,-20,17,3,1,2.0,0.0,h
+S2425-G0174,4,05:03,MEM,,LAL,,S. Pippen Jr.,MEM,Pippen Jr. Bad Pass Turnover (P4.T17),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0174,4,04:57,MEM,,LAL,,S. Pippen Jr.,MEM,Pippen Jr. BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0174,4,04:53,MEM,,LAL,,S. Pippen Jr.,MEM,Pippen Jr. REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0174,4,03:21,MEM,122.0,LAL,104.0,S. Pippen Jr.,MEM,Pippen Jr. 3' Cutting Finger Roll Layup Shot (14 PTS) (Huff 4 AST),Made Shot,Cutting Finger Roll Layup Shot,-28,20,3,1,2.0,2.0,h
+S2425-G0174,4,03:13,MEM,,LAL,,S. Pippen Jr.,MEM,Pippen Jr. P.FOUL (P3.T3) (B.Maru),Foul,Personal,0,0,0,0,,,h
+S2425-G0174,4,03:03,MEM,,LAL,,S. Pippen Jr.,MEM,Pippen Jr. REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0174,4,01:56,MEM,,LAL,,S. Pippen Jr.,MEM,SUB: Edey FOR Pippen Jr.,Substitution,,0,0,0,0,,,h
 S2425-G0092,1,04:38,MEM,22.0,ORL,14.0,S. Pippen Jr.,MEM,Pippen Jr. 2' Cutting Finger Roll Layup Shot (2 PTS) (Wells 1 AST),Made Shot,Cutting Finger Roll Layup Shot,17,9,2,1,2.0,2.0,h
 S2425-G0092,1,02:58,MEM,,ORL,,S. Pippen Jr.,MEM,Pippen Jr. Backcourt Turnover (P1.T3),Turnover,Backcourt Turnover,0,0,0,0,,,h
 S2425-G0092,1,02:46,MEM,,ORL,,S. Pippen Jr.,MEM,Pippen Jr. BLOCK (1 BLK),,,0,0,0,0,,,h
@@ -73,6 +188,66 @@ S2425-G0092,4,04:13,MEM,,ORL,,S. Pippen Jr.,MEM,Pippen Jr. P.FOUL (P5.T2) (N.Sag
 S2425-G0092,4,03:43,MEM,,ORL,,S. Pippen Jr.,MEM,Pippen Jr. REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
 S2425-G0092,4,03:03,MEM,,ORL,,S. Pippen Jr.,MEM,Pippen Jr. Step Out of Bounds Turnover (P5.T17),Turnover,Step Out of Bounds Turnover,0,0,0,0,,,h
 S2425-G0092,4,02:04,MEM,,ORL,,S. Pippen Jr.,MEM,SUB: Edey FOR Pippen Jr.,Substitution,,0,0,0,0,,,h
+S2425-G0191,1,11:05,MEM,,WAS,,S. Pippen Jr.,MEM,Pippen Jr. P.FOUL (P1.T1) (D.Taylor),Foul,Personal,0,0,0,0,,,h
+S2425-G0191,1,08:39,MEM,,WAS,,S. Pippen Jr.,MEM,Pippen Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0191,1,08:15,MEM,,WAS,,S. Pippen Jr.,MEM,SUB: Edey FOR Pippen Jr.,Substitution,,0,0,0,0,,,h
+S2425-G0191,1,01:49,MEM,,WAS,,S. Pippen Jr.,MEM,Pippen Jr. Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0191,1,01:42,MEM,,WAS,,S. Pippen Jr.,MEM,Pippen Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0191,1,00:59.300000,MEM,,WAS,,S. Pippen Jr.,MEM,MISS Pippen Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,205,140,25,1,3.0,0.0,h
+S2425-G0191,2,11:13,MEM,,WAS,,S. Pippen Jr.,MEM,Pippen Jr. STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0191,2,10:05,MEM,,WAS,,S. Pippen Jr.,MEM,Pippen Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0191,2,09:40,MEM,,WAS,,S. Pippen Jr.,MEM,Pippen Jr. L.B.FOUL (P2.T1) (D.Taylor),Foul,Loose Ball,0,0,0,0,,,h
+S2425-G0191,2,08:16,MEM,42.0,WAS,29.0,S. Pippen Jr.,MEM,Pippen Jr. 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1,5,1,1,2.0,2.0,h
+S2425-G0191,2,07:18,MEM,,WAS,,S. Pippen Jr.,MEM,Pippen Jr. REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0191,2,06:27,MEM,,WAS,,S. Pippen Jr.,MEM,Pippen Jr. Bad Pass Turnover (P2.T7),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0191,2,06:22,MEM,,WAS,,S. Pippen Jr.,MEM,SUB: Wells FOR Pippen Jr.,Substitution,,0,0,0,0,,,h
+S2425-G0191,2,00:37.400000,MEM,,WAS,,S. Pippen Jr.,MEM,SUB: Edey FOR Pippen Jr.,Substitution,,0,0,0,0,,,h
+S2425-G0191,3,11:23,MEM,68.0,WAS,49.0,S. Pippen Jr.,MEM,Pippen Jr. Cutting Finger Roll Layup Shot (4 PTS) (Aldama 4 AST),Made Shot,Cutting Finger Roll Layup Shot,2,4,0,1,2.0,2.0,h
+S2425-G0191,3,11:08,MEM,,WAS,,S. Pippen Jr.,MEM,Pippen Jr. REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0191,3,10:45,MEM,,WAS,,S. Pippen Jr.,MEM,MISS Pippen Jr. 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,25,133,14,1,2.0,0.0,h
+S2425-G0191,3,09:34,MEM,,WAS,,S. Pippen Jr.,MEM,Pippen Jr. REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0191,3,08:34,MEM,,WAS,,S. Pippen Jr.,MEM,MISS Pippen Jr. 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-82,249,26,1,3.0,0.0,h
+S2425-G0191,3,06:56,MEM,79.0,WAS,53.0,S. Pippen Jr.,MEM,Pippen Jr. 1' Cutting Layup Shot (6 PTS) (Jackson Jr. 1 AST),Made Shot,Cutting Layup Shot,-5,4,1,1,2.0,2.0,h
+S2425-G0191,3,06:56,MEM,,WAS,,S. Pippen Jr.,MEM,SUB: LaRavia FOR Pippen Jr.,Substitution,,0,0,0,0,,,h
+S2425-G0191,3,02:42,MEM,,WAS,,S. Pippen Jr.,MEM,Pippen Jr. REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0191,3,01:07,MEM,,WAS,,S. Pippen Jr.,MEM,Pippen Jr. REBOUND (Off:0 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0191,3,00:52.200000,MEM,,WAS,,S. Pippen Jr.,MEM,Pippen Jr. REBOUND (Off:0 Def:9),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0191,3,00:52.200000,MEM,92.0,WAS,67.0,S. Pippen Jr.,MEM,Pippen Jr. Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0191,3,00:52.200000,MEM,93.0,WAS,67.0,S. Pippen Jr.,MEM,Pippen Jr. Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0191,4,11:36,MEM,,WAS,,S. Pippen Jr.,MEM,MISS Pippen Jr. 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,4,32,3,1,2.0,0.0,h
+S2425-G0191,4,11:07,MEM,,WAS,,S. Pippen Jr.,MEM,MISS Pippen Jr. Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2425-G0191,4,10:47,MEM,,WAS,,S. Pippen Jr.,MEM,Pippen Jr. S.FOUL (P3.T1) (B.Kennedy),Foul,Shooting,0,0,0,0,,,h
+S2425-G0191,4,09:48,MEM,,WAS,,S. Pippen Jr.,MEM,Pippen Jr. REBOUND (Off:1 Def:9),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0191,4,09:46,MEM,102.0,WAS,75.0,S. Pippen Jr.,MEM,Pippen Jr. 3' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,-10,33,3,1,2.0,2.0,h
+S2425-G0191,4,09:46,MEM,103.0,WAS,75.0,S. Pippen Jr.,MEM,Pippen Jr. Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2425-G0191,4,06:54,MEM,,WAS,,S. Pippen Jr.,MEM,SUB: LaRavia FOR Pippen Jr.,Substitution,,0,0,0,0,,,h
+S2425-G0128,1,07:14,MEM,17.0,MIL,12.0,S. Pippen Jr.,MEM,Pippen Jr. Free Throw 1 of 1 (1 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2425-G0128,1,05:56,MEM,19.0,MIL,16.0,S. Pippen Jr.,MEM,Pippen Jr. 5' Driving Floating Jump Shot (3 PTS) (Morant 1 AST),Made Shot,Driving Floating Jump Shot,-5,52,5,1,2.0,2.0,h
+S2425-G0128,1,05:56,MEM,20.0,MIL,16.0,S. Pippen Jr.,MEM,Pippen Jr. Free Throw 1 of 1 (4 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2425-G0128,1,05:34,MEM,,MIL,,S. Pippen Jr.,MEM,Pippen Jr. STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0128,1,05:31,MEM,22.0,MIL,16.0,S. Pippen Jr.,MEM,Pippen Jr. 1' Running Finger Roll Layup (6 PTS),Made Shot,Running Finger Roll Layup Shot,4,3,1,1,2.0,2.0,h
+S2425-G0128,1,03:21,MEM,32.0,MIL,17.0,S. Pippen Jr.,MEM,Pippen Jr. 1' Running Finger Roll Layup (8 PTS) (Morant 4 AST),Made Shot,Running Finger Roll Layup Shot,1,6,1,1,2.0,2.0,h
+S2425-G0128,1,02:45,MEM,33.0,MIL,17.0,S. Pippen Jr.,MEM,Pippen Jr. Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0128,1,02:45,MEM,34.0,MIL,17.0,S. Pippen Jr.,MEM,Pippen Jr. Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0128,1,01:16,MEM,38.0,MIL,21.0,S. Pippen Jr.,MEM,Pippen Jr. 3' Driving Finger Roll Layup (12 PTS),Made Shot,Driving Finger Roll Layup Shot,22,13,3,1,2.0,2.0,h
+S2425-G0128,1,01:16,MEM,39.0,MIL,21.0,S. Pippen Jr.,MEM,Pippen Jr. Free Throw 1 of 1 (13 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2425-G0128,2,11:46,MEM,,MIL,,S. Pippen Jr.,MEM,MISS Pippen Jr. 14' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,58,129,14,1,2.0,0.0,h
+S2425-G0128,2,10:38,MEM,,MIL,,S. Pippen Jr.,MEM,Pippen Jr. P.FOUL (P1.T1) (S.Corbin),Foul,Personal,0,0,0,0,,,h
+S2425-G0128,2,08:03,MEM,,MIL,,S. Pippen Jr.,MEM,SUB: Morant FOR Pippen Jr.,Substitution,,0,0,0,0,,,h
+S2425-G0128,2,02:02,MEM,,MIL,,S. Pippen Jr.,MEM,Pippen Jr. Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0128,2,00:00.300000,MEM,,MIL,,S. Pippen Jr.,MEM,MISS Pippen Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,178,174,25,1,3.0,0.0,h
+S2425-G0128,3,02:54,MEM,93.0,MIL,65.0,S. Pippen Jr.,MEM,Pippen Jr. 3PT Jump Shot (16 PTS) (Clarke 1 AST),Made Shot,Jump Shot,225,-1,0,1,3.0,3.0,h
+S2425-G0128,3,01:36,MEM,,MIL,,S. Pippen Jr.,MEM,Pippen Jr. Out of Bounds - Bad Pass Turnover Turnover (P2.T9),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0128,3,00:51.400000,MEM,,MIL,,S. Pippen Jr.,MEM,Pippen Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0128,3,00:29.300000,MEM,,MIL,,S. Pippen Jr.,MEM,Pippen Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0128,3,00:01.700000,MEM,,MIL,,S. Pippen Jr.,MEM,SUB: Edey FOR Pippen Jr.,Substitution,,0,0,0,0,,,h
+S2425-G0128,4,11:06,MEM,,MIL,,S. Pippen Jr.,MEM,MISS Pippen Jr. 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,93,257,27,1,3.0,0.0,h
+S2425-G0128,4,10:56,MEM,,MIL,,S. Pippen Jr.,MEM,Pippen Jr. REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0128,4,10:42,MEM,,MIL,,S. Pippen Jr.,MEM,Pippen Jr. Violation:Kicked Ball (D.Scott),Violation,Kicked Ball,0,0,0,0,,,h
+S2425-G0128,4,08:05,MEM,,MIL,,S. Pippen Jr.,MEM,SUB: LaRavia FOR Pippen Jr.,Substitution,,0,0,0,0,,,h
+S2425-G0128,4,03:44,MEM,,MIL,,S. Pippen Jr.,MEM,Pippen Jr. OFF.Foul (P2) (J.Goble),Foul,Offensive,0,0,0,0,,,h
+S2425-G0128,4,03:44,MEM,,MIL,,S. Pippen Jr.,MEM,Pippen Jr. Offensive Foul Turnover (P3.T14),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0128,4,02:55,MEM,,MIL,,S. Pippen Jr.,MEM,SUB: Huff FOR Pippen Jr.,Substitution,,0,0,0,0,,,h
 S2425-G0082,1,07:46,HOU,,MEM,,S. Pippen Jr.,MEM,MISS Pippen Jr. 13' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-2,133,13,1,2.0,0.0,v
 S2425-G0082,1,07:17,HOU,,MEM,,S. Pippen Jr.,MEM,Pippen Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
 S2425-G0082,1,06:14,HOU,18.0,MEM,14.0,S. Pippen Jr.,MEM,Pippen Jr. Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v

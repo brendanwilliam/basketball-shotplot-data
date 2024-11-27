@@ -1,34 +1,57 @@
 game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
-S2424-G124,1,02:57,MEM,,BKN,,Z. Williams,BKN,Williams P.FOUL (P1.PN) (B.Forte),Foul,Personal,0,0,0,0,,,v
-S2424-G124,1,02:18,MEM,,BKN,,Z. Williams,BKN,Williams STEAL (1 STL),,,0,0,0,0,,,v
-S2424-G124,1,02:13,MEM,26.0,BKN,24.0,Z. Williams,BKN,Williams 2' Running Dunk (2 PTS),Made Shot,Running Dunk Shot,-2,18,2,1,2.0,2.0,v
-S2424-G124,2,10:49,MEM,33.0,BKN,35.0,Z. Williams,BKN,Williams Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
-S2424-G124,2,10:49,MEM,,BKN,,Z. Williams,BKN,MISS Williams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
-S2424-G124,2,09:51,MEM,,BKN,,Z. Williams,BKN,MISS Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,-217,133,25,1,3.0,0.0,v
-S2424-G124,2,08:18,MEM,,BKN,,Z. Williams,BKN,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
-S2424-G124,2,08:08,MEM,,BKN,,Z. Williams,BKN,MISS Williams 26' 3PT Jump Shot,Missed Shot,Jump Shot,7,258,26,1,3.0,0.0,v
-S2424-G124,2,07:58,MEM,,BKN,,Z. Williams,BKN,Williams STEAL (2 STL),,,0,0,0,0,,,v
-S2424-G124,2,07:55,MEM,41.0,BKN,44.0,Z. Williams,BKN,Williams 3' Running Dunk (5 PTS) (Thomas 1 AST),Made Shot,Running Dunk Shot,22,16,3,1,2.0,2.0,v
-S2424-G124,2,07:22,MEM,,BKN,,Z. Williams,BKN,Williams Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,0,0,0,,,v
-S2424-G124,2,06:56,MEM,43.0,BKN,47.0,Z. Williams,BKN,Williams 3PT Jump Shot (8 PTS) (Finney-Smith 1 AST),Made Shot,Jump Shot,230,13,0,1,3.0,3.0,v
-S2424-G124,2,05:24,MEM,,BKN,,Z. Williams,BKN,Williams S.FOUL (P2.T2) (B.Nansel),Foul,Shooting,0,0,0,0,,,v
-S2424-G124,2,04:07,MEM,,BKN,,Z. Williams,BKN,Williams STEAL (3 STL),,,0,0,0,0,,,v
-S2424-G124,2,04:04,MEM,51.0,BKN,51.0,Z. Williams,BKN,Williams 2' Running Dunk (10 PTS),Made Shot,Running Dunk Shot,-2,16,2,1,2.0,2.0,v
-S2424-G124,2,03:56,MEM,,BKN,,Z. Williams,BKN,SUB: Wilson FOR Williams,Substitution,,0,0,0,0,,,v
-S2424-G124,2,00:08.100000,MEM,,BKN,,Z. Williams,BKN,MISS Williams 2' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,-10,13,2,1,2.0,0.0,v
-S2424-G124,3,02:54,MEM,,BKN,,Z. Williams,BKN,Williams Out of Bounds Lost Ball Turnover (P2.T13),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,v
-S2424-G124,3,01:31,MEM,83.0,BKN,87.0,Z. Williams,BKN,Williams 2' Running Finger Roll Layup (12 PTS) (K. Johnson 1 AST),Made Shot,Running Finger Roll Layup Shot,-18,9,2,1,2.0,2.0,v
-S2424-G124,3,00:54.300000,MEM,85.0,BKN,88.0,Z. Williams,BKN,Williams Free Throw Flagrant 1 of 3 (13 PTS),Free Throw,Free Throw Flagrant 1 of 3,0,0,0,0,1.0,1.0,v
-S2424-G124,3,00:54.300000,MEM,85.0,BKN,89.0,Z. Williams,BKN,Williams Free Throw Flagrant 2 of 3 (14 PTS),Free Throw,Free Throw Flagrant 2 of 3,0,0,0,0,1.0,1.0,v
-S2424-G124,3,00:54.300000,MEM,85.0,BKN,90.0,Z. Williams,BKN,Williams Free Throw Flagrant 3 of 3 (15 PTS),Free Throw,Free Throw Flagrant 3 of 3,0,0,0,0,1.0,1.0,v
-S2424-G124,3,00:00,MEM,,BKN,,Z. Williams,BKN,MISS Williams 47' 3PT Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-105,458,47,1,3.0,0.0,v
-S2424-G124,4,11:21,MEM,90.0,BKN,93.0,Z. Williams,BKN,Williams 2' Driving Finger Roll Layup (17 PTS) (Schröder 7 AST),Made Shot,Driving Finger Roll Layup Shot,-15,8,2,1,2.0,2.0,v
-S2424-G124,4,10:18,MEM,,BKN,,Z. Williams,BKN,Williams STEAL (4 STL),,,0,0,0,0,,,v
-S2424-G124,4,09:44,MEM,,BKN,,Z. Williams,BKN,Williams Bad Pass Turnover (P3.T16),Turnover,Bad Pass,0,0,0,0,,,v
-S2424-G124,4,06:13,MEM,,BKN,,Z. Williams,BKN,Williams BLOCK (1 BLK),,,0,0,0,0,,,v
-S2424-G124,4,05:58,MEM,,BKN,,Z. Williams,BKN,Williams P.FOUL (P3.T3) (B.Forte),Foul,Personal,0,0,0,0,,,v
-S2424-G124,4,05:23,MEM,,BKN,,Z. Williams,BKN,SUB: Schröder FOR Williams,Substitution,,0,0,0,0,,,v
-S2424-G124,4,02:06,MEM,,BKN,,Z. Williams,BKN,SUB: Finney-Smith FOR Williams,Substitution,,0,0,0,0,,,v
+S2425-G0151,1,04:01,BKN,,DET,,Z. Williams,BKN,Williams S.FOUL (P1.T3) (J.Schroeder),Foul,Shooting,0,0,0,0,,,h
+S2425-G0151,1,02:44,BKN,22.0,DET,25.0,Z. Williams,BKN,Williams 1' Cutting Dunk Shot (2 PTS) (Claxton 1 AST),Made Shot,Cutting Dunk Shot,-11,0,1,1,2.0,2.0,h
+S2425-G0151,1,00:31.900000,BKN,,DET,,Z. Williams,BKN,MISS Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,-178,173,25,1,3.0,0.0,h
+S2425-G0151,1,00:10.600000,BKN,,DET,,Z. Williams,BKN,Williams S.FOUL (P2.PN) (J.Schroeder),Foul,Shooting,0,0,0,0,,,h
+S2425-G0151,1,00:10.600000,BKN,,DET,,Z. Williams,BKN,SUB: C. Johnson FOR Williams,Substitution,,0,0,0,0,,,h
+S2425-G0151,2,11:04,BKN,,DET,,Z. Williams,BKN,MISS Williams 3PT Jump Shot,Missed Shot,Jump Shot,230,18,0,1,3.0,0.0,h
+S2425-G0151,2,10:19,BKN,,DET,,Z. Williams,BKN,Williams S.FOUL (P3.T1) (J.Schroeder),Foul,Shooting,0,0,0,0,,,h
+S2425-G0151,2,10:19,BKN,,DET,,Z. Williams,BKN,SUB: Wilson FOR Williams,Substitution,,0,0,0,0,,,h
+S2425-G0151,3,04:00,BKN,,DET,,Z. Williams,BKN,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0151,3,01:44,BKN,77.0,DET,78.0,Z. Williams,BKN,Williams 2' Cutting Layup Shot (4 PTS) (Claxton 3 AST),Made Shot,Cutting Layup Shot,-16,14,2,1,2.0,2.0,h
+S2425-G0151,4,10:16,BKN,,DET,,Z. Williams,BKN,Williams REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0151,4,08:02,BKN,,DET,,Z. Williams,BKN,SUB: C. Johnson FOR Williams,Substitution,,0,0,0,0,,,h
+S2425-G0151,4,01:18,BKN,,DET,,Z. Williams,BKN,MISS Williams 3PT Jump Shot,Missed Shot,Jump Shot,223,11,0,1,3.0,0.0,h
+S2425-G0014,1,03:08,NYK,,BKN,,Z. Williams,BKN,MISS Williams 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-230,-26,0,1,3.0,0.0,v
+S2425-G0014,1,00:35.800000,NYK,,BKN,,Z. Williams,BKN,MISS Williams 3' Driving Layup,Missed Shot,Driving Layup Shot,10,25,3,1,2.0,0.0,v
+S2425-G0014,2,10:08,NYK,,BKN,,Z. Williams,BKN,MISS Williams 4' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,21,31,4,1,2.0,0.0,v
+S2425-G0014,2,09:20,NYK,,BKN,,Z. Williams,BKN,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0014,2,07:23,NYK,,BKN,,Z. Williams,BKN,Williams REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0014,2,05:47,NYK,,BKN,,Z. Williams,BKN,Williams STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0014,2,05:42,NYK,47.0,BKN,44.0,Z. Williams,BKN,Williams Running Layup (2 PTS) (Thomas 2 AST),Made Shot,Running Layup Shot,-1,3,0,1,2.0,2.0,v
+S2425-G0014,2,05:03,NYK,,BKN,,Z. Williams,BKN,Williams Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0014,2,04:57,NYK,,BKN,,Z. Williams,BKN,SUB: Finney-Smith FOR Williams,Substitution,,0,0,0,0,,,v
+S2425-G0014,3,03:02,NYK,,BKN,,Z. Williams,BKN,Williams S.FOUL (P1.T4) (G.Petraitis),Foul,Shooting,0,0,0,0,,,v
+S2425-G0014,3,01:02,NYK,,BKN,,Z. Williams,BKN,MISS Williams 27' 3PT Jump Shot,Missed Shot,Jump Shot,114,241,27,1,3.0,0.0,v
+S2425-G0014,3,00:30.800000,NYK,,BKN,,Z. Williams,BKN,MISS Williams 4' Driving Layup,Missed Shot,Driving Layup Shot,20,29,4,1,2.0,0.0,v
+S2425-G0014,3,00:08.400000,NYK,,BKN,,Z. Williams,BKN,Williams T.FOUL (P1.PN) (G.Petraitis),Foul,Technical,0,0,0,0,,,v
+S2425-G0014,4,11:42,NYK,,BKN,,Z. Williams,BKN,Williams REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0014,4,11:19,NYK,,BKN,,Z. Williams,BKN,Williams S.FOUL (P2.T1) (G.Petraitis),Foul,Shooting,0,0,0,0,,,v
+S2425-G0014,4,11:16,NYK,,BKN,,Z. Williams,BKN,Williams REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0014,4,09:56,NYK,104.0,BKN,91.0,Z. Williams,BKN,Williams 3PT Jump Shot (5 PTS) (C. Johnson 2 AST),Made Shot,Jump Shot,229,32,0,1,3.0,3.0,v
+S2425-G0014,4,07:32,NYK,,BKN,,Z. Williams,BKN,Williams P.FOUL (P3.T2) (G.Petraitis),Foul,Personal,0,0,0,0,,,v
+S2425-G0014,4,06:13,NYK,,BKN,,Z. Williams,BKN,Williams REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0014,4,04:43,NYK,,BKN,,Z. Williams,BKN,Williams S.FOUL (P4.T3) (G.Petraitis),Foul,Shooting,0,0,0,0,,,v
+S2425-G0014,4,04:29,NYK,,BKN,,Z. Williams,BKN,Williams REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0014,4,04:27,NYK,114.0,BKN,107.0,Z. Williams,BKN,Williams 1' Putback Layup (7 PTS),Made Shot,Putback Layup Shot,-7,4,1,1,2.0,2.0,v
+S2425-G0014,4,04:15,NYK,,BKN,,Z. Williams,BKN,SUB: Finney-Smith FOR Williams,Substitution,,0,0,0,0,,,v
+S2425-G0014,4,03:27,NYK,,BKN,,Z. Williams,BKN,MISS Williams 24' 3PT Jump Shot,Missed Shot,Jump Shot,235,10,24,1,3.0,0.0,v
+S2425-G0014,4,02:55,NYK,,BKN,,Z. Williams,BKN,Williams P.FOUL (P5.PN) (J.Conley),Foul,Personal,0,0,0,0,,,v
+S2425-G0014,4,01:59,NYK,,BKN,,Z. Williams,BKN,Williams REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0014,4,01:34,NYK,121.0,BKN,117.0,Z. Williams,BKN,Williams 2' Alley Oop Dunk (9 PTS) (C. Johnson 3 AST),Made Shot,Alley Oop Dunk Shot,-18,1,2,1,2.0,2.0,v
+S2425-G0014,4,00:41.800000,NYK,,BKN,,Z. Williams,BKN,Williams REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0022,1,06:42,BKN,9.0,CHA,22.0,Z. Williams,BKN,Williams 3' Driving Layup (2 PTS) (C. Johnson 1 AST),Made Shot,Driving Layup Shot,-27,7,3,1,2.0,2.0,h
+S2425-G0022,1,04:33,BKN,,CHA,,Z. Williams,BKN,Williams STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0022,1,04:28,BKN,17.0,CHA,25.0,Z. Williams,BKN,Williams 1' Running Dunk (4 PTS),Made Shot,Running Dunk Shot,-7,8,1,1,2.0,2.0,h
+S2425-G0022,1,03:40,BKN,,CHA,,Z. Williams,BKN,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0022,1,03:04,BKN,,CHA,,Z. Williams,BKN,MISS Williams 26' 3PT Jump Shot,Missed Shot,Jump Shot,157,210,26,1,3.0,0.0,h
+S2425-G0022,1,00:06.800000,BKN,,CHA,,Z. Williams,BKN,Williams BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0022,1,00:03.900000,BKN,,CHA,,Z. Williams,BKN,Williams REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0022,3,03:11,BKN,,CHA,,Z. Williams,BKN,MISS Williams 5' Layup,Missed Shot,Layup Shot,-43,17,5,1,2.0,0.0,h
+S2425-G0022,3,01:57,BKN,,CHA,,Z. Williams,BKN,Williams S.FOUL (P1.PN) (P.O'Connell),Foul,Shooting,0,0,0,0,,,h
+S2425-G0022,3,01:26,BKN,,CHA,,Z. Williams,BKN,MISS Williams 26' 3PT Jump Shot,Missed Shot,Jump Shot,191,171,26,1,3.0,0.0,h
+S2425-G0022,3,01:03,BKN,,CHA,,Z. Williams,BKN,Williams S.FOUL (P2.PN) (J.Goldenberg),Foul,Shooting,0,0,0,0,,,h
+S2425-G0022,3,00:15.600000,BKN,,CHA,,Z. Williams,BKN,SUB: C. Johnson FOR Williams,Substitution,,0,0,0,0,,,h
 S2425-G0064,1,03:14,ATL,20.0,BKN,16.0,Z. Williams,BKN,Williams Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
 S2425-G0064,1,03:14,ATL,,BKN,,Z. Williams,BKN,MISS Williams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
 S2425-G0064,1,01:03,ATL,,BKN,,Z. Williams,BKN,Williams Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,v
@@ -45,6 +68,58 @@ S2425-G0064,3,00:26.500000,ATL,,BKN,,Z. Williams,BKN,MISS Williams 4' Layup,Miss
 S2425-G0064,4,10:22,ATL,,BKN,,Z. Williams,BKN,Williams REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
 S2425-G0064,4,10:15,ATL,,BKN,,Z. Williams,BKN,MISS Williams 2' Driving Layup,Missed Shot,Driving Layup Shot,11,17,2,1,2.0,0.0,v
 S2425-G0064,4,08:21,ATL,,BKN,,Z. Williams,BKN,SUB: C. Johnson FOR Williams,Substitution,,0,0,0,0,,,v
+S2425-G0199,1,04:16,CLE,,BKN,,Z. Williams,BKN,Williams STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0199,1,02:00,CLE,,BKN,,Z. Williams,BKN,MISS Williams 24' 3PT Jump Shot,Missed Shot,Jump Shot,233,59,24,1,3.0,0.0,v
+S2425-G0199,1,00:32.400000,CLE,,BKN,,Z. Williams,BKN,MISS Williams 3PT Jump Shot,Missed Shot,Jump Shot,229,5,0,1,3.0,0.0,v
+S2425-G0199,2,11:43,CLE,,BKN,,Z. Williams,BKN,Williams Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0199,2,11:31,CLE,,BKN,,Z. Williams,BKN,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0199,2,07:11,CLE,,BKN,,Z. Williams,BKN,SUB: C. Johnson FOR Williams,Substitution,,0,0,0,0,,,v
+S2425-G0199,3,04:39,CLE,,BKN,,Z. Williams,BKN,Williams S.FOUL (P1.T2) (K.Lane),Foul,Shooting,0,0,0,0,,,v
+S2425-G0199,3,02:42,CLE,,BKN,,Z. Williams,BKN,Williams Bad Pass Turnover (P2.T13),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0199,3,02:42,CLE,,BKN,,Z. Williams,BKN,Williams L.B.FOUL (P2.T3) (C.Blair),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0199,3,01:20,CLE,,BKN,,Z. Williams,BKN,Williams REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0199,3,00:04.200000,CLE,,BKN,,Z. Williams,BKN,MISS Williams 7' Driving Layup,Missed Shot,Driving Layup Shot,-23,62,7,1,2.0,0.0,v
+S2425-G0199,4,09:59,CLE,,BKN,,Z. Williams,BKN,Williams REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0199,4,07:46,CLE,,BKN,,Z. Williams,BKN,SUB: Finney-Smith FOR Williams,Substitution,,0,0,0,0,,,v
+S2425-G0136,1,03:05,BKN,30.0,CHI,19.0,Z. Williams,BKN,Williams 5' Running Pull-Up Jump Shot (2 PTS) (Schröder 3 AST),Made Shot,Running Pull-Up Jump Shot,-33,43,5,1,2.0,2.0,h
+S2425-G0136,1,01:30,BKN,,CHI,,Z. Williams,BKN,MISS Williams 1' Running Layup,Missed Shot,Running Layup Shot,9,6,1,1,2.0,0.0,h
+S2425-G0136,1,00:56,BKN,,CHI,,Z. Williams,BKN,MISS Williams 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,49,152,16,1,2.0,0.0,h
+S2425-G0136,1,00:53.700000,BKN,,CHI,,Z. Williams,BKN,Williams REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0136,1,00:53.700000,BKN,35.0,CHI,25.0,Z. Williams,BKN,Williams 2' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,0,21,2,1,2.0,2.0,h
+S2425-G0136,2,10:14,BKN,,CHI,,Z. Williams,BKN,Williams REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0136,2,09:09,BKN,,CHI,,Z. Williams,BKN,Williams STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0136,2,06:57,BKN,,CHI,,Z. Williams,BKN,SUB: Thomas FOR Williams,Substitution,,0,0,0,0,,,h
+S2425-G0136,3,02:56,BKN,,CHI,,Z. Williams,BKN,Jump Ball Williams vs. Smith: Tip to White,Jump Ball,,0,0,0,0,,,h
+S2425-G0136,3,02:09,BKN,,CHI,,Z. Williams,BKN,Williams P.FOUL (P1.PN) (J.Reneau),Foul,Personal,0,0,0,0,,,h
+S2425-G0136,3,01:09,BKN,,CHI,,Z. Williams,BKN,MISS Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,154,196,25,1,3.0,0.0,h
+S2425-G0136,4,10:48,BKN,,CHI,,Z. Williams,BKN,MISS Williams 3PT Jump Shot,Missed Shot,Jump Shot,224,-6,0,1,3.0,0.0,h
+S2425-G0136,4,09:49,BKN,,CHI,,Z. Williams,BKN,Williams P.FOUL (P2.T2) (J.Van Duyne),Foul,Personal,0,0,0,0,,,h
+S2425-G0136,4,09:21,BKN,96.0,CHI,98.0,Z. Williams,BKN,Williams 3' Cutting Layup Shot (6 PTS) (K. Johnson 1 AST),Made Shot,Cutting Layup Shot,-25,5,3,1,2.0,2.0,h
+S2425-G0136,4,09:04,BKN,,CHI,,Z. Williams,BKN,Williams REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0136,4,08:56,BKN,98.0,CHI,98.0,Z. Williams,BKN,Williams 10' Driving Floating Jump Shot (8 PTS) (Simmons 10 AST),Made Shot,Driving Floating Jump Shot,-18,95,10,1,2.0,2.0,h
+S2425-G0136,4,08:21,BKN,100.0,CHI,98.0,Z. Williams,BKN,Williams 1' Running Reverse Layup (10 PTS) (Simmons 11 AST),Made Shot,Running Reverse Layup Shot,-13,-5,1,1,2.0,2.0,h
+S2425-G0136,4,08:02,BKN,,CHI,,Z. Williams,BKN,Williams P.FOUL (P3.T4) (J.Tiven),Foul,Personal,0,0,0,0,,,h
+S2425-G0136,4,04:46,BKN,,CHI,,Z. Williams,BKN,SUB: Finney-Smith FOR Williams,Substitution,,0,0,0,0,,,h
+S2425-G0158,1,01:58,BKN,,MEM,,Z. Williams,BKN,Williams STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0158,1,00:55.300000,BKN,,MEM,,Z. Williams,BKN,Williams REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0158,2,04:13,BKN,,MEM,,Z. Williams,BKN,SUB: K. Johnson FOR Williams,Substitution,,0,0,0,0,,,h
+S2425-G0158,2,00:11.700000,BKN,,MEM,,Z. Williams,BKN,SUB: Wilson FOR Williams,Substitution,,0,0,0,0,,,h
+S2425-G0158,4,11:44,BKN,,MEM,,Z. Williams,BKN,Williams STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0158,4,10:35,BKN,84.0,MEM,84.0,Z. Williams,BKN,Williams Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0158,4,10:35,BKN,85.0,MEM,84.0,Z. Williams,BKN,Williams Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0158,4,09:02,BKN,,MEM,,Z. Williams,BKN,Williams REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0158,4,07:38,BKN,,MEM,,Z. Williams,BKN,MISS Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,98,233,25,1,3.0,0.0,h
+S2425-G0158,4,06:11,BKN,,MEM,,Z. Williams,BKN,Williams S.FOUL (P1.T3) (E.Scott),Foul,Shooting,0,0,0,0,,,h
+S2425-G0158,4,05:25,BKN,,MEM,,Z. Williams,BKN,MISS Williams 24' 3PT Jump Shot,Missed Shot,Jump Shot,-235,8,24,1,3.0,0.0,h
+S2425-G0158,4,04:00,BKN,,MEM,,Z. Williams,BKN,SUB: Wilson FOR Williams,Substitution,,0,0,0,0,,,h
+S2425-G0027,1,00:49.500000,PHI,,BKN,,Z. Williams,BKN,Williams L.B.FOUL (P1.PN) (J.Capers),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0027,2,10:53,PHI,,BKN,,Z. Williams,BKN,Williams S.FOUL (P2.T1) (J.Sterling),Foul,Shooting,0,0,0,0,,,v
+S2425-G0027,2,09:15,PHI,,BKN,,Z. Williams,BKN,Williams S.FOUL (P3.T3) (J.Sterling),Foul,Shooting,0,0,0,0,,,v
+S2425-G0027,2,09:15,PHI,,BKN,,Z. Williams,BKN,SUB: Simmons FOR Williams,Substitution,,0,0,0,0,,,v
+S2425-G0027,3,02:57,PHI,,BKN,,Z. Williams,BKN,MISS Williams 26' 3PT Jump Shot,Missed Shot,Jump Shot,210,150,26,1,3.0,0.0,v
+S2425-G0027,3,02:21,PHI,77.0,BKN,73.0,Z. Williams,BKN,Williams Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0027,3,02:21,PHI,77.0,BKN,74.0,Z. Williams,BKN,Williams Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0027,3,01:19,PHI,,BKN,,Z. Williams,BKN,Williams P.FOUL (P4.T4) (J.Sterling),Foul,Personal,0,0,0,0,,,v
 S2425-G0113,1,02:37,BKN,30.0,DEN,21.0,Z. Williams,BKN,Williams 26' 3PT Jump Shot (3 PTS) (Schröder 2 AST),Made Shot,Jump Shot,207,157,26,1,3.0,3.0,h
 S2425-G0113,1,02:05,BKN,,DEN,,Z. Williams,BKN,Williams REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
 S2425-G0113,1,00:31.600000,BKN,40.0,DEN,27.0,Z. Williams,BKN,Williams 2' Alley Oop Dunk (5 PTS) (Claxton 1 AST),Made Shot,Alley Oop Dunk Shot,7,16,2,1,2.0,2.0,h
@@ -64,6 +139,37 @@ S2425-G0113,4,07:02,BKN,,DEN,,Z. Williams,BKN,Williams REBOUND (Off:2 Def:1),Reb
 S2425-G0113,4,07:02,BKN,109.0,DEN,106.0,Z. Williams,BKN,Williams Putback Layup (18 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,h
 S2425-G0113,4,05:30,BKN,,DEN,,Z. Williams,BKN,Williams S.FOUL (P3.T2) (R.Hussey),Foul,Shooting,0,0,0,0,,,h
 S2425-G0113,4,04:59,BKN,,DEN,,Z. Williams,BKN,SUB: Claxton FOR Williams,Substitution,,0,0,0,0,,,h
+S2425-G0187,1,05:47,BOS,,BKN,,Z. Williams,BKN,MISS Williams 24' 3PT Jump Shot,Missed Shot,Jump Shot,222,83,24,1,3.0,0.0,v
+S2425-G0187,1,05:04,BOS,,BKN,,Z. Williams,BKN,MISS Williams 5' Driving Layup,Missed Shot,Driving Layup Shot,-39,25,5,1,2.0,0.0,v
+S2425-G0187,1,04:01,BOS,,BKN,,Z. Williams,BKN,Williams REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0187,1,04:01,BOS,13.0,BKN,22.0,Z. Williams,BKN,Williams Tip Dunk Shot (2 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,v
+S2425-G0187,1,03:42,BOS,,BKN,,Z. Williams,BKN,Williams L.B.FOUL (P1.T3) (P.Ransom),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0187,1,03:10,BOS,16.0,BKN,24.0,Z. Williams,BKN,Williams 1' Running Layup (4 PTS) (Simmons 2 AST),Made Shot,Running Layup Shot,5,-4,1,1,2.0,2.0,v
+S2425-G0187,1,02:22,BOS,,BKN,,Z. Williams,BKN,Williams REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0187,2,09:44,BOS,27.0,BKN,33.0,Z. Williams,BKN,Williams Driving Layup (6 PTS) (Simmons 4 AST),Made Shot,Driving Layup Shot,-2,4,0,1,2.0,2.0,v
+S2425-G0187,2,08:40,BOS,,BKN,,Z. Williams,BKN,Williams REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0187,2,08:14,BOS,,BKN,,Z. Williams,BKN,Williams P.FOUL (P2.T1) (J.Orr),Foul,Personal,0,0,0,0,,,v
+S2425-G0187,2,08:14,BOS,,BKN,,Z. Williams,BKN,SUB: Finney-Smith FOR Williams,Substitution,,0,0,0,0,,,v
+S2425-G0187,2,08:14,BOS,,BKN,,Z. Williams,BKN,Williams T.FOUL (P2.T1) (J.Orr),Foul,Technical,0,0,0,0,,,v
+S2425-G0187,3,06:32,BOS,,BKN,,Z. Williams,BKN,Williams REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0187,3,06:05,BOS,,BKN,,Z. Williams,BKN,Williams REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0187,3,02:55,BOS,,BKN,,Z. Williams,BKN,Williams REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0187,3,02:30,BOS,,BKN,,Z. Williams,BKN,Williams S.FOUL (P3.PN) (M.Lindsay),Foul,Shooting,0,0,0,0,,,v
+S2425-G0187,3,02:14,BOS,,BKN,,Z. Williams,BKN,MISS Williams 3PT Jump Shot,Missed Shot,Jump Shot,227,58,0,1,3.0,0.0,v
+S2425-G0187,3,00:15.700000,BOS,76.0,BKN,78.0,Z. Williams,BKN,Williams 2' Cutting Layup Shot (8 PTS) (Simmons 7 AST),Made Shot,Cutting Layup Shot,12,16,2,1,2.0,2.0,v
+S2425-G0187,4,10:13,BOS,,BKN,,Z. Williams,BKN,MISS Williams 4' Driving Layup,Missed Shot,Driving Layup Shot,37,25,4,1,2.0,0.0,v
+S2425-G0187,4,10:12,BOS,,BKN,,Z. Williams,BKN,Williams REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0187,4,10:12,BOS,,BKN,,Z. Williams,BKN,MISS Williams 2' Tip Layup Shot,Missed Shot,Tip Layup Shot,10,18,2,1,2.0,0.0,v
+S2425-G0187,4,10:11,BOS,,BKN,,Z. Williams,BKN,Williams REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0187,4,10:10,BOS,80.0,BKN,81.0,Z. Williams,BKN,Williams Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0187,4,10:10,BOS,,BKN,,Z. Williams,BKN,MISS Williams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0187,4,10:10,BOS,,BKN,,Z. Williams,BKN,Williams REBOUND (Off:4 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0187,4,10:06,BOS,,BKN,,Z. Williams,BKN,MISS Williams 3' Putback Layup,Missed Shot,Putback Layup Shot,31,7,3,1,2.0,0.0,v
+S2425-G0187,4,09:18,BOS,,BKN,,Z. Williams,BKN,Williams REBOUND (Off:4 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0187,4,09:15,BOS,,BKN,,Z. Williams,BKN,MISS Williams 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-140,218,26,1,3.0,0.0,v
+S2425-G0187,4,06:32,BOS,,BKN,,Z. Williams,BKN,Williams REBOUND (Off:4 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0187,4,05:30,BOS,,BKN,,Z. Williams,BKN,Williams REBOUND (Off:4 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0187,4,05:30,BOS,,BKN,,Z. Williams,BKN,SUB: C. Johnson FOR Williams,Substitution,,0,0,0,0,,,v
 S2425-G0124,1,02:57,MEM,,BKN,,Z. Williams,BKN,Williams P.FOUL (P1.PN) (B.Forte),Foul,Personal,0,0,0,0,,,v
 S2425-G0124,1,02:18,MEM,,BKN,,Z. Williams,BKN,Williams STEAL (1 STL),,,0,0,0,0,,,v
 S2425-G0124,1,02:13,MEM,26.0,BKN,24.0,Z. Williams,BKN,Williams 2' Running Dunk (2 PTS),Made Shot,Running Dunk Shot,-2,18,2,1,2.0,2.0,v

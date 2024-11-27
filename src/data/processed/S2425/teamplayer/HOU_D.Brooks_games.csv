@@ -1,4 +1,28 @@
 game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0192,1,10:34,OKC,5.0,HOU,6.0,D. Brooks,HOU,Brooks 10' Driving Floating Bank Jump Shot (2 PTS),Made Shot,Driving Floating Bank Jump Shot,20,95,10,1,2.0,2.0,v
+S2425-G0192,1,10:05,OKC,,HOU,,D. Brooks,HOU,Brooks REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0192,1,10:03,OKC,,HOU,,D. Brooks,HOU,MISS Brooks 3' Layup,Missed Shot,Layup Shot,28,9,3,1,2.0,0.0,v
+S2425-G0192,1,10:01,OKC,,HOU,,D. Brooks,HOU,Brooks REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0192,1,10:01,OKC,,HOU,,D. Brooks,HOU,MISS Brooks Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2425-G0192,1,09:31,OKC,7.0,HOU,10.0,D. Brooks,HOU,Brooks 10' Jump Shot (4 PTS) (VanVleet 1 AST),Made Shot,Jump Shot,-17,98,10,1,2.0,2.0,v
+S2425-G0192,1,07:17,OKC,,HOU,,D. Brooks,HOU,Brooks S.FOUL (P1.T2) (K.Cutler),Foul,Shooting,0,0,0,0,,,v
+S2425-G0192,1,03:59,OKC,,HOU,,D. Brooks,HOU,MISS Brooks 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-61,124,14,1,2.0,0.0,v
+S2425-G0192,1,02:27,OKC,,HOU,,D. Brooks,HOU,SUB: Ja. Green FOR Brooks,Substitution,,0,0,0,0,,,v
+S2425-G0192,2,07:36,OKC,45.0,HOU,38.0,D. Brooks,HOU,Brooks 28' 3PT Jump Shot (7 PTS) (Adams 1 AST),Made Shot,Jump Shot,-159,226,28,1,3.0,3.0,v
+S2425-G0192,2,06:37,OKC,,HOU,,D. Brooks,HOU,MISS Brooks 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,72,92,12,1,2.0,0.0,v
+S2425-G0192,2,05:46,OKC,,HOU,,D. Brooks,HOU,Brooks REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0192,2,04:17,OKC,,HOU,,D. Brooks,HOU,Brooks S.FOUL (P2.T4) (E.Scott),Foul,Shooting,0,0,0,0,,,v
+S2425-G0192,2,02:48,OKC,,HOU,,D. Brooks,HOU,Brooks P.FOUL (P3.PN) (K.Cutler),Foul,Personal,0,0,0,0,,,v
+S2425-G0192,2,02:48,OKC,,HOU,,D. Brooks,HOU,SUB: Thompson FOR Brooks,Substitution,,0,0,0,0,,,v
+S2425-G0192,3,10:13,OKC,,HOU,,D. Brooks,HOU,Brooks REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0192,3,06:43,OKC,87.0,HOU,63.0,D. Brooks,HOU,Brooks 7' Turnaround Fadeaway (9 PTS),Made Shot,Turnaround Fadeaway shot,-66,15,7,1,2.0,2.0,v
+S2425-G0192,3,06:18,OKC,87.0,HOU,64.0,D. Brooks,HOU,Brooks Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0192,3,06:18,OKC,87.0,HOU,65.0,D. Brooks,HOU,Brooks Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0192,3,04:54,OKC,91.0,HOU,68.0,D. Brooks,HOU,Brooks 28' 3PT Jump Shot (14 PTS) (Sengun 5 AST),Made Shot,Jump Shot,143,238,28,1,3.0,3.0,v
+S2425-G0192,3,03:56,OKC,,HOU,,D. Brooks,HOU,MISS Brooks 14' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-62,125,14,1,2.0,0.0,v
+S2425-G0192,3,03:07,OKC,93.0,HOU,73.0,D. Brooks,HOU,Brooks 24' 3PT Running Jump Shot (17 PTS) (Sengun 6 AST),Made Shot,Running Jump Shot,235,15,24,1,3.0,3.0,v
+S2425-G0192,3,01:23,OKC,,HOU,,D. Brooks,HOU,MISS Brooks 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,173,197,26,1,3.0,0.0,v
+S2425-G0192,3,00:33,OKC,,HOU,,D. Brooks,HOU,Brooks Lost Ball Turnover (P1.T8),Turnover,Lost Ball,0,0,0,0,,,v
 S2425-G0068,1,10:50,HOU,,CHA,,D. Brooks,HOU,MISS Brooks 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,222,133,26,1,3.0,0.0,h
 S2425-G0068,1,06:26,HOU,,CHA,,D. Brooks,HOU,Brooks S.FOUL (P1.T2) (B.Taylor),Foul,Shooting,0,0,0,0,,,h
 S2425-G0068,1,04:38,HOU,,CHA,,D. Brooks,HOU,MISS Brooks 3' Driving Layup,Missed Shot,Driving Layup Shot,25,20,3,1,2.0,0.0,h
@@ -15,6 +39,60 @@ S2425-G0068,3,05:03,HOU,,CHA,,D. Brooks,HOU,Brooks P.FOUL (P4.T3) (R.Hussey),Fou
 S2425-G0068,3,05:03,HOU,,CHA,,D. Brooks,HOU,SUB: Sheppard FOR Brooks,Substitution,,0,0,0,0,,,h
 S2425-G0068,4,08:22,HOU,,CHA,,D. Brooks,HOU,MISS Brooks 26' 3PT Jump Shot,Missed Shot,Jump Shot,103,237,26,1,3.0,0.0,h
 S2425-G0068,4,05:37,HOU,,CHA,,D. Brooks,HOU,Brooks REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0161,1,11:00,HOU,,NYK,,D. Brooks,HOU,MISS Brooks 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-76,141,16,1,2.0,0.0,h
+S2425-G0161,1,07:31,HOU,13.0,NYK,9.0,D. Brooks,HOU,Brooks 26' 3PT Jump Shot (3 PTS) (VanVleet 2 AST),Made Shot,Jump Shot,163,204,26,1,3.0,3.0,h
+S2425-G0161,1,06:09,HOU,,NYK,,D. Brooks,HOU,MISS Brooks 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,107,13,11,1,2.0,0.0,h
+S2425-G0161,1,05:47,HOU,,NYK,,D. Brooks,HOU,Brooks S.FOUL (P1.T3) (A.Smith),Foul,Shooting,0,0,0,0,,,h
+S2425-G0161,1,02:17,HOU,,NYK,,D. Brooks,HOU,MISS Brooks 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,238,44,24,1,3.0,0.0,h
+S2425-G0161,1,01:50,HOU,,NYK,,D. Brooks,HOU,SUB: Ja. Green FOR Brooks,Substitution,,0,0,0,0,,,h
+S2425-G0161,2,05:52,HOU,,NYK,,D. Brooks,HOU,Brooks S.FOUL (P2.PN) (B.Adair),Foul,Shooting,0,0,0,0,,,h
+S2425-G0161,2,04:19,HOU,,NYK,,D. Brooks,HOU,MISS Brooks 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-28,79,8,1,2.0,0.0,h
+S2425-G0161,2,03:41,HOU,,NYK,,D. Brooks,HOU,Brooks REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0161,2,03:36,HOU,,NYK,,D. Brooks,HOU,Brooks REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0161,2,03:34,HOU,57.0,NYK,44.0,D. Brooks,HOU,Brooks Tip Layup Shot (5 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2425-G0161,2,02:46,HOU,61.0,NYK,46.0,D. Brooks,HOU,Brooks 24' 3PT Jump Shot (8 PTS) (Eason 1 AST),Made Shot,Jump Shot,-234,41,24,1,3.0,3.0,h
+S2425-G0161,2,02:26,HOU,,NYK,,D. Brooks,HOU,Brooks REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0161,3,08:27,HOU,,NYK,,D. Brooks,HOU,Brooks P.FOUL (P3.T3) (T.Ford),Foul,Personal,0,0,0,0,,,h
+S2425-G0161,3,05:25,HOU,74.0,NYK,64.0,D. Brooks,HOU,Brooks 27' 3PT Jump Shot (11 PTS) (VanVleet 5 AST),Made Shot,Jump Shot,60,266,27,1,3.0,3.0,h
+S2425-G0161,3,03:54,HOU,,NYK,,D. Brooks,HOU,MISS Brooks 26' 3PT Jump Shot,Missed Shot,Jump Shot,37,258,26,1,3.0,0.0,h
+S2425-G0161,3,03:34,HOU,78.0,NYK,66.0,D. Brooks,HOU,Brooks Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0161,3,03:34,HOU,79.0,NYK,66.0,D. Brooks,HOU,Brooks Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0161,3,02:49,HOU,,NYK,,D. Brooks,HOU,SUB: Ja. Green FOR Brooks,Substitution,,0,0,0,0,,,h
+S2425-G0161,4,09:35,HOU,,NYK,,D. Brooks,HOU,Brooks S.FOUL (P4.T1) (A.Smith),Foul,Shooting,0,0,0,0,,,h
+S2425-G0161,4,07:21,HOU,,NYK,,D. Brooks,HOU,Brooks S.FOUL (P5.T2) (T.Ford),Foul,Shooting,0,0,0,0,,,h
+S2425-G0161,4,07:21,HOU,,NYK,,D. Brooks,HOU,SUB: Eason FOR Brooks,Substitution,,0,0,0,0,,,h
+S2425-G0031,1,11:40,HOU,,POR,,D. Brooks,HOU,Brooks REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0031,1,09:58,HOU,,POR,,D. Brooks,HOU,Brooks Lost Ball Turnover (P1.T3),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0031,1,08:39,HOU,,POR,,D. Brooks,HOU,Brooks REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0031,1,08:38,HOU,,POR,,D. Brooks,HOU,MISS Brooks Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0031,1,08:38,HOU,1.0,POR,8.0,D. Brooks,HOU,Brooks Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0031,1,07:52,HOU,4.0,POR,8.0,D. Brooks,HOU,Brooks 25' 3PT Jump Shot (4 PTS) (VanVleet 1 AST),Made Shot,Jump Shot,-234,91,25,1,3.0,3.0,h
+S2425-G0031,1,06:13,HOU,,POR,,D. Brooks,HOU,MISS Brooks 10' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,21,95,10,1,2.0,0.0,h
+S2425-G0031,1,05:03,HOU,,POR,,D. Brooks,HOU,MISS Brooks 27' 3PT Jump Shot,Missed Shot,Jump Shot,143,232,27,1,3.0,0.0,h
+S2425-G0031,1,04:36,HOU,11.0,POR,10.0,D. Brooks,HOU,Brooks 3' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,29,17,3,1,2.0,2.0,h
+S2425-G0031,1,04:23,HOU,,POR,,D. Brooks,HOU,MISS Brooks 3' Driving Layup,Missed Shot,Driving Layup Shot,15,27,3,1,2.0,0.0,h
+S2425-G0031,1,04:10,HOU,,POR,,D. Brooks,HOU,MISS Brooks 24' 3PT Jump Shot,Missed Shot,Jump Shot,234,27,24,1,3.0,0.0,h
+S2425-G0031,1,02:14,HOU,,POR,,D. Brooks,HOU,SUB: Sheppard FOR Brooks,Substitution,,0,0,0,0,,,h
+S2425-G0031,2,04:54,HOU,,POR,,D. Brooks,HOU,Brooks Traveling Turnover (P2.T5),Turnover,Traveling,0,0,0,0,,,h
+S2425-G0031,2,04:15,HOU,,POR,,D. Brooks,HOU,Brooks P.FOUL (P1.T3) (M.Myers),Foul,Personal,0,0,0,0,,,h
+S2425-G0031,2,02:54,HOU,,POR,,D. Brooks,HOU,Brooks REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0031,2,02:09,HOU,56.0,POR,42.0,D. Brooks,HOU,Brooks Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0031,2,02:09,HOU,,POR,,D. Brooks,HOU,MISS Brooks Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0031,2,01:30,HOU,,POR,,D. Brooks,HOU,Brooks S.FOUL (P2.PN) (M.Myers),Foul,Shooting,0,0,0,0,,,h
+S2425-G0031,2,01:16,HOU,60.0,POR,45.0,D. Brooks,HOU,Brooks 4' Driving Finger Roll Layup (9 PTS) (Sengun 1 AST),Made Shot,Driving Finger Roll Layup Shot,-1,38,4,1,2.0,2.0,h
+S2425-G0031,2,01:01,HOU,,POR,,D. Brooks,HOU,Brooks REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0031,2,00:53.300000,HOU,63.0,POR,45.0,D. Brooks,HOU,Brooks 28' 3PT Jump Shot (12 PTS) (Sengun 2 AST),Made Shot,Jump Shot,78,264,28,1,3.0,3.0,h
+S2425-G0031,3,09:48,HOU,72.0,POR,50.0,D. Brooks,HOU,Brooks 25' 3PT Pullup Jump Shot (15 PTS) (VanVleet 6 AST),Made Shot,Pullup Jump shot,-129,216,25,1,3.0,3.0,h
+S2425-G0031,3,08:45,HOU,75.0,POR,50.0,D. Brooks,HOU,Brooks 25' 3PT Step Back Jump Shot (18 PTS) (VanVleet 7 AST),Made Shot,Step Back Jump shot,5,250,25,1,3.0,3.0,h
+S2425-G0031,3,08:09,HOU,77.0,POR,50.0,D. Brooks,HOU,Brooks 13' Pullup Jump Shot (20 PTS),Made Shot,Pullup Jump shot,-127,0,13,1,2.0,2.0,h
+S2425-G0031,3,07:34,HOU,,POR,,D. Brooks,HOU,Brooks S.FOUL (P3.T4) (M.Ervin),Foul,Shooting,0,0,0,0,,,h
+S2425-G0031,3,05:42,HOU,,POR,,D. Brooks,HOU,Brooks REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0031,3,05:38,HOU,,POR,,D. Brooks,HOU,MISS Brooks 1' Putback Layup,Missed Shot,Putback Layup Shot,-10,0,1,1,2.0,0.0,h
+S2425-G0031,3,05:38,HOU,,POR,,D. Brooks,HOU,Brooks REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0031,3,05:37,HOU,81.0,POR,63.0,D. Brooks,HOU,Brooks Tip Layup Shot (22 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2425-G0031,3,05:02,HOU,84.0,POR,66.0,D. Brooks,HOU,Brooks 26' 3PT Jump Shot (25 PTS) (Eason 1 AST),Made Shot,Jump Shot,-199,161,26,1,3.0,3.0,h
+S2425-G0031,3,04:11,HOU,89.0,POR,66.0,D. Brooks,HOU,Brooks 26' 3PT Jump Shot (28 PTS) (Sengun 3 AST),Made Shot,Jump Shot,87,241,26,1,3.0,3.0,h
+S2425-G0031,3,02:50,HOU,,POR,,D. Brooks,HOU,SUB: Sheppard FOR Brooks,Substitution,,0,0,0,0,,,h
 S2425-G0109,1,08:28,SAS,,HOU,,D. Brooks,HOU,MISS Brooks 25' 3PT Jump Shot,Missed Shot,Jump Shot,123,221,25,1,3.0,0.0,v
 S2425-G0109,1,07:13,SAS,,HOU,,D. Brooks,HOU,MISS Brooks 2' Driving Layup,Missed Shot,Driving Layup Shot,-2,22,2,1,2.0,0.0,v
 S2425-G0109,1,07:12,SAS,,HOU,,D. Brooks,HOU,Brooks REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
@@ -38,6 +116,57 @@ S2425-G0109,4,08:21,SAS,,HOU,,D. Brooks,HOU,MISS Brooks 25' 3PT Jump Shot,Missed
 S2425-G0109,4,06:39,SAS,,HOU,,D. Brooks,HOU,Brooks REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
 S2425-G0109,4,01:53,SAS,,HOU,,D. Brooks,HOU,Brooks REBOUND (Off:2 Def:4),Rebound,Unknown,0,0,0,0,,,v
 S2425-G0109,4,00:48.800000,SAS,,HOU,,D. Brooks,HOU,Brooks REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0129,1,11:11,DAL,0.0,HOU,6.0,D. Brooks,HOU,Brooks 25' 3PT Jump Shot (3 PTS) (Ja. Green 1 AST),Made Shot,Jump Shot,67,244,25,1,3.0,3.0,v
+S2425-G0129,1,10:37,DAL,,HOU,,D. Brooks,HOU,MISS Brooks 3PT Jump Shot,Missed Shot,Jump Shot,228,8,0,1,3.0,0.0,v
+S2425-G0129,1,10:22,DAL,,HOU,,D. Brooks,HOU,Brooks P.FOUL (P1.T1) (R.Hussey),Foul,Personal,0,0,0,0,,,v
+S2425-G0129,1,10:15,DAL,,HOU,,D. Brooks,HOU,Brooks T.FOUL (P1.T2) (R.Hussey),Foul,Technical,0,0,0,0,,,v
+S2425-G0129,1,09:51,DAL,3.0,HOU,8.0,D. Brooks,HOU,Brooks 2' Cutting Dunk Shot (5 PTS) (Ja. Green 2 AST),Made Shot,Cutting Dunk Shot,15,0,2,1,2.0,2.0,v
+S2425-G0129,1,09:35,DAL,3.0,HOU,9.0,D. Brooks,HOU,Brooks Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0129,1,09:35,DAL,3.0,HOU,10.0,D. Brooks,HOU,Brooks Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0129,1,02:50,DAL,15.0,HOU,27.0,D. Brooks,HOU,Brooks 26' 3PT Running Jump Shot (10 PTS) (Eason 1 AST),Made Shot,Running Jump Shot,147,214,26,1,3.0,3.0,v
+S2425-G0129,1,02:49,DAL,,HOU,,D. Brooks,HOU,SUB: VanVleet FOR Brooks,Substitution,,0,0,0,0,,,v
+S2425-G0129,2,11:43,DAL,,HOU,,D. Brooks,HOU,Brooks REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0129,2,10:51,DAL,,HOU,,D. Brooks,HOU,MISS Brooks Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0129,2,10:51,DAL,23.0,HOU,37.0,D. Brooks,HOU,Brooks Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0129,2,07:10,DAL,,HOU,,D. Brooks,HOU,Brooks BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0129,2,05:13,DAL,,HOU,,D. Brooks,HOU,MISS Brooks 3PT Jump Shot,Missed Shot,Jump Shot,223,-5,0,1,3.0,0.0,v
+S2425-G0129,2,05:13,DAL,,HOU,,D. Brooks,HOU,SUB: Thompson FOR Brooks,Substitution,,0,0,0,0,,,v
+S2425-G0129,2,00:26.300000,DAL,,HOU,,D. Brooks,HOU,Brooks REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0129,3,09:58,DAL,,HOU,,D. Brooks,HOU,MISS Brooks 25' 3PT Jump Shot,Missed Shot,Jump Shot,-184,166,25,1,3.0,0.0,v
+S2425-G0129,3,08:53,DAL,,HOU,,D. Brooks,HOU,MISS Brooks 2' Driving Layup,Missed Shot,Driving Layup Shot,23,5,2,1,2.0,0.0,v
+S2425-G0129,3,08:32,DAL,,HOU,,D. Brooks,HOU,Brooks REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0129,3,06:16,DAL,,HOU,,D. Brooks,HOU,MISS Brooks 3PT Jump Shot,Missed Shot,Jump Shot,-225,-10,0,1,3.0,0.0,v
+S2425-G0129,3,02:47,DAL,59.0,HOU,80.0,D. Brooks,HOU,Brooks 3' Cutting Layup Shot (13 PTS) (Adams 3 AST),Made Shot,Cutting Layup Shot,17,21,3,1,2.0,2.0,v
+S2425-G0129,3,02:23,DAL,59.0,HOU,82.0,D. Brooks,HOU,Brooks 1' Running Dunk (15 PTS) (Thompson 1 AST),Made Shot,Running Dunk Shot,4,-5,1,1,2.0,2.0,v
+S2425-G0129,3,02:23,DAL,,HOU,,D. Brooks,HOU,SUB: VanVleet FOR Brooks,Substitution,,0,0,0,0,,,v
+S2425-G0129,4,11:04,DAL,,HOU,,D. Brooks,HOU,MISS Brooks 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-164,178,24,1,3.0,0.0,v
+S2425-G0129,4,07:12,DAL,,HOU,,D. Brooks,HOU,MISS Brooks 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,42,100,11,1,2.0,0.0,v
+S2425-G0129,4,04:38,DAL,,HOU,,D. Brooks,HOU,MISS Brooks 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,66,246,25,1,3.0,0.0,v
+S2425-G0129,4,02:19,DAL,,HOU,,D. Brooks,HOU,MISS Brooks 3PT Jump Shot,Missed Shot,Jump Shot,-223,2,0,1,3.0,0.0,v
+S2425-G0129,4,01:24,DAL,,HOU,,D. Brooks,HOU,Brooks REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0129,4,00:18,DAL,100.0,HOU,107.0,D. Brooks,HOU,Brooks 14' Turnaround Fadeaway (17 PTS),Made Shot,Turnaround Fadeaway shot,61,124,14,1,2.0,2.0,v
+S2425-G0201,1,11:34,DET,,HOU,,D. Brooks,HOU,MISS Brooks 3PT Running Jump Shot,Missed Shot,Running Jump Shot,230,-14,0,1,3.0,0.0,v
+S2425-G0201,1,05:40,DET,11.0,HOU,16.0,D. Brooks,HOU,Brooks 24' 3PT Jump Shot (3 PTS) (VanVleet 1 AST),Made Shot,Jump Shot,-235,21,24,1,3.0,3.0,v
+S2425-G0201,1,05:18,DET,,HOU,,D. Brooks,HOU,Brooks REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0201,1,03:53,DET,,HOU,,D. Brooks,HOU,MISS Brooks 10' Jump Shot,Missed Shot,Jump Shot,81,64,10,1,2.0,0.0,v
+S2425-G0201,1,03:25,DET,,HOU,,D. Brooks,HOU,MISS Brooks 11' Driving Layup,Missed Shot,Driving Layup Shot,100,34,11,1,2.0,0.0,v
+S2425-G0201,1,02:40,DET,,HOU,,D. Brooks,HOU,SUB: Sheppard FOR Brooks,Substitution,,0,0,0,0,,,v
+S2425-G0201,2,07:04,DET,31.0,HOU,28.0,D. Brooks,HOU,Brooks 3' Driving Dunk (5 PTS) (VanVleet 2 AST),Made Shot,Driving Dunk Shot,21,16,3,1,2.0,2.0,v
+S2425-G0201,2,03:28,DET,,HOU,,D. Brooks,HOU,Brooks STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0201,2,03:06,DET,,HOU,,D. Brooks,HOU,Brooks REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0201,2,02:20,DET,,HOU,,D. Brooks,HOU,MISS Brooks 26' 3PT Jump Shot,Missed Shot,Jump Shot,-161,200,26,1,3.0,0.0,v
+S2425-G0201,2,02:03,DET,38.0,HOU,37.0,D. Brooks,HOU,Brooks 24' 3PT Jump Shot (8 PTS) (VanVleet 4 AST),Made Shot,Jump Shot,228,76,24,1,3.0,3.0,v
+S2425-G0201,3,11:11,DET,45.0,HOU,45.0,D. Brooks,HOU,Brooks 7' Turnaround Fadeaway (10 PTS),Made Shot,Turnaround Fadeaway shot,-70,-6,7,1,2.0,2.0,v
+S2425-G0201,3,08:24,DET,51.0,HOU,51.0,D. Brooks,HOU,Brooks 7' Turnaround Hook Shot (12 PTS),Made Shot,Turnaround Hook Shot,-50,45,7,1,2.0,2.0,v
+S2425-G0201,3,08:23,DET,,HOU,,D. Brooks,HOU,Brooks T.FOUL (P0.T1) (E.Malloy),Foul,Technical,0,0,0,0,,,v
+S2425-G0201,3,07:13,DET,,HOU,,D. Brooks,HOU,MISS Brooks 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,18,126,13,1,2.0,0.0,v
+S2425-G0201,3,06:18,DET,,HOU,,D. Brooks,HOU,MISS Brooks 3PT Jump Shot,Missed Shot,Jump Shot,-227,50,0,1,3.0,0.0,v
+S2425-G0201,3,03:53,DET,,HOU,,D. Brooks,HOU,MISS Brooks 25' 3PT Jump Shot,Missed Shot,Jump Shot,-214,131,25,1,3.0,0.0,v
+S2425-G0201,3,01:18,DET,,HOU,,D. Brooks,HOU,SUB: Ja. Green FOR Brooks,Substitution,,0,0,0,0,,,v
+S2425-G0201,4,05:16,DET,,HOU,,D. Brooks,HOU,Brooks S.FOUL (P1.PN) (J.Conley),Foul,Shooting,0,0,0,0,,,v
+S2425-G0201,4,02:33,DET,,HOU,,D. Brooks,HOU,MISS Brooks 3PT Jump Shot,Missed Shot,Jump Shot,-223,2,0,1,3.0,0.0,v
+S2425-G0201,4,01:47,DET,95.0,HOU,98.0,D. Brooks,HOU,Brooks 3' Dunk (14 PTS),Made Shot,Dunk Shot,12,27,3,1,2.0,2.0,v
+S2425-G0201,4,00:33.900000,DET,,HOU,,D. Brooks,HOU,MISS Brooks 26' 3PT Jump Shot,Missed Shot,Jump Shot,78,243,26,1,3.0,0.0,v
 S2425-G0082,1,08:01,HOU,,MEM,,D. Brooks,HOU,Brooks REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
 S2425-G0082,1,08:01,HOU,,MEM,,D. Brooks,HOU,MISS Brooks Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
 S2425-G0082,1,07:39,HOU,14.0,MEM,11.0,D. Brooks,HOU,Brooks Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
@@ -92,3 +221,46 @@ S2425-G0094,4,04:40,SAS,98.0,HOU,94.0,D. Brooks,HOU,Brooks 5' Driving Finger Rol
 S2425-G0094,4,02:51,SAS,,HOU,,D. Brooks,HOU,Brooks BLOCK (1 BLK),,,0,0,0,0,,,v
 S2425-G0094,4,01:57,SAS,,HOU,,D. Brooks,HOU,MISS Brooks 26' 3PT Jump Shot,Missed Shot,Jump Shot,151,215,26,1,3.0,0.0,v
 S2425-G0094,4,01:24,SAS,104.0,HOU,102.0,D. Brooks,HOU,Brooks 24' 3PT Jump Shot (16 PTS) (Ja. Green 5 AST),Made Shot,Jump Shot,-219,99,24,1,3.0,3.0,v
+S2425-G0016,1,11:38,HOU,,LAC,,D. Brooks,HOU,MISS Brooks 6' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-11,63,6,1,2.0,0.0,h
+S2425-G0016,1,06:59,HOU,,LAC,,D. Brooks,HOU,MISS Brooks 26' 3PT Jump Shot,Missed Shot,Jump Shot,-157,205,26,1,3.0,0.0,h
+S2425-G0016,1,05:46,HOU,,LAC,,D. Brooks,HOU,Brooks Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0016,1,05:33,HOU,,LAC,,D. Brooks,HOU,MISS Brooks 4' Running Layup,Missed Shot,Running Layup Shot,40,20,4,1,2.0,0.0,h
+S2425-G0016,1,05:08,HOU,19.0,LAC,9.0,D. Brooks,HOU,Brooks 26' 3PT Running Jump Shot (3 PTS) (Smith Jr. 1 AST),Made Shot,Running Jump Shot,184,187,26,1,3.0,3.0,h
+S2425-G0016,1,04:52,HOU,,LAC,,D. Brooks,HOU,Brooks P.FOUL (P1.T3) (M.Smith),Foul,Personal,0,0,0,0,,,h
+S2425-G0016,1,02:58,HOU,26.0,LAC,13.0,D. Brooks,HOU,Brooks 19' Fadeaway Jumper (5 PTS) (VanVleet 4 AST),Made Shot,Fadeaway Jump Shot,-194,-1,19,1,2.0,2.0,h
+S2425-G0016,1,02:28,HOU,,LAC,,D. Brooks,HOU,SUB: Ja. Green FOR Brooks,Substitution,,0,0,0,0,,,h
+S2425-G0016,2,06:36,HOU,40.0,LAC,30.0,D. Brooks,HOU,Brooks 25' 3PT Jump Shot (8 PTS) (Sengun 2 AST),Made Shot,Jump Shot,-93,229,25,1,3.0,3.0,h
+S2425-G0016,2,01:34,HOU,,LAC,,D. Brooks,HOU,Brooks Bad Pass Turnover (P2.T7),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0016,2,00:34.100000,HOU,,LAC,,D. Brooks,HOU,"Double Technical - Brooks, Jones Jr. (J.Capers)",Foul,Double Technical,0,0,0,0,,,
+S2425-G0016,3,10:00,HOU,,LAC,,D. Brooks,HOU,Brooks S.FOUL (P2.T2) (M.Smith),Foul,Shooting,0,0,0,0,,,h
+S2425-G0016,3,09:07,HOU,,LAC,,D. Brooks,HOU,Brooks P.FOUL (P3.T3) (N.Sago),Foul,Personal,0,0,0,0,,,h
+S2425-G0016,3,07:17,HOU,73.0,LAC,58.0,D. Brooks,HOU,Brooks 24' 3PT Jump Shot (11 PTS) (Sengun 6 AST),Made Shot,Jump Shot,235,-3,24,1,3.0,3.0,h
+S2425-G0016,3,06:05,HOU,,LAC,,D. Brooks,HOU,Brooks REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0016,3,05:56,HOU,,LAC,,D. Brooks,HOU,MISS Brooks 26' 3PT Jump Shot,Missed Shot,Jump Shot,61,253,26,1,3.0,0.0,h
+S2425-G0016,3,02:58,HOU,,LAC,,D. Brooks,HOU,MISS Brooks 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,-191,169,26,1,3.0,0.0,h
+S2425-G0016,3,00:02.400000,HOU,,LAC,,D. Brooks,HOU,Brooks P.FOUL (P4.PN) (M.Smith),Foul,Personal,0,0,0,0,,,h
+S2425-G0016,4,05:58,HOU,107.0,LAC,88.0,D. Brooks,HOU,Brooks 26' 3PT Jump Shot (14 PTS) (Sengun 8 AST),Made Shot,Jump Shot,-191,179,26,1,3.0,3.0,h
+S2425-G0016,4,05:24,HOU,110.0,LAC,88.0,D. Brooks,HOU,Brooks 25' 3PT Jump Shot (17 PTS) (Sengun 9 AST),Made Shot,Jump Shot,134,216,25,1,3.0,3.0,h
+S2425-G0016,4,03:57,HOU,,LAC,,D. Brooks,HOU,MISS Brooks 28' 3PT Jump Shot,Missed Shot,Jump Shot,-132,247,28,1,3.0,0.0,h
+S2425-G0016,4,02:54,HOU,,LAC,,D. Brooks,HOU,Brooks P.FOUL (P5.PN) (M.Smith),Foul,Personal,0,0,0,0,,,h
+S2425-G0016,4,02:54,HOU,,LAC,,D. Brooks,HOU,SUB: Sheppard FOR Brooks,Substitution,,0,0,0,0,,,h
+S2425-G0173,1,10:27,HOU,,SAS,,D. Brooks,HOU,Brooks REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0173,1,10:18,HOU,,SAS,,D. Brooks,HOU,MISS Brooks 3PT Jump Shot,Missed Shot,Jump Shot,227,-8,0,1,3.0,0.0,h
+S2425-G0173,1,07:40,HOU,8.0,SAS,2.0,D. Brooks,HOU,Brooks 2' Driving Layup (2 PTS) (Sengun 1 AST),Made Shot,Driving Layup Shot,17,10,2,1,2.0,2.0,h
+S2425-G0173,1,07:40,HOU,9.0,SAS,2.0,D. Brooks,HOU,Brooks Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2425-G0173,1,07:15,HOU,,SAS,,D. Brooks,HOU,MISS Brooks 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,39,13,4,1,2.0,0.0,h
+S2425-G0173,1,07:01,HOU,,SAS,,D. Brooks,HOU,Brooks T.FOUL (P0.T2) (B.Kennedy),Foul,Technical,0,0,0,0,,,h
+S2425-G0173,1,05:30,HOU,,SAS,,D. Brooks,HOU,Brooks P.FOUL (P1.T3) (S.Mehta),Foul,Personal,0,0,0,0,,,h
+S2425-G0173,1,05:30,HOU,,SAS,,D. Brooks,HOU,SUB: Eason FOR Brooks,Substitution,,0,0,0,0,,,h
+S2425-G0173,1,01:03,HOU,29.0,SAS,17.0,D. Brooks,HOU,Brooks 20' Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,2,200,20,1,2.0,2.0,h
+S2425-G0173,2,11:47,HOU,,SAS,,D. Brooks,HOU,Brooks REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0173,2,08:54,HOU,,SAS,,D. Brooks,HOU,MISS Brooks 13' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,-54,115,13,1,2.0,0.0,h
+S2425-G0173,2,07:38,HOU,,SAS,,D. Brooks,HOU,MISS Brooks 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-170,185,25,1,3.0,0.0,h
+S2425-G0173,2,07:10,HOU,,SAS,,D. Brooks,HOU,SUB: Eason FOR Brooks,Substitution,,0,0,0,0,,,h
+S2425-G0173,3,08:11,HOU,,SAS,,D. Brooks,HOU,SUB: Thompson FOR Brooks,Substitution,,0,0,0,0,,,h
+S2425-G0173,3,02:33,HOU,,SAS,,D. Brooks,HOU,Brooks STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0173,3,01:11,HOU,91.0,SAS,66.0,D. Brooks,HOU,Brooks 14' Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,126,64,14,1,2.0,2.0,h
+S2425-G0173,4,09:25,HOU,107.0,SAS,80.0,D. Brooks,HOU,Brooks 25' 3PT Running Jump Shot (10 PTS) (Thompson 4 AST),Made Shot,Running Jump Shot,235,85,25,1,3.0,3.0,h
+S2425-G0173,4,08:51,HOU,,SAS,,D. Brooks,HOU,MISS Brooks 8' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-53,60,8,1,2.0,0.0,h
+S2425-G0173,4,08:22,HOU,,SAS,,D. Brooks,HOU,Brooks S.FOUL (P2.T1) (S.Mehta),Foul,Shooting,0,0,0,0,,,h
+S2425-G0173,4,08:22,HOU,,SAS,,D. Brooks,HOU,SUB: Eason FOR Brooks,Substitution,,0,0,0,0,,,h

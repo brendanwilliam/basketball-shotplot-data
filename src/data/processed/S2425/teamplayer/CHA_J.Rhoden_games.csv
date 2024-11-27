@@ -1,0 +1,13 @@
+game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0003,4,00:35.200000,ORL,,CHA,,J. Rhoden,CHA,MISS Rhoden 3PT Jump Shot,Missed Shot,Jump Shot,225,66,0,1,3.0,0.0,v
+S2425-G0003,4,00:17.700000,ORL,,CHA,,J. Rhoden,CHA,MISS Rhoden 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,-146,147,21,1,2.0,0.0,v
+S2425-G0184,4,00:39.100000,CHA,,IND,,J. Rhoden,CHA,Rhoden REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0184,4,00:25,CHA,,IND,,J. Rhoden,CHA,MISS Rhoden 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-55,89,10,1,2.0,0.0,h
+S2425-G0162,4,04:36,MIN,,CHA,,J. Rhoden,CHA,Rhoden REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0162,4,03:36,MIN,,CHA,,J. Rhoden,CHA,MISS Rhoden 26' 3PT Jump Shot,Missed Shot,Jump Shot,-162,200,26,1,3.0,0.0,v
+S2425-G0162,4,01:57,MIN,,CHA,,J. Rhoden,CHA,MISS Rhoden 2' Driving Layup,Missed Shot,Driving Layup Shot,11,15,2,1,2.0,0.0,v
+S2425-G0162,4,01:55,MIN,,CHA,,J. Rhoden,CHA,Rhoden REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0162,4,01:55,MIN,112.0,CHA,86.0,J. Rhoden,CHA,Rhoden Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2425-G0162,4,01:52,MIN,,CHA,,J. Rhoden,CHA,Rhoden Violation:Defensive Goaltending (C.Kirkland),Violation,Defensive Goaltending,0,0,0,0,,,v
+S2425-G0162,4,01:05,MIN,,CHA,,J. Rhoden,CHA,Rhoden STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0162,4,00:42.800000,MIN,114.0,CHA,91.0,J. Rhoden,CHA,Rhoden 8' Driving Floating Bank Jump Shot (4 PTS),Made Shot,Driving Floating Bank Jump Shot,33,69,8,1,2.0,2.0,v

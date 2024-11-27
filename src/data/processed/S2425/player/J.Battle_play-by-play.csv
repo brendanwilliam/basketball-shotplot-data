@@ -1,4 +1,14 @@
 game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0166,2,11:44,DEN,34.0,TOR,39.0,J. Battle,TOR,Battle 10' Driving Floating Jump Shot (2 PTS) (Mogbo 1 AST),Made Shot,Driving Floating Jump Shot,-16,100,10,1,2.0,2.0,v
+S2425-G0166,2,10:23,DEN,38.0,TOR,43.0,J. Battle,TOR,Battle 26' 3PT Running Jump Shot (5 PTS) (Mogbo 2 AST),Made Shot,Running Jump Shot,-228,116,26,1,3.0,3.0,v
+S2425-G0166,2,08:20,DEN,,TOR,,J. Battle,TOR,MISS Battle 2' Driving Layup,Missed Shot,Driving Layup Shot,-23,6,2,1,2.0,0.0,v
+S2425-G0166,2,07:39,DEN,,TOR,,J. Battle,TOR,SUB: Walter FOR Battle,Substitution,,0,0,0,0,,,v
+S2425-G0166,3,05:48,DEN,,TOR,,J. Battle,TOR,Battle REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0166,3,04:08,DEN,,TOR,,J. Battle,TOR,Battle REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0166,3,02:40,DEN,,TOR,,J. Battle,TOR,MISS Battle 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,234,124,26,1,3.0,0.0,v
+S2425-G0166,3,02:34,DEN,,TOR,,J. Battle,TOR,Battle L.B.FOUL (P1.PN) (M.Ervin),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0166,3,01:16,DEN,,TOR,,J. Battle,TOR,MISS Battle 24' 3PT Jump Shot,Missed Shot,Jump Shot,229,71,24,1,3.0,0.0,v
+S2425-G0166,3,00:50.600000,DEN,,TOR,,J. Battle,TOR,MISS Battle 24' 3PT Jump Shot,Missed Shot,Jump Shot,237,30,24,1,3.0,0.0,v
 S2425-G0078,1,04:56,TOR,,PHI,,J. Battle,TOR,Battle P.FOUL (P1.T3) (T.Mirkovich),Foul,Personal,0,0,0,0,,,h
 S2425-G0078,1,04:38,TOR,23.0,PHI,17.0,J. Battle,TOR,Battle 1' Cutting Layup Shot (2 PTS) (Pöltl 1 AST),Made Shot,Cutting Layup Shot,5,11,1,1,2.0,2.0,h
 S2425-G0078,1,04:22,TOR,,PHI,,J. Battle,TOR,Battle S.FOUL (P2.T4) (T.Brothers),Foul,Shooting,0,0,0,0,,,h
@@ -35,6 +45,13 @@ S2425-G0107,3,02:03,TOR,,DEN,,J. Battle,TOR,MISS Battle 24' 3PT Running Pull-Up 
 S2425-G0107,3,01:09,TOR,,DEN,,J. Battle,TOR,SUB: Barrett FOR Battle,Substitution,,0,0,0,0,,,h
 S2425-G0107,4,11:06,TOR,,DEN,,J. Battle,TOR,MISS Battle 24' 3PT Jump Shot,Missed Shot,Jump Shot,238,35,24,1,3.0,0.0,h
 S2425-G0107,4,09:32,TOR,,DEN,,J. Battle,TOR,SUB: Agbaji FOR Battle,Substitution,,0,0,0,0,,,h
+S2425-G0005,2,09:39,MIL,,TOR,,J. Battle,TOR,MISS Battle 1' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,1,6,1,1,2.0,0.0,v
+S2425-G0005,2,08:13,MIL,,TOR,,J. Battle,TOR,SUB: Mitchell FOR Battle,Substitution,,0,0,0,0,,,v
+S2425-G0005,4,09:10,MIL,88.0,TOR,69.0,J. Battle,TOR,Battle 4' Layup (2 PTS) (Mitchell 7 AST),Made Shot,Layup Shot,-39,12,4,1,2.0,2.0,v
+S2425-G0005,4,07:56,MIL,,TOR,,J. Battle,TOR,Battle REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0005,4,06:19,MIL,,TOR,,J. Battle,TOR,SUB: Barrett FOR Battle,Substitution,,0,0,0,0,,,v
+S2425-G0005,4,01:38,MIL,96.0,TOR,83.0,J. Battle,TOR,Battle 1' Reverse Layup (4 PTS) (Fernando 2 AST),Made Shot,Reverse Layup Shot,-6,8,1,1,2.0,2.0,v
+S2425-G0005,4,01:08,MIL,,TOR,,J. Battle,TOR,MISS Battle 2' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,12,15,2,1,2.0,0.0,v
 S2425-G0117,1,01:10,CHA,,TOR,,J. Battle,TOR,MISS Battle 27' 3PT Jump Shot,Missed Shot,Jump Shot,39,270,27,1,3.0,0.0,v
 S2425-G0117,2,09:36,CHA,,TOR,,J. Battle,TOR,MISS Battle 27' 3PT Jump Shot,Missed Shot,Jump Shot,29,264,27,1,3.0,0.0,v
 S2425-G0117,2,08:22,CHA,,TOR,,J. Battle,TOR,SUB: Boucher FOR Battle,Substitution,,0,0,0,0,,,v
@@ -45,6 +62,14 @@ S2425-G0117,3,01:02,CHA,,TOR,,J. Battle,TOR,SUB: Mitchell FOR Battle,Substitutio
 S2425-G0117,4,08:35,CHA,,TOR,,J. Battle,TOR,Battle REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
 S2425-G0117,4,08:12,CHA,,TOR,,J. Battle,TOR,Battle P.FOUL (P2.T3) (P.O'Connell),Foul,Personal,0,0,0,0,,,v
 S2425-G0117,4,05:32,CHA,,TOR,,J. Battle,TOR,SUB: Shead FOR Battle,Substitution,,0,0,0,0,,,v
+S2425-G0011,2,10:38,TOR,30.0,DET,35.0,J. Battle,TOR,Battle 27' 3PT Jump Shot (3 PTS) (Pöltl 3 AST),Made Shot,Jump Shot,-185,190,27,1,3.0,3.0,h
+S2425-G0011,2,10:22,TOR,,DET,,J. Battle,TOR,SUB: Barrett FOR Battle,Substitution,,0,0,0,0,,,h
+S2425-G0011,3,01:03,TOR,78.0,DET,71.0,J. Battle,TOR,Battle 26' 3PT Jump Shot (6 PTS) (Boucher 1 AST),Made Shot,Jump Shot,170,197,26,1,3.0,3.0,h
+S2425-G0011,4,09:39,TOR,,DET,,J. Battle,TOR,Battle REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0011,4,09:28,TOR,,DET,,J. Battle,TOR,MISS Battle 24' 3PT Jump Shot,Missed Shot,Jump Shot,235,36,24,1,3.0,0.0,h
+S2425-G0011,4,08:22,TOR,85.0,DET,84.0,J. Battle,TOR,Battle 3PT Step Back Jump Shot (9 PTS) (Barrett 6 AST),Made Shot,Step Back Jump shot,-234,21,0,1,3.0,3.0,h
+S2425-G0011,4,05:25,TOR,,DET,,J. Battle,TOR,SUB: Barrett FOR Battle,Substitution,,0,0,0,0,,,h
+S2425-G0011,4,00:07.900000,TOR,,DET,,J. Battle,TOR,SUB: Mitchell FOR Battle,Substitution,,0,0,0,0,,,h
 S2425-G0093,1,03:17,MIN,,TOR,,J. Battle,TOR,Battle REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
 S2425-G0093,1,00:42.300000,MIN,29.0,TOR,15.0,J. Battle,TOR,Battle Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
 S2425-G0093,1,00:42.300000,MIN,29.0,TOR,16.0,J. Battle,TOR,Battle Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
@@ -72,3 +97,44 @@ S2425-G0067,4,07:50,TOR,,CLE,,J. Battle,TOR,Battle REBOUND (Off:0 Def:2),Rebound
 S2425-G0067,4,07:27,TOR,,CLE,,J. Battle,TOR,Battle P.FOUL (P1.T3) (M.Davis),Foul,Personal,0,0,0,0,,,h
 S2425-G0067,4,07:18,TOR,90.0,CLE,116.0,J. Battle,TOR,Battle 26' 3PT Running Jump Shot (3 PTS) (Shead 4 AST),Made Shot,Running Jump Shot,-185,176,26,1,3.0,3.0,h
 S2425-G0067,4,05:31,TOR,93.0,CLE,123.0,J. Battle,TOR,Battle 25' 3PT Jump Shot (6 PTS) (Temple 1 AST),Made Shot,Jump Shot,-168,185,25,1,3.0,3.0,h
+S2425-G0180,1,05:39,SAC,,TOR,,J. Battle,TOR,Battle S.FOUL (P1.T3) (N.Sago),Foul,Shooting,0,0,0,0,,,v
+S2425-G0180,1,04:18,SAC,,TOR,,J. Battle,TOR,MISS Battle 24' 3PT Jump Shot,Missed Shot,Jump Shot,-140,198,24,1,3.0,0.0,v
+S2425-G0180,1,04:10,SAC,,TOR,,J. Battle,TOR,MISS Battle 3PT Jump Shot,Missed Shot,Jump Shot,-233,-20,0,1,3.0,0.0,v
+S2425-G0180,1,02:55,SAC,,TOR,,J. Battle,TOR,Battle REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0180,1,02:51,SAC,,TOR,,J. Battle,TOR,MISS Battle 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-127,216,25,1,3.0,0.0,v
+S2425-G0180,1,02:10,SAC,,TOR,,J. Battle,TOR,Battle Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0180,1,01:22,SAC,,TOR,,J. Battle,TOR,SUB: Mogbo FOR Battle,Substitution,,0,0,0,0,,,v
+S2425-G0180,2,06:15,SAC,,TOR,,J. Battle,TOR,MISS Battle 12' Floating Jump Shot,Missed Shot,Floating Jump shot,-56,111,12,1,2.0,0.0,v
+S2425-G0180,2,05:08,SAC,,TOR,,J. Battle,TOR,Battle S.FOUL (P2.T4) (E.Malloy),Foul,Shooting,0,0,0,0,,,v
+S2425-G0180,2,05:08,SAC,,TOR,,J. Battle,TOR,SUB: Barrett FOR Battle,Substitution,,0,0,0,0,,,v
+S2425-G0180,3,07:45,SAC,66.0,TOR,71.0,J. Battle,TOR,Battle 3PT Jump Shot (3 PTS) (Agbaji 1 AST),Made Shot,Jump Shot,225,25,0,1,3.0,3.0,v
+S2425-G0180,3,06:11,SAC,,TOR,,J. Battle,TOR,Battle REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0180,3,05:56,SAC,,TOR,,J. Battle,TOR,Battle S.FOUL (P3.PN) (N.Sago),Foul,Shooting,0,0,0,0,,,v
+S2425-G0180,3,05:35,SAC,,TOR,,J. Battle,TOR,Battle Bad Pass Turnover (P2.T8),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0180,3,05:31,SAC,,TOR,,J. Battle,TOR,SUB: Boucher FOR Battle,Substitution,,0,0,0,0,,,v
+S2425-G0180,3,00:57.300000,SAC,87.0,TOR,92.0,J. Battle,TOR,Battle 25' 3PT Jump Shot (6 PTS) (Barrett 2 AST),Made Shot,Jump Shot,-86,236,25,1,3.0,3.0,v
+S2425-G0180,3,00:09.800000,SAC,,TOR,,J. Battle,TOR,SUB: Agbaji FOR Battle,Substitution,,0,0,0,0,,,v
+S2425-G0180,4,09:00,SAC,,TOR,,J. Battle,TOR,MISS Battle 17' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,-50,163,17,1,2.0,0.0,v
+S2425-G0180,4,08:12,SAC,,TOR,,J. Battle,TOR,Battle S.FOUL (P4.T2) (E.Malloy),Foul,Shooting,0,0,0,0,,,v
+S2425-G0180,4,08:12,SAC,,TOR,,J. Battle,TOR,SUB: Mitchell FOR Battle,Substitution,,0,0,0,0,,,v
+S2425-G0143,1,04:07,TOR,20.0,SAC,18.0,J. Battle,TOR,Battle 27' 3PT Step Back Jump Shot (3 PTS),Made Shot,Step Back Jump shot,-172,207,27,1,3.0,3.0,h
+S2425-G0143,1,01:46,TOR,30.0,SAC,24.0,J. Battle,TOR,Battle 26' 3PT Jump Shot (6 PTS) (Shead 2 AST),Made Shot,Jump Shot,96,246,26,1,3.0,3.0,h
+S2425-G0143,2,08:51,TOR,,SAC,,J. Battle,TOR,SUB: Dick FOR Battle,Substitution,,0,0,0,0,,,h
+S2425-G0143,3,03:14,TOR,88.0,SAC,81.0,J. Battle,TOR,Battle 25' 3PT Jump Shot (9 PTS) (Shead 5 AST),Made Shot,Jump Shot,-107,230,25,1,3.0,3.0,h
+S2425-G0143,3,02:51,TOR,,SAC,,J. Battle,TOR,MISS Battle 3PT Jump Shot,Missed Shot,Jump Shot,-227,-10,0,1,3.0,0.0,h
+S2425-G0143,3,01:50,TOR,,SAC,,J. Battle,TOR,MISS Battle 24' 3PT Jump Shot,Missed Shot,Jump Shot,239,8,24,1,3.0,0.0,h
+S2425-G0143,3,01:47,TOR,,SAC,,J. Battle,TOR,Battle REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0143,4,09:17,TOR,,SAC,,J. Battle,TOR,MISS Battle 30' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,104,282,30,1,3.0,0.0,h
+S2425-G0143,4,08:56,TOR,,SAC,,J. Battle,TOR,SUB: Dick FOR Battle,Substitution,,0,0,0,0,,,h
+S2425-G0200,1,01:53,LAC,,TOR,,J. Battle,TOR,MISS Battle 26' 3PT Jump Shot,Missed Shot,Jump Shot,-188,183,26,1,3.0,0.0,v
+S2425-G0200,1,01:36,LAC,,TOR,,J. Battle,TOR,Battle P.FOUL (P1.T4) (N.Buchert),Foul,Personal,0,0,0,0,,,v
+S2425-G0200,2,05:49,LAC,45.0,TOR,34.0,J. Battle,TOR,Battle 3PT Jump Shot (3 PTS) (Agbaji 1 AST),Made Shot,Jump Shot,-229,29,0,1,3.0,3.0,v
+S2425-G0200,2,02:16,LAC,,TOR,,J. Battle,TOR,SUB: Barrett FOR Battle,Substitution,,0,0,0,0,,,v
+S2425-G0200,3,03:52,LAC,,TOR,,J. Battle,TOR,MISS Battle 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,-234,68,24,1,3.0,0.0,v
+S2425-G0200,3,02:54,LAC,,TOR,,J. Battle,TOR,MISS Battle 25' 3PT Jump Shot,Missed Shot,Jump Shot,-200,155,25,1,3.0,0.0,v
+S2425-G0200,3,02:18,LAC,,TOR,,J. Battle,TOR,Battle S.FOUL (P2.T4) (N.Buchert),Foul,Shooting,0,0,0,0,,,v
+S2425-G0200,3,00:06.700000,LAC,,TOR,,J. Battle,TOR,SUB: Mitchell FOR Battle,Substitution,,0,0,0,0,,,v
+S2425-G0200,4,11:13,LAC,,TOR,,J. Battle,TOR,Battle REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0200,4,10:47,LAC,,TOR,,J. Battle,TOR,Battle REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0200,4,10:22,LAC,,TOR,,J. Battle,TOR,MISS Battle 3PT Jump Shot,Missed Shot,Jump Shot,-223,-11,0,1,3.0,0.0,v
+S2425-G0200,4,10:10,LAC,,TOR,,J. Battle,TOR,SUB: Agbaji FOR Battle,Substitution,,0,0,0,0,,,v

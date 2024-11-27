@@ -1,3 +1,154 @@
 game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0170,1,10:15,IND,,ORL,,T. da Silva,ORL,MISS da Silva 2' Cutting Finger Roll Layup Shot,Missed Shot,Cutting Finger Roll Layup Shot,17,11,2,1,2.0,0.0,v
+S2425-G0170,1,07:03,IND,,ORL,,T. da Silva,ORL,da Silva S.FOUL (P1.T3) (C.Kirkland),Foul,Shooting,0,0,0,0,,,v
+S2425-G0170,1,06:31,IND,,ORL,,T. da Silva,ORL,MISS da Silva 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-203,140,25,1,3.0,0.0,v
+S2425-G0170,1,05:54,IND,,ORL,,T. da Silva,ORL,SUB: Howard FOR da Silva,Substitution,,0,0,0,0,,,v
+S2425-G0170,2,11:43,IND,,ORL,,T. da Silva,ORL,da Silva S.FOUL (P2.T1) (B.Schwab),Foul,Shooting,0,0,0,0,,,v
+S2425-G0170,2,11:06,IND,,ORL,,T. da Silva,ORL,da Silva Bad Pass Turnover (P1.T4),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0170,2,10:26,IND,,ORL,,T. da Silva,ORL,SUB: F. Wagner FOR da Silva,Substitution,,0,0,0,0,,,v
+S2425-G0170,2,03:26,IND,,ORL,,T. da Silva,ORL,da Silva S.FOUL (P3.T3) (D.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2425-G0170,2,00:59.900000,IND,,ORL,,T. da Silva,ORL,SUB: Black FOR da Silva,Substitution,,0,0,0,0,,,v
+S2425-G0170,3,06:44,IND,72.0,ORL,68.0,T. da Silva,ORL,da Silva 25' 3PT Jump Shot (3 PTS) (Bitadze 2 AST),Made Shot,Jump Shot,-240,59,25,1,3.0,3.0,v
+S2425-G0170,3,06:07,IND,74.0,ORL,70.0,T. da Silva,ORL,da Silva 2' Driving Finger Roll Layup (5 PTS) (M. Wagner 1 AST),Made Shot,Driving Finger Roll Layup Shot,17,12,2,1,2.0,2.0,v
+S2425-G0170,3,03:15,IND,,ORL,,T. da Silva,ORL,SUB: Isaac FOR da Silva,Substitution,,0,0,0,0,,,v
+S2425-G0170,4,05:42,IND,,ORL,,T. da Silva,ORL,SUB: Black FOR da Silva,Substitution,,0,0,0,0,,,v
+S2425-G0003,1,05:25,ORL,,CHA,,T. da Silva,ORL,SUB: Black FOR da Silva,Substitution,,0,0,0,0,,,h
+S2425-G0003,2,08:35,ORL,,CHA,,T. da Silva,ORL,da Silva REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0003,2,06:11,ORL,,CHA,,T. da Silva,ORL,MISS da Silva 25' 3PT Jump Shot,Missed Shot,Jump Shot,229,93,25,1,3.0,0.0,h
+S2425-G0003,2,05:52,ORL,,CHA,,T. da Silva,ORL,da Silva REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0003,2,03:55,ORL,,CHA,,T. da Silva,ORL,da Silva P.FOUL (P1.PN) (T.Washington),Foul,Personal,0,0,0,0,,,h
+S2425-G0003,2,03:26,ORL,,CHA,,T. da Silva,ORL,da Silva REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0003,2,02:50,ORL,,CHA,,T. da Silva,ORL,da Silva BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0003,3,09:25,ORL,,CHA,,T. da Silva,ORL,da Silva REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0003,3,08:04,ORL,,CHA,,T. da Silva,ORL,da Silva REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0003,3,08:03,ORL,67.0,CHA,55.0,T. da Silva,ORL,da Silva 5' Turnaround Hook Shot (2 PTS),Made Shot,Turnaround Hook Shot,-32,38,5,1,2.0,2.0,h
+S2425-G0003,3,07:29,ORL,,CHA,,T. da Silva,ORL,MISS da Silva 26' 3PT Jump Shot,Missed Shot,Jump Shot,183,180,26,1,3.0,0.0,h
+S2425-G0003,3,05:06,ORL,,CHA,,T. da Silva,ORL,SUB: Black FOR da Silva,Substitution,,0,0,0,0,,,h
+S2425-G0003,4,09:17,ORL,,CHA,,T. da Silva,ORL,da Silva BLOCK (2 BLK),,,0,0,0,0,,,h
+S2425-G0003,4,08:19,ORL,98.0,CHA,68.0,T. da Silva,ORL,da Silva 24' 3PT Jump Shot (5 PTS) (Suggs 4 AST),Made Shot,Jump Shot,-234,33,24,1,3.0,3.0,h
+S2425-G0003,4,07:35,ORL,,CHA,,T. da Silva,ORL,MISS da Silva 5' Driving Layup,Missed Shot,Driving Layup Shot,-25,41,5,1,2.0,0.0,h
+S2425-G0003,4,06:51,ORL,,CHA,,T. da Silva,ORL,MISS da Silva 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-233,36,24,1,3.0,0.0,h
+S2425-G0003,4,02:15,ORL,,CHA,,T. da Silva,ORL,da Silva REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0003,4,01:58,ORL,,CHA,,T. da Silva,ORL,SUB: Queen FOR da Silva,Substitution,,0,0,0,0,,,h
+S2425-G0204,1,08:05,ORL,10.0,WAS,8.0,T. da Silva,ORL,da Silva 3PT Jump Shot (3 PTS) (Caldwell-Pope 2 AST),Made Shot,Jump Shot,230,6,0,1,3.0,3.0,h
+S2425-G0204,1,07:27,ORL,,WAS,,T. da Silva,ORL,MISS da Silva 1' Driving Layup,Missed Shot,Driving Layup Shot,10,6,1,1,2.0,0.0,h
+S2425-G0204,1,06:32,ORL,,WAS,,T. da Silva,ORL,da Silva STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0204,1,04:15,ORL,,WAS,,T. da Silva,ORL,SUB: Isaac FOR da Silva,Substitution,,0,0,0,0,,,h
+S2425-G0204,2,05:14,ORL,47.0,WAS,40.0,T. da Silva,ORL,da Silva 24' 3PT Jump Shot (6 PTS) (F. Wagner 4 AST),Made Shot,Jump Shot,189,155,24,1,3.0,3.0,h
+S2425-G0204,2,03:49,ORL,54.0,WAS,40.0,T. da Silva,ORL,da Silva 6' Driving Floating Bank Jump Shot (8 PTS) (Caldwell-Pope 3 AST),Made Shot,Driving Floating Bank Jump Shot,49,38,6,1,2.0,2.0,h
+S2425-G0204,2,01:15,ORL,,WAS,,T. da Silva,ORL,MISS da Silva 3PT Jump Shot,Missed Shot,Jump Shot,-227,37,0,1,3.0,0.0,h
+S2425-G0204,3,11:05,ORL,,WAS,,T. da Silva,ORL,MISS da Silva 3PT Jump Shot,Missed Shot,Jump Shot,-225,63,0,1,3.0,0.0,h
+S2425-G0204,3,11:01,ORL,,WAS,,T. da Silva,ORL,da Silva STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0204,3,10:55,ORL,63.0,WAS,56.0,T. da Silva,ORL,da Silva 2' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,-13,21,2,1,2.0,2.0,h
+S2425-G0204,3,08:41,ORL,66.0,WAS,60.0,T. da Silva,ORL,da Silva Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2425-G0204,3,06:44,ORL,,WAS,,T. da Silva,ORL,da Silva REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0204,3,04:50,ORL,,WAS,,T. da Silva,ORL,da Silva Offensive Charge Foul (P1) (B.Barnaky),Foul,Offensive Charge,0,0,0,0,,,h
+S2425-G0204,3,04:50,ORL,,WAS,,T. da Silva,ORL,da Silva Offensive Foul Turnover (P1.T7),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0204,3,04:50,ORL,,WAS,,T. da Silva,ORL,SUB: M. Wagner FOR da Silva,Substitution,,0,0,0,0,,,h
+S2425-G0204,4,05:53,ORL,,WAS,,T. da Silva,ORL,da Silva REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0204,4,05:29,ORL,,WAS,,T. da Silva,ORL,da Silva S.FOUL (P2.T4) (M.Kallio),Foul,Shooting,0,0,0,0,,,h
+S2425-G0204,4,04:57,ORL,,WAS,,T. da Silva,ORL,da Silva REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0204,4,04:49,ORL,,WAS,,T. da Silva,ORL,MISS da Silva 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,-206,170,27,1,3.0,0.0,h
+S2425-G0204,4,01:54,ORL,,WAS,,T. da Silva,ORL,MISS da Silva 8' Driving Layup,Missed Shot,Driving Layup Shot,-71,43,8,1,2.0,0.0,h
+S2425-G0204,4,01:54,ORL,,WAS,,T. da Silva,ORL,da Silva REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0204,4,01:36,ORL,,WAS,,T. da Silva,ORL,da Silva S.FOUL (P3.PN) (M.Kallio),Foul,Shooting,0,0,0,0,,,h
+S2425-G0204,4,01:29,ORL,,WAS,,T. da Silva,ORL,da Silva S.FOUL (P4.PN) (B.Barnaky),Foul,Shooting,0,0,0,0,,,h
+S2425-G0204,4,01:16,ORL,,WAS,,T. da Silva,ORL,da Silva OFF.Foul (P5) (G.Petraitis),Foul,Offensive,0,0,0,0,,,h
+S2425-G0204,4,01:16,ORL,,WAS,,T. da Silva,ORL,da Silva Offensive Foul Turnover (P2.T11),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
 S2425-G0065,4,02:26,MIA,,ORL,,T. da Silva,ORL,da Silva Bad Pass Turnover (P1.T11),Turnover,Bad Pass,0,0,0,0,,,v
 S2425-G0065,4,01:34,MIA,,ORL,,T. da Silva,ORL,MISS da Silva 3PT Jump Shot,Missed Shot,Jump Shot,234,0,0,1,3.0,0.0,v
+S2425-G0163,1,10:10,OKC,8.0,ORL,4.0,T. da Silva,ORL,da Silva 2' Running Alley Oop Dunk Shot (2 PTS) (Bitadze 1 AST),Made Shot,Running Alley Oop Dunk Shot,-17,13,2,1,2.0,2.0,v
+S2425-G0163,1,07:26,OKC,18.0,ORL,12.0,T. da Silva,ORL,da Silva 2' Cutting Layup Shot (4 PTS) (Suggs 1 AST),Made Shot,Cutting Layup Shot,-16,6,2,1,2.0,2.0,v
+S2425-G0163,1,06:43,OKC,,ORL,,T. da Silva,ORL,MISS da Silva 25' 3PT Jump Shot,Missed Shot,Jump Shot,199,158,25,1,3.0,0.0,v
+S2425-G0163,1,06:26,OKC,,ORL,,T. da Silva,ORL,MISS da Silva 1' Running Layup,Missed Shot,Running Layup Shot,4,4,1,1,2.0,0.0,v
+S2425-G0163,1,05:32,OKC,22.0,ORL,14.0,T. da Silva,ORL,da Silva 2' Cutting Dunk Shot (6 PTS) (F. Wagner 1 AST),Made Shot,Cutting Dunk Shot,-7,17,2,1,2.0,2.0,v
+S2425-G0163,1,04:20,OKC,,ORL,,T. da Silva,ORL,SUB: Isaac FOR da Silva,Substitution,,0,0,0,0,,,v
+S2425-G0163,2,09:02,OKC,,ORL,,T. da Silva,ORL,MISS da Silva 4' Layup,Missed Shot,Layup Shot,-1,36,4,1,2.0,0.0,v
+S2425-G0163,2,08:54,OKC,,ORL,,T. da Silva,ORL,MISS da Silva 3' Layup,Missed Shot,Layup Shot,-21,16,3,1,2.0,0.0,v
+S2425-G0163,2,06:39,OKC,,ORL,,T. da Silva,ORL,MISS da Silva 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,184,169,25,1,3.0,0.0,v
+S2425-G0163,2,03:27,OKC,,ORL,,T. da Silva,ORL,MISS da Silva 3PT Jump Shot,Missed Shot,Jump Shot,-234,-19,0,1,3.0,0.0,v
+S2425-G0163,2,03:12,OKC,,ORL,,T. da Silva,ORL,da Silva REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0163,2,02:26,OKC,,ORL,,T. da Silva,ORL,da Silva S.FOUL (P1.T2) (A.Nagy),Foul,Shooting,0,0,0,0,,,v
+S2425-G0163,2,00:05.900000,OKC,,ORL,,T. da Silva,ORL,da Silva P.FOUL (P2.T3) (B.Kennedy),Foul,Personal,0,0,0,0,,,v
+S2425-G0163,2,00:05.900000,OKC,,ORL,,T. da Silva,ORL,SUB: Isaac FOR da Silva,Substitution,,0,0,0,0,,,v
+S2425-G0163,3,10:13,OKC,60.0,ORL,46.0,T. da Silva,ORL,da Silva 24' 3PT Jump Shot (9 PTS) (Caldwell-Pope 1 AST),Made Shot,Jump Shot,234,46,24,1,3.0,3.0,v
+S2425-G0163,3,09:58,OKC,,ORL,,T. da Silva,ORL,da Silva REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0163,3,08:17,OKC,,ORL,,T. da Silva,ORL,MISS da Silva 3' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,28,16,3,1,2.0,0.0,v
+S2425-G0163,3,06:26,OKC,,ORL,,T. da Silva,ORL,MISS da Silva 3' Running Layup,Missed Shot,Running Layup Shot,27,3,3,1,2.0,0.0,v
+S2425-G0163,3,04:53,OKC,,ORL,,T. da Silva,ORL,da Silva Lost Ball Turnover (P1.T10),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0163,3,04:53,OKC,,ORL,,T. da Silva,ORL,da Silva Violation:Kicked Ball (B.Kennedy),Violation,Kicked Ball,0,0,0,0,,,v
+S2425-G0163,3,04:53,OKC,,ORL,,T. da Silva,ORL,SUB: Isaac FOR da Silva,Substitution,,0,0,0,0,,,v
+S2425-G0163,4,07:08,OKC,,ORL,,T. da Silva,ORL,da Silva REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0163,4,03:13,OKC,,ORL,,T. da Silva,ORL,SUB: Howard FOR da Silva,Substitution,,0,0,0,0,,,v
+S2425-G0010,1,10:16,ORL,,PHI,,T. da Silva,ORL,da Silva REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0010,1,09:36,ORL,,PHI,,T. da Silva,ORL,MISS da Silva 3PT Jump Shot,Missed Shot,Jump Shot,230,1,0,1,3.0,0.0,h
+S2425-G0010,1,09:30,ORL,,PHI,,T. da Silva,ORL,da Silva REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0010,1,08:37,ORL,,PHI,,T. da Silva,ORL,MISS da Silva 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-217,124,25,1,3.0,0.0,h
+S2425-G0010,1,05:48,ORL,,PHI,,T. da Silva,ORL,da Silva REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0010,1,05:10,ORL,17.0,PHI,15.0,T. da Silva,ORL,da Silva 13' Turnaround Jump Shot (2 PTS) (F. Wagner 1 AST),Made Shot,Turnaround Jump Shot,55,122,13,1,2.0,2.0,h
+S2425-G0010,1,04:53,ORL,,PHI,,T. da Silva,ORL,SUB: Isaac FOR da Silva,Substitution,,0,0,0,0,,,h
+S2425-G0010,2,04:04,ORL,,PHI,,T. da Silva,ORL,SUB: Isaac FOR da Silva,Substitution,,0,0,0,0,,,h
+S2425-G0010,3,08:00,ORL,,PHI,,T. da Silva,ORL,MISS da Silva 3PT Jump Shot,Missed Shot,Jump Shot,-233,-5,0,1,3.0,0.0,h
+S2425-G0010,3,06:46,ORL,53.0,PHI,59.0,T. da Silva,ORL,da Silva 3' Running Dunk (4 PTS) (Suggs 2 AST),Made Shot,Running Dunk Shot,-28,13,3,1,2.0,2.0,h
+S2425-G0010,3,05:37,ORL,,PHI,,T. da Silva,ORL,da Silva STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0010,3,05:18,ORL,57.0,PHI,62.0,T. da Silva,ORL,da Silva Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0010,3,05:18,ORL,58.0,PHI,62.0,T. da Silva,ORL,da Silva Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0010,3,04:35,ORL,,PHI,,T. da Silva,ORL,da Silva S.FOUL (P1.T4) (N.Buchert),Foul,Shooting,0,0,0,0,,,h
+S2425-G0010,3,04:14,ORL,,PHI,,T. da Silva,ORL,SUB: Isaac FOR da Silva,Substitution,,0,0,0,0,,,h
+S2425-G0133,1,03:50,CLE,24.0,ORL,16.0,T. da Silva,ORL,da Silva 1' Cutting Layup Shot (2 PTS) (Black 3 AST),Made Shot,Cutting Layup Shot,-6,5,1,1,2.0,2.0,v
+S2425-G0133,1,01:14,CLE,,ORL,,T. da Silva,ORL,SUB: Suggs FOR da Silva,Substitution,,0,0,0,0,,,v
+S2425-G0133,2,08:23,CLE,39.0,ORL,24.0,T. da Silva,ORL,da Silva 24' 3PT Jump Shot (5 PTS) (F. Wagner 2 AST),Made Shot,Jump Shot,232,42,24,1,3.0,3.0,v
+S2425-G0133,2,07:08,CLE,,ORL,,T. da Silva,ORL,da Silva REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0133,2,06:28,CLE,44.0,ORL,31.0,T. da Silva,ORL,da Silva 24' 3PT Jump Shot (8 PTS) (Suggs 4 AST),Made Shot,Jump Shot,235,19,24,1,3.0,3.0,v
+S2425-G0133,2,04:27,CLE,,ORL,,T. da Silva,ORL,SUB: F. Wagner FOR da Silva,Substitution,,0,0,0,0,,,v
+S2425-G0133,3,06:37,CLE,,ORL,,T. da Silva,ORL,da Silva REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0133,3,06:37,CLE,,ORL,,T. da Silva,ORL,MISS da Silva Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0133,3,06:37,CLE,70.0,ORL,56.0,T. da Silva,ORL,da Silva Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0133,3,06:18,CLE,,ORL,,T. da Silva,ORL,da Silva S.FOUL (P1.T3) (T.Ford),Foul,Shooting,0,0,0,0,,,v
+S2425-G0133,3,05:50,CLE,,ORL,,T. da Silva,ORL,da Silva L.B.FOUL (P2.T4) (S.Mehta),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0133,4,03:29,CLE,113.0,ORL,98.0,T. da Silva,ORL,da Silva 28' 3PT Jump Shot (12 PTS) (Joseph 2 AST),Made Shot,Jump Shot,-142,247,28,1,3.0,3.0,v
+S2425-G0133,4,02:46,CLE,,ORL,,T. da Silva,ORL,MISS da Silva 13' Jump Shot,Missed Shot,Jump Shot,4,134,13,1,2.0,0.0,v
+S2425-G0133,4,02:19,CLE,,ORL,,T. da Silva,ORL,da Silva S.FOUL (P3.T3) (T.Ford),Foul,Shooting,0,0,0,0,,,v
+S2425-G0133,4,01:24,CLE,,ORL,,T. da Silva,ORL,da Silva REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0133,4,01:12,CLE,118.0,ORL,103.0,T. da Silva,ORL,da Silva 8' Driving Finger Roll Layup (14 PTS) (Anthony 2 AST),Made Shot,Driving Finger Roll Layup Shot,-77,28,8,1,2.0,2.0,v
+S2425-G0133,4,00:28.300000,CLE,,ORL,,T. da Silva,ORL,da Silva REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0133,4,00:23.700000,CLE,,ORL,,T. da Silva,ORL,MISS da Silva 4' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,25,33,4,1,2.0,0.0,v
+S2425-G0133,4,00:09.800000,CLE,,ORL,,T. da Silva,ORL,da Silva REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0133,4,00:09.800000,CLE,120.0,ORL,108.0,T. da Silva,ORL,da Silva 3' Putback Layup (16 PTS),Made Shot,Putback Layup Shot,-33,10,3,1,2.0,2.0,v
+S2425-G0133,4,00:09.800000,CLE,120.0,ORL,109.0,T. da Silva,ORL,da Silva Free Throw 1 of 1 (17 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,v
+S2425-G0186,1,09:59,ORL,8.0,NOP,2.0,T. da Silva,ORL,da Silva 2' Cutting Layup Shot (2 PTS) (F. Wagner 1 AST),Made Shot,Cutting Layup Shot,-12,16,2,1,2.0,2.0,h
+S2425-G0186,1,09:35,ORL,11.0,NOP,2.0,T. da Silva,ORL,da Silva 26' 3PT Running Jump Shot (5 PTS) (Caldwell-Pope 1 AST),Made Shot,Running Jump Shot,-197,162,26,1,3.0,3.0,h
+S2425-G0186,1,09:25,ORL,,NOP,,T. da Silva,ORL,da Silva S.FOUL (P1.T1) (P.Fraher),Foul,Shooting,0,0,0,0,,,h
+S2425-G0186,1,07:12,ORL,,NOP,,T. da Silva,ORL,MISS da Silva 3PT Jump Shot,Missed Shot,Jump Shot,228,41,0,1,3.0,0.0,h
+S2425-G0186,1,07:02,ORL,18.0,NOP,8.0,T. da Silva,ORL,da Silva 3' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,29,8,3,1,2.0,2.0,h
+S2425-G0186,1,05:48,ORL,,NOP,,T. da Silva,ORL,MISS da Silva 26' 3PT Jump Shot,Missed Shot,Jump Shot,31,258,26,1,3.0,0.0,h
+S2425-G0186,1,05:28,ORL,,NOP,,T. da Silva,ORL,da Silva REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0186,1,04:11,ORL,,NOP,,T. da Silva,ORL,da Silva REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0186,1,03:15,ORL,,NOP,,T. da Silva,ORL,SUB: Harris FOR da Silva,Substitution,,0,0,0,0,,,h
+S2425-G0186,2,06:07,ORL,,NOP,,T. da Silva,ORL,MISS da Silva 26' 3PT Jump Shot,Missed Shot,Jump Shot,196,164,26,1,3.0,0.0,h
+S2425-G0186,2,03:15,ORL,,NOP,,T. da Silva,ORL,MISS da Silva 3PT Jump Shot,Missed Shot,Jump Shot,-229,35,0,1,3.0,0.0,h
+S2425-G0186,2,00:33.800000,ORL,,NOP,,T. da Silva,ORL,MISS da Silva 3PT Jump Shot,Missed Shot,Jump Shot,229,18,0,1,3.0,0.0,h
+S2425-G0186,3,11:26,ORL,,NOP,,T. da Silva,ORL,MISS da Silva 18' Jump Shot,Missed Shot,Jump Shot,-1,177,18,1,2.0,0.0,h
+S2425-G0186,3,10:08,ORL,,NOP,,T. da Silva,ORL,MISS da Silva 26' 3PT Jump Shot,Missed Shot,Jump Shot,62,257,26,1,3.0,0.0,h
+S2425-G0186,3,06:35,ORL,,NOP,,T. da Silva,ORL,MISS da Silva 13' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,38,121,13,1,2.0,0.0,h
+S2425-G0186,3,05:40,ORL,,NOP,,T. da Silva,ORL,SUB: Black FOR da Silva,Substitution,,0,0,0,0,,,h
+S2425-G0186,4,00:51.800000,ORL,,NOP,,T. da Silva,ORL,da Silva REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0153,1,05:23,DAL,,ORL,,T. da Silva,ORL,SUB: Howard FOR da Silva,Substitution,,0,0,0,0,,,v
+S2425-G0153,1,01:02,DAL,,ORL,,T. da Silva,ORL,SUB: Isaac FOR da Silva,Substitution,,0,0,0,0,,,v
+S2425-G0153,2,09:47,DAL,,ORL,,T. da Silva,ORL,SUB: Carter Jr. FOR da Silva,Substitution,,0,0,0,0,,,v
+S2425-G0153,2,03:28,DAL,,ORL,,T. da Silva,ORL,da Silva REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0153,2,01:52,DAL,60.0,ORL,36.0,T. da Silva,ORL,da Silva 1' Running Dunk (2 PTS) (Suggs 1 AST),Made Shot,Running Dunk Shot,10,4,1,1,2.0,2.0,v
+S2425-G0153,2,00:36,DAL,,ORL,,T. da Silva,ORL,MISS da Silva 3PT Jump Shot,Missed Shot,Jump Shot,230,29,0,1,3.0,0.0,v
+S2425-G0153,3,11:05,DAL,,ORL,,T. da Silva,ORL,MISS da Silva 3PT Running Jump Shot,Missed Shot,Running Jump Shot,-229,-8,0,1,3.0,0.0,v
+S2425-G0153,3,09:54,DAL,,ORL,,T. da Silva,ORL,da Silva REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0153,3,05:14,DAL,,ORL,,T. da Silva,ORL,MISS da Silva 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,23,21,3,1,2.0,0.0,v
+S2425-G0153,3,04:38,DAL,,ORL,,T. da Silva,ORL,MISS da Silva 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,185,159,24,1,3.0,0.0,v
+S2425-G0153,3,02:52,DAL,,ORL,,T. da Silva,ORL,da Silva REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0153,3,02:22,DAL,,ORL,,T. da Silva,ORL,SUB: Suggs FOR da Silva,Substitution,,0,0,0,0,,,v
+S2425-G0153,4,06:18,DAL,101.0,ORL,76.0,T. da Silva,ORL,da Silva 24' 3PT Jump Shot (5 PTS) (Anthony 2 AST),Made Shot,Jump Shot,-227,64,24,1,3.0,3.0,v
+S2425-G0153,4,06:02,DAL,,ORL,,T. da Silva,ORL,da Silva REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0153,4,05:34,DAL,,ORL,,T. da Silva,ORL,da Silva REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0153,4,04:29,DAL,,ORL,,T. da Silva,ORL,da Silva BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0153,4,03:15,DAL,105.0,ORL,80.0,T. da Silva,ORL,da Silva Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0153,4,03:15,DAL,105.0,ORL,81.0,T. da Silva,ORL,da Silva Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0153,4,02:04,DAL,,ORL,,T. da Silva,ORL,MISS da Silva 4' Running Layup,Missed Shot,Running Layup Shot,-12,33,4,1,2.0,0.0,v

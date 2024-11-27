@@ -1,15 +1,165 @@
 game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0170,1,09:49,IND,,ORL,,G. Bitadze,ORL,Bitadze REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0170,1,09:32,IND,,ORL,,G. Bitadze,ORL,Bitadze S.FOUL (P1.T1) (C.Kirkland),Foul,Shooting,0,0,0,0,,,v
+S2425-G0170,1,08:51,IND,,ORL,,G. Bitadze,ORL,MISS Bitadze 27' 3PT Jump Shot,Missed Shot,Jump Shot,103,248,27,1,3.0,0.0,v
+S2425-G0170,1,08:02,IND,13.0,ORL,10.0,G. Bitadze,ORL,Bitadze 4' Cutting Layup Shot (2 PTS) (da Silva 1 AST),Made Shot,Cutting Layup Shot,-36,22,4,1,2.0,2.0,v
+S2425-G0170,1,07:26,IND,,ORL,,G. Bitadze,ORL,Bitadze REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0170,1,07:13,IND,15.0,ORL,12.0,G. Bitadze,ORL,Bitadze 4' Dunk (4 PTS) (F. Wagner 1 AST),Made Shot,Dunk Shot,-39,19,4,1,2.0,2.0,v
+S2425-G0170,1,06:36,IND,,ORL,,G. Bitadze,ORL,Bitadze REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0170,1,05:28,IND,,ORL,,G. Bitadze,ORL,Bitadze REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0170,1,05:15,IND,,ORL,,G. Bitadze,ORL,Bitadze REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0170,1,05:15,IND,,ORL,,G. Bitadze,ORL,MISS Bitadze Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2425-G0170,1,03:34,IND,,ORL,,G. Bitadze,ORL,SUB: M. Wagner FOR Bitadze,Substitution,,0,0,0,0,,,v
+S2425-G0170,2,09:26,IND,,ORL,,G. Bitadze,ORL,Bitadze REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0170,2,08:17,IND,,ORL,,G. Bitadze,ORL,Bitadze OFF.Foul (P2) (D.Taylor),Foul,Offensive,0,0,0,0,,,v
+S2425-G0170,2,08:17,IND,,ORL,,G. Bitadze,ORL,Bitadze Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0170,2,06:53,IND,,ORL,,G. Bitadze,ORL,Bitadze Lost Ball Turnover (P2.T6),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0170,2,06:46,IND,,ORL,,G. Bitadze,ORL,Bitadze REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0170,2,06:26,IND,,ORL,,G. Bitadze,ORL,Bitadze REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0170,2,06:06,IND,,ORL,,G. Bitadze,ORL,Bitadze REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0170,2,05:26,IND,,ORL,,G. Bitadze,ORL,Bitadze BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0170,2,04:26,IND,,ORL,,G. Bitadze,ORL,Bitadze BLOCK (2 BLK),,,0,0,0,0,,,v
+S2425-G0170,2,04:26,IND,,ORL,,G. Bitadze,ORL,Bitadze REBOUND (Off:3 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0170,2,04:09,IND,,ORL,,G. Bitadze,ORL,Bitadze STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0170,2,04:04,IND,51.0,ORL,49.0,G. Bitadze,ORL,Bitadze 1' Running Alley Oop Dunk Shot (6 PTS) (Suggs 4 AST),Made Shot,Running Alley Oop Dunk Shot,7,-4,1,1,2.0,2.0,v
+S2425-G0170,2,00:56.800000,IND,,ORL,,G. Bitadze,ORL,MISS Bitadze 3' Layup,Missed Shot,Layup Shot,-10,32,3,1,2.0,0.0,v
+S2425-G0170,3,11:13,IND,,ORL,,G. Bitadze,ORL,Bitadze REBOUND (Off:4 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0170,3,11:13,IND,63.0,ORL,59.0,G. Bitadze,ORL,Bitadze Putback Layup (8 PTS),Made Shot,Putback Layup Shot,0,0,0,1,2.0,2.0,v
+S2425-G0170,3,09:56,IND,,ORL,,G. Bitadze,ORL,MISS Bitadze 3PT Jump Shot,Missed Shot,Jump Shot,-229,8,0,1,3.0,0.0,v
+S2425-G0170,3,09:24,IND,65.0,ORL,63.0,G. Bitadze,ORL,Bitadze 5' Hook Shot (10 PTS) (Suggs 5 AST),Made Shot,Hook Shot,38,39,5,1,2.0,2.0,v
+S2425-G0170,3,09:10,IND,,ORL,,G. Bitadze,ORL,Bitadze S.FOUL (P3.T2) (C.Kirkland),Foul,Shooting,0,0,0,0,,,v
+S2425-G0170,3,08:49,IND,,ORL,,G. Bitadze,ORL,MISS Bitadze 5' Hook Shot,Missed Shot,Hook Shot,-1,49,5,1,2.0,0.0,v
+S2425-G0170,3,07:02,IND,,ORL,,G. Bitadze,ORL,Bitadze S.FOUL (P4.T4) (D.Taylor),Foul,Shooting,0,0,0,0,,,v
+S2425-G0170,3,07:01,IND,,ORL,,G. Bitadze,ORL,Bitadze REBOUND (Off:4 Def:8),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0170,3,06:17,IND,,ORL,,G. Bitadze,ORL,SUB: M. Wagner FOR Bitadze,Substitution,,0,0,0,0,,,v
+S2425-G0170,4,04:03,IND,,ORL,,G. Bitadze,ORL,Bitadze BLOCK (3 BLK),,,0,0,0,0,,,v
+S2425-G0170,4,03:50,IND,,ORL,,G. Bitadze,ORL,Bitadze P.FOUL (P5.T2) (D.Taylor),Foul,Personal,0,0,0,0,,,v
+S2425-G0170,4,03:50,IND,,ORL,,G. Bitadze,ORL,SUB: Isaac FOR Bitadze,Substitution,,0,0,0,0,,,v
+S2425-G0170,4,00:16.300000,IND,,ORL,,G. Bitadze,ORL,SUB: Isaac FOR Bitadze,Substitution,,0,0,0,0,,,v
+S2425-G0003,1,12:00,ORL,,CHA,,G. Bitadze,ORL,Jump Ball Bitadze vs. Gibson: Tip to Suggs,Jump Ball,,0,0,0,0,,,h
+S2425-G0003,1,11:11,ORL,3.0,CHA,2.0,G. Bitadze,ORL,Bitadze Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0003,1,11:11,ORL,,CHA,,G. Bitadze,ORL,MISS Bitadze Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0003,1,09:24,ORL,,CHA,,G. Bitadze,ORL,Bitadze BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0003,1,07:23,ORL,15.0,CHA,14.0,G. Bitadze,ORL,Bitadze 1' Alley Oop Dunk (3 PTS) (F. Wagner 1 AST),Made Shot,Alley Oop Dunk Shot,0,5,1,1,2.0,2.0,h
+S2425-G0003,1,05:36,ORL,,CHA,,G. Bitadze,ORL,Bitadze REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0003,1,04:32,ORL,,CHA,,G. Bitadze,ORL,MISS Bitadze 26' 3PT Jump Shot,Missed Shot,Jump Shot,70,247,26,1,3.0,0.0,h
+S2425-G0003,1,03:52,ORL,,CHA,,G. Bitadze,ORL,SUB: M. Wagner FOR Bitadze,Substitution,,0,0,0,0,,,h
+S2425-G0003,2,02:19,ORL,56.0,CHA,39.0,G. Bitadze,ORL,Bitadze 2' Running Alley Oop Layup Shot (5 PTS) (Caldwell-Pope 3 AST),Made Shot,Running Alley Oop Layup Shot,12,19,2,1,2.0,2.0,h
+S2425-G0003,2,01:03,ORL,,CHA,,G. Bitadze,ORL,Bitadze S.FOUL (P1.PN) (E.Malloy),Foul,Shooting,0,0,0,0,,,h
+S2425-G0003,2,00:48.900000,ORL,,CHA,,G. Bitadze,ORL,Bitadze OFF.Foul (P2) (E.Malloy),Foul,Offensive,0,0,0,0,,,h
+S2425-G0003,2,00:48.900000,ORL,,CHA,,G. Bitadze,ORL,Bitadze Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0003,3,08:27,ORL,65.0,CHA,55.0,G. Bitadze,ORL,Bitadze 6' Layup (7 PTS) (Suggs 2 AST),Made Shot,Layup Shot,-49,33,6,1,2.0,2.0,h
+S2425-G0003,3,06:43,ORL,,CHA,,G. Bitadze,ORL,MISS Bitadze 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-21,38,4,1,2.0,0.0,h
+S2425-G0003,3,05:06,ORL,,CHA,,G. Bitadze,ORL,Bitadze REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0003,3,05:06,ORL,71.0,CHA,62.0,G. Bitadze,ORL,Bitadze Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0003,3,05:06,ORL,72.0,CHA,62.0,G. Bitadze,ORL,Bitadze Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0003,3,03:54,ORL,,CHA,,G. Bitadze,ORL,SUB: M. Wagner FOR Bitadze,Substitution,,0,0,0,0,,,h
+S2425-G0204,1,12:00,ORL,,WAS,,G. Bitadze,ORL,Jump Ball Bitadze vs. Sarr: Tip to George,Jump Ball,,0,0,0,0,,,h
+S2425-G0204,1,11:27,ORL,,WAS,,G. Bitadze,ORL,MISS Bitadze 4' Layup,Missed Shot,Layup Shot,26,29,4,1,2.0,0.0,h
+S2425-G0204,1,11:25,ORL,,WAS,,G. Bitadze,ORL,Bitadze REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0204,1,10:44,ORL,3.0,WAS,2.0,G. Bitadze,ORL,Bitadze 1' Cutting Dunk Shot (2 PTS) (Caldwell-Pope 1 AST),Made Shot,Cutting Dunk Shot,9,4,1,1,2.0,2.0,h
+S2425-G0204,1,10:00,ORL,,WAS,,G. Bitadze,ORL,Bitadze BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0204,1,09:08,ORL,,WAS,,G. Bitadze,ORL,Bitadze REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0204,1,07:26,ORL,,WAS,,G. Bitadze,ORL,Bitadze REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0204,1,07:26,ORL,12.0,WAS,10.0,G. Bitadze,ORL,Bitadze Tip Dunk Shot (4 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,h
+S2425-G0204,1,05:05,ORL,,WAS,,G. Bitadze,ORL,Bitadze REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0204,1,04:41,ORL,,WAS,,G. Bitadze,ORL,Bitadze REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0204,1,04:15,ORL,18.0,WAS,15.0,G. Bitadze,ORL,Bitadze 1' Cutting Dunk Shot (6 PTS) (F. Wagner 1 AST),Made Shot,Cutting Dunk Shot,-4,4,1,1,2.0,2.0,h
+S2425-G0204,1,04:15,ORL,,WAS,,G. Bitadze,ORL,SUB: M. Wagner FOR Bitadze,Substitution,,0,0,0,0,,,h
+S2425-G0204,2,05:23,ORL,,WAS,,G. Bitadze,ORL,Bitadze REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0204,2,04:34,ORL,,WAS,,G. Bitadze,ORL,Bitadze REBOUND (Off:3 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0204,2,01:11,ORL,,WAS,,G. Bitadze,ORL,Bitadze REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0204,2,01:11,ORL,58.0,WAS,50.0,G. Bitadze,ORL,Bitadze Tip Layup Shot (8 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2425-G0204,3,09:07,ORL,,WAS,,G. Bitadze,ORL,Bitadze REBOUND (Off:4 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0204,3,07:42,ORL,,WAS,,G. Bitadze,ORL,Bitadze S.FOUL (P1.T2) (G.Petraitis),Foul,Shooting,0,0,0,0,,,h
+S2425-G0204,3,06:50,ORL,,WAS,,G. Bitadze,ORL,Bitadze REBOUND (Off:5 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0204,3,06:50,ORL,74.0,WAS,62.0,G. Bitadze,ORL,Bitadze Tip Dunk Shot (10 PTS),Made Shot,Tip Dunk Shot,0,0,0,1,2.0,2.0,h
+S2425-G0204,3,06:38,ORL,,WAS,,G. Bitadze,ORL,Bitadze REBOUND (Off:6 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0204,3,04:56,ORL,,WAS,,G. Bitadze,ORL,Bitadze REBOUND (Off:6 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0204,3,04:50,ORL,,WAS,,G. Bitadze,ORL,SUB: Isaac FOR Bitadze,Substitution,,0,0,0,0,,,h
 S2425-G0065,4,04:25,MIA,,ORL,,G. Bitadze,ORL,MISS Bitadze 24' 3PT Jump Shot,Missed Shot,Jump Shot,-169,177,24,1,3.0,0.0,v
 S2425-G0065,4,03:25,MIA,,ORL,,G. Bitadze,ORL,Bitadze REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
 S2425-G0065,4,03:04,MIA,,ORL,,G. Bitadze,ORL,Bitadze P.FOUL (P1.T4) (J.Butler),Foul,Personal,0,0,0,0,,,v
 S2425-G0065,4,02:19,MIA,,ORL,,G. Bitadze,ORL,Bitadze REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,v
 S2425-G0065,4,02:00,MIA,,ORL,,G. Bitadze,ORL,Bitadze Traveling Turnover (P1.T12),Turnover,Traveling,0,0,0,0,,,v
 S2425-G0065,4,00:52.900000,MIA,,ORL,,G. Bitadze,ORL,Bitadze Bad Pass Turnover (P2.T13),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0163,1,10:46,OKC,,ORL,,G. Bitadze,ORL,Bitadze REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0163,1,10:46,OKC,5.0,ORL,2.0,G. Bitadze,ORL,Bitadze Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
+S2425-G0163,1,09:58,OKC,,ORL,,G. Bitadze,ORL,Bitadze REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0163,1,09:30,OKC,,ORL,,G. Bitadze,ORL,Bitadze REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0163,1,07:55,OKC,,ORL,,G. Bitadze,ORL,Bitadze S.FOUL (P1.T1) (A.Nagy),Foul,Shooting,0,0,0,0,,,v
+S2425-G0163,1,06:52,OKC,,ORL,,G. Bitadze,ORL,SUB: M. Wagner FOR Bitadze,Substitution,,0,0,0,0,,,v
+S2425-G0163,2,06:06,OKC,46.0,ORL,36.0,G. Bitadze,ORL,Bitadze 3' Layup (4 PTS) (Black 2 AST),Made Shot,Layup Shot,5,31,3,1,2.0,2.0,v
+S2425-G0163,2,05:32,OKC,,ORL,,G. Bitadze,ORL,Bitadze REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0163,2,03:52,OKC,51.0,ORL,38.0,G. Bitadze,ORL,Bitadze 3' Cutting Dunk Shot (6 PTS) (F. Wagner 2 AST),Made Shot,Cutting Dunk Shot,0,29,3,1,2.0,2.0,v
+S2425-G0163,2,03:16,OKC,,ORL,,G. Bitadze,ORL,Bitadze BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0163,2,03:04,OKC,,ORL,,G. Bitadze,ORL,Bitadze Bad Pass Turnover (P1.T7),Turnover,Bad Pass,0,0,0,0,,,v
+S2425-G0163,2,02:00,OKC,,ORL,,G. Bitadze,ORL,Bitadze STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0163,2,01:28,OKC,,ORL,,G. Bitadze,ORL,Bitadze REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0163,2,01:22,OKC,,ORL,,G. Bitadze,ORL,MISS Bitadze 26' 3PT Jump Shot,Missed Shot,Jump Shot,124,232,26,1,3.0,0.0,v
+S2425-G0163,3,09:42,OKC,,ORL,,G. Bitadze,ORL,MISS Bitadze 5' Layup,Missed Shot,Layup Shot,44,29,5,1,2.0,0.0,v
+S2425-G0163,3,08:54,OKC,,ORL,,G. Bitadze,ORL,Bitadze REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0163,3,08:40,OKC,,ORL,,G. Bitadze,ORL,Bitadze REBOUND (Off:2 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0163,3,08:35,OKC,,ORL,,G. Bitadze,ORL,MISS Bitadze 2' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-20,4,2,1,2.0,0.0,v
+S2425-G0163,3,08:05,OKC,,ORL,,G. Bitadze,ORL,Bitadze REBOUND (Off:3 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0163,3,07:38,OKC,,ORL,,G. Bitadze,ORL,Bitadze REBOUND (Off:3 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0163,3,06:52,OKC,,ORL,,G. Bitadze,ORL,SUB: Black FOR Bitadze,Substitution,,0,0,0,0,,,v
+S2425-G0163,4,10:10,OKC,86.0,ORL,63.0,G. Bitadze,ORL,Bitadze Dunk (8 PTS) (Suggs 3 AST),Made Shot,Dunk Shot,-4,0,0,1,2.0,2.0,v
+S2425-G0163,4,07:50,OKC,88.0,ORL,72.0,G. Bitadze,ORL,Bitadze Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0163,4,07:50,OKC,,ORL,,G. Bitadze,ORL,MISS Bitadze Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0163,4,06:02,OKC,92.0,ORL,78.0,G. Bitadze,ORL,Bitadze 1' Dunk (11 PTS) (Suggs 6 AST),Made Shot,Dunk Shot,-11,5,1,1,2.0,2.0,v
+S2425-G0163,4,04:40,OKC,,ORL,,G. Bitadze,ORL,Bitadze L.B.FOUL (P2.T2) (A.Nagy),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0163,4,03:13,OKC,,ORL,,G. Bitadze,ORL,SUB: M. Wagner FOR Bitadze,Substitution,,0,0,0,0,,,v
 S2425-G0092,2,11:23,MEM,,ORL,,G. Bitadze,ORL,Bitadze REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
 S2425-G0092,2,11:23,MEM,35.0,ORL,26.0,G. Bitadze,ORL,Bitadze Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,v
 S2425-G0092,2,10:12,MEM,,ORL,,G. Bitadze,ORL,Bitadze BLOCK (1 BLK),,,0,0,0,0,,,v
 S2425-G0092,2,08:25,MEM,,ORL,,G. Bitadze,ORL,SUB: Carter Jr. FOR Bitadze,Substitution,,0,0,0,0,,,v
 S2425-G0092,4,03:03,MEM,,ORL,,G. Bitadze,ORL,SUB: Queen FOR Bitadze,Substitution,,0,0,0,0,,,v
+S2425-G0010,1,12:00,ORL,,PHI,,G. Bitadze,ORL,Jump Ball Bitadze vs. Embiid: Tip to McCain,Jump Ball,,0,0,0,0,,,h
+S2425-G0010,1,11:45,ORL,,PHI,,G. Bitadze,ORL,Bitadze S.FOUL (P1.T1) (J.DeRosa),Foul,Shooting,0,0,0,0,,,h
+S2425-G0010,1,10:21,ORL,,PHI,,G. Bitadze,ORL,Bitadze BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0010,1,09:42,ORL,,PHI,,G. Bitadze,ORL,Bitadze REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0010,1,09:34,ORL,,PHI,,G. Bitadze,ORL,Bitadze Lost Ball Turnover (P1.T2),Turnover,Lost Ball,0,0,0,0,,,h
+S2425-G0010,1,06:06,ORL,,PHI,,G. Bitadze,ORL,Bitadze REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0010,1,06:05,ORL,15.0,PHI,12.0,G. Bitadze,ORL,Bitadze 2' Tip Dunk Shot (2 PTS),Made Shot,Tip Dunk Shot,-1,16,2,1,2.0,2.0,h
+S2425-G0010,1,03:15,ORL,,PHI,,G. Bitadze,ORL,SUB: M. Wagner FOR Bitadze,Substitution,,0,0,0,0,,,h
+S2425-G0010,2,04:52,ORL,,PHI,,G. Bitadze,ORL,Bitadze Offensive Goaltending Turnover (P2.T6),Turnover,Offensive Goaltending,0,0,0,0,,,h
+S2425-G0010,2,02:25,ORL,,PHI,,G. Bitadze,ORL,Bitadze REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0010,3,11:50,ORL,,PHI,,G. Bitadze,ORL,Bitadze Traveling Turnover (P3.T9),Turnover,Traveling,0,0,0,0,,,h
+S2425-G0010,3,09:12,ORL,,PHI,,G. Bitadze,ORL,Bitadze REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0010,3,07:56,ORL,,PHI,,G. Bitadze,ORL,Bitadze STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0010,3,07:56,ORL,,PHI,,G. Bitadze,ORL,Bitadze Out of Bounds Lost Ball Turnover (P4.T12),Turnover,Out of Bounds Lost Ball Turnover,0,0,0,0,,,h
+S2425-G0010,3,07:18,ORL,,PHI,,G. Bitadze,ORL,Bitadze OFF.Foul (P2) (P.Ransom),Foul,Offensive,0,0,0,0,,,h
+S2425-G0010,3,07:18,ORL,,PHI,,G. Bitadze,ORL,Bitadze Offensive Foul Turnover (P5.T13),Turnover,Offensive Foul Turnover,0,0,0,0,,,h
+S2425-G0010,3,06:08,ORL,,PHI,,G. Bitadze,ORL,SUB: M. Wagner FOR Bitadze,Substitution,,0,0,0,0,,,h
+S2425-G0010,4,08:51,ORL,,PHI,,G. Bitadze,ORL,Bitadze BLOCK (2 BLK),,,0,0,0,0,,,h
+S2425-G0010,4,04:56,ORL,,PHI,,G. Bitadze,ORL,SUB: Isaac FOR Bitadze,Substitution,,0,0,0,0,,,h
+S2425-G0186,1,12:00,ORL,,NOP,,G. Bitadze,ORL,Jump Ball Bitadze vs. Missi: Tip to da Silva,Jump Ball,,0,0,0,0,,,h
+S2425-G0186,1,11:38,ORL,,NOP,,G. Bitadze,ORL,Bitadze REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0186,1,10:46,ORL,,NOP,,G. Bitadze,ORL,Bitadze STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0186,1,08:30,ORL,14.0,NOP,6.0,G. Bitadze,ORL,Bitadze 2' Alley Oop Dunk (2 PTS) (F. Wagner 2 AST),Made Shot,Alley Oop Dunk Shot,-9,17,2,1,2.0,2.0,h
+S2425-G0186,1,08:05,ORL,16.0,NOP,6.0,G. Bitadze,ORL,Bitadze 1' Running Dunk (4 PTS) (Caldwell-Pope 2 AST),Made Shot,Running Dunk Shot,-1,12,1,1,2.0,2.0,h
+S2425-G0186,1,07:10,ORL,,NOP,,G. Bitadze,ORL,Bitadze REBOUND (Off:2 Def:0),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0186,1,06:03,ORL,,NOP,,G. Bitadze,ORL,Bitadze REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0186,1,03:27,ORL,,NOP,,G. Bitadze,ORL,MISS Bitadze 3' Alley Oop Dunk,Missed Shot,Alley Oop Dunk Shot,-22,12,3,1,2.0,0.0,h
+S2425-G0186,1,02:48,ORL,,NOP,,G. Bitadze,ORL,Bitadze REBOUND (Off:3 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0186,1,02:48,ORL,29.0,NOP,13.0,G. Bitadze,ORL,Bitadze Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2425-G0186,1,01:20,ORL,,NOP,,G. Bitadze,ORL,SUB: M. Wagner FOR Bitadze,Substitution,,0,0,0,0,,,h
+S2425-G0186,2,06:47,ORL,,NOP,,G. Bitadze,ORL,Bitadze REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0186,2,02:20,ORL,,NOP,,G. Bitadze,ORL,Jump Ball Bitadze vs. Green: Tip to Caldwell-Pope,Jump Ball,,0,0,0,0,,,h
+S2425-G0186,2,00:17.100000,ORL,,NOP,,G. Bitadze,ORL,Bitadze BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0186,3,11:20,ORL,,NOP,,G. Bitadze,ORL,Bitadze S.FOUL (P1.T1) (D.Collins),Foul,Shooting,0,0,0,0,,,h
+S2425-G0186,3,10:49,ORL,,NOP,,G. Bitadze,ORL,Bitadze REBOUND (Off:4 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0186,3,08:08,ORL,,NOP,,G. Bitadze,ORL,Bitadze REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0186,3,07:43,ORL,,NOP,,G. Bitadze,ORL,Bitadze L.B.FOUL (P2.T2) (D.Collins),Foul,Loose Ball,0,0,0,0,,,h
+S2425-G0186,3,07:00,ORL,,NOP,,G. Bitadze,ORL,Bitadze BLOCK (2 BLK),,,0,0,0,0,,,h
+S2425-G0186,3,06:53,ORL,,NOP,,G. Bitadze,ORL,Bitadze S.FOUL (P3.T3) (P.Fraher),Foul,Shooting,0,0,0,0,,,h
+S2425-G0186,3,05:40,ORL,68.0,NOP,59.0,G. Bitadze,ORL,Bitadze 1' Cutting Layup Shot (8 PTS) (Caldwell-Pope 4 AST),Made Shot,Cutting Layup Shot,4,4,1,1,2.0,2.0,h
+S2425-G0186,3,05:40,ORL,69.0,NOP,59.0,G. Bitadze,ORL,Bitadze Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2425-G0186,3,04:53,ORL,,NOP,,G. Bitadze,ORL,Bitadze REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0186,3,04:44,ORL,,NOP,,G. Bitadze,ORL,Bitadze REBOUND (Off:5 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0186,3,04:42,ORL,71.0,NOP,61.0,G. Bitadze,ORL,Bitadze Tip Layup Shot (11 PTS),Made Shot,Tip Layup Shot,0,0,0,1,2.0,2.0,h
+S2425-G0186,3,04:23,ORL,,NOP,,G. Bitadze,ORL,SUB: M. Wagner FOR Bitadze,Substitution,,0,0,0,0,,,h
 S2425-G0077,2,11:19,ORL,,BKN,,G. Bitadze,ORL,Bitadze REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
 S2425-G0077,2,09:39,ORL,,BKN,,G. Bitadze,ORL,MISS Bitadze 2' Alley Oop Dunk,Missed Shot,Alley Oop Dunk Shot,18,1,2,1,2.0,0.0,h
 S2425-G0077,2,09:39,ORL,,BKN,,G. Bitadze,ORL,Bitadze REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h

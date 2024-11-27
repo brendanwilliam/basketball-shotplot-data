@@ -1,4 +1,41 @@
 game_id,period,clock,home,scoreHome,away,scoreAway,playerNameI,teamTricode,description,actionType,subType,xLegacy,yLegacy,shotDistance,isFieldGoal,shotVal,scoreVal,location
+S2425-G0192,1,11:08,OKC,3.0,HOU,4.0,A. Sengun,HOU,Sengun 5' Layup (2 PTS) (Ja. Green 1 AST),Made Shot,Layup Shot,-50,13,5,1,2.0,2.0,v
+S2425-G0192,1,10:00,OKC,,HOU,,A. Sengun,HOU,Sengun REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0192,1,09:58,OKC,7.0,HOU,8.0,A. Sengun,HOU,Sengun 3' Layup (4 PTS),Made Shot,Layup Shot,26,22,3,1,2.0,2.0,v
+S2425-G0192,1,09:20,OKC,,HOU,,A. Sengun,HOU,Sengun REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0192,1,09:09,OKC,,HOU,,A. Sengun,HOU,MISS Sengun 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,23,35,4,1,2.0,0.0,v
+S2425-G0192,1,08:47,OKC,,HOU,,A. Sengun,HOU,MISS Sengun 6' Floating Jump Shot,Missed Shot,Floating Jump shot,2,63,6,1,2.0,0.0,v
+S2425-G0192,1,08:29,OKC,,HOU,,A. Sengun,HOU,Sengun S.FOUL (P1.T1) (K.Scott),Foul,Shooting,0,0,0,0,,,v
+S2425-G0192,1,04:55,OKC,,HOU,,A. Sengun,HOU,MISS Sengun 5' Driving Layup,Missed Shot,Driving Layup Shot,-44,10,5,1,2.0,0.0,v
+S2425-G0192,1,04:27,OKC,,HOU,,A. Sengun,HOU,SUB: Adams FOR Sengun,Substitution,,0,0,0,0,,,v
+S2425-G0192,2,11:33,OKC,,HOU,,A. Sengun,HOU,MISS Sengun 26' 3PT Jump Shot,Missed Shot,Jump Shot,-121,226,26,1,3.0,0.0,v
+S2425-G0192,2,10:37,OKC,,HOU,,A. Sengun,HOU,MISS Sengun 7' Floating Jump Shot,Missed Shot,Floating Jump shot,-29,66,7,1,2.0,0.0,v
+S2425-G0192,2,10:32,OKC,,HOU,,A. Sengun,HOU,Sengun REBOUND (Off:2 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0192,2,10:32,OKC,,HOU,,A. Sengun,HOU,MISS Sengun Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2425-G0192,2,09:12,OKC,,HOU,,A. Sengun,HOU,Sengun S.FOUL (P2.T1) (K.Cutler),Foul,Shooting,0,0,0,0,,,v
+S2425-G0192,2,08:47,OKC,40.0,HOU,34.0,A. Sengun,HOU,Sengun Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0192,2,08:47,OKC,40.0,HOU,35.0,A. Sengun,HOU,Sengun Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0192,2,07:54,OKC,,HOU,,A. Sengun,HOU,Sengun S.FOUL (P3.T2) (K.Cutler),Foul,Shooting,0,0,0,0,,,v
+S2425-G0192,2,07:54,OKC,,HOU,,A. Sengun,HOU,SUB: Brooks FOR Sengun,Substitution,,0,0,0,0,,,v
+S2425-G0192,2,02:13,OKC,,HOU,,A. Sengun,HOU,Sengun REBOUND (Off:2 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0192,2,02:05,OKC,66.0,HOU,47.0,A. Sengun,HOU,Sengun 13' Jump Shot (8 PTS) (Ja. Green 2 AST),Made Shot,Jump Shot,-88,90,13,1,2.0,2.0,v
+S2425-G0192,3,10:50,OKC,,HOU,,A. Sengun,HOU,MISS Sengun 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,23,-5,2,1,2.0,0.0,v
+S2425-G0192,3,10:50,OKC,,HOU,,A. Sengun,HOU,Sengun REBOUND (Off:3 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0192,3,10:48,OKC,,HOU,,A. Sengun,HOU,MISS Sengun Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,v
+S2425-G0192,3,10:23,OKC,,HOU,,A. Sengun,HOU,Sengun Lost Ball Turnover (P1.T5),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0192,3,10:02,OKC,,HOU,,A. Sengun,HOU,Sengun OFF.Foul (P4) (K.Cutler),Foul,Offensive,0,0,0,0,,,v
+S2425-G0192,3,10:02,OKC,,HOU,,A. Sengun,HOU,Sengun Offensive Foul Turnover (P2.T6),Turnover,Offensive Foul Turnover,0,0,0,0,,,v
+S2425-G0192,3,09:51,OKC,,HOU,,A. Sengun,HOU,Sengun STEAL (1 STL),,,0,0,0,0,,,v
+S2425-G0192,3,06:28,OKC,,HOU,,A. Sengun,HOU,Sengun REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0192,3,03:53,OKC,,HOU,,A. Sengun,HOU,Sengun REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0192,3,03:52,OKC,93.0,HOU,69.0,A. Sengun,HOU,Sengun Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0192,3,03:52,OKC,93.0,HOU,70.0,A. Sengun,HOU,Sengun Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0192,3,02:20,OKC,,HOU,,A. Sengun,HOU,MISS Sengun Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0192,3,02:20,OKC,96.0,HOU,74.0,A. Sengun,HOU,Sengun Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0192,3,01:28,OKC,,HOU,,A. Sengun,HOU,Sengun REBOUND (Off:4 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0192,3,01:14,OKC,,HOU,,A. Sengun,HOU,MISS Sengun 3' Driving Layup,Missed Shot,Driving Layup Shot,29,-3,3,1,2.0,0.0,v
+S2425-G0192,3,00:48.800000,OKC,,HOU,,A. Sengun,HOU,Sengun L.B.FOUL (P5.PN) (E.Scott),Foul,Loose Ball,0,0,0,0,,,v
+S2425-G0192,3,00:24,OKC,,HOU,,A. Sengun,HOU,Sengun REBOUND (Off:4 Def:5),Rebound,Unknown,0,0,0,0,,,v
 S2425-G0068,1,12:00,HOU,,CHA,,A. Sengun,HOU,Jump Ball Sengun vs. Richards: Tip to Smith Jr.,Jump Ball,,0,0,0,0,,,h
 S2425-G0068,1,11:26,HOU,,CHA,,A. Sengun,HOU,Sengun S.FOUL (P1.T1) (B.Taylor),Foul,Shooting,0,0,0,0,,,h
 S2425-G0068,1,11:07,HOU,,CHA,,A. Sengun,HOU,Sengun REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
@@ -61,6 +98,86 @@ S2425-G0068,4,04:52,HOU,,CHA,,A. Sengun,HOU,SUB: Ja. Green FOR Sengun,Substituti
 S2425-G0068,4,00:33.100000,HOU,,CHA,,A. Sengun,HOU,Sengun Lost Ball Turnover (P3.T8),Turnover,Lost Ball,0,0,0,0,,,h
 S2425-G0068,4,00:33.100000,HOU,,CHA,,A. Sengun,HOU,SUB: Thompson FOR Sengun,Substitution,,0,0,0,0,,,h
 S2425-G0068,4,00:04.800000,HOU,,CHA,,A. Sengun,HOU,SUB: Eason FOR Sengun,Substitution,,0,0,0,0,,,h
+S2425-G0161,1,12:00,HOU,,NYK,,A. Sengun,HOU,Jump Ball Sengun vs. Towns: Tip to Hart,Jump Ball,,0,0,0,0,,,h
+S2425-G0161,1,10:36,HOU,4.0,NYK,3.0,A. Sengun,HOU,Sengun 3' Driving Layup (2 PTS) (VanVleet 1 AST),Made Shot,Driving Layup Shot,21,26,3,1,2.0,2.0,h
+S2425-G0161,1,09:21,HOU,,NYK,,A. Sengun,HOU,Sengun BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0161,1,08:01,HOU,10.0,NYK,9.0,A. Sengun,HOU,Sengun 8' Turnaround Hook Shot (4 PTS),Made Shot,Turnaround Hook Shot,31,71,8,1,2.0,2.0,h
+S2425-G0161,1,07:01,HOU,15.0,NYK,12.0,A. Sengun,HOU,Sengun 13' Pullup Jump Shot (6 PTS) (VanVleet 3 AST),Made Shot,Pullup Jump shot,-4,132,13,1,2.0,2.0,h
+S2425-G0161,1,06:50,HOU,,NYK,,A. Sengun,HOU,Sengun BLOCK (2 BLK),,,0,0,0,0,,,h
+S2425-G0161,1,06:19,HOU,,NYK,,A. Sengun,HOU,Sengun REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0161,1,05:47,HOU,,NYK,,A. Sengun,HOU,SUB: Thompson FOR Sengun,Substitution,,0,0,0,0,,,h
+S2425-G0161,2,11:36,HOU,33.0,NYK,26.0,A. Sengun,HOU,Sengun 3' Layup (8 PTS),Made Shot,Layup Shot,-27,22,3,1,2.0,2.0,h
+S2425-G0161,2,11:36,HOU,34.0,NYK,26.0,A. Sengun,HOU,Sengun Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,1.0,h
+S2425-G0161,2,10:31,HOU,,NYK,,A. Sengun,HOU,Sengun Traveling Turnover (P1.T1),Turnover,Traveling,0,0,0,0,,,h
+S2425-G0161,2,09:54,HOU,,NYK,,A. Sengun,HOU,Sengun S.FOUL (P1.T2) (B.Adair),Foul,Shooting,0,0,0,0,,,h
+S2425-G0161,2,09:38,HOU,,NYK,,A. Sengun,HOU,Sengun REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0161,2,08:48,HOU,,NYK,,A. Sengun,HOU,Sengun REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0161,2,07:42,HOU,47.0,NYK,34.0,A. Sengun,HOU,Sengun Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0161,2,07:42,HOU,48.0,NYK,34.0,A. Sengun,HOU,Sengun Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0161,2,07:31,HOU,,NYK,,A. Sengun,HOU,SUB: Adams FOR Sengun,Substitution,,0,0,0,0,,,h
+S2425-G0161,2,03:37,HOU,,NYK,,A. Sengun,HOU,MISS Sengun 4' Layup,Missed Shot,Layup Shot,25,36,4,1,2.0,0.0,h
+S2425-G0161,2,03:12,HOU,,NYK,,A. Sengun,HOU,Sengun REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0161,2,03:10,HOU,,NYK,,A. Sengun,HOU,Sengun Bad Pass Turnover (P2.T2),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0161,2,02:27,HOU,,NYK,,A. Sengun,HOU,Sengun BLOCK (3 BLK),,,0,0,0,0,,,h
+S2425-G0161,2,02:11,HOU,,NYK,,A. Sengun,HOU,Sengun REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0161,2,02:09,HOU,,NYK,,A. Sengun,HOU,Sengun Bad Pass Turnover (P3.T3),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0161,2,01:35,HOU,,NYK,,A. Sengun,HOU,MISS Sengun 27' 3PT Jump Shot,Missed Shot,Jump Shot,-184,202,27,1,3.0,0.0,h
+S2425-G0161,2,00:03,HOU,,NYK,,A. Sengun,HOU,Sengun S.FOUL (P2.PN) (B.Adair),Foul,Shooting,0,0,0,0,,,h
+S2425-G0161,2,00:02,HOU,,NYK,,A. Sengun,HOU,Sengun REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0161,3,11:46,HOU,63.0,NYK,56.0,A. Sengun,HOU,Sengun 5' Turnaround Hook Shot (13 PTS),Made Shot,Turnaround Hook Shot,-15,52,5,1,2.0,2.0,h
+S2425-G0161,3,11:20,HOU,,NYK,,A. Sengun,HOU,Sengun REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0161,3,10:51,HOU,,NYK,,A. Sengun,HOU,Sengun REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0161,3,10:32,HOU,,NYK,,A. Sengun,HOU,Sengun REBOUND (Off:1 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0161,3,07:52,HOU,69.0,NYK,60.0,A. Sengun,HOU,Sengun 3' Driving Reverse Layup (15 PTS),Made Shot,Driving Reverse Layup Shot,27,22,3,1,2.0,2.0,h
+S2425-G0161,3,06:00,HOU,,NYK,,A. Sengun,HOU,MISS Sengun 26' 3PT Jump Shot,Missed Shot,Jump Shot,-123,231,26,1,3.0,0.0,h
+S2425-G0161,3,05:43,HOU,,NYK,,A. Sengun,HOU,Sengun REBOUND (Off:1 Def:9),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0161,3,04:22,HOU,,NYK,,A. Sengun,HOU,SUB: Eason FOR Sengun,Substitution,,0,0,0,0,,,h
+S2425-G0161,4,11:34,HOU,,NYK,,A. Sengun,HOU,Sengun REBOUND (Off:1 Def:10),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0161,4,09:55,HOU,,NYK,,A. Sengun,HOU,Sengun REBOUND (Off:2 Def:10),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0161,4,09:54,HOU,85.0,NYK,80.0,A. Sengun,HOU,Sengun 3' Putback Layup (17 PTS),Made Shot,Putback Layup Shot,26,17,3,1,2.0,2.0,h
+S2425-G0161,4,08:59,HOU,,NYK,,A. Sengun,HOU,Sengun REBOUND (Off:2 Def:11),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0161,4,08:49,HOU,,NYK,,A. Sengun,HOU,Sengun Bad Pass Turnover (P4.T10),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0161,4,08:21,HOU,,NYK,,A. Sengun,HOU,MISS Sengun 27' 3PT Jump Shot,Missed Shot,Jump Shot,-11,266,27,1,3.0,0.0,h
+S2425-G0161,4,07:59,HOU,89.0,NYK,84.0,A. Sengun,HOU,Sengun 6' Hook Shot (19 PTS),Made Shot,Hook Shot,10,61,6,1,2.0,2.0,h
+S2425-G0161,4,07:00,HOU,91.0,NYK,86.0,A. Sengun,HOU,Sengun 6' Turnaround Hook Shot (21 PTS),Made Shot,Turnaround Hook Shot,16,55,6,1,2.0,2.0,h
+S2425-G0161,4,06:46,HOU,,NYK,,A. Sengun,HOU,Sengun BLOCK (4 BLK),,,0,0,0,0,,,h
+S2425-G0161,4,05:03,HOU,93.0,NYK,90.0,A. Sengun,HOU,Sengun 9' Turnaround Hook Shot (23 PTS),Made Shot,Turnaround Hook Shot,-5,88,9,1,2.0,2.0,h
+S2425-G0161,4,04:49,HOU,,NYK,,A. Sengun,HOU,Sengun Violation:Kicked Ball (A.Smith),Violation,Kicked Ball,0,0,0,0,,,h
+S2425-G0161,4,04:15,HOU,95.0,NYK,92.0,A. Sengun,HOU,Sengun 4' Driving Layup (25 PTS),Made Shot,Driving Layup Shot,-32,26,4,1,2.0,2.0,h
+S2425-G0161,4,01:20,HOU,,NYK,,A. Sengun,HOU,Sengun REBOUND (Off:2 Def:12),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0161,4,00:58.100000,HOU,,NYK,,A. Sengun,HOU,SUB: Brooks FOR Sengun,Substitution,,0,0,0,0,,,h
+S2425-G0031,1,12:00,HOU,,POR,,A. Sengun,HOU,Jump Ball Sengun vs. Clingan: Tip to Sharpe,Jump Ball,,0,0,0,0,,,h
+S2425-G0031,1,11:30,HOU,,POR,,A. Sengun,HOU,Sengun Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0031,1,10:44,HOU,,POR,,A. Sengun,HOU,Sengun Bad Pass Turnover (P2.T2),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0031,1,10:18,HOU,,POR,,A. Sengun,HOU,MISS Sengun 27' 3PT Jump Shot,Missed Shot,Jump Shot,67,258,27,1,3.0,0.0,h
+S2425-G0031,1,10:05,HOU,,POR,,A. Sengun,HOU,Sengun STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0031,1,07:21,HOU,6.0,POR,8.0,A. Sengun,HOU,Sengun 3' Driving Layup (2 PTS) (Brooks 1 AST),Made Shot,Driving Layup Shot,17,23,3,1,2.0,2.0,h
+S2425-G0031,1,07:21,HOU,,POR,,A. Sengun,HOU,MISS Sengun Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2425-G0031,1,06:25,HOU,,POR,,A. Sengun,HOU,Sengun REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0031,1,05:35,HOU,,POR,,A. Sengun,HOU,MISS Sengun 3' Driving Layup,Missed Shot,Driving Layup Shot,15,29,3,1,2.0,0.0,h
+S2425-G0031,1,05:21,HOU,,POR,,A. Sengun,HOU,Sengun REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0031,1,03:19,HOU,,POR,,A. Sengun,HOU,Sengun REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0031,1,03:15,HOU,,POR,,A. Sengun,HOU,SUB: Adams FOR Sengun,Substitution,,0,0,0,0,,,h
+S2425-G0031,2,07:00,HOU,47.0,POR,30.0,A. Sengun,HOU,Sengun 4' Driving Dunk (4 PTS),Made Shot,Driving Dunk Shot,7,36,4,1,2.0,2.0,h
+S2425-G0031,2,04:23,HOU,51.0,POR,37.0,A. Sengun,HOU,Sengun 5' Turnaround Hook Shot (6 PTS),Made Shot,Turnaround Hook Shot,-23,43,5,1,2.0,2.0,h
+S2425-G0031,2,04:10,HOU,,POR,,A. Sengun,HOU,Sengun S.FOUL (P1.T4) (M.Ervin),Foul,Shooting,0,0,0,0,,,h
+S2425-G0031,2,03:47,HOU,53.0,POR,40.0,A. Sengun,HOU,Sengun 4' Cutting Layup Shot (8 PTS) (VanVleet 4 AST),Made Shot,Cutting Layup Shot,-29,29,4,1,2.0,2.0,h
+S2425-G0031,2,03:31,HOU,,POR,,A. Sengun,HOU,Sengun REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0031,2,02:39,HOU,,POR,,A. Sengun,HOU,Sengun Bad Pass Turnover (P3.T6),Turnover,Bad Pass,0,0,0,0,,,h
+S2425-G0031,2,00:31.800000,HOU,,POR,,A. Sengun,HOU,Sengun REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0031,2,00:28.600000,HOU,,POR,,A. Sengun,HOU,SUB: Thompson FOR Sengun,Substitution,,0,0,0,0,,,h
+S2425-G0031,3,10:53,HOU,,POR,,A. Sengun,HOU,Sengun REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0031,3,10:52,HOU,69.0,POR,47.0,A. Sengun,HOU,Sengun 1' Putback Layup (10 PTS),Made Shot,Putback Layup Shot,5,11,1,1,2.0,2.0,h
+S2425-G0031,3,10:26,HOU,,POR,,A. Sengun,HOU,MISS Sengun 2' Driving Layup,Missed Shot,Driving Layup Shot,-17,-2,2,1,2.0,0.0,h
+S2425-G0031,3,10:11,HOU,,POR,,A. Sengun,HOU,Sengun REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0031,3,07:45,HOU,79.0,POR,52.0,A. Sengun,HOU,Sengun 1' Driving Dunk (12 PTS) (VanVleet 8 AST),Made Shot,Driving Dunk Shot,-10,9,1,1,2.0,2.0,h
+S2425-G0031,3,06:52,HOU,,POR,,A. Sengun,HOU,MISS Sengun 3' Driving Layup,Missed Shot,Driving Layup Shot,27,15,3,1,2.0,0.0,h
+S2425-G0031,3,06:46,HOU,,POR,,A. Sengun,HOU,Sengun S.FOUL (P2.PN) (A.Smith),Foul,Shooting,0,0,0,0,,,h
+S2425-G0031,3,05:44,HOU,,POR,,A. Sengun,HOU,MISS Sengun 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,61,-11,6,1,2.0,0.0,h
+S2425-G0031,3,05:43,HOU,,POR,,A. Sengun,HOU,Sengun REBOUND (Off:2 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0031,3,05:43,HOU,,POR,,A. Sengun,HOU,MISS Sengun Tip Layup Shot,Missed Shot,Tip Layup Shot,0,0,0,1,2.0,0.0,h
+S2425-G0031,3,04:38,HOU,86.0,POR,66.0,A. Sengun,HOU,Sengun Dunk (14 PTS) (Eason 2 AST),Made Shot,Dunk Shot,1,4,0,1,2.0,2.0,h
+S2425-G0031,3,03:31,HOU,,POR,,A. Sengun,HOU,SUB: Adams FOR Sengun,Substitution,,0,0,0,0,,,h
 S2425-G0109,1,11:34,SAS,,HOU,,A. Sengun,HOU,Sengun REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,v
 S2425-G0109,1,10:55,SAS,0.0,HOU,5.0,A. Sengun,HOU,Sengun 3' Cutting Finger Roll Layup Shot (2 PTS) (VanVleet 2 AST),Made Shot,Cutting Finger Roll Layup Shot,0,26,3,1,2.0,2.0,v
 S2425-G0109,1,10:38,SAS,,HOU,,A. Sengun,HOU,Sengun S.FOUL (P1.T1) (J.Orr),Foul,Shooting,0,0,0,0,,,v
@@ -103,6 +220,95 @@ S2425-G0109,4,06:11,SAS,,HOU,,A. Sengun,HOU,Sengun REBOUND (Off:5 Def:7),Rebound
 S2425-G0109,4,06:06,SAS,,HOU,,A. Sengun,HOU,MISS Sengun 1' Driving Layup,Missed Shot,Driving Layup Shot,6,8,1,1,2.0,0.0,v
 S2425-G0109,4,03:32,SAS,,HOU,,A. Sengun,HOU,MISS Sengun 7' Floating Jump Shot,Missed Shot,Floating Jump shot,-70,8,7,1,2.0,0.0,v
 S2425-G0109,4,01:44,SAS,,HOU,,A. Sengun,HOU,SUB: Eason FOR Sengun,Substitution,,0,0,0,0,,,v
+S2425-G0129,1,09:57,DAL,,HOU,,A. Sengun,HOU,MISS Sengun 2' Driving Layup,Missed Shot,Driving Layup Shot,-17,-6,2,1,2.0,0.0,v
+S2425-G0129,1,09:02,DAL,,HOU,,A. Sengun,HOU,Sengun REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0129,1,08:31,DAL,7.0,HOU,12.0,A. Sengun,HOU,Sengun 14' Floating Jump Shot (2 PTS) (VanVleet 1 AST),Made Shot,Floating Jump shot,39,133,14,1,2.0,2.0,v
+S2425-G0129,1,07:28,DAL,9.0,HOU,13.0,A. Sengun,HOU,Sengun Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0129,1,07:28,DAL,9.0,HOU,14.0,A. Sengun,HOU,Sengun Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0129,1,05:45,DAL,11.0,HOU,17.0,A. Sengun,HOU,Sengun Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0129,1,05:45,DAL,11.0,HOU,18.0,A. Sengun,HOU,Sengun Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0129,1,04:52,DAL,,HOU,,A. Sengun,HOU,MISS Sengun 15' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,145,15,15,1,2.0,0.0,v
+S2425-G0129,1,04:30,DAL,,HOU,,A. Sengun,HOU,Sengun REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0129,1,02:49,DAL,,HOU,,A. Sengun,HOU,SUB: Adams FOR Sengun,Substitution,,0,0,0,0,,,v
+S2425-G0129,2,09:07,DAL,,HOU,,A. Sengun,HOU,MISS Sengun 4' Driving Layup,Missed Shot,Driving Layup Shot,38,18,4,1,2.0,0.0,v
+S2425-G0129,2,08:44,DAL,26.0,HOU,45.0,A. Sengun,HOU,Sengun 2' Turnaround Hook Shot (8 PTS),Made Shot,Turnaround Hook Shot,-7,15,2,1,2.0,2.0,v
+S2425-G0129,2,08:15,DAL,,HOU,,A. Sengun,HOU,Sengun REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0129,2,07:49,DAL,,HOU,,A. Sengun,HOU,MISS Sengun 5' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,-34,37,5,1,2.0,0.0,v
+S2425-G0129,2,07:10,DAL,,HOU,,A. Sengun,HOU,Sengun REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0129,2,05:05,DAL,32.0,HOU,49.0,A. Sengun,HOU,Sengun 2' Cutting Layup Shot (10 PTS) (VanVleet 2 AST),Made Shot,Cutting Layup Shot,4,15,2,1,2.0,2.0,v
+S2425-G0129,2,03:45,DAL,,HOU,,A. Sengun,HOU,MISS Sengun 27' 3PT Jump Shot,Missed Shot,Jump Shot,-92,252,27,1,3.0,0.0,v
+S2425-G0129,2,02:43,DAL,,HOU,,A. Sengun,HOU,MISS Sengun 4' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,5,39,4,1,2.0,0.0,v
+S2425-G0129,2,02:42,DAL,,HOU,,A. Sengun,HOU,Sengun REBOUND (Off:2 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0129,2,02:36,DAL,,HOU,,A. Sengun,HOU,Sengun REBOUND (Off:3 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0129,2,02:36,DAL,,HOU,,A. Sengun,HOU,MISS Sengun Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,v
+S2425-G0129,2,02:36,DAL,38.0,HOU,57.0,A. Sengun,HOU,Sengun Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0129,2,01:56,DAL,,HOU,,A. Sengun,HOU,Sengun P.FOUL (P1.T4) (M.Kogut),Foul,Personal,0,0,0,0,,,v
+S2425-G0129,2,01:27,DAL,,HOU,,A. Sengun,HOU,MISS Sengun 15' Jump Shot,Missed Shot,Jump Shot,-17,148,15,1,2.0,0.0,v
+S2425-G0129,3,11:16,DAL,,HOU,,A. Sengun,HOU,Sengun REBOUND (Off:4 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0129,3,11:09,DAL,,HOU,,A. Sengun,HOU,MISS Sengun 3' Driving Layup,Missed Shot,Driving Layup Shot,28,11,3,1,2.0,0.0,v
+S2425-G0129,3,11:06,DAL,,HOU,,A. Sengun,HOU,Sengun REBOUND (Off:5 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0129,3,10:51,DAL,,HOU,,A. Sengun,HOU,Sengun P.FOUL (P2.T1) (M.Kogut),Foul,Personal,0,0,0,0,,,v
+S2425-G0129,3,09:23,DAL,,HOU,,A. Sengun,HOU,MISS Sengun 4' Driving Hook Shot,Missed Shot,Driving Hook Shot,-37,19,4,1,2.0,0.0,v
+S2425-G0129,3,07:00,DAL,50.0,HOU,66.0,A. Sengun,HOU,Sengun 7' Driving Floating Jump Shot (13 PTS) (VanVleet 3 AST),Made Shot,Driving Floating Jump Shot,34,56,7,1,2.0,2.0,v
+S2425-G0129,3,07:00,DAL,,HOU,,A. Sengun,HOU,MISS Sengun Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2425-G0129,3,06:33,DAL,52.0,HOU,68.0,A. Sengun,HOU,Sengun 12' Floating Jump Shot (15 PTS) (Ja. Green 3 AST),Made Shot,Floating Jump shot,11,124,12,1,2.0,2.0,v
+S2425-G0129,3,06:24,DAL,,HOU,,A. Sengun,HOU,Sengun REBOUND (Off:5 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0129,3,05:33,DAL,,HOU,,A. Sengun,HOU,Sengun BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0129,3,05:33,DAL,,HOU,,A. Sengun,HOU,Sengun REBOUND (Off:5 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0129,3,05:33,DAL,54.0,HOU,69.0,A. Sengun,HOU,Sengun Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0129,3,05:33,DAL,54.0,HOU,70.0,A. Sengun,HOU,Sengun Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0129,3,04:39,DAL,,HOU,,A. Sengun,HOU,MISS Sengun 4' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-32,21,4,1,2.0,0.0,v
+S2425-G0129,3,04:13,DAL,,HOU,,A. Sengun,HOU,Sengun REBOUND (Off:5 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0129,3,03:50,DAL,,HOU,,A. Sengun,HOU,SUB: Adams FOR Sengun,Substitution,,0,0,0,0,,,v
+S2425-G0129,4,09:05,DAL,,HOU,,A. Sengun,HOU,Sengun P.FOUL (P3.T1) (R.Hussey),Foul,Personal,0,0,0,0,,,v
+S2425-G0129,4,08:27,DAL,,HOU,,A. Sengun,HOU,Sengun Lost Ball Turnover (P1.T8),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0129,4,04:36,DAL,,HOU,,A. Sengun,HOU,Sengun REBOUND (Off:6 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0129,4,04:36,DAL,,HOU,,A. Sengun,HOU,MISS Sengun 2' Putback Layup,Missed Shot,Putback Layup Shot,16,17,2,1,2.0,0.0,v
+S2425-G0129,4,03:31,DAL,,HOU,,A. Sengun,HOU,SUB: Eason FOR Sengun,Substitution,,0,0,0,0,,,v
+S2425-G0129,4,00:17.900000,DAL,,HOU,,A. Sengun,HOU,SUB: Thompson FOR Sengun,Substitution,,0,0,0,0,,,v
+S2425-G0201,1,11:31,DET,,HOU,,A. Sengun,HOU,Sengun REBOUND (Off:1 Def:0),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0201,1,10:43,DET,2.0,HOU,2.0,A. Sengun,HOU,Sengun 13' Floating Jump Shot (2 PTS),Made Shot,Floating Jump shot,-9,131,13,1,2.0,2.0,v
+S2425-G0201,1,10:12,DET,2.0,HOU,4.0,A. Sengun,HOU,Sengun 11' Fadeaway Jumper (4 PTS),Made Shot,Fadeaway Jump Shot,94,54,11,1,2.0,2.0,v
+S2425-G0201,1,09:53,DET,,HOU,,A. Sengun,HOU,Sengun REBOUND (Off:1 Def:1),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0201,1,09:44,DET,,HOU,,A. Sengun,HOU,MISS Sengun 17' Jump Shot,Missed Shot,Jump Shot,9,174,17,1,2.0,0.0,v
+S2425-G0201,1,08:39,DET,2.0,HOU,9.0,A. Sengun,HOU,Sengun 11' Turnaround Fadeaway (6 PTS) (Ja. Green 1 AST),Made Shot,Turnaround Fadeaway shot,-21,112,11,1,2.0,2.0,v
+S2425-G0201,1,04:59,DET,,HOU,,A. Sengun,HOU,MISS Sengun 8' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-77,15,8,1,2.0,0.0,v
+S2425-G0201,1,04:29,DET,,HOU,,A. Sengun,HOU,SUB: Thompson FOR Sengun,Substitution,,0,0,0,0,,,v
+S2425-G0201,2,11:25,DET,17.0,HOU,24.0,A. Sengun,HOU,Sengun 4' Cutting Dunk Shot (8 PTS) (Ja. Green 3 AST),Made Shot,Cutting Dunk Shot,-16,32,4,1,2.0,2.0,v
+S2425-G0201,2,10:42,DET,20.0,HOU,26.0,A. Sengun,HOU,Sengun 4' Driving Finger Roll Layup (10 PTS),Made Shot,Driving Finger Roll Layup Shot,6,44,4,1,2.0,2.0,v
+S2425-G0201,2,10:42,DET,,HOU,,A. Sengun,HOU,MISS Sengun Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,v
+S2425-G0201,2,10:11,DET,,HOU,,A. Sengun,HOU,MISS Sengun 6' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,11,64,6,1,2.0,0.0,v
+S2425-G0201,2,10:02,DET,,HOU,,A. Sengun,HOU,Sengun BLOCK (1 BLK),,,0,0,0,0,,,v
+S2425-G0201,2,07:11,DET,,HOU,,A. Sengun,HOU,Sengun REBOUND (Off:1 Def:2),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0201,2,06:42,DET,,HOU,,A. Sengun,HOU,Sengun REBOUND (Off:1 Def:3),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0201,2,06:28,DET,31.0,HOU,30.0,A. Sengun,HOU,Sengun 13' Floating Jump Shot (12 PTS) (VanVleet 3 AST),Made Shot,Floating Jump shot,7,133,13,1,2.0,2.0,v
+S2425-G0201,2,06:03,DET,34.0,HOU,32.0,A. Sengun,HOU,Sengun 14' Floating Jump Shot (14 PTS) (Thompson 1 AST),Made Shot,Floating Jump shot,1,136,14,1,2.0,2.0,v
+S2425-G0201,2,05:33,DET,,HOU,,A. Sengun,HOU,SUB: Ja. Green FOR Sengun,Substitution,,0,0,0,0,,,v
+S2425-G0201,2,00:12.500000,DET,,HOU,,A. Sengun,HOU,SUB: Thompson FOR Sengun,Substitution,,0,0,0,0,,,v
+S2425-G0201,3,10:05,DET,49.0,HOU,47.0,A. Sengun,HOU,Sengun 10' Floating Jump Shot (16 PTS) (VanVleet 5 AST),Made Shot,Floating Jump shot,84,46,10,1,2.0,2.0,v
+S2425-G0201,3,09:36,DET,51.0,HOU,48.0,A. Sengun,HOU,Sengun Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0201,3,09:36,DET,51.0,HOU,49.0,A. Sengun,HOU,Sengun Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0201,3,08:39,DET,,HOU,,A. Sengun,HOU,Sengun REBOUND (Off:1 Def:4),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0201,3,08:17,DET,,HOU,,A. Sengun,HOU,Sengun P.FOUL (P1.T2) (J.Conley),Foul,Personal,0,0,0,0,,,v
+S2425-G0201,3,08:04,DET,,HOU,,A. Sengun,HOU,Sengun REBOUND (Off:1 Def:5),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0201,3,07:52,DET,,HOU,,A. Sengun,HOU,MISS Sengun 10' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,-102,-8,10,1,2.0,0.0,v
+S2425-G0201,3,06:05,DET,,HOU,,A. Sengun,HOU,Sengun REBOUND (Off:1 Def:6),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0201,3,05:24,DET,,HOU,,A. Sengun,HOU,MISS Sengun 16' Jump Shot,Missed Shot,Jump Shot,-28,153,16,1,2.0,0.0,v
+S2425-G0201,3,04:52,DET,56.0,HOU,54.0,A. Sengun,HOU,Sengun Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0201,3,04:52,DET,56.0,HOU,55.0,A. Sengun,HOU,Sengun Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0201,3,04:06,DET,,HOU,,A. Sengun,HOU,Sengun REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0201,3,03:13,DET,,HOU,,A. Sengun,HOU,Sengun S.FOUL (P2.T4) (E.Malloy),Foul,Shooting,0,0,0,0,,,v
+S2425-G0201,3,02:47,DET,60.0,HOU,62.0,A. Sengun,HOU,Sengun 15' Turnaround Fadeaway (22 PTS),Made Shot,Turnaround Fadeaway shot,16,147,15,1,2.0,2.0,v
+S2425-G0201,3,02:18,DET,,HOU,,A. Sengun,HOU,SUB: Landale FOR Sengun,Substitution,,0,0,0,0,,,v
+S2425-G0201,4,05:43,DET,,HOU,,A. Sengun,HOU,Sengun Lost Ball Turnover (P1.T12),Turnover,Lost Ball,0,0,0,0,,,v
+S2425-G0201,4,02:31,DET,,HOU,,A. Sengun,HOU,Sengun REBOUND (Off:2 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0201,4,02:28,DET,95.0,HOU,96.0,A. Sengun,HOU,Sengun 1' Putback Layup (24 PTS),Made Shot,Putback Layup Shot,-7,3,1,1,2.0,2.0,v
+S2425-G0201,4,01:30,DET,,HOU,,A. Sengun,HOU,Sengun REBOUND (Off:3 Def:7),Rebound,Unknown,0,0,0,0,,,v
+S2425-G0201,4,01:28,DET,95.0,HOU,100.0,A. Sengun,HOU,Sengun 2' Putback Layup (26 PTS),Made Shot,Putback Layup Shot,-13,17,2,1,2.0,2.0,v
+S2425-G0201,4,01:28,DET,,HOU,,A. Sengun,HOU,SUB: Smith Jr. FOR Sengun,Substitution,,0,0,0,0,,,v
+S2425-G0201,4,00:10.300000,DET,,HOU,,A. Sengun,HOU,MISS Sengun 4' Driving Dunk,Missed Shot,Driving Dunk Shot,-39,13,4,1,2.0,0.0,v
+S2425-G0201,4,00:08.100000,DET,98.0,HOU,101.0,A. Sengun,HOU,Sengun Free Throw 1 of 2 (27 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,v
+S2425-G0201,4,00:08.100000,DET,,HOU,,A. Sengun,HOU,MISS Sengun Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,0.0,v
 S2425-G0082,1,11:32,HOU,2.0,MEM,0.0,A. Sengun,HOU,Sengun 11' Turnaround Fadeaway (2 PTS),Made Shot,Turnaround Fadeaway shot,9,110,11,1,2.0,2.0,h
 S2425-G0082,1,10:49,HOU,,MEM,,A. Sengun,HOU,Sengun REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
 S2425-G0082,1,10:33,HOU,,MEM,,A. Sengun,HOU,MISS Sengun 25' 3PT Jump Shot,Missed Shot,Jump Shot,5,245,25,1,3.0,0.0,h
@@ -178,3 +384,72 @@ S2425-G0094,3,07:05,SAS,67.0,HOU,56.0,A. Sengun,HOU,Sengun Free Throw 2 of 2 (6 
 S2425-G0094,3,06:50,SAS,,HOU,,A. Sengun,HOU,Sengun STEAL (1 STL),,,0,0,0,0,,,v
 S2425-G0094,3,04:16,SAS,,HOU,,A. Sengun,HOU,Sengun STEAL (2 STL),,,0,0,0,0,,,v
 S2425-G0094,3,03:38,SAS,,HOU,,A. Sengun,HOU,SUB: Landale FOR Sengun,Substitution,,0,0,0,0,,,v
+S2425-G0016,1,12:00,HOU,,LAC,,A. Sengun,HOU,Jump Ball Sengun vs. Zubac: Tip to Smith Jr.,Jump Ball,,0,0,0,0,,,h
+S2425-G0016,1,09:25,HOU,9.0,LAC,2.0,A. Sengun,HOU,Sengun 9' Floating Jump Shot (2 PTS) (VanVleet 2 AST),Made Shot,Floating Jump shot,-36,82,9,1,2.0,2.0,h
+S2425-G0016,1,09:09,HOU,,LAC,,A. Sengun,HOU,Sengun BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0016,1,08:15,HOU,12.0,LAC,4.0,A. Sengun,HOU,Sengun 24' 3PT Jump Shot (5 PTS) (Brooks 1 AST),Made Shot,Jump Shot,-238,3,24,1,3.0,3.0,h
+S2425-G0016,1,07:57,HOU,,LAC,,A. Sengun,HOU,Sengun REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0016,1,07:50,HOU,13.0,LAC,4.0,A. Sengun,HOU,Sengun Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0016,1,07:50,HOU,14.0,LAC,4.0,A. Sengun,HOU,Sengun Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0016,1,06:39,HOU,,LAC,,A. Sengun,HOU,Sengun REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0016,1,04:18,HOU,,LAC,,A. Sengun,HOU,Sengun S.FOUL (P1.T4) (N.Sago),Foul,Shooting,0,0,0,0,,,h
+S2425-G0016,1,03:23,HOU,,LAC,,A. Sengun,HOU,SUB: Adams FOR Sengun,Substitution,,0,0,0,0,,,h
+S2425-G0016,2,07:55,HOU,,LAC,,A. Sengun,HOU,Sengun STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0016,2,06:08,HOU,,LAC,,A. Sengun,HOU,MISS Sengun Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,0.0,h
+S2425-G0016,2,06:08,HOU,41.0,LAC,30.0,A. Sengun,HOU,Sengun Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0016,2,04:39,HOU,,LAC,,A. Sengun,HOU,MISS Sengun 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,4,253,25,1,3.0,0.0,h
+S2425-G0016,2,03:44,HOU,,LAC,,A. Sengun,HOU,Sengun REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0016,2,00:57,HOU,58.0,LAC,41.0,A. Sengun,HOU,Sengun Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0016,2,00:57,HOU,59.0,LAC,41.0,A. Sengun,HOU,Sengun Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0016,2,00:43.200000,HOU,60.0,LAC,41.0,A. Sengun,HOU,Sengun Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0016,2,00:43.200000,HOU,61.0,LAC,41.0,A. Sengun,HOU,Sengun Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0016,3,11:20,HOU,,LAC,,A. Sengun,HOU,MISS Sengun 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,-2,91,9,1,2.0,0.0,h
+S2425-G0016,3,10:13,HOU,,LAC,,A. Sengun,HOU,Sengun REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0016,3,09:13,HOU,,LAC,,A. Sengun,HOU,MISS Sengun 16' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,10,160,16,1,2.0,0.0,h
+S2425-G0016,3,08:51,HOU,70.0,LAC,55.0,A. Sengun,HOU,Sengun 4' Driving Layup (14 PTS) (VanVleet 9 AST),Made Shot,Driving Layup Shot,26,34,4,1,2.0,2.0,h
+S2425-G0016,3,08:11,HOU,,LAC,,A. Sengun,HOU,MISS Sengun 7' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,22,62,7,1,2.0,0.0,h
+S2425-G0016,3,07:34,HOU,,LAC,,A. Sengun,HOU,Sengun REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0016,3,06:59,HOU,,LAC,,A. Sengun,HOU,Sengun REBOUND (Off:0 Def:6),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0016,3,05:42,HOU,,LAC,,A. Sengun,HOU,Sengun S.FOUL (P2.PN) (J.Capers),Foul,Shooting,0,0,0,0,,,h
+S2425-G0016,3,03:53,HOU,,LAC,,A. Sengun,HOU,Sengun STEAL (2 STL),,,0,0,0,0,,,h
+S2425-G0016,3,03:12,HOU,,LAC,,A. Sengun,HOU,MISS Sengun 25' 3PT Jump Shot,Missed Shot,Jump Shot,2,254,25,1,3.0,0.0,h
+S2425-G0016,3,02:55,HOU,,LAC,,A. Sengun,HOU,SUB: Smith Jr. FOR Sengun,Substitution,,0,0,0,0,,,h
+S2425-G0016,4,08:17,HOU,,LAC,,A. Sengun,HOU,Sengun Traveling Turnover (P1.T10),Turnover,Traveling,0,0,0,0,,,h
+S2425-G0016,4,07:44,HOU,,LAC,,A. Sengun,HOU,MISS Sengun 6' Driving Hook Shot,Missed Shot,Driving Hook Shot,-1,58,6,1,2.0,0.0,h
+S2425-G0016,4,06:49,HOU,,LAC,,A. Sengun,HOU,Sengun REBOUND (Off:0 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0016,4,05:35,HOU,,LAC,,A. Sengun,HOU,Sengun REBOUND (Off:1 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0016,4,05:26,HOU,,LAC,,A. Sengun,HOU,Sengun REBOUND (Off:2 Def:7),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0016,4,03:34,HOU,,LAC,,A. Sengun,HOU,Sengun BLOCK (2 BLK),,,0,0,0,0,,,h
+S2425-G0016,4,03:31,HOU,,LAC,,A. Sengun,HOU,Sengun REBOUND (Off:2 Def:8),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0016,4,03:06,HOU,118.0,LAC,92.0,A. Sengun,HOU,Sengun Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0016,4,03:06,HOU,119.0,LAC,92.0,A. Sengun,HOU,Sengun Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,0,0,0,0,1.0,1.0,h
+S2425-G0016,4,02:31,HOU,,LAC,,A. Sengun,HOU,SUB: McVeigh FOR Sengun,Substitution,,0,0,0,0,,,h
+S2425-G0173,1,12:00,HOU,,SAS,,A. Sengun,HOU,Jump Ball Sengun vs. Wembanyama: Tip to Ja. Green,Jump Ball,,0,0,0,0,,,h
+S2425-G0173,1,11:40,HOU,2.0,SAS,0.0,A. Sengun,HOU,Sengun 11' Jump Shot (2 PTS) (VanVleet 1 AST),Made Shot,Jump Shot,-107,34,11,1,2.0,2.0,h
+S2425-G0173,1,11:08,HOU,,SAS,,A. Sengun,HOU,MISS Sengun 3' Layup,Missed Shot,Layup Shot,32,5,3,1,2.0,0.0,h
+S2425-G0173,1,10:48,HOU,,SAS,,A. Sengun,HOU,Sengun Out of Bounds - Bad Pass Turnover Turnover (P1.T1),Turnover,Out of Bounds - Bad Pass Turnover,0,0,0,0,,,h
+S2425-G0173,1,09:43,HOU,,SAS,,A. Sengun,HOU,Sengun REBOUND (Off:0 Def:1),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0173,1,09:14,HOU,,SAS,,A. Sengun,HOU,Sengun STEAL (1 STL),,,0,0,0,0,,,h
+S2425-G0173,1,08:39,HOU,,SAS,,A. Sengun,HOU,MISS Sengun 26' 3PT Jump Shot,Missed Shot,Jump Shot,211,156,26,1,3.0,0.0,h
+S2425-G0173,1,08:36,HOU,,SAS,,A. Sengun,HOU,Sengun P.FOUL (P1.T1) (S.Mehta),Foul,Personal,0,0,0,0,,,h
+S2425-G0173,1,06:49,HOU,,SAS,,A. Sengun,HOU,MISS Sengun 4' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,-5,41,4,1,2.0,0.0,h
+S2425-G0173,1,06:12,HOU,11.0,SAS,6.0,A. Sengun,HOU,Sengun 3' Layup (4 PTS),Made Shot,Layup Shot,-23,25,3,1,2.0,2.0,h
+S2425-G0173,1,05:44,HOU,,SAS,,A. Sengun,HOU,MISS Sengun 1' Running Layup,Missed Shot,Running Layup Shot,-13,-4,1,1,2.0,0.0,h
+S2425-G0173,1,05:17,HOU,,SAS,,A. Sengun,HOU,Sengun REBOUND (Off:0 Def:2),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0173,1,04:13,HOU,,SAS,,A. Sengun,HOU,SUB: Landale FOR Sengun,Substitution,,0,0,0,0,,,h
+S2425-G0173,2,07:24,HOU,,SAS,,A. Sengun,HOU,Sengun BLOCK (1 BLK),,,0,0,0,0,,,h
+S2425-G0173,2,07:05,HOU,43.0,SAS,26.0,A. Sengun,HOU,Sengun 6' Cutting Layup Shot (6 PTS) (VanVleet 3 AST),Made Shot,Cutting Layup Shot,22,51,6,1,2.0,2.0,h
+S2425-G0173,2,07:05,HOU,,SAS,,A. Sengun,HOU,MISS Sengun Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,0,0,0,0,1.0,0.0,h
+S2425-G0173,2,06:49,HOU,,SAS,,A. Sengun,HOU,Sengun REBOUND (Off:0 Def:3),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0173,2,05:34,HOU,,SAS,,A. Sengun,HOU,MISS Sengun 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,53,59,8,1,2.0,0.0,h
+S2425-G0173,2,05:01,HOU,48.0,SAS,28.0,A. Sengun,HOU,Sengun 2' Layup (8 PTS) (VanVleet 4 AST),Made Shot,Layup Shot,1,20,2,1,2.0,2.0,h
+S2425-G0173,2,04:13,HOU,,SAS,,A. Sengun,HOU,Sengun REBOUND (Off:0 Def:4),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0173,2,03:50,HOU,,SAS,,A. Sengun,HOU,MISS Sengun 19' Jump Shot,Missed Shot,Jump Shot,-92,171,19,1,2.0,0.0,h
+S2425-G0173,2,01:33,HOU,,SAS,,A. Sengun,HOU,Sengun REBOUND (Off:0 Def:5),Rebound,Unknown,0,0,0,0,,,h
+S2425-G0173,2,00:06.100000,HOU,63.0,SAS,38.0,A. Sengun,HOU,Sengun 3' Driving Layup (10 PTS) (VanVleet 6 AST),Made Shot,Driving Layup Shot,10,26,3,1,2.0,2.0,h
+S2425-G0173,3,09:26,HOU,,SAS,,A. Sengun,HOU,MISS Sengun 7' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,11,69,7,1,2.0,0.0,h
+S2425-G0173,3,07:51,HOU,73.0,SAS,51.0,A. Sengun,HOU,Sengun 3' Cutting Layup Shot (12 PTS) (VanVleet 8 AST),Made Shot,Cutting Layup Shot,21,25,3,1,2.0,2.0,h
+S2425-G0173,3,07:03,HOU,,SAS,,A. Sengun,HOU,Sengun BLOCK (2 BLK),,,0,0,0,0,,,h
+S2425-G0173,3,06:48,HOU,77.0,SAS,53.0,A. Sengun,HOU,Sengun 3' Driving Finger Roll Layup (14 PTS),Made Shot,Driving Finger Roll Layup Shot,16,29,3,1,2.0,2.0,h
+S2425-G0173,3,04:07,HOU,83.0,SAS,61.0,A. Sengun,HOU,Sengun 16' Jump Shot (16 PTS) (VanVleet 9 AST),Made Shot,Jump Shot,93,134,16,1,2.0,2.0,h
+S2425-G0173,3,03:26,HOU,,SAS,,A. Sengun,HOU,SUB: Landale FOR Sengun,Substitution,,0,0,0,0,,,h
