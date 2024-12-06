@@ -9,7 +9,6 @@ import pandas as pd
 import sys
 
 
-
 # Function loops over every file in the list and converts it into a dataframe
 # and adds the game id to the dataframe as a column titled 'game_id'
 def load_game(files, season):
@@ -220,7 +219,7 @@ def save_by_team(fp, season = "S2425"):
 
 if __name__ == '__main__':
     # Create a list of all the files in the folder 'data/raw'
-    season = "S2425"
+    season = "S2024"
 
     if len(sys.argv) > 1:
         season = sys.argv[1]
