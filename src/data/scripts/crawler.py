@@ -28,7 +28,7 @@ HEADERS = {
     }
 
 # Export directory path
-EXPORT_PATH = "../../data/raw/S2425/"
+EXPORT_PATH = "../raw"
 
 def get_urls(season):
   """
@@ -98,7 +98,7 @@ def get_json(soup):
     return None
 
 
-def save_json(json_obj, game_num):
+def save_json(json_obj, fp):
   """
   Function to save the JSON object to a file
 
@@ -108,13 +108,33 @@ def save_json(json_obj, game_num):
 
   """
   try:
-    fp = EXPORT_PATH + "S2425-G" + "{0:0=4d}".format(game_num) + ".json"
     with open(fp, 'w') as f:
       json.dump(json_obj, f, indent=4)
   except:
-    print(f"Error: Could not save JSON object to file with code {game_num}")
+    print(f"Error: Could not save JSON object to file with code {fp}")
     return None
 
+
+def export_game_url(game_url, fp):
+  """
+  Function to export the JSON object of a game to a file
+
+  Args:
+    url (string): Game URL to export
+
+  """
+  try:
+    url = game_url + '/game-charts'
+    print(f"Exporting from: {url}")
+    soup = get_soup(url)
+    time.sleep(random.randint(1, 2))
+    json_obj = get_json(soup)
+    out = f"{EXPORT_PATH}/{fp}/{game_url[-10:]}.json"
+    save_json(json_obj, out)
+    print(f"Saved JSON object for: {url}")
+  except:
+    print(f"Error: Could not export: {url}")
+    return game_url
 
 def export_game(game_num):
   """
