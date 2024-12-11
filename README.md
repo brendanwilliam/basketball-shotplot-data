@@ -11,8 +11,8 @@ As this project is extensive, I will be providing updates in phases. *The follow
 
 | Status | Phase | Description |
 | -------- | -------- | -------- |
-| **In progress (12/7/24)** | Gather all game URLs | Get all regular season and playoff game URLs. These will be used when exporting the raw JSON data from nba.com. |
-| *Not started* | Gather all play-by-play JSONs | Get all regular season and playoff JSONs. These will be used to create CSVs representing play-by-play data. |
+| Finished (12/11/24) | Gather all game URLs | Get all regular season and playoff game URLs. These will be used when exporting the raw JSON data from nba.com. |
+| **In Progress (12/11/24)** | Gather all play-by-play JSONs | Get all regular season and playoff JSONs. These will be used to create CSVs representing play-by-play data. |
 | *Not started* | Generate play-by-play CSVs for each season | Use play-by-play JSONs to generate CSVs for every season. Since each season can contain around 600K plays, each season will be its own file to make future data analysis more manageable. |
 | *Not started* | Generate CSVs for players, teams, and more | Use existing CSVs to generate smaller CSVs for the most commonly searched metadata (ie. season, team, opponent, player, etc). |
 | *Not started* | Create Dash apps | Explore the data collected through Dash apps that will be available to the public. |
